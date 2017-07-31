@@ -49,8 +49,8 @@ END:VCALENDAR</xsl:text>
 BEGIN:VEVENT
 UID:<xsl:value-of select="generate-id(.)"/>@embargoes.oecd.org
 SUMMARY:<xsl:value-of select="local:split-by-char($summary)"/>
-DESCRIPTION:<xsl:value-of select="local:split-by-char($description)"/><xsl:text>
-</xsl:text>DTSTAMP:<xsl:value-of select="format-dateTime(current-dateTime(), '[Y0001][M01][D01]T[h01][m01][s01]Z')"/>
+DESCRIPTION:<xsl:value-of select="local:split-by-char($description)"/>
+DTSTAMP:<xsl:value-of select="format-dateTime(current-dateTime(), '[Y0001][M01][D01]T[h01][m01][s01]Z')"/>
 DTSTART:<xsl:value-of select="$start-time"/>
 DTEND:<xsl:value-of select="$end-time"/>
 TRANSP:TRANSPARENT
