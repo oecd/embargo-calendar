@@ -47,10 +47,10 @@ END:VCALENDAR</xsl:text>
                 '[Y0001][M01][D01]T[h01][m01][s01]Z'
         )"/>
 BEGIN:VEVENT
-UID:no-reply@embargoes.oecd.org
+UID:<xsl:value-of select="generate-id(.)"/>@embargoes.oecd.org
 SUMMARY:<xsl:value-of select="local:split-by-char($summary)"/>
-DESCRIPTION:<xsl:value-of select="local:split-by-char($description)"/>
-DTSTAMP:<xsl:value-of select="format-dateTime(current-dateTime(), '[Y0001][M01][D01]T[h01][m01][s01]Z')"/>
+DESCRIPTION:<xsl:value-of select="local:split-by-char($description)"/><xsl:text>
+</xsl:text>DTSTAMP:<xsl:value-of select="format-dateTime(current-dateTime(), '[Y0001][M01][D01]T[h01][m01][s01]Z')"/>
 DTSTART:<xsl:value-of select="$start-time"/>
 DTEND:<xsl:value-of select="$end-time"/>
 TRANSP:TRANSPARENT
@@ -69,7 +69,6 @@ END:VEVENT
     <xsl:function name="local:split-by-char">
         <xsl:param name="string"/>
         <xsl:variable name="char" select="40"/>
-        
         <xsl:for-each select="0 to (string-length($string) - 1) idiv $char">
             <xsl:value-of select="concat(substring($string, . * $char + 1, $char), '&#xd;&#xa;&#032;')" disable-output-escaping="yes"/>
         </xsl:for-each>
