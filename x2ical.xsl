@@ -16,7 +16,7 @@
         <xsl:text disable-output-escaping="yes">VERSION:2.0&#xd;&#xa;</xsl:text>
         <xsl:text disable-output-escaping="yes">PRODID:-//OECD//NONSGML v1.0//EN&#xd;&#xa;</xsl:text>
 
-        <xsl:apply-templates select="row">
+        <xsl:apply-templates select="row[@index!=0]">
             <xsl:sort select="position()" data-type="number" order="descending"/>
         </xsl:apply-templates>
 
