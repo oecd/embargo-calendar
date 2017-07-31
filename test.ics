@@ -6,10 +6,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:VAT revenues as a share of GDP in LAC co
  untries and OECD average in 2014 (en)
-
 DESCRIPTION:VAT revenues as a share of GDP in LAC co
  untries and OECD average in 2014 (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -18,11 +16,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: VAT revenues as a share of GDP
+ACTION:DISPLAYDESCRIPTION:Reminder: VAT revenues as a share of GDP
   in LAC countries and OECD average in 20
  14 (en)
-
 END:VALARM
 END:VEVENT
 
@@ -30,10 +26,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:VAT revenue ratios in LAC countries and
  OECD average in 2014 (en)
-
 DESCRIPTION:VAT revenue ratios in LAC countries and
  OECD average in 2014 (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -42,10 +36,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: VAT revenue ratios in LAC coun
+ACTION:DISPLAYDESCRIPTION:Reminder: VAT revenue ratios in LAC coun
  tries and OECD average in 2014 (en)
-
 END:VALARM
 END:VEVENT
 
@@ -53,10 +45,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Using tax policy to address Costa Rica's
   domestic environmental challenges (en)
-
 DESCRIPTION:Using tax policy to address Costa Rica's
   domestic environmental challenges (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -65,11 +55,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Using tax policy to address Co
+ACTION:DISPLAYDESCRIPTION:Reminder: Using tax policy to address Co
  sta Rica's domestic environmental challe
  nges (en)
-
 END:VALARM
 END:VEVENT
 
@@ -77,10 +65,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Unemployment rates, international compar
  ison (en)
-
 DESCRIPTION:Unemployment rates, international compar
  ison (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -89,10 +75,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Unemployment rates, internatio
+ACTION:DISPLAYDESCRIPTION:Reminder: Unemployment rates, internatio
  nal comparison (en)
-
 END:VALARM
 END:VEVENT
 
@@ -102,12 +86,10 @@ SUMMARY:Umbrales sobre los cuales los individuos
   empiezan a pagar el IRPF, medidos como
  múltiplo del salario promedio en USD en
  2013 (es)
-
 DESCRIPTION:Umbrales sobre los cuales los individuos
   empiezan a pagar el IRPF, medidos como
  múltiplo del salario promedio en USD en
  2013 (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -116,12 +98,10 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Umbrales sobre los cuales los
+ACTION:DISPLAYDESCRIPTION:Reminder: Umbrales sobre los cuales los
  individuos empiezan a pagar el IRPF, med
  idos como múltiplo del salario promedio
  en USD en 2013 (es)
-
 END:VALARM
 END:VEVENT
 
@@ -129,10 +109,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Top statutory PIT rates in LAC countries
   in 2016 (en)
-
 DESCRIPTION:Top statutory PIT rates in LAC countries
   in 2016 (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -141,10 +119,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Top statutory PIT rates in LAC
+ACTION:DISPLAYDESCRIPTION:Reminder: Top statutory PIT rates in LAC
   countries in 2016 (en)
-
 END:VALARM
 END:VEVENT
 
@@ -152,10 +128,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Top statutory PIT rates in Costa Rica an
  d OECD countries in 2015 (en)
-
 DESCRIPTION:Top statutory PIT rates in Costa Rica an
  d OECD countries in 2015 (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -164,10 +138,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Top statutory PIT rates in Cos
+ACTION:DISPLAYDESCRIPTION:Reminder: Top statutory PIT rates in Cos
  ta Rica and OECD countries in 2015 (en)
-
 END:VALARM
 END:VEVENT
 
@@ -175,10 +147,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Top statutory PIT rates and income level
  s levied in LAC countries (en)
-
 DESCRIPTION:Top statutory PIT rates and income level
  s levied in LAC countries (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -187,10 +157,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Top statutory PIT rates and in
+ACTION:DISPLAYDESCRIPTION:Reminder: Top statutory PIT rates and in
  come levels levied in LAC countries (en)
-
 END:VALARM
 END:VEVENT
 
@@ -202,14 +170,12 @@ SUMMARY:Theoretical formality costs as a % of wo
  ) and theoretical formality costs for wo
  rkers in the lowest income decile (Panel
   B) (en)
-
 DESCRIPTION:Theoretical formality costs as a % of wo
  rkers' actual wages and informality rate
  s for dependent workers in 2013 (Panel A
  ) and theoretical formality costs for wo
  rkers in the lowest income decile (Panel
   B) (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -218,14 +184,12 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Theoretical formality costs as
+ACTION:DISPLAYDESCRIPTION:Reminder: Theoretical formality costs as
   a % of workers' actual wages and inform
  ality rates for dependent workers in 201
  3 (Panel A) and theoretical formality co
  sts for workers in the lowest income dec
  ile (Panel B) (en)
-
 END:VALARM
 END:VEVENT
 
@@ -233,10 +197,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:The Chilean vehicle tax is lower for cle
  aner and cheaper vehicles (en)
-
 DESCRIPTION:The Chilean vehicle tax is lower for cle
  aner and cheaper vehicles (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -245,10 +207,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: The Chilean vehicle tax is low
+ACTION:DISPLAYDESCRIPTION:Reminder: The Chilean vehicle tax is low
  er for cleaner and cheaper vehicles (en)
-
 END:VALARM
 END:VEVENT
 
@@ -256,10 +216,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Tax to GDP ratio, Costa Rica, OECD and L
  AC countries (en)
-
 DESCRIPTION:Tax to GDP ratio, Costa Rica, OECD and L
  AC countries (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -268,10 +226,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Tax to GDP ratio, Costa Rica,
+ACTION:DISPLAYDESCRIPTION:Reminder: Tax to GDP ratio, Costa Rica,
  OECD and LAC countries (en)
-
 END:VALARM
 END:VEVENT
 
@@ -279,10 +235,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Tax to GDP ratio in LAC region per count
  ry (2015) (en)
-
 DESCRIPTION:Tax to GDP ratio in LAC region per count
  ry (2015) (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -291,10 +245,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Tax to GDP ratio in LAC region
+ACTION:DISPLAYDESCRIPTION:Reminder: Tax to GDP ratio in LAC region
   per country (2015) (en)
-
 END:VALARM
 END:VEVENT
 
@@ -302,10 +254,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Tax mix as a % of total revenues (2014)
  (en)
-
 DESCRIPTION:Tax mix as a % of total revenues (2014)
  (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -314,19 +264,15 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Tax mix as a % of total revenu
+ACTION:DISPLAYDESCRIPTION:Reminder: Tax mix as a % of total revenu
  es (2014) (en)
-
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Tax expenditure as a % of GDP (en)
-
 DESCRIPTION:Tax expenditure as a % of GDP (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -335,10 +281,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Tax expenditure as a % of GDP
+ACTION:DISPLAYDESCRIPTION:Reminder: Tax expenditure as a % of GDP
  (en)
-
 END:VALARM
 END:VEVENT
 
@@ -346,10 +290,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Tasas de desempleo, comparación internac
  ional (es)
-
 DESCRIPTION:Tasas de desempleo, comparación internac
  ional (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -358,10 +300,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Tasas de desempleo, comparació
+ACTION:DISPLAYDESCRIPTION:Reminder: Tasas de desempleo, comparació
  n internacional (es)
-
 END:VALARM
 END:VEVENT
 
@@ -370,11 +310,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Tarifas máximas legales del IRPF y nivel
  es de ingresos gravados en los países de
   la región de ALC (es)
-
 DESCRIPTION:Tarifas máximas legales del IRPF y nivel
  es de ingresos gravados en los países de
   la región de ALC (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -383,11 +321,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Tarifas máximas legales del IR
+ACTION:DISPLAYDESCRIPTION:Reminder: Tarifas máximas legales del IR
  PF y niveles de ingresos gravados en los
   países de la región de ALC (es)
-
 END:VALARM
 END:VEVENT
 
@@ -395,10 +331,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Tarifas estándar del IVA en países de la
   OCDE y Costa Rica en 2016 (es)
-
 DESCRIPTION:Tarifas estándar del IVA en países de la
   OCDE y Costa Rica en 2016 (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -407,11 +341,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Tarifas estándar del IVA en pa
+ACTION:DISPLAYDESCRIPTION:Reminder: Tarifas estándar del IVA en pa
  íses de la OCDE y Costa Rica en 2016 (es
  )
-
 END:VALARM
 END:VEVENT
 
@@ -420,11 +352,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Tarifas estándar del IVA en países de Am
  érica Central y América del Sur en 2016
  (es)
-
 DESCRIPTION:Tarifas estándar del IVA en países de Am
  érica Central y América del Sur en 2016
  (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -433,11 +363,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Tarifas estándar del IVA en pa
+ACTION:DISPLAYDESCRIPTION:Reminder: Tarifas estándar del IVA en pa
  íses de América Central y América del Su
  r en 2016 (es)
-
 END:VALARM
 END:VEVENT
 
@@ -445,10 +373,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Tarifa máxima legal del IRPF en los país
  es de la región de ALC en 2016 (es)
-
 DESCRIPTION:Tarifa máxima legal del IRPF en los país
  es de la región de ALC en 2016 (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -457,11 +383,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Tarifa máxima legal del IRPF e
+ACTION:DISPLAYDESCRIPTION:Reminder: Tarifa máxima legal del IRPF e
  n los países de la región de ALC en 2016
   (es)
-
 END:VALARM
 END:VEVENT
 
@@ -470,11 +394,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Tarifa máxima legal del IRPF en Costa Ri
  ca y los Estados miembros de la OCDE en
  2015 (es)
-
 DESCRIPTION:Tarifa máxima legal del IRPF en Costa Ri
  ca y los Estados miembros de la OCDE en
  2015 (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -483,11 +405,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Tarifa máxima legal del IRPF e
+ACTION:DISPLAYDESCRIPTION:Reminder: Tarifa máxima legal del IRPF e
  n Costa Rica y los Estados miembros de l
  a OCDE en 2015 (es)
-
 END:VALARM
 END:VEVENT
 
@@ -495,10 +415,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Strengthening the role of the personal i
  ncome tax in Costa Rica (en)
-
 DESCRIPTION:Strengthening the role of the personal i
  ncome tax in Costa Rica (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -507,10 +425,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Strengthening the role of the
+ACTION:DISPLAYDESCRIPTION:Reminder: Strengthening the role of the
  personal income tax in Costa Rica (en)
-
 END:VALARM
 END:VEVENT
 
@@ -518,10 +434,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Standard VAT rates in OECD countries and
   Costa Rica in 2016 (en)
-
 DESCRIPTION:Standard VAT rates in OECD countries and
   Costa Rica in 2016 (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -530,10 +444,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Standard VAT rates in OECD cou
+ACTION:DISPLAYDESCRIPTION:Reminder: Standard VAT rates in OECD cou
  ntries and Costa Rica in 2016 (en)
-
 END:VALARM
 END:VEVENT
 
@@ -541,10 +453,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Standard VAT rates in Central and South
  American countries in 2016 (en)
-
 DESCRIPTION:Standard VAT rates in Central and South
  American countries in 2016 (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -553,11 +463,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Standard VAT rates in Central
+ACTION:DISPLAYDESCRIPTION:Reminder: Standard VAT rates in Central
  and South American countries in 2016 (en
  )
-
 END:VALARM
 END:VEVENT
 
@@ -565,10 +473,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:SSCs as a share of total tax revenues in
   2014 (en)
-
 DESCRIPTION:SSCs as a share of total tax revenues in
   2014 (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -577,10 +483,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: SSCs as a share of total tax r
+ACTION:DISPLAYDESCRIPTION:Reminder: SSCs as a share of total tax r
  evenues in 2014 (en)
-
 END:VALARM
 END:VEVENT
 
@@ -589,11 +493,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Share of taxpayers declaring zero income
   tax in different liberal professions in
   2015 (en)
-
 DESCRIPTION:Share of taxpayers declaring zero income
   tax in different liberal professions in
   2015 (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -602,11 +504,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Share of taxpayers declaring z
+ACTION:DISPLAYDESCRIPTION:Reminder: Share of taxpayers declaring z
  ero income tax in different liberal prof
  essions in 2015 (en)
-
 END:VALARM
 END:VEVENT
 
@@ -614,10 +514,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Revenues from environmentally related ta
  xes as a % of GDP (en)
-
 DESCRIPTION:Revenues from environmentally related ta
  xes as a % of GDP (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -626,19 +524,15 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Revenues from environmentally
+ACTION:DISPLAYDESCRIPTION:Reminder: Revenues from environmentally
  related taxes as a % of GDP (en)
-
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Resumen ejecutivo (es)
-
 DESCRIPTION:Resumen ejecutivo (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -647,9 +541,7 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Resumen ejecutivo (es)
-
+ACTION:DISPLAYDESCRIPTION:Reminder: Resumen ejecutivo (es)
 END:VALARM
 END:VEVENT
 
@@ -658,11 +550,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Relación de ingresos tributarios y el PI
  B en la región de ALC por países (2015)
  (es)
-
 DESCRIPTION:Relación de ingresos tributarios y el PI
  B en la región de ALC por países (2015)
  (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -671,11 +561,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Relación de ingresos tributari
+ACTION:DISPLAYDESCRIPTION:Reminder: Relación de ingresos tributari
  os y el PIB en la región de ALC por país
  es (2015) (es)
-
 END:VALARM
 END:VEVENT
 
@@ -684,11 +572,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Relación de ingresos tributarios y el PI
  B en Costa Rica, países de la OCDE y paí
  ses de ALC (es)
-
 DESCRIPTION:Relación de ingresos tributarios y el PI
  B en Costa Rica, países de la OCDE y paí
  ses de ALC (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -697,11 +583,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Relación de ingresos tributari
+ACTION:DISPLAYDESCRIPTION:Reminder: Relación de ingresos tributari
  os y el PIB en Costa Rica, países de la
  OCDE y países de ALC (es)
-
 END:VALARM
 END:VEVENT
 
@@ -709,10 +593,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Reforming the corporate tax system in Co
  sta Rica (en)
-
 DESCRIPTION:Reforming the corporate tax system in Co
  sta Rica (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -721,10 +603,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Reforming the corporate tax sy
+ACTION:DISPLAYDESCRIPTION:Reminder: Reforming the corporate tax sy
  stem in Costa Rica (en)
-
 END:VALARM
 END:VEVENT
 
@@ -732,10 +612,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Reformando el sistema tributario de las
  empresas en Costa Rica (es)
-
 DESCRIPTION:Reformando el sistema tributario de las
  empresas en Costa Rica (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -744,10 +622,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Reformando el sistema tributar
+ACTION:DISPLAYDESCRIPTION:Reminder: Reformando el sistema tributar
  io de las empresas en Costa Rica (es)
-
 END:VALARM
 END:VEVENT
 
@@ -756,11 +632,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Reduction in income inequality due to di
  rect taxes and cash benefits in 2013 (en
  )
-
 DESCRIPTION:Reduction in income inequality due to di
  rect taxes and cash benefits in 2013 (en
  )
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -769,11 +643,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Reduction in income inequality
+ACTION:DISPLAYDESCRIPTION:Reminder: Reduction in income inequality
   due to direct taxes and cash benefits i
  n 2013 (en)
-
 END:VALARM
 END:VEVENT
 
@@ -782,11 +654,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Reducción de la desigualdad de los ingre
  sos debido a impuestos directos y presta
  ciones en efectivo en 2013 (es)
-
 DESCRIPTION:Reducción de la desigualdad de los ingre
  sos debido a impuestos directos y presta
  ciones en efectivo en 2013 (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -795,12 +665,10 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Reducción de la desigualdad de
+ACTION:DISPLAYDESCRIPTION:Reminder: Reducción de la desigualdad de
   los ingresos debido a impuestos directo
  s y prestaciones en efectivo en 2013 (es
  )
-
 END:VALARM
 END:VEVENT
 
@@ -808,10 +676,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Recaudo de IS expresado como porcentaje
  del PIB, 2014 (es)
-
 DESCRIPTION:Recaudo de IS expresado como porcentaje
  del PIB, 2014 (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -820,10 +686,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Recaudo de IS expresado como p
+ACTION:DISPLAYDESCRIPTION:Reminder: Recaudo de IS expresado como p
  orcentaje del PIB, 2014 (es)
-
 END:VALARM
 END:VEVENT
 
@@ -832,11 +696,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Recaudación del IVA como proporción del
  PIB en los países de ALC y la OCDE, prom
  edio de 2014 (es)
-
 DESCRIPTION:Recaudación del IVA como proporción del
  PIB en los países de ALC y la OCDE, prom
  edio de 2014 (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -845,11 +707,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Recaudación del IVA como propo
+ACTION:DISPLAYDESCRIPTION:Reminder: Recaudación del IVA como propo
  rción del PIB en los países de ALC y la
  OCDE, promedio de 2014 (es)
-
 END:VALARM
 END:VEVENT
 
@@ -857,10 +717,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Ratios de pagos netos de unidades famili
  ares con y sin hijos (%) en 2015 (es)
-
 DESCRIPTION:Ratios de pagos netos de unidades famili
  ares con y sin hijos (%) en 2015 (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -869,11 +727,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Ratios de pagos netos de unida
+ACTION:DISPLAYDESCRIPTION:Reminder: Ratios de pagos netos de unida
  des familiares con y sin hijos (%) en 20
  15 (es)
-
 END:VALARM
 END:VEVENT
 
@@ -881,10 +737,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Ratio of consumption between the top 20%
   incomes and the lowest 40% incomes (en)
-
 DESCRIPTION:Ratio of consumption between the top 20%
   incomes and the lowest 40% incomes (en)
-
 
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
@@ -894,11 +748,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Ratio of consumption between t
+ACTION:DISPLAYDESCRIPTION:Reminder: Ratio of consumption between t
  he top 20% incomes and the lowest 40% in
  comes (en)
-
 END:VALARM
 END:VEVENT
 
@@ -907,11 +759,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Ratio de recaudación por concepto de IVA
   en países de ALC y la OCDE, promedio de
   2014 (es)
-
 DESCRIPTION:Ratio de recaudación por concepto de IVA
   en países de ALC y la OCDE, promedio de
   2014 (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -920,11 +770,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Ratio de recaudación por conce
+ACTION:DISPLAYDESCRIPTION:Reminder: Ratio de recaudación por conce
  pto de IVA en países de ALC y la OCDE, p
  romedio de 2014 (es)
-
 END:VALARM
 END:VEVENT
 
@@ -934,12 +782,10 @@ SUMMARY:Ratio de consumo entre el 20% del segmen
  to superior de la distribución de los in
  gresos y el 40% del segmento inferior (e
  s)
-
 DESCRIPTION:Ratio de consumo entre el 20% del segmen
  to superior de la distribución de los in
  gresos y el 40% del segmento inferior (e
  s)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -948,12 +794,10 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Ratio de consumo entre el 20%
+ACTION:DISPLAYDESCRIPTION:Reminder: Ratio de consumo entre el 20%
  del segmento superior de la distribución
   de los ingresos y el 40% del segmento i
  nferior (es)
-
 END:VALARM
 END:VEVENT
 
@@ -961,10 +805,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Putting in place a modern VAT system in
  Costa Rica (en)
-
 DESCRIPTION:Putting in place a modern VAT system in
  Costa Rica (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -973,19 +815,15 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Putting in place a modern VAT
+ACTION:DISPLAYDESCRIPTION:Reminder: Putting in place a modern VAT
  system in Costa Rica (en)
-
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Public debt as a percentage of GDP (en)
-
 DESCRIPTION:Public debt as a percentage of GDP (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -994,10 +832,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Public debt as a percentage of
+ACTION:DISPLAYDESCRIPTION:Reminder: Public debt as a percentage of
   GDP (en)
-
 END:VALARM
 END:VEVENT
 
@@ -1005,10 +841,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Public debt as a % of government revenue
  s — Costa Rica and LAC countries (en)
-
 DESCRIPTION:Public debt as a % of government revenue
  s — Costa Rica and LAC countries (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1017,11 +851,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Public debt as a % of governme
+ACTION:DISPLAYDESCRIPTION:Reminder: Public debt as a % of governme
  nt revenues — Costa Rica and LAC countri
  es (en)
-
 END:VALARM
 END:VEVENT
 
@@ -1030,11 +862,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Proporción de contribuyentes que declara
  ron un IRPF igual a 0 en diferentes prof
  esiones liberales en 2015 (es)
-
 DESCRIPTION:Proporción de contribuyentes que declara
  ron un IRPF igual a 0 en diferentes prof
  esiones liberales en 2015 (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1043,20 +873,16 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Proporción de contribuyentes q
+ACTION:DISPLAYDESCRIPTION:Reminder: Proporción de contribuyentes q
  ue declararon un IRPF igual a 0 en difer
  entes profesiones liberales en 2015 (es)
-
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Prólogo (es)
-
 DESCRIPTION:Prólogo (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1065,9 +891,7 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Prólogo (es)
-
+ACTION:DISPLAYDESCRIPTION:Reminder: Prólogo (es)
 END:VALARM
 END:VEVENT
 
@@ -1075,10 +899,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:PIT as a share of total tax revenues in
  2014 (en)
-
 DESCRIPTION:PIT as a share of total tax revenues in
  2014 (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1087,10 +909,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: PIT as a share of total tax re
+ACTION:DISPLAYDESCRIPTION:Reminder: PIT as a share of total tax re
  venues in 2014 (en)
-
 END:VALARM
 END:VEVENT
 
@@ -1099,11 +919,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:PIB per cápita en términos de paridad de
  l poder adquisitivo (PPA) (USD internaci
  onales actuales) (es)
-
 DESCRIPTION:PIB per cápita en términos de paridad de
  l poder adquisitivo (PPA) (USD internaci
  onales actuales) (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1112,11 +930,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: PIB per cápita en términos de
+ACTION:DISPLAYDESCRIPTION:Reminder: PIB per cápita en términos de
  paridad del poder adquisitivo (PPA) (USD
   internacionales actuales) (es)
-
 END:VALARM
 END:VEVENT
 
@@ -1125,11 +941,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Perspectiva general de los desafíos fisc
  ales y de la política tributaria en Cost
  a Rica (es)
-
 DESCRIPTION:Perspectiva general de los desafíos fisc
  ales y de la política tributaria en Cost
  a Rica (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1138,11 +952,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Perspectiva general de los des
+ACTION:DISPLAYDESCRIPTION:Reminder: Perspectiva general de los des
  afíos fiscales y de la política tributar
  ia en Costa Rica (es)
-
 END:VALARM
 END:VEVENT
 
@@ -1151,11 +963,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Percentage change in VAT payments across
   income deciles with and without transfe
  rs (en)
-
 DESCRIPTION:Percentage change in VAT payments across
   income deciles with and without transfe
  rs (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1164,11 +974,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Percentage change in VAT payme
+ACTION:DISPLAYDESCRIPTION:Reminder: Percentage change in VAT payme
  nts across income deciles with and witho
  ut transfers (en)
-
 END:VALARM
 END:VEVENT
 
@@ -1176,10 +984,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Percentage change in GDP per capita, Cos
  ta Rica, LAC and OECD (en)
-
 DESCRIPTION:Percentage change in GDP per capita, Cos
  ta Rica, LAC and OECD (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1188,10 +994,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Percentage change in GDP per c
+ACTION:DISPLAYDESCRIPTION:Reminder: Percentage change in GDP per c
  apita, Costa Rica, LAC and OECD (en)
-
 END:VALARM
 END:VEVENT
 
@@ -1199,10 +1003,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Overview of Costa Rica's fiscal and tax
  policy challenges (en)
-
 DESCRIPTION:Overview of Costa Rica's fiscal and tax
  policy challenges (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1211,10 +1013,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Overview of Costa Rica's fisca
+ACTION:DISPLAYDESCRIPTION:Reminder: Overview of Costa Rica's fisca
  l and tax policy challenges (en)
-
 END:VALARM
 END:VEVENT
 
@@ -1222,10 +1022,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:OECD Tax Policy Reviews: Costa Rica 2017
   (en)
-
 DESCRIPTION:OECD Tax Policy Reviews: Costa Rica 2017
   (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1234,10 +1032,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Tax Policy Reviews: Costa
+ACTION:DISPLAYDESCRIPTION:Reminder: OECD Tax Policy Reviews: Costa
   Rica 2017 (en)
-
 END:VALARM
 END:VEVENT
 
@@ -1245,10 +1041,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:OECD Tax Policy Reviews: Costa Rica 2017
   (en)
-
 DESCRIPTION:OECD Tax Policy Reviews: Costa Rica 2017
   (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1257,10 +1051,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Tax Policy Reviews: Costa
+ACTION:DISPLAYDESCRIPTION:Reminder: OECD Tax Policy Reviews: Costa
   Rica 2017 (en)
-
 END:VALARM
 END:VEVENT
 
@@ -1269,11 +1061,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Net take-home pay ratios between a house
  hold with and without children (%) in 20
  15 (en)
-
 DESCRIPTION:Net take-home pay ratios between a house
  hold with and without children (%) in 20
  15 (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1282,11 +1072,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Net take-home pay ratios betwe
+ACTION:DISPLAYDESCRIPTION:Reminder: Net take-home pay ratios betwe
  en a household with and without children
   (%) in 2015 (en)
-
 END:VALARM
 END:VEVENT
 
@@ -1295,11 +1083,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Marginal tax wedge across earnings level
  s expressed as a % of the average wage i
  n 2016 (en)
-
 DESCRIPTION:Marginal tax wedge across earnings level
  s expressed as a % of the average wage i
  n 2016 (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1308,11 +1094,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Marginal tax wedge across earn
+ACTION:DISPLAYDESCRIPTION:Reminder: Marginal tax wedge across earn
  ings levels expressed as a % of the aver
  age wage in 2016 (en)
-
 END:VALARM
 END:VEVENT
 
@@ -1320,10 +1104,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:IRPF como parte de la recaudación tribut
  aria total en 2014 (es)
-
 DESCRIPTION:IRPF como parte de la recaudación tribut
  aria total en 2014 (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1332,10 +1114,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: IRPF como parte de la recaudac
+ACTION:DISPLAYDESCRIPTION:Reminder: IRPF como parte de la recaudac
  ión tributaria total en 2014 (es)
-
 END:VALARM
 END:VEVENT
 
@@ -1343,10 +1123,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:International comparison of inequality (
  en)
-
 DESCRIPTION:International comparison of inequality (
  en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1355,10 +1133,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: International comparison of in
+ACTION:DISPLAYDESCRIPTION:Reminder: International comparison of in
  equality (en)
-
 END:VALARM
 END:VEVENT
 
@@ -1366,10 +1142,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Ingresos por impuestos ambientales como
  porcentaje del PIB (es)
-
 DESCRIPTION:Ingresos por impuestos ambientales como
  porcentaje del PIB (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1378,10 +1152,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Ingresos por impuestos ambient
+ACTION:DISPLAYDESCRIPTION:Reminder: Ingresos por impuestos ambient
  ales como porcentaje del PIB (es)
-
 END:VALARM
 END:VEVENT
 
@@ -1391,12 +1163,10 @@ SUMMARY:Income thresholds at which single indivi
  duals start paying income tax, measured
  as a multiple of the average wage in USD
  , in 2013 (en)
-
 DESCRIPTION:Income thresholds at which single indivi
  duals start paying income tax, measured
  as a multiple of the average wage in USD
  , in 2013 (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1405,21 +1175,17 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Income thresholds at which sin
+ACTION:DISPLAYDESCRIPTION:Reminder: Income thresholds at which sin
  gle individuals start paying income tax,
   measured as a multiple of the average w
  age in USD, in 2013 (en)
-
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Government debt as a % of GDP (en)
-
 DESCRIPTION:Government debt as a % of GDP (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1428,10 +1194,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Government debt as a % of GDP
+ACTION:DISPLAYDESCRIPTION:Reminder: Government debt as a % of GDP
  (en)
-
 END:VALARM
 END:VEVENT
 
@@ -1439,10 +1203,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:GDP per capita in PPP (current internati
  onal USD) (en)
-
 DESCRIPTION:GDP per capita in PPP (current internati
  onal USD) (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1451,10 +1213,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: GDP per capita in PPP (current
+ACTION:DISPLAYDESCRIPTION:Reminder: GDP per capita in PPP (current
   international USD) (en)
-
 END:VALARM
 END:VEVENT
 
@@ -1462,10 +1222,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Gastos tributarios expresados como porce
  ntaje del PIB (es)
-
 DESCRIPTION:Gastos tributarios expresados como porce
  ntaje del PIB (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1474,10 +1232,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Gastos tributarios expresados
+ACTION:DISPLAYDESCRIPTION:Reminder: Gastos tributarios expresados
  como porcentaje del PIB (es)
-
 END:VALARM
 END:VEVENT
 
@@ -1486,11 +1242,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Fortalecimiento del papel del impuesto s
  obre la renta de las personas físicas en
   Costa Rica (es)
-
 DESCRIPTION:Fortalecimiento del papel del impuesto s
  obre la renta de las personas físicas en
   Costa Rica (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1499,20 +1253,16 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Fortalecimiento del papel del
+ACTION:DISPLAYDESCRIPTION:Reminder: Fortalecimiento del papel del
  impuesto sobre la renta de las personas
  físicas en Costa Rica (es)
-
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Foreword (en)
-
 DESCRIPTION:Foreword (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1521,18 +1271,14 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Foreword (en)
-
+ACTION:DISPLAYDESCRIPTION:Reminder: Foreword (en)
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Executive summary (en)
-
 DESCRIPTION:Executive summary (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1541,9 +1287,7 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Executive summary (en)
-
+ACTION:DISPLAYDESCRIPTION:Reminder: Executive summary (en)
 END:VALARM
 END:VEVENT
 
@@ -1551,10 +1295,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Evolution of inequality in Costa Rica an
  d LAC countries (en)
-
 DESCRIPTION:Evolution of inequality in Costa Rica an
  d LAC countries (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1563,10 +1305,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Evolution of inequality in Cos
+ACTION:DISPLAYDESCRIPTION:Reminder: Evolution of inequality in Cos
  ta Rica and LAC countries (en)
-
 END:VALARM
 END:VEVENT
 
@@ -1574,10 +1314,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Evolución de la desigualdad en Costa Ric
  a y en los países de ALC (es)
-
 DESCRIPTION:Evolución de la desigualdad en Costa Ric
  a y en los países de ALC (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1586,10 +1324,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Evolución de la desigualdad en
+ACTION:DISPLAYDESCRIPTION:Reminder: Evolución de la desigualdad en
   Costa Rica y en los países de ALC (es)
-
 END:VALARM
 END:VEVENT
 
@@ -1598,11 +1334,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Estructura impositiva expresada como por
  centaje de los ingresos totales (2014) (
  es)
-
 DESCRIPTION:Estructura impositiva expresada como por
  centaje de los ingresos totales (2014) (
  es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1611,11 +1345,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Estructura impositiva expresad
+ACTION:DISPLAYDESCRIPTION:Reminder: Estructura impositiva expresad
  a como porcentaje de los ingresos totale
  s (2014) (es)
-
 END:VALARM
 END:VEVENT
 
@@ -1623,10 +1355,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Equilibrio presupuestario expresado como
   porcentaje del PIB (es)
-
 DESCRIPTION:Equilibrio presupuestario expresado como
   porcentaje del PIB (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1635,10 +1365,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Equilibrio presupuestario expr
+ACTION:DISPLAYDESCRIPTION:Reminder: Equilibrio presupuestario expr
  esado como porcentaje del PIB (es)
-
 END:VALARM
 END:VEVENT
 
@@ -1646,10 +1374,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Endeudamiento del Gobierno expresado com
  o porcentaje del PIB (es)
-
 DESCRIPTION:Endeudamiento del Gobierno expresado com
  o porcentaje del PIB (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1658,10 +1384,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Endeudamiento del Gobierno exp
+ACTION:DISPLAYDESCRIPTION:Reminder: Endeudamiento del Gobierno exp
  resado como porcentaje del PIB (es)
-
 END:VALARM
 END:VEVENT
 
@@ -1669,10 +1393,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:El impuesto de vehículos es más bajo par
  a vehículos más limpios y baratos (es)
-
 DESCRIPTION:El impuesto de vehículos es más bajo par
  a vehículos más limpios y baratos (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1681,11 +1403,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: El impuesto de vehículos es má
+ACTION:DISPLAYDESCRIPTION:Reminder: El impuesto de vehículos es má
  s bajo para vehículos más limpios y bara
  tos (es)
-
 END:VALARM
 END:VEVENT
 
@@ -1694,11 +1414,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Distribution of the sales tax burden as
  a share of consumption expenditure per i
  ncome decile (en)
-
 DESCRIPTION:Distribution of the sales tax burden as
  a share of consumption expenditure per i
  ncome decile (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1707,11 +1425,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Distribution of the sales tax
+ACTION:DISPLAYDESCRIPTION:Reminder: Distribution of the sales tax
  burden as a share of consumption expendi
  ture per income decile (en)
-
 END:VALARM
 END:VEVENT
 
@@ -1721,12 +1437,10 @@ SUMMARY:Distribution of tax payments expressed a
  s a share of GDP across income deciles u
  nder the current sales tax and the propo
  sed VAT reform (en)
-
 DESCRIPTION:Distribution of tax payments expressed a
  s a share of GDP across income deciles u
  nder the current sales tax and the propo
  sed VAT reform (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1735,12 +1449,10 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Distribution of tax payments e
+ACTION:DISPLAYDESCRIPTION:Reminder: Distribution of tax payments e
  xpressed as a share of GDP across income
   deciles under the current sales tax and
   the proposed VAT reform (en)
-
 END:VALARM
 END:VEVENT
 
@@ -1748,10 +1460,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Distribution of exemptions per income de
  cile expressed as a % of GDP (en)
-
 DESCRIPTION:Distribution of exemptions per income de
  cile expressed as a % of GDP (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1760,11 +1470,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Distribution of exemptions per
+ACTION:DISPLAYDESCRIPTION:Reminder: Distribution of exemptions per
   income decile expressed as a % of GDP (
  en)
-
 END:VALARM
 END:VEVENT
 
@@ -1775,13 +1483,11 @@ SUMMARY:Distribución de pagos fiscales expresado
   de ingresos según el actual impuesto ge
  neral sobre las ventas y la reforma de I
  VA propuesta (es)
-
 DESCRIPTION:Distribución de pagos fiscales expresado
  s como proporción del PIB en los deciles
   de ingresos según el actual impuesto ge
  neral sobre las ventas y la reforma de I
  VA propuesta (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1790,13 +1496,11 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Distribución de pagos fiscales
+ACTION:DISPLAYDESCRIPTION:Reminder: Distribución de pagos fiscales
   expresados como proporción del PIB en l
  os deciles de ingresos según el actual i
  mpuesto general sobre las ventas y la re
  forma de IVA propuesta (es)
-
 END:VALARM
 END:VEVENT
 
@@ -1806,12 +1510,10 @@ SUMMARY:Distribución de la carga del impuesto ge
  neral sobre las ventas como una proporci
  ón de gastos de consumo por decil de ing
  resos (es)
-
 DESCRIPTION:Distribución de la carga del impuesto ge
  neral sobre las ventas como una proporci
  ón de gastos de consumo por decil de ing
  resos (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1820,12 +1522,10 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Distribución de la carga del i
+ACTION:DISPLAYDESCRIPTION:Reminder: Distribución de la carga del i
  mpuesto general sobre las ventas como un
  a proporción de gastos de consumo por de
  cil de ingresos (es)
-
 END:VALARM
 END:VEVENT
 
@@ -1834,11 +1534,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Distribución de exclusiones por decil de
   ingresos expresado como porcentaje del
  PIB (es)
-
 DESCRIPTION:Distribución de exclusiones por decil de
   ingresos expresado como porcentaje del
  PIB (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1847,11 +1545,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Distribución de exclusiones po
+ACTION:DISPLAYDESCRIPTION:Reminder: Distribución de exclusiones po
  r decil de ingresos expresado como porce
  ntaje del PIB (es)
-
 END:VALARM
 END:VEVENT
 
@@ -1859,10 +1555,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Deuda pública expresada como porcentaje
  del PIB (es)
-
 DESCRIPTION:Deuda pública expresada como porcentaje
  del PIB (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1871,10 +1565,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Deuda pública expresada como p
+ACTION:DISPLAYDESCRIPTION:Reminder: Deuda pública expresada como p
  orcentaje del PIB (es)
-
 END:VALARM
 END:VEVENT
 
@@ -1883,11 +1575,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Deuda pública expresada como porcentaje
  de los ingresos del Gobierno: Costa Rica
   y países de ALC (es)
-
 DESCRIPTION:Deuda pública expresada como porcentaje
  de los ingresos del Gobierno: Costa Rica
   y países de ALC (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1896,11 +1586,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Deuda pública expresada como p
+ACTION:DISPLAYDESCRIPTION:Reminder: Deuda pública expresada como p
  orcentaje de los ingresos del Gobierno:
  Costa Rica y países de ALC (es)
-
 END:VALARM
 END:VEVENT
 
@@ -1910,12 +1598,10 @@ SUMMARY:Cuñas fiscales promedio para un individu
  o soltero que percibe el salario promedi
  o en países de la región de ALC en 2013
  (es)
-
 DESCRIPTION:Cuñas fiscales promedio para un individu
  o soltero que percibe el salario promedi
  o en países de la región de ALC en 2013
  (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1924,12 +1610,10 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Cuñas fiscales promedio para u
+ACTION:DISPLAYDESCRIPTION:Reminder: Cuñas fiscales promedio para u
  n individuo soltero que percibe el salar
  io promedio en países de la región de AL
  C en 2013 (es)
-
 END:VALARM
 END:VEVENT
 
@@ -1938,11 +1622,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Cuña fiscal promedio en distintos nivele
  s de ingresos expresada como porcentaje
  del salario promedio en 2016 (es)
-
 DESCRIPTION:Cuña fiscal promedio en distintos nivele
  s de ingresos expresada como porcentaje
  del salario promedio en 2016 (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1951,12 +1633,10 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Cuña fiscal promedio en distin
+ACTION:DISPLAYDESCRIPTION:Reminder: Cuña fiscal promedio en distin
  tos niveles de ingresos expresada como p
  orcentaje del salario promedio en 2016 (
  es)
-
 END:VALARM
 END:VEVENT
 
@@ -1965,11 +1645,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Cuña fiscal marginal en distintos nivele
  s de ingresos expresada como porcentaje
  del salario promedio en 2016 (es)
-
 DESCRIPTION:Cuña fiscal marginal en distintos nivele
  s de ingresos expresada como porcentaje
  del salario promedio en 2016 (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -1978,12 +1656,10 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Cuña fiscal marginal en distin
+ACTION:DISPLAYDESCRIPTION:Reminder: Cuña fiscal marginal en distin
  tos niveles de ingresos expresada como p
  orcentaje del salario promedio en 2016 (
  es)
-
 END:VALARM
 END:VEVENT
 
@@ -1996,7 +1672,6 @@ SUMMARY:Costos de formalización teóricos como po
  e formalización teóricos para trabajador
  es en el decil de ingresos más bajo (der
  echa) (es)
-
 DESCRIPTION:Costos de formalización teóricos como po
  rcentaje de los salarios reales y tasas
  de empleo informal para trabajadores dep
@@ -2004,7 +1679,6 @@ DESCRIPTION:Costos de formalización teóricos como po
  e formalización teóricos para trabajador
  es en el decil de ingresos más bajo (der
  echa) (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -2013,15 +1687,13 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Costos de formalización teóric
+ACTION:DISPLAYDESCRIPTION:Reminder: Costos de formalización teóric
  os como porcentaje de los salarios reale
  s y tasas de empleo informal para trabaj
  adores dependientes en 2013 (izquierda)
  y costos de formalización teóricos para
  trabajadores en el decil de ingresos más
   bajo (derecha) (es)
-
 END:VALARM
 END:VEVENT
 
@@ -2029,10 +1701,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Corporate income tax revenues as a % of
  GDP, 2014 (en)
-
 DESCRIPTION:Corporate income tax revenues as a % of
  GDP, 2014 (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -2041,10 +1711,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Corporate income tax revenues
+ACTION:DISPLAYDESCRIPTION:Reminder: Corporate income tax revenues
  as a % of GDP, 2014 (en)
-
 END:VALARM
 END:VEVENT
 
@@ -2053,11 +1721,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Contribuciones al sistema de seguridad s
  ocial como parte de la recaudación tribu
  taria total en 2014 (es)
-
 DESCRIPTION:Contribuciones al sistema de seguridad s
  ocial como parte de la recaudación tribu
  taria total en 2014 (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -2066,11 +1732,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Contribuciones al sistema de s
+ACTION:DISPLAYDESCRIPTION:Reminder: Contribuciones al sistema de s
  eguridad social como parte de la recauda
  ción tributaria total en 2014 (es)
-
 END:VALARM
 END:VEVENT
 
@@ -2078,10 +1742,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Composition of expenditure (% of GDP at
  market prices) (en)
-
 DESCRIPTION:Composition of expenditure (% of GDP at
  market prices) (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -2090,10 +1752,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Composition of expenditure (%
+ACTION:DISPLAYDESCRIPTION:Reminder: Composition of expenditure (%
  of GDP at market prices) (en)
-
 END:VALARM
 END:VEVENT
 
@@ -2101,10 +1761,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Composición del gasto (porcentaje del PI
  B a precios de mercado) (es)
-
 DESCRIPTION:Composición del gasto (porcentaje del PI
  B a precios de mercado) (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -2113,10 +1771,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Composición del gasto (porcent
+ACTION:DISPLAYDESCRIPTION:Reminder: Composición del gasto (porcent
  aje del PIB a precios de mercado) (es)
-
 END:VALARM
 END:VEVENT
 
@@ -2124,10 +1780,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Comparación internacional de la desigual
  dad (es)
-
 DESCRIPTION:Comparación internacional de la desigual
  dad (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -2136,10 +1790,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Comparación internacional de l
+ACTION:DISPLAYDESCRIPTION:Reminder: Comparación internacional de l
  a desigualdad (es)
-
 END:VALARM
 END:VEVENT
 
@@ -2148,11 +1800,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Cambio porcentual en los pagos del IVA e
  n los deciles de ingresos, sin y con tra
  nsferencias (es)
-
 DESCRIPTION:Cambio porcentual en los pagos del IVA e
  n los deciles de ingresos, sin y con tra
  nsferencias (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -2161,11 +1811,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Cambio porcentual en los pagos
+ACTION:DISPLAYDESCRIPTION:Reminder: Cambio porcentual en los pagos
   del IVA en los deciles de ingresos, sin
   y con transferencias (es)
-
 END:VALARM
 END:VEVENT
 
@@ -2173,10 +1821,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Cambio porcentual en el PIB per cápita d
  e Costa Rica, ALC y la OCDE (es)
-
 DESCRIPTION:Cambio porcentual en el PIB per cápita d
  e Costa Rica, ALC y la OCDE (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -2185,11 +1831,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Cambio porcentual en el PIB pe
+ACTION:DISPLAYDESCRIPTION:Reminder: Cambio porcentual en el PIB pe
  r cápita de Costa Rica, ALC y la OCDE (e
  s)
-
 END:VALARM
 END:VEVENT
 
@@ -2197,10 +1841,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Budget balance as a percentage of GDP (e
  n)
-
 DESCRIPTION:Budget balance as a percentage of GDP (e
  n)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -2209,10 +1851,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Budget balance as a percentage
+ACTION:DISPLAYDESCRIPTION:Reminder: Budget balance as a percentage
   of GDP (en)
-
 END:VALARM
 END:VEVENT
 
@@ -2221,11 +1861,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Average tax wedges for single individual
  s earning the average wage in LAC countr
  ies in 2013 (en)
-
 DESCRIPTION:Average tax wedges for single individual
  s earning the average wage in LAC countr
  ies in 2013 (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -2234,11 +1872,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Average tax wedges for single
+ACTION:DISPLAYDESCRIPTION:Reminder: Average tax wedges for single
  individuals earning the average wage in
  LAC countries in 2013 (en)
-
 END:VALARM
 END:VEVENT
 
@@ -2247,11 +1883,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Average tax wedge across earnings levels
   expressed as a % of the average wage in
   2016 (en)
-
 DESCRIPTION:Average tax wedge across earnings levels
   expressed as a % of the average wage in
   2016 (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -2260,11 +1894,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Average tax wedge across earni
+ACTION:DISPLAYDESCRIPTION:Reminder: Average tax wedge across earni
  ngs levels expressed as a % of the avera
  ge wage in 2016 (en)
-
 END:VALARM
 END:VEVENT
 
@@ -2272,10 +1904,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Aplicación de un sistema de IVA moderno
  en Costa Rica (es)
-
 DESCRIPTION:Aplicación de un sistema de IVA moderno
  en Costa Rica (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -2284,10 +1914,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Aplicación de un sistema de IV
+ACTION:DISPLAYDESCRIPTION:Reminder: Aplicación de un sistema de IV
  A moderno en Costa Rica (es)
-
 END:VALARM
 END:VEVENT
 
@@ -2296,11 +1924,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Aplicación de la política fiscal al abor
  dar los retos nacionales en materia ambi
  ental en Costa Rica (es)
-
 DESCRIPTION:Aplicación de la política fiscal al abor
  dar los retos nacionales en materia ambi
  ental en Costa Rica (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -2309,11 +1935,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Aplicación de la política fisc
+ACTION:DISPLAYDESCRIPTION:Reminder: Aplicación de la política fisc
  al al abordar los retos nacionales en ma
  teria ambiental en Costa Rica (es)
-
 END:VALARM
 END:VEVENT
 
@@ -2321,10 +1945,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Análisis de políticas fiscales de la OCD
  E: Costa Rica 2017 (es)
-
 DESCRIPTION:Análisis de políticas fiscales de la OCD
  E: Costa Rica 2017 (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -2333,10 +1955,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Análisis de políticas fiscales
+ACTION:DISPLAYDESCRIPTION:Reminder: Análisis de políticas fiscales
   de la OCDE: Costa Rica 2017 (es)
-
 END:VALARM
 END:VEVENT
 
@@ -2344,10 +1964,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Análisis de políticas fiscales de la OCD
  E: Costa Rica 2017 (es)
-
 DESCRIPTION:Análisis de políticas fiscales de la OCD
  E: Costa Rica 2017 (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
@@ -2356,10 +1974,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Análisis de políticas fiscales
+ACTION:DISPLAYDESCRIPTION:Reminder: Análisis de políticas fiscales
   de la OCDE: Costa Rica 2017 (es)
-
 END:VALARM
 END:VEVENT
 
@@ -2367,10 +1983,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Tertiary education in Costa Rica and its
   role in a growing economy (en)
-
 DESCRIPTION:Tertiary education in Costa Rica and its
   role in a growing economy (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170803T020000Z
 DTEND:20170803T021500Z
@@ -2379,20 +1993,16 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Tertiary education in Costa Ri
+ACTION:DISPLAYDESCRIPTION:Reminder: Tertiary education in Costa Ri
  ca and its role in a growing economy (en
  )
-
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Foreword and acknowledgements (en)
-
 DESCRIPTION:Foreword and acknowledgements (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170803T020000Z
 DTEND:20170803T021500Z
@@ -2401,19 +2011,15 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Foreword and acknowledgements
+ACTION:DISPLAYDESCRIPTION:Reminder: Foreword and acknowledgements
  (en)
-
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Executive summary (en)
-
 DESCRIPTION:Executive summary (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170803T020000Z
 DTEND:20170803T021500Z
@@ -2422,9 +2028,7 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Executive summary (en)
-
+ACTION:DISPLAYDESCRIPTION:Reminder: Executive summary (en)
 END:VALARM
 END:VEVENT
 
@@ -2432,10 +2036,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Education in Costa Rica: An engine for d
  evelopment (en)
-
 DESCRIPTION:Education in Costa Rica: An engine for d
  evelopment (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170803T020000Z
 DTEND:20170803T021500Z
@@ -2444,19 +2046,15 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Education in Costa Rica: An en
+ACTION:DISPLAYDESCRIPTION:Reminder: Education in Costa Rica: An en
  gine for development (en)
-
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Education in Costa Rica (en)
-
 DESCRIPTION:Education in Costa Rica (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170803T020000Z
 DTEND:20170803T021500Z
@@ -2465,18 +2063,14 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Education in Costa Rica (en)
-
+ACTION:DISPLAYDESCRIPTION:Reminder: Education in Costa Rica (en)
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Education in Costa Rica (en)
-
 DESCRIPTION:Education in Costa Rica (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170803T020000Z
 DTEND:20170803T021500Z
@@ -2485,9 +2079,7 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Education in Costa Rica (en)
-
+ACTION:DISPLAYDESCRIPTION:Reminder: Education in Costa Rica (en)
 END:VALARM
 END:VEVENT
 
@@ -2496,11 +2088,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Early Childhood and Care: Giving all chi
  ldren a strong start in earning and life
   (en)
-
 DESCRIPTION:Early Childhood and Care: Giving all chi
  ldren a strong start in earning and life
   (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170803T020000Z
 DTEND:20170803T021500Z
@@ -2509,20 +2099,16 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Early Childhood and Care: Givi
+ACTION:DISPLAYDESCRIPTION:Reminder: Early Childhood and Care: Givi
  ng all children a strong start in earnin
  g and life (en)
-
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Composition of the review team (en)
-
 DESCRIPTION:Composition of the review team (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170803T020000Z
 DTEND:20170803T021500Z
@@ -2531,10 +2117,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Composition of the review team
+ACTION:DISPLAYDESCRIPTION:Reminder: Composition of the review team
   (en)
-
 END:VALARM
 END:VEVENT
 
@@ -2543,11 +2127,9 @@ UID:no-reply@embargoes.oecd.org
 SUMMARY:Completing upper secondary school and pa
  thways beyond: rethinking diversified ed
  ucation in Costa Rica (en)
-
 DESCRIPTION:Completing upper secondary school and pa
  thways beyond: rethinking diversified ed
  ucation in Costa Rica (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170803T020000Z
 DTEND:20170803T021500Z
@@ -2556,11 +2138,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Completing upper secondary sch
+ACTION:DISPLAYDESCRIPTION:Reminder: Completing upper secondary sch
  ool and pathways beyond: rethinking dive
  rsified education in Costa Rica (en)
-
 END:VALARM
 END:VEVENT
 
@@ -2568,10 +2148,8 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Basic education in Costa Rica: from acce
  ss to learning for all (en)
-
 DESCRIPTION:Basic education in Costa Rica: from acce
  ss to learning for all (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170803T020000Z
 DTEND:20170803T021500Z
@@ -2580,19 +2158,15 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Basic education in Costa Rica:
+ACTION:DISPLAYDESCRIPTION:Reminder: Basic education in Costa Rica:
   from access to learning for all (en)
-
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Assessment and recommendations (en)
-
 DESCRIPTION:Assessment and recommendations (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170803T020000Z
 DTEND:20170803T021500Z
@@ -2601,19 +2175,15 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Assessment and recommendations
+ACTION:DISPLAYDESCRIPTION:Reminder: Assessment and recommendations
   (en)
-
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Acronyms and abbreviations (en)
-
 DESCRIPTION:Acronyms and abbreviations (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170803T020000Z
 DTEND:20170803T021500Z
@@ -2622,20 +2192,16 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Acronyms and abbreviations (en
+ACTION:DISPLAYDESCRIPTION:Reminder: Acronyms and abbreviations (en
  )
-
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:The Land-Water-Energy Nexus (en)
-
 DESCRIPTION:The Land-Water-Energy Nexus (en) Biophys
  ical and Economic Consequences (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170905T100000Z
 DTEND:20170905T101500Z
@@ -2644,20 +2210,16 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: The Land-Water-Energy Nexus (e
+ACTION:DISPLAYDESCRIPTION:Reminder: The Land-Water-Energy Nexus (e
  n)
-
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:The Land-Water-Energy Nexus (en)
-
 DESCRIPTION:The Land-Water-Energy Nexus (en) Biophys
  ical and Economic Consequences (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170905T100000Z
 DTEND:20170905T101500Z
@@ -2666,10 +2228,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: The Land-Water-Energy Nexus (e
+ACTION:DISPLAYDESCRIPTION:Reminder: The Land-Water-Energy Nexus (e
  n)
-
 END:VALARM
 END:VEVENT
 
@@ -2677,11 +2237,9 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Trade in Counterfeit Products and the UK
   Economy (en)
-
 DESCRIPTION:Trade in Counterfeit Products and the UK
   Economy (en) Fake Goods, Real Losses (e
  n)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170906T090000Z
 DTEND:20170906T091500Z
@@ -2690,10 +2248,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Trade in Counterfeit Products
+ACTION:DISPLAYDESCRIPTION:Reminder: Trade in Counterfeit Products
  and the UK Economy (en)
-
 END:VALARM
 END:VEVENT
 
@@ -2701,11 +2257,9 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Trade in Counterfeit Products and the UK
   Economy (en)
-
 DESCRIPTION:Trade in Counterfeit Products and the UK
   Economy (en) Fake Goods, Real Losses (e
  n)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170906T090000Z
 DTEND:20170906T091500Z
@@ -2714,21 +2268,17 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Trade in Counterfeit Products
+ACTION:DISPLAYDESCRIPTION:Reminder: Trade in Counterfeit Products
  and the UK Economy (en)
-
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Illicit Financial Flows (en)
-
 DESCRIPTION:Illicit Financial Flows (en) Illicit Tra
  de and Development Challenges in West Af
  rica (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170929T100000Z
 DTEND:20170929T101500Z
@@ -2737,20 +2287,16 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Illicit Financial Flows (en)
-
+ACTION:DISPLAYDESCRIPTION:Reminder: Illicit Financial Flows (en)
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Illicit Financial Flows (en)
-
 DESCRIPTION:Illicit Financial Flows (en) Illicit Tra
  de and Development Challenges in West Af
  rica (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20170929T100000Z
 DTEND:20170929T101500Z
@@ -2759,20 +2305,16 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Illicit Financial Flows (en)
-
+ACTION:DISPLAYDESCRIPTION:Reminder: Illicit Financial Flows (en)
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:OECD Integrity Review of Colombia (en)
-
 DESCRIPTION:OECD Integrity Review of Colombia (en) I
  nvesting in Integrity for Peace and Pros
  perity (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20171015T100000Z
 DTEND:20171015T101500Z
@@ -2781,21 +2323,17 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Integrity Review of Colom
+ACTION:DISPLAYDESCRIPTION:Reminder: OECD Integrity Review of Colom
  bia (en)
-
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:OECD Integrity Review of Colombia (en)
-
 DESCRIPTION:OECD Integrity Review of Colombia (en) I
  nvesting in Integrity for Peace and Pros
  perity (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20171015T100000Z
 DTEND:20171015T101500Z
@@ -2804,21 +2342,17 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Integrity Review of Colom
+ACTION:DISPLAYDESCRIPTION:Reminder: OECD Integrity Review of Colom
  bia (en)
-
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:OECD Integrity Review of Colombia (en)
-
 DESCRIPTION:OECD Integrity Review of Colombia (en) I
  nvesting in Integrity for Peace and Pros
  perity (en)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20171015T100000Z
 DTEND:20171015T101500Z
@@ -2827,10 +2361,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Integrity Review of Colom
+ACTION:DISPLAYDESCRIPTION:Reminder: OECD Integrity Review of Colom
  bia (en)
-
 END:VALARM
 END:VEVENT
 
@@ -2838,12 +2370,10 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Estudio de la OCDE sobre integridad en C
  olombia (es)
-
 DESCRIPTION:Estudio de la OCDE sobre integridad en C
  olombia (es) Invirtiendo en integridad p
  ública para afianzar la paz y el desarro
  llo (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20171015T100000Z
 DTEND:20171015T101500Z
@@ -2852,10 +2382,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Estudio de la OCDE sobre integ
+ACTION:DISPLAYDESCRIPTION:Reminder: Estudio de la OCDE sobre integ
  ridad en Colombia (es)
-
 END:VALARM
 END:VEVENT
 
@@ -2863,12 +2391,10 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Estudio de la OCDE sobre integridad en C
  olombia (es)
-
 DESCRIPTION:Estudio de la OCDE sobre integridad en C
  olombia (es) Invirtiendo en integridad p
  ública para afianzar la paz y el desarro
  llo (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20171015T100000Z
 DTEND:20171015T101500Z
@@ -2877,10 +2403,8 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Estudio de la OCDE sobre integ
+ACTION:DISPLAYDESCRIPTION:Reminder: Estudio de la OCDE sobre integ
  ridad en Colombia (es)
-
 END:VALARM
 END:VEVENT
 
@@ -2888,12 +2412,10 @@ BEGIN:VEVENT
 UID:no-reply@embargoes.oecd.org
 SUMMARY:Estudio de la OCDE sobre integridad en C
  olombia (es)
-
 DESCRIPTION:Estudio de la OCDE sobre integridad en C
  olombia (es) Invirtiendo en integridad p
  ública para afianzar la paz y el desarro
  llo (es)
-
 DTSTAMP:20170801T121710Z
 DTSTART:20171015T100000Z
 DTEND:20171015T101500Z
@@ -2902,25 +2424,9 @@ BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Estudio de la OCDE sobre integ
+ACTION:DISPLAYDESCRIPTION:Reminder: Estudio de la OCDE sobre integ
  ridad en Colombia (es)
-
 END:VALARM
 END:VEVENT
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 END:VCALENDAR
