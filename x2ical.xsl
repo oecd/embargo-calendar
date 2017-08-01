@@ -38,7 +38,12 @@ END:VCALENDAR</xsl:text>
         <xsl:variable name="count" select="count($publications)"/>
         <xsl:variable name="first-publication" select="$publications[1]"/>
         <xsl:variable name="summary" select="$first-publication/cell[@name='title']"/>
-        <xsl:variable name="description" select="concat('&quot;', $summary, ' ', $first-publication/cell[@name='subtitle'], '&quot; and ', ($count - 1), ' other publications')"/>
+        <xsl:variable name="description" select="concat(
+            '&quot;', $summary, ' ', $first-publication/cell[@name='subtitle'], 
+            '&quot; and ', 
+            if ($count eq 2) then 'one' else ($count - 1), 
+            ' other publication', 
+            if ($count gt 2) then 's.' else '.')"/>
         <xsl:variable name="start-time" select="format-dateTime(
             $time, 
             '[Y0001][M01][D01]T[h01][m01][s01]Z'
