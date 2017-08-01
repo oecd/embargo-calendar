@@ -36,7 +36,7 @@ Each "calendar event" needs to start with a `BEGIN:VEVENT` and end with a `END:V
 Each such event should (must?) have the following fields:
 * `UID`: event identifier (should not change ideally)
 * `SUMMARY`: equivalent of title in an Outlook event
-* `DESCRIPTION`: equivalent of the main description field in an Outlook event
+* `DESCRIPTION`: equivalent of the main description field in an Outlook event. Fun fact: a line in ICS should not exceed 75 characters (IIRC), therefore one has to split them over several lines, and each continuing line needs to start with a space character.
 * `DTSTAMP`: when the event was created (not the date of the event, that is `DTSTART`)
 * `DTSTART`: the start date/time of the event (note format)
 * `DTEND`: the end date/time
