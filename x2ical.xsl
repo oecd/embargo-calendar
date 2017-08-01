@@ -37,21 +37,21 @@ END:VCALENDAR</xsl:text>
         <xsl:variable name="publications" select="$root//row[cell[@name='embargo date']/text() eq $time]"/>
         <xsl:variable name="count" select="count($publications)"/>
         <xsl:variable name="first-publication" select="$publications[1]"/>
-        <xsl:variable name="summary" select="$first-publication/cell[@name='title']"/>
+        <xsl:variable name="summary" select="normalize-space($first-publication/cell[@name='title'])"/>
         <xsl:variable name="description" select="concat(
-            '&quot;', $summary, ' ', $first-publication/cell[@name='subtitle'], 
-            '&quot; and ', 
-            if ($count eq 2) then 'one' else ($count - 1), 
-            ' other publication', 
-            if ($count gt 2) then 's.' else '.')"/>
+            '&quot;', $summary, ' - ', normalize-space($first-publication/cell[@name='subtitle']), '&quot; and ', 
+            if ($count eq 2) then 'one' else $count - 1, 
+            ' other publication',
+            if ($count gt 2) then 's.' else '.'
+        )"/>
         <xsl:variable name="start-time" select="format-dateTime(
             $time, 
             '[Y0001][M01][D01]T[h01][m01][s01]Z'
-            )"/>
+        )"/>
         <xsl:variable name="end-time" select="format-dateTime(
             xs:dateTime($time) + xs:dayTimeDuration('PT15M'),
             '[Y0001][M01][D01]T[h01][m01][s01]Z'
-            )"/>
+        )"/>
 BEGIN:VEVENT
 UID:<xsl:value-of select="generate-id($first-publication)"/>@embargoes.oecd.org
 SUMMARY:<xsl:value-of select="local:split-by-char($summary)"/>
