@@ -6,12 +6,10 @@ BEGIN:VEVENT
 UID:d1e1066@embargoes.oecd.org
 SUMMARY:Análisis de políticas fiscales de la OCD
  E: Costa Rica 2017 (es)
- 
 DESCRIPTION:"Análisis de políticas fiscales de la OC
  DE: Costa Rica 2017 (es) - " and 3 other
   publications.
- 
-DTSTAMP:20170802T120555Z
+DTSTAMP:20170802T031647Z
 DTSTART:20170801T070000Z
 DTEND:20170801T071500Z
 TRANSP:TRANSPARENT
@@ -22,18 +20,15 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Análisis de políticas fiscales
   de la OCDE: Costa Rica 2017 (es)
- 
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:d1e809@embargoes.oecd.org
 SUMMARY:Education in Costa Rica (en)
- 
 DESCRIPTION:"Education in Costa Rica (en) - " and on
  e other publication.
- 
-DTSTAMP:20170802T120555Z
+DTSTAMP:20170802T031647Z
 DTSTART:20170803T020000Z
 DTEND:20170803T021500Z
 TRANSP:TRANSPARENT
@@ -43,19 +38,16 @@ REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Education in Costa Rica (en)
- 
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:d1e467@embargoes.oecd.org
 SUMMARY:The Land-Water-Energy Nexus (en)
- 
 DESCRIPTION:"The Land-Water-Energy Nexus (en) - Biop
  hysical and Economic Consequences (en)" 
  and one other publication.
- 
-DTSTAMP:20170802T120555Z
+DTSTAMP:20170802T031647Z
 DTSTART:20170905T100000Z
 DTEND:20170905T101500Z
 TRANSP:TRANSPARENT
@@ -66,7 +58,6 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: The Land-Water-Energy Nexus (e
  n)
- 
 END:VALARM
 END:VEVENT
 
@@ -74,12 +65,10 @@ BEGIN:VEVENT
 UID:d1e383@embargoes.oecd.org
 SUMMARY:Trade in Counterfeit Products and the UK
   Economy (en)
- 
 DESCRIPTION:"Trade in Counterfeit Products and the U
  K Economy (en) - Fake Goods, Real Losses
   (en)" and one other publication.
- 
-DTSTAMP:20170802T120555Z
+DTSTAMP:20170802T031647Z
 DTSTART:20170906T090000Z
 DTEND:20170906T091500Z
 TRANSP:TRANSPARENT
@@ -90,19 +79,16 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Trade in Counterfeit Products 
  and the UK Economy (en)
- 
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:d1e300@embargoes.oecd.org
 SUMMARY:Illicit Financial Flows (en)
- 
 DESCRIPTION:"Illicit Financial Flows (en) - Illicit 
  Trade and Development Challenges in West
   Africa (en)" and one other publication.
- 
-DTSTAMP:20170802T120555Z
+DTSTAMP:20170802T031647Z
 DTSTART:20170929T100000Z
 DTEND:20170929T101500Z
 TRANSP:TRANSPARENT
@@ -112,7 +98,6 @@ REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Illicit Financial Flows (en)
- 
 END:VALARM
 END:VEVENT
 
@@ -120,13 +105,11 @@ BEGIN:VEVENT
 UID:d1e47@embargoes.oecd.org
 SUMMARY:Estudio de la OCDE sobre integridad en C
  olombia (es)
- 
 DESCRIPTION:"Estudio de la OCDE sobre integridad en 
  Colombia (es) - Invirtiendo en integrida
  d pública para afianzar la paz y el desa
  rrollo (es)" and 5 other publications.
- 
-DTSTAMP:20170802T120555Z
+DTSTAMP:20170802T031647Z
 DTSTART:20171015T100000Z
 DTEND:20171015T101500Z
 TRANSP:TRANSPARENT
@@ -137,7 +120,6 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Estudio de la OCDE sobre integ
  ridad en Colombia (es)
- 
 END:VALARM
 END:VEVENT
 

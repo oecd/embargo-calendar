@@ -89,7 +89,10 @@ END:VEVENT
         <xsl:param name="string"/>
         <xsl:variable name="char" select="40"/>
         <xsl:for-each select="0 to (string-length($string) - 1) idiv $char">
-            <xsl:value-of select="concat(substring($string, . * $char + 1, $char), '&#xd;&#xa;&#032;')" disable-output-escaping="yes"/>
+            <xsl:value-of select="concat(
+                substring($string, . * $char + 1, $char), 
+                if (position() ne last()) then '&#xd;&#xa;&#032;' else '')" 
+            disable-output-escaping="yes"/>
         </xsl:for-each>
     </xsl:function>
 </xsl:stylesheet>
