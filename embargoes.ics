@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
+
+BEGIN:VEVENT
+UID:d1e1712@embargoes.oecd.org
+SUMMARY:Education in Costa Rica (en)
+DESCRIPTION:"Education in Costa Rica (en) - " and on
+ e other publication.
+DTSTAMP:20170804T051345Z
+DTSTART:20170803T030000Z
+DTEND:20170803T031500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education in Costa Rica (en)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d1e1370@embargoes.oecd.org
+SUMMARY:Promising Practices in Supporting Succes
+ s for Indigenous Students (en)
+DESCRIPTION:"Promising Practices in Supporting Succe
+ ss for Indigenous Students (en) - " and 
+ one other publication.
+DTSTAMP:20170804T051345Z
+DTSTART:20170808T100000Z
+DTEND:20170808T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Promising Practices in Support
+ ing Success for Indigenous Students (en)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d1e1284@embargoes.oecd.org
+SUMMARY:Trade in Counterfeit Products and the UK
+  Economy (en)
+DESCRIPTION:"Trade in Counterfeit Products and the U
+ K Economy (en) - Fake Goods, Real Losses
+  (en)" and one other publication.
+DTSTAMP:20170804T051345Z
+DTSTART:20170903T100000Z
+DTEND:20170903T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Trade in Counterfeit Products 
+ and the UK Economy (en)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d1e1200@embargoes.oecd.org
+SUMMARY:The Land-Water-Energy Nexus (en)
+DESCRIPTION:"The Land-Water-Energy Nexus (en) - Biop
+ hysical and Economic Consequences (en)" 
+ and one other publication.
+DTSTAMP:20170804T051345Z
+DTSTART:20170905T100000Z
+DTEND:20170905T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: The Land-Water-Energy Nexus (e
+ n)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d1e383@embargoes.oecd.org
+SUMMARY:Reforming Sanitation in Armenia (en)
+DESCRIPTION:"Reforming Sanitation in Armenia (en) - 
+ Towards a National Strategy (en)" and on
+ e other publication.
+DTSTAMP:20170804T051345Z
+DTSTART:20170928T100000Z
+DTEND:20170928T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Reforming Sanitation in Armeni
+ a (en)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d1e300@embargoes.oecd.org
+SUMMARY:Illicit Financial Flows (en)
+DESCRIPTION:"Illicit Financial Flows (en) - Illicit 
+ Trade and Development Challenges in West
+  Africa (en)" and one other publication.
+DTSTAMP:20170804T051345Z
+DTSTART:20170929T100000Z
+DTEND:20170929T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Illicit Financial Flows (en)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d1e47@embargoes.oecd.org
+SUMMARY:Estudio de la OCDE sobre integridad en C
+ olombia (es)
+DESCRIPTION:"Estudio de la OCDE sobre integridad en 
+ Colombia (es) - Invirtiendo en integrida
+ d pública para afianzar la paz y el desa
+ rrollo (es)" and 5 other publications.
+DTSTAMP:20170804T051345Z
+DTSTART:20171015T100000Z
+DTEND:20171015T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Estudio de la OCDE sobre integ
+ ridad en Colombia (es)
+END:VALARM
+END:VEVENT
+
+END:VCALENDAR
