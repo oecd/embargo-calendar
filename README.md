@@ -2,7 +2,7 @@
 
 This XSLT script expects a certain XML format (see `test.xml`) and generates a file that follows the iCalendar standard. Only events for unique dates are generated as frequently embargoes seem to fall on the same day.
 
-Test URL here: https://raw.githubusercontent.com/jfix/testtmp/master/test.ics
+Working URL here (not necessarily updated regularly, yet):  https://raw.githubusercontent.com/jfix/embargo-calendar/master/embargoes.ics
 
 ## Explanation of iCalendar fields
 
