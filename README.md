@@ -4,6 +4,17 @@ This XSLT script expects a certain XML format (see `test.xml`) and generates a f
 
 Working URL here (not necessarily updated regularly, yet):  https://raw.githubusercontent.com/jfix/embargo-calendar/master/embargoes.ics
 
+Here is what an event currently looks like in iCal on Mac:
+
+![ICS event on MacOS iCal](img/macos-ical.png?raw=true "ICS event on MacOS iCal")
+
+And here are two screenshots (one the popup view, the other the detailed view) of Google Calendar:
+
+![Google Calendar popup event](img/google-calendar-popup.png?raw=true "Google Calendar popup event")
+
+![Google Calendar detailed event view](img/google-calendar-details.png?raw=true "Google Calendar detailed event view")
+
+
 ## Explanation of iCalendar fields
 
 ```
@@ -53,7 +64,13 @@ The other fields inside the `VEVENT` section that we're using are:
 
 ## Limitations
 
-The iCalendar standard expects `CRLF` line endings, but XSLT seems to be 'clever' about this and only generates `CR`. I haven't found a solution for this yet.
+### Line endings
+
+The iCalendar standard expects `CRLF` line endings, but XSLT seems to be 'clever' about this and only generates `CR`. Setting `*.ics text eol=crlf` in the `.gitattributes` file forces CRLF on commit. Quite clever, actually.
+
+### Reminders
+
+The actual limitations are with the calendar clients and mainly regard the reminder functionality. The only one currently correctly handling this is iCal for MacOS. Google Calendar and Microsoft Outlook are both ignoring any `VALARM` sections. Maybe Outlook 2016 is more standards compliant.
 
 ## Sources of wisdom
 
