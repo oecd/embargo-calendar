@@ -2,14 +2,55 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
+
 BEGIN:VEVENT
-UID:d1e1533@embargoes.oecd.org
+UID:10.1787/9789264268418-en
+SUMMARY:Illicit Financial Flows (en) on 29 Septe
+ mber 2017, 22:00
+DESCRIPTION:Illicit Financial Flows (en)  - Illicit 
+ Trade and Development Challenges in West
+  Africa (en) by Development Co-operation
+  Directorate has an embargo date/time of
+  29 September 2017, 22:00.\n\nDirectorat
+ e: Development Co-operation Directorate\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/9789264268418-en\nPublication t
+ ype: Stand-alone monograph\nReleased as:
+  Paperback, PDF.\n\niLibrary export: 2 M
+ arch 2017, 20:50\nFreepreview export: ne
+ ver\nFTI loaded: no.
+DTSTAMP:20170810T015425Z
+DTSTART:20170929T100000Z
+DTEND:20170929T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Illicit Financial Flows (en) o
+ n 29 September 2017, 22:00
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264279421-en
 SUMMARY:Promising Practices in Supporting Succes
- s for Indigenous Students (en)
-DESCRIPTION:"Promising Practices in Supporting Succe
- ss for Indigenous Students (en) - " and 
- one other publication.
-DTSTAMP:20170809T115838Z
+ s for Indigenous Students (en) on 9 Augu
+ st 2017, 6:00
+DESCRIPTION:Promising Practices in Supporting Succes
+ s for Indigenous Students (en)  by Direc
+ torate for Education and Skills has an e
+ mbargo date/time of 9 August 2017, 6:00.
+ \n\nDirectorate: Directorate for Educati
+ on and Skills\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/9789264279421-en\
+ nPublication type: Stand-alone monograph
+ \nReleased as: Paperback, PDF.\n\niLibra
+ ry export: 7 August 2017, 20:06\nFreepre
+ view export: 7 August 2017, 20:38\nFTI l
+ oaded: ✓.
+DTSTAMP:20170810T015425Z
 DTSTART:20170809T060000Z
 DTEND:20170809T061500Z
 TRANSP:TRANSPARENT
@@ -20,17 +61,181 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Promising Practices in Support
  ing Success for Indigenous Students (en)
+  on 9 August 2017, 6:00
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:d1e1370@embargoes.oecd.org
+UID:10.1787/9789264268982-en
+SUMMARY:Reforming Sanitation in Armenia (en) on 
+ 28 September 2017, 22:00
+DESCRIPTION:Reforming Sanitation in Armenia (en)  - 
+ Towards a National Strategy (en) by Dire
+ ctorate for Public Governance has an emb
+ argo date/time of 28 September 2017, 22:
+ 00.\n\nDirectorate: Directorate for Publ
+ ic Governance\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/9789264268982-en\
+ nPublication type: Book\nReleased as: Pa
+ perback, PDF.\n\niLibrary export: 9 Augu
+ st 2017, 20:23\nFreepreview export: neve
+ r\nFTI loaded: ✓.
+DTSTAMP:20170810T015425Z
+DTSTART:20170928T100000Z
+DTEND:20170928T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Reforming Sanitation in Armeni
+ a (en) on 28 September 2017, 22:00
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264278325-en
+SUMMARY:OECD Integrity Review of Colombia (en) o
+ n 15 October 2017, 22:00
+DESCRIPTION:OECD Integrity Review of Colombia (en)  
+ - Investing in Integrity for Peace and P
+ rosperity (en) by Directorate for Public
+  Governance has an embargo date/time of 
+ 15 October 2017, 22:00.\n\nDirectorate: 
+ Directorate for Public Governance\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/9789264278325-en\nPublication type: B
+ ook\nReleased as: ePub, Paperback, PDF.\
+ n\niLibrary export: 17 July 2017, 20:21\
+ nFreepreview export: never\nFTI loaded: 
+ ✓.
+DTSTAMP:20170810T015425Z
+DTSTART:20171015T100000Z
+DTEND:20171015T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Integrity Review of Colom
+ bia (en) on 15 October 2017, 22:00
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264278646-es
+SUMMARY:Estudio de la OCDE sobre integridad en C
+ olombia (es) on 15 October 2017, 22:00
+DESCRIPTION:Estudio de la OCDE sobre integridad en C
+ olombia (es)  - Invirtiendo en integrida
+ d pública para afianzar la paz y el desa
+ rrollo (es) by Directorate for Public Go
+ vernance has an embargo date/time of 15 
+ October 2017, 22:00.\n\nDirectorate: Dir
+ ectorate for Public Governance\nLanguage
+ : Spanish\nDOI: https://doi.org/10.1787/
+ 9789264278646-es\nPublication type: Book
+ \nReleased as: PDF, Paperback, ePub.\n\n
+ iLibrary export: 28 July 2017, 21:07\nFr
+ eepreview export: never\nFTI loaded: ✓.
+DTSTAMP:20170810T015425Z
+DTSTART:20171015T100000Z
+DTEND:20171015T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Estudio de la OCDE sobre integ
+ ridad en Colombia (es) on 15 October 201
+ 7, 22:00
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264279063-en
+SUMMARY:Trade in Counterfeit Products and the UK
+  Economy (en) on 3 September 2017, 22:00
+DESCRIPTION:Trade in Counterfeit Products and the UK
+  Economy (en)  - Fake Goods, Real Losses
+  (en) by Directorate for Public Governan
+ ce has an embargo date/time of 3 Septemb
+ er 2017, 22:00.\n\nDirectorate: Director
+ ate for Public Governance\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/97892
+ 64279063-en\nPublication type: Stand-alo
+ ne monograph\nReleased as: PDF, Paperbac
+ k.\n\niLibrary export: 3 August 2017, 20
+ :18\nFreepreview export: 2 August 2017, 
+ 20:43\nFTI loaded: ✓.
+DTSTAMP:20170810T015425Z
+DTSTART:20170903T100000Z
+DTEND:20170903T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Trade in Counterfeit Products 
+ and the UK Economy (en) on 3 September 2
+ 017, 22:00
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264278011-en
+SUMMARY:OECD Telecommunication and Broadcasting 
+ Review of Mexico 2017 (en) on 31 August 
+ 2017, 15:00
+DESCRIPTION:OECD Telecommunication and Broadcasting 
+ Review of Mexico 2017 (en)  by Directora
+ te for Science, Technology and Industry 
+  has an embargo date/time of 31 August 2
+ 017, 15:00.\n\nDirectorate: Directorate 
+ for Science, Technology and Industry \nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/9789264278011-en\nPublication typ
+ e: Stand-alone monograph\nReleased as: P
+ DF, Paperback.\n\niLibrary export: 8 Aug
+ ust 2017, 21:16\nFreepreview export: nev
+ er\nFTI loaded: no.
+DTSTAMP:20170810T015425Z
+DTSTART:20170831T030000Z
+DTEND:20170831T031500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Telecommunication and Bro
+ adcasting Review of Mexico 2017 (en) on 
+ 31 August 2017, 15:00
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264280656-es
 SUMMARY:Estudio de la OCDE sobre telecomunicacio
- nes y radiodifusión en México 2017 (es)
-DESCRIPTION:"Estudio de la OCDE sobre telecomunicaci
- ones y radiodifusión en México 2017 (es)
-  - " and 3 other publications.
-DTSTAMP:20170809T115838Z
+ nes y radiodifusión en México 2017 (es) 
+ on 31 August 2017, 15:00
+DESCRIPTION:Estudio de la OCDE sobre telecomunicacio
+ nes y radiodifusión en México 2017 (es) 
+  by Directorate for Science, Technology 
+ and Industry  has an embargo date/time o
+ f 31 August 2017, 15:00.\n\nDirectorate:
+  Directorate for Science, Technology and
+  Industry \nLanguage: Spanish\nDOI: http
+ s://doi.org/10.1787/9789264280656-es\nPu
+ blication type: Stand-alone monograph\nR
+ eleased as: Paperback, PDF.\n\niLibrary 
+ export: 8 August 2017, 21:16\nFreeprevie
+ w export: never\nFTI loaded: no.
+DTSTAMP:20170810T015425Z
 DTSTART:20170831T030000Z
 DTEND:20170831T031500Z
 TRANSP:TRANSPARENT
@@ -41,110 +246,36 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Estudio de la OCDE sobre telec
  omunicaciones y radiodifusión en México 
- 2017 (es)
+ 2017 (es) on 31 August 2017, 15:00
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:d1e1284@embargoes.oecd.org
-SUMMARY:Trade in Counterfeit Products and the UK
-  Economy (en)
-DESCRIPTION:"Trade in Counterfeit Products and the U
- K Economy (en) - Fake Goods, Real Losses
-  (en)" and one other publication.
-DTSTAMP:20170809T115838Z
-DTSTART:20170903T100000Z
-DTEND:20170903T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Trade in Counterfeit Products 
- and the UK Economy (en)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:d1e1200@embargoes.oecd.org
-SUMMARY:The Land-Water-Energy Nexus (en)
-DESCRIPTION:"The Land-Water-Energy Nexus (en) - Biop
- hysical and Economic Consequences (en)" 
- and one other publication.
-DTSTAMP:20170809T115838Z
+UID:10.1787/9789264279360-en
+SUMMARY:The Land-Water-Energy Nexus (en) on 5 Se
+ ptember 2017, 22:00
+DESCRIPTION:The Land-Water-Energy Nexus (en)  - Biop
+ hysical and Economic Consequences (en) b
+ y Environment Directorate has an embargo
+  date/time of 5 September 2017, 22:00.\n
+ \nDirectorate: Environment Directorate\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/9789264279360-en\nPublication ty
+ pe: Stand-alone monograph\nReleased as: 
+ Paperback, PDF.\n\niLibrary export: 9 Au
+ gust 2017, 20:23\nFreepreview export: 9 
+ August 2017, 21:01\nFTI loaded: ✓.
+DTSTAMP:20170810T015425Z
 DTSTART:20170905T100000Z
 DTEND:20170905T101500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: The Land-Water-Energy Nexus (e
- n)
+ n) on 5 September 2017, 22:00
 END:VALARM
 END:VEVENT
-
-BEGIN:VEVENT
-UID:d1e383@embargoes.oecd.org
-SUMMARY:Reforming Sanitation in Armenia (en)
-DESCRIPTION:"Reforming Sanitation in Armenia (en) - 
- Towards a National Strategy (en)" and on
- e other publication.
-DTSTAMP:20170809T115838Z
-DTSTART:20170928T100000Z
-DTEND:20170928T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Reforming Sanitation in Armeni
- a (en)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:d1e300@embargoes.oecd.org
-SUMMARY:Illicit Financial Flows (en)
-DESCRIPTION:"Illicit Financial Flows (en) - Illicit 
- Trade and Development Challenges in West
-  Africa (en)" and one other publication.
-DTSTAMP:20170809T115838Z
-DTSTART:20170929T100000Z
-DTEND:20170929T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Illicit Financial Flows (en)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:d1e47@embargoes.oecd.org
-SUMMARY:Estudio de la OCDE sobre integridad en C
- olombia (es)
-DESCRIPTION:"Estudio de la OCDE sobre integridad en 
- Colombia (es) - Invirtiendo en integrida
- d pública para afianzar la paz y el desa
- rrollo (es)" and 5 other publications.
-DTSTAMP:20170809T115838Z
-DTSTART:20171015T100000Z
-DTEND:20171015T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Estudio de la OCDE sobre integ
- ridad en Colombia (es)
-END:VALARM
-END:VEVENT
-
 END:VCALENDAR
