@@ -1,79 +1,9 @@
-# XML to ICS converter
+# Embargo calendar
 
-This XSLT script expects a certain XML format (see `test.xml`) and generates a file that follows the iCalendar standard. Only events for unique dates are generated as frequently embargoes seem to fall on the same day.
+You can use this file, `embargoes.ics`, to keep track of OECD embargo dates and hours.
 
-Working URL here (not necessarily updated regularly, yet):  https://raw.githubusercontent.com/jfix/embargo-calendar/master/embargoes.ics
+This file is automatically updated every work day (except when it doesn't).  Please note that this information is provided on a best-effort basis, and you use it on your own risk. Not all information may be relevant to you.
 
-Here is what an event currently looks like in iCal on Mac:
+## On reminders
 
-![ICS event on MacOS iCal](img/macos-ical.png?raw=true "ICS event on MacOS iCal")
-
-And here are two screenshots (one the popup view, the other the detailed view) of Google Calendar:
-
-![Google Calendar popup event](img/google-calendar-popup.png?raw=true "Google Calendar popup event")
-
-![Google Calendar detailed event view](img/google-calendar-details.png?raw=true "Google Calendar detailed event view")
-
-
-## Explanation of iCalendar fields
-
-```
-BEGIN:VEVENT
-UID:d1e1066@embargoes.oecd.org
-SUMMARY:Análisis de políticas fiscales de la OCD
- E: Costa Rica 2017 (es)
-
-DESCRIPTION:"Análisis de políticas fiscales de la OC
- DE: Costa Rica 2017 (es) " and 95 other
- publications
-
-DTSTAMP:20170801T092329Z
-DTSTART:20170801T070000Z
-DTEND:20170801T071500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Análisis de políticas fiscales
-  de la OCDE: Costa Rica 2017 (es)
-
-END:VALARM
-END:VEVENT
-```
-
-Each "calendar event" needs to start with a `BEGIN:VEVENT` and end with a `END:VEVENT`.
-Each such event should (must?) have the following fields:
-* `UID`: event identifier (should not change ideally)
-* `SUMMARY`: equivalent of title in an Outlook event
-* `DESCRIPTION`: equivalent of the main description field in an Outlook event. Fun fact: a line in ICS should not exceed 75 characters (IIRC), therefore one has to split them over several lines, and each continuing line needs to start with a space character.
-* `DTSTAMP`: when the event was created (not the date of the event, that is `DTSTART`)
-* `DTSTART`: the start date/time of the event (note format)
-* `DTEND`: the end date/time
-* `TRANSP:TRANSPARENT`: in our case, the presence of an event should not "block" the time in a person's agenda
-
-Inside the `VEVENT` we have a `VALARM` section that defines a reminder. Each such sections needs to start with a `BEGIN:VALARM` and end with an `END:VALARM`.
-
-The other fields inside the `VEVENT` section that we're using are:
-* `TRIGGER`: when to display reminder? Here we hard code it to 2 days before the event (may need to be more specific)
-* `REPEAT`: just one reminder (not sure what else this could be)
-* `DURATION`: ?
-* `ACTION`: `DISPLAY`Show the reminder (I think it could also play a sound)
-* `DESCRIPTION`: The reminder needs to have a descriptive field (usually the same as the `SUMMARY` in Outlook)
-
-## Limitations
-
-### Line endings
-
-The iCalendar standard expects `CRLF` line endings, but XSLT seems to be 'clever' about this and only generates `CR`. Setting `*.ics text eol=crlf` in the `.gitattributes` file forces CRLF on commit. Quite clever, actually.
-
-### Reminders
-
-The actual limitations are with the calendar clients and mainly regard the reminder functionality. The only one currently correctly handling this is iCal for MacOS. Google Calendar and Microsoft Outlook are both ignoring any `VALARM` sections. Maybe Outlook 2016 is more standards compliant.
-
-## Sources of wisdom
-
-* Help with the standard: https://icalendar.org/RFC-Specifications/iCalendar-RFC-5545/
-* iCalendar validator: https://icalendar.org/validator.html
-* backup validator (in case the other one is unavailable, yes, this has happened): http://severinghaus.org/projects/icv/
+Note that reminders exist for each embargo, but they may not be honoured by all calendar clients. MacOS iCal is currently recommended. Outlook 2010 is known not to work. Google Calendar seems to ignore them but may work under certain circomstances.
