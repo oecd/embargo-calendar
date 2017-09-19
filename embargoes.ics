@@ -23,7 +23,7 @@ DESCRIPTION:Supporting Entrepreneurship and Innovati
  mber 2017, 20:10 Paris time (GMT+00:00)\
  nFreepreview export: never\nFTI loaded: 
  no.
-DTSTAMP:20170917T191442Z
+DTSTAMP:20170919T115212Z
 DTSTART:20171023T090000Z
 DTEND:20171023T091500Z
 TRANSP:TRANSPARENT
@@ -53,10 +53,11 @@ DESCRIPTION:Green Growth in Cebu, Philippines (en)
  ment\nLanguage: English\nDOI: https://do
  i.org/10.1787/9789264277991-en\nPublicat
  ion type: Book\nReleased as: Paperback, 
- PDF.\n\niLibrary export: 14 September 20
- 17, 20:15 Paris time (GMT+00:00)\nFreepr
- eview export: never\nFTI loaded: ✓.
-DTSTAMP:20170917T191442Z
+ PDF.\n\niLibrary export: 18 September 20
+ 17, 20:34 Paris time (GMT+00:00)\nFreepr
+ eview export: 18 September 2017, 21:11 P
+ aris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20170919T115212Z
 DTSTART:20171004T090000Z
 DTEND:20171004T091500Z
 TRANSP:TRANSPARENT
@@ -86,10 +87,11 @@ DESCRIPTION:The Changing Tax Compliance Environment
  oi.org/10.1787/9789264282186-en\nPublica
  tion type: Stand-alone monograph\nReleas
  ed as: PDF, Paperback.\n\niLibrary expor
- t: 15 September 2017, 19:53 Paris time (
- GMT+00:00)\nFreepreview export: never\nF
- TI loaded: no.
-DTSTAMP:20170917T191442Z
+ t: 18 September 2017, 20:34 Paris time (
+ GMT+00:00)\nFreepreview export: 18 Septe
+ mber 2017, 21:11 Paris time (GMT+00:00)\
+ nFTI loaded: ✓.
+DTSTAMP:20170919T115212Z
 DTSTART:20170929T110000Z
 DTEND:20170929T111500Z
 TRANSP:TRANSPARENT
@@ -126,7 +128,7 @@ DESCRIPTION:Legal tax liability, legal remittance re
  nFreepreview export: 6 September 2017, 2
  3:00 Paris time (GMT+00:00)\nFTI loaded:
   ✓.
-DTSTAMP:20170917T191442Z
+DTSTAMP:20170919T115212Z
 DTSTART:20170918T090000Z
 DTEND:20170918T091500Z
 TRANSP:TRANSPARENT
@@ -143,6 +145,38 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/tax_admin-2017-en
+SUMMARY:Tax Administration 2017 (en) on 29 Septe
+ mber 2017, 13:00 Paris time (GMT+02:00)
+DESCRIPTION:Tax Administration 2017 (en)  - Comparat
+ ive Information on OECD and Other Advanc
+ ed and Emerging Economies (en) by Centre
+  for Tax Policy and Administration has a
+ n embargo date/time of 29 September 2017
+ , 13:00 Paris time (GMT+02:00).\n\nDirec
+ torate: Centre for Tax Policy and Admini
+ stration\nLanguage: English\nDOI: https:
+ //doi.org/10.1787/tax_admin-2017-en\nPub
+ lication type: Book\nReleased as: Paperb
+ ack, PDF.\n\niLibrary export: 18 Septemb
+ er 2017, 20:34 Paris time (GMT+00:00)\nF
+ reepreview export: never\nFTI loaded: ✓.
+DTSTAMP:20170919T115212Z
+DTSTART:20170929T110000Z
+DTEND:20170929T111500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Tax Administration 2017 (en) o
+ n 29 September 2017, 13:00 Paris time (G
+ MT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264280854-en-fr
 SUMMARY:Revenue Statistics in Africa 2017 (en), 
  Statistiques des recettes publiques en A
@@ -150,20 +184,20 @@ SUMMARY:Revenue Statistics in Africa 2017 (en),
  00 Paris time (GMT+02:00)
 DESCRIPTION:Revenue Statistics in Africa 2017 (en), 
  Statistiques des recettes publiques en A
- frique 2017 (fr)  by Centre for Tax Poli
- cy and Administration, Development Centr
- e has an embargo date/time of 12 October
+ frique 2017 (fr)  by Development Centre,
+  Centre for Tax Policy and Administratio
+ n has an embargo date/time of 12 October
   2017, 13:00 Paris time (GMT+02:00).\n\n
- Directorate: Centre for Tax Policy and A
- dministration, Development Centre\nLangu
+ Directorate: Development Centre, Centre 
+ for Tax Policy and Administration\nLangu
  age: English, French\nDOI: https://doi.o
  rg/10.1787/9789264280854-en-fr\nPublicat
  ion type: Stand-alone monograph\nRelease
  d as: Paperback, PDF.\n\niLibrary export
- : 15 September 2017, 19:53 Paris time (G
+ : 18 September 2017, 20:34 Paris time (G
  MT+00:00)\nFreepreview export: never\nFT
  I loaded: no.
-DTSTAMP:20170917T191442Z
+DTSTAMP:20170919T115212Z
 DTSTART:20171012T110000Z
 DTEND:20171012T111500Z
 TRANSP:TRANSPARENT
@@ -196,7 +230,7 @@ DESCRIPTION:Illicit Financial Flows (en)  - Illicit
  \niLibrary export: 4 September 2017, 19:
  59 Paris time (GMT+00:00)\nFreepreview e
  xport: never\nFTI loaded: no.
-DTSTAMP:20170917T191442Z
+DTSTAMP:20170919T115212Z
 DTSTART:20170929T220000Z
 DTEND:20170929T221500Z
 TRANSP:TRANSPARENT
@@ -224,11 +258,11 @@ DESCRIPTION:Pratiques pédagogiques (fr)  - Qu’en pen
   and Skills\nLanguage: French\nDOI: http
  s://doi.org/10.1787/2d86e826-fr\nPublica
  tion type: Working paper\nReleased as: P
- DF.\n\niLibrary export: 15 September 201
- 7, 19:53 Paris time (GMT+00:00)\nFreepre
- view export: 15 September 2017, 20:27 Pa
+ DF.\n\niLibrary export: 18 September 201
+ 7, 20:34 Paris time (GMT+00:00)\nFreepre
+ view export: 18 September 2017, 21:11 Pa
  ris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170917T191442Z
+DTSTAMP:20170919T115212Z
 DTSTART:20170918T090000Z
 DTEND:20170918T091500Z
 TRANSP:TRANSPARENT
@@ -256,11 +290,11 @@ DESCRIPTION:Schools at the Crossroads of Innovation
  Directorate for Education and Skills\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/9789264282766-en\nPublication type
- : Book\nReleased as: Paperback, PDF.\n\n
+ : Book\nReleased as: PDF, Paperback.\n\n
  iLibrary export: 15 September 2017, 19:5
  3 Paris time (GMT+00:00)\nFreepreview ex
  port: never\nFTI loaded: no.
-DTSTAMP:20170917T191442Z
+DTSTAMP:20170919T115212Z
 DTSTART:20170924T220100Z
 DTEND:20170924T221600Z
 TRANSP:TRANSPARENT
@@ -293,7 +327,7 @@ DESCRIPTION:How do teachers teach? (en)  - Insights
  Paris time (GMT+00:00)\nFreepreview expo
  rt: 12 September 2017, 20:43 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170917T191442Z
+DTSTAMP:20170919T115212Z
 DTSTART:20170918T090000Z
 DTEND:20170918T091500Z
 TRANSP:TRANSPARENT
@@ -320,12 +354,12 @@ DESCRIPTION:Getting Skills Right: Italy (en)  by Dir
  loyment, Labour and Social Affairs\nLang
  uage: English\nDOI: https://doi.org/10.1
  787/9789264278639-en\nPublication type: 
- Book\nReleased as: Paperback, PDF.\n\niL
+ Book\nReleased as: PDF, Paperback.\n\niL
  ibrary export: 12 September 2017, 20:10 
  Paris time (GMT+00:00)\nFreepreview expo
  rt: 19 July 2017, 21:15 Paris time (GMT+
  00:00)\nFTI loaded: ✓.
-DTSTAMP:20170917T191442Z
+DTSTAMP:20170919T115212Z
 DTSTART:20171005T090000Z
 DTEND:20171005T091500Z
 TRANSP:TRANSPARENT
@@ -359,7 +393,7 @@ DESCRIPTION:OECD Integrity Review of Colombia (en)
  00:00)\nFreepreview export: 10 August 20
  17, 21:15 Paris time (GMT+00:00)\nFTI lo
  aded: ✓.
-DTSTAMP:20170917T191442Z
+DTSTAMP:20170919T115212Z
 DTSTART:20171015T220000Z
 DTEND:20171015T221500Z
 TRANSP:TRANSPARENT
@@ -394,7 +428,7 @@ DESCRIPTION:Estudio de la OCDE sobre integridad en C
  00)\nFreepreview export: 10 August 2017,
   21:15 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20170917T191442Z
+DTSTAMP:20170919T115212Z
 DTSTART:20171015T220000Z
 DTEND:20171015T221500Z
 TRANSP:TRANSPARENT
@@ -423,12 +457,12 @@ DESCRIPTION:Driving Performance at Mexico's Agency f
  orate: Directorate for Public Governance
  \nLanguage: English\nDOI: https://doi.or
  g/10.1787/9789264280458-en\nPublication 
- type: Book\nReleased as: Paperback, PDF.
+ type: Book\nReleased as: PDF, Paperback.
  \n\niLibrary export: 11 September 2017, 
  20:04 Paris time (GMT+00:00)\nFreeprevie
  w export: 11 September 2017, 20:43 Paris
   time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170917T191442Z
+DTSTAMP:20170919T115212Z
 DTSTART:20171011T220000Z
 DTEND:20171011T221500Z
 TRANSP:TRANSPARENT
@@ -457,12 +491,12 @@ DESCRIPTION:Driving Performance at Mexico's National
  rectorate for Public Governance\nLanguag
  e: English\nDOI: https://doi.org/10.1787
  /9789264280748-en\nPublication type: Boo
- k\nReleased as: Paperback, PDF.\n\niLibr
+ k\nReleased as: PDF, Paperback.\n\niLibr
  ary export: 11 September 2017, 20:04 Par
  is time (GMT+00:00)\nFreepreview export:
   11 September 2017, 20:43 Paris time (GM
  T+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170917T191442Z
+DTSTAMP:20170919T115212Z
 DTSTART:20171011T220000Z
 DTEND:20171011T221500Z
 TRANSP:TRANSPARENT
@@ -491,12 +525,12 @@ DESCRIPTION:Driving Performance at Mexico's Energy R
  orate for Public Governance\nLanguage: E
  nglish\nDOI: https://doi.org/10.1787/978
  9264280830-en\nPublication type: Book\nR
- eleased as: PDF, Paperback.\n\niLibrary 
+ eleased as: Paperback, PDF.\n\niLibrary 
  export: 11 September 2017, 20:04 Paris t
  ime (GMT+00:00)\nFreepreview export: 11 
  September 2017, 20:43 Paris time (GMT+00
  :00)\nFTI loaded: ✓.
-DTSTAMP:20170917T191442Z
+DTSTAMP:20170919T115212Z
 DTSTART:20171011T220000Z
 DTEND:20171011T221500Z
 TRANSP:TRANSPARENT
@@ -526,11 +560,11 @@ DESCRIPTION:Impulsando el desempeño de la Comisión N
  torate: Directorate for Public Governanc
  e\nLanguage: Spanish\nDOI: https://doi.o
  rg/10.1787/9789264280908-es\nPublication
-  type: Book\nReleased as: Paperback, PDF
- .\n\niLibrary export: 14 September 2017,
-  20:15 Paris time (GMT+00:00)\nFreeprevi
+  type: Book\nReleased as: PDF, Paperback
+ .\n\niLibrary export: 18 September 2017,
+  20:34 Paris time (GMT+00:00)\nFreeprevi
  ew export: never\nFTI loaded: ✓.
-DTSTAMP:20170917T191442Z
+DTSTAMP:20170919T115212Z
 DTSTART:20171011T220000Z
 DTEND:20171011T221500Z
 TRANSP:TRANSPARENT
@@ -561,11 +595,11 @@ DESCRIPTION:Impulsando el desempeño de la Comisión R
  anguage: Spanish\nDOI: https://doi.org/1
  0.1787/9789264280960-es\nPublication typ
  e: Book\nReleased as: PDF, Paperback.\n\
- niLibrary export: 13 September 2017, 20:
- 02 Paris time (GMT+00:00)\nFreepreview e
+ niLibrary export: 18 September 2017, 20:
+ 34 Paris time (GMT+00:00)\nFreepreview e
  xport: 13 September 2017, 20:35 Paris ti
  me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170917T191442Z
+DTSTAMP:20170919T115212Z
 DTSTART:20171011T220000Z
 DTEND:20171011T221500Z
 TRANSP:TRANSPARENT
@@ -596,11 +630,11 @@ DESCRIPTION:Impulsando el desempeño de la Agencia de
  ernance\nLanguage: Spanish\nDOI: https:/
  /doi.org/10.1787/9789264280991-es\nPubli
  cation type: Book\nReleased as: PDF, Pap
- erback.\n\niLibrary export: 11 September
-  2017, 20:04 Paris time (GMT+00:00)\nFre
+ erback.\n\niLibrary export: 18 September
+  2017, 20:34 Paris time (GMT+00:00)\nFre
  epreview export: 11 September 2017, 20:4
  3 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170917T191442Z
+DTSTAMP:20170919T115212Z
 DTSTART:20171011T220000Z
 DTEND:20171011T221500Z
 TRANSP:TRANSPARENT
@@ -613,6 +647,41 @@ DESCRIPTION:Reminder: Impulsando el desempeño de la
  Agencia de Seguridad, Energía y Ambiente
   de México (es) on 12 October 2017, 0:00
   Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/2f8e1d6d-en
+SUMMARY:Findings of the recent literature on int
+ ernational capital flows (en) on 19 Sept
+ ember 2017, 2:00 Paris time (GMT+02:00)
+DESCRIPTION:Findings of the recent literature on int
+ ernational capital flows (en)  - Implica
+ tions and suggestions for further resear
+ ch (en) by Economics Department has an e
+ mbargo date/time of 19 September 2017, 2
+ :00 Paris time (GMT+02:00).\n\nDirectora
+ te: Economics Department\nLanguage: Engl
+ ish\nDOI: https://doi.org/10.1787/2f8e1d
+ 6d-en\nPublication type: Working paper\n
+ Released as: PDF.\n\niLibrary export: 18
+  September 2017, 20:34 Paris time (GMT+0
+ 0:00)\nFreepreview export: 18 September 
+ 2017, 21:11 Paris time (GMT+00:00)\nFTI 
+ loaded: ✓.
+DTSTAMP:20170919T115212Z
+DTSTART:20170919T000000Z
+DTEND:20170919T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Findings of the recent literat
+ ure on international capital flows (en) 
+ on 19 September 2017, 2:00 Paris time (G
+ MT+02:00)
 END:VALARM
 END:VEVENT
 
@@ -634,7 +703,7 @@ DESCRIPTION:Reforming Sanitation in Armenia (en)  -
  \nFreepreview export: 10 August 2017, 21
  :15 Paris time (GMT+00:00)\nFTI loaded: 
  ✓.
-DTSTAMP:20170917T191442Z
+DTSTAMP:20170919T115212Z
 DTSTART:20170928T220000Z
 DTEND:20170928T221500Z
 TRANSP:TRANSPARENT
@@ -667,7 +736,7 @@ DESCRIPTION:The Land-Water-Energy Nexus (en)  - Biop
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 24 August 2017, 22:22 Paris time (G
  MT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170917T191442Z
+DTSTAMP:20170919T115212Z
 DTSTART:20170925T220000Z
 DTEND:20170925T221500Z
 TRANSP:TRANSPARENT
@@ -698,7 +767,7 @@ DESCRIPTION:#Childmothers (en)  - 17 Stories about B
  2017, 20:15 Paris time (GMT+00:00)\nFree
  preview export: 14 September 2017, 20:56
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170917T191442Z
+DTSTAMP:20170919T115212Z
 DTSTART:20170918T150000Z
 DTEND:20170918T151500Z
 TRANSP:TRANSPARENT
@@ -729,7 +798,7 @@ DESCRIPTION:Report of the Secretary-General on the W
  T+00:00)\nFreepreview export: 14 Septemb
  er 2017, 20:56 Paris time (GMT+00:00)\nF
  TI loaded: ✓.
-DTSTAMP:20170917T191442Z
+DTSTAMP:20170919T115212Z
 DTSTART:20170918T150000Z
 DTEND:20170918T151500Z
 TRANSP:TRANSPARENT
