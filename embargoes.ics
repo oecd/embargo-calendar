@@ -23,7 +23,7 @@ DESCRIPTION:Supporting Entrepreneurship and Innovati
  mber 2017, 20:10 Paris time (GMT+00:00)\
  nFreepreview export: never\nFTI loaded: 
  no.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20171023T090000Z
 DTEND:20171023T091500Z
 TRANSP:TRANSPARENT
@@ -57,7 +57,7 @@ DESCRIPTION:Green Growth in Cebu, Philippines (en)
  17, 20:34 Paris time (GMT+00:00)\nFreepr
  eview export: 18 September 2017, 21:11 P
  aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20171004T090000Z
 DTEND:20171004T091500Z
 TRANSP:TRANSPARENT
@@ -91,7 +91,7 @@ DESCRIPTION:The Changing Tax Compliance Environment
  GMT+00:00)\nFreepreview export: 18 Septe
  mber 2017, 21:11 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170929T110000Z
 DTEND:20170929T111500Z
 TRANSP:TRANSPARENT
@@ -104,228 +104,6 @@ DESCRIPTION:Reminder: The Changing Tax Compliance En
  vironment and the Role of Audit (en) on 
  29 September 2017, 13:00 Paris time (GMT
  +02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264282599-en
-SUMMARY:Making Dispute Resolution More Effective
-  - MAP Peer Review Report, Belgium (Stag
- e 1) (en) on 26 September 2017, 11:00 Pa
- ris time (GMT+02:00)
-DESCRIPTION:Making Dispute Resolution More Effective
-  - MAP Peer Review Report, Belgium (Stag
- e 1) (en)  - Inclusive Framework on BEPS
- : Action 14 (en) by Centre for Tax Polic
- y and Administration has an embargo date
- /time of 26 September 2017, 11:00 Paris 
- time (GMT+02:00).\n\nDirectorate: Centre
-  for Tax Policy and Administration\nLang
- uage: English\nDOI: https://doi.org/10.1
- 787/9789264282599-en\nPublication type: 
- Book\nReleased as: PDF, Paperback.\n\niL
- ibrary export: 20 September 2017, 20:23 
- Paris time (GMT+00:00)\nFreepreview expo
- rt: 20 September 2017, 21:05 Paris time 
- (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
-DTSTART:20170926T090000Z
-DTEND:20170926T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Making Dispute Resolution More
-  Effective - MAP Peer Review Report, Bel
- gium (Stage 1) (en) on 26 September 2017
- , 11:00 Paris time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264282612-en
-SUMMARY:Making Dispute Resolution More Effective
-  - MAP Peer Review Report, Canada (Stage
-  1) (en) on 26 September 2017, 11:00 Par
- is time (GMT+02:00)
-DESCRIPTION:Making Dispute Resolution More Effective
-  - MAP Peer Review Report, Canada (Stage
-  1) (en)  - Inclusive Framework on BEPS:
-  Action 14 (en) by Centre for Tax Policy
-  and Administration has an embargo date/
- time of 26 September 2017, 11:00 Paris t
- ime (GMT+02:00).\n\nDirectorate: Centre 
- for Tax Policy and Administration\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/9789264282612-en\nPublication type: B
- ook\nReleased as: PDF, Paperback.\n\niLi
- brary export: 21 September 2017, 19:58 P
- aris time (GMT+00:00)\nFreepreview expor
- t: 21 September 2017, 20:33 Paris time (
- GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
-DTSTART:20170926T090000Z
-DTEND:20170926T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Making Dispute Resolution More
-  Effective - MAP Peer Review Report, Can
- ada (Stage 1) (en) on 26 September 2017,
-  11:00 Paris time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264282629-en
-SUMMARY:Making Dispute Resolution More Effective
-  - MAP Peer Review Report, The Netherlan
- ds (Stage 1) (en) on 26 September 2017, 
- 11:00 Paris time (GMT+02:00)
-DESCRIPTION:Making Dispute Resolution More Effective
-  - MAP Peer Review Report, The Netherlan
- ds (Stage 1) (en)  - Inclusive Framework
-  on BEPS: Action 14 (en) by Centre for T
- ax Policy and Administration has an emba
- rgo date/time of 26 September 2017, 11:0
- 0 Paris time (GMT+02:00).\n\nDirectorate
- : Centre for Tax Policy and Administrati
- on\nLanguage: English\nDOI: https://doi.
- org/10.1787/9789264282629-en\nPublicatio
- n type: Book\nReleased as: Paperback, PD
- F.\n\niLibrary export: 21 September 2017
- , 19:58 Paris time (GMT+00:00)\nFreeprev
- iew export: 21 September 2017, 20:33 Par
- is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
-DTSTART:20170926T090000Z
-DTEND:20170926T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Making Dispute Resolution More
-  Effective - MAP Peer Review Report, The
-  Netherlands (Stage 1) (en) on 26 Septem
- ber 2017, 11:00 Paris time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264282650-en
-SUMMARY:Making Dispute Resolution More Effective
-  - MAP Peer Review Report, Switzerland (
- Stage 1) (en) on 26 September 2017, 11:0
- 0 Paris time (GMT+02:00)
-DESCRIPTION:Making Dispute Resolution More Effective
-  - MAP Peer Review Report, Switzerland (
- Stage 1) (en)  - Inclusive Framework on 
- BEPS: Action 14 (en) by Centre for Tax P
- olicy and Administration has an embargo 
- date/time of 26 September 2017, 11:00 Pa
- ris time (GMT+02:00).\n\nDirectorate: Ce
- ntre for Tax Policy and Administration\n
- Language: English\nDOI: https://doi.org/
- 10.1787/9789264282650-en\nPublication ty
- pe: Book\nReleased as: Paperback, PDF.\n
- \niLibrary export: 20 September 2017, 20
- :23 Paris time (GMT+00:00)\nFreepreview 
- export: 20 September 2017, 21:05 Paris t
- ime (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
-DTSTART:20170926T090000Z
-DTEND:20170926T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Making Dispute Resolution More
-  Effective - MAP Peer Review Report, Swi
- tzerland (Stage 1) (en) on 26 September 
- 2017, 11:00 Paris time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264282674-en
-SUMMARY:Making Dispute Resolution More Effective
-  - MAP Peer Review Report, United Kingdo
- m (Stage 1) (en) on 26 September 2017, 1
- 1:00 Paris time (GMT+02:00)
-DESCRIPTION:Making Dispute Resolution More Effective
-  - MAP Peer Review Report, United Kingdo
- m (Stage 1) (en)  - Inclusive Framework 
- on BEPS: Action 14 (en) by Centre for Ta
- x Policy and Administration has an embar
- go date/time of 26 September 2017, 11:00
-  Paris time (GMT+02:00).\n\nDirectorate:
-  Centre for Tax Policy and Administratio
- n\nLanguage: English\nDOI: https://doi.o
- rg/10.1787/9789264282674-en\nPublication
-  type: Book\nReleased as: PDF, Paperback
- .\n\niLibrary export: 20 September 2017,
-  20:23 Paris time (GMT+00:00)\nFreeprevi
- ew export: 20 September 2017, 21:05 Pari
- s time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
-DTSTART:20170926T090000Z
-DTEND:20170926T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Making Dispute Resolution More
-  Effective - MAP Peer Review Report, Uni
- ted Kingdom (Stage 1) (en) on 26 Septemb
- er 2017, 11:00 Paris time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264282698-en
-SUMMARY:Making Dispute Resolution More Effective
-  - MAP Peer Review Report, United States
-  (Stage 1) (en) on 26 September 2017, 11
- :00 Paris time (GMT+02:00)
-DESCRIPTION:Making Dispute Resolution More Effective
-  - MAP Peer Review Report, United States
-  (Stage 1) (en)  - Inclusive Framework o
- n BEPS: Action 14 (en) by Centre for Tax
-  Policy and Administration has an embarg
- o date/time of 26 September 2017, 11:00 
- Paris time (GMT+02:00).\n\nDirectorate: 
- Centre for Tax Policy and Administration
- \nLanguage: English\nDOI: https://doi.or
- g/10.1787/9789264282698-en\nPublication 
- type: Book\nReleased as: Paperback, PDF.
- \n\niLibrary export: 20 September 2017, 
- 20:23 Paris time (GMT+00:00)\nFreeprevie
- w export: 20 September 2017, 21:05 Paris
-  time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
-DTSTART:20170926T090000Z
-DTEND:20170926T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Making Dispute Resolution More
-  Effective - MAP Peer Review Report, Uni
- ted States (Stage 1) (en) on 26 Septembe
- r 2017, 11:00 Paris time (GMT+02:00)
 END:VALARM
 END:VEVENT
 
@@ -348,7 +126,7 @@ DESCRIPTION:Tax Administration 2017 (en)  - Comparat
  reepreview export: 20 September 2017, 21
  :05 Paris time (GMT+00:00)\nFTI loaded: 
  ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170929T110000Z
 DTEND:20170929T111500Z
 TRANSP:TRANSPARENT
@@ -371,12 +149,12 @@ SUMMARY:Revenue Statistics in Africa 2017 (en),
  00 Paris time (GMT+02:00)
 DESCRIPTION:Revenue Statistics in Africa 2017 (en), 
  Statistiques des recettes publiques en A
- frique 2017 (fr)  by Centre for Tax Poli
- cy and Administration, Development Centr
- e has an embargo date/time of 12 October
+ frique 2017 (fr)  by Development Centre,
+  Centre for Tax Policy and Administratio
+ n has an embargo date/time of 12 October
   2017, 13:00 Paris time (GMT+02:00).\n\n
- Directorate: Centre for Tax Policy and A
- dministration, Development Centre\nLangu
+ Directorate: Development Centre, Centre 
+ for Tax Policy and Administration\nLangu
  age: French, English\nDOI: https://doi.o
  rg/10.1787/9789264280854-en-fr\nPublicat
  ion type: Stand-alone monograph\nRelease
@@ -385,7 +163,7 @@ DESCRIPTION:Revenue Statistics in Africa 2017 (en),
  MT+00:00)\nFreepreview export: 21 Septem
  ber 2017, 20:33 Paris time (GMT+00:00)\n
  FTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20171012T110000Z
 DTEND:20171012T111500Z
 TRANSP:TRANSPARENT
@@ -416,7 +194,7 @@ DESCRIPTION:Education in Lithuania (en)  by Director
  iLibrary export: 19 September 2017, 20:4
  0 Paris time (GMT+00:00)\nFreepreview ex
  port: never\nFTI loaded: no.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20171016T090000Z
 DTEND:20171016T091500Z
 TRANSP:TRANSPARENT
@@ -448,7 +226,7 @@ DESCRIPTION:Getting Skills Right: Italy (en)  by Dir
  Paris time (GMT+00:00)\nFreepreview expo
  rt: 19 September 2017, 21:23 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20171005T090000Z
 DTEND:20171005T091500Z
 TRANSP:TRANSPARENT
@@ -464,41 +242,35 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:10.1787/9789264279087-en
-SUMMARY:Preventing Ageing Unequally (en) on 10 O
- ctober 2017, 11:00 Paris time (GMT+02:00
- )
-DESCRIPTION:Preventing Ageing Unequally (en)  by Dir
- ectorate for Employment, Labour and Soci
- al Affairs, Directorate for Public Gover
- nance, Statistics Directorate, Directora
- te for Science, Technology and Industry 
-  has an embargo date/time of 10 October 
- 2017, 11:00 Paris time (GMT+02:00).\n\nD
- irectorate: Directorate for Employment, 
- Labour and Social Affairs, Directorate f
- or Public Governance, Statistics Directo
- rate, Directorate for Science, Technolog
- y and Industry \nLanguage: English\nDOI:
-  https://doi.org/10.1787/9789264279087-e
- n\nPublication type: Stand-alone monogra
- ph\nReleased as: PDF, Paperback.\n\niLib
- rary export: 26 September 2017, 22:52 Pa
- ris time (GMT+00:00)\nFreepreview export
- : 26 September 2017, 23:35 Paris time (G
- MT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
-DTSTART:20171010T090000Z
-DTEND:20171010T091500Z
+UID:10.1787/9789264281318-en
+SUMMARY:The Pursuit of Gender Equality (en) on 4
+  October 2017, 11:00 Paris time (GMT+02:
+ 00)
+DESCRIPTION:The Pursuit of Gender Equality (en)  - A
+ n Uphill Battle (en) by Directorate for 
+ Employment, Labour and Social Affairs ha
+ s an embargo date/time of 4 October 2017
+ , 11:00 Paris time (GMT+02:00).\n\nDirec
+ torate: Directorate for Employment, Labo
+ ur and Social Affairs\nLanguage: English
+ \nDOI: https://doi.org/10.1787/978926428
+ 1318-en\nPublication type: Stand-alone m
+ onograph\nReleased as: Paperback, PDF.\n
+ \niLibrary export: 20 September 2017, 20
+ :23 Paris time (GMT+00:00)\nFreepreview 
+ export: never\nFTI loaded: no.
+DTSTAMP:20170928T232021Z
+DTSTART:20171004T090000Z
+DTEND:20171004T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT24H
+TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Preventing Ageing Unequally (e
- n) on 10 October 2017, 11:00 Paris time 
- (GMT+02:00)
+DESCRIPTION:Reminder: The Pursuit of Gender Equality
+  (en) on 4 October 2017, 11:00 Paris tim
+ e (GMT+02:00)
 END:VALARM
 END:VEVENT
 
@@ -521,7 +293,7 @@ DESCRIPTION:OECD Integrity Review of Colombia (en)
  00:00)\nFreepreview export: 10 August 20
  17, 21:15 Paris time (GMT+00:00)\nFTI lo
  aded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20171015T220000Z
 DTEND:20171015T221500Z
 TRANSP:TRANSPARENT
@@ -556,7 +328,7 @@ DESCRIPTION:Estudio de la OCDE sobre integridad en C
  00)\nFreepreview export: 10 August 2017,
   21:15 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20171015T220000Z
 DTEND:20171015T221500Z
 TRANSP:TRANSPARENT
@@ -590,7 +362,7 @@ DESCRIPTION:Driving Performance at Mexico's Agency f
  20:04 Paris time (GMT+00:00)\nFreeprevie
  w export: 11 September 2017, 20:43 Paris
   time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20171011T220000Z
 DTEND:20171011T221500Z
 TRANSP:TRANSPARENT
@@ -624,7 +396,7 @@ DESCRIPTION:Driving Performance at Mexico's National
  is time (GMT+00:00)\nFreepreview export:
   11 September 2017, 20:43 Paris time (GM
  T+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20171011T220000Z
 DTEND:20171011T221500Z
 TRANSP:TRANSPARENT
@@ -658,7 +430,7 @@ DESCRIPTION:Driving Performance at Mexico's Energy R
  ime (GMT+00:00)\nFreepreview export: 11 
  September 2017, 20:43 Paris time (GMT+00
  :00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20171011T220000Z
 DTEND:20171011T221500Z
 TRANSP:TRANSPARENT
@@ -693,7 +465,7 @@ DESCRIPTION:Impulsando el desempeño de la Comisión N
   20:40 Paris time (GMT+00:00)\nFreeprevi
  ew export: 19 September 2017, 21:23 Pari
  s time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20171011T220000Z
 DTEND:20171011T221500Z
 TRANSP:TRANSPARENT
@@ -728,7 +500,7 @@ DESCRIPTION:Impulsando el desempeño de la Comisión R
  34 Paris time (GMT+00:00)\nFreepreview e
  xport: 13 September 2017, 20:35 Paris ti
  me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20171011T220000Z
 DTEND:20171011T221500Z
 TRANSP:TRANSPARENT
@@ -763,7 +535,7 @@ DESCRIPTION:Impulsando el desempeño de la Agencia de
   2017, 20:34 Paris time (GMT+00:00)\nFre
  epreview export: 11 September 2017, 20:4
  3 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20171011T220000Z
 DTEND:20171011T221500Z
 TRANSP:TRANSPARENT
@@ -792,12 +564,12 @@ DESCRIPTION:OECD Digital Economy Outlook 2017 (en)
  cience, Technology and Industry \nLangua
  ge: English\nDOI: https://doi.org/10.178
  7/9789264276284-en\nPublication type: St
- and-alone monograph\nReleased as: ePub, 
- PDF, Paperback.\n\niLibrary export: 21 S
+ and-alone monograph\nReleased as: PDF, P
+ aperback, ePub.\n\niLibrary export: 21 S
  eptember 2017, 19:58 Paris time (GMT+00:
  00)\nFreepreview export: never\nFTI load
  ed: no.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20171011T050000Z
 DTEND:20171011T051500Z
 TRANSP:TRANSPARENT
@@ -830,7 +602,7 @@ DESCRIPTION:Perspectives de l'économie numérique de
  rary export: 21 September 2017, 19:58 Pa
  ris time (GMT+00:00)\nFreepreview export
  : never\nFTI loaded: no.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20171011T050000Z
 DTEND:20171011T051500Z
 TRANSP:TRANSPARENT
@@ -842,6 +614,45 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Perspectives de l'économie num
  érique de l'OCDE 2017 (fr) on 11 October
   2017, 7:00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264279087-en
+SUMMARY:Preventing Ageing Unequally (en) on 10 O
+ ctober 2017, 11:00 Paris time (GMT+02:00
+ )
+DESCRIPTION:Preventing Ageing Unequally (en)  by Dir
+ ectorate for Science, Technology and Ind
+ ustry , Statistics Directorate, Director
+ ate for Public Governance, Directorate f
+ or Employment, Labour and Social Affairs
+  has an embargo date/time of 10 October 
+ 2017, 11:00 Paris time (GMT+02:00).\n\nD
+ irectorate: Directorate for Science, Tec
+ hnology and Industry , Statistics Direct
+ orate, Directorate for Public Governance
+ , Directorate for Employment, Labour and
+  Social Affairs\nLanguage: English\nDOI:
+  https://doi.org/10.1787/9789264279087-e
+ n\nPublication type: Stand-alone monogra
+ ph\nReleased as: PDF, Paperback.\n\niLib
+ rary export: 26 September 2017, 22:52 Pa
+ ris time (GMT+00:00)\nFreepreview export
+ : 26 September 2017, 23:35 Paris time (G
+ MT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20170928T232021Z
+DTSTART:20171010T090000Z
+DTEND:20171010T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Preventing Ageing Unequally (e
+ n) on 10 October 2017, 11:00 Paris time 
+ (GMT+02:00)
 END:VALARM
 END:VEVENT
 
@@ -863,7 +674,7 @@ DESCRIPTION:Financial Inclusion and Women Entreprene
  nFreepreview export: 25 September 2017, 
  21:29 Paris time (GMT+00:00)\nFTI loaded
  : ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170927T000000Z
 DTEND:20170927T001500Z
 TRANSP:TRANSPARENT
@@ -895,7 +706,7 @@ DESCRIPTION:Achieving strong and balanced regional d
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 25 September 2017, 21:29 Paris time
   (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170927T000000Z
 DTEND:20170927T001500Z
 TRANSP:TRANSPARENT
@@ -929,7 +740,7 @@ DESCRIPTION:Reforming Sanitation in Armenia (en)  -
  \nFreepreview export: 10 August 2017, 21
  :15 Paris time (GMT+00:00)\nFTI loaded: 
  ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T220000Z
 DTEND:20170928T221500Z
 TRANSP:TRANSPARENT
@@ -941,39 +752,6 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Reforming Sanitation in Armeni
  a (en) on 29 September 2017, 0:00 Paris 
  time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264279360-en
-SUMMARY:The Land-Water-Energy Nexus (en) on 26 S
- eptember 2017, 11:00 Paris time (GMT+02:
- 00)
-DESCRIPTION:The Land-Water-Energy Nexus (en)  - Biop
- hysical and Economic Consequences (en) b
- y Environment Directorate has an embargo
-  date/time of 26 September 2017, 11:00 P
- aris time (GMT+02:00).\n\nDirectorate: E
- nvironment Directorate\nLanguage: Englis
- h\nDOI: https://doi.org/10.1787/97892642
- 79360-en\nPublication type: Stand-alone 
- monograph\nReleased as: PDF, Paperback.\
- n\niLibrary export: 25 September 2017, 2
- 0:26 Paris time (GMT+00:00)\nFreepreview
-  export: 25 September 2017, 21:29 Paris 
- time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
-DTSTART:20170926T090000Z
-DTEND:20170926T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: The Land-Water-Energy Nexus (e
- n) on 26 September 2017, 11:00 Paris tim
- e (GMT+02:00)
 END:VALARM
 END:VEVENT
 
@@ -995,7 +773,7 @@ DESCRIPTION:Women's Economic Empowerment in Selected
  rback.\n\niLibrary export: 26 September 
  2017, 22:52 Paris time (GMT+00:00)\nFree
  preview export: never\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20171007T080000Z
 DTEND:20171007T081500Z
 TRANSP:TRANSPARENT
@@ -1029,7 +807,7 @@ DESCRIPTION:L'autonomisation économique des femmes d
  ptember 2017, 20:26 Paris time (GMT+00:0
  0)\nFreepreview export: never\nFTI loade
  d: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20171007T080000Z
 DTEND:20171007T081500Z
 TRANSP:TRANSPARENT
@@ -1064,7 +842,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 26 September 2017, 23:36 Paris time
   (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1099,7 +877,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
  2:52 Paris time (GMT+00:00)\nFreepreview
   export: 26 September 2017, 23:36 Paris 
  time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1134,7 +912,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
  2 Paris time (GMT+00:00)\nFreepreview ex
  port: 26 September 2017, 23:36 Paris tim
  e (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1169,7 +947,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
  22:52 Paris time (GMT+00:00)\nFreeprevie
  w export: 26 September 2017, 23:36 Paris
   time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1204,7 +982,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
   22:52 Paris time (GMT+00:00)\nFreeprevi
  ew export: 26 September 2017, 23:36 Pari
  s time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1239,7 +1017,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
  2017, 22:52 Paris time (GMT+00:00)\nFree
  preview export: 26 September 2017, 23:36
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1275,7 +1053,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
  :52 Paris time (GMT+00:00)\nFreepreview 
  export: 26 September 2017, 23:36 Paris t
  ime (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1308,7 +1086,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
   22:52 Paris time (GMT+00:00)\nFreeprevi
  ew export: 26 September 2017, 23:36 Pari
  s time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1342,7 +1120,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
  +00:00)\nFreepreview export: 26 Septembe
  r 2017, 23:36 Paris time (GMT+00:00)\nFT
  I loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1377,7 +1155,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
  is time (GMT+00:00)\nFreepreview export:
   26 September 2017, 23:36 Paris time (GM
  T+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1412,7 +1190,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
   22:52 Paris time (GMT+00:00)\nFreeprevi
  ew export: 26 September 2017, 23:36 Pari
  s time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1448,7 +1226,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
  e (GMT+00:00)\nFreepreview export: 26 Se
  ptember 2017, 23:36 Paris time (GMT+00:0
  0)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1483,7 +1261,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
  0:05 Paris time (GMT+00:00)\nFreepreview
   export: 27 September 2017, 20:43 Paris 
  time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1518,7 +1296,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
  (GMT+00:00)\nFreepreview export: 26 Sept
  ember 2017, 23:36 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1555,7 +1333,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
  )\nFreepreview export: 26 September 2017
  , 23:36 Paris time (GMT+00:00)\nFTI load
  ed: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1591,7 +1369,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
  2 Paris time (GMT+00:00)\nFreepreview ex
  port: 26 September 2017, 23:36 Paris tim
  e (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1626,7 +1404,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
  s time (GMT+00:00)\nFreepreview export: 
  26 September 2017, 23:36 Paris time (GMT
  +00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1661,7 +1439,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
  17, 22:52 Paris time (GMT+00:00)\nFreepr
  eview export: 26 September 2017, 23:36 P
  aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1697,7 +1475,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
  , 22:52 Paris time (GMT+00:00)\nFreeprev
  iew export: 26 September 2017, 23:36 Par
  is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1733,7 +1511,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
  5 Paris time (GMT+00:00)\nFreepreview ex
  port: 27 September 2017, 20:43 Paris tim
  e (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1768,7 +1546,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
   2017, 22:52 Paris time (GMT+00:00)\nFre
  epreview export: 26 September 2017, 23:3
  6 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1804,7 +1582,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
  20:05 Paris time (GMT+00:00)\nFreeprevie
  w export: 27 September 2017, 20:43 Paris
   time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1839,7 +1617,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
  52 Paris time (GMT+00:00)\nFreepreview e
  xport: 26 September 2017, 23:36 Paris ti
  me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1874,7 +1652,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
  0:00)\nFreepreview export: 26 September 
  2017, 23:36 Paris time (GMT+00:00)\nFTI 
  loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1909,7 +1687,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
  7, 22:52 Paris time (GMT+00:00)\nFreepre
  view export: 26 September 2017, 23:36 Pa
  ris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1939,11 +1717,11 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (en)
  \nDOI: https://doi.org/10.1787/entrepren
  eur_aag-2017-en\nPublication type: Book\
  nReleased as: PDF, HTML, Paperback, ePub
- .\n\niLibrary export: 26 September 2017,
-  22:52 Paris time (GMT+00:00)\nFreeprevi
+ .\n\niLibrary export: 27 September 2017,
+  20:05 Paris time (GMT+00:00)\nFreeprevi
  ew export: 26 September 2017, 23:35 Pari
  s time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
@@ -1977,7 +1755,7 @@ DESCRIPTION:Entrepreneurship at a Glance 2017 (Summa
   22:52 Paris time (GMT+00:00)\nFreeprevi
  ew export: 26 September 2017, 23:36 Pari
  s time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20170927T230859Z
+DTSTAMP:20170928T232021Z
 DTSTART:20170928T090000Z
 DTEND:20170928T091500Z
 TRANSP:TRANSPARENT
