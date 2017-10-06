@@ -3,7 +3,8 @@
 You can use this file, `embargoes.ics`, to keep track of OECD embargo dates and hours.
 
 Simply use this URL as the source for a new calendar: 
-https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.ics
+
+[webcal://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.ics](<webcal://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.ics>)
 
 This file is automatically updated every work day (except when it doesn't).  Please note that this information is provided on a best-effort basis, and you use it on your own risk. Not all information may be relevant to you.
 
