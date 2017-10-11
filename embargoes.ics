@@ -4,852 +4,218 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264270893-en
-SUMMARY:Supporting Entrepreneurship and Innovati
- on in Higher Education in Ireland (en) o
- n 23 October 2017, 11:00 Paris time (GMT
- +02:00)
-DESCRIPTION:Supporting Entrepreneurship and Innovati
- on in Higher Education in Ireland (en)  
- by Centre for Entrepreneurship, SMEs and
-  Local Development has an embargo date/t
- ime of 23 October 2017, 11:00 Paris time
-  (GMT+02:00).\n\nDirectorate: Centre for
-  Entrepreneurship, SMEs and Local Develo
- pment\nLanguage: English\nDOI: https://d
- oi.org/10.1787/9789264270893-en\nPublica
- tion type: Book\nReleased as: PDF, Paper
- back, ePub.\n\niLibrary export: 12 Septe
- mber 2017, 20:10 Paris time (GMT+00:00)\
- nFreepreview export: never\nFTI loaded: 
- no.
-DTSTAMP:20171010T233446Z
-DTSTART:20171023T090000Z
-DTEND:20171023T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Supporting Entrepreneurship an
- d Innovation in Higher Education in Irel
- and (en) on 23 October 2017, 11:00 Paris
-  time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/g2g83785-en
-SUMMARY:Harmful Tax Practices - 2017 Progress Re
- port on Preferential Regimes (en) on 16 
- October 2017, 11:00 Paris time (GMT+02:0
- 0)
-DESCRIPTION:Harmful Tax Practices - 2017 Progress Re
- port on Preferential Regimes (en)  - Inc
- lusive Framework on BEPS: Action 5 (en) 
- by Centre for Tax Policy and Administrat
- ion has an embargo date/time of 16 Octob
- er 2017, 11:00 Paris time (GMT+02:00).\n
- \nDirectorate: Centre for Tax Policy and
-  Administration\nLanguage: English\nDOI:
-  https://doi.org/10.1787/g2g83785-en\nPu
- blication type: Book\nReleased as: Paper
- back, PDF.\n\niLibrary export: never\nFr
- eepreview export: never\nFTI loaded: no.
-DTSTAMP:20171010T233446Z
-DTSTART:20171016T090000Z
-DTEND:20171016T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Harmful Tax Practices - 2017 P
- rogress Report on Preferential Regimes (
- en) on 16 October 2017, 11:00 Paris time
-  (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/g2g83787-fr
-SUMMARY:Pratiques fiscales dommageables - Rappor
- t d'étape de 2017 sur les régimes préfér
- entiels (fr) on 16 October 2017, 11:00 P
- aris time (GMT+02:00)
-DESCRIPTION:Pratiques fiscales dommageables - Rappor
- t d'étape de 2017 sur les régimes préfér
- entiels (fr)  - Cadre inclusif sur le BE
- PS: Action 5 (fr) by Centre for Tax Poli
- cy and Administration has an embargo dat
- e/time of 16 October 2017, 11:00 Paris t
- ime (GMT+02:00).\n\nDirectorate: Centre 
- for Tax Policy and Administration\nLangu
- age: French\nDOI: https://doi.org/10.178
- 7/g2g83787-fr\nPublication type: Book\nR
- eleased as: Paperback, PDF.\n\niLibrary 
- export: never\nFreepreview export: never
- \nFTI loaded: no.
-DTSTAMP:20171010T233446Z
-DTSTART:20171016T090000Z
-DTEND:20171016T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Pratiques fiscales dommageable
- s - Rapport d'étape de 2017 sur les régi
- mes préférentiels (fr) on 16 October 201
- 7, 11:00 Paris time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264280854-en-fr
-SUMMARY:Revenue Statistics in Africa 2017 (en), 
- Statistiques des recettes publiques en A
- frique 2017 (fr) on 12 October 2017, 13:
- 00 Paris time (GMT+02:00)
-DESCRIPTION:Revenue Statistics in Africa 2017 (en), 
- Statistiques des recettes publiques en A
- frique 2017 (fr)  by Development Centre,
-  Centre for Tax Policy and Administratio
- n has an embargo date/time of 12 October
-  2017, 13:00 Paris time (GMT+02:00).\n\n
- Directorate: Development Centre, Centre 
- for Tax Policy and Administration\nLangu
- age: English, French\nDOI: https://doi.o
- rg/10.1787/9789264280854-en-fr\nPublicat
- ion type: Stand-alone monograph\nRelease
- d as: Paperback, PDF.\n\niLibrary export
- : 2 October 2017, 20:15 Paris time (GMT+
- 00:00)\nFreepreview export: 21 September
-  2017, 20:33 Paris time (GMT+00:00)\nFTI
-  loaded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171012T110000Z
-DTEND:20171012T111500Z
+UID:10.1787/e6ced642-en
+SUMMARY:Adapting to the changing labour market i
+ n New Zealand (en) on 11 October 2017, 2
+ :00 Paris time (GMT+02:00)
+DESCRIPTION:Adapting to the changing labour market i
+ n New Zealand (en)  by Economics Departm
+ ent has an embargo date/time of 11 Octob
+ er 2017, 2:00 Paris time (GMT+02:00).\n\
+ nDirectorate: Economics Department\nLang
+ uage: English\nDOI: https://doi.org/10.1
+ 787/e6ced642-en\nPublication type: Worki
+ ng paper\nReleased as: PDF.\n\niLibrary 
+ export: 9 October 2017, 20:20 Paris time
+  (GMT+00:00)\nFreepreview export: 9 Octo
+ ber 2017, 21:08 Paris time (GMT+00:00)\n
+ FTI loaded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T000000Z
+DTEND:20171011T001500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Revenue Statistics in Africa 2
- 017 (en), Statistiques des recettes publ
- iques en Afrique 2017 (fr) on 12 October
-  2017, 13:00 Paris time (GMT+02:00)
+DESCRIPTION:Reminder: Adapting to the changing labou
+ r market in New Zealand (en) on 11 Octob
+ er 2017, 2:00 Paris time (GMT+02:00)
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:10.1787/9789264278547-en
-SUMMARY:Multi-Dimensional Review of Panama (en) 
- on 11 October 2017, 17:00 Paris time (GM
- T+02:00)
-DESCRIPTION:Multi-Dimensional Review of Panama (en) 
-  - Volume 1: Initial Assessment (en) by 
- Development Centre, Public Affairs and C
- ommunications Directorate has an embargo
-  date/time of 11 October 2017, 17:00 Par
- is time (GMT+02:00).\n\nDirectorate: Dev
- elopment Centre, Public Affairs and Comm
- unications Directorate\nLanguage: Englis
- h\nDOI: https://doi.org/10.1787/97892642
- 78547-en\nPublication type: Book\nReleas
- ed as: PDF, Paperback, ePub.\n\niLibrary
+UID:10.1787/0d6741fd-en
+SUMMARY:Corporate governance and firm performanc
+ e in China (en) on 11 October 2017, 2:00
+  Paris time (GMT+02:00)
+DESCRIPTION:Corporate governance and firm performanc
+ e in China (en)  by Economics Department
+  has an embargo date/time of 11 October 
+ 2017, 2:00 Paris time (GMT+02:00).\n\nDi
+ rectorate: Economics Department\nLanguag
+ e: English\nDOI: https://doi.org/10.1787
+ /0d6741fd-en\nPublication type: Working 
+ paper\nReleased as: PDF.\n\niLibrary exp
+ ort: never\nFreepreview export: never\nF
+ TI loaded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T000000Z
+DTEND:20171011T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Corporate governance and firm 
+ performance in China (en) on 11 October 
+ 2017, 2:00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/8071e193-en
+SUMMARY:Improving productivity in New Zealand's 
+ economy (en) on 11 October 2017, 2:00 Pa
+ ris time (GMT+02:00)
+DESCRIPTION:Improving productivity in New Zealand's 
+ economy (en)  by Economics Department ha
+ s an embargo date/time of 11 October 201
+ 7, 2:00 Paris time (GMT+02:00).\n\nDirec
+ torate: Economics Department\nLanguage: 
+ English\nDOI: https://doi.org/10.1787/80
+ 71e193-en\nPublication type: Working pap
+ er\nReleased as: PDF.\n\niLibrary export
+ : 9 October 2017, 20:20 Paris time (GMT+
+ 00:00)\nFreepreview export: 9 October 20
+ 17, 21:08 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T000000Z
+DTEND:20171011T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Improving productivity in New 
+ Zealand's economy (en) on 11 October 201
+ 7, 2:00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/c1386349-en
+SUMMARY:Luxembourg: harnessing skills for more i
+ nclusive growth (en) on 11 October 2017,
+  2:00 Paris time (GMT+02:00)
+DESCRIPTION:Luxembourg: harnessing skills for more i
+ nclusive growth (en)  by Economics Depar
+ tment has an embargo date/time of 11 Oct
+ ober 2017, 2:00 Paris time (GMT+02:00).\
+ n\nDirectorate: Economics Department\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/c1386349-en\nPublication type: Wor
+ king paper\nReleased as: PDF.\n\niLibrar
+ y export: 9 October 2017, 20:20 Paris ti
+ me (GMT+00:00)\nFreepreview export: 9 Oc
+ tober 2017, 21:08 Paris time (GMT+00:00)
+ \nFTI loaded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T000000Z
+DTEND:20171011T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Luxembourg: harnessing skills 
+ for more inclusive growth (en) on 11 Oct
+ ober 2017, 2:00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9f37a4ce-en
+SUMMARY:Luxembourg: reaping the benefits of a di
+ verse society through better integration
+  of immigrants (en) on 11 October 2017, 
+ 2:00 Paris time (GMT+02:00)
+DESCRIPTION:Luxembourg: reaping the benefits of a di
+ verse society through better integration
+  of immigrants (en)  by Economics Depart
+ ment has an embargo date/time of 11 Octo
+ ber 2017, 2:00 Paris time (GMT+02:00).\n
+ \nDirectorate: Economics Department\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/9f37a4ce-en\nPublication type: Work
+ ing paper\nReleased as: PDF.\n\niLibrary
   export: 9 October 2017, 20:20 Paris tim
  e (GMT+00:00)\nFreepreview export: 9 Oct
  ober 2017, 21:08 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T150000Z
-DTEND:20171011T151500Z
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T000000Z
+DTEND:20171011T001500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Multi-Dimensional Review of Pa
- nama (en) on 11 October 2017, 17:00 Pari
- s time (GMT+02:00)
+DESCRIPTION:Reminder: Luxembourg: reaping the benefi
+ ts of a diverse society through better i
+ ntegration of immigrants (en) on 11 Octo
+ ber 2017, 2:00 Paris time (GMT+02:00)
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:10.1787/9789264281486-en
-SUMMARY:Education in Lithuania (en) on 16 Octobe
- r 2017, 11:00 Paris time (GMT+02:00)
-DESCRIPTION:Education in Lithuania (en)  by Director
- ate for Education and Skills has an emba
- rgo date/time of 16 October 2017, 11:00 
- Paris time (GMT+02:00).\n\nDirectorate: 
- Directorate for Education and Skills\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/9789264281486-en\nPublication type
- : Book\nReleased as: PDF, Paperback.\n\n
- iLibrary export: 9 October 2017, 20:20 P
- aris time (GMT+00:00)\nFreepreview expor
- t: 3 October 2017, 21:12 Paris time (GMT
- +00:00)\nFTI loaded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171016T090000Z
-DTEND:20171016T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Education in Lithuania (en) on
-  16 October 2017, 11:00 Paris time (GMT+
- 02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264278639-en
-SUMMARY:Getting Skills Right: Italy (en) on 21 D
- ecember 2017, 11:00 Paris time (GMT+02:0
- 0)
-DESCRIPTION:Getting Skills Right: Italy (en)  by Dir
- ectorate for Employment, Labour and Soci
- al Affairs has an embargo date/time of 2
- 1 December 2017, 11:00 Paris time (GMT+0
- 2:00).\n\nDirectorate: Directorate for E
- mployment, Labour and Social Affairs\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/9789264278639-en\nPublication type
- : Book\nReleased as: PDF, Paperback.\n\n
- iLibrary export: 3 October 2017, 20:25 P
- aris time (GMT+00:00)\nFreepreview expor
- t: 3 October 2017, 21:12 Paris time (GMT
- +00:00)\nFTI loaded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171221T090000Z
-DTEND:20171221T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Getting Skills Right: Italy (e
- n) on 21 December 2017, 11:00 Paris time
-  (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264282735-en
-SUMMARY:OECD Reviews of Health Systems: Peru 201
- 7 (en) on 30 October 2017, 1:00 Paris ti
- me (GMT+02:00)
-DESCRIPTION:OECD Reviews of Health Systems: Peru 201
- 7 (en)  by Directorate for Employment, L
- abour and Social Affairs has an embargo 
- date/time of 30 October 2017, 1:00 Paris
-  time (GMT+02:00).\n\nDirectorate: Direc
- torate for Employment, Labour and Social
-  Affairs\nLanguage: English\nDOI: https:
- //doi.org/10.1787/9789264282735-en\nPubl
- ication type: Book\nReleased as: PDF, Pa
- perback.\n\niLibrary export: 6 October 2
- 017, 20:10 Paris time (GMT+00:00)\nFreep
- review export: never\nFTI loaded: no.
-DTSTAMP:20171010T233446Z
-DTSTART:20171029T230000Z
-DTEND:20171029T231500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Reviews of Health Systems
- : Peru 2017 (en) on 30 October 2017, 1:0
- 0 Paris time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264282988-en
-SUMMARY:Monitoring Health System Performance in 
- Peru (en) on 30 October 2017, 1:00 Paris
-  time (GMT+02:00)
-DESCRIPTION:Monitoring Health System Performance in 
- Peru (en)  - Data and Statistics (en) by
-  Directorate for Employment, Labour and 
- Social Affairs has an embargo date/time 
- of 30 October 2017, 1:00 Paris time (GMT
- +02:00).\n\nDirectorate: Directorate for
-  Employment, Labour and Social Affairs\n
- Language: English\nDOI: https://doi.org/
- 10.1787/9789264282988-en\nPublication ty
- pe: Book\nReleased as: PDF, Paperback.\n
- \niLibrary export: 9 October 2017, 20:20
-  Paris time (GMT+00:00)\nFreepreview exp
- ort: never\nFTI loaded: no.
-DTSTAMP:20171010T233446Z
-DTSTART:20171029T230000Z
-DTEND:20171029T231500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Monitoring Health System Perfo
- rmance in Peru (en) on 30 October 2017, 
- 1:00 Paris time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/health_glance-2017-en
-SUMMARY:Health at a Glance 2017 (en) on 10 Novem
- ber 2017, 12:00 Paris time (GMT+02:00)
-DESCRIPTION:Health at a Glance 2017 (en)  - OECD Ind
- icators (en) by Directorate for Employme
- nt, Labour and Social Affairs has an emb
- argo date/time of 10 November 2017, 12:0
- 0 Paris time (GMT+02:00).\n\nDirectorate
- : Directorate for Employment, Labour and
-  Social Affairs\nLanguage: English\nDOI:
-  https://doi.org/10.1787/health_glance-2
- 017-en\nPublication type: Book\nReleased
-  as: ePub, PDF.\n\niLibrary export: 6 Oc
- tober 2017, 20:10 Paris time (GMT+00:00)
- \nFreepreview export: never\nFTI loaded:
-  no.
-DTSTAMP:20171010T233446Z
-DTSTART:20171110T100000Z
-DTEND:20171110T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Health at a Glance 2017 (en) o
- n 10 November 2017, 12:00 Paris time (GM
- T+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/health_glance-2017-fr
-SUMMARY:Panorama de la santé 2017 (fr) on 10 Nov
- ember 2017, 12:00 Paris time (GMT+02:00)
-DESCRIPTION:Panorama de la santé 2017 (fr)  - Les in
- dicateurs de l'OCDE (fr) by Directorate 
- for Employment, Labour and Social Affair
- s has an embargo date/time of 10 Novembe
- r 2017, 12:00 Paris time (GMT+02:00).\n\
- nDirectorate: Directorate for Employment
- , Labour and Social Affairs\nLanguage: F
- rench\nDOI: https://doi.org/10.1787/heal
- th_glance-2017-fr\nPublication type: Boo
- k\nReleased as: ePub, PDF.\n\niLibrary e
- xport: 6 October 2017, 20:10 Paris time 
- (GMT+00:00)\nFreepreview export: never\n
- FTI loaded: no.
-DTSTAMP:20171010T233446Z
-DTSTART:20171110T100000Z
-DTEND:20171110T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Panorama de la santé 2017 (fr)
-  on 10 November 2017, 12:00 Paris time (
- GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264278325-en
-SUMMARY:OECD Integrity Review of Colombia (en) o
- n 27 October 2017, 0:00 Paris time (GMT+
- 02:00)
-DESCRIPTION:OECD Integrity Review of Colombia (en)  
- - Investing in Integrity for Peace and P
- rosperity (en) by Directorate for Public
-  Governance has an embargo date/time of 
- 27 October 2017, 0:00 Paris time (GMT+02
- :00).\n\nDirectorate: Directorate for Pu
- blic Governance\nLanguage: English\nDOI:
-  https://doi.org/10.1787/9789264278325-e
- n\nPublication type: Book\nReleased as: 
- ePub, Paperback, PDF.\n\niLibrary export
- : 4 October 2017, 20:31 Paris time (GMT+
- 00:00)\nFreepreview export: 4 October 20
- 17, 21:21 Paris time (GMT+00:00)\nFTI lo
- aded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171026T220000Z
-DTEND:20171026T221500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Integrity Review of Colom
- bia (en) on 27 October 2017, 0:00 Paris 
- time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264278646-es
-SUMMARY:Estudio de la OCDE sobre integridad en C
- olombia (es) on 27 October 2017, 0:00 Pa
- ris time (GMT+02:00)
-DESCRIPTION:Estudio de la OCDE sobre integridad en C
- olombia (es)  - Invirtiendo en integrida
- d pública para afianzar la paz y el desa
- rrollo (es) by Directorate for Public Go
- vernance has an embargo date/time of 27 
- October 2017, 0:00 Paris time (GMT+02:00
- ).\n\nDirectorate: Directorate for Publi
- c Governance\nLanguage: Spanish\nDOI: ht
- tps://doi.org/10.1787/9789264278646-es\n
- Publication type: Book\nReleased as: PDF
- , Paperback, ePub.\n\niLibrary export: 4
-  October 2017, 20:31 Paris time (GMT+00:
- 00)\nFreepreview export: 4 October 2017,
-  21:21 Paris time (GMT+00:00)\nFTI loade
- d: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171026T220000Z
-DTEND:20171026T221500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Estudio de la OCDE sobre integ
- ridad en Colombia (es) on 27 October 201
- 7, 0:00 Paris time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264280458-en
-SUMMARY:Driving Performance at Mexico's Agency f
- or Safety, Energy and Environment (en) o
- n 12 October 2017, 0:00 Paris time (GMT+
- 02:00)
-DESCRIPTION:Driving Performance at Mexico's Agency f
- or Safety, Energy and Environment (en)  
- by Directorate for Public Governance has
-  an embargo date/time of 12 October 2017
- , 0:00 Paris time (GMT+02:00).\n\nDirect
- orate: Directorate for Public Governance
- \nLanguage: English\nDOI: https://doi.or
- g/10.1787/9789264280458-en\nPublication 
- type: Book\nReleased as: PDF, Paperback.
- \n\niLibrary export: 11 September 2017, 
- 20:04 Paris time (GMT+00:00)\nFreeprevie
- w export: 11 September 2017, 20:43 Paris
-  time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T220000Z
-DTEND:20171011T221500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Driving Performance at Mexico'
- s Agency for Safety, Energy and Environm
- ent (en) on 12 October 2017, 0:00 Paris 
- time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264280748-en
-SUMMARY:Driving Performance at Mexico's National
-  Hydrocarbons Commission (en) on 12 Octo
- ber 2017, 0:00 Paris time (GMT+02:00)
-DESCRIPTION:Driving Performance at Mexico's National
-  Hydrocarbons Commission (en)  by Direct
- orate for Public Governance has an embar
- go date/time of 12 October 2017, 0:00 Pa
- ris time (GMT+02:00).\n\nDirectorate: Di
- rectorate for Public Governance\nLanguag
- e: English\nDOI: https://doi.org/10.1787
- /9789264280748-en\nPublication type: Boo
- k\nReleased as: Paperback, PDF.\n\niLibr
- ary export: 11 September 2017, 20:04 Par
- is time (GMT+00:00)\nFreepreview export:
-  11 September 2017, 20:43 Paris time (GM
- T+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T220000Z
-DTEND:20171011T221500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Driving Performance at Mexico'
- s National Hydrocarbons Commission (en) 
- on 12 October 2017, 0:00 Paris time (GMT
- +02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264280830-en
-SUMMARY:Driving Performance at Mexico's Energy R
- egulatory Commission (en) on 12 October 
- 2017, 0:00 Paris time (GMT+02:00)
-DESCRIPTION:Driving Performance at Mexico's Energy R
- egulatory Commission (en)  by Directorat
- e for Public Governance has an embargo d
- ate/time of 12 October 2017, 0:00 Paris 
- time (GMT+02:00).\n\nDirectorate: Direct
- orate for Public Governance\nLanguage: E
- nglish\nDOI: https://doi.org/10.1787/978
- 9264280830-en\nPublication type: Book\nR
- eleased as: PDF, Paperback.\n\niLibrary 
- export: 11 September 2017, 20:04 Paris t
- ime (GMT+00:00)\nFreepreview export: 11 
- September 2017, 20:43 Paris time (GMT+00
- :00)\nFTI loaded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T220000Z
-DTEND:20171011T221500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Driving Performance at Mexico'
- s Energy Regulatory Commission (en) on 1
- 2 October 2017, 0:00 Paris time (GMT+02:
- 00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264280908-es
-SUMMARY:Impulsando el desempeño de la Comisión N
- acional de Hidrocarburos de México (es) 
- on 12 October 2017, 0:00 Paris time (GMT
- +02:00)
-DESCRIPTION:Impulsando el desempeño de la Comisión N
- acional de Hidrocarburos de México (es) 
-  by Directorate for Public Governance ha
- s an embargo date/time of 12 October 201
- 7, 0:00 Paris time (GMT+02:00).\n\nDirec
- torate: Directorate for Public Governanc
- e\nLanguage: Spanish\nDOI: https://doi.o
- rg/10.1787/9789264280908-es\nPublication
-  type: Book\nReleased as: Paperback, PDF
- .\n\niLibrary export: 19 September 2017,
-  20:40 Paris time (GMT+00:00)\nFreeprevi
- ew export: 19 September 2017, 21:23 Pari
- s time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T220000Z
-DTEND:20171011T221500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Impulsando el desempeño de la 
- Comisión Nacional de Hidrocarburos de Mé
- xico (es) on 12 October 2017, 0:00 Paris
-  time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264280960-es
-SUMMARY:Impulsando el desempeño de la Comisión R
- eguladora de Energía de México (es) on 1
- 2 October 2017, 0:00 Paris time (GMT+02:
- 00)
-DESCRIPTION:Impulsando el desempeño de la Comisión R
- eguladora de Energía de México (es)  by 
- Directorate for Public Governance has an
-  embargo date/time of 12 October 2017, 0
- :00 Paris time (GMT+02:00).\n\nDirectora
- te: Directorate for Public Governance\nL
- anguage: Spanish\nDOI: https://doi.org/1
- 0.1787/9789264280960-es\nPublication typ
- e: Book\nReleased as: PDF, Paperback.\n\
- niLibrary export: 18 September 2017, 20:
- 34 Paris time (GMT+00:00)\nFreepreview e
- xport: 13 September 2017, 20:35 Paris ti
- me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T220000Z
-DTEND:20171011T221500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Impulsando el desempeño de la 
- Comisión Reguladora de Energía de México
-  (es) on 12 October 2017, 0:00 Paris tim
- e (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264280991-es
-SUMMARY:Impulsando el desempeño de la Agencia de
-  Seguridad, Energía y Ambiente de México
-  (es) on 12 October 2017, 0:00 Paris tim
- e (GMT+02:00)
-DESCRIPTION:Impulsando el desempeño de la Agencia de
-  Seguridad, Energía y Ambiente de México
-  (es)  by Directorate for Public Governa
- nce has an embargo date/time of 12 Octob
- er 2017, 0:00 Paris time (GMT+02:00).\n\
- nDirectorate: Directorate for Public Gov
- ernance\nLanguage: Spanish\nDOI: https:/
- /doi.org/10.1787/9789264280991-es\nPubli
- cation type: Book\nReleased as: PDF, Pap
- erback.\n\niLibrary export: 18 September
-  2017, 20:34 Paris time (GMT+00:00)\nFre
- epreview export: 11 September 2017, 20:4
- 3 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T220000Z
-DTEND:20171011T221500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Impulsando el desempeño de la 
- Agencia de Seguridad, Energía y Ambiente
-  de México (es) on 12 October 2017, 0:00
-  Paris time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264281936-en
-SUMMARY:The Governance of Land Use in the Czech 
- Republic (en) on 3 November 2017, 11:00 
- Paris time (GMT+02:00)
-DESCRIPTION:The Governance of Land Use in the Czech 
- Republic (en)  - The Case of Prague (en)
-  by Directorate for Public Governance ha
- s an embargo date/time of 3 November 201
- 7, 11:00 Paris time (GMT+02:00).\n\nDire
- ctorate: Directorate for Public Governan
- ce\nLanguage: English\nDOI: https://doi.
- org/10.1787/9789264281936-en\nPublicatio
- n type: Stand-alone monograph\nReleased 
- as: Paperback, PDF.\n\niLibrary export: 
- 6 October 2017, 20:10 Paris time (GMT+00
- :00)\nFreepreview export: never\nFTI loa
- ded: no.
-DTSTAMP:20171010T233446Z
-DTSTART:20171103T090000Z
-DTEND:20171103T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: The Governance of Land Use in 
- the Czech Republic (en) on 3 November 20
- 17, 11:00 Paris time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264283282-en
-SUMMARY:Assessing the Impact of Digital Governme
- nt in Colombia: (en) on 27 October 2017,
-  21:00 Paris time (GMT+02:00)
-DESCRIPTION:Assessing the Impact of Digital Governme
- nt in Colombia: (en)  - Towards a new me
- thodology (en) by Directorate for Public
-  Governance has an embargo date/time of 
- 27 October 2017, 21:00 Paris time (GMT+0
- 2:00).\n\nDirectorate: Directorate for P
- ublic Governance\nLanguage: English\nDOI
- : https://doi.org/10.1787/9789264283282-
- en\nPublication type: Book\nReleased as:
-  Paperback, PDF.\n\niLibrary export: 9 O
+UID:10.1787/f28250d9-en
+SUMMARY:Sustaining nature-based tourism in Icela
+ nd (en) on 11 October 2017, 2:00 Paris t
+ ime (GMT+02:00)
+DESCRIPTION:Sustaining nature-based tourism in Icela
+ nd (en)  by Economics Department has an 
+ embargo date/time of 11 October 2017, 2:
+ 00 Paris time (GMT+02:00).\n\nDirectorat
+ e: Economics Department\nLanguage: Engli
+ sh\nDOI: https://doi.org/10.1787/f28250d
+ 9-en\nPublication type: Working paper\nR
+ eleased as: PDF.\n\niLibrary export: 9 O
  ctober 2017, 20:20 Paris time (GMT+00:00
- )\nFreepreview export: never\nFTI loaded
- : no.
-DTSTAMP:20171010T233446Z
-DTSTART:20171027T190000Z
-DTEND:20171027T191500Z
+ )\nFreepreview export: 10 October 2017, 
+ 21:18 Paris time (GMT+00:00)\nFTI loaded
+ : ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T000000Z
+DTEND:20171011T001500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Assessing the Impact of Digita
- l Government in Colombia: (en) on 27 Oct
- ober 2017, 21:00 Paris time (GMT+02:00)
+DESCRIPTION:Reminder: Sustaining nature-based touris
+ m in Iceland (en) on 11 October 2017, 2:
+ 00 Paris time (GMT+02:00)
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:10.1787/9789264284272-es
-SUMMARY:Evaluar el Impacto del Gobierno Digital 
- en Colombia: (es) on 27 October 2017, 21
- :00 Paris time (GMT+02:00)
-DESCRIPTION:Evaluar el Impacto del Gobierno Digital 
- en Colombia: (es)  - Hacia una Nueva Met
- odología (es) by Directorate for Public 
- Governance has an embargo date/time of 2
- 7 October 2017, 21:00 Paris time (GMT+02
- :00).\n\nDirectorate: Directorate for Pu
- blic Governance\nLanguage: Spanish\nDOI:
-  https://doi.org/10.1787/9789264284272-e
- s\nPublication type: Book\nReleased as: 
- PDF, Paperback.\n\niLibrary export: 9 Oc
- tober 2017, 20:20 Paris time (GMT+00:00)
- \nFreepreview export: never\nFTI loaded:
-  no.
-DTSTAMP:20171010T233446Z
-DTSTART:20171027T190000Z
-DTEND:20171027T191500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Evaluar el Impacto del Gobiern
- o Digital en Colombia: (es) on 27 Octobe
- r 2017, 21:00 Paris time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/0adc0866-pl
-SUMMARY:OECD Digital Economy Outlook 2017 (Summa
- ry in Polish) (en), Perspektywy w dziedz
- inie gospodarki cyfrowej OECD 2017 (pl) 
- on 11 October 2017, 7:00 Paris time (GMT
- +02:00)
-DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
- ry in Polish) (en), Perspektywy w dziedz
- inie gospodarki cyfrowej OECD 2017 (pl) 
-  by Directorate for Science, Technology 
- and Industry  has an embargo date/time o
- f 11 October 2017, 7:00 Paris time (GMT+
- 02:00).\n\nDirectorate: Directorate for 
- Science, Technology and Industry \nLangu
- age: Polish\nDOI: https://doi.org/10.178
- 7/0adc0866-pl\nPublication type: Summary
- \nReleased as: HTML, PDF, ePub.\n\niLibr
- ary export: 6 October 2017, 20:10 Paris 
- time (GMT+00:00)\nFreepreview export: 6 
- October 2017, 20:49 Paris time (GMT+00:0
- 0)\nFTI loaded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T050000Z
-DTEND:20171011T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
- 017 (Summary in Polish) (en), Perspektyw
- y w dziedzinie gospodarki cyfrowej OECD 
- 2017 (pl) on 11 October 2017, 7:00 Paris
-  time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/295d89d8-sk
-SUMMARY:OECD Digital Economy Outlook 2017 (Summa
- ry in Slovak) (en), Výhľad OECD v oblast
- i digitálnej ekonomiky na rok 2017 (sk) 
- on 11 October 2017, 7:00 Paris time (GMT
- +02:00)
-DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
- ry in Slovak) (en), Výhľad OECD v oblast
- i digitálnej ekonomiky na rok 2017 (sk) 
-  by Directorate for Science, Technology 
- and Industry  has an embargo date/time o
- f 11 October 2017, 7:00 Paris time (GMT+
- 02:00).\n\nDirectorate: Directorate for 
- Science, Technology and Industry \nLangu
- age: Slovak\nDOI: https://doi.org/10.178
- 7/295d89d8-sk\nPublication type: Summary
- \nReleased as: PDF, ePub, HTML.\n\niLibr
- ary export: 6 October 2017, 20:10 Paris 
- time (GMT+00:00)\nFreepreview export: 6 
- October 2017, 20:49 Paris time (GMT+00:0
- 0)\nFTI loaded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T050000Z
-DTEND:20171011T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
- 017 (Summary in Slovak) (en), Výhľad OEC
- D v oblasti digitálnej ekonomiky na rok 
- 2017 (sk) on 11 October 2017, 7:00 Paris
-  time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/375e3384-sv
-SUMMARY:OECD Digital Economy Outlook 2017 (Summa
- ry in Swedish) (en), OECD:s internetekon
- omiska översikt 2017 (sv) on 11 October 
- 2017, 7:00 Paris time (GMT+02:00)
-DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
- ry in Swedish) (en), OECD:s internetekon
- omiska översikt 2017 (sv)  by Directorat
- e for Science, Technology and Industry  
- has an embargo date/time of 11 October 2
- 017, 7:00 Paris time (GMT+02:00).\n\nDir
- ectorate: Directorate for Science, Techn
- ology and Industry \nLanguage: Swedish\n
- DOI: https://doi.org/10.1787/375e3384-sv
- \nPublication type: Summary\nReleased as
- : PDF, ePub, HTML.\n\niLibrary export: 6
-  October 2017, 20:10 Paris time (GMT+00:
- 00)\nFreepreview export: 6 October 2017,
-  20:49 Paris time (GMT+00:00)\nFTI loade
+UID:10.1787/9789264276284-en
+SUMMARY:OECD Digital Economy Outlook 2017 (en) o
+ n 11 October 2017, 7:00 Paris time (GMT+
+ 02:00)
+DESCRIPTION:OECD Digital Economy Outlook 2017 (en)  
+ by Directorate for Science, Technology a
+ nd Industry  has an embargo date/time of
+  11 October 2017, 7:00 Paris time (GMT+0
+ 2:00).\n\nDirectorate: Directorate for S
+ cience, Technology and Industry \nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/9789264276284-en\nPublication type: St
+ and-alone monograph\nReleased as: Paperb
+ ack, ePub, PDF.\n\niLibrary export: 6 Oc
+ tober 2017, 20:10 Paris time (GMT+00:00)
+ \nFreepreview export: 29 September 2017,
+  20:51 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20171010T233446Z
+DTSTAMP:20171011T085708Z
 DTSTART:20171011T050000Z
 DTEND:20171011T051500Z
 TRANSP:TRANSPARENT
@@ -859,35 +225,32 @@ REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
- 017 (Summary in Swedish) (en), OECD:s in
- ternetekonomiska översikt 2017 (sv) on 1
- 1 October 2017, 7:00 Paris time (GMT+02:
- 00)
+ 017 (en) on 11 October 2017, 7:00 Paris 
+ time (GMT+02:00)
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:10.1787/3a773538-is
+UID:10.1787/70aa77f9-zh
 SUMMARY:OECD Digital Economy Outlook 2017 (Summa
- ry in Icelandic) (en), Horfur OECD varða
- ndi stafræna hagkerfið 2017 (is) on 11 O
- ctober 2017, 7:00 Paris time (GMT+02:00)
+ ry in Chinese) (en), 2017年OECD数字经济展望 (zh
+ ) on 11 October 2017, 7:00 Paris time (G
+ MT+02:00)
 DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
- ry in Icelandic) (en), Horfur OECD varða
- ndi stafræna hagkerfið 2017 (is)  by Dir
- ectorate for Science, Technology and Ind
- ustry  has an embargo date/time of 11 Oc
- tober 2017, 7:00 Paris time (GMT+02:00).
- \n\nDirectorate: Directorate for Science
- , Technology and Industry \nLanguage: Ic
- elandic\nDOI: https://doi.org/10.1787/3a
- 773538-is\nPublication type: Summary\nRe
- leased as: PDF, ePub, HTML.\n\niLibrary 
- export: 6 October 2017, 20:10 Paris time
-  (GMT+00:00)\nFreepreview export: 6 Octo
- ber 2017, 20:49 Paris time (GMT+00:00)\n
- FTI loaded: ✓.
-DTSTAMP:20171010T233446Z
+ ry in Chinese) (en), 2017年OECD数字经济展望 (zh
+ )  by Directorate for Science, Technolog
+ y and Industry  has an embargo date/time
+  of 11 October 2017, 7:00 Paris time (GM
+ T+02:00).\n\nDirectorate: Directorate fo
+ r Science, Technology and Industry \nLan
+ guage: Chinese\nDOI: https://doi.org/10.
+ 1787/70aa77f9-zh\nPublication type: Summ
+ ary\nReleased as: PDF, HTML, ePub.\n\niL
+ ibrary export: 6 October 2017, 20:10 Par
+ is time (GMT+00:00)\nFreepreview export:
+  6 October 2017, 20:49 Paris time (GMT+0
+ 0:00)\nFTI loaded: ✓.
+DTSTAMP:20171011T085708Z
 DTSTART:20171011T050000Z
 DTEND:20171011T051500Z
 TRANSP:TRANSPARENT
@@ -897,10 +260,9 @@ REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
- 017 (Summary in Icelandic) (en), Horfur 
- OECD varðandi stafræna hagkerfið 2017 (i
- s) on 11 October 2017, 7:00 Paris time (
- GMT+02:00)
+ 017 (Summary in Chinese) (en), 2017年OECD
+ 数字经济展望 (zh) on 11 October 2017, 7:00 Par
+ is time (GMT+02:00)
 END:VALARM
 END:VEVENT
 
@@ -925,7 +287,7 @@ DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
  \nFreepreview export: 6 October 2017, 20
  :49 Paris time (GMT+00:00)\nFTI loaded: 
  ✓.
-DTSTAMP:20171010T233446Z
+DTSTAMP:20171011T085708Z
 DTSTART:20171011T050000Z
 DTEND:20171011T051500Z
 TRANSP:TRANSPARENT
@@ -943,140 +305,27 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:10.1787/4657a930-ru
+UID:10.1787/b3e3a27c-da
 SUMMARY:OECD Digital Economy Outlook 2017 (Summa
- ry in Russian) (en), Перспективы цифрово
- й экономики ОЭСР 2017 (ru) on 11 October
-  2017, 7:00 Paris time (GMT+02:00)
-DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
- ry in Russian) (en), Перспективы цифрово
- й экономики ОЭСР 2017 (ru)  by Directora
- te for Science, Technology and Industry 
-  has an embargo date/time of 11 October 
- 2017, 7:00 Paris time (GMT+02:00).\n\nDi
- rectorate: Directorate for Science, Tech
- nology and Industry \nLanguage: Russian\
- nDOI: https://doi.org/10.1787/4657a930-r
- u\nPublication type: Summary\nReleased a
- s: PDF, HTML, ePub.\n\niLibrary export: 
- 6 October 2017, 20:10 Paris time (GMT+00
- :00)\nFreepreview export: 6 October 2017
- , 20:49 Paris time (GMT+00:00)\nFTI load
- ed: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T050000Z
-DTEND:20171011T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
- 017 (Summary in Russian) (en), Перспекти
- вы цифровой экономики ОЭСР 2017 (ru) on 
- 11 October 2017, 7:00 Paris time (GMT+02
- :00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/46c2e410-lv
-SUMMARY:OECD Digital Economy Outlook 2017 (Summa
- ry in Latvian) (en), OECD digitālās ekon
- omikas apskats 2017 (lv) on 11 October 2
- 017, 7:00 Paris time (GMT+02:00)
-DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
- ry in Latvian) (en), OECD digitālās ekon
- omikas apskats 2017 (lv)  by Directorate
-  for Science, Technology and Industry  h
- as an embargo date/time of 11 October 20
- 17, 7:00 Paris time (GMT+02:00).\n\nDire
- ctorate: Directorate for Science, Techno
- logy and Industry \nLanguage: Latvian\nD
- OI: https://doi.org/10.1787/46c2e410-lv\
- nPublication type: Summary\nReleased as:
-  PDF, ePub, HTML.\n\niLibrary export: 6 
- October 2017, 20:10 Paris time (GMT+00:0
- 0)\nFreepreview export: 6 October 2017, 
- 20:49 Paris time (GMT+00:00)\nFTI loaded
- : ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T050000Z
-DTEND:20171011T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
- 017 (Summary in Latvian) (en), OECD digi
- tālās ekonomikas apskats 2017 (lv) on 11
-  October 2017, 7:00 Paris time (GMT+02:0
- 0)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/654f4ba3-he
-SUMMARY:OECD Digital Economy Outlook 2017 (Summa
- ry in Hebrew) (en), תחזית OECD לשנת 2017
-  - כלכלה דיגיטלית (he) on 11 October 201
- 7, 7:00 Paris time (GMT+02:00)
-DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
- ry in Hebrew) (en), תחזית OECD לשנת 2017
-  - כלכלה דיגיטלית (he)  by Directorate f
- or Science, Technology and Industry  has
-  an embargo date/time of 11 October 2017
- , 7:00 Paris time (GMT+02:00).\n\nDirect
- orate: Directorate for Science, Technolo
- gy and Industry \nLanguage: Hebrew\nDOI:
-  https://doi.org/10.1787/654f4ba3-he\nPu
- blication type: Summary\nReleased as: HT
- ML, ePub, PDF.\n\niLibrary export: 6 Oct
- ober 2017, 20:10 Paris time (GMT+00:00)\
- nFreepreview export: 6 October 2017, 20:
- 49 Paris time (GMT+00:00)\nFTI loaded: ✓
- .
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T050000Z
-DTEND:20171011T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
- 017 (Summary in Hebrew) (en), תחזית OECD
-  לשנת 2017 - כלכלה דיגיטלית (he) on 11 O
- ctober 2017, 7:00 Paris time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/6553fcf7-it
-SUMMARY:OECD Digital Economy Outlook 2017 (Summa
- ry in Italian) (en), Prospettive dell’ec
- onomia digitale 2017 (it) on 11 October 
+ ry in Danish) (en), Udsigterne for den d
+ igitale økonomi 2017 (da) on 11 October 
  2017, 7:00 Paris time (GMT+02:00)
 DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
- ry in Italian) (en), Prospettive dell’ec
- onomia digitale 2017 (it)  by Directorat
+ ry in Danish) (en), Udsigterne for den d
+ igitale økonomi 2017 (da)  by Directorat
  e for Science, Technology and Industry  
  has an embargo date/time of 11 October 2
  017, 7:00 Paris time (GMT+02:00).\n\nDir
  ectorate: Directorate for Science, Techn
- ology and Industry \nLanguage: Italian\n
- DOI: https://doi.org/10.1787/6553fcf7-it
- \nPublication type: Summary\nReleased as
- : ePub, PDF, HTML.\n\niLibrary export: 6
-  October 2017, 20:10 Paris time (GMT+00:
- 00)\nFreepreview export: 6 October 2017,
-  20:49 Paris time (GMT+00:00)\nFTI loade
- d: ✓.
-DTSTAMP:20171010T233446Z
+ ology and Industry \nLanguage: Danish\nD
+ OI: https://doi.org/10.1787/b3e3a27c-da\
+ nPublication type: Summary\nReleased as:
+  ePub, HTML, PDF.\n\niLibrary export: 6 
+ October 2017, 20:10 Paris time (GMT+00:0
+ 0)\nFreepreview export: 6 October 2017, 
+ 20:49 Paris time (GMT+00:00)\nFTI loaded
+ : ✓.
+DTSTAMP:20171011T085708Z
 DTSTART:20171011T050000Z
 DTEND:20171011T051500Z
 TRANSP:TRANSPARENT
@@ -1086,123 +335,10 @@ REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
- 017 (Summary in Italian) (en), Prospetti
- ve dell’economia digitale 2017 (it) on 1
+ 017 (Summary in Danish) (en), Udsigterne
+  for den digitale økonomi 2017 (da) on 1
  1 October 2017, 7:00 Paris time (GMT+02:
  00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/6998e179-hu
-SUMMARY:OECD Digital Economy Outlook 2017 (Summa
- ry in Hungarian) (en), OECD digitális ga
- zdasági kilátások 2017 (hu) on 11 Octobe
- r 2017, 7:00 Paris time (GMT+02:00)
-DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
- ry in Hungarian) (en), OECD digitális ga
- zdasági kilátások 2017 (hu)  by Director
- ate for Science, Technology and Industry
-   has an embargo date/time of 11 October
-  2017, 7:00 Paris time (GMT+02:00).\n\nD
- irectorate: Directorate for Science, Tec
- hnology and Industry \nLanguage: Hungari
- an\nDOI: https://doi.org/10.1787/6998e17
- 9-hu\nPublication type: Summary\nRelease
- d as: PDF, HTML, ePub.\n\niLibrary expor
- t: 6 October 2017, 20:10 Paris time (GMT
- +00:00)\nFreepreview export: 6 October 2
- 017, 20:49 Paris time (GMT+00:00)\nFTI l
- oaded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T050000Z
-DTEND:20171011T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
- 017 (Summary in Hungarian) (en), OECD di
- gitális gazdasági kilátások 2017 (hu) on
-  11 October 2017, 7:00 Paris time (GMT+0
- 2:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/6f9d3f23-pt
-SUMMARY:OECD Digital Economy Outlook 2017 (Summa
- ry in Portuguese) (en), Perspetivas da O
- CDE para a Economia Digital em 2017 (pt)
-  on 11 October 2017, 7:00 Paris time (GM
- T+02:00)
-DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
- ry in Portuguese) (en), Perspetivas da O
- CDE para a Economia Digital em 2017 (pt)
-   by Directorate for Science, Technology
-  and Industry  has an embargo date/time 
- of 11 October 2017, 7:00 Paris time (GMT
- +02:00).\n\nDirectorate: Directorate for
-  Science, Technology and Industry \nLang
- uage: Portuguese\nDOI: https://doi.org/1
- 0.1787/6f9d3f23-pt\nPublication type: Su
- mmary\nReleased as: HTML, ePub, PDF.\n\n
- iLibrary export: 6 October 2017, 20:10 P
- aris time (GMT+00:00)\nFreepreview expor
- t: 6 October 2017, 20:49 Paris time (GMT
- +00:00)\nFTI loaded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T050000Z
-DTEND:20171011T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
- 017 (Summary in Portuguese) (en), Perspe
- tivas da OCDE para a Economia Digital em
-  2017 (pt) on 11 October 2017, 7:00 Pari
- s time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/70aa77f9-zh
-SUMMARY:OECD Digital Economy Outlook 2017 (Summa
- ry in Chinese) (en), 2017年OECD数字经济展望 (zh
- ) on 11 October 2017, 7:00 Paris time (G
- MT+02:00)
-DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
- ry in Chinese) (en), 2017年OECD数字经济展望 (zh
- )  by Directorate for Science, Technolog
- y and Industry  has an embargo date/time
-  of 11 October 2017, 7:00 Paris time (GM
- T+02:00).\n\nDirectorate: Directorate fo
- r Science, Technology and Industry \nLan
- guage: Chinese\nDOI: https://doi.org/10.
- 1787/70aa77f9-zh\nPublication type: Summ
- ary\nReleased as: PDF, HTML, ePub.\n\niL
- ibrary export: 6 October 2017, 20:10 Par
- is time (GMT+00:00)\nFreepreview export:
-  6 October 2017, 20:49 Paris time (GMT+0
- 0:00)\nFTI loaded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T050000Z
-DTEND:20171011T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
- 017 (Summary in Chinese) (en), 2017年OECD
- 数字经济展望 (zh) on 11 October 2017, 7:00 Par
- is time (GMT+02:00)
 END:VALARM
 END:VEVENT
 
@@ -1228,7 +364,7 @@ DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
  GMT+00:00)\nFreepreview export: 6 Octobe
  r 2017, 20:49 Paris time (GMT+00:00)\nFT
  I loaded: ✓.
-DTSTAMP:20171010T233446Z
+DTSTAMP:20171011T085708Z
 DTSTART:20171011T050000Z
 DTEND:20171011T051500Z
 TRANSP:TRANSPARENT
@@ -1246,28 +382,24 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:10.1787/8fa31780-es
+UID:10.1787/cc76d818-en
 SUMMARY:OECD Digital Economy Outlook 2017 (Summa
- ry in Spanish) (en), Perspectivas de la 
- OCDE sobre la economía digital 2017 (es)
-  on 11 October 2017, 7:00 Paris time (GM
- T+02:00)
+ ry in English) (en) on 11 October 2017, 
+ 7:00 Paris time (GMT+02:00)
 DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
- ry in Spanish) (en), Perspectivas de la 
- OCDE sobre la economía digital 2017 (es)
-   by Directorate for Science, Technology
-  and Industry  has an embargo date/time 
- of 11 October 2017, 7:00 Paris time (GMT
- +02:00).\n\nDirectorate: Directorate for
-  Science, Technology and Industry \nLang
- uage: Spanish\nDOI: https://doi.org/10.1
- 787/8fa31780-es\nPublication type: Summa
- ry\nReleased as: HTML, PDF, ePub.\n\niLi
- brary export: 6 October 2017, 20:10 Pari
- s time (GMT+00:00)\nFreepreview export: 
- 6 October 2017, 20:49 Paris time (GMT+00
- :00)\nFTI loaded: ✓.
-DTSTAMP:20171010T233446Z
+ ry in English) (en)  by Directorate for 
+ Science, Technology and Industry  has an
+  embargo date/time of 11 October 2017, 7
+ :00 Paris time (GMT+02:00).\n\nDirectora
+ te: Directorate for Science, Technology 
+ and Industry \nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/cc76d818-en\nPubl
+ ication type: Summary\nReleased as: ePub
+ , PDF, HTML.\n\niLibrary export: 6 Octob
+ er 2017, 20:10 Paris time (GMT+00:00)\nF
+ reepreview export: 6 October 2017, 20:49
+  Paris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171011T085708Z
 DTSTART:20171011T050000Z
 DTEND:20171011T051500Z
 TRANSP:TRANSPARENT
@@ -1277,190 +409,8 @@ REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
- 017 (Summary in Spanish) (en), Perspecti
- vas de la OCDE sobre la economía digital
-  2017 (es) on 11 October 2017, 7:00 Pari
- s time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/901a20a7-ko
-SUMMARY:OECD Digital Economy Outlook 2017 (Summa
- ry in Korean) (en), 2017년 OECD 디지털경제 전망 
- (ko) on 11 October 2017, 7:00 Paris time
-  (GMT+02:00)
-DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
- ry in Korean) (en), 2017년 OECD 디지털경제 전망 
- (ko)  by Directorate for Science, Techno
- logy and Industry  has an embargo date/t
- ime of 11 October 2017, 7:00 Paris time 
- (GMT+02:00).\n\nDirectorate: Directorate
-  for Science, Technology and Industry \n
- Language: Korean\nDOI: https://doi.org/1
- 0.1787/901a20a7-ko\nPublication type: Su
- mmary\nReleased as: ePub, PDF, HTML.\n\n
- iLibrary export: 6 October 2017, 20:10 P
- aris time (GMT+00:00)\nFreepreview expor
- t: 6 October 2017, 20:49 Paris time (GMT
- +00:00)\nFTI loaded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T050000Z
-DTEND:20171011T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
- 017 (Summary in Korean) (en), 2017년 OECD
-  디지털경제 전망 (ko) on 11 October 2017, 7:00 
- Paris time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264276284-en
-SUMMARY:OECD Digital Economy Outlook 2017 (en) o
- n 11 October 2017, 7:00 Paris time (GMT+
- 02:00)
-DESCRIPTION:OECD Digital Economy Outlook 2017 (en)  
- by Directorate for Science, Technology a
- nd Industry  has an embargo date/time of
-  11 October 2017, 7:00 Paris time (GMT+0
- 2:00).\n\nDirectorate: Directorate for S
- cience, Technology and Industry \nLangua
- ge: English\nDOI: https://doi.org/10.178
- 7/9789264276284-en\nPublication type: St
- and-alone monograph\nReleased as: PDF, P
- aperback, ePub.\n\niLibrary export: 6 Oc
- tober 2017, 20:10 Paris time (GMT+00:00)
- \nFreepreview export: 29 September 2017,
-  20:51 Paris time (GMT+00:00)\nFTI loade
- d: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T050000Z
-DTEND:20171011T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
- 017 (en) on 11 October 2017, 7:00 Paris 
- time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264282483-fr
-SUMMARY:Perspectives de l'économie numérique de 
- l'OCDE 2017 (fr) on 11 October 2017, 7:0
- 0 Paris time (GMT+02:00)
-DESCRIPTION:Perspectives de l'économie numérique de 
- l'OCDE 2017 (fr)  by Directorate for Sci
- ence, Technology and Industry  has an em
- bargo date/time of 11 October 2017, 7:00
-  Paris time (GMT+02:00).\n\nDirectorate:
-  Directorate for Science, Technology and
-  Industry \nLanguage: French\nDOI: https
- ://doi.org/10.1787/9789264282483-fr\nPub
- lication type: Stand-alone monograph\nRe
- leased as: Paperback, ePub, PDF.\n\niLib
- rary export: 9 October 2017, 20:20 Paris
-  time (GMT+00:00)\nFreepreview export: 9
-  October 2017, 21:08 Paris time (GMT+00:
- 00)\nFTI loaded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T050000Z
-DTEND:20171011T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Perspectives de l'économie num
- érique de l'OCDE 2017 (fr) on 11 October
-  2017, 7:00 Paris time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/a096913f-de
-SUMMARY:OECD Digital Economy Outlook 2017 (Summa
- ry in German) (en), OECD-Ausblick Digita
- le Wirtschaft 2017 (de) on 11 October 20
- 17, 7:00 Paris time (GMT+02:00)
-DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
- ry in German) (en), OECD-Ausblick Digita
- le Wirtschaft 2017 (de)  by Directorate 
- for Science, Technology and Industry  ha
- s an embargo date/time of 11 October 201
- 7, 7:00 Paris time (GMT+02:00).\n\nDirec
- torate: Directorate for Science, Technol
- ogy and Industry \nLanguage: German\nDOI
- : https://doi.org/10.1787/a096913f-de\nP
- ublication type: Summary\nReleased as: e
- Pub, HTML, PDF.\n\niLibrary export: 6 Oc
- tober 2017, 20:10 Paris time (GMT+00:00)
- \nFreepreview export: 6 October 2017, 20
- :49 Paris time (GMT+00:00)\nFTI loaded: 
- ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T050000Z
-DTEND:20171011T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
- 017 (Summary in German) (en), OECD-Ausbl
- ick Digitale Wirtschaft 2017 (de) on 11 
- October 2017, 7:00 Paris time (GMT+02:00
- )
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/b3e3a27c-da
-SUMMARY:OECD Digital Economy Outlook 2017 (Summa
- ry in Danish) (en), Udsigterne for den d
- igitale økonomi 2017 (da) on 11 October 
- 2017, 7:00 Paris time (GMT+02:00)
-DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
- ry in Danish) (en), Udsigterne for den d
- igitale økonomi 2017 (da)  by Directorat
- e for Science, Technology and Industry  
- has an embargo date/time of 11 October 2
- 017, 7:00 Paris time (GMT+02:00).\n\nDir
- ectorate: Directorate for Science, Techn
- ology and Industry \nLanguage: Danish\nD
- OI: https://doi.org/10.1787/b3e3a27c-da\
- nPublication type: Summary\nReleased as:
-  ePub, HTML, PDF.\n\niLibrary export: 6 
- October 2017, 20:10 Paris time (GMT+00:0
- 0)\nFreepreview export: 6 October 2017, 
- 20:49 Paris time (GMT+00:00)\nFTI loaded
- : ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T050000Z
-DTEND:20171011T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
- 017 (Summary in Danish) (en), Udsigterne
-  for den digitale økonomi 2017 (da) on 1
- 1 October 2017, 7:00 Paris time (GMT+02:
- 00)
+ 017 (Summary in English) (en) on 11 Octo
+ ber 2017, 7:00 Paris time (GMT+02:00)
 END:VALARM
 END:VEVENT
 
@@ -1485,7 +435,7 @@ DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
  T+00:00)\nFreepreview export: 6 October 
  2017, 20:49 Paris time (GMT+00:00)\nFTI 
  loaded: ✓.
-DTSTAMP:20171010T233446Z
+DTSTAMP:20171011T085708Z
 DTSTART:20171011T050000Z
 DTEND:20171011T051500Z
 TRANSP:TRANSPARENT
@@ -1499,42 +449,6 @@ DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
  itaalse majanduse väljavaated 2017 (et) 
  on 11 October 2017, 7:00 Paris time (GMT
  +02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/c2f94141-tr
-SUMMARY:OECD Digital Economy Outlook 2017 (Summa
- ry in Turkish) (en), OECD 2017 Dijital E
- konomi Görünümü (tr) on 11 October 2017,
-  7:00 Paris time (GMT+02:00)
-DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
- ry in Turkish) (en), OECD 2017 Dijital E
- konomi Görünümü (tr)  by Directorate for
-  Science, Technology and Industry  has a
- n embargo date/time of 11 October 2017, 
- 7:00 Paris time (GMT+02:00).\n\nDirector
- ate: Directorate for Science, Technology
-  and Industry \nLanguage: Turkish\nDOI: 
- https://doi.org/10.1787/c2f94141-tr\nPub
- lication type: Summary\nReleased as: HTM
- L, ePub, PDF.\n\niLibrary export: 6 Octo
- ber 2017, 20:10 Paris time (GMT+00:00)\n
- Freepreview export: 6 October 2017, 20:4
- 9 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T050000Z
-DTEND:20171011T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
- 017 (Summary in Turkish) (en), OECD 2017
-  Dijital Ekonomi Görünümü (tr) on 11 Oct
- ober 2017, 7:00 Paris time (GMT+02:00)
 END:VALARM
 END:VEVENT
 
@@ -1558,7 +472,7 @@ DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
  ber 2017, 20:10 Paris time (GMT+00:00)\n
  Freepreview export: 6 October 2017, 20:4
  9 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171010T233446Z
+DTSTAMP:20171011T085708Z
 DTSTART:20171011T050000Z
 DTEND:20171011T051500Z
 TRANSP:TRANSPARENT
@@ -1596,7 +510,7 @@ DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
  e (GMT+00:00)\nFreepreview export: 6 Oct
  ober 2017, 20:49 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20171010T233446Z
+DTSTAMP:20171011T085708Z
 DTSTART:20171011T050000Z
 DTEND:20171011T051500Z
 TRANSP:TRANSPARENT
@@ -1614,24 +528,27 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:10.1787/cc76d818-en
+UID:10.1787/a096913f-de
 SUMMARY:OECD Digital Economy Outlook 2017 (Summa
- ry in English) (en) on 11 October 2017, 
- 7:00 Paris time (GMT+02:00)
+ ry in German) (en), OECD-Ausblick Digita
+ le Wirtschaft 2017 (de) on 11 October 20
+ 17, 7:00 Paris time (GMT+02:00)
 DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
- ry in English) (en)  by Directorate for 
- Science, Technology and Industry  has an
-  embargo date/time of 11 October 2017, 7
- :00 Paris time (GMT+02:00).\n\nDirectora
- te: Directorate for Science, Technology 
- and Industry \nLanguage: English\nDOI: h
- ttps://doi.org/10.1787/cc76d818-en\nPubl
- ication type: Summary\nReleased as: ePub
- , PDF, HTML.\n\niLibrary export: 6 Octob
- er 2017, 20:10 Paris time (GMT+00:00)\nF
- reepreview export: 6 October 2017, 20:49
-  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171010T233446Z
+ ry in German) (en), OECD-Ausblick Digita
+ le Wirtschaft 2017 (de)  by Directorate 
+ for Science, Technology and Industry  ha
+ s an embargo date/time of 11 October 201
+ 7, 7:00 Paris time (GMT+02:00).\n\nDirec
+ torate: Directorate for Science, Technol
+ ogy and Industry \nLanguage: German\nDOI
+ : https://doi.org/10.1787/a096913f-de\nP
+ ublication type: Summary\nReleased as: e
+ Pub, HTML, PDF.\n\niLibrary export: 6 Oc
+ tober 2017, 20:10 Paris time (GMT+00:00)
+ \nFreepreview export: 6 October 2017, 20
+ :49 Paris time (GMT+00:00)\nFTI loaded: 
+ ✓.
+DTSTAMP:20171011T085708Z
 DTSTART:20171011T050000Z
 DTEND:20171011T051500Z
 TRANSP:TRANSPARENT
@@ -1641,82 +558,10 @@ REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
- 017 (Summary in English) (en) on 11 Octo
- ber 2017, 7:00 Paris time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/d050f4b2-ja
-SUMMARY:OECD Digital Economy Outlook 2017 (Summa
- ry in Japanese) (en), OECDデジタル経済アウトルック20
- 17 (ja) on 11 October 2017, 7:00 Paris t
- ime (GMT+02:00)
-DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
- ry in Japanese) (en), OECDデジタル経済アウトルック20
- 17 (ja)  by Directorate for Science, Tec
- hnology and Industry  has an embargo dat
- e/time of 11 October 2017, 7:00 Paris ti
- me (GMT+02:00).\n\nDirectorate: Director
- ate for Science, Technology and Industry
-  \nLanguage: Japanese\nDOI: https://doi.
- org/10.1787/d050f4b2-ja\nPublication typ
- e: Summary\nReleased as: PDF, HTML, ePub
- .\n\niLibrary export: 6 October 2017, 20
- :10 Paris time (GMT+00:00)\nFreepreview 
- export: 6 October 2017, 20:49 Paris time
-  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T050000Z
-DTEND:20171011T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
- 017 (Summary in Japanese) (en), OECDデジタル
- 経済アウトルック2017 (ja) on 11 October 2017, 7:
- 00 Paris time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/da4c3382-sl
-SUMMARY:OECD Digital Economy Outlook 2017 (Summa
- ry in Slovenian) (en), Pregled digitalne
- ga gospodarstva OECD 2017 (sl) on 11 Oct
- ober 2017, 7:00 Paris time (GMT+02:00)
-DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
- ry in Slovenian) (en), Pregled digitalne
- ga gospodarstva OECD 2017 (sl)  by Direc
- torate for Science, Technology and Indus
- try  has an embargo date/time of 11 Octo
- ber 2017, 7:00 Paris time (GMT+02:00).\n
- \nDirectorate: Directorate for Science, 
- Technology and Industry \nLanguage: Slov
- enian\nDOI: https://doi.org/10.1787/da4c
- 3382-sl\nPublication type: Summary\nRele
- ased as: PDF, ePub, HTML.\n\niLibrary ex
- port: 6 October 2017, 20:10 Paris time (
- GMT+00:00)\nFreepreview export: 6 Octobe
- r 2017, 20:49 Paris time (GMT+00:00)\nFT
- I loaded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T050000Z
-DTEND:20171011T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
- 017 (Summary in Slovenian) (en), Pregled
-  digitalnega gospodarstva OECD 2017 (sl)
-  on 11 October 2017, 7:00 Paris time (GM
- T+02:00)
+ 017 (Summary in German) (en), OECD-Ausbl
+ ick Digitale Wirtschaft 2017 (de) on 11 
+ October 2017, 7:00 Paris time (GMT+02:00
+ )
 END:VALARM
 END:VEVENT
 
@@ -1741,7 +586,7 @@ DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
  \nFreepreview export: 6 October 2017, 20
  :49 Paris time (GMT+00:00)\nFTI loaded: 
  ✓.
-DTSTAMP:20171010T233446Z
+DTSTAMP:20171011T085708Z
 DTSTART:20171011T050000Z
 DTEND:20171011T051500Z
 TRANSP:TRANSPARENT
@@ -1753,6 +598,267 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
  017 (Summary in Greek) (en), ΟΟΣΑ Προοπτ
  ικές ψηφιακής οικονομίας 2017 (el) on 11
+  October 2017, 7:00 Paris time (GMT+02:0
+ 0)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/654f4ba3-he
+SUMMARY:OECD Digital Economy Outlook 2017 (Summa
+ ry in Hebrew) (en), תחזית OECD לשנת 2017
+  - כלכלה דיגיטלית (he) on 11 October 201
+ 7, 7:00 Paris time (GMT+02:00)
+DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
+ ry in Hebrew) (en), תחזית OECD לשנת 2017
+  - כלכלה דיגיטלית (he)  by Directorate f
+ or Science, Technology and Industry  has
+  an embargo date/time of 11 October 2017
+ , 7:00 Paris time (GMT+02:00).\n\nDirect
+ orate: Directorate for Science, Technolo
+ gy and Industry \nLanguage: Hebrew\nDOI:
+  https://doi.org/10.1787/654f4ba3-he\nPu
+ blication type: Summary\nReleased as: HT
+ ML, ePub, PDF.\n\niLibrary export: 6 Oct
+ ober 2017, 20:10 Paris time (GMT+00:00)\
+ nFreepreview export: 6 October 2017, 20:
+ 49 Paris time (GMT+00:00)\nFTI loaded: ✓
+ .
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T050000Z
+DTEND:20171011T051500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
+ 017 (Summary in Hebrew) (en), תחזית OECD
+  לשנת 2017 - כלכלה דיגיטלית (he) on 11 O
+ ctober 2017, 7:00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/6998e179-hu
+SUMMARY:OECD Digital Economy Outlook 2017 (Summa
+ ry in Hungarian) (en), OECD digitális ga
+ zdasági kilátások 2017 (hu) on 11 Octobe
+ r 2017, 7:00 Paris time (GMT+02:00)
+DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
+ ry in Hungarian) (en), OECD digitális ga
+ zdasági kilátások 2017 (hu)  by Director
+ ate for Science, Technology and Industry
+   has an embargo date/time of 11 October
+  2017, 7:00 Paris time (GMT+02:00).\n\nD
+ irectorate: Directorate for Science, Tec
+ hnology and Industry \nLanguage: Hungari
+ an\nDOI: https://doi.org/10.1787/6998e17
+ 9-hu\nPublication type: Summary\nRelease
+ d as: PDF, HTML, ePub.\n\niLibrary expor
+ t: 6 October 2017, 20:10 Paris time (GMT
+ +00:00)\nFreepreview export: 6 October 2
+ 017, 20:49 Paris time (GMT+00:00)\nFTI l
+ oaded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T050000Z
+DTEND:20171011T051500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
+ 017 (Summary in Hungarian) (en), OECD di
+ gitális gazdasági kilátások 2017 (hu) on
+  11 October 2017, 7:00 Paris time (GMT+0
+ 2:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/3a773538-is
+SUMMARY:OECD Digital Economy Outlook 2017 (Summa
+ ry in Icelandic) (en), Horfur OECD varða
+ ndi stafræna hagkerfið 2017 (is) on 11 O
+ ctober 2017, 7:00 Paris time (GMT+02:00)
+DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
+ ry in Icelandic) (en), Horfur OECD varða
+ ndi stafræna hagkerfið 2017 (is)  by Dir
+ ectorate for Science, Technology and Ind
+ ustry  has an embargo date/time of 11 Oc
+ tober 2017, 7:00 Paris time (GMT+02:00).
+ \n\nDirectorate: Directorate for Science
+ , Technology and Industry \nLanguage: Ic
+ elandic\nDOI: https://doi.org/10.1787/3a
+ 773538-is\nPublication type: Summary\nRe
+ leased as: PDF, ePub, HTML.\n\niLibrary 
+ export: 6 October 2017, 20:10 Paris time
+  (GMT+00:00)\nFreepreview export: 6 Octo
+ ber 2017, 20:49 Paris time (GMT+00:00)\n
+ FTI loaded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T050000Z
+DTEND:20171011T051500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
+ 017 (Summary in Icelandic) (en), Horfur 
+ OECD varðandi stafræna hagkerfið 2017 (i
+ s) on 11 October 2017, 7:00 Paris time (
+ GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/6553fcf7-it
+SUMMARY:OECD Digital Economy Outlook 2017 (Summa
+ ry in Italian) (en), Prospettive dell’ec
+ onomia digitale 2017 (it) on 11 October 
+ 2017, 7:00 Paris time (GMT+02:00)
+DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
+ ry in Italian) (en), Prospettive dell’ec
+ onomia digitale 2017 (it)  by Directorat
+ e for Science, Technology and Industry  
+ has an embargo date/time of 11 October 2
+ 017, 7:00 Paris time (GMT+02:00).\n\nDir
+ ectorate: Directorate for Science, Techn
+ ology and Industry \nLanguage: Italian\n
+ DOI: https://doi.org/10.1787/6553fcf7-it
+ \nPublication type: Summary\nReleased as
+ : ePub, PDF, HTML.\n\niLibrary export: 6
+  October 2017, 20:10 Paris time (GMT+00:
+ 00)\nFreepreview export: 6 October 2017,
+  20:49 Paris time (GMT+00:00)\nFTI loade
+ d: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T050000Z
+DTEND:20171011T051500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
+ 017 (Summary in Italian) (en), Prospetti
+ ve dell’economia digitale 2017 (it) on 1
+ 1 October 2017, 7:00 Paris time (GMT+02:
+ 00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/d050f4b2-ja
+SUMMARY:OECD Digital Economy Outlook 2017 (Summa
+ ry in Japanese) (en), OECDデジタル経済アウトルック20
+ 17 (ja) on 11 October 2017, 7:00 Paris t
+ ime (GMT+02:00)
+DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
+ ry in Japanese) (en), OECDデジタル経済アウトルック20
+ 17 (ja)  by Directorate for Science, Tec
+ hnology and Industry  has an embargo dat
+ e/time of 11 October 2017, 7:00 Paris ti
+ me (GMT+02:00).\n\nDirectorate: Director
+ ate for Science, Technology and Industry
+  \nLanguage: Japanese\nDOI: https://doi.
+ org/10.1787/d050f4b2-ja\nPublication typ
+ e: Summary\nReleased as: PDF, HTML, ePub
+ .\n\niLibrary export: 6 October 2017, 20
+ :10 Paris time (GMT+00:00)\nFreepreview 
+ export: 6 October 2017, 20:49 Paris time
+  (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T050000Z
+DTEND:20171011T051500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
+ 017 (Summary in Japanese) (en), OECDデジタル
+ 経済アウトルック2017 (ja) on 11 October 2017, 7:
+ 00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/901a20a7-ko
+SUMMARY:OECD Digital Economy Outlook 2017 (Summa
+ ry in Korean) (en), 2017년 OECD 디지털경제 전망 
+ (ko) on 11 October 2017, 7:00 Paris time
+  (GMT+02:00)
+DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
+ ry in Korean) (en), 2017년 OECD 디지털경제 전망 
+ (ko)  by Directorate for Science, Techno
+ logy and Industry  has an embargo date/t
+ ime of 11 October 2017, 7:00 Paris time 
+ (GMT+02:00).\n\nDirectorate: Directorate
+  for Science, Technology and Industry \n
+ Language: Korean\nDOI: https://doi.org/1
+ 0.1787/901a20a7-ko\nPublication type: Su
+ mmary\nReleased as: ePub, PDF, HTML.\n\n
+ iLibrary export: 6 October 2017, 20:10 P
+ aris time (GMT+00:00)\nFreepreview expor
+ t: 6 October 2017, 20:49 Paris time (GMT
+ +00:00)\nFTI loaded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T050000Z
+DTEND:20171011T051500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
+ 017 (Summary in Korean) (en), 2017년 OECD
+  디지털경제 전망 (ko) on 11 October 2017, 7:00 
+ Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/46c2e410-lv
+SUMMARY:OECD Digital Economy Outlook 2017 (Summa
+ ry in Latvian) (en), OECD digitālās ekon
+ omikas apskats 2017 (lv) on 11 October 2
+ 017, 7:00 Paris time (GMT+02:00)
+DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
+ ry in Latvian) (en), OECD digitālās ekon
+ omikas apskats 2017 (lv)  by Directorate
+  for Science, Technology and Industry  h
+ as an embargo date/time of 11 October 20
+ 17, 7:00 Paris time (GMT+02:00).\n\nDire
+ ctorate: Directorate for Science, Techno
+ logy and Industry \nLanguage: Latvian\nD
+ OI: https://doi.org/10.1787/46c2e410-lv\
+ nPublication type: Summary\nReleased as:
+  PDF, ePub, HTML.\n\niLibrary export: 6 
+ October 2017, 20:10 Paris time (GMT+00:0
+ 0)\nFreepreview export: 6 October 2017, 
+ 20:49 Paris time (GMT+00:00)\nFTI loaded
+ : ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T050000Z
+DTEND:20171011T051500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
+ 017 (Summary in Latvian) (en), OECD digi
+ tālās ekonomikas apskats 2017 (lv) on 11
   October 2017, 7:00 Paris time (GMT+02:0
  0)
 END:VALARM
@@ -1780,7 +886,7 @@ DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
   time (GMT+00:00)\nFreepreview export: 6
   October 2017, 20:49 Paris time (GMT+00:
  00)\nFTI loaded: ✓.
-DTSTAMP:20171010T233446Z
+DTSTAMP:20171011T085708Z
 DTSTART:20171011T050000Z
 DTEND:20171011T051500Z
 TRANSP:TRANSPARENT
@@ -1798,202 +904,723 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:10.1787/9789264279087-en
-SUMMARY:Preventing Ageing Unequally (en) on 18 O
- ctober 2017, 11:00 Paris time (GMT+02:00
- )
-DESCRIPTION:Preventing Ageing Unequally (en)  by Dir
- ectorate for Science, Technology and Ind
- ustry , Directorate for Public Governanc
- e, Directorate for Employment, Labour an
- d Social Affairs, Statistics Directorate
-  has an embargo date/time of 18 October 
- 2017, 11:00 Paris time (GMT+02:00).\n\nD
- irectorate: Directorate for Science, Tec
- hnology and Industry , Directorate for P
- ublic Governance, Directorate for Employ
- ment, Labour and Social Affairs, Statist
- ics Directorate\nLanguage: English\nDOI:
-  https://doi.org/10.1787/9789264279087-e
- n\nPublication type: Stand-alone monogra
- ph\nReleased as: Paperback, PDF.\n\niLib
- rary export: 6 October 2017, 20:10 Paris
-  time (GMT+00:00)\nFreepreview export: 2
-  October 2017, 20:57 Paris time (GMT+00:
- 00)\nFTI loaded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171018T090000Z
-DTEND:20171018T091500Z
+UID:10.1787/0adc0866-pl
+SUMMARY:OECD Digital Economy Outlook 2017 (Summa
+ ry in Polish) (en), Perspektywy w dziedz
+ inie gospodarki cyfrowej OECD 2017 (pl) 
+ on 11 October 2017, 7:00 Paris time (GMT
+ +02:00)
+DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
+ ry in Polish) (en), Perspektywy w dziedz
+ inie gospodarki cyfrowej OECD 2017 (pl) 
+  by Directorate for Science, Technology 
+ and Industry  has an embargo date/time o
+ f 11 October 2017, 7:00 Paris time (GMT+
+ 02:00).\n\nDirectorate: Directorate for 
+ Science, Technology and Industry \nLangu
+ age: Polish\nDOI: https://doi.org/10.178
+ 7/0adc0866-pl\nPublication type: Summary
+ \nReleased as: HTML, PDF, ePub.\n\niLibr
+ ary export: 6 October 2017, 20:10 Paris 
+ time (GMT+00:00)\nFreepreview export: 6 
+ October 2017, 20:49 Paris time (GMT+00:0
+ 0)\nFTI loaded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T050000Z
+DTEND:20171011T051500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Preventing Ageing Unequally (e
- n) on 18 October 2017, 11:00 Paris time 
- (GMT+02:00)
+DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
+ 017 (Summary in Polish) (en), Perspektyw
+ y w dziedzinie gospodarki cyfrowej OECD 
+ 2017 (pl) on 11 October 2017, 7:00 Paris
+  time (GMT+02:00)
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:10.1787/0d6741fd-en
-SUMMARY:Corporate governance and firm performanc
- e in China (en) on 11 October 2017, 2:00
-  Paris time (GMT+02:00)
-DESCRIPTION:Corporate governance and firm performanc
- e in China (en)  by Economics Department
+UID:10.1787/6f9d3f23-pt
+SUMMARY:OECD Digital Economy Outlook 2017 (Summa
+ ry in Portuguese) (en), Perspetivas da O
+ CDE para a Economia Digital em 2017 (pt)
+  on 11 October 2017, 7:00 Paris time (GM
+ T+02:00)
+DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
+ ry in Portuguese) (en), Perspetivas da O
+ CDE para a Economia Digital em 2017 (pt)
+   by Directorate for Science, Technology
+  and Industry  has an embargo date/time 
+ of 11 October 2017, 7:00 Paris time (GMT
+ +02:00).\n\nDirectorate: Directorate for
+  Science, Technology and Industry \nLang
+ uage: Portuguese\nDOI: https://doi.org/1
+ 0.1787/6f9d3f23-pt\nPublication type: Su
+ mmary\nReleased as: HTML, ePub, PDF.\n\n
+ iLibrary export: 6 October 2017, 20:10 P
+ aris time (GMT+00:00)\nFreepreview expor
+ t: 6 October 2017, 20:49 Paris time (GMT
+ +00:00)\nFTI loaded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T050000Z
+DTEND:20171011T051500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
+ 017 (Summary in Portuguese) (en), Perspe
+ tivas da OCDE para a Economia Digital em
+  2017 (pt) on 11 October 2017, 7:00 Pari
+ s time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/4657a930-ru
+SUMMARY:OECD Digital Economy Outlook 2017 (Summa
+ ry in Russian) (en), Перспективы цифрово
+ й экономики ОЭСР 2017 (ru) on 11 October
+  2017, 7:00 Paris time (GMT+02:00)
+DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
+ ry in Russian) (en), Перспективы цифрово
+ й экономики ОЭСР 2017 (ru)  by Directora
+ te for Science, Technology and Industry 
   has an embargo date/time of 11 October 
- 2017, 2:00 Paris time (GMT+02:00).\n\nDi
- rectorate: Economics Department\nLanguag
- e: English\nDOI: https://doi.org/10.1787
- /0d6741fd-en\nPublication type: Working 
- paper\nReleased as: PDF.\n\niLibrary exp
- ort: never\nFreepreview export: never\nF
- TI loaded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T000000Z
-DTEND:20171011T001500Z
+ 2017, 7:00 Paris time (GMT+02:00).\n\nDi
+ rectorate: Directorate for Science, Tech
+ nology and Industry \nLanguage: Russian\
+ nDOI: https://doi.org/10.1787/4657a930-r
+ u\nPublication type: Summary\nReleased a
+ s: PDF, HTML, ePub.\n\niLibrary export: 
+ 6 October 2017, 20:10 Paris time (GMT+00
+ :00)\nFreepreview export: 6 October 2017
+ , 20:49 Paris time (GMT+00:00)\nFTI load
+ ed: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T050000Z
+DTEND:20171011T051500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Corporate governance and firm 
- performance in China (en) on 11 October 
- 2017, 2:00 Paris time (GMT+02:00)
+DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
+ 017 (Summary in Russian) (en), Перспекти
+ вы цифровой экономики ОЭСР 2017 (ru) on 
+ 11 October 2017, 7:00 Paris time (GMT+02
+ :00)
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:10.1787/8071e193-en
-SUMMARY:Improving productivity in New Zealand's 
- economy (en) on 11 October 2017, 2:00 Pa
- ris time (GMT+02:00)
-DESCRIPTION:Improving productivity in New Zealand's 
- economy (en)  by Economics Department ha
- s an embargo date/time of 11 October 201
- 7, 2:00 Paris time (GMT+02:00).\n\nDirec
- torate: Economics Department\nLanguage: 
- English\nDOI: https://doi.org/10.1787/80
- 71e193-en\nPublication type: Working pap
- er\nReleased as: PDF.\n\niLibrary export
- : 9 October 2017, 20:20 Paris time (GMT+
- 00:00)\nFreepreview export: 9 October 20
- 17, 21:08 Paris time (GMT+00:00)\nFTI lo
- aded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T000000Z
-DTEND:20171011T001500Z
+UID:10.1787/295d89d8-sk
+SUMMARY:OECD Digital Economy Outlook 2017 (Summa
+ ry in Slovak) (en), Výhľad OECD v oblast
+ i digitálnej ekonomiky na rok 2017 (sk) 
+ on 11 October 2017, 7:00 Paris time (GMT
+ +02:00)
+DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
+ ry in Slovak) (en), Výhľad OECD v oblast
+ i digitálnej ekonomiky na rok 2017 (sk) 
+  by Directorate for Science, Technology 
+ and Industry  has an embargo date/time o
+ f 11 October 2017, 7:00 Paris time (GMT+
+ 02:00).\n\nDirectorate: Directorate for 
+ Science, Technology and Industry \nLangu
+ age: Slovak\nDOI: https://doi.org/10.178
+ 7/295d89d8-sk\nPublication type: Summary
+ \nReleased as: PDF, ePub, HTML.\n\niLibr
+ ary export: 6 October 2017, 20:10 Paris 
+ time (GMT+00:00)\nFreepreview export: 6 
+ October 2017, 20:49 Paris time (GMT+00:0
+ 0)\nFTI loaded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T050000Z
+DTEND:20171011T051500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Improving productivity in New 
- Zealand's economy (en) on 11 October 201
- 7, 2:00 Paris time (GMT+02:00)
+DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
+ 017 (Summary in Slovak) (en), Výhľad OEC
+ D v oblasti digitálnej ekonomiky na rok 
+ 2017 (sk) on 11 October 2017, 7:00 Paris
+  time (GMT+02:00)
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:10.1787/9f37a4ce-en
-SUMMARY:Luxembourg: reaping the benefits of a di
- verse society through better integration
-  of immigrants (en) on 11 October 2017, 
- 2:00 Paris time (GMT+02:00)
-DESCRIPTION:Luxembourg: reaping the benefits of a di
- verse society through better integration
-  of immigrants (en)  by Economics Depart
- ment has an embargo date/time of 11 Octo
- ber 2017, 2:00 Paris time (GMT+02:00).\n
- \nDirectorate: Economics Department\nLan
- guage: English\nDOI: https://doi.org/10.
- 1787/9f37a4ce-en\nPublication type: Work
- ing paper\nReleased as: PDF.\n\niLibrary
+UID:10.1787/da4c3382-sl
+SUMMARY:OECD Digital Economy Outlook 2017 (Summa
+ ry in Slovenian) (en), Pregled digitalne
+ ga gospodarstva OECD 2017 (sl) on 11 Oct
+ ober 2017, 7:00 Paris time (GMT+02:00)
+DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
+ ry in Slovenian) (en), Pregled digitalne
+ ga gospodarstva OECD 2017 (sl)  by Direc
+ torate for Science, Technology and Indus
+ try  has an embargo date/time of 11 Octo
+ ber 2017, 7:00 Paris time (GMT+02:00).\n
+ \nDirectorate: Directorate for Science, 
+ Technology and Industry \nLanguage: Slov
+ enian\nDOI: https://doi.org/10.1787/da4c
+ 3382-sl\nPublication type: Summary\nRele
+ ased as: PDF, ePub, HTML.\n\niLibrary ex
+ port: 6 October 2017, 20:10 Paris time (
+ GMT+00:00)\nFreepreview export: 6 Octobe
+ r 2017, 20:49 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T050000Z
+DTEND:20171011T051500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
+ 017 (Summary in Slovenian) (en), Pregled
+  digitalnega gospodarstva OECD 2017 (sl)
+  on 11 October 2017, 7:00 Paris time (GM
+ T+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/8fa31780-es
+SUMMARY:OECD Digital Economy Outlook 2017 (Summa
+ ry in Spanish) (en), Perspectivas de la 
+ OCDE sobre la economía digital 2017 (es)
+  on 11 October 2017, 7:00 Paris time (GM
+ T+02:00)
+DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
+ ry in Spanish) (en), Perspectivas de la 
+ OCDE sobre la economía digital 2017 (es)
+   by Directorate for Science, Technology
+  and Industry  has an embargo date/time 
+ of 11 October 2017, 7:00 Paris time (GMT
+ +02:00).\n\nDirectorate: Directorate for
+  Science, Technology and Industry \nLang
+ uage: Spanish\nDOI: https://doi.org/10.1
+ 787/8fa31780-es\nPublication type: Summa
+ ry\nReleased as: HTML, PDF, ePub.\n\niLi
+ brary export: 6 October 2017, 20:10 Pari
+ s time (GMT+00:00)\nFreepreview export: 
+ 6 October 2017, 20:49 Paris time (GMT+00
+ :00)\nFTI loaded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T050000Z
+DTEND:20171011T051500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
+ 017 (Summary in Spanish) (en), Perspecti
+ vas de la OCDE sobre la economía digital
+  2017 (es) on 11 October 2017, 7:00 Pari
+ s time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/375e3384-sv
+SUMMARY:OECD Digital Economy Outlook 2017 (Summa
+ ry in Swedish) (en), OECD:s internetekon
+ omiska översikt 2017 (sv) on 11 October 
+ 2017, 7:00 Paris time (GMT+02:00)
+DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
+ ry in Swedish) (en), OECD:s internetekon
+ omiska översikt 2017 (sv)  by Directorat
+ e for Science, Technology and Industry  
+ has an embargo date/time of 11 October 2
+ 017, 7:00 Paris time (GMT+02:00).\n\nDir
+ ectorate: Directorate for Science, Techn
+ ology and Industry \nLanguage: Swedish\n
+ DOI: https://doi.org/10.1787/375e3384-sv
+ \nPublication type: Summary\nReleased as
+ : PDF, ePub, HTML.\n\niLibrary export: 6
+  October 2017, 20:10 Paris time (GMT+00:
+ 00)\nFreepreview export: 6 October 2017,
+  20:49 Paris time (GMT+00:00)\nFTI loade
+ d: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T050000Z
+DTEND:20171011T051500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
+ 017 (Summary in Swedish) (en), OECD:s in
+ ternetekonomiska översikt 2017 (sv) on 1
+ 1 October 2017, 7:00 Paris time (GMT+02:
+ 00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/c2f94141-tr
+SUMMARY:OECD Digital Economy Outlook 2017 (Summa
+ ry in Turkish) (en), OECD 2017 Dijital E
+ konomi Görünümü (tr) on 11 October 2017,
+  7:00 Paris time (GMT+02:00)
+DESCRIPTION:OECD Digital Economy Outlook 2017 (Summa
+ ry in Turkish) (en), OECD 2017 Dijital E
+ konomi Görünümü (tr)  by Directorate for
+  Science, Technology and Industry  has a
+ n embargo date/time of 11 October 2017, 
+ 7:00 Paris time (GMT+02:00).\n\nDirector
+ ate: Directorate for Science, Technology
+  and Industry \nLanguage: Turkish\nDOI: 
+ https://doi.org/10.1787/c2f94141-tr\nPub
+ lication type: Summary\nReleased as: HTM
+ L, ePub, PDF.\n\niLibrary export: 6 Octo
+ ber 2017, 20:10 Paris time (GMT+00:00)\n
+ Freepreview export: 6 October 2017, 20:4
+ 9 Paris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T050000Z
+DTEND:20171011T051500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Digital Economy Outlook 2
+ 017 (Summary in Turkish) (en), OECD 2017
+  Dijital Ekonomi Görünümü (tr) on 11 Oct
+ ober 2017, 7:00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264282483-fr
+SUMMARY:Perspectives de l'économie numérique de 
+ l'OCDE 2017 (fr) on 11 October 2017, 7:0
+ 0 Paris time (GMT+02:00)
+DESCRIPTION:Perspectives de l'économie numérique de 
+ l'OCDE 2017 (fr)  by Directorate for Sci
+ ence, Technology and Industry  has an em
+ bargo date/time of 11 October 2017, 7:00
+  Paris time (GMT+02:00).\n\nDirectorate:
+  Directorate for Science, Technology and
+  Industry \nLanguage: French\nDOI: https
+ ://doi.org/10.1787/9789264282483-fr\nPub
+ lication type: Stand-alone monograph\nRe
+ leased as: PDF, Paperback, ePub.\n\niLib
+ rary export: 9 October 2017, 20:20 Paris
+  time (GMT+00:00)\nFreepreview export: 9
+  October 2017, 21:08 Paris time (GMT+00:
+ 00)\nFTI loaded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T050000Z
+DTEND:20171011T051500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Perspectives de l'économie num
+ érique de l'OCDE 2017 (fr) on 11 October
+  2017, 7:00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264278547-en
+SUMMARY:Multi-Dimensional Review of Panama (en) 
+ on 11 October 2017, 17:00 Paris time (GM
+ T+02:00)
+DESCRIPTION:Multi-Dimensional Review of Panama (en) 
+  - Volume 1: Initial Assessment (en) by 
+ Public Affairs and Communications Direct
+ orate, Development Centre has an embargo
+  date/time of 11 October 2017, 17:00 Par
+ is time (GMT+02:00).\n\nDirectorate: Pub
+ lic Affairs and Communications Directora
+ te, Development Centre\nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/97892642
+ 78547-en\nPublication type: Book\nReleas
+ ed as: Paperback, ePub, PDF.\n\niLibrary
   export: 9 October 2017, 20:20 Paris tim
  e (GMT+00:00)\nFreepreview export: 9 Oct
  ober 2017, 21:08 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T000000Z
-DTEND:20171011T001500Z
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T150000Z
+DTEND:20171011T151500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Luxembourg: reaping the benefi
- ts of a diverse society through better i
- ntegration of immigrants (en) on 11 Octo
- ber 2017, 2:00 Paris time (GMT+02:00)
+DESCRIPTION:Reminder: Multi-Dimensional Review of Pa
+ nama (en) on 11 October 2017, 17:00 Pari
+ s time (GMT+02:00)
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:10.1787/c1386349-en
-SUMMARY:Luxembourg: harnessing skills for more i
- nclusive growth (en) on 11 October 2017,
-  2:00 Paris time (GMT+02:00)
-DESCRIPTION:Luxembourg: harnessing skills for more i
- nclusive growth (en)  by Economics Depar
- tment has an embargo date/time of 11 Oct
- ober 2017, 2:00 Paris time (GMT+02:00).\
- n\nDirectorate: Economics Department\nLa
+UID:10.1787/9789264280458-en
+SUMMARY:Driving Performance at Mexico's Agency f
+ or Safety, Energy and Environment (en) o
+ n 12 October 2017, 0:00 Paris time (GMT+
+ 02:00)
+DESCRIPTION:Driving Performance at Mexico's Agency f
+ or Safety, Energy and Environment (en)  
+ by Directorate for Public Governance has
+  an embargo date/time of 12 October 2017
+ , 0:00 Paris time (GMT+02:00).\n\nDirect
+ orate: Directorate for Public Governance
+ \nLanguage: English\nDOI: https://doi.or
+ g/10.1787/9789264280458-en\nPublication 
+ type: Book\nReleased as: PDF, Paperback.
+ \n\niLibrary export: 11 September 2017, 
+ 20:04 Paris time (GMT+00:00)\nFreeprevie
+ w export: 11 September 2017, 20:43 Paris
+  time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T220000Z
+DTEND:20171011T221500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Driving Performance at Mexico'
+ s Agency for Safety, Energy and Environm
+ ent (en) on 12 October 2017, 0:00 Paris 
+ time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264280830-en
+SUMMARY:Driving Performance at Mexico's Energy R
+ egulatory Commission (en) on 12 October 
+ 2017, 0:00 Paris time (GMT+02:00)
+DESCRIPTION:Driving Performance at Mexico's Energy R
+ egulatory Commission (en)  by Directorat
+ e for Public Governance has an embargo d
+ ate/time of 12 October 2017, 0:00 Paris 
+ time (GMT+02:00).\n\nDirectorate: Direct
+ orate for Public Governance\nLanguage: E
+ nglish\nDOI: https://doi.org/10.1787/978
+ 9264280830-en\nPublication type: Book\nR
+ eleased as: PDF, Paperback.\n\niLibrary 
+ export: 11 September 2017, 20:04 Paris t
+ ime (GMT+00:00)\nFreepreview export: 11 
+ September 2017, 20:43 Paris time (GMT+00
+ :00)\nFTI loaded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T220000Z
+DTEND:20171011T221500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Driving Performance at Mexico'
+ s Energy Regulatory Commission (en) on 1
+ 2 October 2017, 0:00 Paris time (GMT+02:
+ 00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264280748-en
+SUMMARY:Driving Performance at Mexico's National
+  Hydrocarbons Commission (en) on 12 Octo
+ ber 2017, 0:00 Paris time (GMT+02:00)
+DESCRIPTION:Driving Performance at Mexico's National
+  Hydrocarbons Commission (en)  by Direct
+ orate for Public Governance has an embar
+ go date/time of 12 October 2017, 0:00 Pa
+ ris time (GMT+02:00).\n\nDirectorate: Di
+ rectorate for Public Governance\nLanguag
+ e: English\nDOI: https://doi.org/10.1787
+ /9789264280748-en\nPublication type: Boo
+ k\nReleased as: PDF, Paperback.\n\niLibr
+ ary export: 11 September 2017, 20:04 Par
+ is time (GMT+00:00)\nFreepreview export:
+  11 September 2017, 20:43 Paris time (GM
+ T+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T220000Z
+DTEND:20171011T221500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Driving Performance at Mexico'
+ s National Hydrocarbons Commission (en) 
+ on 12 October 2017, 0:00 Paris time (GMT
+ +02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264280991-es
+SUMMARY:Impulsando el desempeño de la Agencia de
+  Seguridad, Energía y Ambiente de México
+  (es) on 12 October 2017, 0:00 Paris tim
+ e (GMT+02:00)
+DESCRIPTION:Impulsando el desempeño de la Agencia de
+  Seguridad, Energía y Ambiente de México
+  (es)  by Directorate for Public Governa
+ nce has an embargo date/time of 12 Octob
+ er 2017, 0:00 Paris time (GMT+02:00).\n\
+ nDirectorate: Directorate for Public Gov
+ ernance\nLanguage: Spanish\nDOI: https:/
+ /doi.org/10.1787/9789264280991-es\nPubli
+ cation type: Book\nReleased as: PDF, Pap
+ erback.\n\niLibrary export: 18 September
+  2017, 20:34 Paris time (GMT+00:00)\nFre
+ epreview export: 11 September 2017, 20:4
+ 3 Paris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T220000Z
+DTEND:20171011T221500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Impulsando el desempeño de la 
+ Agencia de Seguridad, Energía y Ambiente
+  de México (es) on 12 October 2017, 0:00
+  Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264280908-es
+SUMMARY:Impulsando el desempeño de la Comisión N
+ acional de Hidrocarburos de México (es) 
+ on 12 October 2017, 0:00 Paris time (GMT
+ +02:00)
+DESCRIPTION:Impulsando el desempeño de la Comisión N
+ acional de Hidrocarburos de México (es) 
+  by Directorate for Public Governance ha
+ s an embargo date/time of 12 October 201
+ 7, 0:00 Paris time (GMT+02:00).\n\nDirec
+ torate: Directorate for Public Governanc
+ e\nLanguage: Spanish\nDOI: https://doi.o
+ rg/10.1787/9789264280908-es\nPublication
+  type: Book\nReleased as: Paperback, PDF
+ .\n\niLibrary export: 19 September 2017,
+  20:40 Paris time (GMT+00:00)\nFreeprevi
+ ew export: 19 September 2017, 21:23 Pari
+ s time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T220000Z
+DTEND:20171011T221500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Impulsando el desempeño de la 
+ Comisión Nacional de Hidrocarburos de Mé
+ xico (es) on 12 October 2017, 0:00 Paris
+  time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264280960-es
+SUMMARY:Impulsando el desempeño de la Comisión R
+ eguladora de Energía de México (es) on 1
+ 2 October 2017, 0:00 Paris time (GMT+02:
+ 00)
+DESCRIPTION:Impulsando el desempeño de la Comisión R
+ eguladora de Energía de México (es)  by 
+ Directorate for Public Governance has an
+  embargo date/time of 12 October 2017, 0
+ :00 Paris time (GMT+02:00).\n\nDirectora
+ te: Directorate for Public Governance\nL
+ anguage: Spanish\nDOI: https://doi.org/1
+ 0.1787/9789264280960-es\nPublication typ
+ e: Book\nReleased as: PDF, Paperback.\n\
+ niLibrary export: 18 September 2017, 20:
+ 34 Paris time (GMT+00:00)\nFreepreview e
+ xport: 13 September 2017, 20:35 Paris ti
+ me (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171011T220000Z
+DTEND:20171011T221500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Impulsando el desempeño de la 
+ Comisión Reguladora de Energía de México
+  (es) on 12 October 2017, 0:00 Paris tim
+ e (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264280854-en-fr
+SUMMARY:Revenue Statistics in Africa 2017 (en), 
+ Statistiques des recettes publiques en A
+ frique 2017 (fr) on 12 October 2017, 13:
+ 00 Paris time (GMT+02:00)
+DESCRIPTION:Revenue Statistics in Africa 2017 (en), 
+ Statistiques des recettes publiques en A
+ frique 2017 (fr)  by Centre for Tax Poli
+ cy and Administration, Development Centr
+ e has an embargo date/time of 12 October
+  2017, 13:00 Paris time (GMT+02:00).\n\n
+ Directorate: Centre for Tax Policy and A
+ dministration, Development Centre\nLangu
+ age: French, English\nDOI: https://doi.o
+ rg/10.1787/9789264280854-en-fr\nPublicat
+ ion type: Stand-alone monograph\nRelease
+ d as: Paperback, PDF.\n\niLibrary export
+ : 2 October 2017, 20:15 Paris time (GMT+
+ 00:00)\nFreepreview export: 21 September
+  2017, 20:33 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171012T110000Z
+DTEND:20171012T111500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Revenue Statistics in Africa 2
+ 017 (en), Statistiques des recettes publ
+ iques en Afrique 2017 (fr) on 12 October
+  2017, 13:00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264281486-en
+SUMMARY:Education in Lithuania (en) on 16 Octobe
+ r 2017, 11:00 Paris time (GMT+02:00)
+DESCRIPTION:Education in Lithuania (en)  by Director
+ ate for Education and Skills has an emba
+ rgo date/time of 16 October 2017, 11:00 
+ Paris time (GMT+02:00).\n\nDirectorate: 
+ Directorate for Education and Skills\nLa
  nguage: English\nDOI: https://doi.org/10
- .1787/c1386349-en\nPublication type: Wor
- king paper\nReleased as: PDF.\n\niLibrar
- y export: 9 October 2017, 20:20 Paris ti
- me (GMT+00:00)\nFreepreview export: 9 Oc
- tober 2017, 21:08 Paris time (GMT+00:00)
- \nFTI loaded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T000000Z
-DTEND:20171011T001500Z
+ .1787/9789264281486-en\nPublication type
+ : Book\nReleased as: PDF, Paperback.\n\n
+ iLibrary export: 9 October 2017, 20:20 P
+ aris time (GMT+00:00)\nFreepreview expor
+ t: 3 October 2017, 21:12 Paris time (GMT
+ +00:00)\nFTI loaded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171016T090000Z
+DTEND:20171016T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT72H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Luxembourg: harnessing skills 
- for more inclusive growth (en) on 11 Oct
- ober 2017, 2:00 Paris time (GMT+02:00)
+DESCRIPTION:Reminder: Education in Lithuania (en) on
+  16 October 2017, 11:00 Paris time (GMT+
+ 02:00)
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:10.1787/e6ced642-en
-SUMMARY:Adapting to the changing labour market i
- n New Zealand (en) on 11 October 2017, 2
- :00 Paris time (GMT+02:00)
-DESCRIPTION:Adapting to the changing labour market i
- n New Zealand (en)  by Economics Departm
- ent has an embargo date/time of 11 Octob
- er 2017, 2:00 Paris time (GMT+02:00).\n\
- nDirectorate: Economics Department\nLang
- uage: English\nDOI: https://doi.org/10.1
- 787/e6ced642-en\nPublication type: Worki
- ng paper\nReleased as: PDF.\n\niLibrary 
- export: 9 October 2017, 20:20 Paris time
-  (GMT+00:00)\nFreepreview export: 9 Octo
- ber 2017, 21:08 Paris time (GMT+00:00)\n
- FTI loaded: ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T000000Z
-DTEND:20171011T001500Z
+UID:10.1787/g2g83785-en
+SUMMARY:Harmful Tax Practices - 2017 Progress Re
+ port on Preferential Regimes (en) on 16 
+ October 2017, 11:00 Paris time (GMT+02:0
+ 0)
+DESCRIPTION:Harmful Tax Practices - 2017 Progress Re
+ port on Preferential Regimes (en)  - Inc
+ lusive Framework on BEPS: Action 5 (en) 
+ by Centre for Tax Policy and Administrat
+ ion has an embargo date/time of 16 Octob
+ er 2017, 11:00 Paris time (GMT+02:00).\n
+ \nDirectorate: Centre for Tax Policy and
+  Administration\nLanguage: English\nDOI:
+  https://doi.org/10.1787/g2g83785-en\nPu
+ blication type: Book\nReleased as: Paper
+ back, PDF.\n\niLibrary export: never\nFr
+ eepreview export: never\nFTI loaded: no.
+DTSTAMP:20171011T085708Z
+DTSTART:20171016T090000Z
+DTEND:20171016T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT72H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Adapting to the changing labou
- r market in New Zealand (en) on 11 Octob
- er 2017, 2:00 Paris time (GMT+02:00)
+DESCRIPTION:Reminder: Harmful Tax Practices - 2017 P
+ rogress Report on Preferential Regimes (
+ en) on 16 October 2017, 11:00 Paris time
+  (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/g2g83787-fr
+SUMMARY:Pratiques fiscales dommageables - Rappor
+ t d'étape de 2017 sur les régimes préfér
+ entiels (fr) on 16 October 2017, 11:00 P
+ aris time (GMT+02:00)
+DESCRIPTION:Pratiques fiscales dommageables - Rappor
+ t d'étape de 2017 sur les régimes préfér
+ entiels (fr)  - Cadre inclusif sur le BE
+ PS: Action 5 (fr) by Centre for Tax Poli
+ cy and Administration has an embargo dat
+ e/time of 16 October 2017, 11:00 Paris t
+ ime (GMT+02:00).\n\nDirectorate: Centre 
+ for Tax Policy and Administration\nLangu
+ age: French\nDOI: https://doi.org/10.178
+ 7/g2g83787-fr\nPublication type: Book\nR
+ eleased as: Paperback, PDF.\n\niLibrary 
+ export: never\nFreepreview export: never
+ \nFTI loaded: no.
+DTSTAMP:20171011T085708Z
+DTSTART:20171016T090000Z
+DTEND:20171016T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pratiques fiscales dommageable
+ s - Rapport d'étape de 2017 sur les régi
+ mes préférentiels (fr) on 16 October 201
+ 7, 11:00 Paris time (GMT+02:00)
 END:VALARM
 END:VEVENT
 
@@ -2013,7 +1640,7 @@ DESCRIPTION:OECD Economic Surveys: United Kingdom 20
  ub, PDF.\n\niLibrary export: 9 October 2
  017, 20:20 Paris time (GMT+00:00)\nFreep
  review export: never\nFTI loaded: no.
-DTSTAMP:20171010T233446Z
+DTSTAMP:20171011T085708Z
 DTSTART:20171017T120000Z
 DTEND:20171017T121500Z
 TRANSP:TRANSPARENT
@@ -2029,34 +1656,407 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:10.1787/f28250d9-en
-SUMMARY:Sustaining nature-based tourism in Icela
- nd (en) on 11 October 2017, 2:00 Paris t
- ime (GMT+02:00)
-DESCRIPTION:Sustaining nature-based tourism in Icela
- nd (en)  by Economics Department has an 
- embargo date/time of 11 October 2017, 2:
- 00 Paris time (GMT+02:00).\n\nDirectorat
- e: Economics Department\nLanguage: Engli
- sh\nDOI: https://doi.org/10.1787/f28250d
- 9-en\nPublication type: Working paper\nR
- eleased as: PDF.\n\niLibrary export: 9 O
- ctober 2017, 20:20 Paris time (GMT+00:00
- )\nFreepreview export: 10 October 2017, 
- 21:18 Paris time (GMT+00:00)\nFTI loaded
- : ✓.
-DTSTAMP:20171010T233446Z
-DTSTART:20171011T000000Z
-DTEND:20171011T001500Z
+UID:10.1787/9789264279087-en
+SUMMARY:Preventing Ageing Unequally (en) on 18 O
+ ctober 2017, 11:00 Paris time (GMT+02:00
+ )
+DESCRIPTION:Preventing Ageing Unequally (en)  by Dir
+ ectorate for Public Governance, Statisti
+ cs Directorate, Directorate for Science,
+  Technology and Industry , Directorate f
+ or Employment, Labour and Social Affairs
+  has an embargo date/time of 18 October 
+ 2017, 11:00 Paris time (GMT+02:00).\n\nD
+ irectorate: Directorate for Public Gover
+ nance, Statistics Directorate, Directora
+ te for Science, Technology and Industry 
+ , Directorate for Employment, Labour and
+  Social Affairs\nLanguage: English\nDOI:
+  https://doi.org/10.1787/9789264279087-e
+ n\nPublication type: Stand-alone monogra
+ ph\nReleased as: Paperback, PDF.\n\niLib
+ rary export: 6 October 2017, 20:10 Paris
+  time (GMT+00:00)\nFreepreview export: 2
+  October 2017, 20:57 Paris time (GMT+00:
+ 00)\nFTI loaded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171018T090000Z
+DTEND:20171018T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Sustaining nature-based touris
- m in Iceland (en) on 11 October 2017, 2:
- 00 Paris time (GMT+02:00)
+DESCRIPTION:Reminder: Preventing Ageing Unequally (e
+ n) on 18 October 2017, 11:00 Paris time 
+ (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264270893-en
+SUMMARY:Supporting Entrepreneurship and Innovati
+ on in Higher Education in Ireland (en) o
+ n 23 October 2017, 11:00 Paris time (GMT
+ +02:00)
+DESCRIPTION:Supporting Entrepreneurship and Innovati
+ on in Higher Education in Ireland (en)  
+ by Centre for Entrepreneurship, SMEs and
+  Local Development has an embargo date/t
+ ime of 23 October 2017, 11:00 Paris time
+  (GMT+02:00).\n\nDirectorate: Centre for
+  Entrepreneurship, SMEs and Local Develo
+ pment\nLanguage: English\nDOI: https://d
+ oi.org/10.1787/9789264270893-en\nPublica
+ tion type: Book\nReleased as: PDF, Paper
+ back, ePub.\n\niLibrary export: 12 Septe
+ mber 2017, 20:10 Paris time (GMT+00:00)\
+ nFreepreview export: never\nFTI loaded: 
+ no.
+DTSTAMP:20171011T085708Z
+DTSTART:20171023T090000Z
+DTEND:20171023T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Supporting Entrepreneurship an
+ d Innovation in Higher Education in Irel
+ and (en) on 23 October 2017, 11:00 Paris
+  time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264278646-es
+SUMMARY:Estudio de la OCDE sobre integridad en C
+ olombia (es) on 27 October 2017, 0:00 Pa
+ ris time (GMT+02:00)
+DESCRIPTION:Estudio de la OCDE sobre integridad en C
+ olombia (es)  - Invirtiendo en integrida
+ d pública para afianzar la paz y el desa
+ rrollo (es) by Directorate for Public Go
+ vernance has an embargo date/time of 27 
+ October 2017, 0:00 Paris time (GMT+02:00
+ ).\n\nDirectorate: Directorate for Publi
+ c Governance\nLanguage: Spanish\nDOI: ht
+ tps://doi.org/10.1787/9789264278646-es\n
+ Publication type: Book\nReleased as: PDF
+ , Paperback, ePub.\n\niLibrary export: 4
+  October 2017, 20:31 Paris time (GMT+00:
+ 00)\nFreepreview export: 4 October 2017,
+  21:21 Paris time (GMT+00:00)\nFTI loade
+ d: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171026T220000Z
+DTEND:20171026T221500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Estudio de la OCDE sobre integ
+ ridad en Colombia (es) on 27 October 201
+ 7, 0:00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264278325-en
+SUMMARY:OECD Integrity Review of Colombia (en) o
+ n 27 October 2017, 0:00 Paris time (GMT+
+ 02:00)
+DESCRIPTION:OECD Integrity Review of Colombia (en)  
+ - Investing in Integrity for Peace and P
+ rosperity (en) by Directorate for Public
+  Governance has an embargo date/time of 
+ 27 October 2017, 0:00 Paris time (GMT+02
+ :00).\n\nDirectorate: Directorate for Pu
+ blic Governance\nLanguage: English\nDOI:
+  https://doi.org/10.1787/9789264278325-e
+ n\nPublication type: Book\nReleased as: 
+ ePub, Paperback, PDF.\n\niLibrary export
+ : 4 October 2017, 20:31 Paris time (GMT+
+ 00:00)\nFreepreview export: 4 October 20
+ 17, 21:21 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171026T220000Z
+DTEND:20171026T221500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Integrity Review of Colom
+ bia (en) on 27 October 2017, 0:00 Paris 
+ time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264283282-en
+SUMMARY:Assessing the Impact of Digital Governme
+ nt in Colombia: (en) on 27 October 2017,
+  21:00 Paris time (GMT+02:00)
+DESCRIPTION:Assessing the Impact of Digital Governme
+ nt in Colombia: (en)  - Towards a new me
+ thodology (en) by Directorate for Public
+  Governance has an embargo date/time of 
+ 27 October 2017, 21:00 Paris time (GMT+0
+ 2:00).\n\nDirectorate: Directorate for P
+ ublic Governance\nLanguage: English\nDOI
+ : https://doi.org/10.1787/9789264283282-
+ en\nPublication type: Book\nReleased as:
+  Paperback, PDF.\n\niLibrary export: 9 O
+ ctober 2017, 20:20 Paris time (GMT+00:00
+ )\nFreepreview export: never\nFTI loaded
+ : no.
+DTSTAMP:20171011T085708Z
+DTSTART:20171027T190000Z
+DTEND:20171027T191500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Assessing the Impact of Digita
+ l Government in Colombia: (en) on 27 Oct
+ ober 2017, 21:00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264284272-es
+SUMMARY:Evaluar el Impacto del Gobierno Digital 
+ en Colombia: (es) on 27 October 2017, 21
+ :00 Paris time (GMT+02:00)
+DESCRIPTION:Evaluar el Impacto del Gobierno Digital 
+ en Colombia: (es)  - Hacia una Nueva Met
+ odología (es) by Directorate for Public 
+ Governance has an embargo date/time of 2
+ 7 October 2017, 21:00 Paris time (GMT+02
+ :00).\n\nDirectorate: Directorate for Pu
+ blic Governance\nLanguage: Spanish\nDOI:
+  https://doi.org/10.1787/9789264284272-e
+ s\nPublication type: Book\nReleased as: 
+ PDF, Paperback.\n\niLibrary export: 9 Oc
+ tober 2017, 20:20 Paris time (GMT+00:00)
+ \nFreepreview export: never\nFTI loaded:
+  no.
+DTSTAMP:20171011T085708Z
+DTSTART:20171027T190000Z
+DTEND:20171027T191500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Evaluar el Impacto del Gobiern
+ o Digital en Colombia: (es) on 27 Octobe
+ r 2017, 21:00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264282988-en
+SUMMARY:Monitoring Health System Performance in 
+ Peru (en) on 30 October 2017, 1:00 Paris
+  time (GMT+02:00)
+DESCRIPTION:Monitoring Health System Performance in 
+ Peru (en)  - Data and Statistics (en) by
+  Directorate for Employment, Labour and 
+ Social Affairs has an embargo date/time 
+ of 30 October 2017, 1:00 Paris time (GMT
+ +02:00).\n\nDirectorate: Directorate for
+  Employment, Labour and Social Affairs\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/9789264282988-en\nPublication ty
+ pe: Book\nReleased as: PDF, Paperback.\n
+ \niLibrary export: 9 October 2017, 20:20
+  Paris time (GMT+00:00)\nFreepreview exp
+ ort: never\nFTI loaded: no.
+DTSTAMP:20171011T085708Z
+DTSTART:20171029T230000Z
+DTEND:20171029T231500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Monitoring Health System Perfo
+ rmance in Peru (en) on 30 October 2017, 
+ 1:00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264282735-en
+SUMMARY:OECD Reviews of Health Systems: Peru 201
+ 7 (en) on 30 October 2017, 1:00 Paris ti
+ me (GMT+02:00)
+DESCRIPTION:OECD Reviews of Health Systems: Peru 201
+ 7 (en)  by Directorate for Employment, L
+ abour and Social Affairs has an embargo 
+ date/time of 30 October 2017, 1:00 Paris
+  time (GMT+02:00).\n\nDirectorate: Direc
+ torate for Employment, Labour and Social
+  Affairs\nLanguage: English\nDOI: https:
+ //doi.org/10.1787/9789264282735-en\nPubl
+ ication type: Book\nReleased as: PDF, Pa
+ perback.\n\niLibrary export: 6 October 2
+ 017, 20:10 Paris time (GMT+00:00)\nFreep
+ review export: never\nFTI loaded: no.
+DTSTAMP:20171011T085708Z
+DTSTART:20171029T230000Z
+DTEND:20171029T231500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Reviews of Health Systems
+ : Peru 2017 (en) on 30 October 2017, 1:0
+ 0 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264281936-en
+SUMMARY:The Governance of Land Use in the Czech 
+ Republic (en) on 3 November 2017, 11:00 
+ Paris time (GMT+02:00)
+DESCRIPTION:The Governance of Land Use in the Czech 
+ Republic (en)  - The Case of Prague (en)
+  by Directorate for Public Governance ha
+ s an embargo date/time of 3 November 201
+ 7, 11:00 Paris time (GMT+02:00).\n\nDire
+ ctorate: Directorate for Public Governan
+ ce\nLanguage: English\nDOI: https://doi.
+ org/10.1787/9789264281936-en\nPublicatio
+ n type: Stand-alone monograph\nReleased 
+ as: Paperback, PDF.\n\niLibrary export: 
+ 6 October 2017, 20:10 Paris time (GMT+00
+ :00)\nFreepreview export: never\nFTI loa
+ ded: no.
+DTSTAMP:20171011T085708Z
+DTSTART:20171103T090000Z
+DTEND:20171103T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: The Governance of Land Use in 
+ the Czech Republic (en) on 3 November 20
+ 17, 11:00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/health_glance-2017-en
+SUMMARY:Health at a Glance 2017 (en) on 10 Novem
+ ber 2017, 12:00 Paris time (GMT+02:00)
+DESCRIPTION:Health at a Glance 2017 (en)  - OECD Ind
+ icators (en) by Directorate for Employme
+ nt, Labour and Social Affairs has an emb
+ argo date/time of 10 November 2017, 12:0
+ 0 Paris time (GMT+02:00).\n\nDirectorate
+ : Directorate for Employment, Labour and
+  Social Affairs\nLanguage: English\nDOI:
+  https://doi.org/10.1787/health_glance-2
+ 017-en\nPublication type: Book\nReleased
+  as: ePub, PDF.\n\niLibrary export: 6 Oc
+ tober 2017, 20:10 Paris time (GMT+00:00)
+ \nFreepreview export: never\nFTI loaded:
+  no.
+DTSTAMP:20171011T085708Z
+DTSTART:20171110T100000Z
+DTEND:20171110T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Health at a Glance 2017 (en) o
+ n 10 November 2017, 12:00 Paris time (GM
+ T+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/health_glance-2017-fr
+SUMMARY:Panorama de la santé 2017 (fr) on 10 Nov
+ ember 2017, 12:00 Paris time (GMT+02:00)
+DESCRIPTION:Panorama de la santé 2017 (fr)  - Les in
+ dicateurs de l'OCDE (fr) by Directorate 
+ for Employment, Labour and Social Affair
+ s has an embargo date/time of 10 Novembe
+ r 2017, 12:00 Paris time (GMT+02:00).\n\
+ nDirectorate: Directorate for Employment
+ , Labour and Social Affairs\nLanguage: F
+ rench\nDOI: https://doi.org/10.1787/heal
+ th_glance-2017-fr\nPublication type: Boo
+ k\nReleased as: ePub, PDF.\n\niLibrary e
+ xport: 6 October 2017, 20:10 Paris time 
+ (GMT+00:00)\nFreepreview export: never\n
+ FTI loaded: no.
+DTSTAMP:20171011T085708Z
+DTSTART:20171110T100000Z
+DTEND:20171110T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Panorama de la santé 2017 (fr)
+  on 10 November 2017, 12:00 Paris time (
+ GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264278639-en
+SUMMARY:Getting Skills Right: Italy (en) on 21 D
+ ecember 2017, 11:00 Paris time (GMT+02:0
+ 0)
+DESCRIPTION:Getting Skills Right: Italy (en)  by Dir
+ ectorate for Employment, Labour and Soci
+ al Affairs has an embargo date/time of 2
+ 1 December 2017, 11:00 Paris time (GMT+0
+ 2:00).\n\nDirectorate: Directorate for E
+ mployment, Labour and Social Affairs\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/9789264278639-en\nPublication type
+ : Book\nReleased as: PDF, Paperback.\n\n
+ iLibrary export: 3 October 2017, 20:25 P
+ aris time (GMT+00:00)\nFreepreview expor
+ t: 3 October 2017, 21:12 Paris time (GMT
+ +00:00)\nFTI loaded: ✓.
+DTSTAMP:20171011T085708Z
+DTSTART:20171221T090000Z
+DTEND:20171221T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Getting Skills Right: Italy (e
+ n) on 21 December 2017, 11:00 Paris time
+  (GMT+02:00)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
