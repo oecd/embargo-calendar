@@ -1,6 +1,6 @@
 # OECD publication embargoes by date (20 embargoes)
 
-*Data generated on Monday 16 October 2017 at 11:06:04*
+*Data generated on Monday 16 October 2017 at 11:20:32*
 
 ------
 
@@ -38,7 +38,7 @@ Wednesday 18 October 2017 at 9:00:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Science, Technology and Industry , Directorate for Employment, Labour and Social Affairs, Statistics Directorate, Directorate for Public Governance*
+* Directorate: *Directorate for Public Governance, Directorate for Science, Technology and Industry , Directorate for Employment, Labour and Social Affairs, Statistics Directorate*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
