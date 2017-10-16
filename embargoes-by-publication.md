@@ -1,6 +1,6 @@
-# OECD publication embargoes by date (20 embargoes)
+# OECD publication embargoes by date (22 embargoes)
 
-*Data generated on Monday 16 October 2017 at 11:20:32*
+*Data generated on Monday 16 October 2017 at 23:15:20*
 
 ------
 
@@ -25,6 +25,48 @@ Tuesday 17 October 2017 at 11:00:00 | no launch event
 
 ------
 
+## [Reigniting growth through productivity-enhancing reforms in Colombia (en)](https://doi.org/10.1787/dac4e274-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 18 October 2017 at 0:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Towards more inclusive growth in Colombia (en)](https://doi.org/10.1787/334902e0-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 18 October 2017 at 0:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
 ## [Preventing Ageing Unequally (en)](https://doi.org/10.1787/9789264279087-en)
 
 Embargo date | Launch date
@@ -38,7 +80,7 @@ Wednesday 18 October 2017 at 9:00:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Public Governance, Directorate for Science, Technology and Industry , Directorate for Employment, Labour and Social Affairs, Statistics Directorate*
+* Directorate: *Directorate for Public Governance, Statistics Directorate, Directorate for Employment, Labour and Social Affairs, Directorate for Science, Technology and Industry*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
