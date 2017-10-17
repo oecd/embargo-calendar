@@ -1,27 +1,6 @@
-# OECD publication embargoes by date (22 embargoes)
+# OECD publication embargoes by date (21 embargoes)
 
-*Data generated on Monday 16 October 2017 at 23:15:20*
-
-------
-
-## [OECD Economic Surveys: United Kingdom 2017 (en)](https://doi.org/10.1787/eco_surveys-gbr-2017-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 17 October 2017 at 11:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 13 October 2017 at 20:12:42
-- [x] Exported to Keepeek Friday 13 October 2017 at 20:57:12
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Medium: *PDF*
+*Data generated on Tuesday 17 October 2017 at 23:23:21*
 
 ------
 
@@ -33,14 +12,14 @@ Wednesday 18 October 2017 at 0:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 17 October 2017 at 20:15:15
+- [x] Exported to Keepeek Tuesday 17 October 2017 at 20:55:41
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Medium: *PDF*
 
@@ -54,14 +33,14 @@ Wednesday 18 October 2017 at 0:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 17 October 2017 at 20:15:15
+- [x] Exported to Keepeek Tuesday 17 October 2017 at 20:55:41
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Medium: *PDF*
 
@@ -80,7 +59,7 @@ Wednesday 18 October 2017 at 9:00:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Public Governance, Statistics Directorate, Directorate for Employment, Labour and Social Affairs, Directorate for Science, Technology and Industry*
+* Directorate: *Directorate for Science, Technology and Industry , Directorate for Employment, Labour and Social Affairs, Directorate for Public Governance, Statistics Directorate*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
@@ -95,7 +74,7 @@ Embargo date | Launch date
 Wednesday 18 October 2017 at 15:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 13 October 2017 at 20:12:42
 - [ ] Exported to Keepeek
 
@@ -103,7 +82,7 @@ Wednesday 18 October 2017 at 15:00:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -116,15 +95,15 @@ Embargo date | Launch date
 Thursday 19 October 2017 at 9:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 13 October 2017 at 20:12:42
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 16 October 2017 at 20:11:56
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -137,15 +116,15 @@ Embargo date | Launch date
 Thursday 19 October 2017 at 9:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 13 October 2017 at 20:12:42
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 16 October 2017 at 20:11:56
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -243,7 +222,7 @@ Friday 27 October 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 12 October 2017 at 20:28:11
+- [x] Exported to iLibrary Monday 16 October 2017 at 20:11:56
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -432,7 +411,7 @@ Monday 27 November 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 13 October 2017 at 20:12:42
+- [x] Exported to iLibrary Monday 16 October 2017 at 20:11:56
 - [ ] Exported to Keepeek
 
 ### Additional Information
