@@ -4,111 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264281486-en
-SUMMARY:Education in Lithuania (en) on 16 Octobe
- r 2017, 11:00 Paris time (GMT+02:00)
-DESCRIPTION:Education in Lithuania (en)  by Director
- ate for Education and Skills has an emba
- rgo date/time of 16 October 2017, 11:00 
- Paris time (GMT+02:00).\n\nDirectorate: 
- Directorate for Education and Skills\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/9789264281486-en\nPublication type
- : Book\nReleased as: PDF, Paperback.\n\n
- iLibrary export: 9 October 2017, 20:20 P
- aris time (GMT+00:00)\nFreepreview expor
- t: 3 October 2017, 21:12 Paris time (GMT
- +00:00)\nFTI loaded: ✓.
-DTSTAMP:20171017T232329Z
-DTSTART:20171016T090000Z
-DTEND:20171016T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Education in Lithuania (en) on
-  16 October 2017, 11:00 Paris time (GMT+
- 02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264283954-en
-SUMMARY:Harmful Tax Practices - 2017 Progress Re
- port on Preferential Regimes (en) on 16 
- October 2017, 11:00 Paris time (GMT+02:0
- 0)
-DESCRIPTION:Harmful Tax Practices - 2017 Progress Re
- port on Preferential Regimes (en)  - Inc
- lusive Framework on BEPS: Action 5 (en) 
- by Centre for Tax Policy and Administrat
- ion has an embargo date/time of 16 Octob
- er 2017, 11:00 Paris time (GMT+02:00).\n
- \nDirectorate: Centre for Tax Policy and
-  Administration\nLanguage: English\nDOI:
-  https://doi.org/10.1787/9789264283954-e
- n\nPublication type: Book\nReleased as: 
- Paperback, PDF.\n\niLibrary export: 12 O
- ctober 2017, 20:28 Paris time (GMT+00:00
- )\nFreepreview export: 12 October 2017, 
- 21:06 Paris time (GMT+00:00)\nFTI loaded
- : ✓.
-DTSTAMP:20171017T232329Z
-DTSTART:20171016T090000Z
-DTEND:20171016T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Harmful Tax Practices - 2017 P
- rogress Report on Preferential Regimes (
- en) on 16 October 2017, 11:00 Paris time
-  (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264283961-fr
-SUMMARY:Pratiques fiscales dommageables - Rappor
- t d'étape de 2017 sur les régimes préfér
- entiels (fr) on 16 October 2017, 11:00 P
- aris time (GMT+02:00)
-DESCRIPTION:Pratiques fiscales dommageables - Rappor
- t d'étape de 2017 sur les régimes préfér
- entiels (fr)  - Cadre inclusif sur le BE
- PS : Action 5 (fr) by Centre for Tax Pol
- icy and Administration has an embargo da
- te/time of 16 October 2017, 11:00 Paris 
- time (GMT+02:00).\n\nDirectorate: Centre
-  for Tax Policy and Administration\nLang
- uage: French\nDOI: https://doi.org/10.17
- 87/9789264283961-fr\nPublication type: B
- ook\nReleased as: Paperback, PDF.\n\niLi
- brary export: 12 October 2017, 20:28 Par
- is time (GMT+00:00)\nFreepreview export:
-  12 October 2017, 21:06 Paris time (GMT+
- 00:00)\nFTI loaded: ✓.
-DTSTAMP:20171017T232329Z
-DTSTART:20171016T090000Z
-DTEND:20171016T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Pratiques fiscales dommageable
- s - Rapport d'étape de 2017 sur les régi
- mes préférentiels (fr) on 16 October 201
- 7, 11:00 Paris time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/eco_surveys-gbr-2017-en
 SUMMARY:OECD Economic Surveys: United Kingdom 20
  17 (en) on 17 October 2017, 13:00 Paris 
@@ -125,7 +20,7 @@ DESCRIPTION:OECD Economic Surveys: United Kingdom 20
  2017, 20:12 Paris time (GMT+00:00)\nFree
  preview export: 13 October 2017, 20:57 P
  aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171017T232329Z
+DTSTAMP:20171018T233136Z
 DTSTART:20171017T110000Z
 DTEND:20171017T111500Z
 TRANSP:TRANSPARENT
@@ -158,7 +53,7 @@ DESCRIPTION:Reigniting growth through productivity-e
  20:15 Paris time (GMT+00:00)\nFreeprevie
  w export: 17 October 2017, 20:55 Paris t
  ime (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171017T232329Z
+DTSTAMP:20171018T233136Z
 DTSTART:20171018T000000Z
 DTEND:20171018T001500Z
 TRANSP:TRANSPARENT
@@ -191,7 +86,7 @@ DESCRIPTION:Towards more inclusive growth in Colombi
  )\nFreepreview export: 17 October 2017, 
  20:55 Paris time (GMT+00:00)\nFTI loaded
  : ✓.
-DTSTAMP:20171017T232329Z
+DTSTAMP:20171018T233136Z
 DTSTART:20171018T000000Z
 DTEND:20171018T001500Z
 TRANSP:TRANSPARENT
@@ -212,25 +107,25 @@ SUMMARY:Preventing Ageing Unequally (en) on 18 O
  ctober 2017, 11:00 Paris time (GMT+02:00
  )
 DESCRIPTION:Preventing Ageing Unequally (en)  by Dir
- ectorate for Science, Technology and Ind
- ustry , Directorate for Employment, Labo
- ur and Social Affairs, Directorate for P
- ublic Governance, Statistics Directorate
+ ectorate for Employment, Labour and Soci
+ al Affairs, Directorate for Public Gover
+ nance, Statistics Directorate, Directora
+ te for Science, Technology and Industry 
   has an embargo date/time of 18 October 
  2017, 11:00 Paris time (GMT+02:00).\n\nD
- irectorate: Directorate for Science, Tec
- hnology and Industry , Directorate for E
- mployment, Labour and Social Affairs, Di
- rectorate for Public Governance, Statist
- ics Directorate\nLanguage: English\nDOI:
+ irectorate: Directorate for Employment, 
+ Labour and Social Affairs, Directorate f
+ or Public Governance, Statistics Directo
+ rate, Directorate for Science, Technolog
+ y and Industry \nLanguage: English\nDOI:
   https://doi.org/10.1787/9789264279087-e
  n\nPublication type: Stand-alone monogra
- ph\nReleased as: Paperback, PDF.\n\niLib
+ ph\nReleased as: PDF, Paperback.\n\niLib
  rary export: 6 October 2017, 20:10 Paris
   time (GMT+00:00)\nFreepreview export: 2
   October 2017, 20:57 Paris time (GMT+00:
  00)\nFTI loaded: ✓.
-DTSTAMP:20171017T232329Z
+DTSTAMP:20171018T233136Z
 DTSTART:20171018T090000Z
 DTEND:20171018T091500Z
 TRANSP:TRANSPARENT
@@ -260,10 +155,11 @@ DESCRIPTION:OECD Reviews of Labour Market and Social
   English\nDOI: https://doi.org/10.1787/9
  789264282773-en\nPublication type: Book\
  nReleased as: PDF, Paperback.\n\niLibrar
- y export: 13 October 2017, 20:12 Paris t
- ime (GMT+00:00)\nFreepreview export: nev
- er\nFTI loaded: ✓.
-DTSTAMP:20171017T232329Z
+ y export: 17 October 2017, 20:15 Paris t
+ ime (GMT+00:00)\nFreepreview export: 17 
+ October 2017, 20:55 Paris time (GMT+00:0
+ 0)\nFTI loaded: ✓.
+DTSTAMP:20171018T233136Z
 DTSTART:20171018T150000Z
 DTEND:20171018T151500Z
 TRANSP:TRANSPARENT
@@ -293,11 +189,12 @@ DESCRIPTION:Examens de l'OCDE sur la coopération pou
  nDirectorate: Development Co-operation D
  irectorate\nLanguage: French\nDOI: https
  ://doi.org/10.1787/9789264284432-fr\nPub
- lication type: Book\nReleased as: Paperb
- ack, PDF.\n\niLibrary export: 16 October
-  2017, 20:11 Paris time (GMT+00:00)\nFre
- epreview export: never\nFTI loaded: ✓.
-DTSTAMP:20171017T232329Z
+ lication type: Book\nReleased as: PDF, P
+ aperback.\n\niLibrary export: 17 October
+  2017, 20:15 Paris time (GMT+00:00)\nFre
+ epreview export: 17 October 2017, 20:55 
+ Paris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171018T233136Z
 DTSTART:20171019T090000Z
 DTEND:20171019T091500Z
 TRANSP:TRANSPARENT
@@ -326,11 +223,12 @@ DESCRIPTION:OECD Development Co-operation Peer Revie
  elopment Co-operation Directorate\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/9789264284364-en\nPublication type: B
- ook\nReleased as: PDF, Paperback.\n\niLi
- brary export: 16 October 2017, 20:11 Par
+ ook\nReleased as: Paperback, PDF.\n\niLi
+ brary export: 17 October 2017, 20:15 Par
  is time (GMT+00:00)\nFreepreview export:
-  never\nFTI loaded: ✓.
-DTSTAMP:20171017T232329Z
+  17 October 2017, 20:55 Paris time (GMT+
+ 00:00)\nFTI loaded: ✓.
+DTSTAMP:20171018T233136Z
 DTSTART:20171019T090000Z
 DTEND:20171019T091500Z
 TRANSP:TRANSPARENT
@@ -361,12 +259,12 @@ DESCRIPTION:Supporting Entrepreneurship and Innovati
   Entrepreneurship, SMEs and Local Develo
  pment\nLanguage: English\nDOI: https://d
  oi.org/10.1787/9789264270893-en\nPublica
- tion type: Book\nReleased as: PDF, Paper
- back, ePub.\n\niLibrary export: 11 Octob
- er 2017, 20:23 Paris time (GMT+00:00)\nF
+ tion type: Book\nReleased as: ePub, PDF,
+  Paperback.\n\niLibrary export: 17 Octob
+ er 2017, 20:15 Paris time (GMT+00:00)\nF
  reepreview export: 11 October 2017, 20:5
  7 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171017T232329Z
+DTSTAMP:20171018T233136Z
 DTSTART:20171023T090000Z
 DTEND:20171023T091500Z
 TRANSP:TRANSPARENT
@@ -398,11 +296,11 @@ DESCRIPTION:Supporting Entrepreneurship and Innovati
  ment\nLanguage: English\nDOI: https://do
  i.org/10.1787/9789264270923-en\nPublicat
  ion type: Book\nReleased as: Paperback, 
- ePub, PDF.\n\niLibrary export: 13 Octobe
- r 2017, 20:12 Paris time (GMT+00:00)\nFr
+ ePub, PDF.\n\niLibrary export: 17 Octobe
+ r 2017, 20:15 Paris time (GMT+00:00)\nFr
  eepreview export: 13 October 2017, 20:57
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171017T232329Z
+DTSTAMP:20171018T233136Z
 DTSTART:20171026T090000Z
 DTEND:20171026T091500Z
 TRANSP:TRANSPARENT
@@ -438,7 +336,7 @@ DESCRIPTION:Estudio de la OCDE sobre integridad en C
  :00)\nFreepreview export: 4 October 2017
  , 21:21 Paris time (GMT+00:00)\nFTI load
  ed: ✓.
-DTSTAMP:20171017T232329Z
+DTSTAMP:20171018T233136Z
 DTSTART:20171026T220000Z
 DTEND:20171026T221500Z
 TRANSP:TRANSPARENT
@@ -467,12 +365,12 @@ DESCRIPTION:OECD Integrity Review of Colombia (en)
  blic Governance\nLanguage: English\nDOI:
   https://doi.org/10.1787/9789264278325-e
  n\nPublication type: Book\nReleased as: 
- PDF, ePub, Paperback.\n\niLibrary export
+ ePub, Paperback, PDF.\n\niLibrary export
  : 4 October 2017, 20:31 Paris time (GMT+
  00:00)\nFreepreview export: 4 October 20
  17, 21:21 Paris time (GMT+00:00)\nFTI lo
  aded: ✓.
-DTSTAMP:20171017T232329Z
+DTSTAMP:20171018T233136Z
 DTSTART:20171026T220000Z
 DTEND:20171026T221500Z
 TRANSP:TRANSPARENT
@@ -504,7 +402,7 @@ DESCRIPTION:Computers and the Future of Skill Demand
  tober 2017, 20:11 Paris time (GMT+00:00)
  \nFreepreview export: never\nFTI loaded:
   no.
-DTSTAMP:20171017T232329Z
+DTSTAMP:20171018T233136Z
 DTSTART:20171027T090000Z
 DTEND:20171027T091500Z
 TRANSP:TRANSPARENT
@@ -537,7 +435,7 @@ DESCRIPTION:Assessing the Impact of Digital Governme
  ctober 2017, 20:12 Paris time (GMT+00:00
  )\nFreepreview export: never\nFTI loaded
  : no.
-DTSTAMP:20171017T232329Z
+DTSTAMP:20171018T233136Z
 DTSTART:20171027T190000Z
 DTEND:20171027T191500Z
 TRANSP:TRANSPARENT
@@ -570,7 +468,7 @@ DESCRIPTION:Evaluación de Impacto del Gobierno Digit
   October 2017, 20:12 Paris time (GMT+00:
  00)\nFreepreview export: never\nFTI load
  ed: no.
-DTSTAMP:20171017T232329Z
+DTSTAMP:20171018T233136Z
 DTSTART:20171027T190000Z
 DTEND:20171027T191500Z
 TRANSP:TRANSPARENT
@@ -599,11 +497,11 @@ DESCRIPTION:Monitoring Health System Performance in
   Employment, Labour and Social Affairs\n
  Language: English\nDOI: https://doi.org/
  10.1787/9789264282988-en\nPublication ty
- pe: Book\nReleased as: PDF, Paperback.\n
+ pe: Book\nReleased as: Paperback, PDF.\n
  \niLibrary export: 9 October 2017, 20:20
   Paris time (GMT+00:00)\nFreepreview exp
  ort: never\nFTI loaded: no.
-DTSTAMP:20171017T232329Z
+DTSTAMP:20171018T233136Z
 DTSTART:20171029T230000Z
 DTEND:20171029T231500Z
 TRANSP:TRANSPARENT
@@ -636,7 +534,7 @@ DESCRIPTION:OECD Reviews of Health Systems: Peru 201
  2017, 20:23 Paris time (GMT+00:00)\nFree
  preview export: 11 October 2017, 20:57 P
  aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171017T232329Z
+DTSTAMP:20171018T233136Z
 DTSTART:20171029T230000Z
 DTEND:20171029T231500Z
 TRANSP:TRANSPARENT
@@ -670,7 +568,7 @@ DESCRIPTION:The Governance of Land Use in the Czech
  0:00)\nFreepreview export: 11 October 20
  17, 20:57 Paris time (GMT+00:00)\nFTI lo
  aded: ✓.
-DTSTAMP:20171017T232329Z
+DTSTAMP:20171018T233136Z
 DTSTART:20171103T090000Z
 DTEND:20171103T091500Z
 TRANSP:TRANSPARENT
@@ -702,7 +600,7 @@ DESCRIPTION:Health at a Glance 2017 (en)  - OECD Ind
  : 6 October 2017, 20:10 Paris time (GMT+
  00:00)\nFreepreview export: never\nFTI l
  oaded: no.
-DTSTAMP:20171017T232329Z
+DTSTAMP:20171018T233136Z
 DTSTART:20171110T100000Z
 DTEND:20171110T101500Z
 TRANSP:TRANSPARENT
@@ -734,7 +632,7 @@ DESCRIPTION:Panorama de la santé 2017 (fr)  - Les in
  rary export: 6 October 2017, 20:10 Paris
   time (GMT+00:00)\nFreepreview export: n
  ever\nFTI loaded: no.
-DTSTAMP:20171017T232329Z
+DTSTAMP:20171018T233136Z
 DTSTART:20171110T100000Z
 DTEND:20171110T101500Z
 TRANSP:TRANSPARENT
@@ -765,7 +663,7 @@ DESCRIPTION:Examens environnementaux de l'OCDE: Suis
  Library export: 13 October 2017, 20:12 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20171017T232329Z
+DTSTAMP:20171018T233136Z
 DTSTART:20171127T090000Z
 DTEND:20171127T091500Z
 TRANSP:TRANSPARENT
@@ -796,7 +694,7 @@ DESCRIPTION:OECD Environmental Performance Reviews:
  back.\n\niLibrary export: 16 October 201
  7, 20:11 Paris time (GMT+00:00)\nFreepre
  view export: never\nFTI loaded: no.
-DTSTAMP:20171017T232329Z
+DTSTAMP:20171018T233136Z
 DTSTART:20171127T090000Z
 DTEND:20171127T091500Z
 TRANSP:TRANSPARENT
@@ -830,7 +728,7 @@ DESCRIPTION:Getting Skills Right: Italy (en)  by Dir
  aris time (GMT+00:00)\nFreepreview expor
  t: 3 October 2017, 21:12 Paris time (GMT
  +00:00)\nFTI loaded: ✓.
-DTSTAMP:20171017T232329Z
+DTSTAMP:20171018T233136Z
 DTSTART:20171221T090000Z
 DTEND:20171221T091500Z
 TRANSP:TRANSPARENT

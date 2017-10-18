@@ -1,90 +1,6 @@
-# OECD publication embargoes by date (21 embargoes)
+# OECD publication embargoes by date (17 embargoes)
 
-*Data generated on Tuesday 17 October 2017 at 23:23:21*
-
-------
-
-## [Reigniting growth through productivity-enhancing reforms in Colombia (en)](https://doi.org/10.1787/dac4e274-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 18 October 2017 at 0:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 17 October 2017 at 20:15:15
-- [x] Exported to Keepeek Tuesday 17 October 2017 at 20:55:41
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Towards more inclusive growth in Colombia (en)](https://doi.org/10.1787/334902e0-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 18 October 2017 at 0:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 17 October 2017 at 20:15:15
-- [x] Exported to Keepeek Tuesday 17 October 2017 at 20:55:41
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Preventing Ageing Unequally (en)](https://doi.org/10.1787/9789264279087-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 18 October 2017 at 9:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 6 October 2017 at 20:10:21
-- [x] Exported to Keepeek Monday 2 October 2017 at 20:57:04
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry , Directorate for Employment, Labour and Social Affairs, Directorate for Public Governance, Statistics Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
-
-------
-
-## [OECD Reviews of Labour Market and Social Policies: Costa Rica (en)](https://doi.org/10.1787/9789264282773-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 18 October 2017 at 15:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 13 October 2017 at 20:12:42
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Wednesday 18 October 2017 at 23:31:28*
 
 ------
 
@@ -96,8 +12,8 @@ Thursday 19 October 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 October 2017 at 20:11:56
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 17 October 2017 at 20:15:13
+- [x] Exported to Keepeek Tuesday 17 October 2017 at 20:55:40
 
 ### Additional Information
 
@@ -117,8 +33,8 @@ Thursday 19 October 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 October 2017 at 20:11:56
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 17 October 2017 at 20:15:13
+- [x] Exported to Keepeek Tuesday 17 October 2017 at 20:55:40
 
 ### Additional Information
 
@@ -138,7 +54,7 @@ Monday 23 October 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 11 October 2017 at 20:23:26
+- [x] Exported to iLibrary Tuesday 17 October 2017 at 20:15:13
 - [x] Exported to Keepeek Wednesday 11 October 2017 at 20:57:41
 
 ### Additional Information
@@ -159,7 +75,7 @@ Thursday 26 October 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 13 October 2017 at 20:12:42
+- [x] Exported to iLibrary Tuesday 17 October 2017 at 20:15:13
 - [x] Exported to Keepeek Friday 13 October 2017 at 20:57:12
 
 ### Additional Information
