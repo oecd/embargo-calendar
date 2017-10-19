@@ -1,48 +1,6 @@
-# OECD publication embargoes by date (17 embargoes)
+# OECD publication embargoes by date (15 embargoes)
 
-*Data generated on Wednesday 18 October 2017 at 23:31:28*
-
-------
-
-## [Examens de l'OCDE sur la coopération pour le développement : Luxembourg 2017 (fr)](https://doi.org/10.1787/9789264284432-fr)
-
-Embargo date | Launch date
--------------|------------
-Thursday 19 October 2017 at 9:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 17 October 2017 at 20:15:13
-- [x] Exported to Keepeek Tuesday 17 October 2017 at 20:55:40
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [OECD Development Co-operation Peer Reviews: Luxembourg 2017 (en)](https://doi.org/10.1787/9789264284364-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 19 October 2017 at 9:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 17 October 2017 at 20:15:13
-- [x] Exported to Keepeek Tuesday 17 October 2017 at 20:55:40
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Thursday 19 October 2017 at 22:59:26*
 
 ------
 
