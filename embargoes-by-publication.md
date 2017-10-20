@@ -1,6 +1,6 @@
-# OECD publication embargoes by date (15 embargoes)
+# OECD publication embargoes by date (16 embargoes)
 
-*Data generated on Thursday 19 October 2017 at 22:59:26*
+*Data generated on Saturday 21 October 2017 at 0:03:58*
 
 ------
 
@@ -33,54 +33,12 @@ Thursday 26 October 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 17 October 2017 at 20:15:13
+- [x] Exported to iLibrary Friday 20 October 2017 at 9:07:21
 - [x] Exported to Keepeek Friday 13 October 2017 at 20:57:12
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Estudio de la OCDE sobre integridad en Colombia (es) - Invirtiendo en integridad pública para afianzar la paz y el desarrollo (es)](https://doi.org/10.1787/9789264278646-es)
-
-Embargo date | Launch date
--------------|------------
-Thursday 26 October 2017 at 22:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 11 October 2017 at 20:23:26
-- [x] Exported to Keepeek Wednesday 4 October 2017 at 21:21:39
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [OECD Integrity Review of Colombia (en) - Investing in Integrity for Peace and Prosperity (en)](https://doi.org/10.1787/9789264278325-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 26 October 2017 at 22:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 4 October 2017 at 20:31:49
-- [x] Exported to Keepeek Wednesday 4 October 2017 at 21:21:39
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
@@ -104,6 +62,48 @@ Friday 27 October 2017 at 9:00:00 | no launch event
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Estudio de la OCDE sobre integridad en Colombia (es) - Invirtiendo en integridad pública para afianzar la paz y el desarrollo (es)](https://doi.org/10.1787/9789264278646-es)
+
+Embargo date | Launch date
+-------------|------------
+Friday 27 October 2017 at 14:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 11 October 2017 at 20:23:26
+- [x] Exported to Keepeek Wednesday 4 October 2017 at 21:21:39
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [OECD Integrity Review of Colombia (en) - Investing in Integrity for Peace and Prosperity (en)](https://doi.org/10.1787/9789264278325-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 27 October 2017 at 14:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 4 October 2017 at 20:31:49
+- [x] Exported to Keepeek Wednesday 4 October 2017 at 21:21:39
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -222,7 +222,7 @@ Friday 10 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 6 October 2017 at 20:10:21
+- [x] Exported to iLibrary Friday 20 October 2017 at 9:07:21
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -243,7 +243,7 @@ Friday 10 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 6 October 2017 at 20:10:21
+- [x] Exported to iLibrary Friday 20 October 2017 at 9:07:21
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -252,6 +252,27 @@ Friday 10 November 2017 at 10:00:00 | no launch event
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Le recrutement des travailleurs immigrés: France 2017 (fr)](https://doi.org/10.1787/9789264276741-fr)
+
+Embargo date | Launch date
+-------------|------------
+Monday 20 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 17 October 2017 at 20:15:13
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
 ------
