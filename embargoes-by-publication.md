@@ -1,6 +1,6 @@
-# OECD publication embargoes by date (18 embargoes)
+# OECD publication embargoes by date (20 embargoes)
 
-*Data generated on Tuesday 24 October 2017 at 3:03:24*
+*Data generated on Tuesday 24 October 2017 at 23:42:28*
 
 ------
 
@@ -12,7 +12,7 @@ Thursday 26 October 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 October 2017 at 9:07:21
+- [x] Exported to iLibrary Monday 23 October 2017 at 22:14:32
 - [x] Exported to Keepeek Friday 13 October 2017 at 20:57:12
 
 ### Additional Information
@@ -33,7 +33,7 @@ Friday 27 October 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 16 October 2017 at 20:11:56
+- [x] Exported to iLibrary Monday 23 October 2017 at 22:14:32
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -95,7 +95,7 @@ Embargo date | Launch date
 Friday 27 October 2017 at 19:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 October 2017 at 20:32:33
 - [ ] Exported to Keepeek
 
@@ -103,7 +103,7 @@ Friday 27 October 2017 at 19:00:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -116,7 +116,7 @@ Embargo date | Launch date
 Friday 27 October 2017 at 19:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 October 2017 at 20:32:33
 - [ ] Exported to Keepeek
 
@@ -124,7 +124,7 @@ Friday 27 October 2017 at 19:00:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -138,8 +138,8 @@ Sunday 29 October 2017 at 23:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 October 2017 at 20:20:45
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 23 October 2017 at 22:14:32
+- [x] Exported to Keepeek Monday 23 October 2017 at 23:55:53
 
 ### Additional Information
 
@@ -159,7 +159,7 @@ Friday 3 November 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 11 October 2017 at 20:23:26
+- [x] Exported to iLibrary Monday 23 October 2017 at 22:14:32
 - [x] Exported to Keepeek Wednesday 11 October 2017 at 20:57:41
 
 ### Additional Information
@@ -214,6 +214,48 @@ Friday 10 November 2017 at 10:00:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Suisse 2017 (fr)](https://doi.org/10.1787/eco_surveys-che-2017-fr)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 14 November 2017 at 14:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
+## [OECD Economic Surveys: Switzerland 2017 (en)](https://doi.org/10.1787/eco_surveys-che-2017-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 14 November 2017 at 14:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
 ## [How's Life? 2017 (en) - Measuring Well-being (en)](https://doi.org/10.1787/how_life-2017-en)
 
 Embargo date | Launch date
@@ -222,7 +264,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 3 October 2017 at 20:25:25
+- [x] Exported to iLibrary Monday 23 October 2017 at 22:14:32
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -264,7 +306,7 @@ Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 12 October 2017 at 20:28:11
+- [x] Exported to iLibrary Monday 23 October 2017 at 22:14:32
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -285,7 +327,7 @@ Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 12 October 2017 at 20:28:11
+- [x] Exported to iLibrary Monday 23 October 2017 at 22:14:32
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -348,8 +390,8 @@ Wednesday 29 November 2017 at 23:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 11 October 2017 at 20:23:26
-- [x] Exported to Keepeek Wednesday 11 October 2017 at 20:57:41
+- [x] Exported to iLibrary Monday 23 October 2017 at 22:14:32
+- [x] Exported to Keepeek Monday 23 October 2017 at 23:55:53
 
 ### Additional Information
 
