@@ -1,27 +1,6 @@
-# OECD publication embargoes by date (16 embargoes)
+# OECD publication embargoes by date (18 embargoes)
 
-*Data generated on Saturday 21 October 2017 at 0:03:58*
-
-------
-
-## [Supporting Entrepreneurship and Innovation in Higher Education in Ireland (en)](https://doi.org/10.1787/9789264270893-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 23 October 2017 at 9:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 17 October 2017 at 20:15:13
-- [x] Exported to Keepeek Wednesday 11 October 2017 at 20:57:41
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Tuesday 24 October 2017 at 3:03:24*
 
 ------
 
@@ -75,8 +54,8 @@ Friday 27 October 2017 at 14:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 11 October 2017 at 20:23:26
-- [x] Exported to Keepeek Wednesday 4 October 2017 at 21:21:39
+- [x] Exported to iLibrary Friday 20 October 2017 at 20:32:33
+- [x] Exported to Keepeek Friday 20 October 2017 at 21:34:23
 
 ### Additional Information
 
@@ -96,8 +75,8 @@ Friday 27 October 2017 at 14:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 4 October 2017 at 20:31:49
-- [x] Exported to Keepeek Wednesday 4 October 2017 at 21:21:39
+- [x] Exported to iLibrary Friday 20 October 2017 at 20:32:33
+- [x] Exported to Keepeek Friday 20 October 2017 at 21:34:23
 
 ### Additional Information
 
@@ -117,7 +96,7 @@ Friday 27 October 2017 at 19:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 13 October 2017 at 20:12:42
+- [x] Exported to iLibrary Friday 20 October 2017 at 20:32:33
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -138,7 +117,7 @@ Friday 27 October 2017 at 19:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 13 October 2017 at 20:12:42
+- [x] Exported to iLibrary Friday 20 October 2017 at 20:32:33
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -158,30 +137,9 @@ Embargo date | Launch date
 Sunday 29 October 2017 at 23:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 9 October 2017 at 20:20:45
 - [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [OECD Reviews of Health Systems: Peru 2017 (en)](https://doi.org/10.1787/9789264282735-en)
-
-Embargo date | Launch date
--------------|------------
-Sunday 29 October 2017 at 23:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 11 October 2017 at 20:23:26
-- [x] Exported to Keepeek Wednesday 11 October 2017 at 20:57:41
 
 ### Additional Information
 
@@ -256,6 +214,27 @@ Friday 10 November 2017 at 10:00:00 | no launch event
 
 ------
 
+## [How's Life? 2017 (en) - Measuring Well-being (en)](https://doi.org/10.1787/how_life-2017-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 3 October 2017 at 20:25:25
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
 ## [Le recrutement des travailleurs immigrés: France 2017 (fr)](https://doi.org/10.1787/9789264276741-fr)
 
 Embargo date | Launch date
@@ -264,12 +243,54 @@ Monday 20 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 17 October 2017 at 20:15:13
+- [x] Exported to iLibrary Friday 20 October 2017 at 20:32:33
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [Revenue Statistics: 1965-2016 (en)](https://doi.org/10.1787/9789264283183-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 12 October 2017 at 20:28:11
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [Statistiques des recettes publiques : 1965-2016 (fr)](https://doi.org/10.1787/9789264283206-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 12 October 2017 at 20:28:11
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
@@ -314,6 +335,27 @@ Monday 27 November 2017 at 9:00:00 | no launch event
 * Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [OECD Reviews of Health Systems: Peru 2017 (en)](https://doi.org/10.1787/9789264282735-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 29 November 2017 at 23:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 11 October 2017 at 20:23:26
+- [x] Exported to Keepeek Wednesday 11 October 2017 at 20:57:41
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
