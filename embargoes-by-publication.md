@@ -1,6 +1,6 @@
 # OECD publication embargoes by date (20 embargoes)
 
-*Data generated on Tuesday 24 October 2017 at 23:42:28*
+*Data generated on Wednesday 25 October 2017 at 23:57:09*
 
 ------
 
@@ -32,7 +32,7 @@ Embargo date | Launch date
 Friday 27 October 2017 at 9:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 23 October 2017 at 22:14:32
 - [ ] Exported to Keepeek
 
@@ -40,7 +40,7 @@ Friday 27 October 2017 at 9:00:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -96,8 +96,8 @@ Friday 27 October 2017 at 19:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 October 2017 at 20:32:33
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 24 October 2017 at 20:20:05
+- [x] Exported to Keepeek Tuesday 24 October 2017 at 21:13:05
 
 ### Additional Information
 
@@ -117,8 +117,8 @@ Friday 27 October 2017 at 19:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 October 2017 at 20:32:33
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 24 October 2017 at 20:20:05
+- [x] Exported to Keepeek Tuesday 24 October 2017 at 21:13:05
 
 ### Additional Information
 
@@ -222,7 +222,7 @@ Tuesday 14 November 2017 at 14:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 24 October 2017 at 20:20:05
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -243,7 +243,7 @@ Tuesday 14 November 2017 at 14:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 24 October 2017 at 20:20:05
 - [ ] Exported to Keepeek
 
 ### Additional Information
