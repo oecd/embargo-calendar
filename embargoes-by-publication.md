@@ -1,27 +1,6 @@
-# OECD publication embargoes by date (20 embargoes)
+# OECD publication embargoes by date (19 embargoes)
 
-*Data generated on Wednesday 25 October 2017 at 23:57:09*
-
-------
-
-## [Supporting Entrepreneurship and Innovation in Higher Education in Poland (en)](https://doi.org/10.1787/9789264270923-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 26 October 2017 at 9:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 23 October 2017 at 22:14:32
-- [x] Exported to Keepeek Friday 13 October 2017 at 20:57:12
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Thursday 26 October 2017 at 23:55:53*
 
 ------
 
@@ -33,8 +12,8 @@ Friday 27 October 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 23 October 2017 at 22:14:32
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 25 October 2017 at 20:43:01
+- [x] Exported to Keepeek Wednesday 25 October 2017 at 21:33:21
 
 ### Additional Information
 
@@ -130,27 +109,6 @@ Friday 27 October 2017 at 19:00:00 | no launch event
 
 ------
 
-## [Monitoring Health System Performance in Peru (en) - Data and Statistics (en)](https://doi.org/10.1787/9789264282988-en)
-
-Embargo date | Launch date
--------------|------------
-Sunday 29 October 2017 at 23:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 23 October 2017 at 22:14:32
-- [x] Exported to Keepeek Monday 23 October 2017 at 23:55:53
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
 ## [The Governance of Land Use in the Czech Republic (en) - The Case of Prague (en)](https://doi.org/10.1787/9789264281936-en)
 
 Embargo date | Launch date
@@ -214,7 +172,7 @@ Friday 10 November 2017 at 10:00:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Suisse 2017 (fr)](https://doi.org/10.1787/eco_surveys-che-2017-fr)
+## [Études économiques de l'OCDE : Suisse 2017 (fr)](https://doi.org/10.1787/eco_surveys-che-2017-fr)
 
 Embargo date | Launch date
 -------------|------------
@@ -284,7 +242,7 @@ Embargo date | Launch date
 Monday 20 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 October 2017 at 20:32:33
 - [ ] Exported to Keepeek
 
@@ -292,7 +250,7 @@ Monday 20 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
@@ -348,7 +306,7 @@ Monday 27 November 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 13 October 2017 at 20:12:42
+- [x] Exported to iLibrary Wednesday 25 October 2017 at 20:43:01
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -377,6 +335,27 @@ Monday 27 November 2017 at 9:00:00 | no launch event
 * Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Monitoring Health System Performance in Peru (en) - Data and Statistics (en)](https://doi.org/10.1787/9789264282988-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 29 November 2017 at 23:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 23 October 2017 at 22:14:32
+- [x] Exported to Keepeek Monday 23 October 2017 at 23:55:53
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
