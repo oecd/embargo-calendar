@@ -18,12 +18,12 @@ DESCRIPTION:Supporting Entrepreneurship and Innovati
  Entrepreneurship, SMEs and Local Develop
  ment\nLanguage: English\nDOI: https://do
  i.org/10.1787/9789264270923-en\nPublicat
- ion type: Book\nReleased as: ePub, PDF, 
- Paperback.\n\niLibrary export: 23 Octobe
+ ion type: Book\nReleased as: Paperback, 
+ ePub, PDF.\n\niLibrary export: 23 Octobe
  r 2017, 22:14 Paris time (GMT+00:00)\nFr
  eepreview export: 13 October 2017, 20:57
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171026T235558Z
+DTSTAMP:20171027T224403Z
 DTSTART:20171026T090000Z
 DTEND:20171026T091500Z
 TRANSP:TRANSPARENT
@@ -51,13 +51,13 @@ DESCRIPTION:Computers and the Future of Skill Demand
  .\n\nDirectorate: Directorate for Educat
  ion and Skills\nLanguage: English\nDOI: 
  https://doi.org/10.1787/9789264284395-en
- \nPublication type: Book\nReleased as: e
- Pub, PDF, Paperback.\n\niLibrary export:
-  25 October 2017, 20:43 Paris time (GMT+
+ \nPublication type: Book\nReleased as: P
+ aperback, ePub, PDF.\n\niLibrary export:
+  26 October 2017, 20:35 Paris time (GMT+
  00:00)\nFreepreview export: 25 October 2
  017, 21:33 Paris time (GMT+00:00)\nFTI l
  oaded: ✓.
-DTSTAMP:20171026T235558Z
+DTSTAMP:20171027T224403Z
 DTSTART:20171027T090000Z
 DTEND:20171027T091500Z
 TRANSP:TRANSPARENT
@@ -86,13 +86,13 @@ DESCRIPTION:Estudio de la OCDE sobre integridad en C
  0).\n\nDirectorate: Directorate for Publ
  ic Governance\nLanguage: Spanish\nDOI: h
  ttps://doi.org/10.1787/9789264278646-es\
- nPublication type: Book\nReleased as: Pa
- perback, ePub, PDF.\n\niLibrary export: 
+ nPublication type: Book\nReleased as: PD
+ F, Paperback, ePub.\n\niLibrary export: 
  20 October 2017, 20:32 Paris time (GMT+0
  0:00)\nFreepreview export: 20 October 20
  17, 21:34 Paris time (GMT+00:00)\nFTI lo
  aded: ✓.
-DTSTAMP:20171026T235558Z
+DTSTAMP:20171027T224403Z
 DTSTART:20171027T140000Z
 DTEND:20171027T141500Z
 TRANSP:TRANSPARENT
@@ -121,12 +121,12 @@ DESCRIPTION:OECD Integrity Review of Colombia (en)
  ublic Governance\nLanguage: English\nDOI
  : https://doi.org/10.1787/9789264278325-
  en\nPublication type: Book\nReleased as:
-  PDF, ePub, Paperback.\n\niLibrary expor
+  ePub, Paperback, PDF.\n\niLibrary expor
  t: 20 October 2017, 20:32 Paris time (GM
  T+00:00)\nFreepreview export: 20 October
   2017, 21:34 Paris time (GMT+00:00)\nFTI
   loaded: ✓.
-DTSTAMP:20171026T235558Z
+DTSTAMP:20171027T224403Z
 DTSTART:20171027T140000Z
 DTEND:20171027T141500Z
 TRANSP:TRANSPARENT
@@ -160,7 +160,7 @@ DESCRIPTION:Assessing the Impact of Digital Governme
  )\nFreepreview export: 24 October 2017, 
  21:13 Paris time (GMT+00:00)\nFTI loaded
  : ✓.
-DTSTAMP:20171026T235558Z
+DTSTAMP:20171027T224403Z
 DTSTART:20171027T190000Z
 DTEND:20171027T191500Z
 TRANSP:TRANSPARENT
@@ -189,12 +189,12 @@ DESCRIPTION:Evaluación de Impacto del Gobierno Digit
  Public Governance\nLanguage: Spanish\nDO
  I: https://doi.org/10.1787/9789264284272
  -es\nPublication type: Book\nReleased as
- : PDF, Paperback.\n\niLibrary export: 24
+ : Paperback, PDF.\n\niLibrary export: 24
   October 2017, 20:20 Paris time (GMT+00:
  00)\nFreepreview export: 24 October 2017
  , 21:13 Paris time (GMT+00:00)\nFTI load
  ed: ✓.
-DTSTAMP:20171026T235558Z
+DTSTAMP:20171027T224403Z
 DTSTART:20171027T190000Z
 DTEND:20171027T191500Z
 TRANSP:TRANSPARENT
@@ -206,6 +206,40 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Evaluación de Impacto del Gobi
  erno Digital en Colombia (es) on 27 Octo
  ber 2017, 21:00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264281394-en
+SUMMARY:Better Use of Skills in the Workplace (e
+ n) on 2 November 2017, 1:00 Paris time (
+ GMT+02:00)
+DESCRIPTION:Better Use of Skills in the Workplace (e
+ n)  - Why It Matters for Productivity an
+ d Local Jobs (en) by Centre for Entrepre
+ neurship, SMEs and Local Development has
+  an embargo date/time of 2 November 2017
+ , 1:00 Paris time (GMT+02:00).\n\nDirect
+ orate: Centre for Entrepreneurship, SMEs
+  and Local Development\nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/97892642
+ 81394-en\nPublication type: Stand-alone 
+ monograph\nReleased as: ePub, PDF, Paper
+ back.\n\niLibrary export: 24 October 201
+ 7, 20:20 Paris time (GMT+00:00)\nFreepre
+ view export: never\nFTI loaded: ✓.
+DTSTAMP:20171027T224403Z
+DTSTART:20171101T230000Z
+DTEND:20171101T231500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Better Use of Skills in the Wo
+ rkplace (en) on 2 November 2017, 1:00 Pa
+ ris time (GMT+02:00)
 END:VALARM
 END:VEVENT
 
@@ -228,7 +262,7 @@ DESCRIPTION:The Governance of Land Use in the Czech
  0:00)\nFreepreview export: 11 October 20
  17, 20:57 Paris time (GMT+00:00)\nFTI lo
  aded: ✓.
-DTSTAMP:20171026T235558Z
+DTSTAMP:20171027T224403Z
 DTSTART:20171103T090000Z
 DTEND:20171103T091500Z
 TRANSP:TRANSPARENT
@@ -260,7 +294,7 @@ DESCRIPTION:Health at a Glance 2017 (en)  - OECD Ind
  : 20 October 2017, 9:07 Paris time (GMT+
  00:00)\nFreepreview export: never\nFTI l
  oaded: no.
-DTSTAMP:20171026T235558Z
+DTSTAMP:20171027T224403Z
 DTSTART:20171110T100000Z
 DTEND:20171110T101500Z
 TRANSP:TRANSPARENT
@@ -292,7 +326,7 @@ DESCRIPTION:Panorama de la santé 2017 (fr)  - Les in
  rary export: 20 October 2017, 9:07 Paris
   time (GMT+00:00)\nFreepreview export: n
  ever\nFTI loaded: no.
-DTSTAMP:20171026T235558Z
+DTSTAMP:20171027T224403Z
 DTSTART:20171110T100000Z
 DTEND:20171110T101500Z
 TRANSP:TRANSPARENT
@@ -320,10 +354,10 @@ DESCRIPTION:Études économiques de l'OCDE : Suisse 20
  nch\nDOI: https://doi.org/10.1787/eco_su
  rveys-che-2017-fr\nPublication type: Eco
  nomic survey\nReleased as: PDF, Paperbac
- k, ePub.\n\niLibrary export: 24 October 
- 2017, 20:20 Paris time (GMT+00:00)\nFree
+ k, ePub.\n\niLibrary export: 26 October 
+ 2017, 20:35 Paris time (GMT+00:00)\nFree
  preview export: never\nFTI loaded: no.
-DTSTAMP:20171026T235558Z
+DTSTAMP:20171027T224403Z
 DTSTART:20171114T140000Z
 DTEND:20171114T141500Z
 TRANSP:TRANSPARENT
@@ -354,7 +388,7 @@ DESCRIPTION:OECD Economic Surveys: Switzerland 2017
  , PDF.\n\niLibrary export: 24 October 20
  17, 20:20 Paris time (GMT+00:00)\nFreepr
  eview export: never\nFTI loaded: no.
-DTSTAMP:20171026T235558Z
+DTSTAMP:20171027T224403Z
 DTSTART:20171114T140000Z
 DTEND:20171114T141500Z
 TRANSP:TRANSPARENT
@@ -381,10 +415,10 @@ DESCRIPTION:How's Life? 2017 (en)  - Measuring Well-
  e: English\nDOI: https://doi.org/10.1787
  /how_life-2017-en\nPublication type: Boo
  k\nReleased as: Paperback, ePub, PDF.\n\
- niLibrary export: 23 October 2017, 22:14
+ niLibrary export: 26 October 2017, 20:35
   Paris time (GMT+00:00)\nFreepreview exp
  ort: never\nFTI loaded: no.
-DTSTAMP:20171026T235558Z
+DTSTAMP:20171027T224403Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -414,10 +448,11 @@ DESCRIPTION:Le recrutement des travailleurs immigrés
  \nDOI: https://doi.org/10.1787/978926427
  6741-fr\nPublication type: Stand-alone m
  onograph\nReleased as: PDF, Paperback.\n
- \niLibrary export: 20 October 2017, 20:3
- 2 Paris time (GMT+00:00)\nFreepreview ex
- port: never\nFTI loaded: ✓.
-DTSTAMP:20171026T235558Z
+ \niLibrary export: 26 October 2017, 20:3
+ 5 Paris time (GMT+00:00)\nFreepreview ex
+ port: 26 October 2017, 21:28 Paris time 
+ (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171027T224403Z
 DTSTART:20171120T100000Z
 DTEND:20171120T101500Z
 TRANSP:TRANSPARENT
@@ -449,7 +484,7 @@ DESCRIPTION:Revenue Statistics: 1965-2016 (en)  by C
  Library export: 23 October 2017, 22:14 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20171026T235558Z
+DTSTAMP:20171027T224403Z
 DTSTART:20171123T100000Z
 DTEND:20171123T101500Z
 TRANSP:TRANSPARENT
@@ -482,7 +517,7 @@ DESCRIPTION:Statistiques des recettes publiques : 19
  ber 2017, 22:14 Paris time (GMT+00:00)\n
  Freepreview export: never\nFTI loaded: n
  o.
-DTSTAMP:20171026T235558Z
+DTSTAMP:20171027T224403Z
 DTSTART:20171123T100000Z
 DTEND:20171123T101500Z
 TRANSP:TRANSPARENT
@@ -513,7 +548,7 @@ DESCRIPTION:Examens environnementaux de l'OCDE: Suis
  Library export: 25 October 2017, 20:43 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20171026T235558Z
+DTSTAMP:20171027T224403Z
 DTSTART:20171127T090000Z
 DTEND:20171127T091500Z
 TRANSP:TRANSPARENT
@@ -544,7 +579,7 @@ DESCRIPTION:OECD Environmental Performance Reviews:
   PDF.\n\niLibrary export: 16 October 201
  7, 20:11 Paris time (GMT+00:00)\nFreepre
  view export: never\nFTI loaded: no.
-DTSTAMP:20171026T235558Z
+DTSTAMP:20171027T224403Z
 DTSTART:20171127T090000Z
 DTEND:20171127T091500Z
 TRANSP:TRANSPARENT
@@ -575,11 +610,11 @@ DESCRIPTION:Monitoring Health System Performance in
  nLanguage: English\nDOI: https://doi.org
  /10.1787/9789264282988-en\nPublication t
  ype: Book\nReleased as: PDF, Paperback.\
- n\niLibrary export: 23 October 2017, 22:
- 14 Paris time (GMT+00:00)\nFreepreview e
- xport: 23 October 2017, 23:55 Paris time
+ n\niLibrary export: 26 October 2017, 20:
+ 35 Paris time (GMT+00:00)\nFreepreview e
+ xport: 26 October 2017, 21:28 Paris time
   (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171026T235558Z
+DTSTAMP:20171027T224403Z
 DTSTART:20171129T230000Z
 DTEND:20171129T231500Z
 TRANSP:TRANSPARENT
@@ -608,11 +643,11 @@ DESCRIPTION:OECD Reviews of Health Systems: Peru 201
  l Affairs\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9789264282735-en\nPub
  lication type: Book\nReleased as: Paperb
- ack, PDF.\n\niLibrary export: 23 October
-  2017, 22:14 Paris time (GMT+00:00)\nFre
- epreview export: 23 October 2017, 23:55 
+ ack, PDF.\n\niLibrary export: 26 October
+  2017, 20:35 Paris time (GMT+00:00)\nFre
+ epreview export: 26 October 2017, 21:28 
  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171026T235558Z
+DTSTAMP:20171027T224403Z
 DTSTART:20171129T230000Z
 DTEND:20171129T231500Z
 TRANSP:TRANSPARENT
@@ -624,6 +659,37 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Reviews of Health Systems
  : Peru 2017 (en) on 30 November 2017, 1:
  00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/g2g846ad-en
+SUMMARY:OECD Reviews of School Resources: Chile 
+ (en) on 1 December 2017, 1:00 Paris time
+  (GMT+02:00)
+DESCRIPTION:OECD Reviews of School Resources: Chile 
+ (en)  by Directorate for Education and S
+ kills has an embargo date/time of 1 Dece
+ mber 2017, 1:00 Paris time (GMT+02:00).\
+ n\nDirectorate: Directorate for Educatio
+ n and Skills\nLanguage: English\nDOI: ht
+ tps://doi.org/10.1787/g2g846ad-en\nPubli
+ cation type: Book\nReleased as: PDF, Pap
+ erback, ePub.\n\niLibrary export: never\
+ nFreepreview export: never\nFTI loaded: 
+ no.
+DTSTAMP:20171027T224403Z
+DTSTART:20171130T230000Z
+DTEND:20171130T231500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Reviews of School Resourc
+ es: Chile (en) on 1 December 2017, 1:00 
+ Paris time (GMT+02:00)
 END:VALARM
 END:VEVENT
 
@@ -645,7 +711,7 @@ DESCRIPTION:Getting Skills Right: Italy (en)  by Dir
  aris time (GMT+00:00)\nFreepreview expor
  t: 3 October 2017, 21:12 Paris time (GMT
  +00:00)\nFTI loaded: ✓.
-DTSTAMP:20171026T235558Z
+DTSTAMP:20171027T224403Z
 DTSTART:20171221T090000Z
 DTEND:20171221T091500Z
 TRANSP:TRANSPARENT

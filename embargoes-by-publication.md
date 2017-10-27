@@ -1,110 +1,26 @@
-# OECD publication embargoes by date (19 embargoes)
+# OECD publication embargoes by date (16 embargoes)
 
-*Data generated on Thursday 26 October 2017 at 23:55:53*
-
-------
-
-## [Computers and the Future of Skill Demand (en)](https://doi.org/10.1787/9789264284395-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 27 October 2017 at 9:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 25 October 2017 at 20:43:01
-- [x] Exported to Keepeek Wednesday 25 October 2017 at 21:33:21
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Friday 27 October 2017 at 22:43:54*
 
 ------
 
-## [Estudio de la OCDE sobre integridad en Colombia (es) - Invirtiendo en integridad pública para afianzar la paz y el desarrollo (es)](https://doi.org/10.1787/9789264278646-es)
+## [Better Use of Skills in the Workplace (en) - Why It Matters for Productivity and Local Jobs (en)](https://doi.org/10.1787/9789264281394-en)
 
 Embargo date | Launch date
 -------------|------------
-Friday 27 October 2017 at 14:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 October 2017 at 20:32:33
-- [x] Exported to Keepeek Friday 20 October 2017 at 21:34:23
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [OECD Integrity Review of Colombia (en) - Investing in Integrity for Peace and Prosperity (en)](https://doi.org/10.1787/9789264278325-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 27 October 2017 at 14:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 October 2017 at 20:32:33
-- [x] Exported to Keepeek Friday 20 October 2017 at 21:34:23
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Assessing the Impact of Digital Government in Colombia (en) - Towards a new methodology (en)](https://doi.org/10.1787/9789264283282-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 27 October 2017 at 19:00:00 | no launch event
+Wednesday 1 November 2017 at 23:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 24 October 2017 at 20:20:05
-- [x] Exported to Keepeek Tuesday 24 October 2017 at 21:13:05
+- [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Directorate for Public Governance*
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Evaluación de Impacto del Gobierno Digital en Colombia (es) - Hacia una Nueva Metodología (es)](https://doi.org/10.1787/9789264284272-es)
-
-Embargo date | Launch date
--------------|------------
-Friday 27 October 2017 at 19:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 24 October 2017 at 20:20:05
-- [x] Exported to Keepeek Tuesday 24 October 2017 at 21:13:05
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
+* Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
 ------
@@ -180,7 +96,7 @@ Tuesday 14 November 2017 at 14:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 24 October 2017 at 20:20:05
+- [x] Exported to iLibrary Thursday 26 October 2017 at 20:35:10
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -222,7 +138,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 23 October 2017 at 22:14:32
+- [x] Exported to iLibrary Thursday 26 October 2017 at 20:35:10
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -243,8 +159,8 @@ Monday 20 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 October 2017 at 20:32:33
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 26 October 2017 at 20:35:10
+- [x] Exported to Keepeek Thursday 26 October 2017 at 21:28:23
 
 ### Additional Information
 
@@ -348,8 +264,8 @@ Wednesday 29 November 2017 at 23:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 23 October 2017 at 22:14:32
-- [x] Exported to Keepeek Monday 23 October 2017 at 23:55:53
+- [x] Exported to iLibrary Thursday 26 October 2017 at 20:35:10
+- [x] Exported to Keepeek Thursday 26 October 2017 at 21:28:23
 
 ### Additional Information
 
@@ -369,14 +285,35 @@ Wednesday 29 November 2017 at 23:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 23 October 2017 at 22:14:32
-- [x] Exported to Keepeek Monday 23 October 2017 at 23:55:53
+- [x] Exported to iLibrary Thursday 26 October 2017 at 20:35:10
+- [x] Exported to Keepeek Thursday 26 October 2017 at 21:28:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [OECD Reviews of School Resources: Chile (en)](https://doi.org/10.1787/g2g846ad-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 30 November 2017 at 23:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Medium: *PDF*
 
