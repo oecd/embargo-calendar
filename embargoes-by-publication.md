@@ -1,6 +1,6 @@
 # OECD publication embargoes by date (16 embargoes)
 
-*Data generated on Friday 27 October 2017 at 22:43:54*
+*Data generated on Monday 30 October 2017 at 23:51:34*
 
 ------
 
@@ -12,8 +12,8 @@ Wednesday 1 November 2017 at 23:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 24 October 2017 at 20:20:05
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 30 October 2017 at 11:03:44
+- [x] Exported to Keepeek Friday 27 October 2017 at 20:03:52
 
 ### Additional Information
 
@@ -96,7 +96,7 @@ Tuesday 14 November 2017 at 14:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 26 October 2017 at 20:35:10
+- [x] Exported to iLibrary Monday 30 October 2017 at 11:03:44
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -117,7 +117,7 @@ Tuesday 14 November 2017 at 14:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 24 October 2017 at 20:20:05
+- [x] Exported to iLibrary Monday 30 October 2017 at 11:03:44
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -138,7 +138,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 26 October 2017 at 20:35:10
+- [x] Exported to iLibrary Monday 30 October 2017 at 11:03:44
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -298,7 +298,7 @@ Wednesday 29 November 2017 at 23:00:00 | no launch event
 
 ------
 
-## [OECD Reviews of School Resources: Chile (en)](https://doi.org/10.1787/g2g846ad-en)
+## [OECD Reviews of School Resources: Chile (en)](https://doi.org/10.1787/9789264285637-en)
 
 Embargo date | Launch date
 -------------|------------
