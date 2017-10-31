@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2017-10-30T23:51:34.507+01:00" count="100">
+<report name="official-embargoes" generated="2017-10-31T23:52:54.475+01:00" count="100">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -198,7 +198,7 @@
     <cell name="title">OECD Reviews of School Resources: Chile (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
+    <cell name="medium">Paperback</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2017-12-01</cell>
     <cell name="embargo date">2017-11-30T23:00:00Z</cell>
@@ -214,12 +214,12 @@
     <cell name="title">OECD Reviews of School Resources: Chile (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
+    <cell name="medium">ePub</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2017-12-01</cell>
     <cell name="embargo date">2017-11-30T23:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2017-10-30T21:33:33.707Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -230,12 +230,12 @@
     <cell name="title">OECD Reviews of School Resources: Chile (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">ePub</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2017-12-01</cell>
     <cell name="embargo date">2017-11-30T23:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2017-10-30T21:33:33.707Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -507,7 +507,7 @@
     <cell name="date of publication">2017-11-30</cell>
     <cell name="embargo date">2017-11-29T23:00:00Z</cell>
     <cell name="launch date/time">2017-11-29T23:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-10-26T20:35:10.117Z</cell>
+    <cell name="ilibrary last export date">2017-10-30T21:33:33.707Z</cell>
     <cell name="freepreview last export date">2017-10-26T21:28:23.757Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
@@ -582,22 +582,6 @@
     <cell name="title">Examens environnementaux de l'OCDE: Suisse 2017 (fr)</cell>
     <cell name="subtitle"/>
     <cell name="language">French</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2017-11-27</cell>
-    <cell name="embargo date">2017-11-27T09:00:00Z</cell>
-    <cell name="launch date/time">2017-11-27T09:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="37">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264279698-fr</cell>
-    <cell name="title">Examens environnementaux de l'OCDE: Suisse 2017 (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2017-11-27</cell>
@@ -608,12 +592,12 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="38">
+  <row index="37">
     <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264279674-en</cell>
-    <cell name="title">OECD Environmental Performance Reviews: Switzerland 2017 (en)</cell>
+    <cell name="doi">10.1787/9789264279698-fr</cell>
+    <cell name="title">Examens environnementaux de l'OCDE: Suisse 2017 (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">English</cell>
+    <cell name="language">French</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2017-11-27</cell>
@@ -624,7 +608,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="39">
+  <row index="38">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279674-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Switzerland 2017 (en)</cell>
@@ -636,6 +620,22 @@
     <cell name="embargo date">2017-11-27T09:00:00Z</cell>
     <cell name="launch date/time">2017-11-27T09:00:00Z</cell>
     <cell name="ilibrary last export date">2017-10-16T20:11:56.047Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="39">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264279674-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: Switzerland 2017 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2017-11-27</cell>
+    <cell name="embargo date">2017-11-27T09:00:00Z</cell>
+    <cell name="launch date/time">2017-11-27T09:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -870,13 +870,13 @@
     <cell name="title">Le recrutement des travailleurs immigrés: France 2017 (fr)</cell>
     <cell name="subtitle"/>
     <cell name="language">French</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2017-11-20</cell>
     <cell name="embargo date">2017-11-20T10:00:00Z</cell>
     <cell name="launch date/time">2017-11-20T10:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-10-30T21:33:33.707Z</cell>
+    <cell name="freepreview last export date">2017-10-26T21:28:23.757Z</cell>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -886,13 +886,13 @@
     <cell name="title">Le recrutement des travailleurs immigrés: France 2017 (fr)</cell>
     <cell name="subtitle"/>
     <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2017-11-20</cell>
     <cell name="embargo date">2017-11-20T10:00:00Z</cell>
     <cell name="launch date/time">2017-11-20T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-10-26T20:35:10.117Z</cell>
-    <cell name="freepreview last export date">2017-10-26T21:28:23.757Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1030,22 +1030,6 @@
     <cell name="title">Études économiques de l'OCDE : Suisse 2017 (fr)</cell>
     <cell name="subtitle"/>
     <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2017-11-14</cell>
-    <cell name="embargo date">2017-11-14T14:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-30T11:03:44.44Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="65">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_surveys-che-2017-fr</cell>
-    <cell name="title">Études économiques de l'OCDE : Suisse 2017 (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2017-11-14</cell>
@@ -1056,13 +1040,29 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="66">
+  <row index="65">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-che-2017-fr</cell>
     <cell name="title">Études économiques de l'OCDE : Suisse 2017 (fr)</cell>
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">ePub</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2017-11-14</cell>
+    <cell name="embargo date">2017-11-14T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2017-10-30T11:03:44.44Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="66">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-che-2017-fr</cell>
+    <cell name="title">Études économiques de l'OCDE : Suisse 2017 (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2017-11-14</cell>
     <cell name="embargo date">2017-11-14T14:00:00Z</cell>
@@ -1078,7 +1078,7 @@
     <cell name="title">OECD Economic Surveys: Switzerland 2017 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">ePub</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2017-11-14</cell>
     <cell name="embargo date">2017-11-14T14:00:00Z</cell>
@@ -1094,12 +1094,12 @@
     <cell name="title">OECD Economic Surveys: Switzerland 2017 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
+    <cell name="medium">Paperback</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2017-11-14</cell>
     <cell name="embargo date">2017-11-14T14:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-30T11:03:44.44Z</cell>
+    <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
@@ -1110,12 +1110,12 @@
     <cell name="title">OECD Economic Surveys: Switzerland 2017 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
+    <cell name="medium">ePub</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2017-11-14</cell>
     <cell name="embargo date">2017-11-14T14:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2017-10-30T11:03:44.44Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
@@ -1174,22 +1174,6 @@
     <cell name="title">Panorama de la santé 2017 (fr)</cell>
     <cell name="subtitle">Les indicateurs de l'OCDE (fr)</cell>
     <cell name="language">French</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2017-11-10</cell>
-    <cell name="embargo date">2017-11-10T10:00:00Z</cell>
-    <cell name="launch date/time">2017-11-10T10:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="74">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/health_glance-2017-fr</cell>
-    <cell name="title">Panorama de la santé 2017 (fr)</cell>
-    <cell name="subtitle">Les indicateurs de l'OCDE (fr)</cell>
-    <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2017-11-10</cell>
@@ -1200,13 +1184,29 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="75">
+  <row index="74">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/health_glance-2017-fr</cell>
     <cell name="title">Panorama de la santé 2017 (fr)</cell>
     <cell name="subtitle">Les indicateurs de l'OCDE (fr)</cell>
     <cell name="language">French</cell>
     <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2017-11-10</cell>
+    <cell name="embargo date">2017-11-10T10:00:00Z</cell>
+    <cell name="launch date/time">2017-11-10T10:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="75">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/health_glance-2017-fr</cell>
+    <cell name="title">Panorama de la santé 2017 (fr)</cell>
+    <cell name="subtitle">Les indicateurs de l'OCDE (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">ePub</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2017-11-10</cell>
     <cell name="embargo date">2017-11-10T10:00:00Z</cell>
@@ -1403,7 +1403,7 @@
     <cell name="date of publication">2017-11-02</cell>
     <cell name="embargo date">2017-11-01T23:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-30T11:03:44.44Z</cell>
+    <cell name="ilibrary last export date">2017-10-30T21:33:33.707Z</cell>
     <cell name="freepreview last export date">2017-10-27T20:03:52.813Z</cell>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1419,7 +1419,7 @@
     <cell name="date of publication">2017-11-02</cell>
     <cell name="embargo date">2017-11-01T23:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-30T11:03:44.44Z</cell>
+    <cell name="ilibrary last export date">2017-10-30T21:33:33.707Z</cell>
     <cell name="freepreview last export date">2017-10-27T20:03:52.813Z</cell>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
