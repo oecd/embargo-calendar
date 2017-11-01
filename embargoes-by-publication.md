@@ -1,6 +1,6 @@
 # OECD publication embargoes by date (16 embargoes)
 
-*Data generated on Tuesday 31 October 2017 at 23:52:54*
+*Data generated on Wednesday 1 November 2017 at 23:12:37*
 
 ------
 
@@ -75,7 +75,7 @@ Friday 10 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 20 October 2017 at 9:07:21
+- [x] Exported to iLibrary Tuesday 31 October 2017 at 21:40:41
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -96,7 +96,7 @@ Tuesday 14 November 2017 at 14:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 30 October 2017 at 11:03:44
+- [x] Exported to iLibrary Tuesday 31 October 2017 at 21:40:41
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -222,7 +222,7 @@ Monday 27 November 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 25 October 2017 at 20:43:01
+- [x] Exported to iLibrary Tuesday 31 October 2017 at 21:40:41
 - [ ] Exported to Keepeek
 
 ### Additional Information
