@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Wed, 01 Nov 2017 23:12:44 GMT</pubDate>
+      <pubDate>Thu, 02 Nov 2017 23:33:04 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -42,6 +42,21 @@
          <oe:freePreviewExport>Wednesday, 11 October 2017, 20:57 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264281288-en</guid>
+         <pubDate>Mon, 06 Nov 2017 08:30:00 GMT</pubDate>
+         <title>Understanding Financial Accounts (en)</title>
+         <link>https://doi.org/10.1787/9789264281288-en</link>
+         <description>Understanding Financial Accounts (en) by Statistics Directorate has an embargo on Monday, 6 November 2017, 10:30 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-06T08:30:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Tuesday, 31 October 2017, 21:40 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+         <oe:availableMedia>PDF, ePub, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/health_glance-2017-en</guid>
@@ -165,33 +180,33 @@
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264279698-fr</guid>
-         <pubDate>Mon, 27 Nov 2017 09:00:00 GMT</pubDate>
+         <pubDate>Fri, 24 Nov 2017 09:00:00 GMT</pubDate>
          <title>Examens environnementaux de l'OCDE: Suisse 2017 (fr)</title>
          <link>https://doi.org/10.1787/9789264279698-fr</link>
-         <description>Examens environnementaux de l'OCDE: Suisse 2017 (fr) by Environment Directorate has an embargo on Monday, 27 November 2017, 11:00 Paris time (GMT+02:00).</description>
-         <oe:embargoTime>2017-11-27T09:00:00Z</oe:embargoTime>
+         <description>Examens environnementaux de l'OCDE: Suisse 2017 (fr) by Environment Directorate has an embargo on Friday, 24 November 2017, 11:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-24T09:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Environment Directorate</oe:directorate>
          <oe:ftiLoaded/>
          <oe:iLibraryExport>Tuesday, 31 October 2017, 21:40 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback, ePub</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264279674-en</guid>
-         <pubDate>Mon, 27 Nov 2017 09:00:00 GMT</pubDate>
+         <pubDate>Fri, 24 Nov 2017 09:00:00 GMT</pubDate>
          <title>OECD Environmental Performance Reviews: Switzerland 2017 (en)</title>
          <link>https://doi.org/10.1787/9789264279674-en</link>
-         <description>OECD Environmental Performance Reviews: Switzerland 2017 (en) by Environment Directorate has an embargo on Monday, 27 November 2017, 11:00 Paris time (GMT+02:00).</description>
-         <oe:embargoTime>2017-11-27T09:00:00Z</oe:embargoTime>
+         <description>OECD Environmental Performance Reviews: Switzerland 2017 (en) by Environment Directorate has an embargo on Friday, 24 November 2017, 11:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-24T09:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Environment Directorate</oe:directorate>
          <oe:ftiLoaded/>
          <oe:iLibraryExport>Monday, 16 October 2017, 20:11 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+         <oe:availableMedia>ePub, PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264282988-en</guid>
@@ -237,6 +252,36 @@
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264283244-fr</guid>
+         <pubDate>Fri, 01 Dec 2017 10:00:00 GMT</pubDate>
+         <title>Examens environnementaux de l'OCDE: Canada 2017 (fr)</title>
+         <link>https://doi.org/10.1787/9789264283244-fr</link>
+         <description>Examens environnementaux de l'OCDE: Canada 2017 (fr) by Environment Directorate has an embargo on Friday, 1 December 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-12-01T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Environment Directorate</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Thursday, 26 October 2017, 20:35 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>PDF, Paperback, ePub</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264279612-en</guid>
+         <pubDate>Fri, 01 Dec 2017 10:00:00 GMT</pubDate>
+         <title>OECD Environmental Performance Reviews: Canada 2017 (en)</title>
+         <link>https://doi.org/10.1787/9789264279612-en</link>
+         <description>OECD Environmental Performance Reviews: Canada 2017 (en) by Environment Directorate has an embargo on Friday, 1 December 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-12-01T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Environment Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Wednesday, 25 October 2017, 20:43 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264278639-en</guid>

@@ -1,27 +1,6 @@
-# OECD publication embargoes by date (16 embargoes)
+# OECD publication embargoes by date (18 embargoes)
 
-*Data generated on Wednesday 1 November 2017 at 23:12:37*
-
-------
-
-## [Better Use of Skills in the Workplace (en) - Why It Matters for Productivity and Local Jobs (en)](https://doi.org/10.1787/9789264281394-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 1 November 2017 at 23:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 30 October 2017 at 21:33:33
-- [x] Exported to Keepeek Friday 27 October 2017 at 20:03:52
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
+*Data generated on Thursday 2 November 2017 at 23:32:55*
 
 ------
 
@@ -39,6 +18,27 @@ Friday 3 November 2017 at 9:00:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [Understanding Financial Accounts (en)](https://doi.org/10.1787/9789264281288-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 6 November 2017 at 8:30:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 31 October 2017 at 21:40:41
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
@@ -218,7 +218,7 @@ Thursday 23 November 2017 at 10:00:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Monday 27 November 2017 at 9:00:00 | no launch event
+Friday 24 November 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
@@ -239,7 +239,7 @@ Monday 27 November 2017 at 9:00:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Monday 27 November 2017 at 9:00:00 | no launch event
+Friday 24 November 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
@@ -312,6 +312,48 @@ Thursday 30 November 2017 at 23:00:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Examens environnementaux de l'OCDE: Canada 2017 (fr)](https://doi.org/10.1787/9789264283244-fr)
+
+Embargo date | Launch date
+-------------|------------
+Friday 1 December 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 26 October 2017 at 20:35:10
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [OECD Environmental Performance Reviews: Canada 2017 (en)](https://doi.org/10.1787/9789264279612-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 1 December 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 25 October 2017 at 20:43:01
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*

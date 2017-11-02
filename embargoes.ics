@@ -23,7 +23,7 @@ DESCRIPTION:Better Use of Skills in the Workplace (e
  7, 21:33 Paris time (GMT+00:00)\nFreepre
  view export: 27 October 2017, 20:03 Pari
  s time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171101T231243Z
+DTSTAMP:20171102T233301Z
 DTSTART:20171101T230000Z
 DTEND:20171101T231500Z
 TRANSP:TRANSPARENT
@@ -57,7 +57,7 @@ DESCRIPTION:The Governance of Land Use in the Czech
  0:00)\nFreepreview export: 11 October 20
  17, 20:57 Paris time (GMT+00:00)\nFTI lo
  aded: ✓.
-DTSTAMP:20171101T231243Z
+DTSTAMP:20171102T233301Z
 DTSTART:20171103T090000Z
 DTEND:20171103T091500Z
 TRANSP:TRANSPARENT
@@ -69,6 +69,37 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: The Governance of Land Use in 
  the Czech Republic (en) on 3 November 20
  17, 11:00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264281288-en
+SUMMARY:Understanding Financial Accounts (en) on
+  6 November 2017, 10:30 Paris time (GMT+
+ 02:00)
+DESCRIPTION:Understanding Financial Accounts (en)  b
+ y Statistics Directorate has an embargo 
+ date/time of 6 November 2017, 10:30 Pari
+ s time (GMT+02:00).\n\nDirectorate: Stat
+ istics Directorate\nLanguage: English\nD
+ OI: https://doi.org/10.1787/978926428128
+ 8-en\nPublication type: Stand-alone mono
+ graph\nReleased as: PDF, ePub, Paperback
+ .\n\niLibrary export: 31 October 2017, 2
+ 1:40 Paris time (GMT+00:00)\nFreepreview
+  export: never\nFTI loaded: ✓.
+DTSTAMP:20171102T233301Z
+DTSTART:20171106T083000Z
+DTEND:20171106T084500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Understanding Financial Accoun
+ ts (en) on 6 November 2017, 10:30 Paris 
+ time (GMT+02:00)
 END:VALARM
 END:VEVENT
 
@@ -89,7 +120,7 @@ DESCRIPTION:Health at a Glance 2017 (en)  - OECD Ind
  : 20 October 2017, 9:07 Paris time (GMT+
  00:00)\nFreepreview export: never\nFTI l
  oaded: no.
-DTSTAMP:20171101T231243Z
+DTSTAMP:20171102T233301Z
 DTSTART:20171110T100000Z
 DTEND:20171110T101500Z
 TRANSP:TRANSPARENT
@@ -121,7 +152,7 @@ DESCRIPTION:Panorama de la santé 2017 (fr)  - Les in
  rary export: 31 October 2017, 21:40 Pari
  s time (GMT+00:00)\nFreepreview export: 
  never\nFTI loaded: no.
-DTSTAMP:20171101T231243Z
+DTSTAMP:20171102T233301Z
 DTSTART:20171110T100000Z
 DTEND:20171110T101500Z
 TRANSP:TRANSPARENT
@@ -152,7 +183,7 @@ DESCRIPTION:Études économiques de l'OCDE : Suisse 20
  k, ePub.\n\niLibrary export: 31 October 
  2017, 21:40 Paris time (GMT+00:00)\nFree
  preview export: never\nFTI loaded: no.
-DTSTAMP:20171101T231243Z
+DTSTAMP:20171102T233301Z
 DTSTART:20171114T140000Z
 DTEND:20171114T141500Z
 TRANSP:TRANSPARENT
@@ -183,7 +214,7 @@ DESCRIPTION:OECD Economic Surveys: Switzerland 2017
  rback.\n\niLibrary export: 30 October 20
  17, 11:03 Paris time (GMT+00:00)\nFreepr
  eview export: never\nFTI loaded: no.
-DTSTAMP:20171101T231243Z
+DTSTAMP:20171102T233301Z
 DTSTART:20171114T140000Z
 DTEND:20171114T141500Z
 TRANSP:TRANSPARENT
@@ -213,7 +244,7 @@ DESCRIPTION:How's Life? 2017 (en)  - Measuring Well-
  niLibrary export: 30 October 2017, 11:03
   Paris time (GMT+00:00)\nFreepreview exp
  ort: never\nFTI loaded: no.
-DTSTAMP:20171101T231243Z
+DTSTAMP:20171102T233301Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -247,7 +278,7 @@ DESCRIPTION:Le recrutement des travailleurs immigrés
  3 Paris time (GMT+00:00)\nFreepreview ex
  port: 26 October 2017, 21:28 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171101T231243Z
+DTSTAMP:20171102T233301Z
 DTSTART:20171120T100000Z
 DTEND:20171120T101500Z
 TRANSP:TRANSPARENT
@@ -279,7 +310,7 @@ DESCRIPTION:Revenue Statistics: 1965-2016 (en)  by C
  Library export: 23 October 2017, 22:14 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20171101T231243Z
+DTSTAMP:20171102T233301Z
 DTSTART:20171123T100000Z
 DTEND:20171123T101500Z
 TRANSP:TRANSPARENT
@@ -312,7 +343,7 @@ DESCRIPTION:Statistiques des recettes publiques : 19
  ber 2017, 22:14 Paris time (GMT+00:00)\n
  Freepreview export: never\nFTI loaded: n
  o.
-DTSTAMP:20171101T231243Z
+DTSTAMP:20171102T233301Z
 DTSTART:20171123T100000Z
 DTEND:20171123T101500Z
 TRANSP:TRANSPARENT
@@ -330,30 +361,30 @@ END:VEVENT
 BEGIN:VEVENT
 UID:10.1787/9789264279698-fr
 SUMMARY:Examens environnementaux de l'OCDE: Suis
- se 2017 (fr) on 27 November 2017, 11:00 
+ se 2017 (fr) on 24 November 2017, 11:00 
  Paris time (GMT+02:00)
 DESCRIPTION:Examens environnementaux de l'OCDE: Suis
  se 2017 (fr)  by Environment Directorate
-  has an embargo date/time of 27 November
+  has an embargo date/time of 24 November
   2017, 11:00 Paris time (GMT+02:00).\n\n
  Directorate: Environment Directorate\nLa
  nguage: French\nDOI: https://doi.org/10.
  1787/9789264279698-fr\nPublication type:
-  Book\nReleased as: Paperback, PDF.\n\ni
- Library export: 31 October 2017, 21:40 P
- aris time (GMT+00:00)\nFreepreview expor
- t: never\nFTI loaded: no.
-DTSTAMP:20171101T231243Z
-DTSTART:20171127T090000Z
-DTEND:20171127T091500Z
+  Book\nReleased as: PDF, Paperback, ePub
+ .\n\niLibrary export: 31 October 2017, 2
+ 1:40 Paris time (GMT+00:00)\nFreepreview
+  export: never\nFTI loaded: no.
+DTSTAMP:20171102T233301Z
+DTSTART:20171124T090000Z
+DTEND:20171124T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT72H
+TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Examens environnementaux de l'
- OCDE: Suisse 2017 (fr) on 27 November 20
+ OCDE: Suisse 2017 (fr) on 24 November 20
  17, 11:00 Paris time (GMT+02:00)
 END:VALARM
 END:VEVENT
@@ -361,30 +392,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:10.1787/9789264279674-en
 SUMMARY:OECD Environmental Performance Reviews: 
- Switzerland 2017 (en) on 27 November 201
+ Switzerland 2017 (en) on 24 November 201
  7, 11:00 Paris time (GMT+02:00)
 DESCRIPTION:OECD Environmental Performance Reviews: 
  Switzerland 2017 (en)  by Environment Di
- rectorate has an embargo date/time of 27
+ rectorate has an embargo date/time of 24
   November 2017, 11:00 Paris time (GMT+02
  :00).\n\nDirectorate: Environment Direct
  orate\nLanguage: English\nDOI: https://d
  oi.org/10.1787/9789264279674-en\nPublica
- tion type: Book\nReleased as: Paperback,
-  PDF.\n\niLibrary export: 16 October 201
- 7, 20:11 Paris time (GMT+00:00)\nFreepre
- view export: never\nFTI loaded: no.
-DTSTAMP:20171101T231243Z
-DTSTART:20171127T090000Z
-DTEND:20171127T091500Z
+ tion type: Book\nReleased as: ePub, PDF,
+  Paperback.\n\niLibrary export: 16 Octob
+ er 2017, 20:11 Paris time (GMT+00:00)\nF
+ reepreview export: never\nFTI loaded: no
+ .
+DTSTAMP:20171102T233301Z
+DTSTART:20171124T090000Z
+DTEND:20171124T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT72H
+TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Environmental Performance
-  Reviews: Switzerland 2017 (en) on 27 No
+  Reviews: Switzerland 2017 (en) on 24 No
  vember 2017, 11:00 Paris time (GMT+02:00
  )
 END:VALARM
@@ -409,7 +441,7 @@ DESCRIPTION:Monitoring Health System Performance in
  33 Paris time (GMT+00:00)\nFreepreview e
  xport: 26 October 2017, 21:28 Paris time
   (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171101T231243Z
+DTSTAMP:20171102T233301Z
 DTSTART:20171129T230000Z
 DTEND:20171129T231500Z
 TRANSP:TRANSPARENT
@@ -442,7 +474,7 @@ DESCRIPTION:OECD Reviews of Health Systems: Peru 201
   2017, 20:35 Paris time (GMT+00:00)\nFre
  epreview export: 26 October 2017, 21:28 
  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171101T231243Z
+DTSTAMP:20171102T233301Z
 DTSTART:20171129T230000Z
 DTEND:20171129T231500Z
 TRANSP:TRANSPARENT
@@ -474,7 +506,7 @@ DESCRIPTION:OECD Reviews of School Resources: Chile
  0 October 2017, 21:33 Paris time (GMT+00
  :00)\nFreepreview export: never\nFTI loa
  ded: no.
-DTSTAMP:20171101T231243Z
+DTSTAMP:20171102T233301Z
 DTSTART:20171130T230000Z
 DTEND:20171130T231500Z
 TRANSP:TRANSPARENT
@@ -486,6 +518,68 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Reviews of School Resourc
  es: Chile (en) on 1 December 2017, 1:00 
  Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264283244-fr
+SUMMARY:Examens environnementaux de l'OCDE: Cana
+ da 2017 (fr) on 1 December 2017, 12:00 P
+ aris time (GMT+02:00)
+DESCRIPTION:Examens environnementaux de l'OCDE: Cana
+ da 2017 (fr)  by Environment Directorate
+  has an embargo date/time of 1 December 
+ 2017, 12:00 Paris time (GMT+02:00).\n\nD
+ irectorate: Environment Directorate\nLan
+ guage: French\nDOI: https://doi.org/10.1
+ 787/9789264283244-fr\nPublication type: 
+ Book\nReleased as: PDF, Paperback, ePub.
+ \n\niLibrary export: 26 October 2017, 20
+ :35 Paris time (GMT+00:00)\nFreepreview 
+ export: never\nFTI loaded: no.
+DTSTAMP:20171102T233301Z
+DTSTART:20171201T100000Z
+DTEND:20171201T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Examens environnementaux de l'
+ OCDE: Canada 2017 (fr) on 1 December 201
+ 7, 12:00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264279612-en
+SUMMARY:OECD Environmental Performance Reviews: 
+ Canada 2017 (en) on 1 December 2017, 12:
+ 00 Paris time (GMT+02:00)
+DESCRIPTION:OECD Environmental Performance Reviews: 
+ Canada 2017 (en)  by Environment Directo
+ rate has an embargo date/time of 1 Decem
+ ber 2017, 12:00 Paris time (GMT+02:00).\
+ n\nDirectorate: Environment Directorate\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/9789264279612-en\nPublication t
+ ype: Book\nReleased as: PDF, Paperback.\
+ n\niLibrary export: 25 October 2017, 20:
+ 43 Paris time (GMT+00:00)\nFreepreview e
+ xport: never\nFTI loaded: ✓.
+DTSTAMP:20171102T233301Z
+DTSTART:20171201T100000Z
+DTEND:20171201T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Environmental Performance
+  Reviews: Canada 2017 (en) on 1 December
+  2017, 12:00 Paris time (GMT+02:00)
 END:VALARM
 END:VEVENT
 
@@ -507,7 +601,7 @@ DESCRIPTION:Getting Skills Right: Italy (en)  by Dir
  aris time (GMT+00:00)\nFreepreview expor
  t: 3 October 2017, 21:12 Paris time (GMT
  +00:00)\nFTI loaded: ✓.
-DTSTAMP:20171101T231243Z
+DTSTAMP:20171102T233301Z
 DTSTART:20171221T090000Z
 DTEND:20171221T091500Z
 TRANSP:TRANSPARENT
