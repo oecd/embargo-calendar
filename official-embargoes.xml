@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2017-11-02T23:32:55.264+01:00" count="248">
+<report name="official-embargoes" generated="2017-11-04T01:02:28.386+01:00" count="237">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -193,33 +193,33 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="12">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264283244-fr</cell>
-    <cell name="title">Examens environnementaux de l'OCDE: Canada 2017 (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264281370-en</cell>
+    <cell name="title">Boosting Disaster Prevention through Innovative Risk Governance (en)</cell>
+    <cell name="subtitle">Insights from Austria, France and Switzerland (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
     <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2017-12-01</cell>
-    <cell name="embargo date">2017-12-01T10:00:00Z</cell>
-    <cell name="launch date/time">2017-12-01T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-10-26T20:35:10.117Z</cell>
+    <cell name="date of publication">2017-12-04</cell>
+    <cell name="embargo date">2017-12-04T09:00:00Z</cell>
+    <cell name="launch date/time">2017-12-04T09:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
   <row index="13">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264283244-fr</cell>
-    <cell name="title">Examens environnementaux de l'OCDE: Canada 2017 (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">Paperback</cell>
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264281370-en</cell>
+    <cell name="title">Boosting Disaster Prevention through Innovative Risk Governance (en)</cell>
+    <cell name="subtitle">Insights from Austria, France and Switzerland (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2017-12-01</cell>
-    <cell name="embargo date">2017-12-01T10:00:00Z</cell>
-    <cell name="launch date/time">2017-12-01T10:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
+    <cell name="date of publication">2017-12-04</cell>
+    <cell name="embargo date">2017-12-04T09:00:00Z</cell>
+    <cell name="launch date/time">2017-12-04T09:00:00Z</cell>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -235,12 +235,44 @@
     <cell name="date of publication">2017-12-01</cell>
     <cell name="embargo date">2017-12-01T10:00:00Z</cell>
     <cell name="launch date/time">2017-12-01T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-10-26T20:35:10.117Z</cell>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
   <row index="15">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264283244-fr</cell>
+    <cell name="title">Examens environnementaux de l'OCDE: Canada 2017 (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2017-12-01</cell>
+    <cell name="embargo date">2017-12-01T10:00:00Z</cell>
+    <cell name="launch date/time">2017-12-01T10:00:00Z</cell>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="16">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264283244-fr</cell>
+    <cell name="title">Examens environnementaux de l'OCDE: Canada 2017 (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2017-12-01</cell>
+    <cell name="embargo date">2017-12-01T10:00:00Z</cell>
+    <cell name="launch date/time">2017-12-01T10:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="17">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Canada 2017 (en)</cell>
@@ -251,12 +283,12 @@
     <cell name="date of publication">2017-12-01</cell>
     <cell name="embargo date">2017-12-01T10:00:00Z</cell>
     <cell name="launch date/time">2017-12-01T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-10-25T20:43:01.403Z</cell>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="16">
+  <row index="18">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Canada 2017 (en)</cell>
@@ -272,7 +304,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="17">
+  <row index="19">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264285637-en</cell>
     <cell name="title">OECD Reviews of School Resources: Chile (en)</cell>
@@ -288,7 +320,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="18">
+  <row index="20">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264285637-en</cell>
     <cell name="title">OECD Reviews of School Resources: Chile (en)</cell>
@@ -304,7 +336,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="19">
+  <row index="21">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264285637-en</cell>
     <cell name="title">OECD Reviews of School Resources: Chile (en)</cell>
@@ -320,7 +352,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="20">
+  <row index="22">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264282735-6-en</cell>
     <cell name="title">Access and quality of health in Peru (en)</cell>
@@ -336,7 +368,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="21">
+  <row index="23">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264282735-2-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -352,7 +384,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="22">
+  <row index="24">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264282988-2-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -368,7 +400,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="23">
+  <row index="25">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264282988-4-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -384,7 +416,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="24">
+  <row index="26">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264282735-4-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -400,7 +432,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="25">
+  <row index="27">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264282735-3-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -416,7 +448,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="26">
+  <row index="28">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264282988-3-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -432,7 +464,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="27">
+  <row index="29">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264282735-1-en</cell>
     <cell name="title">Foreword and acknowledgements (en)</cell>
@@ -448,7 +480,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="28">
+  <row index="30">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264282988-1-en</cell>
     <cell name="title">Foreword and acknowledgements (en)</cell>
@@ -464,7 +496,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="29">
+  <row index="31">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264282735-5-en</cell>
     <cell name="title">Health and health care in Peru (en)</cell>
@@ -480,7 +512,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="30">
+  <row index="32">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264282988-9-en</cell>
     <cell name="title">Health care activities in Peru (en)</cell>
@@ -496,7 +528,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="31">
+  <row index="33">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264282988-10-en</cell>
     <cell name="title">Health care quality in Peru (en)</cell>
@@ -512,7 +544,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="32">
+  <row index="34">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264282988-7-en</cell>
     <cell name="title">Health expenditure and financing in Peru (en)</cell>
@@ -528,7 +560,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="33">
+  <row index="35">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264282988-8-en</cell>
     <cell name="title">Human and physical resources in Peru (en)</cell>
@@ -544,7 +576,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="34">
+  <row index="36">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264282988-5-en</cell>
     <cell name="title">Introduction and overview of Peru and its health system (en)</cell>
@@ -560,7 +592,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="35">
+  <row index="37">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264282988-en</cell>
     <cell name="title">Monitoring Health System Performance in Peru (en)</cell>
@@ -576,7 +608,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="36">
+  <row index="38">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264282988-en</cell>
     <cell name="title">Monitoring Health System Performance in Peru (en)</cell>
@@ -592,7 +624,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="37">
+  <row index="39">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264282735-en</cell>
     <cell name="title">OECD Reviews of Health Systems: Peru 2017 (en)</cell>
@@ -608,7 +640,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="38">
+  <row index="40">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264282735-en</cell>
     <cell name="title">OECD Reviews of Health Systems: Peru 2017 (en)</cell>
@@ -624,7 +656,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="39">
+  <row index="41">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264282735-7-en</cell>
     <cell name="title">Sustainability and efficiency of Peru's government-funded health system (en)</cell>
@@ -640,7 +672,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="40">
+  <row index="42">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264282988-6-en</cell>
     <cell name="title">The Peruvian health information system (en)</cell>
@@ -656,23 +688,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="41">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264279698-fr</cell>
-    <cell name="title">Examens environnementaux de l'OCDE: Suisse 2017 (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2017-11-27</cell>
-    <cell name="embargo date">2017-11-24T09:00:00Z</cell>
-    <cell name="launch date/time">2017-11-24T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-10-31T21:40:41.313Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="42">
+  <row index="43">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279698-fr</cell>
     <cell name="title">Examens environnementaux de l'OCDE: Suisse 2017 (fr)</cell>
@@ -688,7 +704,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="43">
+  <row index="44">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279698-fr</cell>
     <cell name="title">Examens environnementaux de l'OCDE: Suisse 2017 (fr)</cell>
@@ -699,39 +715,23 @@
     <cell name="date of publication">2017-11-27</cell>
     <cell name="embargo date">2017-11-24T09:00:00Z</cell>
     <cell name="launch date/time">2017-11-24T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-10-31T21:40:41.313Z</cell>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="44">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264279674-en</cell>
-    <cell name="title">OECD Environmental Performance Reviews: Switzerland 2017 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2017-11-27</cell>
-    <cell name="embargo date">2017-11-24T09:00:00Z</cell>
-    <cell name="launch date/time">2017-11-24T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-10-16T20:11:56.047Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
   <row index="45">
     <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264279674-en</cell>
-    <cell name="title">OECD Environmental Performance Reviews: Switzerland 2017 (en)</cell>
+    <cell name="doi">10.1787/9789264279698-fr</cell>
+    <cell name="title">Examens environnementaux de l'OCDE: Suisse 2017 (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">English</cell>
+    <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2017-11-27</cell>
     <cell name="embargo date">2017-11-24T09:00:00Z</cell>
     <cell name="launch date/time">2017-11-24T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-10-16T20:11:56.047Z</cell>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -753,35 +753,35 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="47">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9789264283183-en</cell>
-    <cell name="title">Revenue Statistics: 1965-2016 (en)</cell>
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264279674-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: Switzerland 2017 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2017-11-27</cell>
+    <cell name="embargo date">2017-11-24T09:00:00Z</cell>
+    <cell name="launch date/time">2017-11-24T09:00:00Z</cell>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="48">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264279674-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: Switzerland 2017 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2017-11-23</cell>
-    <cell name="embargo date">2017-11-23T10:00:00Z</cell>
-    <cell name="launch date/time">2017-11-23T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-10-23T22:14:32Z</cell>
+    <cell name="date of publication">2017-11-27</cell>
+    <cell name="embargo date">2017-11-24T09:00:00Z</cell>
+    <cell name="launch date/time">2017-11-24T09:00:00Z</cell>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="48">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9789264283183-en</cell>
-    <cell name="title">Revenue Statistics: 1965-2016 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2017-11-23</cell>
-    <cell name="embargo date">2017-11-23T10:00:00Z</cell>
-    <cell name="launch date/time">2017-11-23T10:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
   <row index="49">
@@ -790,7 +790,7 @@
     <cell name="title">Revenue Statistics: 1965-2016 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">ePub</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2017-11-23</cell>
     <cell name="embargo date">2017-11-23T10:00:00Z</cell>
@@ -802,6 +802,38 @@
   </row>
   <row index="50">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264283183-en</cell>
+    <cell name="title">Revenue Statistics: 1965-2016 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2017-11-23</cell>
+    <cell name="embargo date">2017-11-23T10:00:00Z</cell>
+    <cell name="launch date/time">2017-11-23T10:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="51">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264283183-en</cell>
+    <cell name="title">Revenue Statistics: 1965-2016 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2017-11-23</cell>
+    <cell name="embargo date">2017-11-23T10:00:00Z</cell>
+    <cell name="launch date/time">2017-11-23T10:00:00Z</cell>
+    <cell name="ilibrary last export date">2017-10-23T22:14:32Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="52">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264283206-fr</cell>
     <cell name="title">Statistiques des recettes publiques : 1965-2016 (fr)</cell>
     <cell name="subtitle"/>
@@ -816,7 +848,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="51">
+  <row index="53">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264283206-fr</cell>
     <cell name="title">Statistiques des recettes publiques : 1965-2016 (fr)</cell>
@@ -832,7 +864,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="52">
+  <row index="54">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264283206-fr</cell>
     <cell name="title">Statistiques des recettes publiques : 1965-2016 (fr)</cell>
@@ -848,7 +880,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="53">
+  <row index="55">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264276741-2-fr</cell>
     <cell name="title">Acronymes et abréviations (fr)</cell>
@@ -864,7 +896,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="54">
+  <row index="56">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264276741-1-fr</cell>
     <cell name="title">Avant-propos et remerciements (fr)</cell>
@@ -880,7 +912,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="55">
+  <row index="57">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264276741-3-fr</cell>
     <cell name="title">Avertissement aux lecteurs (fr)</cell>
@@ -896,7 +928,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="56">
+  <row index="58">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264276741-5-fr</cell>
     <cell name="title">Évaluation et recommandations (fr)</cell>
@@ -912,7 +944,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="57">
+  <row index="59">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264276741-10-fr</cell>
     <cell name="title">Gestion des titres soumis au test du marché du travail en France (fr)</cell>
@@ -928,7 +960,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="58">
+  <row index="60">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264276741-12-fr</cell>
     <cell name="title">L'immigration de travail irrégulière et les admissions exceptionnelles au séjour pour motif d'emploi en France (fr)</cell>
@@ -944,7 +976,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="59">
+  <row index="61">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264276741-11-fr</cell>
     <cell name="title">L'immigration de travailleurs saisonniers en France (fr)</cell>
@@ -960,7 +992,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="60">
+  <row index="62">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264276741-6-fr</cell>
     <cell name="title">La place de l'immigration de travail dans les dispositifs d'administration des étrangers en France (1984-2016) (fr)</cell>
@@ -976,7 +1008,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="61">
+  <row index="63">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264276741-fr</cell>
     <cell name="title">Le recrutement des travailleurs immigrés: France 2017 (fr)</cell>
@@ -992,7 +1024,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="62">
+  <row index="64">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264276741-fr</cell>
     <cell name="title">Le recrutement des travailleurs immigrés: France 2017 (fr)</cell>
@@ -1008,7 +1040,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="63">
+  <row index="65">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264276741-7-fr</cell>
     <cell name="title">Le rôle des migrations sur le marché du travail en France (fr)</cell>
@@ -1024,7 +1056,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="64">
+  <row index="66">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264276741-8-fr</cell>
     <cell name="title">Le rôle et l'efficacité des titres existants pour le recrutement des migrants qualifiés en France (fr)</cell>
@@ -1040,7 +1072,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="65">
+  <row index="67">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264276741-13-fr</cell>
     <cell name="title">Les accords relatifs à la gestion concertée des flux migratoires en France (fr)</cell>
@@ -1056,7 +1088,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="66">
+  <row index="68">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264276741-4-fr</cell>
     <cell name="title">Résumé (fr)</cell>
@@ -1072,7 +1104,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="67">
+  <row index="69">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264276741-9-fr</cell>
     <cell name="title">Sélection et maintien au séjour des étudiants étrangers de pays tiers en France (fr)</cell>
@@ -1088,7 +1120,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="68">
+  <row index="70">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/how_life-2017-en</cell>
     <cell name="title">How's Life? 2017 (en)</cell>
@@ -1104,7 +1136,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="69">
+  <row index="71">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/how_life-2017-en</cell>
     <cell name="title">How's Life? 2017 (en)</cell>
@@ -1120,7 +1152,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="70">
+  <row index="72">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/how_life-2017-en</cell>
     <cell name="title">How's Life? 2017 (en)</cell>
@@ -1134,38 +1166,6 @@
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="71">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_surveys-che-2017-fr</cell>
-    <cell name="title">Études économiques de l'OCDE : Suisse 2017 (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2017-11-14</cell>
-    <cell name="embargo date">2017-11-14T14:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-31T21:40:41.313Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="72">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_surveys-che-2017-fr</cell>
-    <cell name="title">Études économiques de l'OCDE : Suisse 2017 (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2017-11-14</cell>
-    <cell name="embargo date">2017-11-14T14:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
   </row>
   <row index="73">
@@ -1174,7 +1174,7 @@
     <cell name="title">Études économiques de l'OCDE : Suisse 2017 (fr)</cell>
     <cell name="subtitle"/>
     <cell name="language">French</cell>
-    <cell name="medium">ePub</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2017-11-14</cell>
     <cell name="embargo date">2017-11-14T14:00:00Z</cell>
@@ -1186,6 +1186,38 @@
   </row>
   <row index="74">
     <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-che-2017-fr</cell>
+    <cell name="title">Études économiques de l'OCDE : Suisse 2017 (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2017-11-14</cell>
+    <cell name="embargo date">2017-11-14T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="75">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-che-2017-fr</cell>
+    <cell name="title">Études économiques de l'OCDE : Suisse 2017 (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2017-11-14</cell>
+    <cell name="embargo date">2017-11-14T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2017-10-31T21:40:41.313Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="76">
+    <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-che-2017-en</cell>
     <cell name="title">OECD Economic Surveys: Switzerland 2017 (en)</cell>
     <cell name="subtitle"/>
@@ -1200,7 +1232,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="75">
+  <row index="77">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-che-2017-en</cell>
     <cell name="title">OECD Economic Surveys: Switzerland 2017 (en)</cell>
@@ -1216,7 +1248,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="76">
+  <row index="78">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-che-2017-en</cell>
     <cell name="title">OECD Economic Surveys: Switzerland 2017 (en)</cell>
@@ -1232,7 +1264,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="77">
+  <row index="79">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/health_glance-2017-en</cell>
     <cell name="title">Health at a Glance 2017 (en)</cell>
@@ -1248,44 +1280,12 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="78">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/health_glance-2017-en</cell>
-    <cell name="title">Health at a Glance 2017 (en)</cell>
-    <cell name="subtitle">OECD Indicators (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2017-11-10</cell>
-    <cell name="embargo date">2017-11-10T10:00:00Z</cell>
-    <cell name="launch date/time">2017-11-10T10:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="79">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/health_glance-2017-en</cell>
-    <cell name="title">Health at a Glance 2017 (en)</cell>
-    <cell name="subtitle">OECD Indicators (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2017-11-10</cell>
-    <cell name="embargo date">2017-11-10T10:00:00Z</cell>
-    <cell name="launch date/time">2017-11-10T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-10-20T09:07:21.307Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
   <row index="80">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/health_glance-2017-fr</cell>
-    <cell name="title">Panorama de la santé 2017 (fr)</cell>
-    <cell name="subtitle">Les indicateurs de l'OCDE (fr)</cell>
-    <cell name="language">French</cell>
+    <cell name="doi">10.1787/health_glance-2017-en</cell>
+    <cell name="title">Health at a Glance 2017 (en)</cell>
+    <cell name="subtitle">OECD Indicators (en)</cell>
+    <cell name="language">English</cell>
     <cell name="medium">ePub</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2017-11-10</cell>
@@ -1298,6 +1298,38 @@
   </row>
   <row index="81">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/health_glance-2017-en</cell>
+    <cell name="title">Health at a Glance 2017 (en)</cell>
+    <cell name="subtitle">OECD Indicators (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2017-11-10</cell>
+    <cell name="embargo date">2017-11-10T10:00:00Z</cell>
+    <cell name="launch date/time">2017-11-10T10:00:00Z</cell>
+    <cell name="ilibrary last export date">2017-10-20T09:07:21.307Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="82">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/health_glance-2017-fr</cell>
+    <cell name="title">Panorama de la santé 2017 (fr)</cell>
+    <cell name="subtitle">Les indicateurs de l'OCDE (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2017-11-10</cell>
+    <cell name="embargo date">2017-11-10T10:00:00Z</cell>
+    <cell name="launch date/time">2017-11-10T10:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="83">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/health_glance-2017-fr</cell>
     <cell name="title">Panorama de la santé 2017 (fr)</cell>
     <cell name="subtitle">Les indicateurs de l'OCDE (fr)</cell>
@@ -1312,7 +1344,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="82">
+  <row index="84">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/health_glance-2017-fr</cell>
     <cell name="title">Panorama de la santé 2017 (fr)</cell>
@@ -1328,7 +1360,23 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="83">
+  <row index="85">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/2d01150c-en</cell>
+    <cell name="title">Where to get the best bang for the buck in the United Kingdom? (en)</cell>
+    <cell name="subtitle">Industrial strategy, investment and lagging regions (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2017-11-06</cell>
+    <cell name="embargo date">2017-11-06T09:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2017-11-03T21:56:10.988Z</cell>
+    <cell name="freepreview last export date">2017-11-03T22:55:46.236Z</cell>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="86">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-3-en</cell>
     <cell name="title">A brief overview of financial accounts and balance sheets (en)</cell>
@@ -1339,12 +1387,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="84">
+  <row index="87">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table83-en</cell>
     <cell name="title">A comprehensive balance sheet for Australia and France, 2015 (en)</cell>
@@ -1355,12 +1403,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="85">
+  <row index="88">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-11-en</cell>
     <cell name="title">A full accounting for wealth: Including non-financial assets (en)</cell>
@@ -1371,12 +1419,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="86">
+  <row index="89">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-12-en</cell>
     <cell name="title">Accounting for the financial consequences of demographic changes (en)</cell>
@@ -1387,12 +1435,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="87">
+  <row index="90">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph114-en</cell>
     <cell name="title">Accumulation of households' net assets: changes in household net worth, 2002-17 (en)</cell>
@@ -1403,12 +1451,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="88">
+  <row index="91">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table103-en</cell>
     <cell name="title">Actuarial balance sheet for the Canada Pension Plan at 31 December 2012 (en)</cell>
@@ -1419,12 +1467,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="89">
+  <row index="92">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph4-en</cell>
     <cell name="title">Alternative measures of household disposable income, Australia, 2006-16 (en)</cell>
@@ -1435,12 +1483,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="90">
+  <row index="93">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table10-en</cell>
     <cell name="title">Australian bank deposit market (en)</cell>
@@ -1451,12 +1499,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="91">
+  <row index="94">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table13-en</cell>
     <cell name="title">Australian demand for credit and credit outstanding by non-financial sectors (en)</cell>
@@ -1467,12 +1515,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="92">
+  <row index="95">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph14-en</cell>
     <cell name="title">Australian demand for credit by non-financial sectors (en)</cell>
@@ -1483,12 +1531,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="93">
+  <row index="96">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table6-en</cell>
     <cell name="title">Australian equity market (en)</cell>
@@ -1499,12 +1547,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="94">
+  <row index="97">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table11-en</cell>
     <cell name="title">Australian loan market (en)</cell>
@@ -1515,12 +1563,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="95">
+  <row index="98">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph73-en</cell>
     <cell name="title">Balance of payments for selected stressed EU countries,* 2005-16 (en)</cell>
@@ -1531,12 +1579,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="96">
+  <row index="99">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph82-en</cell>
     <cell name="title">Balance of payments' internal consistency indicator for Portugal, 2006-16 (en)</cell>
@@ -1547,12 +1595,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="97">
+  <row index="100">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph28-en</cell>
     <cell name="title">Balance sheet developments of other financial intermediaries, investment funds (IFs) and financial vehicle companies (FVCs) in the Euro Area, 1999-2016 (en)</cell>
@@ -1563,12 +1611,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="98">
+  <row index="101">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table2-en</cell>
     <cell name="title">Balance sheet example for the non-financial corporations' sector (en)</cell>
@@ -1579,12 +1627,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="99">
+  <row index="102">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table55-en</cell>
     <cell name="title">Canadian non-financial corporations' holdings of financial assets (en)</cell>
@@ -1595,12 +1643,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="100">
+  <row index="103">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph116-en</cell>
     <cell name="title">Capital position of the financial corporations' sector (excluding investment funds) in the Euro Area, 1999-2017 (en)</cell>
@@ -1611,12 +1659,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="101">
+  <row index="104">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph23-en</cell>
     <cell name="title">Central bank balance sheets – total assets (en)</cell>
@@ -1627,12 +1675,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="102">
+  <row index="105">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table98-en</cell>
     <cell name="title">Changes in age-related spending, 2000-50 (en)</cell>
@@ -1643,12 +1691,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="103">
+  <row index="106">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph35-en</cell>
     <cell name="title">Changes in household financial wealth: contribution of financial transactions versus other changes in assets, 1995-2014 (en)</cell>
@@ -1659,12 +1707,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="104">
+  <row index="107">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph54-en</cell>
     <cell name="title">Changes in the market value of Canadian non-financial corporations' sector equity – revaluations versus transactions (en)</cell>
@@ -1675,12 +1723,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="105">
+  <row index="108">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph31-en</cell>
     <cell name="title">Composition of assets held by insurance corporations and pension funds in OECD countries,* 2007-16 (en)</cell>
@@ -1691,12 +1739,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="106">
+  <row index="109">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph65-en</cell>
     <cell name="title">Composition of general government (EDP) debt, by instrument, 2000-16 (en)</cell>
@@ -1707,12 +1755,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="107">
+  <row index="110">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph64-en</cell>
     <cell name="title">Composition of general government financial assets, by instrument, 2000-16 (en)</cell>
@@ -1723,12 +1771,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="108">
+  <row index="111">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table66-en</cell>
     <cell name="title">Consolidated gross government debt for Canada at nominal value, 31 December 2016 (en)</cell>
@@ -1739,12 +1787,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="109">
+  <row index="112">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph70-en</cell>
     <cell name="title">Current account for selected EU countries, 2005-16 (en)</cell>
@@ -1755,12 +1803,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="110">
+  <row index="113">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph76-en</cell>
     <cell name="title">Current and capital accounts and financial accounts for selected stressed EU countries,* 2005-16 (en)</cell>
@@ -1771,12 +1819,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="111">
+  <row index="114">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph75-en</cell>
     <cell name="title">Current and capital accounts and GDP growth for selected stressed EU countries,* 2005-16 (en)</cell>
@@ -1787,12 +1835,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="112">
+  <row index="115">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph41-en</cell>
     <cell name="title">Debt and debt service ratios of households in OECD countries, 2016 (en)</cell>
@@ -1803,12 +1851,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="113">
+  <row index="116">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table52-en</cell>
     <cell name="title">Debt raised on money and capital markets, Canadian non-financial corporations (en)</cell>
@@ -1819,12 +1867,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="114">
+  <row index="117">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph17-en</cell>
     <cell name="title">Debt securities: exposure to the other institutional sectors (en)</cell>
@@ -1835,12 +1883,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="115">
+  <row index="118">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-9-en</cell>
     <cell name="title">Deficit and debt of general government and public sector (en)</cell>
@@ -1851,12 +1899,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="116">
+  <row index="119">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph97-en</cell>
     <cell name="title">Demographic changes for OECD countries, 1950-2050 (en)</cell>
@@ -1867,12 +1915,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="117">
+  <row index="120">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph29-en</cell>
     <cell name="title">Density of life insurance in OECD countries, 2015 (en)</cell>
@@ -1883,12 +1931,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="118">
+  <row index="121">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph96-en</cell>
     <cell name="title">Dependency ratio and saving ratio in Japan (en)</cell>
@@ -1899,12 +1947,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="119">
+  <row index="122">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph99-en</cell>
     <cell name="title">Dependency ratio: population in retirement age (65+) to working age population (20-64) (en)</cell>
@@ -1915,12 +1963,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="120">
+  <row index="123">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph91-en</cell>
     <cell name="title">Development of net worth in France, 1995-2015 (en)</cell>
@@ -1931,12 +1979,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="121">
+  <row index="124">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph86-en</cell>
     <cell name="title">Distribution of net worth across institutional sectors, France (en)</cell>
@@ -1947,12 +1995,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="122">
+  <row index="125">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph90-en</cell>
     <cell name="title">Dwellings (including underlying land) versus mortgage loans (en)</cell>
@@ -1963,12 +2011,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="123">
+  <row index="126">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-2-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1979,12 +2027,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="124">
+  <row index="127">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph115-en</cell>
     <cell name="title">External financing of non-financial corporations in the Euro Area, 2002-17 (en)</cell>
@@ -1995,12 +2043,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="125">
+  <row index="128">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph80-en</cell>
     <cell name="title">FDI liabilities in OECD selected countries by type of entity, 2015-16 (en)</cell>
@@ -2011,12 +2059,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="126">
+  <row index="129">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph32-en</cell>
     <cell name="title">Final consumption of households (en)</cell>
@@ -2027,12 +2075,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="127">
+  <row index="130">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table24-en</cell>
     <cell name="title">Financial account balance sheets of other depository corporations in OECD countries, 2015 (en)</cell>
@@ -2043,12 +2091,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="128">
+  <row index="131">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-4-en</cell>
     <cell name="title">Financial accounts and balance sheets within the System of National Accounts (en)</cell>
@@ -2059,12 +2107,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="129">
+  <row index="132">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph119-en</cell>
     <cell name="title">Financial accounts and balance sheets: Large Euro Area countries (en)</cell>
@@ -2075,12 +2123,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="130">
+  <row index="133">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph120-en</cell>
     <cell name="title">Financial accounts and balance sheets: Large non-Euro Area countries (en)</cell>
@@ -2091,12 +2139,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="131">
+  <row index="134">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph121-en</cell>
     <cell name="title">Financial accounts and balance sheets: small Euro Area countries (en)</cell>
@@ -2107,12 +2155,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="132">
+  <row index="135">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-14-en</cell>
     <cell name="title">Financial accounts uses (en)</cell>
@@ -2123,12 +2171,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="133">
+  <row index="136">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph108-en</cell>
     <cell name="title">Financial and business cycles in the United States, 1970-2016 (en)</cell>
@@ -2139,12 +2187,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="134">
+  <row index="137">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph113-en</cell>
     <cell name="title">Financial investments of households in the Euro Area, 2002-17 (en)</cell>
@@ -2155,12 +2203,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="135">
+  <row index="138">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table123-en</cell>
     <cell name="title">Financial liabilities of financial corporations as a ratio of total financial liabilities, 2015 (en)</cell>
@@ -2171,12 +2219,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="136">
+  <row index="139">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph18-en</cell>
     <cell name="title">Flow of funds chart (en)</cell>
@@ -2187,12 +2235,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="137">
+  <row index="140">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-1-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2203,12 +2251,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="138">
+  <row index="141">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table3-en</cell>
     <cell name="title">From-whom-to-whom matrix for long-term loans, Netherlands, 2014 (en)</cell>
@@ -2219,12 +2267,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="139">
+  <row index="142">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table16-en</cell>
     <cell name="title">FWTW table for stocks of debt securities (en)</cell>
@@ -2235,12 +2283,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="140">
+  <row index="143">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table15-en</cell>
     <cell name="title">FWTW table for transactions in debt securities (en)</cell>
@@ -2251,12 +2299,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="141">
+  <row index="144">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph5-en</cell>
     <cell name="title">General government debt securities: market value versus nominal value, as a percentage of GDP, 2007 and 2013* (en)</cell>
@@ -2267,12 +2315,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="142">
+  <row index="145">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph67-en</cell>
     <cell name="title">General government gross debt, 2000-17 (en)</cell>
@@ -2283,12 +2331,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="143">
+  <row index="146">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph62-en</cell>
     <cell name="title">General government net lending/net borrowing for G7 countries, 2000-17 (en)</cell>
@@ -2299,12 +2347,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="144">
+  <row index="147">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph9-en</cell>
     <cell name="title">Geographical distribution of global foreign exchange market turnover (en)</cell>
@@ -2315,12 +2363,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="145">
+  <row index="148">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-13-en</cell>
     <cell name="title">Globalisation, financial innovation and crises (en)</cell>
@@ -2331,12 +2379,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="146">
+  <row index="149">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph78-en</cell>
     <cell name="title">Gross and net external debt for selected EU countries, 31 December 2016 (en)</cell>
@@ -2347,12 +2395,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="147">
+  <row index="150">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph81-en</cell>
     <cell name="title">Gross external debt change for selected EU countries, 2016 (en)</cell>
@@ -2363,12 +2411,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="148">
+  <row index="151">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph1-en</cell>
     <cell name="title">Gross general government debt (en)</cell>
@@ -2379,12 +2427,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="149">
+  <row index="152">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph92-en</cell>
     <cell name="title">Gross investments in non-financial assets, OECD, 1996-2015 (en)</cell>
@@ -2395,12 +2443,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="150">
+  <row index="153">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph8-en</cell>
     <cell name="title">Holding sectors of the Australian bank money market securities (en)</cell>
@@ -2411,12 +2459,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="151">
+  <row index="154">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph105-en</cell>
     <cell name="title">Household assets and liabilities per capita in USD, 2013 * (en)</cell>
@@ -2427,12 +2475,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="152">
+  <row index="155">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph33-en</cell>
     <cell name="title">Household financial and non-financial investment of selected OECD countries* (en)</cell>
@@ -2443,12 +2491,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="153">
+  <row index="156">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph34-en</cell>
     <cell name="title">Household wealth in equity, 2015 (en)</cell>
@@ -2459,12 +2507,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="154">
+  <row index="157">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table124-en</cell>
     <cell name="title">Household wealth: ratios to GDP, 2013 (en)</cell>
@@ -2475,12 +2523,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="155">
+  <row index="158">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-7-en</cell>
     <cell name="title">Households and their financial behaviour (en)</cell>
@@ -2491,12 +2539,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="156">
+  <row index="159">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph50-en</cell>
     <cell name="title">Internal sources (gross saving) and external sources (change in liabilities) of funds of non-financial corporations in Germany and the United States (en)</cell>
@@ -2507,12 +2555,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="157">
+  <row index="160">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table71-en</cell>
     <cell name="title">Japanese balance of payments standard presentation (simplified), 2016 (en)</cell>
@@ -2523,12 +2571,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="158">
+  <row index="161">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table72-en</cell>
     <cell name="title">Japanese IIP summary presentation, Q4 2016 (en)</cell>
@@ -2539,12 +2587,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="159">
+  <row index="162">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph85-en</cell>
     <cell name="title">Land underlying dwellings estimated with direct and residual method, Finland, 1985-2011 (en)</cell>
@@ -2555,12 +2603,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="160">
+  <row index="163">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph40-en</cell>
     <cell name="title">Level and composition of households' financial assets* (en)</cell>
@@ -2571,12 +2619,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="161">
+  <row index="164">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph49-en</cell>
     <cell name="title">Liquid assets of Canadian non-financial corporations (en)</cell>
@@ -2587,12 +2635,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="162">
+  <row index="165">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph53-en</cell>
     <cell name="title">Loans and debt securities, short-term versus long-term, 2014 (en)</cell>
@@ -2603,12 +2651,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="163">
+  <row index="166">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph56-en</cell>
     <cell name="title">Loans versus debt securities of non-financial corporations, 2015 (en)</cell>
@@ -2619,12 +2667,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="164">
+  <row index="167">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph118-en</cell>
     <cell name="title">MIP Private sector credit flow (consolidated) in European countries,* 2012-15 (en)</cell>
@@ -2635,12 +2683,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="165">
+  <row index="168">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph117-en</cell>
     <cell name="title">MIP: Private sector debt (consolidated) in European countries,* 2011 and 2015 (en)</cell>
@@ -2651,12 +2699,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="166">
+  <row index="169">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph59-en</cell>
     <cell name="title">Net asset value versus equity (market value) for non-financial corporations in Canada (en)</cell>
@@ -2667,12 +2715,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="167">
+  <row index="170">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph51-en</cell>
     <cell name="title">Net equity issuance and growth in real GDP, Canadian non-financial corporations (en)</cell>
@@ -2683,12 +2731,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="168">
+  <row index="171">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph79-en</cell>
     <cell name="title">Net external debt* and IIP for selected EU countries, 31 December 2016 (en)</cell>
@@ -2699,12 +2747,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="169">
+  <row index="172">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph38-en</cell>
     <cell name="title">Net lending for households as nearly-consistent net borrowers, 1995-2014 (en)</cell>
@@ -2715,12 +2763,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="170">
+  <row index="173">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph37-en</cell>
     <cell name="title">Net lending for households changing from net lenders to net borrowers, and vice versa, 1995-2014 (en)</cell>
@@ -2731,12 +2779,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="171">
+  <row index="174">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph36-en</cell>
     <cell name="title">Net lending for households consistently being net lenders, 1995-2014 (en)</cell>
@@ -2747,12 +2795,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="172">
+  <row index="175">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph44-en</cell>
     <cell name="title">Net lending/net borrowing and net operating surplus of non-financial corporations, Canada (en)</cell>
@@ -2763,12 +2811,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="173">
+  <row index="176">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph45-en</cell>
     <cell name="title">Net operating surplus and non-financial investments of non-financial corporations, Canada (en)</cell>
@@ -2779,12 +2827,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="174">
+  <row index="177">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph26-en</cell>
     <cell name="title">Net transactions in loans for MFIs and OFIs in the United States and the Euro Area, 1999-2016 (en)</cell>
@@ -2795,12 +2843,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="175">
+  <row index="178">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table88-en</cell>
     <cell name="title">Net worth of non-financial corporations, Australia and France (en)</cell>
@@ -2811,12 +2859,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="176">
+  <row index="179">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table47-en</cell>
     <cell name="title">Non-financial assets held by non-financial corporations, 2014 (en)</cell>
@@ -2827,12 +2875,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="177">
+  <row index="180">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table87-en</cell>
     <cell name="title">Non-financial assets of non-financial corporations, by type of asset, Australia and France, 2015 (en)</cell>
@@ -2843,12 +2891,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="178">
+  <row index="181">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table89-en</cell>
     <cell name="title">Non-financial assets of the government sector, 2015 (en)</cell>
@@ -2859,12 +2907,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="179">
+  <row index="182">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table84-en</cell>
     <cell name="title">Non-financial assets, by type of asset, France (en)</cell>
@@ -2875,12 +2923,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="180">
+  <row index="183">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table43-en</cell>
     <cell name="title">Non-financial corporations' gross fixed capital formation to total gross fixed capital formation, 2014 (en)</cell>
@@ -2891,12 +2939,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="181">
+  <row index="184">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph58-en</cell>
     <cell name="title">Non-financial corporations' leverage, Canada (en)</cell>
@@ -2907,12 +2955,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="182">
+  <row index="185">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph57-en</cell>
     <cell name="title">Non-financial corporations' liquidity ratio, Canada (en)</cell>
@@ -2923,12 +2971,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="183">
+  <row index="186">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table42-en</cell>
     <cell name="title">Non-financial corporations' output to total output, 2014 (en)</cell>
@@ -2939,12 +2987,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="184">
+  <row index="187">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph27-en</cell>
     <cell name="title">OFI balance sheet developments compared to MFIs and ICPFs, OECD countries,* 2007-15 (en)</cell>
@@ -2955,12 +3003,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="185">
+  <row index="188">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph122-en</cell>
     <cell name="title">Other financial intermediaries (en)</cell>
@@ -2971,12 +3019,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="186">
+  <row index="189">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table69-en</cell>
     <cell name="title">Overview of the accounts for the Rest of the World (en)</cell>
@@ -2987,12 +3035,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="187">
+  <row index="190">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table101-en</cell>
     <cell name="title">Overview of the various classifications of pension schemes (en)</cell>
@@ -3003,12 +3051,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="188">
+  <row index="191">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table104-en</cell>
     <cell name="title">Pension systems and their impact on government debt, 2012 (en)</cell>
@@ -3019,12 +3067,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="189">
+  <row index="192">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph112-en</cell>
     <cell name="title">Policy rates and central bank assets: Euro Area, Japan and United States, 2007-17 (en)</cell>
@@ -3035,12 +3083,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="190">
+  <row index="193">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph77-en</cell>
     <cell name="title">Portuguese general government gross external debt position by original maturity, 2009-16 (en)</cell>
@@ -3051,12 +3099,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="191">
+  <row index="194">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph111-en</cell>
     <cell name="title">Private and public debt patterns before and after the 2007-09 economic and financial crisis, 2002-15 (en)</cell>
@@ -3067,12 +3115,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="192">
+  <row index="195">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph100-en</cell>
     <cell name="title">Projections of public sector primary balance and net debt for the United Kingdom (en)</cell>
@@ -3083,12 +3131,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="193">
+  <row index="196">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph20-en</cell>
     <cell name="title">Relative size of financial corporations by subsector, 2016 (en)</cell>
@@ -3099,12 +3147,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="194">
+  <row index="197">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph94-en</cell>
     <cell name="title">Saving ratio per age group for Australia (en)</cell>
@@ -3115,12 +3163,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="195">
+  <row index="198">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph74-en</cell>
     <cell name="title">Savings and investment for selected stressed EU countries,* 2005-15/16 (en)</cell>
@@ -3131,12 +3179,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="196">
+  <row index="199">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph39-en</cell>
     <cell name="title">Savings ratio, disposable income and net financial assets in EU countries (en)</cell>
@@ -3147,12 +3195,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="197">
+  <row index="200">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph21-en</cell>
     <cell name="title">Sector shares in total financial assets and liabilities, Euro Area, 2016 (en)</cell>
@@ -3163,12 +3211,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="198">
+  <row index="201">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph22-en</cell>
     <cell name="title">Sector shares in total value added and total compensation of employees, Euro Area, 2016 (en)</cell>
@@ -3179,12 +3227,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="199">
+  <row index="202">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table48-en</cell>
     <cell name="title">Selected financial asset transactions, Canadian non-financial corporations (en)</cell>
@@ -3195,12 +3243,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="200">
+  <row index="203">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table102-en</cell>
     <cell name="title">Sensitivity of the estimates of pension obligations for Portugal (en)</cell>
@@ -3211,12 +3259,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="201">
+  <row index="204">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table61-en</cell>
     <cell name="title">Share of value added in manufacturing generated by foreign controlled firms, selected OECD countries (en)</cell>
@@ -3227,12 +3275,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="202">
+  <row index="205">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph25-en</cell>
     <cell name="title">Some key ratios of deposit-taking institutions across OECD countries, 2007-14 (en)</cell>
@@ -3243,12 +3291,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="203">
+  <row index="206">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table46-en</cell>
     <cell name="title">Sources and uses of funds, Canada and the U.S. (en)</cell>
@@ -3259,12 +3307,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="204">
+  <row index="207">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table19-en</cell>
     <cell name="title">The financial corporations' sector and its subsectors (en)</cell>
@@ -3275,12 +3323,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="205">
+  <row index="208">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-10-en</cell>
     <cell name="title">The financial relationships with the Rest of the World (en)</cell>
@@ -3291,12 +3339,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="206">
+  <row index="209">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-8-en</cell>
     <cell name="title">The financing of non-financial corporations (en)</cell>
@@ -3307,12 +3355,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="207">
+  <row index="210">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph110-en</cell>
     <cell name="title">The relationship between financial markets volatility and international bank credit, 1978-2016 (en)</cell>
@@ -3323,12 +3371,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="208">
+  <row index="211">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-6-en</cell>
     <cell name="title">The role of financial corporations in the financial system (en)</cell>
@@ -3339,12 +3387,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="209">
+  <row index="212">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-5-en</cell>
     <cell name="title">The role of financial markets (en)</cell>
@@ -3355,12 +3403,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="210">
+  <row index="213">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph60-en</cell>
     <cell name="title">Tobin's q for the non-financial corporations' sector in Canada (en)</cell>
@@ -3371,12 +3419,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="211">
+  <row index="214">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph30-en</cell>
     <cell name="title">Total assets held by insurance corporations and pension funds in OECD countries, 2007-16 (en)</cell>
@@ -3387,12 +3435,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="212">
+  <row index="215">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table7-en</cell>
     <cell name="title">Total bond market, Australia (en)</cell>
@@ -3403,12 +3451,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="213">
+  <row index="216">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-table12-en</cell>
     <cell name="title">Total equity, Australian investment fund market (en)</cell>
@@ -3419,12 +3467,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Table</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="214">
+  <row index="217">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph63-en</cell>
     <cell name="title">Total general government financial assets, 2000-16 (en)</cell>
@@ -3435,12 +3483,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="215">
+  <row index="218">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph68-en</cell>
     <cell name="title">Total general government financial assets, liabilities and net financial worth, 2000-16 (en)</cell>
@@ -3451,44 +3499,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="216">
-    <cell name="directorate">Statistics Directorate</cell>
-    <cell name="doi">10.1787/9789264281288-en</cell>
-    <cell name="title">Understanding Financial Accounts (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-11-06</cell>
-    <cell name="embargo date">2017-11-06T08:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-31T21:40:41.313Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="217">
-    <cell name="directorate">Statistics Directorate</cell>
-    <cell name="doi">10.1787/9789264281288-en</cell>
-    <cell name="title">Understanding Financial Accounts (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-11-06</cell>
-    <cell name="embargo date">2017-11-06T08:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-31T21:40:41.313Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="218">
+  <row index="219">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-en</cell>
     <cell name="title">Understanding Financial Accounts (en)</cell>
@@ -3504,7 +3520,39 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="219">
+  <row index="220">
+    <cell name="directorate">Statistics Directorate</cell>
+    <cell name="doi">10.1787/9789264281288-en</cell>
+    <cell name="title">Understanding Financial Accounts (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2017-11-06</cell>
+    <cell name="embargo date">2017-11-06T08:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="221">
+    <cell name="directorate">Statistics Directorate</cell>
+    <cell name="doi">10.1787/9789264281288-en</cell>
+    <cell name="title">Understanding Financial Accounts (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2017-11-06</cell>
+    <cell name="embargo date">2017-11-06T08:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="222">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph106-en</cell>
     <cell name="title">US current account, saving minus investments of the private sector and government, 1960-2017 (en)</cell>
@@ -3515,12 +3563,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="220">
+  <row index="223">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph107-en</cell>
     <cell name="title">US external position, 1976-2015 (en)</cell>
@@ -3531,12 +3579,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="221">
+  <row index="224">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph109-en</cell>
     <cell name="title">USD credit to non-banks outside the United States (en)</cell>
@@ -3547,12 +3595,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="222">
+  <row index="225">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph95-en</cell>
     <cell name="title">Wealth according to age group in Australia, 2013/14 (en)</cell>
@@ -3563,12 +3611,12 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="223">
+  <row index="226">
     <cell name="directorate">Statistics Directorate</cell>
     <cell name="doi">10.1787/9789264281288-graph93-en</cell>
     <cell name="title">Wealth inequalities/indebtedness across household groups (en)</cell>
@@ -3579,12 +3627,28 @@
     <cell name="date of publication">2017-11-06</cell>
     <cell name="embargo date">2017-11-06T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-11-02T21:17:34.4Z</cell>
+    <cell name="freepreview last export date">2017-11-02T22:01:11.04Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="224">
+  <row index="227">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/36600267-en</cell>
+    <cell name="title">Insolvency Regimes, Technology Diffusion and Productivity Growth  (en)</cell>
+    <cell name="subtitle">Evidence from Firms in OECD Countries (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2017-11-06</cell>
+    <cell name="embargo date">2017-11-06T01:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2017-11-03T21:56:10.988Z</cell>
+    <cell name="freepreview last export date">2017-11-03T22:55:46.236Z</cell>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="228">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264281936-2-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -3600,7 +3664,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="225">
+  <row index="229">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264281936-4-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -3616,7 +3680,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="226">
+  <row index="230">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264281936-3-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -3632,7 +3696,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="227">
+  <row index="231">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264281936-1-en</cell>
     <cell name="title">Foreword and Acknowledgements (en)</cell>
@@ -3648,7 +3712,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="228">
+  <row index="232">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264281936-6-en</cell>
     <cell name="title">Land-use trends, opportunities and challenges in Prague (en)</cell>
@@ -3664,7 +3728,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="229">
+  <row index="233">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264281936-5-en</cell>
     <cell name="title">Spatial planning in the Czech Republic (en)</cell>
@@ -3680,7 +3744,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="230">
+  <row index="234">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264281936-7-en</cell>
     <cell name="title">The governance of land use in Prague (en)</cell>
@@ -3696,7 +3760,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="231">
+  <row index="235">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264281936-en</cell>
     <cell name="title">The Governance of Land Use in the Czech Republic (en)</cell>
@@ -3712,14 +3776,14 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="232">
+  <row index="236">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264281936-en</cell>
     <cell name="title">The Governance of Land Use in the Czech Republic (en)</cell>
     <cell name="subtitle">The Case of Prague (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2017-11-03</cell>
     <cell name="embargo date">2017-11-03T09:00:00Z</cell>
     <cell name="launch date/time">2017-11-03T09:00:00Z</cell>
@@ -3728,7 +3792,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="233">
+  <row index="237">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264281936-8-en</cell>
     <cell name="title">The need for a co-ordinated metropolitan spatial development strategy (en)</cell>
@@ -3741,246 +3805,6 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2017-10-11T20:23:26.313Z</cell>
     <cell name="freepreview last export date">2017-10-11T20:57:41.387Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="234">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264281394-en</cell>
-    <cell name="title">Better Use of Skills in the Workplace (en)</cell>
-    <cell name="subtitle">Why It Matters for Productivity and Local Jobs (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-11-02</cell>
-    <cell name="embargo date">2017-11-01T23:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-30T21:33:33.707Z</cell>
-    <cell name="freepreview last export date">2017-10-27T20:03:52.813Z</cell>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="235">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264281394-en</cell>
-    <cell name="title">Better Use of Skills in the Workplace (en)</cell>
-    <cell name="subtitle">Why It Matters for Productivity and Local Jobs (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-11-02</cell>
-    <cell name="embargo date">2017-11-01T23:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-30T21:33:33.707Z</cell>
-    <cell name="freepreview last export date">2017-10-27T20:03:52.813Z</cell>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="236">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264281394-en</cell>
-    <cell name="title">Better Use of Skills in the Workplace (en)</cell>
-    <cell name="subtitle">Why It Matters for Productivity and Local Jobs (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2017-11-02</cell>
-    <cell name="embargo date">2017-11-01T23:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="237">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264281394-5-en</cell>
-    <cell name="title">Collaborative workplace innovation in the East Midlands, United Kingdom (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-11-02</cell>
-    <cell name="embargo date">2017-11-01T23:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-30T11:03:44.44Z</cell>
-    <cell name="freepreview last export date">2017-10-27T20:03:52.813Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="238">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264281394-12-en</cell>
-    <cell name="title">Engaging local employers in skills development and utilisation in the Philippines (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-11-02</cell>
-    <cell name="embargo date">2017-11-01T23:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-30T11:03:44.44Z</cell>
-    <cell name="freepreview last export date">2017-10-27T20:03:52.813Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="239">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264281394-3-en</cell>
-    <cell name="title">Executive summary (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-11-02</cell>
-    <cell name="embargo date">2017-11-01T23:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-30T11:03:44.44Z</cell>
-    <cell name="freepreview last export date">2017-10-27T20:03:52.813Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="240">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264281394-2-en</cell>
-    <cell name="title">Foreword (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-11-02</cell>
-    <cell name="embargo date">2017-11-01T23:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-30T11:03:44.44Z</cell>
-    <cell name="freepreview last export date">2017-10-27T20:03:52.813Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="241">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264281394-9-en</cell>
-    <cell name="title">Investing in employee skills at the local level through Viet Nam's score programme (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-11-02</cell>
-    <cell name="embargo date">2017-11-01T23:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-30T11:03:44.44Z</cell>
-    <cell name="freepreview last export date">2017-10-27T20:03:52.813Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="242">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264281394-10-en</cell>
-    <cell name="title">Local actions to boost skills utilisation Tasmania's disability services (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-11-02</cell>
-    <cell name="embargo date">2017-11-01T23:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-30T11:03:44.44Z</cell>
-    <cell name="freepreview last export date">2017-10-27T20:03:52.813Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="243">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264281394-8-en</cell>
-    <cell name="title">Meeting the skills needs of local SMEs in Gwangyang, Korea (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-11-02</cell>
-    <cell name="embargo date">2017-11-01T23:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-30T11:03:44.44Z</cell>
-    <cell name="freepreview last export date">2017-10-27T20:03:52.813Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="244">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264281394-4-en</cell>
-    <cell name="title">Policies and practices for improving skills utilisation locally (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-11-02</cell>
-    <cell name="embargo date">2017-11-01T23:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-30T11:03:44.44Z</cell>
-    <cell name="freepreview last export date">2017-10-27T20:03:52.813Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="245">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264281394-1-en</cell>
-    <cell name="title">Preface (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-11-02</cell>
-    <cell name="embargo date">2017-11-01T23:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-30T11:03:44.44Z</cell>
-    <cell name="freepreview last export date">2017-10-27T20:03:52.813Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="246">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264281394-6-en</cell>
-    <cell name="title">Public investment in skills development and utilisation in Singapore (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-11-02</cell>
-    <cell name="embargo date">2017-11-01T23:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-30T11:03:44.44Z</cell>
-    <cell name="freepreview last export date">2017-10-27T20:03:52.813Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="247">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264281394-11-en</cell>
-    <cell name="title">The Impulsa Perú initiative to improve local worker's skills and employability (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-11-02</cell>
-    <cell name="embargo date">2017-11-01T23:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-30T11:03:44.44Z</cell>
-    <cell name="freepreview last export date">2017-10-27T20:03:52.813Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="248">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264281394-7-en</cell>
-    <cell name="title">The open book solutions profit-sharing programme at Paris Creperie, Boston (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-11-02</cell>
-    <cell name="embargo date">2017-11-01T23:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-30T11:03:44.44Z</cell>
-    <cell name="freepreview last export date">2017-10-27T20:03:52.813Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>

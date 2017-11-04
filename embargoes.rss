@@ -8,26 +8,11 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Thu, 02 Nov 2017 23:33:04 GMT</pubDate>
+      <pubDate>Sat, 04 Nov 2017 01:02:41 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
                  type="application/rss+xml"/>
-      <item>
-         <guid isPermaLink="false">10.1787/9789264281394-en</guid>
-         <pubDate>Wed, 01 Nov 2017 23:00:00 GMT</pubDate>
-         <title>Better Use of Skills in the Workplace (en) - Why It Matters for Productivity and Local Jobs (en)</title>
-         <link>https://doi.org/10.1787/9789264281394-en</link>
-         <description>Better Use of Skills in the Workplace (en) - Why It Matters for Productivity and Local Jobs (en) by Centre for Entrepreneurship, SMEs and Local Development has an embargo on Thursday, 2 November 2017, 1:00 Paris time (GMT+02:00).</description>
-         <oe:embargoTime>2017-11-01T23:00:00Z</oe:embargoTime>
-         <oe:launchTime/>
-         <oe:directorate>Centre for Entrepreneurship, SMEs and Local Development</oe:directorate>
-         <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Monday, 30 October 2017, 21:33 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Friday, 27 October 2017, 20:03 Paris time (GMT+00:00)</oe:freePreviewExport>
-         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
-         <oe:availableMedia>ePub, PDF, Paperback</oe:availableMedia>
-      </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264281936-en</guid>
          <pubDate>Fri, 03 Nov 2017 09:00:00 GMT</pubDate>
@@ -44,6 +29,21 @@
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
+         <guid isPermaLink="false">10.1787/36600267-en</guid>
+         <pubDate>Mon, 06 Nov 2017 01:00:00 GMT</pubDate>
+         <title>Insolvency Regimes, Technology Diffusion and Productivity Growth  (en) - Evidence from Firms in OECD Countries (en)</title>
+         <link>https://doi.org/10.1787/36600267-en</link>
+         <description>Insolvency Regimes, Technology Diffusion and Productivity Growth  (en) - Evidence from Firms in OECD Countries (en) by Economics Department has an embargo on Monday, 6 November 2017, 3:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-06T01:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Friday, 3 November 2017, 21:56 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Friday, 3 November 2017, 22:55 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
          <guid isPermaLink="false">10.1787/9789264281288-en</guid>
          <pubDate>Mon, 06 Nov 2017 08:30:00 GMT</pubDate>
          <title>Understanding Financial Accounts (en)</title>
@@ -53,10 +53,25 @@
          <oe:launchTime/>
          <oe:directorate>Statistics Directorate</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Tuesday, 31 October 2017, 21:40 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:iLibraryExport>Thursday, 2 November 2017, 21:17 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Thursday, 2 November 2017, 22:01 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
-         <oe:availableMedia>PDF, ePub, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, PDF, ePub</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/2d01150c-en</guid>
+         <pubDate>Mon, 06 Nov 2017 09:30:00 GMT</pubDate>
+         <title>Where to get the best bang for the buck in the United Kingdom? (en) - Industrial strategy, investment and lagging regions (en)</title>
+         <link>https://doi.org/10.1787/2d01150c-en</link>
+         <description>Where to get the best bang for the buck in the United Kingdom? (en) - Industrial strategy, investment and lagging regions (en) by Economics Department has an embargo on Monday, 6 November 2017, 11:30 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-06T09:30:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Friday, 3 November 2017, 21:56 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Friday, 3 November 2017, 22:55 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/health_glance-2017-en</guid>
@@ -188,10 +203,10 @@
          <oe:launchTime/>
          <oe:directorate>Environment Directorate</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Tuesday, 31 October 2017, 21:40 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Thursday, 2 November 2017, 21:17 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback, ePub</oe:availableMedia>
+         <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264279674-en</guid>
@@ -203,10 +218,10 @@
          <oe:launchTime/>
          <oe:directorate>Environment Directorate</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Monday, 16 October 2017, 20:11 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Thursday, 2 November 2017, 21:17 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>ePub, PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264282988-en</guid>
@@ -263,10 +278,10 @@
          <oe:launchTime/>
          <oe:directorate>Environment Directorate</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Thursday, 26 October 2017, 20:35 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Thursday, 2 November 2017, 21:17 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback, ePub</oe:availableMedia>
+         <oe:availableMedia>ePub, PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264279612-en</guid>
@@ -278,10 +293,25 @@
          <oe:launchTime/>
          <oe:directorate>Environment Directorate</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Wednesday, 25 October 2017, 20:43 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Thursday, 2 November 2017, 21:17 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264281370-en</guid>
+         <pubDate>Mon, 04 Dec 2017 09:00:00 GMT</pubDate>
+         <title>Boosting Disaster Prevention through Innovative Risk Governance (en) - Insights from Austria, France and Switzerland (en)</title>
+         <link>https://doi.org/10.1787/9789264281370-en</link>
+         <description>Boosting Disaster Prevention through Innovative Risk Governance (en) - Insights from Austria, France and Switzerland (en) by Directorate for Public Governance has an embargo on Monday, 4 December 2017, 11:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-12-04T09:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Public Governance</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Thursday, 2 November 2017, 21:17 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264278639-en</guid>
