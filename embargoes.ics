@@ -4,40 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264281936-en
-SUMMARY:The Governance of Land Use in the Czech 
- Republic (en) on 3 November 2017, 11:00 
- Paris time (GMT+02:00)
-DESCRIPTION:The Governance of Land Use in the Czech 
- Republic (en)  - The Case of Prague (en)
-  by Directorate for Public Governance ha
- s an embargo date/time of 3 November 201
- 7, 11:00 Paris time (GMT+02:00).\n\nDire
- ctorate: Directorate for Public Governan
- ce\nLanguage: English\nDOI: https://doi.
- org/10.1787/9789264281936-en\nPublicatio
- n type: Stand-alone monograph\nReleased 
- as: PDF, Paperback.\n\niLibrary export: 
- 23 October 2017, 22:14 Paris time (GMT+0
- 0:00)\nFreepreview export: 11 October 20
- 17, 20:57 Paris time (GMT+00:00)\nFTI lo
- aded: ✓.
-DTSTAMP:20171104T010239Z
-DTSTART:20171103T090000Z
-DTEND:20171103T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: The Governance of Land Use in 
- the Czech Republic (en) on 3 November 20
- 17, 11:00 Paris time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/36600267-en
 SUMMARY:Insolvency Regimes, Technology Diffusion
   and Productivity Growth  (en) on 6 Nove
@@ -55,7 +21,7 @@ DESCRIPTION:Insolvency Regimes, Technology Diffusion
  , 21:56 Paris time (GMT+00:00)\nFreeprev
  iew export: 3 November 2017, 22:55 Paris
   time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171104T010239Z
+DTSTAMP:20171107T000912Z
 DTSTART:20171106T010000Z
 DTEND:20171106T011500Z
 TRANSP:TRANSPARENT
@@ -84,11 +50,11 @@ DESCRIPTION:Understanding Financial Accounts (en)  b
  OI: https://doi.org/10.1787/978926428128
  8-en\nPublication type: Stand-alone mono
  graph\nReleased as: Paperback, PDF, ePub
- .\n\niLibrary export: 2 November 2017, 2
- 1:17 Paris time (GMT+00:00)\nFreepreview
+ .\n\niLibrary export: 3 November 2017, 2
+ 1:56 Paris time (GMT+00:00)\nFreepreview
   export: 2 November 2017, 22:01 Paris ti
  me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171104T010239Z
+DTSTAMP:20171107T000912Z
 DTSTART:20171106T083000Z
 DTEND:20171106T084500Z
 TRANSP:TRANSPARENT
@@ -122,7 +88,7 @@ DESCRIPTION:Where to get the best bang for the buck
  0)\nFreepreview export: 3 November 2017,
   22:55 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20171104T010239Z
+DTSTAMP:20171107T000912Z
 DTSTART:20171106T093000Z
 DTEND:20171106T094500Z
 TRANSP:TRANSPARENT
@@ -155,7 +121,7 @@ DESCRIPTION:Health at a Glance 2017 (en)  - OECD Ind
  : 20 October 2017, 9:07 Paris time (GMT+
  00:00)\nFreepreview export: never\nFTI l
  oaded: no.
-DTSTAMP:20171104T010239Z
+DTSTAMP:20171107T000912Z
 DTSTART:20171110T100000Z
 DTEND:20171110T101500Z
 TRANSP:TRANSPARENT
@@ -183,11 +149,11 @@ DESCRIPTION:Panorama de la santé 2017 (fr)  - Les in
  , Labour and Social Affairs\nLanguage: F
  rench\nDOI: https://doi.org/10.1787/heal
  th_glance-2017-fr\nPublication type: Boo
- k\nReleased as: ePub, PDF, HTML.\n\niLib
+ k\nReleased as: PDF, HTML, ePub.\n\niLib
  rary export: 31 October 2017, 21:40 Pari
  s time (GMT+00:00)\nFreepreview export: 
  never\nFTI loaded: no.
-DTSTAMP:20171104T010239Z
+DTSTAMP:20171107T000912Z
 DTSTART:20171110T100000Z
 DTEND:20171110T101500Z
 TRANSP:TRANSPARENT
@@ -218,7 +184,7 @@ DESCRIPTION:Études économiques de l'OCDE : Suisse 20
  k, ePub.\n\niLibrary export: 31 October 
  2017, 21:40 Paris time (GMT+00:00)\nFree
  preview export: never\nFTI loaded: no.
-DTSTAMP:20171104T010239Z
+DTSTAMP:20171107T000912Z
 DTSTART:20171114T140000Z
 DTEND:20171114T141500Z
 TRANSP:TRANSPARENT
@@ -245,11 +211,11 @@ DESCRIPTION:OECD Economic Surveys: Switzerland 2017
  : Economics Department\nLanguage: Englis
  h\nDOI: https://doi.org/10.1787/eco_surv
  eys-che-2017-en\nPublication type: Econo
- mic survey\nReleased as: ePub, PDF, Pape
- rback.\n\niLibrary export: 30 October 20
+ mic survey\nReleased as: Paperback, ePub
+ , PDF.\n\niLibrary export: 30 October 20
  17, 11:03 Paris time (GMT+00:00)\nFreepr
  eview export: never\nFTI loaded: no.
-DTSTAMP:20171104T010239Z
+DTSTAMP:20171107T000912Z
 DTSTART:20171114T140000Z
 DTEND:20171114T141500Z
 TRANSP:TRANSPARENT
@@ -279,7 +245,7 @@ DESCRIPTION:How's Life? 2017 (en)  - Measuring Well-
  niLibrary export: 30 October 2017, 11:03
   Paris time (GMT+00:00)\nFreepreview exp
  ort: never\nFTI loaded: no.
-DTSTAMP:20171104T010239Z
+DTSTAMP:20171107T000912Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -291,6 +257,235 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: How's Life? 2017 (en) on 15 No
  vember 2017, 12:00 Paris time (GMT+02:00
  )
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264283718-en
+SUMMARY:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Curaç
+ ao 2017 (Second Round) (en) on 17 Novemb
+ er 2017, 13:00 Paris time (GMT+02:00)
+DESCRIPTION:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Curaç
+ ao 2017 (Second Round) (en)  - Peer Revi
+ ew Report on the Exchange of Information
+  on Request (en) by Centre for Tax Polic
+ y and Administration has an embargo date
+ /time of 17 November 2017, 13:00 Paris t
+ ime (GMT+02:00).\n\nDirectorate: Centre 
+ for Tax Policy and Administration\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/9789264283718-en\nPublication type: B
+ ook\nReleased as: PDF, Paperback.\n\niLi
+ brary export: 2 November 2017, 21:17 Par
+ is time (GMT+00:00)\nFreepreview export:
+  never\nFTI loaded: no.
+DTSTAMP:20171107T000912Z
+DTSTART:20171117T110000Z
+DTEND:20171117T111500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Forum on Transparency a
+ nd Exchange of Information for Tax Purpo
+ ses: Curaçao 2017 (Second Round) (en) on
+  17 November 2017, 13:00 Paris time (GMT
+ +02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264283732-en
+SUMMARY:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Denma
+ rk 2017 (Second Round) (en) on 17 Novemb
+ er 2017, 13:00 Paris time (GMT+02:00)
+DESCRIPTION:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Denma
+ rk 2017 (Second Round) (en)  - Peer Revi
+ ew Report on the Exchange of Information
+  on Request (en) by Centre for Tax Polic
+ y and Administration has an embargo date
+ /time of 17 November 2017, 13:00 Paris t
+ ime (GMT+02:00).\n\nDirectorate: Centre 
+ for Tax Policy and Administration\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/9789264283732-en\nPublication type: B
+ ook\nReleased as: PDF, Paperback.\n\niLi
+ brary export: 2 November 2017, 21:17 Par
+ is time (GMT+00:00)\nFreepreview export:
+  never\nFTI loaded: no.
+DTSTAMP:20171107T000912Z
+DTSTART:20171117T110000Z
+DTEND:20171117T111500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Forum on Transparency a
+ nd Exchange of Information for Tax Purpo
+ ses: Denmark 2017 (Second Round) (en) on
+  17 November 2017, 13:00 Paris time (GMT
+ +02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264283756-en
+SUMMARY:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: India
+  2017 (Second Round) (en) on 17 November
+  2017, 13:00 Paris time (GMT+02:00)
+DESCRIPTION:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: India
+  2017 (Second Round) (en)  - Peer Review
+  Report on the Exchange of Information o
+ n Request (en) by Centre for Tax Policy 
+ and Administration has an embargo date/t
+ ime of 17 November 2017, 13:00 Paris tim
+ e (GMT+02:00).\n\nDirectorate: Centre fo
+ r Tax Policy and Administration\nLanguag
+ e: English\nDOI: https://doi.org/10.1787
+ /9789264283756-en\nPublication type: Boo
+ k\nReleased as: PDF, Paperback.\n\niLibr
+ ary export: 2 November 2017, 21:17 Paris
+  time (GMT+00:00)\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20171107T000912Z
+DTSTART:20171117T110000Z
+DTEND:20171117T111500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Forum on Transparency a
+ nd Exchange of Information for Tax Purpo
+ ses: India 2017 (Second Round) (en) on 1
+ 7 November 2017, 13:00 Paris time (GMT+0
+ 2:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264283770-en
+SUMMARY:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Isle 
+ of Man 2017 (Second Round) (en) on 17 No
+ vember 2017, 13:00 Paris time (GMT+02:00
+ )
+DESCRIPTION:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Isle 
+ of Man 2017 (Second Round) (en)  - Peer 
+ Review Report on the Exchange of Informa
+ tion on Request (en) by Centre for Tax P
+ olicy and Administration has an embargo 
+ date/time of 17 November 2017, 13:00 Par
+ is time (GMT+02:00).\n\nDirectorate: Cen
+ tre for Tax Policy and Administration\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/9789264283770-en\nPublication typ
+ e: Book\nReleased as: PDF, Paperback.\n\
+ niLibrary export: 2 November 2017, 21:17
+  Paris time (GMT+00:00)\nFreepreview exp
+ ort: never\nFTI loaded: no.
+DTSTAMP:20171107T000912Z
+DTSTART:20171117T110000Z
+DTEND:20171117T111500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Forum on Transparency a
+ nd Exchange of Information for Tax Purpo
+ ses: Isle of Man 2017 (Second Round) (en
+ ) on 17 November 2017, 13:00 Paris time 
+ (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264283800-en
+SUMMARY:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Italy
+  2017 (Second Round) (en) on 17 November
+  2017, 13:00 Paris time (GMT+02:00)
+DESCRIPTION:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Italy
+  2017 (Second Round) (en)  - Peer Review
+  Report on the Exchange of Information o
+ n Request (en) by Centre for Tax Policy 
+ and Administration has an embargo date/t
+ ime of 17 November 2017, 13:00 Paris tim
+ e (GMT+02:00).\n\nDirectorate: Centre fo
+ r Tax Policy and Administration\nLanguag
+ e: English\nDOI: https://doi.org/10.1787
+ /9789264283800-en\nPublication type: Boo
+ k\nReleased as: PDF, Paperback.\n\niLibr
+ ary export: 2 November 2017, 21:17 Paris
+  time (GMT+00:00)\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20171107T000912Z
+DTSTART:20171117T110000Z
+DTEND:20171117T111500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Forum on Transparency a
+ nd Exchange of Information for Tax Purpo
+ ses: Italy 2017 (Second Round) (en) on 1
+ 7 November 2017, 13:00 Paris time (GMT+0
+ 2:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264283824-en
+SUMMARY:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Jerse
+ y 2017 (Second Round) (en) on 17 Novembe
+ r 2017, 13:00 Paris time (GMT+02:00)
+DESCRIPTION:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Jerse
+ y 2017 (Second Round) (en)  - Peer Revie
+ w Report on the Exchange of Information 
+ on Request (en) by Centre for Tax Policy
+  and Administration has an embargo date/
+ time of 17 November 2017, 13:00 Paris ti
+ me (GMT+02:00).\n\nDirectorate: Centre f
+ or Tax Policy and Administration\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/9789264283824-en\nPublication type: Bo
+ ok\nReleased as: PDF, Paperback.\n\niLib
+ rary export: 2 November 2017, 21:17 Pari
+ s time (GMT+00:00)\nFreepreview export: 
+ never\nFTI loaded: no.
+DTSTAMP:20171107T000912Z
+DTSTART:20171117T110000Z
+DTEND:20171117T111500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Forum on Transparency a
+ nd Exchange of Information for Tax Purpo
+ ses: Jersey 2017 (Second Round) (en) on 
+ 17 November 2017, 13:00 Paris time (GMT+
+ 02:00)
 END:VALARM
 END:VEVENT
 
@@ -313,7 +508,7 @@ DESCRIPTION:Le recrutement des travailleurs immigrés
  3 Paris time (GMT+00:00)\nFreepreview ex
  port: 26 October 2017, 21:28 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171104T010239Z
+DTSTAMP:20171107T000912Z
 DTSTART:20171120T100000Z
 DTEND:20171120T101500Z
 TRANSP:TRANSPARENT
@@ -345,7 +540,7 @@ DESCRIPTION:Revenue Statistics: 1965-2016 (en)  by C
  Library export: 23 October 2017, 22:14 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20171104T010239Z
+DTSTAMP:20171107T000912Z
 DTSTART:20171123T100000Z
 DTEND:20171123T101500Z
 TRANSP:TRANSPARENT
@@ -378,7 +573,7 @@ DESCRIPTION:Statistiques des recettes publiques : 19
  ber 2017, 22:14 Paris time (GMT+00:00)\n
  Freepreview export: never\nFTI loaded: n
  o.
-DTSTAMP:20171104T010239Z
+DTSTAMP:20171107T000912Z
 DTSTART:20171123T100000Z
 DTEND:20171123T101500Z
 TRANSP:TRANSPARENT
@@ -406,10 +601,10 @@ DESCRIPTION:Examens environnementaux de l'OCDE: Suis
  nguage: French\nDOI: https://doi.org/10.
  1787/9789264279698-fr\nPublication type:
   Book\nReleased as: Paperback, ePub, PDF
- .\n\niLibrary export: 2 November 2017, 2
- 1:17 Paris time (GMT+00:00)\nFreepreview
+ .\n\niLibrary export: 3 November 2017, 2
+ 1:56 Paris time (GMT+00:00)\nFreepreview
   export: never\nFTI loaded: no.
-DTSTAMP:20171104T010239Z
+DTSTAMP:20171107T000912Z
 DTSTART:20171124T090000Z
 DTEND:20171124T091500Z
 TRANSP:TRANSPARENT
@@ -437,11 +632,11 @@ DESCRIPTION:OECD Environmental Performance Reviews:
  orate\nLanguage: English\nDOI: https://d
  oi.org/10.1787/9789264279674-en\nPublica
  tion type: Book\nReleased as: Paperback,
-  ePub, PDF.\n\niLibrary export: 2 Novemb
- er 2017, 21:17 Paris time (GMT+00:00)\nF
+  ePub, PDF.\n\niLibrary export: 3 Novemb
+ er 2017, 21:56 Paris time (GMT+00:00)\nF
  reepreview export: never\nFTI loaded: no
  .
-DTSTAMP:20171104T010239Z
+DTSTAMP:20171107T000912Z
 DTSTART:20171124T090000Z
 DTEND:20171124T091500Z
 TRANSP:TRANSPARENT
@@ -476,7 +671,7 @@ DESCRIPTION:Monitoring Health System Performance in
  33 Paris time (GMT+00:00)\nFreepreview e
  xport: 26 October 2017, 21:28 Paris time
   (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171104T010239Z
+DTSTAMP:20171107T000912Z
 DTSTART:20171129T230000Z
 DTEND:20171129T231500Z
 TRANSP:TRANSPARENT
@@ -509,7 +704,7 @@ DESCRIPTION:OECD Reviews of Health Systems: Peru 201
   2017, 20:35 Paris time (GMT+00:00)\nFre
  epreview export: 26 October 2017, 21:28 
  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171104T010239Z
+DTSTAMP:20171107T000912Z
 DTSTART:20171129T230000Z
 DTEND:20171129T231500Z
 TRANSP:TRANSPARENT
@@ -541,7 +736,7 @@ DESCRIPTION:OECD Reviews of School Resources: Chile
  0 October 2017, 21:33 Paris time (GMT+00
  :00)\nFreepreview export: never\nFTI loa
  ded: no.
-DTSTAMP:20171104T010239Z
+DTSTAMP:20171107T000912Z
 DTSTART:20171130T230000Z
 DTEND:20171130T231500Z
 TRANSP:TRANSPARENT
@@ -572,7 +767,7 @@ DESCRIPTION:Examens environnementaux de l'OCDE: Cana
  \n\niLibrary export: 2 November 2017, 21
  :17 Paris time (GMT+00:00)\nFreepreview 
  export: never\nFTI loaded: no.
-DTSTAMP:20171104T010239Z
+DTSTAMP:20171107T000912Z
 DTSTART:20171201T100000Z
 DTEND:20171201T101500Z
 TRANSP:TRANSPARENT
@@ -603,7 +798,7 @@ DESCRIPTION:OECD Environmental Performance Reviews:
  n\niLibrary export: 2 November 2017, 21:
  17 Paris time (GMT+00:00)\nFreepreview e
  xport: never\nFTI loaded: ✓.
-DTSTAMP:20171104T010239Z
+DTSTAMP:20171107T000912Z
 DTSTART:20171201T100000Z
 DTEND:20171201T101500Z
 TRANSP:TRANSPARENT
@@ -632,11 +827,11 @@ DESCRIPTION:Boosting Disaster Prevention through Inn
  rectorate: Directorate for Public Govern
  ance\nLanguage: English\nDOI: https://do
  i.org/10.1787/9789264281370-en\nPublicat
- ion type: Book\nReleased as: Paperback, 
- PDF.\n\niLibrary export: 2 November 2017
- , 21:17 Paris time (GMT+00:00)\nFreeprev
+ ion type: Book\nReleased as: PDF, Paperb
+ ack.\n\niLibrary export: 3 November 2017
+ , 21:56 Paris time (GMT+00:00)\nFreeprev
  iew export: never\nFTI loaded: no.
-DTSTAMP:20171104T010239Z
+DTSTAMP:20171107T000912Z
 DTSTART:20171204T090000Z
 DTEND:20171204T091500Z
 TRANSP:TRANSPARENT
@@ -670,7 +865,7 @@ DESCRIPTION:Getting Skills Right: Italy (en)  by Dir
  aris time (GMT+00:00)\nFreepreview expor
  t: 3 October 2017, 21:12 Paris time (GMT
  +00:00)\nFTI loaded: ✓.
-DTSTAMP:20171104T010239Z
+DTSTAMP:20171107T000912Z
 DTSTART:20171221T090000Z
 DTEND:20171221T091500Z
 TRANSP:TRANSPARENT

@@ -1,69 +1,6 @@
-# OECD publication embargoes by date (20 embargoes)
+# OECD publication embargoes by date (23 embargoes)
 
-*Data generated on Saturday 4 November 2017 at 1:02:28*
-
-------
-
-## [Insolvency Regimes, Technology Diffusion and Productivity Growth  (en) - Evidence from Firms in OECD Countries (en)](https://doi.org/10.1787/36600267-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 6 November 2017 at 1:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 November 2017 at 21:56:10
-- [x] Exported to Keepeek Friday 3 November 2017 at 22:55:46
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Understanding Financial Accounts (en)](https://doi.org/10.1787/9789264281288-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 6 November 2017 at 8:30:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 2 November 2017 at 21:17:34
-- [x] Exported to Keepeek Thursday 2 November 2017 at 22:01:11
-
-### Additional Information
-
-* Directorate: *Statistics Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
-
-------
-
-## [Where to get the best bang for the buck in the United Kingdom? (en) - Industrial strategy, investment and lagging regions (en)](https://doi.org/10.1787/2d01150c-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 6 November 2017 at 9:30:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 November 2017 at 21:56:10
-- [x] Exported to Keepeek Friday 3 November 2017 at 22:55:46
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Tuesday 7 November 2017 at 0:09:04*
 
 ------
 
@@ -172,6 +109,132 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 ------
 
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Curaçao 2017 (Second Round) (en) - Peer Review Report on the Exchange of Information on Request (en)](https://doi.org/10.1787/9789264283718-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 17 November 2017 at 11:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 2 November 2017 at 21:17:34
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Denmark 2017 (Second Round) (en) - Peer Review Report on the Exchange of Information on Request (en)](https://doi.org/10.1787/9789264283732-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 17 November 2017 at 11:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 2 November 2017 at 21:17:34
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: India 2017 (Second Round) (en) - Peer Review Report on the Exchange of Information on Request (en)](https://doi.org/10.1787/9789264283756-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 17 November 2017 at 11:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 2 November 2017 at 21:17:34
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Isle of Man 2017 (Second Round) (en) - Peer Review Report on the Exchange of Information on Request (en)](https://doi.org/10.1787/9789264283770-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 17 November 2017 at 11:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 2 November 2017 at 21:17:34
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Italy 2017 (Second Round) (en) - Peer Review Report on the Exchange of Information on Request (en)](https://doi.org/10.1787/9789264283800-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 17 November 2017 at 11:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 2 November 2017 at 21:17:34
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Jersey 2017 (Second Round) (en) - Peer Review Report on the Exchange of Information on Request (en)](https://doi.org/10.1787/9789264283824-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 17 November 2017 at 11:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 2 November 2017 at 21:17:34
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
 ## [Le recrutement des travailleurs immigrés: France 2017 (fr)](https://doi.org/10.1787/9789264276741-fr)
 
 Embargo date | Launch date
@@ -243,7 +306,7 @@ Friday 24 November 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 November 2017 at 21:17:34
+- [x] Exported to iLibrary Friday 3 November 2017 at 21:56:08
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -264,7 +327,7 @@ Friday 24 November 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 November 2017 at 21:17:34
+- [x] Exported to iLibrary Friday 3 November 2017 at 21:56:08
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -390,7 +453,7 @@ Monday 4 December 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 November 2017 at 21:17:34
+- [x] Exported to iLibrary Friday 3 November 2017 at 21:56:08
 - [ ] Exported to Keepeek
 
 ### Additional Information
