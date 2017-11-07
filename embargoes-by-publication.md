@@ -1,6 +1,27 @@
-# OECD publication embargoes by date (23 embargoes)
+# OECD publication embargoes by date (25 embargoes)
 
-*Data generated on Tuesday 7 November 2017 at 0:09:04*
+*Data generated on Wednesday 8 November 2017 at 0:04:41*
+
+------
+
+## [How do teachers become knowledgeable and confident in classroom management? (en) - Insights from a pilot study (en)](https://doi.org/10.1787/8b69400e-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 9 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 7 November 2017 at 21:45:38
+- [x] Exported to Keepeek Tuesday 7 November 2017 at 22:40:32
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
 
 ------
 
@@ -42,6 +63,27 @@ Friday 10 November 2017 at 10:00:00 | no launch event
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Economic Outlook for Southeast Asia, China and India 2018 (en) - Fostering Growth through Digitalisation (en)](https://doi.org/10.1787/9789264286184-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 14 November 2017 at 2:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 2 November 2017 at 21:17:34
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
 ------
@@ -116,15 +158,15 @@ Embargo date | Launch date
 Friday 17 November 2017 at 11:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 November 2017 at 21:17:34
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 6 November 2017 at 21:43:00
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -138,7 +180,7 @@ Friday 17 November 2017 at 11:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 November 2017 at 21:17:34
+- [x] Exported to iLibrary Monday 6 November 2017 at 21:43:00
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -158,15 +200,15 @@ Embargo date | Launch date
 Friday 17 November 2017 at 11:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 November 2017 at 21:17:34
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 6 November 2017 at 21:43:00
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -179,15 +221,15 @@ Embargo date | Launch date
 Friday 17 November 2017 at 11:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 November 2017 at 21:17:34
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 6 November 2017 at 21:43:00
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -200,15 +242,15 @@ Embargo date | Launch date
 Friday 17 November 2017 at 11:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 November 2017 at 21:17:34
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 6 November 2017 at 21:43:00
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -221,15 +263,15 @@ Embargo date | Launch date
 Friday 17 November 2017 at 11:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 November 2017 at 21:17:34
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 6 November 2017 at 21:43:00
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
