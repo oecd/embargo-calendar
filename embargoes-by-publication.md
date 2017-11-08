@@ -1,6 +1,6 @@
-# OECD publication embargoes by date (25 embargoes)
+# OECD publication embargoes by date (26 embargoes)
 
-*Data generated on Wednesday 8 November 2017 at 0:04:41*
+*Data generated on Wednesday 8 November 2017 at 23:50:39*
 
 ------
 
@@ -32,7 +32,7 @@ Embargo date | Launch date
 Friday 10 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 October 2017 at 9:07:21
 - [ ] Exported to Keepeek
 
@@ -40,7 +40,7 @@ Friday 10 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -53,7 +53,7 @@ Embargo date | Launch date
 Friday 10 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 31 October 2017 at 21:40:41
 - [ ] Exported to Keepeek
 
@@ -61,7 +61,7 @@ Friday 10 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -75,7 +75,7 @@ Tuesday 14 November 2017 at 2:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 November 2017 at 21:17:34
+- [x] Exported to iLibrary Tuesday 7 November 2017 at 21:45:33
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -117,7 +117,7 @@ Tuesday 14 November 2017 at 14:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 30 October 2017 at 11:03:44
+- [x] Exported to iLibrary Tuesday 7 November 2017 at 21:45:33
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -159,8 +159,8 @@ Friday 17 November 2017 at 11:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 6 November 2017 at 21:43:00
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 7 November 2017 at 21:45:33
+- [x] Exported to Keepeek Tuesday 7 November 2017 at 22:40:30
 
 ### Additional Information
 
@@ -201,8 +201,8 @@ Friday 17 November 2017 at 11:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 6 November 2017 at 21:43:00
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 7 November 2017 at 21:45:33
+- [x] Exported to Keepeek Tuesday 7 November 2017 at 22:40:30
 
 ### Additional Information
 
@@ -222,8 +222,8 @@ Friday 17 November 2017 at 11:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 6 November 2017 at 21:43:00
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 7 November 2017 at 21:45:33
+- [x] Exported to Keepeek Tuesday 7 November 2017 at 22:40:30
 
 ### Additional Information
 
@@ -243,8 +243,8 @@ Friday 17 November 2017 at 11:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 6 November 2017 at 21:43:00
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 7 November 2017 at 21:45:33
+- [x] Exported to Keepeek Tuesday 7 November 2017 at 22:40:30
 
 ### Additional Information
 
@@ -264,12 +264,33 @@ Friday 17 November 2017 at 11:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 7 November 2017 at 21:45:33
+- [x] Exported to Keepeek Tuesday 7 November 2017 at 22:40:30
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Getting Skills Right: United Kingdom (en)](https://doi.org/10.1787/9789264280489-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 20 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 6 November 2017 at 21:43:00
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
@@ -369,7 +390,7 @@ Friday 24 November 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 3 November 2017 at 21:56:08
+- [x] Exported to iLibrary Tuesday 7 November 2017 at 21:45:33
 - [ ] Exported to Keepeek
 
 ### Additional Information

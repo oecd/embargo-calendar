@@ -4,107 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/36600267-en
-SUMMARY:Insolvency Regimes, Technology Diffusion
-  and Productivity Growth  (en) on 6 Nove
- mber 2017, 3:00 Paris time (GMT+02:00)
-DESCRIPTION:Insolvency Regimes, Technology Diffusion
-  and Productivity Growth  (en)  - Eviden
- ce from Firms in OECD Countries (en) by 
- Economics Department has an embargo date
- /time of 6 November 2017, 3:00 Paris tim
- e (GMT+02:00).\n\nDirectorate: Economics
-  Department\nLanguage: English\nDOI: htt
- ps://doi.org/10.1787/36600267-en\nPublic
- ation type: Working paper\nReleased as: 
- PDF.\n\niLibrary export: 3 November 2017
- , 21:56 Paris time (GMT+00:00)\nFreeprev
- iew export: 3 November 2017, 22:55 Paris
-  time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171108T000448Z
-DTSTART:20171106T010000Z
-DTEND:20171106T011500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Insolvency Regimes, Technology
-  Diffusion and Productivity Growth  (en)
-  on 6 November 2017, 3:00 Paris time (GM
- T+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264281288-en
-SUMMARY:Understanding Financial Accounts (en) on
-  6 November 2017, 10:30 Paris time (GMT+
- 02:00)
-DESCRIPTION:Understanding Financial Accounts (en)  b
- y Statistics Directorate has an embargo 
- date/time of 6 November 2017, 10:30 Pari
- s time (GMT+02:00).\n\nDirectorate: Stat
- istics Directorate\nLanguage: English\nD
- OI: https://doi.org/10.1787/978926428128
- 8-en\nPublication type: Stand-alone mono
- graph\nReleased as: Paperback, PDF, ePub
- .\n\niLibrary export: 6 November 2017, 2
- 1:43 Paris time (GMT+00:00)\nFreepreview
-  export: 2 November 2017, 22:01 Paris ti
- me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171108T000448Z
-DTSTART:20171106T083000Z
-DTEND:20171106T084500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Understanding Financial Accoun
- ts (en) on 6 November 2017, 10:30 Paris 
- time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/2d01150c-en
-SUMMARY:Where to get the best bang for the buck 
- in the United Kingdom? (en) on 6 Novembe
- r 2017, 11:30 Paris time (GMT+02:00)
-DESCRIPTION:Where to get the best bang for the buck 
- in the United Kingdom? (en)  - Industria
- l strategy, investment and lagging regio
- ns (en) by Economics Department has an e
- mbargo date/time of 6 November 2017, 11:
- 30 Paris time (GMT+02:00).\n\nDirectorat
- e: Economics Department\nLanguage: Engli
- sh\nDOI: https://doi.org/10.1787/2d01150
- c-en\nPublication type: Working paper\nR
- eleased as: PDF.\n\niLibrary export: 3 N
- ovember 2017, 21:56 Paris time (GMT+00:0
- 0)\nFreepreview export: 3 November 2017,
-  22:55 Paris time (GMT+00:00)\nFTI loade
- d: ✓.
-DTSTAMP:20171108T000448Z
-DTSTART:20171106T093000Z
-DTEND:20171106T094500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Where to get the best bang for
-  the buck in the United Kingdom? (en) on
-  6 November 2017, 11:30 Paris time (GMT+
- 02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/8b69400e-en
 SUMMARY:How do teachers become knowledgeable and
   confident in classroom management? (en)
@@ -124,7 +23,7 @@ DESCRIPTION:How do teachers become knowledgeable and
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 7 November 2017, 22:40 Paris time (
  GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171108T000448Z
+DTSTAMP:20171108T235048Z
 DTSTART:20171109T100000Z
 DTEND:20171109T101500Z
 TRANSP:TRANSPARENT
@@ -153,11 +52,11 @@ DESCRIPTION:Health at a Glance 2017 (en)  - OECD Ind
   Social Affairs\nLanguage: English\nDOI:
   https://doi.org/10.1787/health_glance-2
  017-en\nPublication type: Book\nReleased
-  as: ePub, PDF, HTML.\n\niLibrary export
+  as: PDF, HTML, ePub.\n\niLibrary export
  : 20 October 2017, 9:07 Paris time (GMT+
  00:00)\nFreepreview export: never\nFTI l
- oaded: no.
-DTSTAMP:20171108T000448Z
+ oaded: ✓.
+DTSTAMP:20171108T235048Z
 DTSTART:20171110T100000Z
 DTEND:20171110T101500Z
 TRANSP:TRANSPARENT
@@ -185,11 +84,11 @@ DESCRIPTION:Panorama de la santé 2017 (fr)  - Les in
  , Labour and Social Affairs\nLanguage: F
  rench\nDOI: https://doi.org/10.1787/heal
  th_glance-2017-fr\nPublication type: Boo
- k\nReleased as: PDF, HTML, ePub.\n\niLib
+ k\nReleased as: ePub, PDF, HTML.\n\niLib
  rary export: 31 October 2017, 21:40 Pari
  s time (GMT+00:00)\nFreepreview export: 
- never\nFTI loaded: no.
-DTSTAMP:20171108T000448Z
+ never\nFTI loaded: ✓.
+DTSTAMP:20171108T235048Z
 DTSTART:20171110T100000Z
 DTEND:20171110T101500Z
 TRANSP:TRANSPARENT
@@ -219,10 +118,10 @@ DESCRIPTION:Economic Outlook for Southeast Asia, Chi
  org/10.1787/9789264286184-en\nPublicatio
  n type: Stand-alone monograph\nReleased 
  as: PDF, Paperback.\n\niLibrary export: 
- 2 November 2017, 21:17 Paris time (GMT+0
+ 7 November 2017, 21:45 Paris time (GMT+0
  0:00)\nFreepreview export: never\nFTI lo
  aded: no.
-DTSTAMP:20171108T000448Z
+DTSTAMP:20171108T235048Z
 DTSTART:20171114T020000Z
 DTEND:20171114T021500Z
 TRANSP:TRANSPARENT
@@ -250,11 +149,11 @@ DESCRIPTION:Études économiques de l'OCDE : Suisse 20
  ate: Economics Department\nLanguage: Fre
  nch\nDOI: https://doi.org/10.1787/eco_su
  rveys-che-2017-fr\nPublication type: Eco
- nomic survey\nReleased as: PDF, Paperbac
- k, ePub.\n\niLibrary export: 31 October 
+ nomic survey\nReleased as: Paperback, eP
+ ub, PDF.\n\niLibrary export: 31 October 
  2017, 21:40 Paris time (GMT+00:00)\nFree
  preview export: never\nFTI loaded: no.
-DTSTAMP:20171108T000448Z
+DTSTAMP:20171108T235048Z
 DTSTART:20171114T140000Z
 DTEND:20171114T141500Z
 TRANSP:TRANSPARENT
@@ -282,10 +181,10 @@ DESCRIPTION:OECD Economic Surveys: Switzerland 2017
  h\nDOI: https://doi.org/10.1787/eco_surv
  eys-che-2017-en\nPublication type: Econo
  mic survey\nReleased as: ePub, PDF, Pape
- rback.\n\niLibrary export: 30 October 20
- 17, 11:03 Paris time (GMT+00:00)\nFreepr
+ rback.\n\niLibrary export: 7 November 20
+ 17, 21:45 Paris time (GMT+00:00)\nFreepr
  eview export: never\nFTI loaded: no.
-DTSTAMP:20171108T000448Z
+DTSTAMP:20171108T235048Z
 DTSTART:20171114T140000Z
 DTEND:20171114T141500Z
 TRANSP:TRANSPARENT
@@ -315,7 +214,7 @@ DESCRIPTION:How's Life? 2017 (en)  - Measuring Well-
  niLibrary export: 30 October 2017, 11:03
   Paris time (GMT+00:00)\nFreepreview exp
  ort: never\nFTI loaded: no.
-DTSTAMP:20171108T000448Z
+DTSTAMP:20171108T235048Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -348,10 +247,11 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  age: English\nDOI: https://doi.org/10.17
  87/9789264283718-en\nPublication type: B
  ook\nReleased as: Paperback, PDF.\n\niLi
- brary export: 6 November 2017, 21:43 Par
+ brary export: 7 November 2017, 21:45 Par
  is time (GMT+00:00)\nFreepreview export:
-  never\nFTI loaded: ✓.
-DTSTAMP:20171108T000448Z
+  7 November 2017, 22:40 Paris time (GMT+
+ 00:00)\nFTI loaded: ✓.
+DTSTAMP:20171108T235048Z
 DTSTART:20171117T110000Z
 DTEND:20171117T111500Z
 TRANSP:TRANSPARENT
@@ -389,7 +289,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  brary export: 6 November 2017, 21:43 Par
  is time (GMT+00:00)\nFreepreview export:
   never\nFTI loaded: no.
-DTSTAMP:20171108T000448Z
+DTSTAMP:20171108T235048Z
 DTSTART:20171117T110000Z
 DTEND:20171117T111500Z
 TRANSP:TRANSPARENT
@@ -424,10 +324,11 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  e: English\nDOI: https://doi.org/10.1787
  /9789264283756-en\nPublication type: Boo
  k\nReleased as: Paperback, PDF.\n\niLibr
- ary export: 6 November 2017, 21:43 Paris
-  time (GMT+00:00)\nFreepreview export: n
- ever\nFTI loaded: ✓.
-DTSTAMP:20171108T000448Z
+ ary export: 7 November 2017, 21:45 Paris
+  time (GMT+00:00)\nFreepreview export: 7
+  November 2017, 22:40 Paris time (GMT+00
+ :00)\nFTI loaded: ✓.
+DTSTAMP:20171108T235048Z
 DTSTART:20171117T110000Z
 DTEND:20171117T111500Z
 TRANSP:TRANSPARENT
@@ -462,11 +363,12 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  tre for Tax Policy and Administration\nL
  anguage: English\nDOI: https://doi.org/1
  0.1787/9789264283770-en\nPublication typ
- e: Book\nReleased as: Paperback, PDF.\n\
- niLibrary export: 6 November 2017, 21:43
+ e: Book\nReleased as: PDF, Paperback.\n\
+ niLibrary export: 7 November 2017, 21:45
   Paris time (GMT+00:00)\nFreepreview exp
- ort: never\nFTI loaded: ✓.
-DTSTAMP:20171108T000448Z
+ ort: 7 November 2017, 22:40 Paris time (
+ GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171108T235048Z
 DTSTART:20171117T110000Z
 DTEND:20171117T111500Z
 TRANSP:TRANSPARENT
@@ -501,10 +403,11 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  e: English\nDOI: https://doi.org/10.1787
  /9789264283800-en\nPublication type: Boo
  k\nReleased as: PDF, Paperback.\n\niLibr
- ary export: 6 November 2017, 21:43 Paris
-  time (GMT+00:00)\nFreepreview export: n
- ever\nFTI loaded: ✓.
-DTSTAMP:20171108T000448Z
+ ary export: 7 November 2017, 21:45 Paris
+  time (GMT+00:00)\nFreepreview export: 7
+  November 2017, 22:40 Paris time (GMT+00
+ :00)\nFTI loaded: ✓.
+DTSTAMP:20171108T235048Z
 DTSTART:20171117T110000Z
 DTEND:20171117T111500Z
 TRANSP:TRANSPARENT
@@ -539,10 +442,11 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  ge: English\nDOI: https://doi.org/10.178
  7/9789264283824-en\nPublication type: Bo
  ok\nReleased as: Paperback, PDF.\n\niLib
- rary export: 6 November 2017, 21:43 Pari
+ rary export: 7 November 2017, 21:45 Pari
  s time (GMT+00:00)\nFreepreview export: 
- never\nFTI loaded: ✓.
-DTSTAMP:20171108T000448Z
+ 7 November 2017, 22:40 Paris time (GMT+0
+ 0:00)\nFTI loaded: ✓.
+DTSTAMP:20171108T235048Z
 DTSTART:20171117T110000Z
 DTEND:20171117T111500Z
 TRANSP:TRANSPARENT
@@ -556,6 +460,38 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
  ses: Jersey 2017 (Second Round) (en) on 
  17 November 2017, 13:00 Paris time (GMT+
  02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264280489-en
+SUMMARY:Getting Skills Right: United Kingdom (en
+ ) on 20 November 2017, 12:00 Paris time 
+ (GMT+02:00)
+DESCRIPTION:Getting Skills Right: United Kingdom (en
+ )  by Directorate for Employment, Labour
+  and Social Affairs has an embargo date/
+ time of 20 November 2017, 12:00 Paris ti
+ me (GMT+02:00).\n\nDirectorate: Director
+ ate for Employment, Labour and Social Af
+ fairs\nLanguage: English\nDOI: https://d
+ oi.org/10.1787/9789264280489-en\nPublica
+ tion type: Book\nReleased as: PDF, Paper
+ back.\n\niLibrary export: 6 November 201
+ 7, 21:43 Paris time (GMT+00:00)\nFreepre
+ view export: never\nFTI loaded: ✓.
+DTSTAMP:20171108T235048Z
+DTSTART:20171120T100000Z
+DTEND:20171120T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Getting Skills Right: United K
+ ingdom (en) on 20 November 2017, 12:00 P
+ aris time (GMT+02:00)
 END:VALARM
 END:VEVENT
 
@@ -578,7 +514,7 @@ DESCRIPTION:Le recrutement des travailleurs immigrés
  3 Paris time (GMT+00:00)\nFreepreview ex
  port: 26 October 2017, 21:28 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171108T000448Z
+DTSTAMP:20171108T235048Z
 DTSTART:20171120T100000Z
 DTEND:20171120T101500Z
 TRANSP:TRANSPARENT
@@ -610,7 +546,7 @@ DESCRIPTION:Revenue Statistics: 1965-2016 (en)  by C
  Library export: 23 October 2017, 22:14 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20171108T000448Z
+DTSTAMP:20171108T235048Z
 DTSTART:20171123T100000Z
 DTEND:20171123T101500Z
 TRANSP:TRANSPARENT
@@ -643,7 +579,7 @@ DESCRIPTION:Statistiques des recettes publiques : 19
  ber 2017, 22:14 Paris time (GMT+00:00)\n
  Freepreview export: never\nFTI loaded: n
  o.
-DTSTAMP:20171108T000448Z
+DTSTAMP:20171108T235048Z
 DTSTART:20171123T100000Z
 DTEND:20171123T101500Z
 TRANSP:TRANSPARENT
@@ -670,11 +606,11 @@ DESCRIPTION:Examens environnementaux de l'OCDE: Suis
  Directorate: Environment Directorate\nLa
  nguage: French\nDOI: https://doi.org/10.
  1787/9789264279698-fr\nPublication type:
-  Book\nReleased as: PDF, Paperback, ePub
+  Book\nReleased as: ePub, PDF, Paperback
  .\n\niLibrary export: 3 November 2017, 2
  1:56 Paris time (GMT+00:00)\nFreepreview
   export: never\nFTI loaded: no.
-DTSTAMP:20171108T000448Z
+DTSTAMP:20171108T235048Z
 DTSTART:20171124T090000Z
 DTEND:20171124T091500Z
 TRANSP:TRANSPARENT
@@ -701,12 +637,12 @@ DESCRIPTION:OECD Environmental Performance Reviews:
  :00).\n\nDirectorate: Environment Direct
  orate\nLanguage: English\nDOI: https://d
  oi.org/10.1787/9789264279674-en\nPublica
- tion type: Book\nReleased as: ePub, PDF,
-  Paperback.\n\niLibrary export: 3 Novemb
- er 2017, 21:56 Paris time (GMT+00:00)\nF
+ tion type: Book\nReleased as: Paperback,
+  ePub, PDF.\n\niLibrary export: 7 Novemb
+ er 2017, 21:45 Paris time (GMT+00:00)\nF
  reepreview export: never\nFTI loaded: no
  .
-DTSTAMP:20171108T000448Z
+DTSTAMP:20171108T235048Z
 DTSTART:20171124T090000Z
 DTEND:20171124T091500Z
 TRANSP:TRANSPARENT
@@ -741,7 +677,7 @@ DESCRIPTION:Monitoring Health System Performance in
  33 Paris time (GMT+00:00)\nFreepreview e
  xport: 26 October 2017, 21:28 Paris time
   (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171108T000448Z
+DTSTAMP:20171108T235048Z
 DTSTART:20171129T230000Z
 DTEND:20171129T231500Z
 TRANSP:TRANSPARENT
@@ -774,7 +710,7 @@ DESCRIPTION:OECD Reviews of Health Systems: Peru 201
   2017, 20:35 Paris time (GMT+00:00)\nFre
  epreview export: 26 October 2017, 21:28 
  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171108T000448Z
+DTSTAMP:20171108T235048Z
 DTSTART:20171129T230000Z
 DTEND:20171129T231500Z
 TRANSP:TRANSPARENT
@@ -806,7 +742,7 @@ DESCRIPTION:OECD Reviews of School Resources: Chile
  0 October 2017, 21:33 Paris time (GMT+00
  :00)\nFreepreview export: never\nFTI loa
  ded: no.
-DTSTAMP:20171108T000448Z
+DTSTAMP:20171108T235048Z
 DTSTART:20171130T230000Z
 DTEND:20171130T231500Z
 TRANSP:TRANSPARENT
@@ -837,7 +773,7 @@ DESCRIPTION:Examens environnementaux de l'OCDE: Cana
  \n\niLibrary export: 2 November 2017, 21
  :17 Paris time (GMT+00:00)\nFreepreview 
  export: never\nFTI loaded: no.
-DTSTAMP:20171108T000448Z
+DTSTAMP:20171108T235048Z
 DTSTART:20171201T100000Z
 DTEND:20171201T101500Z
 TRANSP:TRANSPARENT
@@ -868,7 +804,7 @@ DESCRIPTION:OECD Environmental Performance Reviews:
  n\niLibrary export: 2 November 2017, 21:
  17 Paris time (GMT+00:00)\nFreepreview e
  xport: never\nFTI loaded: ✓.
-DTSTAMP:20171108T000448Z
+DTSTAMP:20171108T235048Z
 DTSTART:20171201T100000Z
 DTEND:20171201T101500Z
 TRANSP:TRANSPARENT
@@ -901,7 +837,7 @@ DESCRIPTION:Boosting Disaster Prevention through Inn
  ack.\n\niLibrary export: 3 November 2017
  , 21:56 Paris time (GMT+00:00)\nFreeprev
  iew export: never\nFTI loaded: no.
-DTSTAMP:20171108T000448Z
+DTSTAMP:20171108T235048Z
 DTSTART:20171204T090000Z
 DTEND:20171204T091500Z
 TRANSP:TRANSPARENT
@@ -935,7 +871,7 @@ DESCRIPTION:Getting Skills Right: Italy (en)  by Dir
  aris time (GMT+00:00)\nFreepreview expor
  t: 3 October 2017, 21:12 Paris time (GMT
  +00:00)\nFTI loaded: ✓.
-DTSTAMP:20171108T000448Z
+DTSTAMP:20171108T235048Z
 DTSTART:20171221T090000Z
 DTEND:20171221T091500Z
 TRANSP:TRANSPARENT

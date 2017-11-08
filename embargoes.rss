@@ -8,56 +8,11 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Wed, 08 Nov 2017 00:04:50 GMT</pubDate>
+      <pubDate>Wed, 08 Nov 2017 23:50:50 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
                  type="application/rss+xml"/>
-      <item>
-         <guid isPermaLink="false">10.1787/36600267-en</guid>
-         <pubDate>Mon, 06 Nov 2017 01:00:00 GMT</pubDate>
-         <title>Insolvency Regimes, Technology Diffusion and Productivity Growth  (en) - Evidence from Firms in OECD Countries (en)</title>
-         <link>https://doi.org/10.1787/36600267-en</link>
-         <description>Insolvency Regimes, Technology Diffusion and Productivity Growth  (en) - Evidence from Firms in OECD Countries (en) by Economics Department has an embargo on Monday, 6 November 2017, 3:00 Paris time (GMT+02:00).</description>
-         <oe:embargoTime>2017-11-06T01:00:00Z</oe:embargoTime>
-         <oe:launchTime/>
-         <oe:directorate>Economics Department</oe:directorate>
-         <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Friday, 3 November 2017, 21:56 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Friday, 3 November 2017, 22:55 Paris time (GMT+00:00)</oe:freePreviewExport>
-         <oe:catalogueType>Working paper</oe:catalogueType>
-         <oe:availableMedia>PDF</oe:availableMedia>
-      </item>
-      <item>
-         <guid isPermaLink="false">10.1787/9789264281288-en</guid>
-         <pubDate>Mon, 06 Nov 2017 08:30:00 GMT</pubDate>
-         <title>Understanding Financial Accounts (en)</title>
-         <link>https://doi.org/10.1787/9789264281288-en</link>
-         <description>Understanding Financial Accounts (en) by Statistics Directorate has an embargo on Monday, 6 November 2017, 10:30 Paris time (GMT+02:00).</description>
-         <oe:embargoTime>2017-11-06T08:30:00Z</oe:embargoTime>
-         <oe:launchTime/>
-         <oe:directorate>Statistics Directorate</oe:directorate>
-         <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Monday, 6 November 2017, 21:43 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Thursday, 2 November 2017, 22:01 Paris time (GMT+00:00)</oe:freePreviewExport>
-         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF, ePub</oe:availableMedia>
-      </item>
-      <item>
-         <guid isPermaLink="false">10.1787/2d01150c-en</guid>
-         <pubDate>Mon, 06 Nov 2017 09:30:00 GMT</pubDate>
-         <title>Where to get the best bang for the buck in the United Kingdom? (en) - Industrial strategy, investment and lagging regions (en)</title>
-         <link>https://doi.org/10.1787/2d01150c-en</link>
-         <description>Where to get the best bang for the buck in the United Kingdom? (en) - Industrial strategy, investment and lagging regions (en) by Economics Department has an embargo on Monday, 6 November 2017, 11:30 Paris time (GMT+02:00).</description>
-         <oe:embargoTime>2017-11-06T09:30:00Z</oe:embargoTime>
-         <oe:launchTime/>
-         <oe:directorate>Economics Department</oe:directorate>
-         <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Friday, 3 November 2017, 21:56 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Friday, 3 November 2017, 22:55 Paris time (GMT+00:00)</oe:freePreviewExport>
-         <oe:catalogueType>Working paper</oe:catalogueType>
-         <oe:availableMedia>PDF</oe:availableMedia>
-      </item>
       <item>
          <guid isPermaLink="false">10.1787/8b69400e-en</guid>
          <pubDate>Thu, 09 Nov 2017 10:00:00 GMT</pubDate>
@@ -82,11 +37,11 @@
          <oe:embargoTime>2017-11-10T10:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Friday, 20 October 2017, 9:07 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>ePub, PDF, HTML</oe:availableMedia>
+         <oe:availableMedia>PDF, HTML, ePub</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/health_glance-2017-fr</guid>
@@ -97,11 +52,11 @@
          <oe:embargoTime>2017-11-10T10:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Tuesday, 31 October 2017, 21:40 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, HTML, ePub</oe:availableMedia>
+         <oe:availableMedia>ePub, PDF, HTML</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264286184-en</guid>
@@ -113,7 +68,7 @@
          <oe:launchTime/>
          <oe:directorate>Development Centre</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Thursday, 2 November 2017, 21:17 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Tuesday, 7 November 2017, 21:45 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
@@ -131,7 +86,7 @@
          <oe:iLibraryExport>Tuesday, 31 October 2017, 21:40 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Economic survey</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback, ePub</oe:availableMedia>
+         <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/eco_surveys-che-2017-en</guid>
@@ -143,7 +98,7 @@
          <oe:launchTime/>
          <oe:directorate>Economics Department</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Monday, 30 October 2017, 11:03 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Tuesday, 7 November 2017, 21:45 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Economic survey</oe:catalogueType>
          <oe:availableMedia>ePub, PDF, Paperback</oe:availableMedia>
@@ -173,8 +128,8 @@
          <oe:launchTime/>
          <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Monday, 6 November 2017, 21:43 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:iLibraryExport>Tuesday, 7 November 2017, 21:45 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Tuesday, 7 November 2017, 22:40 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
@@ -203,8 +158,8 @@
          <oe:launchTime/>
          <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Monday, 6 November 2017, 21:43 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:iLibraryExport>Tuesday, 7 November 2017, 21:45 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Tuesday, 7 November 2017, 22:40 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
@@ -218,10 +173,10 @@
          <oe:launchTime/>
          <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Monday, 6 November 2017, 21:43 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:iLibraryExport>Tuesday, 7 November 2017, 21:45 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Tuesday, 7 November 2017, 22:40 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264283800-en</guid>
@@ -233,8 +188,8 @@
          <oe:launchTime/>
          <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Monday, 6 November 2017, 21:43 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:iLibraryExport>Tuesday, 7 November 2017, 21:45 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Tuesday, 7 November 2017, 22:40 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
@@ -248,10 +203,25 @@
          <oe:launchTime/>
          <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Tuesday, 7 November 2017, 21:45 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Tuesday, 7 November 2017, 22:40 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264280489-en</guid>
+         <pubDate>Mon, 20 Nov 2017 10:00:00 GMT</pubDate>
+         <title>Getting Skills Right: United Kingdom (en)</title>
+         <link>https://doi.org/10.1787/9789264280489-en</link>
+         <description>Getting Skills Right: United Kingdom (en) by Directorate for Employment, Labour and Social Affairs has an embargo on Monday, 20 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-20T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Monday, 6 November 2017, 21:43 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264276741-fr</guid>
@@ -311,7 +281,7 @@
          <oe:iLibraryExport>Friday, 3 November 2017, 21:56 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback, ePub</oe:availableMedia>
+         <oe:availableMedia>ePub, PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264279674-en</guid>
@@ -323,10 +293,10 @@
          <oe:launchTime/>
          <oe:directorate>Environment Directorate</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Friday, 3 November 2017, 21:56 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Tuesday, 7 November 2017, 21:45 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>ePub, PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264282988-en</guid>
