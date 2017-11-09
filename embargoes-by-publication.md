@@ -1,27 +1,6 @@
-# OECD publication embargoes by date (26 embargoes)
+# OECD publication embargoes by date (28 embargoes)
 
-*Data generated on Wednesday 8 November 2017 at 23:50:39*
-
-------
-
-## [How do teachers become knowledgeable and confident in classroom management? (en) - Insights from a pilot study (en)](https://doi.org/10.1787/8b69400e-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 9 November 2017 at 10:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 7 November 2017 at 21:45:38
-- [x] Exported to Keepeek Tuesday 7 November 2017 at 22:40:32
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Friday 10 November 2017 at 0:03:56*
 
 ------
 
@@ -33,8 +12,8 @@ Friday 10 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 October 2017 at 9:07:21
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 8 November 2017 at 21:35:25
+- [x] Exported to Keepeek Wednesday 8 November 2017 at 22:25:15
 
 ### Additional Information
 
@@ -54,8 +33,8 @@ Friday 10 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 31 October 2017 at 21:40:41
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 8 November 2017 at 21:35:25
+- [x] Exported to Keepeek Wednesday 8 November 2017 at 22:25:15
 
 ### Additional Information
 
@@ -130,6 +109,27 @@ Tuesday 14 November 2017 at 14:00:00 | no launch event
 
 ------
 
+## [Permit allocation rules and investment incentives in emissions trading systems (en)](https://doi.org/10.1787/c3acf05e-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 9:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 9 November 2017 at 21:36:23
+- [x] Exported to Keepeek Thursday 9 November 2017 at 22:37:28
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
 ## [How's Life? 2017 (en) - Measuring Well-being (en)](https://doi.org/10.1787/how_life-2017-en)
 
 Embargo date | Launch date
@@ -147,6 +147,48 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Dans quelle mesure les compétences en littératie de la population en âge de travailler vont-elles changer d’ici 2022 ? (fr)](https://doi.org/10.1787/5eca659c-fr)
+
+Embargo date | Launch date
+-------------|------------
+Friday 17 November 2017 at 6:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 9 November 2017 at 21:36:23
+- [x] Exported to Keepeek Thursday 9 November 2017 at 22:37:28
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [How much will the literacy level of the working-age population change from now to 2022? (en)](https://doi.org/10.1787/3fbc48a8-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 17 November 2017 at 6:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 9 November 2017 at 21:36:23
+- [x] Exported to Keepeek Thursday 9 November 2017 at 22:37:28
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
@@ -285,8 +327,8 @@ Monday 20 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 6 November 2017 at 21:43:00
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 8 November 2017 at 21:35:25
+- [x] Exported to Keepeek Wednesday 8 November 2017 at 22:25:15
 
 ### Additional Information
 

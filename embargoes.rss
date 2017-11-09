@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Wed, 08 Nov 2017 23:50:50 GMT</pubDate>
+      <pubDate>Fri, 10 Nov 2017 00:04:08 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -38,8 +38,8 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Friday, 20 October 2017, 9:07 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:iLibraryExport>Wednesday, 8 November 2017, 21:35 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Wednesday, 8 November 2017, 22:25 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>PDF, HTML, ePub</oe:availableMedia>
       </item>
@@ -53,8 +53,8 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Tuesday, 31 October 2017, 21:40 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:iLibraryExport>Wednesday, 8 November 2017, 21:35 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Wednesday, 8 November 2017, 22:25 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>ePub, PDF, HTML</oe:availableMedia>
       </item>
@@ -104,6 +104,21 @@
          <oe:availableMedia>ePub, PDF, Paperback</oe:availableMedia>
       </item>
       <item>
+         <guid isPermaLink="false">10.1787/c3acf05e-en</guid>
+         <pubDate>Wed, 15 Nov 2017 09:00:00 GMT</pubDate>
+         <title>Permit allocation rules and investment incentives in emissions trading systems (en)</title>
+         <link>https://doi.org/10.1787/c3acf05e-en</link>
+         <description>Permit allocation rules and investment incentives in emissions trading systems (en) by Centre for Tax Policy and Administration has an embargo on Wednesday, 15 November 2017, 11:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T09:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Thursday, 9 November 2017, 21:36 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Thursday, 9 November 2017, 22:37 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
          <guid isPermaLink="false">10.1787/how_life-2017-en</guid>
          <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
          <title>How's Life? 2017 (en) - Measuring Well-being (en)</title>
@@ -117,6 +132,36 @@
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/5eca659c-fr</guid>
+         <pubDate>Fri, 17 Nov 2017 06:00:00 GMT</pubDate>
+         <title>Dans quelle mesure les compétences en littératie de la population en âge de travailler vont-elles changer d’ici 2022 ? (fr)</title>
+         <link>https://doi.org/10.1787/5eca659c-fr</link>
+         <description>Dans quelle mesure les compétences en littératie de la population en âge de travailler vont-elles changer d’ici 2022 ? (fr) by Directorate for Education and Skills has an embargo on Friday, 17 November 2017, 8:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-17T06:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Education and Skills</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Thursday, 9 November 2017, 21:36 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Thursday, 9 November 2017, 22:37 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/3fbc48a8-en</guid>
+         <pubDate>Fri, 17 Nov 2017 06:00:00 GMT</pubDate>
+         <title>How much will the literacy level of the working-age population change from now to 2022? (en)</title>
+         <link>https://doi.org/10.1787/3fbc48a8-en</link>
+         <description>How much will the literacy level of the working-age population change from now to 2022? (en) by Directorate for Education and Skills has an embargo on Friday, 17 November 2017, 8:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-17T06:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Education and Skills</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Thursday, 9 November 2017, 21:36 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Thursday, 9 November 2017, 22:37 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264283718-en</guid>
@@ -218,8 +263,8 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Monday, 6 November 2017, 21:43 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:iLibraryExport>Wednesday, 8 November 2017, 21:35 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Wednesday, 8 November 2017, 22:25 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
