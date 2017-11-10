@@ -23,7 +23,7 @@ DESCRIPTION:How do teachers become knowledgeable and
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 7 November 2017, 22:40 Paris time (
  GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171110T000406Z
+DTSTAMP:20171111T004911Z
 DTSTART:20171109T100000Z
 DTEND:20171109T101500Z
 TRANSP:TRANSPARENT
@@ -52,12 +52,12 @@ DESCRIPTION:Health at a Glance 2017 (en)  - OECD Ind
   Social Affairs\nLanguage: English\nDOI:
   https://doi.org/10.1787/health_glance-2
  017-en\nPublication type: Book\nReleased
-  as: PDF, HTML, ePub.\n\niLibrary export
- : 8 November 2017, 21:35 Paris time (GMT
+  as: HTML, ePub, PDF.\n\niLibrary export
+ : 9 November 2017, 21:36 Paris time (GMT
  +00:00)\nFreepreview export: 8 November 
  2017, 22:25 Paris time (GMT+00:00)\nFTI 
  loaded: ✓.
-DTSTAMP:20171110T000406Z
+DTSTAMP:20171111T004911Z
 DTSTART:20171110T100000Z
 DTEND:20171110T101500Z
 TRANSP:TRANSPARENT
@@ -86,11 +86,11 @@ DESCRIPTION:Panorama de la santé 2017 (fr)  - Les in
  rench\nDOI: https://doi.org/10.1787/heal
  th_glance-2017-fr\nPublication type: Boo
  k\nReleased as: ePub, PDF, HTML.\n\niLib
- rary export: 8 November 2017, 21:35 Pari
+ rary export: 9 November 2017, 21:36 Pari
  s time (GMT+00:00)\nFreepreview export: 
  8 November 2017, 22:25 Paris time (GMT+0
  0:00)\nFTI loaded: ✓.
-DTSTAMP:20171110T000406Z
+DTSTAMP:20171111T004911Z
 DTSTART:20171110T100000Z
 DTEND:20171110T101500Z
 TRANSP:TRANSPARENT
@@ -118,12 +118,11 @@ DESCRIPTION:Economic Outlook for Southeast Asia, Chi
  02:00).\n\nDirectorate: Development Cent
  re\nLanguage: English\nDOI: https://doi.
  org/10.1787/9789264286184-en\nPublicatio
- n type: Stand-alone monograph\nReleased 
- as: PDF, Paperback.\n\niLibrary export: 
- 7 November 2017, 21:45 Paris time (GMT+0
- 0:00)\nFreepreview export: never\nFTI lo
- aded: no.
-DTSTAMP:20171110T000406Z
+ n type: Book\nReleased as: Paperback, PD
+ F.\n\niLibrary export: 7 November 2017, 
+ 21:45 Paris time (GMT+00:00)\nFreeprevie
+ w export: never\nFTI loaded: no.
+DTSTAMP:20171111T004911Z
 DTSTART:20171114T020000Z
 DTEND:20171114T021500Z
 TRANSP:TRANSPARENT
@@ -155,7 +154,7 @@ DESCRIPTION:Études économiques de l'OCDE : Suisse 20
  ub, PDF.\n\niLibrary export: 31 October 
  2017, 21:40 Paris time (GMT+00:00)\nFree
  preview export: never\nFTI loaded: no.
-DTSTAMP:20171110T000406Z
+DTSTAMP:20171111T004911Z
 DTSTART:20171114T140000Z
 DTEND:20171114T141500Z
 TRANSP:TRANSPARENT
@@ -182,11 +181,11 @@ DESCRIPTION:OECD Economic Surveys: Switzerland 2017
  : Economics Department\nLanguage: Englis
  h\nDOI: https://doi.org/10.1787/eco_surv
  eys-che-2017-en\nPublication type: Econo
- mic survey\nReleased as: ePub, PDF, Pape
- rback.\n\niLibrary export: 7 November 20
+ mic survey\nReleased as: Paperback, ePub
+ , PDF.\n\niLibrary export: 7 November 20
  17, 21:45 Paris time (GMT+00:00)\nFreepr
  eview export: never\nFTI loaded: no.
-DTSTAMP:20171110T000406Z
+DTSTAMP:20171111T004911Z
 DTSTART:20171114T140000Z
 DTEND:20171114T141500Z
 TRANSP:TRANSPARENT
@@ -198,6 +197,38 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Economic Surveys: Switzer
  land 2017 (en) on 14 November 2017, 16:0
  0 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/39d69dff-en
+SUMMARY:Structural policy indicators database fo
+ r economic research (SPIDER) (en) on 15 
+ November 2017, 3:00 Paris time (GMT+02:0
+ 0)
+DESCRIPTION:Structural policy indicators database fo
+ r economic research (SPIDER) (en)  by Ec
+ onomics Department has an embargo date/t
+ ime of 15 November 2017, 3:00 Paris time
+  (GMT+02:00).\n\nDirectorate: Economics 
+ Department\nLanguage: English\nDOI: http
+ s://doi.org/10.1787/39d69dff-en\nPublica
+ tion type: Working paper\nReleased as: P
+ DF.\n\niLibrary export: never\nFreeprevi
+ ew export: never\nFTI loaded: no.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T010000Z
+DTEND:20171115T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Structural policy indicators d
+ atabase for economic research (SPIDER) (
+ en) on 15 November 2017, 3:00 Paris time
+  (GMT+02:00)
 END:VALARM
 END:VEVENT
 
@@ -221,7 +252,7 @@ DESCRIPTION:Permit allocation rules and investment i
  \nFreepreview export: 9 November 2017, 2
  2:37 Paris time (GMT+00:00)\nFTI loaded:
   ✓.
-DTSTAMP:20171110T000406Z
+DTSTAMP:20171111T004911Z
 DTSTART:20171115T090000Z
 DTEND:20171115T091500Z
 TRANSP:TRANSPARENT
@@ -252,7 +283,7 @@ DESCRIPTION:How's Life? 2017 (en)  - Measuring Well-
  niLibrary export: 30 October 2017, 11:03
   Paris time (GMT+00:00)\nFreepreview exp
  ort: never\nFTI loaded: no.
-DTSTAMP:20171110T000406Z
+DTSTAMP:20171111T004911Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -264,6 +295,865 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: How's Life? 2017 (en) on 15 No
  vember 2017, 12:00 Paris time (GMT+02:00
  )
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/6d395318-zh
+SUMMARY:How's Life? 2017 (Summary in Chinese) (e
+ n), 2017年生活满意度调查 (zh) on 15 November 201
+ 7, 12:00 Paris time (GMT+02:00)
+DESCRIPTION:How's Life? 2017 (Summary in Chinese) (e
+ n), 2017年生活满意度调查 (zh)  - Measuring Well-
+ being (en), 评估福利 (zh) by Statistics Dire
+ ctorate has an embargo date/time of 15 N
+ ovember 2017, 12:00 Paris time (GMT+02:0
+ 0).\n\nDirectorate: Statistics Directora
+ te\nLanguage: Chinese\nDOI: https://doi.
+ org/10.1787/6d395318-zh\nPublication typ
+ e: Summary\nReleased as: PDF, ePub, HTML
+ .\n\niLibrary export: never\nFreepreview
+  export: never\nFTI loaded: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in C
+ hinese) (en), 2017年生活满意度调查 (zh) on 15 No
+ vember 2017, 12:00 Paris time (GMT+02:00
+ )
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/818ff29a-cs
+SUMMARY:How's Life? 2017 (Summary in Czech) (en)
+ , Jak se máme? 2017 (cs) on 15 November 
+ 2017, 12:00 Paris time (GMT+02:00)
+DESCRIPTION:How's Life? 2017 (Summary in Czech) (en)
+ , Jak se máme? 2017 (cs)  - Measuring We
+ ll-being (en), Měření pohody (cs) by Sta
+ tistics Directorate has an embargo date/
+ time of 15 November 2017, 12:00 Paris ti
+ me (GMT+02:00).\n\nDirectorate: Statisti
+ cs Directorate\nLanguage: Czech\nDOI: ht
+ tps://doi.org/10.1787/818ff29a-cs\nPubli
+ cation type: Summary\nReleased as: PDF, 
+ HTML, ePub.\n\niLibrary export: never\nF
+ reepreview export: never\nFTI loaded: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in C
+ zech) (en), Jak se máme? 2017 (cs) on 15
+  November 2017, 12:00 Paris time (GMT+02
+ :00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/a277c30e-da
+SUMMARY:How's Life? 2017 (Summary in Danish) (en
+ ), Hvordan er livet? 2017 (da) on 15 Nov
+ ember 2017, 12:00 Paris time (GMT+02:00)
+DESCRIPTION:How's Life? 2017 (Summary in Danish) (en
+ ), Hvordan er livet? 2017 (da)  - Measur
+ ing Well-being (en), Måling af velfærd (
+ da) by Statistics Directorate has an emb
+ argo date/time of 15 November 2017, 12:0
+ 0 Paris time (GMT+02:00).\n\nDirectorate
+ : Statistics Directorate\nLanguage: Dani
+ sh\nDOI: https://doi.org/10.1787/a277c30
+ e-da\nPublication type: Summary\nRelease
+ d as: ePub, PDF, HTML.\n\niLibrary expor
+ t: never\nFreepreview export: never\nFTI
+  loaded: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in D
+ anish) (en), Hvordan er livet? 2017 (da)
+  on 15 November 2017, 12:00 Paris time (
+ GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/8d3003fb-nl
+SUMMARY:How's Life? 2017 (Summary in Dutch) (en)
+ , Hoe is het leven? 2017 (nl) on 15 Nove
+ mber 2017, 12:00 Paris time (GMT+02:00)
+DESCRIPTION:How's Life? 2017 (Summary in Dutch) (en)
+ , Hoe is het leven? 2017 (nl)  - Measuri
+ ng Well-being (en), Meting van het welzi
+ jn (nl) by Statistics Directorate has an
+  embargo date/time of 15 November 2017, 
+ 12:00 Paris time (GMT+02:00).\n\nDirecto
+ rate: Statistics Directorate\nLanguage: 
+ Dutch\nDOI: https://doi.org/10.1787/8d30
+ 03fb-nl\nPublication type: Summary\nRele
+ ased as: HTML, ePub, PDF.\n\niLibrary ex
+ port: never\nFreepreview export: never\n
+ FTI loaded: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in D
+ utch) (en), Hoe is het leven? 2017 (nl) 
+ on 15 November 2017, 12:00 Paris time (G
+ MT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/29ece891-en
+SUMMARY:How's Life? 2017 (Summary in English) (e
+ n) on 15 November 2017, 12:00 Paris time
+  (GMT+02:00)
+DESCRIPTION:How's Life? 2017 (Summary in English) (e
+ n)  - Measuring Well-being (en) by Stati
+ stics Directorate has an embargo date/ti
+ me of 15 November 2017, 12:00 Paris time
+  (GMT+02:00).\n\nDirectorate: Statistics
+  Directorate\nLanguage: English\nDOI: ht
+ tps://doi.org/10.1787/29ece891-en\nPubli
+ cation type: Summary\nReleased as: ePub,
+  PDF, HTML.\n\niLibrary export: never\nF
+ reepreview export: never\nFTI loaded: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in E
+ nglish) (en) on 15 November 2017, 12:00 
+ Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/258aee62-et
+SUMMARY:How's Life? 2017 (Summary in Estonian) (
+ en), Milline on elu? 2017 (et) on 15 Nov
+ ember 2017, 12:00 Paris time (GMT+02:00)
+DESCRIPTION:How's Life? 2017 (Summary in Estonian) (
+ en), Milline on elu? 2017 (et)  - Measur
+ ing Well-being (en), Heaolu mõõtmine (et
+ ) by Statistics Directorate has an embar
+ go date/time of 15 November 2017, 12:00 
+ Paris time (GMT+02:00).\n\nDirectorate: 
+ Statistics Directorate\nLanguage: Estoni
+ an\nDOI: https://doi.org/10.1787/258aee6
+ 2-et\nPublication type: Summary\nRelease
+ d as: HTML, ePub, PDF.\n\niLibrary expor
+ t: never\nFreepreview export: never\nFTI
+  loaded: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in E
+ stonian) (en), Milline on elu? 2017 (et)
+  on 15 November 2017, 12:00 Paris time (
+ GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/449f5402-fi
+SUMMARY:How's Life? 2017 (Summary in Finnish) (e
+ n), Millaista on elämä? 2017 (fi) on 15 
+ November 2017, 12:00 Paris time (GMT+02:
+ 00)
+DESCRIPTION:How's Life? 2017 (Summary in Finnish) (e
+ n), Millaista on elämä? 2017 (fi)  - Mea
+ suring Well-being (en), Hyvinvointia mit
+ taamassa (fi) by Statistics Directorate 
+ has an embargo date/time of 15 November 
+ 2017, 12:00 Paris time (GMT+02:00).\n\nD
+ irectorate: Statistics Directorate\nLang
+ uage: Finnish\nDOI: https://doi.org/10.1
+ 787/449f5402-fi\nPublication type: Summa
+ ry\nReleased as: HTML, PDF, ePub.\n\niLi
+ brary export: never\nFreepreview export:
+  never\nFTI loaded: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in F
+ innish) (en), Millaista on elämä? 2017 (
+ fi) on 15 November 2017, 12:00 Paris tim
+ e (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/b9cd53b3-fr
+SUMMARY:How's Life? 2017 (Summary in French) (en
+ ),  Comment va la vie ? 2017 (fr) on 15 
+ November 2017, 12:00 Paris time (GMT+02:
+ 00)
+DESCRIPTION:How's Life? 2017 (Summary in French) (en
+ ),  Comment va la vie ? 2017 (fr)  - Mea
+ suring Well-being (en), Mesurer le bien-
+ être (fr) by Statistics Directorate has 
+ an embargo date/time of 15 November 2017
+ , 12:00 Paris time (GMT+02:00).\n\nDirec
+ torate: Statistics Directorate\nLanguage
+ : French\nDOI: https://doi.org/10.1787/b
+ 9cd53b3-fr\nPublication type: Summary\nR
+ eleased as: HTML, PDF, ePub.\n\niLibrary
+  export: never\nFreepreview export: neve
+ r\nFTI loaded: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in F
+ rench) (en),  Comment va la vie ? 2017 (
+ fr) on 15 November 2017, 12:00 Paris tim
+ e (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/c6de855c-de
+SUMMARY:How's Life? 2017 (Summary in German) (en
+ ), How's Life? 2017 (de) on 15 November 
+ 2017, 12:00 Paris time (GMT+02:00)
+DESCRIPTION:How's Life? 2017 (Summary in German) (en
+ ), How's Life? 2017 (de)  - Measuring We
+ ll-being (en), Lebensqualität messen (de
+ ) by Statistics Directorate has an embar
+ go date/time of 15 November 2017, 12:00 
+ Paris time (GMT+02:00).\n\nDirectorate: 
+ Statistics Directorate\nLanguage: German
+ \nDOI: https://doi.org/10.1787/c6de855c-
+ de\nPublication type: Summary\nReleased 
+ as: HTML, PDF, ePub.\n\niLibrary export:
+  never\nFreepreview export: never\nFTI l
+ oaded: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in G
+ erman) (en), How's Life? 2017 (de) on 15
+  November 2017, 12:00 Paris time (GMT+02
+ :00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/1342b13a-el
+SUMMARY:How's Life? 2017 (Summary in Greek) (en)
+ , Πώς είναι η ζωή; 2017 (el) on 15 Novem
+ ber 2017, 12:00 Paris time (GMT+02:00)
+DESCRIPTION:How's Life? 2017 (Summary in Greek) (en)
+ , Πώς είναι η ζωή; 2017 (el)  - Measurin
+ g Well-being (en), Μέτρηση της ευημερίας
+  (el) by Statistics Directorate has an e
+ mbargo date/time of 15 November 2017, 12
+ :00 Paris time (GMT+02:00).\n\nDirectora
+ te: Statistics Directorate\nLanguage: Gr
+ eek\nDOI: https://doi.org/10.1787/1342b1
+ 3a-el\nPublication type: Summary\nReleas
+ ed as: ePub, HTML, PDF.\n\niLibrary expo
+ rt: never\nFreepreview export: never\nFT
+ I loaded: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in G
+ reek) (en), Πώς είναι η ζωή; 2017 (el) o
+ n 15 November 2017, 12:00 Paris time (GM
+ T+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/39c84a47-he
+SUMMARY:How's Life? 2017 (Summary in Hebrew) (en
+ ), איך החיים? 2017 (he) on 15 November 2
+ 017, 12:00 Paris time (GMT+02:00)
+DESCRIPTION:How's Life? 2017 (Summary in Hebrew) (en
+ ), איך החיים? 2017 (he)  - Measuring Wel
+ l-being (en), מודדים רווחה (he) by Stati
+ stics Directorate has an embargo date/ti
+ me of 15 November 2017, 12:00 Paris time
+  (GMT+02:00).\n\nDirectorate: Statistics
+  Directorate\nLanguage: Hebrew\nDOI: htt
+ ps://doi.org/10.1787/39c84a47-he\nPublic
+ ation type: Summary\nReleased as: ePub, 
+ HTML, PDF.\n\niLibrary export: never\nFr
+ eepreview export: never\nFTI loaded: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in H
+ ebrew) (en), איך החיים? 2017 (he) on 15 
+ November 2017, 12:00 Paris time (GMT+02:
+ 00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/79915ddc-hu
+SUMMARY:How's Life? 2017 (Summary in Hungarian) 
+ (en), Milyen az élet? 2017 (hu) on 15 No
+ vember 2017, 12:00 Paris time (GMT+02:00
+ )
+DESCRIPTION:How's Life? 2017 (Summary in Hungarian) 
+ (en), Milyen az élet? 2017 (hu)  - Measu
+ ring Well-being (en), A jólét mérése (hu
+ ) by Statistics Directorate has an embar
+ go date/time of 15 November 2017, 12:00 
+ Paris time (GMT+02:00).\n\nDirectorate: 
+ Statistics Directorate\nLanguage: Hungar
+ ian\nDOI: https://doi.org/10.1787/79915d
+ dc-hu\nPublication type: Summary\nReleas
+ ed as: ePub, PDF, HTML.\n\niLibrary expo
+ rt: never\nFreepreview export: never\nFT
+ I loaded: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in H
+ ungarian) (en), Milyen az élet? 2017 (hu
+ ) on 15 November 2017, 12:00 Paris time 
+ (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/179fdc59-is
+SUMMARY:How's Life? 2017 (Summary in Icelandic) 
+ (en), Hvernig er lífið? 2017 (is) on 15 
+ November 2017, 12:00 Paris time (GMT+02:
+ 00)
+DESCRIPTION:How's Life? 2017 (Summary in Icelandic) 
+ (en), Hvernig er lífið? 2017 (is)  - Mea
+ suring Well-being (en), Mælingar á vellí
+ ðan (is) by Statistics Directorate has a
+ n embargo date/time of 15 November 2017,
+  12:00 Paris time (GMT+02:00).\n\nDirect
+ orate: Statistics Directorate\nLanguage:
+  Icelandic\nDOI: https://doi.org/10.1787
+ /179fdc59-is\nPublication type: Summary\
+ nReleased as: ePub, HTML, PDF.\n\niLibra
+ ry export: never\nFreepreview export: ne
+ ver\nFTI loaded: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in I
+ celandic) (en), Hvernig er lífið? 2017 (
+ is) on 15 November 2017, 12:00 Paris tim
+ e (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/a28efa45-it
+SUMMARY:How's Life? 2017 (Summary in Italian) (e
+ n), Come va la vita? 2017 (it) on 15 Nov
+ ember 2017, 12:00 Paris time (GMT+02:00)
+DESCRIPTION:How's Life? 2017 (Summary in Italian) (e
+ n), Come va la vita? 2017 (it)  - Measur
+ ing Well-being (en), Misurare il benesse
+ re (it) by Statistics Directorate has an
+  embargo date/time of 15 November 2017, 
+ 12:00 Paris time (GMT+02:00).\n\nDirecto
+ rate: Statistics Directorate\nLanguage: 
+ Italian\nDOI: https://doi.org/10.1787/a2
+ 8efa45-it\nPublication type: Summary\nRe
+ leased as: ePub, PDF, HTML.\n\niLibrary 
+ export: never\nFreepreview export: never
+ \nFTI loaded: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in I
+ talian) (en), Come va la vita? 2017 (it)
+  on 15 November 2017, 12:00 Paris time (
+ GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/37ae31c1-ja
+SUMMARY:How's Life? 2017 (Summary in Japanese) (
+ en), How's Life? 2017 (ja) on 15 Novembe
+ r 2017, 12:00 Paris time (GMT+02:00)
+DESCRIPTION:How's Life? 2017 (Summary in Japanese) (
+ en), How's Life? 2017 (ja)  - Measuring 
+ Well-being (en), 幸福度の測定 (ja) by Statisti
+ cs Directorate has an embargo date/time 
+ of 15 November 2017, 12:00 Paris time (G
+ MT+02:00).\n\nDirectorate: Statistics Di
+ rectorate\nLanguage: Japanese\nDOI: http
+ s://doi.org/10.1787/37ae31c1-ja\nPublica
+ tion type: Summary\nReleased as: PDF, HT
+ ML, ePub.\n\niLibrary export: never\nFre
+ epreview export: never\nFTI loaded: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in J
+ apanese) (en), How's Life? 2017 (ja) on 
+ 15 November 2017, 12:00 Paris time (GMT+
+ 02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/58c1ad2b-ko
+SUMMARY:How's Life? 2017 (Summary in Korean) (en
+ ), 2017년 삶의 질(How's Life? 2017) (ko) on 
+ 15 November 2017, 12:00 Paris time (GMT+
+ 02:00)
+DESCRIPTION:How's Life? 2017 (Summary in Korean) (en
+ ), 2017년 삶의 질(How's Life? 2017) (ko)  - 
+ Measuring Well-being (en), 복지의 측정 (ko) b
+ y Statistics Directorate has an embargo 
+ date/time of 15 November 2017, 12:00 Par
+ is time (GMT+02:00).\n\nDirectorate: Sta
+ tistics Directorate\nLanguage: Korean\nD
+ OI: https://doi.org/10.1787/58c1ad2b-ko\
+ nPublication type: Summary\nReleased as:
+  ePub, PDF, HTML.\n\niLibrary export: ne
+ ver\nFreepreview export: never\nFTI load
+ ed: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in K
+ orean) (en), 2017년 삶의 질(How's Life? 2017
+ ) (ko) on 15 November 2017, 12:00 Paris 
+ time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/1256ea14-lv
+SUMMARY:How's Life? 2017 (Summary in Latvian) (e
+ n), Kā iet? 201 (lv) on 15 November 2017
+ , 12:00 Paris time (GMT+02:00)
+DESCRIPTION:How's Life? 2017 (Summary in Latvian) (e
+ n), Kā iet? 201 (lv)  - Measuring Well-b
+ eing (en), Labklājības novērtējums (lv) 
+ by Statistics Directorate has an embargo
+  date/time of 15 November 2017, 12:00 Pa
+ ris time (GMT+02:00).\n\nDirectorate: St
+ atistics Directorate\nLanguage: Latvian\
+ nDOI: https://doi.org/10.1787/1256ea14-l
+ v\nPublication type: Summary\nReleased a
+ s: HTML, ePub, PDF.\n\niLibrary export: 
+ never\nFreepreview export: never\nFTI lo
+ aded: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in L
+ atvian) (en), Kā iet? 201 (lv) on 15 Nov
+ ember 2017, 12:00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/3b64f3de-no
+SUMMARY:How's Life? 2017 (Summary in Norwegian) 
+ (en), Hvordan er livet? 2017 (no) on 15 
+ November 2017, 12:00 Paris time (GMT+02:
+ 00)
+DESCRIPTION:How's Life? 2017 (Summary in Norwegian) 
+ (en), Hvordan er livet? 2017 (no)  - Mea
+ suring Well-being (en), Måling av velvær
+ e (no) by Statistics Directorate has an 
+ embargo date/time of 15 November 2017, 1
+ 2:00 Paris time (GMT+02:00).\n\nDirector
+ ate: Statistics Directorate\nLanguage: N
+ orwegian\nDOI: https://doi.org/10.1787/3
+ b64f3de-no\nPublication type: Summary\nR
+ eleased as: ePub, PDF, HTML.\n\niLibrary
+  export: never\nFreepreview export: neve
+ r\nFTI loaded: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in N
+ orwegian) (en), Hvordan er livet? 2017 (
+ no) on 15 November 2017, 12:00 Paris tim
+ e (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/fabe48e8-pl
+SUMMARY:How's Life? 2017 (Summary in Polish) (en
+ ), Źyć lepiej 2017 (pl) on 15 November 2
+ 017, 12:00 Paris time (GMT+02:00)
+DESCRIPTION:How's Life? 2017 (Summary in Polish) (en
+ ), Źyć lepiej 2017 (pl)  - Measuring Wel
+ l-being (en), Ocena jakości życia (pl) b
+ y Statistics Directorate has an embargo 
+ date/time of 15 November 2017, 12:00 Par
+ is time (GMT+02:00).\n\nDirectorate: Sta
+ tistics Directorate\nLanguage: Polish\nD
+ OI: https://doi.org/10.1787/fabe48e8-pl\
+ nPublication type: Summary\nReleased as:
+  HTML, ePub, PDF.\n\niLibrary export: ne
+ ver\nFreepreview export: never\nFTI load
+ ed: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in P
+ olish) (en), Źyć lepiej 2017 (pl) on 15 
+ November 2017, 12:00 Paris time (GMT+02:
+ 00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/2a0e03d8-pt
+SUMMARY:How's Life? 2017 (Summary in Portuguese)
+  (en), Como está a vida? 2017 (pt) on 15
+  November 2017, 12:00 Paris time (GMT+02
+ :00)
+DESCRIPTION:How's Life? 2017 (Summary in Portuguese)
+  (en), Como está a vida? 2017 (pt)  - Me
+ asuring Well-being (en), Medir o bem-est
+ ar (pt) by Statistics Directorate has an
+  embargo date/time of 15 November 2017, 
+ 12:00 Paris time (GMT+02:00).\n\nDirecto
+ rate: Statistics Directorate\nLanguage: 
+ Portuguese\nDOI: https://doi.org/10.1787
+ /2a0e03d8-pt\nPublication type: Summary\
+ nReleased as: HTML, ePub, PDF.\n\niLibra
+ ry export: never\nFreepreview export: ne
+ ver\nFTI loaded: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in P
+ ortuguese) (en), Como está a vida? 2017 
+ (pt) on 15 November 2017, 12:00 Paris ti
+ me (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/cca7b2f9-ru
+SUMMARY:How's Life? 2017 (Summary in Russian) (e
+ n), Какова жизнь? 2017 (ru) on 15 Novemb
+ er 2017, 12:00 Paris time (GMT+02:00)
+DESCRIPTION:How's Life? 2017 (Summary in Russian) (e
+ n), Какова жизнь? 2017 (ru)  - Measuring
+  Well-being (en), Измерение благополучия
+  (ru) by Statistics Directorate has an e
+ mbargo date/time of 15 November 2017, 12
+ :00 Paris time (GMT+02:00).\n\nDirectora
+ te: Statistics Directorate\nLanguage: Ru
+ ssian\nDOI: https://doi.org/10.1787/cca7
+ b2f9-ru\nPublication type: Summary\nRele
+ ased as: PDF, HTML, ePub.\n\niLibrary ex
+ port: never\nFreepreview export: never\n
+ FTI loaded: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in R
+ ussian) (en), Какова жизнь? 2017 (ru) on
+  15 November 2017, 12:00 Paris time (GMT
+ +02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/d63159fd-sk
+SUMMARY:How's Life? 2017 (Summary in Slovak) (en
+ ), Ako sa žije? 2017 (sk) on 15 November
+  2017, 12:00 Paris time (GMT+02:00)
+DESCRIPTION:How's Life? 2017 (Summary in Slovak) (en
+ ), Ako sa žije? 2017 (sk)  - Measuring W
+ ell-being (en), Meranie kvality života (
+ sk) by Statistics Directorate has an emb
+ argo date/time of 15 November 2017, 12:0
+ 0 Paris time (GMT+02:00).\n\nDirectorate
+ : Statistics Directorate\nLanguage: Slov
+ ak\nDOI: https://doi.org/10.1787/d63159f
+ d-sk\nPublication type: Summary\nRelease
+ d as: ePub, PDF, HTML.\n\niLibrary expor
+ t: never\nFreepreview export: never\nFTI
+  loaded: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in S
+ lovak) (en), Ako sa žije? 2017 (sk) on 1
+ 5 November 2017, 12:00 Paris time (GMT+0
+ 2:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/1ffc3ce8-sl
+SUMMARY:How's Life? 2017 (Summary in Slovenian) 
+ (en), Kako živimo? 2017 (sl) on 15 Novem
+ ber 2017, 12:00 Paris time (GMT+02:00)
+DESCRIPTION:How's Life? 2017 (Summary in Slovenian) 
+ (en), Kako živimo? 2017 (sl)  - Measurin
+ g Well-being (en), Merjenje blaginje (sl
+ ) by Statistics Directorate has an embar
+ go date/time of 15 November 2017, 12:00 
+ Paris time (GMT+02:00).\n\nDirectorate: 
+ Statistics Directorate\nLanguage: Sloven
+ ian\nDOI: https://doi.org/10.1787/1ffc3c
+ e8-sl\nPublication type: Summary\nReleas
+ ed as: PDF, ePub, HTML.\n\niLibrary expo
+ rt: never\nFreepreview export: never\nFT
+ I loaded: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in S
+ lovenian) (en), Kako živimo? 2017 (sl) o
+ n 15 November 2017, 12:00 Paris time (GM
+ T+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/325e2c6a-es
+SUMMARY:How's Life? 2017 (Summary in Spanish) (e
+ n), ¿Cómo va la vida? 2017 (es) on 15 No
+ vember 2017, 12:00 Paris time (GMT+02:00
+ )
+DESCRIPTION:How's Life? 2017 (Summary in Spanish) (e
+ n), ¿Cómo va la vida? 2017 (es)  - Measu
+ ring Well-being (en), Medición del biene
+ star (es) by Statistics Directorate has 
+ an embargo date/time of 15 November 2017
+ , 12:00 Paris time (GMT+02:00).\n\nDirec
+ torate: Statistics Directorate\nLanguage
+ : Spanish\nDOI: https://doi.org/10.1787/
+ 325e2c6a-es\nPublication type: Summary\n
+ Released as: ePub, HTML, PDF.\n\niLibrar
+ y export: never\nFreepreview export: nev
+ er\nFTI loaded: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in S
+ panish) (en), ¿Cómo va la vida? 2017 (es
+ ) on 15 November 2017, 12:00 Paris time 
+ (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/4ad7f164-sv
+SUMMARY:How's Life? 2017 (Summary in Swedish) (e
+ n), Hur är livet? 2017  (sv) on 15 Novem
+ ber 2017, 12:00 Paris time (GMT+02:00)
+DESCRIPTION:How's Life? 2017 (Summary in Swedish) (e
+ n), Hur är livet? 2017  (sv)  - Measurin
+ g Well-being (en), En mätning av välbefi
+ nnandet (sv) by Statistics Directorate h
+ as an embargo date/time of 15 November 2
+ 017, 12:00 Paris time (GMT+02:00).\n\nDi
+ rectorate: Statistics Directorate\nLangu
+ age: Swedish\nDOI: https://doi.org/10.17
+ 87/4ad7f164-sv\nPublication type: Summar
+ y\nReleased as: ePub, HTML, PDF.\n\niLib
+ rary export: never\nFreepreview export: 
+ never\nFTI loaded: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in S
+ wedish) (en), Hur är livet? 2017  (sv) o
+ n 15 November 2017, 12:00 Paris time (GM
+ T+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/cf5c1aa9-tr
+SUMMARY:How's Life? 2017 (Summary in Turkish) (e
+ n), Hayat Nasıl Gidiyor? 2017 (tr) on 15
+  November 2017, 12:00 Paris time (GMT+02
+ :00)
+DESCRIPTION:How's Life? 2017 (Summary in Turkish) (e
+ n), Hayat Nasıl Gidiyor? 2017 (tr)  - Me
+ asuring Well-being (en), İyi Halin Ölçüm
+ ü (tr) by Statistics Directorate has an 
+ embargo date/time of 15 November 2017, 1
+ 2:00 Paris time (GMT+02:00).\n\nDirector
+ ate: Statistics Directorate\nLanguage: T
+ urkish\nDOI: https://doi.org/10.1787/cf5
+ c1aa9-tr\nPublication type: Summary\nRel
+ eased as: ePub, PDF, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: never\
+ nFTI loaded: ✓.
+DTSTAMP:20171111T004911Z
+DTSTART:20171115T100000Z
+DTEND:20171115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How's Life? 2017 (Summary in T
+ urkish) (en), Hayat Nasıl Gidiyor? 2017 
+ (tr) on 15 November 2017, 12:00 Paris ti
+ me (GMT+02:00)
 END:VALARM
 END:VEVENT
 
@@ -288,7 +1178,7 @@ DESCRIPTION:Dans quelle mesure les compétences en li
  , 21:36 Paris time (GMT+00:00)\nFreeprev
  iew export: 9 November 2017, 22:37 Paris
   time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171110T000406Z
+DTSTAMP:20171111T004911Z
 DTSTART:20171117T060000Z
 DTEND:20171117T061500Z
 TRANSP:TRANSPARENT
@@ -325,7 +1215,7 @@ DESCRIPTION:How much will the literacy level of the
  \nFreepreview export: 9 November 2017, 2
  2:37 Paris time (GMT+00:00)\nFTI loaded:
   ✓.
-DTSTAMP:20171110T000406Z
+DTSTAMP:20171111T004911Z
 DTSTART:20171117T060000Z
 DTEND:20171117T061500Z
 TRANSP:TRANSPARENT
@@ -363,7 +1253,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  is time (GMT+00:00)\nFreepreview export:
   7 November 2017, 22:40 Paris time (GMT+
  00:00)\nFTI loaded: ✓.
-DTSTAMP:20171110T000406Z
+DTSTAMP:20171111T004911Z
 DTSTART:20171117T110000Z
 DTEND:20171117T111500Z
 TRANSP:TRANSPARENT
@@ -398,10 +1288,11 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  age: English\nDOI: https://doi.org/10.17
  87/9789264283732-en\nPublication type: B
  ook\nReleased as: PDF, Paperback.\n\niLi
- brary export: 6 November 2017, 21:43 Par
+ brary export: 9 November 2017, 21:36 Par
  is time (GMT+00:00)\nFreepreview export:
-  never\nFTI loaded: no.
-DTSTAMP:20171110T000406Z
+  9 November 2017, 22:37 Paris time (GMT+
+ 00:00)\nFTI loaded: ✓.
+DTSTAMP:20171111T004911Z
 DTSTART:20171117T110000Z
 DTEND:20171117T111500Z
 TRANSP:TRANSPARENT
@@ -440,7 +1331,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
   time (GMT+00:00)\nFreepreview export: 7
   November 2017, 22:40 Paris time (GMT+00
  :00)\nFTI loaded: ✓.
-DTSTAMP:20171110T000406Z
+DTSTAMP:20171111T004911Z
 DTSTART:20171117T110000Z
 DTEND:20171117T111500Z
 TRANSP:TRANSPARENT
@@ -480,7 +1371,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 7 November 2017, 22:40 Paris time (
  GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171110T000406Z
+DTSTAMP:20171111T004911Z
 DTSTART:20171117T110000Z
 DTEND:20171117T111500Z
 TRANSP:TRANSPARENT
@@ -519,7 +1410,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
   time (GMT+00:00)\nFreepreview export: 7
   November 2017, 22:40 Paris time (GMT+00
  :00)\nFTI loaded: ✓.
-DTSTAMP:20171110T000406Z
+DTSTAMP:20171111T004911Z
 DTSTART:20171117T110000Z
 DTEND:20171117T111500Z
 TRANSP:TRANSPARENT
@@ -558,7 +1449,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  s time (GMT+00:00)\nFreepreview export: 
  7 November 2017, 22:40 Paris time (GMT+0
  0:00)\nFTI loaded: ✓.
-DTSTAMP:20171110T000406Z
+DTSTAMP:20171111T004911Z
 DTSTART:20171117T110000Z
 DTEND:20171117T111500Z
 TRANSP:TRANSPARENT
@@ -593,7 +1484,7 @@ DESCRIPTION:Getting Skills Right: United Kingdom (en
  7, 21:35 Paris time (GMT+00:00)\nFreepre
  view export: 8 November 2017, 22:25 Pari
  s time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171110T000406Z
+DTSTAMP:20171111T004911Z
 DTSTART:20171120T100000Z
 DTEND:20171120T101500Z
 TRANSP:TRANSPARENT
@@ -627,7 +1518,7 @@ DESCRIPTION:Le recrutement des travailleurs immigrés
  3 Paris time (GMT+00:00)\nFreepreview ex
  port: 26 October 2017, 21:28 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171110T000406Z
+DTSTAMP:20171111T004911Z
 DTSTART:20171120T100000Z
 DTEND:20171120T101500Z
 TRANSP:TRANSPARENT
@@ -639,6 +1530,71 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Le recrutement des travailleur
  s immigrés: France 2017 (fr) on 20 Novem
  ber 2017, 12:00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264278240-en
+SUMMARY:OECD Guidelines on Measuring the Quality
+  of the Working Environment (en) on 23 N
+ ovember 2017, 12:00 Paris time (GMT+02:0
+ 0)
+DESCRIPTION:OECD Guidelines on Measuring the Quality
+  of the Working Environment (en)  by Sta
+ tistics Directorate has an embargo date/
+ time of 23 November 2017, 12:00 Paris ti
+ me (GMT+02:00).\n\nDirectorate: Statisti
+ cs Directorate\nLanguage: English\nDOI: 
+ https://doi.org/10.1787/9789264278240-en
+ \nPublication type: Stand-alone monograp
+ h\nReleased as: Paperback, ePub, PDF.\n\
+ niLibrary export: 2 November 2017, 21:17
+  Paris time (GMT+00:00)\nFreepreview exp
+ ort: never\nFTI loaded: no.
+DTSTAMP:20171111T004911Z
+DTSTART:20171123T100000Z
+DTEND:20171123T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Guidelines on Measuring t
+ he Quality of the Working Environment (e
+ n) on 23 November 2017, 12:00 Paris time
+  (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264278219-en
+SUMMARY:OECD Guidelines on Measuring Trust (en) 
+ on 23 November 2017, 12:00 Paris time (G
+ MT+02:00)
+DESCRIPTION:OECD Guidelines on Measuring Trust (en) 
+  by Statistics Directorate has an embarg
+ o date/time of 23 November 2017, 12:00 P
+ aris time (GMT+02:00).\n\nDirectorate: S
+ tatistics Directorate\nLanguage: English
+ \nDOI: https://doi.org/10.1787/978926427
+ 8219-en\nPublication type: Stand-alone m
+ onograph\nReleased as: PDF, Paperback, e
+ Pub.\n\niLibrary export: 2 November 2017
+ , 21:17 Paris time (GMT+00:00)\nFreeprev
+ iew export: never\nFTI loaded: no.
+DTSTAMP:20171111T004911Z
+DTSTART:20171123T100000Z
+DTEND:20171123T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Guidelines on Measuring T
+ rust (en) on 23 November 2017, 12:00 Par
+ is time (GMT+02:00)
 END:VALARM
 END:VEVENT
 
@@ -659,7 +1615,7 @@ DESCRIPTION:Revenue Statistics: 1965-2016 (en)  by C
  Library export: 23 October 2017, 22:14 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20171110T000406Z
+DTSTAMP:20171111T004911Z
 DTSTART:20171123T100000Z
 DTEND:20171123T101500Z
 TRANSP:TRANSPARENT
@@ -692,7 +1648,7 @@ DESCRIPTION:Statistiques des recettes publiques : 19
  ber 2017, 22:14 Paris time (GMT+00:00)\n
  Freepreview export: never\nFTI loaded: n
  o.
-DTSTAMP:20171110T000406Z
+DTSTAMP:20171111T004911Z
 DTSTART:20171123T100000Z
 DTEND:20171123T101500Z
 TRANSP:TRANSPARENT
@@ -710,30 +1666,30 @@ END:VEVENT
 BEGIN:VEVENT
 UID:10.1787/9789264279698-fr
 SUMMARY:Examens environnementaux de l'OCDE: Suis
- se 2017 (fr) on 24 November 2017, 11:00 
+ se 2017 (fr) on 27 November 2017, 11:00 
  Paris time (GMT+02:00)
 DESCRIPTION:Examens environnementaux de l'OCDE: Suis
  se 2017 (fr)  by Environment Directorate
-  has an embargo date/time of 24 November
+  has an embargo date/time of 27 November
   2017, 11:00 Paris time (GMT+02:00).\n\n
  Directorate: Environment Directorate\nLa
  nguage: French\nDOI: https://doi.org/10.
  1787/9789264279698-fr\nPublication type:
-  Book\nReleased as: ePub, PDF, Paperback
+  Book\nReleased as: Paperback, ePub, PDF
  .\n\niLibrary export: 3 November 2017, 2
  1:56 Paris time (GMT+00:00)\nFreepreview
   export: never\nFTI loaded: no.
-DTSTAMP:20171110T000406Z
-DTSTART:20171124T090000Z
-DTEND:20171124T091500Z
+DTSTAMP:20171111T004911Z
+DTSTART:20171127T090000Z
+DTEND:20171127T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT72H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Examens environnementaux de l'
- OCDE: Suisse 2017 (fr) on 24 November 20
+ OCDE: Suisse 2017 (fr) on 27 November 20
  17, 11:00 Paris time (GMT+02:00)
 END:VALARM
 END:VEVENT
@@ -741,11 +1697,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:10.1787/9789264279674-en
 SUMMARY:OECD Environmental Performance Reviews: 
- Switzerland 2017 (en) on 24 November 201
+ Switzerland 2017 (en) on 27 November 201
  7, 11:00 Paris time (GMT+02:00)
 DESCRIPTION:OECD Environmental Performance Reviews: 
  Switzerland 2017 (en)  by Environment Di
- rectorate has an embargo date/time of 24
+ rectorate has an embargo date/time of 27
   November 2017, 11:00 Paris time (GMT+02
  :00).\n\nDirectorate: Environment Direct
  orate\nLanguage: English\nDOI: https://d
@@ -755,17 +1711,17 @@ DESCRIPTION:OECD Environmental Performance Reviews:
  er 2017, 21:45 Paris time (GMT+00:00)\nF
  reepreview export: never\nFTI loaded: no
  .
-DTSTAMP:20171110T000406Z
-DTSTART:20171124T090000Z
-DTEND:20171124T091500Z
+DTSTAMP:20171111T004911Z
+DTSTART:20171127T090000Z
+DTEND:20171127T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT72H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Environmental Performance
-  Reviews: Switzerland 2017 (en) on 24 No
+  Reviews: Switzerland 2017 (en) on 27 No
  vember 2017, 11:00 Paris time (GMT+02:00
  )
 END:VALARM
@@ -790,7 +1746,7 @@ DESCRIPTION:Monitoring Health System Performance in
  33 Paris time (GMT+00:00)\nFreepreview e
  xport: 26 October 2017, 21:28 Paris time
   (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171110T000406Z
+DTSTAMP:20171111T004911Z
 DTSTART:20171129T230000Z
 DTEND:20171129T231500Z
 TRANSP:TRANSPARENT
@@ -823,7 +1779,7 @@ DESCRIPTION:OECD Reviews of Health Systems: Peru 201
   2017, 20:35 Paris time (GMT+00:00)\nFre
  epreview export: 26 October 2017, 21:28 
  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171110T000406Z
+DTSTAMP:20171111T004911Z
 DTSTART:20171129T230000Z
 DTEND:20171129T231500Z
 TRANSP:TRANSPARENT
@@ -855,7 +1811,7 @@ DESCRIPTION:OECD Reviews of School Resources: Chile
  0 October 2017, 21:33 Paris time (GMT+00
  :00)\nFreepreview export: never\nFTI loa
  ded: no.
-DTSTAMP:20171110T000406Z
+DTSTAMP:20171111T004911Z
 DTSTART:20171130T230000Z
 DTEND:20171130T231500Z
 TRANSP:TRANSPARENT
@@ -882,11 +1838,11 @@ DESCRIPTION:Examens environnementaux de l'OCDE: Cana
  irectorate: Environment Directorate\nLan
  guage: French\nDOI: https://doi.org/10.1
  787/9789264283244-fr\nPublication type: 
- Book\nReleased as: ePub, PDF, Paperback.
- \n\niLibrary export: 2 November 2017, 21
- :17 Paris time (GMT+00:00)\nFreepreview 
+ Book\nReleased as: PDF, Paperback, ePub.
+ \n\niLibrary export: 9 November 2017, 21
+ :36 Paris time (GMT+00:00)\nFreepreview 
  export: never\nFTI loaded: no.
-DTSTAMP:20171110T000406Z
+DTSTAMP:20171111T004911Z
 DTSTART:20171201T100000Z
 DTEND:20171201T101500Z
 TRANSP:TRANSPARENT
@@ -913,11 +1869,11 @@ DESCRIPTION:OECD Environmental Performance Reviews:
  n\nDirectorate: Environment Directorate\
  nLanguage: English\nDOI: https://doi.org
  /10.1787/9789264279612-en\nPublication t
- ype: Book\nReleased as: PDF, Paperback.\
- n\niLibrary export: 2 November 2017, 21:
- 17 Paris time (GMT+00:00)\nFreepreview e
- xport: never\nFTI loaded: ✓.
-DTSTAMP:20171110T000406Z
+ ype: Book\nReleased as: PDF, Paperback, 
+ ePub.\n\niLibrary export: 9 November 201
+ 7, 21:36 Paris time (GMT+00:00)\nFreepre
+ view export: never\nFTI loaded: ✓.
+DTSTAMP:20171111T004911Z
 DTSTART:20171201T100000Z
 DTEND:20171201T101500Z
 TRANSP:TRANSPARENT
@@ -950,7 +1906,7 @@ DESCRIPTION:Boosting Disaster Prevention through Inn
  ack.\n\niLibrary export: 3 November 2017
  , 21:56 Paris time (GMT+00:00)\nFreeprev
  iew export: never\nFTI loaded: no.
-DTSTAMP:20171110T000406Z
+DTSTAMP:20171111T004911Z
 DTSTART:20171204T090000Z
 DTEND:20171204T091500Z
 TRANSP:TRANSPARENT
@@ -984,7 +1940,7 @@ DESCRIPTION:Getting Skills Right: Italy (en)  by Dir
  aris time (GMT+00:00)\nFreepreview expor
  t: 3 October 2017, 21:12 Paris time (GMT
  +00:00)\nFTI loaded: ✓.
-DTSTAMP:20171110T000406Z
+DTSTAMP:20171111T004911Z
 DTSTART:20171221T090000Z
 DTEND:20171221T091500Z
 TRANSP:TRANSPARENT

@@ -1,48 +1,6 @@
-# OECD publication embargoes by date (28 embargoes)
+# OECD publication embargoes by date (55 embargoes)
 
-*Data generated on Friday 10 November 2017 at 0:03:56*
-
-------
-
-## [Health at a Glance 2017 (en) - OECD Indicators (en)](https://doi.org/10.1787/health_glance-2017-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 10 November 2017 at 10:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 8 November 2017 at 21:35:25
-- [x] Exported to Keepeek Wednesday 8 November 2017 at 22:25:15
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Panorama de la santé 2017 (fr) - Les indicateurs de l'OCDE (fr)](https://doi.org/10.1787/health_glance-2017-fr)
-
-Embargo date | Launch date
--------------|------------
-Friday 10 November 2017 at 10:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 8 November 2017 at 21:35:25
-- [x] Exported to Keepeek Wednesday 8 November 2017 at 22:25:15
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Saturday 11 November 2017 at 0:48:51*
 
 ------
 
@@ -62,7 +20,7 @@ Tuesday 14 November 2017 at 2:00:00 | no launch event
 * Directorate: *Development Centre*
 * Language: *English*
 * Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------
@@ -109,6 +67,27 @@ Tuesday 14 November 2017 at 14:00:00 | no launch event
 
 ------
 
+## [Structural policy indicators database for economic research (SPIDER) (en)](https://doi.org/10.1787/39d69dff-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 1:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
 ## [Permit allocation rules and investment incentives in emissions trading systems (en)](https://doi.org/10.1787/c3acf05e-en)
 
 Embargo date | Launch date
@@ -147,6 +126,552 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in Chinese) (en), 2017年生活满意度调查 (zh) - Measuring Well-being (en), 评估福利 (zh)](https://doi.org/10.1787/6d395318-zh)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *Chinese*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in Czech) (en), Jak se máme? 2017 (cs) - Measuring Well-being (en), Měření pohody (cs)](https://doi.org/10.1787/818ff29a-cs)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *Czech*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in Danish) (en), Hvordan er livet? 2017 (da) - Measuring Well-being (en), Måling af velfærd (da)](https://doi.org/10.1787/a277c30e-da)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *Danish*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in Dutch) (en), Hoe is het leven? 2017 (nl) - Measuring Well-being (en), Meting van het welzijn (nl)](https://doi.org/10.1787/8d3003fb-nl)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *Dutch*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in English) (en) - Measuring Well-being (en)](https://doi.org/10.1787/29ece891-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in Estonian) (en), Milline on elu? 2017 (et) - Measuring Well-being (en), Heaolu mõõtmine (et)](https://doi.org/10.1787/258aee62-et)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *Estonian*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in Finnish) (en), Millaista on elämä? 2017 (fi) - Measuring Well-being (en), Hyvinvointia mittaamassa (fi)](https://doi.org/10.1787/449f5402-fi)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *Finnish*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in French) (en),  Comment va la vie ? 2017 (fr) - Measuring Well-being (en), Mesurer le bien-être (fr)](https://doi.org/10.1787/b9cd53b3-fr)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in German) (en), How's Life? 2017 (de) - Measuring Well-being (en), Lebensqualität messen (de)](https://doi.org/10.1787/c6de855c-de)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *German*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in Greek) (en), Πώς είναι η ζωή; 2017 (el) - Measuring Well-being (en), Μέτρηση της ευημερίας (el)](https://doi.org/10.1787/1342b13a-el)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *Greek*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in Hebrew) (en), איך החיים? 2017 (he) - Measuring Well-being (en), מודדים רווחה (he)](https://doi.org/10.1787/39c84a47-he)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *Hebrew*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in Hungarian) (en), Milyen az élet? 2017 (hu) - Measuring Well-being (en), A jólét mérése (hu)](https://doi.org/10.1787/79915ddc-hu)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *Hungarian*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in Icelandic) (en), Hvernig er lífið? 2017 (is) - Measuring Well-being (en), Mælingar á vellíðan (is)](https://doi.org/10.1787/179fdc59-is)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *Icelandic*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in Italian) (en), Come va la vita? 2017 (it) - Measuring Well-being (en), Misurare il benessere (it)](https://doi.org/10.1787/a28efa45-it)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *Italian*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in Japanese) (en), How's Life? 2017 (ja) - Measuring Well-being (en), 幸福度の測定 (ja)](https://doi.org/10.1787/37ae31c1-ja)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *Japanese*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in Korean) (en), 2017년 삶의 질(How's Life? 2017) (ko) - Measuring Well-being (en), 복지의 측정 (ko)](https://doi.org/10.1787/58c1ad2b-ko)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *Korean*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in Latvian) (en), Kā iet? 201 (lv) - Measuring Well-being (en), Labklājības novērtējums (lv)](https://doi.org/10.1787/1256ea14-lv)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *Latvian*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in Norwegian) (en), Hvordan er livet? 2017 (no) - Measuring Well-being (en), Måling av velvære (no)](https://doi.org/10.1787/3b64f3de-no)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *Norwegian*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in Polish) (en), Źyć lepiej 2017 (pl) - Measuring Well-being (en), Ocena jakości życia (pl)](https://doi.org/10.1787/fabe48e8-pl)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *Polish*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in Portuguese) (en), Como está a vida? 2017 (pt) - Measuring Well-being (en), Medir o bem-estar (pt)](https://doi.org/10.1787/2a0e03d8-pt)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *Portuguese*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in Russian) (en), Какова жизнь? 2017 (ru) - Measuring Well-being (en), Измерение благополучия (ru)](https://doi.org/10.1787/cca7b2f9-ru)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *Russian*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in Slovak) (en), Ako sa žije? 2017 (sk) - Measuring Well-being (en), Meranie kvality života (sk)](https://doi.org/10.1787/d63159fd-sk)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *Slovak*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in Slovenian) (en), Kako živimo? 2017 (sl) - Measuring Well-being (en), Merjenje blaginje (sl)](https://doi.org/10.1787/1ffc3ce8-sl)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *Slovenian*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in Spanish) (en), ¿Cómo va la vida? 2017 (es) - Measuring Well-being (en), Medición del bienestar (es)](https://doi.org/10.1787/325e2c6a-es)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *Spanish*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in Swedish) (en), Hur är livet? 2017  (sv) - Measuring Well-being (en), En mätning av välbefinnandet (sv)](https://doi.org/10.1787/4ad7f164-sv)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *Swedish*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [How's Life? 2017 (Summary in Turkish) (en), Hayat Nasıl Gidiyor? 2017 (tr) - Measuring Well-being (en), İyi Halin Ölçümü (tr)](https://doi.org/10.1787/cf5c1aa9-tr)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 15 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *Turkish*
+* Availability: *Forthcoming*
+* Type of publication: *Summary*
 * Medium: *PDF*
 
 ------
@@ -221,15 +746,15 @@ Embargo date | Launch date
 Friday 17 November 2017 at 11:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 6 November 2017 at 21:43:00
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 9 November 2017 at 21:36:18
+- [x] Exported to Keepeek Thursday 9 November 2017 at 22:37:23
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -361,6 +886,48 @@ Monday 20 November 2017 at 10:00:00 | no launch event
 
 ------
 
+## [OECD Guidelines on Measuring the Quality of the Working Environment (en)](https://doi.org/10.1787/9789264278240-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 2 November 2017 at 21:17:34
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [OECD Guidelines on Measuring Trust (en)](https://doi.org/10.1787/9789264278219-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 2 November 2017 at 21:17:34
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
 ## [Revenue Statistics: 1965-2016 (en)](https://doi.org/10.1787/9789264283183-en)
 
 Embargo date | Launch date
@@ -407,7 +974,7 @@ Thursday 23 November 2017 at 10:00:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Friday 24 November 2017 at 9:00:00 | no launch event
+Monday 27 November 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
@@ -428,7 +995,7 @@ Friday 24 November 2017 at 9:00:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Friday 24 November 2017 at 9:00:00 | no launch event
+Monday 27 November 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
@@ -516,7 +1083,7 @@ Friday 1 December 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 November 2017 at 21:17:34
+- [x] Exported to iLibrary Thursday 9 November 2017 at 21:36:18
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -537,7 +1104,7 @@ Friday 1 December 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 2 November 2017 at 21:17:34
+- [x] Exported to iLibrary Thursday 9 November 2017 at 21:36:18
 - [ ] Exported to Keepeek
 
 ### Additional Information

@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Fri, 10 Nov 2017 00:04:08 GMT</pubDate>
+      <pubDate>Sat, 11 Nov 2017 00:49:13 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -38,10 +38,10 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Wednesday, 8 November 2017, 21:35 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Thursday, 9 November 2017, 21:36 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Wednesday, 8 November 2017, 22:25 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, HTML, ePub</oe:availableMedia>
+         <oe:availableMedia>HTML, ePub, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/health_glance-2017-fr</guid>
@@ -53,7 +53,7 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Wednesday, 8 November 2017, 21:35 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Thursday, 9 November 2017, 21:36 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Wednesday, 8 November 2017, 22:25 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>ePub, PDF, HTML</oe:availableMedia>
@@ -70,8 +70,8 @@
          <oe:ftiLoaded/>
          <oe:iLibraryExport>Tuesday, 7 November 2017, 21:45 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
-         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/eco_surveys-che-2017-fr</guid>
@@ -101,7 +101,22 @@
          <oe:iLibraryExport>Tuesday, 7 November 2017, 21:45 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Economic survey</oe:catalogueType>
-         <oe:availableMedia>ePub, PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/39d69dff-en</guid>
+         <pubDate>Wed, 15 Nov 2017 01:00:00 GMT</pubDate>
+         <title>Structural policy indicators database for economic research (SPIDER) (en)</title>
+         <link>https://doi.org/10.1787/39d69dff-en</link>
+         <description>Structural policy indicators database for economic research (SPIDER) (en) by Economics Department has an embargo on Wednesday, 15 November 2017, 3:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T01:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/c3acf05e-en</guid>
@@ -132,6 +147,396 @@
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/6d395318-zh</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in Chinese) (en), 2017年生活满意度调查 (zh) - Measuring Well-being (en), 评估福利 (zh)</title>
+         <link>https://doi.org/10.1787/6d395318-zh</link>
+         <description>How's Life? 2017 (Summary in Chinese) (en), 2017年生活满意度调查 (zh) - Measuring Well-being (en), 评估福利 (zh) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>PDF, ePub, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/818ff29a-cs</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in Czech) (en), Jak se máme? 2017 (cs) - Measuring Well-being (en), Měření pohody (cs)</title>
+         <link>https://doi.org/10.1787/818ff29a-cs</link>
+         <description>How's Life? 2017 (Summary in Czech) (en), Jak se máme? 2017 (cs) - Measuring Well-being (en), Měření pohody (cs) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>PDF, HTML, ePub</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/a277c30e-da</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in Danish) (en), Hvordan er livet? 2017 (da) - Measuring Well-being (en), Måling af velfærd (da)</title>
+         <link>https://doi.org/10.1787/a277c30e-da</link>
+         <description>How's Life? 2017 (Summary in Danish) (en), Hvordan er livet? 2017 (da) - Measuring Well-being (en), Måling af velfærd (da) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>ePub, PDF, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/8d3003fb-nl</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in Dutch) (en), Hoe is het leven? 2017 (nl) - Measuring Well-being (en), Meting van het welzijn (nl)</title>
+         <link>https://doi.org/10.1787/8d3003fb-nl</link>
+         <description>How's Life? 2017 (Summary in Dutch) (en), Hoe is het leven? 2017 (nl) - Measuring Well-being (en), Meting van het welzijn (nl) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>HTML, ePub, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/29ece891-en</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in English) (en) - Measuring Well-being (en)</title>
+         <link>https://doi.org/10.1787/29ece891-en</link>
+         <description>How's Life? 2017 (Summary in English) (en) - Measuring Well-being (en) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>ePub, PDF, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/258aee62-et</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in Estonian) (en), Milline on elu? 2017 (et) - Measuring Well-being (en), Heaolu mõõtmine (et)</title>
+         <link>https://doi.org/10.1787/258aee62-et</link>
+         <description>How's Life? 2017 (Summary in Estonian) (en), Milline on elu? 2017 (et) - Measuring Well-being (en), Heaolu mõõtmine (et) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>HTML, ePub, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/449f5402-fi</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in Finnish) (en), Millaista on elämä? 2017 (fi) - Measuring Well-being (en), Hyvinvointia mittaamassa (fi)</title>
+         <link>https://doi.org/10.1787/449f5402-fi</link>
+         <description>How's Life? 2017 (Summary in Finnish) (en), Millaista on elämä? 2017 (fi) - Measuring Well-being (en), Hyvinvointia mittaamassa (fi) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, ePub</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/b9cd53b3-fr</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in French) (en),  Comment va la vie ? 2017 (fr) - Measuring Well-being (en), Mesurer le bien-être (fr)</title>
+         <link>https://doi.org/10.1787/b9cd53b3-fr</link>
+         <description>How's Life? 2017 (Summary in French) (en),  Comment va la vie ? 2017 (fr) - Measuring Well-being (en), Mesurer le bien-être (fr) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, ePub</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/c6de855c-de</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in German) (en), How's Life? 2017 (de) - Measuring Well-being (en), Lebensqualität messen (de)</title>
+         <link>https://doi.org/10.1787/c6de855c-de</link>
+         <description>How's Life? 2017 (Summary in German) (en), How's Life? 2017 (de) - Measuring Well-being (en), Lebensqualität messen (de) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, ePub</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/1342b13a-el</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in Greek) (en), Πώς είναι η ζωή; 2017 (el) - Measuring Well-being (en), Μέτρηση της ευημερίας (el)</title>
+         <link>https://doi.org/10.1787/1342b13a-el</link>
+         <description>How's Life? 2017 (Summary in Greek) (en), Πώς είναι η ζωή; 2017 (el) - Measuring Well-being (en), Μέτρηση της ευημερίας (el) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>ePub, HTML, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/39c84a47-he</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in Hebrew) (en), איך החיים? 2017 (he) - Measuring Well-being (en), מודדים רווחה (he)</title>
+         <link>https://doi.org/10.1787/39c84a47-he</link>
+         <description>How's Life? 2017 (Summary in Hebrew) (en), איך החיים? 2017 (he) - Measuring Well-being (en), מודדים רווחה (he) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>ePub, HTML, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/79915ddc-hu</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in Hungarian) (en), Milyen az élet? 2017 (hu) - Measuring Well-being (en), A jólét mérése (hu)</title>
+         <link>https://doi.org/10.1787/79915ddc-hu</link>
+         <description>How's Life? 2017 (Summary in Hungarian) (en), Milyen az élet? 2017 (hu) - Measuring Well-being (en), A jólét mérése (hu) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>ePub, PDF, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/179fdc59-is</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in Icelandic) (en), Hvernig er lífið? 2017 (is) - Measuring Well-being (en), Mælingar á vellíðan (is)</title>
+         <link>https://doi.org/10.1787/179fdc59-is</link>
+         <description>How's Life? 2017 (Summary in Icelandic) (en), Hvernig er lífið? 2017 (is) - Measuring Well-being (en), Mælingar á vellíðan (is) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>ePub, HTML, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/a28efa45-it</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in Italian) (en), Come va la vita? 2017 (it) - Measuring Well-being (en), Misurare il benessere (it)</title>
+         <link>https://doi.org/10.1787/a28efa45-it</link>
+         <description>How's Life? 2017 (Summary in Italian) (en), Come va la vita? 2017 (it) - Measuring Well-being (en), Misurare il benessere (it) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>ePub, PDF, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/37ae31c1-ja</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in Japanese) (en), How's Life? 2017 (ja) - Measuring Well-being (en), 幸福度の測定 (ja)</title>
+         <link>https://doi.org/10.1787/37ae31c1-ja</link>
+         <description>How's Life? 2017 (Summary in Japanese) (en), How's Life? 2017 (ja) - Measuring Well-being (en), 幸福度の測定 (ja) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>PDF, HTML, ePub</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/58c1ad2b-ko</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in Korean) (en), 2017년 삶의 질(How's Life? 2017) (ko) - Measuring Well-being (en), 복지의 측정 (ko)</title>
+         <link>https://doi.org/10.1787/58c1ad2b-ko</link>
+         <description>How's Life? 2017 (Summary in Korean) (en), 2017년 삶의 질(How's Life? 2017) (ko) - Measuring Well-being (en), 복지의 측정 (ko) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>ePub, PDF, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/1256ea14-lv</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in Latvian) (en), Kā iet? 201 (lv) - Measuring Well-being (en), Labklājības novērtējums (lv)</title>
+         <link>https://doi.org/10.1787/1256ea14-lv</link>
+         <description>How's Life? 2017 (Summary in Latvian) (en), Kā iet? 201 (lv) - Measuring Well-being (en), Labklājības novērtējums (lv) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>HTML, ePub, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/3b64f3de-no</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in Norwegian) (en), Hvordan er livet? 2017 (no) - Measuring Well-being (en), Måling av velvære (no)</title>
+         <link>https://doi.org/10.1787/3b64f3de-no</link>
+         <description>How's Life? 2017 (Summary in Norwegian) (en), Hvordan er livet? 2017 (no) - Measuring Well-being (en), Måling av velvære (no) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>ePub, PDF, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/fabe48e8-pl</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in Polish) (en), Źyć lepiej 2017 (pl) - Measuring Well-being (en), Ocena jakości życia (pl)</title>
+         <link>https://doi.org/10.1787/fabe48e8-pl</link>
+         <description>How's Life? 2017 (Summary in Polish) (en), Źyć lepiej 2017 (pl) - Measuring Well-being (en), Ocena jakości życia (pl) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>HTML, ePub, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/2a0e03d8-pt</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in Portuguese) (en), Como está a vida? 2017 (pt) - Measuring Well-being (en), Medir o bem-estar (pt)</title>
+         <link>https://doi.org/10.1787/2a0e03d8-pt</link>
+         <description>How's Life? 2017 (Summary in Portuguese) (en), Como está a vida? 2017 (pt) - Measuring Well-being (en), Medir o bem-estar (pt) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>HTML, ePub, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/cca7b2f9-ru</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in Russian) (en), Какова жизнь? 2017 (ru) - Measuring Well-being (en), Измерение благополучия (ru)</title>
+         <link>https://doi.org/10.1787/cca7b2f9-ru</link>
+         <description>How's Life? 2017 (Summary in Russian) (en), Какова жизнь? 2017 (ru) - Measuring Well-being (en), Измерение благополучия (ru) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>PDF, HTML, ePub</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/d63159fd-sk</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in Slovak) (en), Ako sa žije? 2017 (sk) - Measuring Well-being (en), Meranie kvality života (sk)</title>
+         <link>https://doi.org/10.1787/d63159fd-sk</link>
+         <description>How's Life? 2017 (Summary in Slovak) (en), Ako sa žije? 2017 (sk) - Measuring Well-being (en), Meranie kvality života (sk) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>ePub, PDF, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/1ffc3ce8-sl</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in Slovenian) (en), Kako živimo? 2017 (sl) - Measuring Well-being (en), Merjenje blaginje (sl)</title>
+         <link>https://doi.org/10.1787/1ffc3ce8-sl</link>
+         <description>How's Life? 2017 (Summary in Slovenian) (en), Kako živimo? 2017 (sl) - Measuring Well-being (en), Merjenje blaginje (sl) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>PDF, ePub, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/325e2c6a-es</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in Spanish) (en), ¿Cómo va la vida? 2017 (es) - Measuring Well-being (en), Medición del bienestar (es)</title>
+         <link>https://doi.org/10.1787/325e2c6a-es</link>
+         <description>How's Life? 2017 (Summary in Spanish) (en), ¿Cómo va la vida? 2017 (es) - Measuring Well-being (en), Medición del bienestar (es) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>ePub, HTML, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/4ad7f164-sv</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in Swedish) (en), Hur är livet? 2017  (sv) - Measuring Well-being (en), En mätning av välbefinnandet (sv)</title>
+         <link>https://doi.org/10.1787/4ad7f164-sv</link>
+         <description>How's Life? 2017 (Summary in Swedish) (en), Hur är livet? 2017  (sv) - Measuring Well-being (en), En mätning av välbefinnandet (sv) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>ePub, HTML, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/cf5c1aa9-tr</guid>
+         <pubDate>Wed, 15 Nov 2017 10:00:00 GMT</pubDate>
+         <title>How's Life? 2017 (Summary in Turkish) (en), Hayat Nasıl Gidiyor? 2017 (tr) - Measuring Well-being (en), İyi Halin Ölçümü (tr)</title>
+         <link>https://doi.org/10.1787/cf5c1aa9-tr</link>
+         <description>How's Life? 2017 (Summary in Turkish) (en), Hayat Nasıl Gidiyor? 2017 (tr) - Measuring Well-being (en), İyi Halin Ölçümü (tr) by Statistics Directorate has an embargo on Wednesday, 15 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>ePub, PDF, HTML</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/5eca659c-fr</guid>
@@ -187,9 +592,9 @@
          <oe:embargoTime>2017-11-17T11:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
-         <oe:ftiLoaded/>
-         <oe:iLibraryExport>Monday, 6 November 2017, 21:43 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Thursday, 9 November 2017, 21:36 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Thursday, 9 November 2017, 22:37 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
@@ -284,6 +689,36 @@
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
+         <guid isPermaLink="false">10.1787/9789264278240-en</guid>
+         <pubDate>Thu, 23 Nov 2017 10:00:00 GMT</pubDate>
+         <title>OECD Guidelines on Measuring the Quality of the Working Environment (en)</title>
+         <link>https://doi.org/10.1787/9789264278240-en</link>
+         <description>OECD Guidelines on Measuring the Quality of the Working Environment (en) by Statistics Directorate has an embargo on Thursday, 23 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-23T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Thursday, 2 November 2017, 21:17 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+         <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264278219-en</guid>
+         <pubDate>Thu, 23 Nov 2017 10:00:00 GMT</pubDate>
+         <title>OECD Guidelines on Measuring Trust (en)</title>
+         <link>https://doi.org/10.1787/9789264278219-en</link>
+         <description>OECD Guidelines on Measuring Trust (en) by Statistics Directorate has an embargo on Thursday, 23 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-23T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Statistics Directorate</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Thursday, 2 November 2017, 21:17 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+         <oe:availableMedia>PDF, Paperback, ePub</oe:availableMedia>
+      </item>
+      <item>
          <guid isPermaLink="false">10.1787/9789264283183-en</guid>
          <pubDate>Thu, 23 Nov 2017 10:00:00 GMT</pubDate>
          <title>Revenue Statistics: 1965-2016 (en)</title>
@@ -315,26 +750,26 @@
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264279698-fr</guid>
-         <pubDate>Fri, 24 Nov 2017 09:00:00 GMT</pubDate>
+         <pubDate>Mon, 27 Nov 2017 09:00:00 GMT</pubDate>
          <title>Examens environnementaux de l'OCDE: Suisse 2017 (fr)</title>
          <link>https://doi.org/10.1787/9789264279698-fr</link>
-         <description>Examens environnementaux de l'OCDE: Suisse 2017 (fr) by Environment Directorate has an embargo on Friday, 24 November 2017, 11:00 Paris time (GMT+02:00).</description>
-         <oe:embargoTime>2017-11-24T09:00:00Z</oe:embargoTime>
+         <description>Examens environnementaux de l'OCDE: Suisse 2017 (fr) by Environment Directorate has an embargo on Monday, 27 November 2017, 11:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-27T09:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Environment Directorate</oe:directorate>
          <oe:ftiLoaded/>
          <oe:iLibraryExport>Friday, 3 November 2017, 21:56 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>ePub, PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264279674-en</guid>
-         <pubDate>Fri, 24 Nov 2017 09:00:00 GMT</pubDate>
+         <pubDate>Mon, 27 Nov 2017 09:00:00 GMT</pubDate>
          <title>OECD Environmental Performance Reviews: Switzerland 2017 (en)</title>
          <link>https://doi.org/10.1787/9789264279674-en</link>
-         <description>OECD Environmental Performance Reviews: Switzerland 2017 (en) by Environment Directorate has an embargo on Friday, 24 November 2017, 11:00 Paris time (GMT+02:00).</description>
-         <oe:embargoTime>2017-11-24T09:00:00Z</oe:embargoTime>
+         <description>OECD Environmental Performance Reviews: Switzerland 2017 (en) by Environment Directorate has an embargo on Monday, 27 November 2017, 11:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-27T09:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Environment Directorate</oe:directorate>
          <oe:ftiLoaded/>
@@ -398,10 +833,10 @@
          <oe:launchTime/>
          <oe:directorate>Environment Directorate</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Thursday, 2 November 2017, 21:17 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Thursday, 9 November 2017, 21:36 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>ePub, PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback, ePub</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264279612-en</guid>
@@ -413,10 +848,10 @@
          <oe:launchTime/>
          <oe:directorate>Environment Directorate</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Thursday, 2 November 2017, 21:17 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Thursday, 9 November 2017, 21:36 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback, ePub</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264281370-en</guid>
