@@ -1,6 +1,6 @@
-# OECD publication embargoes by date (55 embargoes)
+# OECD publication embargoes by date (61 embargoes)
 
-*Data generated on Saturday 11 November 2017 at 0:48:51*
+*Data generated on Tuesday 14 November 2017 at 0:57:26*
 
 ------
 
@@ -12,7 +12,7 @@ Tuesday 14 November 2017 at 2:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 7 November 2017 at 21:45:33
+- [x] Exported to iLibrary Friday 10 November 2017 at 22:12:47
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -25,6 +25,27 @@ Tuesday 14 November 2017 at 2:00:00 | no launch event
 
 ------
 
+## [World Energy Outlook 2017 (en)](https://doi.org/10.1787/weo-2017-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 14 November 2017 at 8:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *International Energy Agency*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
 ## [Études économiques de l'OCDE : Suisse 2017 (fr)](https://doi.org/10.1787/eco_surveys-che-2017-fr)
 
 Embargo date | Launch date
@@ -32,15 +53,15 @@ Embargo date | Launch date
 Tuesday 14 November 2017 at 14:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 31 October 2017 at 21:40:41
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 10 November 2017 at 22:12:47
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Medium: *PDF*
 
@@ -53,7 +74,7 @@ Embargo date | Launch date
 Tuesday 14 November 2017 at 14:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 7 November 2017 at 21:45:33
 - [ ] Exported to Keepeek
 
@@ -61,7 +82,7 @@ Tuesday 14 November 2017 at 14:00:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Medium: *PDF*
 
@@ -116,15 +137,15 @@ Embargo date | Launch date
 Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 30 October 2017 at 11:03:44
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 10 November 2017 at 22:12:47
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Statistics Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -145,7 +166,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *Chinese*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -166,7 +187,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *Czech*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -187,7 +208,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *Danish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -208,7 +229,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *Dutch*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -229,7 +250,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -250,7 +271,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *Estonian*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -271,7 +292,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *Finnish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -292,7 +313,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -313,7 +334,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *German*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -334,7 +355,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *Greek*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -355,7 +376,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *Hebrew*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -376,7 +397,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *Hungarian*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -397,7 +418,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *Icelandic*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -418,7 +439,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *Italian*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -439,7 +460,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *Japanese*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -460,7 +481,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *Korean*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -481,7 +502,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *Latvian*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -502,7 +523,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *Norwegian*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -523,7 +544,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *Polish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -544,7 +565,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *Portuguese*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -565,7 +586,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *Russian*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -586,7 +607,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *Slovak*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -607,7 +628,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *Slovenian*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -628,7 +649,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -649,7 +670,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *Swedish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -670,7 +691,7 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *Turkish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -865,11 +886,32 @@ Monday 20 November 2017 at 10:00:00 | no launch event
 
 ------
 
-## [Le recrutement des travailleurs immigrés: France 2017 (fr)](https://doi.org/10.1787/9789264276741-fr)
+## [OECD Science, Technology and Industry Scoreboard 2017 (en) - The digital transformation (en)](https://doi.org/10.1787/9789264268821-en)
 
 Embargo date | Launch date
 -------------|------------
 Monday 20 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 10 November 2017 at 22:12:47
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Le recrutement des travailleurs immigrés: France 2017 (fr)](https://doi.org/10.1787/9789264276741-fr)
+
+Embargo date | Launch date
+-------------|------------
+Monday 20 November 2017 at 10:30:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
@@ -886,6 +928,27 @@ Monday 20 November 2017 at 10:00:00 | no launch event
 
 ------
 
+## [PISA 2015 Results (Volume V) (en) - Collaborative Problem Solving (en)](https://doi.org/10.1787/9789264285521-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 21 November 2017 at 7:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 25 October 2017 at 20:43:01
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills, Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
 ## [OECD Guidelines on Measuring the Quality of the Working Environment (en)](https://doi.org/10.1787/9789264278240-en)
 
 Embargo date | Launch date
@@ -894,7 +957,7 @@ Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 November 2017 at 21:17:34
+- [x] Exported to iLibrary Friday 10 November 2017 at 22:12:47
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -915,7 +978,7 @@ Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 November 2017 at 21:17:34
+- [x] Exported to iLibrary Friday 10 November 2017 at 22:12:47
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -978,7 +1041,7 @@ Monday 27 November 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 3 November 2017 at 21:56:08
+- [x] Exported to iLibrary Friday 10 November 2017 at 22:12:47
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -999,7 +1062,7 @@ Monday 27 November 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 7 November 2017 at 21:45:33
+- [x] Exported to iLibrary Friday 10 November 2017 at 22:12:47
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -1007,6 +1070,48 @@ Monday 27 November 2017 at 9:00:00 | no launch event
 * Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [OECD Umweltprüfbericht: Schweiz 2017 (Kurzfassung) (de)](https://doi.org/10.1787/g2g857a3-de)
+
+Embargo date | Launch date
+-------------|------------
+Monday 27 November 2017 at 9:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *German*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Rapporto dell'OCSE sulle performance ambientali: Svizzera 2017 (Versione abbreviata) (it)](https://doi.org/10.1787/g2g857a2-it)
+
+Embargo date | Launch date
+-------------|------------
+Monday 27 November 2017 at 9:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *Italian*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -1138,11 +1243,32 @@ Monday 4 December 2017 at 9:00:00 | no launch event
 
 ------
 
+## [Getting Skills Right: Good Practice in Adapting to Changing Skill Needs (en) - A Perspective on France, Italy, Spain, South Africa and the United Kingdom (en)](https://doi.org/10.1787/9789264277892-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 6 December 2017 at 9:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 7 July 2017 at 20:35:30
+- [x] Exported to Keepeek Tuesday 1 August 2017 at 20:48:36
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
 ## [Getting Skills Right: Italy (en)](https://doi.org/10.1787/9789264278639-en)
 
 Embargo date | Launch date
 -------------|------------
-Thursday 21 December 2017 at 9:00:00 | no launch event
+Wednesday 6 December 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 

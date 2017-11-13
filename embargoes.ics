@@ -4,108 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/8b69400e-en
-SUMMARY:How do teachers become knowledgeable and
-  confident in classroom management? (en)
-  on 9 November 2017, 12:00 Paris time (G
- MT+02:00)
-DESCRIPTION:How do teachers become knowledgeable and
-  confident in classroom management? (en)
-   - Insights from a pilot study (en) by 
- Directorate for Education and Skills has
-  an embargo date/time of 9 November 2017
- , 12:00 Paris time (GMT+02:00).\n\nDirec
- torate: Directorate for Education and Sk
- ills\nLanguage: English\nDOI: https://do
- i.org/10.1787/8b69400e-en\nPublication t
- ype: Working paper\nReleased as: PDF.\n\
- niLibrary export: 7 November 2017, 21:45
-  Paris time (GMT+00:00)\nFreepreview exp
- ort: 7 November 2017, 22:40 Paris time (
- GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
-DTSTART:20171109T100000Z
-DTEND:20171109T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: How do teachers become knowled
- geable and confident in classroom manage
- ment? (en) on 9 November 2017, 12:00 Par
- is time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/health_glance-2017-en
-SUMMARY:Health at a Glance 2017 (en) on 10 Novem
- ber 2017, 12:00 Paris time (GMT+02:00)
-DESCRIPTION:Health at a Glance 2017 (en)  - OECD Ind
- icators (en) by Directorate for Employme
- nt, Labour and Social Affairs has an emb
- argo date/time of 10 November 2017, 12:0
- 0 Paris time (GMT+02:00).\n\nDirectorate
- : Directorate for Employment, Labour and
-  Social Affairs\nLanguage: English\nDOI:
-  https://doi.org/10.1787/health_glance-2
- 017-en\nPublication type: Book\nReleased
-  as: HTML, ePub, PDF.\n\niLibrary export
- : 9 November 2017, 21:36 Paris time (GMT
- +00:00)\nFreepreview export: 8 November 
- 2017, 22:25 Paris time (GMT+00:00)\nFTI 
- loaded: ✓.
-DTSTAMP:20171111T004911Z
-DTSTART:20171110T100000Z
-DTEND:20171110T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Health at a Glance 2017 (en) o
- n 10 November 2017, 12:00 Paris time (GM
- T+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/health_glance-2017-fr
-SUMMARY:Panorama de la santé 2017 (fr) on 10 Nov
- ember 2017, 12:00 Paris time (GMT+02:00)
-DESCRIPTION:Panorama de la santé 2017 (fr)  - Les in
- dicateurs de l'OCDE (fr) by Directorate 
- for Employment, Labour and Social Affair
- s has an embargo date/time of 10 Novembe
- r 2017, 12:00 Paris time (GMT+02:00).\n\
- nDirectorate: Directorate for Employment
- , Labour and Social Affairs\nLanguage: F
- rench\nDOI: https://doi.org/10.1787/heal
- th_glance-2017-fr\nPublication type: Boo
- k\nReleased as: ePub, PDF, HTML.\n\niLib
- rary export: 9 November 2017, 21:36 Pari
- s time (GMT+00:00)\nFreepreview export: 
- 8 November 2017, 22:25 Paris time (GMT+0
- 0:00)\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
-DTSTART:20171110T100000Z
-DTEND:20171110T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Panorama de la santé 2017 (fr)
-  on 10 November 2017, 12:00 Paris time (
- GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264286184-en
 SUMMARY:Economic Outlook for Southeast Asia, Chi
  na and India 2018 (en) on 14 November 20
@@ -118,11 +16,11 @@ DESCRIPTION:Economic Outlook for Southeast Asia, Chi
  02:00).\n\nDirectorate: Development Cent
  re\nLanguage: English\nDOI: https://doi.
  org/10.1787/9789264286184-en\nPublicatio
- n type: Book\nReleased as: Paperback, PD
- F.\n\niLibrary export: 7 November 2017, 
- 21:45 Paris time (GMT+00:00)\nFreeprevie
- w export: never\nFTI loaded: no.
-DTSTAMP:20171111T004911Z
+ n type: Book\nReleased as: PDF, Paperbac
+ k.\n\niLibrary export: 10 November 2017,
+  22:12 Paris time (GMT+00:00)\nFreeprevi
+ ew export: never\nFTI loaded: no.
+DTSTAMP:20171114T005737Z
 DTSTART:20171114T020000Z
 DTEND:20171114T021500Z
 TRANSP:TRANSPARENT
@@ -139,6 +37,34 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/weo-2017-en
+SUMMARY:World Energy Outlook 2017 (en) on 14 Nov
+ ember 2017, 10:00 Paris time (GMT+02:00)
+DESCRIPTION:World Energy Outlook 2017 (en)  by Inter
+ national Energy Agency has an embargo da
+ te/time of 14 November 2017, 10:00 Paris
+  time (GMT+02:00).\n\nDirectorate: Inter
+ national Energy Agency\nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/weo-2017
+ -en\nPublication type: Book\nReleased as
+ : PDF.\n\niLibrary export: never\nFreepr
+ eview export: never\nFTI loaded: ✓.
+DTSTAMP:20171114T005737Z
+DTSTART:20171114T080000Z
+DTEND:20171114T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: World Energy Outlook 2017 (en)
+  on 14 November 2017, 10:00 Paris time (
+ GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/eco_surveys-che-2017-fr
 SUMMARY:Études économiques de l'OCDE : Suisse 20
  17 (fr) on 14 November 2017, 16:00 Paris
@@ -151,10 +77,10 @@ DESCRIPTION:Études économiques de l'OCDE : Suisse 20
  nch\nDOI: https://doi.org/10.1787/eco_su
  rveys-che-2017-fr\nPublication type: Eco
  nomic survey\nReleased as: Paperback, eP
- ub, PDF.\n\niLibrary export: 31 October 
- 2017, 21:40 Paris time (GMT+00:00)\nFree
- preview export: never\nFTI loaded: no.
-DTSTAMP:20171111T004911Z
+ ub, PDF.\n\niLibrary export: 10 November
+  2017, 22:12 Paris time (GMT+00:00)\nFre
+ epreview export: never\nFTI loaded: ✓.
+DTSTAMP:20171114T005737Z
 DTSTART:20171114T140000Z
 DTEND:20171114T141500Z
 TRANSP:TRANSPARENT
@@ -181,11 +107,11 @@ DESCRIPTION:OECD Economic Surveys: Switzerland 2017
  : Economics Department\nLanguage: Englis
  h\nDOI: https://doi.org/10.1787/eco_surv
  eys-che-2017-en\nPublication type: Econo
- mic survey\nReleased as: Paperback, ePub
- , PDF.\n\niLibrary export: 7 November 20
+ mic survey\nReleased as: ePub, PDF, Pape
+ rback.\n\niLibrary export: 7 November 20
  17, 21:45 Paris time (GMT+00:00)\nFreepr
- eview export: never\nFTI loaded: no.
-DTSTAMP:20171111T004911Z
+ eview export: never\nFTI loaded: ✓.
+DTSTAMP:20171114T005737Z
 DTSTART:20171114T140000Z
 DTEND:20171114T141500Z
 TRANSP:TRANSPARENT
@@ -216,7 +142,7 @@ DESCRIPTION:Structural policy indicators database fo
  tion type: Working paper\nReleased as: P
  DF.\n\niLibrary export: never\nFreeprevi
  ew export: never\nFTI loaded: no.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T010000Z
 DTEND:20171115T011500Z
 TRANSP:TRANSPARENT
@@ -252,7 +178,7 @@ DESCRIPTION:Permit allocation rules and investment i
  \nFreepreview export: 9 November 2017, 2
  2:37 Paris time (GMT+00:00)\nFTI loaded:
   ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T090000Z
 DTEND:20171115T091500Z
 TRANSP:TRANSPARENT
@@ -280,10 +206,10 @@ DESCRIPTION:How's Life? 2017 (en)  - Measuring Well-
  e: English\nDOI: https://doi.org/10.1787
  /how_life-2017-en\nPublication type: Boo
  k\nReleased as: Paperback, ePub, PDF.\n\
- niLibrary export: 30 October 2017, 11:03
-  Paris time (GMT+00:00)\nFreepreview exp
- ort: never\nFTI loaded: no.
-DTSTAMP:20171111T004911Z
+ niLibrary export: 10 November 2017, 22:1
+ 2 Paris time (GMT+00:00)\nFreepreview ex
+ port: never\nFTI loaded: ✓.
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -314,7 +240,7 @@ DESCRIPTION:How's Life? 2017 (Summary in Chinese) (e
  e: Summary\nReleased as: PDF, ePub, HTML
  .\n\niLibrary export: never\nFreepreview
   export: never\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -346,7 +272,7 @@ DESCRIPTION:How's Life? 2017 (Summary in Czech) (en)
  cation type: Summary\nReleased as: PDF, 
  HTML, ePub.\n\niLibrary export: never\nF
  reepreview export: never\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -379,7 +305,7 @@ DESCRIPTION:How's Life? 2017 (Summary in Danish) (en
  d as: ePub, PDF, HTML.\n\niLibrary expor
  t: never\nFreepreview export: never\nFTI
   loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -412,7 +338,7 @@ DESCRIPTION:How's Life? 2017 (Summary in Dutch) (en)
  ased as: HTML, ePub, PDF.\n\niLibrary ex
  port: never\nFreepreview export: never\n
  FTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -443,7 +369,7 @@ DESCRIPTION:How's Life? 2017 (Summary in English) (e
  cation type: Summary\nReleased as: ePub,
   PDF, HTML.\n\niLibrary export: never\nF
  reepreview export: never\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -475,7 +401,7 @@ DESCRIPTION:How's Life? 2017 (Summary in Estonian) (
  d as: HTML, ePub, PDF.\n\niLibrary expor
  t: never\nFreepreview export: never\nFTI
   loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -509,7 +435,7 @@ DESCRIPTION:How's Life? 2017 (Summary in Finnish) (e
  ry\nReleased as: HTML, PDF, ePub.\n\niLi
  brary export: never\nFreepreview export:
   never\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -543,7 +469,7 @@ DESCRIPTION:How's Life? 2017 (Summary in French) (en
  eleased as: HTML, PDF, ePub.\n\niLibrary
   export: never\nFreepreview export: neve
  r\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -576,7 +502,7 @@ DESCRIPTION:How's Life? 2017 (Summary in German) (en
  as: HTML, PDF, ePub.\n\niLibrary export:
   never\nFreepreview export: never\nFTI l
  oaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -609,7 +535,7 @@ DESCRIPTION:How's Life? 2017 (Summary in Greek) (en)
  ed as: ePub, HTML, PDF.\n\niLibrary expo
  rt: never\nFreepreview export: never\nFT
  I loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -641,7 +567,7 @@ DESCRIPTION:How's Life? 2017 (Summary in Hebrew) (en
  ation type: Summary\nReleased as: ePub, 
  HTML, PDF.\n\niLibrary export: never\nFr
  eepreview export: never\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -675,7 +601,7 @@ DESCRIPTION:How's Life? 2017 (Summary in Hungarian)
  ed as: ePub, PDF, HTML.\n\niLibrary expo
  rt: never\nFreepreview export: never\nFT
  I loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -709,7 +635,7 @@ DESCRIPTION:How's Life? 2017 (Summary in Icelandic)
  nReleased as: ePub, HTML, PDF.\n\niLibra
  ry export: never\nFreepreview export: ne
  ver\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -742,7 +668,7 @@ DESCRIPTION:How's Life? 2017 (Summary in Italian) (e
  leased as: ePub, PDF, HTML.\n\niLibrary 
  export: never\nFreepreview export: never
  \nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -774,7 +700,7 @@ DESCRIPTION:How's Life? 2017 (Summary in Japanese) (
  tion type: Summary\nReleased as: PDF, HT
  ML, ePub.\n\niLibrary export: never\nFre
  epreview export: never\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -808,7 +734,7 @@ DESCRIPTION:How's Life? 2017 (Summary in Korean) (en
   ePub, PDF, HTML.\n\niLibrary export: ne
  ver\nFreepreview export: never\nFTI load
  ed: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -841,7 +767,7 @@ DESCRIPTION:How's Life? 2017 (Summary in Latvian) (e
  s: HTML, ePub, PDF.\n\niLibrary export: 
  never\nFreepreview export: never\nFTI lo
  aded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -874,7 +800,7 @@ DESCRIPTION:How's Life? 2017 (Summary in Norwegian)
  eleased as: ePub, PDF, HTML.\n\niLibrary
   export: never\nFreepreview export: neve
  r\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -907,7 +833,7 @@ DESCRIPTION:How's Life? 2017 (Summary in Polish) (en
   HTML, ePub, PDF.\n\niLibrary export: ne
  ver\nFreepreview export: never\nFTI load
  ed: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -941,7 +867,7 @@ DESCRIPTION:How's Life? 2017 (Summary in Portuguese)
  nReleased as: HTML, ePub, PDF.\n\niLibra
  ry export: never\nFreepreview export: ne
  ver\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -974,7 +900,7 @@ DESCRIPTION:How's Life? 2017 (Summary in Russian) (e
  ased as: PDF, HTML, ePub.\n\niLibrary ex
  port: never\nFreepreview export: never\n
  FTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -1007,7 +933,7 @@ DESCRIPTION:How's Life? 2017 (Summary in Slovak) (en
  d as: ePub, PDF, HTML.\n\niLibrary expor
  t: never\nFreepreview export: never\nFTI
   loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -1040,7 +966,7 @@ DESCRIPTION:How's Life? 2017 (Summary in Slovenian)
  ed as: PDF, ePub, HTML.\n\niLibrary expo
  rt: never\nFreepreview export: never\nFT
  I loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -1074,7 +1000,7 @@ DESCRIPTION:How's Life? 2017 (Summary in Spanish) (e
  Released as: ePub, HTML, PDF.\n\niLibrar
  y export: never\nFreepreview export: nev
  er\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -1107,7 +1033,7 @@ DESCRIPTION:How's Life? 2017 (Summary in Swedish) (e
  y\nReleased as: ePub, HTML, PDF.\n\niLib
  rary export: never\nFreepreview export: 
  never\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -1141,7 +1067,7 @@ DESCRIPTION:How's Life? 2017 (Summary in Turkish) (e
  eased as: ePub, PDF, HTML.\n\niLibrary e
  xport: never\nFreepreview export: never\
  nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171115T100000Z
 DTEND:20171115T101500Z
 TRANSP:TRANSPARENT
@@ -1178,7 +1104,7 @@ DESCRIPTION:Dans quelle mesure les compétences en li
  , 21:36 Paris time (GMT+00:00)\nFreeprev
  iew export: 9 November 2017, 22:37 Paris
   time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171117T060000Z
 DTEND:20171117T061500Z
 TRANSP:TRANSPARENT
@@ -1215,7 +1141,7 @@ DESCRIPTION:How much will the literacy level of the
  \nFreepreview export: 9 November 2017, 2
  2:37 Paris time (GMT+00:00)\nFTI loaded:
   ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171117T060000Z
 DTEND:20171117T061500Z
 TRANSP:TRANSPARENT
@@ -1253,7 +1179,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  is time (GMT+00:00)\nFreepreview export:
   7 November 2017, 22:40 Paris time (GMT+
  00:00)\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171117T110000Z
 DTEND:20171117T111500Z
 TRANSP:TRANSPARENT
@@ -1292,7 +1218,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  is time (GMT+00:00)\nFreepreview export:
   9 November 2017, 22:37 Paris time (GMT+
  00:00)\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171117T110000Z
 DTEND:20171117T111500Z
 TRANSP:TRANSPARENT
@@ -1331,7 +1257,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
   time (GMT+00:00)\nFreepreview export: 7
   November 2017, 22:40 Paris time (GMT+00
  :00)\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171117T110000Z
 DTEND:20171117T111500Z
 TRANSP:TRANSPARENT
@@ -1371,7 +1297,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 7 November 2017, 22:40 Paris time (
  GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171117T110000Z
 DTEND:20171117T111500Z
 TRANSP:TRANSPARENT
@@ -1410,7 +1336,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
   time (GMT+00:00)\nFreepreview export: 7
   November 2017, 22:40 Paris time (GMT+00
  :00)\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171117T110000Z
 DTEND:20171117T111500Z
 TRANSP:TRANSPARENT
@@ -1449,7 +1375,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  s time (GMT+00:00)\nFreepreview export: 
  7 November 2017, 22:40 Paris time (GMT+0
  0:00)\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171117T110000Z
 DTEND:20171117T111500Z
 TRANSP:TRANSPARENT
@@ -1484,7 +1410,7 @@ DESCRIPTION:Getting Skills Right: United Kingdom (en
  7, 21:35 Paris time (GMT+00:00)\nFreepre
  view export: 8 November 2017, 22:25 Pari
  s time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171120T100000Z
 DTEND:20171120T101500Z
 TRANSP:TRANSPARENT
@@ -1500,25 +1426,25 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:10.1787/9789264276741-fr
-SUMMARY:Le recrutement des travailleurs immigrés
- : France 2017 (fr) on 20 November 2017, 
+UID:10.1787/9789264268821-en
+SUMMARY:OECD Science, Technology and Industry Sc
+ oreboard 2017 (en) on 20 November 2017, 
  12:00 Paris time (GMT+02:00)
-DESCRIPTION:Le recrutement des travailleurs immigrés
- : France 2017 (fr)  by Directorate for E
- mployment, Labour and Social Affairs has
-  an embargo date/time of 20 November 201
- 7, 12:00 Paris time (GMT+02:00).\n\nDire
- ctorate: Directorate for Employment, Lab
- our and Social Affairs\nLanguage: French
- \nDOI: https://doi.org/10.1787/978926427
- 6741-fr\nPublication type: Stand-alone m
- onograph\nReleased as: PDF, Paperback.\n
- \niLibrary export: 30 October 2017, 21:3
- 3 Paris time (GMT+00:00)\nFreepreview ex
- port: 26 October 2017, 21:28 Paris time 
- (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DESCRIPTION:OECD Science, Technology and Industry Sc
+ oreboard 2017 (en)  - The digital transf
+ ormation (en) by Directorate for Science
+ , Technology and Industry  has an embarg
+ o date/time of 20 November 2017, 12:00 P
+ aris time (GMT+02:00).\n\nDirectorate: D
+ irectorate for Science, Technology and I
+ ndustry \nLanguage: English\nDOI: https:
+ //doi.org/10.1787/9789264268821-en\nPubl
+ ication type: Book\nReleased as: PDF, HT
+ ML, Paperback, ePub.\n\niLibrary export:
+  10 November 2017, 22:12 Paris time (GMT
+ +00:00)\nFreepreview export: never\nFTI 
+ loaded: no.
+DTSTAMP:20171114T005737Z
 DTSTART:20171120T100000Z
 DTEND:20171120T101500Z
 TRANSP:TRANSPARENT
@@ -1527,9 +1453,78 @@ TRIGGER:-PT72H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ ndustry Scoreboard 2017 (en) on 20 Novem
+ ber 2017, 12:00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264276741-fr
+SUMMARY:Le recrutement des travailleurs immigrés
+ : France 2017 (fr) on 20 November 2017, 
+ 12:30 Paris time (GMT+02:00)
+DESCRIPTION:Le recrutement des travailleurs immigrés
+ : France 2017 (fr)  by Directorate for E
+ mployment, Labour and Social Affairs has
+  an embargo date/time of 20 November 201
+ 7, 12:30 Paris time (GMT+02:00).\n\nDire
+ ctorate: Directorate for Employment, Lab
+ our and Social Affairs\nLanguage: French
+ \nDOI: https://doi.org/10.1787/978926427
+ 6741-fr\nPublication type: Stand-alone m
+ onograph\nReleased as: Paperback, PDF.\n
+ \niLibrary export: 30 October 2017, 21:3
+ 3 Paris time (GMT+00:00)\nFreepreview ex
+ port: 26 October 2017, 21:28 Paris time 
+ (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171114T005737Z
+DTSTART:20171120T103000Z
+DTEND:20171120T104500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
 DESCRIPTION:Reminder: Le recrutement des travailleur
  s immigrés: France 2017 (fr) on 20 Novem
- ber 2017, 12:00 Paris time (GMT+02:00)
+ ber 2017, 12:30 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264285521-en
+SUMMARY:PISA 2015 Results (Volume V) (en) on 21 
+ November 2017, 9:00 Paris time (GMT+02:0
+ 0)
+DESCRIPTION:PISA 2015 Results (Volume V) (en)  - Col
+ laborative Problem Solving (en) by Direc
+ torate for Education and Skills, Directo
+ rate for Financial and Enterprise Affair
+ s has an embargo date/time of 21 Novembe
+ r 2017, 9:00 Paris time (GMT+02:00).\n\n
+ Directorate: Directorate for Education a
+ nd Skills, Directorate for Financial and
+  Enterprise Affairs\nLanguage: English\n
+ DOI: https://doi.org/10.1787/97892642855
+ 21-en\nPublication type: Book\nReleased 
+ as: PDF, Paperback.\n\niLibrary export: 
+ 25 October 2017, 20:43 Paris time (GMT+0
+ 0:00)\nFreepreview export: never\nFTI lo
+ aded: no.
+DTSTAMP:20171114T005737Z
+DTSTART:20171121T070000Z
+DTEND:20171121T071500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: PISA 2015 Results (Volume V) (
+ en) on 21 November 2017, 9:00 Paris time
+  (GMT+02:00)
 END:VALARM
 END:VEVENT
 
@@ -1548,10 +1543,10 @@ DESCRIPTION:OECD Guidelines on Measuring the Quality
  https://doi.org/10.1787/9789264278240-en
  \nPublication type: Stand-alone monograp
  h\nReleased as: Paperback, ePub, PDF.\n\
- niLibrary export: 2 November 2017, 21:17
-  Paris time (GMT+00:00)\nFreepreview exp
- ort: never\nFTI loaded: no.
-DTSTAMP:20171111T004911Z
+ niLibrary export: 10 November 2017, 22:1
+ 2 Paris time (GMT+00:00)\nFreepreview ex
+ port: never\nFTI loaded: no.
+DTSTAMP:20171114T005737Z
 DTSTART:20171123T100000Z
 DTEND:20171123T101500Z
 TRANSP:TRANSPARENT
@@ -1580,10 +1575,10 @@ DESCRIPTION:OECD Guidelines on Measuring Trust (en)
  \nDOI: https://doi.org/10.1787/978926427
  8219-en\nPublication type: Stand-alone m
  onograph\nReleased as: PDF, Paperback, e
- Pub.\n\niLibrary export: 2 November 2017
- , 21:17 Paris time (GMT+00:00)\nFreeprev
- iew export: never\nFTI loaded: no.
-DTSTAMP:20171111T004911Z
+ Pub.\n\niLibrary export: 10 November 201
+ 7, 22:12 Paris time (GMT+00:00)\nFreepre
+ view export: never\nFTI loaded: no.
+DTSTAMP:20171114T005737Z
 DTSTART:20171123T100000Z
 DTEND:20171123T101500Z
 TRANSP:TRANSPARENT
@@ -1615,7 +1610,7 @@ DESCRIPTION:Revenue Statistics: 1965-2016 (en)  by C
  Library export: 23 October 2017, 22:14 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171123T100000Z
 DTEND:20171123T101500Z
 TRANSP:TRANSPARENT
@@ -1648,7 +1643,7 @@ DESCRIPTION:Statistiques des recettes publiques : 19
  ber 2017, 22:14 Paris time (GMT+00:00)\n
  Freepreview export: never\nFTI loaded: n
  o.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171123T100000Z
 DTEND:20171123T101500Z
 TRANSP:TRANSPARENT
@@ -1675,11 +1670,11 @@ DESCRIPTION:Examens environnementaux de l'OCDE: Suis
  Directorate: Environment Directorate\nLa
  nguage: French\nDOI: https://doi.org/10.
  1787/9789264279698-fr\nPublication type:
-  Book\nReleased as: Paperback, ePub, PDF
- .\n\niLibrary export: 3 November 2017, 2
- 1:56 Paris time (GMT+00:00)\nFreepreview
-  export: never\nFTI loaded: no.
-DTSTAMP:20171111T004911Z
+  Book\nReleased as: PDF, Paperback, ePub
+ .\n\niLibrary export: 10 November 2017, 
+ 22:12 Paris time (GMT+00:00)\nFreeprevie
+ w export: never\nFTI loaded: no.
+DTSTAMP:20171114T005737Z
 DTSTART:20171127T090000Z
 DTEND:20171127T091500Z
 TRANSP:TRANSPARENT
@@ -1707,11 +1702,11 @@ DESCRIPTION:OECD Environmental Performance Reviews:
  orate\nLanguage: English\nDOI: https://d
  oi.org/10.1787/9789264279674-en\nPublica
  tion type: Book\nReleased as: Paperback,
-  ePub, PDF.\n\niLibrary export: 7 Novemb
- er 2017, 21:45 Paris time (GMT+00:00)\nF
- reepreview export: never\nFTI loaded: no
- .
-DTSTAMP:20171111T004911Z
+  ePub, PDF.\n\niLibrary export: 10 Novem
+ ber 2017, 22:12 Paris time (GMT+00:00)\n
+ Freepreview export: never\nFTI loaded: n
+ o.
+DTSTAMP:20171114T005737Z
 DTSTART:20171127T090000Z
 DTEND:20171127T091500Z
 TRANSP:TRANSPARENT
@@ -1724,6 +1719,69 @@ DESCRIPTION:Reminder: OECD Environmental Performance
   Reviews: Switzerland 2017 (en) on 27 No
  vember 2017, 11:00 Paris time (GMT+02:00
  )
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/g2g857a3-de
+SUMMARY:OECD Umweltprüfbericht: Schweiz 2017 (Ku
+ rzfassung) (de) on 27 November 2017, 11:
+ 00 Paris time (GMT+02:00)
+DESCRIPTION:OECD Umweltprüfbericht: Schweiz 2017 (Ku
+ rzfassung) (de)  by Environment Director
+ ate has an embargo date/time of 27 Novem
+ ber 2017, 11:00 Paris time (GMT+02:00).\
+ n\nDirectorate: Environment Directorate\
+ nLanguage: German\nDOI: https://doi.org/
+ 10.1787/g2g857a3-de\nPublication type: B
+ ook\nReleased as: Paperback, PDF.\n\niLi
+ brary export: never\nFreepreview export:
+  never\nFTI loaded: no.
+DTSTAMP:20171114T005737Z
+DTSTART:20171127T090000Z
+DTEND:20171127T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Umweltprüfbericht: Schwei
+ z 2017 (Kurzfassung) (de) on 27 November
+  2017, 11:00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/g2g857a2-it
+SUMMARY:Rapporto dell'OCSE sulle performance amb
+ ientali: Svizzera 2017 (Versione abbrevi
+ ata) (it) on 27 November 2017, 11:00 Par
+ is time (GMT+02:00)
+DESCRIPTION:Rapporto dell'OCSE sulle performance amb
+ ientali: Svizzera 2017 (Versione abbrevi
+ ata) (it)  by Environment Directorate ha
+ s an embargo date/time of 27 November 20
+ 17, 11:00 Paris time (GMT+02:00).\n\nDir
+ ectorate: Environment Directorate\nLangu
+ age: Italian\nDOI: https://doi.org/10.17
+ 87/g2g857a2-it\nPublication type: Book\n
+ Released as: PDF, Paperback.\n\niLibrary
+  export: never\nFreepreview export: neve
+ r\nFTI loaded: no.
+DTSTAMP:20171114T005737Z
+DTSTART:20171127T090000Z
+DTEND:20171127T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Rapporto dell'OCSE sulle perfo
+ rmance ambientali: Svizzera 2017 (Versio
+ ne abbreviata) (it) on 27 November 2017,
+  11:00 Paris time (GMT+02:00)
 END:VALARM
 END:VEVENT
 
@@ -1746,7 +1804,7 @@ DESCRIPTION:Monitoring Health System Performance in
  33 Paris time (GMT+00:00)\nFreepreview e
  xport: 26 October 2017, 21:28 Paris time
   (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171129T230000Z
 DTEND:20171129T231500Z
 TRANSP:TRANSPARENT
@@ -1779,7 +1837,7 @@ DESCRIPTION:OECD Reviews of Health Systems: Peru 201
   2017, 20:35 Paris time (GMT+00:00)\nFre
  epreview export: 26 October 2017, 21:28 
  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171129T230000Z
 DTEND:20171129T231500Z
 TRANSP:TRANSPARENT
@@ -1811,7 +1869,7 @@ DESCRIPTION:OECD Reviews of School Resources: Chile
  0 October 2017, 21:33 Paris time (GMT+00
  :00)\nFreepreview export: never\nFTI loa
  ded: no.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171130T230000Z
 DTEND:20171130T231500Z
 TRANSP:TRANSPARENT
@@ -1842,7 +1900,7 @@ DESCRIPTION:Examens environnementaux de l'OCDE: Cana
  \n\niLibrary export: 9 November 2017, 21
  :36 Paris time (GMT+00:00)\nFreepreview 
  export: never\nFTI loaded: no.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171201T100000Z
 DTEND:20171201T101500Z
 TRANSP:TRANSPARENT
@@ -1873,7 +1931,7 @@ DESCRIPTION:OECD Environmental Performance Reviews:
  ePub.\n\niLibrary export: 9 November 201
  7, 21:36 Paris time (GMT+00:00)\nFreepre
  view export: never\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171201T100000Z
 DTEND:20171201T101500Z
 TRANSP:TRANSPARENT
@@ -1906,7 +1964,7 @@ DESCRIPTION:Boosting Disaster Prevention through Inn
  ack.\n\niLibrary export: 3 November 2017
  , 21:56 Paris time (GMT+00:00)\nFreeprev
  iew export: never\nFTI loaded: no.
-DTSTAMP:20171111T004911Z
+DTSTAMP:20171114T005737Z
 DTSTART:20171204T090000Z
 DTEND:20171204T091500Z
 TRANSP:TRANSPARENT
@@ -1923,26 +1981,64 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/9789264277892-en
+SUMMARY:Getting Skills Right: Good Practice in A
+ dapting to Changing Skill Needs (en) on 
+ 6 December 2017, 11:00 Paris time (GMT+0
+ 2:00)
+DESCRIPTION:Getting Skills Right: Good Practice in A
+ dapting to Changing Skill Needs (en)  - 
+ A Perspective on France, Italy, Spain, S
+ outh Africa and the United Kingdom (en) 
+ by Directorate for Employment, Labour an
+ d Social Affairs has an embargo date/tim
+ e of 6 December 2017, 11:00 Paris time (
+ GMT+02:00).\n\nDirectorate: Directorate 
+ for Employment, Labour and Social Affair
+ s\nLanguage: English\nDOI: https://doi.o
+ rg/10.1787/9789264277892-en\nPublication
+  type: Book\nReleased as: Paperback, PDF
+ .\n\niLibrary export: 7 July 2017, 20:35
+  Paris time (GMT+00:00)\nFreepreview exp
+ ort: 1 August 2017, 20:48 Paris time (GM
+ T+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171114T005737Z
+DTSTART:20171206T090000Z
+DTEND:20171206T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Getting Skills Right: Good Pra
+ ctice in Adapting to Changing Skill Need
+ s (en) on 6 December 2017, 11:00 Paris t
+ ime (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264278639-en
-SUMMARY:Getting Skills Right: Italy (en) on 21 D
- ecember 2017, 11:00 Paris time (GMT+02:0
- 0)
+SUMMARY:Getting Skills Right: Italy (en) on 6 De
+ cember 2017, 11:00 Paris time (GMT+02:00
+ )
 DESCRIPTION:Getting Skills Right: Italy (en)  by Dir
  ectorate for Employment, Labour and Soci
- al Affairs has an embargo date/time of 2
- 1 December 2017, 11:00 Paris time (GMT+0
- 2:00).\n\nDirectorate: Directorate for E
- mployment, Labour and Social Affairs\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/9789264278639-en\nPublication type
- : Book\nReleased as: PDF, Paperback.\n\n
- iLibrary export: 3 October 2017, 20:25 P
- aris time (GMT+00:00)\nFreepreview expor
- t: 3 October 2017, 21:12 Paris time (GMT
- +00:00)\nFTI loaded: ✓.
-DTSTAMP:20171111T004911Z
-DTSTART:20171221T090000Z
-DTEND:20171221T091500Z
+ al Affairs has an embargo date/time of 6
+  December 2017, 11:00 Paris time (GMT+02
+ :00).\n\nDirectorate: Directorate for Em
+ ployment, Labour and Social Affairs\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/9789264278639-en\nPublication type:
+  Book\nReleased as: Paperback, PDF.\n\ni
+ Library export: 3 October 2017, 20:25 Pa
+ ris time (GMT+00:00)\nFreepreview export
+ : 3 October 2017, 21:12 Paris time (GMT+
+ 00:00)\nFTI loaded: ✓.
+DTSTAMP:20171114T005737Z
+DTSTART:20171206T090000Z
+DTEND:20171206T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT48H
@@ -1950,8 +2046,8 @@ REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Getting Skills Right: Italy (e
- n) on 21 December 2017, 11:00 Paris time
-  (GMT+02:00)
+ n) on 6 December 2017, 11:00 Paris time 
+ (GMT+02:00)
 END:VALARM
 END:VEVENT
 END:VCALENDAR

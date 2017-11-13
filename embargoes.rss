@@ -8,56 +8,11 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Sat, 11 Nov 2017 00:49:13 GMT</pubDate>
+      <pubDate>Tue, 14 Nov 2017 00:57:39 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
                  type="application/rss+xml"/>
-      <item>
-         <guid isPermaLink="false">10.1787/8b69400e-en</guid>
-         <pubDate>Thu, 09 Nov 2017 10:00:00 GMT</pubDate>
-         <title>How do teachers become knowledgeable and confident in classroom management? (en) - Insights from a pilot study (en)</title>
-         <link>https://doi.org/10.1787/8b69400e-en</link>
-         <description>How do teachers become knowledgeable and confident in classroom management? (en) - Insights from a pilot study (en) by Directorate for Education and Skills has an embargo on Thursday, 9 November 2017, 12:00 Paris time (GMT+02:00).</description>
-         <oe:embargoTime>2017-11-09T10:00:00Z</oe:embargoTime>
-         <oe:launchTime/>
-         <oe:directorate>Directorate for Education and Skills</oe:directorate>
-         <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Tuesday, 7 November 2017, 21:45 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Tuesday, 7 November 2017, 22:40 Paris time (GMT+00:00)</oe:freePreviewExport>
-         <oe:catalogueType>Working paper</oe:catalogueType>
-         <oe:availableMedia>PDF</oe:availableMedia>
-      </item>
-      <item>
-         <guid isPermaLink="false">10.1787/health_glance-2017-en</guid>
-         <pubDate>Fri, 10 Nov 2017 10:00:00 GMT</pubDate>
-         <title>Health at a Glance 2017 (en) - OECD Indicators (en)</title>
-         <link>https://doi.org/10.1787/health_glance-2017-en</link>
-         <description>Health at a Glance 2017 (en) - OECD Indicators (en) by Directorate for Employment, Labour and Social Affairs has an embargo on Friday, 10 November 2017, 12:00 Paris time (GMT+02:00).</description>
-         <oe:embargoTime>2017-11-10T10:00:00Z</oe:embargoTime>
-         <oe:launchTime/>
-         <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
-         <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Thursday, 9 November 2017, 21:36 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Wednesday, 8 November 2017, 22:25 Paris time (GMT+00:00)</oe:freePreviewExport>
-         <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>HTML, ePub, PDF</oe:availableMedia>
-      </item>
-      <item>
-         <guid isPermaLink="false">10.1787/health_glance-2017-fr</guid>
-         <pubDate>Fri, 10 Nov 2017 10:00:00 GMT</pubDate>
-         <title>Panorama de la santé 2017 (fr) - Les indicateurs de l'OCDE (fr)</title>
-         <link>https://doi.org/10.1787/health_glance-2017-fr</link>
-         <description>Panorama de la santé 2017 (fr) - Les indicateurs de l'OCDE (fr) by Directorate for Employment, Labour and Social Affairs has an embargo on Friday, 10 November 2017, 12:00 Paris time (GMT+02:00).</description>
-         <oe:embargoTime>2017-11-10T10:00:00Z</oe:embargoTime>
-         <oe:launchTime/>
-         <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
-         <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Thursday, 9 November 2017, 21:36 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Wednesday, 8 November 2017, 22:25 Paris time (GMT+00:00)</oe:freePreviewExport>
-         <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>ePub, PDF, HTML</oe:availableMedia>
-      </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264286184-en</guid>
          <pubDate>Tue, 14 Nov 2017 02:00:00 GMT</pubDate>
@@ -68,10 +23,25 @@
          <oe:launchTime/>
          <oe:directorate>Development Centre</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Tuesday, 7 November 2017, 21:45 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Friday, 10 November 2017, 22:12 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/weo-2017-en</guid>
+         <pubDate>Tue, 14 Nov 2017 08:00:00 GMT</pubDate>
+         <title>World Energy Outlook 2017 (en)</title>
+         <link>https://doi.org/10.1787/weo-2017-en</link>
+         <description>World Energy Outlook 2017 (en) by International Energy Agency has an embargo on Tuesday, 14 November 2017, 10:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-14T08:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>International Energy Agency</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/eco_surveys-che-2017-fr</guid>
@@ -82,8 +52,8 @@
          <oe:embargoTime>2017-11-14T14:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Economics Department</oe:directorate>
-         <oe:ftiLoaded/>
-         <oe:iLibraryExport>Tuesday, 31 October 2017, 21:40 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Friday, 10 November 2017, 22:12 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Economic survey</oe:catalogueType>
          <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
@@ -97,11 +67,11 @@
          <oe:embargoTime>2017-11-14T14:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Economics Department</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Tuesday, 7 November 2017, 21:45 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Economic survey</oe:catalogueType>
-         <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
+         <oe:availableMedia>ePub, PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/39d69dff-en</guid>
@@ -142,8 +112,8 @@
          <oe:embargoTime>2017-11-15T10:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Statistics Directorate</oe:directorate>
-         <oe:ftiLoaded/>
-         <oe:iLibraryExport>Monday, 30 October 2017, 11:03 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Friday, 10 November 2017, 22:12 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
@@ -674,18 +644,48 @@
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/9789264276741-fr</guid>
+         <guid isPermaLink="false">10.1787/9789264268821-en</guid>
          <pubDate>Mon, 20 Nov 2017 10:00:00 GMT</pubDate>
+         <title>OECD Science, Technology and Industry Scoreboard 2017 (en) - The digital transformation (en)</title>
+         <link>https://doi.org/10.1787/9789264268821-en</link>
+         <description>OECD Science, Technology and Industry Scoreboard 2017 (en) - The digital transformation (en) by Directorate for Science, Technology and Industry  has an embargo on Monday, 20 November 2017, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-20T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Science, Technology and Industry </oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Friday, 10 November 2017, 22:12 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>PDF, HTML, Paperback, ePub</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264276741-fr</guid>
+         <pubDate>Mon, 20 Nov 2017 10:30:00 GMT</pubDate>
          <title>Le recrutement des travailleurs immigrés: France 2017 (fr)</title>
          <link>https://doi.org/10.1787/9789264276741-fr</link>
-         <description>Le recrutement des travailleurs immigrés: France 2017 (fr) by Directorate for Employment, Labour and Social Affairs has an embargo on Monday, 20 November 2017, 12:00 Paris time (GMT+02:00).</description>
-         <oe:embargoTime>2017-11-20T10:00:00Z</oe:embargoTime>
+         <description>Le recrutement des travailleurs immigrés: France 2017 (fr) by Directorate for Employment, Labour and Social Affairs has an embargo on Monday, 20 November 2017, 12:30 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-20T10:30:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Monday, 30 October 2017, 21:33 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Thursday, 26 October 2017, 21:28 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264285521-en</guid>
+         <pubDate>Tue, 21 Nov 2017 07:00:00 GMT</pubDate>
+         <title>PISA 2015 Results (Volume V) (en) - Collaborative Problem Solving (en)</title>
+         <link>https://doi.org/10.1787/9789264285521-en</link>
+         <description>PISA 2015 Results (Volume V) (en) - Collaborative Problem Solving (en) by Directorate for Education and Skills, Directorate for Financial and Enterprise Affairs has an embargo on Tuesday, 21 November 2017, 9:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-21T07:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Education and Skills, Directorate for Financial and Enterprise Affairs</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Wednesday, 25 October 2017, 20:43 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
@@ -698,7 +698,7 @@
          <oe:launchTime/>
          <oe:directorate>Statistics Directorate</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Thursday, 2 November 2017, 21:17 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Friday, 10 November 2017, 22:12 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
          <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
@@ -713,7 +713,7 @@
          <oe:launchTime/>
          <oe:directorate>Statistics Directorate</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Thursday, 2 November 2017, 21:17 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Friday, 10 November 2017, 22:12 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback, ePub</oe:availableMedia>
@@ -758,10 +758,10 @@
          <oe:launchTime/>
          <oe:directorate>Environment Directorate</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Friday, 3 November 2017, 21:56 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Friday, 10 November 2017, 22:12 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback, ePub</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264279674-en</guid>
@@ -773,10 +773,40 @@
          <oe:launchTime/>
          <oe:directorate>Environment Directorate</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Tuesday, 7 November 2017, 21:45 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Friday, 10 November 2017, 22:12 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/g2g857a3-de</guid>
+         <pubDate>Mon, 27 Nov 2017 09:00:00 GMT</pubDate>
+         <title>OECD Umweltprüfbericht: Schweiz 2017 (Kurzfassung) (de)</title>
+         <link>https://doi.org/10.1787/g2g857a3-de</link>
+         <description>OECD Umweltprüfbericht: Schweiz 2017 (Kurzfassung) (de) by Environment Directorate has an embargo on Monday, 27 November 2017, 11:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-27T09:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Environment Directorate</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/g2g857a2-it</guid>
+         <pubDate>Mon, 27 Nov 2017 09:00:00 GMT</pubDate>
+         <title>Rapporto dell'OCSE sulle performance ambientali: Svizzera 2017 (Versione abbreviata) (it)</title>
+         <link>https://doi.org/10.1787/g2g857a2-it</link>
+         <description>Rapporto dell'OCSE sulle performance ambientali: Svizzera 2017 (Versione abbreviata) (it) by Environment Directorate has an embargo on Monday, 27 November 2017, 11:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-27T09:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Environment Directorate</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264282988-en</guid>
@@ -869,19 +899,34 @@
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
+         <guid isPermaLink="false">10.1787/9789264277892-en</guid>
+         <pubDate>Wed, 06 Dec 2017 09:00:00 GMT</pubDate>
+         <title>Getting Skills Right: Good Practice in Adapting to Changing Skill Needs (en) - A Perspective on France, Italy, Spain, South Africa and the United Kingdom (en)</title>
+         <link>https://doi.org/10.1787/9789264277892-en</link>
+         <description>Getting Skills Right: Good Practice in Adapting to Changing Skill Needs (en) - A Perspective on France, Italy, Spain, South Africa and the United Kingdom (en) by Directorate for Employment, Labour and Social Affairs has an embargo on Wednesday, 6 December 2017, 11:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-12-06T09:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Friday, 7 July 2017, 20:35 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Tuesday, 1 August 2017, 20:48 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+      </item>
+      <item>
          <guid isPermaLink="false">10.1787/9789264278639-en</guid>
-         <pubDate>Thu, 21 Dec 2017 09:00:00 GMT</pubDate>
+         <pubDate>Wed, 06 Dec 2017 09:00:00 GMT</pubDate>
          <title>Getting Skills Right: Italy (en)</title>
          <link>https://doi.org/10.1787/9789264278639-en</link>
-         <description>Getting Skills Right: Italy (en) by Directorate for Employment, Labour and Social Affairs has an embargo on Thursday, 21 December 2017, 11:00 Paris time (GMT+02:00).</description>
-         <oe:embargoTime>2017-12-21T09:00:00Z</oe:embargoTime>
+         <description>Getting Skills Right: Italy (en) by Directorate for Employment, Labour and Social Affairs has an embargo on Wednesday, 6 December 2017, 11:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-12-06T09:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Tuesday, 3 October 2017, 20:25 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Tuesday, 3 October 2017, 21:12 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
    </channel>
 </rss>
