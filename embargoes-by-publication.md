@@ -1,90 +1,6 @@
-# OECD publication embargoes by date (61 embargoes)
+# OECD publication embargoes by date (57 embargoes)
 
-*Data generated on Tuesday 14 November 2017 at 0:57:26*
-
-------
-
-## [Economic Outlook for Southeast Asia, China and India 2018 (en) - Fostering Growth through Digitalisation (en)](https://doi.org/10.1787/9789264286184-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 14 November 2017 at 2:00:00 | no launch event
-
-### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 10 November 2017 at 22:12:47
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [World Energy Outlook 2017 (en)](https://doi.org/10.1787/weo-2017-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 14 November 2017 at 8:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *International Energy Agency*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Études économiques de l'OCDE : Suisse 2017 (fr)](https://doi.org/10.1787/eco_surveys-che-2017-fr)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 14 November 2017 at 14:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 November 2017 at 22:12:47
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Medium: *PDF*
-
-------
-
-## [OECD Economic Surveys: Switzerland 2017 (en)](https://doi.org/10.1787/eco_surveys-che-2017-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 14 November 2017 at 14:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 7 November 2017 at 21:45:33
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Medium: *PDF*
+*Data generated on Wednesday 15 November 2017 at 1:42:38*
 
 ------
 
@@ -138,8 +54,8 @@ Wednesday 15 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 November 2017 at 22:12:47
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 13 November 2017 at 22:27:12
+- [x] Exported to Keepeek Monday 13 November 2017 at 23:27:58
 
 ### Additional Information
 
@@ -894,7 +810,7 @@ Monday 20 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 10 November 2017 at 22:12:47
+- [x] Exported to iLibrary Monday 13 November 2017 at 22:27:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -915,8 +831,8 @@ Monday 20 November 2017 at 10:30:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 30 October 2017 at 21:33:33
-- [x] Exported to Keepeek Thursday 26 October 2017 at 21:28:23
+- [x] Exported to iLibrary Monday 13 November 2017 at 22:27:12
+- [x] Exported to Keepeek Monday 13 November 2017 at 23:27:58
 
 ### Additional Information
 
@@ -936,12 +852,12 @@ Tuesday 21 November 2017 at 7:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 25 October 2017 at 20:43:01
+- [x] Exported to iLibrary Monday 13 November 2017 at 22:27:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills, Directorate for Financial and Enterprise Affairs*
+* Directorate: *Directorate for Financial and Enterprise Affairs, Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
@@ -956,7 +872,7 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 November 2017 at 22:12:47
 - [ ] Exported to Keepeek
 
@@ -964,7 +880,7 @@ Thursday 23 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Statistics Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
@@ -1251,8 +1167,8 @@ Wednesday 6 December 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 7 July 2017 at 20:35:30
-- [x] Exported to Keepeek Tuesday 1 August 2017 at 20:48:36
+- [x] Exported to iLibrary Monday 13 November 2017 at 22:27:12
+- [x] Exported to Keepeek Monday 13 November 2017 at 23:27:58
 
 ### Additional Information
 
@@ -1272,8 +1188,8 @@ Wednesday 6 December 2017 at 9:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 3 October 2017 at 20:25:25
-- [x] Exported to Keepeek Tuesday 3 October 2017 at 21:12:31
+- [x] Exported to iLibrary Monday 13 November 2017 at 22:27:12
+- [x] Exported to Keepeek Monday 13 November 2017 at 23:27:58
 
 ### Additional Information
 
