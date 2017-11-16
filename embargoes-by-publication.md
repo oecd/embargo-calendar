@@ -1,6 +1,6 @@
-# OECD publication embargoes by date (28 embargoes)
+# OECD publication embargoes by date (29 embargoes)
 
-*Data generated on Thursday 16 November 2017 at 3:06:42*
+*Data generated on Thursday 16 November 2017 at 23:52:51*
 
 ------
 
@@ -221,13 +221,34 @@ Embargo date | Launch date
 Tuesday 21 November 2017 at 7:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 13 November 2017 at 22:27:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs, Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [OECD Reviews of Health Systems: Costa Rica 2017 (en)](https://doi.org/10.1787/9789264281653-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 22 November 2017 at 8:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 15 November 2017 at 23:19:43
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
@@ -243,7 +264,7 @@ Wednesday 22 November 2017 at 9:30:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 13 November 2017 at 22:27:12
+- [x] Exported to iLibrary Wednesday 15 November 2017 at 23:19:43
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -314,7 +335,7 @@ Thursday 23 November 2017 at 10:00:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------
@@ -335,7 +356,7 @@ Thursday 23 November 2017 at 10:00:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
 * Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------
