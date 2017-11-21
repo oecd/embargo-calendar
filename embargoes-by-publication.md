@@ -1,573 +1,89 @@
-# OECD publication embargoes by date (311 embargoes)
+# OECD publication embargoes by date (288 embargoes)
 
-*Data generated on Tuesday 21 November 2017 at 0:20:04*
+*Data generated on Tuesday 21 November 2017 at 22:57:11*
 
 ------
 
-## [PISA 2015 Results (Volume V) (en) - Collaborative Problem Solving (en)](https://doi.org/10.1787/9789264285521-en)
+## [Getting the most out of trade in Estonia (en)](https://doi.org/10.1787/0b0b99b5-en)
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
+Wednesday 22 November 2017 at 1:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 13 November 2017 at 22:27:12
-- [x] Exported to Keepeek Thursday 16 November 2017 at 22:27:45
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:58
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills, Directorate for Financial and Enterprise Affairs*
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Book*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
 
-## [PISA 2015 Results (Volume V) (Summary in Chinese) (en), 2015年国际学生评估项目结果（第五卷） (zh) - Collaborative Problem Solving (en), 合作解决问题 (zh)](https://doi.org/10.1787/2a7898c2-zh)
+## [How self-sorting affects migrants’ labour market outcomes (en)](https://doi.org/10.1787/77fe9f63-en)
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
+Wednesday 22 November 2017 at 1:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:58
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills, Directorate for Financial and Enterprise Affairs*
-* Language: *Chinese*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [PISA 2015 Results (Volume V) (Summary in Czech) (en), Výsledky hodnocení PISA za rok 2015 (díl V) (cs) - Collaborative Problem Solving (en), Týmové řešení problému (cs)](https://doi.org/10.1787/af7a0362-cs)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs, Directorate for Education and Skills*
-* Language: *Czech*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [PISA 2015 Results (Volume V) (Summary in Danish) (en), PISA 2015-resultater (Bind V) (da) - Collaborative Problem Solving (en), Kollektiv problemløsning (da)](https://doi.org/10.1787/360baf06-da)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills, Directorate for Financial and Enterprise Affairs*
-* Language: *Danish*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [PISA 2015 Results (Volume V) (Summary in Dutch) (en), PISA 2015 Resultaten (Volume V) (nl) - Collaborative Problem Solving (en), Collaboratief problemen oplossen (nl)](https://doi.org/10.1787/1b5c49a6-nl)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills, Directorate for Financial and Enterprise Affairs*
-* Language: *Dutch*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [PISA 2015 Results (Volume V) (Summary in English) (en) - Collaborative Problem Solving (en)](https://doi.org/10.1787/93ba004b-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs, Directorate for Education and Skills*
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Summary*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
 
-## [PISA 2015 Results (Volume V) (Summary in Estonian) (en), 2015. aasta PISA uuringu tulemused (osa V) (et) - Collaborative Problem Solving (en), Koostööpõhine probleemide lahendamine (et)](https://doi.org/10.1787/4ed9b976-et)
+## [Reviving productive investment in Estonia (en)](https://doi.org/10.1787/bb735052-en)
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
+Wednesday 22 November 2017 at 1:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:58
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills, Directorate for Financial and Enterprise Affairs*
-* Language: *Estonian*
+* Directorate: *Economics Department*
+* Language: *English*
 * Availability: *Published*
-* Type of publication: *Summary*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
 
-## [PISA 2015 Results (Volume V) (Summary in Finnish) (en), PISA 2015  Tulokset (V Osa) (fi) - Collaborative Problem Solving (en), Yhteistoiminnallinen ongelmanratkaisu (fi)](https://doi.org/10.1787/e5993069-fi)
+## [Urbanisation and household consumption in China (en)](https://doi.org/10.1787/d8eef6ad-en)
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
+Wednesday 22 November 2017 at 1:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:58
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills, Directorate for Financial and Enterprise Affairs*
-* Language: *Finnish*
+* Directorate: *Economics Department*
+* Language: *English*
 * Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [PISA 2015 Results (Volume V) (Summary in French) (en), Résultats du PISA 2015 (Volume V) (fr) - Collaborative Problem Solving (en), La résolution collaborative de problèmes (fr)](https://doi.org/10.1787/3c93e9e4-fr)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills, Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [PISA 2015 Results (Volume V) (Summary in German) (en), Ergebnisse von PISA 2015 (Band V) (de) - Collaborative Problem Solving (en), Gemeinsames Problemlösen (de)](https://doi.org/10.1787/cd8381a8-de)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills, Directorate for Financial and Enterprise Affairs*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [PISA 2015 Results (Volume V) (Summary in Greek) (en), PISA 2015 Αποτελέσματα (Τόμος V) (el) - Collaborative Problem Solving (en), Συνεργατική επίλυση προβλήματος (el)](https://doi.org/10.1787/d995f6fb-el)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs, Directorate for Education and Skills*
-* Language: *Greek*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [PISA 2015 Results (Volume V) (Summary in Hebrew) (en), תוצאות מבחני פיז"ה לשנת 2015 (כרך 5) (he) - Collaborative Problem Solving (en), פתרון בעיות שיתופי (he)](https://doi.org/10.1787/70aca9e7-he)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills, Directorate for Financial and Enterprise Affairs*
-* Language: *Hebrew*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [PISA 2015 Results (Volume V) (Summary in Hungarian) (en), 2015. évi PISA-eredmények (V. kötet) (hu) - Collaborative Problem Solving (en), Együttműködő problémamegoldás (hu)](https://doi.org/10.1787/cbaa4372-hu)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills, Directorate for Financial and Enterprise Affairs*
-* Language: *Hungarian*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [PISA 2015 Results (Volume V) (Summary in Icelandic) (en), Niðurstöður PISA 2015 (V. bindi) (is) - Collaborative Problem Solving (en), Þrautalausnir með samvinnu (is)](https://doi.org/10.1787/1355623c-is)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills, Directorate for Financial and Enterprise Affairs*
-* Language: *Icelandic*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [PISA 2015 Results (Volume V) (Summary in Italian) (en), Risultati di PISA 2015 (Volume V)
- (it) - Collaborative Problem Solving (en), Soluzione collaborativa dei problemi   (it)](https://doi.org/10.1787/e2c8cccc-it)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills, Directorate for Financial and Enterprise Affairs*
-* Language: *Italian*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [PISA 2015 Results (Volume V) (Summary in Japanese) (en), 2015年OECD生徒の学習到達度調査（PISA 2015)（第5回）の調査結果 (ja) - Collaborative Problem Solving (en), 協力的問題解決 (ja)](https://doi.org/10.1787/62c78019-ja)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills, Directorate for Financial and Enterprise Affairs*
-* Language: *Japanese*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [PISA 2015 Results (Volume V) (Summary in Korean) (en), 2015년 국제학생평가프로그램 결과 (제5권) (ko) - Collaborative Problem Solving (en), 협력적 문제해결 (ko)](https://doi.org/10.1787/08d448be-ko)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs, Directorate for Education and Skills*
-* Language: *Korean*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [PISA 2015 Results (Volume V) (Summary in Latvian) (en), PISA (Starptautiskā skolēnu novērtēšanas programma ) 2015. gada rezultāti (V sējums) (lv) - Collaborative Problem Solving (en), Problēmu risināšana sadarbības ceļā (lv)](https://doi.org/10.1787/9bfa5e5f-lv)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills, Directorate for Financial and Enterprise Affairs*
-* Language: *Latvian*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [PISA 2015 Results (Volume V) (Summary in Norwegian) (en), Resultater fra PISA 2015 (volum V) (no) - Collaborative Problem Solving (en), Problemløsningsamarbeid (no)](https://doi.org/10.1787/2816572e-no)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs, Directorate for Education and Skills*
-* Language: *Norwegian*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [PISA 2015 Results (Volume V) (Summary in Polish) (en), Wyniki badania PISA 2015 (Część V) (pl) - Collaborative Problem Solving (en), Umiejętność współpracy przy rozwiązywaniu problemów (pl)](https://doi.org/10.1787/e981246e-pl)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs, Directorate for Education and Skills*
-* Language: *Polish*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [PISA 2015 Results (Volume V) (Summary in Portuguese) (en), Resultados PISA 2015 (Volume V) (pt) - Collaborative Problem Solving (en), Resolução de problemas em colaboração (pt)](https://doi.org/10.1787/9cda7c5b-pt)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills, Directorate for Financial and Enterprise Affairs*
-* Language: *Portuguese*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [PISA 2015 Results (Volume V) (Summary in Russian) (en), Результаты PISA 2015 (Том V) (ru) - Collaborative Problem Solving (en), Совместное решение задач (ru)](https://doi.org/10.1787/444b0ab1-ru)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills, Directorate for Financial and Enterprise Affairs*
-* Language: *Russian*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [PISA 2015 Results (Volume V) (Summary in Slovak) (en), Výsledky prieskumu PISA z roku 2015 (zväzok V) (sk) - Collaborative Problem Solving (en), Spoločné riešenie problémov (sk)](https://doi.org/10.1787/fc38cb16-sk)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills, Directorate for Financial and Enterprise Affairs*
-* Language: *Slovak*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [PISA 2015 Results (Volume V) (Summary in Slovenian) (en), Rezultati PISA 2015 (Letnik 5) (sl) - Collaborative Problem Solving (en), Skupno reševanje problemov (sl)](https://doi.org/10.1787/1256be0b-sl)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills, Directorate for Financial and Enterprise Affairs*
-* Language: *Slovenian*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [PISA 2015 Results (Volume V) (Summary in Spanish) (en), Resultados de PISA 2015 (Volumen V) (es) - Collaborative Problem Solving (en), Solución colectiva de problemas  (es)](https://doi.org/10.1787/5dc0aea7-es)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills, Directorate for Financial and Enterprise Affairs*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [PISA 2015 Results (Volume V) (Summary in Swedish) (en), PISA 2015 Results (Volume V) (sv) - Collaborative Problem Solving (en), Gemensam problemlösning (sv)](https://doi.org/10.1787/2105d21a-sv)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills, Directorate for Financial and Enterprise Affairs*
-* Language: *Swedish*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [PISA 2015 Results (Volume V) (Summary in Turkish) (en), 2015 PISA Sonuçları (V. Bölüm) (tr) - Collaborative Problem Solving (en), İşbirliğine Dayalı Sorun Çözümü (tr)](https://doi.org/10.1787/8e2f13c6-tr)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 November 2017 at 7:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills, Directorate for Financial and Enterprise Affairs*
-* Language: *Turkish*
-* Availability: *Published*
-* Type of publication: *Summary*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
@@ -580,8 +96,8 @@ Wednesday 22 November 2017 at 8:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 November 2017 at 23:19:43
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
+- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:38
 
 ### Additional Information
 
@@ -601,7 +117,7 @@ Wednesday 22 November 2017 at 9:30:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 November 2017 at 23:19:43
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [x] Exported to Keepeek Friday 17 November 2017 at 22:30:25
 
 ### Additional Information
@@ -3877,7 +3393,7 @@ Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 23 October 2017 at 22:14:32
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -4213,7 +3729,7 @@ Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 23 October 2017 at 22:14:32
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5116,7 +4632,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5137,7 +4653,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5158,7 +4674,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5179,7 +4695,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5200,7 +4716,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5242,7 +4758,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5263,7 +4779,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5284,7 +4800,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5326,7 +4842,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5410,7 +4926,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5431,7 +4947,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5452,7 +4968,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5494,7 +5010,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5515,7 +5031,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5557,7 +5073,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5578,7 +5094,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5620,7 +5136,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5641,7 +5157,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5704,7 +5220,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5725,7 +5241,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5788,7 +5304,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5830,7 +5346,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5851,7 +5367,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5872,7 +5388,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5914,7 +5430,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5956,7 +5472,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -5998,7 +5514,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -6019,7 +5535,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -6082,7 +5598,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -6145,7 +5661,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -6166,7 +5682,7 @@ Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -6376,7 +5892,7 @@ Thursday 30 November 2017 at 23:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -6397,7 +5913,7 @@ Thursday 30 November 2017 at 23:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 November 2017 at 22:52:25
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -6523,7 +6039,7 @@ Tuesday 19 December 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
