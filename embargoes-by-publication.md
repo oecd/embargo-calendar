@@ -1,3175 +1,4876 @@
-# OECD publication embargoes by date (288 embargoes)
+# OECD publication embargoes by date (438 embargoes)
 
-*Data generated on Tuesday 21 November 2017 at 22:57:11*
+*Data generated on Thursday 23 November 2017 at 0:05:55*
 
 ------
 
-## [Getting the most out of trade in Estonia (en)](https://doi.org/10.1787/0b0b99b5-en)
+## [Allemagne : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table125-fr)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 22 November 2017 at 1:00:00 | no launch event
+Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:58
+- [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [How self-sorting affects migrants’ labour market outcomes (en)](https://doi.org/10.1787/77fe9f63-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 22 November 2017 at 1:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:58
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Reviving productive investment in Estonia (en)](https://doi.org/10.1787/bb735052-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 22 November 2017 at 1:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:58
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Urbanisation and household consumption in China (en)](https://doi.org/10.1787/d8eef6ad-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 22 November 2017 at 1:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:58
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [OECD Reviews of Health Systems: Costa Rica 2017 (en)](https://doi.org/10.1787/9789264281653-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 22 November 2017 at 8:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:38
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [OECD Science, Technology and Industry Scoreboard 2017 (en) - The digital transformation (en)](https://doi.org/10.1787/9789264268821-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [x] Exported to Keepeek Friday 17 November 2017 at 22:30:25
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in Chinese) (en), 2017OECD科学、技术与产业计分表 (zh) - The digital transformation (en), 数字变革 (zh)](https://doi.org/10.1787/d7cbbd1b-zh)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Chinese*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in Czech) (en), Výhled OECD na rok 2017 v oblasti vědy, technologií a inovací (cs) - The digital transformation (en), Digitální transformace (cs)](https://doi.org/10.1787/f8316299-cs)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Czech*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in Danish) (en), OECD's 2017-resultattavle for Videnskab, Teknologi og Industri (da) - The digital transformation (en), Den digitale transformation (da)](https://doi.org/10.1787/b8a75538-da)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Danish*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in Dutch) (en), OESO Wetenschap, Technologie en Industrie Scoreboard 2017 (nl) - The digital transformation (en), De digitale transformatie (nl)](https://doi.org/10.1787/2b55a198-nl)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Dutch*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in English) (en) - The digital transformation (en)](https://doi.org/10.1787/8ddc003f-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in Estonian) (en), OECD teaduse, tehnika ja tööstuse tulemustabel aastal 2017 (et) - The digital transformation (en), Digitaalne ümberkujundamine (et)](https://doi.org/10.1787/7271f9a7-et)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Estonian*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in Finnish) (en), OECD:n Tiede-, Teknologia- ja Teollisuustulostaulu 2017 (fi) - The digital transformation (en), Digitalisaatiokehitys (fi)](https://doi.org/10.1787/d5b9240a-fi)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Finnish*
-* Availability: *Published*
-* Type of publication: *Summary*
-* Medium: *PDF*
-
-------
-
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in French) (en), Science, technologie et industrie : Tableau de bord de l’OCDE 2017  (fr) - The digital transformation (en), Transformation numérique  (fr)](https://doi.org/10.1787/9bf7bd29-fr)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
 * Availability: *Published*
-* Type of publication: *Summary*
+* Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in German) (en), OECD-Scoreboard Wissenschaft, Technologie und Industrie 2017 (de) - The digital transformation (en), Die digitale Transformation (de)](https://doi.org/10.1787/df0e5af5-de)
+## [Allemagne, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table63-fr)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
+Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *German*
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Published*
-* Type of publication: *Summary*
+* Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in Greek) (en), Επιστήμη, Τεχνολογία και Βιομηχανία: Πίνακας Αποτελεσμάτων του ΟΟΣΑ, Έκδοση 2017 (el) - The digital transformation (en), Ο ψηφιακός μετασχηματισμός (el)](https://doi.org/10.1787/f0bcf25c-el)
+## [Allemagne, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table64-fr)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
+Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Greek*
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Published*
-* Type of publication: *Summary*
+* Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in Hebrew) (en), דוח OECD על תוצאות מדע, טכנולוגיה ותעשייה לשנת 2017 (he) - The digital transformation (en), השינוי הדיגיטלי (he)](https://doi.org/10.1787/0e6c2606-he)
+## [Allemagne, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table174-fr)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
+Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Hebrew*
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Published*
-* Type of publication: *Summary*
+* Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in Hungarian) (en), OECD 2017. évi tudományos, technológiai és ipari eredménytábla (hu) - The digital transformation (en), A digitális átalakulás (hu)](https://doi.org/10.1787/c1886a8d-hu)
+## [Australia, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table44-en)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
+Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Hungarian*
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
 * Availability: *Published*
-* Type of publication: *Summary*
+* Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in Icelandic) (en), Stigatafla OECD í vísindum, tækni og iðnaði árið 2017 (is) - The digital transformation (en), Stafræna byltingin (is)](https://doi.org/10.1787/6c4eaf89-is)
+## [Australia, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table43-en)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
+Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Icelandic*
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
 * Availability: *Published*
-* Type of publication: *Summary*
+* Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in Italian) (en), Quadro di valutazione dell’OCSE su scienza, tecnologia e industria 2017 (it) - The digital transformation (en), La trasformazione digitale (it)](https://doi.org/10.1787/0d0fd579-it)
+## [Australia, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table164-en)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
+Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Italian*
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
 * Availability: *Published*
-* Type of publication: *Summary*
+* Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in Japanese) (en), OECD科学技術・産業スコアボード2017 (ja) - The digital transformation (en), デジタル変換 (ja)](https://doi.org/10.1787/732255af-ja)
+## [Australia: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table115-en)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
+Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Japanese*
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
 * Availability: *Published*
-* Type of publication: *Summary*
+* Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in Korean) (en), 2017년도 OECD 과학·기술·산업 평가서 (ko) - The digital transformation (en), 디지털 전환 (ko)](https://doi.org/10.1787/bb018d40-ko)
+## [Australie : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table115-fr)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
+Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Korean*
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Published*
-* Type of publication: *Summary*
+* Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in Latvian) (en), OECD 2017. gada rezultātu pārskats zinātnes, tehnoloģiju un rūpniecības jomā (lv) - The digital transformation (en), Digitāla pāreja (lv)](https://doi.org/10.1787/d37ff89d-lv)
+## [Australie, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table43-fr)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
+Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Latvian*
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Published*
-* Type of publication: *Summary*
+* Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in Norwegian) (en), OECDs statusrapport om vitenskap, teknologi og industri for 2017 (no) - The digital transformation (en), Den digitale transformasjonen (no)](https://doi.org/10.1787/ba11694c-no)
+## [Australie, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table44-fr)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
+Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Norwegian*
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Published*
-* Type of publication: *Summary*
+* Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in Polish) (en), Raport OECD - Nauka, technologia i przemysł 2017 (pl) - The digital transformation (en), Cyfryzacja (pl)](https://doi.org/10.1787/be67e077-pl)
+## [Australie, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table164-fr)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
+Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Polish*
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Published*
-* Type of publication: *Summary*
+* Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in Portuguese) (en), Painel de Avaliação da OCDE para a Ciência, Tecnologia e Indústria em 2017 (pt) - The digital transformation (en), A transformação digital (pt)](https://doi.org/10.1787/9650cfbb-pt)
+## [Austria, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table46-en)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
+Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Portuguese*
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
 * Availability: *Published*
-* Type of publication: *Summary*
+* Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in Russian) (en), Перспективы науки, технологий и промышленности ОЭСР 2017 (ru) - The digital transformation (en), Цифровое преобразование (ru)](https://doi.org/10.1787/26174828-ru)
+## [Austria, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table45-en)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
+Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Russian*
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
 * Availability: *Published*
-* Type of publication: *Summary*
+* Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in Slovak) (en), OECD – Prehľad výsledkov vedy, techniky a priemyslu v roku 2017 (sk) - The digital transformation (en), Digitálna transformácia (sk)](https://doi.org/10.1787/5e971ece-sk)
+## [Austria, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table165-en)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
+Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Slovak*
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
 * Availability: *Published*
-* Type of publication: *Summary*
+* Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in Slovenian) (en), Statistični pregled OECD za področje znanosti, tehnologije in industrije 2017 (sl) - The digital transformation (en), Digitalna preobrazba (sl)](https://doi.org/10.1787/8c73f16e-sl)
+## [Austria: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table116-en)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
+Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Slovenian*
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
 * Availability: *Published*
-* Type of publication: *Summary*
+* Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in Spanish) (en), Indicadores de Ciencia, Tecnología e Industria de la OCDE 2017  (es) - The digital transformation (en), La transformación digital  (es)](https://doi.org/10.1787/26e4b7c1-es)
+## [Autriche : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table116-fr)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
+Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Spanish*
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Published*
-* Type of publication: *Summary*
+* Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in Swedish) (en), OECD-ländernas resultattabell 2017 i naturvetenskap, teknik och industri (sv) - The digital transformation (en), Den digitala omvandlingen (sv)](https://doi.org/10.1787/a59ce1d3-sv)
+## [Autriche, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table45-fr)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
+Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Swedish*
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Published*
-* Type of publication: *Summary*
+* Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [OECD Science, Technology and Industry Scoreboard 2017 (Summary in Turkish) (en), OECD 2017 Bilim, Teknoloji ve Endüstri Puan Kartı (tr) - The digital transformation (en), Dijital dönüşüm (tr)](https://doi.org/10.1787/19751e65-tr)
+## [Autriche, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table46-fr)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 22 November 2017 at 9:30:00 | no launch event
+Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:18
-- [x] Exported to Keepeek Monday 20 November 2017 at 22:49:41
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Turkish*
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Published*
-* Type of publication: *Summary*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Autriche, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table165-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Belgique : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table117-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Belgique, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table47-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Belgique, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table48-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Belgique, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table166-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Belgium, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table48-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Belgium, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table47-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Belgium, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table166-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Belgium: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table117-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Canada : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table118-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Canada, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table49-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Canada, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table50-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Canada, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table167-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Canada, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table50-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Canada, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table49-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Canada, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table167-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Canada: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table118-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Chile, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table52-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Chile, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table51-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Chile, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table168-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Chile: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table119-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Chili : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table119-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Chili, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table51-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Chili, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table52-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Chili, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table168-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Corée : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table133-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Corée, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table79-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Corée, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table80-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Corée, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table182-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Cotisations de sécurité sociale (2000) en % du PIB et en % du total des recettes fiscales (fr)](https://doi.org/10.1787/rev_stats-2017-table32-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Custom duties collected on behalf of the European Union (en)](https://doi.org/10.1787/rev_stats-2017-table13-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Czech Republic, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table54-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Czech Republic, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table53-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Czech Republic, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table169-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Czech Republic: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table120-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Danemark : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table121-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Danemark, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table55-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Danemark, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table56-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Danemark, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table170-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Denmark, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table56-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Denmark, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table55-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Denmark, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table170-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Denmark: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table121-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Droits de douane collectés pour le compte de l'Union européenne (fr)](https://doi.org/10.1787/rev_stats-2017-table13-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Effect of alternate treatments of non-wastable tax credits, 2015 (en)](https://doi.org/10.1787/rev_stats-2017-table15-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Effets des différents traitements possibles des crédits d'impôts récupérables, 2015 (fr)](https://doi.org/10.1787/rev_stats-2017-table15-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Espagne : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table144-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Espagne, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table101-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Espagne, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table102-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Espagne, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table193-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Estonia, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table58-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Estonia, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table57-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Estonia, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table171-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Estonia: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table122-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Estonie : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table122-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Estonie, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table57-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Estonie, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table58-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Estonie, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table171-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [État-Unis : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table149-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [États-Unis, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table111-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [États-Unis, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table112-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [États-Unis, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table198-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Exchange rates used, national currency per US dollar at market exchange rates (en)](https://doi.org/10.1787/rev_stats-2017-table42-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Financing of social security benefits (en)](https://doi.org/10.1787/rev_stats-2017-table113-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Financing social benefits: Detailed country tables, 1965-2015 (en) - Memorandum item on the financing of social security benefits (en)](https://doi.org/10.1787/rev_stats-2017-table150-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Finland, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table60-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Finland, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table59-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Finland, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table172-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Finland: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table123-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Finlande : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table123-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Finlande, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table59-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Finlande, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table60-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Finlande, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table172-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [France : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table124-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [France, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table61-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [France, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table62-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [France, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table173-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [France, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table62-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [France, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table61-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [France, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table173-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [France: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table124-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Germany, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table64-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Germany, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table63-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Germany, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table174-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Germany: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table125-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Australia, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86b2b-en)
+## [Grèce : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table126-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Australia, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86b28-en)
+## [Grèce, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table65-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Australia, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86c95-en)
+## [Grèce, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table66-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Australia: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c01-en)
+## [Grèce, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table175-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Greece, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table66-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Austria, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86b31-en)
+## [Greece, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table65-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Austria, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86b2e-en)
+## [Greece, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table175-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Austria, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86c98-en)
+## [Greece: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table126-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Austria: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c04-en)
+## [Gross domestic product for tax reporting years at market prices, in billions of national currency (en)](https://doi.org/10.1787/rev_stats-2017-table41-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Belgium, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86b37-en)
+## [Hongrie : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table127-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Belgium, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86b34-en)
+## [Hongrie, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table67-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Belgium, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86c9b-en)
+## [Hongrie, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table68-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Belgium: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c07-en)
+## [Hongrie, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table176-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Hungary, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table68-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Canada, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86b3d-en)
+## [Hungary, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table67-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Canada, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86b3a-en)
+## [Hungary, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table176-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Canada, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86c9e-en)
+## [Hungary: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table127-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Canada: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c0a-en)
+## [Iceland, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table70-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Chile, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86b43-en)
+## [Iceland, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table69-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Chile, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86b40-en)
+## [Iceland, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table177-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Chile, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86ca1-en)
+## [Iceland: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table128-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Chile: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c0d-en)
+## [Impôts sur le patrimoine (4000) en % du PIB et en % du total des recettes fiscales (fr)](https://doi.org/10.1787/rev_stats-2017-table34-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Custom duties collected on behalf of the European Union (en)](https://doi.org/10.1787/g2g86ad7-en)
+## [Impôts sur le revenu des personnes physiques (1100) en % du PIB et en % du total des recettes fiscales (fr)](https://doi.org/10.1787/rev_stats-2017-table30-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Czech Republic, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86b49-en)
+## [Impôts sur le revenu et les bénéfices (1000) en % du PIB et en % du total des recettes fiscales (fr)](https://doi.org/10.1787/rev_stats-2017-table29-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Czech Republic, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86b46-en)
+## [Impôts sur les bénéfices des sociétés (1200) en % du PIB et en % du total des recettes fiscales (fr)](https://doi.org/10.1787/rev_stats-2017-table31-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Czech Republic, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86ca4-en)
+## [Impôts sur les biens et services (5000) en % du PIB en % du total des recettes fiscales (fr)](https://doi.org/10.1787/rev_stats-2017-table35-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Czech Republic: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c10-en)
+## [Impôts sur les salaires ou la main-d'oeuvre (3000) en % du PIB et en % du total des recettes fiscales (fr)](https://doi.org/10.1787/rev_stats-2017-table33-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Ireland, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table72-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Denmark, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86b4f-en)
+## [Ireland, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table71-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Denmark, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86b4c-en)
+## [Ireland, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table178-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Denmark, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86ca7-en)
+## [Ireland: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table129-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Denmark: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c13-en)
+## [Irlande : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table129-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Effect of alternate treatments of non-wastable tax credits, 2015 (en)](https://doi.org/10.1787/g2g86adb-en)
+## [Irlande, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table71-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Estonia, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86b55-en)
+## [Irlande, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table72-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Estonia, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86b52-en)
+## [Irlande, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table178-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Estonia, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86caa-en)
+## [Islande : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table128-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Estonia: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c16-en)
+## [Islande, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table69-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Exchange rates used, national currency per US dollar at market exchange rates (en)](https://doi.org/10.1787/g2g86b24-en)
+## [Islande, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table70-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Financing of social security benefits (en)](https://doi.org/10.1787/g2g86bfa-en)
+## [Islande, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table177-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Financing social benefits: Detailed country tables, 1965-2015 (en) - Memorandum item on the financing of social security benefits (en)](https://doi.org/10.1787/g2g86c6a-en)
+## [Israël : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table130-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Finland, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86b5b-en)
+## [Israël, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table73-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Finland, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86b58-en)
+## [Israël, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table74-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Finland, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86cad-en)
+## [Israël, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table179-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Israel, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table74-en)
 
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Finland: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c19-en)
+## [Israel, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table73-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [France, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86b61-en)
+## [Israel, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table179-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [France, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86b5e-en)
+## [Israel: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table130-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [France, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86cb0-en)
+## [Italie : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table131-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [France: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c1c-en)
+## [Italie, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table75-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Germany, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86b67-en)
+## [Italie, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table76-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Germany, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86b64-en)
+## [Italie, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table180-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Italy, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table76-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Germany, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86cb3-en)
+## [Italy, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table75-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Germany: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c1f-en)
+## [Italy, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table180-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Greece, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86b6d-en)
+## [Italy: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table131-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Greece, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86b6a-en)
+## [Japan, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table78-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Greece, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86cb6-en)
+## [Japan, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table77-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Greece: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c22-en)
+## [Japan, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table181-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Gross domestic product for tax reporting years at market prices, in billions of national currency (en)](https://doi.org/10.1787/g2g86b21-en)
+## [Japan: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table132-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Hungary, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86b73-en)
+## [Japon : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table132-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Hungary, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86b70-en)
+## [Japon, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table77-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Hungary, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86cb9-en)
+## [Japon, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table78-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Hungary: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c25-en)
+## [Japon, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table181-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Korea, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table80-en)
 
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Iceland, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86b79-en)
+## [Korea, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table79-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Iceland, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86b76-en)
+## [Korea, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table182-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Iceland, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86cbc-en)
+## [Korea: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table133-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Iceland: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c28-en)
+## [Latvia, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table82-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Ireland, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86b7f-en)
+## [Latvia, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table81-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Ireland, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86b7c-en)
+## [Latvia, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table183-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Ireland, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86cbf-en)
+## [Latvia: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table134-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Ireland: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c2b-en)
+## [Le financement des prestations sociales (fr)](https://doi.org/10.1787/rev_stats-2017-table113-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Israel, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86b85-en)
+## [Le financement des prestations sociales : Tableaux détaillés par pays, 1965-2015 (fr) - Pour mêmoire : le financement des systèmes de sécurité sociale (fr)](https://doi.org/10.1787/rev_stats-2017-table150-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Israel, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86b82-en)
+## [Les cotisations de sécurité sociale et impôts sur les salaires payés par les administrations publiques (fr)](https://doi.org/10.1787/rev_stats-2017-table114-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Israel, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86cc2-en)
+## [Les cotisations de sécurité sociale et impôts sur les salaires payés par les administrations publiques : Tableaux détaillés par pays, 1965-2015 (fr)](https://doi.org/10.1787/rev_stats-2017-table151-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Israel: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c2e-en)
+## [Lettonie : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table134-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Italy, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86b8b-en)
+## [Lettonie, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table81-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Italy, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86b88-en)
+## [Lettonie, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table82-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Italy, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86cc5-en)
+## [Lettonie, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table183-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Italy: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c31-en)
+## [Luxembourg : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table135-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Japan, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86b91-en)
+## [Luxembourg, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table83-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Japan, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86b8e-en)
+## [Luxembourg, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table84-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Japan, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86cc8-en)
+## [Luxembourg, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table184-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Luxembourg, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table84-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Japan: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c34-en)
+## [Luxembourg, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table83-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Korea, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86b97-en)
+## [Luxembourg, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table184-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Korea, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86b94-en)
+## [Luxembourg: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table135-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Korea, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86ccb-en)
+## [Main central government tax revenues as % of GDP at market prices (Federal/regional countries) (en)](https://doi.org/10.1787/rev_stats-2017-table154-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Korea: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c37-en)
+## [Main central government tax revenues as % of GDP at market prices (Unitary countries) (en)](https://doi.org/10.1787/rev_stats-2017-table155-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Latvia, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86b9d-en)
+## [Main central government taxes as % of total tax revenues of central government (Federal/regional countries) (en)](https://doi.org/10.1787/rev_stats-2017-table156-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Latvia, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86b9a-en)
+## [Main central government taxes as % of total tax revenues of central government (Unitary countries) (en)](https://doi.org/10.1787/rev_stats-2017-table157-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Latvia, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86cce-en)
+## [Main central government taxes as % of total tax revenues of central government, 2015 (en)](https://doi.org/10.1787/rev_stats-2017-table38-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Latvia: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c3a-en)
+## [Main local government tax revenues as % of GDP at market prices (Federal/regional countries) (en)](https://doi.org/10.1787/rev_stats-2017-table159-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Luxembourg, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86ba3-en)
+## [Main local government tax revenues as % of GDP at market prices (Unitary countries) (en)](https://doi.org/10.1787/rev_stats-2017-table162-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Luxembourg, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86ba0-en)
+## [Main local government tax revenues as % of total tax revenues of local governments (Unitary countries) (en)](https://doi.org/10.1787/rev_stats-2017-table163-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Luxembourg, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86cd1-en)
+## [Main local government taxes as % of total tax revenues of local government, 2015 (en)](https://doi.org/10.1787/rev_stats-2017-table40-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Luxembourg: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c3d-en)
+## [Main local government taxes as % of total tax revenues of local governments (Federal/regional countries) (en)](https://doi.org/10.1787/rev_stats-2017-table161-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Main central government tax revenues as % of GDP at market prices (Federal/regional countries) (en)](https://doi.org/10.1787/g2g86c77-en)
+## [Main state government tax revenues as % of GDP at market prices (Federal/regional countries) (en)](https://doi.org/10.1787/rev_stats-2017-table158-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Main central government tax revenues as % of GDP at market prices (Unitary countries) (en)](https://doi.org/10.1787/g2g86c7a-en)
+## [Main state government taxes as % of total tax revenues of state government (Federal/regional countries) (en)](https://doi.org/10.1787/rev_stats-2017-table160-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Main central government taxes as % of total tax revenues of central government (Federal/regional countries) (en)](https://doi.org/10.1787/g2g86c7d-en)
+## [Main state government taxes as % of total tax revenues of state government, 2015 (en)](https://doi.org/10.1787/rev_stats-2017-table39-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Main central government taxes as % of total tax revenues of central government (Unitary countries) (en)](https://doi.org/10.1787/g2g86c80-en)
+## [Mexico, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table86-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Main central government taxes as % of total tax revenues of central government, 2015 (en)](https://doi.org/10.1787/g2g86b18-en)
+## [Mexico, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table85-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Main local government tax revenues as % of GDP at market prices (Federal/regional countries) (en)](https://doi.org/10.1787/g2g86c86-en)
+## [Mexico, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table185-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Main local government tax revenues as % of GDP at market prices (Unitary countries) (en)](https://doi.org/10.1787/g2g86c8f-en)
+## [Mexico: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table136-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Main local government tax revenues as % of total tax revenues of local governments (Unitary countries) (en)](https://doi.org/10.1787/g2g86c92-en)
+## [Mexique : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table136-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Main local government taxes as % of total tax revenues of local government, 2015 (en)](https://doi.org/10.1787/g2g86b1e-en)
+## [Mexique, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table85-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Main local government taxes as % of total tax revenues of local governments (Federal/regional countries) (en)](https://doi.org/10.1787/g2g86c8c-en)
+## [Mexique, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table86-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Main state government tax revenues as % of GDP at market prices (Federal/regional countries) (en)](https://doi.org/10.1787/g2g86c83-en)
+## [Mexique, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table185-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Netherlands, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table88-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Main state government taxes as % of total tax revenues of state government (Federal/regional countries) (en)](https://doi.org/10.1787/g2g86c89-en)
+## [Netherlands, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table87-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Main state government taxes as % of total tax revenues of state government, 2015 (en)](https://doi.org/10.1787/g2g86b1b-en)
+## [Netherlands, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table186-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Mexico, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86ba9-en)
+## [Netherlands: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table137-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Mexico, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86ba6-en)
+## [New Zealand, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table90-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Mexico, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86cd4-en)
+## [New Zealand, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table89-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Mexico: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c40-en)
+## [New Zealand, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table187-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Netherlands, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86baf-en)
+## [New Zealand: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table138-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Netherlands, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86bac-en)
+## [Norvège : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table139-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Netherlands, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86cd7-en)
+## [Norvège, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table91-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Netherlands: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c43-en)
+## [Norvège, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table92-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [New Zealand, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86bb5-en)
+## [Norvège, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table188-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
 
+------
+
+## [Norway, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table92-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [New Zealand, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86bb2-en)
+## [Norway, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table91-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [New Zealand, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86cda-en)
+## [Norway, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table188-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [New Zealand: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c46-en)
+## [Norway: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table139-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Norway, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86bbb-en)
+## [Nouvelle-Zélande : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table138-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Norway, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86bb8-en)
+## [Nouvelle-Zélande, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table89-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Norway, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86cdd-en)
+## [Nouvelle-Zélande, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table90-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Norway: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c49-en)
+## [Nouvelle-Zélande, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table187-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
@@ -3203,183 +4904,1107 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 November 2017 at 22:12:47
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Statistics Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
 ------
 
-## [Poland, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86bc1-en)
+## [Pays-Bas : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table137-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Poland, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86bbe-en)
+## [Pays-Bas, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table87-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Poland, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86ce0-en)
+## [Pays-Bas, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table88-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Poland: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c4c-en)
+## [Pays-Bas, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table186-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Portugal, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86bc7-en)
+## [Poland, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table94-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Portugal, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86bc4-en)
+## [Poland, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table93-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Portugal, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86ce3-en)
+## [Poland, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table189-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Portugal: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c4f-en)
+## [Poland: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table140-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Pologne : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table140-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Pologne, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table93-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Pologne, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table94-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Pologne, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table189-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Portugal : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table141-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Portugal, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table95-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Portugal, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table96-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Portugal, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table190-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Portugal, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table96-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Portugal, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table95-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Portugal, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table190-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Portugal: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table141-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Principales recettes de l'administration centrale en % du total des recettes fiscales de l'administration centrale (Pays fédéraux/régionaux) (fr)](https://doi.org/10.1787/rev_stats-2017-table156-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Principales recettes de l'administration centrale en % du total des recettes fiscales de l'administration centrale (Pays unitaires) (fr)](https://doi.org/10.1787/rev_stats-2017-table157-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Principales recettes de l'administration centrale en % du total des recettes fiscales de l'administration centrale, 2015 (fr)](https://doi.org/10.1787/rev_stats-2017-table38-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Principales recettes fiscales de l'administration centrale en % du PIB aux prix du marché (Pays fédéraux/régionaux) (fr)](https://doi.org/10.1787/rev_stats-2017-table154-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Principales recettes fiscales de l'administration centrale en % du PIB aux prix du marché (Pays unitaires) (fr)](https://doi.org/10.1787/rev_stats-2017-table155-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Principales recettes fiscales des administrations d'états en % du PIB aux prix du marché (Pays fédéraux/régionaux) (fr)](https://doi.org/10.1787/rev_stats-2017-table158-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Principales recettes fiscales des administrations locales en % du PIB aux prix du marché (Pays fédéraux/régionaux) (fr)](https://doi.org/10.1787/rev_stats-2017-table159-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Principaux impôts des administrations d'états en % du total des recettes fiscales des administrations d'états (Pays fédéraux/régionaux) (fr)](https://doi.org/10.1787/rev_stats-2017-table160-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Principaux impôts des administrations d'États fédérés en % du total des recettes fiscales des administrations d'États fédérés, 2015 (fr)](https://doi.org/10.1787/rev_stats-2017-table39-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Principaux impôts locaux en % du PIB aux prix du marché (Pays unitaires) (fr)](https://doi.org/10.1787/rev_stats-2017-table162-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Principaux impôts locaux en % du total des recettes fiscales des administrations locales (Pays fédéraux/régionaux) (fr)](https://doi.org/10.1787/rev_stats-2017-table161-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Principaux impôts locaux en % du total des recettes fiscales des administrations locales (Pays unitaires) (fr)](https://doi.org/10.1787/rev_stats-2017-table163-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Principaux impôts locaux en % du total des recettes fiscales des administrations locales, 2015 (fr)](https://doi.org/10.1787/rev_stats-2017-table40-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Produit intérieur brut pour les années de déclaration fiscale au prix du marché, en milliards de monnaie nationale (fr)](https://doi.org/10.1787/rev_stats-2017-table41-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Recettes fiscales des sous-secteurs de l'administration en % du total des recettes fiscales (fr)](https://doi.org/10.1787/rev_stats-2017-table37-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Recettes fiscales des sous-secteurs de l'administration en % du total des recettes fiscales (Pays fédéraux/régionaux) (fr)](https://doi.org/10.1787/rev_stats-2017-table152-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Recettes fiscales des sous-secteurs de l'administration en % du total des recettes fiscales (Pays unitaires) (fr)](https://doi.org/10.1787/rev_stats-2017-table153-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Recettes fiscales des sous-secteurs des administrations publiques en % du total des recettes fiscales, pays fédéraux (fr)](https://doi.org/10.1787/rev_stats-2017-table11-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Recettes fiscales des sous-secteurs des administrations publiques en % du total des recettes fiscales, pays unitaires (fr)](https://doi.org/10.1787/rev_stats-2017-table12-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Recettes fiscales sous les principales rubriques en % du PIB, 2015 (fr)](https://doi.org/10.1787/rev_stats-2017-table25-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Recettes fiscales sous les principales rubriques en % du PIB, 2016p (fr)](https://doi.org/10.1787/rev_stats-2017-table27-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Recettes fiscales sous les principales rubriques en % du total des recettes fiscales, 2015 (fr)](https://doi.org/10.1787/rev_stats-2017-table26-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Recettes fiscales sous les principales rubriques en % du total des recettes fiscales, 2016p (fr)](https://doi.org/10.1787/rev_stats-2017-table28-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [République slovaque : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table142-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [République slovaque, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table97-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [République slovaque, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table98-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [République slovaque, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table191-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [République tchèque : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table120-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [République tchèque, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table53-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [République tchèque, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table54-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [République tchèque, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table169-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Résumé des principaux ratios relatifs aux recettes fiscales dans les pays de l'OCDE (fr)](https://doi.org/10.1787/rev_stats-2017-table2-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
@@ -3392,9 +6017,9 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
@@ -3406,316 +6031,484 @@ Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ------
 
-## [Slovak Republic, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86bcd-en)
+## [Royaume-Uni : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table148-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Slovak Republic, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86bca-en)
+## [Royaume-Uni, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table109-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Slovak Republic, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86ce6-en)
+## [Royaume-Uni, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table110-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Slovak Republic: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c52-en)
+## [Royaume-Uni, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table197-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Slovenia, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86bd3-en)
+## [Slovak Republic, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table98-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Slovenia, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86bd0-en)
+## [Slovak Republic, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table97-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Slovenia, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86ce9-en)
+## [Slovak Republic, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table191-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Slovenia: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c55-en)
+## [Slovak Republic: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table142-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Social security contributions (2000) as % of GDP and as % of total tax revenue (en)](https://doi.org/10.1787/g2g86b06-en)
+## [Slovenia, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table100-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Social security contributions and payroll taxes paid by government (en)](https://doi.org/10.1787/g2g86bfd-en)
+## [Slovenia, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table99-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Social security contributions and payroll taxes paid by government: Detailed country tables, 1965-2015 (en)](https://doi.org/10.1787/g2g86c6d-en)
+## [Slovenia, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table192-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Spain, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86bd9-en)
+## [Slovenia: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table143-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Spain, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86bd6-en)
+## [Slovénie : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table143-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Spain, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86cec-en)
+## [Slovénie, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table99-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Spain: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c58-en)
+## [Slovénie, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table100-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Slovenie, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table192-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Social security contributions (2000) as % of GDP and as % of total tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table32-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Social security contributions and payroll taxes paid by government (en)](https://doi.org/10.1787/rev_stats-2017-table114-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Social security contributions and payroll taxes paid by government: Detailed country tables, 1965-2015 (en)](https://doi.org/10.1787/rev_stats-2017-table151-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Spain, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table102-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Spain, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table101-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Spain, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table193-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Spain: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table144-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
@@ -3728,7 +6521,7 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
 - [ ] Exported to Keepeek
 
@@ -3736,22 +6529,211 @@ Thursday 23 November 2017 at 10:00:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
 ------
 
-## [Summary of key tax revenue ratios in the OECD (en)](https://doi.org/10.1787/g2g86ac3-en)
+## [Structure fiscale dans la zone OCDE, années sélectionnées (moyenne non-pondérée en % du PIB) (fr)](https://doi.org/10.1787/rev_stats-2017-table6-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Suède : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table145-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Suède, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table103-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Suède, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table104-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Suède, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table194-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Suisse : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table146-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Suisse, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table105-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Suisse, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table106-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Suisse, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table195-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Summary of key tax revenue ratios in the OECD (en)](https://doi.org/10.1787/rev_stats-2017-table2-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
@@ -3763,862 +6745,988 @@ Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ------
 
-## [Sweden, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86bdf-en)
+## [Sweden, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table104-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Sweden, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86bdc-en)
+## [Sweden, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table103-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Sweden, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86cef-en)
+## [Sweden, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table194-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Sweden: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c5b-en)
+## [Sweden: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table145-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Switzerland, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86be5-en)
+## [Switzerland, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table106-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Switzerland, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86be2-en)
+## [Switzerland, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table105-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Switzerland, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86cf2-en)
+## [Switzerland, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table195-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Switzerland: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c5e-en)
+## [Switzerland: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table146-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Tax revenue as a percentage of total government revenue (left-hand panel) and expenditure (right-hand panel), 2000-15 (en)](https://doi.org/10.1787/g2g86ae5-en)
+## [Taux de change utilisés, unités de monnaie nationale par dollar des É-U au taux de change du marché (fr)](https://doi.org/10.1787/rev_stats-2017-table42-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Tax revenue of main headings as % of GDP, 2015 (en)](https://doi.org/10.1787/g2g86af1-en)
+## [Tax revenue of main headings as % of GDP, 2015 (en)](https://doi.org/10.1787/rev_stats-2017-table25-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Tax revenue of main headings as % of GDP, 2016p (en)](https://doi.org/10.1787/g2g86af7-en)
+## [Tax revenue of main headings as % of GDP, 2016p (en)](https://doi.org/10.1787/rev_stats-2017-table27-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Tax revenue of main headings as % of total tax revenue, 2015 (en)](https://doi.org/10.1787/g2g86af4-en)
+## [Tax revenue of main headings as % of total tax revenue, 2015 (en)](https://doi.org/10.1787/rev_stats-2017-table26-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Tax revenue of main headings as % of total tax revenue, 2016p (en)](https://doi.org/10.1787/g2g86afa-en)
+## [Tax revenue of main headings as % of total tax revenue, 2016p (en)](https://doi.org/10.1787/rev_stats-2017-table28-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Tax revenues of sub-sectors of general government as % of total tax revenue (en)](https://doi.org/10.1787/g2g86b15-en)
+## [Tax revenues of sub-sectors of general government as % of total tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table37-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Tax revenues of sub-sectors of general government as % of total tax revenue (Federal/regional countries) (en)](https://doi.org/10.1787/g2g86c71-en)
+## [Tax revenues of sub-sectors of general government as % of total tax revenue (Federal/regional countries) (en)](https://doi.org/10.1787/rev_stats-2017-table152-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Tax revenues of sub-sectors of general government as % of total tax revenue (Unitary countries) (en)](https://doi.org/10.1787/g2g86c74-en)
+## [Tax revenues of sub-sectors of general government as % of total tax revenue (Unitary countries) (en)](https://doi.org/10.1787/rev_stats-2017-table153-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Tax revenues of sub-sectors of general government as % of total tax revenue, federal countries (en)](https://doi.org/10.1787/g2g86ad1-en)
+## [Tax revenues of sub-sectors of general government as % of total tax revenue, federal countries (en)](https://doi.org/10.1787/rev_stats-2017-table11-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Tax revenues of sub-sectors of general government as % of total tax revenue, unitary countries (en)](https://doi.org/10.1787/g2g86ad4-en)
+## [Tax revenues of sub-sectors of general government as % of total tax revenue, unitary countries (en)](https://doi.org/10.1787/rev_stats-2017-table12-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Tax structures in the OECD area, selected years (unweighted average as % of GDP) (en)](https://doi.org/10.1787/g2g86aca-en)
+## [Tax structures in the OECD area, selected years (unweighted average as % of GDP) (en)](https://doi.org/10.1787/rev_stats-2017-table6-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Tax-to-GNI ratios and tax revenue per capita (PPP-adjusted current USD), 2000-15 (en)](https://doi.org/10.1787/g2g86ae1-en)
+## [Taxes on corporate income (1200) as % of GDP and as % of total tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table31-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Taxes on corporate income (1200) as % of GDP and as % of total tax revenue (en)](https://doi.org/10.1787/g2g86b03-en)
+## [Taxes on goods and services (5000) as % of GDP and as % of total tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table35-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Taxes on goods and services (5000) as % of GDP and as % of total tax revenue (en)](https://doi.org/10.1787/g2g86b0f-en)
+## [Taxes on income and profits (1000) as % of GDP and as % of total tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table29-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Taxes on income and profits (1000) as % of GDP and as % of total tax revenue (en)](https://doi.org/10.1787/g2g86afd-en)
+## [Taxes on payroll and workforce (3000) as % of GDP and as % of total tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table33-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Taxes on payroll and workforce (3000) as % of GDP and as % of total tax revenue (en)](https://doi.org/10.1787/g2g86b09-en)
+## [Taxes on personal income (1100) as % of GDP and as % of total tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table30-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Taxes on personal income (1100) as % of GDP and as % of total tax revenue (en)](https://doi.org/10.1787/g2g86b00-en)
+## [Taxes on property (4000) as % of GDP and as % of total tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table34-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Taxes on property (4000) as % of GDP and as % of total tax revenue (en)](https://doi.org/10.1787/g2g86b0c-en)
+## [Taxes sur la valeur ajoutée (5111) en % du PIB en % du total des recettes fiscales (fr)](https://doi.org/10.1787/rev_stats-2017-table36-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Total tax revenue as % of GDP (en)](https://doi.org/10.1787/g2g86aeb-en)
+## [Total des recettes fiscales en % du PIB (fr)](https://doi.org/10.1787/rev_stats-2017-table23-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Total tax revenue in billions of US dollars at market exchange rates (en)](https://doi.org/10.1787/g2g86aee-en)
+## [Total des recettes fiscales en milliards de dollars des É-U au taux de change du marché (fr)](https://doi.org/10.1787/rev_stats-2017-table24-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Turkey, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86beb-en)
+## [Total tax revenue as % of GDP (en)](https://doi.org/10.1787/rev_stats-2017-table23-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Turkey, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86be8-en)
+## [Total tax revenue in billions of US dollars at market exchange rates (en)](https://doi.org/10.1787/rev_stats-2017-table24-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Turkey, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86cf5-en)
+## [Turkey, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table108-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Turkey: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c61-en)
+## [Turkey, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table107-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [United Kingdom, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86bf1-en)
+## [Turkey, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table196-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [United Kingdom, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86bee-en)
+## [Turkey: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table147-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [United Kingdom, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86cf8-en)
+## [Turquie : Tableaux détaillés par pays, 1965-2015 (fr) - Recettes fiscales détaillées (fr)](https://doi.org/10.1787/rev_stats-2017-table147-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [United Kingdom: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c64-en)
+## [Turquie, recettes fiscales et % du PIB (sélection de catégories d'impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table107-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [United States, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/g2g86bf7-en)
+## [Turquie, recettes fiscales et % du PIB par niveaux d'administration (principaux impôts) (fr)](https://doi.org/10.1787/rev_stats-2017-table108-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [United States, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/g2g86bf4-en)
+## [Turquie, recettes fiscales par sous-secteurs d'administration (fr)](https://doi.org/10.1787/rev_stats-2017-table196-fr)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [United States, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/g2g86cfb-en)
+## [United Kingdom, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table110-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [United States: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/g2g86c67-en)
+## [United Kingdom, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table109-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
 ------
 
-## [Value added taxes (5111) as % of GDP and as % of total tax revenue (en)](https://doi.org/10.1787/g2g86b12-en)
+## [United Kingdom, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table197-en)
 
 Embargo date | Launch date
 -------------|------------
 Thursday 23 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [United Kingdom: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table148-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [United States, tax revenue and % of GDP by level of government and main taxes (en)](https://doi.org/10.1787/rev_stats-2017-table112-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [United States, tax revenue and % of GDP by selected tax category (en)](https://doi.org/10.1787/rev_stats-2017-table111-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [United States, tax revenues by sub-sectors of government (en)](https://doi.org/10.1787/rev_stats-2017-table198-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [United States: Detailed country tables, 1965-2015 (en) - Details of tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table149-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Value added taxes (5111) as % of GDP and as % of total tax revenue (en)](https://doi.org/10.1787/rev_stats-2017-table36-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 23 November 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
 
@@ -4631,15 +7739,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -4652,9 +7760,9 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
@@ -4673,15 +7781,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -4694,15 +7802,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -4715,15 +7823,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -4736,15 +7844,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Czech*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -4757,15 +7865,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -4778,15 +7886,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -4799,15 +7907,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -4820,15 +7928,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 October 2017 at 9:07:21
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Danish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -4841,15 +7949,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -4862,15 +7970,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *German*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -4883,15 +7991,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Estonian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -4904,15 +8012,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -4925,15 +8033,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -4946,15 +8054,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -4967,15 +8075,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -4988,15 +8096,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5009,15 +8117,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5030,15 +8138,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5051,15 +8159,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Croatian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5072,15 +8180,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5093,15 +8201,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5114,15 +8222,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Italian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5135,15 +8243,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5156,15 +8264,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5177,15 +8285,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Latvian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5198,15 +8306,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 October 2017 at 9:07:21
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Lithuanian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5219,15 +8327,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5240,15 +8348,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5261,15 +8369,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 October 2017 at 9:07:21
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5282,15 +8390,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Hungarian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5303,15 +8411,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5324,15 +8432,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Dutch*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5345,15 +8453,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5366,15 +8474,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *German*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5387,15 +8495,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5408,15 +8516,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Polish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5429,15 +8537,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5450,15 +8558,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Portuguese*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5471,15 +8579,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5492,15 +8600,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Romanian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5513,15 +8621,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5534,15 +8642,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5555,15 +8663,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Slovenian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5576,15 +8684,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Slovak*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5597,15 +8705,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5618,15 +8726,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Finnish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5639,15 +8747,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Swedish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5660,15 +8768,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5681,15 +8789,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5702,15 +8810,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Greek*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5723,15 +8831,15 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Greek*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5744,16 +8852,58 @@ Embargo date | Launch date
 Thursday 23 November 2017 at 12:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 21 November 2017 at 21:40:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Bulgarian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Labour market and collective bargaining in Iceland: sharing the spoils without spoiling the shares (en)](https://doi.org/10.1787/851fc29b-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 27 November 2017 at 1:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 22 November 2017 at 21:50:25
+- [x] Exported to Keepeek Wednesday 22 November 2017 at 22:38:59
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Moving up the global value chain in Latvia (en)](https://doi.org/10.1787/3a486c5e-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 27 November 2017 at 1:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 22 November 2017 at 21:50:25
+- [x] Exported to Keepeek Wednesday 22 November 2017 at 22:38:59
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
@@ -5765,7 +8915,7 @@ Embargo date | Launch date
 Monday 27 November 2017 at 9:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 November 2017 at 22:12:47
 - [ ] Exported to Keepeek
 
@@ -5773,7 +8923,7 @@ Monday 27 November 2017 at 9:00:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -5786,7 +8936,7 @@ Embargo date | Launch date
 Monday 27 November 2017 at 9:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 November 2017 at 22:12:47
 - [ ] Exported to Keepeek
 
@@ -5794,7 +8944,7 @@ Monday 27 November 2017 at 9:00:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
