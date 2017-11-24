@@ -1,6 +1,6 @@
-# OECD publication embargoes by date (16 embargoes)
+# OECD publication embargoes by date (17 embargoes)
 
-*Data generated on Thursday 23 November 2017 at 23:27:02*
+*Data generated on Friday 24 November 2017 at 23:30:28*
 
 ------
 
@@ -39,6 +39,27 @@ Monday 27 November 2017 at 1:00:00 | no launch event
 ### Additional Information
 
 * Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Shared Mobility Simulations for Auckland (en)](https://doi.org/10.1787/5423af87-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 27 November 2017 at 8:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 24 November 2017 at 21:16:19
+- [x] Exported to Keepeek Friday 24 November 2017 at 22:00:01
+
+### Additional Information
+
+* Directorate: *International Transport Forum*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
@@ -172,7 +193,7 @@ Wednesday 29 November 2017 at 23:00:00 | no launch event
 
 ------
 
-## [OECD Reviews of School Resources: Chile 2017 (es) - (Spanish version) (es)](https://doi.org/10.1787/9789264287112-es)
+## [OCDE Revisiones de Recursos Escolares : Chile 2017 (es)](https://doi.org/10.1787/9789264287112-es)
 
 Embargo date | Launch date
 -------------|------------
@@ -180,7 +201,7 @@ Thursday 30 November 2017 at 23:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 20 November 2017 at 21:59:15
+- [x] Exported to iLibrary Thursday 23 November 2017 at 21:07:06
 - [ ] Exported to Keepeek
 
 ### Additional Information
