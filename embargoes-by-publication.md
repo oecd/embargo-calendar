@@ -1,151 +1,67 @@
-# OECD publication embargoes by date (17 embargoes)
+# OECD publication embargoes by date (14 embargoes)
 
-*Data generated on Friday 24 November 2017 at 23:30:28*
+*Data generated on Tuesday 28 November 2017 at 0:02:18*
 
 ------
 
-## [Labour market and collective bargaining in Iceland: sharing the spoils without spoiling the shares (en)](https://doi.org/10.1787/851fc29b-en)
+## [OECD Economic Outlook, Volume 2017 Issue 2 (en) - Preliminary version (en)](https://doi.org/10.1787/eco_outlook-v2017-2-en)
 
 Embargo date | Launch date
 -------------|------------
-Monday 27 November 2017 at 1:00:00 | no launch event
+Tuesday 28 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 November 2017 at 21:50:25
-- [x] Exported to Keepeek Wednesday 22 November 2017 at 22:38:59
+- [x] Exported to iLibrary Friday 24 November 2017 at 21:16:16
+- [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Working paper*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------
 
-## [Moving up the global value chain in Latvia (en)](https://doi.org/10.1787/3a486c5e-en)
+## [OECD-Wirtschaftsausblick, Ausgabe 2017/2 (de) - Vorläufige Ausgabe (de)](https://doi.org/10.1787/eco_outlook-v2017-2-de)
 
 Embargo date | Launch date
 -------------|------------
-Monday 27 November 2017 at 1:00:00 | no launch event
+Tuesday 28 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 November 2017 at 21:50:25
-- [x] Exported to Keepeek Wednesday 22 November 2017 at 22:38:59
+- [x] Exported to iLibrary Friday 24 November 2017 at 21:16:16
+- [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Economics Department*
-* Language: *English*
+* Language: *German*
 * Availability: *Published*
-* Type of publication: *Working paper*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------
 
-## [Shared Mobility Simulations for Auckland (en)](https://doi.org/10.1787/5423af87-en)
+## [Perspectives économiques de l'OCDE, Volume 2017 Numéro 2 (fr) - Version préliminaire (fr)](https://doi.org/10.1787/eco_outlook-v2017-2-fr)
 
 Embargo date | Launch date
 -------------|------------
-Monday 27 November 2017 at 8:00:00 | no launch event
+Tuesday 28 November 2017 at 10:00:00 | no launch event
 
 ### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 November 2017 at 21:16:19
-- [x] Exported to Keepeek Friday 24 November 2017 at 22:00:01
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 24 November 2017 at 21:16:16
+- [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *International Transport Forum*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Examens environnementaux de l'OCDE: Suisse 2017 (fr)](https://doi.org/10.1787/9789264279698-fr)
-
-Embargo date | Launch date
--------------|------------
-Monday 27 November 2017 at 9:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 November 2017 at 21:50:24
-- [x] Exported to Keepeek Wednesday 22 November 2017 at 22:38:54
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
+* Directorate: *Economics Department*
 * Language: *French*
 * Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [OECD Environmental Performance Reviews: Switzerland 2017 (en)](https://doi.org/10.1787/9789264279674-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 27 November 2017 at 9:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 November 2017 at 21:50:24
-- [x] Exported to Keepeek Wednesday 22 November 2017 at 22:38:54
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [OECD Umweltprüfbericht: Schweiz 2017 (Kurzfassung) (de)](https://doi.org/10.1787/g2g857a3-de)
-
-Embargo date | Launch date
--------------|------------
-Monday 27 November 2017 at 9:00:00 | no launch event
-
-### Status Information
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *German*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Rapporto dell'OCSE sulle performance ambientali: Svizzera 2017 (Versione abbreviata) (it)](https://doi.org/10.1787/g2g857a2-it)
-
-Embargo date | Launch date
--------------|------------
-Monday 27 November 2017 at 9:00:00 | no launch event
-
-### Status Information
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *Italian*
-* Availability: *Not yet available*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -193,7 +109,7 @@ Wednesday 29 November 2017 at 23:00:00 | no launch event
 
 ------
 
-## [OCDE Revisiones de Recursos Escolares : Chile 2017 (es)](https://doi.org/10.1787/9789264287112-es)
+## [OCDE Revisiones de recursos escolares : Chile 2017 (es)](https://doi.org/10.1787/9789264287112-es)
 
 Embargo date | Launch date
 -------------|------------
@@ -221,57 +137,15 @@ Embargo date | Launch date
 Thursday 30 November 2017 at 23:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 22 November 2017 at 21:50:24
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 24 November 2017 at 21:16:16
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Examens environnementaux de l'OCDE: Canada 2017 (fr)](https://doi.org/10.1787/9789264283244-fr)
-
-Embargo date | Launch date
--------------|------------
-Friday 1 December 2017 at 10:00:00 | no launch event
-
-### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 9 November 2017 at 21:36:18
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [OECD Environmental Performance Reviews: Canada 2017 (en)](https://doi.org/10.1787/9789264279612-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 1 December 2017 at 10:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 9 November 2017 at 21:36:18
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -319,11 +193,32 @@ Wednesday 6 December 2017 at 9:00:00 | no launch event
 
 ------
 
+## [Educational Opportunity for All (en) - Overcoming Inequality throughout the Life Course (en)](https://doi.org/10.1787/9789264287457-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 6 December 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 23 November 2017 at 21:07:06
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
 ## [Getting Skills Right: Italy (en)](https://doi.org/10.1787/9789264278639-en)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 6 December 2017 at 9:00:00 | no launch event
+Friday 15 December 2017 at 14:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
@@ -335,6 +230,27 @@ Wednesday 6 December 2017 at 9:00:00 | no launch event
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Examens environnementaux de l'OCDE: Canada 2017 (fr)](https://doi.org/10.1787/9789264283244-fr)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 19 December 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 9 November 2017 at 21:36:18
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -357,4 +273,25 @@ Tuesday 19 December 2017 at 10:00:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
+## [OECD Environmental Performance Reviews: Canada 2017 (en)](https://doi.org/10.1787/9789264279612-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 19 December 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 9 November 2017 at 21:36:18
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Medium: *PDF*
