@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Tue, 28 Nov 2017 00:02:27 GMT</pubDate>
+      <pubDate>Tue, 28 Nov 2017 23:23:23 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -68,7 +68,7 @@
          <oe:launchTime/>
          <oe:directorate>Environment Directorate</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Wednesday, 22 November 2017, 21:50 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Monday, 27 November 2017, 21:37 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Wednesday, 22 November 2017, 22:38 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
@@ -83,10 +83,10 @@
          <oe:launchTime/>
          <oe:directorate>Environment Directorate</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Wednesday, 22 November 2017, 21:50 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Monday, 27 November 2017, 21:37 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Wednesday, 22 November 2017, 22:38 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback, ePub</oe:availableMedia>
+         <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/g2g857a3-de</guid>
@@ -128,8 +128,8 @@
          <oe:launchTime/>
          <oe:directorate>Economics Department</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Friday, 24 November 2017, 21:16 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:iLibraryExport>Monday, 27 November 2017, 21:37 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Monday, 27 November 2017, 22:32 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
@@ -143,10 +143,10 @@
          <oe:launchTime/>
          <oe:directorate>Economics Department</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Friday, 24 November 2017, 21:16 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:iLibraryExport>Monday, 27 November 2017, 21:37 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Monday, 27 November 2017, 22:32 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/eco_outlook-v2017-2-fr</guid>
@@ -157,11 +157,56 @@
          <oe:embargoTime>2017-11-28T10:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Economics Department</oe:directorate>
-         <oe:ftiLoaded/>
-         <oe:iLibraryExport>Friday, 24 November 2017, 21:16 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Monday, 27 November 2017, 21:37 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Monday, 27 November 2017, 22:32 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/5c80faf8-en</guid>
+         <pubDate>Wed, 29 Nov 2017 01:00:00 GMT</pubDate>
+         <title>Aggregate multi-factor productivity (en) - Measurement issues in OECD countries (en)</title>
+         <link>https://doi.org/10.1787/5c80faf8-en</link>
+         <description>Aggregate multi-factor productivity (en) - Measurement issues in OECD countries (en) by Economics Department has an embargo on Wednesday, 29 November 2017, 3:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-29T01:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Tuesday, 28 November 2017, 21:03 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Tuesday, 28 November 2017, 21:51 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/8eddfa18-en</guid>
+         <pubDate>Wed, 29 Nov 2017 01:00:00 GMT</pubDate>
+         <title>The fiscal projection framework in long-term scenarios (en)</title>
+         <link>https://doi.org/10.1787/8eddfa18-en</link>
+         <description>The fiscal projection framework in long-term scenarios (en) by Economics Department has an embargo on Wednesday, 29 November 2017, 3:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-29T01:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Tuesday, 28 November 2017, 21:03 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Tuesday, 28 November 2017, 21:51 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/f0a6fdcb-en</guid>
+         <pubDate>Wed, 29 Nov 2017 01:00:00 GMT</pubDate>
+         <title>The quantification of structural reforms (en) - Extending the framework to emerging market economies (en)</title>
+         <link>https://doi.org/10.1787/f0a6fdcb-en</link>
+         <description>The quantification of structural reforms (en) - Extending the framework to emerging market economies (en) by Economics Department has an embargo on Wednesday, 29 November 2017, 3:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2017-11-29T01:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Tuesday, 28 November 2017, 21:03 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Tuesday, 28 November 2017, 21:51 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264282988-en</guid>
@@ -203,10 +248,10 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Education and Skills</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Thursday, 23 November 2017, 21:07 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Monday, 27 November 2017, 21:37 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback, ePub</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264285637-en</guid>
@@ -218,10 +263,10 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Education and Skills</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Friday, 24 November 2017, 21:16 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:iLibraryExport>Monday, 27 November 2017, 21:37 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Monday, 27 November 2017, 22:32 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback, ePub</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264281370-en</guid>
@@ -263,10 +308,10 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Education and Skills</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Thursday, 23 November 2017, 21:07 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Monday, 27 November 2017, 21:37 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264278639-en</guid>
@@ -278,8 +323,8 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Monday, 13 November 2017, 22:27 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Monday, 13 November 2017, 23:27 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:iLibraryExport>Monday, 27 November 2017, 21:37 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Monday, 27 November 2017, 22:32 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
@@ -293,7 +338,7 @@
          <oe:launchTime/>
          <oe:directorate>Environment Directorate</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Thursday, 9 November 2017, 21:36 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Monday, 27 November 2017, 21:37 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback, ePub</oe:availableMedia>
@@ -323,7 +368,7 @@
          <oe:launchTime/>
          <oe:directorate>Environment Directorate</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Thursday, 9 November 2017, 21:36 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Monday, 27 November 2017, 21:37 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback, ePub</oe:availableMedia>

@@ -1,68 +1,68 @@
 # OECD publication embargoes by date (14 embargoes)
 
-*Data generated on Tuesday 28 November 2017 at 0:02:18*
+*Data generated on Tuesday 28 November 2017 at 23:23:12*
 
 ------
 
-## [OECD Economic Outlook, Volume 2017 Issue 2 (en) - Preliminary version (en)](https://doi.org/10.1787/eco_outlook-v2017-2-en)
+## [Aggregate multi-factor productivity (en) - Measurement issues in OECD countries (en)](https://doi.org/10.1787/5c80faf8-en)
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 28 November 2017 at 10:00:00 | no launch event
+Wednesday 29 November 2017 at 1:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 November 2017 at 21:16:16
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 28 November 2017 at 21:03:15
+- [x] Exported to Keepeek Tuesday 28 November 2017 at 21:51:42
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Book*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
 
-## [OECD-Wirtschaftsausblick, Ausgabe 2017/2 (de) - Vorläufige Ausgabe (de)](https://doi.org/10.1787/eco_outlook-v2017-2-de)
+## [The fiscal projection framework in long-term scenarios (en)](https://doi.org/10.1787/8eddfa18-en)
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 28 November 2017 at 10:00:00 | no launch event
+Wednesday 29 November 2017 at 1:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 November 2017 at 21:16:16
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 28 November 2017 at 21:03:15
+- [x] Exported to Keepeek Tuesday 28 November 2017 at 21:51:42
 
 ### Additional Information
 
 * Directorate: *Economics Department*
-* Language: *German*
+* Language: *English*
 * Availability: *Published*
-* Type of publication: *Book*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
 
-## [Perspectives économiques de l'OCDE, Volume 2017 Numéro 2 (fr) - Version préliminaire (fr)](https://doi.org/10.1787/eco_outlook-v2017-2-fr)
+## [The quantification of structural reforms (en) - Extending the framework to emerging market economies (en)](https://doi.org/10.1787/f0a6fdcb-en)
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 28 November 2017 at 10:00:00 | no launch event
+Wednesday 29 November 2017 at 1:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 24 November 2017 at 21:16:16
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 28 November 2017 at 21:03:15
+- [x] Exported to Keepeek Tuesday 28 November 2017 at 21:51:42
 
 ### Additional Information
 
 * Directorate: *Economics Department*
-* Language: *French*
+* Language: *English*
 * Availability: *Published*
-* Type of publication: *Book*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
@@ -117,7 +117,7 @@ Thursday 30 November 2017 at 23:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 23 November 2017 at 21:07:06
+- [x] Exported to iLibrary Monday 27 November 2017 at 21:37:50
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -138,8 +138,8 @@ Thursday 30 November 2017 at 23:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 November 2017 at 21:16:16
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 27 November 2017 at 21:37:50
+- [x] Exported to Keepeek Monday 27 November 2017 at 22:32:48
 
 ### Additional Information
 
@@ -201,7 +201,7 @@ Wednesday 6 December 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 23 November 2017 at 21:07:06
+- [x] Exported to iLibrary Monday 27 November 2017 at 21:37:50
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -222,8 +222,8 @@ Friday 15 December 2017 at 14:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 13 November 2017 at 22:27:12
-- [x] Exported to Keepeek Monday 13 November 2017 at 23:27:58
+- [x] Exported to iLibrary Monday 27 November 2017 at 21:37:50
+- [x] Exported to Keepeek Monday 27 November 2017 at 22:32:48
 
 ### Additional Information
 
@@ -243,7 +243,7 @@ Tuesday 19 December 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 9 November 2017 at 21:36:18
+- [x] Exported to iLibrary Monday 27 November 2017 at 21:37:50
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -285,7 +285,7 @@ Tuesday 19 December 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 9 November 2017 at 21:36:18
+- [x] Exported to iLibrary Monday 27 November 2017 at 21:37:50
 - [ ] Exported to Keepeek
 
 ### Additional Information
