@@ -1,6 +1,6 @@
-# OECD publication embargoes by date (10 embargoes)
+# OECD publication embargoes by date (11 embargoes)
 
-*Data generated on Thursday 30 November 2017 at 0:01:04*
+*Data generated on Friday 1 December 2017 at 0:32:04*
 
 ------
 
@@ -33,12 +33,33 @@ Friday 1 December 2017 at 11:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 November 2017 at 21:03:12
-- [x] Exported to Keepeek Tuesday 28 November 2017 at 21:51:41
+- [x] Exported to iLibrary Wednesday 29 November 2017 at 21:38:17
+- [x] Exported to Keepeek Wednesday 29 November 2017 at 22:35:50
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Harmful Tax Practices - Peer Review Reports on the Exchange of Information on Tax Rulings (en) - Inclusive Framework on BEPS: Action 5 (en)](https://doi.org/10.1787/9789264285675-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 4 December 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 27 November 2017 at 21:37:50
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
@@ -75,8 +96,8 @@ Wednesday 6 December 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 30 October 2017 at 21:33:33
-- [x] Exported to Keepeek Thursday 26 October 2017 at 21:28:23
+- [x] Exported to iLibrary Wednesday 29 November 2017 at 21:38:17
+- [x] Exported to Keepeek Wednesday 29 November 2017 at 22:35:50
 
 ### Additional Information
 
@@ -96,8 +117,8 @@ Wednesday 6 December 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 26 October 2017 at 20:35:10
-- [x] Exported to Keepeek Thursday 26 October 2017 at 21:28:23
+- [x] Exported to iLibrary Wednesday 29 November 2017 at 21:38:17
+- [x] Exported to Keepeek Wednesday 29 November 2017 at 22:35:50
 
 ### Additional Information
 

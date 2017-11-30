@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2017-11-30T00:01:04.089+01:00" count="72">
+<report name="official-embargoes" generated="2017-12-01T00:32:04.649+01:00" count="66">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -363,28 +363,12 @@
     <cell name="date of publication">2017-12-06</cell>
     <cell name="embargo date">2017-12-06T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-26T20:35:10.117Z</cell>
-    <cell name="freepreview last export date">2017-10-26T21:28:23.757Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="23">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/9789264282735-2-en</cell>
-    <cell name="title">Acronyms and abbreviations (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-06</cell>
-    <cell name="embargo date">2017-12-06T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-26T20:35:10.117Z</cell>
-    <cell name="freepreview last export date">2017-10-26T21:28:23.757Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="24">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264282988-2-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -395,15 +379,15 @@
     <cell name="date of publication">2017-12-06</cell>
     <cell name="embargo date">2017-12-06T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-26T20:35:10.117Z</cell>
-    <cell name="freepreview last export date">2017-10-26T21:28:23.757Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="25">
+  <row index="24">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/9789264282735-4-en</cell>
-    <cell name="title">Assessment and recommendations (en)</cell>
+    <cell name="doi">10.1787/9789264282735-2-en</cell>
+    <cell name="title">Acronyms and abbreviations (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
@@ -411,12 +395,12 @@
     <cell name="date of publication">2017-12-06</cell>
     <cell name="embargo date">2017-12-06T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-26T20:35:10.117Z</cell>
-    <cell name="freepreview last export date">2017-10-26T21:28:23.757Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="26">
+  <row index="25">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264282988-4-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -427,8 +411,24 @@
     <cell name="date of publication">2017-12-06</cell>
     <cell name="embargo date">2017-12-06T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-26T20:35:10.117Z</cell>
-    <cell name="freepreview last export date">2017-10-26T21:28:23.757Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="26">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/9789264282735-4-en</cell>
+    <cell name="title">Assessment and recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2017-12-06</cell>
+    <cell name="embargo date">2017-12-06T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -443,8 +443,8 @@
     <cell name="date of publication">2017-12-06</cell>
     <cell name="embargo date">2017-12-06T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-26T20:35:10.117Z</cell>
-    <cell name="freepreview last export date">2017-10-26T21:28:23.757Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -459,8 +459,8 @@
     <cell name="date of publication">2017-12-06</cell>
     <cell name="embargo date">2017-12-06T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-26T20:35:10.117Z</cell>
-    <cell name="freepreview last export date">2017-10-26T21:28:23.757Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -475,8 +475,8 @@
     <cell name="date of publication">2017-12-06</cell>
     <cell name="embargo date">2017-12-06T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-26T20:35:10.117Z</cell>
-    <cell name="freepreview last export date">2017-10-26T21:28:23.757Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -491,8 +491,8 @@
     <cell name="date of publication">2017-12-06</cell>
     <cell name="embargo date">2017-12-06T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-26T20:35:10.117Z</cell>
-    <cell name="freepreview last export date">2017-10-26T21:28:23.757Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -507,8 +507,8 @@
     <cell name="date of publication">2017-12-06</cell>
     <cell name="embargo date">2017-12-06T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-26T20:35:10.117Z</cell>
-    <cell name="freepreview last export date">2017-10-26T21:28:23.757Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -523,8 +523,8 @@
     <cell name="date of publication">2017-12-06</cell>
     <cell name="embargo date">2017-12-06T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-26T20:35:10.117Z</cell>
-    <cell name="freepreview last export date">2017-10-26T21:28:23.757Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -539,8 +539,8 @@
     <cell name="date of publication">2017-12-06</cell>
     <cell name="embargo date">2017-12-06T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-26T20:35:10.117Z</cell>
-    <cell name="freepreview last export date">2017-10-26T21:28:23.757Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -555,8 +555,8 @@
     <cell name="date of publication">2017-12-06</cell>
     <cell name="embargo date">2017-12-06T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-26T20:35:10.117Z</cell>
-    <cell name="freepreview last export date">2017-10-26T21:28:23.757Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -571,8 +571,8 @@
     <cell name="date of publication">2017-12-06</cell>
     <cell name="embargo date">2017-12-06T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-26T20:35:10.117Z</cell>
-    <cell name="freepreview last export date">2017-10-26T21:28:23.757Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -587,8 +587,8 @@
     <cell name="date of publication">2017-12-06</cell>
     <cell name="embargo date">2017-12-06T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-26T20:35:10.117Z</cell>
-    <cell name="freepreview last export date">2017-10-26T21:28:23.757Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -603,8 +603,8 @@
     <cell name="date of publication">2017-11-30</cell>
     <cell name="embargo date">2017-12-06T10:00:00Z</cell>
     <cell name="launch date/time">2017-11-29T23:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-10-30T21:33:33.707Z</cell>
-    <cell name="freepreview last export date">2017-10-26T21:28:23.757Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -651,8 +651,8 @@
     <cell name="date of publication">2017-11-30</cell>
     <cell name="embargo date">2017-12-06T10:00:00Z</cell>
     <cell name="launch date/time">2017-12-06T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-10-26T20:35:10.117Z</cell>
-    <cell name="freepreview last export date">2017-10-26T21:28:23.757Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -667,8 +667,8 @@
     <cell name="date of publication">2017-12-06</cell>
     <cell name="embargo date">2017-12-06T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-26T20:35:10.117Z</cell>
-    <cell name="freepreview last export date">2017-10-26T21:28:23.757Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -683,8 +683,8 @@
     <cell name="date of publication">2017-12-06</cell>
     <cell name="embargo date">2017-12-06T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-10-26T20:35:10.117Z</cell>
-    <cell name="freepreview last export date">2017-10-26T21:28:23.757Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -721,6 +721,38 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="45">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264285675-en</cell>
+    <cell name="title">Harmful Tax Practices - Peer Review Reports on the Exchange of Information on Tax Rulings (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 5 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2017-12-04</cell>
+    <cell name="embargo date">2017-12-04T10:00:00Z</cell>
+    <cell name="launch date/time">2017-12-04T10:00:00Z</cell>
+    <cell name="ilibrary last export date">2017-11-27T21:37:50.617Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="46">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264285675-en</cell>
+    <cell name="title">Harmful Tax Practices - Peer Review Reports on the Exchange of Information on Tax Rulings (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 5 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2017-12-04</cell>
+    <cell name="embargo date">2017-12-04T10:00:00Z</cell>
+    <cell name="launch date/time">2017-12-04T10:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="47">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264285637-2-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -731,12 +763,12 @@
     <cell name="date of publication">2017-12-01</cell>
     <cell name="embargo date">2017-12-01T11:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-11-28T21:03:12.137Z</cell>
-    <cell name="freepreview last export date">2017-11-28T21:51:41.403Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="46">
+  <row index="48">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264285637-4-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -747,12 +779,12 @@
     <cell name="date of publication">2017-12-01</cell>
     <cell name="embargo date">2017-12-01T11:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-11-28T21:03:12.137Z</cell>
-    <cell name="freepreview last export date">2017-11-28T21:51:41.403Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="47">
+  <row index="49">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264285637-3-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -763,12 +795,12 @@
     <cell name="date of publication">2017-12-01</cell>
     <cell name="embargo date">2017-12-01T11:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-11-28T21:03:12.137Z</cell>
-    <cell name="freepreview last export date">2017-11-28T21:51:41.403Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="48">
+  <row index="50">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264285637-1-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -779,12 +811,12 @@
     <cell name="date of publication">2017-12-01</cell>
     <cell name="embargo date">2017-12-01T11:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-11-28T21:03:12.137Z</cell>
-    <cell name="freepreview last export date">2017-11-28T21:51:41.403Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="49">
+  <row index="51">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264285637-6-en</cell>
     <cell name="title">Funding of school education in Chile (en)</cell>
@@ -795,42 +827,10 @@
     <cell name="date of publication">2017-12-01</cell>
     <cell name="embargo date">2017-12-01T11:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-11-28T21:03:12.137Z</cell>
-    <cell name="freepreview last export date">2017-11-28T21:51:41.403Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="50">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/9789264287112-es</cell>
-    <cell name="title">OCDE Revisiones de recursos escolares : Chile 2017 (es)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2017-12-15</cell>
-    <cell name="embargo date">2017-12-01T11:00:00Z</cell>
-    <cell name="launch date/time">2017-12-01T11:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-11-28T21:03:12.137Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="51">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/9789264287112-es</cell>
-    <cell name="title">OCDE Revisiones de recursos escolares : Chile 2017 (es)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2017-12-15</cell>
-    <cell name="embargo date">2017-12-01T11:00:00Z</cell>
-    <cell name="launch date/time">2017-12-01T11:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
   </row>
   <row index="52">
     <cell name="directorate">Directorate for Education and Skills</cell>
@@ -850,21 +850,37 @@
   </row>
   <row index="53">
     <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/9789264285637-en</cell>
-    <cell name="title">OECD Reviews of School Resources: Chile 2017 (en)</cell>
+    <cell name="doi">10.1787/9789264287112-es</cell>
+    <cell name="title">OCDE Revisiones de recursos escolares : Chile 2017 (es)</cell>
     <cell name="subtitle"/>
-    <cell name="language">English</cell>
+    <cell name="language">Spanish</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-01</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2017-12-15</cell>
     <cell name="embargo date">2017-12-01T11:00:00Z</cell>
     <cell name="launch date/time">2017-12-01T11:00:00Z</cell>
     <cell name="ilibrary last export date">2017-11-28T21:03:12.137Z</cell>
-    <cell name="freepreview last export date">2017-11-28T21:51:41.403Z</cell>
+    <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
+    <cell name="fti loaded?"/>
   </row>
   <row index="54">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/9789264287112-es</cell>
+    <cell name="title">OCDE Revisiones de recursos escolares : Chile 2017 (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2017-12-15</cell>
+    <cell name="embargo date">2017-12-01T11:00:00Z</cell>
+    <cell name="launch date/time">2017-12-01T11:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="55">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264285637-en</cell>
     <cell name="title">OECD Reviews of School Resources: Chile 2017 (en)</cell>
@@ -880,7 +896,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="55">
+  <row index="56">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264285637-en</cell>
     <cell name="title">OECD Reviews of School Resources: Chile 2017 (en)</cell>
@@ -891,12 +907,28 @@
     <cell name="date of publication">2017-12-01</cell>
     <cell name="embargo date">2017-12-01T11:00:00Z</cell>
     <cell name="launch date/time">2017-12-01T11:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-11-28T21:03:12.137Z</cell>
-    <cell name="freepreview last export date">2017-11-28T21:51:41.403Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="56">
+  <row index="57">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/9789264285637-en</cell>
+    <cell name="title">OECD Reviews of School Resources: Chile 2017 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2017-12-01</cell>
+    <cell name="embargo date">2017-12-01T11:00:00Z</cell>
+    <cell name="launch date/time">2017-12-01T11:00:00Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="58">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264285637-5-en</cell>
     <cell name="title">School education in Chile (en)</cell>
@@ -907,12 +939,12 @@
     <cell name="date of publication">2017-12-01</cell>
     <cell name="embargo date">2017-12-01T11:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-11-28T21:03:12.137Z</cell>
-    <cell name="freepreview last export date">2017-11-28T21:51:41.403Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="57">
+  <row index="59">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264285637-8-en</cell>
     <cell name="title">School organisation and operation in Chile (en)</cell>
@@ -923,12 +955,12 @@
     <cell name="date of publication">2017-12-01</cell>
     <cell name="embargo date">2017-12-01T11:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-11-28T21:03:12.137Z</cell>
-    <cell name="freepreview last export date">2017-11-28T21:51:41.403Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="58">
+  <row index="60">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264285637-7-en</cell>
     <cell name="title">Targeting school resources for equity in Chile (en)</cell>
@@ -939,12 +971,12 @@
     <cell name="date of publication">2017-12-01</cell>
     <cell name="embargo date">2017-12-01T11:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-11-28T21:03:12.137Z</cell>
-    <cell name="freepreview last export date">2017-11-28T21:51:41.403Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="59">
+  <row index="61">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264285637-9-en</cell>
     <cell name="title">The teaching workforce in Chile (en)</cell>
@@ -955,12 +987,12 @@
     <cell name="date of publication">2017-12-01</cell>
     <cell name="embargo date">2017-12-01T11:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-11-28T21:03:12.137Z</cell>
-    <cell name="freepreview last export date">2017-11-28T21:51:41.403Z</cell>
+    <cell name="ilibrary last export date">2017-11-29T21:38:17.617Z</cell>
+    <cell name="freepreview last export date">2017-11-29T22:35:50.517Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="60">
+  <row index="62">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-fr</cell>
     <cell name="title">Examens environnementaux de l'OCDE: Canada 2017 (fr)</cell>
@@ -976,7 +1008,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="61">
+  <row index="63">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Canada 2017 (en)</cell>
@@ -992,7 +1024,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="62">
+  <row index="64">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/5c80faf8-en</cell>
     <cell name="title">Aggregate multi-factor productivity (en)</cell>
@@ -1008,7 +1040,7 @@
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="63">
+  <row index="65">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/8eddfa18-en</cell>
     <cell name="title">The fiscal projection framework in long-term scenarios (en)</cell>
@@ -1024,7 +1056,7 @@
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="64">
+  <row index="66">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/f0a6fdcb-en</cell>
     <cell name="title">The quantification of structural reforms (en)</cell>
@@ -1038,134 +1070,6 @@
     <cell name="ilibrary last export date">2017-11-28T21:03:15.589Z</cell>
     <cell name="freepreview last export date">2017-11-28T21:51:42.655Z</cell>
     <cell name="catalogue type">Working paper</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="65">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/05b705e7-en</cell>
-    <cell name="title"> OECD Economic Outlook No. 102 (Edition 2017/2) (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Online</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-11-28</cell>
-    <cell name="embargo date">2017-11-28T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-11-27T21:37:54.798Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Dataset edition</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="66">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_outlook-v2017-2-en</cell>
-    <cell name="title">OECD Economic Outlook, Volume 2017 Issue 2 (en)</cell>
-    <cell name="subtitle">Preliminary version (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2017-11-28</cell>
-    <cell name="embargo date">2017-11-28T10:00:00Z</cell>
-    <cell name="launch date/time">2017-11-28T10:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="67">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_outlook-v2017-2-en</cell>
-    <cell name="title">OECD Economic Outlook, Volume 2017 Issue 2 (en)</cell>
-    <cell name="subtitle">Preliminary version (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-11-28</cell>
-    <cell name="embargo date">2017-11-28T10:00:00Z</cell>
-    <cell name="launch date/time">2017-11-28T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-11-28T21:03:12.137Z</cell>
-    <cell name="freepreview last export date">2017-11-27T22:32:48.287Z</cell>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="68">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_outlook-v2017-2-de</cell>
-    <cell name="title">OECD-Wirtschaftsausblick, Ausgabe 2017/2 (de)</cell>
-    <cell name="subtitle">Vorläufige Ausgabe (de)</cell>
-    <cell name="language">German</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-11-28</cell>
-    <cell name="embargo date">2017-11-28T10:00:00Z</cell>
-    <cell name="launch date/time">2017-11-28T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-11-27T21:37:50.617Z</cell>
-    <cell name="freepreview last export date">2017-11-27T22:32:48.287Z</cell>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="69">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_outlook-v2017-2-de</cell>
-    <cell name="title">OECD-Wirtschaftsausblick, Ausgabe 2017/2 (de)</cell>
-    <cell name="subtitle">Vorläufige Ausgabe (de)</cell>
-    <cell name="language">German</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2017-11-28</cell>
-    <cell name="embargo date">2017-11-28T10:00:00Z</cell>
-    <cell name="launch date/time">2017-11-28T10:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="70">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/9ffcb978-fr</cell>
-    <cell name="title">Perspectives économiques de l'OCDE No. 102 (Édition 2017/2) (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">Online</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-11-28</cell>
-    <cell name="embargo date">2017-11-28T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-11-27T21:37:54.798Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Dataset edition</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="71">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_outlook-v2017-2-fr</cell>
-    <cell name="title">Perspectives économiques de l'OCDE, Volume 2017 Numéro 2 (fr)</cell>
-    <cell name="subtitle">Version préliminaire (fr)</cell>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-11-28</cell>
-    <cell name="embargo date">2017-11-28T10:00:00Z</cell>
-    <cell name="launch date/time">2017-11-28T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-11-27T21:37:50.617Z</cell>
-    <cell name="freepreview last export date">2017-11-27T22:32:48.287Z</cell>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="72">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_outlook-v2017-2-fr</cell>
-    <cell name="title">Perspectives économiques de l'OCDE, Volume 2017 Numéro 2 (fr)</cell>
-    <cell name="subtitle">Version préliminaire (fr)</cell>
-    <cell name="language">French</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2017-11-28</cell>
-    <cell name="embargo date">2017-11-28T10:00:00Z</cell>
-    <cell name="launch date/time">2017-11-28T10:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
 </report>

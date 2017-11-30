@@ -4,106 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/eco_outlook-v2017-2-en
-SUMMARY:OECD Economic Outlook, Volume 2017 Issue
-  2 (en) on 28 November 2017, 12:00 Paris
-  time (GMT+02:00)
-DESCRIPTION:OECD Economic Outlook, Volume 2017 Issue
-  2 (en)  - Preliminary version (en) by E
- conomics Department has an embargo date/
- time of 28 November 2017, 12:00 Paris ti
- me (GMT+02:00).\n\nDirectorate: Economic
- s Department\nLanguage: English\nDOI: ht
- tps://doi.org/10.1787/eco_outlook-v2017-
- 2-en\nPublication type: Book\nReleased a
- s: Paperback, PDF.\n\niLibrary export: 2
- 8 November 2017, 21:03 Paris time (GMT+0
- 0:00)\nFreepreview export: 27 November 2
- 017, 22:32 Paris time (GMT+00:00)\nFTI l
- oaded: ✓.
-DTSTAMP:20171130T000108Z
-DTSTART:20171128T100000Z
-DTEND:20171128T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Economic Outlook, Volume 
- 2017 Issue 2 (en) on 28 November 2017, 1
- 2:00 Paris time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/eco_outlook-v2017-2-de
-SUMMARY:OECD-Wirtschaftsausblick, Ausgabe 2017/2
-  (de) on 28 November 2017, 12:00 Paris t
- ime (GMT+02:00)
-DESCRIPTION:OECD-Wirtschaftsausblick, Ausgabe 2017/2
-  (de)  - Vorläufige Ausgabe (de) by Econ
- omics Department has an embargo date/tim
- e of 28 November 2017, 12:00 Paris time 
- (GMT+02:00).\n\nDirectorate: Economics D
- epartment\nLanguage: German\nDOI: https:
- //doi.org/10.1787/eco_outlook-v2017-2-de
- \nPublication type: Book\nReleased as: P
- DF, Paperback.\n\niLibrary export: 27 No
- vember 2017, 21:37 Paris time (GMT+00:00
- )\nFreepreview export: 27 November 2017,
-  22:32 Paris time (GMT+00:00)\nFTI loade
- d: ✓.
-DTSTAMP:20171130T000108Z
-DTSTART:20171128T100000Z
-DTEND:20171128T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD-Wirtschaftsausblick, Ausg
- abe 2017/2 (de) on 28 November 2017, 12:
- 00 Paris time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/eco_outlook-v2017-2-fr
-SUMMARY:Perspectives économiques de l'OCDE, Volu
- me 2017 Numéro 2 (fr) on 28 November 201
- 7, 12:00 Paris time (GMT+02:00)
-DESCRIPTION:Perspectives économiques de l'OCDE, Volu
- me 2017 Numéro 2 (fr)  - Version prélimi
- naire (fr) by Economics Department has a
- n embargo date/time of 28 November 2017,
-  12:00 Paris time (GMT+02:00).\n\nDirect
- orate: Economics Department\nLanguage: F
- rench\nDOI: https://doi.org/10.1787/eco_
- outlook-v2017-2-fr\nPublication type: Bo
- ok\nReleased as: PDF, Paperback.\n\niLib
- rary export: 27 November 2017, 21:37 Par
- is time (GMT+00:00)\nFreepreview export:
-  27 November 2017, 22:32 Paris time (GMT
- +00:00)\nFTI loaded: ✓.
-DTSTAMP:20171130T000108Z
-DTSTART:20171128T100000Z
-DTEND:20171128T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Perspectives économiques de l'
- OCDE, Volume 2017 Numéro 2 (fr) on 28 No
- vember 2017, 12:00 Paris time (GMT+02:00
- )
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/5c80faf8-en
 SUMMARY:Aggregate multi-factor productivity (en)
   on 29 November 2017, 3:00 Paris time (G
@@ -121,7 +21,7 @@ DESCRIPTION:Aggregate multi-factor productivity (en)
  )\nFreepreview export: 28 November 2017,
   21:51 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20171130T000108Z
+DTSTAMP:20171201T003210Z
 DTSTART:20171129T010000Z
 DTEND:20171129T011500Z
 TRANSP:TRANSPARENT
@@ -153,7 +53,7 @@ DESCRIPTION:The fiscal projection framework in long-
  time (GMT+00:00)\nFreepreview export: 28
   November 2017, 21:51 Paris time (GMT+00
  :00)\nFTI loaded: ✓.
-DTSTAMP:20171130T000108Z
+DTSTAMP:20171201T003210Z
 DTSTART:20171129T010000Z
 DTEND:20171129T011500Z
 TRANSP:TRANSPARENT
@@ -186,7 +86,7 @@ DESCRIPTION:The quantification of structural reforms
  Paris time (GMT+00:00)\nFreepreview expo
  rt: 28 November 2017, 21:51 Paris time (
  GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171130T000108Z
+DTSTAMP:20171201T003210Z
 DTSTART:20171129T010000Z
 DTEND:20171129T011500Z
 TRANSP:TRANSPARENT
@@ -214,11 +114,11 @@ DESCRIPTION:OCDE Revisiones de recursos escolares :
  for Education and Skills\nLanguage: Span
  ish\nDOI: https://doi.org/10.1787/978926
  4287112-es\nPublication type: Book\nRele
- ased as: PDF, Paperback, ePub.\n\niLibra
+ ased as: ePub, PDF, Paperback.\n\niLibra
  ry export: 28 November 2017, 21:03 Paris
   time (GMT+00:00)\nFreepreview export: n
  ever\nFTI loaded: no.
-DTSTAMP:20171130T000108Z
+DTSTAMP:20171201T003210Z
 DTSTART:20171201T110000Z
 DTEND:20171201T111500Z
 TRANSP:TRANSPARENT
@@ -246,12 +146,12 @@ DESCRIPTION:OECD Reviews of School Resources: Chile
  ucation and Skills\nLanguage: English\nD
  OI: https://doi.org/10.1787/978926428563
  7-en\nPublication type: Book\nReleased a
- s: PDF, Paperback, ePub.\n\niLibrary exp
- ort: 28 November 2017, 21:03 Paris time 
- (GMT+00:00)\nFreepreview export: 28 Nove
- mber 2017, 21:51 Paris time (GMT+00:00)\
+ s: Paperback, ePub, PDF.\n\niLibrary exp
+ ort: 29 November 2017, 21:38 Paris time 
+ (GMT+00:00)\nFreepreview export: 29 Nove
+ mber 2017, 22:35 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20171130T000108Z
+DTSTAMP:20171201T003210Z
 DTSTART:20171201T110000Z
 DTEND:20171201T111500Z
 TRANSP:TRANSPARENT
@@ -263,6 +163,42 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Reviews of School Resourc
  es: Chile 2017 (en) on 1 December 2017, 
  13:00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264285675-en
+SUMMARY:Harmful Tax Practices - Peer Review Repo
+ rts on the Exchange of Information on Ta
+ x Rulings (en) on 4 December 2017, 12:00
+  Paris time (GMT+02:00)
+DESCRIPTION:Harmful Tax Practices - Peer Review Repo
+ rts on the Exchange of Information on Ta
+ x Rulings (en)  - Inclusive Framework on
+  BEPS: Action 5 (en) by Centre for Tax P
+ olicy and Administration has an embargo 
+ date/time of 4 December 2017, 12:00 Pari
+ s time (GMT+02:00).\n\nDirectorate: Cent
+ re for Tax Policy and Administration\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/9789264285675-en\nPublication type
+ : Book\nReleased as: PDF, Paperback.\n\n
+ iLibrary export: 27 November 2017, 21:37
+  Paris time (GMT+00:00)\nFreepreview exp
+ ort: never\nFTI loaded: ✓.
+DTSTAMP:20171201T003210Z
+DTSTART:20171204T100000Z
+DTEND:20171204T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Harmful Tax Practices - Peer R
+ eview Reports on the Exchange of Informa
+ tion on Tax Rulings (en) on 4 December 2
+ 017, 12:00 Paris time (GMT+02:00)
 END:VALARM
 END:VEVENT
 
@@ -288,7 +224,7 @@ DESCRIPTION:Getting Skills Right: Good Practice in A
  22:27 Paris time (GMT+00:00)\nFreeprevie
  w export: 13 November 2017, 23:27 Paris 
  time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171130T000108Z
+DTSTAMP:20171201T003210Z
 DTSTART:20171206T090000Z
 DTEND:20171206T091500Z
 TRANSP:TRANSPARENT
@@ -319,11 +255,11 @@ DESCRIPTION:Monitoring Health System Performance in
  nLanguage: English\nDOI: https://doi.org
  /10.1787/9789264282988-en\nPublication t
  ype: Book\nReleased as: PDF, Paperback.\
- n\niLibrary export: 30 October 2017, 21:
- 33 Paris time (GMT+00:00)\nFreepreview e
- xport: 26 October 2017, 21:28 Paris time
-  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171130T000108Z
+ n\niLibrary export: 29 November 2017, 21
+ :38 Paris time (GMT+00:00)\nFreepreview 
+ export: 29 November 2017, 22:35 Paris ti
+ me (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171201T003210Z
 DTSTART:20171206T100000Z
 DTEND:20171206T101500Z
 TRANSP:TRANSPARENT
@@ -352,11 +288,11 @@ DESCRIPTION:OECD Reviews of Health Systems: Peru 201
  l Affairs\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9789264282735-en\nPub
  lication type: Book\nReleased as: Paperb
- ack, PDF.\n\niLibrary export: 26 October
-  2017, 20:35 Paris time (GMT+00:00)\nFre
- epreview export: 26 October 2017, 21:28 
- Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171130T000108Z
+ ack, PDF.\n\niLibrary export: 29 Novembe
+ r 2017, 21:38 Paris time (GMT+00:00)\nFr
+ eepreview export: 29 November 2017, 22:3
+ 5 Paris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171201T003210Z
 DTSTART:20171206T100000Z
 DTEND:20171206T101500Z
 TRANSP:TRANSPARENT
@@ -389,7 +325,7 @@ DESCRIPTION:Educational Opportunity for All (en)  -
  export: 28 November 2017, 21:03 Paris ti
  me (GMT+00:00)\nFreepreview export: neve
  r\nFTI loaded: no.
-DTSTAMP:20171130T000108Z
+DTSTAMP:20171201T003210Z
 DTSTART:20171206T130000Z
 DTEND:20171206T131500Z
 TRANSP:TRANSPARENT
@@ -422,7 +358,7 @@ DESCRIPTION:Getting Skills Right: Italy (en)  by Dir
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 27 November 2017, 22:32 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171130T000108Z
+DTSTAMP:20171201T003210Z
 DTSTART:20171215T140000Z
 DTEND:20171215T141500Z
 TRANSP:TRANSPARENT
@@ -453,7 +389,7 @@ DESCRIPTION:Examens environnementaux de l'OCDE: Cana
  .\n\niLibrary export: 27 November 2017, 
  21:37 Paris time (GMT+00:00)\nFreeprevie
  w export: never\nFTI loaded: no.
-DTSTAMP:20171130T000108Z
+DTSTAMP:20171201T003210Z
 DTSTART:20171219T100000Z
 DTEND:20171219T101500Z
 TRANSP:TRANSPARENT
@@ -484,7 +420,7 @@ DESCRIPTION:OECD Economic Surveys: Norway 2018 (en)
  .\n\niLibrary export: 22 November 2017, 
  21:50 Paris time (GMT+00:00)\nFreeprevie
  w export: never\nFTI loaded: no.
-DTSTAMP:20171130T000108Z
+DTSTAMP:20171201T003210Z
 DTSTART:20171219T100000Z
 DTEND:20171219T101500Z
 TRANSP:TRANSPARENT
@@ -515,7 +451,7 @@ DESCRIPTION:OECD Environmental Performance Reviews:
   ePub.\n\niLibrary export: 27 November 2
  017, 21:37 Paris time (GMT+00:00)\nFreep
  review export: never\nFTI loaded: ✓.
-DTSTAMP:20171130T000108Z
+DTSTAMP:20171201T003210Z
 DTSTART:20171219T100000Z
 DTEND:20171219T101500Z
 TRANSP:TRANSPARENT
