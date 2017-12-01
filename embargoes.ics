@@ -4,104 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/5c80faf8-en
-SUMMARY:Aggregate multi-factor productivity (en)
-  on 29 November 2017, 3:00 Paris time (G
- MT+02:00)
-DESCRIPTION:Aggregate multi-factor productivity (en)
-   - Measurement issues in OECD countries
-  (en) by Economics Department has an emb
- argo date/time of 29 November 2017, 3:00
-  Paris time (GMT+02:00).\n\nDirectorate:
-  Economics Department\nLanguage: English
- \nDOI: https://doi.org/10.1787/5c80faf8-
- en\nPublication type: Working paper\nRel
- eased as: PDF.\n\niLibrary export: 28 No
- vember 2017, 21:03 Paris time (GMT+00:00
- )\nFreepreview export: 28 November 2017,
-  21:51 Paris time (GMT+00:00)\nFTI loade
- d: ✓.
-DTSTAMP:20171201T003210Z
-DTSTART:20171129T010000Z
-DTEND:20171129T011500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Aggregate multi-factor product
- ivity (en) on 29 November 2017, 3:00 Par
- is time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/8eddfa18-en
-SUMMARY:The fiscal projection framework in long-
- term scenarios (en) on 29 November 2017,
-  3:00 Paris time (GMT+02:00)
-DESCRIPTION:The fiscal projection framework in long-
- term scenarios (en)  by Economics Depart
- ment has an embargo date/time of 29 Nove
- mber 2017, 3:00 Paris time (GMT+02:00).\
- n\nDirectorate: Economics Department\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/8eddfa18-en\nPublication type: Wor
- king paper\nReleased as: PDF.\n\niLibrar
- y export: 28 November 2017, 21:03 Paris 
- time (GMT+00:00)\nFreepreview export: 28
-  November 2017, 21:51 Paris time (GMT+00
- :00)\nFTI loaded: ✓.
-DTSTAMP:20171201T003210Z
-DTSTART:20171129T010000Z
-DTEND:20171129T011500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: The fiscal projection framewor
- k in long-term scenarios (en) on 29 Nove
- mber 2017, 3:00 Paris time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/f0a6fdcb-en
-SUMMARY:The quantification of structural reforms
-  (en) on 29 November 2017, 3:00 Paris ti
- me (GMT+02:00)
-DESCRIPTION:The quantification of structural reforms
-  (en)  - Extending the framework to emer
- ging market economies (en) by Economics 
- Department has an embargo date/time of 2
- 9 November 2017, 3:00 Paris time (GMT+02
- :00).\n\nDirectorate: Economics Departme
- nt\nLanguage: English\nDOI: https://doi.
- org/10.1787/f0a6fdcb-en\nPublication typ
- e: Working paper\nReleased as: PDF.\n\ni
- Library export: 28 November 2017, 21:03 
- Paris time (GMT+00:00)\nFreepreview expo
- rt: 28 November 2017, 21:51 Paris time (
- GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171201T003210Z
-DTSTART:20171129T010000Z
-DTEND:20171129T011500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: The quantification of structur
- al reforms (en) on 29 November 2017, 3:0
- 0 Paris time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264287112-es
 SUMMARY:OCDE Revisiones de recursos escolares : 
  Chile 2017 (es) on 1 December 2017, 13:0
@@ -114,11 +16,11 @@ DESCRIPTION:OCDE Revisiones de recursos escolares :
  for Education and Skills\nLanguage: Span
  ish\nDOI: https://doi.org/10.1787/978926
  4287112-es\nPublication type: Book\nRele
- ased as: ePub, PDF, Paperback.\n\niLibra
+ ased as: Paperback, ePub, PDF.\n\niLibra
  ry export: 28 November 2017, 21:03 Paris
   time (GMT+00:00)\nFreepreview export: n
  ever\nFTI loaded: no.
-DTSTAMP:20171201T003210Z
+DTSTAMP:20171202T004410Z
 DTSTART:20171201T110000Z
 DTEND:20171201T111500Z
 TRANSP:TRANSPARENT
@@ -147,11 +49,11 @@ DESCRIPTION:OECD Reviews of School Resources: Chile
  OI: https://doi.org/10.1787/978926428563
  7-en\nPublication type: Book\nReleased a
  s: Paperback, ePub, PDF.\n\niLibrary exp
- ort: 29 November 2017, 21:38 Paris time 
+ ort: 30 November 2017, 22:06 Paris time 
  (GMT+00:00)\nFreepreview export: 29 Nove
  mber 2017, 22:35 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20171201T003210Z
+DTSTAMP:20171202T004410Z
 DTSTART:20171201T110000Z
 DTEND:20171201T111500Z
 TRANSP:TRANSPARENT
@@ -183,10 +85,11 @@ DESCRIPTION:Harmful Tax Practices - Peer Review Repo
  nguage: English\nDOI: https://doi.org/10
  .1787/9789264285675-en\nPublication type
  : Book\nReleased as: PDF, Paperback.\n\n
- iLibrary export: 27 November 2017, 21:37
+ iLibrary export: 30 November 2017, 22:06
   Paris time (GMT+00:00)\nFreepreview exp
- ort: never\nFTI loaded: ✓.
-DTSTAMP:20171201T003210Z
+ ort: 30 November 2017, 23:00 Paris time 
+ (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171202T004410Z
 DTSTART:20171204T100000Z
 DTEND:20171204T101500Z
 TRANSP:TRANSPARENT
@@ -199,6 +102,72 @@ DESCRIPTION:Reminder: Harmful Tax Practices - Peer R
  eview Reports on the Exchange of Informa
  tion on Tax Rulings (en) on 4 December 2
  017, 12:00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/rev_fish_stat_en-2017-en
+SUMMARY:OECD Review of Fisheries: Policies and S
+ ummary Statistics 2017 (en) on 5 Decembe
+ r 2017, 1:01 Paris time (GMT+02:00)
+DESCRIPTION:OECD Review of Fisheries: Policies and S
+ ummary Statistics 2017 (en)  by Trade an
+ d Agriculture Directorate has an embargo
+  date/time of 5 December 2017, 1:01 Pari
+ s time (GMT+02:00).\n\nDirectorate: Trad
+ e and Agriculture Directorate\nLanguage:
+  English\nDOI: https://doi.org/10.1787/r
+ ev_fish_stat_en-2017-en\nPublication typ
+ e: Stand-alone monograph\nReleased as: P
+ aperback, PDF.\n\niLibrary export: 28 No
+ vember 2017, 21:03 Paris time (GMT+00:00
+ )\nFreepreview export: never\nFTI loaded
+ : ✓.
+DTSTAMP:20171202T004410Z
+DTSTART:20171204T230100Z
+DTEND:20171204T231600Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Review of Fisheries: Poli
+ cies and Summary Statistics 2017 (en) on
+  5 December 2017, 1:01 Paris time (GMT+0
+ 2:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/pension_glance-2017-en
+SUMMARY:Pensions at a Glance 2017 (en) on 5 Dece
+ mber 2017, 12:00 Paris time (GMT+02:00)
+DESCRIPTION:Pensions at a Glance 2017 (en)  - OECD a
+ nd G20 Indicators (en) by Directorate fo
+ r Employment, Labour and Social Affairs 
+ has an embargo date/time of 5 December 2
+ 017, 12:00 Paris time (GMT+02:00).\n\nDi
+ rectorate: Directorate for Employment, L
+ abour and Social Affairs\nLanguage: Engl
+ ish\nDOI: https://doi.org/10.1787/pensio
+ n_glance-2017-en\nPublication type: Book
+ \nReleased as: PDF, Paperback, ePub.\n\n
+ iLibrary export: 29 November 2017, 21:38
+  Paris time (GMT+00:00)\nFreepreview exp
+ ort: never\nFTI loaded: ✓.
+DTSTAMP:20171202T004410Z
+DTSTART:20171205T100000Z
+DTEND:20171205T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pensions at a Glance 2017 (en)
+  on 5 December 2017, 12:00 Paris time (G
+ MT+02:00)
 END:VALARM
 END:VEVENT
 
@@ -224,7 +193,7 @@ DESCRIPTION:Getting Skills Right: Good Practice in A
  22:27 Paris time (GMT+00:00)\nFreeprevie
  w export: 13 November 2017, 23:27 Paris 
  time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171201T003210Z
+DTSTAMP:20171202T004410Z
 DTSTART:20171206T090000Z
 DTEND:20171206T091500Z
 TRANSP:TRANSPARENT
@@ -259,7 +228,7 @@ DESCRIPTION:Monitoring Health System Performance in
  :38 Paris time (GMT+00:00)\nFreepreview 
  export: 29 November 2017, 22:35 Paris ti
  me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171201T003210Z
+DTSTAMP:20171202T004410Z
 DTSTART:20171206T100000Z
 DTEND:20171206T101500Z
 TRANSP:TRANSPARENT
@@ -292,7 +261,7 @@ DESCRIPTION:OECD Reviews of Health Systems: Peru 201
  r 2017, 21:38 Paris time (GMT+00:00)\nFr
  eepreview export: 29 November 2017, 22:3
  5 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171201T003210Z
+DTSTAMP:20171202T004410Z
 DTSTART:20171206T100000Z
 DTEND:20171206T101500Z
 TRANSP:TRANSPARENT
@@ -304,6 +273,37 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Reviews of Health Systems
  : Peru 2017 (en) on 6 December 2017, 12:
  00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/f14fd801-en
+SUMMARY:Confronting the zombies  (en) on 6 Decem
+ ber 2017, 13:30 Paris time (GMT+02:00)
+DESCRIPTION:Confronting the zombies  (en)  - Policie
+ s for productivity revival (en) by Econo
+ mics Department has an embargo date/time
+  of 6 December 2017, 13:30 Paris time (G
+ MT+02:00).\n\nDirectorate: Economics Dep
+ artment\nLanguage: English\nDOI: https:/
+ /doi.org/10.1787/f14fd801-en\nPublicatio
+ n type: Working paper\nReleased as: PDF.
+ \n\niLibrary export: 1 December 2017, 22
+ :09 Paris time (GMT+00:00)\nFreepreview 
+ export: 1 December 2017, 23:10 Paris tim
+ e (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171202T004410Z
+DTSTART:20171206T113000Z
+DTEND:20171206T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Confronting the zombies  (en) 
+ on 6 December 2017, 13:30 Paris time (GM
+ T+02:00)
 END:VALARM
 END:VEVENT
 
@@ -322,10 +322,10 @@ DESCRIPTION:Educational Opportunity for All (en)  -
  \nDOI: https://doi.org/10.1787/978926428
  7457-en\nPublication type: Book\nRelease
  d as: ePub, PDF, Paperback.\n\niLibrary 
- export: 28 November 2017, 21:03 Paris ti
+ export: 30 November 2017, 22:06 Paris ti
  me (GMT+00:00)\nFreepreview export: neve
- r\nFTI loaded: no.
-DTSTAMP:20171201T003210Z
+ r\nFTI loaded: ✓.
+DTSTAMP:20171202T004410Z
 DTSTART:20171206T130000Z
 DTEND:20171206T131500Z
 TRANSP:TRANSPARENT
@@ -358,7 +358,7 @@ DESCRIPTION:Getting Skills Right: Italy (en)  by Dir
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 27 November 2017, 22:32 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171201T003210Z
+DTSTAMP:20171202T004410Z
 DTSTART:20171215T140000Z
 DTEND:20171215T141500Z
 TRANSP:TRANSPARENT
@@ -389,7 +389,7 @@ DESCRIPTION:Examens environnementaux de l'OCDE: Cana
  .\n\niLibrary export: 27 November 2017, 
  21:37 Paris time (GMT+00:00)\nFreeprevie
  w export: never\nFTI loaded: no.
-DTSTAMP:20171201T003210Z
+DTSTAMP:20171202T004410Z
 DTSTART:20171219T100000Z
 DTEND:20171219T101500Z
 TRANSP:TRANSPARENT
@@ -420,7 +420,7 @@ DESCRIPTION:OECD Economic Surveys: Norway 2018 (en)
  .\n\niLibrary export: 22 November 2017, 
  21:50 Paris time (GMT+00:00)\nFreeprevie
  w export: never\nFTI loaded: no.
-DTSTAMP:20171201T003210Z
+DTSTAMP:20171202T004410Z
 DTSTART:20171219T100000Z
 DTEND:20171219T101500Z
 TRANSP:TRANSPARENT
@@ -451,7 +451,7 @@ DESCRIPTION:OECD Environmental Performance Reviews:
   ePub.\n\niLibrary export: 27 November 2
  017, 21:37 Paris time (GMT+00:00)\nFreep
  review export: never\nFTI loaded: ✓.
-DTSTAMP:20171201T003210Z
+DTSTAMP:20171202T004410Z
 DTSTART:20171219T100000Z
 DTEND:20171219T101500Z
 TRANSP:TRANSPARENT
@@ -463,6 +463,70 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Environmental Performance
   Reviews: Canada 2017 (en) on 19 Decembe
  r 2017, 12:00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/g2g87604-es
+SUMMARY:Estudios de Evaluación de Competencia de
+  la OCDE: México (es) on 9 January 2018,
+  11:00 Paris time (GMT+02:00)
+DESCRIPTION:Estudios de Evaluación de Competencia de
+  la OCDE: México (es)  by Directorate fo
+ r Financial and Enterprise Affairs has a
+ n embargo date/time of 9 January 2018, 1
+ 1:00 Paris time (GMT+02:00).\n\nDirector
+ ate: Directorate for Financial and Enter
+ prise Affairs\nLanguage: Spanish\nDOI: h
+ ttps://doi.org/10.1787/g2g87604-es\nPubl
+ ication type: Stand-alone monograph\nRel
+ eased as: PDF, Paperback.\n\niLibrary ex
+ port: never\nFreepreview export: never\n
+ FTI loaded: no.
+DTSTAMP:20171202T004410Z
+DTSTART:20180109T090000Z
+DTEND:20180109T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Estudios de Evaluación de Comp
+ etencia de la OCDE: México (es) on 9 Jan
+ uary 2018, 11:00 Paris time (GMT+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/g2g86ac4-en
+SUMMARY:OECD Competition Assessment Reviews: Mex
+ ico (en) on 9 January 2018, 11:00 Paris 
+ time (GMT+02:00)
+DESCRIPTION:OECD Competition Assessment Reviews: Mex
+ ico (en)  by Directorate for Financial a
+ nd Enterprise Affairs has an embargo dat
+ e/time of 9 January 2018, 11:00 Paris ti
+ me (GMT+02:00).\n\nDirectorate: Director
+ ate for Financial and Enterprise Affairs
+ \nLanguage: English\nDOI: https://doi.or
+ g/10.1787/g2g86ac4-en\nPublication type:
+  Stand-alone monograph\nReleased as: Pap
+ erback, PDF.\n\niLibrary export: never\n
+ Freepreview export: never\nFTI loaded: n
+ o.
+DTSTAMP:20171202T004410Z
+DTSTART:20180109T090000Z
+DTEND:20180109T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Competition Assessment Re
+ views: Mexico (en) on 9 January 2018, 11
+ :00 Paris time (GMT+02:00)
 END:VALARM
 END:VEVENT
 END:VCALENDAR

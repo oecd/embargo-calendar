@@ -1,48 +1,6 @@
-# OECD publication embargoes by date (11 embargoes)
+# OECD publication embargoes by date (14 embargoes)
 
-*Data generated on Friday 1 December 2017 at 0:32:04*
-
-------
-
-## [OCDE Revisiones de recursos escolares : Chile 2017 (es)](https://doi.org/10.1787/9789264287112-es)
-
-Embargo date | Launch date
--------------|------------
-Friday 1 December 2017 at 11:00:00 | no launch event
-
-### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 28 November 2017 at 21:03:12
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *Spanish*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [OECD Reviews of School Resources: Chile 2017 (en)](https://doi.org/10.1787/9789264285637-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 1 December 2017 at 11:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 29 November 2017 at 21:38:17
-- [x] Exported to Keepeek Wednesday 29 November 2017 at 22:35:50
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Saturday 2 December 2017 at 0:44:04*
 
 ------
 
@@ -54,14 +12,56 @@ Monday 4 December 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 November 2017 at 21:37:50
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 30 November 2017 at 22:06:47
+- [x] Exported to Keepeek Thursday 30 November 2017 at 23:00:53
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [OECD Review of Fisheries: Policies and Summary Statistics 2017 (en)](https://doi.org/10.1787/rev_fish_stat_en-2017-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 4 December 2017 at 23:01:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 28 November 2017 at 21:03:12
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [Pensions at a Glance 2017 (en) - OECD and G20 Indicators (en)](https://doi.org/10.1787/pension_glance-2017-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 5 December 2017 at 10:00:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 29 November 2017 at 21:38:17
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -130,6 +130,27 @@ Wednesday 6 December 2017 at 10:00:00 | no launch event
 
 ------
 
+## [Confronting the zombies  (en) - Policies for productivity revival (en)](https://doi.org/10.1787/f14fd801-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 6 December 2017 at 11:30:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 1 December 2017 at 22:09:59
+- [x] Exported to Keepeek Friday 1 December 2017 at 23:10:18
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
 ## [Educational Opportunity for All (en) - Overcoming Inequality throughout the Life Course (en)](https://doi.org/10.1787/9789264287457-en)
 
 Embargo date | Launch date
@@ -137,15 +158,15 @@ Embargo date | Launch date
 Wednesday 6 December 2017 at 13:00:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 28 November 2017 at 21:03:12
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 30 November 2017 at 22:06:47
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -231,4 +252,46 @@ Tuesday 19 December 2017 at 10:00:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Estudios de Evaluación de Competencia de la OCDE: México (es)](https://doi.org/10.1787/g2g87604-es)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 9 January 2018 at 9:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [OECD Competition Assessment Reviews: Mexico (en)](https://doi.org/10.1787/g2g86ac4-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 9 January 2018 at 9:00:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
