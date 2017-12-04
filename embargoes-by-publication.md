@@ -1,27 +1,6 @@
-# OECD publication embargoes by date (14 embargoes)
+# OECD publication embargoes by date (13 embargoes)
 
-*Data generated on Saturday 2 December 2017 at 0:44:04*
-
-------
-
-## [Harmful Tax Practices - Peer Review Reports on the Exchange of Information on Tax Rulings (en) - Inclusive Framework on BEPS: Action 5 (en)](https://doi.org/10.1787/9789264285675-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 4 December 2017 at 10:00:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 30 November 2017 at 22:06:47
-- [x] Exported to Keepeek Thursday 30 November 2017 at 23:00:53
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Monday 4 December 2017 at 23:48:51*
 
 ------
 
@@ -33,7 +12,7 @@ Monday 4 December 2017 at 23:01:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 November 2017 at 21:03:12
+- [x] Exported to iLibrary Friday 1 December 2017 at 22:09:54
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -54,7 +33,7 @@ Tuesday 5 December 2017 at 10:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 29 November 2017 at 21:38:17
+- [x] Exported to iLibrary Friday 1 December 2017 at 22:09:54
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -159,8 +138,8 @@ Wednesday 6 December 2017 at 13:00:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 30 November 2017 at 22:06:47
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 1 December 2017 at 22:09:54
+- [x] Exported to Keepeek Friday 1 December 2017 at 23:10:17
 
 ### Additional Information
 

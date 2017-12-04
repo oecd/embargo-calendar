@@ -4,71 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264287112-es
-SUMMARY:OCDE Revisiones de recursos escolares : 
- Chile 2017 (es) on 1 December 2017, 13:0
- 0 Paris time (GMT+02:00)
-DESCRIPTION:OCDE Revisiones de recursos escolares : 
- Chile 2017 (es)  by Directorate for Educ
- ation and Skills has an embargo date/tim
- e of 1 December 2017, 13:00 Paris time (
- GMT+02:00).\n\nDirectorate: Directorate 
- for Education and Skills\nLanguage: Span
- ish\nDOI: https://doi.org/10.1787/978926
- 4287112-es\nPublication type: Book\nRele
- ased as: Paperback, ePub, PDF.\n\niLibra
- ry export: 28 November 2017, 21:03 Paris
-  time (GMT+00:00)\nFreepreview export: n
- ever\nFTI loaded: no.
-DTSTAMP:20171202T004410Z
-DTSTART:20171201T110000Z
-DTEND:20171201T111500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OCDE Revisiones de recursos es
- colares : Chile 2017 (es) on 1 December 
- 2017, 13:00 Paris time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264285637-en
-SUMMARY:OECD Reviews of School Resources: Chile 
- 2017 (en) on 1 December 2017, 13:00 Pari
- s time (GMT+02:00)
-DESCRIPTION:OECD Reviews of School Resources: Chile 
- 2017 (en)  by Directorate for Education 
- and Skills has an embargo date/time of 1
-  December 2017, 13:00 Paris time (GMT+02
- :00).\n\nDirectorate: Directorate for Ed
- ucation and Skills\nLanguage: English\nD
- OI: https://doi.org/10.1787/978926428563
- 7-en\nPublication type: Book\nReleased a
- s: Paperback, ePub, PDF.\n\niLibrary exp
- ort: 30 November 2017, 22:06 Paris time 
- (GMT+00:00)\nFreepreview export: 29 Nove
- mber 2017, 22:35 Paris time (GMT+00:00)\
- nFTI loaded: ✓.
-DTSTAMP:20171202T004410Z
-DTSTART:20171201T110000Z
-DTEND:20171201T111500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Reviews of School Resourc
- es: Chile 2017 (en) on 1 December 2017, 
- 13:00 Paris time (GMT+02:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264285675-en
 SUMMARY:Harmful Tax Practices - Peer Review Repo
  rts on the Exchange of Information on Ta
@@ -89,7 +24,7 @@ DESCRIPTION:Harmful Tax Practices - Peer Review Repo
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 30 November 2017, 23:00 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171202T004410Z
+DTSTAMP:20171204T234856Z
 DTSTART:20171204T100000Z
 DTEND:20171204T101500Z
 TRANSP:TRANSPARENT
@@ -119,11 +54,11 @@ DESCRIPTION:OECD Review of Fisheries: Policies and S
   English\nDOI: https://doi.org/10.1787/r
  ev_fish_stat_en-2017-en\nPublication typ
  e: Stand-alone monograph\nReleased as: P
- aperback, PDF.\n\niLibrary export: 28 No
- vember 2017, 21:03 Paris time (GMT+00:00
- )\nFreepreview export: never\nFTI loaded
- : ✓.
-DTSTAMP:20171202T004410Z
+ aperback, PDF.\n\niLibrary export: 1 Dec
+ ember 2017, 22:09 Paris time (GMT+00:00)
+ \nFreepreview export: never\nFTI loaded:
+  ✓.
+DTSTAMP:20171204T234856Z
 DTSTART:20171204T230100Z
 DTEND:20171204T231600Z
 TRANSP:TRANSPARENT
@@ -153,10 +88,10 @@ DESCRIPTION:Pensions at a Glance 2017 (en)  - OECD a
  ish\nDOI: https://doi.org/10.1787/pensio
  n_glance-2017-en\nPublication type: Book
  \nReleased as: PDF, Paperback, ePub.\n\n
- iLibrary export: 29 November 2017, 21:38
-  Paris time (GMT+00:00)\nFreepreview exp
- ort: never\nFTI loaded: ✓.
-DTSTAMP:20171202T004410Z
+ iLibrary export: 1 December 2017, 22:09 
+ Paris time (GMT+00:00)\nFreepreview expo
+ rt: never\nFTI loaded: ✓.
+DTSTAMP:20171204T234856Z
 DTSTART:20171205T100000Z
 DTEND:20171205T101500Z
 TRANSP:TRANSPARENT
@@ -193,7 +128,7 @@ DESCRIPTION:Getting Skills Right: Good Practice in A
  22:27 Paris time (GMT+00:00)\nFreeprevie
  w export: 13 November 2017, 23:27 Paris 
  time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171202T004410Z
+DTSTAMP:20171204T234856Z
 DTSTART:20171206T090000Z
 DTEND:20171206T091500Z
 TRANSP:TRANSPARENT
@@ -228,7 +163,7 @@ DESCRIPTION:Monitoring Health System Performance in
  :38 Paris time (GMT+00:00)\nFreepreview 
  export: 29 November 2017, 22:35 Paris ti
  me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171202T004410Z
+DTSTAMP:20171204T234856Z
 DTSTART:20171206T100000Z
 DTEND:20171206T101500Z
 TRANSP:TRANSPARENT
@@ -261,7 +196,7 @@ DESCRIPTION:OECD Reviews of Health Systems: Peru 201
  r 2017, 21:38 Paris time (GMT+00:00)\nFr
  eepreview export: 29 November 2017, 22:3
  5 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171202T004410Z
+DTSTAMP:20171204T234856Z
 DTSTART:20171206T100000Z
 DTEND:20171206T101500Z
 TRANSP:TRANSPARENT
@@ -292,7 +227,7 @@ DESCRIPTION:Confronting the zombies  (en)  - Policie
  :09 Paris time (GMT+00:00)\nFreepreview 
  export: 1 December 2017, 23:10 Paris tim
  e (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171202T004410Z
+DTSTAMP:20171204T234856Z
 DTSTART:20171206T113000Z
 DTEND:20171206T114500Z
 TRANSP:TRANSPARENT
@@ -322,10 +257,11 @@ DESCRIPTION:Educational Opportunity for All (en)  -
  \nDOI: https://doi.org/10.1787/978926428
  7457-en\nPublication type: Book\nRelease
  d as: ePub, PDF, Paperback.\n\niLibrary 
- export: 30 November 2017, 22:06 Paris ti
- me (GMT+00:00)\nFreepreview export: neve
- r\nFTI loaded: ✓.
-DTSTAMP:20171202T004410Z
+ export: 1 December 2017, 22:09 Paris tim
+ e (GMT+00:00)\nFreepreview export: 1 Dec
+ ember 2017, 23:10 Paris time (GMT+00:00)
+ \nFTI loaded: ✓.
+DTSTAMP:20171204T234856Z
 DTSTART:20171206T130000Z
 DTEND:20171206T131500Z
 TRANSP:TRANSPARENT
@@ -358,7 +294,7 @@ DESCRIPTION:Getting Skills Right: Italy (en)  by Dir
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 27 November 2017, 22:32 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171202T004410Z
+DTSTAMP:20171204T234856Z
 DTSTART:20171215T140000Z
 DTEND:20171215T141500Z
 TRANSP:TRANSPARENT
@@ -385,11 +321,11 @@ DESCRIPTION:Examens environnementaux de l'OCDE: Cana
  Directorate: Environment Directorate\nLa
  nguage: French\nDOI: https://doi.org/10.
  1787/9789264283244-fr\nPublication type:
-  Book\nReleased as: Paperback, PDF, ePub
- .\n\niLibrary export: 27 November 2017, 
- 21:37 Paris time (GMT+00:00)\nFreeprevie
- w export: never\nFTI loaded: no.
-DTSTAMP:20171202T004410Z
+  Book\nReleased as: Paperback, PDF.\n\ni
+ Library export: 27 November 2017, 21:37 
+ Paris time (GMT+00:00)\nFreepreview expo
+ rt: never\nFTI loaded: no.
+DTSTAMP:20171204T234856Z
 DTSTART:20171219T100000Z
 DTEND:20171219T101500Z
 TRANSP:TRANSPARENT
@@ -420,7 +356,7 @@ DESCRIPTION:OECD Economic Surveys: Norway 2018 (en)
  .\n\niLibrary export: 22 November 2017, 
  21:50 Paris time (GMT+00:00)\nFreeprevie
  w export: never\nFTI loaded: no.
-DTSTAMP:20171202T004410Z
+DTSTAMP:20171204T234856Z
 DTSTART:20171219T100000Z
 DTEND:20171219T101500Z
 TRANSP:TRANSPARENT
@@ -447,11 +383,11 @@ DESCRIPTION:OECD Environmental Performance Reviews:
  \n\nDirectorate: Environment Directorate
  \nLanguage: English\nDOI: https://doi.or
  g/10.1787/9789264279612-en\nPublication 
- type: Book\nReleased as: PDF, Paperback,
-  ePub.\n\niLibrary export: 27 November 2
- 017, 21:37 Paris time (GMT+00:00)\nFreep
- review export: never\nFTI loaded: ✓.
-DTSTAMP:20171202T004410Z
+ type: Book\nReleased as: PDF, Paperback.
+ \n\niLibrary export: 27 November 2017, 2
+ 1:37 Paris time (GMT+00:00)\nFreepreview
+  export: never\nFTI loaded: ✓.
+DTSTAMP:20171204T234856Z
 DTSTART:20171219T100000Z
 DTEND:20171219T101500Z
 TRANSP:TRANSPARENT
@@ -483,7 +419,7 @@ DESCRIPTION:Estudios de Evaluación de Competencia de
  eased as: PDF, Paperback.\n\niLibrary ex
  port: never\nFreepreview export: never\n
  FTI loaded: no.
-DTSTAMP:20171202T004410Z
+DTSTAMP:20171204T234856Z
 DTSTART:20180109T090000Z
 DTEND:20180109T091500Z
 TRANSP:TRANSPARENT
@@ -515,7 +451,7 @@ DESCRIPTION:OECD Competition Assessment Reviews: Mex
  erback, PDF.\n\niLibrary export: never\n
  Freepreview export: never\nFTI loaded: n
  o.
-DTSTAMP:20171202T004410Z
+DTSTAMP:20171204T234856Z
 DTSTART:20180109T090000Z
 DTEND:20180109T091500Z
 TRANSP:TRANSPARENT
