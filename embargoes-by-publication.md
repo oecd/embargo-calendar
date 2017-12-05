@@ -1,27 +1,6 @@
-# OECD publication embargoes by date (13 embargoes)
+# OECD publication embargoes (12 embargoes)
 
-*Data generated on Monday 4 December 2017 at 23:48:51*
-
-------
-
-## [OECD Review of Fisheries: Policies and Summary Statistics 2017 (en)](https://doi.org/10.1787/rev_fish_stat_en-2017-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 4 December 2017 at 23:01:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 1 December 2017 at 22:09:54
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
+*Data generated on Tuesday 5 December 2017 at 8:43*
 
 ------
 
@@ -29,11 +8,11 @@ Monday 4 December 2017 at 23:01:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 5 December 2017 at 10:00:00 | no launch event
+Tuesday 5 December 2017 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 1 December 2017 at 22:09:54
+- [x] Exported to iLibrary Friday 1 December 2017 at 23:09
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -50,12 +29,12 @@ Tuesday 5 December 2017 at 10:00:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 6 December 2017 at 9:00:00 | no launch event
+Wednesday 6 December 2017 at 10:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 13 November 2017 at 22:27:12
-- [x] Exported to Keepeek Monday 13 November 2017 at 23:27:58
+- [x] Exported to iLibrary Monday 13 November 2017 at 23:27
+- [x] Exported to Keepeek Tuesday 14 November 2017 at 0:27
 
 ### Additional Information
 
@@ -71,12 +50,12 @@ Wednesday 6 December 2017 at 9:00:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 6 December 2017 at 10:00:00 | no launch event
+Wednesday 6 December 2017 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 29 November 2017 at 21:38:17
-- [x] Exported to Keepeek Wednesday 29 November 2017 at 22:35:50
+- [x] Exported to iLibrary Wednesday 29 November 2017 at 22:38
+- [x] Exported to Keepeek Wednesday 29 November 2017 at 23:35
 
 ### Additional Information
 
@@ -92,12 +71,12 @@ Wednesday 6 December 2017 at 10:00:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 6 December 2017 at 10:00:00 | no launch event
+Wednesday 6 December 2017 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 29 November 2017 at 21:38:17
-- [x] Exported to Keepeek Wednesday 29 November 2017 at 22:35:50
+- [x] Exported to iLibrary Wednesday 29 November 2017 at 22:38
+- [x] Exported to Keepeek Wednesday 29 November 2017 at 23:35
 
 ### Additional Information
 
@@ -113,12 +92,12 @@ Wednesday 6 December 2017 at 10:00:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 6 December 2017 at 11:30:00 | no launch event
+Wednesday 6 December 2017 at 12:30 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 1 December 2017 at 22:09:59
-- [x] Exported to Keepeek Friday 1 December 2017 at 23:10:18
+- [x] Exported to iLibrary Friday 1 December 2017 at 23:09
+- [x] Exported to Keepeek Saturday 2 December 2017 at 0:10
 
 ### Additional Information
 
@@ -134,12 +113,12 @@ Wednesday 6 December 2017 at 11:30:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 6 December 2017 at 13:00:00 | no launch event
+Wednesday 6 December 2017 at 14:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 1 December 2017 at 22:09:54
-- [x] Exported to Keepeek Friday 1 December 2017 at 23:10:17
+- [x] Exported to iLibrary Friday 1 December 2017 at 23:09
+- [x] Exported to Keepeek Saturday 2 December 2017 at 0:10
 
 ### Additional Information
 
@@ -155,12 +134,12 @@ Wednesday 6 December 2017 at 13:00:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Friday 15 December 2017 at 14:00:00 | no launch event
+Friday 15 December 2017 at 15:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 November 2017 at 21:37:50
-- [x] Exported to Keepeek Monday 27 November 2017 at 22:32:48
+- [x] Exported to iLibrary Monday 27 November 2017 at 22:37
+- [x] Exported to Keepeek Monday 27 November 2017 at 23:32
 
 ### Additional Information
 
@@ -176,11 +155,11 @@ Friday 15 December 2017 at 14:00:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 19 December 2017 at 10:00:00 | no launch event
+Tuesday 19 December 2017 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 27 November 2017 at 21:37:50
+- [x] Exported to iLibrary Monday 27 November 2017 at 22:37
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -197,11 +176,11 @@ Tuesday 19 December 2017 at 10:00:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 19 December 2017 at 10:00:00 | no launch event
+Tuesday 19 December 2017 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 22 November 2017 at 21:50:24
+- [x] Exported to iLibrary Wednesday 22 November 2017 at 22:50
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -218,11 +197,11 @@ Tuesday 19 December 2017 at 10:00:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 19 December 2017 at 10:00:00 | no launch event
+Tuesday 19 December 2017 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 November 2017 at 21:37:50
+- [x] Exported to iLibrary Monday 27 November 2017 at 22:37
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -239,7 +218,7 @@ Tuesday 19 December 2017 at 10:00:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 9 January 2018 at 9:00:00 | no launch event
+Tuesday 9 January 2018 at 10:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
@@ -260,7 +239,7 @@ Tuesday 9 January 2018 at 9:00:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 9 January 2018 at 9:00:00 | no launch event
+Tuesday 9 January 2018 at 10:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
