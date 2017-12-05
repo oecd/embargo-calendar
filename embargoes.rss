@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Tue, 05 Dec 2017 08:43:42 GMT</pubDate>
+      <pubDate>Wed, 06 Dec 2017 00:50:59 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -38,8 +38,8 @@
          <oe:launchTime/>
          <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Friday, 1 December 2017, 22:09 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:iLibraryExport>Monday, 4 December 2017, 21:22 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Monday, 4 December 2017, 22:22 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
          <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
@@ -53,8 +53,8 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Friday, 1 December 2017, 22:09 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:iLibraryExport>Monday, 4 December 2017, 21:22 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Monday, 4 December 2017, 22:22 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback, ePub</oe:availableMedia>
       </item>
@@ -86,7 +86,7 @@
          <oe:iLibraryExport>Wednesday, 29 November 2017, 21:38 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Wednesday, 29 November 2017, 22:35 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264282735-en</guid>
@@ -113,8 +113,8 @@
          <oe:launchTime/>
          <oe:directorate>Economics Department</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Friday, 1 December 2017, 22:09 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Friday, 1 December 2017, 23:10 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:iLibraryExport>Tuesday, 5 December 2017, 22:13 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Tuesday, 5 December 2017, 23:21 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Working paper</oe:catalogueType>
          <oe:availableMedia>PDF</oe:availableMedia>
       </item>
@@ -128,10 +128,25 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Education and Skills</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Friday, 1 December 2017, 22:09 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Monday, 4 December 2017, 21:22 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Friday, 1 December 2017, 23:10 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>ePub, PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264287235-en</guid>
+         <pubDate>Fri, 08 Dec 2017 08:00:00 GMT</pubDate>
+         <title>OECD Development Co-operation Peer Reviews: Finland 2017 (en)</title>
+         <link>https://doi.org/10.1787/9789264287235-en</link>
+         <description>OECD Development Co-operation Peer Reviews: Finland 2017 (en) by Development Co-operation Directorate has an embargo on Friday, 8 December 2017, 9:00 Paris time (GMT+01:00).</description>
+         <oe:embargoTime>2017-12-08T08:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Development Co-operation Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Monday, 4 December 2017, 21:22 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264278639-en</guid>
@@ -149,21 +164,6 @@
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/9789264283244-fr</guid>
-         <pubDate>Tue, 19 Dec 2017 10:00:00 GMT</pubDate>
-         <title>Examens environnementaux de l'OCDE: Canada 2017 (fr)</title>
-         <link>https://doi.org/10.1787/9789264283244-fr</link>
-         <description>Examens environnementaux de l'OCDE: Canada 2017 (fr) by Environment Directorate has an embargo on Tuesday, 19 December 2017, 11:00 Paris time (GMT+01:00).</description>
-         <oe:embargoTime>2017-12-19T10:00:00Z</oe:embargoTime>
-         <oe:launchTime/>
-         <oe:directorate>Environment Directorate</oe:directorate>
-         <oe:ftiLoaded/>
-         <oe:iLibraryExport>Monday, 27 November 2017, 21:37 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
-         <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
-      </item>
-      <item>
          <guid isPermaLink="false">10.1787/eco_surveys-nor-2018-en</guid>
          <pubDate>Tue, 19 Dec 2017 10:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: Norway 2018 (en)</title>
@@ -179,17 +179,32 @@
          <oe:availableMedia>Paperback, PDF, ePub</oe:availableMedia>
       </item>
       <item>
+         <guid isPermaLink="false">10.1787/9789264283244-fr</guid>
+         <pubDate>Tue, 19 Dec 2017 13:00:00 GMT</pubDate>
+         <title>Examens environnementaux de l'OCDE: Canada 2017 (fr)</title>
+         <link>https://doi.org/10.1787/9789264283244-fr</link>
+         <description>Examens environnementaux de l'OCDE: Canada 2017 (fr) by Environment Directorate has an embargo on Tuesday, 19 December 2017, 14:00 Paris time (GMT+01:00).</description>
+         <oe:embargoTime>2017-12-19T13:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Environment Directorate</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Monday, 4 December 2017, 21:22 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+      </item>
+      <item>
          <guid isPermaLink="false">10.1787/9789264279612-en</guid>
-         <pubDate>Tue, 19 Dec 2017 10:00:00 GMT</pubDate>
+         <pubDate>Tue, 19 Dec 2017 13:00:00 GMT</pubDate>
          <title>OECD Environmental Performance Reviews: Canada 2017 (en)</title>
          <link>https://doi.org/10.1787/9789264279612-en</link>
-         <description>OECD Environmental Performance Reviews: Canada 2017 (en) by Environment Directorate has an embargo on Tuesday, 19 December 2017, 11:00 Paris time (GMT+01:00).</description>
-         <oe:embargoTime>2017-12-19T10:00:00Z</oe:embargoTime>
+         <description>OECD Environmental Performance Reviews: Canada 2017 (en) by Environment Directorate has an embargo on Tuesday, 19 December 2017, 14:00 Paris time (GMT+01:00).</description>
+         <oe:embargoTime>2017-12-19T13:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Environment Directorate</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Monday, 27 November 2017, 21:37 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:iLibraryExport>Monday, 4 December 2017, 21:22 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Monday, 4 December 2017, 22:22 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
