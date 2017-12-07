@@ -4,78 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264285675-en
-SUMMARY:Harmful Tax Practices - Peer Review Repo
- rts on the Exchange of Information on Ta
- x Rulings (en) on 4 December 2017, 11:00
-  Paris time (GMT+01:00)
-DESCRIPTION:Harmful Tax Practices - Peer Review Repo
- rts on the Exchange of Information on Ta
- x Rulings (en)  - Inclusive Framework on
-  BEPS: Action 5 (en) by Centre for Tax P
- olicy and Administration has an embargo 
- date/time of 4 December 2017, 11:00 Pari
- s time (GMT+01:00).\n\nDirectorate: Cent
- re for Tax Policy and Administration\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/9789264285675-en\nPublication type
- : Book\nReleased as: PDF, Paperback.\n\n
- iLibrary export: 30 November 2017, 22:06
-  Paris time (GMT+00:00)\nFreepreview exp
- ort: 30 November 2017, 23:00 Paris time 
- (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171206T005057Z
-DTSTART:20171204T100000Z
-DTEND:20171204T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Harmful Tax Practices - Peer R
- eview Reports on the Exchange of Informa
- tion on Tax Rulings (en) on 4 December 2
- 017, 11:00 Paris time (GMT+01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/rev_fish_stat_en-2017-en
-SUMMARY:OECD Review of Fisheries: Policies and S
- ummary Statistics 2017 (en) on 5 Decembe
- r 2017, 0:01 Paris time (GMT+01:00)
-DESCRIPTION:OECD Review of Fisheries: Policies and S
- ummary Statistics 2017 (en)  by Trade an
- d Agriculture Directorate has an embargo
-  date/time of 5 December 2017, 0:01 Pari
- s time (GMT+01:00).\n\nDirectorate: Trad
- e and Agriculture Directorate\nLanguage:
-  English\nDOI: https://doi.org/10.1787/r
- ev_fish_stat_en-2017-en\nPublication typ
- e: Stand-alone monograph\nReleased as: P
- aperback, PDF.\n\niLibrary export: 4 Dec
- ember 2017, 21:22 Paris time (GMT+00:00)
- \nFreepreview export: 4 December 2017, 2
- 2:22 Paris time (GMT+00:00)\nFTI loaded:
-  ✓.
-DTSTAMP:20171206T005057Z
-DTSTART:20171204T230100Z
-DTEND:20171204T231600Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Review of Fisheries: Poli
- cies and Summary Statistics 2017 (en) on
-  5 December 2017, 0:01 Paris time (GMT+0
- 1:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/pension_glance-2017-en
 SUMMARY:Pensions at a Glance 2017 (en) on 5 Dece
  mber 2017, 11:00 Paris time (GMT+01:00)
@@ -88,12 +16,12 @@ DESCRIPTION:Pensions at a Glance 2017 (en)  - OECD a
  abour and Social Affairs\nLanguage: Engl
  ish\nDOI: https://doi.org/10.1787/pensio
  n_glance-2017-en\nPublication type: Book
- \nReleased as: PDF, Paperback, ePub.\n\n
- iLibrary export: 4 December 2017, 21:22 
+ \nReleased as: Paperback, ePub, PDF.\n\n
+ iLibrary export: 5 December 2017, 22:13 
  Paris time (GMT+00:00)\nFreepreview expo
- rt: 4 December 2017, 22:22 Paris time (G
+ rt: 5 December 2017, 23:21 Paris time (G
  MT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171206T005057Z
+DTSTAMP:20171207T014622Z
 DTSTART:20171205T100000Z
 DTEND:20171205T101500Z
 TRANSP:TRANSPARENT
@@ -130,7 +58,7 @@ DESCRIPTION:Getting Skills Right: Good Practice in A
  22:27 Paris time (GMT+00:00)\nFreeprevie
  w export: 13 November 2017, 23:27 Paris 
  time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171206T005057Z
+DTSTAMP:20171207T014622Z
 DTSTART:20171206T090000Z
 DTEND:20171206T091500Z
 TRANSP:TRANSPARENT
@@ -160,12 +88,12 @@ DESCRIPTION:Monitoring Health System Performance in
  r Employment, Labour and Social Affairs\
  nLanguage: English\nDOI: https://doi.org
  /10.1787/9789264282988-en\nPublication t
- ype: Book\nReleased as: Paperback, PDF.\
+ ype: Book\nReleased as: PDF, Paperback.\
  n\niLibrary export: 29 November 2017, 21
  :38 Paris time (GMT+00:00)\nFreepreview 
  export: 29 November 2017, 22:35 Paris ti
  me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171206T005057Z
+DTSTAMP:20171207T014622Z
 DTSTART:20171206T100000Z
 DTEND:20171206T101500Z
 TRANSP:TRANSPARENT
@@ -198,7 +126,7 @@ DESCRIPTION:OECD Reviews of Health Systems: Peru 201
  r 2017, 21:38 Paris time (GMT+00:00)\nFr
  eepreview export: 29 November 2017, 22:3
  5 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171206T005057Z
+DTSTAMP:20171207T014622Z
 DTSTART:20171206T100000Z
 DTEND:20171206T101500Z
 TRANSP:TRANSPARENT
@@ -229,7 +157,7 @@ DESCRIPTION:Confronting the zombies  (en)  - Policie
  :13 Paris time (GMT+00:00)\nFreepreview 
  export: 5 December 2017, 23:21 Paris tim
  e (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171206T005057Z
+DTSTAMP:20171207T014622Z
 DTSTART:20171206T113000Z
 DTEND:20171206T114500Z
 TRANSP:TRANSPARENT
@@ -263,7 +191,7 @@ DESCRIPTION:Educational Opportunity for All (en)  -
  e (GMT+00:00)\nFreepreview export: 1 Dec
  ember 2017, 23:10 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20171206T005057Z
+DTSTAMP:20171207T014622Z
 DTSTART:20171206T130000Z
 DTEND:20171206T131500Z
 TRANSP:TRANSPARENT
@@ -292,10 +220,11 @@ DESCRIPTION:OECD Development Co-operation Peer Revie
   English\nDOI: https://doi.org/10.1787/9
  789264287235-en\nPublication type: Book\
  nReleased as: PDF, Paperback.\n\niLibrar
- y export: 4 December 2017, 21:22 Paris t
- ime (GMT+00:00)\nFreepreview export: nev
- er\nFTI loaded: ✓.
-DTSTAMP:20171206T005057Z
+ y export: 5 December 2017, 22:13 Paris t
+ ime (GMT+00:00)\nFreepreview export: 5 D
+ ecember 2017, 23:21 Paris time (GMT+00:0
+ 0)\nFTI loaded: ✓.
+DTSTAMP:20171207T014622Z
 DTSTART:20171208T080000Z
 DTEND:20171208T081500Z
 TRANSP:TRANSPARENT
@@ -307,6 +236,72 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Development Co-operation 
  Peer Reviews: Finland 2017 (en) on 8 Dec
  ember 2017, 9:00 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/a29cdbbe-en
+SUMMARY:Boosting productivity in Switzerland (en
+ ) on 12 December 2017, 1:00 Paris time (
+ GMT+01:00)
+DESCRIPTION:Boosting productivity in Switzerland (en
+ )  by Economics Department has an embarg
+ o date/time of 12 December 2017, 1:00 Pa
+ ris time (GMT+01:00).\n\nDirectorate: Ec
+ onomics Department\nLanguage: English\nD
+ OI: https://doi.org/10.1787/a29cdbbe-en\
+ nPublication type: Working paper\nReleas
+ ed as: PDF.\n\niLibrary export: 6 Decemb
+ er 2017, 22:45 Paris time (GMT+00:00)\nF
+ reepreview export: 7 December 2017, 0:05
+  Paris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171207T014622Z
+DTSTART:20171212T000000Z
+DTEND:20171212T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Boosting productivity in Switz
+ erland (en) on 12 December 2017, 1:00 Pa
+ ris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/5f8594f0-en
+SUMMARY:The distribution of taxable income and f
+ iscal benefits in Spain (en) on 12 Decem
+ ber 2017, 1:00 Paris time (GMT+01:00)
+DESCRIPTION:The distribution of taxable income and f
+ iscal benefits in Spain (en)  - New evid
+ ence from personal income tax returns (2
+ 002-2011) (en) by Economics Department h
+ as an embargo date/time of 12 December 2
+ 017, 1:00 Paris time (GMT+01:00).\n\nDir
+ ectorate: Economics Department\nLanguage
+ : English\nDOI: https://doi.org/10.1787/
+ 5f8594f0-en\nPublication type: Working p
+ aper\nReleased as: PDF.\n\niLibrary expo
+ rt: 6 December 2017, 22:45 Paris time (G
+ MT+00:00)\nFreepreview export: 7 Decembe
+ r 2017, 0:05 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20171207T014622Z
+DTSTART:20171212T000000Z
+DTEND:20171212T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: The distribution of taxable in
+ come and fiscal benefits in Spain (en) o
+ n 12 December 2017, 1:00 Paris time (GMT
+ +01:00)
 END:VALARM
 END:VEVENT
 
@@ -328,7 +323,7 @@ DESCRIPTION:Getting Skills Right: Italy (en)  by Dir
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 27 November 2017, 22:32 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171206T005057Z
+DTSTAMP:20171207T014622Z
 DTSTART:20171215T140000Z
 DTEND:20171215T141500Z
 TRANSP:TRANSPARENT
@@ -359,7 +354,7 @@ DESCRIPTION:OECD Economic Surveys: Norway 2018 (en)
  .\n\niLibrary export: 22 November 2017, 
  21:50 Paris time (GMT+00:00)\nFreeprevie
  w export: never\nFTI loaded: no.
-DTSTAMP:20171206T005057Z
+DTSTAMP:20171207T014622Z
 DTSTART:20171219T100000Z
 DTEND:20171219T101500Z
 TRANSP:TRANSPARENT
@@ -386,11 +381,11 @@ DESCRIPTION:Examens environnementaux de l'OCDE: Cana
  Directorate: Environment Directorate\nLa
  nguage: French\nDOI: https://doi.org/10.
  1787/9789264283244-fr\nPublication type:
-  Book\nReleased as: PDF, Paperback.\n\ni
- Library export: 4 December 2017, 21:22 P
- aris time (GMT+00:00)\nFreepreview expor
- t: never\nFTI loaded: no.
-DTSTAMP:20171206T005057Z
+  Book\nReleased as: PDF, Paperback, ePub
+ .\n\niLibrary export: 4 December 2017, 2
+ 1:22 Paris time (GMT+00:00)\nFreepreview
+  export: never\nFTI loaded: ✓.
+DTSTAMP:20171207T014622Z
 DTSTART:20171219T130000Z
 DTEND:20171219T131500Z
 TRANSP:TRANSPARENT
@@ -417,12 +412,12 @@ DESCRIPTION:OECD Environmental Performance Reviews:
  \n\nDirectorate: Environment Directorate
  \nLanguage: English\nDOI: https://doi.or
  g/10.1787/9789264279612-en\nPublication 
- type: Book\nReleased as: PDF, Paperback.
- \n\niLibrary export: 4 December 2017, 21
- :22 Paris time (GMT+00:00)\nFreepreview 
- export: 4 December 2017, 22:22 Paris tim
- e (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171206T005057Z
+ type: Book\nReleased as: ePub, PDF, Pape
+ rback.\n\niLibrary export: 4 December 20
+ 17, 21:22 Paris time (GMT+00:00)\nFreepr
+ eview export: 4 December 2017, 22:22 Par
+ is time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171207T014622Z
 DTSTART:20171219T130000Z
 DTEND:20171219T131500Z
 TRANSP:TRANSPARENT
@@ -454,7 +449,7 @@ DESCRIPTION:Estudios de Evaluación de Competencia de
  eased as: PDF, Paperback.\n\niLibrary ex
  port: never\nFreepreview export: never\n
  FTI loaded: no.
-DTSTAMP:20171206T005057Z
+DTSTAMP:20171207T014622Z
 DTSTART:20180109T090000Z
 DTEND:20180109T091500Z
 TRANSP:TRANSPARENT
@@ -486,7 +481,7 @@ DESCRIPTION:OECD Competition Assessment Reviews: Mex
  erback, PDF.\n\niLibrary export: never\n
  Freepreview export: never\nFTI loaded: n
  o.
-DTSTAMP:20171206T005057Z
+DTSTAMP:20171207T014622Z
 DTSTART:20180109T090000Z
 DTEND:20180109T091500Z
 TRANSP:TRANSPARENT

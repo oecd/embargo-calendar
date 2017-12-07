@@ -1,111 +1,6 @@
-# OECD publication embargoes (12 embargoes)
+# OECD publication embargoes (9 embargoes)
 
-*Data generated on Wednesday 6 December 2017 at 0:50*
-
-------
-
-## [Getting Skills Right: Good Practice in Adapting to Changing Skill Needs (en) - A Perspective on France, Italy, Spain, South Africa and the United Kingdom (en)](https://doi.org/10.1787/9789264277892-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 6 December 2017 at 10:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 13 November 2017 at 23:27
-- [x] Exported to Keepeek Tuesday 14 November 2017 at 0:27
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Monitoring Health System Performance in Peru (en) - Data and Statistics (en)](https://doi.org/10.1787/9789264282988-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 6 December 2017 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 29 November 2017 at 22:38
-- [x] Exported to Keepeek Wednesday 29 November 2017 at 23:35
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [OECD Reviews of Health Systems: Peru 2017 (en)](https://doi.org/10.1787/9789264282735-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 6 December 2017 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 29 November 2017 at 22:38
-- [x] Exported to Keepeek Wednesday 29 November 2017 at 23:35
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Confronting the zombies  (en) - Policies for productivity revival (en)](https://doi.org/10.1787/f14fd801-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 6 December 2017 at 12:30 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 December 2017 at 23:13
-- [x] Exported to Keepeek Wednesday 6 December 2017 at 0:21
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Educational Opportunity for All (en) - Overcoming Inequality throughout the Life Course (en)](https://doi.org/10.1787/9789264287457-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 6 December 2017 at 14:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 December 2017 at 22:22
-- [x] Exported to Keepeek Saturday 2 December 2017 at 0:10
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Thursday 7 December 2017 at 1:46*
 
 ------
 
@@ -117,8 +12,8 @@ Friday 8 December 2017 at 9:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 December 2017 at 22:22
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 5 December 2017 at 23:13
+- [x] Exported to Keepeek Wednesday 6 December 2017 at 0:21
 
 ### Additional Information
 
@@ -126,6 +21,48 @@ Friday 8 December 2017 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Boosting productivity in Switzerland (en)](https://doi.org/10.1787/a29cdbbe-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 12 December 2017 at 1:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 6 December 2017 at 23:45
+- [x] Exported to Keepeek Thursday 7 December 2017 at 1:05
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [The distribution of taxable income and fiscal benefits in Spain (en) - New evidence from personal income tax returns (2002-2011) (en)](https://doi.org/10.1787/5f8594f0-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 12 December 2017 at 1:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 6 December 2017 at 23:45
+- [x] Exported to Keepeek Thursday 7 December 2017 at 1:05
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
@@ -179,7 +116,7 @@ Embargo date | Launch date
 Tuesday 19 December 2017 at 14:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 4 December 2017 at 22:22
 - [ ] Exported to Keepeek
 
@@ -187,7 +124,7 @@ Tuesday 19 December 2017 at 14:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
