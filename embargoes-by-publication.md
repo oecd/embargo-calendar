@@ -1,6 +1,6 @@
-# OECD publication embargoes (9 embargoes)
+# OECD publication embargoes (11 embargoes)
 
-*Data generated on Thursday 7 December 2017 at 1:46*
+*Data generated on Friday 8 December 2017 at 1:00*
 
 ------
 
@@ -46,6 +46,27 @@ Tuesday 12 December 2017 at 1:00 | no launch event
 
 ------
 
+## [Ensuring a dynamic skills-training and life-long learning system in Switzerland (en)](https://doi.org/10.1787/438423d9-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 12 December 2017 at 1:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 December 2017 at 23:23
+- [x] Exported to Keepeek Friday 8 December 2017 at 0:35
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
 ## [The distribution of taxable income and fiscal benefits in Spain (en) - New evidence from personal income tax returns (2002-2011) (en)](https://doi.org/10.1787/5f8594f0-en)
 
 Embargo date | Launch date
@@ -56,6 +77,27 @@ Tuesday 12 December 2017 at 1:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 6 December 2017 at 23:45
 - [x] Exported to Keepeek Thursday 7 December 2017 at 1:05
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [The middle income plateau (en) - Trap or springboard? (en)](https://doi.org/10.1787/9cba114b-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 12 December 2017 at 1:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 December 2017 at 23:23
+- [x] Exported to Keepeek Friday 8 December 2017 at 0:35
 
 ### Additional Information
 
@@ -117,8 +159,8 @@ Tuesday 19 December 2017 at 14:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 December 2017 at 22:22
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 6 December 2017 at 23:45
+- [x] Exported to Keepeek Thursday 7 December 2017 at 1:05
 
 ### Additional Information
 
@@ -167,12 +209,12 @@ Tuesday 9 January 2018 at 10:00 | no launch event
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *Spanish*
 * Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------
 
-## [OECD Competition Assessment Reviews: Mexico (en)](https://doi.org/10.1787/g2g86ac4-en)
+## [OECD Competition Assessment Reviews: Mexico (en)](https://doi.org/10.1787/9789264288218-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -188,5 +230,5 @@ Tuesday 9 January 2018 at 10:00 | no launch event
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Book*
 * Medium: *PDF*

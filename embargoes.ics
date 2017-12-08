@@ -4,39 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/pension_glance-2017-en
-SUMMARY:Pensions at a Glance 2017 (en) on 5 Dece
- mber 2017, 11:00 Paris time (GMT+01:00)
-DESCRIPTION:Pensions at a Glance 2017 (en)  - OECD a
- nd G20 Indicators (en) by Directorate fo
- r Employment, Labour and Social Affairs 
- has an embargo date/time of 5 December 2
- 017, 11:00 Paris time (GMT+01:00).\n\nDi
- rectorate: Directorate for Employment, L
- abour and Social Affairs\nLanguage: Engl
- ish\nDOI: https://doi.org/10.1787/pensio
- n_glance-2017-en\nPublication type: Book
- \nReleased as: Paperback, ePub, PDF.\n\n
- iLibrary export: 5 December 2017, 22:13 
- Paris time (GMT+00:00)\nFreepreview expo
- rt: 5 December 2017, 23:21 Paris time (G
- MT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171207T014622Z
-DTSTART:20171205T100000Z
-DTEND:20171205T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Pensions at a Glance 2017 (en)
-  on 5 December 2017, 11:00 Paris time (G
- MT+01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264277892-en
 SUMMARY:Getting Skills Right: Good Practice in A
  dapting to Changing Skill Needs (en) on 
@@ -53,12 +20,12 @@ DESCRIPTION:Getting Skills Right: Good Practice in A
  for Employment, Labour and Social Affair
  s\nLanguage: English\nDOI: https://doi.o
  rg/10.1787/9789264277892-en\nPublication
-  type: Book\nReleased as: PDF, Paperback
+  type: Book\nReleased as: Paperback, PDF
  .\n\niLibrary export: 13 November 2017, 
  22:27 Paris time (GMT+00:00)\nFreeprevie
  w export: 13 November 2017, 23:27 Paris 
  time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171207T014622Z
+DTSTAMP:20171208T010051Z
 DTSTART:20171206T090000Z
 DTEND:20171206T091500Z
 TRANSP:TRANSPARENT
@@ -93,7 +60,7 @@ DESCRIPTION:Monitoring Health System Performance in
  :38 Paris time (GMT+00:00)\nFreepreview 
  export: 29 November 2017, 22:35 Paris ti
  me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171207T014622Z
+DTSTAMP:20171208T010051Z
 DTSTART:20171206T100000Z
 DTEND:20171206T101500Z
 TRANSP:TRANSPARENT
@@ -126,7 +93,7 @@ DESCRIPTION:OECD Reviews of Health Systems: Peru 201
  r 2017, 21:38 Paris time (GMT+00:00)\nFr
  eepreview export: 29 November 2017, 22:3
  5 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171207T014622Z
+DTSTAMP:20171208T010051Z
 DTSTART:20171206T100000Z
 DTEND:20171206T101500Z
 TRANSP:TRANSPARENT
@@ -157,7 +124,7 @@ DESCRIPTION:Confronting the zombies  (en)  - Policie
  :13 Paris time (GMT+00:00)\nFreepreview 
  export: 5 December 2017, 23:21 Paris tim
  e (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171207T014622Z
+DTSTAMP:20171208T010051Z
 DTSTART:20171206T113000Z
 DTEND:20171206T114500Z
 TRANSP:TRANSPARENT
@@ -186,12 +153,12 @@ DESCRIPTION:Educational Opportunity for All (en)  -
   Education and Skills\nLanguage: English
  \nDOI: https://doi.org/10.1787/978926428
  7457-en\nPublication type: Book\nRelease
- d as: Paperback, ePub, PDF.\n\niLibrary 
+ d as: ePub, PDF, Paperback.\n\niLibrary 
  export: 4 December 2017, 21:22 Paris tim
  e (GMT+00:00)\nFreepreview export: 1 Dec
  ember 2017, 23:10 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20171207T014622Z
+DTSTAMP:20171208T010051Z
 DTSTART:20171206T130000Z
 DTEND:20171206T131500Z
 TRANSP:TRANSPARENT
@@ -219,12 +186,12 @@ DESCRIPTION:OECD Development Co-operation Peer Revie
  ment Co-operation Directorate\nLanguage:
   English\nDOI: https://doi.org/10.1787/9
  789264287235-en\nPublication type: Book\
- nReleased as: PDF, Paperback.\n\niLibrar
+ nReleased as: Paperback, PDF.\n\niLibrar
  y export: 5 December 2017, 22:13 Paris t
  ime (GMT+00:00)\nFreepreview export: 5 D
  ecember 2017, 23:21 Paris time (GMT+00:0
  0)\nFTI loaded: ✓.
-DTSTAMP:20171207T014622Z
+DTSTAMP:20171208T010051Z
 DTSTART:20171208T080000Z
 DTEND:20171208T081500Z
 TRANSP:TRANSPARENT
@@ -255,7 +222,7 @@ DESCRIPTION:Boosting productivity in Switzerland (en
  er 2017, 22:45 Paris time (GMT+00:00)\nF
  reepreview export: 7 December 2017, 0:05
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171207T014622Z
+DTSTAMP:20171208T010051Z
 DTSTART:20171212T000000Z
 DTEND:20171212T001500Z
 TRANSP:TRANSPARENT
@@ -267,6 +234,41 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Boosting productivity in Switz
  erland (en) on 12 December 2017, 1:00 Pa
  ris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/438423d9-en
+SUMMARY:Ensuring a dynamic skills-training and l
+ ife-long learning system in Switzerland 
+ (en) on 12 December 2017, 1:00 Paris tim
+ e (GMT+01:00)
+DESCRIPTION:Ensuring a dynamic skills-training and l
+ ife-long learning system in Switzerland 
+ (en)  by Economics Department has an emb
+ argo date/time of 12 December 2017, 1:00
+  Paris time (GMT+01:00).\n\nDirectorate:
+  Economics Department\nLanguage: English
+ \nDOI: https://doi.org/10.1787/438423d9-
+ en\nPublication type: Working paper\nRel
+ eased as: PDF.\n\niLibrary export: 7 Dec
+ ember 2017, 22:23 Paris time (GMT+00:00)
+ \nFreepreview export: 7 December 2017, 2
+ 3:35 Paris time (GMT+00:00)\nFTI loaded:
+  ✓.
+DTSTAMP:20171208T010051Z
+DTSTART:20171212T000000Z
+DTEND:20171212T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Ensuring a dynamic skills-trai
+ ning and life-long learning system in Sw
+ itzerland (en) on 12 December 2017, 1:00
+  Paris time (GMT+01:00)
 END:VALARM
 END:VEVENT
 
@@ -289,7 +291,7 @@ DESCRIPTION:The distribution of taxable income and f
  MT+00:00)\nFreepreview export: 7 Decembe
  r 2017, 0:05 Paris time (GMT+00:00)\nFTI
   loaded: ✓.
-DTSTAMP:20171207T014622Z
+DTSTAMP:20171208T010051Z
 DTSTART:20171212T000000Z
 DTEND:20171212T001500Z
 TRANSP:TRANSPARENT
@@ -302,6 +304,37 @@ DESCRIPTION:Reminder: The distribution of taxable in
  come and fiscal benefits in Spain (en) o
  n 12 December 2017, 1:00 Paris time (GMT
  +01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9cba114b-en
+SUMMARY:The middle income plateau (en) on 12 Dec
+ ember 2017, 1:00 Paris time (GMT+01:00)
+DESCRIPTION:The middle income plateau (en)  - Trap o
+ r springboard? (en) by Economics Departm
+ ent has an embargo date/time of 12 Decem
+ ber 2017, 1:00 Paris time (GMT+01:00).\n
+ \nDirectorate: Economics Department\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/9cba114b-en\nPublication type: Work
+ ing paper\nReleased as: PDF.\n\niLibrary
+  export: 7 December 2017, 22:23 Paris ti
+ me (GMT+00:00)\nFreepreview export: 7 De
+ cember 2017, 23:35 Paris time (GMT+00:00
+ )\nFTI loaded: ✓.
+DTSTAMP:20171208T010051Z
+DTSTART:20171212T000000Z
+DTEND:20171212T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: The middle income plateau (en)
+  on 12 December 2017, 1:00 Paris time (G
+ MT+01:00)
 END:VALARM
 END:VEVENT
 
@@ -323,7 +356,7 @@ DESCRIPTION:Getting Skills Right: Italy (en)  by Dir
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 27 November 2017, 22:32 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171207T014622Z
+DTSTAMP:20171208T010051Z
 DTSTART:20171215T140000Z
 DTEND:20171215T141500Z
 TRANSP:TRANSPARENT
@@ -354,7 +387,7 @@ DESCRIPTION:OECD Economic Surveys: Norway 2018 (en)
  .\n\niLibrary export: 22 November 2017, 
  21:50 Paris time (GMT+00:00)\nFreeprevie
  w export: never\nFTI loaded: no.
-DTSTAMP:20171207T014622Z
+DTSTAMP:20171208T010051Z
 DTSTART:20171219T100000Z
 DTEND:20171219T101500Z
 TRANSP:TRANSPARENT
@@ -381,11 +414,12 @@ DESCRIPTION:Examens environnementaux de l'OCDE: Cana
  Directorate: Environment Directorate\nLa
  nguage: French\nDOI: https://doi.org/10.
  1787/9789264283244-fr\nPublication type:
-  Book\nReleased as: PDF, Paperback, ePub
- .\n\niLibrary export: 4 December 2017, 2
- 1:22 Paris time (GMT+00:00)\nFreepreview
-  export: never\nFTI loaded: ✓.
-DTSTAMP:20171207T014622Z
+  Book\nReleased as: Paperback, ePub, PDF
+ .\n\niLibrary export: 6 December 2017, 2
+ 2:45 Paris time (GMT+00:00)\nFreepreview
+  export: 7 December 2017, 0:05 Paris tim
+ e (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171208T010051Z
 DTSTART:20171219T130000Z
 DTEND:20171219T131500Z
 TRANSP:TRANSPARENT
@@ -417,7 +451,7 @@ DESCRIPTION:OECD Environmental Performance Reviews:
  17, 21:22 Paris time (GMT+00:00)\nFreepr
  eview export: 4 December 2017, 22:22 Par
  is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171207T014622Z
+DTSTAMP:20171208T010051Z
 DTSTART:20171219T130000Z
 DTEND:20171219T131500Z
 TRANSP:TRANSPARENT
@@ -445,11 +479,10 @@ DESCRIPTION:Estudios de Evaluación de Competencia de
  ate: Directorate for Financial and Enter
  prise Affairs\nLanguage: Spanish\nDOI: h
  ttps://doi.org/10.1787/g2g87604-es\nPubl
- ication type: Stand-alone monograph\nRel
- eased as: PDF, Paperback.\n\niLibrary ex
- port: never\nFreepreview export: never\n
- FTI loaded: no.
-DTSTAMP:20171207T014622Z
+ ication type: Book\nReleased as: Paperba
+ ck, PDF.\n\niLibrary export: never\nFree
+ preview export: never\nFTI loaded: no.
+DTSTAMP:20171208T010051Z
 DTSTART:20180109T090000Z
 DTEND:20180109T091500Z
 TRANSP:TRANSPARENT
@@ -465,7 +498,7 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:10.1787/g2g86ac4-en
+UID:10.1787/9789264288218-en
 SUMMARY:OECD Competition Assessment Reviews: Mex
  ico (en) on 9 January 2018, 10:00 Paris 
  time (GMT+01:00)
@@ -476,12 +509,11 @@ DESCRIPTION:OECD Competition Assessment Reviews: Mex
  me (GMT+01:00).\n\nDirectorate: Director
  ate for Financial and Enterprise Affairs
  \nLanguage: English\nDOI: https://doi.or
- g/10.1787/g2g86ac4-en\nPublication type:
-  Stand-alone monograph\nReleased as: Pap
- erback, PDF.\n\niLibrary export: never\n
- Freepreview export: never\nFTI loaded: n
- o.
-DTSTAMP:20171207T014622Z
+ g/10.1787/9789264288218-en\nPublication 
+ type: Book\nReleased as: Paperback, PDF.
+ \n\niLibrary export: never\nFreepreview 
+ export: never\nFTI loaded: no.
+DTSTAMP:20171208T010051Z
 DTSTART:20180109T090000Z
 DTEND:20180109T091500Z
 TRANSP:TRANSPARENT
