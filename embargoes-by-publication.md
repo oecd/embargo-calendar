@@ -1,27 +1,6 @@
-# OECD publication embargoes (11 embargoes)
+# OECD publication embargoes (10 embargoes)
 
-*Data generated on Friday 8 December 2017 at 1:00*
-
-------
-
-## [OECD Development Co-operation Peer Reviews: Finland 2017 (en)](https://doi.org/10.1787/9789264287235-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 8 December 2017 at 9:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 December 2017 at 23:13
-- [x] Exported to Keepeek Wednesday 6 December 2017 at 0:21
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Saturday 9 December 2017 at 1:35*
 
 ------
 
@@ -193,7 +172,7 @@ Tuesday 19 December 2017 at 14:00 | no launch event
 
 ------
 
-## [Estudios de Evaluación de Competencia de la OCDE: México (es)](https://doi.org/10.1787/g2g87604-es)
+## [Estudios de Evaluación de Competencia de la OCDE: México (es)](https://doi.org/10.1787/9789264287921-es)
 
 Embargo date | Launch date
 -------------|------------
@@ -208,7 +187,7 @@ Tuesday 9 January 2018 at 10:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -229,6 +208,6 @@ Tuesday 9 January 2018 at 10:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Medium: *PDF*
