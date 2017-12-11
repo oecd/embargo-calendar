@@ -1,6 +1,6 @@
-# OECD publication embargoes (10 embargoes)
+# OECD publication embargoes (12 embargoes)
 
-*Data generated on Saturday 9 December 2017 at 1:35*
+*Data generated on Monday 11 December 2017 at 23:54*
 
 ------
 
@@ -75,14 +75,56 @@ Tuesday 12 December 2017 at 1:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 December 2017 at 23:23
-- [x] Exported to Keepeek Friday 8 December 2017 at 0:35
+- [x] Exported to iLibrary Monday 11 December 2017 at 22:34
+- [x] Exported to Keepeek Monday 11 December 2017 at 23:22
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Export and productivity in global value chains (en) -  Comparative evidence from Latvia and Estonia (en)](https://doi.org/10.1787/cd5710c4-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 15 December 2017 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [The effects of the tax mix on inequality and growth (en)](https://doi.org/10.1787/c57eaa14-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 15 December 2017 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Working paper*
 * Medium: *PDF*
 
@@ -172,7 +214,7 @@ Tuesday 19 December 2017 at 14:00 | no launch event
 
 ------
 
-## [Estudios de Evaluación de Competencia de la OCDE: México (es)](https://doi.org/10.1787/9789264287921-es)
+## [Estudios de evaluación de la competencia en la OCDE: México (es)](https://doi.org/10.1787/9789264287921-es)
 
 Embargo date | Launch date
 -------------|------------
@@ -180,7 +222,7 @@ Tuesday 9 January 2018 at 10:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 8 December 2017 at 23:41
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -201,7 +243,7 @@ Tuesday 9 January 2018 at 10:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 8 December 2017 at 23:41
 - [ ] Exported to Keepeek
 
 ### Additional Information
