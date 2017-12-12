@@ -19,7 +19,7 @@ DESCRIPTION:Boosting productivity in Switzerland (en
  er 2017, 22:45 Paris time (GMT+00:00)\nF
  reepreview export: 7 December 2017, 0:05
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171211T235436Z
+DTSTAMP:20171212T233019Z
 DTSTART:20171212T000000Z
 DTEND:20171212T001500Z
 TRANSP:TRANSPARENT
@@ -53,7 +53,7 @@ DESCRIPTION:Ensuring a dynamic skills-training and l
  \nFreepreview export: 7 December 2017, 2
  3:35 Paris time (GMT+00:00)\nFTI loaded:
   ✓.
-DTSTAMP:20171211T235436Z
+DTSTAMP:20171212T233019Z
 DTSTART:20171212T000000Z
 DTEND:20171212T001500Z
 TRANSP:TRANSPARENT
@@ -84,11 +84,11 @@ DESCRIPTION:The distribution of taxable income and f
  : English\nDOI: https://doi.org/10.1787/
  5f8594f0-en\nPublication type: Working p
  aper\nReleased as: PDF.\n\niLibrary expo
- rt: 6 December 2017, 22:45 Paris time (G
- MT+00:00)\nFreepreview export: 7 Decembe
- r 2017, 0:05 Paris time (GMT+00:00)\nFTI
-  loaded: ✓.
-DTSTAMP:20171211T235436Z
+ rt: 12 December 2017, 21:17 Paris time (
+ GMT+00:00)\nFreepreview export: 12 Decem
+ ber 2017, 22:01 Paris time (GMT+00:00)\n
+ FTI loaded: ✓.
+DTSTAMP:20171212T233019Z
 DTSTART:20171212T000000Z
 DTEND:20171212T001500Z
 TRANSP:TRANSPARENT
@@ -120,7 +120,7 @@ DESCRIPTION:The middle income plateau (en)  - Trap o
  ime (GMT+00:00)\nFreepreview export: 11 
  December 2017, 22:22 Paris time (GMT+00:
  00)\nFTI loaded: ✓.
-DTSTAMP:20171211T235436Z
+DTSTAMP:20171212T233019Z
 DTSTART:20171212T000000Z
 DTEND:20171212T001500Z
 TRANSP:TRANSPARENT
@@ -132,6 +132,72 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: The middle income plateau (en)
   on 12 December 2017, 1:00 Paris time (G
  MT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/a840ffba-en
+SUMMARY: Deepening regional integration within t
+ he Southern African development communit
+ y (en) on 15 December 2017, 2:00 Paris t
+ ime (GMT+01:00)
+DESCRIPTION: Deepening regional integration within t
+ he Southern African development communit
+ y (en)  by Economics Department has an e
+ mbargo date/time of 15 December 2017, 2:
+ 00 Paris time (GMT+01:00).\n\nDirectorat
+ e: Economics Department\nLanguage: Engli
+ sh\nDOI: https://doi.org/10.1787/a840ffb
+ a-en\nPublication type: Working paper\nR
+ eleased as: PDF.\n\niLibrary export: nev
+ er\nFreepreview export: never\nFTI loade
+ d: ✓.
+DTSTAMP:20171212T233019Z
+DTSTART:20171215T010000Z
+DTEND:20171215T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder:  Deepening regional integratio
+ n within the Southern African developmen
+ t community (en) on 15 December 2017, 2:
+ 00 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/d60e254f-en
+SUMMARY: Lowering barriers to entrepreneurship a
+ nd promoting small business growth in So
+ uth Africa (en) on 15 December 2017, 2:0
+ 0 Paris time (GMT+01:00)
+DESCRIPTION: Lowering barriers to entrepreneurship a
+ nd promoting small business growth in So
+ uth Africa (en)  by Economics Department
+  has an embargo date/time of 15 December
+  2017, 2:00 Paris time (GMT+01:00).\n\nD
+ irectorate: Economics Department\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/d60e254f-en\nPublication type: Working
+  paper\nReleased as: PDF.\n\niLibrary ex
+ port: never\nFreepreview export: never\n
+ FTI loaded: ✓.
+DTSTAMP:20171212T233019Z
+DTSTART:20171215T010000Z
+DTEND:20171215T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder:  Lowering barriers to entrepre
+ neurship and promoting small business gr
+ owth in South Africa (en) on 15 December
+  2017, 2:00 Paris time (GMT+01:00)
 END:VALARM
 END:VEVENT
 
@@ -151,7 +217,7 @@ DESCRIPTION:Export and productivity in global value
  : Working paper\nReleased as: PDF.\n\niL
  ibrary export: never\nFreepreview export
  : never\nFTI loaded: ✓.
-DTSTAMP:20171211T235436Z
+DTSTAMP:20171212T233019Z
 DTSTART:20171215T010000Z
 DTEND:20171215T011500Z
 TRANSP:TRANSPARENT
@@ -163,6 +229,71 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Export and productivity in glo
  bal value chains (en) on 15 December 201
  7, 2:00 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/93cc318a-en
+SUMMARY:Making the business environment more sup
+ portive of productivity in Belgium (en) 
+ on 15 December 2017, 2:00 Paris time (GM
+ T+01:00)
+DESCRIPTION:Making the business environment more sup
+ portive of productivity in Belgium (en) 
+  by Economics Department has an embargo 
+ date/time of 15 December 2017, 2:00 Pari
+ s time (GMT+01:00).\n\nDirectorate: Econ
+ omics Department\nLanguage: English\nDOI
+ : https://doi.org/10.1787/93cc318a-en\nP
+ ublication type: Working paper\nReleased
+  as: PDF.\n\niLibrary export: never\nFre
+ epreview export: never\nFTI loaded: ✓.
+DTSTAMP:20171212T233019Z
+DTSTART:20171215T010000Z
+DTEND:20171215T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making the business environmen
+ t more supportive of productivity in Bel
+ gium (en) on 15 December 2017, 2:00 Pari
+ s time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/651613cb-en
+SUMMARY:Raising and mobilising skills to boost p
+ roductivity and inclusiveness in Belgium
+  (en) on 15 December 2017, 2:00 Paris ti
+ me (GMT+01:00)
+DESCRIPTION:Raising and mobilising skills to boost p
+ roductivity and inclusiveness in Belgium
+  (en)  by Economics Department has an em
+ bargo date/time of 15 December 2017, 2:0
+ 0 Paris time (GMT+01:00).\n\nDirectorate
+ : Economics Department\nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/651613cb
+ -en\nPublication type: Working paper\nRe
+ leased as: PDF.\n\niLibrary export: neve
+ r\nFreepreview export: never\nFTI loaded
+ : ✓.
+DTSTAMP:20171212T233019Z
+DTSTART:20171215T010000Z
+DTEND:20171215T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Raising and mobilising skills 
+ to boost productivity and inclusiveness 
+ in Belgium (en) on 15 December 2017, 2:0
+ 0 Paris time (GMT+01:00)
 END:VALARM
 END:VEVENT
 
@@ -181,7 +312,7 @@ DESCRIPTION:The effects of the tax mix on inequality
  g paper\nReleased as: PDF.\n\niLibrary e
  xport: never\nFreepreview export: never\
  nFTI loaded: ✓.
-DTSTAMP:20171211T235436Z
+DTSTAMP:20171212T233019Z
 DTSTART:20171215T010000Z
 DTEND:20171215T011500Z
 TRANSP:TRANSPARENT
@@ -214,7 +345,7 @@ DESCRIPTION:Getting Skills Right: Italy (en)  by Dir
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 27 November 2017, 22:32 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171211T235436Z
+DTSTAMP:20171212T233019Z
 DTSTART:20171215T140000Z
 DTEND:20171215T141500Z
 TRANSP:TRANSPARENT
@@ -245,7 +376,7 @@ DESCRIPTION:OECD Economic Surveys: Norway 2018 (en)
  .\n\niLibrary export: 22 November 2017, 
  21:50 Paris time (GMT+00:00)\nFreeprevie
  w export: never\nFTI loaded: no.
-DTSTAMP:20171211T235436Z
+DTSTAMP:20171212T233019Z
 DTSTART:20171219T100000Z
 DTEND:20171219T101500Z
 TRANSP:TRANSPARENT
@@ -272,12 +403,12 @@ DESCRIPTION:Examens environnementaux de l'OCDE: Cana
  Directorate: Environment Directorate\nLa
  nguage: French\nDOI: https://doi.org/10.
  1787/9789264283244-fr\nPublication type:
-  Book\nReleased as: Paperback, ePub, PDF
+  Book\nReleased as: PDF, Paperback, ePub
  .\n\niLibrary export: 6 December 2017, 2
  2:45 Paris time (GMT+00:00)\nFreepreview
   export: 7 December 2017, 0:05 Paris tim
  e (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171211T235436Z
+DTSTAMP:20171212T233019Z
 DTSTART:20171219T130000Z
 DTEND:20171219T131500Z
 TRANSP:TRANSPARENT
@@ -304,12 +435,12 @@ DESCRIPTION:OECD Environmental Performance Reviews:
  \n\nDirectorate: Environment Directorate
  \nLanguage: English\nDOI: https://doi.or
  g/10.1787/9789264279612-en\nPublication 
- type: Book\nReleased as: ePub, PDF, Pape
- rback.\n\niLibrary export: 4 December 20
+ type: Book\nReleased as: PDF, Paperback,
+  ePub.\n\niLibrary export: 4 December 20
  17, 21:22 Paris time (GMT+00:00)\nFreepr
  eview export: 4 December 2017, 22:22 Par
  is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171211T235436Z
+DTSTAMP:20171212T233019Z
 DTSTART:20171219T130000Z
 DTEND:20171219T131500Z
 TRANSP:TRANSPARENT
@@ -338,11 +469,11 @@ DESCRIPTION:Estudios de evaluación de la competencia
  terprise Affairs\nLanguage: Spanish\nDOI
  : https://doi.org/10.1787/9789264287921-
  es\nPublication type: Book\nReleased as:
-  PDF, Paperback.\n\niLibrary export: 8 D
- ecember 2017, 22:41 Paris time (GMT+00:0
- 0)\nFreepreview export: never\nFTI loade
- d: no.
-DTSTAMP:20171211T235436Z
+  Paperback, PDF.\n\niLibrary export: 11 
+ December 2017, 21:34 Paris time (GMT+00:
+ 00)\nFreepreview export: never\nFTI load
+ ed: no.
+DTSTAMP:20171212T233019Z
 DTSTART:20180109T090000Z
 DTEND:20180109T091500Z
 TRANSP:TRANSPARENT
@@ -375,7 +506,7 @@ DESCRIPTION:OECD Competition Assessment Reviews: Mex
  \n\niLibrary export: 8 December 2017, 22
  :41 Paris time (GMT+00:00)\nFreepreview 
  export: never\nFTI loaded: no.
-DTSTAMP:20171211T235436Z
+DTSTAMP:20171212T233019Z
 DTSTART:20180109T090000Z
 DTEND:20180109T091500Z
 TRANSP:TRANSPARENT

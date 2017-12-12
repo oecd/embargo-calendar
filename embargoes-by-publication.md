@@ -1,94 +1,94 @@
 # OECD publication embargoes (12 embargoes)
 
-*Data generated on Monday 11 December 2017 at 23:54*
+*Data generated on Tuesday 12 December 2017 at 23:30*
 
 ------
 
-## [Boosting productivity in Switzerland (en)](https://doi.org/10.1787/a29cdbbe-en)
+## [ Deepening regional integration within the Southern African development community (en)](https://doi.org/10.1787/a840ffba-en)
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 12 December 2017 at 1:00 | no launch event
+Friday 15 December 2017 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 December 2017 at 23:45
-- [x] Exported to Keepeek Thursday 7 December 2017 at 1:05
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Published*
+* Availability: *Not yet available*
 * Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
 
-## [Ensuring a dynamic skills-training and life-long learning system in Switzerland (en)](https://doi.org/10.1787/438423d9-en)
+## [ Lowering barriers to entrepreneurship and promoting small business growth in South Africa (en)](https://doi.org/10.1787/d60e254f-en)
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 12 December 2017 at 1:00 | no launch event
+Friday 15 December 2017 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 December 2017 at 23:23
-- [x] Exported to Keepeek Friday 8 December 2017 at 0:35
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [The distribution of taxable income and fiscal benefits in Spain (en) - New evidence from personal income tax returns (2002-2011) (en)](https://doi.org/10.1787/5f8594f0-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 12 December 2017 at 1:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 December 2017 at 23:45
-- [x] Exported to Keepeek Thursday 7 December 2017 at 1:05
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [The middle income plateau (en) - Trap or springboard? (en)](https://doi.org/10.1787/9cba114b-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 12 December 2017 at 1:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 December 2017 at 22:34
-- [x] Exported to Keepeek Monday 11 December 2017 at 23:22
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
+* Availability: *Not yet available*
 * Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
 
 ## [Export and productivity in global value chains (en) -  Comparative evidence from Latvia and Estonia (en)](https://doi.org/10.1787/cd5710c4-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 15 December 2017 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Making the business environment more supportive of productivity in Belgium (en)](https://doi.org/10.1787/93cc318a-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 15 December 2017 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Raising and mobilising skills to boost productivity and inclusiveness in Belgium (en)](https://doi.org/10.1787/651613cb-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -222,7 +222,7 @@ Tuesday 9 January 2018 at 10:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 8 December 2017 at 23:41
+- [x] Exported to iLibrary Monday 11 December 2017 at 22:34
 - [ ] Exported to Keepeek
 
 ### Additional Information
