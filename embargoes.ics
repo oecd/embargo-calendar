@@ -19,7 +19,7 @@ DESCRIPTION:Boosting productivity in Switzerland (en
  er 2017, 22:45 Paris time (GMT+00:00)\nF
  reepreview export: 7 December 2017, 0:05
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171212T233019Z
+DTSTAMP:20171214T000650Z
 DTSTART:20171212T000000Z
 DTEND:20171212T001500Z
 TRANSP:TRANSPARENT
@@ -53,7 +53,7 @@ DESCRIPTION:Ensuring a dynamic skills-training and l
  \nFreepreview export: 7 December 2017, 2
  3:35 Paris time (GMT+00:00)\nFTI loaded:
   ✓.
-DTSTAMP:20171212T233019Z
+DTSTAMP:20171214T000650Z
 DTSTART:20171212T000000Z
 DTEND:20171212T001500Z
 TRANSP:TRANSPARENT
@@ -88,7 +88,7 @@ DESCRIPTION:The distribution of taxable income and f
  GMT+00:00)\nFreepreview export: 12 Decem
  ber 2017, 22:01 Paris time (GMT+00:00)\n
  FTI loaded: ✓.
-DTSTAMP:20171212T233019Z
+DTSTAMP:20171214T000650Z
 DTSTART:20171212T000000Z
 DTEND:20171212T001500Z
 TRANSP:TRANSPARENT
@@ -120,7 +120,7 @@ DESCRIPTION:The middle income plateau (en)  - Trap o
  ime (GMT+00:00)\nFreepreview export: 11 
  December 2017, 22:22 Paris time (GMT+00:
  00)\nFTI loaded: ✓.
-DTSTAMP:20171212T233019Z
+DTSTAMP:20171214T000650Z
 DTSTART:20171212T000000Z
 DTEND:20171212T001500Z
 TRANSP:TRANSPARENT
@@ -152,7 +152,7 @@ DESCRIPTION: Deepening regional integration within t
  eleased as: PDF.\n\niLibrary export: nev
  er\nFreepreview export: never\nFTI loade
  d: ✓.
-DTSTAMP:20171212T233019Z
+DTSTAMP:20171214T000650Z
 DTSTART:20171215T010000Z
 DTEND:20171215T011500Z
 TRANSP:TRANSPARENT
@@ -185,7 +185,7 @@ DESCRIPTION: Lowering barriers to entrepreneurship a
   paper\nReleased as: PDF.\n\niLibrary ex
  port: never\nFreepreview export: never\n
  FTI loaded: ✓.
-DTSTAMP:20171212T233019Z
+DTSTAMP:20171214T000650Z
 DTSTART:20171215T010000Z
 DTEND:20171215T011500Z
 TRANSP:TRANSPARENT
@@ -217,7 +217,7 @@ DESCRIPTION:Export and productivity in global value
  : Working paper\nReleased as: PDF.\n\niL
  ibrary export: never\nFreepreview export
  : never\nFTI loaded: ✓.
-DTSTAMP:20171212T233019Z
+DTSTAMP:20171214T000650Z
 DTSTART:20171215T010000Z
 DTEND:20171215T011500Z
 TRANSP:TRANSPARENT
@@ -248,7 +248,7 @@ DESCRIPTION:Making the business environment more sup
  ublication type: Working paper\nReleased
   as: PDF.\n\niLibrary export: never\nFre
  epreview export: never\nFTI loaded: ✓.
-DTSTAMP:20171212T233019Z
+DTSTAMP:20171214T000650Z
 DTSTART:20171215T010000Z
 DTEND:20171215T011500Z
 TRANSP:TRANSPARENT
@@ -281,7 +281,7 @@ DESCRIPTION:Raising and mobilising skills to boost p
  leased as: PDF.\n\niLibrary export: neve
  r\nFreepreview export: never\nFTI loaded
  : ✓.
-DTSTAMP:20171212T233019Z
+DTSTAMP:20171214T000650Z
 DTSTART:20171215T010000Z
 DTEND:20171215T011500Z
 TRANSP:TRANSPARENT
@@ -312,7 +312,7 @@ DESCRIPTION:The effects of the tax mix on inequality
  g paper\nReleased as: PDF.\n\niLibrary e
  xport: never\nFreepreview export: never\
  nFTI loaded: ✓.
-DTSTAMP:20171212T233019Z
+DTSTAMP:20171214T000650Z
 DTSTART:20171215T010000Z
 DTEND:20171215T011500Z
 TRANSP:TRANSPARENT
@@ -324,6 +324,336 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: The effects of the tax mix on 
  inequality and growth (en) on 15 Decembe
  r 2017, 2:00 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264285798-fr
+SUMMARY:Accroître l'efficacité des mécanismes de
+  règlement des différends – Rapport par 
+ les pairs de PA, France (Phase 1) (fr) o
+ n 15 December 2017, 11:00 Paris time (GM
+ T+01:00)
+DESCRIPTION:Accroître l'efficacité des mécanismes de
+  règlement des différends – Rapport par 
+ les pairs de PA, France (Phase 1) (fr)  
+ - Cadre inclusif sur le BEPS : Action 14
+  (fr) by Centre for Tax Policy and Admin
+ istration has an embargo date/time of 15
+  December 2017, 11:00 Paris time (GMT+01
+ :00).\n\nDirectorate: Centre for Tax Pol
+ icy and Administration\nLanguage: French
+ \nDOI: https://doi.org/10.1787/978926428
+ 5798-fr\nPublication type: Book\nRelease
+ d as: PDF, Paperback.\n\niLibrary export
+ : 11 December 2017, 21:34 Paris time (GM
+ T+00:00)\nFreepreview export: never\nFTI
+  loaded: ✓.
+DTSTAMP:20171214T000650Z
+DTSTART:20171215T100000Z
+DTEND:20171215T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Accroître l'efficacité des méc
+ anismes de règlement des différends – Ra
+ pport par les pairs de PA, France (Phase
+  1) (fr) on 15 December 2017, 11:00 Pari
+ s time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264285965-fr
+SUMMARY:Accroître l'efficacité des mécanismes de
+  règlement des différends – Rapport par 
+ les pairs de PA, Luxembourg (Phase 1) (f
+ r) on 15 December 2017, 11:00 Paris time
+  (GMT+01:00)
+DESCRIPTION:Accroître l'efficacité des mécanismes de
+  règlement des différends – Rapport par 
+ les pairs de PA, Luxembourg (Phase 1) (f
+ r)  - Cadre inclusif sur le BEPS : Actio
+ n 14 (fr) by Centre for Tax Policy and A
+ dministration has an embargo date/time o
+ f 15 December 2017, 11:00 Paris time (GM
+ T+01:00).\n\nDirectorate: Centre for Tax
+  Policy and Administration\nLanguage: Fr
+ ench\nDOI: https://doi.org/10.1787/97892
+ 64285965-fr\nPublication type: Book\nRel
+ eased as: Paperback, PDF.\n\niLibrary ex
+ port: 11 December 2017, 21:34 Paris time
+  (GMT+00:00)\nFreepreview export: never\
+ nFTI loaded: ✓.
+DTSTAMP:20171214T000650Z
+DTSTART:20171215T100000Z
+DTEND:20171215T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Accroître l'efficacité des méc
+ anismes de règlement des différends – Ra
+ pport par les pairs de PA, Luxembourg (P
+ hase 1) (fr) on 15 December 2017, 11:00 
+ Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264285750-en
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Austria (Stag
+ e 1) (en) on 15 December 2017, 11:00 Par
+ is time (GMT+01:00)
+DESCRIPTION:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Austria (Stag
+ e 1) (en)  - Inclusive Framework on BEPS
+ : Action 14 (en) by Centre for Tax Polic
+ y and Administration has an embargo date
+ /time of 15 December 2017, 11:00 Paris t
+ ime (GMT+01:00).\n\nDirectorate: Centre 
+ for Tax Policy and Administration\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/9789264285750-en\nPublication type: B
+ ook\nReleased as: Paperback, PDF.\n\niLi
+ brary export: 11 December 2017, 21:34 Pa
+ ris time (GMT+00:00)\nFreepreview export
+ : never\nFTI loaded: ✓.
+DTSTAMP:20171214T000650Z
+DTSTART:20171215T100000Z
+DTEND:20171215T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Aus
+ tria (Stage 1) (en) on 15 December 2017,
+  11:00 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264285774-en
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, France (Stage
+  1) (en) on 15 December 2017, 11:00 Pari
+ s time (GMT+01:00)
+DESCRIPTION:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, France (Stage
+  1) (en)  - Inclusive Framework on BEPS:
+  Action 14 (en) by Centre for Tax Policy
+  and Administration has an embargo date/
+ time of 15 December 2017, 11:00 Paris ti
+ me (GMT+01:00).\n\nDirectorate: Centre f
+ or Tax Policy and Administration\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/9789264285774-en\nPublication type: Bo
+ ok\nReleased as: Paperback, PDF.\n\niLib
+ rary export: 11 December 2017, 21:34 Par
+ is time (GMT+00:00)\nFreepreview export:
+  never\nFTI loaded: ✓.
+DTSTAMP:20171214T000650Z
+DTSTART:20171215T100000Z
+DTEND:20171215T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Fra
+ nce (Stage 1) (en) on 15 December 2017, 
+ 11:00 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264285804-en
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Germany (Stag
+ e 1) (en) on 15 December 2017, 11:00 Par
+ is time (GMT+01:00)
+DESCRIPTION:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Germany (Stag
+ e 1) (en)  - Inclusive Framework on BEPS
+ : Action 14 (en) by Centre for Tax Polic
+ y and Administration has an embargo date
+ /time of 15 December 2017, 11:00 Paris t
+ ime (GMT+01:00).\n\nDirectorate: Centre 
+ for Tax Policy and Administration\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/9789264285804-en\nPublication type: B
+ ook\nReleased as: PDF, Paperback.\n\niLi
+ brary export: 11 December 2017, 21:34 Pa
+ ris time (GMT+00:00)\nFreepreview export
+ : never\nFTI loaded: ✓.
+DTSTAMP:20171214T000650Z
+DTSTART:20171215T100000Z
+DTEND:20171215T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Ger
+ many (Stage 1) (en) on 15 December 2017,
+  11:00 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264285835-en
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Italy (Stage 
+ 1) (en) on 15 December 2017, 11:00 Paris
+  time (GMT+01:00)
+DESCRIPTION:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Italy (Stage 
+ 1) (en)  - Inclusive Framework on BEPS: 
+ Action 14 (en) by Centre for Tax Policy 
+ and Administration has an embargo date/t
+ ime of 15 December 2017, 11:00 Paris tim
+ e (GMT+01:00).\n\nDirectorate: Centre fo
+ r Tax Policy and Administration\nLanguag
+ e: English\nDOI: https://doi.org/10.1787
+ /9789264285835-en\nPublication type: Boo
+ k\nReleased as: Paperback, PDF.\n\niLibr
+ ary export: 11 December 2017, 21:34 Pari
+ s time (GMT+00:00)\nFreepreview export: 
+ never\nFTI loaded: ✓.
+DTSTAMP:20171214T000650Z
+DTSTART:20171215T100000Z
+DTEND:20171215T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Ita
+ ly (Stage 1) (en) on 15 December 2017, 1
+ 1:00 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264285903-en
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Liechtenstein
+  (Stage 1) (en) on 15 December 2017, 11:
+ 00 Paris time (GMT+01:00)
+DESCRIPTION:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Liechtenstein
+  (Stage 1) (en)  - Inclusive Framework o
+ n BEPS: Action 14 (en) by Centre for Tax
+  Policy and Administration has an embarg
+ o date/time of 15 December 2017, 11:00 P
+ aris time (GMT+01:00).\n\nDirectorate: C
+ entre for Tax Policy and Administration\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/9789264285903-en\nPublication t
+ ype: Book\nReleased as: PDF, Paperback.\
+ n\niLibrary export: 11 December 2017, 21
+ :34 Paris time (GMT+00:00)\nFreepreview 
+ export: never\nFTI loaded: ✓.
+DTSTAMP:20171214T000650Z
+DTSTART:20171215T100000Z
+DTEND:20171215T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Lie
+ chtenstein (Stage 1) (en) on 15 December
+  2017, 11:00 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264285927-en
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Luxembourg (S
+ tage 1) (en) on 15 December 2017, 11:00 
+ Paris time (GMT+01:00)
+DESCRIPTION:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Luxembourg (S
+ tage 1) (en)  - Inclusive Framework on B
+ EPS: Action 14 (en) by Centre for Tax Po
+ licy and Administration has an embargo d
+ ate/time of 15 December 2017, 11:00 Pari
+ s time (GMT+01:00).\n\nDirectorate: Cent
+ re for Tax Policy and Administration\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/9789264285927-en\nPublication type
+ : Book\nReleased as: Paperback, PDF.\n\n
+ iLibrary export: 11 December 2017, 21:34
+  Paris time (GMT+00:00)\nFreepreview exp
+ ort: never\nFTI loaded: ✓.
+DTSTAMP:20171214T000650Z
+DTSTART:20171215T100000Z
+DTEND:20171215T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Lux
+ embourg (Stage 1) (en) on 15 December 20
+ 17, 11:00 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264285736-en
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Sweden (Stage
+  1) (en) on 15 December 2017, 11:00 Pari
+ s time (GMT+01:00)
+DESCRIPTION:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Sweden (Stage
+  1) (en)  - Inclusive Framework on BEPS:
+  Action 14 (en) by Centre for Tax Policy
+  and Administration has an embargo date/
+ time of 15 December 2017, 11:00 Paris ti
+ me (GMT+01:00).\n\nDirectorate: Centre f
+ or Tax Policy and Administration\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/9789264285736-en\nPublication type: Bo
+ ok\nReleased as: Paperback, PDF.\n\niLib
+ rary export: 11 December 2017, 21:34 Par
+ is time (GMT+00:00)\nFreepreview export:
+  never\nFTI loaded: ✓.
+DTSTAMP:20171214T000650Z
+DTSTART:20171215T100000Z
+DTEND:20171215T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Swe
+ den (Stage 1) (en) on 15 December 2017, 
+ 11:00 Paris time (GMT+01:00)
 END:VALARM
 END:VEVENT
 
@@ -345,7 +675,7 @@ DESCRIPTION:Getting Skills Right: Italy (en)  by Dir
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 27 November 2017, 22:32 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171212T233019Z
+DTSTAMP:20171214T000650Z
 DTSTART:20171215T140000Z
 DTEND:20171215T141500Z
 TRANSP:TRANSPARENT
@@ -376,7 +706,7 @@ DESCRIPTION:OECD Economic Surveys: Norway 2018 (en)
  .\n\niLibrary export: 22 November 2017, 
  21:50 Paris time (GMT+00:00)\nFreeprevie
  w export: never\nFTI loaded: no.
-DTSTAMP:20171212T233019Z
+DTSTAMP:20171214T000650Z
 DTSTART:20171219T100000Z
 DTEND:20171219T101500Z
 TRANSP:TRANSPARENT
@@ -403,12 +733,12 @@ DESCRIPTION:Examens environnementaux de l'OCDE: Cana
  Directorate: Environment Directorate\nLa
  nguage: French\nDOI: https://doi.org/10.
  1787/9789264283244-fr\nPublication type:
-  Book\nReleased as: PDF, Paperback, ePub
- .\n\niLibrary export: 6 December 2017, 2
- 2:45 Paris time (GMT+00:00)\nFreepreview
-  export: 7 December 2017, 0:05 Paris tim
- e (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171212T233019Z
+  Book\nReleased as: Paperback, ePub, PDF
+ .\n\niLibrary export: 12 December 2017, 
+ 21:17 Paris time (GMT+00:00)\nFreeprevie
+ w export: 7 December 2017, 0:05 Paris ti
+ me (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171214T000650Z
 DTSTART:20171219T130000Z
 DTEND:20171219T131500Z
 TRANSP:TRANSPARENT
@@ -435,12 +765,12 @@ DESCRIPTION:OECD Environmental Performance Reviews:
  \n\nDirectorate: Environment Directorate
  \nLanguage: English\nDOI: https://doi.or
  g/10.1787/9789264279612-en\nPublication 
- type: Book\nReleased as: PDF, Paperback,
-  ePub.\n\niLibrary export: 4 December 20
+ type: Book\nReleased as: ePub, PDF, Pape
+ rback.\n\niLibrary export: 4 December 20
  17, 21:22 Paris time (GMT+00:00)\nFreepr
  eview export: 4 December 2017, 22:22 Par
  is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171212T233019Z
+DTSTAMP:20171214T000650Z
 DTSTART:20171219T130000Z
 DTEND:20171219T131500Z
 TRANSP:TRANSPARENT
@@ -457,58 +787,57 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:10.1787/9789264287921-es
-SUMMARY:Estudios de evaluación de la competencia
-  en la OCDE: México (es) on 9 January 20
- 18, 10:00 Paris time (GMT+01:00)
-DESCRIPTION:Estudios de evaluación de la competencia
-  en la OCDE: México (es)  by Directorate
-  for Financial and Enterprise Affairs ha
- s an embargo date/time of 9 January 2018
- , 10:00 Paris time (GMT+01:00).\n\nDirec
- torate: Directorate for Financial and En
- terprise Affairs\nLanguage: Spanish\nDOI
- : https://doi.org/10.1787/9789264287921-
- es\nPublication type: Book\nReleased as:
-  Paperback, PDF.\n\niLibrary export: 11 
- December 2017, 21:34 Paris time (GMT+00:
- 00)\nFreepreview export: never\nFTI load
- ed: no.
-DTSTAMP:20171212T233019Z
-DTSTART:20180109T090000Z
-DTEND:20180109T091500Z
+SUMMARY:Estudios de evaluación de competencia de
+  la OCDE: México (es) on 9 January 2018,
+  16:30 Paris time (GMT+01:00)
+DESCRIPTION:Estudios de evaluación de competencia de
+  la OCDE: México (es)  by Directorate fo
+ r Financial and Enterprise Affairs has a
+ n embargo date/time of 9 January 2018, 1
+ 6:30 Paris time (GMT+01:00).\n\nDirector
+ ate: Directorate for Financial and Enter
+ prise Affairs\nLanguage: Spanish\nDOI: h
+ ttps://doi.org/10.1787/9789264287921-es\
+ nPublication type: Book\nReleased as: Pa
+ perback, PDF.\n\niLibrary export: 11 Dec
+ ember 2017, 21:34 Paris time (GMT+00:00)
+ \nFreepreview export: never\nFTI loaded:
+  no.
+DTSTAMP:20171214T000650Z
+DTSTART:20180109T153000Z
+DTEND:20180109T154500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Estudios de evaluación de la c
- ompetencia en la OCDE: México (es) on 9 
- January 2018, 10:00 Paris time (GMT+01:0
- 0)
+DESCRIPTION:Reminder: Estudios de evaluación de comp
+ etencia de la OCDE: México (es) on 9 Jan
+ uary 2018, 16:30 Paris time (GMT+01:00)
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:10.1787/9789264288218-en
 SUMMARY:OECD Competition Assessment Reviews: Mex
- ico (en) on 9 January 2018, 10:00 Paris 
+ ico (en) on 9 January 2018, 16:30 Paris 
  time (GMT+01:00)
 DESCRIPTION:OECD Competition Assessment Reviews: Mex
  ico (en)  by Directorate for Financial a
  nd Enterprise Affairs has an embargo dat
- e/time of 9 January 2018, 10:00 Paris ti
+ e/time of 9 January 2018, 16:30 Paris ti
  me (GMT+01:00).\n\nDirectorate: Director
  ate for Financial and Enterprise Affairs
  \nLanguage: English\nDOI: https://doi.or
  g/10.1787/9789264288218-en\nPublication 
  type: Book\nReleased as: Paperback, PDF.
- \n\niLibrary export: 8 December 2017, 22
- :41 Paris time (GMT+00:00)\nFreepreview 
- export: never\nFTI loaded: no.
-DTSTAMP:20171212T233019Z
-DTSTART:20180109T090000Z
-DTEND:20180109T091500Z
+ \n\niLibrary export: 12 December 2017, 2
+ 1:17 Paris time (GMT+00:00)\nFreepreview
+  export: never\nFTI loaded: no.
+DTSTAMP:20171214T000650Z
+DTSTART:20180109T153000Z
+DTEND:20180109T154500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT24H
@@ -516,8 +845,8 @@ REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Competition Assessment Re
- views: Mexico (en) on 9 January 2018, 10
- :00 Paris time (GMT+01:00)
+ views: Mexico (en) on 9 January 2018, 16
+ :30 Paris time (GMT+01:00)
 END:VALARM
 END:VEVENT
 END:VCALENDAR

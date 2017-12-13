@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2017-12-12T23:30:14.358+01:00" count="158">
+<report name="official-embargoes" generated="2017-12-14T00:06:44.375+01:00" count="177">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -19,14 +19,14 @@
   <row index="1">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/9789264287921-es</cell>
-    <cell name="title">Estudios de evaluación de la competencia en la OCDE: México (es)</cell>
+    <cell name="title">Estudios de evaluación de competencia de la OCDE: México (es)</cell>
     <cell name="subtitle"/>
     <cell name="language">Spanish</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2018-01-09</cell>
-    <cell name="embargo date">2018-01-09T09:00:00Z</cell>
-    <cell name="launch date/time"/>
+    <cell name="embargo date">2018-01-09T15:30:00Z</cell>
+    <cell name="launch date/time">2018-01-09T15:30:00Z</cell>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -35,14 +35,14 @@
   <row index="2">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/9789264287921-es</cell>
-    <cell name="title">Estudios de evaluación de la competencia en la OCDE: México (es)</cell>
+    <cell name="title">Estudios de evaluación de competencia de la OCDE: México (es)</cell>
     <cell name="subtitle"/>
     <cell name="language">Spanish</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-01-09</cell>
-    <cell name="embargo date">2018-01-09T09:00:00Z</cell>
-    <cell name="launch date/time"/>
+    <cell name="embargo date">2018-01-09T15:30:00Z</cell>
+    <cell name="launch date/time">2018-01-09T15:30:00Z</cell>
     <cell name="ilibrary last export date">2017-12-11T21:34:00.063Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -57,8 +57,8 @@
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2018-01-09</cell>
-    <cell name="embargo date">2018-01-09T09:00:00Z</cell>
-    <cell name="launch date/time">2018-01-09T09:00:00Z</cell>
+    <cell name="embargo date">2018-01-09T15:30:00Z</cell>
+    <cell name="launch date/time">2018-01-09T15:30:00Z</cell>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -73,9 +73,9 @@
     <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-01-09</cell>
-    <cell name="embargo date">2018-01-09T09:00:00Z</cell>
-    <cell name="launch date/time">2018-01-09T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-12-08T22:41:28.39Z</cell>
+    <cell name="embargo date">2018-01-09T15:30:00Z</cell>
+    <cell name="launch date/time">2018-01-09T15:30:00Z</cell>
+    <cell name="ilibrary last export date">2017-12-12T21:17:42.317Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -870,22 +870,6 @@
     <cell name="title">Examens environnementaux de l'OCDE: Canada 2017 (fr)</cell>
     <cell name="subtitle"/>
     <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-19</cell>
-    <cell name="embargo date">2017-12-19T13:00:00Z</cell>
-    <cell name="launch date/time">2017-12-19T13:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-12-06T22:45:11.127Z</cell>
-    <cell name="freepreview last export date">2017-12-07T00:05:52.9Z</cell>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="55">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264283244-fr</cell>
-    <cell name="title">Examens environnementaux de l'OCDE: Canada 2017 (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2017-12-19</cell>
@@ -896,7 +880,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="56">
+  <row index="55">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-fr</cell>
     <cell name="title">Examens environnementaux de l'OCDE: Canada 2017 (fr)</cell>
@@ -907,10 +891,26 @@
     <cell name="date of publication">2017-12-19</cell>
     <cell name="embargo date">2017-12-19T13:00:00Z</cell>
     <cell name="launch date/time">2017-12-19T13:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-12-06T22:45:11.127Z</cell>
+    <cell name="ilibrary last export date">2017-12-12T21:17:42.317Z</cell>
     <cell name="freepreview last export date">2017-12-07T00:05:52.9Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
+  </row>
+  <row index="56">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264283244-fr</cell>
+    <cell name="title">Examens environnementaux de l'OCDE: Canada 2017 (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2017-12-19</cell>
+    <cell name="embargo date">2017-12-19T13:00:00Z</cell>
+    <cell name="launch date/time">2017-12-19T13:00:00Z</cell>
+    <cell name="ilibrary last export date">2017-12-12T21:17:42.317Z</cell>
+    <cell name="freepreview last export date">2017-12-07T00:05:52.9Z</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
   </row>
   <row index="57">
     <cell name="directorate">Environment Directorate</cell>
@@ -1766,7 +1766,7 @@
     <cell name="title">OECD Environmental Performance Reviews: Canada 2017 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
+    <cell name="medium">ePub</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2017-12-19</cell>
     <cell name="embargo date">2017-12-19T13:00:00Z</cell>
@@ -1782,13 +1782,13 @@
     <cell name="title">OECD Environmental Performance Reviews: Canada 2017 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2017-12-19</cell>
     <cell name="embargo date">2017-12-19T13:00:00Z</cell>
     <cell name="launch date/time">2017-12-19T13:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-12-04T21:22:22.8Z</cell>
+    <cell name="freepreview last export date">2017-12-04T22:22:52.537Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1798,13 +1798,13 @@
     <cell name="title">OECD Environmental Performance Reviews: Canada 2017 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2017-12-19</cell>
     <cell name="embargo date">2017-12-19T13:00:00Z</cell>
     <cell name="launch date/time">2017-12-19T13:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-12-04T21:22:22.8Z</cell>
-    <cell name="freepreview last export date">2017-12-04T22:22:52.537Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2385,6 +2385,310 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="149">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264285798-fr</cell>
+    <cell name="title">Accroître l'efficacité des mécanismes de règlement des différends – Rapport par les pairs de PA, France (Phase 1) (fr)</cell>
+    <cell name="subtitle">Cadre inclusif sur le BEPS : Action 14 (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2017-12-15</cell>
+    <cell name="embargo date">2017-12-15T10:00:00Z</cell>
+    <cell name="launch date/time">2017-12-15T10:00:00Z</cell>
+    <cell name="ilibrary last export date">2017-12-11T21:34:00.063Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="150">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264285798-fr</cell>
+    <cell name="title">Accroître l'efficacité des mécanismes de règlement des différends – Rapport par les pairs de PA, France (Phase 1) (fr)</cell>
+    <cell name="subtitle">Cadre inclusif sur le BEPS : Action 14 (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2017-12-15</cell>
+    <cell name="embargo date">2017-12-15T10:00:00Z</cell>
+    <cell name="launch date/time">2017-12-15T10:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="151">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264285965-fr</cell>
+    <cell name="title">Accroître l'efficacité des mécanismes de règlement des différends – Rapport par les pairs de PA, Luxembourg (Phase 1) (fr)</cell>
+    <cell name="subtitle">Cadre inclusif sur le BEPS : Action 14 (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2017-12-15</cell>
+    <cell name="embargo date">2017-12-15T10:00:00Z</cell>
+    <cell name="launch date/time">2017-12-15T10:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="152">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264285965-fr</cell>
+    <cell name="title">Accroître l'efficacité des mécanismes de règlement des différends – Rapport par les pairs de PA, Luxembourg (Phase 1) (fr)</cell>
+    <cell name="subtitle">Cadre inclusif sur le BEPS : Action 14 (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2017-12-15</cell>
+    <cell name="embargo date">2017-12-15T10:00:00Z</cell>
+    <cell name="launch date/time">2017-12-15T10:00:00Z</cell>
+    <cell name="ilibrary last export date">2017-12-11T21:34:00.063Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="153">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264285750-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Austria (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2017-12-15</cell>
+    <cell name="embargo date">2017-12-15T10:00:00Z</cell>
+    <cell name="launch date/time">2017-12-15T10:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="154">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264285750-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Austria (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2017-12-15</cell>
+    <cell name="embargo date">2017-12-15T10:00:00Z</cell>
+    <cell name="launch date/time">2017-12-15T10:00:00Z</cell>
+    <cell name="ilibrary last export date">2017-12-11T21:34:00.063Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="155">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264285774-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, France (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2017-12-15</cell>
+    <cell name="embargo date">2017-12-15T10:00:00Z</cell>
+    <cell name="launch date/time">2017-12-15T10:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="156">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264285774-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, France (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2017-12-15</cell>
+    <cell name="embargo date">2017-12-15T10:00:00Z</cell>
+    <cell name="launch date/time">2017-12-15T10:00:00Z</cell>
+    <cell name="ilibrary last export date">2017-12-11T21:34:00.063Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="157">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264285804-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Germany (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2017-12-15</cell>
+    <cell name="embargo date">2017-12-15T10:00:00Z</cell>
+    <cell name="launch date/time">2017-12-15T10:00:00Z</cell>
+    <cell name="ilibrary last export date">2017-12-11T21:34:00.063Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="158">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264285804-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Germany (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2017-12-15</cell>
+    <cell name="embargo date">2017-12-15T10:00:00Z</cell>
+    <cell name="launch date/time">2017-12-15T10:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="159">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264285835-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Italy (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2017-12-15</cell>
+    <cell name="embargo date">2017-12-15T10:00:00Z</cell>
+    <cell name="launch date/time">2017-12-15T10:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="160">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264285835-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Italy (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2017-12-15</cell>
+    <cell name="embargo date">2017-12-15T10:00:00Z</cell>
+    <cell name="launch date/time">2017-12-15T10:00:00Z</cell>
+    <cell name="ilibrary last export date">2017-12-11T21:34:00.063Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="161">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264285903-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Liechtenstein (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2017-12-15</cell>
+    <cell name="embargo date">2017-12-15T10:00:00Z</cell>
+    <cell name="launch date/time">2017-12-15T10:00:00Z</cell>
+    <cell name="ilibrary last export date">2017-12-11T21:34:00.063Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="162">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264285903-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Liechtenstein (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2017-12-15</cell>
+    <cell name="embargo date">2017-12-15T10:00:00Z</cell>
+    <cell name="launch date/time">2017-12-15T10:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="163">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264285927-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Luxembourg (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2017-12-15</cell>
+    <cell name="embargo date">2017-12-15T10:00:00Z</cell>
+    <cell name="launch date/time">2017-12-15T10:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="164">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264285927-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Luxembourg (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2017-12-15</cell>
+    <cell name="embargo date">2017-12-15T10:00:00Z</cell>
+    <cell name="launch date/time">2017-12-15T10:00:00Z</cell>
+    <cell name="ilibrary last export date">2017-12-11T21:34:00.063Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="165">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264285736-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Sweden (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2017-12-15</cell>
+    <cell name="embargo date">2017-12-15T10:00:00Z</cell>
+    <cell name="launch date/time">2017-12-15T10:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="166">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264285736-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Sweden (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2017-12-15</cell>
+    <cell name="embargo date">2017-12-15T10:00:00Z</cell>
+    <cell name="launch date/time">2017-12-15T10:00:00Z</cell>
+    <cell name="ilibrary last export date">2017-12-11T21:34:00.063Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="167">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/9789264284227-fr</cell>
+    <cell name="title">Obtenir les bonnes compétences: France (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2017-11-07</cell>
+    <cell name="embargo date">2017-12-15T10:00:00Z</cell>
+    <cell name="launch date/time">2017-12-15T10:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="168">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/a840ffba-en</cell>
     <cell name="title"> Deepening regional integration within the Southern African development community (en)</cell>
@@ -2400,7 +2704,7 @@
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="150">
+  <row index="169">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/d60e254f-en</cell>
     <cell name="title"> Lowering barriers to entrepreneurship and promoting small business growth in South Africa (en)</cell>
@@ -2416,7 +2720,7 @@
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="151">
+  <row index="170">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/cd5710c4-en</cell>
     <cell name="title">Export and productivity in global value chains (en)</cell>
@@ -2432,7 +2736,7 @@
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="152">
+  <row index="171">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/93cc318a-en</cell>
     <cell name="title">Making the business environment more supportive of productivity in Belgium (en)</cell>
@@ -2448,7 +2752,7 @@
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="153">
+  <row index="172">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/651613cb-en</cell>
     <cell name="title">Raising and mobilising skills to boost productivity and inclusiveness in Belgium (en)</cell>
@@ -2464,7 +2768,7 @@
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="154">
+  <row index="173">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/c57eaa14-en</cell>
     <cell name="title">The effects of the tax mix on inequality and growth (en)</cell>
@@ -2480,7 +2784,7 @@
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="155">
+  <row index="174">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/a29cdbbe-en</cell>
     <cell name="title">Boosting productivity in Switzerland (en)</cell>
@@ -2496,7 +2800,7 @@
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="156">
+  <row index="175">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/438423d9-en</cell>
     <cell name="title">Ensuring a dynamic skills-training and life-long learning system in Switzerland (en)</cell>
@@ -2512,7 +2816,7 @@
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="157">
+  <row index="176">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/5f8594f0-en</cell>
     <cell name="title">The distribution of taxable income and fiscal benefits in Spain (en)</cell>
@@ -2528,7 +2832,7 @@
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="158">
+  <row index="177">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/9cba114b-en</cell>
     <cell name="title">The middle income plateau (en)</cell>

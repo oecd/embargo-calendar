@@ -1,6 +1,6 @@
-# OECD publication embargoes (12 embargoes)
+# OECD publication embargoes (21 embargoes)
 
-*Data generated on Tuesday 12 December 2017 at 23:30*
+*Data generated on Thursday 14 December 2017 at 0:06*
 
 ------
 
@@ -130,6 +130,195 @@ Friday 15 December 2017 at 2:00 | no launch event
 
 ------
 
+## [Accroître l'efficacité des mécanismes de règlement des différends – Rapport par les pairs de PA, France (Phase 1) (fr) - Cadre inclusif sur le BEPS : Action 14 (fr)](https://doi.org/10.1787/9789264285798-fr)
+
+Embargo date | Launch date
+-------------|------------
+Friday 15 December 2017 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 11 December 2017 at 22:34
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Accroître l'efficacité des mécanismes de règlement des différends – Rapport par les pairs de PA, Luxembourg (Phase 1) (fr) - Cadre inclusif sur le BEPS : Action 14 (fr)](https://doi.org/10.1787/9789264285965-fr)
+
+Embargo date | Launch date
+-------------|------------
+Friday 15 December 2017 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 11 December 2017 at 22:34
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Austria (Stage 1) (en) - Inclusive Framework on BEPS: Action 14 (en)](https://doi.org/10.1787/9789264285750-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 15 December 2017 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 11 December 2017 at 22:34
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, France (Stage 1) (en) - Inclusive Framework on BEPS: Action 14 (en)](https://doi.org/10.1787/9789264285774-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 15 December 2017 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 11 December 2017 at 22:34
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Germany (Stage 1) (en) - Inclusive Framework on BEPS: Action 14 (en)](https://doi.org/10.1787/9789264285804-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 15 December 2017 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 11 December 2017 at 22:34
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Italy (Stage 1) (en) - Inclusive Framework on BEPS: Action 14 (en)](https://doi.org/10.1787/9789264285835-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 15 December 2017 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 11 December 2017 at 22:34
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Liechtenstein (Stage 1) (en) - Inclusive Framework on BEPS: Action 14 (en)](https://doi.org/10.1787/9789264285903-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 15 December 2017 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 11 December 2017 at 22:34
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Luxembourg (Stage 1) (en) - Inclusive Framework on BEPS: Action 14 (en)](https://doi.org/10.1787/9789264285927-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 15 December 2017 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 11 December 2017 at 22:34
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Sweden (Stage 1) (en) - Inclusive Framework on BEPS: Action 14 (en)](https://doi.org/10.1787/9789264285736-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 15 December 2017 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 11 December 2017 at 22:34
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
 ## [Getting Skills Right: Italy (en)](https://doi.org/10.1787/9789264278639-en)
 
 Embargo date | Launch date
@@ -180,7 +369,7 @@ Tuesday 19 December 2017 at 14:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 December 2017 at 23:45
+- [x] Exported to iLibrary Tuesday 12 December 2017 at 22:17
 - [x] Exported to Keepeek Thursday 7 December 2017 at 1:05
 
 ### Additional Information
@@ -214,11 +403,11 @@ Tuesday 19 December 2017 at 14:00 | no launch event
 
 ------
 
-## [Estudios de evaluación de la competencia en la OCDE: México (es)](https://doi.org/10.1787/9789264287921-es)
+## [Estudios de evaluación de competencia de la OCDE: México (es)](https://doi.org/10.1787/9789264287921-es)
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 9 January 2018 at 10:00 | no launch event
+Tuesday 9 January 2018 at 16:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
@@ -239,11 +428,11 @@ Tuesday 9 January 2018 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 9 January 2018 at 10:00 | no launch event
+Tuesday 9 January 2018 at 16:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 8 December 2017 at 23:41
+- [x] Exported to iLibrary Tuesday 12 December 2017 at 22:17
 - [ ] Exported to Keepeek
 
 ### Additional Information
