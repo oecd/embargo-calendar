@@ -1,6 +1,6 @@
-# OECD publication embargoes (21 embargoes)
+# OECD publication embargoes (22 embargoes)
 
-*Data generated on Thursday 14 December 2017 at 0:06*
+*Data generated on Friday 15 December 2017 at 0:48*
 
 ------
 
@@ -12,14 +12,14 @@ Friday 15 December 2017 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 14 December 2017 at 23:05
+- [x] Exported to Keepeek Friday 15 December 2017 at 0:18
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Medium: *PDF*
 
@@ -33,14 +33,14 @@ Friday 15 December 2017 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 14 December 2017 at 23:05
+- [x] Exported to Keepeek Friday 15 December 2017 at 0:18
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Medium: *PDF*
 
@@ -54,41 +54,20 @@ Friday 15 December 2017 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 14 December 2017 at 23:05
+- [x] Exported to Keepeek Friday 15 December 2017 at 0:18
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
 
 ## [Making the business environment more supportive of productivity in Belgium (en)](https://doi.org/10.1787/93cc318a-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 15 December 2017 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Raising and mobilising skills to boost productivity and inclusiveness in Belgium (en)](https://doi.org/10.1787/651613cb-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -117,14 +96,14 @@ Friday 15 December 2017 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 14 December 2017 at 23:05
+- [x] Exported to Keepeek Friday 15 December 2017 at 0:18
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Medium: *PDF*
 
@@ -138,8 +117,8 @@ Friday 15 December 2017 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 December 2017 at 22:34
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
+- [x] Exported to Keepeek Wednesday 13 December 2017 at 23:41
 
 ### Additional Information
 
@@ -159,8 +138,8 @@ Friday 15 December 2017 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 December 2017 at 22:34
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
+- [x] Exported to Keepeek Wednesday 13 December 2017 at 23:41
 
 ### Additional Information
 
@@ -180,8 +159,8 @@ Friday 15 December 2017 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 December 2017 at 22:34
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
+- [x] Exported to Keepeek Wednesday 13 December 2017 at 23:41
 
 ### Additional Information
 
@@ -201,8 +180,8 @@ Friday 15 December 2017 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 December 2017 at 22:34
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
+- [x] Exported to Keepeek Wednesday 13 December 2017 at 23:41
 
 ### Additional Information
 
@@ -222,8 +201,8 @@ Friday 15 December 2017 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 December 2017 at 22:34
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
+- [x] Exported to Keepeek Wednesday 13 December 2017 at 23:41
 
 ### Additional Information
 
@@ -243,8 +222,8 @@ Friday 15 December 2017 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 December 2017 at 22:34
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
+- [x] Exported to Keepeek Wednesday 13 December 2017 at 23:41
 
 ### Additional Information
 
@@ -264,8 +243,8 @@ Friday 15 December 2017 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 December 2017 at 22:34
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
+- [x] Exported to Keepeek Wednesday 13 December 2017 at 23:41
 
 ### Additional Information
 
@@ -285,8 +264,8 @@ Friday 15 December 2017 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 December 2017 at 22:34
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
+- [x] Exported to Keepeek Wednesday 13 December 2017 at 23:41
 
 ### Additional Information
 
@@ -306,8 +285,8 @@ Friday 15 December 2017 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 December 2017 at 22:34
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
+- [x] Exported to Keepeek Wednesday 13 December 2017 at 23:41
 
 ### Additional Information
 
@@ -336,6 +315,48 @@ Friday 15 December 2017 at 15:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Model Tax Convention on Income and on Capital: Condensed Version 2017 (en)](https://doi.org/10.1787/mtc_cond-2017-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 18 December 2017 at 14:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Is too much testing bad for student performance and well-being? (en)](https://doi.org/10.1787/2109a667-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 19 December 2017 at 7:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 December 2017 at 23:05
+- [x] Exported to Keepeek Friday 15 December 2017 at 0:18
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
@@ -411,7 +432,7 @@ Tuesday 9 January 2018 at 16:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 11 December 2017 at 22:34
+- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -432,7 +453,7 @@ Tuesday 9 January 2018 at 16:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 12 December 2017 at 22:17
+- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
 - [ ] Exported to Keepeek
 
 ### Additional Information

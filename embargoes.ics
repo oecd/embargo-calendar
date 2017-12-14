@@ -4,138 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/a29cdbbe-en
-SUMMARY:Boosting productivity in Switzerland (en
- ) on 12 December 2017, 1:00 Paris time (
- GMT+01:00)
-DESCRIPTION:Boosting productivity in Switzerland (en
- )  by Economics Department has an embarg
- o date/time of 12 December 2017, 1:00 Pa
- ris time (GMT+01:00).\n\nDirectorate: Ec
- onomics Department\nLanguage: English\nD
- OI: https://doi.org/10.1787/a29cdbbe-en\
- nPublication type: Working paper\nReleas
- ed as: PDF.\n\niLibrary export: 6 Decemb
- er 2017, 22:45 Paris time (GMT+00:00)\nF
- reepreview export: 7 December 2017, 0:05
-  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171214T000650Z
-DTSTART:20171212T000000Z
-DTEND:20171212T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Boosting productivity in Switz
- erland (en) on 12 December 2017, 1:00 Pa
- ris time (GMT+01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/438423d9-en
-SUMMARY:Ensuring a dynamic skills-training and l
- ife-long learning system in Switzerland 
- (en) on 12 December 2017, 1:00 Paris tim
- e (GMT+01:00)
-DESCRIPTION:Ensuring a dynamic skills-training and l
- ife-long learning system in Switzerland 
- (en)  by Economics Department has an emb
- argo date/time of 12 December 2017, 1:00
-  Paris time (GMT+01:00).\n\nDirectorate:
-  Economics Department\nLanguage: English
- \nDOI: https://doi.org/10.1787/438423d9-
- en\nPublication type: Working paper\nRel
- eased as: PDF.\n\niLibrary export: 7 Dec
- ember 2017, 22:23 Paris time (GMT+00:00)
- \nFreepreview export: 7 December 2017, 2
- 3:35 Paris time (GMT+00:00)\nFTI loaded:
-  ✓.
-DTSTAMP:20171214T000650Z
-DTSTART:20171212T000000Z
-DTEND:20171212T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Ensuring a dynamic skills-trai
- ning and life-long learning system in Sw
- itzerland (en) on 12 December 2017, 1:00
-  Paris time (GMT+01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/5f8594f0-en
-SUMMARY:The distribution of taxable income and f
- iscal benefits in Spain (en) on 12 Decem
- ber 2017, 1:00 Paris time (GMT+01:00)
-DESCRIPTION:The distribution of taxable income and f
- iscal benefits in Spain (en)  - New evid
- ence from personal income tax returns (2
- 002-2011) (en) by Economics Department h
- as an embargo date/time of 12 December 2
- 017, 1:00 Paris time (GMT+01:00).\n\nDir
- ectorate: Economics Department\nLanguage
- : English\nDOI: https://doi.org/10.1787/
- 5f8594f0-en\nPublication type: Working p
- aper\nReleased as: PDF.\n\niLibrary expo
- rt: 12 December 2017, 21:17 Paris time (
- GMT+00:00)\nFreepreview export: 12 Decem
- ber 2017, 22:01 Paris time (GMT+00:00)\n
- FTI loaded: ✓.
-DTSTAMP:20171214T000650Z
-DTSTART:20171212T000000Z
-DTEND:20171212T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: The distribution of taxable in
- come and fiscal benefits in Spain (en) o
- n 12 December 2017, 1:00 Paris time (GMT
- +01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9cba114b-en
-SUMMARY:The middle income plateau (en) on 12 Dec
- ember 2017, 1:00 Paris time (GMT+01:00)
-DESCRIPTION:The middle income plateau (en)  - Trap o
- r springboard? (en) by Economics Departm
- ent has an embargo date/time of 12 Decem
- ber 2017, 1:00 Paris time (GMT+01:00).\n
- \nDirectorate: Economics Department\nLan
- guage: English\nDOI: https://doi.org/10.
- 1787/9cba114b-en\nPublication type: Work
- ing paper\nReleased as: PDF.\n\niLibrary
-  export: 11 December 2017, 21:34 Paris t
- ime (GMT+00:00)\nFreepreview export: 11 
- December 2017, 22:22 Paris time (GMT+00:
- 00)\nFTI loaded: ✓.
-DTSTAMP:20171214T000650Z
-DTSTART:20171212T000000Z
-DTEND:20171212T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: The middle income plateau (en)
-  on 12 December 2017, 1:00 Paris time (G
- MT+01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/a840ffba-en
 SUMMARY: Deepening regional integration within t
  he Southern African development communit
@@ -149,10 +17,12 @@ DESCRIPTION: Deepening regional integration within t
  e: Economics Department\nLanguage: Engli
  sh\nDOI: https://doi.org/10.1787/a840ffb
  a-en\nPublication type: Working paper\nR
- eleased as: PDF.\n\niLibrary export: nev
- er\nFreepreview export: never\nFTI loade
- d: ✓.
-DTSTAMP:20171214T000650Z
+ eleased as: PDF.\n\niLibrary export: 14 
+ December 2017, 22:05 Paris time (GMT+00:
+ 00)\nFreepreview export: 14 December 201
+ 7, 23:18 Paris time (GMT+00:00)\nFTI loa
+ ded: ✓.
+DTSTAMP:20171215T004833Z
 DTSTART:20171215T010000Z
 DTEND:20171215T011500Z
 TRANSP:TRANSPARENT
@@ -183,9 +53,11 @@ DESCRIPTION: Lowering barriers to entrepreneurship a
  ge: English\nDOI: https://doi.org/10.178
  7/d60e254f-en\nPublication type: Working
   paper\nReleased as: PDF.\n\niLibrary ex
- port: never\nFreepreview export: never\n
- FTI loaded: ✓.
-DTSTAMP:20171214T000650Z
+ port: 14 December 2017, 22:05 Paris time
+  (GMT+00:00)\nFreepreview export: 14 Dec
+ ember 2017, 23:18 Paris time (GMT+00:00)
+ \nFTI loaded: ✓.
+DTSTAMP:20171215T004833Z
 DTSTART:20171215T010000Z
 DTEND:20171215T011500Z
 TRANSP:TRANSPARENT
@@ -215,9 +87,11 @@ DESCRIPTION:Export and productivity in global value
  t\nLanguage: English\nDOI: https://doi.o
  rg/10.1787/cd5710c4-en\nPublication type
  : Working paper\nReleased as: PDF.\n\niL
- ibrary export: never\nFreepreview export
- : never\nFTI loaded: ✓.
-DTSTAMP:20171214T000650Z
+ ibrary export: 14 December 2017, 22:05 P
+ aris time (GMT+00:00)\nFreepreview expor
+ t: 14 December 2017, 23:18 Paris time (G
+ MT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171215T004833Z
 DTSTART:20171215T010000Z
 DTEND:20171215T011500Z
 TRANSP:TRANSPARENT
@@ -248,7 +122,7 @@ DESCRIPTION:Making the business environment more sup
  ublication type: Working paper\nReleased
   as: PDF.\n\niLibrary export: never\nFre
  epreview export: never\nFTI loaded: ✓.
-DTSTAMP:20171214T000650Z
+DTSTAMP:20171215T004833Z
 DTSTART:20171215T010000Z
 DTEND:20171215T011500Z
 TRANSP:TRANSPARENT
@@ -265,39 +139,6 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:10.1787/651613cb-en
-SUMMARY:Raising and mobilising skills to boost p
- roductivity and inclusiveness in Belgium
-  (en) on 15 December 2017, 2:00 Paris ti
- me (GMT+01:00)
-DESCRIPTION:Raising and mobilising skills to boost p
- roductivity and inclusiveness in Belgium
-  (en)  by Economics Department has an em
- bargo date/time of 15 December 2017, 2:0
- 0 Paris time (GMT+01:00).\n\nDirectorate
- : Economics Department\nLanguage: Englis
- h\nDOI: https://doi.org/10.1787/651613cb
- -en\nPublication type: Working paper\nRe
- leased as: PDF.\n\niLibrary export: neve
- r\nFreepreview export: never\nFTI loaded
- : ✓.
-DTSTAMP:20171214T000650Z
-DTSTART:20171215T010000Z
-DTEND:20171215T011500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Raising and mobilising skills 
- to boost productivity and inclusiveness 
- in Belgium (en) on 15 December 2017, 2:0
- 0 Paris time (GMT+01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/c57eaa14-en
 SUMMARY:The effects of the tax mix on inequality
   and growth (en) on 15 December 2017, 2:
@@ -310,9 +151,11 @@ DESCRIPTION:The effects of the tax mix on inequality
  age: English\nDOI: https://doi.org/10.17
  87/c57eaa14-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
- xport: never\nFreepreview export: never\
- nFTI loaded: ✓.
-DTSTAMP:20171214T000650Z
+ xport: 14 December 2017, 22:05 Paris tim
+ e (GMT+00:00)\nFreepreview export: 14 De
+ cember 2017, 23:18 Paris time (GMT+00:00
+ )\nFTI loaded: ✓.
+DTSTAMP:20171215T004833Z
 DTSTART:20171215T010000Z
 DTEND:20171215T011500Z
 TRANSP:TRANSPARENT
@@ -346,10 +189,11 @@ DESCRIPTION:Accroître l'efficacité des mécanismes de
  \nDOI: https://doi.org/10.1787/978926428
  5798-fr\nPublication type: Book\nRelease
  d as: PDF, Paperback.\n\niLibrary export
- : 11 December 2017, 21:34 Paris time (GM
- T+00:00)\nFreepreview export: never\nFTI
-  loaded: ✓.
-DTSTAMP:20171214T000650Z
+ : 13 December 2017, 21:42 Paris time (GM
+ T+00:00)\nFreepreview export: 13 Decembe
+ r 2017, 22:41 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20171215T004833Z
 DTSTART:20171215T100000Z
 DTEND:20171215T101500Z
 TRANSP:TRANSPARENT
@@ -385,10 +229,11 @@ DESCRIPTION:Accroître l'efficacité des mécanismes de
  ench\nDOI: https://doi.org/10.1787/97892
  64285965-fr\nPublication type: Book\nRel
  eased as: Paperback, PDF.\n\niLibrary ex
- port: 11 December 2017, 21:34 Paris time
-  (GMT+00:00)\nFreepreview export: never\
- nFTI loaded: ✓.
-DTSTAMP:20171214T000650Z
+ port: 13 December 2017, 21:42 Paris time
+  (GMT+00:00)\nFreepreview export: 13 Dec
+ ember 2017, 22:41 Paris time (GMT+00:00)
+ \nFTI loaded: ✓.
+DTSTAMP:20171215T004833Z
 DTSTART:20171215T100000Z
 DTEND:20171215T101500Z
 TRANSP:TRANSPARENT
@@ -421,11 +266,12 @@ DESCRIPTION:Making Dispute Resolution More Effective
  for Tax Policy and Administration\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/9789264285750-en\nPublication type: B
- ook\nReleased as: Paperback, PDF.\n\niLi
- brary export: 11 December 2017, 21:34 Pa
+ ook\nReleased as: PDF, Paperback.\n\niLi
+ brary export: 13 December 2017, 21:42 Pa
  ris time (GMT+00:00)\nFreepreview export
- : never\nFTI loaded: ✓.
-DTSTAMP:20171214T000650Z
+ : 13 December 2017, 22:41 Paris time (GM
+ T+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171215T004833Z
 DTSTART:20171215T100000Z
 DTEND:20171215T101500Z
 TRANSP:TRANSPARENT
@@ -458,10 +304,11 @@ DESCRIPTION:Making Dispute Resolution More Effective
  ge: English\nDOI: https://doi.org/10.178
  7/9789264285774-en\nPublication type: Bo
  ok\nReleased as: Paperback, PDF.\n\niLib
- rary export: 11 December 2017, 21:34 Par
+ rary export: 13 December 2017, 21:42 Par
  is time (GMT+00:00)\nFreepreview export:
-  never\nFTI loaded: ✓.
-DTSTAMP:20171214T000650Z
+  13 December 2017, 22:41 Paris time (GMT
+ +00:00)\nFTI loaded: ✓.
+DTSTAMP:20171215T004833Z
 DTSTART:20171215T100000Z
 DTEND:20171215T101500Z
 TRANSP:TRANSPARENT
@@ -493,11 +340,12 @@ DESCRIPTION:Making Dispute Resolution More Effective
  for Tax Policy and Administration\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/9789264285804-en\nPublication type: B
- ook\nReleased as: PDF, Paperback.\n\niLi
- brary export: 11 December 2017, 21:34 Pa
+ ook\nReleased as: Paperback, PDF.\n\niLi
+ brary export: 13 December 2017, 21:42 Pa
  ris time (GMT+00:00)\nFreepreview export
- : never\nFTI loaded: ✓.
-DTSTAMP:20171214T000650Z
+ : 13 December 2017, 22:41 Paris time (GM
+ T+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171215T004833Z
 DTSTART:20171215T100000Z
 DTEND:20171215T101500Z
 TRANSP:TRANSPARENT
@@ -530,10 +378,11 @@ DESCRIPTION:Making Dispute Resolution More Effective
  e: English\nDOI: https://doi.org/10.1787
  /9789264285835-en\nPublication type: Boo
  k\nReleased as: Paperback, PDF.\n\niLibr
- ary export: 11 December 2017, 21:34 Pari
+ ary export: 13 December 2017, 21:42 Pari
  s time (GMT+00:00)\nFreepreview export: 
- never\nFTI loaded: ✓.
-DTSTAMP:20171214T000650Z
+ 13 December 2017, 22:41 Paris time (GMT+
+ 00:00)\nFTI loaded: ✓.
+DTSTAMP:20171215T004833Z
 DTSTART:20171215T100000Z
 DTEND:20171215T101500Z
 TRANSP:TRANSPARENT
@@ -566,10 +415,11 @@ DESCRIPTION:Making Dispute Resolution More Effective
  nLanguage: English\nDOI: https://doi.org
  /10.1787/9789264285903-en\nPublication t
  ype: Book\nReleased as: PDF, Paperback.\
- n\niLibrary export: 11 December 2017, 21
- :34 Paris time (GMT+00:00)\nFreepreview 
- export: never\nFTI loaded: ✓.
-DTSTAMP:20171214T000650Z
+ n\niLibrary export: 13 December 2017, 21
+ :42 Paris time (GMT+00:00)\nFreepreview 
+ export: 13 December 2017, 22:41 Paris ti
+ me (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171215T004833Z
 DTSTART:20171215T100000Z
 DTEND:20171215T101500Z
 TRANSP:TRANSPARENT
@@ -601,11 +451,12 @@ DESCRIPTION:Making Dispute Resolution More Effective
  re for Tax Policy and Administration\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/9789264285927-en\nPublication type
- : Book\nReleased as: Paperback, PDF.\n\n
- iLibrary export: 11 December 2017, 21:34
+ : Book\nReleased as: PDF, Paperback.\n\n
+ iLibrary export: 13 December 2017, 21:42
   Paris time (GMT+00:00)\nFreepreview exp
- ort: never\nFTI loaded: ✓.
-DTSTAMP:20171214T000650Z
+ ort: 13 December 2017, 22:41 Paris time 
+ (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20171215T004833Z
 DTSTART:20171215T100000Z
 DTEND:20171215T101500Z
 TRANSP:TRANSPARENT
@@ -637,11 +488,12 @@ DESCRIPTION:Making Dispute Resolution More Effective
  or Tax Policy and Administration\nLangua
  ge: English\nDOI: https://doi.org/10.178
  7/9789264285736-en\nPublication type: Bo
- ok\nReleased as: Paperback, PDF.\n\niLib
- rary export: 11 December 2017, 21:34 Par
+ ok\nReleased as: PDF, Paperback.\n\niLib
+ rary export: 13 December 2017, 21:42 Par
  is time (GMT+00:00)\nFreepreview export:
-  never\nFTI loaded: ✓.
-DTSTAMP:20171214T000650Z
+  13 December 2017, 22:41 Paris time (GMT
+ +00:00)\nFTI loaded: ✓.
+DTSTAMP:20171215T004833Z
 DTSTART:20171215T100000Z
 DTEND:20171215T101500Z
 TRANSP:TRANSPARENT
@@ -675,7 +527,7 @@ DESCRIPTION:Getting Skills Right: Italy (en)  by Dir
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 27 November 2017, 22:32 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171214T000650Z
+DTSTAMP:20171215T004833Z
 DTSTART:20171215T140000Z
 DTEND:20171215T141500Z
 TRANSP:TRANSPARENT
@@ -687,6 +539,75 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Getting Skills Right: Italy (e
  n) on 15 December 2017, 15:00 Paris time
   (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/mtc_cond-2017-en
+SUMMARY:Model Tax Convention on Income and on Ca
+ pital: Condensed Version 2017 (en) on 18
+  December 2017, 14:00 Paris time (GMT+01
+ :00)
+DESCRIPTION:Model Tax Convention on Income and on Ca
+ pital: Condensed Version 2017 (en)  by C
+ entre for Tax Policy and Administration 
+ has an embargo date/time of 18 December 
+ 2017, 14:00 Paris time (GMT+01:00).\n\nD
+ irectorate: Centre for Tax Policy and Ad
+ ministration\nLanguage: English\nDOI: ht
+ tps://doi.org/10.1787/mtc_cond-2017-en\n
+ Publication type: Book\nReleased as: PDF
+ , Paperback.\n\niLibrary export: 13 Dece
+ mber 2017, 21:42 Paris time (GMT+00:00)\
+ nFreepreview export: never\nFTI loaded: 
+ no.
+DTSTAMP:20171215T004833Z
+DTSTART:20171218T130000Z
+DTEND:20171218T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Model Tax Convention on Income
+  and on Capital: Condensed Version 2017 
+ (en) on 18 December 2017, 14:00 Paris ti
+ me (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/2109a667-en
+SUMMARY:Is too much testing bad for student perf
+ ormance and well-being? (en) on 19 Decem
+ ber 2017, 7:00 Paris time (GMT+01:00)
+DESCRIPTION:Is too much testing bad for student perf
+ ormance and well-being? (en)  by Directo
+ rate for Education and Skills has an emb
+ argo date/time of 19 December 2017, 7:00
+  Paris time (GMT+01:00).\n\nDirectorate:
+  Directorate for Education and Skills\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/2109a667-en\nPublication type: Wo
+ rking paper\nReleased as: PDF.\n\niLibra
+ ry export: 14 December 2017, 22:05 Paris
+  time (GMT+00:00)\nFreepreview export: 1
+ 4 December 2017, 23:18 Paris time (GMT+0
+ 0:00)\nFTI loaded: ✓.
+DTSTAMP:20171215T004833Z
+DTSTART:20171219T060000Z
+DTEND:20171219T061500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Is too much testing bad for st
+ udent performance and well-being? (en) o
+ n 19 December 2017, 7:00 Paris time (GMT
+ +01:00)
 END:VALARM
 END:VEVENT
 
@@ -706,7 +627,7 @@ DESCRIPTION:OECD Economic Surveys: Norway 2018 (en)
  .\n\niLibrary export: 22 November 2017, 
  21:50 Paris time (GMT+00:00)\nFreeprevie
  w export: never\nFTI loaded: no.
-DTSTAMP:20171214T000650Z
+DTSTAMP:20171215T004833Z
 DTSTART:20171219T100000Z
 DTEND:20171219T101500Z
 TRANSP:TRANSPARENT
@@ -738,7 +659,7 @@ DESCRIPTION:Examens environnementaux de l'OCDE: Cana
  21:17 Paris time (GMT+00:00)\nFreeprevie
  w export: 7 December 2017, 0:05 Paris ti
  me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171214T000650Z
+DTSTAMP:20171215T004833Z
 DTSTART:20171219T130000Z
 DTEND:20171219T131500Z
 TRANSP:TRANSPARENT
@@ -770,7 +691,7 @@ DESCRIPTION:OECD Environmental Performance Reviews:
  17, 21:22 Paris time (GMT+00:00)\nFreepr
  eview export: 4 December 2017, 22:22 Par
  is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171214T000650Z
+DTSTAMP:20171215T004833Z
 DTSTART:20171219T130000Z
 DTEND:20171219T131500Z
 TRANSP:TRANSPARENT
@@ -799,11 +720,11 @@ DESCRIPTION:Estudios de evaluación de competencia de
  prise Affairs\nLanguage: Spanish\nDOI: h
  ttps://doi.org/10.1787/9789264287921-es\
  nPublication type: Book\nReleased as: Pa
- perback, PDF.\n\niLibrary export: 11 Dec
- ember 2017, 21:34 Paris time (GMT+00:00)
+ perback, PDF.\n\niLibrary export: 13 Dec
+ ember 2017, 21:42 Paris time (GMT+00:00)
  \nFreepreview export: never\nFTI loaded:
   no.
-DTSTAMP:20171214T000650Z
+DTSTAMP:20171215T004833Z
 DTSTART:20180109T153000Z
 DTEND:20180109T154500Z
 TRANSP:TRANSPARENT
@@ -832,10 +753,10 @@ DESCRIPTION:OECD Competition Assessment Reviews: Mex
  \nLanguage: English\nDOI: https://doi.or
  g/10.1787/9789264288218-en\nPublication 
  type: Book\nReleased as: Paperback, PDF.
- \n\niLibrary export: 12 December 2017, 2
- 1:17 Paris time (GMT+00:00)\nFreepreview
+ \n\niLibrary export: 13 December 2017, 2
+ 1:42 Paris time (GMT+00:00)\nFreepreview
   export: never\nFTI loaded: no.
-DTSTAMP:20171214T000650Z
+DTSTAMP:20171215T004833Z
 DTSTART:20180109T153000Z
 DTEND:20180109T154500Z
 TRANSP:TRANSPARENT
