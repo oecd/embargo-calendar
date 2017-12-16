@@ -1,77 +1,14 @@
-# OECD publication embargoes (22 embargoes)
+# OECD publication embargoes (8 embargoes)
 
-*Data generated on Friday 15 December 2017 at 0:48*
-
-------
-
-## [ Deepening regional integration within the Southern African development community (en)](https://doi.org/10.1787/a840ffba-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 15 December 2017 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 December 2017 at 23:05
-- [x] Exported to Keepeek Friday 15 December 2017 at 0:18
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Saturday 16 December 2017 at 1:26*
 
 ------
 
-## [ Lowering barriers to entrepreneurship and promoting small business growth in South Africa (en)](https://doi.org/10.1787/d60e254f-en)
+## [Market Report Series: Coal 2017 (en)](https://doi.org/10.1787/coal_mar-2017-en)
 
 Embargo date | Launch date
 -------------|------------
-Friday 15 December 2017 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 December 2017 at 23:05
-- [x] Exported to Keepeek Friday 15 December 2017 at 0:18
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Export and productivity in global value chains (en) -  Comparative evidence from Latvia and Estonia (en)](https://doi.org/10.1787/cd5710c4-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 15 December 2017 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 December 2017 at 23:05
-- [x] Exported to Keepeek Friday 15 December 2017 at 0:18
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Making the business environment more supportive of productivity in Belgium (en)](https://doi.org/10.1787/93cc318a-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 15 December 2017 at 2:00 | no launch event
+Monday 18 December 2017 at 9:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
@@ -80,238 +17,7 @@ Friday 15 December 2017 at 2:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [The effects of the tax mix on inequality and growth (en)](https://doi.org/10.1787/c57eaa14-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 15 December 2017 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 December 2017 at 23:05
-- [x] Exported to Keepeek Friday 15 December 2017 at 0:18
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Accroître l'efficacité des mécanismes de règlement des différends – Rapport par les pairs de PA, France (Phase 1) (fr) - Cadre inclusif sur le BEPS : Action 14 (fr)](https://doi.org/10.1787/9789264285798-fr)
-
-Embargo date | Launch date
--------------|------------
-Friday 15 December 2017 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
-- [x] Exported to Keepeek Wednesday 13 December 2017 at 23:41
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Accroître l'efficacité des mécanismes de règlement des différends – Rapport par les pairs de PA, Luxembourg (Phase 1) (fr) - Cadre inclusif sur le BEPS : Action 14 (fr)](https://doi.org/10.1787/9789264285965-fr)
-
-Embargo date | Launch date
--------------|------------
-Friday 15 December 2017 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
-- [x] Exported to Keepeek Wednesday 13 December 2017 at 23:41
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Austria (Stage 1) (en) - Inclusive Framework on BEPS: Action 14 (en)](https://doi.org/10.1787/9789264285750-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 15 December 2017 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
-- [x] Exported to Keepeek Wednesday 13 December 2017 at 23:41
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, France (Stage 1) (en) - Inclusive Framework on BEPS: Action 14 (en)](https://doi.org/10.1787/9789264285774-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 15 December 2017 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
-- [x] Exported to Keepeek Wednesday 13 December 2017 at 23:41
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Germany (Stage 1) (en) - Inclusive Framework on BEPS: Action 14 (en)](https://doi.org/10.1787/9789264285804-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 15 December 2017 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
-- [x] Exported to Keepeek Wednesday 13 December 2017 at 23:41
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Italy (Stage 1) (en) - Inclusive Framework on BEPS: Action 14 (en)](https://doi.org/10.1787/9789264285835-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 15 December 2017 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
-- [x] Exported to Keepeek Wednesday 13 December 2017 at 23:41
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Liechtenstein (Stage 1) (en) - Inclusive Framework on BEPS: Action 14 (en)](https://doi.org/10.1787/9789264285903-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 15 December 2017 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
-- [x] Exported to Keepeek Wednesday 13 December 2017 at 23:41
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Luxembourg (Stage 1) (en) - Inclusive Framework on BEPS: Action 14 (en)](https://doi.org/10.1787/9789264285927-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 15 December 2017 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
-- [x] Exported to Keepeek Wednesday 13 December 2017 at 23:41
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Sweden (Stage 1) (en) - Inclusive Framework on BEPS: Action 14 (en)](https://doi.org/10.1787/9789264285736-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 15 December 2017 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
-- [x] Exported to Keepeek Wednesday 13 December 2017 at 23:41
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Getting Skills Right: Italy (en)](https://doi.org/10.1787/9789264278639-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 15 December 2017 at 15:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 November 2017 at 22:37
-- [x] Exported to Keepeek Monday 27 November 2017 at 23:32
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Directorate: *International Energy Agency*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
@@ -326,15 +32,15 @@ Embargo date | Launch date
 Monday 18 December 2017 at 14:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 December 2017 at 23:05
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -348,8 +54,8 @@ Tuesday 19 December 2017 at 7:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 December 2017 at 23:05
-- [x] Exported to Keepeek Friday 15 December 2017 at 0:18
+- [x] Exported to iLibrary Friday 15 December 2017 at 23:29
+- [x] Exported to Keepeek Saturday 16 December 2017 at 0:43
 
 ### Additional Information
 
@@ -365,11 +71,11 @@ Tuesday 19 December 2017 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 19 December 2017 at 11:00 | no launch event
+Tuesday 19 December 2017 at 9:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 22 November 2017 at 22:50
+- [x] Exported to iLibrary Thursday 14 December 2017 at 23:05
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -386,7 +92,7 @@ Tuesday 19 December 2017 at 11:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 19 December 2017 at 14:00 | no launch event
+Tuesday 19 December 2017 at 13:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
@@ -407,7 +113,7 @@ Tuesday 19 December 2017 at 14:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 19 December 2017 at 14:00 | no launch event
+Tuesday 19 December 2017 at 13:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
