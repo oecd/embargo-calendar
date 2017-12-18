@@ -1,48 +1,6 @@
-# OECD publication embargoes (8 embargoes)
+# OECD publication embargoes (10 embargoes)
 
-*Data generated on Saturday 16 December 2017 at 1:26*
-
-------
-
-## [Market Report Series: Coal 2017 (en)](https://doi.org/10.1787/coal_mar-2017-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 18 December 2017 at 9:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *International Energy Agency*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Model Tax Convention on Income and on Capital: Condensed Version 2017 (en)](https://doi.org/10.1787/mtc_cond-2017-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 18 December 2017 at 14:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 December 2017 at 23:05
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Monday 18 December 2017 at 23:49*
 
 ------
 
@@ -74,15 +32,15 @@ Embargo date | Launch date
 Tuesday 19 December 2017 at 9:30 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 14 December 2017 at 23:05
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 15 December 2017 at 23:29
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Medium: *PDF*
 
@@ -96,8 +54,8 @@ Tuesday 19 December 2017 at 13:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 December 2017 at 22:17
-- [x] Exported to Keepeek Thursday 7 December 2017 at 1:05
+- [x] Exported to iLibrary Friday 15 December 2017 at 23:29
+- [x] Exported to Keepeek Saturday 16 December 2017 at 0:43
 
 ### Additional Information
 
@@ -117,14 +75,98 @@ Tuesday 19 December 2017 at 13:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 December 2017 at 22:22
-- [x] Exported to Keepeek Monday 4 December 2017 at 23:22
+- [x] Exported to iLibrary Friday 15 December 2017 at 23:29
+- [x] Exported to Keepeek Saturday 16 December 2017 at 0:43
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Estudio del Sistema Electrónico de Contratación Pública de México (es) - Rediseñando CompraNet de manera incluyente (es)](https://doi.org/10.1787/9789264287938-es)
+
+Embargo date | Launch date
+-------------|------------
+Monday 8 January 2018 at 16:30 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Mexico's e-Procurement System (en) - Redesigning CompraNet through Stakeholder Engagement (en)](https://doi.org/10.1787/9789264287426-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 8 January 2018 at 16:30 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Second Public Procurement Review of the Mexican Institute of Social Security (IMSS) (en) - Reshaping Strategies for Better Healthcare (en)](https://doi.org/10.1787/9789264190191-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 8 January 2018 at 16:30 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Segundo Estudio de la OCDE sobre Contratación Pública en el Instituto Mexicano del Seguro Social (IMSS) (es) - Rediseñando las Estrategias para Mejorar el Cuidado de la Salud (es)](https://doi.org/10.1787/9789264288300-es)
+
+Embargo date | Launch date
+-------------|------------
+Monday 8 January 2018 at 16:30 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Medium: *PDF*
 
