@@ -1,90 +1,6 @@
-# OECD publication embargoes (10 embargoes)
+# OECD publication embargoes (6 embargoes)
 
-*Data generated on Monday 18 December 2017 at 23:49*
-
-------
-
-## [Is too much testing bad for student performance and well-being? (en)](https://doi.org/10.1787/2109a667-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 19 December 2017 at 7:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 December 2017 at 23:29
-- [x] Exported to Keepeek Saturday 16 December 2017 at 0:43
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [OECD Economic Surveys: Norway 2018 (en)](https://doi.org/10.1787/eco_surveys-nor-2018-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 19 December 2017 at 9:30 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 December 2017 at 23:29
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Medium: *PDF*
-
-------
-
-## [Examens environnementaux de l'OCDE: Canada 2017 (fr)](https://doi.org/10.1787/9789264283244-fr)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 19 December 2017 at 13:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 December 2017 at 23:29
-- [x] Exported to Keepeek Saturday 16 December 2017 at 0:43
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [OECD Environmental Performance Reviews: Canada 2017 (en)](https://doi.org/10.1787/9789264279612-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 19 December 2017 at 13:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 December 2017 at 23:29
-- [x] Exported to Keepeek Saturday 16 December 2017 at 0:43
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Wednesday 20 December 2017 at 0:04*
 
 ------
 
@@ -96,7 +12,7 @@ Monday 8 January 2018 at 16:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
+- [x] Exported to iLibrary Monday 18 December 2017 at 22:39
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -117,7 +33,7 @@ Monday 8 January 2018 at 16:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
+- [x] Exported to iLibrary Monday 18 December 2017 at 22:39
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -138,7 +54,7 @@ Monday 8 January 2018 at 16:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 18 December 2017 at 22:39
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -159,7 +75,7 @@ Monday 8 January 2018 at 16:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 18 December 2017 at 22:39
 - [ ] Exported to Keepeek
 
 ### Additional Information
