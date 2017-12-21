@@ -1,6 +1,6 @@
 # OECD publication embargoes (6 embargoes)
 
-*Data generated on Wednesday 20 December 2017 at 0:04*
+*Data generated on Thursday 21 December 2017 at 2:03*
 
 ------
 
@@ -116,7 +116,7 @@ Embargo date | Launch date
 Tuesday 9 January 2018 at 16:30 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 December 2017 at 22:42
 - [ ] Exported to Keepeek
 

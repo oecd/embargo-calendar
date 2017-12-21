@@ -4,73 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/coal_mar-2017-en
-SUMMARY:Market Report Series: Coal 2017 (en) on 
- 18 December 2017, 9:00 Paris time (GMT+0
- 1:00)
-DESCRIPTION:Market Report Series: Coal 2017 (en)  by
-  International Energy Agency has an emba
- rgo date/time of 18 December 2017, 9:00 
- Paris time (GMT+01:00).\n\nDirectorate: 
- International Energy Agency\nLanguage: E
- nglish\nDOI: https://doi.org/10.1787/coa
- l_mar-2017-en\nPublication type: Book\nR
- eleased as: PDF.\n\niLibrary export: 18 
- December 2017, 21:39 Paris time (GMT+00:
- 00)\nFreepreview export: never\nFTI load
- ed: ✓.
-DTSTAMP:20171220T000426Z
-DTSTART:20171218T080000Z
-DTEND:20171218T081500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Market Report Series: Coal 201
- 7 (en) on 18 December 2017, 9:00 Paris t
- ime (GMT+01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/mtc_cond-2017-en
-SUMMARY:Model Tax Convention on Income and on Ca
- pital: Condensed Version 2017 (en) on 18
-  December 2017, 14:00 Paris time (GMT+01
- :00)
-DESCRIPTION:Model Tax Convention on Income and on Ca
- pital: Condensed Version 2017 (en)  by C
- entre for Tax Policy and Administration 
- has an embargo date/time of 18 December 
- 2017, 14:00 Paris time (GMT+01:00).\n\nD
- irectorate: Centre for Tax Policy and Ad
- ministration\nLanguage: English\nDOI: ht
- tps://doi.org/10.1787/mtc_cond-2017-en\n
- Publication type: Book\nReleased as: Pap
- erback, PDF.\n\niLibrary export: 18 Dece
- mber 2017, 21:39 Paris time (GMT+00:00)\
- nFreepreview export: 18 December 2017, 2
- 2:24 Paris time (GMT+00:00)\nFTI loaded:
-  ✓.
-DTSTAMP:20171220T000426Z
-DTSTART:20171218T130000Z
-DTEND:20171218T131500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Model Tax Convention on Income
-  and on Capital: Condensed Version 2017 
- (en) on 18 December 2017, 14:00 Paris ti
- me (GMT+01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/2109a667-en
 SUMMARY:Is too much testing bad for student perf
  ormance and well-being? (en) on 19 Decem
@@ -88,7 +21,7 @@ DESCRIPTION:Is too much testing bad for student perf
   time (GMT+00:00)\nFreepreview export: 1
  5 December 2017, 23:43 Paris time (GMT+0
  0:00)\nFTI loaded: ✓.
-DTSTAMP:20171220T000426Z
+DTSTAMP:20171221T020358Z
 DTSTART:20171219T060000Z
 DTEND:20171219T061500Z
 TRANSP:TRANSPARENT
@@ -121,7 +54,7 @@ DESCRIPTION:OECD Economic Surveys: Norway 2018 (en)
  1:39 Paris time (GMT+00:00)\nFreepreview
   export: 18 December 2017, 22:24 Paris t
  ime (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171220T000426Z
+DTSTAMP:20171221T020358Z
 DTSTART:20171219T083000Z
 DTEND:20171219T084500Z
 TRANSP:TRANSPARENT
@@ -153,7 +86,7 @@ DESCRIPTION:Examens environnementaux de l'OCDE: Cana
  22:29 Paris time (GMT+00:00)\nFreeprevie
  w export: 15 December 2017, 23:43 Paris 
  time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171220T000426Z
+DTSTAMP:20171221T020358Z
 DTSTART:20171219T120000Z
 DTEND:20171219T121500Z
 TRANSP:TRANSPARENT
@@ -180,12 +113,12 @@ DESCRIPTION:OECD Environmental Performance Reviews:
  \n\nDirectorate: Environment Directorate
  \nLanguage: English\nDOI: https://doi.or
  g/10.1787/9789264279612-en\nPublication 
- type: Book\nReleased as: PDF, Paperback,
-  ePub.\n\niLibrary export: 15 December 2
+ type: Book\nReleased as: Paperback, ePub
+ , PDF.\n\niLibrary export: 15 December 2
  017, 22:29 Paris time (GMT+00:00)\nFreep
  review export: 15 December 2017, 23:43 P
  aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20171220T000426Z
+DTSTAMP:20171221T020358Z
 DTSTART:20171219T120000Z
 DTEND:20171219T121500Z
 TRANSP:TRANSPARENT
@@ -218,7 +151,7 @@ DESCRIPTION:Estudio del Sistema Electrónico de Contr
  F.\n\niLibrary export: 18 December 2017,
   21:39 Paris time (GMT+00:00)\nFreeprevi
  ew export: never\nFTI loaded: no.
-DTSTAMP:20171220T000426Z
+DTSTAMP:20171221T020358Z
 DTSTART:20180108T153000Z
 DTEND:20180108T154500Z
 TRANSP:TRANSPARENT
@@ -252,7 +185,7 @@ DESCRIPTION:Mexico's e-Procurement System (en)  - Re
  December 2017, 21:39 Paris time (GMT+00:
  00)\nFreepreview export: never\nFTI load
  ed: no.
-DTSTAMP:20171220T000426Z
+DTSTAMP:20171221T020358Z
 DTSTART:20180108T153000Z
 DTEND:20180108T154500Z
 TRANSP:TRANSPARENT
@@ -287,7 +220,7 @@ DESCRIPTION:Second Public Procurement Review of the
   18 December 2017, 21:39 Paris time (GMT
  +00:00)\nFreepreview export: never\nFTI 
  loaded: no.
-DTSTAMP:20171220T000426Z
+DTSTAMP:20171221T020358Z
 DTSTART:20180108T153000Z
 DTEND:20180108T154500Z
 TRANSP:TRANSPARENT
@@ -324,7 +257,7 @@ DESCRIPTION:Segundo Estudio de la OCDE sobre Contrat
  : 18 December 2017, 21:39 Paris time (GM
  T+00:00)\nFreepreview export: never\nFTI
   loaded: no.
-DTSTAMP:20171220T000426Z
+DTSTAMP:20171221T020358Z
 DTSTART:20180108T153000Z
 DTEND:20180108T154500Z
 TRANSP:TRANSPARENT
@@ -354,12 +287,12 @@ DESCRIPTION:Estudios de evaluación de competencia de
  ate: Directorate for Financial and Enter
  prise Affairs\nLanguage: Spanish\nDOI: h
  ttps://doi.org/10.1787/9789264287921-es\
- nPublication type: Book\nReleased as: Pa
- perback, PDF.\n\niLibrary export: 13 Dec
+ nPublication type: Book\nReleased as: PD
+ F, Paperback.\n\niLibrary export: 13 Dec
  ember 2017, 21:42 Paris time (GMT+00:00)
  \nFreepreview export: never\nFTI loaded:
   no.
-DTSTAMP:20171220T000426Z
+DTSTAMP:20171221T020358Z
 DTSTART:20180109T153000Z
 DTEND:20180109T154500Z
 TRANSP:TRANSPARENT
@@ -390,8 +323,8 @@ DESCRIPTION:OECD Competition Assessment Reviews: Mex
  type: Book\nReleased as: Paperback, PDF.
  \n\niLibrary export: 13 December 2017, 2
  1:42 Paris time (GMT+00:00)\nFreepreview
-  export: never\nFTI loaded: no.
-DTSTAMP:20171220T000426Z
+  export: never\nFTI loaded: ✓.
+DTSTAMP:20171221T020358Z
 DTSTART:20180109T153000Z
 DTEND:20180109T154500Z
 TRANSP:TRANSPARENT

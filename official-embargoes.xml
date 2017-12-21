@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2017-12-20T00:04:19.198+01:00" count="242">
+<report name="official-embargoes" generated="2017-12-21T02:03:53.154+01:00" count="212">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -18,21 +18,37 @@
   </row>
   <row index="1">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
-    <cell name="doi">10.1787/9789264287921-es</cell>
-    <cell name="title">Estudios de evaluación de competencia de la OCDE: México (es)</cell>
+    <cell name="doi">10.1787/9789264288218-2-en</cell>
+    <cell name="title">Abbreviations and acronyms (en)</cell>
     <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T15:30:00Z</cell>
-    <cell name="launch date/time">2018-01-09T15:30:00Z</cell>
+    <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
   </row>
   <row index="2">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/9789264288218-5-en</cell>
+    <cell name="title">Assessment and recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-01-09</cell>
+    <cell name="embargo date">2018-01-09T15:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="3">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/9789264287921-es</cell>
     <cell name="title">Estudios de evaluación de competencia de la OCDE: México (es)</cell>
@@ -44,28 +60,140 @@
     <cell name="embargo date">2018-01-09T15:30:00Z</cell>
     <cell name="launch date/time">2018-01-09T15:30:00Z</cell>
     <cell name="ilibrary last export date">2017-12-13T21:42:31.677Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="3">
-    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
-    <cell name="doi">10.1787/9789264288218-en</cell>
-    <cell name="title">OECD Competition Assessment Reviews: Mexico (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2018-01-09</cell>
-    <cell name="embargo date">2018-01-09T15:30:00Z</cell>
-    <cell name="launch date/time">2018-01-09T15:30:00Z</cell>
-    <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
   <row index="4">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/9789264287921-es</cell>
+    <cell name="title">Estudios de evaluación de competencia de la OCDE: México (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-01-09</cell>
+    <cell name="embargo date">2018-01-09T15:30:00Z</cell>
+    <cell name="launch date/time">2018-01-09T15:30:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="5">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/9789264288218-4-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-01-09</cell>
+    <cell name="embargo date">2018-01-09T15:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="6">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/9789264288218-1-en</cell>
+    <cell name="title">Foreword and acknowledgments (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-01-09</cell>
+    <cell name="embargo date">2018-01-09T15:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="7">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/9789264288218-9-en</cell>
+    <cell name="title">Legislation screening by sector (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-01-09</cell>
+    <cell name="embargo date">2018-01-09T15:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="8">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/9789264288218-7-en</cell>
+    <cell name="title">Meat (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-01-09</cell>
+    <cell name="embargo date">2018-01-09T15:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="9">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/9789264288218-6-en</cell>
+    <cell name="title">Medicines (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-01-09</cell>
+    <cell name="embargo date">2018-01-09T15:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="10">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/9789264288218-8-en</cell>
+    <cell name="title">Methodology (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-01-09</cell>
+    <cell name="embargo date">2018-01-09T15:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="11">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/9789264288218-en</cell>
+    <cell name="title">OECD Competition Assessment Reviews: Mexico (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-01-09</cell>
+    <cell name="embargo date">2018-01-09T15:30:00Z</cell>
+    <cell name="launch date/time">2018-01-09T15:30:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="12">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/9789264288218-en</cell>
     <cell name="title">OECD Competition Assessment Reviews: Mexico (en)</cell>
     <cell name="subtitle"/>
@@ -78,137 +206,153 @@
     <cell name="ilibrary last export date">2017-12-13T21:42:31.677Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="5">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264287938-es</cell>
-    <cell name="title">Estudio del Sistema Electrónico de Contratación Pública de México (es)</cell>
-    <cell name="subtitle">Rediseñando CompraNet de manera incluyente (es)</cell>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-01-08</cell>
-    <cell name="embargo date">2018-01-08T15:30:00Z</cell>
-    <cell name="launch date/time">2018-01-08T15:30:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="6">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264287938-es</cell>
-    <cell name="title">Estudio del Sistema Electrónico de Contratación Pública de México (es)</cell>
-    <cell name="subtitle">Rediseñando CompraNet de manera incluyente (es)</cell>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-01-08</cell>
-    <cell name="embargo date">2018-01-08T15:30:00Z</cell>
-    <cell name="launch date/time">2018-01-08T15:30:00Z</cell>
-    <cell name="ilibrary last export date">2017-12-18T21:39:31.257Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="7">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264287426-en</cell>
-    <cell name="title">Mexico's e-Procurement System (en)</cell>
-    <cell name="subtitle">Redesigning CompraNet through Stakeholder Engagement (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-01-08</cell>
-    <cell name="embargo date">2018-01-08T15:30:00Z</cell>
-    <cell name="launch date/time">2018-01-08T15:30:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="8">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264287426-en</cell>
-    <cell name="title">Mexico's e-Procurement System (en)</cell>
-    <cell name="subtitle">Redesigning CompraNet through Stakeholder Engagement (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-01-08</cell>
-    <cell name="embargo date">2018-01-08T15:30:00Z</cell>
-    <cell name="launch date/time">2018-01-08T15:30:00Z</cell>
-    <cell name="ilibrary last export date">2017-12-18T21:39:31.257Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="9">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264190191-en</cell>
-    <cell name="title">Second Public Procurement Review of the Mexican Institute of Social Security (IMSS) (en)</cell>
-    <cell name="subtitle">Reshaping Strategies for Better Healthcare (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-01-08</cell>
-    <cell name="embargo date">2018-01-08T15:30:00Z</cell>
-    <cell name="launch date/time">2018-01-08T15:30:00Z</cell>
-    <cell name="ilibrary last export date">2017-12-18T21:39:31.257Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="10">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264190191-en</cell>
-    <cell name="title">Second Public Procurement Review of the Mexican Institute of Social Security (IMSS) (en)</cell>
-    <cell name="subtitle">Reshaping Strategies for Better Healthcare (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-01-08</cell>
-    <cell name="embargo date">2018-01-08T15:30:00Z</cell>
-    <cell name="launch date/time">2018-01-08T15:30:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="11">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264288300-es</cell>
-    <cell name="title">Segundo Estudio de la OCDE sobre Contratación Pública en el Instituto Mexicano del Seguro Social (IMSS) (es)</cell>
-    <cell name="subtitle">Rediseñando las Estrategias para Mejorar el Cuidado de la Salud (es)</cell>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-01-08</cell>
-    <cell name="embargo date">2018-01-08T15:30:00Z</cell>
-    <cell name="launch date/time">2018-01-08T15:30:00Z</cell>
-    <cell name="ilibrary last export date">2017-12-18T21:39:31.257Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="12">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264288300-es</cell>
-    <cell name="title">Segundo Estudio de la OCDE sobre Contratación Pública en el Instituto Mexicano del Seguro Social (IMSS) (es)</cell>
-    <cell name="subtitle">Rediseñando las Estrategias para Mejorar el Cuidado de la Salud (es)</cell>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-01-08</cell>
-    <cell name="embargo date">2018-01-08T15:30:00Z</cell>
-    <cell name="launch date/time">2018-01-08T15:30:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
   </row>
   <row index="13">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/9789264288218-3-en</cell>
+    <cell name="title">Preface by Ildefonso Guajardo Villarreal, Minister of Economy (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-01-09</cell>
+    <cell name="embargo date">2018-01-09T15:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="14">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264287938-es</cell>
+    <cell name="title">Estudio del Sistema Electrónico de Contratación Pública de México (es)</cell>
+    <cell name="subtitle">Rediseñando CompraNet de manera incluyente (es)</cell>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-01-08</cell>
+    <cell name="embargo date">2018-01-08T15:30:00Z</cell>
+    <cell name="launch date/time">2018-01-08T15:30:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="15">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264287938-es</cell>
+    <cell name="title">Estudio del Sistema Electrónico de Contratación Pública de México (es)</cell>
+    <cell name="subtitle">Rediseñando CompraNet de manera incluyente (es)</cell>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-01-08</cell>
+    <cell name="embargo date">2018-01-08T15:30:00Z</cell>
+    <cell name="launch date/time">2018-01-08T15:30:00Z</cell>
+    <cell name="ilibrary last export date">2017-12-18T21:39:31.257Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="16">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264287426-en</cell>
+    <cell name="title">Mexico's e-Procurement System (en)</cell>
+    <cell name="subtitle">Redesigning CompraNet through Stakeholder Engagement (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-01-08</cell>
+    <cell name="embargo date">2018-01-08T15:30:00Z</cell>
+    <cell name="launch date/time">2018-01-08T15:30:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="17">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264287426-en</cell>
+    <cell name="title">Mexico's e-Procurement System (en)</cell>
+    <cell name="subtitle">Redesigning CompraNet through Stakeholder Engagement (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-01-08</cell>
+    <cell name="embargo date">2018-01-08T15:30:00Z</cell>
+    <cell name="launch date/time">2018-01-08T15:30:00Z</cell>
+    <cell name="ilibrary last export date">2017-12-18T21:39:31.257Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="18">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264190191-en</cell>
+    <cell name="title">Second Public Procurement Review of the Mexican Institute of Social Security (IMSS) (en)</cell>
+    <cell name="subtitle">Reshaping Strategies for Better Healthcare (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-01-08</cell>
+    <cell name="embargo date">2018-01-08T15:30:00Z</cell>
+    <cell name="launch date/time">2018-01-08T15:30:00Z</cell>
+    <cell name="ilibrary last export date">2017-12-18T21:39:31.257Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="19">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264190191-en</cell>
+    <cell name="title">Second Public Procurement Review of the Mexican Institute of Social Security (IMSS) (en)</cell>
+    <cell name="subtitle">Reshaping Strategies for Better Healthcare (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-01-08</cell>
+    <cell name="embargo date">2018-01-08T15:30:00Z</cell>
+    <cell name="launch date/time">2018-01-08T15:30:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="20">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264288300-es</cell>
+    <cell name="title">Segundo Estudio de la OCDE sobre Contratación Pública en el Instituto Mexicano del Seguro Social (IMSS) (es)</cell>
+    <cell name="subtitle">Rediseñando las Estrategias para Mejorar el Cuidado de la Salud (es)</cell>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-01-08</cell>
+    <cell name="embargo date">2018-01-08T15:30:00Z</cell>
+    <cell name="launch date/time">2018-01-08T15:30:00Z</cell>
+    <cell name="ilibrary last export date">2017-12-18T21:39:31.257Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="21">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264288300-es</cell>
+    <cell name="title">Segundo Estudio de la OCDE sobre Contratación Pública en el Instituto Mexicano del Seguro Social (IMSS) (es)</cell>
+    <cell name="subtitle">Rediseñando las Estrategias para Mejorar el Cuidado de la Salud (es)</cell>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-01-08</cell>
+    <cell name="embargo date">2018-01-08T15:30:00Z</cell>
+    <cell name="launch date/time">2018-01-08T15:30:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="22">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph49-en</cell>
     <cell name="title">A comparatively large share of Canadian population still relies on primary wastewater treatment (en)</cell>
@@ -224,7 +368,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="14">
+  <row index="23">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph30-en</cell>
     <cell name="title">A high share of public R&amp;D spending targets the energy sector (en)</cell>
@@ -240,7 +384,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="15">
+  <row index="24">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-4-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -256,7 +400,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="16">
+  <row index="25">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-4-fr</cell>
     <cell name="title">Abréviations et acronymes (fr)</cell>
@@ -272,7 +416,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="17">
+  <row index="26">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph11-en</cell>
     <cell name="title">Air pollution has been decoupled from economic growth, but intensities remain high (en)</cell>
@@ -288,7 +432,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="18">
+  <row index="27">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-7-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -304,7 +448,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="19">
+  <row index="28">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-11-fr</cell>
     <cell name="title">Atténuation du changement climatique dans la production d'électricité et le transport (fr)</cell>
@@ -320,7 +464,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="20">
+  <row index="29">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph46-fr</cell>
     <cell name="title">Aucun stress hydrique au Canada à l'échelle nationale (fr)</cell>
@@ -336,7 +480,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="21">
+  <row index="30">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-2-fr</cell>
     <cell name="title">Avant-propos (fr)</cell>
@@ -352,7 +496,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="22">
+  <row index="31">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-5-en</cell>
     <cell name="title">Basic statistics of Canada (2015 or latest available year) (en)</cell>
@@ -368,7 +512,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="23">
+  <row index="32">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph27-en</cell>
     <cell name="title">Business capital spending for environmental protection focuses on pollution abatement (en)</cell>
@@ -384,7 +528,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="24">
+  <row index="33">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph46-en</cell>
     <cell name="title">Canada experiences no water stress at national level (en)</cell>
@@ -400,7 +544,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="25">
+  <row index="34">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph23-en</cell>
     <cell name="title">Canada had relatively low effective carbon rates across sectors in 2012 (en)</cell>
@@ -416,7 +560,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="26">
+  <row index="35">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph42-en</cell>
     <cell name="title">Canada has a high share of rail freight (en)</cell>
@@ -432,7 +576,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="27">
+  <row index="36">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph28-en</cell>
     <cell name="title">Canada has a large proportion of infrastructure in need of repair or replacement (en)</cell>
@@ -448,7 +592,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="28">
+  <row index="37">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph2-en</cell>
     <cell name="title">Canada has among the lowest levels of environmentally related tax revenue across the OECD (en)</cell>
@@ -464,7 +608,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="29">
+  <row index="38">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph16-en</cell>
     <cell name="title">Canada is among the largest water consumers in the OECD (en)</cell>
@@ -480,7 +624,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="30">
+  <row index="39">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph12-en</cell>
     <cell name="title">Canada is among the most material-intense economies in the OECD (en)</cell>
@@ -496,7 +640,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="31">
+  <row index="40">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph50-en</cell>
     <cell name="title">Canada ranks at the low end of water rates among OECD member countries (en)</cell>
@@ -512,7 +656,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="32">
+  <row index="41">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph31-en</cell>
     <cell name="title">Canada receives more revenue from environmental services than from goods (en)</cell>
@@ -528,7 +672,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="33">
+  <row index="42">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph5-en</cell>
     <cell name="title">Canada recovered from the financial crisis more strongly than most other OECD countries (en)</cell>
@@ -544,7 +688,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="34">
+  <row index="43">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph29-en</cell>
     <cell name="title">Canada's long-term infrastructure plan will help provide stable funding (en)</cell>
@@ -560,7 +704,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="35">
+  <row index="44">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph45-en</cell>
     <cell name="title">Canadian cities feature low population density (en)</cell>
@@ -576,7 +720,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="36">
+  <row index="45">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph47-en</cell>
     <cell name="title">Canadians are profligate water users (en)</cell>
@@ -592,7 +736,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="37">
+  <row index="46">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph7-en</cell>
     <cell name="title">Canadians enjoy a high quality of life (en)</cell>
@@ -608,7 +752,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="38">
+  <row index="47">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-11-en</cell>
     <cell name="title">Climate change mitigation in electricity generation and transport (en)</cell>
@@ -624,7 +768,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="39">
+  <row index="48">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph48-en</cell>
     <cell name="title">Combined sewers released 144 million m3 of untreated sewerage in 2015 (en)</cell>
@@ -640,7 +784,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="40">
+  <row index="49">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph4-fr</cell>
     <cell name="title">De nombreux Canadiens n'ont accès qu'à des installations de traitement primaire des eaux usées (fr)</cell>
@@ -656,7 +800,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="41">
+  <row index="50">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph40-fr</cell>
     <cell name="title">Diminution de la part de l'électricité dans les émissions totales de GES (fr)</cell>
@@ -672,7 +816,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="42">
+  <row index="51">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph19-fr</cell>
     <cell name="title">Diminution du nombre de nouvelles certifications SGE (fr)</cell>
@@ -688,7 +832,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="43">
+  <row index="52">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph41-en</cell>
     <cell name="title">Electricity prices in Canada are low (en)</cell>
@@ -704,7 +848,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="44">
+  <row index="53">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph40-en</cell>
     <cell name="title">Electricity's share of total GHG emissions has declined (en)</cell>
@@ -720,7 +864,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="45">
+  <row index="54">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph34-fr</cell>
     <cell name="title">Émissions : augmentation frappante en Alberta, diminution importante en Ontario (fr)</cell>
@@ -736,7 +880,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="46">
+  <row index="55">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph34-en</cell>
     <cell name="title">Emissions have risen dramatically in Alberta, while they decreased significantly in Ontario (en)</cell>
@@ -752,7 +896,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="47">
+  <row index="56">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph23-fr</cell>
     <cell name="title">En 2012, le Canada a enregistré des taux d'imposition effectifs du carbone relativement faibles dans les différents secteurs (fr)</cell>
@@ -768,7 +912,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="48">
+  <row index="57">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph9-en</cell>
     <cell name="title">Energy demand from transport has more than offset energy savings in the industrial, commercial and public sector (en)</cell>
@@ -784,7 +928,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="49">
+  <row index="58">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-9-en</cell>
     <cell name="title">Environmental governance and management (en)</cell>
@@ -800,7 +944,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="50">
+  <row index="59">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-8-en</cell>
     <cell name="title">Environmental performance: Trends and recent developments (en)</cell>
@@ -816,7 +960,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="51">
+  <row index="60">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph20-en</cell>
     <cell name="title">Environmentally related tax revenues in Canada remain among the lowest in the OECD (en)</cell>
@@ -832,7 +976,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="52">
+  <row index="61">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-7-fr</cell>
     <cell name="title">Évaluation et recommandations (fr)</cell>
@@ -848,7 +992,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="53">
+  <row index="62">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-fr</cell>
     <cell name="title">Examens environnementaux de l'OCDE: Canada 2017 (fr)</cell>
@@ -864,14 +1008,14 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="54">
+  <row index="63">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-fr</cell>
     <cell name="title">Examens environnementaux de l'OCDE: Canada 2017 (fr)</cell>
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2017-12-19</cell>
     <cell name="embargo date">2017-12-19T12:00:00Z</cell>
     <cell name="launch date/time">2017-12-19T12:00:00Z</cell>
@@ -880,7 +1024,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="55">
+  <row index="64">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-fr</cell>
     <cell name="title">Examens environnementaux de l'OCDE: Canada 2017 (fr)</cell>
@@ -896,7 +1040,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="56">
+  <row index="65">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-6-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -912,7 +1056,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="57">
+  <row index="66">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph45-fr</cell>
     <cell name="title">Faible densité de population dans les grandes villes canadiennes (fr)</cell>
@@ -928,7 +1072,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="58">
+  <row index="67">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph21-en</cell>
     <cell name="title">Federal tax rates on petrol and diesel for road use are relatively low (en)</cell>
@@ -944,7 +1088,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="59">
+  <row index="68">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-2-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -960,7 +1104,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="60">
+  <row index="69">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph25-en</cell>
     <cell name="title">Fossil fuel support has decreased, but both consumption and production support remains (en)</cell>
@@ -976,7 +1120,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="61">
+  <row index="70">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-12-fr</cell>
     <cell name="title">Gestion des eaux usées urbaines (fr)</cell>
@@ -992,7 +1136,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="62">
+  <row index="71">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph10-en</cell>
     <cell name="title">GHG emissions are decoupled from economic growth, but show no sign of falling yet (en)</cell>
@@ -1008,7 +1152,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="63">
+  <row index="72">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph3-en</cell>
     <cell name="title">GHG emissions from transport and oil sands kept rising (en)</cell>
@@ -1024,7 +1168,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="64">
+  <row index="73">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-9-fr</cell>
     <cell name="title">Gouvernance et gestion de l'environnement (fr)</cell>
@@ -1040,7 +1184,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="65">
+  <row index="74">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-3-fr</cell>
     <cell name="title">Guide de lecture (fr)</cell>
@@ -1056,7 +1200,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="66">
+  <row index="75">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph39-en</cell>
     <cell name="title">Hydro continues to dominate electricity generation (en)</cell>
@@ -1072,7 +1216,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="67">
+  <row index="76">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph36-en</cell>
     <cell name="title">Implementation of the Paris Agreement will cut Canada's oil and gas production (en)</cell>
@@ -1088,7 +1232,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="68">
+  <row index="77">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph37-fr</cell>
     <cell name="title">Jusqu'à présent, la plupart des réductions d'émission ont résulté de mesures provinciales (fr)</cell>
@@ -1104,7 +1248,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="69">
+  <row index="78">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph38-fr</cell>
     <cell name="title">Jusqu'à présent, les réductions d'émission ont été principalement réalisées dans le secteur de l'électricité (fr)</cell>
@@ -1120,7 +1264,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="70">
+  <row index="79">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph44-fr</cell>
     <cell name="title">L'augmentation du trafic routier à l'origine d'une hausse des émissions malgré les améliorations techniques (fr)</cell>
@@ -1136,7 +1280,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="71">
+  <row index="80">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph39-fr</cell>
     <cell name="title">L'hydroélectricité occupe toujours une place prépondérante dans la production d'électricité (fr)</cell>
@@ -1152,7 +1296,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="72">
+  <row index="81">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph33-fr</cell>
     <cell name="title">L'objectif de réduction des émissions de GES à l'horizon 2030 sera difficile à atteindre (fr)</cell>
@@ -1168,7 +1312,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="73">
+  <row index="82">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph14-fr</cell>
     <cell name="title">L'utilisation de produits agrochimiques a augmenté plus rapidement que la production agricole (fr)</cell>
@@ -1184,7 +1328,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="74">
+  <row index="83">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph12-fr</cell>
     <cell name="title">La Canada est l'économie qui affiche la plus forte intensité d'utilisation des ressources de l'OCDE (fr)</cell>
@@ -1200,7 +1344,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="75">
+  <row index="84">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph9-fr</cell>
     <cell name="title">La demande d'énergie émanant des transports a plus que gommé les économies d'énergie réalisées dans l'industrie, le commerce et le secteur public (fr)</cell>
@@ -1216,7 +1360,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="76">
+  <row index="85">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph36-fr</cell>
     <cell name="title">La mise en œuvre de l'Accord de Paris fera baisser la production canadienne de pétrole et de gaz (fr)</cell>
@@ -1232,7 +1376,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="77">
+  <row index="86">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph32-fr</cell>
     <cell name="title">La part de l'APD canadienne axée sur l'environnement a augmenté (fr)</cell>
@@ -1248,7 +1392,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="78">
+  <row index="87">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph11-fr</cell>
     <cell name="title">La pollution atmosphérique a été découplée de la croissance économique mais reste élevée en termes relatifs (fr)</cell>
@@ -1264,7 +1408,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="79">
+  <row index="88">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph15-fr</cell>
     <cell name="title">La proportion de zones protégées reste inférieure à l'objectif d'Aichi (fr)</cell>
@@ -1280,7 +1424,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="80">
+  <row index="89">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph17-fr</cell>
     <cell name="title">La qualité de l'eau est insatisfaisante dans plus de la moitié des sites de suivi d'eau douce (fr)</cell>
@@ -1296,7 +1440,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="81">
+  <row index="90">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph5-fr</cell>
     <cell name="title">Le Canada a connu une reprise plus dynamique que la plupart des autres pays membres de l'OCDE après la crise financière (fr)</cell>
@@ -1312,7 +1456,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="82">
+  <row index="91">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph16-fr</cell>
     <cell name="title">Le Canada compte parmi les plus grands consommateurs d'eau de l'OCDE (fr)</cell>
@@ -1328,7 +1472,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="83">
+  <row index="92">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph50-fr</cell>
     <cell name="title">Le Canada se situe dans le bas du classement des pays membres de l'OCDE pour les tarifs de l'eau (fr)</cell>
@@ -1344,7 +1488,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="84">
+  <row index="93">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph31-fr</cell>
     <cell name="title">Le Canada tire davantage de revenus des services que des biens environnementaux (fr)</cell>
@@ -1360,7 +1504,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="85">
+  <row index="94">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph43-fr</cell>
     <cell name="title">Le gros des émissions de GES du secteur est à mettre au compte du transport routier de voyageurs (fr)</cell>
@@ -1376,7 +1520,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="86">
+  <row index="95">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph8-fr</cell>
     <cell name="title">Le paysage énergétique est dominé par les combustibles fossiles, bien que la production d'électricité émette peu de carbone (fr)</cell>
@@ -1392,7 +1536,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="87">
+  <row index="96">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph29-fr</cell>
     <cell name="title">Le plan à long terme en faveur des infrastructures du Canada permettra de stabiliser les financements (fr)</cell>
@@ -1408,7 +1552,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="88">
+  <row index="97">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph18-fr</cell>
     <cell name="title">Le portefeuille de règlements des autorités fédérales en matière d'environnement s'est enrichi (fr)</cell>
@@ -1424,7 +1568,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="89">
+  <row index="98">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph2-fr</cell>
     <cell name="title">Le produit des taxes liées à l'environnement du Canada est l'un des plus faibles des pays de l'OCDE (fr)</cell>
@@ -1440,7 +1584,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="90">
+  <row index="99">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph13-fr</cell>
     <cell name="title">Le recyclage est de plus en plus courant mais reste modeste (fr)</cell>
@@ -1456,7 +1600,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="91">
+  <row index="100">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph35-fr</cell>
     <cell name="title">Le secteur pétrolier et gazier et les transports à l'origine de l'augmentation des émissions (fr)</cell>
@@ -1472,7 +1616,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="92">
+  <row index="101">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph25-fr</cell>
     <cell name="title">Le soutien aux combustibles fossiles décroît mais le soutien à la consommation et à la production demeure (fr)</cell>
@@ -1488,7 +1632,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="93">
+  <row index="102">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph42-fr</cell>
     <cell name="title">Le transport ferroviaire de marchandises occupe une place importante au Canada (fr)</cell>
@@ -1504,7 +1648,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="94">
+  <row index="103">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph7-fr</cell>
     <cell name="title">Les Canadiens jouissent d'une qualité de vie élevée (fr)</cell>
@@ -1520,7 +1664,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="95">
+  <row index="104">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph47-fr</cell>
     <cell name="title">Les Canadiens sont de gros consommateurs d'eau (fr)</cell>
@@ -1536,7 +1680,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="96">
+  <row index="105">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph48-fr</cell>
     <cell name="title">Les égouts unitaires ont rejeté 144 millions m3 d'eaux usées non traitées en 2015 (fr)</cell>
@@ -1552,7 +1696,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="97">
+  <row index="106">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph3-fr</cell>
     <cell name="title">Les émissions de GES dues au transport et aux sables bitumineux ont continué d'augmenter (fr)</cell>
@@ -1568,7 +1712,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="98">
+  <row index="107">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph10-fr</cell>
     <cell name="title">Les émissions de GES sont découplées de la croissance économique mais ne donnent encore aucun signe de recul (fr)</cell>
@@ -1584,7 +1728,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="99">
+  <row index="108">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph27-fr</cell>
     <cell name="title">Les investissements des entreprises pour la protection de l'environnement ciblent avant tout la lutte contre la pollution (fr)</cell>
@@ -1600,7 +1744,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="100">
+  <row index="109">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph24-fr</cell>
     <cell name="title">Les pick-ups et tout-terrain de loisir représentent une source croissante d'émissions liées au transport (fr)</cell>
@@ -1616,7 +1760,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="101">
+  <row index="110">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph41-fr</cell>
     <cell name="title">Les prix de l'électricité au Canada sont bas (fr)</cell>
@@ -1632,7 +1776,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="102">
+  <row index="111">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph20-fr</cell>
     <cell name="title">Les recettes fiscales liées à l'environnement restent parmi les plus faibles de l'OCDE (fr)</cell>
@@ -1648,7 +1792,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="103">
+  <row index="112">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph6-fr</cell>
     <cell name="title">Les ressources naturelles sont un pilier de l'économie (fr)</cell>
@@ -1664,7 +1808,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="104">
+  <row index="113">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph22-fr</cell>
     <cell name="title">Les taxes et redevances payées par les industries énergétiques fluctuent d'une année sur l'autre (fr)</cell>
@@ -1680,7 +1824,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="105">
+  <row index="114">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph21-fr</cell>
     <cell name="title">Les taxes fédérales sur l'essence et le gazole pour le transport routier sont relativement faibles (fr)</cell>
@@ -1696,7 +1840,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="106">
+  <row index="115">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph4-en</cell>
     <cell name="title">Many Canadians rely on primary wastewater treatment (en)</cell>
@@ -1712,7 +1856,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="107">
+  <row index="116">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph33-en</cell>
     <cell name="title">Meeting Canada's 2030 GHG emission reduction target will be challenging (en)</cell>
@@ -1728,7 +1872,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="108">
+  <row index="117">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph6-en</cell>
     <cell name="title">Natural resources are a backbone of the economy (en)</cell>
@@ -1744,23 +1888,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="109">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264279612-en</cell>
-    <cell name="title">OECD Environmental Performance Reviews: Canada 2017 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-19</cell>
-    <cell name="embargo date">2017-12-19T12:00:00Z</cell>
-    <cell name="launch date/time">2017-12-19T12:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="110">
+  <row index="118">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Canada 2017 (en)</cell>
@@ -1776,7 +1904,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="111">
+  <row index="119">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Canada 2017 (en)</cell>
@@ -1792,7 +1920,23 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="112">
+  <row index="120">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264279612-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: Canada 2017 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2017-12-19</cell>
+    <cell name="embargo date">2017-12-19T12:00:00Z</cell>
+    <cell name="launch date/time">2017-12-19T12:00:00Z</cell>
+    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
+    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="121">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph26-fr</cell>
     <cell name="title">Parcs Canada dépense plus que les autres agences et programmes environnementaux (fr)</cell>
@@ -1808,7 +1952,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="113">
+  <row index="122">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph26-en</cell>
     <cell name="title">Parks Canada has the largest expenditure among environmental agencies and programmes (en)</cell>
@@ -1824,7 +1968,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="114">
+  <row index="123">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph24-en</cell>
     <cell name="title">Passenger light trucks are a growing source of transportation emissions (en)</cell>
@@ -1840,7 +1984,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="115">
+  <row index="124">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-8-fr</cell>
     <cell name="title">Performance environnementale : tendances et développements récents (fr)</cell>
@@ -1856,7 +2000,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="116">
+  <row index="125">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-1-en</cell>
     <cell name="title">Preface (en)</cell>
@@ -1872,7 +2016,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="117">
+  <row index="126">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-1-fr</cell>
     <cell name="title">Préface (fr)</cell>
@@ -1888,7 +2032,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="118">
+  <row index="127">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph1-fr</cell>
     <cell name="title">Principaux indicateurs de performance environnementale (fr)</cell>
@@ -1904,7 +2048,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="119">
+  <row index="128">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph15-en</cell>
     <cell name="title">Protected area remains below the Aichi target (en)</cell>
@@ -1920,7 +2064,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="120">
+  <row index="129">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-3-en</cell>
     <cell name="title">Reader's guide (en)</cell>
@@ -1936,7 +2080,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="121">
+  <row index="130">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph13-en</cell>
     <cell name="title">Recycling has increased, but remains low (en)</cell>
@@ -1952,7 +2096,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="122">
+  <row index="131">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-6-fr</cell>
     <cell name="title">Résumé (fr)</cell>
@@ -1968,7 +2112,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="123">
+  <row index="132">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph44-en</cell>
     <cell name="title">Rising use of road vehicles drives emissions increases, despite technical improvements (en)</cell>
@@ -1984,7 +2128,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="124">
+  <row index="133">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph43-en</cell>
     <cell name="title">Road passenger transport generates most of the sector's GHG emissions (en)</cell>
@@ -2000,7 +2144,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="125">
+  <row index="134">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph1-en</cell>
     <cell name="title">Selected environmental performance indicators (en)</cell>
@@ -2016,7 +2160,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="126">
+  <row index="135">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-5-fr</cell>
     <cell name="title">Statistiques de base du Canada (2015 ou dernière année disponible) (fr)</cell>
@@ -2032,7 +2176,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="127">
+  <row index="136">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph22-en</cell>
     <cell name="title">Taxes and royalties paid by energy industries fluctuate from year to year (en)</cell>
@@ -2048,7 +2192,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="128">
+  <row index="137">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph8-en</cell>
     <cell name="title">The energy mix is dominated by fossil fuels, albeit power generation is low-carbon (en)</cell>
@@ -2064,7 +2208,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="129">
+  <row index="138">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph18-en</cell>
     <cell name="title">The federal government's environmental regulatory portfolio has grown (en)</cell>
@@ -2080,7 +2224,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="130">
+  <row index="139">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph19-en</cell>
     <cell name="title">The number of new EMS certifications is declining (en)</cell>
@@ -2096,7 +2240,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="131">
+  <row index="140">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph35-en</cell>
     <cell name="title">The oil and gas industry and transport have driven the increase in emissions (en)</cell>
@@ -2112,7 +2256,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="132">
+  <row index="141">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph32-en</cell>
     <cell name="title">The proportion of environmentally related ODA has increased (en)</cell>
@@ -2128,7 +2272,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="133">
+  <row index="142">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph14-en</cell>
     <cell name="title">The use of agricultural chemicals grew more than agricultural output (en)</cell>
@@ -2144,7 +2288,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="134">
+  <row index="143">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-10-en</cell>
     <cell name="title">Towards green growth (en)</cell>
@@ -2160,7 +2304,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="135">
+  <row index="144">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph49-fr</cell>
     <cell name="title">Un pourcentage relativement élevé de la population canadienne continue de recevoir un traitement primaire des eaux usées (fr)</cell>
@@ -2176,7 +2320,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="136">
+  <row index="145">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph28-fr</cell>
     <cell name="title">Une grande partie des infrastructures canadiennes nécessitent une remise en état ou un remplacement (fr)</cell>
@@ -2192,7 +2336,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="137">
+  <row index="146">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-graph30-fr</cell>
     <cell name="title">Une part importante de la dépense publique en R-D vise le secteur de l'énergie (fr)</cell>
@@ -2208,7 +2352,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="138">
+  <row index="147">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph38-en</cell>
     <cell name="title">Up to now, most emission reductions have been achieved in the electricity sector (en)</cell>
@@ -2224,7 +2368,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="139">
+  <row index="148">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph37-en</cell>
     <cell name="title">Up to now, most emission reductions have occurred due to provincial measures (en)</cell>
@@ -2240,7 +2384,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="140">
+  <row index="149">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-12-en</cell>
     <cell name="title">Urban wastewater management (en)</cell>
@@ -2256,7 +2400,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="141">
+  <row index="150">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264283244-10-fr</cell>
     <cell name="title">Vers une croissance verte (fr)</cell>
@@ -2272,7 +2416,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="142">
+  <row index="151">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264279612-graph17-en</cell>
     <cell name="title">Water quality is unsatisfactory in more than half of monitored freshwater sites (en)</cell>
@@ -2288,7 +2432,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="143">
+  <row index="152">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph49-en</cell>
     <cell name="title">A comparatively large number of airports (en)</cell>
@@ -2304,7 +2448,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="144">
+  <row index="153">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph38-en</cell>
     <cell name="title">A new OECD indicator suggests weaknesses in insolvency restructuring and efficiency (en)</cell>
@@ -2320,7 +2464,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="145">
+  <row index="154">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-3-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -2336,7 +2480,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="146">
+  <row index="155">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-1-en</cell>
     <cell name="title">Basic statistics of Norway (en)</cell>
@@ -2352,7 +2496,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="147">
+  <row index="156">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph11-en</cell>
     <cell name="title">Capital requirements on Norwegian Banks (en)</cell>
@@ -2368,7 +2512,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="148">
+  <row index="157">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph31-en</cell>
     <cell name="title">Combined oil and gas production has already declined (en)</cell>
@@ -2384,7 +2528,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="149">
+  <row index="158">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph13-en</cell>
     <cell name="title">Developments in the value of the fund and in structural non-oil deficits (en)</cell>
@@ -2400,7 +2544,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="150">
+  <row index="159">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph39-en</cell>
     <cell name="title">Domestic R&amp;D activity in Norway is middle ranking (en)</cell>
@@ -2416,7 +2560,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="151">
+  <row index="160">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph24-en</cell>
     <cell name="title">Environment indicators (en)</cell>
@@ -2432,7 +2576,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="152">
+  <row index="161">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-2-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -2448,7 +2592,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="153">
+  <row index="162">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph14-en</cell>
     <cell name="title">General-government expenditure and revenue (en)</cell>
@@ -2464,7 +2608,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="154">
+  <row index="163">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph40-en</cell>
     <cell name="title">Government expenditure on R&amp;D is comparatively high (en)</cell>
@@ -2480,7 +2624,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="155">
+  <row index="164">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph10-en</cell>
     <cell name="title">House prices, household debt and new house sales (en)</cell>
@@ -2496,7 +2640,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="156">
+  <row index="165">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-6-en</cell>
     <cell name="title">How to improve transport-infrastructure investment (en)</cell>
@@ -2512,7 +2656,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="157">
+  <row index="166">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph51-en</cell>
     <cell name="title">Investment efficiency of projects selected in Norway's National Transport Plan 2014-23 (en)</cell>
@@ -2528,7 +2672,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="158">
+  <row index="167">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph48-en</cell>
     <cell name="title">Low transport-network densities partly reflect low population density (en)</cell>
@@ -2544,7 +2688,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="159">
+  <row index="168">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph1-en</cell>
     <cell name="title">Mainland GDP growth and house prices (en)</cell>
@@ -2560,7 +2704,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="160">
+  <row index="169">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph32-en</cell>
     <cell name="title">Mainland oil and gas are projected to decline steadily over the long term (en)</cell>
@@ -2576,7 +2720,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="161">
+  <row index="170">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-5-en</cell>
     <cell name="title">Maintaining a successful business sector in a changing world (en)</cell>
@@ -2592,7 +2736,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="162">
+  <row index="171">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph46-en</cell>
     <cell name="title">Many vocational-stream students do not complete courses (en)</cell>
@@ -2608,7 +2752,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="163">
+  <row index="172">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph50-en</cell>
     <cell name="title">Mediocre scores in the World Economic Forum transport indicators (en)</cell>
@@ -2624,7 +2768,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="164">
+  <row index="173">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph26-en</cell>
     <cell name="title">Much of Norway's inclusiveness derives from high employment rates and small gaps in earnings (en)</cell>
@@ -2640,7 +2784,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="165">
+  <row index="174">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph5-en</cell>
     <cell name="title">Norway continues to deliver good scores in well-being (en)</cell>
@@ -2656,7 +2800,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="166">
+  <row index="175">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph44-en</cell>
     <cell name="title">Norway has been a leader in getting women on company boards (en)</cell>
@@ -2672,7 +2816,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="167">
+  <row index="176">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph15-en</cell>
     <cell name="title">Norway has long had a substantial level of public investment (en)</cell>
@@ -2688,7 +2832,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="168">
+  <row index="177">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph47-en</cell>
     <cell name="title">Norway makes sizeable investment in transport infrastructure (en)</cell>
@@ -2704,7 +2848,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="169">
+  <row index="178">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph34-en</cell>
     <cell name="title">Norway performs reasonably in top-level indicators of the business environment (en)</cell>
@@ -2720,7 +2864,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="170">
+  <row index="179">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph42-en</cell>
     <cell name="title">Norway scores reasonably in collaborative research (en)</cell>
@@ -2736,7 +2880,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="171">
+  <row index="180">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph27-en</cell>
     <cell name="title">Norway scores reasonably in environment-social-governance (ESG) indicators (en)</cell>
@@ -2752,7 +2896,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="172">
+  <row index="181">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph33-en</cell>
     <cell name="title">Norway's corporate tax rate has been lowered (en)</cell>
@@ -2768,7 +2912,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="173">
+  <row index="182">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph23-en</cell>
     <cell name="title">Norway's education and skills performance (en)</cell>
@@ -2784,7 +2928,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="174">
+  <row index="183">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph22-en</cell>
     <cell name="title">Norway's employment rates remain high (en)</cell>
@@ -2800,7 +2944,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="175">
+  <row index="184">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph18-en</cell>
     <cell name="title">Norway's export-market profile (en)</cell>
@@ -2816,7 +2960,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="176">
+  <row index="185">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph4-en</cell>
     <cell name="title">Norway's GDP per capita remains impressive, though growth has slowed (en)</cell>
@@ -2832,7 +2976,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="177">
+  <row index="186">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph37-en</cell>
     <cell name="title">Norway's insolvency system is low cost and has a high recovery rate (en)</cell>
@@ -2848,7 +2992,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="178">
+  <row index="187">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph28-en</cell>
     <cell name="title">Norway's labour costs remain high in international comparison (en)</cell>
@@ -2864,7 +3008,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="179">
+  <row index="188">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph21-en</cell>
     <cell name="title">Norway's R&amp;D spending is middle ranking (en)</cell>
@@ -2880,7 +3024,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="180">
+  <row index="189">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph41-en</cell>
     <cell name="title">Norway's R&amp;D tax break is slanted to supporting SMEs (en)</cell>
@@ -2896,7 +3040,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="181">
+  <row index="190">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph29-en</cell>
     <cell name="title">Norway's unit labour cost (ULC) indices remain high despite recent falls (en)</cell>
@@ -2912,7 +3056,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="182">
+  <row index="191">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph17-en</cell>
     <cell name="title">Norwegian business operates in a high-cost environment (en)</cell>
@@ -2928,7 +3072,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="183">
+  <row index="192">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-en</cell>
     <cell name="title">OECD Economic Surveys: Norway 2018 (en)</cell>
@@ -2944,7 +3088,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="184">
+  <row index="193">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-en</cell>
     <cell name="title">OECD Economic Surveys: Norway 2018 (en)</cell>
@@ -2960,7 +3104,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="185">
+  <row index="194">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-en</cell>
     <cell name="title">OECD Economic Surveys: Norway 2018 (en)</cell>
@@ -2976,7 +3120,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="186">
+  <row index="195">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph45-en</cell>
     <cell name="title">Paid parental leave is comparatively long (en)</cell>
@@ -2992,7 +3136,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="187">
+  <row index="196">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph30-en</cell>
     <cell name="title">Productivity growth has slowed (en)</cell>
@@ -3008,7 +3152,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="188">
+  <row index="197">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph6-en</cell>
     <cell name="title">Productivity slowdown, unit labour costs and oil-price fluctuation present challenges (en)</cell>
@@ -3024,7 +3168,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="189">
+  <row index="198">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-4-en</cell>
     <cell name="title">Progress in structural reform (en)</cell>
@@ -3040,7 +3184,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="190">
+  <row index="199">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph9-en</cell>
     <cell name="title">Recent data suggest there is some risk of a downturn (en)</cell>
@@ -3056,7 +3200,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="191">
+  <row index="200">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph7-en</cell>
     <cell name="title">Recent macroeconomic developments (en)</cell>
@@ -3072,7 +3216,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="192">
+  <row index="201">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph43-en</cell>
     <cell name="title">Recipiency of Disability Benefit is declining among older cohorts but rising in young age groups (en)</cell>
@@ -3088,7 +3232,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="193">
+  <row index="202">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph19-en</cell>
     <cell name="title">Regulatory indices on product markets and services trade point to room for improvement (en)</cell>
@@ -3104,7 +3248,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="194">
+  <row index="203">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph2-en</cell>
     <cell name="title">Structural non-oil deficits (en)</cell>
@@ -3120,7 +3264,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="195">
+  <row index="204">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph35-en</cell>
     <cell name="title">Sub-components of the OECD PMR indicator flag Norway's state stakes in business (en)</cell>
@@ -3136,7 +3280,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="196">
+  <row index="205">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph8-en</cell>
     <cell name="title">Supportive monetary and fiscal policy in recent years (en)</cell>
@@ -3152,7 +3296,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="197">
+  <row index="206">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph25-en</cell>
     <cell name="title">The composition of Norway's economic activity (en)</cell>
@@ -3168,7 +3312,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="198">
+  <row index="207">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph16-en</cell>
     <cell name="title">The corporate tax rate is now middle-ranking, personal-income tax remains high (en)</cell>
@@ -3184,7 +3328,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="199">
+  <row index="208">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph12-en</cell>
     <cell name="title">The latest house-price data suggest the market may be turning (en)</cell>
@@ -3200,7 +3344,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="200">
+  <row index="209">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph20-en</cell>
     <cell name="title">The OECD's insolvency indicators suggest room for improvement in Norway (en)</cell>
@@ -3216,7 +3360,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="201">
+  <row index="210">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph36-en</cell>
     <cell name="title">The OECD's Services Trade Restrictiveness Index also flags issues in Norway (en)</cell>
@@ -3232,7 +3376,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="202">
+  <row index="211">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-nor-2018-graph3-en</cell>
     <cell name="title">Trend labour productivity (en)</cell>
@@ -3248,7 +3392,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="203">
+  <row index="212">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/2109a667-en</cell>
     <cell name="title">Is too much testing bad for student performance and well-being? (en)</cell>
@@ -3262,630 +3406,6 @@
     <cell name="ilibrary last export date">2017-12-15T22:29:47.077Z</cell>
     <cell name="freepreview last export date">2017-12-15T23:43:52.025Z</cell>
     <cell name="catalogue type">Working paper</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="204">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-4-en</cell>
-    <cell name="title">Commentary on Article 1 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="205">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-13-en</cell>
-    <cell name="title">Commentary on Article 10 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="206">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-14-en</cell>
-    <cell name="title">Commentary on Article 11 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="207">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-15-en</cell>
-    <cell name="title">Commentary on Article 12 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="208">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-16-en</cell>
-    <cell name="title">Commentary on Article 13 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="209">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-17-en</cell>
-    <cell name="title">Commentary on Article 14 [Deleted] (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="210">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-18-en</cell>
-    <cell name="title">Commentary on Article 15 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="211">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-19-en</cell>
-    <cell name="title">Commentary on Article 16 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="212">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-20-en</cell>
-    <cell name="title">Commentary on Article 17 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="213">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-21-en</cell>
-    <cell name="title">Commentary on Article 18 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="214">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-22-en</cell>
-    <cell name="title">Commentary on Article 19 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="215">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-5-en</cell>
-    <cell name="title">Commentary on Article 2 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="216">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-23-en</cell>
-    <cell name="title">Commentary on Article 20 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="217">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-24-en</cell>
-    <cell name="title">Commentary on Article 21 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="218">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-25-en</cell>
-    <cell name="title">Commentary on Article 22 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="219">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-27-en</cell>
-    <cell name="title">Commentary on Article 24 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="220">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-28-en</cell>
-    <cell name="title">Commentary on Article 25 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="221">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-29-en</cell>
-    <cell name="title">Commentary on Article 26 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="222">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-30-en</cell>
-    <cell name="title">Commentary on Article 27 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="223">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-31-en</cell>
-    <cell name="title">Commentary on Article 28 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="224">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-32-en</cell>
-    <cell name="title">Commentary on Article 29 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="225">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-6-en</cell>
-    <cell name="title">Commentary on Article 3 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="226">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-33-en</cell>
-    <cell name="title">Commentary on Article 30 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="227">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-7-en</cell>
-    <cell name="title">Commentary on Article 4 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="228">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-8-en</cell>
-    <cell name="title">Commentary on Article 5 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="229">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-9-en</cell>
-    <cell name="title">Commentary on Article 6 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="230">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-10-en</cell>
-    <cell name="title">Commentary on Article 7 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="231">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-11-en</cell>
-    <cell name="title">Commentary on Article 8 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="232">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-12-en</cell>
-    <cell name="title">Commentary on Article 9 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="233">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-26-en</cell>
-    <cell name="title">Commentary on Articles 23 A and 23 B (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="234">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-34-en</cell>
-    <cell name="title">Commentary on Articles 31 and 32 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="235">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-1-en</cell>
-    <cell name="title">Foreword (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="236">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-2-en</cell>
-    <cell name="title">Introduction (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="237">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-3-en</cell>
-    <cell name="title">Model Convention with Respect to Taxes on Income and on Capital (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="238">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-en</cell>
-    <cell name="title">Model Tax Convention on Income and on Capital: Condensed Version 2017 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time">2017-12-18T13:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="239">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-en</cell>
-    <cell name="title">Model Tax Convention on Income and on Capital: Condensed Version 2017 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time">2017-12-18T13:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-12-18T21:39:31.257Z</cell>
-    <cell name="freepreview last export date">2017-12-18T22:24:57.21Z</cell>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="240">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-35-en</cell>
-    <cell name="title">Non-OECD economies' positions on the OECD Model Tax Convention (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="241">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/mtc_cond-2017-36-en</cell>
-    <cell name="title">Recommendation of the OECD Council concerning the Model Tax Convention on Income and on Capital (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-18</cell>
-    <cell name="embargo date">2017-12-18T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-15T22:29:42.723Z</cell>
-    <cell name="freepreview last export date">2017-12-15T23:43:47.817Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="242">
-    <cell name="directorate">International Energy Agency</cell>
-    <cell name="doi">10.1787/coal_mar-2017-en</cell>
-    <cell name="title">Market Report Series: Coal 2017 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2017-12-17</cell>
-    <cell name="embargo date">2017-12-18T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-18T21:39:31.257Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
 </report>
