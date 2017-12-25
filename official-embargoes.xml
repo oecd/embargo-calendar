@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2017-12-23T00:15:12.152+01:00" count="21">
+<report name="official-embargoes" generated="2017-12-25T23:33:11.578+01:00" count="21">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -22,12 +22,12 @@
     <cell name="title">Second Public Procurement Review of the Mexican Institute of Social Security (IMSS) (en)</cell>
     <cell name="subtitle">Reshaping Strategies for Better Healthcare (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-01-10</cell>
     <cell name="embargo date">2018-01-10T18:00:00Z</cell>
     <cell name="launch date/time">2018-01-10T18:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2017-12-22T21:52:11.883Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -38,17 +38,33 @@
     <cell name="title">Second Public Procurement Review of the Mexican Institute of Social Security (IMSS) (en)</cell>
     <cell name="subtitle">Reshaping Strategies for Better Healthcare (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
+    <cell name="medium">Paperback</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-01-10</cell>
     <cell name="embargo date">2018-01-10T18:00:00Z</cell>
     <cell name="launch date/time">2018-01-10T18:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-12-21T22:39:26.287Z</cell>
+    <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
   <row index="3">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264288300-es</cell>
+    <cell name="title">Segundo Estudio de la OCDE sobre Contratación Pública en el Instituto Mexicano del Seguro Social (IMSS) (es)</cell>
+    <cell name="subtitle">Rediseñando las Estrategias para Mejorar el Cuidado de la Salud (es)</cell>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-01-10</cell>
+    <cell name="embargo date">2018-01-10T18:00:00Z</cell>
+    <cell name="launch date/time">2018-01-10T18:00:00Z</cell>
+    <cell name="ilibrary last export date">2017-12-22T21:52:11.883Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="4">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264288300-es</cell>
     <cell name="title">Segundo Estudio de la OCDE sobre Contratación Pública en el Instituto Mexicano del Seguro Social (IMSS) (es)</cell>
@@ -60,22 +76,6 @@
     <cell name="embargo date">2018-01-10T18:00:00Z</cell>
     <cell name="launch date/time">2018-01-10T18:00:00Z</cell>
     <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="4">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264288300-es</cell>
-    <cell name="title">Segundo Estudio de la OCDE sobre Contratación Pública en el Instituto Mexicano del Seguro Social (IMSS) (es)</cell>
-    <cell name="subtitle">Rediseñando las Estrategias para Mejorar el Cuidado de la Salud (es)</cell>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-01-10</cell>
-    <cell name="embargo date">2018-01-10T18:00:00Z</cell>
-    <cell name="launch date/time">2018-01-10T18:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-12-21T22:39:26.287Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -107,7 +107,7 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T18:00:00Z</cell>
     <cell name="launch date/time">2018-01-09T18:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-12-21T22:39:26.287Z</cell>
+    <cell name="ilibrary last export date">2017-12-22T21:52:11.883Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -139,7 +139,7 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T18:00:00Z</cell>
     <cell name="launch date/time">2018-01-09T18:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-12-21T22:39:26.287Z</cell>
+    <cell name="ilibrary last export date">2017-12-22T21:52:11.883Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -155,8 +155,8 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T15:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-20T23:24:22.623Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-12-22T21:52:11.883Z</cell>
+    <cell name="freepreview last export date">2017-12-22T22:49:12.913Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -171,8 +171,8 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T15:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-20T23:24:22.623Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-12-22T21:52:11.883Z</cell>
+    <cell name="freepreview last export date">2017-12-22T22:49:12.913Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -219,8 +219,8 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T15:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-20T23:24:22.623Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-12-22T21:52:11.883Z</cell>
+    <cell name="freepreview last export date">2017-12-22T22:49:12.913Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -235,8 +235,8 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T15:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-20T23:24:22.623Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-12-22T21:52:11.883Z</cell>
+    <cell name="freepreview last export date">2017-12-22T22:49:12.913Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -251,8 +251,8 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T15:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-20T23:24:22.623Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-12-22T21:52:11.883Z</cell>
+    <cell name="freepreview last export date">2017-12-22T22:49:12.913Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -267,8 +267,8 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T15:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-20T23:24:22.623Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-12-22T21:52:11.883Z</cell>
+    <cell name="freepreview last export date">2017-12-22T22:49:12.913Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -283,8 +283,8 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T15:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-20T23:24:22.623Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-12-22T21:52:11.883Z</cell>
+    <cell name="freepreview last export date">2017-12-22T22:49:12.913Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -299,8 +299,8 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T15:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-20T23:24:22.623Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-12-22T21:52:11.883Z</cell>
+    <cell name="freepreview last export date">2017-12-22T22:49:12.913Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -331,8 +331,8 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T15:30:00Z</cell>
     <cell name="launch date/time">2018-01-09T15:30:00Z</cell>
-    <cell name="ilibrary last export date">2017-12-20T23:24:22.623Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-12-22T21:52:11.883Z</cell>
+    <cell name="freepreview last export date">2017-12-22T22:49:12.913Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -347,8 +347,8 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T15:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-20T23:24:22.623Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2017-12-22T21:52:11.883Z</cell>
+    <cell name="freepreview last export date">2017-12-22T22:49:12.913Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
