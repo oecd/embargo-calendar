@@ -21,7 +21,7 @@ DESCRIPTION:Estudios de evaluación de competencia de
  ember 2017, 22:39 Paris time (GMT+00:00)
  \nFreepreview export: never\nFTI loaded:
   no.
-DTSTAMP:20180103T000328Z
+DTSTAMP:20180104T000133Z
 DTSTART:20180109T153000Z
 DTEND:20180109T154500Z
 TRANSP:TRANSPARENT
@@ -54,7 +54,7 @@ DESCRIPTION:OECD Competition Assessment Reviews: Mex
  1:52 Paris time (GMT+00:00)\nFreepreview
   export: 22 December 2017, 22:49 Paris t
  ime (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180103T000328Z
+DTSTAMP:20180104T000133Z
 DTSTART:20180109T153000Z
 DTEND:20180109T154500Z
 TRANSP:TRANSPARENT
@@ -83,11 +83,11 @@ DESCRIPTION:Estudio del Sistema Electrónico de Contr
  ctorate: Directorate for Public Governan
  ce\nLanguage: Spanish\nDOI: https://doi.
  org/10.1787/9789264287938-es\nPublicatio
- n type: Book\nReleased as: Paperback, PD
- F.\n\niLibrary export: 22 December 2017,
+ n type: Book\nReleased as: PDF, Paperbac
+ k.\n\niLibrary export: 22 December 2017,
   21:52 Paris time (GMT+00:00)\nFreeprevi
- ew export: never\nFTI loaded: no.
-DTSTAMP:20180103T000328Z
+ ew export: never\nFTI loaded: ✓.
+DTSTAMP:20180104T000133Z
 DTSTART:20180109T180000Z
 DTEND:20180109T181500Z
 TRANSP:TRANSPARENT
@@ -117,11 +117,11 @@ DESCRIPTION:Mexico's e-Procurement System (en)  - Re
  ublic Governance\nLanguage: English\nDOI
  : https://doi.org/10.1787/9789264287426-
  en\nPublication type: Book\nReleased as:
-  Paperback, PDF.\n\niLibrary export: 22 
+  PDF, Paperback.\n\niLibrary export: 22 
  December 2017, 21:52 Paris time (GMT+00:
  00)\nFreepreview export: never\nFTI load
- ed: no.
-DTSTAMP:20180103T000328Z
+ ed: ✓.
+DTSTAMP:20180104T000133Z
 DTSTART:20180109T180000Z
 DTEND:20180109T181500Z
 TRANSP:TRANSPARENT
@@ -133,6 +133,179 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Mexico's e-Procurement System 
  (en) on 9 January 2018, 19:00 Paris time
   (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/46d4d41a-fr
+SUMMARY:France: Améliorer les perspectives écono
+ miques et le bien-être des habitants des
+  quartiers défavorisés (fr) on 10 Januar
+ y 2018, 2:00 Paris time (GMT+01:00)
+DESCRIPTION:France: Améliorer les perspectives écono
+ miques et le bien-être des habitants des
+  quartiers défavorisés (fr)  by Economic
+ s Department has an embargo date/time of
+  10 January 2018, 2:00 Paris time (GMT+0
+ 1:00).\n\nDirectorate: Economics Departm
+ ent\nLanguage: French\nDOI: https://doi.
+ org/10.1787/46d4d41a-fr\nPublication typ
+ e: Working paper\nReleased as: PDF.\n\ni
+ Library export: 3 January 2018, 21:44 Pa
+ ris time (GMT+00:00)\nFreepreview export
+ : 3 January 2018, 22:37 Paris time (GMT+
+ 00:00)\nFTI loaded: ✓.
+DTSTAMP:20180104T000133Z
+DTSTART:20180110T010000Z
+DTEND:20180110T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: France: Améliorer les perspect
+ ives économiques et le bien-être des hab
+ itants des quartiers défavorisés (fr) on
+  10 January 2018, 2:00 Paris time (GMT+0
+ 1:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/09e92b30-en
+SUMMARY:France: improving the efficiency of the 
+ health-care system (en) on 10 January 20
+ 18, 2:00 Paris time (GMT+01:00)
+DESCRIPTION:France: improving the efficiency of the 
+ health-care system (en)  by Economics De
+ partment has an embargo date/time of 10 
+ January 2018, 2:00 Paris time (GMT+01:00
+ ).\n\nDirectorate: Economics Department\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/09e92b30-en\nPublication type: 
+ Working paper\nReleased as: PDF.\n\niLib
+ rary export: 3 January 2018, 21:44 Paris
+  time (GMT+00:00)\nFreepreview export: 3
+  January 2018, 22:37 Paris time (GMT+00:
+ 00)\nFTI loaded: ✓.
+DTSTAMP:20180104T000133Z
+DTSTART:20180110T010000Z
+DTEND:20180110T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: France: improving the efficien
+ cy of the health-care system (en) on 10 
+ January 2018, 2:00 Paris time (GMT+01:00
+ )
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/266e91e1-en
+SUMMARY:France: Promoting economic opportunities
+  and well-being in poor neighbourhoods (
+ en) on 10 January 2018, 2:00 Paris time 
+ (GMT+01:00)
+DESCRIPTION:France: Promoting economic opportunities
+  and well-being in poor neighbourhoods (
+ en)  by Economics Department has an emba
+ rgo date/time of 10 January 2018, 2:00 P
+ aris time (GMT+01:00).\n\nDirectorate: E
+ conomics Department\nLanguage: English\n
+ DOI: https://doi.org/10.1787/266e91e1-en
+ \nPublication type: Working paper\nRelea
+ sed as: PDF.\n\niLibrary export: 3 Janua
+ ry 2018, 21:44 Paris time (GMT+00:00)\nF
+ reepreview export: 3 January 2018, 22:37
+  Paris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180104T000133Z
+DTSTART:20180110T010000Z
+DTEND:20180110T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: France: Promoting economic opp
+ ortunities and well-being in poor neighb
+ ourhoods (en) on 10 January 2018, 2:00 P
+ aris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/14dfd584-en
+SUMMARY:Improving productivity and job quality o
+ f low-skilled workers in the United King
+ dom (en) on 10 January 2018, 2:00 Paris 
+ time (GMT+01:00)
+DESCRIPTION:Improving productivity and job quality o
+ f low-skilled workers in the United King
+ dom (en)  by Economics Department has an
+  embargo date/time of 10 January 2018, 2
+ :00 Paris time (GMT+01:00).\n\nDirectora
+ te: Economics Department\nLanguage: Engl
+ ish\nDOI: https://doi.org/10.1787/14dfd5
+ 84-en\nPublication type: Working paper\n
+ Released as: PDF.\n\niLibrary export: 3 
+ January 2018, 21:44 Paris time (GMT+00:0
+ 0)\nFreepreview export: 3 January 2018, 
+ 22:37 Paris time (GMT+00:00)\nFTI loaded
+ : ✓.
+DTSTAMP:20180104T000133Z
+DTSTART:20180110T010000Z
+DTEND:20180110T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Improving productivity and job
+  quality of low-skilled workers in the U
+ nited Kingdom (en) on 10 January 2018, 2
+ :00 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/54293958-en
+SUMMARY:United Kingdom: reducing regional dispar
+ ities in productivity Peter Gal and Jago
+ da Egeland (en) on 10 January 2018, 2:00
+  Paris time (GMT+01:00)
+DESCRIPTION:United Kingdom: reducing regional dispar
+ ities in productivity Peter Gal and Jago
+ da Egeland (en)  by Economics Department
+  has an embargo date/time of 10 January 
+ 2018, 2:00 Paris time (GMT+01:00).\n\nDi
+ rectorate: Economics Department\nLanguag
+ e: English\nDOI: https://doi.org/10.1787
+ /54293958-en\nPublication type: Working 
+ paper\nReleased as: PDF.\n\niLibrary exp
+ ort: 3 January 2018, 21:44 Paris time (G
+ MT+00:00)\nFreepreview export: 3 January
+  2018, 22:37 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180104T000133Z
+DTSTART:20180110T010000Z
+DTEND:20180110T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: United Kingdom: reducing regio
+ nal disparities in productivity Peter Ga
+ l and Jagoda Egeland (en) on 10 January 
+ 2018, 2:00 Paris time (GMT+01:00)
 END:VALARM
 END:VEVENT
 
@@ -156,7 +329,7 @@ DESCRIPTION:Second Public Procurement Review of the
  : 22 December 2017, 21:52 Paris time (GM
  T+00:00)\nFreepreview export: never\nFTI
   loaded: no.
-DTSTAMP:20180103T000328Z
+DTSTAMP:20180104T000133Z
 DTSTART:20180110T180000Z
 DTEND:20180110T181500Z
 TRANSP:TRANSPARENT
@@ -193,7 +366,7 @@ DESCRIPTION:Segundo Estudio de la OCDE sobre Contrat
  t: 22 December 2017, 21:52 Paris time (G
  MT+00:00)\nFreepreview export: never\nFT
  I loaded: no.
-DTSTAMP:20180103T000328Z
+DTSTAMP:20180104T000133Z
 DTSTART:20180110T180000Z
 DTEND:20180110T181500Z
 TRANSP:TRANSPARENT
@@ -207,6 +380,73 @@ DESCRIPTION:Reminder: Segundo Estudio de la OCDE sob
  Mexicano del Seguro Social (IMSS) (es) o
  n 10 January 2018, 19:00 Paris time (GMT
  +01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264288317-es
+SUMMARY:Contratación pública en Nuevo León, Méxi
+ co (es) on 10 January 2018, 20:00 Paris 
+ time (GMT+01:00)
+DESCRIPTION:Contratación pública en Nuevo León, Méxi
+ co (es)  - Promoviendo la eficiencia por
+  medio de la centralización y la profesi
+ onalización (es) by Directorate for Publ
+ ic Governance has an embargo date/time o
+ f 10 January 2018, 20:00 Paris time (GMT
+ +01:00).\n\nDirectorate: Directorate for
+  Public Governance\nLanguage: Spanish\nD
+ OI: https://doi.org/10.1787/978926428831
+ 7-es\nPublication type: Book\nReleased a
+ s: PDF, Paperback.\n\niLibrary export: 2
+ 2 December 2017, 21:52 Paris time (GMT+0
+ 0:00)\nFreepreview export: never\nFTI lo
+ aded: no.
+DTSTAMP:20180104T000133Z
+DTSTART:20180110T190000Z
+DTEND:20180110T191500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Contratación pública en Nuevo 
+ León, México (es) on 10 January 2018, 20
+ :00 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264288225-en
+SUMMARY:Public Procurement in Nuevo León, Mexico
+  (en) on 10 January 2018, 20:00 Paris ti
+ me (GMT+01:00)
+DESCRIPTION:Public Procurement in Nuevo León, Mexico
+  (en)  - Promoting Efficiency through Ce
+ ntralisation and Professionalisation (en
+ ) by Directorate for Public Governance h
+ as an embargo date/time of 10 January 20
+ 18, 20:00 Paris time (GMT+01:00).\n\nDir
+ ectorate: Directorate for Public Governa
+ nce\nLanguage: English\nDOI: https://doi
+ .org/10.1787/9789264288225-en\nPublicati
+ on type: Book\nReleased as: PDF, Paperba
+ ck.\n\niLibrary export: 22 December 2017
+ , 21:52 Paris time (GMT+00:00)\nFreeprev
+ iew export: never\nFTI loaded: no.
+DTSTAMP:20180104T000133Z
+DTSTART:20180110T190000Z
+DTEND:20180110T191500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Public Procurement in Nuevo Le
+ ón, Mexico (en) on 10 January 2018, 20:0
+ 0 Paris time (GMT+01:00)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
