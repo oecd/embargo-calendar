@@ -1,6 +1,6 @@
 # OECD publication embargoes (13 embargoes)
 
-*Data generated on Thursday 4 January 2018 at 0:01*
+*Data generated on Friday 5 January 2018 at 0:13*
 
 ------
 
@@ -11,7 +11,7 @@ Embargo date | Launch date
 Tuesday 9 January 2018 at 16:30 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 December 2017 at 23:39
 - [ ] Exported to Keepeek
 
@@ -19,7 +19,7 @@ Tuesday 9 January 2018 at 16:30 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -54,8 +54,8 @@ Tuesday 9 January 2018 at 19:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 December 2017 at 22:52
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 3 January 2018 at 22:44
+- [x] Exported to Keepeek Wednesday 3 January 2018 at 23:37
 
 ### Additional Information
 
@@ -75,8 +75,8 @@ Tuesday 9 January 2018 at 19:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 December 2017 at 22:52
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 3 January 2018 at 22:44
+- [x] Exported to Keepeek Wednesday 3 January 2018 at 23:37
 
 ### Additional Information
 
@@ -243,7 +243,7 @@ Wednesday 10 January 2018 at 20:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 22 December 2017 at 22:52
+- [x] Exported to iLibrary Wednesday 3 January 2018 at 22:44
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -264,7 +264,7 @@ Wednesday 10 January 2018 at 20:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 22 December 2017 at 22:52
+- [x] Exported to iLibrary Wednesday 3 January 2018 at 22:44
 - [ ] Exported to Keepeek
 
 ### Additional Information

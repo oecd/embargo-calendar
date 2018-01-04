@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2018-01-04T00:01:29.865+01:00" count="42">
+<report name="official-embargoes" generated="2018-01-05T00:13:50.315+01:00" count="51">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -22,12 +22,12 @@
     <cell name="title">Contratación pública en Nuevo León, México (es)</cell>
     <cell name="subtitle">Promoviendo la eficiencia por medio de la centralización y la profesionalización (es)</cell>
     <cell name="language">Spanish</cell>
-    <cell name="medium">PDF</cell>
+    <cell name="medium">Paperback</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-01-10</cell>
     <cell name="embargo date">2018-01-10T19:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-22T21:52:11.883Z</cell>
+    <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -38,12 +38,12 @@
     <cell name="title">Contratación pública en Nuevo León, México (es)</cell>
     <cell name="subtitle">Promoviendo la eficiencia por medio de la centralización y la profesionalización (es)</cell>
     <cell name="language">Spanish</cell>
-    <cell name="medium">Paperback</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-01-10</cell>
     <cell name="embargo date">2018-01-10T19:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-01-03T21:44:13.99Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -54,12 +54,12 @@
     <cell name="title">Public Procurement in Nuevo León, Mexico (en)</cell>
     <cell name="subtitle">Promoting Efficiency through Centralisation and Professionalisation (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
+    <cell name="medium">Paperback</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-01-10</cell>
     <cell name="embargo date">2018-01-10T19:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2017-12-22T21:52:11.883Z</cell>
+    <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -70,12 +70,12 @@
     <cell name="title">Public Procurement in Nuevo León, Mexico (en)</cell>
     <cell name="subtitle">Promoting Efficiency through Centralisation and Professionalisation (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-01-10</cell>
     <cell name="embargo date">2018-01-10T19:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-01-03T21:44:13.99Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -86,12 +86,12 @@
     <cell name="title">Second Public Procurement Review of the Mexican Institute of Social Security (IMSS) (en)</cell>
     <cell name="subtitle">Reshaping Strategies for Better Healthcare (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
+    <cell name="medium">Paperback</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-01-10</cell>
     <cell name="embargo date">2018-01-10T18:00:00Z</cell>
     <cell name="launch date/time">2018-01-10T18:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-12-22T21:52:11.883Z</cell>
+    <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -102,6 +102,22 @@
     <cell name="title">Second Public Procurement Review of the Mexican Institute of Social Security (IMSS) (en)</cell>
     <cell name="subtitle">Reshaping Strategies for Better Healthcare (en)</cell>
     <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-01-10</cell>
+    <cell name="embargo date">2018-01-10T18:00:00Z</cell>
+    <cell name="launch date/time">2018-01-10T18:00:00Z</cell>
+    <cell name="ilibrary last export date">2017-12-22T21:52:11.883Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="7">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264288300-es</cell>
+    <cell name="title">Segundo Estudio de la OCDE sobre Contratación Pública en el Instituto Mexicano del Seguro Social (IMSS) (es)</cell>
+    <cell name="subtitle">Rediseñando las Estrategias para Mejorar el Cuidado de la Salud (es)</cell>
+    <cell name="language">Spanish</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-01-10</cell>
@@ -112,7 +128,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="7">
+  <row index="8">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264288300-es</cell>
     <cell name="title">Segundo Estudio de la OCDE sobre Contratación Pública en el Instituto Mexicano del Seguro Social (IMSS) (es)</cell>
@@ -124,22 +140,6 @@
     <cell name="embargo date">2018-01-10T18:00:00Z</cell>
     <cell name="launch date/time">2018-01-10T18:00:00Z</cell>
     <cell name="ilibrary last export date">2017-12-22T21:52:11.883Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="8">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264288300-es</cell>
-    <cell name="title">Segundo Estudio de la OCDE sobre Contratación Pública en el Instituto Mexicano del Seguro Social (IMSS) (es)</cell>
-    <cell name="subtitle">Rediseñando las Estrategias para Mejorar el Cuidado de la Salud (es)</cell>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-01-10</cell>
-    <cell name="embargo date">2018-01-10T18:00:00Z</cell>
-    <cell name="launch date/time">2018-01-10T18:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -235,8 +235,8 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T18:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-01-03T21:44:13.99Z</cell>
+    <cell name="freepreview last export date">2018-01-03T22:37:04.3Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -251,8 +251,8 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T18:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-01-03T21:44:13.99Z</cell>
+    <cell name="freepreview last export date">2018-01-03T22:37:04.3Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -267,8 +267,8 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T18:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-01-03T21:44:13.99Z</cell>
+    <cell name="freepreview last export date">2018-01-03T22:37:04.3Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -283,8 +283,8 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T18:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-01-03T21:44:13.99Z</cell>
+    <cell name="freepreview last export date">2018-01-03T22:37:04.3Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -299,8 +299,8 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T18:00:00Z</cell>
     <cell name="launch date/time">2018-01-09T18:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-12-22T21:52:11.883Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-01-03T21:44:13.99Z</cell>
+    <cell name="freepreview last export date">2018-01-03T22:37:04.3Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -331,8 +331,8 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T18:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-01-03T21:44:13.99Z</cell>
+    <cell name="freepreview last export date">2018-01-03T22:37:04.3Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -347,8 +347,8 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T18:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-01-03T21:44:13.99Z</cell>
+    <cell name="freepreview last export date">2018-01-03T22:37:04.3Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -363,8 +363,8 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T18:00:00Z</cell>
     <cell name="launch date/time">2018-01-09T18:00:00Z</cell>
-    <cell name="ilibrary last export date">2017-12-22T21:52:11.883Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-01-03T21:44:13.99Z</cell>
+    <cell name="freepreview last export date">2018-01-03T22:37:04.3Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -395,8 +395,8 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T18:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-01-03T21:44:13.99Z</cell>
+    <cell name="freepreview last export date">2018-01-03T22:37:04.3Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -411,8 +411,8 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T18:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-01-03T21:44:13.99Z</cell>
+    <cell name="freepreview last export date">2018-01-03T22:37:04.3Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -427,8 +427,8 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T18:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-01-03T21:44:13.99Z</cell>
+    <cell name="freepreview last export date">2018-01-03T22:37:04.3Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -443,8 +443,8 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T18:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-01-03T21:44:13.99Z</cell>
+    <cell name="freepreview last export date">2018-01-03T22:37:04.3Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -459,8 +459,8 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T18:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-01-03T21:44:13.99Z</cell>
+    <cell name="freepreview last export date">2018-01-03T22:37:04.3Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -475,8 +475,8 @@
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T18:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-01-03T21:44:13.99Z</cell>
+    <cell name="freepreview last export date">2018-01-03T22:37:04.3Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -498,6 +498,38 @@
   </row>
   <row index="31">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/9789264287921-2-es</cell>
+    <cell name="title">Abreviaturas y acrónimos (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-01-09</cell>
+    <cell name="embargo date">2018-01-09T15:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="32">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/9789264287921-9-es</cell>
+    <cell name="title">Análisis de la legislación por sector (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-01-09</cell>
+    <cell name="embargo date">2018-01-09T15:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="33">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/9789264288218-5-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
     <cell name="subtitle"/>
@@ -512,7 +544,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="32">
+  <row index="34">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/9789264287921-es</cell>
     <cell name="title">Estudios de evaluación de competencia de la OCDE: México (es)</cell>
@@ -526,25 +558,41 @@
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="33">
+  <row index="35">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/9789264287921-es</cell>
     <cell name="title">Estudios de evaluación de competencia de la OCDE: México (es)</cell>
     <cell name="subtitle"/>
     <cell name="language">Spanish</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2018-01-09</cell>
     <cell name="embargo date">2018-01-09T15:30:00Z</cell>
     <cell name="launch date/time">2018-01-09T15:30:00Z</cell>
     <cell name="ilibrary last export date">2017-12-21T22:39:26.287Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="34">
+  <row index="36">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/9789264287921-5-es</cell>
+    <cell name="title">Evaluación y recomendaciones (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-01-09</cell>
+    <cell name="embargo date">2018-01-09T15:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="37">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/9789264288218-4-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -560,7 +608,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="35">
+  <row index="38">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/9789264288218-1-en</cell>
     <cell name="title">Foreword and acknowledgments (en)</cell>
@@ -576,7 +624,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="36">
+  <row index="39">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/9789264288218-9-en</cell>
     <cell name="title">Legislation screening by sector (en)</cell>
@@ -592,7 +640,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="37">
+  <row index="40">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/9789264288218-7-en</cell>
     <cell name="title">Meat (en)</cell>
@@ -608,7 +656,23 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="38">
+  <row index="41">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/9789264287921-6-es</cell>
+    <cell name="title">Medicamentos (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-01-09</cell>
+    <cell name="embargo date">2018-01-09T15:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="42">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/9789264288218-6-en</cell>
     <cell name="title">Medicines (en)</cell>
@@ -624,7 +688,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="39">
+  <row index="43">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/9789264288218-8-en</cell>
     <cell name="title">Methodology (en)</cell>
@@ -640,7 +704,23 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="40">
+  <row index="44">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/9789264287921-8-es</cell>
+    <cell name="title">Metodología (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-01-09</cell>
+    <cell name="embargo date">2018-01-09T15:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="45">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/9789264288218-en</cell>
     <cell name="title">OECD Competition Assessment Reviews: Mexico (en)</cell>
@@ -656,7 +736,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="41">
+  <row index="46">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/9789264288218-en</cell>
     <cell name="title">OECD Competition Assessment Reviews: Mexico (en)</cell>
@@ -672,7 +752,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="42">
+  <row index="47">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/9789264288218-3-en</cell>
     <cell name="title">Preface by Ildefonso Guajardo Villarreal, Minister of Economy (en)</cell>
@@ -685,6 +765,70 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2017-12-22T21:52:11.883Z</cell>
     <cell name="freepreview last export date">2017-12-22T22:49:12.913Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="48">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/9789264287921-3-es</cell>
+    <cell name="title">Prefacio por Ildefonso Guajardo Villarreal Secretario de Economía (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-01-09</cell>
+    <cell name="embargo date">2018-01-09T15:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="49">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/9789264287921-1-es</cell>
+    <cell name="title">Prólogo y agradecimientos (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-01-09</cell>
+    <cell name="embargo date">2018-01-09T15:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="50">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/9789264287921-4-es</cell>
+    <cell name="title">Resumen ejecutivo (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-01-09</cell>
+    <cell name="embargo date">2018-01-09T15:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="51">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/9789264287921-7-es</cell>
+    <cell name="title">Sector de la carne (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-01-09</cell>
+    <cell name="embargo date">2018-01-09T15:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>

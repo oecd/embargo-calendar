@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Thu, 04 Jan 2018 00:01:35 GMT</pubDate>
+      <pubDate>Fri, 05 Jan 2018 00:13:55 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -22,7 +22,7 @@
          <oe:embargoTime>2018-01-09T15:30:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Directorate for Financial and Enterprise Affairs</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Thursday, 21 December 2017, 22:39 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
@@ -53,8 +53,8 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Public Governance</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Friday, 22 December 2017, 21:52 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:iLibraryExport>Wednesday, 3 January 2018, 21:44 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Wednesday, 3 January 2018, 22:37 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
@@ -68,8 +68,8 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Public Governance</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Friday, 22 December 2017, 21:52 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:iLibraryExport>Wednesday, 3 January 2018, 21:44 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Wednesday, 3 January 2018, 22:37 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
@@ -161,7 +161,7 @@
          <oe:iLibraryExport>Friday, 22 December 2017, 21:52 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264288300-es</guid>
@@ -176,7 +176,7 @@
          <oe:iLibraryExport>Friday, 22 December 2017, 21:52 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264288317-es</guid>
@@ -188,10 +188,10 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Public Governance</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Friday, 22 December 2017, 21:52 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Wednesday, 3 January 2018, 21:44 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264288225-en</guid>
@@ -203,10 +203,10 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Public Governance</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Friday, 22 December 2017, 21:52 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Wednesday, 3 January 2018, 21:44 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
    </channel>
 </rss>
