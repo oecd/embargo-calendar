@@ -4,6 +4,39 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
+UID:10.1787/9789264288379-en
+SUMMARY:Production Transformation Policy Review 
+ of Chile (en) on 9 January 2018, 13:30 P
+ aris time (GMT+01:00)
+DESCRIPTION:Production Transformation Policy Review 
+ of Chile (en)  - Reaping the Benefits of
+  New Frontiers (en) by Statistics Direct
+ orate, Development Centre has an embargo
+  date/time of 9 January 2018, 13:30 Pari
+ s time (GMT+01:00).\n\nDirectorate: Stat
+ istics Directorate, Development Centre\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/9789264288379-en\nPublication ty
+ pe: Book\nReleased as: Paperback, PDF.\n
+ \niLibrary export: 4 January 2018, 21:54
+  Paris time (GMT+00:00)\nFreepreview exp
+ ort: never\nFTI loaded: no.
+DTSTAMP:20180106T003145Z
+DTSTART:20180109T123000Z
+DTEND:20180109T124500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Production Transformation Poli
+ cy Review of Chile (en) on 9 January 201
+ 8, 13:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264287921-es
 SUMMARY:Estudios de evaluación de competencia de
   la OCDE: México (es) on 9 January 2018,
@@ -17,11 +50,11 @@ DESCRIPTION:Estudios de evaluación de competencia de
  prise Affairs\nLanguage: Spanish\nDOI: h
  ttps://doi.org/10.1787/9789264287921-es\
  nPublication type: Book\nReleased as: Pa
- perback, PDF.\n\niLibrary export: 21 Dec
- ember 2017, 22:39 Paris time (GMT+00:00)
- \nFreepreview export: never\nFTI loaded:
-  ✓.
-DTSTAMP:20180105T001353Z
+ perback, PDF.\n\niLibrary export: 4 Janu
+ ary 2018, 21:54 Paris time (GMT+00:00)\n
+ Freepreview export: 4 January 2018, 22:4
+ 9 Paris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180106T003145Z
 DTSTART:20180109T153000Z
 DTEND:20180109T154500Z
 TRANSP:TRANSPARENT
@@ -54,7 +87,7 @@ DESCRIPTION:OECD Competition Assessment Reviews: Mex
  1:52 Paris time (GMT+00:00)\nFreepreview
   export: 22 December 2017, 22:49 Paris t
  ime (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180105T001353Z
+DTSTAMP:20180106T003145Z
 DTSTART:20180109T153000Z
 DTEND:20180109T154500Z
 TRANSP:TRANSPARENT
@@ -88,7 +121,7 @@ DESCRIPTION:Estudio del Sistema Electrónico de Contr
  1:44 Paris time (GMT+00:00)\nFreepreview
   export: 3 January 2018, 22:37 Paris tim
  e (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180105T001353Z
+DTSTAMP:20180106T003145Z
 DTSTART:20180109T180000Z
 DTEND:20180109T181500Z
 TRANSP:TRANSPARENT
@@ -123,7 +156,7 @@ DESCRIPTION:Mexico's e-Procurement System (en)  - Re
  )\nFreepreview export: 3 January 2018, 2
  2:37 Paris time (GMT+00:00)\nFTI loaded:
   ✓.
-DTSTAMP:20180105T001353Z
+DTSTAMP:20180106T003145Z
 DTSTART:20180109T180000Z
 DTEND:20180109T181500Z
 TRANSP:TRANSPARENT
@@ -157,7 +190,7 @@ DESCRIPTION:France: Améliorer les perspectives écono
  ris time (GMT+00:00)\nFreepreview export
  : 3 January 2018, 22:37 Paris time (GMT+
  00:00)\nFTI loaded: ✓.
-DTSTAMP:20180105T001353Z
+DTSTAMP:20180106T003145Z
 DTSTART:20180110T010000Z
 DTEND:20180110T011500Z
 TRANSP:TRANSPARENT
@@ -191,7 +224,7 @@ DESCRIPTION:France: improving the efficiency of the
   time (GMT+00:00)\nFreepreview export: 3
   January 2018, 22:37 Paris time (GMT+00:
  00)\nFTI loaded: ✓.
-DTSTAMP:20180105T001353Z
+DTSTAMP:20180106T003145Z
 DTSTART:20180110T010000Z
 DTEND:20180110T011500Z
 TRANSP:TRANSPARENT
@@ -225,7 +258,7 @@ DESCRIPTION:France: Promoting economic opportunities
  ry 2018, 21:44 Paris time (GMT+00:00)\nF
  reepreview export: 3 January 2018, 22:37
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180105T001353Z
+DTSTAMP:20180106T003145Z
 DTSTART:20180110T010000Z
 DTEND:20180110T011500Z
 TRANSP:TRANSPARENT
@@ -260,7 +293,7 @@ DESCRIPTION:Improving productivity and job quality o
  0)\nFreepreview export: 3 January 2018, 
  22:37 Paris time (GMT+00:00)\nFTI loaded
  : ✓.
-DTSTAMP:20180105T001353Z
+DTSTAMP:20180106T003145Z
 DTSTART:20180110T010000Z
 DTEND:20180110T011500Z
 TRANSP:TRANSPARENT
@@ -295,7 +328,7 @@ DESCRIPTION:United Kingdom: reducing regional dispar
  MT+00:00)\nFreepreview export: 3 January
   2018, 22:37 Paris time (GMT+00:00)\nFTI
   loaded: ✓.
-DTSTAMP:20180105T001353Z
+DTSTAMP:20180106T003145Z
 DTSTART:20180110T010000Z
 DTEND:20180110T011500Z
 TRANSP:TRANSPARENT
@@ -330,8 +363,8 @@ DESCRIPTION:Second Public Procurement Review of the
  d as: Paperback, PDF.\n\niLibrary export
  : 22 December 2017, 21:52 Paris time (GM
  T+00:00)\nFreepreview export: never\nFTI
-  loaded: no.
-DTSTAMP:20180105T001353Z
+  loaded: ✓.
+DTSTAMP:20180106T003145Z
 DTSTART:20180110T180000Z
 DTEND:20180110T181500Z
 TRANSP:TRANSPARENT
@@ -367,8 +400,8 @@ DESCRIPTION:Segundo Estudio de la OCDE sobre Contrat
  ed as: Paperback, PDF.\n\niLibrary expor
  t: 22 December 2017, 21:52 Paris time (G
  MT+00:00)\nFreepreview export: never\nFT
- I loaded: no.
-DTSTAMP:20180105T001353Z
+ I loaded: ✓.
+DTSTAMP:20180106T003145Z
 DTSTART:20180110T180000Z
 DTEND:20180110T181500Z
 TRANSP:TRANSPARENT
@@ -403,8 +436,8 @@ DESCRIPTION:Contratación pública en Nuevo León, Méxi
  s: Paperback, PDF.\n\niLibrary export: 3
   January 2018, 21:44 Paris time (GMT+00:
  00)\nFreepreview export: never\nFTI load
- ed: no.
-DTSTAMP:20180105T001353Z
+ ed: ✓.
+DTSTAMP:20180106T003145Z
 DTSTART:20180110T190000Z
 DTEND:20180110T191500Z
 TRANSP:TRANSPARENT
@@ -436,8 +469,8 @@ DESCRIPTION:Public Procurement in Nuevo León, Mexico
  on type: Book\nReleased as: Paperback, P
  DF.\n\niLibrary export: 3 January 2018, 
  21:44 Paris time (GMT+00:00)\nFreeprevie
- w export: never\nFTI loaded: no.
-DTSTAMP:20180105T001353Z
+ w export: never\nFTI loaded: ✓.
+DTSTAMP:20180106T003145Z
 DTSTART:20180110T190000Z
 DTEND:20180110T191500Z
 TRANSP:TRANSPARENT

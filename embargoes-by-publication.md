@@ -1,6 +1,27 @@
-# OECD publication embargoes (13 embargoes)
+# OECD publication embargoes (14 embargoes)
 
-*Data generated on Friday 5 January 2018 at 0:13*
+*Data generated on Saturday 6 January 2018 at 0:31*
+
+------
+
+## [Production Transformation Policy Review of Chile (en) - Reaping the Benefits of New Frontiers (en)](https://doi.org/10.1787/9789264288379-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 9 January 2018 at 13:30 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 4 January 2018 at 22:54
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics Directorate, Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
 
 ------
 
@@ -12,8 +33,8 @@ Tuesday 9 January 2018 at 16:30 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 December 2017 at 23:39
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 4 January 2018 at 22:54
+- [x] Exported to Keepeek Thursday 4 January 2018 at 23:49
 
 ### Additional Information
 
@@ -200,7 +221,7 @@ Embargo date | Launch date
 Wednesday 10 January 2018 at 19:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 22 December 2017 at 22:52
 - [ ] Exported to Keepeek
 
@@ -208,7 +229,7 @@ Wednesday 10 January 2018 at 19:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -221,7 +242,7 @@ Embargo date | Launch date
 Wednesday 10 January 2018 at 19:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 22 December 2017 at 22:52
 - [ ] Exported to Keepeek
 
@@ -229,7 +250,7 @@ Wednesday 10 January 2018 at 19:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -242,7 +263,7 @@ Embargo date | Launch date
 Wednesday 10 January 2018 at 20:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 3 January 2018 at 22:44
 - [ ] Exported to Keepeek
 
@@ -250,7 +271,7 @@ Wednesday 10 January 2018 at 20:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -263,7 +284,7 @@ Embargo date | Launch date
 Wednesday 10 January 2018 at 20:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 3 January 2018 at 22:44
 - [ ] Exported to Keepeek
 
@@ -271,6 +292,6 @@ Wednesday 10 January 2018 at 20:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
