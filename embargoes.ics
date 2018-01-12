@@ -4,174 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264288379-en
-SUMMARY:Production Transformation Policy Review 
- of Chile (en) on 9 January 2018, 13:30 P
- aris time (GMT+01:00)
-DESCRIPTION:Production Transformation Policy Review 
- of Chile (en)  - Reaping the Benefits of
-  New Frontiers (en) by Statistics Direct
- orate, Development Centre has an embargo
-  date/time of 9 January 2018, 13:30 Pari
- s time (GMT+01:00).\n\nDirectorate: Stat
- istics Directorate, Development Centre\n
- Language: English\nDOI: https://doi.org/
- 10.1787/9789264288379-en\nPublication ty
- pe: Book\nReleased as: Paperback, PDF.\n
- \niLibrary export: 4 January 2018, 21:54
-  Paris time (GMT+00:00)\nFreepreview exp
- ort: never\nFTI loaded: no.
-DTSTAMP:20180106T003145Z
-DTSTART:20180109T123000Z
-DTEND:20180109T124500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Production Transformation Poli
- cy Review of Chile (en) on 9 January 201
- 8, 13:30 Paris time (GMT+01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264287921-es
-SUMMARY:Estudios de evaluación de competencia de
-  la OCDE: México (es) on 9 January 2018,
-  16:30 Paris time (GMT+01:00)
-DESCRIPTION:Estudios de evaluación de competencia de
-  la OCDE: México (es)  by Directorate fo
- r Financial and Enterprise Affairs has a
- n embargo date/time of 9 January 2018, 1
- 6:30 Paris time (GMT+01:00).\n\nDirector
- ate: Directorate for Financial and Enter
- prise Affairs\nLanguage: Spanish\nDOI: h
- ttps://doi.org/10.1787/9789264287921-es\
- nPublication type: Book\nReleased as: Pa
- perback, PDF.\n\niLibrary export: 4 Janu
- ary 2018, 21:54 Paris time (GMT+00:00)\n
- Freepreview export: 4 January 2018, 22:4
- 9 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180106T003145Z
-DTSTART:20180109T153000Z
-DTEND:20180109T154500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Estudios de evaluación de comp
- etencia de la OCDE: México (es) on 9 Jan
- uary 2018, 16:30 Paris time (GMT+01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264288218-en
-SUMMARY:OECD Competition Assessment Reviews: Mex
- ico (en) on 9 January 2018, 16:30 Paris 
- time (GMT+01:00)
-DESCRIPTION:OECD Competition Assessment Reviews: Mex
- ico (en)  by Directorate for Financial a
- nd Enterprise Affairs has an embargo dat
- e/time of 9 January 2018, 16:30 Paris ti
- me (GMT+01:00).\n\nDirectorate: Director
- ate for Financial and Enterprise Affairs
- \nLanguage: English\nDOI: https://doi.or
- g/10.1787/9789264288218-en\nPublication 
- type: Book\nReleased as: Paperback, PDF.
- \n\niLibrary export: 22 December 2017, 2
- 1:52 Paris time (GMT+00:00)\nFreepreview
-  export: 22 December 2017, 22:49 Paris t
- ime (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180106T003145Z
-DTSTART:20180109T153000Z
-DTEND:20180109T154500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Competition Assessment Re
- views: Mexico (en) on 9 January 2018, 16
- :30 Paris time (GMT+01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264287938-es
-SUMMARY:Estudio del Sistema Electrónico de Contr
- atación Pública de México (es) on 9 Janu
- ary 2018, 19:00 Paris time (GMT+01:00)
-DESCRIPTION:Estudio del Sistema Electrónico de Contr
- atación Pública de México (es)  - Redise
- ñando CompraNet de manera incluyente (es
- ) by Directorate for Public Governance h
- as an embargo date/time of 9 January 201
- 8, 19:00 Paris time (GMT+01:00).\n\nDire
- ctorate: Directorate for Public Governan
- ce\nLanguage: Spanish\nDOI: https://doi.
- org/10.1787/9789264287938-es\nPublicatio
- n type: Book\nReleased as: PDF, Paperbac
- k.\n\niLibrary export: 3 January 2018, 2
- 1:44 Paris time (GMT+00:00)\nFreepreview
-  export: 3 January 2018, 22:37 Paris tim
- e (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180106T003145Z
-DTSTART:20180109T180000Z
-DTEND:20180109T181500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Estudio del Sistema Electrónic
- o de Contratación Pública de México (es)
-  on 9 January 2018, 19:00 Paris time (GM
- T+01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264287426-en
-SUMMARY:Mexico's e-Procurement System (en) on 9 
- January 2018, 19:00 Paris time (GMT+01:0
- 0)
-DESCRIPTION:Mexico's e-Procurement System (en)  - Re
- designing CompraNet through Stakeholder 
- Engagement (en) by Directorate for Publi
- c Governance has an embargo date/time of
-  9 January 2018, 19:00 Paris time (GMT+0
- 1:00).\n\nDirectorate: Directorate for P
- ublic Governance\nLanguage: English\nDOI
- : https://doi.org/10.1787/9789264287426-
- en\nPublication type: Book\nReleased as:
-  PDF, Paperback.\n\niLibrary export: 3 J
- anuary 2018, 21:44 Paris time (GMT+00:00
- )\nFreepreview export: 3 January 2018, 2
- 2:37 Paris time (GMT+00:00)\nFTI loaded:
-  ✓.
-DTSTAMP:20180106T003145Z
-DTSTART:20180109T180000Z
-DTEND:20180109T181500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Mexico's e-Procurement System 
- (en) on 9 January 2018, 19:00 Paris time
-  (GMT+01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/46d4d41a-fr
 SUMMARY:France: Améliorer les perspectives écono
  miques et le bien-être des habitants des
@@ -190,7 +22,7 @@ DESCRIPTION:France: Améliorer les perspectives écono
  ris time (GMT+00:00)\nFreepreview export
  : 3 January 2018, 22:37 Paris time (GMT+
  00:00)\nFTI loaded: ✓.
-DTSTAMP:20180106T003145Z
+DTSTAMP:20180112T015834Z
 DTSTART:20180110T010000Z
 DTEND:20180110T011500Z
 TRANSP:TRANSPARENT
@@ -224,7 +56,7 @@ DESCRIPTION:France: improving the efficiency of the
   time (GMT+00:00)\nFreepreview export: 3
   January 2018, 22:37 Paris time (GMT+00:
  00)\nFTI loaded: ✓.
-DTSTAMP:20180106T003145Z
+DTSTAMP:20180112T015834Z
 DTSTART:20180110T010000Z
 DTEND:20180110T011500Z
 TRANSP:TRANSPARENT
@@ -258,7 +90,7 @@ DESCRIPTION:France: Promoting economic opportunities
  ry 2018, 21:44 Paris time (GMT+00:00)\nF
  reepreview export: 3 January 2018, 22:37
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180106T003145Z
+DTSTAMP:20180112T015834Z
 DTSTART:20180110T010000Z
 DTEND:20180110T011500Z
 TRANSP:TRANSPARENT
@@ -293,7 +125,7 @@ DESCRIPTION:Improving productivity and job quality o
  0)\nFreepreview export: 3 January 2018, 
  22:37 Paris time (GMT+00:00)\nFTI loaded
  : ✓.
-DTSTAMP:20180106T003145Z
+DTSTAMP:20180112T015834Z
 DTSTART:20180110T010000Z
 DTEND:20180110T011500Z
 TRANSP:TRANSPARENT
@@ -306,41 +138,6 @@ DESCRIPTION:Reminder: Improving productivity and job
   quality of low-skilled workers in the U
  nited Kingdom (en) on 10 January 2018, 2
  :00 Paris time (GMT+01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/54293958-en
-SUMMARY:United Kingdom: reducing regional dispar
- ities in productivity Peter Gal and Jago
- da Egeland (en) on 10 January 2018, 2:00
-  Paris time (GMT+01:00)
-DESCRIPTION:United Kingdom: reducing regional dispar
- ities in productivity Peter Gal and Jago
- da Egeland (en)  by Economics Department
-  has an embargo date/time of 10 January 
- 2018, 2:00 Paris time (GMT+01:00).\n\nDi
- rectorate: Economics Department\nLanguag
- e: English\nDOI: https://doi.org/10.1787
- /54293958-en\nPublication type: Working 
- paper\nReleased as: PDF.\n\niLibrary exp
- ort: 3 January 2018, 21:44 Paris time (G
- MT+00:00)\nFreepreview export: 3 January
-  2018, 22:37 Paris time (GMT+00:00)\nFTI
-  loaded: ✓.
-DTSTAMP:20180106T003145Z
-DTSTART:20180110T010000Z
-DTEND:20180110T011500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: United Kingdom: reducing regio
- nal disparities in productivity Peter Ga
- l and Jagoda Egeland (en) on 10 January 
- 2018, 2:00 Paris time (GMT+01:00)
 END:VALARM
 END:VEVENT
 
@@ -361,10 +158,11 @@ DESCRIPTION:Second Public Procurement Review of the
  \nDOI: https://doi.org/10.1787/978926419
  0191-en\nPublication type: Book\nRelease
  d as: Paperback, PDF.\n\niLibrary export
- : 22 December 2017, 21:52 Paris time (GM
- T+00:00)\nFreepreview export: never\nFTI
-  loaded: ✓.
-DTSTAMP:20180106T003145Z
+ : 5 January 2018, 22:00 Paris time (GMT+
+ 00:00)\nFreepreview export: 5 January 20
+ 18, 23:03 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓.
+DTSTAMP:20180112T015834Z
 DTSTART:20180110T180000Z
 DTEND:20180110T181500Z
 TRANSP:TRANSPARENT
@@ -398,10 +196,11 @@ DESCRIPTION:Segundo Estudio de la OCDE sobre Contrat
  h\nDOI: https://doi.org/10.1787/97892642
  88300-es\nPublication type: Book\nReleas
  ed as: Paperback, PDF.\n\niLibrary expor
- t: 22 December 2017, 21:52 Paris time (G
- MT+00:00)\nFreepreview export: never\nFT
- I loaded: ✓.
-DTSTAMP:20180106T003145Z
+ t: 5 January 2018, 22:00 Paris time (GMT
+ +00:00)\nFreepreview export: 5 January 2
+ 018, 23:03 Paris time (GMT+00:00)\nFTI l
+ oaded: ✓.
+DTSTAMP:20180112T015834Z
 DTSTART:20180110T180000Z
 DTEND:20180110T181500Z
 TRANSP:TRANSPARENT
@@ -433,11 +232,12 @@ DESCRIPTION:Contratación pública en Nuevo León, Méxi
   Public Governance\nLanguage: Spanish\nD
  OI: https://doi.org/10.1787/978926428831
  7-es\nPublication type: Book\nReleased a
- s: Paperback, PDF.\n\niLibrary export: 3
-  January 2018, 21:44 Paris time (GMT+00:
- 00)\nFreepreview export: never\nFTI load
- ed: ✓.
-DTSTAMP:20180106T003145Z
+ s: Paperback, PDF.\n\niLibrary export: 5
+  January 2018, 22:00 Paris time (GMT+00:
+ 00)\nFreepreview export: 5 January 2018,
+  23:03 Paris time (GMT+00:00)\nFTI loade
+ d: ✓.
+DTSTAMP:20180112T015834Z
 DTSTART:20180110T190000Z
 DTEND:20180110T191500Z
 TRANSP:TRANSPARENT
@@ -466,11 +266,12 @@ DESCRIPTION:Public Procurement in Nuevo León, Mexico
  ectorate: Directorate for Public Governa
  nce\nLanguage: English\nDOI: https://doi
  .org/10.1787/9789264288225-en\nPublicati
- on type: Book\nReleased as: Paperback, P
- DF.\n\niLibrary export: 3 January 2018, 
- 21:44 Paris time (GMT+00:00)\nFreeprevie
- w export: never\nFTI loaded: ✓.
-DTSTAMP:20180106T003145Z
+ on type: Book\nReleased as: PDF, Paperba
+ ck.\n\niLibrary export: 5 January 2018, 
+ 22:00 Paris time (GMT+00:00)\nFreeprevie
+ w export: 5 January 2018, 23:03 Paris ti
+ me (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180112T015834Z
 DTSTART:20180110T190000Z
 DTEND:20180110T191500Z
 TRANSP:TRANSPARENT
@@ -482,6 +283,71 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Public Procurement in Nuevo Le
  ón, Mexico (en) on 10 January 2018, 20:0
  0 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264190115-en
+SUMMARY:Ageing and Employment Policies: United S
+ tates 2018 (en) on 24 January 2018, 20:0
+ 0 Paris time (GMT+01:00)
+DESCRIPTION:Ageing and Employment Policies: United S
+ tates 2018 (en)  - Working Better with A
+ ge and Fighting Unequal Ageing (en) by D
+ irectorate for Employment, Labour and So
+ cial Affairs has an embargo date/time of
+  24 January 2018, 20:00 Paris time (GMT+
+ 01:00).\n\nDirectorate: Directorate for 
+ Employment, Labour and Social Affairs\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/9789264190115-en\nPublication typ
+ e: Book\nReleased as: PDF, Paperback.\n\
+ niLibrary export: 10 January 2018, 22:38
+  Paris time (GMT+00:00)\nFreepreview exp
+ ort: never\nFTI loaded: ✓.
+DTSTAMP:20180112T015834Z
+DTSTART:20180124T190000Z
+DTEND:20180124T191500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Ageing and Employment Policies
+ : United States 2018 (en) on 24 January 
+ 2018, 20:00 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264282346-en
+SUMMARY:Getting Skills Right: Spain (en) on 30 M
+ arch 2018, 11:00 Paris time (GMT+02:00)
+DESCRIPTION:Getting Skills Right: Spain (en)  by Dir
+ ectorate for Employment, Labour and Soci
+ al Affairs has an embargo date/time of 3
+ 0 March 2018, 11:00 Paris time (GMT+02:0
+ 0).\n\nDirectorate: Directorate for Empl
+ oyment, Labour and Social Affairs\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/9789264282346-en\nPublication type: B
+ ook\nReleased as: Paperback, PDF.\n\niLi
+ brary export: 20 November 2017, 21:59 Pa
+ ris time (GMT+00:00)\nFreepreview export
+ : never\nFTI loaded: ✓.
+DTSTAMP:20180112T015834Z
+DTSTART:20180330T090000Z
+DTEND:20180330T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Getting Skills Right: Spain (e
+ n) on 30 March 2018, 11:00 Paris time (G
+ MT+02:00)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
