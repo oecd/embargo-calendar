@@ -1,6 +1,27 @@
-# OECD publication embargoes (2 embargoes)
+# OECD publication embargoes (3 embargoes)
 
-*Data generated on Friday 12 January 2018 at 1:58*
+*Data generated on Saturday 13 January 2018 at 3:51*
+
+------
+
+## [What does teaching look like? (en) - A new video study (en)](https://doi.org/10.1787/948427dc-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 17 January 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 13 January 2018 at 0:48
+- [x] Exported to Keepeek Saturday 13 January 2018 at 3:11
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
 
 ------
 
@@ -8,12 +29,12 @@
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 24 January 2018 at 20:00 | no launch event
+Wednesday 24 January 2018 at 6:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 10 January 2018 at 23:38
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 11 January 2018 at 23:46
+- [x] Exported to Keepeek Friday 12 January 2018 at 1:25
 
 ### Additional Information
 
@@ -33,13 +54,13 @@ Friday 30 March 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 November 2017 at 22:59
+- [x] Exported to iLibrary Thursday 11 January 2018 at 23:46
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
