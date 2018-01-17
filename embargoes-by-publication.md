@@ -1,6 +1,6 @@
-# OECD publication embargoes (3 embargoes)
+# OECD publication embargoes (4 embargoes)
 
-*Data generated on Monday 15 January 2018 at 23:15*
+*Data generated on Wednesday 17 January 2018 at 1:08*
 
 ------
 
@@ -41,6 +41,27 @@ Wednesday 24 January 2018 at 6:00 | no launch event
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Innovation, Agricultural Productivity and Sustainability in Estonia (en)](https://doi.org/10.1787/9789264288744-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 13 February 2018 at 12:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Medium: *PDF*
 

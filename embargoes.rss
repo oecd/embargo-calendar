@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Mon, 15 Jan 2018 23:15:26 GMT</pubDate>
+      <pubDate>Wed, 17 Jan 2018 01:09:00 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -42,6 +42,21 @@
          <oe:freePreviewExport>Saturday, 13 January 2018, 2:11 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264288744-en</guid>
+         <pubDate>Tue, 13 Feb 2018 11:00:00 GMT</pubDate>
+         <title>Innovation, Agricultural Productivity and Sustainability in Estonia (en)</title>
+         <link>https://doi.org/10.1787/9789264288744-en</link>
+         <description>Innovation, Agricultural Productivity and Sustainability in Estonia (en) by Trade and Agriculture Directorate has an embargo on Tuesday, 13 February 2018, 12:00 Paris time (GMT+01:00).</description>
+         <oe:embargoTime>2018-02-13T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264282346-en</guid>
