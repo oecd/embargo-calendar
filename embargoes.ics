@@ -17,11 +17,11 @@ DESCRIPTION:What does teaching look like? (en)  - A
  English\nDOI: https://doi.org/10.1787/94
  8427dc-en\nPublication type: Working pap
  er\nReleased as: PDF.\n\niLibrary export
- : 12 January 2018, 23:48 Paris time (GMT
- +00:00)\nFreepreview export: 13 January 
- 2018, 2:11 Paris time (GMT+00:00)\nFTI l
- oaded: ✓.
-DTSTAMP:20180117T010858Z
+ : 17 January 2018, 22:26 Paris time (GMT
+ +00:00)\nFreepreview export: 17 January 
+ 2018, 23:59 Paris time (GMT+00:00)\nFTI 
+ loaded: ✓.
+DTSTAMP:20180118T013556Z
 DTSTART:20180117T100000Z
 DTEND:20180117T101500Z
 TRANSP:TRANSPARENT
@@ -33,6 +33,41 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: What does teaching look like? 
  (en) on 17 January 2018, 11:00 Paris tim
  e (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/06b8e7dd-en
+SUMMARY:Collective bargaining through the magnif
+ ying glass (en) on 19 January 2018, 18:0
+ 0 Paris time (GMT+01:00)
+DESCRIPTION:Collective bargaining through the magnif
+ ying glass (en)  - A comparison between 
+ the Netherlands and Portugal  (en) by Di
+ rectorate for Employment, Labour and Soc
+ ial Affairs has an embargo date/time of 
+ 19 January 2018, 18:00 Paris time (GMT+0
+ 1:00).\n\nDirectorate: Directorate for E
+ mployment, Labour and Social Affairs\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/06b8e7dd-en\nPublication type: Wor
+ king paper\nReleased as: PDF.\n\niLibrar
+ y export: 17 January 2018, 22:26 Paris t
+ ime (GMT+00:00)\nFreepreview export: 17 
+ January 2018, 23:59 Paris time (GMT+00:0
+ 0)\nFTI loaded: ✓.
+DTSTAMP:20180118T013556Z
+DTSTART:20180119T170000Z
+DTEND:20180119T171500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Collective bargaining through 
+ the magnifying glass (en) on 19 January 
+ 2018, 18:00 Paris time (GMT+01:00)
 END:VALARM
 END:VEVENT
 
@@ -51,12 +86,12 @@ DESCRIPTION:Ageing and Employment Policies: United S
  mployment, Labour and Social Affairs\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/9789264190115-en\nPublication type
- : Book\nReleased as: PDF, Paperback.\n\n
- iLibrary export: 12 January 2018, 23:48 
- Paris time (GMT+00:00)\nFreepreview expo
- rt: 13 January 2018, 2:11 Paris time (GM
- T+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180117T010858Z
+ : Book\nReleased as: Paperback, ePub, PD
+ F.\n\niLibrary export: 12 January 2018, 
+ 23:48 Paris time (GMT+00:00)\nFreeprevie
+ w export: 13 January 2018, 2:11 Paris ti
+ me (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180118T013556Z
 DTSTART:20180124T050000Z
 DTEND:20180124T051500Z
 TRANSP:TRANSPARENT
@@ -68,6 +103,41 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Ageing and Employment Policies
  : United States 2018 (en) on 24 January 
  2018, 6:00 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264288737-en
+SUMMARY:How Immigrants Contribute to Developing 
+ Countries' Economies (en) on 24 January 
+ 2018, 10:00 Paris time (GMT+01:00)
+DESCRIPTION:How Immigrants Contribute to Developing 
+ Countries' Economies (en)  by Public Aff
+ airs and Communications Directorate, Dev
+ elopment Centre has an embargo date/time
+  of 24 January 2018, 10:00 Paris time (G
+ MT+01:00).\n\nDirectorate: Public Affair
+ s and Communications Directorate, Develo
+ pment Centre\nLanguage: English\nDOI: ht
+ tps://doi.org/10.1787/9789264288737-en\n
+ Publication type: Stand-alone monograph\
+ nReleased as: PDF, Paperback.\n\niLibrar
+ y export: 10 January 2018, 22:38 Paris t
+ ime (GMT+00:00)\nFreepreview export: nev
+ er\nFTI loaded: no.
+DTSTAMP:20180118T013556Z
+DTSTART:20180124T090000Z
+DTEND:20180124T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How Immigrants Contribute to D
+ eveloping Countries' Economies (en) on 2
+ 4 January 2018, 10:00 Paris time (GMT+01
+ :00)
 END:VALARM
 END:VEVENT
 
@@ -85,10 +155,11 @@ DESCRIPTION:Innovation, Agricultural Productivity an
  e: Trade and Agriculture Directorate\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/9789264288744-en\nPublication type
- : Book\nReleased as: Paperback, PDF.\n\n
- iLibrary export: never\nFreepreview expo
+ : Book\nReleased as: PDF, Paperback.\n\n
+ iLibrary export: 16 January 2018, 22:19 
+ Paris time (GMT+00:00)\nFreepreview expo
  rt: never\nFTI loaded: no.
-DTSTAMP:20180117T010858Z
+DTSTAMP:20180118T013556Z
 DTSTART:20180213T110000Z
 DTEND:20180213T111500Z
 TRANSP:TRANSPARENT
@@ -121,7 +192,7 @@ DESCRIPTION:Getting Skills Right: Spain (en)  by Dir
  is time (GMT+00:00)\nFreepreview export:
   13 January 2018, 2:11 Paris time (GMT+0
  0:00)\nFTI loaded: ✓.
-DTSTAMP:20180117T010858Z
+DTSTAMP:20180118T013556Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
