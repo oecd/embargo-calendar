@@ -21,7 +21,7 @@ DESCRIPTION:What does teaching look like? (en)  - A
  +00:00)\nFreepreview export: 17 January 
  2018, 23:59 Paris time (GMT+00:00)\nFTI 
  loaded: ✓.
-DTSTAMP:20180118T013556Z
+DTSTAMP:20180119T024636Z
 DTSTART:20180117T100000Z
 DTEND:20180117T101500Z
 TRANSP:TRANSPARENT
@@ -56,7 +56,7 @@ DESCRIPTION:Collective bargaining through the magnif
  ime (GMT+00:00)\nFreepreview export: 17 
  January 2018, 23:59 Paris time (GMT+00:0
  0)\nFTI loaded: ✓.
-DTSTAMP:20180118T013556Z
+DTSTAMP:20180119T024636Z
 DTSTART:20180119T170000Z
 DTEND:20180119T171500Z
 TRANSP:TRANSPARENT
@@ -68,6 +68,39 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Collective bargaining through 
  the magnifying glass (en) on 19 January 
  2018, 18:00 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/96e69229-en
+SUMMARY:Skills for the 21st century (en) on 24 J
+ anuary 2018, 2:00 Paris time (GMT+01:00)
+DESCRIPTION:Skills for the 21st century (en)  -  Fin
+ dings and policy lessons from the OECD s
+ urvey of adult skills (en) by Directorat
+ e for Education and Skills has an embarg
+ o date/time of 24 January 2018, 2:00 Par
+ is time (GMT+01:00).\n\nDirectorate: Dir
+ ectorate for Education and Skills\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/96e69229-en\nPublication type: Workin
+ g paper\nReleased as: PDF.\n\niLibrary e
+ xport: 18 January 2018, 22:31 Paris time
+  (GMT+00:00)\nFreepreview export: 19 Jan
+ uary 2018, 1:03 Paris time (GMT+00:00)\n
+ FTI loaded: ✓.
+DTSTAMP:20180119T024636Z
+DTSTART:20180124T010000Z
+DTEND:20180124T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Skills for the 21st century (e
+ n) on 24 January 2018, 2:00 Paris time (
+ GMT+01:00)
 END:VALARM
 END:VEVENT
 
@@ -91,7 +124,7 @@ DESCRIPTION:Ageing and Employment Policies: United S
  23:48 Paris time (GMT+00:00)\nFreeprevie
  w export: 13 January 2018, 2:11 Paris ti
  me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180118T013556Z
+DTSTAMP:20180119T024636Z
 DTSTART:20180124T050000Z
 DTEND:20180124T051500Z
 TRANSP:TRANSPARENT
@@ -122,10 +155,10 @@ DESCRIPTION:How Immigrants Contribute to Developing
  tps://doi.org/10.1787/9789264288737-en\n
  Publication type: Stand-alone monograph\
  nReleased as: PDF, Paperback.\n\niLibrar
- y export: 10 January 2018, 22:38 Paris t
+ y export: 17 January 2018, 22:26 Paris t
  ime (GMT+00:00)\nFreepreview export: nev
- er\nFTI loaded: no.
-DTSTAMP:20180118T013556Z
+ er\nFTI loaded: ✓.
+DTSTAMP:20180119T024636Z
 DTSTART:20180124T090000Z
 DTEND:20180124T091500Z
 TRANSP:TRANSPARENT
@@ -138,6 +171,40 @@ DESCRIPTION:Reminder: How Immigrants Contribute to D
  eveloping Countries' Economies (en) on 2
  4 January 2018, 10:00 Paris time (GMT+01
  :00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264288768-en
+SUMMARY:Making Blended Finance Work for the Sust
+ ainable Development Goals (en) on 29 Jan
+ uary 2018, 11:00 Paris time (GMT+01:00)
+DESCRIPTION:Making Blended Finance Work for the Sust
+ ainable Development Goals (en)  by Devel
+ opment Co-operation Directorate has an e
+ mbargo date/time of 29 January 2018, 11:
+ 00 Paris time (GMT+01:00).\n\nDirectorat
+ e: Development Co-operation Directorate\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/9789264288768-en\nPublication t
+ ype: Stand-alone monograph\nReleased as:
+  PDF, Paperback.\n\niLibrary export: 15 
+ January 2018, 22:05 Paris time (GMT+00:0
+ 0)\nFreepreview export: never\nFTI loade
+ d: no.
+DTSTAMP:20180119T024636Z
+DTSTART:20180129T100000Z
+DTEND:20180129T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Blended Finance Work fo
+ r the Sustainable Development Goals (en)
+  on 29 January 2018, 11:00 Paris time (G
+ MT+01:00)
 END:VALARM
 END:VEVENT
 
@@ -159,7 +226,7 @@ DESCRIPTION:Innovation, Agricultural Productivity an
  iLibrary export: 16 January 2018, 22:19 
  Paris time (GMT+00:00)\nFreepreview expo
  rt: never\nFTI loaded: no.
-DTSTAMP:20180118T013556Z
+DTSTAMP:20180119T024636Z
 DTSTART:20180213T110000Z
 DTEND:20180213T111500Z
 TRANSP:TRANSPARENT
@@ -172,6 +239,40 @@ DESCRIPTION:Reminder: Innovation, Agricultural Produ
  ctivity and Sustainability in Estonia (e
  n) on 13 February 2018, 12:00 Paris time
   (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264190061-en
+SUMMARY:Driving Performance at Ireland's Commiss
+ ion for Regulation of Utilities (en) on 
+ 21 February 2018, 10:00 Paris time (GMT+
+ 01:00)
+DESCRIPTION:Driving Performance at Ireland's Commiss
+ ion for Regulation of Utilities (en)  by
+  Directorate for Public Governance has a
+ n embargo date/time of 21 February 2018,
+  10:00 Paris time (GMT+01:00).\n\nDirect
+ orate: Directorate for Public Governance
+ \nLanguage: English\nDOI: https://doi.or
+ g/10.1787/9789264190061-en\nPublication 
+ type: Book\nReleased as: Paperback, PDF.
+ \n\niLibrary export: 16 January 2018, 22
+ :19 Paris time (GMT+00:00)\nFreepreview 
+ export: never\nFTI loaded: no.
+DTSTAMP:20180119T024636Z
+DTSTART:20180221T090000Z
+DTEND:20180221T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Driving Performance at Ireland
+ 's Commission for Regulation of Utilitie
+ s (en) on 21 February 2018, 10:00 Paris 
+ time (GMT+01:00)
 END:VALARM
 END:VEVENT
 
@@ -192,7 +293,7 @@ DESCRIPTION:Getting Skills Right: Spain (en)  by Dir
  is time (GMT+00:00)\nFreepreview export:
   13 January 2018, 2:11 Paris time (GMT+0
  0:00)\nFTI loaded: ✓.
-DTSTAMP:20180118T013556Z
+DTSTAMP:20180119T024636Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
