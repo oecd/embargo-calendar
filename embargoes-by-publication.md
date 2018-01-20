@@ -1,27 +1,6 @@
-# OECD publication embargoes (8 embargoes)
+# OECD publication embargoes (7 embargoes)
 
-*Data generated on Friday 19 January 2018 at 2:46*
-
-------
-
-## [Collective bargaining through the magnifying glass (en) - A comparison between the Netherlands and Portugal  (en)](https://doi.org/10.1787/06b8e7dd-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 19 January 2018 at 18:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 January 2018 at 23:26
-- [x] Exported to Keepeek Thursday 18 January 2018 at 0:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Saturday 20 January 2018 at 4:17*
 
 ------
 
@@ -75,12 +54,12 @@ Wednesday 24 January 2018 at 10:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 January 2018 at 23:26
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 18 January 2018 at 23:31
+- [x] Exported to Keepeek Friday 19 January 2018 at 2:03
 
 ### Additional Information
 
-* Directorate: *Public Affairs and Communications Directorate, Development Centre*
+* Directorate: *Development Centre*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
@@ -96,7 +75,7 @@ Monday 29 January 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 15 January 2018 at 23:05
+- [x] Exported to iLibrary Thursday 18 January 2018 at 23:31
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -138,7 +117,7 @@ Wednesday 21 February 2018 at 10:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 16 January 2018 at 23:19
+- [x] Exported to iLibrary Thursday 18 January 2018 at 23:31
 - [ ] Exported to Keepeek
 
 ### Additional Information
