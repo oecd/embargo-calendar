@@ -8,26 +8,11 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Sat, 20 Jan 2018 04:17:57 GMT</pubDate>
+      <pubDate>Tue, 23 Jan 2018 01:33:01 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
                  type="application/rss+xml"/>
-      <item>
-         <guid isPermaLink="false">10.1787/06b8e7dd-en</guid>
-         <pubDate>Fri, 19 Jan 2018 17:00:00 GMT</pubDate>
-         <title>Collective bargaining through the magnifying glass (en) - A comparison between the Netherlands and Portugal  (en)</title>
-         <link>https://doi.org/10.1787/06b8e7dd-en</link>
-         <description>Collective bargaining through the magnifying glass (en) - A comparison between the Netherlands and Portugal  (en) by Directorate for Employment, Labour and Social Affairs has an embargo on Friday, 19 January 2018, 18:00 Paris time (GMT+01:00).</description>
-         <oe:embargoTime>2018-01-19T17:00:00Z</oe:embargoTime>
-         <oe:launchTime/>
-         <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
-         <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Wednesday, 17 January 2018, 22:26 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Wednesday, 17 January 2018, 23:59 Paris time (GMT+00:00)</oe:freePreviewExport>
-         <oe:catalogueType>Working paper</oe:catalogueType>
-         <oe:availableMedia>PDF</oe:availableMedia>
-      </item>
       <item>
          <guid isPermaLink="false">10.1787/96e69229-en</guid>
          <pubDate>Wed, 24 Jan 2018 01:00:00 GMT</pubDate>
@@ -68,10 +53,25 @@
          <oe:launchTime/>
          <oe:directorate>Development Centre</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Thursday, 18 January 2018, 22:31 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Friday, 19 January 2018, 23:53 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Friday, 19 January 2018, 1:03 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
-         <oe:availableMedia>ePub, PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback, ePub</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/66e037e8-en</guid>
+         <pubDate>Mon, 29 Jan 2018 09:30:00 GMT</pubDate>
+         <title>In which countries and schools do disadvantaged students succeed? (en)</title>
+         <link>https://doi.org/10.1787/66e037e8-en</link>
+         <description>In which countries and schools do disadvantaged students succeed? (en) by Directorate for Education and Skills has an embargo on Monday, 29 January 2018, 10:30 Paris time (GMT+01:00).</description>
+         <oe:embargoTime>2018-01-29T09:30:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Education and Skills</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Monday, 22 January 2018, 22:50 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Tuesday, 23 January 2018, 0:05 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264288768-en</guid>
@@ -86,7 +86,7 @@
          <oe:iLibraryExport>Thursday, 18 January 2018, 22:31 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264288744-en</guid>
@@ -112,7 +112,7 @@
          <oe:embargoTime>2018-02-21T09:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Directorate for Public Governance</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Thursday, 18 January 2018, 22:31 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>

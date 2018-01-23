@@ -4,41 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/06b8e7dd-en
-SUMMARY:Collective bargaining through the magnif
- ying glass (en) on 19 January 2018, 18:0
- 0 Paris time (GMT+01:00)
-DESCRIPTION:Collective bargaining through the magnif
- ying glass (en)  - A comparison between 
- the Netherlands and Portugal  (en) by Di
- rectorate for Employment, Labour and Soc
- ial Affairs has an embargo date/time of 
- 19 January 2018, 18:00 Paris time (GMT+0
- 1:00).\n\nDirectorate: Directorate for E
- mployment, Labour and Social Affairs\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/06b8e7dd-en\nPublication type: Wor
- king paper\nReleased as: PDF.\n\niLibrar
- y export: 17 January 2018, 22:26 Paris t
- ime (GMT+00:00)\nFreepreview export: 17 
- January 2018, 23:59 Paris time (GMT+00:0
- 0)\nFTI loaded: ✓.
-DTSTAMP:20180120T041755Z
-DTSTART:20180119T170000Z
-DTEND:20180119T171500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Collective bargaining through 
- the magnifying glass (en) on 19 January 
- 2018, 18:00 Paris time (GMT+01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/96e69229-en
 SUMMARY:Skills for the 21st century (en) on 24 J
  anuary 2018, 2:00 Paris time (GMT+01:00)
@@ -56,7 +21,7 @@ DESCRIPTION:Skills for the 21st century (en)  -  Fin
   (GMT+00:00)\nFreepreview export: 19 Jan
  uary 2018, 1:03 Paris time (GMT+00:00)\n
  FTI loaded: ✓.
-DTSTAMP:20180120T041755Z
+DTSTAMP:20180123T013259Z
 DTSTART:20180124T010000Z
 DTEND:20180124T011500Z
 TRANSP:TRANSPARENT
@@ -91,7 +56,7 @@ DESCRIPTION:Ageing and Employment Policies: United S
  23:48 Paris time (GMT+00:00)\nFreeprevie
  w export: 13 January 2018, 2:11 Paris ti
  me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180120T041755Z
+DTSTAMP:20180123T013259Z
 DTSTART:20180124T050000Z
 DTEND:20180124T051500Z
 TRANSP:TRANSPARENT
@@ -119,12 +84,12 @@ DESCRIPTION:How Immigrants Contribute to Developing
  Language: English\nDOI: https://doi.org/
  10.1787/9789264288737-en\nPublication ty
  pe: Stand-alone monograph\nReleased as: 
- ePub, PDF, Paperback.\n\niLibrary export
- : 18 January 2018, 22:31 Paris time (GMT
+ PDF, Paperback, ePub.\n\niLibrary export
+ : 19 January 2018, 23:53 Paris time (GMT
  +00:00)\nFreepreview export: 19 January 
  2018, 1:03 Paris time (GMT+00:00)\nFTI l
  oaded: ✓.
-DTSTAMP:20180120T041755Z
+DTSTAMP:20180123T013259Z
 DTSTART:20180124T090000Z
 DTEND:20180124T091500Z
 TRANSP:TRANSPARENT
@@ -137,6 +102,40 @@ DESCRIPTION:Reminder: How Immigrants Contribute to D
  eveloping Countries' Economies (en) on 2
  4 January 2018, 10:00 Paris time (GMT+01
  :00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/66e037e8-en
+SUMMARY:In which countries and schools do disadv
+ antaged students succeed? (en) on 29 Jan
+ uary 2018, 10:30 Paris time (GMT+01:00)
+DESCRIPTION:In which countries and schools do disadv
+ antaged students succeed? (en)  by Direc
+ torate for Education and Skills has an e
+ mbargo date/time of 29 January 2018, 10:
+ 30 Paris time (GMT+01:00).\n\nDirectorat
+ e: Directorate for Education and Skills\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/66e037e8-en\nPublication type: 
+ Working paper\nReleased as: PDF.\n\niLib
+ rary export: 22 January 2018, 22:50 Pari
+ s time (GMT+00:00)\nFreepreview export: 
+ 23 January 2018, 0:05 Paris time (GMT+00
+ :00)\nFTI loaded: ✓.
+DTSTAMP:20180123T013259Z
+DTSTART:20180129T093000Z
+DTEND:20180129T094500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: In which countries and schools
+  do disadvantaged students succeed? (en)
+  on 29 January 2018, 10:30 Paris time (G
+ MT+01:00)
 END:VALARM
 END:VEVENT
 
@@ -154,11 +153,11 @@ DESCRIPTION:Making Blended Finance Work for the Sust
  nLanguage: English\nDOI: https://doi.org
  /10.1787/9789264288768-en\nPublication t
  ype: Stand-alone monograph\nReleased as:
-  Paperback, PDF.\n\niLibrary export: 18 
+  PDF, Paperback.\n\niLibrary export: 18 
  January 2018, 22:31 Paris time (GMT+00:0
  0)\nFreepreview export: never\nFTI loade
  d: no.
-DTSTAMP:20180120T041755Z
+DTSTAMP:20180123T013259Z
 DTSTART:20180129T100000Z
 DTEND:20180129T101500Z
 TRANSP:TRANSPARENT
@@ -192,7 +191,7 @@ DESCRIPTION:Innovation, Agricultural Productivity an
  iLibrary export: 16 January 2018, 22:19 
  Paris time (GMT+00:00)\nFreepreview expo
  rt: never\nFTI loaded: no.
-DTSTAMP:20180120T041755Z
+DTSTAMP:20180123T013259Z
 DTSTART:20180213T110000Z
 DTEND:20180213T111500Z
 TRANSP:TRANSPARENT
@@ -225,8 +224,8 @@ DESCRIPTION:Driving Performance at Ireland's Commiss
  type: Book\nReleased as: Paperback, PDF.
  \n\niLibrary export: 18 January 2018, 22
  :31 Paris time (GMT+00:00)\nFreepreview 
- export: never\nFTI loaded: no.
-DTSTAMP:20180120T041755Z
+ export: never\nFTI loaded: ✓.
+DTSTAMP:20180123T013259Z
 DTSTART:20180221T090000Z
 DTEND:20180221T091500Z
 TRANSP:TRANSPARENT
@@ -259,7 +258,7 @@ DESCRIPTION:Getting Skills Right: Spain (en)  by Dir
  is time (GMT+00:00)\nFreepreview export:
   13 January 2018, 2:11 Paris time (GMT+0
  0:00)\nFTI loaded: ✓.
-DTSTAMP:20180120T041755Z
+DTSTAMP:20180123T013259Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT

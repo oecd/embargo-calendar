@@ -1,6 +1,6 @@
-# OECD publication embargoes (7 embargoes)
+# OECD publication embargoes (8 embargoes)
 
-*Data generated on Saturday 20 January 2018 at 4:17*
+*Data generated on Tuesday 23 January 2018 at 1:32*
 
 ------
 
@@ -54,7 +54,7 @@ Wednesday 24 January 2018 at 10:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 18 January 2018 at 23:31
+- [x] Exported to iLibrary Saturday 20 January 2018 at 0:53
 - [x] Exported to Keepeek Friday 19 January 2018 at 2:03
 
 ### Additional Information
@@ -63,6 +63,27 @@ Wednesday 24 January 2018 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [In which countries and schools do disadvantaged students succeed? (en)](https://doi.org/10.1787/66e037e8-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 29 January 2018 at 10:30 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 22 January 2018 at 23:50
+- [x] Exported to Keepeek Tuesday 23 January 2018 at 1:05
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
@@ -116,7 +137,7 @@ Embargo date | Launch date
 Wednesday 21 February 2018 at 10:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 18 January 2018 at 23:31
 - [ ] Exported to Keepeek
 
@@ -124,7 +145,7 @@ Wednesday 21 February 2018 at 10:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
