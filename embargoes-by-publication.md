@@ -1,6 +1,6 @@
-# OECD publication embargoes (8 embargoes)
+# OECD publication embargoes (9 embargoes)
 
-*Data generated on Tuesday 23 January 2018 at 1:32*
+*Data generated on Wednesday 24 January 2018 at 1:35*
 
 ------
 
@@ -54,7 +54,7 @@ Wednesday 24 January 2018 at 10:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 20 January 2018 at 0:53
+- [x] Exported to iLibrary Monday 22 January 2018 at 23:50
 - [x] Exported to Keepeek Friday 19 January 2018 at 2:03
 
 ### Additional Information
@@ -63,6 +63,27 @@ Wednesday 24 January 2018 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [Academic resilience (en) - What schools and countries do to help disadvantaged students succeed in PISA (en)](https://doi.org/10.1787/e22490ac-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 29 January 2018 at 10:30 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
@@ -96,7 +117,7 @@ Monday 29 January 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 18 January 2018 at 23:31
+- [x] Exported to iLibrary Monday 22 January 2018 at 23:50
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -138,8 +159,8 @@ Wednesday 21 February 2018 at 10:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 18 January 2018 at 23:31
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 22 January 2018 at 23:50
+- [x] Exported to Keepeek Tuesday 23 January 2018 at 1:05
 
 ### Additional Information
 
