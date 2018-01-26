@@ -1,6 +1,6 @@
-# OECD publication embargoes (6 embargoes)
+# OECD publication embargoes (7 embargoes)
 
-*Data generated on Thursday 25 January 2018 at 1:10*
+*Data generated on Friday 26 January 2018 at 2:28*
 
 ------
 
@@ -54,8 +54,8 @@ Monday 29 January 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 23 January 2018 at 23:40
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 24 January 2018 at 23:37
+- [x] Exported to Keepeek Thursday 25 January 2018 at 1:00
 
 ### Additional Information
 
@@ -63,6 +63,27 @@ Monday 29 January 2018 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [OECD Development Co-operation Peer Reviews: Korea 2018 (en)](https://doi.org/10.1787/9789264288829-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 7 February 2018 at 2:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 24 January 2018 at 23:37
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------
