@@ -1,19 +1,19 @@
-# OECD publication embargoes (7 embargoes)
+# OECD publication embargoes (5 embargoes)
 
-*Data generated on Saturday 27 January 2018 at 3:38*
+*Data generated on Tuesday 30 January 2018 at 0:53*
 
 ------
 
-## [Academic resilience (en) - What schools and countries do to help disadvantaged students succeed in PISA (en)](https://doi.org/10.1787/e22490ac-en)
+## [How do primary and secondary teachers compare? (en)](https://doi.org/10.1787/535e7f54-en)
 
 Embargo date | Launch date
 -------------|------------
-Monday 29 January 2018 at 10:30 | no launch event
+Thursday 1 February 2018 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 24 January 2018 at 23:37
-- [x] Exported to Keepeek Thursday 25 January 2018 at 1:00
+- [x] Exported to iLibrary Monday 29 January 2018 at 23:23
+- [x] Exported to Keepeek Tuesday 30 January 2018 at 0:24
 
 ### Additional Information
 
@@ -21,48 +21,6 @@ Monday 29 January 2018 at 10:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [In which countries and schools do disadvantaged students succeed? (en)](https://doi.org/10.1787/66e037e8-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 29 January 2018 at 10:30 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 January 2018 at 23:50
-- [x] Exported to Keepeek Tuesday 23 January 2018 at 1:05
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Making Blended Finance Work for the Sustainable Development Goals (en)](https://doi.org/10.1787/9789264288768-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 29 January 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 24 January 2018 at 23:37
-- [x] Exported to Keepeek Thursday 25 January 2018 at 1:00
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
 ------
@@ -95,7 +53,7 @@ Embargo date | Launch date
 Tuesday 13 February 2018 at 12:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 23 January 2018 at 23:40
 - [ ] Exported to Keepeek
 
@@ -103,7 +61,7 @@ Tuesday 13 February 2018 at 12:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
