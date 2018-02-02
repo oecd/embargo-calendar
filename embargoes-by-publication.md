@@ -1,27 +1,6 @@
-# OECD publication embargoes (5 embargoes)
+# OECD publication embargoes (4 embargoes)
 
-*Data generated on Thursday 1 February 2018 at 1:35*
-
-------
-
-## [How do primary and secondary teachers compare? (en)](https://doi.org/10.1787/535e7f54-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 1 February 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 29 January 2018 at 23:23
-- [x] Exported to Keepeek Tuesday 30 January 2018 at 0:24
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Friday 2 February 2018 at 1:40*
 
 ------
 
