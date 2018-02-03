@@ -8,26 +8,11 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Fri, 02 Feb 2018 01:40:59 GMT</pubDate>
+      <pubDate>Sat, 03 Feb 2018 02:16:18 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
                  type="application/rss+xml"/>
-      <item>
-         <guid isPermaLink="false">10.1787/535e7f54-en</guid>
-         <pubDate>Thu, 01 Feb 2018 01:00:00 GMT</pubDate>
-         <title>How do primary and secondary teachers compare? (en)</title>
-         <link>https://doi.org/10.1787/535e7f54-en</link>
-         <description>How do primary and secondary teachers compare? (en) by Directorate for Education and Skills has an embargo on Thursday, 1 February 2018, 2:00 Paris time (GMT+01:00).</description>
-         <oe:embargoTime>2018-02-01T01:00:00Z</oe:embargoTime>
-         <oe:launchTime/>
-         <oe:directorate>Directorate for Education and Skills</oe:directorate>
-         <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Monday, 29 January 2018, 22:23 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Monday, 29 January 2018, 23:24 Paris time (GMT+00:00)</oe:freePreviewExport>
-         <oe:catalogueType>Working paper</oe:catalogueType>
-         <oe:availableMedia>PDF</oe:availableMedia>
-      </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264288829-en</guid>
          <pubDate>Wed, 07 Feb 2018 01:00:00 GMT</pubDate>
@@ -37,11 +22,26 @@
          <oe:embargoTime>2018-02-07T01:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Development Co-operation Directorate</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Thursday, 25 January 2018, 22:26 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/3e711a23-en</guid>
+         <pubDate>Wed, 07 Feb 2018 10:00:00 GMT</pubDate>
+         <title>What do science teachers find most satisfying about their work? (en)</title>
+         <link>https://doi.org/10.1787/3e711a23-en</link>
+         <description>What do science teachers find most satisfying about their work? (en) by Directorate for Education and Skills has an embargo on Wednesday, 7 February 2018, 11:00 Paris time (GMT+01:00).</description>
+         <oe:embargoTime>2018-02-07T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Education and Skills</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Friday, 2 February 2018, 23:11 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Saturday, 3 February 2018, 0:39 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264288744-en</guid>
@@ -57,6 +57,21 @@
          <oe:freePreviewExport>Monday, 29 January 2018, 23:24 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264289635-en</guid>
+         <pubDate>Wed, 14 Feb 2018 10:00:00 GMT</pubDate>
+         <title>Taxing Energy Use 2018 (en) - Companion to the Taxing Energy Use Database (en)</title>
+         <link>https://doi.org/10.1787/9789264289635-en</link>
+         <description>Taxing Energy Use 2018 (en) - Companion to the Taxing Energy Use Database (en) by Centre for Tax Policy and Administration has an embargo on Wednesday, 14 February 2018, 11:00 Paris time (GMT+01:00).</description>
+         <oe:embargoTime>2018-02-14T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Monday, 22 January 2018, 22:50 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264190061-en</guid>
