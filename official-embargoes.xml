@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2018-02-06T01:16:39.545+01:00" count="112">
+<report name="official-embargoes" generated="2018-02-07T01:48:36.02+01:00" count="113">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -198,33 +198,17 @@
     <cell name="title">Driving Performance at Ireland's Commission for Regulation of Utilities (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-02-21</cell>
-    <cell name="embargo date">2018-02-21T09:00:00Z</cell>
-    <cell name="launch date/time">2018-02-21T09:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="13">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264190061-en</cell>
-    <cell name="title">Driving Performance at Ireland's Commission for Regulation of Utilities (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
     <cell name="medium">ePub</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-02-21</cell>
     <cell name="embargo date">2018-02-21T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-01-22T22:50:11.127Z</cell>
+    <cell name="ilibrary last export date">2018-02-05T22:27:37.16Z</cell>
     <cell name="freepreview last export date">2018-01-23T00:05:17.59Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="14">
+  <row index="13">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264190061-en</cell>
     <cell name="title">Driving Performance at Ireland's Commission for Regulation of Utilities (en)</cell>
@@ -235,8 +219,24 @@
     <cell name="date of publication">2018-02-21</cell>
     <cell name="embargo date">2018-02-21T09:00:00Z</cell>
     <cell name="launch date/time">2018-02-21T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-01-22T22:50:11.127Z</cell>
+    <cell name="ilibrary last export date">2018-02-05T22:27:37.16Z</cell>
     <cell name="freepreview last export date">2018-01-23T00:05:17.59Z</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="14">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264190061-en</cell>
+    <cell name="title">Driving Performance at Ireland's Commission for Regulation of Utilities (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-02-21</cell>
+    <cell name="embargo date">2018-02-21T09:00:00Z</cell>
+    <cell name="launch date/time">2018-02-21T09:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -331,7 +331,7 @@
     <cell name="date of publication">2018-02-13</cell>
     <cell name="embargo date">2018-02-14T10:00:00Z</cell>
     <cell name="launch date/time">2018-02-14T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-02-02T23:11:46.96Z</cell>
+    <cell name="ilibrary last export date">2018-02-05T22:27:37.16Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
@@ -1046,13 +1046,13 @@
     <cell name="title">Innovation, Agricultural Productivity and Sustainability in Estonia (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-02-13</cell>
     <cell name="embargo date">2018-02-13T11:00:00Z</cell>
     <cell name="launch date/time">2018-02-13T11:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-01-29T22:23:56.25Z</cell>
-    <cell name="freepreview last export date">2018-01-29T23:24:48.243Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1062,13 +1062,13 @@
     <cell name="title">Innovation, Agricultural Productivity and Sustainability in Estonia (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2018-02-13</cell>
     <cell name="embargo date">2018-02-13T11:00:00Z</cell>
     <cell name="launch date/time">2018-02-13T11:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-02-05T22:27:37.16Z</cell>
+    <cell name="freepreview last export date">2018-01-29T23:24:48.243Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1762,6 +1762,22 @@
   </row>
   <row index="110">
     <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/1ecdb4e3-en</cell>
+    <cell name="title">Science teachers’ satisfaction (en)</cell>
+    <cell name="subtitle">Evidence from the PISA 2015 teacher survey (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-02-07</cell>
+    <cell name="embargo date">2018-02-07T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-02-06T22:47:15.527Z</cell>
+    <cell name="freepreview last export date">2018-02-07T00:11:37.888Z</cell>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="111">
+    <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/3e711a23-en</cell>
     <cell name="title">What do science teachers find most satisfying about their work? (en)</cell>
     <cell name="subtitle"/>
@@ -1776,7 +1792,7 @@
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="111">
+  <row index="112">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/9789264288829-en</cell>
     <cell name="title">OECD Development Co-operation Peer Reviews: Korea 2018 (en)</cell>
@@ -1792,7 +1808,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="112">
+  <row index="113">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/9789264288829-en</cell>
     <cell name="title">OECD Development Co-operation Peer Reviews: Korea 2018 (en)</cell>

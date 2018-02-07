@@ -1,6 +1,6 @@
-# OECD publication embargoes (6 embargoes)
+# OECD publication embargoes (7 embargoes)
 
-*Data generated on Tuesday 6 February 2018 at 1:16*
+*Data generated on Wednesday 7 February 2018 at 1:48*
 
 ------
 
@@ -21,6 +21,27 @@ Wednesday 7 February 2018 at 2:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Science teachers’ satisfaction (en) - Evidence from the PISA 2015 teacher survey (en)](https://doi.org/10.1787/1ecdb4e3-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 7 February 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 6 February 2018 at 23:47
+- [x] Exported to Keepeek Wednesday 7 February 2018 at 1:11
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
@@ -54,7 +75,7 @@ Tuesday 13 February 2018 at 12:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 29 January 2018 at 23:23
+- [x] Exported to iLibrary Monday 5 February 2018 at 23:27
 - [x] Exported to Keepeek Tuesday 30 January 2018 at 0:24
 
 ### Additional Information
@@ -75,7 +96,7 @@ Wednesday 14 February 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Saturday 3 February 2018 at 0:11
+- [x] Exported to iLibrary Monday 5 February 2018 at 23:27
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -96,7 +117,7 @@ Wednesday 21 February 2018 at 10:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 January 2018 at 23:50
+- [x] Exported to iLibrary Monday 5 February 2018 at 23:27
 - [x] Exported to Keepeek Tuesday 23 January 2018 at 1:05
 
 ### Additional Information
