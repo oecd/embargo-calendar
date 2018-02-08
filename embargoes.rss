@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Wed, 07 Feb 2018 01:48:44 GMT</pubDate>
+      <pubDate>Thu, 08 Feb 2018 01:31:02 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -55,6 +55,21 @@
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Friday, 2 February 2018, 23:11 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Saturday, 3 February 2018, 0:39 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/41576fb2-en</guid>
+         <pubDate>Fri, 09 Feb 2018 10:00:00 GMT</pubDate>
+         <title>Emotional well-being of children and adolescents (en) - Recent trends and relevant factors (en)</title>
+         <link>https://doi.org/10.1787/41576fb2-en</link>
+         <description>Emotional well-being of children and adolescents (en) - Recent trends and relevant factors (en) by Directorate for Education and Skills has an embargo on Friday, 9 February 2018, 11:00 Paris time (GMT+01:00).</description>
+         <oe:embargoTime>2018-02-09T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Education and Skills</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
          <oe:catalogueType>Working paper</oe:catalogueType>
          <oe:availableMedia>PDF</oe:availableMedia>
       </item>

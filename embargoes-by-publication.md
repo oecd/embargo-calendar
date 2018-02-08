@@ -1,67 +1,25 @@
-# OECD publication embargoes (7 embargoes)
+# OECD publication embargoes (5 embargoes)
 
-*Data generated on Wednesday 7 February 2018 at 1:48*
-
-------
-
-## [OECD Development Co-operation Peer Reviews: Korea 2018 (en)](https://doi.org/10.1787/9789264288829-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 7 February 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 3 February 2018 at 0:11
-- [x] Exported to Keepeek Saturday 3 February 2018 at 1:38
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Thursday 8 February 2018 at 1:30*
 
 ------
 
-## [Science teachers’ satisfaction (en) - Evidence from the PISA 2015 teacher survey (en)](https://doi.org/10.1787/1ecdb4e3-en)
+## [Emotional well-being of children and adolescents (en) - Recent trends and relevant factors (en)](https://doi.org/10.1787/41576fb2-en)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 7 February 2018 at 11:00 | no launch event
+Friday 9 February 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 6 February 2018 at 23:47
-- [x] Exported to Keepeek Wednesday 7 February 2018 at 1:11
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [What do science teachers find most satisfying about their work? (en)](https://doi.org/10.1787/3e711a23-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 7 February 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 3 February 2018 at 0:11
-- [x] Exported to Keepeek Saturday 3 February 2018 at 1:39
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
+* Availability: *Not yet available*
 * Type of publication: *Working paper*
 * Medium: *PDF*
 
