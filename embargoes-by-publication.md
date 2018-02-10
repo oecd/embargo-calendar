@@ -1,27 +1,6 @@
-# OECD publication embargoes (10 embargoes)
+# OECD publication embargoes (9 embargoes)
 
-*Data generated on Friday 9 February 2018 at 1:05*
-
-------
-
-## [Emotional well-being of children and adolescents (en) - Recent trends and relevant factors (en)](https://doi.org/10.1787/41576fb2-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 9 February 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Saturday 10 February 2018 at 1:50*
 
 ------
 
@@ -75,8 +54,8 @@ Thursday 15 February 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 February 2018 at 23:18
-- [x] Exported to Keepeek Friday 9 February 2018 at 0:34
+- [x] Exported to iLibrary Friday 9 February 2018 at 23:55
+- [x] Exported to Keepeek Saturday 10 February 2018 at 1:16
 
 ### Additional Information
 
@@ -96,7 +75,7 @@ Monday 19 February 2018 at 0:01 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 31 January 2018 at 23:44
+- [x] Exported to iLibrary Thursday 8 February 2018 at 23:18
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -117,7 +96,7 @@ Tuesday 20 February 2018 at 9:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 8 February 2018 at 0:09
+- [x] Exported to iLibrary Thursday 8 February 2018 at 23:18
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -138,7 +117,7 @@ Tuesday 20 February 2018 at 9:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 21 December 2017 at 0:24
+- [x] Exported to iLibrary Thursday 8 February 2018 at 23:18
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -180,7 +159,7 @@ Wednesday 28 February 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 29 January 2018 at 23:23
+- [x] Exported to iLibrary Thursday 8 February 2018 at 23:18
 - [ ] Exported to Keepeek
 
 ### Additional Information

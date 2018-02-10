@@ -4,138 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264288829-en
-SUMMARY:OECD Development Co-operation Peer Revie
- ws: Korea 2018 (en) on 7 February 2018, 
- 2:00 Paris time (GMT+01:00)
-DESCRIPTION:OECD Development Co-operation Peer Revie
- ws: Korea 2018 (en)  by Development Co-o
- peration Directorate has an embargo date
- /time of 7 February 2018, 2:00 Paris tim
- e (GMT+01:00).\n\nDirectorate: Developme
- nt Co-operation Directorate\nLanguage: E
- nglish\nDOI: https://doi.org/10.1787/978
- 9264288829-en\nPublication type: Book\nR
- eleased as: PDF, Paperback.\n\niLibrary 
- export: 2 February 2018, 23:11 Paris tim
- e (GMT+00:00)\nFreepreview export: 3 Feb
- ruary 2018, 0:38 Paris time (GMT+00:00)\
- nFTI loaded: ✓.
-DTSTAMP:20180209T010534Z
-DTSTART:20180207T010000Z
-DTEND:20180207T011500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Development Co-operation 
- Peer Reviews: Korea 2018 (en) on 7 Febru
- ary 2018, 2:00 Paris time (GMT+01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/1ecdb4e3-en
-SUMMARY:Science teachers’ satisfaction (en) on 7
-  February 2018, 11:00 Paris time (GMT+01
- :00)
-DESCRIPTION:Science teachers’ satisfaction (en)  - E
- vidence from the PISA 2015 teacher surve
- y (en) by Directorate for Education and 
- Skills has an embargo date/time of 7 Feb
- ruary 2018, 11:00 Paris time (GMT+01:00)
- .\n\nDirectorate: Directorate for Educat
- ion and Skills\nLanguage: English\nDOI: 
- https://doi.org/10.1787/1ecdb4e3-en\nPub
- lication type: Working paper\nReleased a
- s: PDF.\n\niLibrary export: 6 February 2
- 018, 22:47 Paris time (GMT+00:00)\nFreep
- review export: 7 February 2018, 0:11 Par
- is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180209T010534Z
-DTSTART:20180207T100000Z
-DTEND:20180207T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Science teachers’ satisfaction
-  (en) on 7 February 2018, 11:00 Paris ti
- me (GMT+01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/3e711a23-en
-SUMMARY:What do science teachers find most satis
- fying about their work? (en) on 7 Februa
- ry 2018, 11:00 Paris time (GMT+01:00)
-DESCRIPTION:What do science teachers find most satis
- fying about their work? (en)  by Directo
- rate for Education and Skills has an emb
- argo date/time of 7 February 2018, 11:00
-  Paris time (GMT+01:00).\n\nDirectorate:
-  Directorate for Education and Skills\nL
- anguage: English\nDOI: https://doi.org/1
- 0.1787/3e711a23-en\nPublication type: Wo
- rking paper\nReleased as: PDF.\n\niLibra
- ry export: 2 February 2018, 23:11 Paris 
- time (GMT+00:00)\nFreepreview export: 3 
- February 2018, 0:39 Paris time (GMT+00:0
- 0)\nFTI loaded: ✓.
-DTSTAMP:20180209T010534Z
-DTSTART:20180207T100000Z
-DTEND:20180207T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: What do science teachers find 
- most satisfying about their work? (en) o
- n 7 February 2018, 11:00 Paris time (GMT
- +01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/41576fb2-en
-SUMMARY:Emotional well-being of children and ado
- lescents (en) on 9 February 2018, 11:00 
- Paris time (GMT+01:00)
-DESCRIPTION:Emotional well-being of children and ado
- lescents (en)  - Recent trends and relev
- ant factors (en) by Directorate for Educ
- ation and Skills has an embargo date/tim
- e of 9 February 2018, 11:00 Paris time (
- GMT+01:00).\n\nDirectorate: Directorate 
- for Education and Skills\nLanguage: Engl
- ish\nDOI: https://doi.org/10.1787/41576f
- b2-en\nPublication type: Working paper\n
- Released as: PDF.\n\niLibrary export: ne
- ver\nFreepreview export: never\nFTI load
- ed: ✓.
-DTSTAMP:20180209T010534Z
-DTSTART:20180209T100000Z
-DTEND:20180209T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Emotional well-being of childr
- en and adolescents (en) on 9 February 20
- 18, 11:00 Paris time (GMT+01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264288744-en
 SUMMARY:Innovation, Agricultural Productivity an
  d Sustainability in Estonia (en) on 13 F
@@ -154,7 +22,7 @@ DESCRIPTION:Innovation, Agricultural Productivity an
  Paris time (GMT+00:00)\nFreepreview expo
  rt: 29 January 2018, 23:24 Paris time (G
  MT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180209T010534Z
+DTSTAMP:20180210T015011Z
 DTSTART:20180213T110000Z
 DTEND:20180213T111500Z
 TRANSP:TRANSPARENT
@@ -187,7 +55,7 @@ DESCRIPTION:Taxing Energy Use 2018 (en)  - Companion
  brary export: 5 February 2018, 22:27 Par
  is time (GMT+00:00)\nFreepreview export:
   never\nFTI loaded: no.
-DTSTAMP:20180209T010534Z
+DTSTAMP:20180210T015011Z
 DTSTART:20180214T100000Z
 DTEND:20180214T101500Z
 TRANSP:TRANSPARENT
@@ -216,12 +84,12 @@ DESCRIPTION:Physical health and well-being in childr
  ducation and Skills\nLanguage: English\n
  DOI: https://doi.org/10.1787/102456c7-en
  \nPublication type: Working paper\nRelea
- sed as: PDF.\n\niLibrary export: 8 Febru
- ary 2018, 22:18 Paris time (GMT+00:00)\n
- Freepreview export: 8 February 2018, 23:
- 34 Paris time (GMT+00:00)\nFTI loaded: ✓
+ sed as: PDF.\n\niLibrary export: 9 Febru
+ ary 2018, 22:55 Paris time (GMT+00:00)\n
+ Freepreview export: 10 February 2018, 0:
+ 16 Paris time (GMT+00:00)\nFTI loaded: ✓
  .
-DTSTAMP:20180209T010534Z
+DTSTAMP:20180210T015011Z
 DTSTART:20180215T100000Z
 DTEND:20180215T101500Z
 TRANSP:TRANSPARENT
@@ -252,11 +120,11 @@ DESCRIPTION:Connecting People with Jobs: Towards Bet
  ial Affairs\nLanguage: English\nDOI: htt
  ps://doi.org/10.1787/9789264288256-en\nP
  ublication type: Stand-alone monograph\n
- Released as: PDF, Paperback.\n\niLibrary
-  export: 31 January 2018, 22:44 Paris ti
+ Released as: Paperback, PDF.\n\niLibrary
+  export: 8 February 2018, 22:18 Paris ti
  me (GMT+00:00)\nFreepreview export: neve
  r\nFTI loaded: no.
-DTSTAMP:20180209T010534Z
+DTSTAMP:20180210T015011Z
 DTSTART:20180218T230100Z
 DTEND:20180218T231600Z
 TRANSP:TRANSPARENT
@@ -286,10 +154,10 @@ DESCRIPTION:Flux financiers illicites (fr)  - L'écon
  DOI: https://doi.org/10.1787/97892642850
  95-fr\nPublication type: Stand-alone mon
  ograph\nReleased as: Paperback, PDF.\n\n
- iLibrary export: 7 February 2018, 23:09 
+ iLibrary export: 8 February 2018, 22:18 
  Paris time (GMT+00:00)\nFreepreview expo
  rt: never\nFTI loaded: no.
-DTSTAMP:20180209T010534Z
+DTSTAMP:20180210T015011Z
 DTSTART:20180220T080000Z
 DTEND:20180220T081500Z
 TRANSP:TRANSPARENT
@@ -317,11 +185,11 @@ DESCRIPTION:Illicit Financial Flows (en)  - The Econ
  ectorate\nLanguage: English\nDOI: https:
  //doi.org/10.1787/9789264268418-en\nPubl
  ication type: Stand-alone monograph\nRel
- eased as: PDF, Paperback.\n\niLibrary ex
- port: 20 December 2017, 23:24 Paris time
-  (GMT+00:00)\nFreepreview export: never\
- nFTI loaded: no.
-DTSTAMP:20180209T010534Z
+ eased as: Paperback, PDF.\n\niLibrary ex
+ port: 8 February 2018, 22:18 Paris time 
+ (GMT+00:00)\nFreepreview export: never\n
+ FTI loaded: no.
+DTSTAMP:20180210T015011Z
 DTSTART:20180220T080000Z
 DTEND:20180220T081500Z
 TRANSP:TRANSPARENT
@@ -350,12 +218,12 @@ DESCRIPTION:Driving Performance at Ireland's Commiss
  orate: Directorate for Public Governance
  \nLanguage: English\nDOI: https://doi.or
  g/10.1787/9789264190061-en\nPublication 
- type: Book\nReleased as: ePub, PDF, Pape
- rback.\n\niLibrary export: 5 February 20
+ type: Book\nReleased as: PDF, Paperback,
+  ePub.\n\niLibrary export: 5 February 20
  18, 22:27 Paris time (GMT+00:00)\nFreepr
  eview export: 23 January 2018, 0:05 Pari
  s time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180209T010534Z
+DTSTAMP:20180210T015011Z
 DTSTART:20180221T090000Z
 DTEND:20180221T091500Z
 TRANSP:TRANSPARENT
@@ -383,11 +251,11 @@ DESCRIPTION:OECD Economic Surveys: Finland 2018 (en)
  onomics Department\nLanguage: English\nD
  OI: https://doi.org/10.1787/eco_surveys-
  fin-2018-en\nPublication type: Economic 
- survey\nReleased as: ePub, Paperback, PD
- F.\n\niLibrary export: 29 January 2018, 
- 22:23 Paris time (GMT+00:00)\nFreeprevie
+ survey\nReleased as: PDF, ePub, Paperbac
+ k.\n\niLibrary export: 8 February 2018, 
+ 22:18 Paris time (GMT+00:00)\nFreeprevie
  w export: never\nFTI loaded: no.
-DTSTAMP:20180209T010534Z
+DTSTAMP:20180210T015011Z
 DTSTART:20180228T100000Z
 DTEND:20180228T101500Z
 TRANSP:TRANSPARENT
@@ -419,7 +287,7 @@ DESCRIPTION:Getting Skills Right: Spain (en)  by Dir
  is time (GMT+00:00)\nFreepreview export:
   13 January 2018, 2:11 Paris time (GMT+0
  0:00)\nFTI loaded: ✓.
-DTSTAMP:20180209T010534Z
+DTSTAMP:20180210T015011Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
