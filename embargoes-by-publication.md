@@ -1,27 +1,6 @@
-# OECD publication embargoes (9 embargoes)
+# OECD publication embargoes (10 embargoes)
 
-*Data generated on Tuesday 13 February 2018 at 2:48*
-
-------
-
-## [Innovation, Agricultural Productivity and Sustainability in Estonia (en)](https://doi.org/10.1787/9789264288744-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 13 February 2018 at 12:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 February 2018 at 23:27
-- [x] Exported to Keepeek Tuesday 30 January 2018 at 0:24
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Wednesday 14 February 2018 at 0:56*
 
 ------
 
@@ -33,8 +12,8 @@ Wednesday 14 February 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 February 2018 at 23:27
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 13 February 2018 at 0:27
+- [x] Exported to Keepeek Tuesday 13 February 2018 at 2:18
 
 ### Additional Information
 
@@ -84,6 +63,48 @@ Monday 19 February 2018 at 0:01 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [How to improve Norway’s Transport-Infrastructure Investment (en)](https://doi.org/10.1787/2a1aa042-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 February 2018 at 7:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 13 February 2018 at 22:57
+- [x] Exported to Keepeek Wednesday 14 February 2018 at 0:12
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Norway’s economy (en) - Maintaining a successful business sector in a changing world (en)](https://doi.org/10.1787/ce338dc9-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 February 2018 at 7:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 13 February 2018 at 22:57
+- [x] Exported to Keepeek Wednesday 14 February 2018 at 0:12
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
@@ -138,7 +159,7 @@ Wednesday 21 February 2018 at 10:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 February 2018 at 23:27
+- [x] Exported to iLibrary Tuesday 13 February 2018 at 0:27
 - [x] Exported to Keepeek Tuesday 23 January 2018 at 1:05
 
 ### Additional Information
@@ -159,7 +180,7 @@ Wednesday 28 February 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 8 February 2018 at 23:18
+- [x] Exported to iLibrary Tuesday 13 February 2018 at 0:27
 - [ ] Exported to Keepeek
 
 ### Additional Information
