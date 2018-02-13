@@ -1,6 +1,6 @@
 # OECD publication embargoes (9 embargoes)
 
-*Data generated on Saturday 10 February 2018 at 1:50*
+*Data generated on Tuesday 13 February 2018 at 2:48*
 
 ------
 
@@ -32,7 +32,7 @@ Embargo date | Launch date
 Wednesday 14 February 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 February 2018 at 23:27
 - [ ] Exported to Keepeek
 
@@ -40,7 +40,7 @@ Wednesday 14 February 2018 at 11:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
