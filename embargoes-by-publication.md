@@ -1,27 +1,6 @@
-# OECD publication embargoes (10 embargoes)
+# OECD publication embargoes (9 embargoes)
 
-*Data generated on Wednesday 14 February 2018 at 0:56*
-
-------
-
-## [Taxing Energy Use 2018 (en) - Companion to the Taxing Energy Use Database (en)](https://doi.org/10.1787/9789264289635-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 14 February 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 13 February 2018 at 0:27
-- [x] Exported to Keepeek Tuesday 13 February 2018 at 2:18
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
+*Data generated on Thursday 15 February 2018 at 0:00*
 
 ------
 
@@ -42,27 +21,6 @@ Thursday 15 February 2018 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Connecting People with Jobs: Towards Better Social and Employment Security in Korea (en)](https://doi.org/10.1787/9789264288256-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 19 February 2018 at 0:01 | no launch event
-
-### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 8 February 2018 at 23:18
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
 ------
@@ -189,6 +147,27 @@ Wednesday 28 February 2018 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
+## [Connecting People with Jobs: Towards Better Social and Employment Security in Korea (en)](https://doi.org/10.1787/9789264288256-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 14 March 2018 at 0:01 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 8 February 2018 at 23:18
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
 ------

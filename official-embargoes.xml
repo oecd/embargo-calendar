@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2018-02-14T00:56:47.729+01:00" count="126">
+<report name="official-embargoes" generated="2018-02-15T00:00:39.323+01:00" count="126">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -161,35 +161,35 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="10">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_surveys-fin-2018-en</cell>
-    <cell name="title">OECD Economic Surveys: Finland 2018 (en)</cell>
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/9789264288256-en</cell>
+    <cell name="title">Connecting People with Jobs: Towards Better Social and Employment Security in Korea (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-02-28</cell>
-    <cell name="embargo date">2018-02-28T10:00:00Z</cell>
-    <cell name="launch date/time">2018-02-28T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-02-12T23:27:19.287Z</cell>
+    <cell name="date of publication">2018-02-19</cell>
+    <cell name="embargo date">2018-03-13T23:01:00Z</cell>
+    <cell name="launch date/time">2018-03-13T23:01:00Z</cell>
+    <cell name="ilibrary last export date">2018-02-08T22:18:15.61Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
+    <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
   <row index="11">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_surveys-fin-2018-en</cell>
-    <cell name="title">OECD Economic Surveys: Finland 2018 (en)</cell>
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/9789264288256-en</cell>
+    <cell name="title">Connecting People with Jobs: Towards Better Social and Employment Security in Korea (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2018-02-28</cell>
-    <cell name="embargo date">2018-02-28T10:00:00Z</cell>
-    <cell name="launch date/time">2018-02-28T10:00:00Z</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-02-19</cell>
+    <cell name="embargo date">2018-03-13T23:01:00Z</cell>
+    <cell name="launch date/time">2018-03-13T23:01:00Z</cell>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
+    <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
   <row index="12">
@@ -209,6 +209,38 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="13">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-fin-2018-en</cell>
+    <cell name="title">OECD Economic Surveys: Finland 2018 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-02-28</cell>
+    <cell name="embargo date">2018-02-28T10:00:00Z</cell>
+    <cell name="launch date/time">2018-02-28T10:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-02-12T23:27:19.287Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="14">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-fin-2018-en</cell>
+    <cell name="title">OECD Economic Surveys: Finland 2018 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2018-02-28</cell>
+    <cell name="embargo date">2018-02-28T10:00:00Z</cell>
+    <cell name="launch date/time">2018-02-28T10:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="15">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264190061-2-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -224,7 +256,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="14">
+  <row index="16">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264190061-4-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -240,7 +272,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="15">
+  <row index="17">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264190061-en</cell>
     <cell name="title">Driving Performance at Ireland's Commission for Regulation of Utilities (en)</cell>
@@ -256,7 +288,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="16">
+  <row index="18">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264190061-en</cell>
     <cell name="title">Driving Performance at Ireland's Commission for Regulation of Utilities (en)</cell>
@@ -272,7 +304,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="17">
+  <row index="19">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264190061-en</cell>
     <cell name="title">Driving Performance at Ireland's Commission for Regulation of Utilities (en)</cell>
@@ -288,7 +320,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="18">
+  <row index="20">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264190061-3-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -304,7 +336,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="19">
+  <row index="21">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264190061-1-en</cell>
     <cell name="title">Foreword and acknowledgements (en)</cell>
@@ -320,7 +352,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="20">
+  <row index="22">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264190061-6-en</cell>
     <cell name="title">Governance of the Commission for Regulation of Utilities (en)</cell>
@@ -336,7 +368,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="21">
+  <row index="23">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264190061-7-en</cell>
     <cell name="title">Methodology (en)</cell>
@@ -352,7 +384,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="22">
+  <row index="24">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264190061-5-en</cell>
     <cell name="title">Regulatory and sector context (en)</cell>
@@ -368,44 +400,12 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="23">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264285095-fr</cell>
-    <cell name="title">Flux financiers illicites (fr)</cell>
-    <cell name="subtitle">L'économie du commerce illicite en Afrique de l'Ouest (fr)</cell>
-    <cell name="language">French</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-02-20</cell>
-    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
-    <cell name="launch date/time">2018-02-20T08:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="24">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264285095-fr</cell>
-    <cell name="title">Flux financiers illicites (fr)</cell>
-    <cell name="subtitle">L'économie du commerce illicite en Afrique de l'Ouest (fr)</cell>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-02-20</cell>
-    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
-    <cell name="launch date/time">2018-02-20T08:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-02-08T22:18:15.61Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-  </row>
   <row index="25">
     <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264268418-en</cell>
-    <cell name="title">Illicit Financial Flows (en)</cell>
-    <cell name="subtitle">The Economy of Illicit Trade in West Africa (en)</cell>
-    <cell name="language">English</cell>
+    <cell name="doi">10.1787/9789264285095-fr</cell>
+    <cell name="title">Flux financiers illicites (fr)</cell>
+    <cell name="subtitle">L'économie du commerce illicite en Afrique de l'Ouest (fr)</cell>
+    <cell name="language">French</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-02-20</cell>
@@ -418,6 +418,38 @@
   </row>
   <row index="26">
     <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/9789264285095-fr</cell>
+    <cell name="title">Flux financiers illicites (fr)</cell>
+    <cell name="subtitle">L'économie du commerce illicite en Afrique de l'Ouest (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-02-20</cell>
+    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
+    <cell name="launch date/time">2018-02-20T08:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-02-08T22:18:15.61Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="27">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/9789264268418-en</cell>
+    <cell name="title">Illicit Financial Flows (en)</cell>
+    <cell name="subtitle">The Economy of Illicit Trade in West Africa (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-02-20</cell>
+    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
+    <cell name="launch date/time">2018-02-20T08:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="28">
+    <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/9789264268418-en</cell>
     <cell name="title">Illicit Financial Flows (en)</cell>
     <cell name="subtitle">The Economy of Illicit Trade in West Africa (en)</cell>
@@ -432,7 +464,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="27">
+  <row index="29">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/2a1aa042-en</cell>
     <cell name="title">How to improve Norway’s Transport-Infrastructure Investment (en)</cell>
@@ -448,7 +480,7 @@
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="28">
+  <row index="30">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/ce338dc9-en</cell>
     <cell name="title">Norway’s economy (en)</cell>
@@ -463,38 +495,6 @@
     <cell name="freepreview last export date">2018-02-13T23:12:45.563Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="29">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/9789264288256-en</cell>
-    <cell name="title">Connecting People with Jobs: Towards Better Social and Employment Security in Korea (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-02-19</cell>
-    <cell name="embargo date">2018-02-18T23:01:00Z</cell>
-    <cell name="launch date/time">2018-02-18T23:01:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="30">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/9789264288256-en</cell>
-    <cell name="title">Connecting People with Jobs: Towards Better Social and Employment Security in Korea (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-02-19</cell>
-    <cell name="embargo date">2018-02-18T23:01:00Z</cell>
-    <cell name="launch date/time">2018-02-18T23:01:00Z</cell>
-    <cell name="ilibrary last export date">2018-02-08T22:18:15.61Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
   </row>
   <row index="31">
     <cell name="directorate">Directorate for Education and Skills</cell>
@@ -1318,13 +1318,13 @@
     <cell name="title">Innovation, Agricultural Productivity and Sustainability in Estonia (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
+    <cell name="medium">Paperback</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-02-13</cell>
     <cell name="embargo date">2018-02-13T11:00:00Z</cell>
     <cell name="launch date/time">2018-02-13T11:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-02-05T22:27:37.16Z</cell>
-    <cell name="freepreview last export date">2018-01-29T23:24:48.243Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1334,13 +1334,13 @@
     <cell name="title">Innovation, Agricultural Productivity and Sustainability in Estonia (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-02-13</cell>
     <cell name="embargo date">2018-02-13T11:00:00Z</cell>
     <cell name="launch date/time">2018-02-13T11:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-02-05T22:27:37.16Z</cell>
+    <cell name="freepreview last export date">2018-01-29T23:24:48.243Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>

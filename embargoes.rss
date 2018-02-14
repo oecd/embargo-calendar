@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Wed, 14 Feb 2018 00:56:55 GMT</pubDate>
+      <pubDate>Thu, 15 Feb 2018 00:00:50 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -26,7 +26,7 @@
          <oe:iLibraryExport>Monday, 5 February 2018, 22:27 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Monday, 29 January 2018, 23:24 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264289635-en</guid>
@@ -57,21 +57,6 @@
          <oe:freePreviewExport>Saturday, 10 February 2018, 0:16 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Working paper</oe:catalogueType>
          <oe:availableMedia>PDF</oe:availableMedia>
-      </item>
-      <item>
-         <guid isPermaLink="false">10.1787/9789264288256-en</guid>
-         <pubDate>Sun, 18 Feb 2018 23:01:00 GMT</pubDate>
-         <title>Connecting People with Jobs: Towards Better Social and Employment Security in Korea (en)</title>
-         <link>https://doi.org/10.1787/9789264288256-en</link>
-         <description>Connecting People with Jobs: Towards Better Social and Employment Security in Korea (en) by Directorate for Employment, Labour and Social Affairs has an embargo on Monday, 19 February 2018, 0:01 Paris time (GMT+01:00).</description>
-         <oe:embargoTime>2018-02-18T23:01:00Z</oe:embargoTime>
-         <oe:launchTime/>
-         <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
-         <oe:ftiLoaded/>
-         <oe:iLibraryExport>Thursday, 8 February 2018, 22:18 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
-         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/2a1aa042-en</guid>
@@ -161,7 +146,22 @@
          <oe:iLibraryExport>Monday, 12 February 2018, 23:27 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Economic survey</oe:catalogueType>
-         <oe:availableMedia>PDF, ePub, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, PDF, ePub</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264288256-en</guid>
+         <pubDate>Tue, 13 Mar 2018 23:01:00 GMT</pubDate>
+         <title>Connecting People with Jobs: Towards Better Social and Employment Security in Korea (en)</title>
+         <link>https://doi.org/10.1787/9789264288256-en</link>
+         <description>Connecting People with Jobs: Towards Better Social and Employment Security in Korea (en) by Directorate for Employment, Labour and Social Affairs has an embargo on Wednesday, 14 March 2018, 0:01 Paris time (GMT+01:00).</description>
+         <oe:embargoTime>2018-03-13T23:01:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Thursday, 8 February 2018, 22:18 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264282346-en</guid>
