@@ -1,27 +1,6 @@
 # OECD publication embargoes (9 embargoes)
 
-*Data generated on Thursday 15 February 2018 at 0:00*
-
-------
-
-## [Physical health and well-being in children and youth (en) - Review of the literature (en)](https://doi.org/10.1787/102456c7-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 15 February 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 9 February 2018 at 23:55
-- [x] Exported to Keepeek Saturday 10 February 2018 at 1:16
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Thursday 15 February 2018 at 23:02*
 
 ------
 
@@ -74,7 +53,7 @@ Embargo date | Launch date
 Tuesday 20 February 2018 at 9:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 February 2018 at 23:18
 - [ ] Exported to Keepeek
 
@@ -82,7 +61,7 @@ Tuesday 20 February 2018 at 9:00 | no launch event
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
@@ -95,7 +74,7 @@ Embargo date | Launch date
 Tuesday 20 February 2018 at 9:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 February 2018 at 23:18
 - [ ] Exported to Keepeek
 
@@ -103,7 +82,7 @@ Tuesday 20 February 2018 at 9:00 | no launch event
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
@@ -125,6 +104,27 @@ Wednesday 21 February 2018 at 10:00 | no launch event
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Financing SMEs and Entrepreneurs 2018 (en) - An OECD Scoreboard (en)](https://doi.org/10.1787/fin_sme_ent-2018-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 21 February 2018 at 19:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 5 February 2018 at 23:27
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -159,7 +159,7 @@ Wednesday 14 March 2018 at 0:01 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 8 February 2018 at 23:18
+- [x] Exported to iLibrary Thursday 15 February 2018 at 13:03
 - [ ] Exported to Keepeek
 
 ### Additional Information

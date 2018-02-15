@@ -4,41 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264288744-en
-SUMMARY:Innovation, Agricultural Productivity an
- d Sustainability in Estonia (en) on 13 F
- ebruary 2018, 12:00 Paris time (GMT+01:0
- 0)
-DESCRIPTION:Innovation, Agricultural Productivity an
- d Sustainability in Estonia (en)  by Tra
- de and Agriculture Directorate has an em
- bargo date/time of 13 February 2018, 12:
- 00 Paris time (GMT+01:00).\n\nDirectorat
- e: Trade and Agriculture Directorate\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/9789264288744-en\nPublication type
- : Book\nReleased as: Paperback, PDF.\n\n
- iLibrary export: 5 February 2018, 22:27 
- Paris time (GMT+00:00)\nFreepreview expo
- rt: 29 January 2018, 23:24 Paris time (G
- MT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180215T000046Z
-DTSTART:20180213T110000Z
-DTEND:20180213T111500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Innovation, Agricultural Produ
- ctivity and Sustainability in Estonia (e
- n) on 13 February 2018, 12:00 Paris time
-  (GMT+01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264289635-en
 SUMMARY:Taxing Energy Use 2018 (en) on 14 Februa
  ry 2018, 11:00 Paris time (GMT+01:00)
@@ -51,12 +16,12 @@ DESCRIPTION:Taxing Energy Use 2018 (en)  - Companion
  d Administration\nLanguage: English\nDOI
  : https://doi.org/10.1787/9789264289635-
  en\nPublication type: Stand-alone monogr
- aph\nReleased as: Paperback, PDF.\n\niLi
+ aph\nReleased as: PDF, Paperback.\n\niLi
  brary export: 12 February 2018, 23:27 Pa
  ris time (GMT+00:00)\nFreepreview export
  : 13 February 2018, 1:18 Paris time (GMT
  +00:00)\nFTI loaded: ✓.
-DTSTAMP:20180215T000046Z
+DTSTAMP:20180215T230229Z
 DTSTART:20180214T100000Z
 DTEND:20180214T101500Z
 TRANSP:TRANSPARENT
@@ -90,7 +55,7 @@ DESCRIPTION:Physical health and well-being in childr
  Freepreview export: 10 February 2018, 0:
  16 Paris time (GMT+00:00)\nFTI loaded: ✓
  .
-DTSTAMP:20180215T000046Z
+DTSTAMP:20180215T230229Z
 DTSTART:20180215T100000Z
 DTEND:20180215T101500Z
 TRANSP:TRANSPARENT
@@ -122,7 +87,7 @@ DESCRIPTION:How to improve Norway’s Transport-Infras
  aris time (GMT+00:00)\nFreepreview expor
  t: 13 February 2018, 23:12 Paris time (G
  MT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180215T000046Z
+DTSTAMP:20180215T230229Z
 DTSTART:20180219T060000Z
 DTEND:20180219T061500Z
 TRANSP:TRANSPARENT
@@ -155,7 +120,7 @@ DESCRIPTION:Norway’s economy (en)  - Maintaining a s
  00:00)\nFreepreview export: 13 February 
  2018, 23:12 Paris time (GMT+00:00)\nFTI 
  loaded: ✓.
-DTSTAMP:20180215T000046Z
+DTSTAMP:20180215T230229Z
 DTSTART:20180219T060000Z
 DTEND:20180219T061500Z
 TRANSP:TRANSPARENT
@@ -185,8 +150,8 @@ DESCRIPTION:Flux financiers illicites (fr)  - L'écon
  ograph\nReleased as: Paperback, PDF.\n\n
  iLibrary export: 8 February 2018, 22:18 
  Paris time (GMT+00:00)\nFreepreview expo
- rt: never\nFTI loaded: no.
-DTSTAMP:20180215T000046Z
+ rt: never\nFTI loaded: ✓.
+DTSTAMP:20180215T230229Z
 DTSTART:20180220T080000Z
 DTEND:20180220T081500Z
 TRANSP:TRANSPARENT
@@ -217,8 +182,8 @@ DESCRIPTION:Illicit Financial Flows (en)  - The Econ
  eased as: Paperback, PDF.\n\niLibrary ex
  port: 8 February 2018, 22:18 Paris time 
  (GMT+00:00)\nFreepreview export: never\n
- FTI loaded: no.
-DTSTAMP:20180215T000046Z
+ FTI loaded: ✓.
+DTSTAMP:20180215T230229Z
 DTSTART:20180220T080000Z
 DTEND:20180220T081500Z
 TRANSP:TRANSPARENT
@@ -252,7 +217,7 @@ DESCRIPTION:Driving Performance at Ireland's Commiss
  018, 23:27 Paris time (GMT+00:00)\nFreep
  review export: 23 January 2018, 0:05 Par
  is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180215T000046Z
+DTSTAMP:20180215T230229Z
 DTSTART:20180221T090000Z
 DTEND:20180221T091500Z
 TRANSP:TRANSPARENT
@@ -265,6 +230,39 @@ DESCRIPTION:Reminder: Driving Performance at Ireland
  's Commission for Regulation of Utilitie
  s (en) on 21 February 2018, 10:00 Paris 
  time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/fin_sme_ent-2018-en
+SUMMARY:Financing SMEs and Entrepreneurs 2018 (e
+ n) on 21 February 2018, 19:00 Paris time
+  (GMT+01:00)
+DESCRIPTION:Financing SMEs and Entrepreneurs 2018 (e
+ n)  - An OECD Scoreboard (en) by Centre 
+ for Entrepreneurship, SMEs and Local Dev
+ elopment has an embargo date/time of 21 
+ February 2018, 19:00 Paris time (GMT+01:
+ 00).\n\nDirectorate: Centre for Entrepre
+ neurship, SMEs and Local Development\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/fin_sme_ent-2018-en\nPublication t
+ ype: Book\nReleased as: Paperback, PDF.\
+ n\niLibrary export: 5 February 2018, 22:
+ 27 Paris time (GMT+00:00)\nFreepreview e
+ xport: never\nFTI loaded: no.
+DTSTAMP:20180215T230229Z
+DTSTART:20180221T180000Z
+DTEND:20180221T181500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Financing SMEs and Entrepreneu
+ rs 2018 (en) on 21 February 2018, 19:00 
+ Paris time (GMT+01:00)
 END:VALARM
 END:VEVENT
 
@@ -284,7 +282,7 @@ DESCRIPTION:OECD Economic Surveys: Finland 2018 (en)
  b.\n\niLibrary export: 12 February 2018,
   23:27 Paris time (GMT+00:00)\nFreeprevi
  ew export: never\nFTI loaded: no.
-DTSTAMP:20180215T000046Z
+DTSTAMP:20180215T230229Z
 DTSTART:20180228T100000Z
 DTEND:20180228T101500Z
 TRANSP:TRANSPARENT
@@ -316,10 +314,10 @@ DESCRIPTION:Connecting People with Jobs: Towards Bet
  //doi.org/10.1787/9789264288256-en\nPubl
  ication type: Stand-alone monograph\nRel
  eased as: PDF, Paperback.\n\niLibrary ex
- port: 8 February 2018, 22:18 Paris time 
- (GMT+00:00)\nFreepreview export: never\n
- FTI loaded: no.
-DTSTAMP:20180215T000046Z
+ port: 15 February 2018, 12:03 Paris time
+  (GMT+00:00)\nFreepreview export: never\
+ nFTI loaded: no.
+DTSTAMP:20180215T230229Z
 DTSTART:20180313T230100Z
 DTEND:20180313T231600Z
 TRANSP:TRANSPARENT
@@ -352,7 +350,7 @@ DESCRIPTION:Getting Skills Right: Spain (en)  by Dir
  is time (GMT+00:00)\nFreepreview export:
   13 January 2018, 2:11 Paris time (GMT+0
  0:00)\nFTI loaded: ✓.
-DTSTAMP:20180215T000046Z
+DTSTAMP:20180215T230229Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
