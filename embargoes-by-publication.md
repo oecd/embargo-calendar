@@ -1,48 +1,6 @@
 # OECD publication embargoes (9 embargoes)
 
-*Data generated on Thursday 15 February 2018 at 23:02*
-
-------
-
-## [How to improve Norway’s Transport-Infrastructure Investment (en)](https://doi.org/10.1787/2a1aa042-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 19 February 2018 at 7:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 13 February 2018 at 22:57
-- [x] Exported to Keepeek Wednesday 14 February 2018 at 0:12
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Norway’s economy (en) - Maintaining a successful business sector in a changing world (en)](https://doi.org/10.1787/ce338dc9-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 19 February 2018 at 7:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 13 February 2018 at 22:57
-- [x] Exported to Keepeek Wednesday 14 February 2018 at 0:12
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Saturday 17 February 2018 at 2:25*
 
 ------
 
@@ -54,8 +12,8 @@ Tuesday 20 February 2018 at 9:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 February 2018 at 23:18
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 16 February 2018 at 11:37
+- [x] Exported to Keepeek Thursday 15 February 2018 at 22:26
 
 ### Additional Information
 
@@ -75,8 +33,8 @@ Tuesday 20 February 2018 at 9:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 February 2018 at 23:18
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 16 February 2018 at 11:37
+- [x] Exported to Keepeek Thursday 15 February 2018 at 22:26
 
 ### Additional Information
 
@@ -117,7 +75,7 @@ Wednesday 21 February 2018 at 19:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 5 February 2018 at 23:27
+- [x] Exported to iLibrary Friday 16 February 2018 at 11:37
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -126,6 +84,48 @@ Wednesday 21 February 2018 at 19:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [How to improve Norway’s Transport-Infrastructure Investment (en)](https://doi.org/10.1787/2a1aa042-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 23 February 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 17 February 2018 at 0:11
+- [x] Exported to Keepeek Saturday 17 February 2018 at 1:39
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Norway’s economy (en) - Maintaining a successful business sector in a changing world (en)](https://doi.org/10.1787/ce338dc9-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 23 February 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 17 February 2018 at 0:11
+- [x] Exported to Keepeek Saturday 17 February 2018 at 1:39
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
