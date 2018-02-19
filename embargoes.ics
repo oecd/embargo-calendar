@@ -4,40 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/102456c7-en
-SUMMARY:Physical health and well-being in childr
- en and youth (en) on 15 February 2018, 1
- 1:00 Paris time (GMT+01:00)
-DESCRIPTION:Physical health and well-being in childr
- en and youth (en)  - Review of the liter
- ature (en) by Directorate for Education 
- and Skills has an embargo date/time of 1
- 5 February 2018, 11:00 Paris time (GMT+0
- 1:00).\n\nDirectorate: Directorate for E
- ducation and Skills\nLanguage: English\n
- DOI: https://doi.org/10.1787/102456c7-en
- \nPublication type: Working paper\nRelea
- sed as: PDF.\n\niLibrary export: 9 Febru
- ary 2018, 22:55 Paris time (GMT+00:00)\n
- Freepreview export: 10 February 2018, 0:
- 16 Paris time (GMT+00:00)\nFTI loaded: ✓
- .
-DTSTAMP:20180217T022557Z
-DTSTART:20180215T100000Z
-DTEND:20180215T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Physical health and well-being
-  in children and youth (en) on 15 Februa
- ry 2018, 11:00 Paris time (GMT+01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264285095-fr
 SUMMARY:Flux financiers illicites (fr) on 20 Feb
  ruary 2018, 9:00 Paris time (GMT+01:00)
@@ -55,7 +21,7 @@ DESCRIPTION:Flux financiers illicites (fr)  - L'écon
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 15 February 2018, 21:26 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180217T022557Z
+DTSTAMP:20180220T005015Z
 DTSTART:20180220T080000Z
 DTEND:20180220T081500Z
 TRANSP:TRANSPARENT
@@ -88,7 +54,7 @@ DESCRIPTION:Illicit Financial Flows (en)  - The Econ
   (GMT+00:00)\nFreepreview export: 15 Feb
  ruary 2018, 21:26 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180217T022557Z
+DTSTAMP:20180220T005015Z
 DTSTART:20180220T080000Z
 DTEND:20180220T081500Z
 TRANSP:TRANSPARENT
@@ -122,7 +88,7 @@ DESCRIPTION:Driving Performance at Ireland's Commiss
  018, 23:27 Paris time (GMT+00:00)\nFreep
  review export: 23 January 2018, 0:05 Par
  is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180217T022557Z
+DTSTAMP:20180220T005015Z
 DTSTART:20180221T090000Z
 DTEND:20180221T091500Z
 TRANSP:TRANSPARENT
@@ -152,11 +118,11 @@ DESCRIPTION:Financing SMEs and Entrepreneurs 2018 (e
  neurship, SMEs and Local Development\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/fin_sme_ent-2018-en\nPublication t
- ype: Book\nReleased as: PDF, Paperback.\
+ ype: Book\nReleased as: Paperback, PDF.\
  n\niLibrary export: 16 February 2018, 10
  :37 Paris time (GMT+00:00)\nFreepreview 
- export: never\nFTI loaded: no.
-DTSTAMP:20180217T022557Z
+ export: never\nFTI loaded: ✓.
+DTSTAMP:20180220T005015Z
 DTSTART:20180221T180000Z
 DTEND:20180221T181500Z
 TRANSP:TRANSPARENT
@@ -168,6 +134,138 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Financing SMEs and Entrepreneu
  rs 2018 (en) on 21 February 2018, 19:00 
  Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/3709429e-en
+SUMMARY:Alternative Financing Instruments for SM
+ Es and Entrepreneurs (en) on 22 February
+  2018, 2:00 Paris time (GMT+01:00)
+DESCRIPTION:Alternative Financing Instruments for SM
+ Es and Entrepreneurs (en)  - The Case of
+  Mezzanine Finance (en) by Centre for En
+ trepreneurship, SMEs and Local Developme
+ nt has an embargo date/time of 22 Februa
+ ry 2018, 2:00 Paris time (GMT+01:00).\n\
+ nDirectorate: Centre for Entrepreneurshi
+ p, SMEs and Local Development\nLanguage:
+  English\nDOI: https://doi.org/10.1787/3
+ 709429e-en\nPublication type: Working pa
+ per\nReleased as: PDF.\n\niLibrary expor
+ t: never\nFreepreview export: never\nFTI
+  loaded: ✓.
+DTSTAMP:20180220T005015Z
+DTSTART:20180222T010000Z
+DTEND:20180222T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Alternative Financing Instrume
+ nts for SMEs and Entrepreneurs (en) on 2
+ 2 February 2018, 2:00 Paris time (GMT+01
+ :00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/24072c0d-en
+SUMMARY:Credit Mediation for SMEs (en) on 22 Feb
+ ruary 2018, 2:00 Paris time (GMT+01:00)
+DESCRIPTION:Credit Mediation for SMEs (en)  by Centr
+ e for Entrepreneurship, SMEs and Local D
+ evelopment has an embargo date/time of 2
+ 2 February 2018, 2:00 Paris time (GMT+01
+ :00).\n\nDirectorate: Centre for Entrepr
+ eneurship, SMEs and Local Development\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/24072c0d-en\nPublication type: Wo
+ rking paper\nReleased as: PDF.\n\niLibra
+ ry export: never\nFreepreview export: ne
+ ver\nFTI loaded: ✓.
+DTSTAMP:20180220T005015Z
+DTSTART:20180222T010000Z
+DTEND:20180222T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Credit Mediation for SMEs (en)
+  on 22 February 2018, 2:00 Paris time (G
+ MT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/35b8fece-en
+SUMMARY:SME and Entrepreneurship Financing (en) 
+ on 22 February 2018, 2:00 Paris time (GM
+ T+01:00)
+DESCRIPTION:SME and Entrepreneurship Financing (en) 
+  - The Role of Credit Guarantee Schemes 
+ and Mutual Guarantee Societies in suppor
+ ting finance for small and medium-sized 
+ enterprises (en) by Centre for Entrepren
+ eurship, SMEs and Local Development has 
+ an embargo date/time of 22 February 2018
+ , 2:00 Paris time (GMT+01:00).\n\nDirect
+ orate: Centre for Entrepreneurship, SMEs
+  and Local Development\nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/35b8fece
+ -en\nPublication type: Working paper\nRe
+ leased as: PDF.\n\niLibrary export: neve
+ r\nFreepreview export: never\nFTI loaded
+ : ✓.
+DTSTAMP:20180220T005015Z
+DTSTART:20180222T010000Z
+DTEND:20180222T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: SME and Entrepreneurship Finan
+ cing (en) on 22 February 2018, 2:00 Pari
+ s time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/bfbcd0db-en
+SUMMARY:Loss carryover provisions (en) on 22 Feb
+ ruary 2018, 7:00 Paris time (GMT+01:00)
+DESCRIPTION:Loss carryover provisions (en)  - Measur
+ ing effects on tax symmetry and automati
+ c stabilisation (en) by Centre for Tax P
+ olicy and Administration has an embargo 
+ date/time of 22 February 2018, 7:00 Pari
+ s time (GMT+01:00).\n\nDirectorate: Cent
+ re for Tax Policy and Administration\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/bfbcd0db-en\nPublication type: Wor
+ king paper\nReleased as: PDF.\n\niLibrar
+ y export: 19 February 2018, 22:16 Paris 
+ time (GMT+00:00)\nFreepreview export: 19
+  February 2018, 23:12 Paris time (GMT+00
+ :00)\nFTI loaded: ✓.
+DTSTAMP:20180220T005015Z
+DTSTART:20180222T060000Z
+DTEND:20180222T061500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Loss carryover provisions (en)
+  on 22 February 2018, 7:00 Paris time (G
+ MT+01:00)
 END:VALARM
 END:VEVENT
 
@@ -188,7 +286,7 @@ DESCRIPTION:How to improve Norway’s Transport-Infras
  aris time (GMT+00:00)\nFreepreview expor
  t: 17 February 2018, 0:39 Paris time (GM
  T+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180217T022557Z
+DTSTAMP:20180220T005015Z
 DTSTART:20180223T010000Z
 DTEND:20180223T011500Z
 TRANSP:TRANSPARENT
@@ -221,7 +319,7 @@ DESCRIPTION:Norway’s economy (en)  - Maintaining a s
  00:00)\nFreepreview export: 17 February 
  2018, 0:39 Paris time (GMT+00:00)\nFTI l
  oaded: ✓.
-DTSTAMP:20180217T022557Z
+DTSTAMP:20180220T005015Z
 DTSTART:20180223T010000Z
 DTEND:20180223T011500Z
 TRANSP:TRANSPARENT
@@ -232,6 +330,105 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Norway’s economy (en) on 23 Fe
  bruary 2018, 2:00 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/282d9700-en
+SUMMARY:Public spending in education and student
+ ’s performance in Colombia (en) on 23 Fe
+ bruary 2018, 2:00 Paris time (GMT+01:00)
+DESCRIPTION:Public spending in education and student
+ ’s performance in Colombia (en)  by Econ
+ omics Department has an embargo date/tim
+ e of 23 February 2018, 2:00 Paris time (
+ GMT+01:00).\n\nDirectorate: Economics De
+ partment\nLanguage: English\nDOI: https:
+ //doi.org/10.1787/282d9700-en\nPublicati
+ on type: Working paper\nReleased as: PDF
+ .\n\niLibrary export: 19 February 2018, 
+ 22:16 Paris time (GMT+00:00)\nFreeprevie
+ w export: 19 February 2018, 23:12 Paris 
+ time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180220T005015Z
+DTSTART:20180223T010000Z
+DTEND:20180223T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Public spending in education a
+ nd student’s performance in Colombia (en
+ ) on 23 February 2018, 2:00 Paris time (
+ GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/aa519fc9-en
+SUMMARY:Saving, investment, capital stock and cu
+ rrent account projections in long-term s
+ cenarios (en) on 23 February 2018, 2:00 
+ Paris time (GMT+01:00)
+DESCRIPTION:Saving, investment, capital stock and cu
+ rrent account projections in long-term s
+ cenarios (en)  by Economics Department h
+ as an embargo date/time of 23 February 2
+ 018, 2:00 Paris time (GMT+01:00).\n\nDir
+ ectorate: Economics Department\nLanguage
+ : English\nDOI: https://doi.org/10.1787/
+ aa519fc9-en\nPublication type: Working p
+ aper\nReleased as: PDF.\n\niLibrary expo
+ rt: 19 February 2018, 22:16 Paris time (
+ GMT+00:00)\nFreepreview export: 19 Febru
+ ary 2018, 23:12 Paris time (GMT+00:00)\n
+ FTI loaded: ✓.
+DTSTAMP:20180220T005015Z
+DTSTART:20180223T010000Z
+DTEND:20180223T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Saving, investment, capital st
+ ock and current account projections in l
+ ong-term scenarios (en) on 23 February 2
+ 018, 2:00 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/eco_surveys-chl-2018-en
+SUMMARY:OECD Economic Surveys: Chile 2018 (en) o
+ n 26 February 2018, 14:30 Paris time (GM
+ T+01:00)
+DESCRIPTION:OECD Economic Surveys: Chile 2018 (en)  
+ by Economics Department has an embargo d
+ ate/time of 26 February 2018, 14:30 Pari
+ s time (GMT+01:00).\n\nDirectorate: Econ
+ omics Department\nLanguage: English\nDOI
+ : https://doi.org/10.1787/eco_surveys-ch
+ l-2018-en\nPublication type: Economic su
+ rvey\nReleased as: PDF, ePub, Paperback.
+ \n\niLibrary export: 8 February 2018, 22
+ :18 Paris time (GMT+00:00)\nFreepreview 
+ export: never\nFTI loaded: no.
+DTSTAMP:20180220T005015Z
+DTSTART:20180226T133000Z
+DTEND:20180226T134500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Economic Surveys: Chile 2
+ 018 (en) on 26 February 2018, 14:30 Pari
+ s time (GMT+01:00)
 END:VALARM
 END:VEVENT
 
@@ -251,7 +448,7 @@ DESCRIPTION:OECD Economic Surveys: Finland 2018 (en)
  b.\n\niLibrary export: 12 February 2018,
   23:27 Paris time (GMT+00:00)\nFreeprevi
  ew export: never\nFTI loaded: no.
-DTSTAMP:20180217T022557Z
+DTSTAMP:20180220T005015Z
 DTSTART:20180228T100000Z
 DTEND:20180228T101500Z
 TRANSP:TRANSPARENT
@@ -267,26 +464,86 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:10.1787/9789264288256-en
-SUMMARY:Connecting People with Jobs: Towards Bet
- ter Social and Employment Security in Ko
- rea (en) on 14 March 2018, 0:01 Paris ti
+UID:10.1787/eco_surveys-bra-2018-en
+SUMMARY:OECD Economic Surveys: Brazil 2018 (en) 
+ on 28 February 2018, 14:00 Paris time (G
+ MT+01:00)
+DESCRIPTION:OECD Economic Surveys: Brazil 2018 (en) 
+  by Economics Department has an embargo 
+ date/time of 28 February 2018, 14:00 Par
+ is time (GMT+01:00).\n\nDirectorate: Eco
+ nomics Department\nLanguage: English\nDO
+ I: https://doi.org/10.1787/eco_surveys-b
+ ra-2018-en\nPublication type: Economic s
+ urvey\nReleased as: Paperback, PDF.\n\ni
+ Library export: 16 February 2018, 23:10 
+ Paris time (GMT+00:00)\nFreepreview expo
+ rt: never\nFTI loaded: no.
+DTSTAMP:20180220T005015Z
+DTSTART:20180228T130000Z
+DTEND:20180228T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Economic Surveys: Brazil 
+ 2018 (en) on 28 February 2018, 14:00 Par
+ is time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264290716-pt
+SUMMARY:Relatórios Econômicos OCDE: Brasil 2018 
+ (pt) on 28 February 2018, 14:00 Paris ti
  me (GMT+01:00)
-DESCRIPTION:Connecting People with Jobs: Towards Bet
- ter Social and Employment Security in Ko
- rea (en)  by Directorate for Employment,
-  Labour and Social Affairs has an embarg
- o date/time of 14 March 2018, 0:01 Paris
-  time (GMT+01:00).\n\nDirectorate: Direc
- torate for Employment, Labour and Social
-  Affairs\nLanguage: English\nDOI: https:
- //doi.org/10.1787/9789264288256-en\nPubl
- ication type: Stand-alone monograph\nRel
- eased as: PDF, Paperback.\n\niLibrary ex
- port: 15 February 2018, 12:03 Paris time
-  (GMT+00:00)\nFreepreview export: never\
- nFTI loaded: no.
-DTSTAMP:20180217T022557Z
+DESCRIPTION:Relatórios Econômicos OCDE: Brasil 2018 
+ (pt)  by Economics Department has an emb
+ argo date/time of 28 February 2018, 14:0
+ 0 Paris time (GMT+01:00).\n\nDirectorate
+ : Economics Department\nLanguage: Portug
+ uese\nDOI: https://doi.org/10.1787/97892
+ 64290716-pt\nPublication type: Economic 
+ survey\nReleased as: Paperback, PDF.\n\n
+ iLibrary export: 16 February 2018, 23:10
+  Paris time (GMT+00:00)\nFreepreview exp
+ ort: never\nFTI loaded: no.
+DTSTAMP:20180220T005015Z
+DTSTART:20180228T130000Z
+DTEND:20180228T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Relatórios Econômicos OCDE: Br
+ asil 2018 (pt) on 28 February 2018, 14:0
+ 0 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264288256-en
+SUMMARY:Towards Better Social and Employment Sec
+ urity in Korea (en) on 14 March 2018, 0:
+ 01 Paris time (GMT+01:00)
+DESCRIPTION:Towards Better Social and Employment Sec
+ urity in Korea (en)  by Directorate for 
+ Employment, Labour and Social Affairs ha
+ s an embargo date/time of 14 March 2018,
+  0:01 Paris time (GMT+01:00).\n\nDirecto
+ rate: Directorate for Employment, Labour
+  and Social Affairs\nLanguage: English\n
+ DOI: https://doi.org/10.1787/97892642882
+ 56-en\nPublication type: Book\nReleased 
+ as: Paperback, PDF.\n\niLibrary export: 
+ 15 February 2018, 12:03 Paris time (GMT+
+ 00:00)\nFreepreview export: never\nFTI l
+ oaded: no.
+DTSTAMP:20180220T005015Z
 DTSTART:20180313T230100Z
 DTEND:20180313T231600Z
 TRANSP:TRANSPARENT
@@ -295,10 +552,9 @@ TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Connecting People with Jobs: T
- owards Better Social and Employment Secu
- rity in Korea (en) on 14 March 2018, 0:0
- 1 Paris time (GMT+01:00)
+DESCRIPTION:Reminder: Towards Better Social and Empl
+ oyment Security in Korea (en) on 14 Marc
+ h 2018, 0:01 Paris time (GMT+01:00)
 END:VALARM
 END:VEVENT
 
@@ -319,7 +575,7 @@ DESCRIPTION:Getting Skills Right: Spain (en)  by Dir
  is time (GMT+00:00)\nFreepreview export:
   13 January 2018, 2:11 Paris time (GMT+0
  0:00)\nFTI loaded: ✓.
-DTSTAMP:20180217T022557Z
+DTSTAMP:20180220T005015Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT

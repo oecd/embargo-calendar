@@ -8,26 +8,11 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Sat, 17 Feb 2018 02:25:58 GMT</pubDate>
+      <pubDate>Tue, 20 Feb 2018 00:50:17 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
                  type="application/rss+xml"/>
-      <item>
-         <guid isPermaLink="false">10.1787/102456c7-en</guid>
-         <pubDate>Thu, 15 Feb 2018 10:00:00 GMT</pubDate>
-         <title>Physical health and well-being in children and youth (en) - Review of the literature (en)</title>
-         <link>https://doi.org/10.1787/102456c7-en</link>
-         <description>Physical health and well-being in children and youth (en) - Review of the literature (en) by Directorate for Education and Skills has an embargo on Thursday, 15 February 2018, 11:00 Paris time (GMT+01:00).</description>
-         <oe:embargoTime>2018-02-15T10:00:00Z</oe:embargoTime>
-         <oe:launchTime/>
-         <oe:directorate>Directorate for Education and Skills</oe:directorate>
-         <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Friday, 9 February 2018, 22:55 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Saturday, 10 February 2018, 0:16 Paris time (GMT+00:00)</oe:freePreviewExport>
-         <oe:catalogueType>Working paper</oe:catalogueType>
-         <oe:availableMedia>PDF</oe:availableMedia>
-      </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264285095-fr</guid>
          <pubDate>Tue, 20 Feb 2018 08:00:00 GMT</pubDate>
@@ -82,11 +67,71 @@
          <oe:embargoTime>2018-02-21T18:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Centre for Entrepreneurship, SMEs and Local Development</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Friday, 16 February 2018, 10:37 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/3709429e-en</guid>
+         <pubDate>Thu, 22 Feb 2018 01:00:00 GMT</pubDate>
+         <title>Alternative Financing Instruments for SMEs and Entrepreneurs (en) - The Case of Mezzanine Finance (en)</title>
+         <link>https://doi.org/10.1787/3709429e-en</link>
+         <description>Alternative Financing Instruments for SMEs and Entrepreneurs (en) - The Case of Mezzanine Finance (en) by Centre for Entrepreneurship, SMEs and Local Development has an embargo on Thursday, 22 February 2018, 2:00 Paris time (GMT+01:00).</description>
+         <oe:embargoTime>2018-02-22T01:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Centre for Entrepreneurship, SMEs and Local Development</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/24072c0d-en</guid>
+         <pubDate>Thu, 22 Feb 2018 01:00:00 GMT</pubDate>
+         <title>Credit Mediation for SMEs (en)</title>
+         <link>https://doi.org/10.1787/24072c0d-en</link>
+         <description>Credit Mediation for SMEs (en) by Centre for Entrepreneurship, SMEs and Local Development has an embargo on Thursday, 22 February 2018, 2:00 Paris time (GMT+01:00).</description>
+         <oe:embargoTime>2018-02-22T01:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Centre for Entrepreneurship, SMEs and Local Development</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/35b8fece-en</guid>
+         <pubDate>Thu, 22 Feb 2018 01:00:00 GMT</pubDate>
+         <title>SME and Entrepreneurship Financing (en) - The Role of Credit Guarantee Schemes and Mutual Guarantee Societies in supporting finance for small and medium-sized enterprises (en)</title>
+         <link>https://doi.org/10.1787/35b8fece-en</link>
+         <description>SME and Entrepreneurship Financing (en) - The Role of Credit Guarantee Schemes and Mutual Guarantee Societies in supporting finance for small and medium-sized enterprises (en) by Centre for Entrepreneurship, SMEs and Local Development has an embargo on Thursday, 22 February 2018, 2:00 Paris time (GMT+01:00).</description>
+         <oe:embargoTime>2018-02-22T01:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Centre for Entrepreneurship, SMEs and Local Development</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/bfbcd0db-en</guid>
+         <pubDate>Thu, 22 Feb 2018 06:00:00 GMT</pubDate>
+         <title>Loss carryover provisions (en) - Measuring effects on tax symmetry and automatic stabilisation (en)</title>
+         <link>https://doi.org/10.1787/bfbcd0db-en</link>
+         <description>Loss carryover provisions (en) - Measuring effects on tax symmetry and automatic stabilisation (en) by Centre for Tax Policy and Administration has an embargo on Thursday, 22 February 2018, 7:00 Paris time (GMT+01:00).</description>
+         <oe:embargoTime>2018-02-22T06:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Monday, 19 February 2018, 22:16 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Monday, 19 February 2018, 23:12 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/2a1aa042-en</guid>
@@ -119,6 +164,51 @@
          <oe:availableMedia>PDF</oe:availableMedia>
       </item>
       <item>
+         <guid isPermaLink="false">10.1787/282d9700-en</guid>
+         <pubDate>Fri, 23 Feb 2018 01:00:00 GMT</pubDate>
+         <title>Public spending in education and student’s performance in Colombia (en)</title>
+         <link>https://doi.org/10.1787/282d9700-en</link>
+         <description>Public spending in education and student’s performance in Colombia (en) by Economics Department has an embargo on Friday, 23 February 2018, 2:00 Paris time (GMT+01:00).</description>
+         <oe:embargoTime>2018-02-23T01:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Monday, 19 February 2018, 22:16 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Monday, 19 February 2018, 23:12 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/aa519fc9-en</guid>
+         <pubDate>Fri, 23 Feb 2018 01:00:00 GMT</pubDate>
+         <title>Saving, investment, capital stock and current account projections in long-term scenarios (en)</title>
+         <link>https://doi.org/10.1787/aa519fc9-en</link>
+         <description>Saving, investment, capital stock and current account projections in long-term scenarios (en) by Economics Department has an embargo on Friday, 23 February 2018, 2:00 Paris time (GMT+01:00).</description>
+         <oe:embargoTime>2018-02-23T01:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Monday, 19 February 2018, 22:16 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Monday, 19 February 2018, 23:12 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/eco_surveys-chl-2018-en</guid>
+         <pubDate>Mon, 26 Feb 2018 13:30:00 GMT</pubDate>
+         <title>OECD Economic Surveys: Chile 2018 (en)</title>
+         <link>https://doi.org/10.1787/eco_surveys-chl-2018-en</link>
+         <description>OECD Economic Surveys: Chile 2018 (en) by Economics Department has an embargo on Monday, 26 February 2018, 14:30 Paris time (GMT+01:00).</description>
+         <oe:embargoTime>2018-02-26T13:30:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Thursday, 8 February 2018, 22:18 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Economic survey</oe:catalogueType>
+         <oe:availableMedia>PDF, ePub, Paperback</oe:availableMedia>
+      </item>
+      <item>
          <guid isPermaLink="false">10.1787/eco_surveys-fin-2018-en</guid>
          <pubDate>Wed, 28 Feb 2018 10:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: Finland 2018 (en)</title>
@@ -134,19 +224,49 @@
          <oe:availableMedia>Paperback, PDF, ePub</oe:availableMedia>
       </item>
       <item>
+         <guid isPermaLink="false">10.1787/eco_surveys-bra-2018-en</guid>
+         <pubDate>Wed, 28 Feb 2018 13:00:00 GMT</pubDate>
+         <title>OECD Economic Surveys: Brazil 2018 (en)</title>
+         <link>https://doi.org/10.1787/eco_surveys-bra-2018-en</link>
+         <description>OECD Economic Surveys: Brazil 2018 (en) by Economics Department has an embargo on Wednesday, 28 February 2018, 14:00 Paris time (GMT+01:00).</description>
+         <oe:embargoTime>2018-02-28T13:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Friday, 16 February 2018, 23:10 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Economic survey</oe:catalogueType>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264290716-pt</guid>
+         <pubDate>Wed, 28 Feb 2018 13:00:00 GMT</pubDate>
+         <title>Relatórios Econômicos OCDE: Brasil 2018 (pt)</title>
+         <link>https://doi.org/10.1787/9789264290716-pt</link>
+         <description>Relatórios Econômicos OCDE: Brasil 2018 (pt) by Economics Department has an embargo on Wednesday, 28 February 2018, 14:00 Paris time (GMT+01:00).</description>
+         <oe:embargoTime>2018-02-28T13:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Friday, 16 February 2018, 23:10 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Economic survey</oe:catalogueType>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+      </item>
+      <item>
          <guid isPermaLink="false">10.1787/9789264288256-en</guid>
          <pubDate>Tue, 13 Mar 2018 23:01:00 GMT</pubDate>
-         <title>Connecting People with Jobs: Towards Better Social and Employment Security in Korea (en)</title>
+         <title>Towards Better Social and Employment Security in Korea (en)</title>
          <link>https://doi.org/10.1787/9789264288256-en</link>
-         <description>Connecting People with Jobs: Towards Better Social and Employment Security in Korea (en) by Directorate for Employment, Labour and Social Affairs has an embargo on Wednesday, 14 March 2018, 0:01 Paris time (GMT+01:00).</description>
+         <description>Towards Better Social and Employment Security in Korea (en) by Directorate for Employment, Labour and Social Affairs has an embargo on Wednesday, 14 March 2018, 0:01 Paris time (GMT+01:00).</description>
          <oe:embargoTime>2018-03-13T23:01:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
          <oe:ftiLoaded/>
          <oe:iLibraryExport>Thursday, 15 February 2018, 12:03 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
-         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264282346-en</guid>

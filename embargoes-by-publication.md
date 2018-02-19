@@ -1,6 +1,6 @@
-# OECD publication embargoes (9 embargoes)
+# OECD publication embargoes (18 embargoes)
 
-*Data generated on Saturday 17 February 2018 at 2:25*
+*Data generated on Tuesday 20 February 2018 at 0:50*
 
 ------
 
@@ -74,7 +74,7 @@ Embargo date | Launch date
 Wednesday 21 February 2018 at 19:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 February 2018 at 11:37
 - [ ] Exported to Keepeek
 
@@ -82,8 +82,92 @@ Wednesday 21 February 2018 at 19:00 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Alternative Financing Instruments for SMEs and Entrepreneurs (en) - The Case of Mezzanine Finance (en)](https://doi.org/10.1787/3709429e-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 22 February 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Credit Mediation for SMEs (en)](https://doi.org/10.1787/24072c0d-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 22 February 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [SME and Entrepreneurship Financing (en) - The Role of Credit Guarantee Schemes and Mutual Guarantee Societies in supporting finance for small and medium-sized enterprises (en)](https://doi.org/10.1787/35b8fece-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 22 February 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Loss carryover provisions (en) - Measuring effects on tax symmetry and automatic stabilisation (en)](https://doi.org/10.1787/bfbcd0db-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 22 February 2018 at 7:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 19 February 2018 at 23:16
+- [x] Exported to Keepeek Tuesday 20 February 2018 at 0:12
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
@@ -130,6 +214,69 @@ Friday 23 February 2018 at 2:00 | no launch event
 
 ------
 
+## [Public spending in education and student’s performance in Colombia (en)](https://doi.org/10.1787/282d9700-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 23 February 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 19 February 2018 at 23:16
+- [x] Exported to Keepeek Tuesday 20 February 2018 at 0:12
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Saving, investment, capital stock and current account projections in long-term scenarios (en)](https://doi.org/10.1787/aa519fc9-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 23 February 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 19 February 2018 at 23:16
+- [x] Exported to Keepeek Tuesday 20 February 2018 at 0:12
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [OECD Economic Surveys: Chile 2018 (en)](https://doi.org/10.1787/eco_surveys-chl-2018-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 26 February 2018 at 14:30 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 8 February 2018 at 23:18
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Finland 2018 (en)](https://doi.org/10.1787/eco_surveys-fin-2018-en)
 
 Embargo date | Launch date
@@ -151,7 +298,49 @@ Wednesday 28 February 2018 at 11:00 | no launch event
 
 ------
 
-## [Connecting People with Jobs: Towards Better Social and Employment Security in Korea (en)](https://doi.org/10.1787/9789264288256-en)
+## [OECD Economic Surveys: Brazil 2018 (en)](https://doi.org/10.1787/eco_surveys-bra-2018-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 28 February 2018 at 14:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Saturday 17 February 2018 at 0:10
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
+## [Relatórios Econômicos OCDE: Brasil 2018 (pt)](https://doi.org/10.1787/9789264290716-pt)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 28 February 2018 at 14:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Saturday 17 February 2018 at 0:10
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Portuguese*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
+## [Towards Better Social and Employment Security in Korea (en)](https://doi.org/10.1787/9789264288256-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -167,7 +356,7 @@ Wednesday 14 March 2018 at 0:01 | no launch event
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------
