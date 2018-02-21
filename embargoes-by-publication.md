@@ -1,48 +1,6 @@
-# OECD publication embargoes (18 embargoes)
+# OECD publication embargoes (29 embargoes)
 
-*Data generated on Tuesday 20 February 2018 at 0:50*
-
-------
-
-## [Flux financiers illicites (fr) - L'économie du commerce illicite en Afrique de l'Ouest (fr)](https://doi.org/10.1787/9789264285095-fr)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 20 February 2018 at 9:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 February 2018 at 11:37
-- [x] Exported to Keepeek Thursday 15 February 2018 at 22:26
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
-
-------
-
-## [Illicit Financial Flows (en) - The Economy of Illicit Trade in West Africa (en)](https://doi.org/10.1787/9789264268418-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 20 February 2018 at 9:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 February 2018 at 11:37
-- [x] Exported to Keepeek Thursday 15 February 2018 at 22:26
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
+*Data generated on Wednesday 21 February 2018 at 1:15*
 
 ------
 
@@ -75,8 +33,8 @@ Wednesday 21 February 2018 at 19:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 February 2018 at 11:37
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 19 February 2018 at 23:16
+- [x] Exported to Keepeek Tuesday 20 February 2018 at 0:12
 
 ### Additional Information
 
@@ -97,13 +55,34 @@ Thursday 22 February 2018 at 2:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Wednesday 21 February 2018 at 1:00
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Case study on crowdfunding (en)](https://doi.org/10.1787/509e2066-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 22 February 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Wednesday 21 February 2018 at 1:00
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Medium: *PDF*
 
@@ -118,13 +97,34 @@ Thursday 22 February 2018 at 2:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Wednesday 21 February 2018 at 1:00
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Fostering Markets for SME Finance (en) - Matching Business and Investor Needs (en)](https://doi.org/10.1787/0bd38639-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 22 February 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Wednesday 21 February 2018 at 1:00
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Medium: *PDF*
 
@@ -139,13 +139,13 @@ Thursday 22 February 2018 at 2:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Wednesday 21 February 2018 at 1:00
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Medium: *PDF*
 
@@ -181,7 +181,7 @@ Friday 23 February 2018 at 2:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [x] Exported to iLibrary Saturday 17 February 2018 at 0:11
-- [x] Exported to Keepeek Saturday 17 February 2018 at 1:39
+- [x] Exported to Keepeek Wednesday 21 February 2018 at 1:00
 
 ### Additional Information
 
@@ -202,7 +202,7 @@ Friday 23 February 2018 at 2:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [x] Exported to iLibrary Saturday 17 February 2018 at 0:11
-- [x] Exported to Keepeek Saturday 17 February 2018 at 1:39
+- [x] Exported to Keepeek Wednesday 21 February 2018 at 1:00
 
 ### Additional Information
 
@@ -223,7 +223,7 @@ Friday 23 February 2018 at 2:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 19 February 2018 at 23:16
-- [x] Exported to Keepeek Tuesday 20 February 2018 at 0:12
+- [x] Exported to Keepeek Wednesday 21 February 2018 at 1:00
 
 ### Additional Information
 
@@ -244,7 +244,7 @@ Friday 23 February 2018 at 2:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 19 February 2018 at 23:16
-- [x] Exported to Keepeek Tuesday 20 February 2018 at 0:12
+- [x] Exported to Keepeek Wednesday 21 February 2018 at 1:00
 
 ### Additional Information
 
@@ -264,7 +264,7 @@ Monday 26 February 2018 at 14:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 8 February 2018 at 23:18
+- [x] Exported to iLibrary Monday 19 February 2018 at 23:16
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -306,7 +306,7 @@ Wednesday 28 February 2018 at 14:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Saturday 17 February 2018 at 0:10
+- [x] Exported to iLibrary Monday 19 February 2018 at 23:16
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -327,7 +327,7 @@ Wednesday 28 February 2018 at 14:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Saturday 17 February 2018 at 0:10
+- [x] Exported to iLibrary Monday 19 February 2018 at 23:16
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -348,13 +348,76 @@ Wednesday 14 March 2018 at 0:01 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 15 February 2018 at 13:03
+- [x] Exported to iLibrary Monday 19 February 2018 at 23:16
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : Belgique 2018 (Deuxième cycle) (fr) - Rapport d'examen par les pairs sur la demande d'échange de renseignements (fr)](https://doi.org/10.1787/9789264291225-fr)
+
+Embargo date | Launch date
+-------------|------------
+Friday 30 March 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 19 February 2018 at 23:16
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : France 2018 (Deuxième cycle) (fr) - Rapport d'examen par les pairs sur la demande d'échange de renseignements (fr)](https://doi.org/10.1787/9789264291188-fr)
+
+Embargo date | Launch date
+-------------|------------
+Friday 30 March 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 19 February 2018 at 23:16
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : Monaco 2018 ( Deuxième tour ) (fr) - Rapport d'examen par les pairs sur la demande d'échange de renseignements (fr)](https://doi.org/10.1787/9789264291201-fr)
+
+Embargo date | Launch date
+-------------|------------
+Friday 30 March 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 19 February 2018 at 23:16
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Medium: *PDF*
@@ -377,5 +440,173 @@ Friday 30 March 2018 at 11:00 | no launch event
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Belgium 2018 (Second Round) (en) - Peer Review Report on the Exchange of Information on Request (en)](https://doi.org/10.1787/9789264290839-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 30 March 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 19 February 2018 at 23:16
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Estonia 2018 (Second Round) (en) - Peer Review Report on the Exchange of Information on Request (en)](https://doi.org/10.1787/9789264291034-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 30 March 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 19 February 2018 at 23:16
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: France 2018 (Second Round) (en) - Peer Review Report on the Exchange of Information on Request (en)](https://doi.org/10.1787/9789264291058-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 30 March 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 19 February 2018 at 23:16
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Ghana 2018 (Second Round) (en) - Peer Review Report on the Exchange of Information on Request (en)](https://doi.org/10.1787/9789264291119-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 30 March 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 19 February 2018 at 23:16
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Hungary 2018 (Second Round) (en) - Peer Review Report on the Exchange of Information on Request (en)](https://doi.org/10.1787/9789264291133-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 30 March 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 19 February 2018 at 23:16
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Monaco 2018 (Second Round) (en) - Peer Review Report on the Exchange of Information on Request (en)](https://doi.org/10.1787/9789264291157-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 30 March 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 19 February 2018 at 23:16
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: New Zealand 2018 (Second Round) (en) - Peer Review Report on the Exchange of Information on Request (en)](https://doi.org/10.1787/9789264291171-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 30 March 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 19 February 2018 at 23:16
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: The Bahamas 2018 (Second Round) (en) - Peer Review Report on the Exchange of Information on Request (en)](https://doi.org/10.1787/9789264291805-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 30 March 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 19 February 2018 at 23:16
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Medium: *PDF*
