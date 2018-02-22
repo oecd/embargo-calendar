@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2018-02-22T00:17:05.334+01:00" count="89">
+<report name="official-embargoes" generated="2018-02-23T00:01:04.331+01:00" count="71">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -22,13 +22,13 @@
     <cell name="title">Getting Skills Right: Spain (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2018-03-30</cell>
     <cell name="embargo date">2018-04-26T07:30:00Z</cell>
     <cell name="launch date/time">2018-04-26T07:30:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
+    <cell name="freepreview last export date">2018-02-21T22:48:49.783Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -38,13 +38,13 @@
     <cell name="title">Getting Skills Right: Spain (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-03-30</cell>
     <cell name="embargo date">2018-04-26T07:30:00Z</cell>
     <cell name="launch date/time">2018-04-26T07:30:00Z</cell>
-    <cell name="ilibrary last export date">2018-01-12T23:48:08.493Z</cell>
-    <cell name="freepreview last export date">2018-01-13T02:11:35.713Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -59,8 +59,8 @@
     <cell name="date of publication">2018-03-30</cell>
     <cell name="embargo date">2018-03-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-01-12T23:48:08.493Z</cell>
-    <cell name="freepreview last export date">2018-01-13T02:11:35.713Z</cell>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
+    <cell name="freepreview last export date">2018-02-21T22:48:49.783Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -75,8 +75,8 @@
     <cell name="date of publication">2018-03-30</cell>
     <cell name="embargo date">2018-03-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-01-12T23:48:08.493Z</cell>
-    <cell name="freepreview last export date">2018-01-13T02:11:35.713Z</cell>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
+    <cell name="freepreview last export date">2018-02-21T22:48:49.783Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -91,8 +91,8 @@
     <cell name="date of publication">2018-03-30</cell>
     <cell name="embargo date">2018-03-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-01-12T23:48:08.493Z</cell>
-    <cell name="freepreview last export date">2018-01-13T02:11:35.713Z</cell>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
+    <cell name="freepreview last export date">2018-02-21T22:48:49.783Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -123,12 +123,28 @@
     <cell name="date of publication">2018-03-30</cell>
     <cell name="embargo date">2018-03-30T09:00:00Z</cell>
     <cell name="launch date/time">2018-03-30T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-02-19T22:16:44.51Z</cell>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
   <row index="8">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264291188-fr</cell>
+    <cell name="title">Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : France 2018 (Deuxième cycle) (fr)</cell>
+    <cell name="subtitle">Rapport d'examen par les pairs sur la demande d'échange de renseignements (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-03-30</cell>
+    <cell name="embargo date">2018-03-30T09:00:00Z</cell>
+    <cell name="launch date/time">2018-03-30T09:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="9">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291188-fr</cell>
     <cell name="title">Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : France 2018 (Deuxième cycle) (fr)</cell>
@@ -144,26 +160,10 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="9">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9789264291188-fr</cell>
-    <cell name="title">Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : France 2018 (Deuxième cycle) (fr)</cell>
-    <cell name="subtitle">Rapport d'examen par les pairs sur la demande d'échange de renseignements (fr)</cell>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-03-30</cell>
-    <cell name="embargo date">2018-03-30T09:00:00Z</cell>
-    <cell name="launch date/time">2018-03-30T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-02-19T22:16:44.51Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
   <row index="10">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291201-fr</cell>
-    <cell name="title">Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : Monaco 2018 ( Deuxième tour ) (fr)</cell>
+    <cell name="title">Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : Monaco 2018 (Deuxième cycle) (fr)</cell>
     <cell name="subtitle">Rapport d'examen par les pairs sur la demande d'échange de renseignements (fr)</cell>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
@@ -171,7 +171,7 @@
     <cell name="date of publication">2018-03-30</cell>
     <cell name="embargo date">2018-03-30T09:00:00Z</cell>
     <cell name="launch date/time">2018-03-30T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-02-19T22:16:44.51Z</cell>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -179,7 +179,7 @@
   <row index="11">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291201-fr</cell>
-    <cell name="title">Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : Monaco 2018 ( Deuxième tour ) (fr)</cell>
+    <cell name="title">Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : Monaco 2018 (Deuxième cycle) (fr)</cell>
     <cell name="subtitle">Rapport d'examen par les pairs sur la demande d'échange de renseignements (fr)</cell>
     <cell name="language">French</cell>
     <cell name="medium">Paperback</cell>
@@ -198,22 +198,6 @@
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Belgium 2018 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-03-30</cell>
-    <cell name="embargo date">2018-03-30T09:00:00Z</cell>
-    <cell name="launch date/time">2018-03-30T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-02-19T22:16:44.51Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="13">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9789264290839-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Belgium 2018 (Second Round) (en)</cell>
-    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
-    <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2018-03-30</cell>
@@ -224,18 +208,34 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
+  <row index="13">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264290839-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Belgium 2018 (Second Round) (en)</cell>
+    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-03-30</cell>
+    <cell name="embargo date">2018-03-30T09:00:00Z</cell>
+    <cell name="launch date/time">2018-03-30T09:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
   <row index="14">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291034-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Estonia 2018 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-03-30</cell>
     <cell name="embargo date">2018-03-30T09:00:00Z</cell>
     <cell name="launch date/time">2018-03-30T09:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -246,12 +246,12 @@
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Estonia 2018 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2018-03-30</cell>
     <cell name="embargo date">2018-03-30T09:00:00Z</cell>
     <cell name="launch date/time">2018-03-30T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-02-19T22:16:44.51Z</cell>
+    <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -262,12 +262,12 @@
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: France 2018 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-03-30</cell>
     <cell name="embargo date">2018-03-30T09:00:00Z</cell>
     <cell name="launch date/time">2018-03-30T09:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -278,12 +278,12 @@
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: France 2018 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2018-03-30</cell>
     <cell name="embargo date">2018-03-30T09:00:00Z</cell>
     <cell name="launch date/time">2018-03-30T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-02-19T22:16:44.51Z</cell>
+    <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -294,12 +294,12 @@
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Ghana 2018 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-03-30</cell>
     <cell name="embargo date">2018-03-30T09:00:00Z</cell>
     <cell name="launch date/time">2018-03-30T09:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -310,33 +310,17 @@
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Ghana 2018 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2018-03-30</cell>
     <cell name="embargo date">2018-03-30T09:00:00Z</cell>
     <cell name="launch date/time">2018-03-30T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-02-19T22:16:44.51Z</cell>
+    <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
   <row index="20">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9789264291133-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Hungary 2018 (Second Round) (en)</cell>
-    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-03-30</cell>
-    <cell name="embargo date">2018-03-30T09:00:00Z</cell>
-    <cell name="launch date/time">2018-03-30T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-02-19T22:16:44.51Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="21">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291133-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Hungary 2018 (Second Round) (en)</cell>
@@ -348,6 +332,22 @@
     <cell name="embargo date">2018-03-30T09:00:00Z</cell>
     <cell name="launch date/time">2018-03-30T09:00:00Z</cell>
     <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="21">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264291133-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Hungary 2018 (Second Round) (en)</cell>
+    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-03-30</cell>
+    <cell name="embargo date">2018-03-30T09:00:00Z</cell>
+    <cell name="launch date/time">2018-03-30T09:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -363,7 +363,7 @@
     <cell name="date of publication">2018-03-30</cell>
     <cell name="embargo date">2018-03-30T09:00:00Z</cell>
     <cell name="launch date/time">2018-03-30T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-02-19T22:16:44.51Z</cell>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -390,12 +390,12 @@
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: New Zealand 2018 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-03-30</cell>
     <cell name="embargo date">2018-03-30T09:00:00Z</cell>
     <cell name="launch date/time">2018-03-30T09:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -406,12 +406,12 @@
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: New Zealand 2018 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2018-03-30</cell>
     <cell name="embargo date">2018-03-30T09:00:00Z</cell>
     <cell name="launch date/time">2018-03-30T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-02-19T22:16:44.51Z</cell>
+    <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -443,7 +443,7 @@
     <cell name="date of publication">2018-03-30</cell>
     <cell name="embargo date">2018-03-30T09:00:00Z</cell>
     <cell name="launch date/time">2018-03-30T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-02-19T22:16:44.51Z</cell>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -459,8 +459,8 @@
     <cell name="date of publication">2018-03-30</cell>
     <cell name="embargo date">2018-03-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-01-12T23:48:08.493Z</cell>
-    <cell name="freepreview last export date">2018-01-13T02:11:35.713Z</cell>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
+    <cell name="freepreview last export date">2018-02-21T22:48:49.783Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -475,8 +475,8 @@
     <cell name="date of publication">2018-03-30</cell>
     <cell name="embargo date">2018-03-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-01-12T23:48:08.493Z</cell>
-    <cell name="freepreview last export date">2018-01-13T02:11:35.713Z</cell>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
+    <cell name="freepreview last export date">2018-02-21T22:48:49.783Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -491,8 +491,8 @@
     <cell name="date of publication">2018-03-30</cell>
     <cell name="embargo date">2018-03-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-01-12T23:48:08.493Z</cell>
-    <cell name="freepreview last export date">2018-01-13T02:11:35.713Z</cell>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
+    <cell name="freepreview last export date">2018-02-21T22:48:49.783Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -507,8 +507,8 @@
     <cell name="date of publication">2018-03-30</cell>
     <cell name="embargo date">2018-03-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-01-12T23:48:08.493Z</cell>
-    <cell name="freepreview last export date">2018-01-13T02:11:35.713Z</cell>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
+    <cell name="freepreview last export date">2018-02-21T22:48:49.783Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -545,48 +545,48 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="34">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_surveys-bra-2018-en</cell>
-    <cell name="title">OECD Economic Surveys: Brazil 2018 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2018-02-28</cell>
-    <cell name="embargo date">2018-02-28T13:00:00Z</cell>
-    <cell name="launch date/time">2018-02-28T13:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="35">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_surveys-bra-2018-en</cell>
-    <cell name="title">OECD Economic Surveys: Brazil 2018 (en)</cell>
-    <cell name="subtitle"/>
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264291690-en</cell>
+    <cell name="title">Regulatory Policy in Slovenia (en)</cell>
+    <cell name="subtitle">Oversight Matters (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-02-28</cell>
-    <cell name="embargo date">2018-02-28T13:00:00Z</cell>
-    <cell name="launch date/time">2018-02-28T13:00:00Z</cell>
+    <cell name="date of publication">2018-03-09</cell>
+    <cell name="embargo date">2018-03-09T08:00:00Z</cell>
+    <cell name="launch date/time">2018-03-09T08:00:00Z</cell>
     <cell name="ilibrary last export date">2018-02-19T22:16:44.51Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="35">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264291690-en</cell>
+    <cell name="title">Regulatory Policy in Slovenia (en)</cell>
+    <cell name="subtitle">Oversight Matters (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-03-09</cell>
+    <cell name="embargo date">2018-03-09T08:00:00Z</cell>
+    <cell name="launch date/time">2018-03-09T08:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
   <row index="36">
     <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/9789264290716-pt</cell>
-    <cell name="title">Relatórios Econômicos OCDE: Brasil 2018 (pt)</cell>
+    <cell name="doi">10.1787/eco_surveys-irl-2018-en</cell>
+    <cell name="title">OECD Economic Surveys: Ireland 2018 (en)</cell>
     <cell name="subtitle"/>
-    <cell name="language">Portuguese</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2018-02-28</cell>
-    <cell name="embargo date">2018-02-28T13:00:00Z</cell>
-    <cell name="launch date/time">2018-02-28T13:00:00Z</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-03-08</cell>
+    <cell name="embargo date">2018-03-08T10:00:00Z</cell>
+    <cell name="launch date/time">2018-03-08T10:00:00Z</cell>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Economic survey</cell>
@@ -594,6 +594,54 @@
   </row>
   <row index="37">
     <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-irl-2018-en</cell>
+    <cell name="title">OECD Economic Surveys: Ireland 2018 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2018-03-08</cell>
+    <cell name="embargo date">2018-03-08T10:00:00Z</cell>
+    <cell name="launch date/time">2018-03-08T10:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="38">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-bra-2018-en</cell>
+    <cell name="title">OECD Economic Surveys: Brazil 2018 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2018-02-28</cell>
+    <cell name="embargo date">2018-02-28T13:00:00Z</cell>
+    <cell name="launch date/time">2018-02-28T13:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="39">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-bra-2018-en</cell>
+    <cell name="title">OECD Economic Surveys: Brazil 2018 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-02-28</cell>
+    <cell name="embargo date">2018-02-28T13:00:00Z</cell>
+    <cell name="launch date/time">2018-02-28T13:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-02-19T22:16:44.51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="40">
+    <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/9789264290716-pt</cell>
     <cell name="title">Relatórios Econômicos OCDE: Brasil 2018 (pt)</cell>
     <cell name="subtitle"/>
@@ -608,7 +656,23 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="38">
+  <row index="41">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/9789264290716-pt</cell>
+    <cell name="title">Relatórios Econômicos OCDE: Brasil 2018 (pt)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Portuguese</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2018-02-28</cell>
+    <cell name="embargo date">2018-02-28T13:00:00Z</cell>
+    <cell name="launch date/time">2018-02-28T13:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="42">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-en</cell>
     <cell name="title">OECD Economic Surveys: Finland 2018 (en)</cell>
@@ -624,7 +688,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="39">
+  <row index="43">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-en</cell>
     <cell name="title">OECD Economic Surveys: Finland 2018 (en)</cell>
@@ -640,7 +704,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="40">
+  <row index="44">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-en</cell>
     <cell name="title">OECD Economic Surveys: Finland 2018 (en)</cell>
@@ -656,39 +720,23 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="41">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_surveys-chl-2018-en</cell>
-    <cell name="title">OECD Economic Surveys: Chile 2018 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2018-02-26</cell>
-    <cell name="embargo date">2018-02-26T13:30:00Z</cell>
-    <cell name="launch date/time">2018-02-26T13:30:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="42">
+  <row index="45">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-chl-2018-en</cell>
     <cell name="title">OECD Economic Surveys: Chile 2018 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2018-02-26</cell>
     <cell name="embargo date">2018-02-26T13:30:00Z</cell>
     <cell name="launch date/time">2018-02-26T13:30:00Z</cell>
     <cell name="ilibrary last export date">2018-02-19T22:16:44.51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="43">
+  <row index="46">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-chl-2018-en</cell>
     <cell name="title">OECD Economic Surveys: Chile 2018 (en)</cell>
@@ -704,7 +752,23 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="44">
+  <row index="47">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-chl-2018-en</cell>
+    <cell name="title">OECD Economic Surveys: Chile 2018 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2018-02-26</cell>
+    <cell name="embargo date">2018-02-26T13:30:00Z</cell>
+    <cell name="launch date/time">2018-02-26T13:30:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="48">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/2a1aa042-en</cell>
     <cell name="title">How to improve Norway’s Transport-Infrastructure Investment (en)</cell>
@@ -720,7 +784,7 @@
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="45">
+  <row index="49">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/ce338dc9-en</cell>
     <cell name="title">Norway’s economy (en)</cell>
@@ -736,7 +800,7 @@
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="46">
+  <row index="50">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/282d9700-en</cell>
     <cell name="title">Public spending in education and student’s performance in Colombia (en)</cell>
@@ -752,7 +816,7 @@
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="47">
+  <row index="51">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/aa519fc9-en</cell>
     <cell name="title">Saving, investment, capital stock and current account projections in long-term scenarios (en)</cell>
@@ -768,7 +832,7 @@
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="48">
+  <row index="52">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/bfbcd0db-en</cell>
     <cell name="title">Loss carryover provisions (en)</cell>
@@ -784,7 +848,7 @@
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="49">
+  <row index="53">
     <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/90c8823c-en</cell>
     <cell name="title">2018 OECD Ministerial Conference on SMEs (en)</cell>
@@ -800,7 +864,7 @@
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="50">
+  <row index="54">
     <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/3709429e-en</cell>
     <cell name="title">Alternative Financing Instruments for SMEs and Entrepreneurs (en)</cell>
@@ -808,15 +872,15 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-22</cell>
+    <cell name="date of publication">2013-02-08</cell>
     <cell name="embargo date">2018-02-22T01:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-21T21:56:12.613Z</cell>
-    <cell name="freepreview last export date">2018-02-21T00:00:16.43Z</cell>
+    <cell name="ilibrary last export date">2018-02-22T21:37:03.89Z</cell>
+    <cell name="freepreview last export date">2018-02-22T22:35:29.386Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="51">
+  <row index="55">
     <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/509e2066-en</cell>
     <cell name="title">Case study on crowdfunding (en)</cell>
@@ -824,15 +888,15 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-22</cell>
+    <cell name="date of publication">2015-07-08</cell>
     <cell name="embargo date">2018-02-22T01:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-21T21:56:12.613Z</cell>
-    <cell name="freepreview last export date">2018-02-21T00:00:16.43Z</cell>
+    <cell name="ilibrary last export date">2018-02-22T21:37:03.89Z</cell>
+    <cell name="freepreview last export date">2018-02-22T22:35:29.386Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="52">
+  <row index="56">
     <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/24072c0d-en</cell>
     <cell name="title">Credit Mediation for SMEs (en)</cell>
@@ -840,15 +904,15 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-22</cell>
+    <cell name="date of publication">2013-03-21</cell>
     <cell name="embargo date">2018-02-22T01:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-21T21:56:12.613Z</cell>
-    <cell name="freepreview last export date">2018-02-21T00:00:16.43Z</cell>
+    <cell name="ilibrary last export date">2018-02-22T21:37:03.89Z</cell>
+    <cell name="freepreview last export date">2018-02-22T22:35:29.386Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="53">
+  <row index="57">
     <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/0bd38639-en</cell>
     <cell name="title">Fostering Markets for SME Finance (en)</cell>
@@ -856,15 +920,15 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-22</cell>
+    <cell name="date of publication">2017-04-19</cell>
     <cell name="embargo date">2018-02-22T01:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-21T21:56:12.613Z</cell>
-    <cell name="freepreview last export date">2018-02-21T00:00:16.43Z</cell>
+    <cell name="ilibrary last export date">2018-02-22T21:37:03.89Z</cell>
+    <cell name="freepreview last export date">2018-02-22T22:35:29.386Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="54">
+  <row index="58">
     <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/f493861e-en</cell>
     <cell name="title">OECD SME and Entrepreneurship Papers (en)</cell>
@@ -872,15 +936,15 @@
     <cell name="language">English</cell>
     <cell name="medium">Online</cell>
     <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-22</cell>
+    <cell name="date of publication">2013-01-30</cell>
     <cell name="embargo date">2018-02-22T01:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-21T21:56:12.613Z</cell>
+    <cell name="ilibrary last export date">2018-02-22T21:37:03.89Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Working paper series</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="55">
+  <row index="59">
     <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/35b8fece-en</cell>
     <cell name="title">SME and Entrepreneurship Financing (en)</cell>
@@ -888,7 +952,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-22</cell>
+    <cell name="date of publication">2018-02-05</cell>
     <cell name="embargo date">2018-02-22T01:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-02-21T21:56:12.613Z</cell>
@@ -896,7 +960,7 @@
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="56">
+  <row index="60">
     <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/fin_sme_ent-2018-en</cell>
     <cell name="title">Financing SMEs and Entrepreneurs 2018 (en)</cell>
@@ -912,7 +976,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="57">
+  <row index="61">
     <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/fin_sme_ent-2018-en</cell>
     <cell name="title">Financing SMEs and Entrepreneurs 2018 (en)</cell>
@@ -928,7 +992,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="58">
+  <row index="62">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264190061-2-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -939,12 +1003,12 @@
     <cell name="date of publication">2018-02-21</cell>
     <cell name="embargo date">2018-02-21T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-01-22T22:50:11.127Z</cell>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
     <cell name="freepreview last export date">2018-02-21T00:00:15.143Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="59">
+  <row index="63">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264190061-4-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -955,12 +1019,28 @@
     <cell name="date of publication">2018-02-21</cell>
     <cell name="embargo date">2018-02-21T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-01-22T22:50:11.127Z</cell>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
     <cell name="freepreview last export date">2018-02-21T00:00:15.143Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="60">
+  <row index="64">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264190061-en</cell>
+    <cell name="title">Driving Performance at Ireland's Commission for Regulation of Utilities (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-02-21</cell>
+    <cell name="embargo date">2018-02-21T09:00:00Z</cell>
+    <cell name="launch date/time">2018-02-21T09:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
+    <cell name="freepreview last export date">2018-02-21T00:00:15.143Z</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="65">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264190061-en</cell>
     <cell name="title">Driving Performance at Ireland's Commission for Regulation of Utilities (en)</cell>
@@ -976,39 +1056,23 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="61">
+  <row index="66">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264190061-en</cell>
     <cell name="title">Driving Performance at Ireland's Commission for Regulation of Utilities (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">ePub</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-02-21</cell>
-    <cell name="embargo date">2018-02-21T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-12T23:27:19.287Z</cell>
-    <cell name="freepreview last export date">2018-02-21T00:00:15.143Z</cell>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="62">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264190061-en</cell>
-    <cell name="title">Driving Performance at Ireland's Commission for Regulation of Utilities (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-02-21</cell>
     <cell name="embargo date">2018-02-21T09:00:00Z</cell>
-    <cell name="launch date/time">2018-02-21T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-02-12T23:27:19.287Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
     <cell name="freepreview last export date">2018-02-21T00:00:15.143Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="63">
+  <row index="67">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264190061-3-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1019,12 +1083,12 @@
     <cell name="date of publication">2018-02-21</cell>
     <cell name="embargo date">2018-02-21T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-01-22T22:50:11.127Z</cell>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
     <cell name="freepreview last export date">2018-02-21T00:00:15.143Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="64">
+  <row index="68">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264190061-1-en</cell>
     <cell name="title">Foreword and acknowledgements (en)</cell>
@@ -1035,12 +1099,12 @@
     <cell name="date of publication">2018-02-21</cell>
     <cell name="embargo date">2018-02-21T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-01-22T22:50:11.127Z</cell>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
     <cell name="freepreview last export date">2018-02-21T00:00:15.143Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="65">
+  <row index="69">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264190061-6-en</cell>
     <cell name="title">Governance of the Commission for Regulation of Utilities (en)</cell>
@@ -1051,12 +1115,12 @@
     <cell name="date of publication">2018-02-21</cell>
     <cell name="embargo date">2018-02-21T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-01-22T22:50:11.127Z</cell>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
     <cell name="freepreview last export date">2018-02-21T00:00:15.143Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="66">
+  <row index="70">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264190061-7-en</cell>
     <cell name="title">Methodology (en)</cell>
@@ -1067,12 +1131,12 @@
     <cell name="date of publication">2018-02-21</cell>
     <cell name="embargo date">2018-02-21T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-01-22T22:50:11.127Z</cell>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
     <cell name="freepreview last export date">2018-02-21T00:00:15.143Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="67">
+  <row index="71">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264190061-5-en</cell>
     <cell name="title">Regulatory and sector context (en)</cell>
@@ -1083,360 +1147,8 @@
     <cell name="date of publication">2018-02-21</cell>
     <cell name="embargo date">2018-02-21T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-01-22T22:50:11.127Z</cell>
+    <cell name="ilibrary last export date">2018-02-21T21:56:11.31Z</cell>
     <cell name="freepreview last export date">2018-02-21T00:00:15.143Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="68">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264268418-3-en</cell>
-    <cell name="title">Abbreviations and acronyms (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-20</cell>
-    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-16T10:37:43.343Z</cell>
-    <cell name="freepreview last export date">2018-02-15T21:26:54.053Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="69">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264268418-2-en</cell>
-    <cell name="title">About the authors (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-20</cell>
-    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-16T10:37:43.343Z</cell>
-    <cell name="freepreview last export date">2018-02-15T21:26:54.053Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="70">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264285095-6-fr</cell>
-    <cell name="title">Afrique de l'Ouest : Contexte régional et susceptibilité aux économies criminelles (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-20</cell>
-    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-16T10:37:43.343Z</cell>
-    <cell name="freepreview last export date">2018-02-15T21:26:54.053Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="71">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264285095-1-fr</cell>
-    <cell name="title">Avant-propos et remerciements (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-20</cell>
-    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-16T10:37:43.343Z</cell>
-    <cell name="freepreview last export date">2018-02-15T21:26:54.053Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="72">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264285095-2-fr</cell>
-    <cell name="title">Concernant les auteurs (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-20</cell>
-    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-16T10:37:43.343Z</cell>
-    <cell name="freepreview last export date">2018-02-15T21:26:54.053Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="73">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264268418-8-en</cell>
-    <cell name="title">Conclusions and recommendations (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-20</cell>
-    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-16T10:37:43.343Z</cell>
-    <cell name="freepreview last export date">2018-02-15T21:26:54.053Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="74">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264285095-8-fr</cell>
-    <cell name="title">Conclusions et recommandations (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-20</cell>
-    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-16T10:37:43.343Z</cell>
-    <cell name="freepreview last export date">2018-02-15T21:26:54.053Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="75">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264268418-7-en</cell>
-    <cell name="title">Criminal economies and illicit financial flows in West Africa (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-20</cell>
-    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-16T10:37:43.343Z</cell>
-    <cell name="freepreview last export date">2018-02-15T21:26:54.053Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="76">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264268418-4-en</cell>
-    <cell name="title">Executive summary (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-20</cell>
-    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-16T10:37:43.343Z</cell>
-    <cell name="freepreview last export date">2018-02-15T21:26:54.053Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="77">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264285095-fr</cell>
-    <cell name="title">Flux financiers illicites (fr)</cell>
-    <cell name="subtitle">L'économie du commerce illicite en Afrique de l'Ouest (fr)</cell>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-20</cell>
-    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
-    <cell name="launch date/time">2018-02-20T08:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-02-19T22:16:44.51Z</cell>
-    <cell name="freepreview last export date">2018-02-15T21:26:54.053Z</cell>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="78">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264285095-fr</cell>
-    <cell name="title">Flux financiers illicites (fr)</cell>
-    <cell name="subtitle">L'économie du commerce illicite en Afrique de l'Ouest (fr)</cell>
-    <cell name="language">French</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-02-20</cell>
-    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
-    <cell name="launch date/time">2018-02-20T08:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="79">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264268418-1-en</cell>
-    <cell name="title">Foreword and acknowledgements (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-20</cell>
-    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-16T10:37:43.343Z</cell>
-    <cell name="freepreview last export date">2018-02-15T21:26:54.053Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="80">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264268418-en</cell>
-    <cell name="title">Illicit Financial Flows (en)</cell>
-    <cell name="subtitle">The Economy of Illicit Trade in West Africa (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-02-20</cell>
-    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
-    <cell name="launch date/time">2018-02-20T08:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="81">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264268418-en</cell>
-    <cell name="title">Illicit Financial Flows (en)</cell>
-    <cell name="subtitle">The Economy of Illicit Trade in West Africa (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-20</cell>
-    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
-    <cell name="launch date/time">2018-02-20T08:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-02-19T22:16:44.51Z</cell>
-    <cell name="freepreview last export date">2018-02-15T21:26:54.053Z</cell>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="82">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264285095-7-fr</cell>
-    <cell name="title">Les économies criminelles et les flux financiers illicites en Afrique de l'Ouest (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-20</cell>
-    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-16T10:37:43.343Z</cell>
-    <cell name="freepreview last export date">2018-02-15T21:26:54.053Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="83">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264285095-9-fr</cell>
-    <cell name="title">Méthodologie de recherche (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-20</cell>
-    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-16T10:37:43.343Z</cell>
-    <cell name="freepreview last export date">2018-02-15T21:26:54.053Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="84">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264268418-5-en</cell>
-    <cell name="title">Overview (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-20</cell>
-    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-16T10:37:43.343Z</cell>
-    <cell name="freepreview last export date">2018-02-15T21:26:54.053Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="85">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264268418-9-en</cell>
-    <cell name="title">Research methodology (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-20</cell>
-    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-16T10:37:43.343Z</cell>
-    <cell name="freepreview last export date">2018-02-15T21:26:54.053Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="86">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264285095-4-fr</cell>
-    <cell name="title">Résumé (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-20</cell>
-    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-16T10:37:43.343Z</cell>
-    <cell name="freepreview last export date">2018-02-15T21:26:54.053Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="87">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264285095-3-fr</cell>
-    <cell name="title">Sigles et abréviations (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-20</cell>
-    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-16T10:37:43.343Z</cell>
-    <cell name="freepreview last export date">2018-02-15T21:26:54.053Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="88">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264285095-5-fr</cell>
-    <cell name="title">Tour d'horizon (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-20</cell>
-    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-16T10:37:43.343Z</cell>
-    <cell name="freepreview last export date">2018-02-15T21:26:54.053Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="89">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264268418-6-en</cell>
-    <cell name="title">West Africa: Regional context and susceptibility to criminal economies (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-20</cell>
-    <cell name="embargo date">2018-02-20T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-16T10:37:43.343Z</cell>
-    <cell name="freepreview last export date">2018-02-15T21:26:54.053Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>

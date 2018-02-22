@@ -4,72 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264285095-fr
-SUMMARY:Flux financiers illicites (fr) on 20 Feb
- ruary 2018, 9:00 Paris time (GMT+01:00)
-DESCRIPTION:Flux financiers illicites (fr)  - L'écon
- omie du commerce illicite en Afrique de 
- l'Ouest (fr) by Development Co-operation
-  Directorate has an embargo date/time of
-  20 February 2018, 9:00 Paris time (GMT+
- 01:00).\n\nDirectorate: Development Co-o
- peration Directorate\nLanguage: French\n
- DOI: https://doi.org/10.1787/97892642850
- 95-fr\nPublication type: Stand-alone mon
- ograph\nReleased as: PDF, Paperback.\n\n
- iLibrary export: 19 February 2018, 22:16
-  Paris time (GMT+00:00)\nFreepreview exp
- ort: 15 February 2018, 21:26 Paris time 
- (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180222T001709Z
-DTSTART:20180220T080000Z
-DTEND:20180220T081500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Flux financiers illicites (fr)
-  on 20 February 2018, 9:00 Paris time (G
- MT+01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264268418-en
-SUMMARY:Illicit Financial Flows (en) on 20 Febru
- ary 2018, 9:00 Paris time (GMT+01:00)
-DESCRIPTION:Illicit Financial Flows (en)  - The Econ
- omy of Illicit Trade in West Africa (en)
-  by Development Co-operation Directorate
-  has an embargo date/time of 20 February
-  2018, 9:00 Paris time (GMT+01:00).\n\nD
- irectorate: Development Co-operation Dir
- ectorate\nLanguage: English\nDOI: https:
- //doi.org/10.1787/9789264268418-en\nPubl
- ication type: Stand-alone monograph\nRel
- eased as: Paperback, PDF.\n\niLibrary ex
- port: 19 February 2018, 22:16 Paris time
-  (GMT+00:00)\nFreepreview export: 15 Feb
- ruary 2018, 21:26 Paris time (GMT+00:00)
- \nFTI loaded: ✓.
-DTSTAMP:20180222T001709Z
-DTSTART:20180220T080000Z
-DTEND:20180220T081500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Illicit Financial Flows (en) o
- n 20 February 2018, 9:00 Paris time (GMT
- +01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264190061-en
 SUMMARY:Driving Performance at Ireland's Commiss
  ion for Regulation of Utilities (en) on 
@@ -83,12 +17,12 @@ DESCRIPTION:Driving Performance at Ireland's Commiss
  orate: Directorate for Public Governance
  \nLanguage: English\nDOI: https://doi.or
  g/10.1787/9789264190061-en\nPublication 
- type: Book\nReleased as: Paperback, ePub
- , PDF.\n\niLibrary export: 12 February 2
- 018, 23:27 Paris time (GMT+00:00)\nFreep
+ type: Book\nReleased as: PDF, Paperback,
+  ePub.\n\niLibrary export: 21 February 2
+ 018, 21:56 Paris time (GMT+00:00)\nFreep
  review export: 21 February 2018, 0:00 Pa
  ris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180222T001709Z
+DTSTAMP:20180223T000108Z
 DTSTART:20180221T090000Z
 DTEND:20180221T091500Z
 TRANSP:TRANSPARENT
@@ -123,7 +57,7 @@ DESCRIPTION:Financing SMEs and Entrepreneurs 2018 (e
  :16 Paris time (GMT+00:00)\nFreepreview 
  export: 19 February 2018, 23:12 Paris ti
  me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180222T001709Z
+DTSTAMP:20180223T000108Z
 DTSTART:20180221T180000Z
 DTEND:20180221T181500Z
 TRANSP:TRANSPARENT
@@ -157,7 +91,7 @@ DESCRIPTION:2018 OECD Ministerial Conference on SMEs
  time (GMT+00:00)\nFreepreview export: 21
   February 2018, 22:48 Paris time (GMT+00
  :00)\nFTI loaded: ✓.
-DTSTAMP:20180222T001709Z
+DTSTAMP:20180223T000108Z
 DTSTART:20180222T010000Z
 DTEND:20180222T011500Z
 TRANSP:TRANSPARENT
@@ -188,11 +122,11 @@ DESCRIPTION:Alternative Financing Instruments for SM
   English\nDOI: https://doi.org/10.1787/3
  709429e-en\nPublication type: Working pa
  per\nReleased as: PDF.\n\niLibrary expor
- t: 21 February 2018, 21:56 Paris time (G
- MT+00:00)\nFreepreview export: 21 Februa
- ry 2018, 0:00 Paris time (GMT+00:00)\nFT
- I loaded: ✓.
-DTSTAMP:20180222T001709Z
+ t: 22 February 2018, 21:37 Paris time (G
+ MT+00:00)\nFreepreview export: 22 Februa
+ ry 2018, 22:35 Paris time (GMT+00:00)\nF
+ TI loaded: ✓.
+DTSTAMP:20180223T000108Z
 DTSTART:20180222T010000Z
 DTEND:20180222T011500Z
 TRANSP:TRANSPARENT
@@ -221,11 +155,11 @@ DESCRIPTION:Case study on crowdfunding (en)  by Cent
  Language: English\nDOI: https://doi.org/
  10.1787/509e2066-en\nPublication type: W
  orking paper\nReleased as: PDF.\n\niLibr
- ary export: 21 February 2018, 21:56 Pari
+ ary export: 22 February 2018, 21:37 Pari
  s time (GMT+00:00)\nFreepreview export: 
- 21 February 2018, 0:00 Paris time (GMT+0
- 0:00)\nFTI loaded: ✓.
-DTSTAMP:20180222T001709Z
+ 22 February 2018, 22:35 Paris time (GMT+
+ 00:00)\nFTI loaded: ✓.
+DTSTAMP:20180223T000108Z
 DTSTART:20180222T010000Z
 DTEND:20180222T011500Z
 TRANSP:TRANSPARENT
@@ -253,11 +187,11 @@ DESCRIPTION:Credit Mediation for SMEs (en)  by Centr
  anguage: English\nDOI: https://doi.org/1
  0.1787/24072c0d-en\nPublication type: Wo
  rking paper\nReleased as: PDF.\n\niLibra
- ry export: 21 February 2018, 21:56 Paris
+ ry export: 22 February 2018, 21:37 Paris
   time (GMT+00:00)\nFreepreview export: 2
- 1 February 2018, 0:00 Paris time (GMT+00
- :00)\nFTI loaded: ✓.
-DTSTAMP:20180222T001709Z
+ 2 February 2018, 22:35 Paris time (GMT+0
+ 0:00)\nFTI loaded: ✓.
+DTSTAMP:20180223T000108Z
 DTSTART:20180222T010000Z
 DTEND:20180222T011500Z
 TRANSP:TRANSPARENT
@@ -287,11 +221,11 @@ DESCRIPTION:Fostering Markets for SME Finance (en)
  velopment\nLanguage: English\nDOI: https
  ://doi.org/10.1787/0bd38639-en\nPublicat
  ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: 21 February 2018,
-  21:56 Paris time (GMT+00:00)\nFreeprevi
- ew export: 21 February 2018, 0:00 Paris 
- time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180222T001709Z
+ F.\n\niLibrary export: 22 February 2018,
+  21:37 Paris time (GMT+00:00)\nFreeprevi
+ ew export: 22 February 2018, 22:35 Paris
+  time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180223T000108Z
 DTSTART:20180222T010000Z
 DTEND:20180222T011500Z
 TRANSP:TRANSPARENT
@@ -328,7 +262,7 @@ DESCRIPTION:SME and Entrepreneurship Financing (en)
  0)\nFreepreview export: 21 February 2018
  , 0:00 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180222T001709Z
+DTSTAMP:20180223T000108Z
 DTSTART:20180222T010000Z
 DTEND:20180222T011500Z
 TRANSP:TRANSPARENT
@@ -361,7 +295,7 @@ DESCRIPTION:Loss carryover provisions (en)  - Measur
  time (GMT+00:00)\nFreepreview export: 19
   February 2018, 23:12 Paris time (GMT+00
  :00)\nFTI loaded: ✓.
-DTSTAMP:20180222T001709Z
+DTSTAMP:20180223T000108Z
 DTSTART:20180222T060000Z
 DTEND:20180222T061500Z
 TRANSP:TRANSPARENT
@@ -393,7 +327,7 @@ DESCRIPTION:How to improve Norway’s Transport-Infras
  aris time (GMT+00:00)\nFreepreview expor
  t: 21 February 2018, 0:00 Paris time (GM
  T+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180222T001709Z
+DTSTAMP:20180223T000108Z
 DTSTART:20180223T010000Z
 DTEND:20180223T011500Z
 TRANSP:TRANSPARENT
@@ -426,7 +360,7 @@ DESCRIPTION:Norway’s economy (en)  - Maintaining a s
  00:00)\nFreepreview export: 21 February 
  2018, 0:00 Paris time (GMT+00:00)\nFTI l
  oaded: ✓.
-DTSTAMP:20180222T001709Z
+DTSTAMP:20180223T000108Z
 DTSTART:20180223T010000Z
 DTEND:20180223T011500Z
 TRANSP:TRANSPARENT
@@ -457,7 +391,7 @@ DESCRIPTION:Public spending in education and student
  21:56 Paris time (GMT+00:00)\nFreeprevie
  w export: 21 February 2018, 0:00 Paris t
  ime (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180222T001709Z
+DTSTAMP:20180223T000108Z
 DTSTART:20180223T010000Z
 DTEND:20180223T011500Z
 TRANSP:TRANSPARENT
@@ -492,7 +426,7 @@ DESCRIPTION:Saving, investment, capital stock and cu
  GMT+00:00)\nFreepreview export: 21 Febru
  ary 2018, 0:00 Paris time (GMT+00:00)\nF
  TI loaded: ✓.
-DTSTAMP:20180222T001709Z
+DTSTAMP:20180223T000108Z
 DTSTART:20180223T010000Z
 DTEND:20180223T011500Z
 TRANSP:TRANSPARENT
@@ -520,11 +454,11 @@ DESCRIPTION:OECD Economic Surveys: Chile 2018 (en)
  omics Department\nLanguage: English\nDOI
  : https://doi.org/10.1787/eco_surveys-ch
  l-2018-en\nPublication type: Economic su
- rvey\nReleased as: Paperback, PDF, ePub.
+ rvey\nReleased as: PDF, ePub, Paperback.
  \n\niLibrary export: 19 February 2018, 2
  2:16 Paris time (GMT+00:00)\nFreepreview
-  export: never\nFTI loaded: no.
-DTSTAMP:20180222T001709Z
+  export: never\nFTI loaded: ✓.
+DTSTAMP:20180223T000108Z
 DTSTART:20180226T133000Z
 DTEND:20180226T134500Z
 TRANSP:TRANSPARENT
@@ -555,7 +489,7 @@ DESCRIPTION:OECD Economic Surveys: Finland 2018 (en)
  F.\n\niLibrary export: 12 February 2018,
   23:27 Paris time (GMT+00:00)\nFreeprevi
  ew export: never\nFTI loaded: no.
-DTSTAMP:20180222T001709Z
+DTSTAMP:20180223T000108Z
 DTSTART:20180228T100000Z
 DTEND:20180228T101500Z
 TRANSP:TRANSPARENT
@@ -586,7 +520,7 @@ DESCRIPTION:OECD Economic Surveys: Brazil 2018 (en)
  Library export: 19 February 2018, 22:16 
  Paris time (GMT+00:00)\nFreepreview expo
  rt: never\nFTI loaded: no.
-DTSTAMP:20180222T001709Z
+DTSTAMP:20180223T000108Z
 DTSTART:20180228T130000Z
 DTEND:20180228T131500Z
 TRANSP:TRANSPARENT
@@ -613,11 +547,11 @@ DESCRIPTION:Relatórios Econômicos OCDE: Brasil 2018
  : Economics Department\nLanguage: Portug
  uese\nDOI: https://doi.org/10.1787/97892
  64290716-pt\nPublication type: Economic 
- survey\nReleased as: Paperback, PDF.\n\n
+ survey\nReleased as: PDF, Paperback.\n\n
  iLibrary export: 19 February 2018, 22:16
   Paris time (GMT+00:00)\nFreepreview exp
  ort: never\nFTI loaded: no.
-DTSTAMP:20180222T001709Z
+DTSTAMP:20180223T000108Z
 DTSTART:20180228T130000Z
 DTEND:20180228T131500Z
 TRANSP:TRANSPARENT
@@ -629,6 +563,67 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Relatórios Econômicos OCDE: Br
  asil 2018 (pt) on 28 February 2018, 14:0
  0 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/eco_surveys-irl-2018-en
+SUMMARY:OECD Economic Surveys: Ireland 2018 (en)
+  on 8 March 2018, 11:00 Paris time (GMT+
+ 01:00)
+DESCRIPTION:OECD Economic Surveys: Ireland 2018 (en)
+   by Economics Department has an embargo
+  date/time of 8 March 2018, 11:00 Paris 
+ time (GMT+01:00).\n\nDirectorate: Econom
+ ics Department\nLanguage: English\nDOI: 
+ https://doi.org/10.1787/eco_surveys-irl-
+ 2018-en\nPublication type: Economic surv
+ ey\nReleased as: PDF, Paperback.\n\niLib
+ rary export: never\nFreepreview export: 
+ never\nFTI loaded: no.
+DTSTAMP:20180223T000108Z
+DTSTART:20180308T100000Z
+DTEND:20180308T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Economic Surveys: Ireland
+  2018 (en) on 8 March 2018, 11:00 Paris 
+ time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264291690-en
+SUMMARY:Regulatory Policy in Slovenia (en) on 9 
+ March 2018, 9:00 Paris time (GMT+01:00)
+DESCRIPTION:Regulatory Policy in Slovenia (en)  - Ov
+ ersight Matters (en) by Directorate for 
+ Public Governance has an embargo date/ti
+ me of 9 March 2018, 9:00 Paris time (GMT
+ +01:00).\n\nDirectorate: Directorate for
+  Public Governance\nLanguage: English\nD
+ OI: https://doi.org/10.1787/978926429169
+ 0-en\nPublication type: Book\nReleased a
+ s: PDF, Paperback.\n\niLibrary export: 1
+ 9 February 2018, 22:16 Paris time (GMT+0
+ 0:00)\nFreepreview export: never\nFTI lo
+ aded: no.
+DTSTAMP:20180223T000108Z
+DTSTART:20180309T080000Z
+DTEND:20180309T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Regulatory Policy in Slovenia 
+ (en) on 9 March 2018, 9:00 Paris time (G
+ MT+01:00)
 END:VALARM
 END:VEVENT
 
@@ -650,7 +645,7 @@ DESCRIPTION:Towards Better Social and Employment Sec
  19 February 2018, 22:16 Paris time (GMT+
  00:00)\nFreepreview export: never\nFTI l
  oaded: no.
-DTSTAMP:20180222T001709Z
+DTSTAMP:20180223T000108Z
 DTSTART:20180313T230100Z
 DTEND:20180313T231600Z
 TRANSP:TRANSPARENT
@@ -684,11 +679,11 @@ DESCRIPTION:Forum mondial sur la transparence et l'é
  and Administration\nLanguage: French\nDO
  I: https://doi.org/10.1787/9789264291225
  -fr\nPublication type: Book\nReleased as
- : Paperback, PDF.\n\niLibrary export: 19
-  February 2018, 22:16 Paris time (GMT+00
+ : Paperback, PDF.\n\niLibrary export: 21
+  February 2018, 21:56 Paris time (GMT+00
  :00)\nFreepreview export: never\nFTI loa
  ded: no.
-DTSTAMP:20180222T001709Z
+DTSTAMP:20180223T000108Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -724,11 +719,11 @@ DESCRIPTION:Forum mondial sur la transparence et l'é
  d Administration\nLanguage: French\nDOI:
   https://doi.org/10.1787/9789264291188-f
  r\nPublication type: Book\nReleased as: 
- Paperback, PDF.\n\niLibrary export: 19 F
- ebruary 2018, 22:16 Paris time (GMT+00:0
+ PDF, Paperback.\n\niLibrary export: 21 F
+ ebruary 2018, 21:56 Paris time (GMT+00:0
  0)\nFreepreview export: never\nFTI loade
  d: no.
-DTSTAMP:20180222T001709Z
+DTSTAMP:20180223T000108Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -749,26 +744,26 @@ BEGIN:VEVENT
 UID:10.1787/9789264291201-fr
 SUMMARY:Forum mondial sur la transparence et l'é
  change de renseignements à des fins fisc
- ales : Monaco 2018 ( Deuxième tour ) (fr
- ) on 30 March 2018, 11:00 Paris time (GM
- T+02:00)
+ ales : Monaco 2018 (Deuxième cycle) (fr)
+  on 30 March 2018, 11:00 Paris time (GMT
+ +02:00)
 DESCRIPTION:Forum mondial sur la transparence et l'é
  change de renseignements à des fins fisc
- ales : Monaco 2018 ( Deuxième tour ) (fr
- )  - Rapport d'examen par les pairs sur 
- la demande d'échange de renseignements (
- fr) by Centre for Tax Policy and Adminis
- tration has an embargo date/time of 30 M
- arch 2018, 11:00 Paris time (GMT+02:00).
- \n\nDirectorate: Centre for Tax Policy a
- nd Administration\nLanguage: French\nDOI
- : https://doi.org/10.1787/9789264291201-
- fr\nPublication type: Book\nReleased as:
-  PDF, Paperback.\n\niLibrary export: 19 
- February 2018, 22:16 Paris time (GMT+00:
- 00)\nFreepreview export: never\nFTI load
- ed: no.
-DTSTAMP:20180222T001709Z
+ ales : Monaco 2018 (Deuxième cycle) (fr)
+   - Rapport d'examen par les pairs sur l
+ a demande d'échange de renseignements (f
+ r) by Centre for Tax Policy and Administ
+ ration has an embargo date/time of 30 Ma
+ rch 2018, 11:00 Paris time (GMT+02:00).\
+ n\nDirectorate: Centre for Tax Policy an
+ d Administration\nLanguage: French\nDOI:
+  https://doi.org/10.1787/9789264291201-f
+ r\nPublication type: Book\nReleased as: 
+ PDF, Paperback.\n\niLibrary export: 21 F
+ ebruary 2018, 21:56 Paris time (GMT+00:0
+ 0)\nFreepreview export: never\nFTI loade
+ d: no.
+DTSTAMP:20180223T000108Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -779,9 +774,9 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Forum mondial sur la transpare
  nce et l'échange de renseignements à des
-  fins fiscales : Monaco 2018 ( Deuxième 
- tour ) (fr) on 30 March 2018, 11:00 Pari
- s time (GMT+02:00)
+  fins fiscales : Monaco 2018 (Deuxième c
+ ycle) (fr) on 30 March 2018, 11:00 Paris
+  time (GMT+02:00)
 END:VALARM
 END:VEVENT
 
@@ -802,11 +797,11 @@ DESCRIPTION:Global Forum on Transparency and Exchang
   Tax Policy and Administration\nLanguage
  : English\nDOI: https://doi.org/10.1787/
  9789264290839-en\nPublication type: Book
- \nReleased as: PDF, Paperback.\n\niLibra
- ry export: 19 February 2018, 22:16 Paris
+ \nReleased as: Paperback, PDF.\n\niLibra
+ ry export: 21 February 2018, 21:56 Paris
   time (GMT+00:00)\nFreepreview export: n
  ever\nFTI loaded: no.
-DTSTAMP:20180222T001709Z
+DTSTAMP:20180223T000108Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -840,11 +835,11 @@ DESCRIPTION:Global Forum on Transparency and Exchang
   Tax Policy and Administration\nLanguage
  : English\nDOI: https://doi.org/10.1787/
  9789264291034-en\nPublication type: Book
- \nReleased as: Paperback, PDF.\n\niLibra
- ry export: 19 February 2018, 22:16 Paris
+ \nReleased as: PDF, Paperback.\n\niLibra
+ ry export: 21 February 2018, 21:56 Paris
   time (GMT+00:00)\nFreepreview export: n
  ever\nFTI loaded: no.
-DTSTAMP:20180222T001709Z
+DTSTAMP:20180223T000108Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -878,11 +873,11 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  Tax Policy and Administration\nLanguage:
   English\nDOI: https://doi.org/10.1787/9
  789264291058-en\nPublication type: Book\
- nReleased as: Paperback, PDF.\n\niLibrar
- y export: 19 February 2018, 22:16 Paris 
+ nReleased as: PDF, Paperback.\n\niLibrar
+ y export: 21 February 2018, 21:56 Paris 
  time (GMT+00:00)\nFreepreview export: ne
  ver\nFTI loaded: no.
-DTSTAMP:20180222T001709Z
+DTSTAMP:20180223T000108Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -916,11 +911,11 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  ax Policy and Administration\nLanguage: 
  English\nDOI: https://doi.org/10.1787/97
  89264291119-en\nPublication type: Book\n
- Released as: Paperback, PDF.\n\niLibrary
-  export: 19 February 2018, 22:16 Paris t
+ Released as: PDF, Paperback.\n\niLibrary
+  export: 21 February 2018, 21:56 Paris t
  ime (GMT+00:00)\nFreepreview export: nev
  er\nFTI loaded: no.
-DTSTAMP:20180222T001709Z
+DTSTAMP:20180223T000108Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -954,11 +949,11 @@ DESCRIPTION:Global Forum on Transparency and Exchang
   Tax Policy and Administration\nLanguage
  : English\nDOI: https://doi.org/10.1787/
  9789264291133-en\nPublication type: Book
- \nReleased as: PDF, Paperback.\n\niLibra
- ry export: 19 February 2018, 22:16 Paris
+ \nReleased as: Paperback, PDF.\n\niLibra
+ ry export: 21 February 2018, 21:56 Paris
   time (GMT+00:00)\nFreepreview export: n
  ever\nFTI loaded: no.
-DTSTAMP:20180222T001709Z
+DTSTAMP:20180223T000108Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -993,10 +988,10 @@ DESCRIPTION:Global Forum on Transparency and Exchang
   English\nDOI: https://doi.org/10.1787/9
  789264291157-en\nPublication type: Book\
  nReleased as: PDF, Paperback.\n\niLibrar
- y export: 19 February 2018, 22:16 Paris 
+ y export: 21 February 2018, 21:56 Paris 
  time (GMT+00:00)\nFreepreview export: ne
  ver\nFTI loaded: no.
-DTSTAMP:20180222T001709Z
+DTSTAMP:20180223T000108Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -1030,11 +1025,11 @@ DESCRIPTION:Global Forum on Transparency and Exchang
   for Tax Policy and Administration\nLang
  uage: English\nDOI: https://doi.org/10.1
  787/9789264291171-en\nPublication type: 
- Book\nReleased as: Paperback, PDF.\n\niL
- ibrary export: 19 February 2018, 22:16 P
+ Book\nReleased as: PDF, Paperback.\n\niL
+ ibrary export: 21 February 2018, 21:56 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20180222T001709Z
+DTSTAMP:20180223T000108Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -1069,10 +1064,10 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  uage: English\nDOI: https://doi.org/10.1
  787/9789264291805-en\nPublication type: 
  Book\nReleased as: Paperback, PDF.\n\niL
- ibrary export: 19 February 2018, 22:16 P
+ ibrary export: 21 February 2018, 21:56 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20180222T001709Z
+DTSTAMP:20180223T000108Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -1101,12 +1096,12 @@ DESCRIPTION:Getting Skills Right: Spain (en)  by Dir
  yment, Labour and Social Affairs\nLangua
  ge: English\nDOI: https://doi.org/10.178
  7/9789264282346-en\nPublication type: Bo
- ok\nReleased as: Paperback, PDF.\n\niLib
- rary export: 12 January 2018, 23:48 Pari
- s time (GMT+00:00)\nFreepreview export: 
- 13 January 2018, 2:11 Paris time (GMT+00
- :00)\nFTI loaded: ✓.
-DTSTAMP:20180222T001709Z
+ ok\nReleased as: PDF, Paperback.\n\niLib
+ rary export: 21 February 2018, 21:56 Par
+ is time (GMT+00:00)\nFreepreview export:
+  21 February 2018, 22:48 Paris time (GMT
+ +00:00)\nFTI loaded: ✓.
+DTSTAMP:20180223T000108Z
 DTSTART:20180426T073000Z
 DTEND:20180426T074500Z
 TRANSP:TRANSPARENT
