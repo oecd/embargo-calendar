@@ -1,90 +1,6 @@
-# OECD publication embargoes (23 embargoes)
+# OECD publication embargoes (22 embargoes)
 
-*Data generated on Friday 23 February 2018 at 0:01*
-
-------
-
-## [How to improve Norway’s Transport-Infrastructure Investment (en)](https://doi.org/10.1787/2a1aa042-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 23 February 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 21 February 2018 at 22:56
-- [x] Exported to Keepeek Wednesday 21 February 2018 at 1:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Norway’s economy (en) - Maintaining a successful business sector in a changing world (en)](https://doi.org/10.1787/ce338dc9-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 23 February 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 21 February 2018 at 22:56
-- [x] Exported to Keepeek Wednesday 21 February 2018 at 1:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Public spending in education and student’s performance in Colombia (en)](https://doi.org/10.1787/282d9700-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 23 February 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 21 February 2018 at 22:56
-- [x] Exported to Keepeek Wednesday 21 February 2018 at 1:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Saving, investment, capital stock and current account projections in long-term scenarios (en)](https://doi.org/10.1787/aa519fc9-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 23 February 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 21 February 2018 at 22:56
-- [x] Exported to Keepeek Wednesday 21 February 2018 at 1:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Saturday 24 February 2018 at 1:11*
 
 ------
 
@@ -96,8 +12,8 @@ Monday 26 February 2018 at 14:30 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 February 2018 at 23:16
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 22 February 2018 at 22:37
+- [x] Exported to Keepeek Thursday 22 February 2018 at 23:35
 
 ### Additional Information
 
@@ -109,22 +25,85 @@ Monday 26 February 2018 at 14:30 | no launch event
 
 ------
 
+## [Decentralisation in a Globalised World (en) - Consequences and Opportunities (en)](https://doi.org/10.1787/ceaaa9b0-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 27 February 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 23 February 2018 at 23:12
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Improving the performance of sub-national governments through benchmarking and performance reporting (en)](https://doi.org/10.1787/ffff92c6-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 27 February 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 23 February 2018 at 23:12
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Insolvency Frameworks for Sub-national Governments (en)](https://doi.org/10.1787/f9874122-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 27 February 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 23 February 2018 at 23:12
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Finland 2018 (en)](https://doi.org/10.1787/eco_surveys-fin-2018-en)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 28 February 2018 at 11:00 | no launch event
+Wednesday 28 February 2018 at 9:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 13 February 2018 at 0:27
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 22 February 2018 at 22:37
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Medium: *PDF*
 
@@ -137,7 +116,7 @@ Embargo date | Launch date
 Wednesday 28 February 2018 at 14:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 19 February 2018 at 23:16
 - [ ] Exported to Keepeek
 
@@ -145,7 +124,7 @@ Wednesday 28 February 2018 at 14:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Medium: *PDF*
 
@@ -158,7 +137,7 @@ Embargo date | Launch date
 Wednesday 28 February 2018 at 14:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 19 February 2018 at 23:16
 - [ ] Exported to Keepeek
 
@@ -166,7 +145,7 @@ Wednesday 28 February 2018 at 14:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *Portuguese*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Medium: *PDF*
 
@@ -176,11 +155,11 @@ Wednesday 28 February 2018 at 14:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Thursday 8 March 2018 at 11:00 | no launch event
+Thursday 8 March 2018 at 10:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 22 February 2018 at 22:37
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -201,7 +180,7 @@ Friday 9 March 2018 at 9:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 19 February 2018 at 23:16
+- [x] Exported to iLibrary Thursday 22 February 2018 at 22:37
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -285,7 +264,7 @@ Friday 30 March 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 21 February 2018 at 22:56
+- [x] Exported to iLibrary Thursday 22 February 2018 at 22:37
 - [ ] Exported to Keepeek
 
 ### Additional Information
