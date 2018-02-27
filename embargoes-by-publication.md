@@ -1,27 +1,6 @@
-# OECD publication embargoes (22 embargoes)
+# OECD publication embargoes (23 embargoes)
 
-*Data generated on Saturday 24 February 2018 at 1:11*
-
-------
-
-## [OECD Economic Surveys: Chile 2018 (en)](https://doi.org/10.1787/eco_surveys-chl-2018-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 26 February 2018 at 14:30 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 22 February 2018 at 22:37
-- [x] Exported to Keepeek Thursday 22 February 2018 at 23:35
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Medium: *PDF*
+*Data generated on Tuesday 27 February 2018 at 1:20*
 
 ------
 
@@ -32,9 +11,9 @@ Embargo date | Launch date
 Tuesday 27 February 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 23 February 2018 at 23:12
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 27 February 2018 at 0:00
+- [x] Exported to Keepeek Tuesday 27 February 2018 at 1:08
 
 ### Additional Information
 
@@ -46,16 +25,16 @@ Tuesday 27 February 2018 at 11:00 | no launch event
 
 ------
 
-## [Improving the performance of sub-national governments through benchmarking and performance reporting (en)](https://doi.org/10.1787/ffff92c6-en)
+## [Improving the Performance of Sub-national Governments through Benchmarking and Performance Reporting (en)](https://doi.org/10.1787/ffff92c6-en)
 
 Embargo date | Launch date
 -------------|------------
 Tuesday 27 February 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 23 February 2018 at 23:12
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 27 February 2018 at 0:00
+- [x] Exported to Keepeek Tuesday 27 February 2018 at 1:08
 
 ### Additional Information
 
@@ -74,9 +53,9 @@ Embargo date | Launch date
 Tuesday 27 February 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 23 February 2018 at 23:12
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 27 February 2018 at 0:00
+- [x] Exported to Keepeek Tuesday 27 February 2018 at 1:08
 
 ### Additional Information
 
@@ -96,8 +75,8 @@ Wednesday 28 February 2018 at 9:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 22 February 2018 at 22:37
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 23 February 2018 at 23:12
+- [x] Exported to Keepeek Saturday 24 February 2018 at 0:29
 
 ### Additional Information
 
@@ -117,8 +96,8 @@ Wednesday 28 February 2018 at 14:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 February 2018 at 23:16
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 23 February 2018 at 23:12
+- [x] Exported to Keepeek Saturday 24 February 2018 at 0:29
 
 ### Additional Information
 
@@ -138,8 +117,8 @@ Wednesday 28 February 2018 at 14:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 February 2018 at 23:16
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 23 February 2018 at 23:12
+- [x] Exported to Keepeek Saturday 24 February 2018 at 0:29
 
 ### Additional Information
 
@@ -147,6 +126,27 @@ Wednesday 28 February 2018 at 14:00 | no launch event
 * Language: *Portuguese*
 * Availability: *Published*
 * Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
+## [Governance Frameworks to Counter Illicit Trade (en)](https://doi.org/10.1787/9789264291652-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 1 March 2018 at 9:01 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 23 February 2018 at 23:12
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
 ------
@@ -159,7 +159,7 @@ Thursday 8 March 2018 at 10:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 22 February 2018 at 22:37
+- [x] Exported to iLibrary Friday 23 February 2018 at 23:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -189,6 +189,27 @@ Friday 9 March 2018 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [OECD Economic Surveys: Israel 2018 (en)](https://doi.org/10.1787/eco_surveys-isr-2018-en)
+
+Embargo date | Launch date
+-------------|------------
+Sunday 11 March 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
 * Medium: *PDF*
 
 ------
