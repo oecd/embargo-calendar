@@ -1,69 +1,6 @@
-# OECD publication embargoes (23 embargoes)
+# OECD publication embargoes (20 embargoes)
 
-*Data generated on Tuesday 27 February 2018 at 1:20*
-
-------
-
-## [Decentralisation in a Globalised World (en) - Consequences and Opportunities (en)](https://doi.org/10.1787/ceaaa9b0-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 27 February 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 27 February 2018 at 0:00
-- [x] Exported to Keepeek Tuesday 27 February 2018 at 1:08
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Improving the Performance of Sub-national Governments through Benchmarking and Performance Reporting (en)](https://doi.org/10.1787/ffff92c6-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 27 February 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 27 February 2018 at 0:00
-- [x] Exported to Keepeek Tuesday 27 February 2018 at 1:08
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Insolvency Frameworks for Sub-national Governments (en)](https://doi.org/10.1787/f9874122-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 27 February 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 27 February 2018 at 0:00
-- [x] Exported to Keepeek Tuesday 27 February 2018 at 1:08
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Tuesday 27 February 2018 at 22:08*
 
 ------
 
@@ -75,7 +12,7 @@ Wednesday 28 February 2018 at 9:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 February 2018 at 23:12
+- [x] Exported to iLibrary Tuesday 27 February 2018 at 0:00
 - [x] Exported to Keepeek Saturday 24 February 2018 at 0:29
 
 ### Additional Information
@@ -137,15 +74,15 @@ Embargo date | Launch date
 Thursday 1 March 2018 at 9:01 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 23 February 2018 at 23:12
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 27 February 2018 at 0:00
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
@@ -201,7 +138,7 @@ Sunday 11 March 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 27 February 2018 at 0:00
 - [ ] Exported to Keepeek
 
 ### Additional Information

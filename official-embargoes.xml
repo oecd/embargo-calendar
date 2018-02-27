@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2018-02-27T01:20:27.65+01:00" count="113">
+<report name="official-embargoes" generated="2018-02-27T22:08:27.194+01:00" count="113">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -520,7 +520,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-03-05</cell>
+    <cell name="date of publication">2018-03-14</cell>
     <cell name="embargo date">2018-03-13T23:01:00Z</cell>
     <cell name="launch date/time">2018-03-13T23:01:00Z</cell>
     <cell name="ilibrary last export date">2018-02-19T22:16:44.51Z</cell>
@@ -536,7 +536,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-03-05</cell>
+    <cell name="date of publication">2018-03-14</cell>
     <cell name="embargo date">2018-03-13T23:01:00Z</cell>
     <cell name="launch date/time">2018-03-13T23:01:00Z</cell>
     <cell name="ilibrary last export date"/>
@@ -555,7 +555,7 @@
     <cell name="date of publication">2018-03-11</cell>
     <cell name="embargo date">2018-03-11T10:00:00Z</cell>
     <cell name="launch date/time">2018-03-11T10:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-02-26T23:00:20.68Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
@@ -582,12 +582,12 @@
     <cell name="title">Regulatory Policy in Slovenia (en)</cell>
     <cell name="subtitle">Oversight Matters (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
+    <cell name="medium">Paperback</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-03-09</cell>
     <cell name="embargo date">2018-03-09T08:00:00Z</cell>
     <cell name="launch date/time">2018-03-09T08:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-02-22T21:37:03.07Z</cell>
+    <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -598,12 +598,12 @@
     <cell name="title">Regulatory Policy in Slovenia (en)</cell>
     <cell name="subtitle">Oversight Matters (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-03-09</cell>
     <cell name="embargo date">2018-03-09T08:00:00Z</cell>
     <cell name="launch date/time">2018-03-09T08:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-02-22T21:37:03.07Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -654,7 +654,7 @@
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
   </row>
   <row index="41">
     <cell name="directorate">Directorate for Public Governance</cell>
@@ -663,14 +663,14 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2018-03-01</cell>
     <cell name="embargo date">2018-03-01T08:01:00Z</cell>
     <cell name="launch date/time">2018-03-01T08:01:00Z</cell>
-    <cell name="ilibrary last export date">2018-02-23T22:12:25.07Z</cell>
+    <cell name="ilibrary last export date">2018-02-26T23:00:20.68Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
   </row>
   <row index="42">
     <cell name="directorate">Economics Department</cell>
@@ -747,7 +747,7 @@
     <cell name="date of publication">2018-02-28</cell>
     <cell name="embargo date">2018-02-28T10:00:00Z</cell>
     <cell name="launch date/time">2018-02-28T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-02-23T22:12:25.07Z</cell>
+    <cell name="ilibrary last export date">2018-02-26T23:00:20.68Z</cell>
     <cell name="freepreview last export date">2018-02-23T23:29:47.8Z</cell>
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
@@ -1355,7 +1355,7 @@
     <cell name="date of publication">2018-02-28</cell>
     <cell name="embargo date">2018-02-28T08:00:00Z</cell>
     <cell name="launch date/time">2018-02-28T08:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-02-23T22:12:25.07Z</cell>
+    <cell name="ilibrary last export date">2018-02-26T23:00:20.68Z</cell>
     <cell name="freepreview last export date">2018-02-23T23:29:47.8Z</cell>
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1739,7 +1739,7 @@
     <cell name="date of publication">2018-02-27</cell>
     <cell name="embargo date">2018-02-27T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-26T23:00:23.036Z</cell>
+    <cell name="ilibrary last export date">2018-02-26T23:20:42Z</cell>
     <cell name="freepreview last export date">2018-02-27T00:08:02.933Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1755,7 +1755,7 @@
     <cell name="date of publication">2018-02-27</cell>
     <cell name="embargo date">2018-02-27T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-26T23:00:23.036Z</cell>
+    <cell name="ilibrary last export date">2018-02-26T23:20:42Z</cell>
     <cell name="freepreview last export date">2018-02-27T00:08:02.933Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1771,7 +1771,7 @@
     <cell name="date of publication">2018-02-27</cell>
     <cell name="embargo date">2018-02-27T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-26T23:00:23.036Z</cell>
+    <cell name="ilibrary last export date">2018-02-26T23:20:42Z</cell>
     <cell name="freepreview last export date">2018-02-27T00:08:02.933Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
