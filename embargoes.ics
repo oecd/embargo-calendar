@@ -4,38 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/eco_surveys-chl-2018-en
-SUMMARY:OECD Economic Surveys: Chile 2018 (en) o
- n 26 February 2018, 14:30 Paris time (GM
- T+01:00)
-DESCRIPTION:OECD Economic Surveys: Chile 2018 (en)  
- by Economics Department has an embargo d
- ate/time of 26 February 2018, 14:30 Pari
- s time (GMT+01:00).\n\nDirectorate: Econ
- omics Department\nLanguage: English\nDOI
- : https://doi.org/10.1787/eco_surveys-ch
- l-2018-en\nPublication type: Economic su
- rvey\nReleased as: PDF, ePub, Paperback.
- \n\niLibrary export: 22 February 2018, 2
- 1:37 Paris time (GMT+00:00)\nFreepreview
-  export: 22 February 2018, 22:35 Paris t
- ime (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180227T220831Z
-DTSTART:20180226T133000Z
-DTEND:20180226T134500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Economic Surveys: Chile 2
- 018 (en) on 26 February 2018, 14:30 Pari
- s time (GMT+01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/ceaaa9b0-en
 SUMMARY:Decentralisation in a Globalised World (
  en) on 27 February 2018, 11:00 Paris tim
@@ -54,7 +22,7 @@ DESCRIPTION:Decentralisation in a Globalised World (
  nFreepreview export: 27 February 2018, 0
  :08 Paris time (GMT+00:00)\nFTI loaded: 
  ✓.
-DTSTAMP:20180227T220831Z
+DTSTAMP:20180228T221551Z
 DTSTART:20180227T100000Z
 DTEND:20180227T101500Z
 TRANSP:TRANSPARENT
@@ -89,7 +57,7 @@ DESCRIPTION:Improving the Performance of Sub-nationa
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 27 February 2018, 0:08 Paris time (
  GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180227T220831Z
+DTSTAMP:20180228T221551Z
 DTSTART:20180227T100000Z
 DTEND:20180227T101500Z
 TRANSP:TRANSPARENT
@@ -124,7 +92,7 @@ DESCRIPTION:Insolvency Frameworks for Sub-national G
  e (GMT+00:00)\nFreepreview export: 27 Fe
  bruary 2018, 0:08 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180227T220831Z
+DTSTAMP:20180228T221551Z
 DTSTART:20180227T100000Z
 DTEND:20180227T101500Z
 TRANSP:TRANSPARENT
@@ -156,7 +124,7 @@ DESCRIPTION:OECD Economic Surveys: Finland 2018 (en)
  23:00 Paris time (GMT+00:00)\nFreeprevie
  w export: 23 February 2018, 23:29 Paris 
  time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180227T220831Z
+DTSTAMP:20180228T221551Z
 DTSTART:20180228T080000Z
 DTEND:20180228T081500Z
 TRANSP:TRANSPARENT
@@ -183,12 +151,12 @@ DESCRIPTION:OECD Economic Surveys: Brazil 2018 (en)
  nomics Department\nLanguage: English\nDO
  I: https://doi.org/10.1787/eco_surveys-b
  ra-2018-en\nPublication type: Economic s
- urvey\nReleased as: Paperback, PDF.\n\ni
+ urvey\nReleased as: PDF, Paperback.\n\ni
  Library export: 23 February 2018, 22:12 
  Paris time (GMT+00:00)\nFreepreview expo
  rt: 23 February 2018, 23:29 Paris time (
  GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180227T220831Z
+DTSTAMP:20180228T221551Z
 DTSTART:20180228T130000Z
 DTEND:20180228T131500Z
 TRANSP:TRANSPARENT
@@ -215,12 +183,12 @@ DESCRIPTION:Relatórios Econômicos OCDE: Brasil 2018
  : Economics Department\nLanguage: Portug
  uese\nDOI: https://doi.org/10.1787/97892
  64290716-pt\nPublication type: Economic 
- survey\nReleased as: Paperback, PDF.\n\n
+ survey\nReleased as: PDF, Paperback.\n\n
  iLibrary export: 23 February 2018, 22:12
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 23 February 2018, 23:29 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180227T220831Z
+DTSTAMP:20180228T221551Z
 DTSTART:20180228T130000Z
 DTEND:20180228T131500Z
 TRANSP:TRANSPARENT
@@ -248,11 +216,12 @@ DESCRIPTION:Governance Frameworks to Counter Illicit
  Governance\nLanguage: English\nDOI: http
  s://doi.org/10.1787/9789264291652-en\nPu
  blication type: Stand-alone monograph\nR
- eleased as: Paperback, PDF.\n\niLibrary 
+ eleased as: PDF, Paperback.\n\niLibrary 
  export: 26 February 2018, 23:00 Paris ti
- me (GMT+00:00)\nFreepreview export: neve
- r\nFTI loaded: ✓.
-DTSTAMP:20180227T220831Z
+ me (GMT+00:00)\nFreepreview export: 27 F
+ ebruary 2018, 20:45 Paris time (GMT+00:0
+ 0)\nFTI loaded: ✓.
+DTSTAMP:20180228T221551Z
 DTSTART:20180301T080100Z
 DTEND:20180301T081600Z
 TRANSP:TRANSPARENT
@@ -264,6 +233,40 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Governance Frameworks to Count
  er Illicit Trade (en) on 1 March 2018, 9
  :01 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264189935-en
+SUMMARY:OECD Reviews of Labour Market and Social
+  Policies: Lithuania (en) on 1 March 201
+ 8, 11:00 Paris time (GMT+01:00)
+DESCRIPTION:OECD Reviews of Labour Market and Social
+  Policies: Lithuania (en)  by Directorat
+ e for Employment, Labour and Social Affa
+ irs has an embargo date/time of 1 March 
+ 2018, 11:00 Paris time (GMT+01:00).\n\nD
+ irectorate: Directorate for Employment, 
+ Labour and Social Affairs\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/97892
+ 64189935-en\nPublication type: Book\nRel
+ eased as: Paperback, PDF.\n\niLibrary ex
+ port: 26 February 2018, 23:00 Paris time
+  (GMT+00:00)\nFreepreview export: never\
+ nFTI loaded: ✓.
+DTSTAMP:20180228T221551Z
+DTSTART:20180301T100000Z
+DTEND:20180301T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Reviews of Labour Market 
+ and Social Policies: Lithuania (en) on 1
+  March 2018, 11:00 Paris time (GMT+01:00
+ )
 END:VALARM
 END:VEVENT
 
@@ -283,7 +286,7 @@ DESCRIPTION:OECD Economic Surveys: Ireland 2018 (en)
  rary export: 23 February 2018, 22:12 Par
  is time (GMT+00:00)\nFreepreview export:
   never\nFTI loaded: no.
-DTSTAMP:20180227T220831Z
+DTSTAMP:20180228T221551Z
 DTSTART:20180308T090000Z
 DTEND:20180308T091500Z
 TRANSP:TRANSPARENT
@@ -313,8 +316,8 @@ DESCRIPTION:Regulatory Policy in Slovenia (en)  - Ov
  s: Paperback, PDF.\n\niLibrary export: 2
  2 February 2018, 21:37 Paris time (GMT+0
  0:00)\nFreepreview export: never\nFTI lo
- aded: no.
-DTSTAMP:20180227T220831Z
+ aded: ✓.
+DTSTAMP:20180228T221551Z
 DTSTART:20180309T080000Z
 DTEND:20180309T081500Z
 TRANSP:TRANSPARENT
@@ -345,7 +348,7 @@ DESCRIPTION:OECD Economic Surveys: Israel 2018 (en)
  rary export: 26 February 2018, 23:00 Par
  is time (GMT+00:00)\nFreepreview export:
   never\nFTI loaded: no.
-DTSTAMP:20180227T220831Z
+DTSTAMP:20180228T221551Z
 DTSTART:20180311T100000Z
 DTEND:20180311T101500Z
 TRANSP:TRANSPARENT
@@ -378,7 +381,7 @@ DESCRIPTION:Towards Better Social and Employment Sec
  19 February 2018, 22:16 Paris time (GMT+
  00:00)\nFreepreview export: never\nFTI l
  oaded: no.
-DTSTAMP:20180227T220831Z
+DTSTAMP:20180228T221551Z
 DTSTART:20180313T230100Z
 DTEND:20180313T231600Z
 TRANSP:TRANSPARENT
@@ -416,7 +419,7 @@ DESCRIPTION:Forum mondial sur la transparence et l'é
   February 2018, 21:56 Paris time (GMT+00
  :00)\nFreepreview export: never\nFTI loa
  ded: no.
-DTSTAMP:20180227T220831Z
+DTSTAMP:20180228T221551Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -456,7 +459,7 @@ DESCRIPTION:Forum mondial sur la transparence et l'é
  ebruary 2018, 21:56 Paris time (GMT+00:0
  0)\nFreepreview export: never\nFTI loade
  d: no.
-DTSTAMP:20180227T220831Z
+DTSTAMP:20180228T221551Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -496,7 +499,7 @@ DESCRIPTION:Forum mondial sur la transparence et l'é
  ebruary 2018, 21:37 Paris time (GMT+00:0
  0)\nFreepreview export: never\nFTI loade
  d: no.
-DTSTAMP:20180227T220831Z
+DTSTAMP:20180228T221551Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -534,7 +537,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  ry export: 21 February 2018, 21:56 Paris
   time (GMT+00:00)\nFreepreview export: n
  ever\nFTI loaded: no.
-DTSTAMP:20180227T220831Z
+DTSTAMP:20180228T221551Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -572,7 +575,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  ry export: 21 February 2018, 21:56 Paris
   time (GMT+00:00)\nFreepreview export: n
  ever\nFTI loaded: no.
-DTSTAMP:20180227T220831Z
+DTSTAMP:20180228T221551Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -610,7 +613,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  y export: 21 February 2018, 21:56 Paris 
  time (GMT+00:00)\nFreepreview export: ne
  ver\nFTI loaded: no.
-DTSTAMP:20180227T220831Z
+DTSTAMP:20180228T221551Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -648,7 +651,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
   export: 21 February 2018, 21:56 Paris t
  ime (GMT+00:00)\nFreepreview export: nev
  er\nFTI loaded: no.
-DTSTAMP:20180227T220831Z
+DTSTAMP:20180228T221551Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -686,7 +689,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  ry export: 21 February 2018, 21:56 Paris
   time (GMT+00:00)\nFreepreview export: n
  ever\nFTI loaded: no.
-DTSTAMP:20180227T220831Z
+DTSTAMP:20180228T221551Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -724,7 +727,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  y export: 21 February 2018, 21:56 Paris 
  time (GMT+00:00)\nFreepreview export: ne
  ver\nFTI loaded: no.
-DTSTAMP:20180227T220831Z
+DTSTAMP:20180228T221551Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -762,7 +765,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  ibrary export: 21 February 2018, 21:56 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20180227T220831Z
+DTSTAMP:20180228T221551Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -800,7 +803,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  ibrary export: 21 February 2018, 21:56 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20180227T220831Z
+DTSTAMP:20180228T221551Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -834,7 +837,7 @@ DESCRIPTION:Getting Skills Right: Spain (en)  by Dir
  is time (GMT+00:00)\nFreepreview export:
   21 February 2018, 22:48 Paris time (GMT
  +00:00)\nFTI loaded: ✓.
-DTSTAMP:20180227T220831Z
+DTSTAMP:20180228T221551Z
 DTSTART:20180426T073000Z
 DTEND:20180426T074500Z
 TRANSP:TRANSPARENT

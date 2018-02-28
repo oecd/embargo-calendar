@@ -1,69 +1,6 @@
-# OECD publication embargoes (20 embargoes)
+# OECD publication embargoes (18 embargoes)
 
-*Data generated on Tuesday 27 February 2018 at 22:08*
-
-------
-
-## [OECD Economic Surveys: Finland 2018 (en)](https://doi.org/10.1787/eco_surveys-fin-2018-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 28 February 2018 at 9:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 27 February 2018 at 0:00
-- [x] Exported to Keepeek Saturday 24 February 2018 at 0:29
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Medium: *PDF*
-
-------
-
-## [OECD Economic Surveys: Brazil 2018 (en)](https://doi.org/10.1787/eco_surveys-bra-2018-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 28 February 2018 at 14:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 February 2018 at 23:12
-- [x] Exported to Keepeek Saturday 24 February 2018 at 0:29
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Medium: *PDF*
-
-------
-
-## [Relatórios Econômicos OCDE: Brasil 2018 (pt)](https://doi.org/10.1787/9789264290716-pt)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 28 February 2018 at 14:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 February 2018 at 23:12
-- [x] Exported to Keepeek Saturday 24 February 2018 at 0:29
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *Portuguese*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Medium: *PDF*
+*Data generated on Wednesday 28 February 2018 at 22:15*
 
 ------
 
@@ -76,7 +13,7 @@ Thursday 1 March 2018 at 9:01 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 27 February 2018 at 0:00
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 27 February 2018 at 21:45
 
 ### Additional Information
 
@@ -84,6 +21,27 @@ Thursday 1 March 2018 at 9:01 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [OECD Reviews of Labour Market and Social Policies: Lithuania (en)](https://doi.org/10.1787/9789264189935-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 1 March 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 27 February 2018 at 0:00
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------
@@ -116,7 +74,7 @@ Embargo date | Launch date
 Friday 9 March 2018 at 9:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 22 February 2018 at 22:37
 - [ ] Exported to Keepeek
 
@@ -124,7 +82,7 @@ Friday 9 March 2018 at 9:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 

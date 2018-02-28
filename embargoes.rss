@@ -8,26 +8,11 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Tue, 27 Feb 2018 22:08:33 GMT</pubDate>
+      <pubDate>Wed, 28 Feb 2018 22:15:52 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
                  type="application/rss+xml"/>
-      <item>
-         <guid isPermaLink="false">10.1787/eco_surveys-chl-2018-en</guid>
-         <pubDate>Mon, 26 Feb 2018 13:30:00 GMT</pubDate>
-         <title>OECD Economic Surveys: Chile 2018 (en)</title>
-         <link>https://doi.org/10.1787/eco_surveys-chl-2018-en</link>
-         <description>OECD Economic Surveys: Chile 2018 (en) by Economics Department has an embargo on Monday, 26 February 2018, 14:30 Paris time (GMT+01:00).</description>
-         <oe:embargoTime>2018-02-26T13:30:00Z</oe:embargoTime>
-         <oe:launchTime/>
-         <oe:directorate>Economics Department</oe:directorate>
-         <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Thursday, 22 February 2018, 21:37 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Thursday, 22 February 2018, 22:35 Paris time (GMT+00:00)</oe:freePreviewExport>
-         <oe:catalogueType>Economic survey</oe:catalogueType>
-         <oe:availableMedia>PDF, ePub, Paperback</oe:availableMedia>
-      </item>
       <item>
          <guid isPermaLink="false">10.1787/ceaaa9b0-en</guid>
          <pubDate>Tue, 27 Feb 2018 10:00:00 GMT</pubDate>
@@ -101,7 +86,7 @@
          <oe:iLibraryExport>Friday, 23 February 2018, 22:12 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Friday, 23 February 2018, 23:29 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Economic survey</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264290716-pt</guid>
@@ -116,7 +101,7 @@
          <oe:iLibraryExport>Friday, 23 February 2018, 22:12 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Friday, 23 February 2018, 23:29 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Economic survey</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264291652-en</guid>
@@ -129,8 +114,23 @@
          <oe:directorate>Directorate for Public Governance</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Monday, 26 February 2018, 23:00 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:freePreviewExport>Tuesday, 27 February 2018, 20:45 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264189935-en</guid>
+         <pubDate>Thu, 01 Mar 2018 10:00:00 GMT</pubDate>
+         <title>OECD Reviews of Labour Market and Social Policies: Lithuania (en)</title>
+         <link>https://doi.org/10.1787/9789264189935-en</link>
+         <description>OECD Reviews of Labour Market and Social Policies: Lithuania (en) by Directorate for Employment, Labour and Social Affairs has an embargo on Thursday, 1 March 2018, 11:00 Paris time (GMT+01:00).</description>
+         <oe:embargoTime>2018-03-01T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Monday, 26 February 2018, 23:00 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
@@ -157,7 +157,7 @@
          <oe:embargoTime>2018-03-09T08:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Directorate for Public Governance</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Thursday, 22 February 2018, 21:37 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
