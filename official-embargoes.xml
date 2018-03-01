@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2018-02-28T22:15:46.701+01:00" count="124">
+<report name="official-embargoes" generated="2018-03-01T23:54:43.456+01:00" count="122">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -588,7 +588,7 @@
     <cell name="embargo date">2018-03-09T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2018-02-28T20:48:56.7Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -604,7 +604,7 @@
     <cell name="embargo date">2018-03-09T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2018-02-28T20:48:56.7Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -620,7 +620,7 @@
     <cell name="embargo date">2018-03-09T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2018-02-28T20:48:56.7Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -636,7 +636,7 @@
     <cell name="embargo date">2018-03-09T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2018-02-28T20:48:56.7Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -652,7 +652,7 @@
     <cell name="embargo date">2018-03-09T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2018-02-28T20:48:56.7Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -668,7 +668,7 @@
     <cell name="embargo date">2018-03-09T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2018-02-28T20:48:56.7Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -684,7 +684,7 @@
     <cell name="embargo date">2018-03-09T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2018-02-28T20:48:56.7Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -700,11 +700,43 @@
     <cell name="embargo date">2018-03-09T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2018-02-28T20:48:56.7Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="44">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264291690-en</cell>
+    <cell name="title">Regulatory Policy in Slovenia (en)</cell>
+    <cell name="subtitle">Oversight Matters (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-03-09</cell>
+    <cell name="embargo date">2018-03-09T08:00:00Z</cell>
+    <cell name="launch date/time">2018-03-09T08:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-02-22T21:37:03.07Z</cell>
+    <cell name="freepreview last export date">2018-02-28T20:48:56.7Z</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="45">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264291690-en</cell>
+    <cell name="title">Regulatory Policy in Slovenia (en)</cell>
+    <cell name="subtitle">Oversight Matters (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-03-09</cell>
+    <cell name="embargo date">2018-03-09T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-02-22T21:37:03.07Z</cell>
+    <cell name="freepreview last export date">2018-02-28T20:48:56.7Z</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="46">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264291690-en</cell>
     <cell name="title">Regulatory Policy in Slovenia (en)</cell>
@@ -720,23 +752,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="45">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264291690-en</cell>
-    <cell name="title">Regulatory Policy in Slovenia (en)</cell>
-    <cell name="subtitle">Oversight Matters (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-03-09</cell>
-    <cell name="embargo date">2018-03-09T08:00:00Z</cell>
-    <cell name="launch date/time">2018-03-09T08:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-02-22T21:37:03.07Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="46">
+  <row index="47">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264291690-8-en</cell>
     <cell name="title">Stakeholder engagement and access to regulations (en)</cell>
@@ -748,11 +764,11 @@
     <cell name="embargo date">2018-03-09T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2018-02-28T20:48:56.7Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="47">
+  <row index="48">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264291690-6-en</cell>
     <cell name="title">The context for Better Regulation in Slovenia (en)</cell>
@@ -764,11 +780,11 @@
     <cell name="embargo date">2018-03-09T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2018-02-28T20:48:56.7Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="48">
+  <row index="49">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264291690-9-en</cell>
     <cell name="title">The development of new regulations in Slovenia (en)</cell>
@@ -780,11 +796,11 @@
     <cell name="embargo date">2018-03-09T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2018-02-28T20:48:56.7Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="49">
+  <row index="50">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264291690-10-en</cell>
     <cell name="title">The management and rationalisation of existing regulations in Slovenia (en)</cell>
@@ -796,11 +812,11 @@
     <cell name="embargo date">2018-03-09T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2018-02-28T20:48:56.7Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="50">
+  <row index="51">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-irl-2018-en</cell>
     <cell name="title">OECD Economic Surveys: Ireland 2018 (en)</cell>
@@ -816,7 +832,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="51">
+  <row index="52">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-irl-2018-en</cell>
     <cell name="title">OECD Economic Surveys: Ireland 2018 (en)</cell>
@@ -831,22 +847,6 @@
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
-  </row>
-  <row index="52">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/9789264189935-en</cell>
-    <cell name="title">OECD Reviews of Labour Market and Social Policies: Lithuania (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-03-01</cell>
-    <cell name="embargo date">2018-03-01T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
   </row>
   <row index="53">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
@@ -860,11 +860,27 @@
     <cell name="embargo date">2018-03-01T10:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-02-26T23:00:20.68Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2018-02-28T20:48:56.7Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="54">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/9789264189935-en</cell>
+    <cell name="title">OECD Reviews of Labour Market and Social Policies: Lithuania (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-03-01</cell>
+    <cell name="embargo date">2018-03-01T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="55">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264291652-en</cell>
     <cell name="title">Governance Frameworks to Counter Illicit Trade (en)</cell>
@@ -876,11 +892,11 @@
     <cell name="embargo date">2018-03-01T08:01:00Z</cell>
     <cell name="launch date/time">2018-03-01T08:01:00Z</cell>
     <cell name="ilibrary last export date">2018-02-26T23:00:20.68Z</cell>
-    <cell name="freepreview last export date">2018-02-27T20:45:58.39Z</cell>
+    <cell name="freepreview last export date">2018-02-28T20:48:56.7Z</cell>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="55">
+  <row index="56">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264291652-en</cell>
     <cell name="title">Governance Frameworks to Counter Illicit Trade (en)</cell>
@@ -896,7 +912,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="56">
+  <row index="57">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-bra-2018-en</cell>
     <cell name="title">OECD Economic Surveys: Brazil 2018 (en)</cell>
@@ -912,7 +928,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="57">
+  <row index="58">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-bra-2018-en</cell>
     <cell name="title">OECD Economic Surveys: Brazil 2018 (en)</cell>
@@ -925,22 +941,6 @@
     <cell name="launch date/time">2018-02-28T13:00:00Z</cell>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="58">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/9789264290716-pt</cell>
-    <cell name="title">Relatórios Econômicos OCDE: Brasil 2018 (pt)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Portuguese</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-28</cell>
-    <cell name="embargo date">2018-02-28T13:00:00Z</cell>
-    <cell name="launch date/time">2018-02-28T13:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-02-23T22:12:25.07Z</cell>
-    <cell name="freepreview last export date">2018-02-23T23:29:47.8Z</cell>
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -950,6 +950,22 @@
     <cell name="title">Relatórios Econômicos OCDE: Brasil 2018 (pt)</cell>
     <cell name="subtitle"/>
     <cell name="language">Portuguese</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-02-28</cell>
+    <cell name="embargo date">2018-02-28T13:00:00Z</cell>
+    <cell name="launch date/time">2018-02-28T13:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-02-23T22:12:25.07Z</cell>
+    <cell name="freepreview last export date">2018-02-23T23:29:47.8Z</cell>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="60">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/9789264290716-pt</cell>
+    <cell name="title">Relatórios Econômicos OCDE: Brasil 2018 (pt)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Portuguese</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2018-02-28</cell>
@@ -960,7 +976,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="60">
+  <row index="61">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-en</cell>
     <cell name="title">OECD Economic Surveys: Finland 2018 (en)</cell>
@@ -976,7 +992,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="61">
+  <row index="62">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph50-en</cell>
     <cell name="title">A basic income scenario would alter the income distribution (en)</cell>
@@ -992,7 +1008,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="62">
+  <row index="63">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph29-en</cell>
     <cell name="title">A basic income would alter the income distribution (en)</cell>
@@ -1008,7 +1024,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="63">
+  <row index="64">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph49-en</cell>
     <cell name="title">A basic income would reduce incomes in the bottom of the distribution (en)</cell>
@@ -1024,7 +1040,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="64">
+  <row index="65">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph18-en</cell>
     <cell name="title">Ageing is increasingly weighing on public finances (en)</cell>
@@ -1040,7 +1056,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="65">
+  <row index="66">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-3-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -1056,7 +1072,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="66">
+  <row index="67">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-1-en</cell>
     <cell name="title">Basic statistics of Finland (en)</cell>
@@ -1072,7 +1088,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="67">
+  <row index="68">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-6-en</cell>
     <cell name="title">Benefit reform for employment and equal opportunity (en)</cell>
@@ -1088,7 +1104,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="68">
+  <row index="69">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph26-en</cell>
     <cell name="title">Compared to other Nordics, employment is low across gender and age (en)</cell>
@@ -1104,7 +1120,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="69">
+  <row index="70">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph23-en</cell>
     <cell name="title">Corporate tax rate and revenue are low (en)</cell>
@@ -1120,7 +1136,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="70">
+  <row index="71">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph24-en</cell>
     <cell name="title">Corporate tax revenue has so far held up relatively well despite sharp tax rate cuts (en)</cell>
@@ -1136,7 +1152,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="71">
+  <row index="72">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph42-en</cell>
     <cell name="title">Diesel is lightly taxed compared to gasoline (en)</cell>
@@ -1152,7 +1168,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="72">
+  <row index="73">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph43-en</cell>
     <cell name="title">Employment is low compared to other Nordics across gender and age (en)</cell>
@@ -1168,7 +1184,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="73">
+  <row index="74">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph52-en</cell>
     <cell name="title">Employment rate by skills and age (en)</cell>
@@ -1184,7 +1200,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="74">
+  <row index="75">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph13-en</cell>
     <cell name="title">Environmental performance is strong (en)</cell>
@@ -1200,7 +1216,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="75">
+  <row index="76">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph41-en</cell>
     <cell name="title">Environmentally related tax revenue is high compared to other OECD countries (en)</cell>
@@ -1216,7 +1232,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="76">
+  <row index="77">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-2-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1232,7 +1248,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="77">
+  <row index="78">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph46-en</cell>
     <cell name="title">Existing cash support is targeted towards the poor in Finland (en)</cell>
@@ -1248,7 +1264,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="78">
+  <row index="79">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph31-en</cell>
     <cell name="title">Exit rates spike immediately before unemployment benefit expiry (en)</cell>
@@ -1264,7 +1280,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="79">
+  <row index="80">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph10-en</cell>
     <cell name="title">Finns enjoy a high quality of life (en)</cell>
@@ -1280,7 +1296,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="80">
+  <row index="81">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph5-en</cell>
     <cell name="title">GDP per capita and employment rate are below the other Nordics (en)</cell>
@@ -1296,7 +1312,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="81">
+  <row index="82">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph6-en</cell>
     <cell name="title">GDP per capita gaps reflect both productivity and labour utilisation differences (en)</cell>
@@ -1312,7 +1328,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="82">
+  <row index="83">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph12-en</cell>
     <cell name="title">Gender inequalities persist (en)</cell>
@@ -1328,7 +1344,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="83">
+  <row index="84">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph37-en</cell>
     <cell name="title">Government gross debt remains relatively low and assets are large (en)</cell>
@@ -1344,7 +1360,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="84">
+  <row index="85">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph36-en</cell>
     <cell name="title">Government revenue has failed to keep up with spending over the past decade (en)</cell>
@@ -1360,7 +1376,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="85">
+  <row index="86">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph17-en</cell>
     <cell name="title">Health reform and higher employment would help stabilise debt (en)</cell>
@@ -1376,7 +1392,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="86">
+  <row index="87">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph44-en</cell>
     <cell name="title">High unemployment traps and inactivity traps in Finland (en)</cell>
@@ -1392,7 +1408,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="87">
+  <row index="88">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph15-en</cell>
     <cell name="title">Household debt is moderate and housing prices are broadly stable (en)</cell>
@@ -1408,7 +1424,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="88">
+  <row index="89">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph53-en</cell>
     <cell name="title">Improving incentives for second earners (en)</cell>
@@ -1424,7 +1440,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="89">
+  <row index="90">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph11-en</cell>
     <cell name="title">Income inequality is low and stable (en)</cell>
@@ -1440,7 +1456,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="90">
+  <row index="91">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph2-en</cell>
     <cell name="title">Income redistribution lowers inequality (en)</cell>
@@ -1456,7 +1472,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="91">
+  <row index="92">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph8-en</cell>
     <cell name="title">Main export sectors and destinations (en)</cell>
@@ -1472,7 +1488,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="92">
+  <row index="93">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph51-en</cell>
     <cell name="title">Net household income in the different scenarios (en)</cell>
@@ -1488,7 +1504,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="93">
+  <row index="94">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph47-en</cell>
     <cell name="title">Net income and work incentives in the basic income scenario (en)</cell>
@@ -1504,7 +1520,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="94">
+  <row index="95">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph45-en</cell>
     <cell name="title">Net income and work incentives in the current benefit system (en)</cell>
@@ -1520,7 +1536,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="95">
+  <row index="96">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph30-en</cell>
     <cell name="title">Net income and work incentives in the current system (en)</cell>
@@ -1536,7 +1552,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="96">
+  <row index="97">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph48-en</cell>
     <cell name="title">Net income and work incentives in the universal credit scenario (en)</cell>
@@ -1552,7 +1568,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="97">
+  <row index="98">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-en</cell>
     <cell name="title">OECD Economic Surveys: Finland 2018 (en)</cell>
@@ -1568,7 +1584,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="98">
+  <row index="99">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-en</cell>
     <cell name="title">OECD Economic Surveys: Finland 2018 (en)</cell>
@@ -1584,7 +1600,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="99">
+  <row index="100">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph1-en</cell>
     <cell name="title">Output and exports are growing strongly (en)</cell>
@@ -1600,7 +1616,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="100">
+  <row index="101">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph9-en</cell>
     <cell name="title">Productivity needs a boost (en)</cell>
@@ -1616,7 +1632,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="101">
+  <row index="102">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-4-en</cell>
     <cell name="title">Progress in structural reform (en)</cell>
@@ -1632,7 +1648,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="102">
+  <row index="103">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph4-en</cell>
     <cell name="title">Real GDP growth is gathering momentum (en)</cell>
@@ -1648,7 +1664,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="103">
+  <row index="104">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph38-en</cell>
     <cell name="title">Redistribution lowers income inequality (en)</cell>
@@ -1664,7 +1680,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="104">
+  <row index="105">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph32-en</cell>
     <cell name="title">Reforms to child-related fees and benefits would improve work incentives for second earners (en)</cell>
@@ -1680,7 +1696,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="105">
+  <row index="106">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph34-en</cell>
     <cell name="title">Rising unemployment and budget cuts have put the employment service under strain (en)</cell>
@@ -1696,7 +1712,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="106">
+  <row index="107">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph33-en</cell>
     <cell name="title">Shortening the unemployment tunnel increases employment substantially (en)</cell>
@@ -1712,7 +1728,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="107">
+  <row index="108">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph20-en</cell>
     <cell name="title">Social spending is not as high in international comparison when private social spending and taxation of benefit income are taken into account (en)</cell>
@@ -1728,7 +1744,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="108">
+  <row index="109">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-5-en</cell>
     <cell name="title">Tax reform to support growth and employment (en)</cell>
@@ -1744,7 +1760,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="109">
+  <row index="110">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph21-en</cell>
     <cell name="title">Tax revenue from recurrent taxes on immovable property is still relatively low (en)</cell>
@@ -1760,7 +1776,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="110">
+  <row index="111">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph14-en</cell>
     <cell name="title">The banking system shows some vulnerabilities (2017 Q3 or latest) (en)</cell>
@@ -1776,7 +1792,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="111">
+  <row index="112">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph39-en</cell>
     <cell name="title">The combined top marginal rate of personal income tax and employee social security contributions is high (en)</cell>
@@ -1792,7 +1808,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="112">
+  <row index="113">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph40-en</cell>
     <cell name="title">The earnings premium from tertiary education is higher than in the other Nordics (en)</cell>
@@ -1808,7 +1824,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="113">
+  <row index="114">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph35-en</cell>
     <cell name="title">The government deficit is modest but debt has risen markedly (en)</cell>
@@ -1824,7 +1840,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="114">
+  <row index="115">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph16-en</cell>
     <cell name="title">The government deficit persists but debt is contained (en)</cell>
@@ -1840,7 +1856,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="115">
+  <row index="116">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph25-en</cell>
     <cell name="title">The labour market has been hard hit by crises (en)</cell>
@@ -1856,7 +1872,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="116">
+  <row index="117">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph19-en</cell>
     <cell name="title">The tax burden is among the highest in the OECD (en)</cell>
@@ -1872,7 +1888,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="117">
+  <row index="118">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph27-en</cell>
     <cell name="title">The tax wedge on labour remains high (en)</cell>
@@ -1888,7 +1904,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="118">
+  <row index="119">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph28-en</cell>
     <cell name="title">The world of work is changing (en)</cell>
@@ -1904,7 +1920,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="119">
+  <row index="120">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph7-en</cell>
     <cell name="title">Unemployment remains high (en)</cell>
@@ -1920,7 +1936,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="120">
+  <row index="121">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph22-en</cell>
     <cell name="title">VAT rates are high but efficiency is slightly below average (en)</cell>
@@ -1936,7 +1952,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="121">
+  <row index="122">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-fin-2018-graph3-en</cell>
     <cell name="title">Work does not always pay (en)</cell>
@@ -1950,54 +1966,6 @@
     <cell name="ilibrary last export date">2018-02-23T22:12:25.07Z</cell>
     <cell name="freepreview last export date">2018-02-23T23:29:47.8Z</cell>
     <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="122">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/ceaaa9b0-en</cell>
-    <cell name="title">Decentralisation in a Globalised World (en)</cell>
-    <cell name="subtitle">Consequences and Opportunities (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-27</cell>
-    <cell name="embargo date">2018-02-27T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-26T23:20:42Z</cell>
-    <cell name="freepreview last export date">2018-02-27T00:08:02.933Z</cell>
-    <cell name="catalogue type">Working paper</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="123">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/ffff92c6-en</cell>
-    <cell name="title">Improving the Performance of Sub-national Governments through Benchmarking and Performance Reporting (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-27</cell>
-    <cell name="embargo date">2018-02-27T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-26T23:20:42Z</cell>
-    <cell name="freepreview last export date">2018-02-27T00:08:02.933Z</cell>
-    <cell name="catalogue type">Working paper</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="124">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/f9874122-en</cell>
-    <cell name="title">Insolvency Frameworks for Sub-national Governments (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-02-27</cell>
-    <cell name="embargo date">2018-02-27T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-02-26T23:20:42Z</cell>
-    <cell name="freepreview last export date">2018-02-27T00:08:02.933Z</cell>
-    <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
 </report>
