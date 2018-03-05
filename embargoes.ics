@@ -4,74 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264291652-en
-SUMMARY:Governance Frameworks to Counter Illicit
-  Trade (en) on 1 March 2018, 9:01 Paris 
- time (GMT+01:00)
-DESCRIPTION:Governance Frameworks to Counter Illicit
-  Trade (en)  by Directorate for Public G
- overnance has an embargo date/time of 1 
- March 2018, 9:01 Paris time (GMT+01:00).
- \n\nDirectorate: Directorate for Public 
- Governance\nLanguage: English\nDOI: http
- s://doi.org/10.1787/9789264291652-en\nPu
- blication type: Stand-alone monograph\nR
- eleased as: PDF, Paperback.\n\niLibrary 
- export: 1 March 2018, 21:40 Paris time (
- GMT+00:00)\nFreepreview export: 28 Febru
- ary 2018, 20:48 Paris time (GMT+00:00)\n
- FTI loaded: ✓.
-DTSTAMP:20180303T005537Z
-DTSTART:20180301T080100Z
-DTEND:20180301T081600Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Governance Frameworks to Count
- er Illicit Trade (en) on 1 March 2018, 9
- :01 Paris time (GMT+01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264189935-en
-SUMMARY:OECD Reviews of Labour Market and Social
-  Policies: Lithuania (en) on 1 March 201
- 8, 11:00 Paris time (GMT+01:00)
-DESCRIPTION:OECD Reviews of Labour Market and Social
-  Policies: Lithuania (en)  by Directorat
- e for Employment, Labour and Social Affa
- irs has an embargo date/time of 1 March 
- 2018, 11:00 Paris time (GMT+01:00).\n\nD
- irectorate: Directorate for Employment, 
- Labour and Social Affairs\nLanguage: Eng
- lish\nDOI: https://doi.org/10.1787/97892
- 64189935-en\nPublication type: Book\nRel
- eased as: Paperback, PDF.\n\niLibrary ex
- port: 1 March 2018, 21:40 Paris time (GM
- T+00:00)\nFreepreview export: 28 Februar
- y 2018, 20:48 Paris time (GMT+00:00)\nFT
- I loaded: ✓.
-DTSTAMP:20180303T005537Z
-DTSTART:20180301T100000Z
-DTEND:20180301T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Reviews of Labour Market 
- and Social Policies: Lithuania (en) on 1
-  March 2018, 11:00 Paris time (GMT+01:00
- )
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/oil_mar-2018-en
 SUMMARY:Oil 2018 (en) on 5 March 2018, 9:00 Pari
  s time (GMT+01:00)
@@ -83,9 +15,10 @@ DESCRIPTION:Oil 2018 (en)  - Analysis and Forecasts
  Language: English\nDOI: https://doi.org/
  10.1787/oil_mar-2018-en\nPublication typ
  e: Book\nReleased as: PDF.\n\niLibrary e
- xport: never\nFreepreview export: never\
- nFTI loaded: ✓.
-DTSTAMP:20180303T005537Z
+ xport: 2 March 2018, 21:43 Paris time (G
+ MT+00:00)\nFreepreview export: never\nFT
+ I loaded: ✓.
+DTSTAMP:20180306T002324Z
 DTSTART:20180305T080000Z
 DTEND:20180305T081500Z
 TRANSP:TRANSPARENT
@@ -111,11 +44,11 @@ DESCRIPTION:OECD Economic Surveys: Ireland 2018 (en)
  ics Department\nLanguage: English\nDOI: 
  https://doi.org/10.1787/eco_surveys-irl-
  2018-en\nPublication type: Economic surv
- ey\nReleased as: PDF, Paperback.\n\niLib
- rary export: 23 February 2018, 22:12 Par
- is time (GMT+00:00)\nFreepreview export:
-  never\nFTI loaded: no.
-DTSTAMP:20180303T005537Z
+ ey\nReleased as: PDF, Paperback, ePub.\n
+ \niLibrary export: 23 February 2018, 22:
+ 12 Paris time (GMT+00:00)\nFreepreview e
+ xport: never\nFTI loaded: no.
+DTSTAMP:20180306T002324Z
 DTSTART:20180308T090000Z
 DTEND:20180308T091500Z
 TRANSP:TRANSPARENT
@@ -142,12 +75,12 @@ DESCRIPTION:Regulatory Policy in Slovenia (en)  - Ov
   Public Governance\nLanguage: English\nD
  OI: https://doi.org/10.1787/978926429169
  0-en\nPublication type: Book\nReleased a
- s: PDF, ePub, Paperback.\n\niLibrary exp
- ort: 1 March 2018, 21:40 Paris time (GMT
+ s: ePub, Paperback, PDF.\n\niLibrary exp
+ ort: 2 March 2018, 21:43 Paris time (GMT
  +00:00)\nFreepreview export: 28 February
   2018, 20:48 Paris time (GMT+00:00)\nFTI
   loaded: ✓.
-DTSTAMP:20180303T005537Z
+DTSTAMP:20180306T002324Z
 DTSTART:20180309T080000Z
 DTEND:20180309T081500Z
 TRANSP:TRANSPARENT
@@ -174,11 +107,11 @@ DESCRIPTION:OECD Economic Surveys: Israel 2018 (en)
  ics Department\nLanguage: English\nDOI: 
  https://doi.org/10.1787/eco_surveys-isr-
  2018-en\nPublication type: Economic surv
- ey\nReleased as: PDF, Paperback.\n\niLib
- rary export: 26 February 2018, 23:00 Par
- is time (GMT+00:00)\nFreepreview export:
-  never\nFTI loaded: no.
-DTSTAMP:20180303T005537Z
+ ey\nReleased as: Paperback, PDF.\n\niLib
+ rary export: 2 March 2018, 21:43 Paris t
+ ime (GMT+00:00)\nFreepreview export: nev
+ er\nFTI loaded: no.
+DTSTAMP:20180306T002324Z
 DTSTART:20180311T100000Z
 DTEND:20180311T101500Z
 TRANSP:TRANSPARENT
@@ -207,11 +140,11 @@ DESCRIPTION:Towards Better Social and Employment Sec
   and Social Affairs\nLanguage: English\n
  DOI: https://doi.org/10.1787/97892642882
  56-en\nPublication type: Book\nReleased 
- as: PDF, Paperback.\n\niLibrary export: 
+ as: Paperback, PDF.\n\niLibrary export: 
  19 February 2018, 22:16 Paris time (GMT+
  00:00)\nFreepreview export: never\nFTI l
  oaded: no.
-DTSTAMP:20180303T005537Z
+DTSTAMP:20180306T002324Z
 DTSTART:20180313T230100Z
 DTEND:20180313T231600Z
 TRANSP:TRANSPARENT
@@ -249,7 +182,7 @@ DESCRIPTION:Forum mondial sur la transparence et l'é
   February 2018, 21:56 Paris time (GMT+00
  :00)\nFreepreview export: never\nFTI loa
  ded: no.
-DTSTAMP:20180303T005537Z
+DTSTAMP:20180306T002324Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -289,7 +222,7 @@ DESCRIPTION:Forum mondial sur la transparence et l'é
  ebruary 2018, 21:56 Paris time (GMT+00:0
  0)\nFreepreview export: never\nFTI loade
  d: no.
-DTSTAMP:20180303T005537Z
+DTSTAMP:20180306T002324Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -325,11 +258,11 @@ DESCRIPTION:Forum mondial sur la transparence et l'é
  d Administration\nLanguage: French\nDOI:
   https://doi.org/10.1787/9789264291201-f
  r\nPublication type: Book\nReleased as: 
- PDF, Paperback.\n\niLibrary export: 22 F
+ Paperback, PDF.\n\niLibrary export: 22 F
  ebruary 2018, 21:37 Paris time (GMT+00:0
  0)\nFreepreview export: never\nFTI loade
  d: no.
-DTSTAMP:20180303T005537Z
+DTSTAMP:20180306T002324Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -363,11 +296,11 @@ DESCRIPTION:Global Forum on Transparency and Exchang
   Tax Policy and Administration\nLanguage
  : English\nDOI: https://doi.org/10.1787/
  9789264290839-en\nPublication type: Book
- \nReleased as: Paperback, PDF.\n\niLibra
+ \nReleased as: PDF, Paperback.\n\niLibra
  ry export: 21 February 2018, 21:56 Paris
   time (GMT+00:00)\nFreepreview export: n
  ever\nFTI loaded: no.
-DTSTAMP:20180303T005537Z
+DTSTAMP:20180306T002324Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -405,7 +338,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  ry export: 21 February 2018, 21:56 Paris
   time (GMT+00:00)\nFreepreview export: n
  ever\nFTI loaded: no.
-DTSTAMP:20180303T005537Z
+DTSTAMP:20180306T002324Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -443,7 +376,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  y export: 21 February 2018, 21:56 Paris 
  time (GMT+00:00)\nFreepreview export: ne
  ver\nFTI loaded: no.
-DTSTAMP:20180303T005537Z
+DTSTAMP:20180306T002324Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -481,7 +414,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
   export: 21 February 2018, 21:56 Paris t
  ime (GMT+00:00)\nFreepreview export: nev
  er\nFTI loaded: no.
-DTSTAMP:20180303T005537Z
+DTSTAMP:20180306T002324Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -519,7 +452,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  ry export: 21 February 2018, 21:56 Paris
   time (GMT+00:00)\nFreepreview export: n
  ever\nFTI loaded: no.
-DTSTAMP:20180303T005537Z
+DTSTAMP:20180306T002324Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -557,7 +490,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  y export: 21 February 2018, 21:56 Paris 
  time (GMT+00:00)\nFreepreview export: ne
  ver\nFTI loaded: no.
-DTSTAMP:20180303T005537Z
+DTSTAMP:20180306T002324Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -591,11 +524,11 @@ DESCRIPTION:Global Forum on Transparency and Exchang
   for Tax Policy and Administration\nLang
  uage: English\nDOI: https://doi.org/10.1
  787/9789264291171-en\nPublication type: 
- Book\nReleased as: PDF, Paperback.\n\niL
+ Book\nReleased as: Paperback, PDF.\n\niL
  ibrary export: 21 February 2018, 21:56 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20180303T005537Z
+DTSTAMP:20180306T002324Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -629,11 +562,11 @@ DESCRIPTION:Global Forum on Transparency and Exchang
   for Tax Policy and Administration\nLang
  uage: English\nDOI: https://doi.org/10.1
  787/9789264291805-en\nPublication type: 
- Book\nReleased as: Paperback, PDF.\n\niL
+ Book\nReleased as: PDF, Paperback.\n\niL
  ibrary export: 21 February 2018, 21:56 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20180303T005537Z
+DTSTAMP:20180306T002324Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -667,7 +600,7 @@ DESCRIPTION:Getting Skills Right: Spain (en)  by Dir
  is time (GMT+00:00)\nFreepreview export:
   21 February 2018, 22:48 Paris time (GMT
  +00:00)\nFTI loaded: ✓.
-DTSTAMP:20180303T005537Z
+DTSTAMP:20180306T002324Z
 DTSTART:20180426T073000Z
 DTEND:20180426T074500Z
 TRANSP:TRANSPARENT

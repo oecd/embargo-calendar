@@ -1,27 +1,6 @@
-# OECD publication embargoes (17 embargoes)
+# OECD publication embargoes (16 embargoes)
 
-*Data generated on Saturday 3 March 2018 at 0:55*
-
-------
-
-## [Oil 2018 (en) - Analysis and Forecasts to 2023 (en)](https://doi.org/10.1787/oil_mar-2018-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 5 March 2018 at 9:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *International Energy Agency*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Tuesday 6 March 2018 at 0:23*
 
 ------
 
@@ -54,7 +33,7 @@ Friday 9 March 2018 at 9:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 1 March 2018 at 22:40
+- [x] Exported to iLibrary Friday 2 March 2018 at 22:43
 - [x] Exported to Keepeek Wednesday 28 February 2018 at 21:48
 
 ### Additional Information
@@ -75,7 +54,7 @@ Sunday 11 March 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 27 February 2018 at 0:00
+- [x] Exported to iLibrary Friday 2 March 2018 at 22:43
 - [ ] Exported to Keepeek
 
 ### Additional Information
