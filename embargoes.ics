@@ -18,7 +18,7 @@ DESCRIPTION:Oil 2018 (en)  - Analysis and Forecasts
  xport: 2 March 2018, 21:43 Paris time (G
  MT+00:00)\nFreepreview export: never\nFT
  I loaded: ✓.
-DTSTAMP:20180306T002324Z
+DTSTAMP:20180307T005331Z
 DTSTART:20180305T080000Z
 DTEND:20180305T081500Z
 TRANSP:TRANSPARENT
@@ -29,6 +29,109 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Oil 2018 (en) on 5 March 2018,
   9:00 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/232211ca-en
+SUMMARY:How does access to early childhood educa
+ tion services affect the participation o
+ f women in the labour market? (en) on 8 
+ March 2018, 6:00 Paris time (GMT+01:00)
+DESCRIPTION:How does access to early childhood educa
+ tion services affect the participation o
+ f women in the labour market? (en)  by D
+ irectorate for Education and Skills has 
+ an embargo date/time of 8 March 2018, 6:
+ 00 Paris time (GMT+01:00).\n\nDirectorat
+ e: Directorate for Education and Skills\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/232211ca-en\nPublication type: 
+ Working paper\nReleased as: PDF.\n\niLib
+ rary export: 6 March 2018, 22:07 Paris t
+ ime (GMT+00:00)\nFreepreview export: 6 M
+ arch 2018, 23:17 Paris time (GMT+00:00)\
+ nFTI loaded: ✓.
+DTSTAMP:20180307T005331Z
+DTSTART:20180308T050000Z
+DTEND:20180308T051500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How does access to early child
+ hood education services affect the parti
+ cipation of women in the labour market? 
+ (en) on 8 March 2018, 6:00 Paris time (G
+ MT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/fe5ea0ca-en
+SUMMARY:Gender Inequality in West African Social
+  Institutions (en) on 8 March 2018, 8:00
+  Paris time (GMT+01:00)
+DESCRIPTION:Gender Inequality in West African Social
+  Institutions (en)  by Sahel and West Af
+ rica Club has an embargo date/time of 8 
+ March 2018, 8:00 Paris time (GMT+01:00).
+ \n\nDirectorate: Sahel and West Africa C
+ lub\nLanguage: English\nDOI: https://doi
+ .org/10.1787/fe5ea0ca-en\nPublication ty
+ pe: Working paper\nReleased as: PDF.\n\n
+ iLibrary export: 6 March 2018, 22:07 Par
+ is time (GMT+00:00)\nFreepreview export:
+  6 March 2018, 23:17 Paris time (GMT+00:
+ 00)\nFTI loaded: ✓.
+DTSTAMP:20180307T005331Z
+DTSTART:20180308T070000Z
+DTEND:20180308T071500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Gender Inequality in West Afri
+ can Social Institutions (en) on 8 March 
+ 2018, 8:00 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/7357808d-fr
+SUMMARY:Les inégalités de genre dans les institu
+ tions sociales ouest-africaines (fr) on 
+ 8 March 2018, 8:00 Paris time (GMT+01:00
+ )
+DESCRIPTION:Les inégalités de genre dans les institu
+ tions sociales ouest-africaines (fr)  by
+  Sahel and West Africa Club has an embar
+ go date/time of 8 March 2018, 8:00 Paris
+  time (GMT+01:00).\n\nDirectorate: Sahel
+  and West Africa Club\nLanguage: French\
+ nDOI: https://doi.org/10.1787/7357808d-f
+ r\nPublication type: Working paper\nRele
+ ased as: PDF.\n\niLibrary export: 6 Marc
+ h 2018, 22:07 Paris time (GMT+00:00)\nFr
+ eepreview export: 6 March 2018, 23:17 Pa
+ ris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180307T005331Z
+DTSTART:20180308T070000Z
+DTEND:20180308T071500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Les inégalités de genre dans l
+ es institutions sociales ouest-africaine
+ s (fr) on 8 March 2018, 8:00 Paris time 
+ (GMT+01:00)
 END:VALARM
 END:VEVENT
 
@@ -45,10 +148,10 @@ DESCRIPTION:OECD Economic Surveys: Ireland 2018 (en)
  https://doi.org/10.1787/eco_surveys-irl-
  2018-en\nPublication type: Economic surv
  ey\nReleased as: PDF, Paperback, ePub.\n
- \niLibrary export: 23 February 2018, 22:
- 12 Paris time (GMT+00:00)\nFreepreview e
- xport: never\nFTI loaded: no.
-DTSTAMP:20180306T002324Z
+ \niLibrary export: 5 March 2018, 21:56 P
+ aris time (GMT+00:00)\nFreepreview expor
+ t: never\nFTI loaded: ✓.
+DTSTAMP:20180307T005331Z
 DTSTART:20180308T090000Z
 DTEND:20180308T091500Z
 TRANSP:TRANSPARENT
@@ -60,6 +163,455 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Economic Surveys: Ireland
   2018 (en) on 8 March 2018, 10:00 Paris 
  time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-en
+SUMMARY:OECD Tourism Trends and Policies 2018 (e
+ n) on 8 March 2018, 12:30 Paris time (GM
+ T+01:00)
+DESCRIPTION:OECD Tourism Trends and Policies 2018 (e
+ n)  by Centre for Entrepreneurship, SMEs
+  and Local Development has an embargo da
+ te/time of 8 March 2018, 12:30 Paris tim
+ e (GMT+01:00).\n\nDirectorate: Centre fo
+ r Entrepreneurship, SMEs and Local Devel
+ opment\nLanguage: English\nDOI: https://
+ doi.org/10.1787/tour-2018-en\nPublicatio
+ n type: Book\nReleased as: Paperback, eP
+ ub, PDF.\n\niLibrary export: 1 March 201
+ 8, 21:40 Paris time (GMT+00:00)\nFreepre
+ view export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T005331Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Tourism Trends and Polici
+ es 2018 (en) on 8 March 2018, 12:30 Pari
+ s time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/c081650a-ar
+SUMMARY:OECD Tourism Trends and Policies 2018 (S
+ ummary in Arabic) (en), الاتجاهات والسيا
+ سات السياحية لعام 2018  : منظمة التعاون 
+ الاقتصادى والتنمية (ar) on 8 March 2018,
+  12:30 Paris time (GMT+01:00)
+DESCRIPTION:OECD Tourism Trends and Policies 2018 (S
+ ummary in Arabic) (en), الاتجاهات والسيا
+ سات السياحية لعام 2018  : منظمة التعاون 
+ الاقتصادى والتنمية (ar)  by Centre for E
+ ntrepreneurship, SMEs and Local Developm
+ ent has an embargo date/time of 8 March 
+ 2018, 12:30 Paris time (GMT+01:00).\n\nD
+ irectorate: Centre for Entrepreneurship,
+  SMEs and Local Development\nLanguage: A
+ rabic\nDOI: https://doi.org/10.1787/c081
+ 650a-ar\nPublication type: Summary\nRele
+ ased as: PDF, ePub, HTML.\n\niLibrary ex
+ port: 6 March 2018, 22:07 Paris time (GM
+ T+00:00)\nFreepreview export: 6 March 20
+ 18, 23:17 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓.
+DTSTAMP:20180307T005331Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Tourism Trends and Polici
+ es 2018 (Summary in Arabic) (en), الاتجا
+ هات والسياسات السياحية لعام 2018  : منظم
+ ة التعاون الاقتصادى والتنمية (ar) on 8 M
+ arch 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/8fba5a92-en
+SUMMARY:OECD Tourism Trends and Policies 2018 (S
+ ummary in English) (en) on 8 March 2018,
+  12:30 Paris time (GMT+01:00)
+DESCRIPTION:OECD Tourism Trends and Policies 2018 (S
+ ummary in English) (en)  by Centre for E
+ ntrepreneurship, SMEs and Local Developm
+ ent has an embargo date/time of 8 March 
+ 2018, 12:30 Paris time (GMT+01:00).\n\nD
+ irectorate: Centre for Entrepreneurship,
+  SMEs and Local Development\nLanguage: E
+ nglish\nDOI: https://doi.org/10.1787/8fb
+ a5a92-en\nPublication type: Summary\nRel
+ eased as: PDF, HTML, ePub.\n\niLibrary e
+ xport: 6 March 2018, 22:07 Paris time (G
+ MT+00:00)\nFreepreview export: 6 March 2
+ 018, 23:17 Paris time (GMT+00:00)\nFTI l
+ oaded: ✓.
+DTSTAMP:20180307T005331Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Tourism Trends and Polici
+ es 2018 (Summary in English) (en) on 8 M
+ arch 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/6d4da67e-de
+SUMMARY:OECD Tourism Trends and Policies 2018 (S
+ ummary in German) (en), OECD-Tourismustr
+ ends und -politik 2018 (de) on 8 March 2
+ 018, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:OECD Tourism Trends and Policies 2018 (S
+ ummary in German) (en), OECD-Tourismustr
+ ends und -politik 2018 (de)  by Centre f
+ or Entrepreneurship, SMEs and Local Deve
+ lopment has an embargo date/time of 8 Ma
+ rch 2018, 12:30 Paris time (GMT+01:00).\
+ n\nDirectorate: Centre for Entrepreneurs
+ hip, SMEs and Local Development\nLanguag
+ e: German\nDOI: https://doi.org/10.1787/
+ 6d4da67e-de\nPublication type: Summary\n
+ Released as: ePub, HTML, PDF.\n\niLibrar
+ y export: 6 March 2018, 22:07 Paris time
+  (GMT+00:00)\nFreepreview export: 6 Marc
+ h 2018, 23:17 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180307T005331Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Tourism Trends and Polici
+ es 2018 (Summary in German) (en), OECD-T
+ ourismustrends und -politik 2018 (de) on
+  8 March 2018, 12:30 Paris time (GMT+01:
+ 00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/7cc299e9-it
+SUMMARY:OECD Tourism Trends and Policies 2018 (S
+ ummary in Italian) (en), Tendenze e poli
+ tiche del turismo dell'area OCSE, 2018 (
+ it) on 8 March 2018, 12:30 Paris time (G
+ MT+01:00)
+DESCRIPTION:OECD Tourism Trends and Policies 2018 (S
+ ummary in Italian) (en), Tendenze e poli
+ tiche del turismo dell'area OCSE, 2018 (
+ it)  by Centre for Entrepreneurship, SME
+ s and Local Development has an embargo d
+ ate/time of 8 March 2018, 12:30 Paris ti
+ me (GMT+01:00).\n\nDirectorate: Centre f
+ or Entrepreneurship, SMEs and Local Deve
+ lopment\nLanguage: Italian\nDOI: https:/
+ /doi.org/10.1787/7cc299e9-it\nPublicatio
+ n type: Summary\nReleased as: PDF, ePub,
+  HTML.\n\niLibrary export: 6 March 2018,
+  22:07 Paris time (GMT+00:00)\nFreeprevi
+ ew export: 6 March 2018, 23:17 Paris tim
+ e (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180307T005331Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Tourism Trends and Polici
+ es 2018 (Summary in Italian) (en), Tende
+ nze e politiche del turismo dell'area OC
+ SE, 2018 (it) on 8 March 2018, 12:30 Par
+ is time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/e0c10768-ja
+SUMMARY:OECD Tourism Trends and Policies 2018 (S
+ ummary in Japanese) (en), OECD諸国の観光業 トレン
+ ドと政策2018年版 (ja) on 8 March 2018, 12:30 P
+ aris time (GMT+01:00)
+DESCRIPTION:OECD Tourism Trends and Policies 2018 (S
+ ummary in Japanese) (en), OECD諸国の観光業 トレン
+ ドと政策2018年版 (ja)  by Centre for Entrepren
+ eurship, SMEs and Local Development has 
+ an embargo date/time of 8 March 2018, 12
+ :30 Paris time (GMT+01:00).\n\nDirectora
+ te: Centre for Entrepreneurship, SMEs an
+ d Local Development\nLanguage: Japanese\
+ nDOI: https://doi.org/10.1787/e0c10768-j
+ a\nPublication type: Summary\nReleased a
+ s: HTML, ePub, PDF.\n\niLibrary export: 
+ 6 March 2018, 22:07 Paris time (GMT+00:0
+ 0)\nFreepreview export: 6 March 2018, 23
+ :17 Paris time (GMT+00:00)\nFTI loaded: 
+ ✓.
+DTSTAMP:20180307T005331Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Tourism Trends and Polici
+ es 2018 (Summary in Japanese) (en), OECD
+ 諸国の観光業 トレンドと政策2018年版 (ja) on 8 March 201
+ 8, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/bc41ea6e-ko
+SUMMARY:OECD Tourism Trends and Policies 2018 (S
+ ummary in Korean) (en), 2018 OECD 관광 동향 
+ 및 정책  (ko) on 8 March 2018, 12:30 Paris 
+ time (GMT+01:00)
+DESCRIPTION:OECD Tourism Trends and Policies 2018 (S
+ ummary in Korean) (en), 2018 OECD 관광 동향 
+ 및 정책  (ko)  by Centre for Entrepreneursh
+ ip, SMEs and Local Development has an em
+ bargo date/time of 8 March 2018, 12:30 P
+ aris time (GMT+01:00).\n\nDirectorate: C
+ entre for Entrepreneurship, SMEs and Loc
+ al Development\nLanguage: Korean\nDOI: h
+ ttps://doi.org/10.1787/bc41ea6e-ko\nPubl
+ ication type: Summary\nReleased as: PDF,
+  ePub, HTML.\n\niLibrary export: 6 March
+  2018, 22:07 Paris time (GMT+00:00)\nFre
+ epreview export: 6 March 2018, 23:17 Par
+ is time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180307T005331Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Tourism Trends and Polici
+ es 2018 (Summary in Korean) (en), 2018 O
+ ECD 관광 동향 및 정책  (ko) on 8 March 2018, 12
+ :30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/cecca327-pl
+SUMMARY:OECD Tourism Trends and Policies 2018 (S
+ ummary in Polish) (en), Trendy i polityk
+ i turystyczne OECD 2018  (pl) on 8 March
+  2018, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:OECD Tourism Trends and Policies 2018 (S
+ ummary in Polish) (en), Trendy i polityk
+ i turystyczne OECD 2018  (pl)  by Centre
+  for Entrepreneurship, SMEs and Local De
+ velopment has an embargo date/time of 8 
+ March 2018, 12:30 Paris time (GMT+01:00)
+ .\n\nDirectorate: Centre for Entrepreneu
+ rship, SMEs and Local Development\nLangu
+ age: Polish\nDOI: https://doi.org/10.178
+ 7/cecca327-pl\nPublication type: Summary
+ \nReleased as: HTML, ePub, PDF.\n\niLibr
+ ary export: 6 March 2018, 22:07 Paris ti
+ me (GMT+00:00)\nFreepreview export: 6 Ma
+ rch 2018, 23:17 Paris time (GMT+00:00)\n
+ FTI loaded: ✓.
+DTSTAMP:20180307T005331Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Tourism Trends and Polici
+ es 2018 (Summary in Polish) (en), Trendy
+  i polityki turystyczne OECD 2018  (pl) 
+ on 8 March 2018, 12:30 Paris time (GMT+0
+ 1:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/492edb78-pt
+SUMMARY:OECD Tourism Trends and Policies 2018 (S
+ ummary in Portuguese) (en), Tendências e
+  Políticas de Turismo da OCDE 2018 (pt) 
+ on 8 March 2018, 12:30 Paris time (GMT+0
+ 1:00)
+DESCRIPTION:OECD Tourism Trends and Policies 2018 (S
+ ummary in Portuguese) (en), Tendências e
+  Políticas de Turismo da OCDE 2018 (pt) 
+  by Centre for Entrepreneurship, SMEs an
+ d Local Development has an embargo date/
+ time of 8 March 2018, 12:30 Paris time (
+ GMT+01:00).\n\nDirectorate: Centre for E
+ ntrepreneurship, SMEs and Local Developm
+ ent\nLanguage: Portuguese\nDOI: https://
+ doi.org/10.1787/492edb78-pt\nPublication
+  type: Summary\nReleased as: ePub, HTML,
+  PDF.\n\niLibrary export: 6 March 2018, 
+ 22:07 Paris time (GMT+00:00)\nFreeprevie
+ w export: 6 March 2018, 23:17 Paris time
+  (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180307T005331Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Tourism Trends and Polici
+ es 2018 (Summary in Portuguese) (en), Te
+ ndências e Políticas de Turismo da OCDE 
+ 2018 (pt) on 8 March 2018, 12:30 Paris t
+ ime (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/e42a51e5-ru
+SUMMARY:OECD Tourism Trends and Policies 2018 (S
+ ummary in Russian) (en), Обзор ОЭСР "Тен
+ денции и политика в сфере туризма 2018" 
+ (ru) on 8 March 2018, 12:30 Paris time (
+ GMT+01:00)
+DESCRIPTION:OECD Tourism Trends and Policies 2018 (S
+ ummary in Russian) (en), Обзор ОЭСР "Тен
+ денции и политика в сфере туризма 2018" 
+ (ru)  by Centre for Entrepreneurship, SM
+ Es and Local Development has an embargo 
+ date/time of 8 March 2018, 12:30 Paris t
+ ime (GMT+01:00).\n\nDirectorate: Centre 
+ for Entrepreneurship, SMEs and Local Dev
+ elopment\nLanguage: Russian\nDOI: https:
+ //doi.org/10.1787/e42a51e5-ru\nPublicati
+ on type: Summary\nReleased as: ePub, PDF
+ , HTML.\n\niLibrary export: 6 March 2018
+ , 22:07 Paris time (GMT+00:00)\nFreeprev
+ iew export: 6 March 2018, 23:17 Paris ti
+ me (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180307T005331Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Tourism Trends and Polici
+ es 2018 (Summary in Russian) (en), Обзор
+  ОЭСР "Тенденции и политика в сфере тури
+ зма 2018" (ru) on 8 March 2018, 12:30 Pa
+ ris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/e8b8fbbc-es
+SUMMARY:OECD Tourism Trends and Policies 2018 (S
+ ummary in Spanish) (en), Tendencias y po
+ líticas de turismo de la OCDE 2018 (es) 
+ on 8 March 2018, 12:30 Paris time (GMT+0
+ 1:00)
+DESCRIPTION:OECD Tourism Trends and Policies 2018 (S
+ ummary in Spanish) (en), Tendencias y po
+ líticas de turismo de la OCDE 2018 (es) 
+  by Centre for Entrepreneurship, SMEs an
+ d Local Development has an embargo date/
+ time of 8 March 2018, 12:30 Paris time (
+ GMT+01:00).\n\nDirectorate: Centre for E
+ ntrepreneurship, SMEs and Local Developm
+ ent\nLanguage: Spanish\nDOI: https://doi
+ .org/10.1787/e8b8fbbc-es\nPublication ty
+ pe: Summary\nReleased as: HTML, PDF, ePu
+ b.\n\niLibrary export: 6 March 2018, 22:
+ 07 Paris time (GMT+00:00)\nFreepreview e
+ xport: 6 March 2018, 23:17 Paris time (G
+ MT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180307T005331Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Tourism Trends and Polici
+ es 2018 (Summary in Spanish) (en), Tende
+ ncias y políticas de turismo de la OCDE 
+ 2018 (es) on 8 March 2018, 12:30 Paris t
+ ime (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9ccd544e-tr
+SUMMARY:OECD Tourism Trends and Policies 2018 (S
+ ummary in Turkish) (en), OECD Turizm Tre
+ ndleri ve Politikaları 2018  (tr) on 8 M
+ arch 2018, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:OECD Tourism Trends and Policies 2018 (S
+ ummary in Turkish) (en), OECD Turizm Tre
+ ndleri ve Politikaları 2018  (tr)  by Ce
+ ntre for Entrepreneurship, SMEs and Loca
+ l Development has an embargo date/time o
+ f 8 March 2018, 12:30 Paris time (GMT+01
+ :00).\n\nDirectorate: Centre for Entrepr
+ eneurship, SMEs and Local Development\nL
+ anguage: Turkish\nDOI: https://doi.org/1
+ 0.1787/9ccd544e-tr\nPublication type: Su
+ mmary\nReleased as: HTML, PDF, ePub.\n\n
+ iLibrary export: 6 March 2018, 22:07 Par
+ is time (GMT+00:00)\nFreepreview export:
+  6 March 2018, 23:17 Paris time (GMT+00:
+ 00)\nFTI loaded: ✓.
+DTSTAMP:20180307T005331Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Tourism Trends and Polici
+ es 2018 (Summary in Turkish) (en), OECD 
+ Turizm Trendleri ve Politikaları 2018  (
+ tr) on 8 March 2018, 12:30 Paris time (G
+ MT+01:00)
 END:VALARM
 END:VEVENT
 
@@ -76,11 +628,11 @@ DESCRIPTION:Regulatory Policy in Slovenia (en)  - Ov
  OI: https://doi.org/10.1787/978926429169
  0-en\nPublication type: Book\nReleased a
  s: ePub, Paperback, PDF.\n\niLibrary exp
- ort: 2 March 2018, 21:43 Paris time (GMT
+ ort: 5 March 2018, 21:56 Paris time (GMT
  +00:00)\nFreepreview export: 28 February
   2018, 20:48 Paris time (GMT+00:00)\nFTI
   loaded: ✓.
-DTSTAMP:20180306T002324Z
+DTSTAMP:20180307T005331Z
 DTSTART:20180309T080000Z
 DTEND:20180309T081500Z
 TRANSP:TRANSPARENT
@@ -92,6 +644,41 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Regulatory Policy in Slovenia 
  (en) on 9 March 2018, 9:00 Paris time (G
  MT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/ec38a279-en
+SUMMARY:Mechanics of replacing benefits systems 
+ with a basic income (en) on 9 March 2018
+ , 18:00 Paris time (GMT+01:00)
+DESCRIPTION:Mechanics of replacing benefits systems 
+ with a basic income (en)  - Comparative 
+ results from a microsimulation approach 
+ (en) by Directorate for Employment, Labo
+ ur and Social Affairs has an embargo dat
+ e/time of 9 March 2018, 18:00 Paris time
+  (GMT+01:00).\n\nDirectorate: Directorat
+ e for Employment, Labour and Social Affa
+ irs\nLanguage: English\nDOI: https://doi
+ .org/10.1787/ec38a279-en\nPublication ty
+ pe: Working paper\nReleased as: PDF.\n\n
+ iLibrary export: 6 March 2018, 22:07 Par
+ is time (GMT+00:00)\nFreepreview export:
+  6 March 2018, 23:17 Paris time (GMT+00:
+ 00)\nFTI loaded: ✓.
+DTSTAMP:20180307T005331Z
+DTSTART:20180309T170000Z
+DTEND:20180309T171500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Mechanics of replacing benefit
+ s systems with a basic income (en) on 9 
+ March 2018, 18:00 Paris time (GMT+01:00)
 END:VALARM
 END:VEVENT
 
@@ -111,7 +698,7 @@ DESCRIPTION:OECD Economic Surveys: Israel 2018 (en)
  rary export: 2 March 2018, 21:43 Paris t
  ime (GMT+00:00)\nFreepreview export: nev
  er\nFTI loaded: no.
-DTSTAMP:20180306T002324Z
+DTSTAMP:20180307T005331Z
 DTSTART:20180311T100000Z
 DTEND:20180311T101500Z
 TRANSP:TRANSPARENT
@@ -123,6 +710,294 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Economic Surveys: Israel 
  2018 (en) on 11 March 2018, 11:00 Paris 
  time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264290334-en
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Czech Republi
+ c (Stage 1) (en) on 12 March 2018, 11:00
+  Paris time (GMT+01:00)
+DESCRIPTION:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Czech Republi
+ c (Stage 1) (en)  - Inclusive Framework 
+ on BEPS: Action 14 (en) by Centre for Ta
+ x Policy and Administration has an embar
+ go date/time of 12 March 2018, 11:00 Par
+ is time (GMT+01:00).\n\nDirectorate: Cen
+ tre for Tax Policy and Administration\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/9789264290334-en\nPublication typ
+ e: Book\nReleased as: Paperback, PDF.\n\
+ niLibrary export: 19 February 2018, 22:1
+ 6 Paris time (GMT+00:00)\nFreepreview ex
+ port: never\nFTI loaded: no.
+DTSTAMP:20180307T005331Z
+DTSTART:20180312T100000Z
+DTEND:20180312T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Cze
+ ch Republic (Stage 1) (en) on 12 March 2
+ 018, 11:00 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264190184-en
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Denmark (Stag
+ e 1) (en) on 12 March 2018, 11:00 Paris 
+ time (GMT+01:00)
+DESCRIPTION:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Denmark (Stag
+ e 1) (en)  - Inclusive Framework on BEPS
+ : Action 14 (en) by Centre for Tax Polic
+ y and Administration has an embargo date
+ /time of 12 March 2018, 11:00 Paris time
+  (GMT+01:00).\n\nDirectorate: Centre for
+  Tax Policy and Administration\nLanguage
+ : English\nDOI: https://doi.org/10.1787/
+ 9789264190184-en\nPublication type: Book
+ \nReleased as: Paperback, PDF.\n\niLibra
+ ry export: 19 February 2018, 22:16 Paris
+  time (GMT+00:00)\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180307T005331Z
+DTSTART:20180312T100000Z
+DTEND:20180312T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Den
+ mark (Stage 1) (en) on 12 March 2018, 11
+ :00 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264224742-en
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Finland (Stag
+ e 1) (en) on 12 March 2018, 11:00 Paris 
+ time (GMT+01:00)
+DESCRIPTION:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Finland (Stag
+ e 1) (en)  - Inclusive Framework on BEPS
+ : Action 14 (en) by Centre for Tax Polic
+ y and Administration has an embargo date
+ /time of 12 March 2018, 11:00 Paris time
+  (GMT+01:00).\n\nDirectorate: Centre for
+  Tax Policy and Administration\nLanguage
+ : English\nDOI: https://doi.org/10.1787/
+ 9789264224742-en\nPublication type: Book
+ \nReleased as: Paperback, PDF.\n\niLibra
+ ry export: 19 February 2018, 22:16 Paris
+  time (GMT+00:00)\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180307T005331Z
+DTSTART:20180312T100000Z
+DTEND:20180312T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Fin
+ land (Stage 1) (en) on 12 March 2018, 11
+ :00 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264290365-en
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Korea (Stage 
+ 1) (en) on 12 March 2018, 11:00 Paris ti
+ me (GMT+01:00)
+DESCRIPTION:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Korea (Stage 
+ 1) (en)  - Inclusive Framework on BEPS: 
+ Action 14 (en) by Centre for Tax Policy 
+ and Administration has an embargo date/t
+ ime of 12 March 2018, 11:00 Paris time (
+ GMT+01:00).\n\nDirectorate: Centre for T
+ ax Policy and Administration\nLanguage: 
+ English\nDOI: https://doi.org/10.1787/97
+ 89264290365-en\nPublication type: Book\n
+ Released as: PDF, Paperback.\n\niLibrary
+  export: 19 February 2018, 22:16 Paris t
+ ime (GMT+00:00)\nFreepreview export: nev
+ er\nFTI loaded: no.
+DTSTAMP:20180307T005331Z
+DTSTART:20180312T100000Z
+DTEND:20180312T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Kor
+ ea (Stage 1) (en) on 12 March 2018, 11:0
+ 0 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264290389-en
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Norway (Stage
+  1) (en) on 12 March 2018, 11:00 Paris t
+ ime (GMT+01:00)
+DESCRIPTION:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Norway (Stage
+  1) (en)  - Inclusive Framework on BEPS:
+  Action 14 (en) by Centre for Tax Policy
+  and Administration has an embargo date/
+ time of 12 March 2018, 11:00 Paris time 
+ (GMT+01:00).\n\nDirectorate: Centre for 
+ Tax Policy and Administration\nLanguage:
+  English\nDOI: https://doi.org/10.1787/9
+ 789264290389-en\nPublication type: Book\
+ nReleased as: Paperback, PDF.\n\niLibrar
+ y export: 19 February 2018, 22:16 Paris 
+ time (GMT+00:00)\nFreepreview export: ne
+ ver\nFTI loaded: no.
+DTSTAMP:20180307T005331Z
+DTSTART:20180312T100000Z
+DTEND:20180312T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Nor
+ way (Stage 1) (en) on 12 March 2018, 11:
+ 00 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264290457-en
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Poland (Stage
+  1) (en) on 12 March 2018, 11:00 Paris t
+ ime (GMT+01:00)
+DESCRIPTION:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Poland (Stage
+  1) (en)  - Inclusive Framework on BEPS:
+  Action 14 (en) by Centre for Tax Policy
+  and Administration has an embargo date/
+ time of 12 March 2018, 11:00 Paris time 
+ (GMT+01:00).\n\nDirectorate: Centre for 
+ Tax Policy and Administration\nLanguage:
+  English\nDOI: https://doi.org/10.1787/9
+ 789264290457-en\nPublication type: Book\
+ nReleased as: Paperback, PDF.\n\niLibrar
+ y export: 19 February 2018, 22:16 Paris 
+ time (GMT+00:00)\nFreepreview export: ne
+ ver\nFTI loaded: no.
+DTSTAMP:20180307T005331Z
+DTSTART:20180312T100000Z
+DTEND:20180312T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Pol
+ and (Stage 1) (en) on 12 March 2018, 11:
+ 00 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264290488-en
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Singapore (St
+ age 1) (en) on 12 March 2018, 11:00 Pari
+ s time (GMT+01:00)
+DESCRIPTION:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Singapore (St
+ age 1) (en)  - Inclusive Framework on BE
+ PS: Action 14 (en) by Centre for Tax Pol
+ icy and Administration has an embargo da
+ te/time of 12 March 2018, 11:00 Paris ti
+ me (GMT+01:00).\n\nDirectorate: Centre f
+ or Tax Policy and Administration\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/9789264290488-en\nPublication type: Bo
+ ok\nReleased as: PDF, Paperback.\n\niLib
+ rary export: 19 February 2018, 22:16 Par
+ is time (GMT+00:00)\nFreepreview export:
+  never\nFTI loaded: no.
+DTSTAMP:20180307T005331Z
+DTSTART:20180312T100000Z
+DTEND:20180312T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Sin
+ gapore (Stage 1) (en) on 12 March 2018, 
+ 11:00 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264290761-en
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Spain (Stage 
+ 1) (en) on 12 March 2018, 11:00 Paris ti
+ me (GMT+01:00)
+DESCRIPTION:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Spain (Stage 
+ 1) (en)  - Inclusive Framework on BEPS: 
+ Action 14 (en) by Centre for Tax Policy 
+ and Administration has an embargo date/t
+ ime of 12 March 2018, 11:00 Paris time (
+ GMT+01:00).\n\nDirectorate: Centre for T
+ ax Policy and Administration\nLanguage: 
+ English\nDOI: https://doi.org/10.1787/97
+ 89264290761-en\nPublication type: Book\n
+ Released as: PDF, Paperback.\n\niLibrary
+  export: 19 February 2018, 22:16 Paris t
+ ime (GMT+00:00)\nFreepreview export: nev
+ er\nFTI loaded: no.
+DTSTAMP:20180307T005331Z
+DTSTART:20180312T100000Z
+DTEND:20180312T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Spa
+ in (Stage 1) (en) on 12 March 2018, 11:0
+ 0 Paris time (GMT+01:00)
 END:VALARM
 END:VEVENT
 
@@ -140,11 +1015,11 @@ DESCRIPTION:Towards Better Social and Employment Sec
   and Social Affairs\nLanguage: English\n
  DOI: https://doi.org/10.1787/97892642882
  56-en\nPublication type: Book\nReleased 
- as: Paperback, PDF.\n\niLibrary export: 
- 19 February 2018, 22:16 Paris time (GMT+
- 00:00)\nFreepreview export: never\nFTI l
- oaded: no.
-DTSTAMP:20180306T002324Z
+ as: PDF, Paperback.\n\niLibrary export: 
+ 5 March 2018, 21:56 Paris time (GMT+00:0
+ 0)\nFreepreview export: never\nFTI loade
+ d: no.
+DTSTAMP:20180307T005331Z
 DTSTART:20180313T230100Z
 DTEND:20180313T231600Z
 TRANSP:TRANSPARENT
@@ -156,6 +1031,37 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Towards Better Social and Empl
  oyment Security in Korea (en) on 14 Marc
  h 2018, 0:01 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/eco_surveys-pol-2018-en
+SUMMARY:OECD Economic Surveys: Poland 2018 (en) 
+ on 19 March 2018, 10:00 Paris time (GMT+
+ 01:00)
+DESCRIPTION:OECD Economic Surveys: Poland 2018 (en) 
+  by Economics Department has an embargo 
+ date/time of 19 March 2018, 10:00 Paris 
+ time (GMT+01:00).\n\nDirectorate: Econom
+ ics Department\nLanguage: English\nDOI: 
+ https://doi.org/10.1787/eco_surveys-pol-
+ 2018-en\nPublication type: Economic surv
+ ey\nReleased as: Paperback, PDF.\n\niLib
+ rary export: 5 March 2018, 21:56 Paris t
+ ime (GMT+00:00)\nFreepreview export: nev
+ er\nFTI loaded: no.
+DTSTAMP:20180307T005331Z
+DTSTART:20180319T090000Z
+DTEND:20180319T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Economic Surveys: Poland 
+ 2018 (en) on 19 March 2018, 10:00 Paris 
+ time (GMT+01:00)
 END:VALARM
 END:VEVENT
 
@@ -182,7 +1088,7 @@ DESCRIPTION:Forum mondial sur la transparence et l'é
   February 2018, 21:56 Paris time (GMT+00
  :00)\nFreepreview export: never\nFTI loa
  ded: no.
-DTSTAMP:20180306T002324Z
+DTSTAMP:20180307T005331Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -222,7 +1128,7 @@ DESCRIPTION:Forum mondial sur la transparence et l'é
  ebruary 2018, 21:56 Paris time (GMT+00:0
  0)\nFreepreview export: never\nFTI loade
  d: no.
-DTSTAMP:20180306T002324Z
+DTSTAMP:20180307T005331Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -258,11 +1164,11 @@ DESCRIPTION:Forum mondial sur la transparence et l'é
  d Administration\nLanguage: French\nDOI:
   https://doi.org/10.1787/9789264291201-f
  r\nPublication type: Book\nReleased as: 
- Paperback, PDF.\n\niLibrary export: 22 F
- ebruary 2018, 21:37 Paris time (GMT+00:0
- 0)\nFreepreview export: never\nFTI loade
- d: no.
-DTSTAMP:20180306T002324Z
+ Paperback, PDF.\n\niLibrary export: 5 Ma
+ rch 2018, 21:56 Paris time (GMT+00:00)\n
+ Freepreview export: never\nFTI loaded: n
+ o.
+DTSTAMP:20180307T005331Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -300,7 +1206,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  ry export: 21 February 2018, 21:56 Paris
   time (GMT+00:00)\nFreepreview export: n
  ever\nFTI loaded: no.
-DTSTAMP:20180306T002324Z
+DTSTAMP:20180307T005331Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -338,7 +1244,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  ry export: 21 February 2018, 21:56 Paris
   time (GMT+00:00)\nFreepreview export: n
  ever\nFTI loaded: no.
-DTSTAMP:20180306T002324Z
+DTSTAMP:20180307T005331Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -376,7 +1282,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  y export: 21 February 2018, 21:56 Paris 
  time (GMT+00:00)\nFreepreview export: ne
  ver\nFTI loaded: no.
-DTSTAMP:20180306T002324Z
+DTSTAMP:20180307T005331Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -414,7 +1320,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
   export: 21 February 2018, 21:56 Paris t
  ime (GMT+00:00)\nFreepreview export: nev
  er\nFTI loaded: no.
-DTSTAMP:20180306T002324Z
+DTSTAMP:20180307T005331Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -452,7 +1358,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  ry export: 21 February 2018, 21:56 Paris
   time (GMT+00:00)\nFreepreview export: n
  ever\nFTI loaded: no.
-DTSTAMP:20180306T002324Z
+DTSTAMP:20180307T005331Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -490,7 +1396,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  y export: 21 February 2018, 21:56 Paris 
  time (GMT+00:00)\nFreepreview export: ne
  ver\nFTI loaded: no.
-DTSTAMP:20180306T002324Z
+DTSTAMP:20180307T005331Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -528,7 +1434,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  ibrary export: 21 February 2018, 21:56 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20180306T002324Z
+DTSTAMP:20180307T005331Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -566,7 +1472,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  ibrary export: 21 February 2018, 21:56 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20180306T002324Z
+DTSTAMP:20180307T005331Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -600,7 +1506,7 @@ DESCRIPTION:Getting Skills Right: Spain (en)  by Dir
  is time (GMT+00:00)\nFreepreview export:
   21 February 2018, 22:48 Paris time (GMT
  +00:00)\nFTI loaded: ✓.
-DTSTAMP:20180306T002324Z
+DTSTAMP:20180307T005331Z
 DTSTART:20180426T073000Z
 DTEND:20180426T074500Z
 TRANSP:TRANSPARENT
@@ -612,6 +1518,40 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Getting Skills Right: Spain (e
  n) on 26 April 2018, 9:30 Paris time (GM
  T+02:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264284319-en
+SUMMARY:Inventory of Energy Subsidies in the EU'
+ s Eastern Partnership Countries (en) on 
+ 30 April 2018, 11:00 Paris time (GMT+02:
+ 00)
+DESCRIPTION:Inventory of Energy Subsidies in the EU'
+ s Eastern Partnership Countries (en)  by
+  Environment Directorate has an embargo 
+ date/time of 30 April 2018, 11:00 Paris 
+ time (GMT+02:00).\n\nDirectorate: Enviro
+ nment Directorate\nLanguage: English\nDO
+ I: https://doi.org/10.1787/9789264284319
+ -en\nPublication type: Book\nReleased as
+ : Paperback, PDF.\n\niLibrary export: 5 
+ March 2018, 21:56 Paris time (GMT+00:00)
+ \nFreepreview export: never\nFTI loaded:
+  no.
+DTSTAMP:20180307T005331Z
+DTSTART:20180430T090000Z
+DTEND:20180430T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Inventory of Energy Subsidies 
+ in the EU's Eastern Partnership Countrie
+ s (en) on 30 April 2018, 11:00 Paris tim
+ e (GMT+02:00)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
