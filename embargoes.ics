@@ -4,35 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/oil_mar-2018-en
-SUMMARY:Oil 2018 (en) on 5 March 2018, 9:00 Pari
- s time (GMT+01:00)
-DESCRIPTION:Oil 2018 (en)  - Analysis and Forecasts 
- to 2023 (en) by International Energy Age
- ncy has an embargo date/time of 5 March 
- 2018, 9:00 Paris time (GMT+01:00).\n\nDi
- rectorate: International Energy Agency\n
- Language: English\nDOI: https://doi.org/
- 10.1787/oil_mar-2018-en\nPublication typ
- e: Book\nReleased as: PDF.\n\niLibrary e
- xport: 2 March 2018, 21:43 Paris time (G
- MT+00:00)\nFreepreview export: never\nFT
- I loaded: ✓.
-DTSTAMP:20180307T005331Z
-DTSTART:20180305T080000Z
-DTEND:20180305T081500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Oil 2018 (en) on 5 March 2018,
-  9:00 Paris time (GMT+01:00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/232211ca-en
 SUMMARY:How does access to early childhood educa
  tion services affect the participation o
@@ -52,7 +23,7 @@ DESCRIPTION:How does access to early childhood educa
  ime (GMT+00:00)\nFreepreview export: 6 M
  arch 2018, 23:17 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180308T050000Z
 DTEND:20180308T051500Z
 TRANSP:TRANSPARENT
@@ -86,7 +57,7 @@ DESCRIPTION:Gender Inequality in West African Social
  is time (GMT+00:00)\nFreepreview export:
   6 March 2018, 23:17 Paris time (GMT+00:
  00)\nFTI loaded: ✓.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180308T070000Z
 DTEND:20180308T071500Z
 TRANSP:TRANSPARENT
@@ -119,7 +90,7 @@ DESCRIPTION:Les inégalités de genre dans les institu
  h 2018, 22:07 Paris time (GMT+00:00)\nFr
  eepreview export: 6 March 2018, 23:17 Pa
  ris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180308T070000Z
 DTEND:20180308T071500Z
 TRANSP:TRANSPARENT
@@ -148,10 +119,11 @@ DESCRIPTION:OECD Economic Surveys: Ireland 2018 (en)
  https://doi.org/10.1787/eco_surveys-irl-
  2018-en\nPublication type: Economic surv
  ey\nReleased as: PDF, Paperback, ePub.\n
- \niLibrary export: 5 March 2018, 21:56 P
+ \niLibrary export: 6 March 2018, 22:07 P
  aris time (GMT+00:00)\nFreepreview expor
- t: never\nFTI loaded: ✓.
-DTSTAMP:20180307T005331Z
+ t: 6 March 2018, 23:17 Paris time (GMT+0
+ 0:00)\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
 DTSTART:20180308T090000Z
 DTEND:20180308T091500Z
 TRANSP:TRANSPARENT
@@ -163,6 +135,3061 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Economic Surveys: Ireland
   2018 (en) on 8 March 2018, 10:00 Paris 
  time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table7-en
+SUMMARY:Australia: Domestic, inbound and outboun
+ d tourism: Australia (en) on 8 March 201
+ 8, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:Australia: Domestic, inbound and outboun
+ d tourism: Australia (en)  by Centre for
+  Entrepreneurship, SMEs and Local Develo
+ pment has an embargo date/time of 8 Marc
+ h 2018, 12:30 Paris time (GMT+01:00).\n\
+ nDirectorate: Centre for Entrepreneurshi
+ p, SMEs and Local Development\nLanguage:
+  English\nDOI: https://doi.org/10.1787/t
+ our-2018-table7-en\nPublication type: Ta
+ ble\nReleased as: PDF, Spreadsheet, HTML
+ .\n\niLibrary export: never\nFreepreview
+  export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Australia: Domestic, inbound a
+ nd outbound tourism: Australia (en) on 8
+  March 2018, 12:30 Paris time (GMT+01:00
+ )
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table8-en
+SUMMARY:Australia: Enterprises and employment in
+  tourism: Australia (en) on 8 March 2018
+ , 12:30 Paris time (GMT+01:00)
+DESCRIPTION:Australia: Enterprises and employment in
+  tourism: Australia (en)  by Centre for 
+ Entrepreneurship, SMEs and Local Develop
+ ment has an embargo date/time of 8 March
+  2018, 12:30 Paris time (GMT+01:00).\n\n
+ Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ English\nDOI: https://doi.org/10.1787/to
+ ur-2018-table8-en\nPublication type: Tab
+ le\nReleased as: HTML, Spreadsheet, PDF.
+ \n\niLibrary export: never\nFreepreview 
+ export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Australia: Enterprises and emp
+ loyment in tourism: Australia (en) on 8 
+ March 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table9-en
+SUMMARY:Australia: Internal tourism consumption:
+  Australia (en) on 8 March 2018, 12:30 P
+ aris time (GMT+01:00)
+DESCRIPTION:Australia: Internal tourism consumption:
+  Australia (en)  by Centre for Entrepren
+ eurship, SMEs and Local Development has 
+ an embargo date/time of 8 March 2018, 12
+ :30 Paris time (GMT+01:00).\n\nDirectora
+ te: Centre for Entrepreneurship, SMEs an
+ d Local Development\nLanguage: English\n
+ DOI: https://doi.org/10.1787/tour-2018-t
+ able9-en\nPublication type: Table\nRelea
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Australia: Internal tourism co
+ nsumption: Australia (en) on 8 March 201
+ 8, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table10-en
+SUMMARY:Austria: Domestic, inbound and outbound 
+ tourism: Austria (en) on 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00)
+DESCRIPTION:Austria: Domestic, inbound and outbound 
+ tourism: Austria (en)  by Centre for Ent
+ repreneurship, SMEs and Local Developmen
+ t has an embargo date/time of 8 March 20
+ 18, 12:30 Paris time (GMT+01:00).\n\nDir
+ ectorate: Centre for Entrepreneurship, S
+ MEs and Local Development\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/tour-
+ 2018-table10-en\nPublication type: Table
+ \nReleased as: HTML, PDF, Spreadsheet.\n
+ \niLibrary export: never\nFreepreview ex
+ port: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Austria: Domestic, inbound and
+  outbound tourism: Austria (en) on 8 Mar
+ ch 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table11-en
+SUMMARY:Austria: Enterprises and employment in t
+ ourism: Austria (en) on 8 March 2018, 12
+ :30 Paris time (GMT+01:00)
+DESCRIPTION:Austria: Enterprises and employment in t
+ ourism: Austria (en)  by Centre for Entr
+ epreneurship, SMEs and Local Development
+  has an embargo date/time of 8 March 201
+ 8, 12:30 Paris time (GMT+01:00).\n\nDire
+ ctorate: Centre for Entrepreneurship, SM
+ Es and Local Development\nLanguage: Engl
+ ish\nDOI: https://doi.org/10.1787/tour-2
+ 018-table11-en\nPublication type: Table\
+ nReleased as: PDF, Spreadsheet, HTML.\n\
+ niLibrary export: never\nFreepreview exp
+ ort: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Austria: Enterprises and emplo
+ yment in tourism: Austria (en) on 8 Marc
+ h 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table12-en
+SUMMARY:Austria: Internal tourism consumption: A
+ ustria (en) on 8 March 2018, 12:30 Paris
+  time (GMT+01:00)
+DESCRIPTION:Austria: Internal tourism consumption: A
+ ustria (en)  by Centre for Entrepreneurs
+ hip, SMEs and Local Development has an e
+ mbargo date/time of 8 March 2018, 12:30 
+ Paris time (GMT+01:00).\n\nDirectorate: 
+ Centre for Entrepreneurship, SMEs and Lo
+ cal Development\nLanguage: English\nDOI:
+  https://doi.org/10.1787/tour-2018-table
+ 12-en\nPublication type: Table\nReleased
+  as: PDF, Spreadsheet, HTML.\n\niLibrary
+  export: never\nFreepreview export: neve
+ r\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Austria: Internal tourism cons
+ umption: Austria (en) on 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table13-en
+SUMMARY:Belgium: Domestic, inbound and outbound 
+ tourism: Belgium (en) on 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00)
+DESCRIPTION:Belgium: Domestic, inbound and outbound 
+ tourism: Belgium (en)  by Centre for Ent
+ repreneurship, SMEs and Local Developmen
+ t has an embargo date/time of 8 March 20
+ 18, 12:30 Paris time (GMT+01:00).\n\nDir
+ ectorate: Centre for Entrepreneurship, S
+ MEs and Local Development\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/tour-
+ 2018-table13-en\nPublication type: Table
+ \nReleased as: PDF, Spreadsheet, HTML.\n
+ \niLibrary export: never\nFreepreview ex
+ port: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Belgium: Domestic, inbound and
+  outbound tourism: Belgium (en) on 8 Mar
+ ch 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table14-en
+SUMMARY:Belgium: Enterprises and employment in t
+ ourism: Belgium (en) on 8 March 2018, 12
+ :30 Paris time (GMT+01:00)
+DESCRIPTION:Belgium: Enterprises and employment in t
+ ourism: Belgium (en)  by Centre for Entr
+ epreneurship, SMEs and Local Development
+  has an embargo date/time of 8 March 201
+ 8, 12:30 Paris time (GMT+01:00).\n\nDire
+ ctorate: Centre for Entrepreneurship, SM
+ Es and Local Development\nLanguage: Engl
+ ish\nDOI: https://doi.org/10.1787/tour-2
+ 018-table14-en\nPublication type: Table\
+ nReleased as: PDF, Spreadsheet, HTML.\n\
+ niLibrary export: never\nFreepreview exp
+ ort: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Belgium: Enterprises and emplo
+ yment in tourism: Belgium (en) on 8 Marc
+ h 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table106-en
+SUMMARY:Brazil: Domestic, inbound and outbound t
+ ourism: Brazil (en) on 8 March 2018, 12:
+ 30 Paris time (GMT+01:00)
+DESCRIPTION:Brazil: Domestic, inbound and outbound t
+ ourism: Brazil (en)  by Centre for Entre
+ preneurship, SMEs and Local Development 
+ has an embargo date/time of 8 March 2018
+ , 12:30 Paris time (GMT+01:00).\n\nDirec
+ torate: Centre for Entrepreneurship, SME
+ s and Local Development\nLanguage: Engli
+ sh\nDOI: https://doi.org/10.1787/tour-20
+ 18-table106-en\nPublication type: Table\
+ nReleased as: PDF, Spreadsheet, HTML.\n\
+ niLibrary export: never\nFreepreview exp
+ ort: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Brazil: Domestic, inbound and 
+ outbound tourism: Brazil (en) on 8 March
+  2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table107-en
+SUMMARY:Brazil: Enterprises and employment in to
+ urism: Brazil (en) on 8 March 2018, 12:3
+ 0 Paris time (GMT+01:00)
+DESCRIPTION:Brazil: Enterprises and employment in to
+ urism: Brazil (en)  by Centre for Entrep
+ reneurship, SMEs and Local Development h
+ as an embargo date/time of 8 March 2018,
+  12:30 Paris time (GMT+01:00).\n\nDirect
+ orate: Centre for Entrepreneurship, SMEs
+  and Local Development\nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/tour-201
+ 8-table107-en\nPublication type: Table\n
+ Released as: PDF, Spreadsheet, HTML.\n\n
+ iLibrary export: never\nFreepreview expo
+ rt: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Brazil: Enterprises and employ
+ ment in tourism: Brazil (en) on 8 March 
+ 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table108-en
+SUMMARY:Bulgaria: Domestic, inbound and outbound
+  tourism: Bulgaria (en) on 8 March 2018,
+  12:30 Paris time (GMT+01:00)
+DESCRIPTION:Bulgaria: Domestic, inbound and outbound
+  tourism: Bulgaria (en)  by Centre for E
+ ntrepreneurship, SMEs and Local Developm
+ ent has an embargo date/time of 8 March 
+ 2018, 12:30 Paris time (GMT+01:00).\n\nD
+ irectorate: Centre for Entrepreneurship,
+  SMEs and Local Development\nLanguage: E
+ nglish\nDOI: https://doi.org/10.1787/tou
+ r-2018-table108-en\nPublication type: Ta
+ ble\nReleased as: HTML, PDF, Spreadsheet
+ .\n\niLibrary export: never\nFreepreview
+  export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Bulgaria: Domestic, inbound an
+ d outbound tourism: Bulgaria (en) on 8 M
+ arch 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table109-en
+SUMMARY:Bulgaria: Enterprises and employment in 
+ tourism: Bulgaria (en) on 8 March 2018, 
+ 12:30 Paris time (GMT+01:00)
+DESCRIPTION:Bulgaria: Enterprises and employment in 
+ tourism: Bulgaria (en)  by Centre for En
+ trepreneurship, SMEs and Local Developme
+ nt has an embargo date/time of 8 March 2
+ 018, 12:30 Paris time (GMT+01:00).\n\nDi
+ rectorate: Centre for Entrepreneurship, 
+ SMEs and Local Development\nLanguage: En
+ glish\nDOI: https://doi.org/10.1787/tour
+ -2018-table109-en\nPublication type: Tab
+ le\nReleased as: HTML, PDF, Spreadsheet.
+ \n\niLibrary export: never\nFreepreview 
+ export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Bulgaria: Enterprises and empl
+ oyment in tourism: Bulgaria (en) on 8 Ma
+ rch 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table110-en
+SUMMARY:Bulgaria: Internal tourism consumption: 
+ Bulgaria (en) on 8 March 2018, 12:30 Par
+ is time (GMT+01:00)
+DESCRIPTION:Bulgaria: Internal tourism consumption: 
+ Bulgaria (en)  by Centre for Entrepreneu
+ rship, SMEs and Local Development has an
+  embargo date/time of 8 March 2018, 12:3
+ 0 Paris time (GMT+01:00).\n\nDirectorate
+ : Centre for Entrepreneurship, SMEs and 
+ Local Development\nLanguage: English\nDO
+ I: https://doi.org/10.1787/tour-2018-tab
+ le110-en\nPublication type: Table\nRelea
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Bulgaria: Internal tourism con
+ sumption: Bulgaria (en) on 8 March 2018,
+  12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table15-en
+SUMMARY:Canada: Domestic, inbound and outbound t
+ ourism: Canada (en) on 8 March 2018, 12:
+ 30 Paris time (GMT+01:00)
+DESCRIPTION:Canada: Domestic, inbound and outbound t
+ ourism: Canada (en)  by Centre for Entre
+ preneurship, SMEs and Local Development 
+ has an embargo date/time of 8 March 2018
+ , 12:30 Paris time (GMT+01:00).\n\nDirec
+ torate: Centre for Entrepreneurship, SME
+ s and Local Development\nLanguage: Engli
+ sh\nDOI: https://doi.org/10.1787/tour-20
+ 18-table15-en\nPublication type: Table\n
+ Released as: PDF, Spreadsheet, HTML.\n\n
+ iLibrary export: never\nFreepreview expo
+ rt: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Canada: Domestic, inbound and 
+ outbound tourism: Canada (en) on 8 March
+  2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table16-en
+SUMMARY:Canada: Enterprises and employment in to
+ urism: Canada (en) on 8 March 2018, 12:3
+ 0 Paris time (GMT+01:00)
+DESCRIPTION:Canada: Enterprises and employment in to
+ urism: Canada (en)  by Centre for Entrep
+ reneurship, SMEs and Local Development h
+ as an embargo date/time of 8 March 2018,
+  12:30 Paris time (GMT+01:00).\n\nDirect
+ orate: Centre for Entrepreneurship, SMEs
+  and Local Development\nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/tour-201
+ 8-table16-en\nPublication type: Table\nR
+ eleased as: PDF, Spreadsheet, HTML.\n\ni
+ Library export: never\nFreepreview expor
+ t: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Canada: Enterprises and employ
+ ment in tourism: Canada (en) on 8 March 
+ 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table17-en
+SUMMARY:Canada: Internal tourism consumption: Ca
+ nada (en) on 8 March 2018, 12:30 Paris t
+ ime (GMT+01:00)
+DESCRIPTION:Canada: Internal tourism consumption: Ca
+ nada (en)  by Centre for Entrepreneurshi
+ p, SMEs and Local Development has an emb
+ argo date/time of 8 March 2018, 12:30 Pa
+ ris time (GMT+01:00).\n\nDirectorate: Ce
+ ntre for Entrepreneurship, SMEs and Loca
+ l Development\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tour-2018-table17
+ -en\nPublication type: Table\nReleased a
+ s: Spreadsheet, HTML, PDF.\n\niLibrary e
+ xport: never\nFreepreview export: never\
+ nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Canada: Internal tourism consu
+ mption: Canada (en) on 8 March 2018, 12:
+ 30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table18-en
+SUMMARY:Chile: Domestic, inbound and outbound to
+ urism: Chile (en) on 8 March 2018, 12:30
+  Paris time (GMT+01:00)
+DESCRIPTION:Chile: Domestic, inbound and outbound to
+ urism: Chile (en)  by Centre for Entrepr
+ eneurship, SMEs and Local Development ha
+ s an embargo date/time of 8 March 2018, 
+ 12:30 Paris time (GMT+01:00).\n\nDirecto
+ rate: Centre for Entrepreneurship, SMEs 
+ and Local Development\nLanguage: English
+ \nDOI: https://doi.org/10.1787/tour-2018
+ -table18-en\nPublication type: Table\nRe
+ leased as: Spreadsheet, HTML, PDF.\n\niL
+ ibrary export: never\nFreepreview export
+ : never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chile: Domestic, inbound and o
+ utbound tourism: Chile (en) on 8 March 2
+ 018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table19-en
+SUMMARY:Chile: Enterprises and employment in tou
+ rism: Chile (en) on 8 March 2018, 12:30 
+ Paris time (GMT+01:00)
+DESCRIPTION:Chile: Enterprises and employment in tou
+ rism: Chile (en)  by Centre for Entrepre
+ neurship, SMEs and Local Development has
+  an embargo date/time of 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00).\n\nDirector
+ ate: Centre for Entrepreneurship, SMEs a
+ nd Local Development\nLanguage: English\
+ nDOI: https://doi.org/10.1787/tour-2018-
+ table19-en\nPublication type: Table\nRel
+ eased as: PDF, Spreadsheet, HTML.\n\niLi
+ brary export: never\nFreepreview export:
+  never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chile: Enterprises and employm
+ ent in tourism: Chile (en) on 8 March 20
+ 18, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table20-en
+SUMMARY:Chile: Internal tourism consumption: Chi
+ le (en) on 8 March 2018, 12:30 Paris tim
+ e (GMT+01:00)
+DESCRIPTION:Chile: Internal tourism consumption: Chi
+ le (en)  by Centre for Entrepreneurship,
+  SMEs and Local Development has an embar
+ go date/time of 8 March 2018, 12:30 Pari
+ s time (GMT+01:00).\n\nDirectorate: Cent
+ re for Entrepreneurship, SMEs and Local 
+ Development\nLanguage: English\nDOI: htt
+ ps://doi.org/10.1787/tour-2018-table20-e
+ n\nPublication type: Table\nReleased as:
+  PDF, Spreadsheet, HTML.\n\niLibrary exp
+ ort: never\nFreepreview export: never\nF
+ TI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chile: Internal tourism consum
+ ption: Chile (en) on 8 March 2018, 12:30
+  Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table111-en
+SUMMARY:Colombia: Domestic, inbound and outbound
+  tourism: Colombia (en) on 8 March 2018,
+  12:30 Paris time (GMT+01:00)
+DESCRIPTION:Colombia: Domestic, inbound and outbound
+  tourism: Colombia (en)  by Centre for E
+ ntrepreneurship, SMEs and Local Developm
+ ent has an embargo date/time of 8 March 
+ 2018, 12:30 Paris time (GMT+01:00).\n\nD
+ irectorate: Centre for Entrepreneurship,
+  SMEs and Local Development\nLanguage: E
+ nglish\nDOI: https://doi.org/10.1787/tou
+ r-2018-table111-en\nPublication type: Ta
+ ble\nReleased as: HTML, PDF, Spreadsheet
+ .\n\niLibrary export: never\nFreepreview
+  export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Colombia: Domestic, inbound an
+ d outbound tourism: Colombia (en) on 8 M
+ arch 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table112-en
+SUMMARY:Colombia: Enterprises and employment in 
+ tourism: Colombia (en) on 8 March 2018, 
+ 12:30 Paris time (GMT+01:00)
+DESCRIPTION:Colombia: Enterprises and employment in 
+ tourism: Colombia (en)  by Centre for En
+ trepreneurship, SMEs and Local Developme
+ nt has an embargo date/time of 8 March 2
+ 018, 12:30 Paris time (GMT+01:00).\n\nDi
+ rectorate: Centre for Entrepreneurship, 
+ SMEs and Local Development\nLanguage: En
+ glish\nDOI: https://doi.org/10.1787/tour
+ -2018-table112-en\nPublication type: Tab
+ le\nReleased as: HTML, PDF, Spreadsheet.
+ \n\niLibrary export: never\nFreepreview 
+ export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Colombia: Enterprises and empl
+ oyment in tourism: Colombia (en) on 8 Ma
+ rch 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table113-en
+SUMMARY:Colombia: Internal tourism consumption: 
+ Colombia (en) on 8 March 2018, 12:30 Par
+ is time (GMT+01:00)
+DESCRIPTION:Colombia: Internal tourism consumption: 
+ Colombia (en)  by Centre for Entrepreneu
+ rship, SMEs and Local Development has an
+  embargo date/time of 8 March 2018, 12:3
+ 0 Paris time (GMT+01:00).\n\nDirectorate
+ : Centre for Entrepreneurship, SMEs and 
+ Local Development\nLanguage: English\nDO
+ I: https://doi.org/10.1787/tour-2018-tab
+ le113-en\nPublication type: Table\nRelea
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Colombia: Internal tourism con
+ sumption: Colombia (en) on 8 March 2018,
+  12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table114-en
+SUMMARY:Costa Rica: Domestic, inbound and outbou
+ nd tourism: Costa Rica (en) on 8 March 2
+ 018, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:Costa Rica: Domestic, inbound and outbou
+ nd tourism: Costa Rica (en)  by Centre f
+ or Entrepreneurship, SMEs and Local Deve
+ lopment has an embargo date/time of 8 Ma
+ rch 2018, 12:30 Paris time (GMT+01:00).\
+ n\nDirectorate: Centre for Entrepreneurs
+ hip, SMEs and Local Development\nLanguag
+ e: English\nDOI: https://doi.org/10.1787
+ /tour-2018-table114-en\nPublication type
+ : Table\nReleased as: HTML, PDF, Spreads
+ heet.\n\niLibrary export: never\nFreepre
+ view export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Costa Rica: Domestic, inbound 
+ and outbound tourism: Costa Rica (en) on
+  8 March 2018, 12:30 Paris time (GMT+01:
+ 00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table115-en
+SUMMARY:Costa Rica: Enterprises and employment i
+ n tourism: Costa Rica (en) on 8 March 20
+ 18, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:Costa Rica: Enterprises and employment i
+ n tourism: Costa Rica (en)  by Centre fo
+ r Entrepreneurship, SMEs and Local Devel
+ opment has an embargo date/time of 8 Mar
+ ch 2018, 12:30 Paris time (GMT+01:00).\n
+ \nDirectorate: Centre for Entrepreneursh
+ ip, SMEs and Local Development\nLanguage
+ : English\nDOI: https://doi.org/10.1787/
+ tour-2018-table115-en\nPublication type:
+  Table\nReleased as: PDF, Spreadsheet, H
+ TML.\n\niLibrary export: never\nFreeprev
+ iew export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Costa Rica: Enterprises and em
+ ployment in tourism: Costa Rica (en) on 
+ 8 March 2018, 12:30 Paris time (GMT+01:0
+ 0)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table116-en
+SUMMARY:Croatia: Domestic, inbound and outbound 
+ tourism: Croatia (en) on 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00)
+DESCRIPTION:Croatia: Domestic, inbound and outbound 
+ tourism: Croatia (en)  by Centre for Ent
+ repreneurship, SMEs and Local Developmen
+ t has an embargo date/time of 8 March 20
+ 18, 12:30 Paris time (GMT+01:00).\n\nDir
+ ectorate: Centre for Entrepreneurship, S
+ MEs and Local Development\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/tour-
+ 2018-table116-en\nPublication type: Tabl
+ e\nReleased as: PDF, Spreadsheet, HTML.\
+ n\niLibrary export: never\nFreepreview e
+ xport: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Croatia: Domestic, inbound and
+  outbound tourism: Croatia (en) on 8 Mar
+ ch 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table117-en
+SUMMARY:Croatia: Enterprises and employment in t
+ ourism: Croatia (en) on 8 March 2018, 12
+ :30 Paris time (GMT+01:00)
+DESCRIPTION:Croatia: Enterprises and employment in t
+ ourism: Croatia (en)  by Centre for Entr
+ epreneurship, SMEs and Local Development
+  has an embargo date/time of 8 March 201
+ 8, 12:30 Paris time (GMT+01:00).\n\nDire
+ ctorate: Centre for Entrepreneurship, SM
+ Es and Local Development\nLanguage: Engl
+ ish\nDOI: https://doi.org/10.1787/tour-2
+ 018-table117-en\nPublication type: Table
+ \nReleased as: Spreadsheet, HTML, PDF.\n
+ \niLibrary export: never\nFreepreview ex
+ port: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Croatia: Enterprises and emplo
+ yment in tourism: Croatia (en) on 8 Marc
+ h 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table118-en
+SUMMARY:Croatia: Internal tourism consumption: C
+ roatia (en) on 8 March 2018, 12:30 Paris
+  time (GMT+01:00)
+DESCRIPTION:Croatia: Internal tourism consumption: C
+ roatia (en)  by Centre for Entrepreneurs
+ hip, SMEs and Local Development has an e
+ mbargo date/time of 8 March 2018, 12:30 
+ Paris time (GMT+01:00).\n\nDirectorate: 
+ Centre for Entrepreneurship, SMEs and Lo
+ cal Development\nLanguage: English\nDOI:
+  https://doi.org/10.1787/tour-2018-table
+ 118-en\nPublication type: Table\nRelease
+ d as: HTML, PDF, Spreadsheet.\n\niLibrar
+ y export: never\nFreepreview export: nev
+ er\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Croatia: Internal tourism cons
+ umption: Croatia (en) on 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table21-en
+SUMMARY:Czech Republic: Domestic, inbound and ou
+ tbound tourism: Czech Republic (en) on 8
+  March 2018, 12:30 Paris time (GMT+01:00
+ )
+DESCRIPTION:Czech Republic: Domestic, inbound and ou
+ tbound tourism: Czech Republic (en)  by 
+ Centre for Entrepreneurship, SMEs and Lo
+ cal Development has an embargo date/time
+  of 8 March 2018, 12:30 Paris time (GMT+
+ 01:00).\n\nDirectorate: Centre for Entre
+ preneurship, SMEs and Local Development\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/tour-2018-table21-en\nPublicati
+ on type: Table\nReleased as: HTML, PDF, 
+ Spreadsheet.\n\niLibrary export: never\n
+ Freepreview export: never\nFTI loaded: ✓
+ .
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Czech Republic: Domestic, inbo
+ und and outbound tourism: Czech Republic
+  (en) on 8 March 2018, 12:30 Paris time 
+ (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table22-en
+SUMMARY:Czech Republic: Enterprises and employme
+ nt in tourism: Czech Republic (en) on 8 
+ March 2018, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:Czech Republic: Enterprises and employme
+ nt in tourism: Czech Republic (en)  by C
+ entre for Entrepreneurship, SMEs and Loc
+ al Development has an embargo date/time 
+ of 8 March 2018, 12:30 Paris time (GMT+0
+ 1:00).\n\nDirectorate: Centre for Entrep
+ reneurship, SMEs and Local Development\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/tour-2018-table22-en\nPublicatio
+ n type: Table\nReleased as: PDF, HTML, S
+ preadsheet.\n\niLibrary export: never\nF
+ reepreview export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Czech Republic: Enterprises an
+ d employment in tourism: Czech Republic 
+ (en) on 8 March 2018, 12:30 Paris time (
+ GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table23-en
+SUMMARY:Czech Republic: Internal tourism consump
+ tion: Czech Republic (en) on 8 March 201
+ 8, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:Czech Republic: Internal tourism consump
+ tion: Czech Republic (en)  by Centre for
+  Entrepreneurship, SMEs and Local Develo
+ pment has an embargo date/time of 8 Marc
+ h 2018, 12:30 Paris time (GMT+01:00).\n\
+ nDirectorate: Centre for Entrepreneurshi
+ p, SMEs and Local Development\nLanguage:
+  English\nDOI: https://doi.org/10.1787/t
+ our-2018-table23-en\nPublication type: T
+ able\nReleased as: HTML, PDF, Spreadshee
+ t.\n\niLibrary export: never\nFreeprevie
+ w export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Czech Republic: Internal touri
+ sm consumption: Czech Republic (en) on 8
+  March 2018, 12:30 Paris time (GMT+01:00
+ )
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table24-en
+SUMMARY:Denmark: Domestic, inbound and outbound 
+ tourism: Denmark (en) on 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00)
+DESCRIPTION:Denmark: Domestic, inbound and outbound 
+ tourism: Denmark (en)  by Centre for Ent
+ repreneurship, SMEs and Local Developmen
+ t has an embargo date/time of 8 March 20
+ 18, 12:30 Paris time (GMT+01:00).\n\nDir
+ ectorate: Centre for Entrepreneurship, S
+ MEs and Local Development\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/tour-
+ 2018-table24-en\nPublication type: Table
+ \nReleased as: HTML, PDF, Spreadsheet.\n
+ \niLibrary export: never\nFreepreview ex
+ port: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Denmark: Domestic, inbound and
+  outbound tourism: Denmark (en) on 8 Mar
+ ch 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table25-en
+SUMMARY:Denmark: Enterprises and employment in t
+ ourism: Denmark (en) on 8 March 2018, 12
+ :30 Paris time (GMT+01:00)
+DESCRIPTION:Denmark: Enterprises and employment in t
+ ourism: Denmark (en)  by Centre for Entr
+ epreneurship, SMEs and Local Development
+  has an embargo date/time of 8 March 201
+ 8, 12:30 Paris time (GMT+01:00).\n\nDire
+ ctorate: Centre for Entrepreneurship, SM
+ Es and Local Development\nLanguage: Engl
+ ish\nDOI: https://doi.org/10.1787/tour-2
+ 018-table25-en\nPublication type: Table\
+ nReleased as: Spreadsheet, HTML, PDF.\n\
+ niLibrary export: never\nFreepreview exp
+ ort: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Denmark: Enterprises and emplo
+ yment in tourism: Denmark (en) on 8 Marc
+ h 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table26-en
+SUMMARY:Denmark: Internal tourism consumption: D
+ enmark (en) on 8 March 2018, 12:30 Paris
+  time (GMT+01:00)
+DESCRIPTION:Denmark: Internal tourism consumption: D
+ enmark (en)  by Centre for Entrepreneurs
+ hip, SMEs and Local Development has an e
+ mbargo date/time of 8 March 2018, 12:30 
+ Paris time (GMT+01:00).\n\nDirectorate: 
+ Centre for Entrepreneurship, SMEs and Lo
+ cal Development\nLanguage: English\nDOI:
+  https://doi.org/10.1787/tour-2018-table
+ 26-en\nPublication type: Table\nReleased
+  as: PDF, Spreadsheet, HTML.\n\niLibrary
+  export: never\nFreepreview export: neve
+ r\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Denmark: Internal tourism cons
+ umption: Denmark (en) on 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table119-en
+SUMMARY:Egypt: Domestic, inbound and outbound to
+ urism: Egypt (en) on 8 March 2018, 12:30
+  Paris time (GMT+01:00)
+DESCRIPTION:Egypt: Domestic, inbound and outbound to
+ urism: Egypt (en)  by Centre for Entrepr
+ eneurship, SMEs and Local Development ha
+ s an embargo date/time of 8 March 2018, 
+ 12:30 Paris time (GMT+01:00).\n\nDirecto
+ rate: Centre for Entrepreneurship, SMEs 
+ and Local Development\nLanguage: English
+ \nDOI: https://doi.org/10.1787/tour-2018
+ -table119-en\nPublication type: Table\nR
+ eleased as: PDF, Spreadsheet, HTML.\n\ni
+ Library export: never\nFreepreview expor
+ t: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Egypt: Domestic, inbound and o
+ utbound tourism: Egypt (en) on 8 March 2
+ 018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table120-en
+SUMMARY:Egypt: Enterprises and employment in tou
+ rism: Egypt (en) on 8 March 2018, 12:30 
+ Paris time (GMT+01:00)
+DESCRIPTION:Egypt: Enterprises and employment in tou
+ rism: Egypt (en)  by Centre for Entrepre
+ neurship, SMEs and Local Development has
+  an embargo date/time of 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00).\n\nDirector
+ ate: Centre for Entrepreneurship, SMEs a
+ nd Local Development\nLanguage: English\
+ nDOI: https://doi.org/10.1787/tour-2018-
+ table120-en\nPublication type: Table\nRe
+ leased as: HTML, PDF, Spreadsheet.\n\niL
+ ibrary export: never\nFreepreview export
+ : never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Egypt: Enterprises and employm
+ ent in tourism: Egypt (en) on 8 March 20
+ 18, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table121-en
+SUMMARY:Egypt: Internal tourism consumption: Egy
+ pt (en) on 8 March 2018, 12:30 Paris tim
+ e (GMT+01:00)
+DESCRIPTION:Egypt: Internal tourism consumption: Egy
+ pt (en)  by Centre for Entrepreneurship,
+  SMEs and Local Development has an embar
+ go date/time of 8 March 2018, 12:30 Pari
+ s time (GMT+01:00).\n\nDirectorate: Cent
+ re for Entrepreneurship, SMEs and Local 
+ Development\nLanguage: English\nDOI: htt
+ ps://doi.org/10.1787/tour-2018-table121-
+ en\nPublication type: Table\nReleased as
+ : HTML, PDF, Spreadsheet.\n\niLibrary ex
+ port: never\nFreepreview export: never\n
+ FTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Egypt: Internal tourism consum
+ ption: Egypt (en) on 8 March 2018, 12:30
+  Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table27-en
+SUMMARY:Estonia: Domestic, inbound and outbound 
+ tourism: Estonia (en) on 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00)
+DESCRIPTION:Estonia: Domestic, inbound and outbound 
+ tourism: Estonia (en)  by Centre for Ent
+ repreneurship, SMEs and Local Developmen
+ t has an embargo date/time of 8 March 20
+ 18, 12:30 Paris time (GMT+01:00).\n\nDir
+ ectorate: Centre for Entrepreneurship, S
+ MEs and Local Development\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/tour-
+ 2018-table27-en\nPublication type: Table
+ \nReleased as: HTML, PDF, Spreadsheet.\n
+ \niLibrary export: never\nFreepreview ex
+ port: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Estonia: Domestic, inbound and
+  outbound tourism: Estonia (en) on 8 Mar
+ ch 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table28-en
+SUMMARY:Estonia: Enterprises and employment in t
+ ourism: Estonia (en) on 8 March 2018, 12
+ :30 Paris time (GMT+01:00)
+DESCRIPTION:Estonia: Enterprises and employment in t
+ ourism: Estonia (en)  by Centre for Entr
+ epreneurship, SMEs and Local Development
+  has an embargo date/time of 8 March 201
+ 8, 12:30 Paris time (GMT+01:00).\n\nDire
+ ctorate: Centre for Entrepreneurship, SM
+ Es and Local Development\nLanguage: Engl
+ ish\nDOI: https://doi.org/10.1787/tour-2
+ 018-table28-en\nPublication type: Table\
+ nReleased as: PDF, Spreadsheet, HTML.\n\
+ niLibrary export: never\nFreepreview exp
+ ort: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Estonia: Enterprises and emplo
+ yment in tourism: Estonia (en) on 8 Marc
+ h 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table29-en
+SUMMARY:Estonia: Internal tourism consumption: E
+ stonia (en) on 8 March 2018, 12:30 Paris
+  time (GMT+01:00)
+DESCRIPTION:Estonia: Internal tourism consumption: E
+ stonia (en)  by Centre for Entrepreneurs
+ hip, SMEs and Local Development has an e
+ mbargo date/time of 8 March 2018, 12:30 
+ Paris time (GMT+01:00).\n\nDirectorate: 
+ Centre for Entrepreneurship, SMEs and Lo
+ cal Development\nLanguage: English\nDOI:
+  https://doi.org/10.1787/tour-2018-table
+ 29-en\nPublication type: Table\nReleased
+  as: HTML, PDF, Spreadsheet.\n\niLibrary
+  export: never\nFreepreview export: neve
+ r\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Estonia: Internal tourism cons
+ umption: Estonia (en) on 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table30-en
+SUMMARY:Finland: Domestic, inbound and outbound 
+ tourism: Finland (en) on 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00)
+DESCRIPTION:Finland: Domestic, inbound and outbound 
+ tourism: Finland (en)  by Centre for Ent
+ repreneurship, SMEs and Local Developmen
+ t has an embargo date/time of 8 March 20
+ 18, 12:30 Paris time (GMT+01:00).\n\nDir
+ ectorate: Centre for Entrepreneurship, S
+ MEs and Local Development\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/tour-
+ 2018-table30-en\nPublication type: Table
+ \nReleased as: PDF, Spreadsheet, HTML.\n
+ \niLibrary export: never\nFreepreview ex
+ port: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Finland: Domestic, inbound and
+  outbound tourism: Finland (en) on 8 Mar
+ ch 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table31-en
+SUMMARY:Finland: Enterprises and employment in t
+ ourism: Finland (en) on 8 March 2018, 12
+ :30 Paris time (GMT+01:00)
+DESCRIPTION:Finland: Enterprises and employment in t
+ ourism: Finland (en)  by Centre for Entr
+ epreneurship, SMEs and Local Development
+  has an embargo date/time of 8 March 201
+ 8, 12:30 Paris time (GMT+01:00).\n\nDire
+ ctorate: Centre for Entrepreneurship, SM
+ Es and Local Development\nLanguage: Engl
+ ish\nDOI: https://doi.org/10.1787/tour-2
+ 018-table31-en\nPublication type: Table\
+ nReleased as: HTML, PDF, Spreadsheet.\n\
+ niLibrary export: never\nFreepreview exp
+ ort: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Finland: Enterprises and emplo
+ yment in tourism: Finland (en) on 8 Marc
+ h 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table32-en
+SUMMARY:Finland: Internal tourism consumption: F
+ inland (en) on 8 March 2018, 12:30 Paris
+  time (GMT+01:00)
+DESCRIPTION:Finland: Internal tourism consumption: F
+ inland (en)  by Centre for Entrepreneurs
+ hip, SMEs and Local Development has an e
+ mbargo date/time of 8 March 2018, 12:30 
+ Paris time (GMT+01:00).\n\nDirectorate: 
+ Centre for Entrepreneurship, SMEs and Lo
+ cal Development\nLanguage: English\nDOI:
+  https://doi.org/10.1787/tour-2018-table
+ 32-en\nPublication type: Table\nReleased
+  as: PDF, Spreadsheet, HTML.\n\niLibrary
+  export: never\nFreepreview export: neve
+ r\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Finland: Internal tourism cons
+ umption: Finland (en) on 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table33-en
+SUMMARY:France: Domestic, inbound and outbound t
+ ourism: France (en) on 8 March 2018, 12:
+ 30 Paris time (GMT+01:00)
+DESCRIPTION:France: Domestic, inbound and outbound t
+ ourism: France (en)  by Centre for Entre
+ preneurship, SMEs and Local Development 
+ has an embargo date/time of 8 March 2018
+ , 12:30 Paris time (GMT+01:00).\n\nDirec
+ torate: Centre for Entrepreneurship, SME
+ s and Local Development\nLanguage: Engli
+ sh\nDOI: https://doi.org/10.1787/tour-20
+ 18-table33-en\nPublication type: Table\n
+ Released as: PDF, Spreadsheet, HTML.\n\n
+ iLibrary export: never\nFreepreview expo
+ rt: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: France: Domestic, inbound and 
+ outbound tourism: France (en) on 8 March
+  2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table34-en
+SUMMARY:France: Enterprises and employment in to
+ urism: France (en) on 8 March 2018, 12:3
+ 0 Paris time (GMT+01:00)
+DESCRIPTION:France: Enterprises and employment in to
+ urism: France (en)  by Centre for Entrep
+ reneurship, SMEs and Local Development h
+ as an embargo date/time of 8 March 2018,
+  12:30 Paris time (GMT+01:00).\n\nDirect
+ orate: Centre for Entrepreneurship, SMEs
+  and Local Development\nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/tour-201
+ 8-table34-en\nPublication type: Table\nR
+ eleased as: HTML, PDF, Spreadsheet.\n\ni
+ Library export: never\nFreepreview expor
+ t: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: France: Enterprises and employ
+ ment in tourism: France (en) on 8 March 
+ 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table35-en
+SUMMARY:France: Internal tourism consumption: Fr
+ ance (en) on 8 March 2018, 12:30 Paris t
+ ime (GMT+01:00)
+DESCRIPTION:France: Internal tourism consumption: Fr
+ ance (en)  by Centre for Entrepreneurshi
+ p, SMEs and Local Development has an emb
+ argo date/time of 8 March 2018, 12:30 Pa
+ ris time (GMT+01:00).\n\nDirectorate: Ce
+ ntre for Entrepreneurship, SMEs and Loca
+ l Development\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tour-2018-table35
+ -en\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: never\
+ nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: France: Internal tourism consu
+ mption: France (en) on 8 March 2018, 12:
+ 30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table36-en
+SUMMARY:Germany: Domestic, inbound and outbound 
+ tourism: Germany (en) on 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00)
+DESCRIPTION:Germany: Domestic, inbound and outbound 
+ tourism: Germany (en)  by Centre for Ent
+ repreneurship, SMEs and Local Developmen
+ t has an embargo date/time of 8 March 20
+ 18, 12:30 Paris time (GMT+01:00).\n\nDir
+ ectorate: Centre for Entrepreneurship, S
+ MEs and Local Development\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/tour-
+ 2018-table36-en\nPublication type: Table
+ \nReleased as: Spreadsheet, HTML, PDF.\n
+ \niLibrary export: never\nFreepreview ex
+ port: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Germany: Domestic, inbound and
+  outbound tourism: Germany (en) on 8 Mar
+ ch 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table37-en
+SUMMARY:Germany: Enterprises and employment in t
+ ourism: Germany (en) on 8 March 2018, 12
+ :30 Paris time (GMT+01:00)
+DESCRIPTION:Germany: Enterprises and employment in t
+ ourism: Germany (en)  by Centre for Entr
+ epreneurship, SMEs and Local Development
+  has an embargo date/time of 8 March 201
+ 8, 12:30 Paris time (GMT+01:00).\n\nDire
+ ctorate: Centre for Entrepreneurship, SM
+ Es and Local Development\nLanguage: Engl
+ ish\nDOI: https://doi.org/10.1787/tour-2
+ 018-table37-en\nPublication type: Table\
+ nReleased as: PDF, Spreadsheet, HTML.\n\
+ niLibrary export: never\nFreepreview exp
+ ort: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Germany: Enterprises and emplo
+ yment in tourism: Germany (en) on 8 Marc
+ h 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table38-en
+SUMMARY:Germany: Internal tourism consumption: G
+ ermany (en) on 8 March 2018, 12:30 Paris
+  time (GMT+01:00)
+DESCRIPTION:Germany: Internal tourism consumption: G
+ ermany (en)  by Centre for Entrepreneurs
+ hip, SMEs and Local Development has an e
+ mbargo date/time of 8 March 2018, 12:30 
+ Paris time (GMT+01:00).\n\nDirectorate: 
+ Centre for Entrepreneurship, SMEs and Lo
+ cal Development\nLanguage: English\nDOI:
+  https://doi.org/10.1787/tour-2018-table
+ 38-en\nPublication type: Table\nReleased
+  as: HTML, PDF, Spreadsheet.\n\niLibrary
+  export: never\nFreepreview export: neve
+ r\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Germany: Internal tourism cons
+ umption: Germany (en) on 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table39-en
+SUMMARY:Greece: Domestic, inbound and outbound t
+ ourism: Greece (en) on 8 March 2018, 12:
+ 30 Paris time (GMT+01:00)
+DESCRIPTION:Greece: Domestic, inbound and outbound t
+ ourism: Greece (en)  by Centre for Entre
+ preneurship, SMEs and Local Development 
+ has an embargo date/time of 8 March 2018
+ , 12:30 Paris time (GMT+01:00).\n\nDirec
+ torate: Centre for Entrepreneurship, SME
+ s and Local Development\nLanguage: Engli
+ sh\nDOI: https://doi.org/10.1787/tour-20
+ 18-table39-en\nPublication type: Table\n
+ Released as: PDF, Spreadsheet, HTML.\n\n
+ iLibrary export: never\nFreepreview expo
+ rt: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Greece: Domestic, inbound and 
+ outbound tourism: Greece (en) on 8 March
+  2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table40-en
+SUMMARY:Greece: Enterprises and employment in to
+ urism: Greece (en) on 8 March 2018, 12:3
+ 0 Paris time (GMT+01:00)
+DESCRIPTION:Greece: Enterprises and employment in to
+ urism: Greece (en)  by Centre for Entrep
+ reneurship, SMEs and Local Development h
+ as an embargo date/time of 8 March 2018,
+  12:30 Paris time (GMT+01:00).\n\nDirect
+ orate: Centre for Entrepreneurship, SMEs
+  and Local Development\nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/tour-201
+ 8-table40-en\nPublication type: Table\nR
+ eleased as: HTML, PDF, Spreadsheet.\n\ni
+ Library export: never\nFreepreview expor
+ t: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Greece: Enterprises and employ
+ ment in tourism: Greece (en) on 8 March 
+ 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table41-en
+SUMMARY:Hungary: Domestic, inbound and outbound 
+ tourism: Hungary (en) on 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00)
+DESCRIPTION:Hungary: Domestic, inbound and outbound 
+ tourism: Hungary (en)  by Centre for Ent
+ repreneurship, SMEs and Local Developmen
+ t has an embargo date/time of 8 March 20
+ 18, 12:30 Paris time (GMT+01:00).\n\nDir
+ ectorate: Centre for Entrepreneurship, S
+ MEs and Local Development\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/tour-
+ 2018-table41-en\nPublication type: Table
+ \nReleased as: Spreadsheet, HTML, PDF.\n
+ \niLibrary export: never\nFreepreview ex
+ port: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hungary: Domestic, inbound and
+  outbound tourism: Hungary (en) on 8 Mar
+ ch 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table42-en
+SUMMARY:Hungary: Enterprises and employment in t
+ ourism: Hungary (en) on 8 March 2018, 12
+ :30 Paris time (GMT+01:00)
+DESCRIPTION:Hungary: Enterprises and employment in t
+ ourism: Hungary (en)  by Centre for Entr
+ epreneurship, SMEs and Local Development
+  has an embargo date/time of 8 March 201
+ 8, 12:30 Paris time (GMT+01:00).\n\nDire
+ ctorate: Centre for Entrepreneurship, SM
+ Es and Local Development\nLanguage: Engl
+ ish\nDOI: https://doi.org/10.1787/tour-2
+ 018-table42-en\nPublication type: Table\
+ nReleased as: HTML, PDF, Spreadsheet.\n\
+ niLibrary export: never\nFreepreview exp
+ ort: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hungary: Enterprises and emplo
+ yment in tourism: Hungary (en) on 8 Marc
+ h 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table43-en
+SUMMARY:Hungary: Internal tourism consumption: H
+ ungary (en) on 8 March 2018, 12:30 Paris
+  time (GMT+01:00)
+DESCRIPTION:Hungary: Internal tourism consumption: H
+ ungary (en)  by Centre for Entrepreneurs
+ hip, SMEs and Local Development has an e
+ mbargo date/time of 8 March 2018, 12:30 
+ Paris time (GMT+01:00).\n\nDirectorate: 
+ Centre for Entrepreneurship, SMEs and Lo
+ cal Development\nLanguage: English\nDOI:
+  https://doi.org/10.1787/tour-2018-table
+ 43-en\nPublication type: Table\nReleased
+  as: HTML, PDF, Spreadsheet.\n\niLibrary
+  export: never\nFreepreview export: neve
+ r\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hungary: Internal tourism cons
+ umption: Hungary (en) on 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table44-en
+SUMMARY:Iceland: Domestic, inbound and outbound 
+ tourism: Iceland (en) on 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00)
+DESCRIPTION:Iceland: Domestic, inbound and outbound 
+ tourism: Iceland (en)  by Centre for Ent
+ repreneurship, SMEs and Local Developmen
+ t has an embargo date/time of 8 March 20
+ 18, 12:30 Paris time (GMT+01:00).\n\nDir
+ ectorate: Centre for Entrepreneurship, S
+ MEs and Local Development\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/tour-
+ 2018-table44-en\nPublication type: Table
+ \nReleased as: HTML, PDF, Spreadsheet.\n
+ \niLibrary export: never\nFreepreview ex
+ port: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Iceland: Domestic, inbound and
+  outbound tourism: Iceland (en) on 8 Mar
+ ch 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table45-en
+SUMMARY:Iceland: Enterprises and employment in t
+ ourism: Iceland (en) on 8 March 2018, 12
+ :30 Paris time (GMT+01:00)
+DESCRIPTION:Iceland: Enterprises and employment in t
+ ourism: Iceland (en)  by Centre for Entr
+ epreneurship, SMEs and Local Development
+  has an embargo date/time of 8 March 201
+ 8, 12:30 Paris time (GMT+01:00).\n\nDire
+ ctorate: Centre for Entrepreneurship, SM
+ Es and Local Development\nLanguage: Engl
+ ish\nDOI: https://doi.org/10.1787/tour-2
+ 018-table45-en\nPublication type: Table\
+ nReleased as: HTML, PDF, Spreadsheet.\n\
+ niLibrary export: never\nFreepreview exp
+ ort: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Iceland: Enterprises and emplo
+ yment in tourism: Iceland (en) on 8 Marc
+ h 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table46-en
+SUMMARY:Iceland: Internal tourism consumption: I
+ celand (en) on 8 March 2018, 12:30 Paris
+  time (GMT+01:00)
+DESCRIPTION:Iceland: Internal tourism consumption: I
+ celand (en)  by Centre for Entrepreneurs
+ hip, SMEs and Local Development has an e
+ mbargo date/time of 8 March 2018, 12:30 
+ Paris time (GMT+01:00).\n\nDirectorate: 
+ Centre for Entrepreneurship, SMEs and Lo
+ cal Development\nLanguage: English\nDOI:
+  https://doi.org/10.1787/tour-2018-table
+ 46-en\nPublication type: Table\nReleased
+  as: Spreadsheet, HTML, PDF.\n\niLibrary
+  export: never\nFreepreview export: neve
+ r\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Iceland: Internal tourism cons
+ umption: Iceland (en) on 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table47-en
+SUMMARY:Ireland: Domestic, inbound and outbound 
+ tourism: Ireland (en) on 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00)
+DESCRIPTION:Ireland: Domestic, inbound and outbound 
+ tourism: Ireland (en)  by Centre for Ent
+ repreneurship, SMEs and Local Developmen
+ t has an embargo date/time of 8 March 20
+ 18, 12:30 Paris time (GMT+01:00).\n\nDir
+ ectorate: Centre for Entrepreneurship, S
+ MEs and Local Development\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/tour-
+ 2018-table47-en\nPublication type: Table
+ \nReleased as: HTML, PDF, Spreadsheet.\n
+ \niLibrary export: never\nFreepreview ex
+ port: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Ireland: Domestic, inbound and
+  outbound tourism: Ireland (en) on 8 Mar
+ ch 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table48-en
+SUMMARY:Ireland: Enterprises and employment in t
+ ourism: Ireland (en) on 8 March 2018, 12
+ :30 Paris time (GMT+01:00)
+DESCRIPTION:Ireland: Enterprises and employment in t
+ ourism: Ireland (en)  by Centre for Entr
+ epreneurship, SMEs and Local Development
+  has an embargo date/time of 8 March 201
+ 8, 12:30 Paris time (GMT+01:00).\n\nDire
+ ctorate: Centre for Entrepreneurship, SM
+ Es and Local Development\nLanguage: Engl
+ ish\nDOI: https://doi.org/10.1787/tour-2
+ 018-table48-en\nPublication type: Table\
+ nReleased as: HTML, PDF, Spreadsheet.\n\
+ niLibrary export: never\nFreepreview exp
+ ort: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Ireland: Enterprises and emplo
+ yment in tourism: Ireland (en) on 8 Marc
+ h 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table49-en
+SUMMARY:Ireland: Internal tourism consumption: I
+ reland (en) on 8 March 2018, 12:30 Paris
+  time (GMT+01:00)
+DESCRIPTION:Ireland: Internal tourism consumption: I
+ reland (en)  by Centre for Entrepreneurs
+ hip, SMEs and Local Development has an e
+ mbargo date/time of 8 March 2018, 12:30 
+ Paris time (GMT+01:00).\n\nDirectorate: 
+ Centre for Entrepreneurship, SMEs and Lo
+ cal Development\nLanguage: English\nDOI:
+  https://doi.org/10.1787/tour-2018-table
+ 49-en\nPublication type: Table\nReleased
+  as: Spreadsheet, HTML, PDF.\n\niLibrary
+  export: never\nFreepreview export: neve
+ r\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Ireland: Internal tourism cons
+ umption: Ireland (en) on 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table50-en
+SUMMARY:Israel: Domestic, inbound and outbound t
+ ourism: Israel (en) on 8 March 2018, 12:
+ 30 Paris time (GMT+01:00)
+DESCRIPTION:Israel: Domestic, inbound and outbound t
+ ourism: Israel (en)  by Centre for Entre
+ preneurship, SMEs and Local Development 
+ has an embargo date/time of 8 March 2018
+ , 12:30 Paris time (GMT+01:00).\n\nDirec
+ torate: Centre for Entrepreneurship, SME
+ s and Local Development\nLanguage: Engli
+ sh\nDOI: https://doi.org/10.1787/tour-20
+ 18-table50-en\nPublication type: Table\n
+ Released as: PDF, Spreadsheet, HTML.\n\n
+ iLibrary export: never\nFreepreview expo
+ rt: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Israel: Domestic, inbound and 
+ outbound tourism: Israel (en) on 8 March
+  2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table51-en
+SUMMARY:Israel: Enterprises and employment in to
+ urism: Israel (en) on 8 March 2018, 12:3
+ 0 Paris time (GMT+01:00)
+DESCRIPTION:Israel: Enterprises and employment in to
+ urism: Israel (en)  by Centre for Entrep
+ reneurship, SMEs and Local Development h
+ as an embargo date/time of 8 March 2018,
+  12:30 Paris time (GMT+01:00).\n\nDirect
+ orate: Centre for Entrepreneurship, SMEs
+  and Local Development\nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/tour-201
+ 8-table51-en\nPublication type: Table\nR
+ eleased as: HTML, PDF, Spreadsheet.\n\ni
+ Library export: never\nFreepreview expor
+ t: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Israel: Enterprises and employ
+ ment in tourism: Israel (en) on 8 March 
+ 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table52-en
+SUMMARY:Israel: Internal tourism consumption: Is
+ rael (en) on 8 March 2018, 12:30 Paris t
+ ime (GMT+01:00)
+DESCRIPTION:Israel: Internal tourism consumption: Is
+ rael (en)  by Centre for Entrepreneurshi
+ p, SMEs and Local Development has an emb
+ argo date/time of 8 March 2018, 12:30 Pa
+ ris time (GMT+01:00).\n\nDirectorate: Ce
+ ntre for Entrepreneurship, SMEs and Loca
+ l Development\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tour-2018-table52
+ -en\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: never\
+ nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Israel: Internal tourism consu
+ mption: Israel (en) on 8 March 2018, 12:
+ 30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table53-en
+SUMMARY:Italy: Domestic, inbound and outbound to
+ urism: Italy (en) on 8 March 2018, 12:30
+  Paris time (GMT+01:00)
+DESCRIPTION:Italy: Domestic, inbound and outbound to
+ urism: Italy (en)  by Centre for Entrepr
+ eneurship, SMEs and Local Development ha
+ s an embargo date/time of 8 March 2018, 
+ 12:30 Paris time (GMT+01:00).\n\nDirecto
+ rate: Centre for Entrepreneurship, SMEs 
+ and Local Development\nLanguage: English
+ \nDOI: https://doi.org/10.1787/tour-2018
+ -table53-en\nPublication type: Table\nRe
+ leased as: PDF, Spreadsheet, HTML.\n\niL
+ ibrary export: never\nFreepreview export
+ : never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Italy: Domestic, inbound and o
+ utbound tourism: Italy (en) on 8 March 2
+ 018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table54-en
+SUMMARY:Italy: Enterprises and employment in tou
+ rism: Italy (en) on 8 March 2018, 12:30 
+ Paris time (GMT+01:00)
+DESCRIPTION:Italy: Enterprises and employment in tou
+ rism: Italy (en)  by Centre for Entrepre
+ neurship, SMEs and Local Development has
+  an embargo date/time of 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00).\n\nDirector
+ ate: Centre for Entrepreneurship, SMEs a
+ nd Local Development\nLanguage: English\
+ nDOI: https://doi.org/10.1787/tour-2018-
+ table54-en\nPublication type: Table\nRel
+ eased as: PDF, Spreadsheet, HTML.\n\niLi
+ brary export: never\nFreepreview export:
+  never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Italy: Enterprises and employm
+ ent in tourism: Italy (en) on 8 March 20
+ 18, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table55-en
+SUMMARY:Italy: Internal tourism consumption: Ita
+ ly (en) on 8 March 2018, 12:30 Paris tim
+ e (GMT+01:00)
+DESCRIPTION:Italy: Internal tourism consumption: Ita
+ ly (en)  by Centre for Entrepreneurship,
+  SMEs and Local Development has an embar
+ go date/time of 8 March 2018, 12:30 Pari
+ s time (GMT+01:00).\n\nDirectorate: Cent
+ re for Entrepreneurship, SMEs and Local 
+ Development\nLanguage: English\nDOI: htt
+ ps://doi.org/10.1787/tour-2018-table55-e
+ n\nPublication type: Table\nReleased as:
+  HTML, PDF, Spreadsheet.\n\niLibrary exp
+ ort: never\nFreepreview export: never\nF
+ TI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Italy: Internal tourism consum
+ ption: Italy (en) on 8 March 2018, 12:30
+  Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table56-en
+SUMMARY:Japan: Domestic, inbound and outbound to
+ urism: Japan (en) on 8 March 2018, 12:30
+  Paris time (GMT+01:00)
+DESCRIPTION:Japan: Domestic, inbound and outbound to
+ urism: Japan (en)  by Centre for Entrepr
+ eneurship, SMEs and Local Development ha
+ s an embargo date/time of 8 March 2018, 
+ 12:30 Paris time (GMT+01:00).\n\nDirecto
+ rate: Centre for Entrepreneurship, SMEs 
+ and Local Development\nLanguage: English
+ \nDOI: https://doi.org/10.1787/tour-2018
+ -table56-en\nPublication type: Table\nRe
+ leased as: PDF, Spreadsheet, HTML.\n\niL
+ ibrary export: never\nFreepreview export
+ : never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Japan: Domestic, inbound and o
+ utbound tourism: Japan (en) on 8 March 2
+ 018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table57-en
+SUMMARY:Japan: Enterprises and employment in tou
+ rism: Japan (en) on 8 March 2018, 12:30 
+ Paris time (GMT+01:00)
+DESCRIPTION:Japan: Enterprises and employment in tou
+ rism: Japan (en)  by Centre for Entrepre
+ neurship, SMEs and Local Development has
+  an embargo date/time of 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00).\n\nDirector
+ ate: Centre for Entrepreneurship, SMEs a
+ nd Local Development\nLanguage: English\
+ nDOI: https://doi.org/10.1787/tour-2018-
+ table57-en\nPublication type: Table\nRel
+ eased as: HTML, PDF, Spreadsheet.\n\niLi
+ brary export: never\nFreepreview export:
+  never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Japan: Enterprises and employm
+ ent in tourism: Japan (en) on 8 March 20
+ 18, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table58-en
+SUMMARY:Japan: Internal tourism consumption: Jap
+ an (en) on 8 March 2018, 12:30 Paris tim
+ e (GMT+01:00)
+DESCRIPTION:Japan: Internal tourism consumption: Jap
+ an (en)  by Centre for Entrepreneurship,
+  SMEs and Local Development has an embar
+ go date/time of 8 March 2018, 12:30 Pari
+ s time (GMT+01:00).\n\nDirectorate: Cent
+ re for Entrepreneurship, SMEs and Local 
+ Development\nLanguage: English\nDOI: htt
+ ps://doi.org/10.1787/tour-2018-table58-e
+ n\nPublication type: Table\nReleased as:
+  PDF, Spreadsheet, HTML.\n\niLibrary exp
+ ort: never\nFreepreview export: never\nF
+ TI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Japan: Internal tourism consum
+ ption: Japan (en) on 8 March 2018, 12:30
+  Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table59-en
+SUMMARY:Korea: Domestic, inbound and outbound to
+ urism: Korea (en) on 8 March 2018, 12:30
+  Paris time (GMT+01:00)
+DESCRIPTION:Korea: Domestic, inbound and outbound to
+ urism: Korea (en)  by Centre for Entrepr
+ eneurship, SMEs and Local Development ha
+ s an embargo date/time of 8 March 2018, 
+ 12:30 Paris time (GMT+01:00).\n\nDirecto
+ rate: Centre for Entrepreneurship, SMEs 
+ and Local Development\nLanguage: English
+ \nDOI: https://doi.org/10.1787/tour-2018
+ -table59-en\nPublication type: Table\nRe
+ leased as: PDF, Spreadsheet, HTML.\n\niL
+ ibrary export: never\nFreepreview export
+ : never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Korea: Domestic, inbound and o
+ utbound tourism: Korea (en) on 8 March 2
+ 018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table60-en
+SUMMARY:Korea: Enterprises and employment in tou
+ rism: Korea (en) on 8 March 2018, 12:30 
+ Paris time (GMT+01:00)
+DESCRIPTION:Korea: Enterprises and employment in tou
+ rism: Korea (en)  by Centre for Entrepre
+ neurship, SMEs and Local Development has
+  an embargo date/time of 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00).\n\nDirector
+ ate: Centre for Entrepreneurship, SMEs a
+ nd Local Development\nLanguage: English\
+ nDOI: https://doi.org/10.1787/tour-2018-
+ table60-en\nPublication type: Table\nRel
+ eased as: PDF, Spreadsheet, HTML.\n\niLi
+ brary export: never\nFreepreview export:
+  never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Korea: Enterprises and employm
+ ent in tourism: Korea (en) on 8 March 20
+ 18, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table61-en
+SUMMARY:Latvia: Domestic, inbound and outbound t
+ ourism: Latvia (en) on 8 March 2018, 12:
+ 30 Paris time (GMT+01:00)
+DESCRIPTION:Latvia: Domestic, inbound and outbound t
+ ourism: Latvia (en)  by Centre for Entre
+ preneurship, SMEs and Local Development 
+ has an embargo date/time of 8 March 2018
+ , 12:30 Paris time (GMT+01:00).\n\nDirec
+ torate: Centre for Entrepreneurship, SME
+ s and Local Development\nLanguage: Engli
+ sh\nDOI: https://doi.org/10.1787/tour-20
+ 18-table61-en\nPublication type: Table\n
+ Released as: PDF, Spreadsheet, HTML.\n\n
+ iLibrary export: never\nFreepreview expo
+ rt: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Latvia: Domestic, inbound and 
+ outbound tourism: Latvia (en) on 8 March
+  2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table62-en
+SUMMARY:Latvia: Enterprises and employment in to
+ urism: Latvia (en) on 8 March 2018, 12:3
+ 0 Paris time (GMT+01:00)
+DESCRIPTION:Latvia: Enterprises and employment in to
+ urism: Latvia (en)  by Centre for Entrep
+ reneurship, SMEs and Local Development h
+ as an embargo date/time of 8 March 2018,
+  12:30 Paris time (GMT+01:00).\n\nDirect
+ orate: Centre for Entrepreneurship, SMEs
+  and Local Development\nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/tour-201
+ 8-table62-en\nPublication type: Table\nR
+ eleased as: PDF, Spreadsheet, HTML.\n\ni
+ Library export: never\nFreepreview expor
+ t: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Latvia: Enterprises and employ
+ ment in tourism: Latvia (en) on 8 March 
+ 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table122-en
+SUMMARY:Lithuania: Domestic, inbound and outboun
+ d tourism: Lithuania (en) on 8 March 201
+ 8, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:Lithuania: Domestic, inbound and outboun
+ d tourism: Lithuania (en)  by Centre for
+  Entrepreneurship, SMEs and Local Develo
+ pment has an embargo date/time of 8 Marc
+ h 2018, 12:30 Paris time (GMT+01:00).\n\
+ nDirectorate: Centre for Entrepreneurshi
+ p, SMEs and Local Development\nLanguage:
+  English\nDOI: https://doi.org/10.1787/t
+ our-2018-table122-en\nPublication type: 
+ Table\nReleased as: HTML, PDF, Spreadshe
+ et.\n\niLibrary export: never\nFreeprevi
+ ew export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Lithuania: Domestic, inbound a
+ nd outbound tourism: Lithuania (en) on 8
+  March 2018, 12:30 Paris time (GMT+01:00
+ )
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table123-en
+SUMMARY:Lithuania: Enterprises and employment in
+  tourism: Lithuania (en) on 8 March 2018
+ , 12:30 Paris time (GMT+01:00)
+DESCRIPTION:Lithuania: Enterprises and employment in
+  tourism: Lithuania (en)  by Centre for 
+ Entrepreneurship, SMEs and Local Develop
+ ment has an embargo date/time of 8 March
+  2018, 12:30 Paris time (GMT+01:00).\n\n
+ Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ English\nDOI: https://doi.org/10.1787/to
+ ur-2018-table123-en\nPublication type: T
+ able\nReleased as: HTML, PDF, Spreadshee
+ t.\n\niLibrary export: never\nFreeprevie
+ w export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Lithuania: Enterprises and emp
+ loyment in tourism: Lithuania (en) on 8 
+ March 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table124-en
+SUMMARY:Lithuania: Internal tourism consumption:
+  Lithuania (en) on 8 March 2018, 12:30 P
+ aris time (GMT+01:00)
+DESCRIPTION:Lithuania: Internal tourism consumption:
+  Lithuania (en)  by Centre for Entrepren
+ eurship, SMEs and Local Development has 
+ an embargo date/time of 8 March 2018, 12
+ :30 Paris time (GMT+01:00).\n\nDirectora
+ te: Centre for Entrepreneurship, SMEs an
+ d Local Development\nLanguage: English\n
+ DOI: https://doi.org/10.1787/tour-2018-t
+ able124-en\nPublication type: Table\nRel
+ eased as: PDF, Spreadsheet, HTML.\n\niLi
+ brary export: never\nFreepreview export:
+  never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Lithuania: Internal tourism co
+ nsumption: Lithuania (en) on 8 March 201
+ 8, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table63-en
+SUMMARY:Luxembourg: Domestic, inbound and outbou
+ nd tourism: Luxembourg (en) on 8 March 2
+ 018, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:Luxembourg: Domestic, inbound and outbou
+ nd tourism: Luxembourg (en)  by Centre f
+ or Entrepreneurship, SMEs and Local Deve
+ lopment has an embargo date/time of 8 Ma
+ rch 2018, 12:30 Paris time (GMT+01:00).\
+ n\nDirectorate: Centre for Entrepreneurs
+ hip, SMEs and Local Development\nLanguag
+ e: English\nDOI: https://doi.org/10.1787
+ /tour-2018-table63-en\nPublication type:
+  Table\nReleased as: PDF, Spreadsheet, H
+ TML.\n\niLibrary export: never\nFreeprev
+ iew export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Luxembourg: Domestic, inbound 
+ and outbound tourism: Luxembourg (en) on
+  8 March 2018, 12:30 Paris time (GMT+01:
+ 00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table64-en
+SUMMARY:Luxembourg: Enterprises and employment i
+ n tourism: Luxembourg (en) on 8 March 20
+ 18, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:Luxembourg: Enterprises and employment i
+ n tourism: Luxembourg (en)  by Centre fo
+ r Entrepreneurship, SMEs and Local Devel
+ opment has an embargo date/time of 8 Mar
+ ch 2018, 12:30 Paris time (GMT+01:00).\n
+ \nDirectorate: Centre for Entrepreneursh
+ ip, SMEs and Local Development\nLanguage
+ : English\nDOI: https://doi.org/10.1787/
+ tour-2018-table64-en\nPublication type: 
+ Table\nReleased as: PDF, Spreadsheet, HT
+ ML.\n\niLibrary export: never\nFreeprevi
+ ew export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Luxembourg: Enterprises and em
+ ployment in tourism: Luxembourg (en) on 
+ 8 March 2018, 12:30 Paris time (GMT+01:0
+ 0)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table125-en
+SUMMARY:Malta: Domestic, inbound and outbound to
+ urism: Malta (en) on 8 March 2018, 12:30
+  Paris time (GMT+01:00)
+DESCRIPTION:Malta: Domestic, inbound and outbound to
+ urism: Malta (en)  by Centre for Entrepr
+ eneurship, SMEs and Local Development ha
+ s an embargo date/time of 8 March 2018, 
+ 12:30 Paris time (GMT+01:00).\n\nDirecto
+ rate: Centre for Entrepreneurship, SMEs 
+ and Local Development\nLanguage: English
+ \nDOI: https://doi.org/10.1787/tour-2018
+ -table125-en\nPublication type: Table\nR
+ eleased as: Spreadsheet, HTML, PDF.\n\ni
+ Library export: never\nFreepreview expor
+ t: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Malta: Domestic, inbound and o
+ utbound tourism: Malta (en) on 8 March 2
+ 018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table126-en
+SUMMARY:Malta: Enterprises and employment in tou
+ rism: Malta (en) on 8 March 2018, 12:30 
+ Paris time (GMT+01:00)
+DESCRIPTION:Malta: Enterprises and employment in tou
+ rism: Malta (en)  by Centre for Entrepre
+ neurship, SMEs and Local Development has
+  an embargo date/time of 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00).\n\nDirector
+ ate: Centre for Entrepreneurship, SMEs a
+ nd Local Development\nLanguage: English\
+ nDOI: https://doi.org/10.1787/tour-2018-
+ table126-en\nPublication type: Table\nRe
+ leased as: PDF, Spreadsheet, HTML.\n\niL
+ ibrary export: never\nFreepreview export
+ : never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Malta: Enterprises and employm
+ ent in tourism: Malta (en) on 8 March 20
+ 18, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table127-en
+SUMMARY:Malta: Internal tourism consumption: Mal
+ ta (en) on 8 March 2018, 12:30 Paris tim
+ e (GMT+01:00)
+DESCRIPTION:Malta: Internal tourism consumption: Mal
+ ta (en)  by Centre for Entrepreneurship,
+  SMEs and Local Development has an embar
+ go date/time of 8 March 2018, 12:30 Pari
+ s time (GMT+01:00).\n\nDirectorate: Cent
+ re for Entrepreneurship, SMEs and Local 
+ Development\nLanguage: English\nDOI: htt
+ ps://doi.org/10.1787/tour-2018-table127-
+ en\nPublication type: Table\nReleased as
+ : Spreadsheet, HTML, PDF.\n\niLibrary ex
+ port: never\nFreepreview export: never\n
+ FTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Malta: Internal tourism consum
+ ption: Malta (en) on 8 March 2018, 12:30
+  Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table65-en
+SUMMARY:Mexico: Domestic, inbound and outbound t
+ ourism: Mexico (en) on 8 March 2018, 12:
+ 30 Paris time (GMT+01:00)
+DESCRIPTION:Mexico: Domestic, inbound and outbound t
+ ourism: Mexico (en)  by Centre for Entre
+ preneurship, SMEs and Local Development 
+ has an embargo date/time of 8 March 2018
+ , 12:30 Paris time (GMT+01:00).\n\nDirec
+ torate: Centre for Entrepreneurship, SME
+ s and Local Development\nLanguage: Engli
+ sh\nDOI: https://doi.org/10.1787/tour-20
+ 18-table65-en\nPublication type: Table\n
+ Released as: PDF, Spreadsheet, HTML.\n\n
+ iLibrary export: never\nFreepreview expo
+ rt: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Mexico: Domestic, inbound and 
+ outbound tourism: Mexico (en) on 8 March
+  2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table66-en
+SUMMARY:Mexico: Enterprises and employment in to
+ urism: Mexico (en) on 8 March 2018, 12:3
+ 0 Paris time (GMT+01:00)
+DESCRIPTION:Mexico: Enterprises and employment in to
+ urism: Mexico (en)  by Centre for Entrep
+ reneurship, SMEs and Local Development h
+ as an embargo date/time of 8 March 2018,
+  12:30 Paris time (GMT+01:00).\n\nDirect
+ orate: Centre for Entrepreneurship, SMEs
+  and Local Development\nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/tour-201
+ 8-table66-en\nPublication type: Table\nR
+ eleased as: PDF, Spreadsheet, HTML.\n\ni
+ Library export: never\nFreepreview expor
+ t: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Mexico: Enterprises and employ
+ ment in tourism: Mexico (en) on 8 March 
+ 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table67-en
+SUMMARY:Mexico: Internal tourism consumption: Me
+ xico (en) on 8 March 2018, 12:30 Paris t
+ ime (GMT+01:00)
+DESCRIPTION:Mexico: Internal tourism consumption: Me
+ xico (en)  by Centre for Entrepreneurshi
+ p, SMEs and Local Development has an emb
+ argo date/time of 8 March 2018, 12:30 Pa
+ ris time (GMT+01:00).\n\nDirectorate: Ce
+ ntre for Entrepreneurship, SMEs and Loca
+ l Development\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tour-2018-table67
+ -en\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: never\
+ nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Mexico: Internal tourism consu
+ mption: Mexico (en) on 8 March 2018, 12:
+ 30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table128-en
+SUMMARY:Morocco: Domestic, inbound and outbound 
+ tourism: Morocco (en) on 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00)
+DESCRIPTION:Morocco: Domestic, inbound and outbound 
+ tourism: Morocco (en)  by Centre for Ent
+ repreneurship, SMEs and Local Developmen
+ t has an embargo date/time of 8 March 20
+ 18, 12:30 Paris time (GMT+01:00).\n\nDir
+ ectorate: Centre for Entrepreneurship, S
+ MEs and Local Development\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/tour-
+ 2018-table128-en\nPublication type: Tabl
+ e\nReleased as: PDF, Spreadsheet, HTML.\
+ n\niLibrary export: never\nFreepreview e
+ xport: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Morocco: Domestic, inbound and
+  outbound tourism: Morocco (en) on 8 Mar
+ ch 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table129-en
+SUMMARY:Morocco: Enterprises and employment in t
+ ourism: Morocco (en) on 8 March 2018, 12
+ :30 Paris time (GMT+01:00)
+DESCRIPTION:Morocco: Enterprises and employment in t
+ ourism: Morocco (en)  by Centre for Entr
+ epreneurship, SMEs and Local Development
+  has an embargo date/time of 8 March 201
+ 8, 12:30 Paris time (GMT+01:00).\n\nDire
+ ctorate: Centre for Entrepreneurship, SM
+ Es and Local Development\nLanguage: Engl
+ ish\nDOI: https://doi.org/10.1787/tour-2
+ 018-table129-en\nPublication type: Table
+ \nReleased as: PDF, Spreadsheet, HTML.\n
+ \niLibrary export: never\nFreepreview ex
+ port: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Morocco: Enterprises and emplo
+ yment in tourism: Morocco (en) on 8 Marc
+ h 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table130-en
+SUMMARY:Morocco: Internal tourism consumption: M
+ orocco (en) on 8 March 2018, 12:30 Paris
+  time (GMT+01:00)
+DESCRIPTION:Morocco: Internal tourism consumption: M
+ orocco (en)  by Centre for Entrepreneurs
+ hip, SMEs and Local Development has an e
+ mbargo date/time of 8 March 2018, 12:30 
+ Paris time (GMT+01:00).\n\nDirectorate: 
+ Centre for Entrepreneurship, SMEs and Lo
+ cal Development\nLanguage: English\nDOI:
+  https://doi.org/10.1787/tour-2018-table
+ 130-en\nPublication type: Table\nRelease
+ d as: Spreadsheet, HTML, PDF.\n\niLibrar
+ y export: never\nFreepreview export: nev
+ er\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Morocco: Internal tourism cons
+ umption: Morocco (en) on 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table68-en
+SUMMARY:Netherlands: Domestic, inbound and outbo
+ und tourism: Netherlands (en) on 8 March
+  2018, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:Netherlands: Domestic, inbound and outbo
+ und tourism: Netherlands (en)  by Centre
+  for Entrepreneurship, SMEs and Local De
+ velopment has an embargo date/time of 8 
+ March 2018, 12:30 Paris time (GMT+01:00)
+ .\n\nDirectorate: Centre for Entrepreneu
+ rship, SMEs and Local Development\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/tour-2018-table68-en\nPublication typ
+ e: Table\nReleased as: PDF, Spreadsheet,
+  HTML.\n\niLibrary export: never\nFreepr
+ eview export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Netherlands: Domestic, inbound
+  and outbound tourism: Netherlands (en) 
+ on 8 March 2018, 12:30 Paris time (GMT+0
+ 1:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table69-en
+SUMMARY:Netherlands: Enterprises and employment 
+ in tourism: Netherlands (en) on 8 March 
+ 2018, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:Netherlands: Enterprises and employment 
+ in tourism: Netherlands (en)  by Centre 
+ for Entrepreneurship, SMEs and Local Dev
+ elopment has an embargo date/time of 8 M
+ arch 2018, 12:30 Paris time (GMT+01:00).
+ \n\nDirectorate: Centre for Entrepreneur
+ ship, SMEs and Local Development\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/tour-2018-table69-en\nPublication type
+ : Table\nReleased as: HTML, PDF, Spreads
+ heet.\n\niLibrary export: never\nFreepre
+ view export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Netherlands: Enterprises and e
+ mployment in tourism: Netherlands (en) o
+ n 8 March 2018, 12:30 Paris time (GMT+01
+ :00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table70-en
+SUMMARY:Netherlands: Internal tourism consumptio
+ n: Netherlands (en) on 8 March 2018, 12:
+ 30 Paris time (GMT+01:00)
+DESCRIPTION:Netherlands: Internal tourism consumptio
+ n: Netherlands (en)  by Centre for Entre
+ preneurship, SMEs and Local Development 
+ has an embargo date/time of 8 March 2018
+ , 12:30 Paris time (GMT+01:00).\n\nDirec
+ torate: Centre for Entrepreneurship, SME
+ s and Local Development\nLanguage: Engli
+ sh\nDOI: https://doi.org/10.1787/tour-20
+ 18-table70-en\nPublication type: Table\n
+ Released as: HTML, PDF, Spreadsheet.\n\n
+ iLibrary export: never\nFreepreview expo
+ rt: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Netherlands: Internal tourism 
+ consumption: Netherlands (en) on 8 March
+  2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table71-en
+SUMMARY:New Zealand: Domestic, inbound and outbo
+ und tourism: New Zealand (en) on 8 March
+  2018, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:New Zealand: Domestic, inbound and outbo
+ und tourism: New Zealand (en)  by Centre
+  for Entrepreneurship, SMEs and Local De
+ velopment has an embargo date/time of 8 
+ March 2018, 12:30 Paris time (GMT+01:00)
+ .\n\nDirectorate: Centre for Entrepreneu
+ rship, SMEs and Local Development\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/tour-2018-table71-en\nPublication typ
+ e: Table\nReleased as: PDF, Spreadsheet,
+  HTML.\n\niLibrary export: never\nFreepr
+ eview export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: New Zealand: Domestic, inbound
+  and outbound tourism: New Zealand (en) 
+ on 8 March 2018, 12:30 Paris time (GMT+0
+ 1:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table72-en
+SUMMARY:New Zealand: Enterprises and employment 
+ in tourism: New Zealand (en) on 8 March 
+ 2018, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:New Zealand: Enterprises and employment 
+ in tourism: New Zealand (en)  by Centre 
+ for Entrepreneurship, SMEs and Local Dev
+ elopment has an embargo date/time of 8 M
+ arch 2018, 12:30 Paris time (GMT+01:00).
+ \n\nDirectorate: Centre for Entrepreneur
+ ship, SMEs and Local Development\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/tour-2018-table72-en\nPublication type
+ : Table\nReleased as: PDF, Spreadsheet, 
+ HTML.\n\niLibrary export: never\nFreepre
+ view export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: New Zealand: Enterprises and e
+ mployment in tourism: New Zealand (en) o
+ n 8 March 2018, 12:30 Paris time (GMT+01
+ :00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table73-en
+SUMMARY:New Zealand: Internal tourism consumptio
+ n: New Zealand (en) on 8 March 2018, 12:
+ 30 Paris time (GMT+01:00)
+DESCRIPTION:New Zealand: Internal tourism consumptio
+ n: New Zealand (en)  by Centre for Entre
+ preneurship, SMEs and Local Development 
+ has an embargo date/time of 8 March 2018
+ , 12:30 Paris time (GMT+01:00).\n\nDirec
+ torate: Centre for Entrepreneurship, SME
+ s and Local Development\nLanguage: Engli
+ sh\nDOI: https://doi.org/10.1787/tour-20
+ 18-table73-en\nPublication type: Table\n
+ Released as: HTML, PDF, Spreadsheet.\n\n
+ iLibrary export: never\nFreepreview expo
+ rt: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: New Zealand: Internal tourism 
+ consumption: New Zealand (en) on 8 March
+  2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table74-en
+SUMMARY:Norway: Domestic, inbound and outbound t
+ ourism: Norway (en) on 8 March 2018, 12:
+ 30 Paris time (GMT+01:00)
+DESCRIPTION:Norway: Domestic, inbound and outbound t
+ ourism: Norway (en)  by Centre for Entre
+ preneurship, SMEs and Local Development 
+ has an embargo date/time of 8 March 2018
+ , 12:30 Paris time (GMT+01:00).\n\nDirec
+ torate: Centre for Entrepreneurship, SME
+ s and Local Development\nLanguage: Engli
+ sh\nDOI: https://doi.org/10.1787/tour-20
+ 18-table74-en\nPublication type: Table\n
+ Released as: PDF, Spreadsheet, HTML.\n\n
+ iLibrary export: never\nFreepreview expo
+ rt: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Norway: Domestic, inbound and 
+ outbound tourism: Norway (en) on 8 March
+  2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table75-en
+SUMMARY:Norway: Enterprises and employment in to
+ urism: Norway (en) on 8 March 2018, 12:3
+ 0 Paris time (GMT+01:00)
+DESCRIPTION:Norway: Enterprises and employment in to
+ urism: Norway (en)  by Centre for Entrep
+ reneurship, SMEs and Local Development h
+ as an embargo date/time of 8 March 2018,
+  12:30 Paris time (GMT+01:00).\n\nDirect
+ orate: Centre for Entrepreneurship, SMEs
+  and Local Development\nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/tour-201
+ 8-table75-en\nPublication type: Table\nR
+ eleased as: PDF, Spreadsheet, HTML.\n\ni
+ Library export: never\nFreepreview expor
+ t: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Norway: Enterprises and employ
+ ment in tourism: Norway (en) on 8 March 
+ 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table76-en
+SUMMARY:Norway: Internal tourism consumption: No
+ rway (en) on 8 March 2018, 12:30 Paris t
+ ime (GMT+01:00)
+DESCRIPTION:Norway: Internal tourism consumption: No
+ rway (en)  by Centre for Entrepreneurshi
+ p, SMEs and Local Development has an emb
+ argo date/time of 8 March 2018, 12:30 Pa
+ ris time (GMT+01:00).\n\nDirectorate: Ce
+ ntre for Entrepreneurship, SMEs and Loca
+ l Development\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tour-2018-table76
+ -en\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: never\
+ nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Norway: Internal tourism consu
+ mption: Norway (en) on 8 March 2018, 12:
+ 30 Paris time (GMT+01:00)
 END:VALARM
 END:VEVENT
 
@@ -180,10 +3207,11 @@ DESCRIPTION:OECD Tourism Trends and Policies 2018 (e
  opment\nLanguage: English\nDOI: https://
  doi.org/10.1787/tour-2018-en\nPublicatio
  n type: Book\nReleased as: Paperback, eP
- ub, PDF.\n\niLibrary export: 1 March 201
- 8, 21:40 Paris time (GMT+00:00)\nFreepre
- view export: never\nFTI loaded: ✓.
-DTSTAMP:20180307T005331Z
+ ub, PDF.\n\niLibrary export: 6 March 201
+ 8, 22:07 Paris time (GMT+00:00)\nFreepre
+ view export: 6 March 2018, 23:17 Paris t
+ ime (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
 DTSTART:20180308T113000Z
 DTEND:20180308T114500Z
 TRANSP:TRANSPARENT
@@ -221,7 +3249,7 @@ DESCRIPTION:OECD Tourism Trends and Policies 2018 (S
  T+00:00)\nFreepreview export: 6 March 20
  18, 23:17 Paris time (GMT+00:00)\nFTI lo
  aded: ✓.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180308T113000Z
 DTEND:20180308T114500Z
 TRANSP:TRANSPARENT
@@ -257,7 +3285,7 @@ DESCRIPTION:OECD Tourism Trends and Policies 2018 (S
  MT+00:00)\nFreepreview export: 6 March 2
  018, 23:17 Paris time (GMT+00:00)\nFTI l
  oaded: ✓.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180308T113000Z
 DTEND:20180308T114500Z
 TRANSP:TRANSPARENT
@@ -269,6 +3297,45 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Tourism Trends and Polici
  es 2018 (Summary in English) (en) on 8 M
  arch 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/cf5282fd-fr
+SUMMARY:OECD Tourism Trends and Policies 2018 (S
+ ummary in French) (en), Tendances et pol
+ itiques du tourisme de l'OCDE 2018 (fr) 
+ on 8 March 2018, 12:30 Paris time (GMT+0
+ 1:00)
+DESCRIPTION:OECD Tourism Trends and Policies 2018 (S
+ ummary in French) (en), Tendances et pol
+ itiques du tourisme de l'OCDE 2018 (fr) 
+  by Centre for Entrepreneurship, SMEs an
+ d Local Development has an embargo date/
+ time of 8 March 2018, 12:30 Paris time (
+ GMT+01:00).\n\nDirectorate: Centre for E
+ ntrepreneurship, SMEs and Local Developm
+ ent\nLanguage: French\nDOI: https://doi.
+ org/10.1787/cf5282fd-fr\nPublication typ
+ e: Summary\nReleased as: PDF, ePub, HTML
+ .\n\niLibrary export: 7 March 2018, 21:3
+ 5 Paris time (GMT+00:00)\nFreepreview ex
+ port: 7 March 2018, 22:18 Paris time (GM
+ T+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Tourism Trends and Polici
+ es 2018 (Summary in French) (en), Tendan
+ ces et politiques du tourisme de l'OCDE 
+ 2018 (fr) on 8 March 2018, 12:30 Paris t
+ ime (GMT+01:00)
 END:VALARM
 END:VEVENT
 
@@ -293,7 +3360,7 @@ DESCRIPTION:OECD Tourism Trends and Policies 2018 (S
   (GMT+00:00)\nFreepreview export: 6 Marc
  h 2018, 23:17 Paris time (GMT+00:00)\nFT
  I loaded: ✓.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180308T113000Z
 DTEND:20180308T114500Z
 TRANSP:TRANSPARENT
@@ -332,7 +3399,7 @@ DESCRIPTION:OECD Tourism Trends and Policies 2018 (S
   22:07 Paris time (GMT+00:00)\nFreeprevi
  ew export: 6 March 2018, 23:17 Paris tim
  e (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180308T113000Z
 DTEND:20180308T114500Z
 TRANSP:TRANSPARENT
@@ -370,7 +3437,7 @@ DESCRIPTION:OECD Tourism Trends and Policies 2018 (S
  0)\nFreepreview export: 6 March 2018, 23
  :17 Paris time (GMT+00:00)\nFTI loaded: 
  ✓.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180308T113000Z
 DTEND:20180308T114500Z
 TRANSP:TRANSPARENT
@@ -406,7 +3473,7 @@ DESCRIPTION:OECD Tourism Trends and Policies 2018 (S
   2018, 22:07 Paris time (GMT+00:00)\nFre
  epreview export: 6 March 2018, 23:17 Par
  is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180308T113000Z
 DTEND:20180308T114500Z
 TRANSP:TRANSPARENT
@@ -443,7 +3510,7 @@ DESCRIPTION:OECD Tourism Trends and Policies 2018 (S
  me (GMT+00:00)\nFreepreview export: 6 Ma
  rch 2018, 23:17 Paris time (GMT+00:00)\n
  FTI loaded: ✓.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180308T113000Z
 DTEND:20180308T114500Z
 TRANSP:TRANSPARENT
@@ -482,7 +3549,7 @@ DESCRIPTION:OECD Tourism Trends and Policies 2018 (S
  22:07 Paris time (GMT+00:00)\nFreeprevie
  w export: 6 March 2018, 23:17 Paris time
   (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180308T113000Z
 DTEND:20180308T114500Z
 TRANSP:TRANSPARENT
@@ -521,7 +3588,7 @@ DESCRIPTION:OECD Tourism Trends and Policies 2018 (S
  , 22:07 Paris time (GMT+00:00)\nFreeprev
  iew export: 6 March 2018, 23:17 Paris ti
  me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180308T113000Z
 DTEND:20180308T114500Z
 TRANSP:TRANSPARENT
@@ -560,7 +3627,7 @@ DESCRIPTION:OECD Tourism Trends and Policies 2018 (S
  07 Paris time (GMT+00:00)\nFreepreview e
  xport: 6 March 2018, 23:17 Paris time (G
  MT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180308T113000Z
 DTEND:20180308T114500Z
 TRANSP:TRANSPARENT
@@ -598,7 +3665,7 @@ DESCRIPTION:OECD Tourism Trends and Policies 2018 (S
  is time (GMT+00:00)\nFreepreview export:
   6 March 2018, 23:17 Paris time (GMT+00:
  00)\nFTI loaded: ✓.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180308T113000Z
 DTEND:20180308T114500Z
 TRANSP:TRANSPARENT
@@ -612,6 +3679,1409 @@ DESCRIPTION:Reminder: OECD Tourism Trends and Polici
  Turizm Trendleri ve Politikaları 2018  (
  tr) on 8 March 2018, 12:30 Paris time (G
  MT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table131-en
+SUMMARY:Peru: Domestic, inbound and outbound tou
+ rism: Peru (en) on 8 March 2018, 12:30 P
+ aris time (GMT+01:00)
+DESCRIPTION:Peru: Domestic, inbound and outbound tou
+ rism: Peru (en)  by Centre for Entrepren
+ eurship, SMEs and Local Development has 
+ an embargo date/time of 8 March 2018, 12
+ :30 Paris time (GMT+01:00).\n\nDirectora
+ te: Centre for Entrepreneurship, SMEs an
+ d Local Development\nLanguage: English\n
+ DOI: https://doi.org/10.1787/tour-2018-t
+ able131-en\nPublication type: Table\nRel
+ eased as: HTML, PDF, Spreadsheet.\n\niLi
+ brary export: never\nFreepreview export:
+  never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Peru: Domestic, inbound and ou
+ tbound tourism: Peru (en) on 8 March 201
+ 8, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table132-en
+SUMMARY:Peru: Enterprises and employment in tour
+ ism: Peru (en) on 8 March 2018, 12:30 Pa
+ ris time (GMT+01:00)
+DESCRIPTION:Peru: Enterprises and employment in tour
+ ism: Peru (en)  by Centre for Entreprene
+ urship, SMEs and Local Development has a
+ n embargo date/time of 8 March 2018, 12:
+ 30 Paris time (GMT+01:00).\n\nDirectorat
+ e: Centre for Entrepreneurship, SMEs and
+  Local Development\nLanguage: English\nD
+ OI: https://doi.org/10.1787/tour-2018-ta
+ ble132-en\nPublication type: Table\nRele
+ ased as: PDF, Spreadsheet, HTML.\n\niLib
+ rary export: never\nFreepreview export: 
+ never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Peru: Enterprises and employme
+ nt in tourism: Peru (en) on 8 March 2018
+ , 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table133-en
+SUMMARY:Peru: Internal tourism consumption: Peru
+  (en) on 8 March 2018, 12:30 Paris time 
+ (GMT+01:00)
+DESCRIPTION:Peru: Internal tourism consumption: Peru
+  (en)  by Centre for Entrepreneurship, S
+ MEs and Local Development has an embargo
+  date/time of 8 March 2018, 12:30 Paris 
+ time (GMT+01:00).\n\nDirectorate: Centre
+  for Entrepreneurship, SMEs and Local De
+ velopment\nLanguage: English\nDOI: https
+ ://doi.org/10.1787/tour-2018-table133-en
+ \nPublication type: Table\nReleased as: 
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: never\nFreepreview export: never\nFT
+ I loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Peru: Internal tourism consump
+ tion: Peru (en) on 8 March 2018, 12:30 P
+ aris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table134-en
+SUMMARY:Philippines: Domestic, inbound and outbo
+ und tourism: Philippines (en) on 8 March
+  2018, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:Philippines: Domestic, inbound and outbo
+ und tourism: Philippines (en)  by Centre
+  for Entrepreneurship, SMEs and Local De
+ velopment has an embargo date/time of 8 
+ March 2018, 12:30 Paris time (GMT+01:00)
+ .\n\nDirectorate: Centre for Entrepreneu
+ rship, SMEs and Local Development\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/tour-2018-table134-en\nPublication ty
+ pe: Table\nReleased as: PDF, Spreadsheet
+ , HTML.\n\niLibrary export: never\nFreep
+ review export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Philippines: Domestic, inbound
+  and outbound tourism: Philippines (en) 
+ on 8 March 2018, 12:30 Paris time (GMT+0
+ 1:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table135-en
+SUMMARY:Philippines: Enterprises and employment 
+ in tourism: Philippines (en) on 8 March 
+ 2018, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:Philippines: Enterprises and employment 
+ in tourism: Philippines (en)  by Centre 
+ for Entrepreneurship, SMEs and Local Dev
+ elopment has an embargo date/time of 8 M
+ arch 2018, 12:30 Paris time (GMT+01:00).
+ \n\nDirectorate: Centre for Entrepreneur
+ ship, SMEs and Local Development\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/tour-2018-table135-en\nPublication typ
+ e: Table\nReleased as: HTML, PDF, Spread
+ sheet.\n\niLibrary export: never\nFreepr
+ eview export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Philippines: Enterprises and e
+ mployment in tourism: Philippines (en) o
+ n 8 March 2018, 12:30 Paris time (GMT+01
+ :00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table136-en
+SUMMARY:Philippines: Internal tourism consumptio
+ n: Philippines (en) on 8 March 2018, 12:
+ 30 Paris time (GMT+01:00)
+DESCRIPTION:Philippines: Internal tourism consumptio
+ n: Philippines (en)  by Centre for Entre
+ preneurship, SMEs and Local Development 
+ has an embargo date/time of 8 March 2018
+ , 12:30 Paris time (GMT+01:00).\n\nDirec
+ torate: Centre for Entrepreneurship, SME
+ s and Local Development\nLanguage: Engli
+ sh\nDOI: https://doi.org/10.1787/tour-20
+ 18-table136-en\nPublication type: Table\
+ nReleased as: PDF, Spreadsheet, HTML.\n\
+ niLibrary export: never\nFreepreview exp
+ ort: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Philippines: Internal tourism 
+ consumption: Philippines (en) on 8 March
+  2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table77-en
+SUMMARY:Poland: Domestic, inbound and outbound t
+ ourism: Poland (en) on 8 March 2018, 12:
+ 30 Paris time (GMT+01:00)
+DESCRIPTION:Poland: Domestic, inbound and outbound t
+ ourism: Poland (en)  by Centre for Entre
+ preneurship, SMEs and Local Development 
+ has an embargo date/time of 8 March 2018
+ , 12:30 Paris time (GMT+01:00).\n\nDirec
+ torate: Centre for Entrepreneurship, SME
+ s and Local Development\nLanguage: Engli
+ sh\nDOI: https://doi.org/10.1787/tour-20
+ 18-table77-en\nPublication type: Table\n
+ Released as: PDF, Spreadsheet, HTML.\n\n
+ iLibrary export: never\nFreepreview expo
+ rt: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Poland: Domestic, inbound and 
+ outbound tourism: Poland (en) on 8 March
+  2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table78-en
+SUMMARY:Poland: Enterprises and employment in to
+ urism: Poland (en) on 8 March 2018, 12:3
+ 0 Paris time (GMT+01:00)
+DESCRIPTION:Poland: Enterprises and employment in to
+ urism: Poland (en)  by Centre for Entrep
+ reneurship, SMEs and Local Development h
+ as an embargo date/time of 8 March 2018,
+  12:30 Paris time (GMT+01:00).\n\nDirect
+ orate: Centre for Entrepreneurship, SMEs
+  and Local Development\nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/tour-201
+ 8-table78-en\nPublication type: Table\nR
+ eleased as: HTML, PDF, Spreadsheet.\n\ni
+ Library export: never\nFreepreview expor
+ t: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Poland: Enterprises and employ
+ ment in tourism: Poland (en) on 8 March 
+ 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table79-en
+SUMMARY:Poland: Internal tourism consumption: Po
+ land (en) on 8 March 2018, 12:30 Paris t
+ ime (GMT+01:00)
+DESCRIPTION:Poland: Internal tourism consumption: Po
+ land (en)  by Centre for Entrepreneurshi
+ p, SMEs and Local Development has an emb
+ argo date/time of 8 March 2018, 12:30 Pa
+ ris time (GMT+01:00).\n\nDirectorate: Ce
+ ntre for Entrepreneurship, SMEs and Loca
+ l Development\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tour-2018-table79
+ -en\nPublication type: Table\nReleased a
+ s: Spreadsheet, HTML, PDF.\n\niLibrary e
+ xport: never\nFreepreview export: never\
+ nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Poland: Internal tourism consu
+ mption: Poland (en) on 8 March 2018, 12:
+ 30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table80-en
+SUMMARY:Portugal: Domestic, inbound and outbound
+  tourism: Portugal (en) on 8 March 2018,
+  12:30 Paris time (GMT+01:00)
+DESCRIPTION:Portugal: Domestic, inbound and outbound
+  tourism: Portugal (en)  by Centre for E
+ ntrepreneurship, SMEs and Local Developm
+ ent has an embargo date/time of 8 March 
+ 2018, 12:30 Paris time (GMT+01:00).\n\nD
+ irectorate: Centre for Entrepreneurship,
+  SMEs and Local Development\nLanguage: E
+ nglish\nDOI: https://doi.org/10.1787/tou
+ r-2018-table80-en\nPublication type: Tab
+ le\nReleased as: Spreadsheet, HTML, PDF.
+ \n\niLibrary export: never\nFreepreview 
+ export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Portugal: Domestic, inbound an
+ d outbound tourism: Portugal (en) on 8 M
+ arch 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table81-en
+SUMMARY:Portugal: Enterprises and employment in 
+ tourism: Portugal (en) on 8 March 2018, 
+ 12:30 Paris time (GMT+01:00)
+DESCRIPTION:Portugal: Enterprises and employment in 
+ tourism: Portugal (en)  by Centre for En
+ trepreneurship, SMEs and Local Developme
+ nt has an embargo date/time of 8 March 2
+ 018, 12:30 Paris time (GMT+01:00).\n\nDi
+ rectorate: Centre for Entrepreneurship, 
+ SMEs and Local Development\nLanguage: En
+ glish\nDOI: https://doi.org/10.1787/tour
+ -2018-table81-en\nPublication type: Tabl
+ e\nReleased as: HTML, PDF, Spreadsheet.\
+ n\niLibrary export: never\nFreepreview e
+ xport: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Portugal: Enterprises and empl
+ oyment in tourism: Portugal (en) on 8 Ma
+ rch 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table82-en
+SUMMARY:Portugal: Internal tourism consumption: 
+ Portugal (en) on 8 March 2018, 12:30 Par
+ is time (GMT+01:00)
+DESCRIPTION:Portugal: Internal tourism consumption: 
+ Portugal (en)  by Centre for Entrepreneu
+ rship, SMEs and Local Development has an
+  embargo date/time of 8 March 2018, 12:3
+ 0 Paris time (GMT+01:00).\n\nDirectorate
+ : Centre for Entrepreneurship, SMEs and 
+ Local Development\nLanguage: English\nDO
+ I: https://doi.org/10.1787/tour-2018-tab
+ le82-en\nPublication type: Table\nReleas
+ ed as: PDF, Spreadsheet, HTML.\n\niLibra
+ ry export: never\nFreepreview export: ne
+ ver\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Portugal: Internal tourism con
+ sumption: Portugal (en) on 8 March 2018,
+  12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table137-en
+SUMMARY:Romania: Domestic, inbound and outbound 
+ tourism: Romania (en) on 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00)
+DESCRIPTION:Romania: Domestic, inbound and outbound 
+ tourism: Romania (en)  by Centre for Ent
+ repreneurship, SMEs and Local Developmen
+ t has an embargo date/time of 8 March 20
+ 18, 12:30 Paris time (GMT+01:00).\n\nDir
+ ectorate: Centre for Entrepreneurship, S
+ MEs and Local Development\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/tour-
+ 2018-table137-en\nPublication type: Tabl
+ e\nReleased as: PDF, Spreadsheet, HTML.\
+ n\niLibrary export: never\nFreepreview e
+ xport: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Romania: Domestic, inbound and
+  outbound tourism: Romania (en) on 8 Mar
+ ch 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table138-en
+SUMMARY:Romania: Enterprises and employment in t
+ ourism: Romania (en) on 8 March 2018, 12
+ :30 Paris time (GMT+01:00)
+DESCRIPTION:Romania: Enterprises and employment in t
+ ourism: Romania (en)  by Centre for Entr
+ epreneurship, SMEs and Local Development
+  has an embargo date/time of 8 March 201
+ 8, 12:30 Paris time (GMT+01:00).\n\nDire
+ ctorate: Centre for Entrepreneurship, SM
+ Es and Local Development\nLanguage: Engl
+ ish\nDOI: https://doi.org/10.1787/tour-2
+ 018-table138-en\nPublication type: Table
+ \nReleased as: PDF, Spreadsheet, HTML.\n
+ \niLibrary export: never\nFreepreview ex
+ port: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Romania: Enterprises and emplo
+ yment in tourism: Romania (en) on 8 Marc
+ h 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table139-en
+SUMMARY:Romania: Internal tourism consumption: R
+ omania (en) on 8 March 2018, 12:30 Paris
+  time (GMT+01:00)
+DESCRIPTION:Romania: Internal tourism consumption: R
+ omania (en)  by Centre for Entrepreneurs
+ hip, SMEs and Local Development has an e
+ mbargo date/time of 8 March 2018, 12:30 
+ Paris time (GMT+01:00).\n\nDirectorate: 
+ Centre for Entrepreneurship, SMEs and Lo
+ cal Development\nLanguage: English\nDOI:
+  https://doi.org/10.1787/tour-2018-table
+ 139-en\nPublication type: Table\nRelease
+ d as: PDF, Spreadsheet, HTML.\n\niLibrar
+ y export: never\nFreepreview export: nev
+ er\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Romania: Internal tourism cons
+ umption: Romania (en) on 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table140-en
+SUMMARY:Russian Federation: Domestic, inbound an
+ d outbound tourism: Russian Federation (
+ en) on 8 March 2018, 12:30 Paris time (G
+ MT+01:00)
+DESCRIPTION:Russian Federation: Domestic, inbound an
+ d outbound tourism: Russian Federation (
+ en)  by Centre for Entrepreneurship, SME
+ s and Local Development has an embargo d
+ ate/time of 8 March 2018, 12:30 Paris ti
+ me (GMT+01:00).\n\nDirectorate: Centre f
+ or Entrepreneurship, SMEs and Local Deve
+ lopment\nLanguage: English\nDOI: https:/
+ /doi.org/10.1787/tour-2018-table140-en\n
+ Publication type: Table\nReleased as: HT
+ ML, PDF, Spreadsheet.\n\niLibrary export
+ : never\nFreepreview export: never\nFTI 
+ loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Russian Federation: Domestic, 
+ inbound and outbound tourism: Russian Fe
+ deration (en) on 8 March 2018, 12:30 Par
+ is time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table141-en
+SUMMARY:Russian Federation: Enterprises and empl
+ oyment in tourism: Russian Federation (e
+ n) on 8 March 2018, 12:30 Paris time (GM
+ T+01:00)
+DESCRIPTION:Russian Federation: Enterprises and empl
+ oyment in tourism: Russian Federation (e
+ n)  by Centre for Entrepreneurship, SMEs
+  and Local Development has an embargo da
+ te/time of 8 March 2018, 12:30 Paris tim
+ e (GMT+01:00).\n\nDirectorate: Centre fo
+ r Entrepreneurship, SMEs and Local Devel
+ opment\nLanguage: English\nDOI: https://
+ doi.org/10.1787/tour-2018-table141-en\nP
+ ublication type: Table\nReleased as: PDF
+ , Spreadsheet, HTML.\n\niLibrary export:
+  never\nFreepreview export: never\nFTI l
+ oaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Russian Federation: Enterprise
+ s and employment in tourism: Russian Fed
+ eration (en) on 8 March 2018, 12:30 Pari
+ s time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table83-en
+SUMMARY:Slovak Republic: Domestic, inbound and o
+ utbound tourism: Slovak Republic (en) on
+  8 March 2018, 12:30 Paris time (GMT+01:
+ 00)
+DESCRIPTION:Slovak Republic: Domestic, inbound and o
+ utbound tourism: Slovak Republic (en)  b
+ y Centre for Entrepreneurship, SMEs and 
+ Local Development has an embargo date/ti
+ me of 8 March 2018, 12:30 Paris time (GM
+ T+01:00).\n\nDirectorate: Centre for Ent
+ repreneurship, SMEs and Local Developmen
+ t\nLanguage: English\nDOI: https://doi.o
+ rg/10.1787/tour-2018-table83-en\nPublica
+ tion type: Table\nReleased as: HTML, PDF
+ , Spreadsheet.\n\niLibrary export: never
+ \nFreepreview export: never\nFTI loaded:
+  ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Slovak Republic: Domestic, inb
+ ound and outbound tourism: Slovak Republ
+ ic (en) on 8 March 2018, 12:30 Paris tim
+ e (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table84-en
+SUMMARY:Slovak Republic: Enterprises and employm
+ ent in tourism: Slovak Republic (en) on 
+ 8 March 2018, 12:30 Paris time (GMT+01:0
+ 0)
+DESCRIPTION:Slovak Republic: Enterprises and employm
+ ent in tourism: Slovak Republic (en)  by
+  Centre for Entrepreneurship, SMEs and L
+ ocal Development has an embargo date/tim
+ e of 8 March 2018, 12:30 Paris time (GMT
+ +01:00).\n\nDirectorate: Centre for Entr
+ epreneurship, SMEs and Local Development
+ \nLanguage: English\nDOI: https://doi.or
+ g/10.1787/tour-2018-table84-en\nPublicat
+ ion type: Table\nReleased as: Spreadshee
+ t, HTML, PDF.\n\niLibrary export: never\
+ nFreepreview export: never\nFTI loaded: 
+ ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Slovak Republic: Enterprises a
+ nd employment in tourism: Slovak Republi
+ c (en) on 8 March 2018, 12:30 Paris time
+  (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table85-en
+SUMMARY:Slovak Republic: Internal tourism consum
+ ption: Slovak Republic (en) on 8 March 2
+ 018, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:Slovak Republic: Internal tourism consum
+ ption: Slovak Republic (en)  by Centre f
+ or Entrepreneurship, SMEs and Local Deve
+ lopment has an embargo date/time of 8 Ma
+ rch 2018, 12:30 Paris time (GMT+01:00).\
+ n\nDirectorate: Centre for Entrepreneurs
+ hip, SMEs and Local Development\nLanguag
+ e: English\nDOI: https://doi.org/10.1787
+ /tour-2018-table85-en\nPublication type:
+  Table\nReleased as: HTML, PDF, Spreadsh
+ eet.\n\niLibrary export: never\nFreeprev
+ iew export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Slovak Republic: Internal tour
+ ism consumption: Slovak Republic (en) on
+  8 March 2018, 12:30 Paris time (GMT+01:
+ 00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table86-en
+SUMMARY:Slovenia: Domestic, inbound and outbound
+  tourism: Slovenia (en) on 8 March 2018,
+  12:30 Paris time (GMT+01:00)
+DESCRIPTION:Slovenia: Domestic, inbound and outbound
+  tourism: Slovenia (en)  by Centre for E
+ ntrepreneurship, SMEs and Local Developm
+ ent has an embargo date/time of 8 March 
+ 2018, 12:30 Paris time (GMT+01:00).\n\nD
+ irectorate: Centre for Entrepreneurship,
+  SMEs and Local Development\nLanguage: E
+ nglish\nDOI: https://doi.org/10.1787/tou
+ r-2018-table86-en\nPublication type: Tab
+ le\nReleased as: PDF, Spreadsheet, HTML.
+ \n\niLibrary export: never\nFreepreview 
+ export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Slovenia: Domestic, inbound an
+ d outbound tourism: Slovenia (en) on 8 M
+ arch 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table87-en
+SUMMARY:Slovenia: Enterprises and employment in 
+ tourism: Slovenia (en) on 8 March 2018, 
+ 12:30 Paris time (GMT+01:00)
+DESCRIPTION:Slovenia: Enterprises and employment in 
+ tourism: Slovenia (en)  by Centre for En
+ trepreneurship, SMEs and Local Developme
+ nt has an embargo date/time of 8 March 2
+ 018, 12:30 Paris time (GMT+01:00).\n\nDi
+ rectorate: Centre for Entrepreneurship, 
+ SMEs and Local Development\nLanguage: En
+ glish\nDOI: https://doi.org/10.1787/tour
+ -2018-table87-en\nPublication type: Tabl
+ e\nReleased as: Spreadsheet, HTML, PDF.\
+ n\niLibrary export: never\nFreepreview e
+ xport: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Slovenia: Enterprises and empl
+ oyment in tourism: Slovenia (en) on 8 Ma
+ rch 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table88-en
+SUMMARY:Slovenia: Internal tourism consumption: 
+ Slovenia (en) on 8 March 2018, 12:30 Par
+ is time (GMT+01:00)
+DESCRIPTION:Slovenia: Internal tourism consumption: 
+ Slovenia (en)  by Centre for Entrepreneu
+ rship, SMEs and Local Development has an
+  embargo date/time of 8 March 2018, 12:3
+ 0 Paris time (GMT+01:00).\n\nDirectorate
+ : Centre for Entrepreneurship, SMEs and 
+ Local Development\nLanguage: English\nDO
+ I: https://doi.org/10.1787/tour-2018-tab
+ le88-en\nPublication type: Table\nReleas
+ ed as: HTML, PDF, Spreadsheet.\n\niLibra
+ ry export: never\nFreepreview export: ne
+ ver\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Slovenia: Internal tourism con
+ sumption: Slovenia (en) on 8 March 2018,
+  12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table142-en
+SUMMARY:South Africa: Domestic, inbound and outb
+ ound tourism: South Africa (en) on 8 Mar
+ ch 2018, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:South Africa: Domestic, inbound and outb
+ ound tourism: South Africa (en)  by Cent
+ re for Entrepreneurship, SMEs and Local 
+ Development has an embargo date/time of 
+ 8 March 2018, 12:30 Paris time (GMT+01:0
+ 0).\n\nDirectorate: Centre for Entrepren
+ eurship, SMEs and Local Development\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/tour-2018-table142-en\nPublication 
+ type: Table\nReleased as: PDF, Spreadshe
+ et, HTML.\n\niLibrary export: never\nFre
+ epreview export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: South Africa: Domestic, inboun
+ d and outbound tourism: South Africa (en
+ ) on 8 March 2018, 12:30 Paris time (GMT
+ +01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table143-en
+SUMMARY:South Africa: Enterprises and employment
+  in tourism: South Africa (en) on 8 Marc
+ h 2018, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:South Africa: Enterprises and employment
+  in tourism: South Africa (en)  by Centr
+ e for Entrepreneurship, SMEs and Local D
+ evelopment has an embargo date/time of 8
+  March 2018, 12:30 Paris time (GMT+01:00
+ ).\n\nDirectorate: Centre for Entreprene
+ urship, SMEs and Local Development\nLang
+ uage: English\nDOI: https://doi.org/10.1
+ 787/tour-2018-table143-en\nPublication t
+ ype: Table\nReleased as: PDF, Spreadshee
+ t, HTML.\n\niLibrary export: never\nFree
+ preview export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: South Africa: Enterprises and 
+ employment in tourism: South Africa (en)
+  on 8 March 2018, 12:30 Paris time (GMT+
+ 01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table144-en
+SUMMARY:South Africa: Internal tourism consumpti
+ on: South Africa (en) on 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00)
+DESCRIPTION:South Africa: Internal tourism consumpti
+ on: South Africa (en)  by Centre for Ent
+ repreneurship, SMEs and Local Developmen
+ t has an embargo date/time of 8 March 20
+ 18, 12:30 Paris time (GMT+01:00).\n\nDir
+ ectorate: Centre for Entrepreneurship, S
+ MEs and Local Development\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/tour-
+ 2018-table144-en\nPublication type: Tabl
+ e\nReleased as: Spreadsheet, HTML, PDF.\
+ n\niLibrary export: never\nFreepreview e
+ xport: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: South Africa: Internal tourism
+  consumption: South Africa (en) on 8 Mar
+ ch 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table89-en
+SUMMARY:Spain: Domestic, inbound and outbound to
+ urism: Spain (en) on 8 March 2018, 12:30
+  Paris time (GMT+01:00)
+DESCRIPTION:Spain: Domestic, inbound and outbound to
+ urism: Spain (en)  by Centre for Entrepr
+ eneurship, SMEs and Local Development ha
+ s an embargo date/time of 8 March 2018, 
+ 12:30 Paris time (GMT+01:00).\n\nDirecto
+ rate: Centre for Entrepreneurship, SMEs 
+ and Local Development\nLanguage: English
+ \nDOI: https://doi.org/10.1787/tour-2018
+ -table89-en\nPublication type: Table\nRe
+ leased as: PDF, Spreadsheet, HTML.\n\niL
+ ibrary export: never\nFreepreview export
+ : never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Spain: Domestic, inbound and o
+ utbound tourism: Spain (en) on 8 March 2
+ 018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table90-en
+SUMMARY:Spain: Enterprises and employment in tou
+ rism: Spain (en) on 8 March 2018, 12:30 
+ Paris time (GMT+01:00)
+DESCRIPTION:Spain: Enterprises and employment in tou
+ rism: Spain (en)  by Centre for Entrepre
+ neurship, SMEs and Local Development has
+  an embargo date/time of 8 March 2018, 1
+ 2:30 Paris time (GMT+01:00).\n\nDirector
+ ate: Centre for Entrepreneurship, SMEs a
+ nd Local Development\nLanguage: English\
+ nDOI: https://doi.org/10.1787/tour-2018-
+ table90-en\nPublication type: Table\nRel
+ eased as: PDF, Spreadsheet, HTML.\n\niLi
+ brary export: never\nFreepreview export:
+  never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Spain: Enterprises and employm
+ ent in tourism: Spain (en) on 8 March 20
+ 18, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table91-en
+SUMMARY:Spain: Internal tourism consumption: Spa
+ in (en) on 8 March 2018, 12:30 Paris tim
+ e (GMT+01:00)
+DESCRIPTION:Spain: Internal tourism consumption: Spa
+ in (en)  by Centre for Entrepreneurship,
+  SMEs and Local Development has an embar
+ go date/time of 8 March 2018, 12:30 Pari
+ s time (GMT+01:00).\n\nDirectorate: Cent
+ re for Entrepreneurship, SMEs and Local 
+ Development\nLanguage: English\nDOI: htt
+ ps://doi.org/10.1787/tour-2018-table91-e
+ n\nPublication type: Table\nReleased as:
+  HTML, PDF, Spreadsheet.\n\niLibrary exp
+ ort: never\nFreepreview export: never\nF
+ TI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Spain: Internal tourism consum
+ ption: Spain (en) on 8 March 2018, 12:30
+  Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table92-en
+SUMMARY:Sweden: Domestic, inbound and outbound t
+ ourism: Sweden (en) on 8 March 2018, 12:
+ 30 Paris time (GMT+01:00)
+DESCRIPTION:Sweden: Domestic, inbound and outbound t
+ ourism: Sweden (en)  by Centre for Entre
+ preneurship, SMEs and Local Development 
+ has an embargo date/time of 8 March 2018
+ , 12:30 Paris time (GMT+01:00).\n\nDirec
+ torate: Centre for Entrepreneurship, SME
+ s and Local Development\nLanguage: Engli
+ sh\nDOI: https://doi.org/10.1787/tour-20
+ 18-table92-en\nPublication type: Table\n
+ Released as: HTML, PDF, Spreadsheet.\n\n
+ iLibrary export: never\nFreepreview expo
+ rt: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Sweden: Domestic, inbound and 
+ outbound tourism: Sweden (en) on 8 March
+  2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table93-en
+SUMMARY:Sweden: Enterprises and employment in to
+ urism: Sweden (en) on 8 March 2018, 12:3
+ 0 Paris time (GMT+01:00)
+DESCRIPTION:Sweden: Enterprises and employment in to
+ urism: Sweden (en)  by Centre for Entrep
+ reneurship, SMEs and Local Development h
+ as an embargo date/time of 8 March 2018,
+  12:30 Paris time (GMT+01:00).\n\nDirect
+ orate: Centre for Entrepreneurship, SMEs
+  and Local Development\nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/tour-201
+ 8-table93-en\nPublication type: Table\nR
+ eleased as: PDF, Spreadsheet, HTML.\n\ni
+ Library export: never\nFreepreview expor
+ t: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Sweden: Enterprises and employ
+ ment in tourism: Sweden (en) on 8 March 
+ 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table94-en
+SUMMARY:Sweden: Internal tourism consumption: Sw
+ eden (en) on 8 March 2018, 12:30 Paris t
+ ime (GMT+01:00)
+DESCRIPTION:Sweden: Internal tourism consumption: Sw
+ eden (en)  by Centre for Entrepreneurshi
+ p, SMEs and Local Development has an emb
+ argo date/time of 8 March 2018, 12:30 Pa
+ ris time (GMT+01:00).\n\nDirectorate: Ce
+ ntre for Entrepreneurship, SMEs and Loca
+ l Development\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tour-2018-table94
+ -en\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: never\
+ nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Sweden: Internal tourism consu
+ mption: Sweden (en) on 8 March 2018, 12:
+ 30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table95-en
+SUMMARY:Switzerland: Domestic, inbound and outbo
+ und tourism: Switzerland (en) on 8 March
+  2018, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:Switzerland: Domestic, inbound and outbo
+ und tourism: Switzerland (en)  by Centre
+  for Entrepreneurship, SMEs and Local De
+ velopment has an embargo date/time of 8 
+ March 2018, 12:30 Paris time (GMT+01:00)
+ .\n\nDirectorate: Centre for Entrepreneu
+ rship, SMEs and Local Development\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/tour-2018-table95-en\nPublication typ
+ e: Table\nReleased as: Spreadsheet, HTML
+ , PDF.\n\niLibrary export: never\nFreepr
+ eview export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Switzerland: Domestic, inbound
+  and outbound tourism: Switzerland (en) 
+ on 8 March 2018, 12:30 Paris time (GMT+0
+ 1:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table96-en
+SUMMARY:Switzerland: Enterprises and employment 
+ in tourism: Switzerland (en) on 8 March 
+ 2018, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:Switzerland: Enterprises and employment 
+ in tourism: Switzerland (en)  by Centre 
+ for Entrepreneurship, SMEs and Local Dev
+ elopment has an embargo date/time of 8 M
+ arch 2018, 12:30 Paris time (GMT+01:00).
+ \n\nDirectorate: Centre for Entrepreneur
+ ship, SMEs and Local Development\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/tour-2018-table96-en\nPublication type
+ : Table\nReleased as: HTML, PDF, Spreads
+ heet.\n\niLibrary export: never\nFreepre
+ view export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Switzerland: Enterprises and e
+ mployment in tourism: Switzerland (en) o
+ n 8 March 2018, 12:30 Paris time (GMT+01
+ :00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table97-en
+SUMMARY:Switzerland: Internal tourism consumptio
+ n: Switzerland (en) on 8 March 2018, 12:
+ 30 Paris time (GMT+01:00)
+DESCRIPTION:Switzerland: Internal tourism consumptio
+ n: Switzerland (en)  by Centre for Entre
+ preneurship, SMEs and Local Development 
+ has an embargo date/time of 8 March 2018
+ , 12:30 Paris time (GMT+01:00).\n\nDirec
+ torate: Centre for Entrepreneurship, SME
+ s and Local Development\nLanguage: Engli
+ sh\nDOI: https://doi.org/10.1787/tour-20
+ 18-table97-en\nPublication type: Table\n
+ Released as: PDF, Spreadsheet, HTML.\n\n
+ iLibrary export: never\nFreepreview expo
+ rt: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Switzerland: Internal tourism 
+ consumption: Switzerland (en) on 8 March
+  2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table98-en
+SUMMARY:Turkey: Domestic, inbound and outbound t
+ ourism: Turkey (en) on 8 March 2018, 12:
+ 30 Paris time (GMT+01:00)
+DESCRIPTION:Turkey: Domestic, inbound and outbound t
+ ourism: Turkey (en)  by Centre for Entre
+ preneurship, SMEs and Local Development 
+ has an embargo date/time of 8 March 2018
+ , 12:30 Paris time (GMT+01:00).\n\nDirec
+ torate: Centre for Entrepreneurship, SME
+ s and Local Development\nLanguage: Engli
+ sh\nDOI: https://doi.org/10.1787/tour-20
+ 18-table98-en\nPublication type: Table\n
+ Released as: HTML, Spreadsheet, PDF.\n\n
+ iLibrary export: never\nFreepreview expo
+ rt: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Turkey: Domestic, inbound and 
+ outbound tourism: Turkey (en) on 8 March
+  2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table99-en
+SUMMARY:Turkey: Enterprises and employment in to
+ urism: Turkey (en) on 8 March 2018, 12:3
+ 0 Paris time (GMT+01:00)
+DESCRIPTION:Turkey: Enterprises and employment in to
+ urism: Turkey (en)  by Centre for Entrep
+ reneurship, SMEs and Local Development h
+ as an embargo date/time of 8 March 2018,
+  12:30 Paris time (GMT+01:00).\n\nDirect
+ orate: Centre for Entrepreneurship, SMEs
+  and Local Development\nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/tour-201
+ 8-table99-en\nPublication type: Table\nR
+ eleased as: HTML, PDF, Spreadsheet.\n\ni
+ Library export: never\nFreepreview expor
+ t: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Turkey: Enterprises and employ
+ ment in tourism: Turkey (en) on 8 March 
+ 2018, 12:30 Paris time (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table100-en
+SUMMARY:United Kingdom: Domestic, inbound and ou
+ tbound tourism: United Kingdom (en) on 8
+  March 2018, 12:30 Paris time (GMT+01:00
+ )
+DESCRIPTION:United Kingdom: Domestic, inbound and ou
+ tbound tourism: United Kingdom (en)  by 
+ Centre for Entrepreneurship, SMEs and Lo
+ cal Development has an embargo date/time
+  of 8 March 2018, 12:30 Paris time (GMT+
+ 01:00).\n\nDirectorate: Centre for Entre
+ preneurship, SMEs and Local Development\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/tour-2018-table100-en\nPublicat
+ ion type: Table\nReleased as: PDF, Sprea
+ dsheet, HTML.\n\niLibrary export: never\
+ nFreepreview export: never\nFTI loaded: 
+ ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: United Kingdom: Domestic, inbo
+ und and outbound tourism: United Kingdom
+  (en) on 8 March 2018, 12:30 Paris time 
+ (GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table101-en
+SUMMARY:United Kingdom: Enterprises and employme
+ nt in tourism: United Kingdom (en) on 8 
+ March 2018, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:United Kingdom: Enterprises and employme
+ nt in tourism: United Kingdom (en)  by C
+ entre for Entrepreneurship, SMEs and Loc
+ al Development has an embargo date/time 
+ of 8 March 2018, 12:30 Paris time (GMT+0
+ 1:00).\n\nDirectorate: Centre for Entrep
+ reneurship, SMEs and Local Development\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/tour-2018-table101-en\nPublicati
+ on type: Table\nReleased as: Spreadsheet
+ , HTML, PDF.\n\niLibrary export: never\n
+ Freepreview export: never\nFTI loaded: ✓
+ .
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: United Kingdom: Enterprises an
+ d employment in tourism: United Kingdom 
+ (en) on 8 March 2018, 12:30 Paris time (
+ GMT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table102-en
+SUMMARY:United Kingdom: Internal tourism consump
+ tion: United Kingdom (en) on 8 March 201
+ 8, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:United Kingdom: Internal tourism consump
+ tion: United Kingdom (en)  by Centre for
+  Entrepreneurship, SMEs and Local Develo
+ pment has an embargo date/time of 8 Marc
+ h 2018, 12:30 Paris time (GMT+01:00).\n\
+ nDirectorate: Centre for Entrepreneurshi
+ p, SMEs and Local Development\nLanguage:
+  English\nDOI: https://doi.org/10.1787/t
+ our-2018-table102-en\nPublication type: 
+ Table\nReleased as: PDF, Spreadsheet, HT
+ ML.\n\niLibrary export: never\nFreeprevi
+ ew export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: United Kingdom: Internal touri
+ sm consumption: United Kingdom (en) on 8
+  March 2018, 12:30 Paris time (GMT+01:00
+ )
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table103-en
+SUMMARY:United States: Domestic, inbound and out
+ bound tourism: United States (en) on 8 M
+ arch 2018, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:United States: Domestic, inbound and out
+ bound tourism: United States (en)  by Ce
+ ntre for Entrepreneurship, SMEs and Loca
+ l Development has an embargo date/time o
+ f 8 March 2018, 12:30 Paris time (GMT+01
+ :00).\n\nDirectorate: Centre for Entrepr
+ eneurship, SMEs and Local Development\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/tour-2018-table103-en\nPublicatio
+ n type: Table\nReleased as: Spreadsheet,
+  HTML, PDF.\n\niLibrary export: never\nF
+ reepreview export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: United States: Domestic, inbou
+ nd and outbound tourism: United States (
+ en) on 8 March 2018, 12:30 Paris time (G
+ MT+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table104-en
+SUMMARY:United States: Enterprises and employmen
+ t in tourism: United States (en) on 8 Ma
+ rch 2018, 12:30 Paris time (GMT+01:00)
+DESCRIPTION:United States: Enterprises and employmen
+ t in tourism: United States (en)  by Cen
+ tre for Entrepreneurship, SMEs and Local
+  Development has an embargo date/time of
+  8 March 2018, 12:30 Paris time (GMT+01:
+ 00).\n\nDirectorate: Centre for Entrepre
+ neurship, SMEs and Local Development\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/tour-2018-table104-en\nPublication
+  type: Table\nReleased as: PDF, Spreadsh
+ eet, HTML.\n\niLibrary export: never\nFr
+ eepreview export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: United States: Enterprises and
+  employment in tourism: United States (e
+ n) on 8 March 2018, 12:30 Paris time (GM
+ T+01:00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tour-2018-table105-en
+SUMMARY:United States: Internal tourism consumpt
+ ion: United States (en) on 8 March 2018,
+  12:30 Paris time (GMT+01:00)
+DESCRIPTION:United States: Internal tourism consumpt
+ ion: United States (en)  by Centre for E
+ ntrepreneurship, SMEs and Local Developm
+ ent has an embargo date/time of 8 March 
+ 2018, 12:30 Paris time (GMT+01:00).\n\nD
+ irectorate: Centre for Entrepreneurship,
+  SMEs and Local Development\nLanguage: E
+ nglish\nDOI: https://doi.org/10.1787/tou
+ r-2018-table105-en\nPublication type: Ta
+ ble\nReleased as: HTML, PDF, Spreadsheet
+ .\n\niLibrary export: never\nFreepreview
+  export: never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
+DTSTART:20180308T113000Z
+DTEND:20180308T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: United States: Internal touris
+ m consumption: United States (en) on 8 M
+ arch 2018, 12:30 Paris time (GMT+01:00)
 END:VALARM
 END:VEVENT
 
@@ -632,7 +5102,7 @@ DESCRIPTION:Regulatory Policy in Slovenia (en)  - Ov
  +00:00)\nFreepreview export: 28 February
   2018, 20:48 Paris time (GMT+00:00)\nFTI
   loaded: ✓.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180309T080000Z
 DTEND:20180309T081500Z
 TRANSP:TRANSPARENT
@@ -667,7 +5137,7 @@ DESCRIPTION:Mechanics of replacing benefits systems
  is time (GMT+00:00)\nFreepreview export:
   6 March 2018, 23:17 Paris time (GMT+00:
  00)\nFTI loaded: ✓.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180309T170000Z
 DTEND:20180309T171500Z
 TRANSP:TRANSPARENT
@@ -694,11 +5164,11 @@ DESCRIPTION:OECD Economic Surveys: Israel 2018 (en)
  ics Department\nLanguage: English\nDOI: 
  https://doi.org/10.1787/eco_surveys-isr-
  2018-en\nPublication type: Economic surv
- ey\nReleased as: Paperback, PDF.\n\niLib
+ ey\nReleased as: PDF, Paperback.\n\niLib
  rary export: 2 March 2018, 21:43 Paris t
  ime (GMT+00:00)\nFreepreview export: nev
- er\nFTI loaded: no.
-DTSTAMP:20180307T005331Z
+ er\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
 DTSTART:20180311T100000Z
 DTEND:20180311T101500Z
 TRANSP:TRANSPARENT
@@ -729,11 +5199,11 @@ DESCRIPTION:Making Dispute Resolution More Effective
  tre for Tax Policy and Administration\nL
  anguage: English\nDOI: https://doi.org/1
  0.1787/9789264290334-en\nPublication typ
- e: Book\nReleased as: Paperback, PDF.\n\
- niLibrary export: 19 February 2018, 22:1
- 6 Paris time (GMT+00:00)\nFreepreview ex
- port: never\nFTI loaded: no.
-DTSTAMP:20180307T005331Z
+ e: Book\nReleased as: PDF, Paperback.\n\
+ niLibrary export: 6 March 2018, 22:07 Pa
+ ris time (GMT+00:00)\nFreepreview export
+ : never\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
 DTSTART:20180312T100000Z
 DTEND:20180312T101500Z
 TRANSP:TRANSPARENT
@@ -766,10 +5236,10 @@ DESCRIPTION:Making Dispute Resolution More Effective
  : English\nDOI: https://doi.org/10.1787/
  9789264190184-en\nPublication type: Book
  \nReleased as: Paperback, PDF.\n\niLibra
- ry export: 19 February 2018, 22:16 Paris
-  time (GMT+00:00)\nFreepreview export: n
- ever\nFTI loaded: no.
-DTSTAMP:20180307T005331Z
+ ry export: 6 March 2018, 22:07 Paris tim
+ e (GMT+00:00)\nFreepreview export: never
+ \nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
 DTSTART:20180312T100000Z
 DTEND:20180312T101500Z
 TRANSP:TRANSPARENT
@@ -802,10 +5272,10 @@ DESCRIPTION:Making Dispute Resolution More Effective
  : English\nDOI: https://doi.org/10.1787/
  9789264224742-en\nPublication type: Book
  \nReleased as: Paperback, PDF.\n\niLibra
- ry export: 19 February 2018, 22:16 Paris
-  time (GMT+00:00)\nFreepreview export: n
- ever\nFTI loaded: no.
-DTSTAMP:20180307T005331Z
+ ry export: 6 March 2018, 22:07 Paris tim
+ e (GMT+00:00)\nFreepreview export: never
+ \nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
 DTSTART:20180312T100000Z
 DTEND:20180312T101500Z
 TRANSP:TRANSPARENT
@@ -838,10 +5308,10 @@ DESCRIPTION:Making Dispute Resolution More Effective
  English\nDOI: https://doi.org/10.1787/97
  89264290365-en\nPublication type: Book\n
  Released as: PDF, Paperback.\n\niLibrary
-  export: 19 February 2018, 22:16 Paris t
- ime (GMT+00:00)\nFreepreview export: nev
- er\nFTI loaded: no.
-DTSTAMP:20180307T005331Z
+  export: 6 March 2018, 22:07 Paris time 
+ (GMT+00:00)\nFreepreview export: never\n
+ FTI loaded: ✓.
+DTSTAMP:20180307T234028Z
 DTSTART:20180312T100000Z
 DTEND:20180312T101500Z
 TRANSP:TRANSPARENT
@@ -873,11 +5343,11 @@ DESCRIPTION:Making Dispute Resolution More Effective
  Tax Policy and Administration\nLanguage:
   English\nDOI: https://doi.org/10.1787/9
  789264290389-en\nPublication type: Book\
- nReleased as: Paperback, PDF.\n\niLibrar
- y export: 19 February 2018, 22:16 Paris 
- time (GMT+00:00)\nFreepreview export: ne
- ver\nFTI loaded: no.
-DTSTAMP:20180307T005331Z
+ nReleased as: PDF, Paperback.\n\niLibrar
+ y export: 6 March 2018, 22:07 Paris time
+  (GMT+00:00)\nFreepreview export: never\
+ nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
 DTSTART:20180312T100000Z
 DTEND:20180312T101500Z
 TRANSP:TRANSPARENT
@@ -910,10 +5380,10 @@ DESCRIPTION:Making Dispute Resolution More Effective
   English\nDOI: https://doi.org/10.1787/9
  789264290457-en\nPublication type: Book\
  nReleased as: Paperback, PDF.\n\niLibrar
- y export: 19 February 2018, 22:16 Paris 
- time (GMT+00:00)\nFreepreview export: ne
- ver\nFTI loaded: no.
-DTSTAMP:20180307T005331Z
+ y export: 6 March 2018, 22:07 Paris time
+  (GMT+00:00)\nFreepreview export: never\
+ nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
 DTSTART:20180312T100000Z
 DTEND:20180312T101500Z
 TRANSP:TRANSPARENT
@@ -946,10 +5416,10 @@ DESCRIPTION:Making Dispute Resolution More Effective
  ge: English\nDOI: https://doi.org/10.178
  7/9789264290488-en\nPublication type: Bo
  ok\nReleased as: PDF, Paperback.\n\niLib
- rary export: 19 February 2018, 22:16 Par
- is time (GMT+00:00)\nFreepreview export:
-  never\nFTI loaded: no.
-DTSTAMP:20180307T005331Z
+ rary export: 6 March 2018, 22:07 Paris t
+ ime (GMT+00:00)\nFreepreview export: nev
+ er\nFTI loaded: ✓.
+DTSTAMP:20180307T234028Z
 DTSTART:20180312T100000Z
 DTEND:20180312T101500Z
 TRANSP:TRANSPARENT
@@ -981,11 +5451,11 @@ DESCRIPTION:Making Dispute Resolution More Effective
  ax Policy and Administration\nLanguage: 
  English\nDOI: https://doi.org/10.1787/97
  89264290761-en\nPublication type: Book\n
- Released as: PDF, Paperback.\n\niLibrary
-  export: 19 February 2018, 22:16 Paris t
- ime (GMT+00:00)\nFreepreview export: nev
- er\nFTI loaded: no.
-DTSTAMP:20180307T005331Z
+ Released as: Paperback, PDF.\n\niLibrary
+  export: 6 March 2018, 22:07 Paris time 
+ (GMT+00:00)\nFreepreview export: never\n
+ FTI loaded: ✓.
+DTSTAMP:20180307T234028Z
 DTSTART:20180312T100000Z
 DTEND:20180312T101500Z
 TRANSP:TRANSPARENT
@@ -1015,11 +5485,11 @@ DESCRIPTION:Towards Better Social and Employment Sec
   and Social Affairs\nLanguage: English\n
  DOI: https://doi.org/10.1787/97892642882
  56-en\nPublication type: Book\nReleased 
- as: PDF, Paperback.\n\niLibrary export: 
+ as: Paperback, PDF.\n\niLibrary export: 
  5 March 2018, 21:56 Paris time (GMT+00:0
  0)\nFreepreview export: never\nFTI loade
  d: no.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180313T230100Z
 DTEND:20180313T231600Z
 TRANSP:TRANSPARENT
@@ -1046,11 +5516,11 @@ DESCRIPTION:OECD Economic Surveys: Poland 2018 (en)
  ics Department\nLanguage: English\nDOI: 
  https://doi.org/10.1787/eco_surveys-pol-
  2018-en\nPublication type: Economic surv
- ey\nReleased as: Paperback, PDF.\n\niLib
- rary export: 5 March 2018, 21:56 Paris t
- ime (GMT+00:00)\nFreepreview export: nev
- er\nFTI loaded: no.
-DTSTAMP:20180307T005331Z
+ ey\nReleased as: PDF, Paperback, ePub.\n
+ \niLibrary export: 6 March 2018, 22:07 P
+ aris time (GMT+00:00)\nFreepreview expor
+ t: never\nFTI loaded: no.
+DTSTAMP:20180307T234028Z
 DTSTART:20180319T090000Z
 DTEND:20180319T091500Z
 TRANSP:TRANSPARENT
@@ -1088,7 +5558,7 @@ DESCRIPTION:Forum mondial sur la transparence et l'é
   February 2018, 21:56 Paris time (GMT+00
  :00)\nFreepreview export: never\nFTI loa
  ded: no.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -1128,7 +5598,7 @@ DESCRIPTION:Forum mondial sur la transparence et l'é
  ebruary 2018, 21:56 Paris time (GMT+00:0
  0)\nFreepreview export: never\nFTI loade
  d: no.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -1168,7 +5638,7 @@ DESCRIPTION:Forum mondial sur la transparence et l'é
  rch 2018, 21:56 Paris time (GMT+00:00)\n
  Freepreview export: never\nFTI loaded: n
  o.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -1206,7 +5676,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  ry export: 21 February 2018, 21:56 Paris
   time (GMT+00:00)\nFreepreview export: n
  ever\nFTI loaded: no.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -1244,7 +5714,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  ry export: 21 February 2018, 21:56 Paris
   time (GMT+00:00)\nFreepreview export: n
  ever\nFTI loaded: no.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -1282,7 +5752,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  y export: 21 February 2018, 21:56 Paris 
  time (GMT+00:00)\nFreepreview export: ne
  ver\nFTI loaded: no.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -1320,7 +5790,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
   export: 21 February 2018, 21:56 Paris t
  ime (GMT+00:00)\nFreepreview export: nev
  er\nFTI loaded: no.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -1358,7 +5828,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  ry export: 21 February 2018, 21:56 Paris
   time (GMT+00:00)\nFreepreview export: n
  ever\nFTI loaded: no.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -1396,7 +5866,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  y export: 21 February 2018, 21:56 Paris 
  time (GMT+00:00)\nFreepreview export: ne
  ver\nFTI loaded: no.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -1434,7 +5904,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  ibrary export: 21 February 2018, 21:56 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -1472,7 +5942,7 @@ DESCRIPTION:Global Forum on Transparency and Exchang
  ibrary export: 21 February 2018, 21:56 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180330T090000Z
 DTEND:20180330T091500Z
 TRANSP:TRANSPARENT
@@ -1506,7 +5976,7 @@ DESCRIPTION:Getting Skills Right: Spain (en)  by Dir
  is time (GMT+00:00)\nFreepreview export:
   21 February 2018, 22:48 Paris time (GMT
  +00:00)\nFTI loaded: ✓.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180426T073000Z
 DTEND:20180426T074500Z
 TRANSP:TRANSPARENT
@@ -1535,11 +6005,11 @@ DESCRIPTION:Inventory of Energy Subsidies in the EU'
  nment Directorate\nLanguage: English\nDO
  I: https://doi.org/10.1787/9789264284319
  -en\nPublication type: Book\nReleased as
- : Paperback, PDF.\n\niLibrary export: 5 
- March 2018, 21:56 Paris time (GMT+00:00)
+ : PDF, Paperback.\n\niLibrary export: 6 
+ March 2018, 22:07 Paris time (GMT+00:00)
  \nFreepreview export: never\nFTI loaded:
   no.
-DTSTAMP:20180307T005331Z
+DTSTAMP:20180307T234028Z
 DTSTART:20180430T090000Z
 DTEND:20180430T091500Z
 TRANSP:TRANSPARENT
