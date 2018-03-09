@@ -1,27 +1,6 @@
-# OECD publication embargoes (28 embargoes)
+# OECD publication embargoes (27 embargoes)
 
-*Data generated on Thursday 8 March 2018 at 23:55*
-
-------
-
-## [Regulatory Policy in Slovenia (en) - Oversight Matters (en)](https://doi.org/10.1787/9789264291690-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 9 March 2018 at 9:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 March 2018 at 22:56
-- [x] Exported to Keepeek Wednesday 28 February 2018 at 21:48
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Friday 9 March 2018 at 15:49*
 
 ------
 
@@ -54,7 +33,7 @@ Sunday 11 March 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 March 2018 at 22:35
+- [x] Exported to iLibrary Thursday 8 March 2018 at 22:46
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -242,7 +221,7 @@ Embargo date | Launch date
 Wednesday 14 March 2018 at 0:01 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 March 2018 at 22:56
 - [ ] Exported to Keepeek
 
@@ -250,7 +229,7 @@ Wednesday 14 March 2018 at 0:01 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -264,7 +243,7 @@ Thursday 15 March 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 7 March 2018 at 22:35
+- [x] Exported to iLibrary Thursday 8 March 2018 at 22:46
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -306,7 +285,7 @@ Monday 19 March 2018 at 10:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 7 March 2018 at 22:35
+- [x] Exported to iLibrary Thursday 8 March 2018 at 22:46
 - [ ] Exported to Keepeek
 
 ### Additional Information
