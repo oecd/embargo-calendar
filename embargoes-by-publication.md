@@ -1,27 +1,6 @@
 # OECD publication embargoes (27 embargoes)
 
-*Data generated on Friday 9 March 2018 at 16:18*
-
-------
-
-## [Mechanics of replacing benefits systems with a basic income - Comparative results from a microsimulation approach](https://doi.org/10.1787/ec38a279-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 9 March 2018 at 18:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 6 March 2018 at 23:07
-- [x] Exported to Keepeek Wednesday 7 March 2018 at 0:17
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Saturday 10 March 2018 at 0:06*
 
 ------
 
@@ -40,7 +19,7 @@ Sunday 11 March 2018 at 11:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Medium: *PDF*
 
@@ -294,6 +273,27 @@ Monday 19 March 2018 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 - Going for Growth Interim Report](https://doi.org/10.1787/growth-2018-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 21:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 27 February 2018 at 0:00
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------
