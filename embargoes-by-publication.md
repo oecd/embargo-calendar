@@ -1,10 +1,10 @@
 # OECD publication embargoes (27 embargoes)
 
-*Data generated on Friday 9 March 2018 at 15:49*
+*Data generated on Friday 9 March 2018 at 15:58*
 
 ------
 
-## [Mechanics of replacing benefits systems with a basic income (en) - Comparative results from a microsimulation approach (en)](https://doi.org/10.1787/ec38a279-en)
+## [Mechanics of replacing benefits systems with a basic income - Comparative results from a microsimulation approach](https://doi.org/10.1787/ec38a279-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -25,7 +25,7 @@ Friday 9 March 2018 at 18:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Israel 2018 (en)](https://doi.org/10.1787/eco_surveys-isr-2018-en)
+## [OECD Economic Surveys: Israel 2018](https://doi.org/10.1787/eco_surveys-isr-2018-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -46,7 +46,7 @@ Sunday 11 March 2018 at 11:00 | no launch event
 
 ------
 
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Czech Republic (Stage 1) (en) - Inclusive Framework on BEPS: Action 14 (en)](https://doi.org/10.1787/9789264290334-en)
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Czech Republic (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9789264290334-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -67,7 +67,7 @@ Monday 12 March 2018 at 11:00 | no launch event
 
 ------
 
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Denmark (Stage 1) (en) - Inclusive Framework on BEPS: Action 14 (en)](https://doi.org/10.1787/9789264190184-en)
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Denmark (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9789264190184-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -88,7 +88,7 @@ Monday 12 March 2018 at 11:00 | no launch event
 
 ------
 
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Finland (Stage 1) (en) - Inclusive Framework on BEPS: Action 14 (en)](https://doi.org/10.1787/9789264224742-en)
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Finland (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9789264224742-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -109,7 +109,7 @@ Monday 12 March 2018 at 11:00 | no launch event
 
 ------
 
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Korea (Stage 1) (en) - Inclusive Framework on BEPS: Action 14 (en)](https://doi.org/10.1787/9789264290365-en)
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Korea (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9789264290365-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -130,7 +130,7 @@ Monday 12 March 2018 at 11:00 | no launch event
 
 ------
 
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Norway (Stage 1) (en) - Inclusive Framework on BEPS: Action 14 (en)](https://doi.org/10.1787/9789264290389-en)
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Norway (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9789264290389-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -151,7 +151,7 @@ Monday 12 March 2018 at 11:00 | no launch event
 
 ------
 
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Poland (Stage 1) (en) - Inclusive Framework on BEPS: Action 14 (en)](https://doi.org/10.1787/9789264290457-en)
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Poland (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9789264290457-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -172,7 +172,7 @@ Monday 12 March 2018 at 11:00 | no launch event
 
 ------
 
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Singapore (Stage 1) (en) - Inclusive Framework on BEPS: Action 14 (en)](https://doi.org/10.1787/9789264290488-en)
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Singapore (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9789264290488-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -193,7 +193,7 @@ Monday 12 March 2018 at 11:00 | no launch event
 
 ------
 
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Spain (Stage 1) (en) - Inclusive Framework on BEPS: Action 14 (en)](https://doi.org/10.1787/9789264290761-en)
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Spain (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9789264290761-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -214,7 +214,7 @@ Monday 12 March 2018 at 11:00 | no launch event
 
 ------
 
-## [Towards Better Social and Employment Security in Korea (en)](https://doi.org/10.1787/9789264288256-en)
+## [Towards Better Social and Employment Security in Korea](https://doi.org/10.1787/9789264288256-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -235,7 +235,7 @@ Wednesday 14 March 2018 at 0:01 | no launch event
 
 ------
 
-## [Trade in Counterfeit Goods and Free Trade Zones (en) - Evidence from Recent Trends (en)](https://doi.org/10.1787/9789264289550-en)
+## [Trade in Counterfeit Goods and Free Trade Zones - Evidence from Recent Trends](https://doi.org/10.1787/9789264289550-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -256,7 +256,7 @@ Thursday 15 March 2018 at 11:00 | no launch event
 
 ------
 
-## [Boosting Skills for Greener Jobs in the Western Cape Povince of South Africa (en)](https://doi.org/10.1787/48a3c9db-en)
+## [Boosting Skills for Greener Jobs in the Western Cape Povince of South Africa](https://doi.org/10.1787/48a3c9db-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -277,7 +277,7 @@ Friday 16 March 2018 at 6:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Poland 2018 (en)](https://doi.org/10.1787/eco_surveys-pol-2018-en)
+## [OECD Economic Surveys: Poland 2018](https://doi.org/10.1787/eco_surveys-pol-2018-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -298,7 +298,7 @@ Monday 19 March 2018 at 10:00 | no launch event
 
 ------
 
-## [Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : Belgique 2018 (Deuxième cycle) (fr) - Rapport d'examen par les pairs sur la demande d'échange de renseignements (fr)](https://doi.org/10.1787/9789264291225-fr)
+## [Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : Belgique 2018 (Deuxième cycle) - Rapport d'examen par les pairs sur la demande d'échange de renseignements](https://doi.org/10.1787/9789264291225-fr)
 
 Embargo date | Launch date
 -------------|------------
@@ -319,7 +319,7 @@ Friday 30 March 2018 at 11:00 | no launch event
 
 ------
 
-## [Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : France 2018 (Deuxième cycle) (fr) - Rapport d'examen par les pairs sur la demande d'échange de renseignements (fr)](https://doi.org/10.1787/9789264291188-fr)
+## [Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : France 2018 (Deuxième cycle) - Rapport d'examen par les pairs sur la demande d'échange de renseignements](https://doi.org/10.1787/9789264291188-fr)
 
 Embargo date | Launch date
 -------------|------------
@@ -340,7 +340,7 @@ Friday 30 March 2018 at 11:00 | no launch event
 
 ------
 
-## [Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : Monaco 2018 (Deuxième cycle) (fr) - Rapport d'examen par les pairs sur la demande d'échange de renseignements (fr)](https://doi.org/10.1787/9789264291201-fr)
+## [Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : Monaco 2018 (Deuxième cycle) - Rapport d'examen par les pairs sur la demande d'échange de renseignements](https://doi.org/10.1787/9789264291201-fr)
 
 Embargo date | Launch date
 -------------|------------
@@ -361,7 +361,7 @@ Friday 30 March 2018 at 11:00 | no launch event
 
 ------
 
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Belgium 2018 (Second Round) (en) - Peer Review Report on the Exchange of Information on Request (en)](https://doi.org/10.1787/9789264290839-en)
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Belgium 2018 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9789264290839-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -382,7 +382,7 @@ Friday 30 March 2018 at 11:00 | no launch event
 
 ------
 
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Estonia 2018 (Second Round) (en) - Peer Review Report on the Exchange of Information on Request (en)](https://doi.org/10.1787/9789264291034-en)
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Estonia 2018 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9789264291034-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -403,7 +403,7 @@ Friday 30 March 2018 at 11:00 | no launch event
 
 ------
 
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: France 2018 (Second Round) (en) - Peer Review Report on the Exchange of Information on Request (en)](https://doi.org/10.1787/9789264291058-en)
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: France 2018 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9789264291058-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -424,7 +424,7 @@ Friday 30 March 2018 at 11:00 | no launch event
 
 ------
 
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Ghana 2018 (Second Round) (en) - Peer Review Report on the Exchange of Information on Request (en)](https://doi.org/10.1787/9789264291119-en)
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Ghana 2018 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9789264291119-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -445,7 +445,7 @@ Friday 30 March 2018 at 11:00 | no launch event
 
 ------
 
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Hungary 2018 (Second Round) (en) - Peer Review Report on the Exchange of Information on Request (en)](https://doi.org/10.1787/9789264291133-en)
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Hungary 2018 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9789264291133-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -466,7 +466,7 @@ Friday 30 March 2018 at 11:00 | no launch event
 
 ------
 
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Monaco 2018 (Second Round) (en) - Peer Review Report on the Exchange of Information on Request (en)](https://doi.org/10.1787/9789264291157-en)
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Monaco 2018 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9789264291157-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -487,7 +487,7 @@ Friday 30 March 2018 at 11:00 | no launch event
 
 ------
 
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: New Zealand 2018 (Second Round) (en) - Peer Review Report on the Exchange of Information on Request (en)](https://doi.org/10.1787/9789264291171-en)
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: New Zealand 2018 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9789264291171-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -508,7 +508,7 @@ Friday 30 March 2018 at 11:00 | no launch event
 
 ------
 
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: The Bahamas 2018 (Second Round) (en) - Peer Review Report on the Exchange of Information on Request (en)](https://doi.org/10.1787/9789264291805-en)
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: The Bahamas 2018 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9789264291805-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -529,7 +529,7 @@ Friday 30 March 2018 at 11:00 | no launch event
 
 ------
 
-## [Getting Skills Right: Spain (en)](https://doi.org/10.1787/9789264282346-en)
+## [Getting Skills Right: Spain](https://doi.org/10.1787/9789264282346-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -550,7 +550,7 @@ Thursday 26 April 2018 at 9:30 | no launch event
 
 ------
 
-## [Inventory of Energy Subsidies in the EU's Eastern Partnership Countries (en)](https://doi.org/10.1787/9789264284319-en)
+## [Inventory of Energy Subsidies in the EU's Eastern Partnership Countries](https://doi.org/10.1787/9789264284319-en)
 
 Embargo date | Launch date
 -------------|------------
