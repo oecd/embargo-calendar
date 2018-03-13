@@ -1,27 +1,6 @@
-# OECD publication embargoes (21 embargoes)
+# OECD publication embargoes (20 embargoes)
 
-*Data generated on Tuesday 13 March 2018 at 0:37*
-
-------
-
-## [Towards Better Social and Employment Security in Korea](https://doi.org/10.1787/9789264288256-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 14 March 2018 at 0:01 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 9 March 2018 at 22:48
-- [x] Exported to Keepeek Friday 9 March 2018 at 23:41
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Wednesday 14 March 2018 at 0:43*
 
 ------
 
@@ -29,10 +8,10 @@ Wednesday 14 March 2018 at 0:01 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Thursday 15 March 2018 at 11:00 | no launch event
+Thursday 15 March 2018 at 10:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 March 2018 at 22:46
 - [ ] Exported to Keepeek
 
@@ -40,7 +19,7 @@ Thursday 15 March 2018 at 11:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
@@ -96,7 +75,7 @@ Monday 19 March 2018 at 12:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 6 March 2018 at 23:07
+- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -117,7 +96,7 @@ Monday 19 March 2018 at 17:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 9 March 2018 at 22:48
+- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -138,7 +117,7 @@ Thursday 29 March 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -159,7 +138,7 @@ Thursday 29 March 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -176,11 +155,11 @@ Thursday 29 March 2018 at 11:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Friday 30 March 2018 at 11:00 | no launch event
+Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 21 February 2018 at 22:56
+- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -197,11 +176,11 @@ Friday 30 March 2018 at 11:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Friday 30 March 2018 at 11:00 | no launch event
+Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 21 February 2018 at 22:56
+- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -218,11 +197,11 @@ Friday 30 March 2018 at 11:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Friday 30 March 2018 at 11:00 | no launch event
+Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 5 March 2018 at 22:56
+- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -239,11 +218,11 @@ Friday 30 March 2018 at 11:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Friday 30 March 2018 at 11:00 | no launch event
+Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 21 February 2018 at 22:56
+- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -260,11 +239,11 @@ Friday 30 March 2018 at 11:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Friday 30 March 2018 at 11:00 | no launch event
+Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 21 February 2018 at 22:56
+- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -281,11 +260,11 @@ Friday 30 March 2018 at 11:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Friday 30 March 2018 at 11:00 | no launch event
+Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 21 February 2018 at 22:56
+- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -302,11 +281,11 @@ Friday 30 March 2018 at 11:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Friday 30 March 2018 at 11:00 | no launch event
+Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 21 February 2018 at 22:56
+- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -323,11 +302,11 @@ Friday 30 March 2018 at 11:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Friday 30 March 2018 at 11:00 | no launch event
+Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 21 February 2018 at 22:56
+- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -344,11 +323,11 @@ Friday 30 March 2018 at 11:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Friday 30 March 2018 at 11:00 | no launch event
+Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 21 February 2018 at 22:56
+- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -365,11 +344,11 @@ Friday 30 March 2018 at 11:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Friday 30 March 2018 at 11:00 | no launch event
+Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 21 February 2018 at 22:56
+- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -386,11 +365,11 @@ Friday 30 March 2018 at 11:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Friday 30 March 2018 at 11:00 | no launch event
+Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 21 February 2018 at 22:56
+- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
 - [ ] Exported to Keepeek
 
 ### Additional Information

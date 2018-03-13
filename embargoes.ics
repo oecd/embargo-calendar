@@ -4,31 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/eco_surveys-isr-2018-en
-SUMMARY:OECD Economic Surveys: Israel 2018
-DESCRIPTION:Directorate: Economics Department\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/eco_surveys-isr-2018-en\nPublication 
- type: Economic survey\nReleased as: Pape
- rback, ePub, PDF.\n\niLibrary export: 9 
- March 2018, 21:48 Paris time (GMT+00:00)
- \nFreepreview export: 9 March 2018, 22:4
- 1 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180313T003744Z
-DTSTART:20180311T100000Z
-DTEND:20180311T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Economic Surveys: Israel 
- 2018
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264290334-en
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Czech Republi
@@ -37,12 +12,12 @@ SUMMARY:Making Dispute Resolution More Effective
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264290334-en\
- nPublication type: Book\nReleased as: Pa
- perback, PDF.\n\niLibrary export: 7 Marc
+ nPublication type: Book\nReleased as: PD
+ F, Paperback.\n\niLibrary export: 7 Marc
  h 2018, 21:35 Paris time (GMT+00:00)\nFr
  eepreview export: 7 March 2018, 22:18 Pa
  ris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180313T003744Z
+DTSTAMP:20180314T004353Z
 DTSTART:20180312T100000Z
 DTEND:20180312T101500Z
 TRANSP:TRANSPARENT
@@ -67,12 +42,12 @@ SUMMARY:Making Dispute Resolution More Effective
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264190184-en\
- nPublication type: Book\nReleased as: PD
- F, Paperback.\n\niLibrary export: 7 Marc
+ nPublication type: Book\nReleased as: Pa
+ perback, PDF.\n\niLibrary export: 7 Marc
  h 2018, 21:35 Paris time (GMT+00:00)\nFr
  eepreview export: 7 March 2018, 22:18 Pa
  ris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180313T003744Z
+DTSTAMP:20180314T004353Z
 DTSTART:20180312T100000Z
 DTEND:20180312T101500Z
 TRANSP:TRANSPARENT
@@ -97,12 +72,12 @@ SUMMARY:Making Dispute Resolution More Effective
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264224742-en\
- nPublication type: Book\nReleased as: Pa
- perback, PDF.\n\niLibrary export: 7 Marc
+ nPublication type: Book\nReleased as: PD
+ F, Paperback.\n\niLibrary export: 7 Marc
  h 2018, 21:35 Paris time (GMT+00:00)\nFr
  eepreview export: 7 March 2018, 22:18 Pa
  ris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180313T003744Z
+DTSTAMP:20180314T004353Z
 DTSTART:20180312T100000Z
 DTEND:20180312T101500Z
 TRANSP:TRANSPARENT
@@ -132,7 +107,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  h 2018, 21:35 Paris time (GMT+00:00)\nFr
  eepreview export: 7 March 2018, 22:18 Pa
  ris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180313T003744Z
+DTSTAMP:20180314T004353Z
 DTSTART:20180312T100000Z
 DTEND:20180312T101500Z
 TRANSP:TRANSPARENT
@@ -157,12 +132,12 @@ SUMMARY:Making Dispute Resolution More Effective
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264290389-en\
- nPublication type: Book\nReleased as: PD
- F, Paperback.\n\niLibrary export: 7 Marc
+ nPublication type: Book\nReleased as: Pa
+ perback, PDF.\n\niLibrary export: 7 Marc
  h 2018, 21:35 Paris time (GMT+00:00)\nFr
  eepreview export: 7 March 2018, 22:18 Pa
  ris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180313T003744Z
+DTSTAMP:20180314T004353Z
 DTSTART:20180312T100000Z
 DTEND:20180312T101500Z
 TRANSP:TRANSPARENT
@@ -192,7 +167,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  h 2018, 21:35 Paris time (GMT+00:00)\nFr
  eepreview export: 7 March 2018, 22:18 Pa
  ris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180313T003744Z
+DTSTAMP:20180314T004353Z
 DTSTART:20180312T100000Z
 DTEND:20180312T101500Z
 TRANSP:TRANSPARENT
@@ -217,12 +192,12 @@ SUMMARY:Making Dispute Resolution More Effective
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264290488-en\
- nPublication type: Book\nReleased as: Pa
- perback, PDF.\n\niLibrary export: 7 Marc
+ nPublication type: Book\nReleased as: PD
+ F, Paperback.\n\niLibrary export: 7 Marc
  h 2018, 21:35 Paris time (GMT+00:00)\nFr
  eepreview export: 7 March 2018, 22:18 Pa
  ris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180313T003744Z
+DTSTAMP:20180314T004353Z
 DTSTART:20180312T100000Z
 DTEND:20180312T101500Z
 TRANSP:TRANSPARENT
@@ -247,12 +222,12 @@ SUMMARY:Making Dispute Resolution More Effective
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264290761-en\
- nPublication type: Book\nReleased as: PD
- F, Paperback.\n\niLibrary export: 7 Marc
+ nPublication type: Book\nReleased as: Pa
+ perback, PDF.\n\niLibrary export: 7 Marc
  h 2018, 21:35 Paris time (GMT+00:00)\nFr
  eepreview export: 7 March 2018, 22:18 Pa
  ris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180313T003744Z
+DTSTAMP:20180314T004353Z
 DTSTART:20180312T100000Z
 DTEND:20180312T101500Z
 TRANSP:TRANSPARENT
@@ -276,12 +251,12 @@ DESCRIPTION:Directorate: Directorate for Employment,
   Labour and Social Affairs\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264288256-en\nPublication type: Book\nRe
- leased as: Paperback, PDF, ePub.\n\niLib
+ leased as: PDF, ePub, Paperback.\n\niLib
  rary export: 9 March 2018, 21:48 Paris t
  ime (GMT+00:00)\nFreepreview export: 9 M
  arch 2018, 22:41 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180313T003744Z
+DTSTAMP:20180314T004353Z
 DTSTART:20180313T230100Z
 DTEND:20180313T231600Z
 TRANSP:TRANSPARENT
@@ -303,13 +278,13 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  rnance\nLanguage: English\nDOI: https://
  doi.org/10.1787/9789264289550-en\nPublic
  ation type: Stand-alone monograph\nRelea
- sed as: PDF, Paperback.\n\niLibrary expo
+ sed as: Paperback, PDF.\n\niLibrary expo
  rt: 8 March 2018, 21:46 Paris time (GMT+
  00:00)\nFreepreview export: never\nFTI l
- oaded: no.
-DTSTAMP:20180313T003744Z
-DTSTART:20180315T100000Z
-DTEND:20180315T101500Z
+ oaded: ✓.
+DTSTAMP:20180314T004353Z
+DTSTART:20180315T090000Z
+DTEND:20180315T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT48H
@@ -334,7 +309,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  e (GMT+00:00)\nFreepreview export: 12 Ma
  rch 2018, 23:15 Paris time (GMT+00:00)\n
  FTI loaded: ✓.
-DTSTAMP:20180313T003744Z
+DTSTAMP:20180314T004353Z
 DTSTART:20180316T050000Z
 DTEND:20180316T051500Z
 TRANSP:TRANSPARENT
@@ -360,7 +335,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  March 2018, 21:46 Paris time (GMT+00:00)
  \nFreepreview export: never\nFTI loaded:
   no.
-DTSTAMP:20180313T003744Z
+DTSTAMP:20180314T004353Z
 DTSTART:20180319T090000Z
 DTEND:20180319T091500Z
 TRANSP:TRANSPARENT
@@ -383,10 +358,10 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9789264292093-en\nPub
  lication type: Book\nReleased as: Paperb
- ack, PDF.\n\niLibrary export: 6 March 20
- 18, 22:07 Paris time (GMT+00:00)\nFreepr
- eview export: never\nFTI loaded: no.
-DTSTAMP:20180313T003744Z
+ ack, PDF.\n\niLibrary export: 12 March 2
+ 018, 22:12 Paris time (GMT+00:00)\nFreep
+ review export: never\nFTI loaded: no.
+DTSTAMP:20180314T004353Z
 DTSTART:20180319T113000Z
 DTEND:20180319T114500Z
 TRANSP:TRANSPARENT
@@ -408,11 +383,11 @@ SUMMARY:Economic Policy Reforms 2018 - Going for
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/growth-2018-en\nPublication type: Boo
- k\nReleased as: Paperback, PDF.\n\niLibr
- ary export: 9 March 2018, 21:48 Paris ti
- me (GMT+00:00)\nFreepreview export: neve
- r\nFTI loaded: no.
-DTSTAMP:20180313T003744Z
+ k\nReleased as: PDF, Paperback.\n\niLibr
+ ary export: 12 March 2018, 22:12 Paris t
+ ime (GMT+00:00)\nFreepreview export: nev
+ er\nFTI loaded: no.
+DTSTAMP:20180314T004353Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -433,11 +408,12 @@ SUMMARY:Études économiques de l'OCDE : Tunisie 2
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: French\nDOI: https://doi.org/10.178
  7/eco_surveys-tun-2018-fr\nPublication t
- ype: Economic survey\nReleased as: PDF, 
- Paperback, ePub.\n\niLibrary export: nev
- er\nFreepreview export: never\nFTI loade
- d: no.
-DTSTAMP:20180313T003744Z
+ ype: Economic survey\nReleased as: Paper
+ back, ePub, PDF.\n\niLibrary export: 12 
+ March 2018, 22:12 Paris time (GMT+00:00)
+ \nFreepreview export: never\nFTI loaded:
+  no.
+DTSTAMP:20180314T004353Z
 DTSTART:20180329T090000Z
 DTEND:20180329T091500Z
 TRANSP:TRANSPARENT
@@ -457,11 +433,12 @@ SUMMARY:OECD Economic Surveys: Tunisia 2018
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-tun-2018-en\nPublication 
- type: Economic survey\nReleased as: ePub
- , PDF, Paperback.\n\niLibrary export: ne
- ver\nFreepreview export: never\nFTI load
- ed: no.
-DTSTAMP:20180313T003744Z
+ type: Economic survey\nReleased as: Pape
+ rback, ePub, PDF.\n\niLibrary export: 12
+  March 2018, 22:12 Paris time (GMT+00:00
+ )\nFreepreview export: never\nFTI loaded
+ : no.
+DTSTAMP:20180314T004353Z
 DTSTART:20180329T090000Z
 DTEND:20180329T091500Z
 TRANSP:TRANSPARENT
@@ -485,17 +462,16 @@ SUMMARY:Forum mondial sur la transparence et l'é
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/9789264291225-fr\n
- Publication type: Book\nReleased as: PDF
- , Paperback.\n\niLibrary export: 21 Febr
- uary 2018, 21:56 Paris time (GMT+00:00)\
- nFreepreview export: never\nFTI loaded: 
- no.
-DTSTAMP:20180313T003744Z
-DTSTART:20180330T090000Z
-DTEND:20180330T091500Z
+ Publication type: Book\nReleased as: Pap
+ erback, PDF.\n\niLibrary export: 12 Marc
+ h 2018, 22:12 Paris time (GMT+00:00)\nFr
+ eepreview export: never\nFTI loaded: no.
+DTSTAMP:20180314T004353Z
+DTSTART:20180403T090000Z
+DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
@@ -518,17 +494,16 @@ SUMMARY:Forum mondial sur la transparence et l'é
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/9789264291188-fr\n
- Publication type: Book\nReleased as: PDF
- , Paperback.\n\niLibrary export: 21 Febr
- uary 2018, 21:56 Paris time (GMT+00:00)\
- nFreepreview export: never\nFTI loaded: 
- no.
-DTSTAMP:20180313T003744Z
-DTSTART:20180330T090000Z
-DTEND:20180330T091500Z
+ Publication type: Book\nReleased as: Pap
+ erback, PDF.\n\niLibrary export: 12 Marc
+ h 2018, 22:12 Paris time (GMT+00:00)\nFr
+ eepreview export: never\nFTI loaded: no.
+DTSTAMP:20180314T004353Z
+DTSTART:20180403T090000Z
+DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
@@ -551,16 +526,16 @@ SUMMARY:Forum mondial sur la transparence et l'é
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/9789264291201-fr\n
- Publication type: Book\nReleased as: Pap
- erback, PDF.\n\niLibrary export: 5 March
-  2018, 21:56 Paris time (GMT+00:00)\nFre
- epreview export: never\nFTI loaded: no.
-DTSTAMP:20180313T003744Z
-DTSTART:20180330T090000Z
-DTEND:20180330T091500Z
+ Publication type: Book\nReleased as: PDF
+ , Paperback.\n\niLibrary export: 12 Marc
+ h 2018, 22:12 Paris time (GMT+00:00)\nFr
+ eepreview export: never\nFTI loaded: no.
+DTSTAMP:20180314T004353Z
+DTSTART:20180403T090000Z
+DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
@@ -583,17 +558,17 @@ SUMMARY:Global Forum on Transparency and Exchang
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264290839-en\
- nPublication type: Book\nReleased as: Pa
- perback, PDF.\n\niLibrary export: 21 Feb
- ruary 2018, 21:56 Paris time (GMT+00:00)
- \nFreepreview export: never\nFTI loaded:
-  no.
-DTSTAMP:20180313T003744Z
-DTSTART:20180330T090000Z
-DTEND:20180330T091500Z
+ nPublication type: Book\nReleased as: PD
+ F, Paperback.\n\niLibrary export: 12 Mar
+ ch 2018, 22:12 Paris time (GMT+00:00)\nF
+ reepreview export: never\nFTI loaded: no
+ .
+DTSTAMP:20180314T004353Z
+DTSTART:20180403T090000Z
+DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
@@ -615,17 +590,17 @@ SUMMARY:Global Forum on Transparency and Exchang
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264291034-en\
- nPublication type: Book\nReleased as: Pa
- perback, PDF.\n\niLibrary export: 21 Feb
- ruary 2018, 21:56 Paris time (GMT+00:00)
- \nFreepreview export: never\nFTI loaded:
-  no.
-DTSTAMP:20180313T003744Z
-DTSTART:20180330T090000Z
-DTEND:20180330T091500Z
+ nPublication type: Book\nReleased as: PD
+ F, Paperback.\n\niLibrary export: 12 Mar
+ ch 2018, 22:12 Paris time (GMT+00:00)\nF
+ reepreview export: never\nFTI loaded: no
+ .
+DTSTAMP:20180314T004353Z
+DTSTART:20180403T090000Z
+DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
@@ -647,17 +622,17 @@ SUMMARY:Global Forum on Transparency and Exchang
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264291058-en\
- nPublication type: Book\nReleased as: PD
- F, Paperback.\n\niLibrary export: 21 Feb
- ruary 2018, 21:56 Paris time (GMT+00:00)
- \nFreepreview export: never\nFTI loaded:
-  no.
-DTSTAMP:20180313T003744Z
-DTSTART:20180330T090000Z
-DTEND:20180330T091500Z
+ nPublication type: Book\nReleased as: Pa
+ perback, PDF.\n\niLibrary export: 12 Mar
+ ch 2018, 22:12 Paris time (GMT+00:00)\nF
+ reepreview export: never\nFTI loaded: no
+ .
+DTSTAMP:20180314T004353Z
+DTSTART:20180403T090000Z
+DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
@@ -680,16 +655,16 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264291119-en\
  nPublication type: Book\nReleased as: PD
- F, Paperback.\n\niLibrary export: 21 Feb
- ruary 2018, 21:56 Paris time (GMT+00:00)
- \nFreepreview export: never\nFTI loaded:
-  no.
-DTSTAMP:20180313T003744Z
-DTSTART:20180330T090000Z
-DTEND:20180330T091500Z
+ F, Paperback.\n\niLibrary export: 12 Mar
+ ch 2018, 22:12 Paris time (GMT+00:00)\nF
+ reepreview export: never\nFTI loaded: no
+ .
+DTSTAMP:20180314T004353Z
+DTSTART:20180403T090000Z
+DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
@@ -712,16 +687,16 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264291133-en\
  nPublication type: Book\nReleased as: Pa
- perback, PDF.\n\niLibrary export: 21 Feb
- ruary 2018, 21:56 Paris time (GMT+00:00)
- \nFreepreview export: never\nFTI loaded:
-  no.
-DTSTAMP:20180313T003744Z
-DTSTART:20180330T090000Z
-DTEND:20180330T091500Z
+ perback, PDF.\n\niLibrary export: 12 Mar
+ ch 2018, 22:12 Paris time (GMT+00:00)\nF
+ reepreview export: never\nFTI loaded: no
+ .
+DTSTAMP:20180314T004353Z
+DTSTART:20180403T090000Z
+DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
@@ -744,16 +719,16 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264291157-en\
  nPublication type: Book\nReleased as: PD
- F, Paperback.\n\niLibrary export: 21 Feb
- ruary 2018, 21:56 Paris time (GMT+00:00)
- \nFreepreview export: never\nFTI loaded:
-  no.
-DTSTAMP:20180313T003744Z
-DTSTART:20180330T090000Z
-DTEND:20180330T091500Z
+ F, Paperback.\n\niLibrary export: 12 Mar
+ ch 2018, 22:12 Paris time (GMT+00:00)\nF
+ reepreview export: never\nFTI loaded: no
+ .
+DTSTAMP:20180314T004353Z
+DTSTART:20180403T090000Z
+DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
@@ -775,17 +750,17 @@ SUMMARY:Global Forum on Transparency and Exchang
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264291171-en\
- nPublication type: Book\nReleased as: PD
- F, Paperback.\n\niLibrary export: 21 Feb
- ruary 2018, 21:56 Paris time (GMT+00:00)
- \nFreepreview export: never\nFTI loaded:
-  no.
-DTSTAMP:20180313T003744Z
-DTSTART:20180330T090000Z
-DTEND:20180330T091500Z
+ nPublication type: Book\nReleased as: Pa
+ perback, PDF.\n\niLibrary export: 12 Mar
+ ch 2018, 22:12 Paris time (GMT+00:00)\nF
+ reepreview export: never\nFTI loaded: no
+ .
+DTSTAMP:20180314T004353Z
+DTSTART:20180403T090000Z
+DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
@@ -807,17 +782,17 @@ SUMMARY:Global Forum on Transparency and Exchang
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264291805-en\
- nPublication type: Book\nReleased as: PD
- F, Paperback.\n\niLibrary export: 21 Feb
- ruary 2018, 21:56 Paris time (GMT+00:00)
- \nFreepreview export: never\nFTI loaded:
-  no.
-DTSTAMP:20180313T003744Z
-DTSTART:20180330T090000Z
-DTEND:20180330T091500Z
+ nPublication type: Book\nReleased as: Pa
+ perback, PDF.\n\niLibrary export: 12 Mar
+ ch 2018, 22:12 Paris time (GMT+00:00)\nF
+ reepreview export: never\nFTI loaded: no
+ .
+DTSTAMP:20180314T004353Z
+DTSTART:20180403T090000Z
+DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
@@ -841,7 +816,7 @@ DESCRIPTION:Directorate: Directorate for Employment,
  e (GMT+00:00)\nFreepreview export: 21 Fe
  bruary 2018, 22:48 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180313T003744Z
+DTSTAMP:20180314T004353Z
 DTSTART:20180426T073000Z
 DTEND:20180426T074500Z
 TRANSP:TRANSPARENT
@@ -865,7 +840,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  iLibrary export: 6 March 2018, 22:07 Par
  is time (GMT+00:00)\nFreepreview export:
   never\nFTI loaded: no.
-DTSTAMP:20180313T003744Z
+DTSTAMP:20180314T004353Z
 DTSTART:20180430T090000Z
 DTEND:20180430T091500Z
 TRANSP:TRANSPARENT
