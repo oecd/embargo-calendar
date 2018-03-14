@@ -1,6 +1,6 @@
-# OECD publication embargoes (20 embargoes)
+# OECD publication embargoes (49 embargoes)
 
-*Data generated on Wednesday 14 March 2018 at 0:43*
+*Data generated on Thursday 15 March 2018 at 0:00*
 
 ------
 
@@ -12,8 +12,8 @@ Thursday 15 March 2018 at 10:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 March 2018 at 22:46
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 13 March 2018 at 23:09
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 0:19
 
 ### Additional Information
 
@@ -46,6 +46,27 @@ Friday 16 March 2018 at 6:00 | no launch event
 
 ------
 
+## [Tax Challenges Arising from Digitalisation – Interim Report 2018 - Inclusive Framework on BEPS](https://doi.org/10.1787/9789264293083-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 16 March 2018 at 14:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Poland 2018](https://doi.org/10.1787/eco_surveys-pol-2018-en)
 
 Embargo date | Launch date
@@ -53,7 +74,7 @@ Embargo date | Launch date
 Monday 19 March 2018 at 10:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 March 2018 at 22:46
 - [ ] Exported to Keepeek
 
@@ -61,7 +82,7 @@ Monday 19 March 2018 at 10:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Medium: *PDF*
 
@@ -95,13 +116,601 @@ Embargo date | Launch date
 Monday 19 March 2018 at 17:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 March 2018 at 23:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in Chinese), 2018年经济政策改革 - Going for Growth Interim Report, 《力争增长》中期报告](https://doi.org/10.1787/af2e0ace-zh)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Chinese*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in Czech), Reformy hospodářských politik 2018 - Going for Growth Interim Report, Směřování k růstu - průběžná zpráva](https://doi.org/10.1787/cc3beaf1-cs)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Czech*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in Danish), Reformer af den økonomiske politik 2018 - Going for Growth Interim Report, Going for Growth, halvårsrapport](https://doi.org/10.1787/b60887fa-da)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Danish*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in Dutch), Hervormingen van het economische beleid 2018 - Going for Growth Interim Report, Interimverslag 'Going for Growth'](https://doi.org/10.1787/d9670240-nl)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Dutch*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in English) - Going for Growth Interim Report](https://doi.org/10.1787/011651e1-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in Estonian), Majanduspoliitika reformid 2018 - Going for Growth Interim Report, Vaheraport „Majanduskasvu nimel”](https://doi.org/10.1787/63aa38d0-et)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Estonian*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in Finnish), Talouspolitiikan uudistukset 2018 - Going for Growth Interim Report, Tavoitteena kasvu - väliraportti](https://doi.org/10.1787/1c7cdc0e-fi)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Finnish*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in French), Réformes économiques 2016 - Going for Growth Interim Report, Objectif croissance – Rapport intermédiaire](https://doi.org/10.1787/40015fe3-fr)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in German), Wirtschaftspolitische Reformen 2018 - Going for Growth Interim Report, Going for Growth – Zwischenbericht](https://doi.org/10.1787/174a1c0a-de)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *German*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in Greek), Μεταρρυθμίσεις οικονομικής πολιτικής 2018 - Going for Growth Interim Report, Με στόχο την ανάπτυξη - Ενδιάμεση έκθεση](https://doi.org/10.1787/9752e418-el)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Greek*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in Hebrew), רפורמות במדיניות כלכלית 2018 - Going for Growth Interim Report, דו"ח ביניים "הולכים על צמיחה"](https://doi.org/10.1787/7915418d-he)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Hebrew*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in Hungarian), Gazdaságpolitikai reformok 2018-ban - Going for Growth Interim Report, A növekedés jegyében – Időközi jelentés](https://doi.org/10.1787/ff4059f9-hu)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Hungarian*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in Icelandic), Umbætur á efnahagsstefnu 2018 - Going for Growth Interim Report, „Stefnt að vexti“ – áfangaskýrsla](https://doi.org/10.1787/ec1b4347-is)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Icelandic*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in Italian), Riforme di politica economica 2018 - Going for Growth Interim Report, Going for Growth: Obiettivo Crescita – Relazione intermedia](https://doi.org/10.1787/7842d7ea-it)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Italian*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in Japanese), 経済政策改革2018 - Going for Growth Interim Report, 『成長に向けて』中間報告書](https://doi.org/10.1787/7e5268df-ja)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Japanese*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in Korean), 2018년 경제정책개혁 - Going for Growth Interim Report, 구조개혁평가 중간보고서](https://doi.org/10.1787/89d931b4-ko)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Korean*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in Latvian), Ekonomikas politikas reformas 2018 - Going for Growth Interim Report, Starpposma ziņojums - Virzība uz izaugsmi](https://doi.org/10.1787/b0d65bcd-lv)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Latvian*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in Norwegian), Reformer i den økonomiske politikken 2018 - Going for Growth Interim Report, Going for Growth – delrapport](https://doi.org/10.1787/535f3ccb-no)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Norwegian*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in Polish), Reformy polityki gospodarczej w 2018 r. - Going for Growth Interim Report, Dążenie do rozwoju / Raport okresowy](https://doi.org/10.1787/5c97f588-pl)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Polish*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in Portuguese), Reformas da Política Económica 2018 - Going for Growth Interim Report, A Caminho do Crescimento - Relatório intercalar](https://doi.org/10.1787/37051a5f-pt)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Portuguese*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in Russian), Реформы экономической политики 2018 - Going for Growth Interim Report, Промежуточный доклад Стремления к росту](https://doi.org/10.1787/415ed7b6-ru)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Russian*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in Slovak), Reformy hospodárskej politiky 2018 - Going for Growth Interim Report, Cesta k rastu Predbežná správa](https://doi.org/10.1787/93b999c2-sk)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Slovak*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in Slovenian), Reforme gospodarskih politik 2018 - Going for Growth Interim Report, Prizadevanje za rast – vmesno poročilo ](https://doi.org/10.1787/2e084ea2-sl)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Slovenian*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in Spanish), Reformas de política económica 2018 - Going for Growth Interim Report, Apuesta por el Crecimiento Informe Intermedio  ](https://doi.org/10.1787/d245c133-es)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in Swedish), Ekonomiskpolitiska reformer 2018 - Going for Growth Interim Report, Med sikte på tillväxt – delrapport](https://doi.org/10.1787/32f5640a-sv)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Swedish*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Economic Policy Reforms 2018 (Summary in Turkish), 2018 Ekonomi Politikası Reformları - Going for Growth Interim Report, Büyümede Yol Almak Geçici Raporu](https://doi.org/10.1787/df49a39e-tr)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 17:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Turkish*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [A genie in a bottle? - Globalisation, competition and inflation](https://doi.org/10.1787/deda7e54-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 21 March 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [OECD Development Co-operation Peer Reviews: Australia 2018](https://doi.org/10.1787/9789264293366-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 22 March 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
@@ -159,7 +768,7 @@ Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
+- [x] Exported to iLibrary Tuesday 13 March 2018 at 23:09
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -180,7 +789,7 @@ Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
+- [x] Exported to iLibrary Tuesday 13 March 2018 at 23:09
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -201,7 +810,7 @@ Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
+- [x] Exported to iLibrary Tuesday 13 March 2018 at 23:09
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -222,7 +831,7 @@ Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
+- [x] Exported to iLibrary Tuesday 13 March 2018 at 23:09
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -243,7 +852,7 @@ Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
+- [x] Exported to iLibrary Tuesday 13 March 2018 at 23:09
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -264,7 +873,7 @@ Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
+- [x] Exported to iLibrary Tuesday 13 March 2018 at 23:09
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -285,7 +894,7 @@ Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
+- [x] Exported to iLibrary Tuesday 13 March 2018 at 23:09
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -306,7 +915,7 @@ Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
+- [x] Exported to iLibrary Tuesday 13 March 2018 at 23:09
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -327,7 +936,7 @@ Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
+- [x] Exported to iLibrary Tuesday 13 March 2018 at 23:09
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -348,7 +957,7 @@ Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
+- [x] Exported to iLibrary Tuesday 13 March 2018 at 23:09
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -369,7 +978,7 @@ Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
+- [x] Exported to iLibrary Tuesday 13 March 2018 at 23:09
 - [ ] Exported to Keepeek
 
 ### Additional Information
