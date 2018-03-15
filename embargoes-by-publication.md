@@ -1,27 +1,6 @@
 # OECD publication embargoes (49 embargoes)
 
-*Data generated on Thursday 15 March 2018 at 0:00*
-
-------
-
-## [Trade in Counterfeit Goods and Free Trade Zones - Evidence from Recent Trends](https://doi.org/10.1787/9789264289550-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 15 March 2018 at 10:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 13 March 2018 at 23:09
-- [x] Exported to Keepeek Wednesday 14 March 2018 at 0:19
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
+*Data generated on Thursday 15 March 2018 at 23:30*
 
 ------
 
@@ -54,8 +33,8 @@ Friday 16 March 2018 at 14:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
 
 ### Additional Information
 
@@ -75,8 +54,8 @@ Monday 19 March 2018 at 10:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 March 2018 at 22:46
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
 
 ### Additional Information
 
@@ -88,7 +67,7 @@ Monday 19 March 2018 at 10:00 | no launch event
 
 ------
 
-## [The Resilience of Students with an Immigrant Background - Factors that Shape Well-being](https://doi.org/10.1787/9789264292093-en)
+## [La résilience des élèves issus de l'immigration - Les facteurs qui déterminent le bien-être (version abregée)](https://doi.org/10.1787/g2g8b739-fr)
 
 Embargo date | Launch date
 -------------|------------
@@ -96,6 +75,27 @@ Monday 19 March 2018 at 12:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [The Resilience of Students with an Immigrant Background - Factors that Shape Well-being](https://doi.org/10.1787/9789264292093-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 12:30 | no launch event
+
+### Status Information
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 March 2018 at 23:12
 - [ ] Exported to Keepeek
 
@@ -103,7 +103,7 @@ Monday 19 March 2018 at 12:30 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -117,8 +117,8 @@ Monday 19 March 2018 at 17:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
 
 ### Additional Information
 
@@ -705,7 +705,7 @@ Thursday 22 March 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
 - [ ] Exported to Keepeek
 
 ### Additional Information

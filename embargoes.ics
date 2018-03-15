@@ -11,12 +11,12 @@ DESCRIPTION:Directorate: Directorate for Employment,
   Labour and Social Affairs\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264288256-en\nPublication type: Book\nRe
- leased as: Paperback, PDF, ePub.\n\niLib
- rary export: 13 March 2018, 22:09 Paris 
- time (GMT+00:00)\nFreepreview export: 9 
- March 2018, 22:41 Paris time (GMT+00:00)
- \nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+ leased as: ePub, Paperback, PDF.\n\niLib
+ rary export: 14 March 2018, 21:46 Paris 
+ time (GMT+00:00)\nFreepreview export: 14
+  March 2018, 22:37 Paris time (GMT+00:00
+ )\nFTI loaded: ✓.
+DTSTAMP:20180315T233019Z
 DTSTART:20180313T230100Z
 DTEND:20180313T231600Z
 TRANSP:TRANSPARENT
@@ -43,7 +43,7 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  +00:00)\nFreepreview export: 13 March 20
  18, 23:19 Paris time (GMT+00:00)\nFTI lo
  aded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180315T090000Z
 DTEND:20180315T091500Z
 TRANSP:TRANSPARENT
@@ -70,7 +70,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  e (GMT+00:00)\nFreepreview export: 12 Ma
  rch 2018, 23:15 Paris time (GMT+00:00)\n
  FTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180316T050000Z
 DTEND:20180316T051500Z
 TRANSP:TRANSPARENT
@@ -93,11 +93,12 @@ SUMMARY:Tax Challenges Arising from Digitalisati
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264293083-en\
- nPublication type: Book\nReleased as: Pa
- perback, PDF.\n\niLibrary export: 12 Mar
- ch 2018, 22:12 Paris time (GMT+00:00)\nF
- reepreview export: never\nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+ nPublication type: Book\nReleased as: PD
+ F, Paperback.\n\niLibrary export: 14 Mar
+ ch 2018, 21:46 Paris time (GMT+00:00)\nF
+ reepreview export: 14 March 2018, 22:37 
+ Paris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180315T233019Z
 DTSTART:20180316T130000Z
 DTEND:20180316T131500Z
 TRANSP:TRANSPARENT
@@ -118,12 +119,13 @@ SUMMARY:OECD Economic Surveys: Poland 2018
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-pol-2018-en\nPublication 
- type: Economic survey\nReleased as: PDF,
-  Paperback, ePub.\n\niLibrary export: 8 
- March 2018, 21:46 Paris time (GMT+00:00)
- \nFreepreview export: never\nFTI loaded:
-  ✓.
-DTSTAMP:20180315T000047Z
+ type: Economic survey\nReleased as: ePub
+ , PDF, Paperback.\n\niLibrary export: 14
+  March 2018, 21:46 Paris time (GMT+00:00
+ )\nFreepreview export: 14 March 2018, 22
+ :37 Paris time (GMT+00:00)\nFTI loaded: 
+ ✓.
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T090000Z
 DTEND:20180319T091500Z
 TRANSP:TRANSPARENT
@@ -138,6 +140,32 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/g2g8b739-fr
+SUMMARY:La résilience des élèves issus de l'immi
+ gration - Les facteurs qui déterminent l
+ e bien-être (version abregée)
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: French\nDOI: https:
+ //doi.org/10.1787/g2g8b739-fr\nPublicati
+ on type: Book\nReleased as: PDF.\n\niLib
+ rary export: never\nFreepreview export: 
+ never\nFTI loaded: no.
+DTSTAMP:20180315T233019Z
+DTSTART:20180319T113000Z
+DTEND:20180319T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: La résilience des élèves issus
+  de l'immigration - Les facteurs qui dét
+ erminent le bien-être (version abregée)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264292093-en
 SUMMARY:The Resilience of Students with an Immig
  rant Background - Factors that Shape Wel
@@ -145,11 +173,11 @@ SUMMARY:The Resilience of Students with an Immig
 DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9789264292093-en\nPub
- lication type: Book\nReleased as: Paperb
- ack, PDF.\n\niLibrary export: 12 March 2
+ lication type: Book\nReleased as: PDF, P
+ aperback.\n\niLibrary export: 12 March 2
  018, 22:12 Paris time (GMT+00:00)\nFreep
- review export: never\nFTI loaded: no.
-DTSTAMP:20180315T000047Z
+ review export: never\nFTI loaded: ✓.
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T113000Z
 DTEND:20180319T114500Z
 TRANSP:TRANSPARENT
@@ -172,10 +200,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/growth-2018-en\nPublication type: Boo
  k\nReleased as: PDF, Paperback.\n\niLibr
- ary export: 12 March 2018, 22:12 Paris t
- ime (GMT+00:00)\nFreepreview export: nev
- er\nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+ ary export: 14 March 2018, 21:46 Paris t
+ ime (GMT+00:00)\nFreepreview export: 14 
+ March 2018, 22:37 Paris time (GMT+00:00)
+ \nFTI loaded: ✓.
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -202,7 +231,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  time (GMT+00:00)\nFreepreview export: 14
   March 2018, 22:37 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -231,7 +260,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  me (GMT+00:00)\nFreepreview export: 14 M
  arch 2018, 22:37 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -262,7 +291,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  ime (GMT+00:00)\nFreepreview export: 14 
  March 2018, 22:37 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -294,7 +323,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  me (GMT+00:00)\nFreepreview export: 14 M
  arch 2018, 22:37 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -324,7 +353,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  time (GMT+00:00)\nFreepreview export: 14
   March 2018, 22:37 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -353,7 +382,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
   time (GMT+00:00)\nFreepreview export: 1
  4 March 2018, 22:37 Paris time (GMT+00:0
  0)\nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -384,7 +413,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  time (GMT+00:00)\nFreepreview export: 14
   March 2018, 22:37 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -415,7 +444,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  ime (GMT+00:00)\nFreepreview export: 14 
  March 2018, 22:37 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -446,7 +475,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  ime (GMT+00:00)\nFreepreview export: 14 
  March 2018, 22:37 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -478,7 +507,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  me (GMT+00:00)\nFreepreview export: 14 M
  arch 2018, 22:37 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -509,7 +538,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  ime (GMT+00:00)\nFreepreview export: 14 
  March 2018, 22:37 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -540,7 +569,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  s time (GMT+00:00)\nFreepreview export: 
  14 March 2018, 22:37 Paris time (GMT+00:
  00)\nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -571,7 +600,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  s time (GMT+00:00)\nFreepreview export: 
  14 March 2018, 22:37 Paris time (GMT+00:
  00)\nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -603,7 +632,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  time (GMT+00:00)\nFreepreview export: 14
   March 2018, 22:37 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -633,7 +662,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
   time (GMT+00:00)\nFreepreview export: 1
  4 March 2018, 22:37 Paris time (GMT+00:0
  0)\nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -662,7 +691,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  ime (GMT+00:00)\nFreepreview export: 14 
  March 2018, 22:37 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -692,7 +721,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  time (GMT+00:00)\nFreepreview export: 14
   March 2018, 22:37 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -723,7 +752,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  s time (GMT+00:00)\nFreepreview export: 
  14 March 2018, 22:37 Paris time (GMT+00:
  00)\nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -755,7 +784,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  ime (GMT+00:00)\nFreepreview export: 14 
  March 2018, 22:37 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -787,7 +816,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  is time (GMT+00:00)\nFreepreview export:
   14 March 2018, 22:37 Paris time (GMT+00
  :00)\nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -819,7 +848,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  time (GMT+00:00)\nFreepreview export: 14
   March 2018, 22:37 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -850,7 +879,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  ime (GMT+00:00)\nFreepreview export: 14 
  March 2018, 22:37 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -881,7 +910,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  s time (GMT+00:00)\nFreepreview export: 
  14 March 2018, 22:37 Paris time (GMT+00:
  00)\nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -913,7 +942,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  time (GMT+00:00)\nFreepreview export: 14
   March 2018, 22:37 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -944,7 +973,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  time (GMT+00:00)\nFreepreview export: 14
   March 2018, 22:37 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -975,7 +1004,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  time (GMT+00:00)\nFreepreview export: 14
   March 2018, 22:37 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180319T160000Z
 DTEND:20180319T161500Z
 TRANSP:TRANSPARENT
@@ -1004,7 +1033,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  GMT+00:00)\nFreepreview export: 14 March
   2018, 22:37 Paris time (GMT+00:00)\nFTI
   loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180321T010000Z
 DTEND:20180321T011500Z
 TRANSP:TRANSPARENT
@@ -1026,9 +1055,10 @@ DESCRIPTION:Directorate: Development Co-operation Di
  rectorate\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9789264293366-en\nPub
  lication type: Book\nReleased as: Paperb
- ack, PDF.\n\niLibrary export: never\nFre
- epreview export: never\nFTI loaded: no.
-DTSTAMP:20180315T000047Z
+ ack, PDF.\n\niLibrary export: 14 March 2
+ 018, 21:46 Paris time (GMT+00:00)\nFreep
+ review export: never\nFTI loaded: no.
+DTSTAMP:20180315T233019Z
 DTSTART:20180322T100000Z
 DTEND:20180322T101500Z
 TRANSP:TRANSPARENT
@@ -1054,7 +1084,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  March 2018, 22:12 Paris time (GMT+00:00)
  \nFreepreview export: never\nFTI loaded:
   no.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180329T090000Z
 DTEND:20180329T091500Z
 TRANSP:TRANSPARENT
@@ -1079,7 +1109,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
   March 2018, 22:12 Paris time (GMT+00:00
  )\nFreepreview export: never\nFTI loaded
  : no.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180329T090000Z
 DTEND:20180329T091500Z
 TRANSP:TRANSPARENT
@@ -1107,7 +1137,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  , Paperback.\n\niLibrary export: 13 Marc
  h 2018, 22:09 Paris time (GMT+00:00)\nFr
  eepreview export: never\nFTI loaded: no.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180403T090000Z
 DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
@@ -1139,7 +1169,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  erback, PDF.\n\niLibrary export: 13 Marc
  h 2018, 22:09 Paris time (GMT+00:00)\nFr
  eepreview export: never\nFTI loaded: no.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180403T090000Z
 DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
@@ -1171,7 +1201,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  , Paperback.\n\niLibrary export: 13 Marc
  h 2018, 22:09 Paris time (GMT+00:00)\nFr
  eepreview export: never\nFTI loaded: no.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180403T090000Z
 DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
@@ -1204,7 +1234,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ch 2018, 22:09 Paris time (GMT+00:00)\nF
  reepreview export: never\nFTI loaded: no
  .
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180403T090000Z
 DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
@@ -1236,7 +1266,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ch 2018, 22:09 Paris time (GMT+00:00)\nF
  reepreview export: never\nFTI loaded: no
  .
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180403T090000Z
 DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
@@ -1268,7 +1298,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ch 2018, 22:09 Paris time (GMT+00:00)\nF
  reepreview export: never\nFTI loaded: no
  .
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180403T090000Z
 DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
@@ -1300,7 +1330,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ch 2018, 22:09 Paris time (GMT+00:00)\nF
  reepreview export: never\nFTI loaded: no
  .
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180403T090000Z
 DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
@@ -1332,7 +1362,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ch 2018, 22:09 Paris time (GMT+00:00)\nF
  reepreview export: never\nFTI loaded: no
  .
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180403T090000Z
 DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
@@ -1364,7 +1394,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ch 2018, 22:09 Paris time (GMT+00:00)\nF
  reepreview export: never\nFTI loaded: no
  .
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180403T090000Z
 DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
@@ -1396,7 +1426,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ch 2018, 22:09 Paris time (GMT+00:00)\nF
  reepreview export: never\nFTI loaded: no
  .
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180403T090000Z
 DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
@@ -1428,7 +1458,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ch 2018, 22:09 Paris time (GMT+00:00)\nF
  reepreview export: never\nFTI loaded: no
  .
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180403T090000Z
 DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
@@ -1457,7 +1487,7 @@ DESCRIPTION:Directorate: Directorate for Employment,
  e (GMT+00:00)\nFreepreview export: 21 Fe
  bruary 2018, 22:48 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180426T073000Z
 DTEND:20180426T074500Z
 TRANSP:TRANSPARENT
@@ -1481,7 +1511,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  iLibrary export: 6 March 2018, 22:07 Par
  is time (GMT+00:00)\nFreepreview export:
   never\nFTI loaded: no.
-DTSTAMP:20180315T000047Z
+DTSTAMP:20180315T233019Z
 DTSTART:20180430T090000Z
 DTEND:20180430T091500Z
 TRANSP:TRANSPARENT
