@@ -1,48 +1,6 @@
-# OECD publication embargoes (49 embargoes)
+# OECD publication embargoes (51 embargoes)
 
-*Data generated on Thursday 15 March 2018 at 23:30*
-
-------
-
-## [Boosting Skills for Greener Jobs in the Western Cape Province of South Africa](https://doi.org/10.1787/48a3c9db-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 16 March 2018 at 6:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
-- [x] Exported to Keepeek Tuesday 13 March 2018 at 0:15
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Tax Challenges Arising from Digitalisation – Interim Report 2018 - Inclusive Framework on BEPS](https://doi.org/10.1787/9789264293083-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 16 March 2018 at 14:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
-- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Saturday 17 March 2018 at 0:42*
 
 ------
 
@@ -54,7 +12,7 @@ Monday 19 March 2018 at 10:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to iLibrary Thursday 15 March 2018 at 22:22
 - [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
 
 ### Additional Information
@@ -67,14 +25,35 @@ Monday 19 March 2018 at 10:00 | no launch event
 
 ------
 
-## [La résilience des élèves issus de l'immigration - Les facteurs qui déterminent le bien-être (version abregée)](https://doi.org/10.1787/g2g8b739-fr)
+## [How do the performance and well-being of students with an immigrant background compare across countries?](https://doi.org/10.1787/a9e8c1ab-en)
 
 Embargo date | Launch date
 -------------|------------
 Monday 19 March 2018 at 12:30 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 16 March 2018 at 23:14
+- [x] Exported to Keepeek Saturday 17 March 2018 at 0:08
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [La résilience des élèves issus de l'immigration (Version abrégée) - Les facteurs qui déterminent le bien-être](https://doi.org/10.1787/9789264085336-fr)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 12:30 | no launch event
+
+### Status Information
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
@@ -82,8 +61,29 @@ Monday 19 March 2018 at 12:30 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Performance et bien-être des élèves issus de l’immigration - Comment se situent les différents pays ?](https://doi.org/10.1787/a707ffd8-fr)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 March 2018 at 12:30 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 16 March 2018 at 23:14
+- [x] Exported to Keepeek Saturday 17 March 2018 at 0:08
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
@@ -96,8 +96,8 @@ Monday 19 March 2018 at 12:30 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 15 March 2018 at 22:22
+- [x] Exported to Keepeek Thursday 15 March 2018 at 23:05
 
 ### Additional Information
 
@@ -117,7 +117,7 @@ Monday 19 March 2018 at 17:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to iLibrary Thursday 15 March 2018 at 22:22
 - [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
 
 ### Additional Information
@@ -684,8 +684,8 @@ Wednesday 21 March 2018 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
-- [x] Exported to Keepeek Wednesday 14 March 2018 at 23:37
+- [x] Exported to iLibrary Friday 16 March 2018 at 23:14
+- [x] Exported to Keepeek Saturday 17 March 2018 at 0:08
 
 ### Additional Information
 
@@ -705,7 +705,7 @@ Thursday 22 March 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 14 March 2018 at 22:46
+- [x] Exported to iLibrary Thursday 15 March 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -718,7 +718,28 @@ Thursday 22 March 2018 at 11:00 | no launch event
 
 ------
 
-## [Études économiques de l'OCDE : Tunisie 2018](https://doi.org/10.1787/eco_surveys-tun-2018-fr)
+## [Financing water - Investing in sustainable growth](https://doi.org/10.1787/bf67ec4e-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 22 March 2018 at 16:13 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 16 March 2018 at 23:14
+- [x] Exported to Keepeek Saturday 17 March 2018 at 0:08
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Études économiques de l'OCDE : Tunisie 2018 - Évaluation économique](https://doi.org/10.1787/eco_surveys-tun-2018-fr)
 
 Embargo date | Launch date
 -------------|------------
@@ -984,6 +1005,27 @@ Tuesday 3 April 2018 at 11:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Investing in Youth: Norway](https://doi.org/10.1787/9789264283671-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 5 April 2018 at 9:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 2 March 2018 at 22:43
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*

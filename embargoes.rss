@@ -8,26 +8,11 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Thu, 15 Mar 2018 23:30:20 GMT</pubDate>
+      <pubDate>Sat, 17 Mar 2018 00:42:34 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
                  type="application/rss+xml"/>
-      <item>
-         <guid isPermaLink="false">10.1787/9789264288256-en</guid>
-         <pubDate>Tue, 13 Mar 2018 23:01:00 GMT</pubDate>
-         <title>Towards Better Social and Employment Security in Korea</title>
-         <link>https://doi.org/10.1787/9789264288256-en</link>
-         <description>Towards Better Social and Employment Security in Korea by Directorate for Employment, Labour and Social Affairs has an embargo on Wednesday, 14 March 2018, 0:01 Paris time (GMT+01:00).</description>
-         <oe:embargoTime>2018-03-13T23:01:00Z</oe:embargoTime>
-         <oe:launchTime/>
-         <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
-         <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Wednesday, 14 March 2018, 21:46 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Wednesday, 14 March 2018, 22:37 Paris time (GMT+00:00)</oe:freePreviewExport>
-         <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>ePub, Paperback, PDF</oe:availableMedia>
-      </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264289550-en</guid>
          <pubDate>Thu, 15 Mar 2018 09:00:00 GMT</pubDate>
@@ -83,24 +68,54 @@
          <oe:launchTime/>
          <oe:directorate>Economics Department</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Wednesday, 14 March 2018, 21:46 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Thursday, 15 March 2018, 21:22 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Wednesday, 14 March 2018, 22:37 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Economic survey</oe:catalogueType>
-         <oe:availableMedia>ePub, PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/g2g8b739-fr</guid>
+         <guid isPermaLink="false">10.1787/a9e8c1ab-en</guid>
          <pubDate>Mon, 19 Mar 2018 11:30:00 GMT</pubDate>
-         <title>La résilience des élèves issus de l'immigration - Les facteurs qui déterminent le bien-être (version abregée)</title>
-         <link>https://doi.org/10.1787/g2g8b739-fr</link>
-         <description>La résilience des élèves issus de l'immigration - Les facteurs qui déterminent le bien-être (version abregée) by Directorate for Education and Skills has an embargo on Monday, 19 March 2018, 12:30 Paris time (GMT+01:00).</description>
+         <title>How do the performance and well-being of students with an immigrant background compare across countries?</title>
+         <link>https://doi.org/10.1787/a9e8c1ab-en</link>
+         <description>How do the performance and well-being of students with an immigrant background compare across countries? by Directorate for Education and Skills has an embargo on Monday, 19 March 2018, 12:30 Paris time (GMT+01:00).</description>
          <oe:embargoTime>2018-03-19T11:30:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Directorate for Education and Skills</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Friday, 16 March 2018, 22:14 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Friday, 16 March 2018, 23:08 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264085336-fr</guid>
+         <pubDate>Mon, 19 Mar 2018 11:30:00 GMT</pubDate>
+         <title>La résilience des élèves issus de l'immigration (Version abrégée) - Les facteurs qui déterminent le bien-être</title>
+         <link>https://doi.org/10.1787/9789264085336-fr</link>
+         <description>La résilience des élèves issus de l'immigration (Version abrégée) - Les facteurs qui déterminent le bien-être by Directorate for Education and Skills has an embargo on Monday, 19 March 2018, 12:30 Paris time (GMT+01:00).</description>
+         <oe:embargoTime>2018-03-19T11:30:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Education and Skills</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport/>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/a707ffd8-fr</guid>
+         <pubDate>Mon, 19 Mar 2018 11:30:00 GMT</pubDate>
+         <title>Performance et bien-être des élèves issus de l’immigration - Comment se situent les différents pays ?</title>
+         <link>https://doi.org/10.1787/a707ffd8-fr</link>
+         <description>Performance et bien-être des élèves issus de l’immigration - Comment se situent les différents pays ? by Directorate for Education and Skills has an embargo on Monday, 19 March 2018, 12:30 Paris time (GMT+01:00).</description>
+         <oe:embargoTime>2018-03-19T11:30:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Education and Skills</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Friday, 16 March 2018, 22:14 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Friday, 16 March 2018, 23:08 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
          <oe:availableMedia>PDF</oe:availableMedia>
       </item>
       <item>
@@ -113,8 +128,8 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Education and Skills</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Monday, 12 March 2018, 22:12 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:iLibraryExport>Thursday, 15 March 2018, 21:22 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Thursday, 15 March 2018, 22:05 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
@@ -128,7 +143,7 @@
          <oe:launchTime/>
          <oe:directorate>Economics Department</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Wednesday, 14 March 2018, 21:46 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Thursday, 15 March 2018, 21:22 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Wednesday, 14 March 2018, 22:37 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
@@ -533,8 +548,8 @@
          <oe:launchTime/>
          <oe:directorate>Economics Department</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Wednesday, 14 March 2018, 21:46 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Wednesday, 14 March 2018, 22:37 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:iLibraryExport>Friday, 16 March 2018, 22:14 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Friday, 16 March 2018, 23:08 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Working paper</oe:catalogueType>
          <oe:availableMedia>PDF</oe:availableMedia>
       </item>
@@ -548,17 +563,32 @@
          <oe:launchTime/>
          <oe:directorate>Development Co-operation Directorate</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Wednesday, 14 March 2018, 21:46 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Thursday, 15 March 2018, 21:22 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
+         <guid isPermaLink="false">10.1787/bf67ec4e-en</guid>
+         <pubDate>Thu, 22 Mar 2018 15:13:00 GMT</pubDate>
+         <title>Financing water - Investing in sustainable growth</title>
+         <link>https://doi.org/10.1787/bf67ec4e-en</link>
+         <description>Financing water - Investing in sustainable growth by Environment Directorate has an embargo on Thursday, 22 March 2018, 16:13 Paris time (GMT+01:00).</description>
+         <oe:embargoTime>2018-03-22T15:13:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Environment Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Friday, 16 March 2018, 22:14 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Friday, 16 March 2018, 23:08 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
          <guid isPermaLink="false">10.1787/eco_surveys-tun-2018-fr</guid>
          <pubDate>Thu, 29 Mar 2018 09:00:00 GMT</pubDate>
-         <title>Études économiques de l'OCDE : Tunisie 2018</title>
+         <title>Études économiques de l'OCDE : Tunisie 2018 - Évaluation économique</title>
          <link>https://doi.org/10.1787/eco_surveys-tun-2018-fr</link>
-         <description>Études économiques de l'OCDE : Tunisie 2018 by Economics Department has an embargo on Thursday, 29 March 2018, 11:00 Paris time (GMT+02:00).</description>
+         <description>Études économiques de l'OCDE : Tunisie 2018 - Évaluation économique by Economics Department has an embargo on Thursday, 29 March 2018, 11:00 Paris time (GMT+02:00).</description>
          <oe:embargoTime>2018-03-29T09:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Economics Department</oe:directorate>
@@ -566,7 +596,7 @@
          <oe:iLibraryExport>Monday, 12 March 2018, 22:12 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Economic survey</oe:catalogueType>
-         <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
+         <oe:availableMedia>ePub, PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/eco_surveys-tun-2018-en</guid>
@@ -581,7 +611,7 @@
          <oe:iLibraryExport>Monday, 12 March 2018, 22:12 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Economic survey</oe:catalogueType>
-         <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
+         <oe:availableMedia>ePub, PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264291225-fr</guid>
@@ -744,6 +774,21 @@
          <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
          <oe:ftiLoaded/>
          <oe:iLibraryExport>Tuesday, 13 March 2018, 22:09 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264283671-en</guid>
+         <pubDate>Thu, 05 Apr 2018 07:00:00 GMT</pubDate>
+         <title>Investing in Youth: Norway</title>
+         <link>https://doi.org/10.1787/9789264283671-en</link>
+         <description>Investing in Youth: Norway by Directorate for Employment, Labour and Social Affairs has an embargo on Thursday, 5 April 2018, 9:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-04-05T07:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Friday, 2 March 2018, 21:43 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
