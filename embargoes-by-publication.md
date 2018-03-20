@@ -1,27 +1,6 @@
-# OECD publication embargoes (20 embargoes)
+# OECD publication embargoes (19 embargoes)
 
-*Data generated on Tuesday 20 March 2018 at 0:04*
-
-------
-
-## [Financing water - Investing in sustainable growth](https://doi.org/10.1787/bf67ec4e-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 20 March 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 March 2018 at 22:48
-- [x] Exported to Keepeek Monday 19 March 2018 at 23:40
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Tuesday 20 March 2018 at 22:50*
 
 ------
 
@@ -33,8 +12,8 @@ Wednesday 21 March 2018 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 March 2018 at 23:14
-- [x] Exported to Keepeek Saturday 17 March 2018 at 0:08
+- [x] Exported to iLibrary Tuesday 20 March 2018 at 21:45
+- [x] Exported to Keepeek Tuesday 20 March 2018 at 22:25
 
 ### Additional Information
 
@@ -54,7 +33,7 @@ Monday 26 March 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 15 March 2018 at 22:22
+- [x] Exported to iLibrary Monday 19 March 2018 at 22:48
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -75,12 +54,12 @@ Tuesday 27 March 2018 at 17:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
+- [x] Exported to iLibrary Monday 19 March 2018 at 22:48
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Development Centre, Centre for Tax Policy and Administration*
+* Directorate: *Centre for Tax Policy and Administration, Development Centre*
 * Language: *English, French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
@@ -117,7 +96,7 @@ Thursday 29 March 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 March 2018 at 23:12
+- [x] Exported to iLibrary Monday 19 March 2018 at 22:48
 - [ ] Exported to Keepeek
 
 ### Additional Information
