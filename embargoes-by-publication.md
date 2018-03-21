@@ -1,26 +1,26 @@
-# OECD publication embargoes (19 embargoes)
+# OECD publication embargoes (22 embargoes)
 
-*Data generated on Tuesday 20 March 2018 at 22:50*
+*Data generated on Wednesday 21 March 2018 at 23:58*
 
 ------
 
-## [A genie in a bottle? - Globalisation, competition and inflation](https://doi.org/10.1787/deda7e54-en)
+## [Private Philanthropy for Development](https://doi.org/10.1787/9789264085190-en)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 21 March 2018 at 2:00 | no launch event
+Friday 23 March 2018 at 9:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 20 March 2018 at 21:45
-- [x] Exported to Keepeek Tuesday 20 March 2018 at 22:25
+- [x] Exported to iLibrary Friday 16 March 2018 at 23:14
+- [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Economics Department*
+* Directorate: *Development Co-operation Directorate*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Working paper*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------
@@ -32,15 +32,15 @@ Embargo date | Launch date
 Monday 26 March 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 19 March 2018 at 22:48
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 20 March 2018 at 21:45
+- [x] Exported to Keepeek Tuesday 20 March 2018 at 22:25
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -53,7 +53,7 @@ Embargo date | Launch date
 Tuesday 27 March 2018 at 17:30 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 19 March 2018 at 22:48
 - [ ] Exported to Keepeek
 
@@ -61,7 +61,7 @@ Tuesday 27 March 2018 at 17:30 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration, Development Centre*
 * Language: *English, French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -75,7 +75,7 @@ Thursday 29 March 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 16 March 2018 at 23:14
+- [x] Exported to iLibrary Tuesday 20 March 2018 at 21:45
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -96,7 +96,7 @@ Thursday 29 March 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 19 March 2018 at 22:48
+- [x] Exported to iLibrary Tuesday 20 March 2018 at 21:45
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -361,6 +361,27 @@ Thursday 5 April 2018 at 9:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Costa Rica 2018](https://doi.org/10.1787/eco_surveys-cri-2018-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 17 April 2018 at 17:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
 ## [Getting Skills Right: Spain](https://doi.org/10.1787/9789264282346-en)
 
 Embargo date | Launch date
@@ -377,6 +398,48 @@ Thursday 26 April 2018 at 9:30 | no launch event
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Les impôts sur les salaires 2018](https://doi.org/10.1787/g2g8c229-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Taxing Wages 2018](https://doi.org/10.1787/g2g8c0a7-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Medium: *PDF*
 
