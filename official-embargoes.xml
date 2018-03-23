@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2018-03-21T23:58:32.068+01:00" count="65">
+<report name="official-embargoes" generated="2018-03-23T03:07:17.704+01:00" count="63">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -50,7 +50,7 @@
   </row>
   <row index="3">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/g2g8c229-fr</cell>
+    <cell name="doi">10.1787/tax_wages-2018-fr</cell>
     <cell name="title">Les impôts sur les salaires 2018 (fr)</cell>
     <cell name="subtitle"/>
     <cell name="language">French</cell>
@@ -66,7 +66,7 @@
   </row>
   <row index="4">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/g2g8c229-fr</cell>
+    <cell name="doi">10.1787/tax_wages-2018-fr</cell>
     <cell name="title">Les impôts sur les salaires 2018 (fr)</cell>
     <cell name="subtitle"/>
     <cell name="language">French</cell>
@@ -82,7 +82,7 @@
   </row>
   <row index="5">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/g2g8c0a7-en</cell>
+    <cell name="doi">10.1787/tax_wages-2018-en</cell>
     <cell name="title">Taxing Wages 2018 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
@@ -98,7 +98,7 @@
   </row>
   <row index="6">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/g2g8c0a7-en</cell>
+    <cell name="doi">10.1787/tax_wages-2018-en</cell>
     <cell name="title">Taxing Wages 2018 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
@@ -267,7 +267,7 @@
     <cell name="date of publication">2018-04-17</cell>
     <cell name="embargo date">2018-04-17T15:00:00Z</cell>
     <cell name="launch date/time">2018-04-17T15:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-03-21T21:45:25.643Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
@@ -283,7 +283,7 @@
     <cell name="date of publication">2018-04-17</cell>
     <cell name="embargo date">2018-04-17T15:00:00Z</cell>
     <cell name="launch date/time">2018-04-17T15:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-03-21T21:45:25.643Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
@@ -795,13 +795,13 @@
     <cell name="date of publication">2018-03-27</cell>
     <cell name="embargo date">2018-03-27T15:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-03-21T21:45:25.643Z</cell>
+    <cell name="freepreview last export date">2018-03-21T22:30:55.693Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="50">
-    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
+    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/rev_lat_car-2018-7-en-fr</cell>
     <cell name="title">Country tables, 1990-2016 – Tax revenues (en), Cuadros país, 1990-2016 – Ingresos tributarios (fr)</cell>
     <cell name="subtitle"/>
@@ -811,8 +811,8 @@
     <cell name="date of publication">2018-03-27</cell>
     <cell name="embargo date">2018-03-27T15:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-03-21T21:45:25.643Z</cell>
+    <cell name="freepreview last export date">2018-03-21T22:30:55.693Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -821,14 +821,14 @@
     <cell name="doi">10.1787/rev_lat_car-2018-2-en-fr</cell>
     <cell name="title">Executive summary (en), Resumen ejecutivo (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">English, French</cell>
+    <cell name="language">French, English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-03-27</cell>
     <cell name="embargo date">2018-03-27T15:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-03-21T21:45:25.643Z</cell>
+    <cell name="freepreview last export date">2018-03-21T22:30:55.693Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -837,19 +837,35 @@
     <cell name="doi">10.1787/rev_lat_car-2018-1-en-fr</cell>
     <cell name="title">Foreword (en), Presentación (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">English, French</cell>
+    <cell name="language">French, English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-03-27</cell>
     <cell name="embargo date">2018-03-27T15:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-03-21T21:45:25.643Z</cell>
+    <cell name="freepreview last export date">2018-03-21T22:30:55.693Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="53">
     <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
+    <cell name="doi">10.1787/rev_lat_car-2018-en-fr</cell>
+    <cell name="title">Revenue Statistics in Latin America and the Caribbean 2018 (en), Estadísticas tributarias en América Latina y el Caribe 2018 (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French, English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-03-27</cell>
+    <cell name="embargo date">2018-03-27T15:30:00Z</cell>
+    <cell name="launch date/time">2018-03-27T15:30:00Z</cell>
+    <cell name="ilibrary last export date">2018-03-21T21:45:25.643Z</cell>
+    <cell name="freepreview last export date">2018-03-21T22:30:55.693Z</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="54">
+    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/rev_lat_car-2018-en-fr</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2018 (en), Estadísticas tributarias en América Latina y el Caribe 2018 (fr)</cell>
     <cell name="subtitle"/>
@@ -864,35 +880,19 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="54">
-    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
-    <cell name="doi">10.1787/rev_lat_car-2018-en-fr</cell>
-    <cell name="title">Revenue Statistics in Latin America and the Caribbean 2018 (en), Estadísticas tributarias en América Latina y el Caribe 2018 (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English, French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-03-27</cell>
-    <cell name="embargo date">2018-03-27T15:30:00Z</cell>
-    <cell name="launch date/time">2018-03-27T15:30:00Z</cell>
-    <cell name="ilibrary last export date">2018-03-19T21:48:29.817Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
   <row index="55">
-    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
+    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/rev_lat_car-2018-4-en-fr</cell>
     <cell name="title">Special feature. Fiscal revenues from non-renewable natural resources in Latin America and the Caribbean (en), Sección especial. Ingresos fiscales provenientes de recursos naturales no renovables en América Latina y el Caribe (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">English, French</cell>
+    <cell name="language">French, English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-03-27</cell>
     <cell name="embargo date">2018-03-27T15:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-03-21T21:45:25.643Z</cell>
+    <cell name="freepreview last export date">2018-03-21T22:30:55.693Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -901,14 +901,14 @@
     <cell name="doi">10.1787/rev_lat_car-2018-5-en-fr</cell>
     <cell name="title">Special feature. Income tax in Latin America (en), Sección especial. El impuesto sobre la renta en América Latina (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">English, French</cell>
+    <cell name="language">French, English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-03-27</cell>
     <cell name="embargo date">2018-03-27T15:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-03-21T21:45:25.643Z</cell>
+    <cell name="freepreview last export date">2018-03-21T22:30:55.693Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -923,13 +923,13 @@
     <cell name="date of publication">2018-03-27</cell>
     <cell name="embargo date">2018-03-27T15:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-03-21T21:45:25.643Z</cell>
+    <cell name="freepreview last export date">2018-03-21T22:30:55.693Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="58">
-    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
+    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
     <cell name="doi">10.1787/rev_lat_car-2018-3-en-fr</cell>
     <cell name="title">Tax revenue trends, 1990-2016 (en), Tendencias tributarias, 1990-2016 (fr)</cell>
     <cell name="subtitle"/>
@@ -939,24 +939,24 @@
     <cell name="date of publication">2018-03-27</cell>
     <cell name="embargo date">2018-03-27T15:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-03-21T21:45:25.643Z</cell>
+    <cell name="freepreview last export date">2018-03-21T22:30:55.693Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="59">
-    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
+    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
     <cell name="doi">10.1787/rev_lat_car-2018-8-en-fr</cell>
     <cell name="title">Tax revenues by sub-sectors of general government (en), Ingresos tributarios por sub-sectores de gobierno general (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">French, English</cell>
+    <cell name="language">English, French</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-03-27</cell>
     <cell name="embargo date">2018-03-27T15:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-03-21T21:45:25.643Z</cell>
+    <cell name="freepreview last export date">2018-03-21T22:30:55.693Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1003,8 +1003,8 @@
     <cell name="date of publication">2018-03-23</cell>
     <cell name="embargo date">2018-03-23T08:00:00Z</cell>
     <cell name="launch date/time">2018-03-23T08:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-03-16T22:14:43.18Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-03-21T21:45:25.643Z</cell>
+    <cell name="freepreview last export date">2018-03-21T22:30:55.693Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1022,38 +1022,6 @@
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="64">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/deda7e54-en</cell>
-    <cell name="title">A genie in a bottle? (en)</cell>
-    <cell name="subtitle">Globalisation, competition and inflation (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-03-21</cell>
-    <cell name="embargo date">2018-03-21T01:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-20T20:45:15.117Z</cell>
-    <cell name="freepreview last export date">2018-03-20T21:25:11.302Z</cell>
-    <cell name="catalogue type">Working paper</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="65">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/bf67ec4e-en</cell>
-    <cell name="title">Financing water (en)</cell>
-    <cell name="subtitle">Investing in sustainable growth (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-03-20</cell>
-    <cell name="embargo date">2018-03-20T01:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-19T21:48:30.537Z</cell>
-    <cell name="freepreview last export date">2018-03-19T22:40:21.548Z</cell>
-    <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
 </report>

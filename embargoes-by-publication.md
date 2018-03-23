@@ -1,6 +1,6 @@
 # OECD publication embargoes (22 embargoes)
 
-*Data generated on Wednesday 21 March 2018 at 23:58*
+*Data generated on Friday 23 March 2018 at 3:07*
 
 ------
 
@@ -12,8 +12,8 @@ Friday 23 March 2018 at 9:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 March 2018 at 23:14
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 21 March 2018 at 22:45
+- [x] Exported to Keepeek Wednesday 21 March 2018 at 23:30
 
 ### Additional Information
 
@@ -54,13 +54,13 @@ Tuesday 27 March 2018 at 17:30 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 March 2018 at 22:48
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 21 March 2018 at 22:45
+- [x] Exported to Keepeek Wednesday 21 March 2018 at 23:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration, Development Centre*
-* Language: *English, French*
+* Language: *French, English*
 * Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
@@ -369,7 +369,7 @@ Tuesday 17 April 2018 at 17:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 21 March 2018 at 22:45
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -403,7 +403,7 @@ Thursday 26 April 2018 at 9:30 | no launch event
 
 ------
 
-## [Les impôts sur les salaires 2018](https://doi.org/10.1787/g2g8c229-fr)
+## [Les impôts sur les salaires 2018](https://doi.org/10.1787/tax_wages-2018-fr)
 
 Embargo date | Launch date
 -------------|------------
@@ -424,7 +424,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ------
 
-## [Taxing Wages 2018](https://doi.org/10.1787/g2g8c0a7-en)
+## [Taxing Wages 2018](https://doi.org/10.1787/tax_wages-2018-en)
 
 Embargo date | Launch date
 -------------|------------
