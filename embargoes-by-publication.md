@@ -1,27 +1,6 @@
-# OECD publication embargoes (21 embargoes)
+# OECD publication embargoes (23 embargoes)
 
-*Data generated on Saturday 24 March 2018 at 1:17*
-
-------
-
-## [OECD Development Co-operation Peer Reviews: Australia 2018](https://doi.org/10.1787/9789264293366-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 26 March 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 20 March 2018 at 21:45
-- [x] Exported to Keepeek Tuesday 20 March 2018 at 22:25
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Monday 26 March 2018 at 23:58*
 
 ------
 
@@ -33,13 +12,13 @@ Tuesday 27 March 2018 at 17:30 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 21 March 2018 at 22:45
+- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
 - [x] Exported to Keepeek Wednesday 21 March 2018 at 23:30
 
 ### Additional Information
 
 * Directorate: *Development Centre, Centre for Tax Policy and Administration*
-* Language: *English, French*
+* Language: *French, English*
 * Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
@@ -50,12 +29,12 @@ Tuesday 27 March 2018 at 17:30 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Thursday 29 March 2018 at 11:00 | no launch event
+Thursday 29 March 2018 at 9:30 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 20 March 2018 at 21:45
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
+- [x] Exported to Keepeek Saturday 24 March 2018 at 0:50
 
 ### Additional Information
 
@@ -71,12 +50,12 @@ Thursday 29 March 2018 at 11:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Thursday 29 March 2018 at 11:00 | no launch event
+Thursday 29 March 2018 at 9:30 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 20 March 2018 at 21:45
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
+- [x] Exported to Keepeek Saturday 24 March 2018 at 0:50
 
 ### Additional Information
 
@@ -96,8 +75,8 @@ Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 13 March 2018 at 23:09
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
+- [x] Exported to Keepeek Saturday 24 March 2018 at 0:50
 
 ### Additional Information
 
@@ -116,8 +95,8 @@ Embargo date | Launch date
 Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 13 March 2018 at 23:09
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -137,15 +116,15 @@ Embargo date | Launch date
 Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 13 March 2018 at 23:09
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -159,8 +138,8 @@ Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 13 March 2018 at 23:09
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
+- [x] Exported to Keepeek Saturday 24 March 2018 at 0:50
 
 ### Additional Information
 
@@ -180,8 +159,8 @@ Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 13 March 2018 at 23:09
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
+- [x] Exported to Keepeek Saturday 24 March 2018 at 0:50
 
 ### Additional Information
 
@@ -201,8 +180,8 @@ Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 13 March 2018 at 23:09
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
+- [x] Exported to Keepeek Saturday 24 March 2018 at 0:50
 
 ### Additional Information
 
@@ -221,15 +200,15 @@ Embargo date | Launch date
 Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 13 March 2018 at 23:09
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -242,15 +221,15 @@ Embargo date | Launch date
 Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 13 March 2018 at 23:09
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -263,15 +242,15 @@ Embargo date | Launch date
 Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 13 March 2018 at 23:09
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -284,15 +263,15 @@ Embargo date | Launch date
 Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 13 March 2018 at 23:09
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -306,8 +285,8 @@ Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 13 March 2018 at 23:09
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
+- [x] Exported to Keepeek Saturday 24 March 2018 at 0:50
 
 ### Additional Information
 
@@ -340,6 +319,69 @@ Thursday 5 April 2018 at 9:00 | no launch event
 
 ------
 
+## [Latin American Economic Outlook 2018 - Rethinking Institutions for Development](https://doi.org/10.1787/leo-2018-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 10 April 2018 at 14:30 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 16 March 2018 at 23:14
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Perspectivas económicas de América Latina 2018 - Repensando las instituciones para el desarrollo](https://doi.org/10.1787/leo-2018-es)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 10 April 2018 at 14:30 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 16 March 2018 at 23:14
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *Spanish*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Taxation of Household Savings](https://doi.org/10.1787/9789264289536-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 12 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 1 March 2018 at 22:40
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Costa Rica 2018](https://doi.org/10.1787/eco_surveys-cri-2018-en)
 
 Embargo date | Launch date
@@ -348,7 +390,7 @@ Tuesday 17 April 2018 at 17:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 21 March 2018 at 22:45
+- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
 - [ ] Exported to Keepeek
 
 ### Additional Information
