@@ -1,27 +1,6 @@
-# OECD publication embargoes (23 embargoes)
+# OECD publication embargoes (22 embargoes)
 
-*Data generated on Monday 26 March 2018 at 23:58*
-
-------
-
-## [Revenue Statistics in Latin America and the Caribbean 2018, Estadísticas tributarias en América Latina y el Caribe 2018](https://doi.org/10.1787/rev_lat_car-2018-en-fr)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 27 March 2018 at 17:30 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
-- [x] Exported to Keepeek Wednesday 21 March 2018 at 23:30
-
-### Additional Information
-
-* Directorate: *Development Centre, Centre for Tax Policy and Administration*
-* Language: *French, English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Wednesday 28 March 2018 at 0:53*
 
 ------
 
@@ -33,8 +12,8 @@ Thursday 29 March 2018 at 9:30 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
-- [x] Exported to Keepeek Saturday 24 March 2018 at 0:50
+- [x] Exported to iLibrary Monday 26 March 2018 at 22:52
+- [x] Exported to Keepeek Monday 26 March 2018 at 23:37
 
 ### Additional Information
 
@@ -54,8 +33,8 @@ Thursday 29 March 2018 at 9:30 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
-- [x] Exported to Keepeek Saturday 24 March 2018 at 0:50
+- [x] Exported to iLibrary Monday 26 March 2018 at 22:52
+- [x] Exported to Keepeek Monday 26 March 2018 at 23:37
 
 ### Additional Information
 
@@ -96,8 +75,8 @@ Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 26 March 2018 at 22:52
+- [x] Exported to Keepeek Monday 26 March 2018 at 23:37
 
 ### Additional Information
 
@@ -117,8 +96,8 @@ Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 26 March 2018 at 22:52
+- [x] Exported to Keepeek Monday 26 March 2018 at 23:37
 
 ### Additional Information
 
@@ -201,8 +180,8 @@ Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 26 March 2018 at 22:52
+- [x] Exported to Keepeek Monday 26 March 2018 at 23:37
 
 ### Additional Information
 
@@ -222,8 +201,8 @@ Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 26 March 2018 at 22:52
+- [x] Exported to Keepeek Monday 26 March 2018 at 23:37
 
 ### Additional Information
 
@@ -243,8 +222,8 @@ Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 26 March 2018 at 22:52
+- [x] Exported to Keepeek Monday 26 March 2018 at 23:37
 
 ### Additional Information
 
@@ -264,8 +243,8 @@ Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 26 March 2018 at 22:52
+- [x] Exported to Keepeek Monday 26 March 2018 at 23:37
 
 ### Additional Information
 
@@ -327,7 +306,7 @@ Tuesday 10 April 2018 at 14:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 16 March 2018 at 23:14
+- [x] Exported to iLibrary Monday 26 March 2018 at 22:52
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -348,7 +327,7 @@ Tuesday 10 April 2018 at 14:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 16 March 2018 at 23:14
+- [x] Exported to iLibrary Monday 26 March 2018 at 22:52
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -369,7 +348,7 @@ Thursday 12 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 1 March 2018 at 22:40
+- [x] Exported to iLibrary Monday 26 March 2018 at 22:52
 - [ ] Exported to Keepeek
 
 ### Additional Information

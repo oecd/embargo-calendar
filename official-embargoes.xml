@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2018-03-26T23:58:21.448+02:00" count="222">
+<report name="official-embargoes" generated="2018-03-28T00:53:53.683+02:00" count="234">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -326,12 +326,12 @@
     <cell name="title">Taxation of Household Savings (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-04-17</cell>
     <cell name="embargo date">2018-04-12T09:00:00Z</cell>
     <cell name="launch date/time">2018-04-12T09:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -342,12 +342,12 @@
     <cell name="title">Taxation of Household Savings (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2018-04-17</cell>
     <cell name="embargo date">2018-04-12T09:00:00Z</cell>
     <cell name="launch date/time">2018-04-12T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-03-01T21:40:54.41Z</cell>
+    <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -358,12 +358,12 @@
     <cell name="title">Latin American Economic Outlook 2018 (en)</cell>
     <cell name="subtitle">Rethinking Institutions for Development (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-04-10</cell>
     <cell name="embargo date">2018-04-10T12:30:00Z</cell>
     <cell name="launch date/time">2018-04-10T12:30:00Z</cell>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -374,33 +374,17 @@
     <cell name="title">Latin American Economic Outlook 2018 (en)</cell>
     <cell name="subtitle">Rethinking Institutions for Development (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
+    <cell name="medium">Paperback</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-04-10</cell>
     <cell name="embargo date">2018-04-10T12:30:00Z</cell>
     <cell name="launch date/time">2018-04-10T12:30:00Z</cell>
-    <cell name="ilibrary last export date">2018-03-16T22:14:43.18Z</cell>
+    <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
   <row index="24">
-    <cell name="directorate">Development Centre</cell>
-    <cell name="doi">10.1787/leo-2018-es</cell>
-    <cell name="title">Perspectivas económicas de América Latina 2018 (es)</cell>
-    <cell name="subtitle">Repensando las instituciones para el desarrollo (es)</cell>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-04-10</cell>
-    <cell name="embargo date">2018-04-10T12:30:00Z</cell>
-    <cell name="launch date/time">2018-04-10T12:30:00Z</cell>
-    <cell name="ilibrary last export date">2018-03-16T22:14:43.18Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="25">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/leo-2018-es</cell>
     <cell name="title">Perspectivas económicas de América Latina 2018 (es)</cell>
@@ -412,6 +396,22 @@
     <cell name="embargo date">2018-04-10T12:30:00Z</cell>
     <cell name="launch date/time">2018-04-10T12:30:00Z</cell>
     <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="25">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/leo-2018-es</cell>
+    <cell name="title">Perspectivas económicas de América Latina 2018 (es)</cell>
+    <cell name="subtitle">Repensando las instituciones para el desarrollo (es)</cell>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-04-10</cell>
+    <cell name="embargo date">2018-04-10T12:30:00Z</cell>
+    <cell name="launch date/time">2018-04-10T12:30:00Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -455,7 +455,7 @@
     <cell name="subtitle">Rapport d'examen par les pairs sur la demande d'échange de renseignements (fr)</cell>
     <cell name="language">French</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-04-03</cell>
     <cell name="embargo date">2018-04-03T09:00:00Z</cell>
     <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
@@ -487,7 +487,7 @@
     <cell name="subtitle">Rapport d'examen par les pairs sur la demande d'échange de renseignements (fr)</cell>
     <cell name="language">French</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-04-03</cell>
     <cell name="embargo date">2018-04-03T09:00:00Z</cell>
     <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
@@ -507,8 +507,8 @@
     <cell name="date of publication">2018-04-03</cell>
     <cell name="embargo date">2018-04-03T09:00:00Z</cell>
     <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -519,7 +519,7 @@
     <cell name="subtitle">Rapport d'examen par les pairs sur la demande d'échange de renseignements (fr)</cell>
     <cell name="language">French</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-04-03</cell>
     <cell name="embargo date">2018-04-03T09:00:00Z</cell>
     <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
@@ -539,8 +539,8 @@
     <cell name="date of publication">2018-04-03</cell>
     <cell name="embargo date">2018-04-03T09:00:00Z</cell>
     <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -550,15 +550,15 @@
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Belgium 2018 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2018-04-03</cell>
     <cell name="embargo date">2018-04-03T09:00:00Z</cell>
     <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
+    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
   </row>
   <row index="35">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
@@ -566,15 +566,15 @@
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Belgium 2018 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-04-03</cell>
     <cell name="embargo date">2018-04-03T09:00:00Z</cell>
     <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
+    <cell name="fti loaded?"/>
   </row>
   <row index="36">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
@@ -582,15 +582,15 @@
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Estonia 2018 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-04-03</cell>
     <cell name="embargo date">2018-04-03T09:00:00Z</cell>
     <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
+    <cell name="fti loaded?"/>
   </row>
   <row index="37">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
@@ -598,33 +598,17 @@
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Estonia 2018 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2018-04-03</cell>
     <cell name="embargo date">2018-04-03T09:00:00Z</cell>
     <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
+    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
   </row>
   <row index="38">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9789264291058-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: France 2018 (Second Round) (en)</cell>
-    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2018-04-03</cell>
-    <cell name="embargo date">2018-04-03T09:00:00Z</cell>
-    <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="39">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291058-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: France 2018 (Second Round) (en)</cell>
@@ -640,14 +624,14 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="40">
+  <row index="39">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9789264291119-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Ghana 2018 (Second Round) (en)</cell>
+    <cell name="doi">10.1787/9789264291058-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: France 2018 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-04-03</cell>
     <cell name="embargo date">2018-04-03T09:00:00Z</cell>
     <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
@@ -655,6 +639,22 @@
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
+  </row>
+  <row index="40">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264291119-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Ghana 2018 (Second Round) (en)</cell>
+    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-03</cell>
+    <cell name="embargo date">2018-04-03T09:00:00Z</cell>
+    <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
   </row>
   <row index="41">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
@@ -662,24 +662,8 @@
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Ghana 2018 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-04-03</cell>
-    <cell name="embargo date">2018-04-03T09:00:00Z</cell>
-    <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="42">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9789264291133-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Hungary 2018 (Second Round) (en)</cell>
-    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
-    <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-04-03</cell>
     <cell name="embargo date">2018-04-03T09:00:00Z</cell>
     <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
@@ -688,7 +672,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="43">
+  <row index="42">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291133-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Hungary 2018 (Second Round) (en)</cell>
@@ -699,10 +683,26 @@
     <cell name="date of publication">2018-04-03</cell>
     <cell name="embargo date">2018-04-03T09:00:00Z</cell>
     <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="43">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264291133-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Hungary 2018 (Second Round) (en)</cell>
+    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-04-03</cell>
+    <cell name="embargo date">2018-04-03T09:00:00Z</cell>
+    <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
   </row>
   <row index="44">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
@@ -715,8 +715,8 @@
     <cell name="date of publication">2018-04-03</cell>
     <cell name="embargo date">2018-04-03T09:00:00Z</cell>
     <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -727,7 +727,7 @@
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-04-03</cell>
     <cell name="embargo date">2018-04-03T09:00:00Z</cell>
     <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
@@ -742,24 +742,8 @@
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: New Zealand 2018 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-04-03</cell>
-    <cell name="embargo date">2018-04-03T09:00:00Z</cell>
-    <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="47">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9789264291171-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: New Zealand 2018 (Second Round) (en)</cell>
-    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
-    <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-04-03</cell>
     <cell name="embargo date">2018-04-03T09:00:00Z</cell>
     <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
@@ -768,7 +752,39 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
+  <row index="47">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264291171-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: New Zealand 2018 (Second Round) (en)</cell>
+    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-03</cell>
+    <cell name="embargo date">2018-04-03T09:00:00Z</cell>
+    <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
   <row index="48">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264291805-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: The Bahamas 2018 (Second Round) (en)</cell>
+    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-04-03</cell>
+    <cell name="embargo date">2018-04-03T09:00:00Z</cell>
+    <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="49">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291805-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: The Bahamas 2018 (Second Round) (en)</cell>
@@ -783,22 +799,6 @@
     <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="49">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9789264291805-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: The Bahamas 2018 (Second Round) (en)</cell>
-    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2018-04-03</cell>
-    <cell name="embargo date">2018-04-03T09:00:00Z</cell>
-    <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
   </row>
   <row index="50">
     <cell name="directorate">Economics Department</cell>
@@ -811,8 +811,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -827,8 +827,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -843,8 +843,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -859,8 +859,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -875,8 +875,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -891,8 +891,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -907,8 +907,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -923,8 +923,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -939,8 +939,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -955,8 +955,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -971,8 +971,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -987,8 +987,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1003,8 +1003,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1019,8 +1019,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1035,8 +1035,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1051,8 +1051,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1067,8 +1067,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1083,8 +1083,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1099,8 +1099,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1115,8 +1115,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1131,8 +1131,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1147,8 +1147,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1163,8 +1163,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1179,8 +1179,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1195,8 +1195,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1211,8 +1211,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1227,8 +1227,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1243,8 +1243,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1259,8 +1259,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1275,8 +1275,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1291,8 +1291,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1307,8 +1307,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1323,8 +1323,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1339,8 +1339,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1355,8 +1355,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1371,8 +1371,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1387,8 +1387,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1403,8 +1403,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1419,8 +1419,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1435,8 +1435,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1451,8 +1451,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1467,8 +1467,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1483,8 +1483,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1499,8 +1499,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1515,8 +1515,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1531,8 +1531,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1547,8 +1547,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1563,8 +1563,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1579,8 +1579,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1595,8 +1595,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1611,8 +1611,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1627,8 +1627,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1643,8 +1643,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1659,8 +1659,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1675,8 +1675,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1691,8 +1691,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1707,8 +1707,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1723,8 +1723,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1739,8 +1739,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1755,8 +1755,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1771,8 +1771,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1787,8 +1787,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1803,8 +1803,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1819,8 +1819,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1835,8 +1835,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1851,8 +1851,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1867,8 +1867,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1883,8 +1883,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1899,8 +1899,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1915,8 +1915,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1931,8 +1931,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1947,8 +1947,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1963,8 +1963,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1979,8 +1979,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -1995,8 +1995,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2011,8 +2011,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2027,8 +2027,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2043,8 +2043,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2059,8 +2059,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2075,8 +2075,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2091,8 +2091,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2107,8 +2107,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2123,8 +2123,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2139,8 +2139,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2155,8 +2155,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2171,8 +2171,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2187,8 +2187,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2203,8 +2203,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2219,8 +2219,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2235,8 +2235,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2251,8 +2251,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2267,8 +2267,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2283,8 +2283,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2299,8 +2299,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2315,8 +2315,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2331,8 +2331,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2347,8 +2347,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2363,8 +2363,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2379,8 +2379,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2395,8 +2395,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2411,8 +2411,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2427,8 +2427,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2443,8 +2443,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2459,8 +2459,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2475,8 +2475,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2491,8 +2491,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2507,8 +2507,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2523,8 +2523,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2539,8 +2539,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2555,8 +2555,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2571,8 +2571,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2587,8 +2587,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2603,8 +2603,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2619,8 +2619,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2635,8 +2635,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2651,8 +2651,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2667,8 +2667,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2683,8 +2683,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2699,8 +2699,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2715,8 +2715,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2731,8 +2731,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2747,8 +2747,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2763,8 +2763,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2779,8 +2779,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2795,8 +2795,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2811,8 +2811,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2827,8 +2827,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2843,8 +2843,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2859,8 +2859,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2875,8 +2875,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2891,8 +2891,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2907,8 +2907,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2923,8 +2923,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2939,8 +2939,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2955,8 +2955,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2971,8 +2971,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -2987,8 +2987,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -3003,8 +3003,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -3019,8 +3019,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -3035,8 +3035,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -3051,8 +3051,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -3067,8 +3067,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -3083,8 +3083,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -3099,8 +3099,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -3115,8 +3115,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -3131,8 +3131,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -3147,8 +3147,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -3163,8 +3163,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -3179,8 +3179,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -3195,8 +3195,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -3211,8 +3211,8 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -3227,28 +3227,76 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="202">
     <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_surveys-tun-2018-fr</cell>
-    <cell name="title">Études économiques de l'OCDE : Tunisie 2018 (fr)</cell>
-    <cell name="subtitle">Évaluation économique (fr)</cell>
+    <cell name="doi">10.1787/eco_surveys-tun-2018-2-fr</cell>
+    <cell name="title">Acronymes et abréviations (fr)</cell>
+    <cell name="subtitle"/>
     <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
+    <cell name="medium">HTML</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T07:30:00Z</cell>
-    <cell name="launch date/time">2018-03-29T07:30:00Z</cell>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
-    <cell name="catalogue type">Economic survey</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
+    <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="203">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-tun-2018-2-en</cell>
+    <cell name="title">Acronyms (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-03-29</cell>
+    <cell name="embargo date">2018-03-29T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="204">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-tun-2018-4-en</cell>
+    <cell name="title">Assessment and recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-03-29</cell>
+    <cell name="embargo date">2018-03-29T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="205">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-tun-2018-1-en</cell>
+    <cell name="title">Basic statistics of Tunisia, 2016 (en)</cell>
+    <cell name="subtitle">(Numbers in parentheses refer to the OECD average) (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-03-29</cell>
+    <cell name="embargo date">2018-03-29T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="206">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-fr</cell>
     <cell name="title">Études économiques de l'OCDE : Tunisie 2018 (fr)</cell>
@@ -3264,7 +3312,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="204">
+  <row index="207">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-fr</cell>
     <cell name="title">Études économiques de l'OCDE : Tunisie 2018 (fr)</cell>
@@ -3275,95 +3323,255 @@
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T07:30:00Z</cell>
     <cell name="launch date/time">2018-03-29T07:30:00Z</cell>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="205">
+  <row index="208">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-fr</cell>
     <cell name="title">Études économiques de l'OCDE : Tunisie 2018 (fr)</cell>
     <cell name="subtitle">Évaluation économique (fr)</cell>
     <cell name="language">French</cell>
     <cell name="medium">HTML</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2018-03-29</cell>
-    <cell name="embargo date">2018-03-29T07:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-20T20:45:13.603Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="206">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_surveys-tun-2018-en</cell>
-    <cell name="title">OECD Economic Surveys: Tunisia 2018 (en)</cell>
-    <cell name="subtitle">Economic Assessment (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T07:30:00Z</cell>
-    <cell name="launch date/time">2018-03-29T07:30:00Z</cell>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="207">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_surveys-tun-2018-en</cell>
-    <cell name="title">OECD Economic Surveys: Tunisia 2018 (en)</cell>
-    <cell name="subtitle">Economic Assessment (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2018-03-29</cell>
-    <cell name="embargo date">2018-03-29T07:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-03-20T20:45:13.603Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="208">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_surveys-tun-2018-en</cell>
-    <cell name="title">OECD Economic Surveys: Tunisia 2018 (en)</cell>
-    <cell name="subtitle">Economic Assessment (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-03-29</cell>
-    <cell name="embargo date">2018-03-29T07:30:00Z</cell>
-    <cell name="launch date/time">2018-03-29T07:30:00Z</cell>
-    <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
   </row>
   <row index="209">
     <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-tun-2018-fr</cell>
+    <cell name="title">Études économiques de l'OCDE : Tunisie 2018 (fr)</cell>
+    <cell name="subtitle">Évaluation économique (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-03-29</cell>
+    <cell name="embargo date">2018-03-29T07:30:00Z</cell>
+    <cell name="launch date/time">2018-03-29T07:30:00Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="210">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-tun-2018-4-fr</cell>
+    <cell name="title">Évaluation et recommandations (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-03-29</cell>
+    <cell name="embargo date">2018-03-29T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="211">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-tun-2018-3-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-03-29</cell>
+    <cell name="embargo date">2018-03-29T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="212">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-tun-2018-en</cell>
+    <cell name="title">OECD Economic Surveys: Tunisia 2018 (en)</cell>
+    <cell name="subtitle">Economic Assessment (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-03-29</cell>
+    <cell name="embargo date">2018-03-29T07:30:00Z</cell>
+    <cell name="launch date/time">2018-03-29T07:30:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="213">
+    <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-en</cell>
     <cell name="title">OECD Economic Surveys: Tunisia 2018 (en)</cell>
     <cell name="subtitle">Economic Assessment (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">ePub</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2018-03-29</cell>
     <cell name="embargo date">2018-03-29T07:30:00Z</cell>
     <cell name="launch date/time">2018-03-29T07:30:00Z</cell>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="214">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-tun-2018-en</cell>
+    <cell name="title">OECD Economic Surveys: Tunisia 2018 (en)</cell>
+    <cell name="subtitle">Economic Assessment (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-03-29</cell>
+    <cell name="embargo date">2018-03-29T07:30:00Z</cell>
+    <cell name="launch date/time">2018-03-29T07:30:00Z</cell>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="215">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-tun-2018-en</cell>
+    <cell name="title">OECD Economic Surveys: Tunisia 2018 (en)</cell>
+    <cell name="subtitle">Economic Assessment (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-03-29</cell>
+    <cell name="embargo date">2018-03-29T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-20T20:45:13.603Z</cell>
+    <cell name="freepreview last export date"/>
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="210">
+  <row index="216">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-tun-2018-5-fr</cell>
+    <cell name="title">Relancer l'investissement (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-03-29</cell>
+    <cell name="embargo date">2018-03-29T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="217">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-tun-2018-3-fr</cell>
+    <cell name="title">Résumé (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-03-29</cell>
+    <cell name="embargo date">2018-03-29T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="218">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-tun-2018-5-en</cell>
+    <cell name="title">Reviving investment (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-03-29</cell>
+    <cell name="embargo date">2018-03-29T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="219">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-tun-2018-1-fr</cell>
+    <cell name="title">Statistiques de base de la Tunisie, 2016 (fr)</cell>
+    <cell name="subtitle">(Les chiffres entre parenthèses indiquent la moyenne de l'OCDE) (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-03-29</cell>
+    <cell name="embargo date">2018-03-29T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="220">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-tun-2018-6-en</cell>
+    <cell name="title">Toward more inclusive growth: reducing inequalities through quality job creation (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-03-29</cell>
+    <cell name="embargo date">2018-03-29T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="221">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-tun-2018-6-fr</cell>
+    <cell name="title">Vers une croissance plus inclusive : réduire les inégalités par la création d'emplois de qualité (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-03-29</cell>
+    <cell name="embargo date">2018-03-29T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
+    <cell name="freepreview last export date">2018-03-26T21:37:20.323Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="222">
     <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
     <cell name="doi">10.1787/rev_lat_car-2018-9-en-fr</cell>
     <cell name="title">Annex A. The OECD Classification of Taxes and Interpretative Guide (en), Anexo A. Guía de interpretación de la OCDE (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French, English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-03-27</cell>
+    <cell name="embargo date">2018-03-27T15:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-21T21:45:25.643Z</cell>
+    <cell name="freepreview last export date">2018-03-21T22:30:55.693Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="223">
+    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/rev_lat_car-2018-7-en-fr</cell>
+    <cell name="title">Country tables, 1990-2016 – Tax revenues (en), Cuadros país, 1990-2016 – Ingresos tributarios (fr)</cell>
     <cell name="subtitle"/>
     <cell name="language">English, French</cell>
     <cell name="medium">PDF</cell>
@@ -3376,28 +3584,12 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="211">
-    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/rev_lat_car-2018-7-en-fr</cell>
-    <cell name="title">Country tables, 1990-2016 – Tax revenues (en), Cuadros país, 1990-2016 – Ingresos tributarios (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French, English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-03-27</cell>
-    <cell name="embargo date">2018-03-27T15:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-21T21:45:25.643Z</cell>
-    <cell name="freepreview last export date">2018-03-21T22:30:55.693Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="212">
-    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
+  <row index="224">
+    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
     <cell name="doi">10.1787/rev_lat_car-2018-2-en-fr</cell>
     <cell name="title">Executive summary (en), Resumen ejecutivo (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">French, English</cell>
+    <cell name="language">English, French</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-03-27</cell>
@@ -3408,7 +3600,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="213">
+  <row index="225">
     <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/rev_lat_car-2018-1-en-fr</cell>
     <cell name="title">Foreword (en), Presentación (fr)</cell>
@@ -3424,8 +3616,8 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="214">
-    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
+  <row index="226">
+    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
     <cell name="doi">10.1787/rev_lat_car-2018-en-fr</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2018 (en), Estadísticas tributarias en América Latina y el Caribe 2018 (fr)</cell>
     <cell name="subtitle"/>
@@ -3440,8 +3632,8 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="215">
-    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
+  <row index="227">
+    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
     <cell name="doi">10.1787/rev_lat_car-2018-en-fr</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2018 (en), Estadísticas tributarias en América Latina y el Caribe 2018 (fr)</cell>
     <cell name="subtitle"/>
@@ -3456,7 +3648,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="216">
+  <row index="228">
     <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
     <cell name="doi">10.1787/rev_lat_car-2018-4-en-fr</cell>
     <cell name="title">Special feature. Fiscal revenues from non-renewable natural resources in Latin America and the Caribbean (en), Sección especial. Ingresos fiscales provenientes de recursos naturales no renovables en América Latina y el Caribe (fr)</cell>
@@ -3472,7 +3664,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="217">
+  <row index="229">
     <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/rev_lat_car-2018-5-en-fr</cell>
     <cell name="title">Special feature. Income tax in Latin America (en), Sección especial. El impuesto sobre la renta en América Latina (fr)</cell>
@@ -3488,8 +3680,8 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="218">
-    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
+  <row index="230">
+    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
     <cell name="doi">10.1787/rev_lat_car-2018-6-en-fr</cell>
     <cell name="title">Tax levels and tax structures, 1990-2016 (en), Niveles impositivos y estructuras tributarias, 1990-2016 (fr)</cell>
     <cell name="subtitle"/>
@@ -3504,12 +3696,12 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="219">
+  <row index="231">
     <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
     <cell name="doi">10.1787/rev_lat_car-2018-3-en-fr</cell>
     <cell name="title">Tax revenue trends, 1990-2016 (en), Tendencias tributarias, 1990-2016 (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">French, English</cell>
+    <cell name="language">English, French</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-03-27</cell>
@@ -3520,8 +3712,8 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="220">
-    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
+  <row index="232">
+    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/rev_lat_car-2018-8-en-fr</cell>
     <cell name="title">Tax revenues by sub-sectors of general government (en), Ingresos tributarios por sub-sectores de gobierno general (fr)</cell>
     <cell name="subtitle"/>
@@ -3536,23 +3728,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="221">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264293366-en</cell>
-    <cell name="title">OECD Development Co-operation Peer Reviews: Australia 2018 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2018-03-26</cell>
-    <cell name="embargo date">2018-03-26T09:00:00Z</cell>
-    <cell name="launch date/time">2018-03-26T09:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="222">
+  <row index="233">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/9789264293366-en</cell>
     <cell name="title">OECD Development Co-operation Peer Reviews: Australia 2018 (en)</cell>
@@ -3567,5 +3743,21 @@
     <cell name="freepreview last export date">2018-03-20T21:25:10.4Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="234">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/9789264293366-en</cell>
+    <cell name="title">OECD Development Co-operation Peer Reviews: Australia 2018 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2018-03-26</cell>
+    <cell name="embargo date">2018-03-26T09:00:00Z</cell>
+    <cell name="launch date/time">2018-03-26T09:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
   </row>
 </report>
