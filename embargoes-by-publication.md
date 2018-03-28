@@ -1,6 +1,6 @@
-# OECD publication embargoes (22 embargoes)
+# OECD publication embargoes (23 embargoes)
 
-*Data generated on Wednesday 28 March 2018 at 0:53*
+*Data generated on Thursday 29 March 2018 at 1:24*
 
 ------
 
@@ -12,7 +12,7 @@ Thursday 29 March 2018 at 9:30 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 26 March 2018 at 22:52
+- [x] Exported to iLibrary Tuesday 27 March 2018 at 23:14
 - [x] Exported to Keepeek Monday 26 March 2018 at 23:37
 
 ### Additional Information
@@ -33,7 +33,7 @@ Thursday 29 March 2018 at 9:30 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 26 March 2018 at 22:52
+- [x] Exported to iLibrary Tuesday 27 March 2018 at 23:14
 - [x] Exported to Keepeek Monday 26 March 2018 at 23:37
 
 ### Additional Information
@@ -277,6 +277,27 @@ Tuesday 3 April 2018 at 11:00 | no launch event
 
 ------
 
+## [Getting Skills Right: Chile](https://doi.org/10.1787/9789264293151-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 27 March 2018 at 23:14
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
 ## [Investing in Youth: Norway](https://doi.org/10.1787/9789264283671-en)
 
 Embargo date | Launch date
@@ -285,7 +306,7 @@ Thursday 5 April 2018 at 9:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 16 March 2018 at 23:14
+- [x] Exported to iLibrary Tuesday 27 March 2018 at 23:14
 - [ ] Exported to Keepeek
 
 ### Additional Information
