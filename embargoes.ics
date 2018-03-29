@@ -4,36 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/rev_lat_car-2018-en-fr
-SUMMARY:Revenue Statistics in Latin America and 
- the Caribbean 2018, Estadísticas tributa
- rias en América Latina y el Caribe 2018
-DESCRIPTION:Directorate: Development Centre, Centre 
- for Tax Policy and Administration\nLangu
- age: French, English\nDOI: https://doi.o
- rg/10.1787/rev_lat_car-2018-en-fr\nPubli
- cation type: Book\nReleased as: PDF, Pap
- erback.\n\niLibrary export: 23 March 201
- 8, 22:30 Paris time (GMT+00:00)\nFreepre
- view export: 21 March 2018, 22:30 Paris 
- time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180329T012416Z
-DTSTART:20180327T153000Z
-DTEND:20180327T154500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Revenue Statistics in Latin Am
- erica and the Caribbean 2018, Estadístic
- as tributarias en América Latina y el Ca
- ribe 2018
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/eco_surveys-tun-2018-fr
 SUMMARY:Études économiques de l'OCDE : Tunisie 2
  018 - Évaluation économique
@@ -46,7 +16,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  00:00)\nFreepreview export: 26 March 201
  8, 21:37 Paris time (GMT+00:00)\nFTI loa
  ded: ✓.
-DTSTAMP:20180329T012416Z
+DTSTAMP:20180330T003253Z
 DTSTART:20180329T073000Z
 DTEND:20180329T074500Z
 TRANSP:TRANSPARENT
@@ -73,7 +43,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  +00:00)\nFreepreview export: 26 March 20
  18, 21:37 Paris time (GMT+00:00)\nFTI lo
  aded: ✓.
-DTSTAMP:20180329T012416Z
+DTSTAMP:20180330T003253Z
 DTSTART:20180329T073000Z
 DTEND:20180329T074500Z
 TRANSP:TRANSPARENT
@@ -97,12 +67,12 @@ SUMMARY:Forum mondial sur la transparence et l'é
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/9789264291225-fr\n
- Publication type: Book\nReleased as: Pap
- erback, PDF.\n\niLibrary export: 23 Marc
+ Publication type: Book\nReleased as: PDF
+ , Paperback.\n\niLibrary export: 23 Marc
  h 2018, 22:30 Paris time (GMT+00:00)\nFr
  eepreview export: 23 March 2018, 23:50 P
  aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180329T012416Z
+DTSTAMP:20180330T003253Z
 DTSTART:20180403T090000Z
 DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
@@ -135,7 +105,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  h 2018, 20:52 Paris time (GMT+00:00)\nFr
  eepreview export: 26 March 2018, 21:37 P
  aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180329T012416Z
+DTSTAMP:20180330T003253Z
 DTSTART:20180403T090000Z
 DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
@@ -168,7 +138,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  h 2018, 20:52 Paris time (GMT+00:00)\nFr
  eepreview export: 26 March 2018, 21:37 P
  aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180329T012416Z
+DTSTAMP:20180330T003253Z
 DTSTART:20180403T090000Z
 DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
@@ -201,7 +171,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ch 2018, 22:30 Paris time (GMT+00:00)\nF
  reepreview export: 23 March 2018, 23:50 
  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180329T012416Z
+DTSTAMP:20180330T003253Z
 DTSTART:20180403T090000Z
 DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
@@ -233,7 +203,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ch 2018, 22:30 Paris time (GMT+00:00)\nF
  reepreview export: 23 March 2018, 23:50 
  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180329T012416Z
+DTSTAMP:20180330T003253Z
 DTSTART:20180403T090000Z
 DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
@@ -265,7 +235,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ch 2018, 22:30 Paris time (GMT+00:00)\nF
  reepreview export: 23 March 2018, 23:50 
  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180329T012416Z
+DTSTAMP:20180330T003253Z
 DTSTART:20180403T090000Z
 DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
@@ -297,7 +267,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ch 2018, 20:52 Paris time (GMT+00:00)\nF
  reepreview export: 26 March 2018, 21:37 
  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180329T012416Z
+DTSTAMP:20180330T003253Z
 DTSTART:20180403T090000Z
 DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
@@ -329,7 +299,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ch 2018, 20:52 Paris time (GMT+00:00)\nF
  reepreview export: 26 March 2018, 21:37 
  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180329T012416Z
+DTSTAMP:20180330T003253Z
 DTSTART:20180403T090000Z
 DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
@@ -361,7 +331,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ch 2018, 20:52 Paris time (GMT+00:00)\nF
  reepreview export: 26 March 2018, 21:37 
  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180329T012416Z
+DTSTAMP:20180330T003253Z
 DTSTART:20180403T090000Z
 DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
@@ -393,7 +363,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ch 2018, 20:52 Paris time (GMT+00:00)\nF
  reepreview export: 26 March 2018, 21:37 
  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180329T012416Z
+DTSTAMP:20180330T003253Z
 DTSTART:20180403T090000Z
 DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
@@ -425,7 +395,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ch 2018, 22:30 Paris time (GMT+00:00)\nF
  reepreview export: 23 March 2018, 23:50 
  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180329T012416Z
+DTSTAMP:20180330T003253Z
 DTSTART:20180403T090000Z
 DTEND:20180403T091500Z
 TRANSP:TRANSPARENT
@@ -449,11 +419,11 @@ DESCRIPTION:Directorate: Directorate for Employment,
   Labour and Social Affairs\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264293151-en\nPublication type: Book\nRe
- leased as: Paperback, PDF.\n\niLibrary e
- xport: 27 March 2018, 21:14 Paris time (
+ leased as: PDF, Paperback.\n\niLibrary e
+ xport: 28 March 2018, 21:41 Paris time (
  GMT+00:00)\nFreepreview export: never\nF
  TI loaded: ✓.
-DTSTAMP:20180329T012416Z
+DTSTAMP:20180330T003253Z
 DTSTART:20180404T090000Z
 DTEND:20180404T091500Z
 TRANSP:TRANSPARENT
@@ -477,7 +447,7 @@ DESCRIPTION:Directorate: Directorate for Employment,
  xport: 27 March 2018, 21:14 Paris time (
  GMT+00:00)\nFreepreview export: never\nF
  TI loaded: no.
-DTSTAMP:20180329T012416Z
+DTSTAMP:20180330T003253Z
 DTSTART:20180405T070000Z
 DTEND:20180405T071500Z
 TRANSP:TRANSPARENT
@@ -487,6 +457,34 @@ REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Investing in Youth: Norway
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264293311-en
+SUMMARY:Multi-Dimensional Review of Thailand (Vo
+ lume 1) - Initial Assessment
+DESCRIPTION:Directorate: Development Centre, Statist
+ ics and Data Directorate, Economics Depa
+ rtment, Public Affairs and Communication
+ s Directorate\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/9789264293311-en\
+ nPublication type: Book\nReleased as: Pa
+ perback, ePub, PDF.\n\niLibrary export: 
+ 28 March 2018, 21:41 Paris time (GMT+00:
+ 00)\nFreepreview export: never\nFTI load
+ ed: ✓.
+DTSTAMP:20180330T003253Z
+DTSTART:20180408T220000Z
+DTEND:20180408T221500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Multi-Dimensional Review of Th
+ ailand (Volume 1) - Initial Assessment
 END:VALARM
 END:VEVENT
 
@@ -501,7 +499,7 @@ DESCRIPTION:Directorate: Development Centre\nLanguag
  xport: 26 March 2018, 20:52 Paris time (
  GMT+00:00)\nFreepreview export: never\nF
  TI loaded: no.
-DTSTAMP:20180329T012416Z
+DTSTAMP:20180330T003253Z
 DTSTART:20180410T123000Z
 DTEND:20180410T124500Z
 TRANSP:TRANSPARENT
@@ -528,7 +526,7 @@ DESCRIPTION:Directorate: Development Centre\nLanguag
  xport: 26 March 2018, 20:52 Paris time (
  GMT+00:00)\nFreepreview export: never\nF
  TI loaded: no.
-DTSTAMP:20180329T012416Z
+DTSTAMP:20180330T003253Z
 DTSTART:20180410T123000Z
 DTEND:20180410T124500Z
 TRANSP:TRANSPARENT
@@ -554,7 +552,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ch 2018, 20:52 Paris time (GMT+00:00)\nF
  reepreview export: never\nFTI loaded: no
  .
-DTSTAMP:20180329T012416Z
+DTSTAMP:20180330T003253Z
 DTSTART:20180412T090000Z
 DTEND:20180412T091500Z
 TRANSP:TRANSPARENT
@@ -578,7 +576,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  rt: 23 March 2018, 22:30 Paris time (GMT
  +00:00)\nFreepreview export: never\nFTI 
  loaded: no.
-DTSTAMP:20180329T012416Z
+DTSTAMP:20180330T003253Z
 DTSTART:20180417T150000Z
 DTEND:20180417T151500Z
 TRANSP:TRANSPARENT
@@ -604,7 +602,7 @@ DESCRIPTION:Directorate: Directorate for Employment,
  e (GMT+00:00)\nFreepreview export: 21 Fe
  bruary 2018, 22:48 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180329T012416Z
+DTSTAMP:20180330T003253Z
 DTSTART:20180426T073000Z
 DTEND:20180426T074500Z
 TRANSP:TRANSPARENT
@@ -628,7 +626,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ch 2018, 23:35 Paris time (GMT+00:00)\nF
  reepreview export: never\nFTI loaded: no
  .
-DTSTAMP:20180329T012416Z
+DTSTAMP:20180330T003253Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -653,7 +651,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  rch 2018, 23:35 Paris time (GMT+00:00)\n
  Freepreview export: never\nFTI loaded: n
  o.
-DTSTAMP:20180329T012416Z
+DTSTAMP:20180330T003253Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -677,7 +675,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  iLibrary export: 6 March 2018, 22:07 Par
  is time (GMT+00:00)\nFreepreview export:
   never\nFTI loaded: no.
-DTSTAMP:20180329T012416Z
+DTSTAMP:20180330T003253Z
 DTSTART:20180430T090000Z
 DTEND:20180430T091500Z
 TRANSP:TRANSPARENT

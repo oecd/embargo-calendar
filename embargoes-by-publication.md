@@ -1,48 +1,6 @@
-# OECD publication embargoes (23 embargoes)
+# OECD publication embargoes (22 embargoes)
 
-*Data generated on Thursday 29 March 2018 at 1:24*
-
-------
-
-## [Études économiques de l'OCDE : Tunisie 2018 - Évaluation économique](https://doi.org/10.1787/eco_surveys-tun-2018-fr)
-
-Embargo date | Launch date
--------------|------------
-Thursday 29 March 2018 at 9:30 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 27 March 2018 at 23:14
-- [x] Exported to Keepeek Monday 26 March 2018 at 23:37
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Medium: *PDF*
-
-------
-
-## [OECD Economic Surveys: Tunisia 2018 - Economic Assessment](https://doi.org/10.1787/eco_surveys-tun-2018-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 29 March 2018 at 9:30 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 27 March 2018 at 23:14
-- [x] Exported to Keepeek Monday 26 March 2018 at 23:37
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Medium: *PDF*
+*Data generated on Friday 30 March 2018 at 0:32*
 
 ------
 
@@ -285,7 +243,7 @@ Wednesday 4 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 27 March 2018 at 23:14
+- [x] Exported to iLibrary Wednesday 28 March 2018 at 23:41
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -314,6 +272,27 @@ Thursday 5 April 2018 at 9:00 | no launch event
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Multi-Dimensional Review of Thailand (Volume 1) - Initial Assessment](https://doi.org/10.1787/9789264293311-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 9 April 2018 at 0:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 28 March 2018 at 23:41
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Development Centre, Statistics and Data Directorate, Economics Department, Public Affairs and Communications Directorate*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
