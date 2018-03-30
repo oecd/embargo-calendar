@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2018-03-30T00:32:47.455+02:00" count="226">
+<report name="official-embargoes" generated="2018-03-30T23:04:24.808+02:00" count="322">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -54,12 +54,12 @@
     <cell name="title">Les impôts sur les salaires 2018 (fr)</cell>
     <cell name="subtitle"/>
     <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2018-04-26</cell>
     <cell name="embargo date">2018-04-26T09:00:00Z</cell>
     <cell name="launch date/time">2018-04-26T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-03-22T23:35:45.663Z</cell>
+    <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -70,12 +70,12 @@
     <cell name="title">Les impôts sur les salaires 2018 (fr)</cell>
     <cell name="subtitle"/>
     <cell name="language">French</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-04-26</cell>
     <cell name="embargo date">2018-04-26T09:00:00Z</cell>
     <cell name="launch date/time">2018-04-26T09:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-03-22T23:35:45.663Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -328,7 +328,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-04-17</cell>
+    <cell name="date of publication">2018-04-12</cell>
     <cell name="embargo date">2018-04-12T09:00:00Z</cell>
     <cell name="launch date/time">2018-04-12T09:00:00Z</cell>
     <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
@@ -344,7 +344,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2018-04-17</cell>
+    <cell name="date of publication">2018-04-12</cell>
     <cell name="embargo date">2018-04-12T09:00:00Z</cell>
     <cell name="launch date/time">2018-04-12T09:00:00Z</cell>
     <cell name="ilibrary last export date"/>
@@ -360,7 +360,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-04-10</cell>
+    <cell name="date of publication">2018-04-09</cell>
     <cell name="embargo date">2018-04-10T12:30:00Z</cell>
     <cell name="launch date/time">2018-04-10T12:30:00Z</cell>
     <cell name="ilibrary last export date">2018-03-26T20:52:03.973Z</cell>
@@ -376,7 +376,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-04-10</cell>
+    <cell name="date of publication">2018-04-09</cell>
     <cell name="embargo date">2018-04-10T12:30:00Z</cell>
     <cell name="launch date/time">2018-04-10T12:30:00Z</cell>
     <cell name="ilibrary last export date"/>
@@ -418,6 +418,630 @@
   </row>
   <row index="26">
     <cell name="directorate">Statistics and Data Directorate, Economics Department, Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-2-en</cell>
+    <cell name="title">Acronyms and abbreviations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="27">
+    <cell name="directorate">Public Affairs and Communications Directorate, Statistics and Data Directorate, Economics Department, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph71-en</cell>
+    <cell name="title">Air pollution in Thailand has been increasing (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="28">
+    <cell name="directorate">Public Affairs and Communications Directorate, Economics Department, Development Centre, Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph29-en</cell>
+    <cell name="title">Availability of computers in schools is insufficient (en)</cell>
+    <cell name="subtitle">Computers per student (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="29">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre, Economics Department, Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph73-en</cell>
+    <cell name="title">Carbon emissions continue to rise (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="30">
+    <cell name="directorate">Development Centre, Statistics and Data Directorate, Public Affairs and Communications Directorate, Economics Department</cell>
+    <cell name="doi">10.1787/9789264293311-graph3-en</cell>
+    <cell name="title">CO2 emissions per unit of GDP (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="31">
+    <cell name="directorate">Statistics and Data Directorate, Economics Department, Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph74-en</cell>
+    <cell name="title">Coal and renewables will form a bigger part of Thailand's power generation mix by 2036 (en)</cell>
+    <cell name="subtitle">Power generation mix (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="32">
+    <cell name="directorate">Economics Department, Development Centre, Statistics and Data Directorate, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph84-en</cell>
+    <cell name="title">Continuing government efforts to reduce corruption are needed (en)</cell>
+    <cell name="subtitle">Corruption Perceptions Index, 2017 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="33">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre, Statistics and Data Directorate, Economics Department</cell>
+    <cell name="doi">10.1787/9789264293311-graph68-en</cell>
+    <cell name="title">Droughts and floods affect many areas (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="34">
+    <cell name="directorate">Statistics and Data Directorate, Economics Department, Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-3-en</cell>
+    <cell name="title">Editorial (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="35">
+    <cell name="directorate">Economics Department, Public Affairs and Communications Directorate, Statistics and Data Directorate, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph2-en</cell>
+    <cell name="title">Elderly dependency ratio (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="36">
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate, Statistics and Data Directorate, Economics Department</cell>
+    <cell name="doi">10.1787/9789264293311-graph42-en</cell>
+    <cell name="title">Employment in the primary sector remains high and productivity low (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="37">
+    <cell name="directorate">Development Centre, Economics Department, Statistics and Data Directorate, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph69-en</cell>
+    <cell name="title">Erratic rainfalls in recent years have amplified natural disasters (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="38">
+    <cell name="directorate">Economics Department, Development Centre, Statistics and Data Directorate, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-5-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="39">
+    <cell name="directorate">Economics Department, Statistics and Data Directorate, Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-4-en</cell>
+    <cell name="title">Facts and figures of Thailand (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="40">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre, Economics Department, Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph9-en</cell>
+    <cell name="title">FDI is still subject to substantial restrictions (en)</cell>
+    <cell name="subtitle">As of 2016; index ranges from 0 (open) to 1 (closed) (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="41">
+    <cell name="directorate">Economics Department, Public Affairs and Communications Directorate, Statistics and Data Directorate, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph51-en</cell>
+    <cell name="title">FDI is still subject to substantial restrictions: As of 2016; index ranges from 0 (open) to 1 (closed) (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="42">
+    <cell name="directorate">Statistics and Data Directorate, Public Affairs and Communications Directorate, Economics Department, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-1-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="43">
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate, Statistics and Data Directorate, Economics Department</cell>
+    <cell name="doi">10.1787/9789264293311-graph1-en</cell>
+    <cell name="title">GDP per capita in per cent of OECD average, computed at 2016 PPP USD (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="44">
+    <cell name="directorate">Economics Department, Statistics and Data Directorate, Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph61-en</cell>
+    <cell name="title">General government expenditure is similar to regional comparators (en)</cell>
+    <cell name="subtitle">General government expenditure by economic transaction, latest available year (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="45">
+    <cell name="directorate">Statistics and Data Directorate, Economics Department, Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph10-en</cell>
+    <cell name="title">General government revenue is broadly in line with regional comparators (en)</cell>
+    <cell name="subtitle">In % of GDP, average over 2011-15 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="46">
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate, Statistics and Data Directorate, Economics Department</cell>
+    <cell name="doi">10.1787/9789264293311-graph56-en</cell>
+    <cell name="title">General government revenue is broadly in line with regional comparators: In % of GDP, average over 2011-15 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="47">
+    <cell name="directorate">Development Centre, Economics Department, Public Affairs and Communications Directorate, Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph52-en</cell>
+    <cell name="title">Gross FDI inflows have slowed in recent years (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="48">
+    <cell name="directorate">Public Affairs and Communications Directorate, Statistics and Data Directorate, Economics Department, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph6-en</cell>
+    <cell name="title">Growth has been picking up, but investment has been lacklustre (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="49">
+    <cell name="directorate">Public Affairs and Communications Directorate, Economics Department, Statistics and Data Directorate, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph36-en</cell>
+    <cell name="title">Growth has been picking up, while investment has been lacklustre (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="50">
+    <cell name="directorate">Development Centre, Economics Department, Public Affairs and Communications Directorate, Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph47-en</cell>
+    <cell name="title">GVC participation has improved (en)</cell>
+    <cell name="subtitle">Share of foreign value-added in gross total exports of goods and services (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="51">
+    <cell name="directorate">Public Affairs and Communications Directorate, Statistics and Data Directorate, Economics Department, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph65-en</cell>
+    <cell name="title">Healthcare expenditure is bound to grow (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="52">
+    <cell name="directorate">Public Affairs and Communications Directorate, Economics Department, Development Centre, Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph14-en</cell>
+    <cell name="title">Household consumption in Thailand is lower than in most comparator countries and has grown less in recent years (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="53">
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate, Statistics and Data Directorate, Economics Department</cell>
+    <cell name="doi">10.1787/9789264293311-graph13-en</cell>
+    <cell name="title">Household spending has risen, poverty and inequality have fallen (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="54">
+    <cell name="directorate">Development Centre, Statistics and Data Directorate, Economics Department, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph80-en</cell>
+    <cell name="title">Inefficiencies of the government can undermine competitiveness (en)</cell>
+    <cell name="subtitle">Institutions pillar in the Global Competitiveness Index 2017-18, score ranges from 0 (worst) to 7 (best) (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="55">
+    <cell name="directorate">Statistics and Data Directorate, Public Affairs and Communications Directorate, Economics Department, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph37-en</cell>
+    <cell name="title">Inflation is low, the exchange rate has appreciated and the share of bad loans has risen (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="56">
+    <cell name="directorate">Economics Department, Public Affairs and Communications Directorate, Statistics and Data Directorate, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph20-en</cell>
+    <cell name="title">Informality is high by international standards (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="57">
+    <cell name="directorate">Public Affairs and Communications Directorate, Economics Department, Statistics and Data Directorate, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph19-en</cell>
+    <cell name="title">Informality remains high and is concentrated in agriculture and services (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="58">
+    <cell name="directorate">Development Centre, Economics Department, Statistics and Data Directorate, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph76-en</cell>
+    <cell name="title">Interpersonal trust in Thailand is generally strong, but has eroded over time (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="59">
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate, Statistics and Data Directorate, Economics Department</cell>
+    <cell name="doi">10.1787/9789264293311-graph41-en</cell>
+    <cell name="title">Labour input has not driven Thailand's recent growth (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="60">
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate, Economics Department, Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph7-en</cell>
+    <cell name="title">Labour reallocation has not boosted productivity substantially in Thailand (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="61">
+    <cell name="directorate">Statistics and Data Directorate, Public Affairs and Communications Directorate, Development Centre, Economics Department</cell>
+    <cell name="doi">10.1787/9789264293311-graph43-en</cell>
+    <cell name="title">Labour reallocation has not boosted productivity substantially in Thailand (graph) (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="62">
+    <cell name="directorate">Public Affairs and Communications Directorate, Statistics and Data Directorate, Economics Department, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph40-en</cell>
+    <cell name="title">Lacklustre capital formation has held back growth and productivity (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="63">
+    <cell name="directorate">Statistics and Data Directorate, Development Centre, Economics Department, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph24-en</cell>
+    <cell name="title">Maternal and child mortality rates have more than halved since 1990 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="64">
+    <cell name="directorate">Statistics and Data Directorate, Development Centre, Public Affairs and Communications Directorate, Economics Department</cell>
+    <cell name="doi">10.1787/9789264293311-graph31-en</cell>
+    <cell name="title">Most students enrol in the general education stream rather than vocational programmes (en)</cell>
+    <cell name="subtitle">Share of upper secondary students enrolled in vocational programmes, latest available year (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="65">
+    <cell name="directorate">Public Affairs and Communications Directorate, Statistics and Data Directorate, Development Centre, Economics Department</cell>
     <cell name="doi">10.1787/9789264293311-en</cell>
     <cell name="title">Multi-Dimensional Review of Thailand (Volume 1) (en)</cell>
     <cell name="subtitle">Initial Assessment (en)</cell>
@@ -432,8 +1056,8 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="27">
-    <cell name="directorate">Public Affairs and Communications Directorate, Economics Department, Development Centre, Statistics and Data Directorate</cell>
+  <row index="66">
+    <cell name="directorate">Public Affairs and Communications Directorate, Statistics and Data Directorate, Economics Department, Development Centre</cell>
     <cell name="doi">10.1787/9789264293311-en</cell>
     <cell name="title">Multi-Dimensional Review of Thailand (Volume 1) (en)</cell>
     <cell name="subtitle">Initial Assessment (en)</cell>
@@ -443,13 +1067,13 @@
     <cell name="date of publication">2018-04-09</cell>
     <cell name="embargo date">2018-04-08T22:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-28T21:41:49.213Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="28">
-    <cell name="directorate">Development Centre, Statistics and Data Directorate, Economics Department, Public Affairs and Communications Directorate</cell>
+  <row index="67">
+    <cell name="directorate">Public Affairs and Communications Directorate, Economics Department, Statistics and Data Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264293311-en</cell>
     <cell name="title">Multi-Dimensional Review of Thailand (Volume 1) (en)</cell>
     <cell name="subtitle">Initial Assessment (en)</cell>
@@ -459,28 +1083,940 @@
     <cell name="date of publication">2018-04-09</cell>
     <cell name="embargo date">2018-04-08T22:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-03-28T21:41:49.213Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="29">
+  <row index="68">
+    <cell name="directorate">Economics Department, Statistics and Data Directorate, Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph38-en</cell>
+    <cell name="title">Non-performing loans are on the rise (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="69">
+    <cell name="directorate">Public Affairs and Communications Directorate, Economics Department, Development Centre, Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph26-en</cell>
+    <cell name="title">Obesity is more prevalent in Thailand than in most comparator countries (en)</cell>
+    <cell name="subtitle">Overweight prevalence (%) for adults of both sexes, 2016 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="70">
+    <cell name="directorate">Economics Department, Development Centre, Statistics and Data Directorate, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph34-en</cell>
+    <cell name="title">Overall gender-based discrimination in Thailand is low, but violence against women remains a concern (en)</cell>
+    <cell name="subtitle">OECD Social Institutions and Gender Index, 2014 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="71">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre, Economics Department, Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-6-en</cell>
+    <cell name="title">Overview (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="72">
+    <cell name="directorate">Public Affairs and Communications Directorate, Statistics and Data Directorate, Economics Department, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-9-en</cell>
+    <cell name="title">Partnerships: Sustainably financing development (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="73">
+    <cell name="directorate">Statistics and Data Directorate, Public Affairs and Communications Directorate, Development Centre, Economics Department</cell>
+    <cell name="doi">10.1787/9789264293311-11-en</cell>
+    <cell name="title">Peace: Strengthening governance (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="74">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre, Economics Department, Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph23-en</cell>
+    <cell name="title">Pension replacement rates in Thailand are close to 50% in the formal sector (en)</cell>
+    <cell name="subtitle">Pension net replacement rates for mean formal-sector earners, 2013 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="75">
+    <cell name="directorate">Economics Department, Development Centre, Statistics and Data Directorate, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-7-en</cell>
+    <cell name="title">People: Towards better lives for all (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="76">
+    <cell name="directorate">Public Affairs and Communications Directorate, Statistics and Data Directorate, Development Centre, Economics Department</cell>
+    <cell name="doi">10.1787/9789264293311-graph4-en</cell>
+    <cell name="title">Per capita incomes have soared, but the share of formal employment has progressed less (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="77">
+    <cell name="directorate">Economics Department, Development Centre, Public Affairs and Communications Directorate, Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-10-en</cell>
+    <cell name="title">Planet: Conserving nature (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="78">
+    <cell name="directorate">Statistics and Data Directorate, Economics Department, Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-8-en</cell>
+    <cell name="title">Prosperity: Boosting productivity (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="79">
+    <cell name="directorate">Economics Department, Development Centre, Statistics and Data Directorate, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph63-en</cell>
+    <cell name="title">Public-private partnership capital stock (en)</cell>
+    <cell name="subtitle">In % of GDP, as of 2015 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="80">
+    <cell name="directorate">Public Affairs and Communications Directorate, Economics Department, Development Centre, Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph16-en</cell>
+    <cell name="title">Regional inequalities have narrowed but remain pronounced (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="81">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre, Economics Department, Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph85-en</cell>
+    <cell name="title">Reported incidence of corruption remains high (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="82">
+    <cell name="directorate">Economics Department, Public Affairs and Communications Directorate, Development Centre, Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph50-en</cell>
+    <cell name="title">Service trade restrictiveness is high in the construction and architecture sectors (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="83">
+    <cell name="directorate">Public Affairs and Communications Directorate, Economics Department, Statistics and Data Directorate, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph22-en</cell>
+    <cell name="title">Social protection schemes disproportionately benefit the non-poor (en)</cell>
+    <cell name="subtitle">Social Protection Index, 2013 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="84">
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate, Statistics and Data Directorate, Economics Department</cell>
+    <cell name="doi">10.1787/9789264293311-graph81-en</cell>
+    <cell name="title">Stakeholder engagement in public policy can be improved (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="85">
+    <cell name="directorate">Public Affairs and Communications Directorate, Statistics and Data Directorate, Economics Department, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph27-en</cell>
+    <cell name="title">Student performance is low and deteriorating (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="86">
+    <cell name="directorate">Development Centre, Statistics and Data Directorate, Economics Department, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph66-en</cell>
+    <cell name="title">Thai citizens can expect a lengthy retirement (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="87">
+    <cell name="directorate">Statistics and Data Directorate, Economics Department, Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph75-en</cell>
+    <cell name="title">Thai citizens have confidence in their government, but trust has declined over time (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="88">
+    <cell name="directorate">Development Centre, Statistics and Data Directorate, Economics Department, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph15-en</cell>
+    <cell name="title">Thai people are not very satisfied with their current income (en)</cell>
+    <cell name="subtitle">% of respondents living comfortably on their present income, 2016 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="89">
+    <cell name="directorate">Statistics and Data Directorate, Economics Department, Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph67-en</cell>
+    <cell name="title">Thailand can boost mandatory contributions to pensions (en)</cell>
+    <cell name="subtitle">Employer and employee contribution % of wages, 2014 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="90">
+    <cell name="directorate">Statistics and Data Directorate, Development Centre, Economics Department, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph79-en</cell>
+    <cell name="title">Thailand can improve cross-agency coordination and its capacity for policy adaptation (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="91">
+    <cell name="directorate">Economics Department, Statistics and Data Directorate, Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph64-en</cell>
+    <cell name="title">Thailand can improve the preparation, procurement and management of PPPs (en)</cell>
+    <cell name="subtitle">Benchmark score, 2017 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="92">
+    <cell name="directorate">Economics Department, Statistics and Data Directorate, Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph82-en</cell>
+    <cell name="title">Thailand can make greater use of online government services (en)</cell>
+    <cell name="subtitle">Presence and use of government services online, 2017 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="93">
+    <cell name="directorate">Economics Department, Development Centre, Public Affairs and Communications Directorate, Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph30-en</cell>
+    <cell name="title">Thailand has a relatively low proportion of students enrolled in STEM courses (en)</cell>
+    <cell name="subtitle">Enrolment ratio in STEM subjects, latest available year (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="94">
+    <cell name="directorate">Statistics and Data Directorate, Economics Department, Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph35-en</cell>
+    <cell name="title">Thailand has been catching up but faster growth is needed (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="95">
+    <cell name="directorate">Economics Department, Statistics and Data Directorate, Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph55-en</cell>
+    <cell name="title">Thailand has fiscal space in the near term (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="96">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre, Economics Department, Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph8-en</cell>
+    <cell name="title">Thailand has room to improve in digital infrastructure and skills readiness (en)</cell>
+    <cell name="subtitle">Index, scale 1-7 from lowest to highest level of readiness, 2016 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="97">
+    <cell name="directorate">Statistics and Data Directorate, Public Affairs and Communications Directorate, Economics Department, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph45-en</cell>
+    <cell name="title">Thailand has room to improve in digital infrastructure and skills readiness: Index, scale 1-7 from lowest to highest level of readiness, 2016 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="98">
+    <cell name="directorate">Statistics and Data Directorate, Development Centre, Public Affairs and Communications Directorate, Economics Department</cell>
+    <cell name="doi">10.1787/9789264293311-graph39-en</cell>
+    <cell name="title">Thailand needs to further boost labour productivity growth (en)</cell>
+    <cell name="subtitle">Average growth of labour productivity per employee per year (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="99">
+    <cell name="directorate">Public Affairs and Communications Directorate, Economics Department, Statistics and Data Directorate, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph11-en</cell>
+    <cell name="title">Thailand performs poorly on several indicators of biodiversity (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="100">
+    <cell name="directorate">Statistics and Data Directorate, Public Affairs and Communications Directorate, Economics Department, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph70-en</cell>
+    <cell name="title">Thailand performs poorly on several indicators of biodiversity (graph) (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="101">
+    <cell name="directorate">Statistics and Data Directorate, Economics Department, Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph57-en</cell>
+    <cell name="title">Thailand relies more on specific goods and services taxes than most comparator countries (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="102">
+    <cell name="directorate">Statistics and Data Directorate, Public Affairs and Communications Directorate, Economics Department, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph62-en</cell>
+    <cell name="title">Thailand should take advantage of low yields to step up infrastructure investment (en)</cell>
+    <cell name="subtitle">Thai government bond yields, % (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="103">
+    <cell name="directorate">Development Centre, Economics Department, Statistics and Data Directorate, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph48-en</cell>
+    <cell name="title">Thailand's average tariff rate fell in the past decade (en)</cell>
+    <cell name="subtitle">Weighted mean applied tariff rate for manufacturing goods (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="104">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre, Statistics and Data Directorate, Economics Department</cell>
+    <cell name="doi">10.1787/9789264293311-graph12-en</cell>
+    <cell name="title">Thailand's capacity to implement reforms lags behind most comparator countries (en)</cell>
+    <cell name="subtitle">Reform capacity and long-term strategy score (0-4), 2016 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="105">
+    <cell name="directorate">Economics Department, Statistics and Data Directorate, Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph78-en</cell>
+    <cell name="title">Thailand's capacity to implement reforms lags behind most comparator countries: Reform capacity and long-term strategy score (0-4), 2016 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="106">
+    <cell name="directorate">Development Centre, Statistics and Data Directorate, Economics Department, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph58-en</cell>
+    <cell name="title">Thailand's corporate tax rate is now at the lower end of the international range (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="107">
+    <cell name="directorate">Development Centre, Economics Department, Statistics and Data Directorate, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph53-en</cell>
+    <cell name="title">Thailand's elderly dependency ratio is expected to exceed the OECD average by 2030 (en)</cell>
+    <cell name="subtitle">Elderly dependency ratio (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="108">
+    <cell name="directorate">Development Centre, Economics Department, Public Affairs and Communications Directorate, Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph21-en</cell>
+    <cell name="title">Thailand's employment protection policies are comparatively strict (en)</cell>
+    <cell name="subtitle">Scale from 0 (least restrictive) to 6 (most restrictive), 2014 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="109">
+    <cell name="directorate">Economics Department, Statistics and Data Directorate, Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph32-en</cell>
+    <cell name="title">Thailand's gender gap in labour force participation is small relative to comparator countries (en)</cell>
+    <cell name="subtitle">Labour force participation rate (%), by sex, 2016 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="110">
+    <cell name="directorate">Public Affairs and Communications Directorate, Economics Department, Development Centre, Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph54-en</cell>
+    <cell name="title">Thailand's gross public debt ratio has remained moderate (en)</cell>
+    <cell name="subtitle">Fiscal years, in % of GDP (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="111">
+    <cell name="directorate">Development Centre, Economics Department, Statistics and Data Directorate, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph72-en</cell>
+    <cell name="title">Thailand's municipal waste per capita is higher than in many comparator countries (en)</cell>
+    <cell name="subtitle">Municipal waste, latest available year (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="112">
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate, Economics Department, Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph44-en</cell>
+    <cell name="title">Thailand's R&amp;D expenditure is rising, but remains below many comparator countries (en)</cell>
+    <cell name="subtitle">Gross expenditure on R&amp;D per cent, 2015 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="113">
+    <cell name="directorate">Economics Department, Statistics and Data Directorate, Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph49-en</cell>
+    <cell name="title">Thailand's trade facilitation has made good progress (en)</cell>
+    <cell name="subtitle">As of 2017; indicators range from 0 (worst) to 2 (best) (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="114">
+    <cell name="directorate">Economics Department, Public Affairs and Communications Directorate, Development Centre, Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph60-en</cell>
+    <cell name="title">Thailand's VAT revenue ratio remains below some comparator countries (en)</cell>
+    <cell name="subtitle">VAT revenue ratio in 2014, % (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="115">
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate, Statistics and Data Directorate, Economics Department</cell>
+    <cell name="doi">10.1787/9789264293311-graph5-en</cell>
+    <cell name="title">The Bangkok metropolitan region outperforms others in most dimensions of well-being (en)</cell>
+    <cell name="subtitle">Achievement scores from 0 (worst) to 1 (best), 2017 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="116">
+    <cell name="directorate">Statistics and Data Directorate, Economics Department, Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph17-en</cell>
+    <cell name="title">The Bangkok metropolitan region outperforms others in most dimensions of well-being: Achievement scores from 0 (worst) to 1 (best), 2017 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="117">
+    <cell name="directorate">Public Affairs and Communications Directorate, Economics Department, Development Centre, Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph33-en</cell>
+    <cell name="title">The contrast between female leadership in the private and public sector is stark (en)</cell>
+    <cell name="subtitle">Female leadership, 2017 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="118">
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate, Economics Department, Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph18-en</cell>
+    <cell name="title">The labour participation rate is higher than the OECD average (en)</cell>
+    <cell name="subtitle">Labour participation rate by age, 2016 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="119">
+    <cell name="directorate">Statistics and Data Directorate, Public Affairs and Communications Directorate, Development Centre, Economics Department</cell>
+    <cell name="doi">10.1787/9789264293311-graph25-en</cell>
+    <cell name="title">The majority of Thais are satisfied with the healthcare they receive (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="120">
+    <cell name="directorate">Economics Department, Statistics and Data Directorate, Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="doi">10.1787/9789264293311-graph83-en</cell>
+    <cell name="title">The quality of regulation has only marginally improved (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="121">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre, Statistics and Data Directorate, Economics Department</cell>
+    <cell name="doi">10.1787/9789264293311-graph28-en</cell>
+    <cell name="title">The share of low performers has grown, while that of high performers has fallen (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="122">
+    <cell name="directorate">Economics Department, Public Affairs and Communications Directorate, Development Centre, Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph59-en</cell>
+    <cell name="title">The VAT rate is low by international standards (en)</cell>
+    <cell name="subtitle">VAT rate in 2017, % (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="123">
+    <cell name="directorate">Statistics and Data Directorate, Development Centre, Public Affairs and Communications Directorate, Economics Department</cell>
+    <cell name="doi">10.1787/9789264293311-graph77-en</cell>
+    <cell name="title">Trust in outsiders is low (en)</cell>
+    <cell name="subtitle">Trust across countries, 2013 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="124">
+    <cell name="directorate">Statistics and Data Directorate, Economics Department, Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264293311-graph46-en</cell>
+    <cell name="title">Use of mobile phones to process financial transactions has grown rapidly (en)</cell>
+    <cell name="subtitle">Share of total e-payment transactions by method (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-09</cell>
+    <cell name="embargo date">2018-04-08T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="125">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264283671-en</cell>
     <cell name="title">Investing in Youth: Norway (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2018-04-05</cell>
     <cell name="embargo date">2018-04-05T07:00:00Z</cell>
     <cell name="launch date/time">2018-04-05T07:00:00Z</cell>
     <cell name="ilibrary last export date">2018-03-27T21:14:00.867Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="30">
+  <row index="126">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264283671-en</cell>
     <cell name="title">Investing in Youth: Norway (en)</cell>
@@ -496,23 +2032,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="31">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/9789264293151-en</cell>
-    <cell name="title">Getting Skills Right: Chile (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-04-04</cell>
-    <cell name="embargo date">2018-04-04T09:00:00Z</cell>
-    <cell name="launch date/time">2018-04-04T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-03-28T21:41:49.213Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="32">
+  <row index="127">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264293151-en</cell>
     <cell name="title">Getting Skills Right: Chile (en)</cell>
@@ -528,7 +2048,39 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="33">
+  <row index="128">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/9789264293151-en</cell>
+    <cell name="title">Getting Skills Right: Chile (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-04</cell>
+    <cell name="embargo date">2018-04-04T09:00:00Z</cell>
+    <cell name="launch date/time">2018-04-04T09:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-03-28T21:41:49.213Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="129">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264291225-fr</cell>
+    <cell name="title">Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : Belgique 2018 (Deuxième cycle) (fr)</cell>
+    <cell name="subtitle">Rapport d'examen par les pairs sur la demande d'échange de renseignements (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-04-03</cell>
+    <cell name="embargo date">2018-04-03T09:00:00Z</cell>
+    <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="130">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291225-fr</cell>
     <cell name="title">Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : Belgique 2018 (Deuxième cycle) (fr)</cell>
@@ -544,23 +2096,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="34">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9789264291225-fr</cell>
-    <cell name="title">Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : Belgique 2018 (Deuxième cycle) (fr)</cell>
-    <cell name="subtitle">Rapport d'examen par les pairs sur la demande d'échange de renseignements (fr)</cell>
-    <cell name="language">French</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-04-03</cell>
-    <cell name="embargo date">2018-04-03T09:00:00Z</cell>
-    <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="35">
+  <row index="131">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291188-fr</cell>
     <cell name="title">Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : France 2018 (Deuxième cycle) (fr)</cell>
@@ -576,7 +2112,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="36">
+  <row index="132">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291188-fr</cell>
     <cell name="title">Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : France 2018 (Deuxième cycle) (fr)</cell>
@@ -592,7 +2128,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="37">
+  <row index="133">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291201-fr</cell>
     <cell name="title">Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : Monaco 2018 (Deuxième cycle) (fr)</cell>
@@ -608,7 +2144,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="38">
+  <row index="134">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291201-fr</cell>
     <cell name="title">Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : Monaco 2018 (Deuxième cycle) (fr)</cell>
@@ -624,23 +2160,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="39">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9789264290839-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Belgium 2018 (Second Round) (en)</cell>
-    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-04-03</cell>
-    <cell name="embargo date">2018-04-03T09:00:00Z</cell>
-    <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-03-23T22:30:16.903Z</cell>
-    <cell name="freepreview last export date">2018-03-23T23:50:46.39Z</cell>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="40">
+  <row index="135">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264290839-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Belgium 2018 (Second Round) (en)</cell>
@@ -656,7 +2176,23 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="41">
+  <row index="136">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264290839-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Belgium 2018 (Second Round) (en)</cell>
+    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-04-03</cell>
+    <cell name="embargo date">2018-04-03T09:00:00Z</cell>
+    <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-03-29T21:19:40.94Z</cell>
+    <cell name="freepreview last export date">2018-03-29T22:09:29.227Z</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="137">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291034-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Estonia 2018 (Second Round) (en)</cell>
@@ -672,7 +2208,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="42">
+  <row index="138">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291034-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Estonia 2018 (Second Round) (en)</cell>
@@ -688,7 +2224,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="43">
+  <row index="139">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291058-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: France 2018 (Second Round) (en)</cell>
@@ -704,7 +2240,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="44">
+  <row index="140">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291058-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: France 2018 (Second Round) (en)</cell>
@@ -720,7 +2256,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="45">
+  <row index="141">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291119-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Ghana 2018 (Second Round) (en)</cell>
@@ -736,7 +2272,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="46">
+  <row index="142">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291119-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Ghana 2018 (Second Round) (en)</cell>
@@ -752,7 +2288,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="47">
+  <row index="143">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291133-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Hungary 2018 (Second Round) (en)</cell>
@@ -768,7 +2304,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="48">
+  <row index="144">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291133-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Hungary 2018 (Second Round) (en)</cell>
@@ -784,7 +2320,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="49">
+  <row index="145">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291157-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Monaco 2018 (Second Round) (en)</cell>
@@ -800,7 +2336,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="50">
+  <row index="146">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291157-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Monaco 2018 (Second Round) (en)</cell>
@@ -816,23 +2352,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="51">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9789264291171-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: New Zealand 2018 (Second Round) (en)</cell>
-    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-04-03</cell>
-    <cell name="embargo date">2018-04-03T09:00:00Z</cell>
-    <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="52">
+  <row index="147">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291171-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: New Zealand 2018 (Second Round) (en)</cell>
@@ -848,7 +2368,23 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="53">
+  <row index="148">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264291171-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: New Zealand 2018 (Second Round) (en)</cell>
+    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-04-03</cell>
+    <cell name="embargo date">2018-04-03T09:00:00Z</cell>
+    <cell name="launch date/time">2018-04-03T09:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="149">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291805-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: The Bahamas 2018 (Second Round) (en)</cell>
@@ -864,7 +2400,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="54">
+  <row index="150">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264291805-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: The Bahamas 2018 (Second Round) (en)</cell>
@@ -880,7 +2416,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="55">
+  <row index="151">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph59-en</cell>
     <cell name="title">A large portion of the youth population aged15 to 29 is neither in employment or education (en)</cell>
@@ -896,7 +2432,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="56">
+  <row index="152">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph31-en</cell>
     <cell name="title">A large proportion of Tunisians are homeowners (en)</cell>
@@ -912,7 +2448,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="57">
+  <row index="153">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-2-fr</cell>
     <cell name="title">Acronymes et abréviations (fr)</cell>
@@ -928,7 +2464,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="58">
+  <row index="154">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-2-en</cell>
     <cell name="title">Acronyms (en)</cell>
@@ -944,7 +2480,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="59">
+  <row index="155">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-4-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -960,7 +2496,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="60">
+  <row index="156">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph49-en</cell>
     <cell name="title">Bank lending remains weak and the recent increase has gone mainly to households (en)</cell>
@@ -976,7 +2512,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="61">
+  <row index="157">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph13-en</cell>
     <cell name="title">Bank profits in international comparison, 2015 or latest year available (en)</cell>
@@ -992,7 +2528,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="62">
+  <row index="158">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph63-en</cell>
     <cell name="title">Banking services could be further developed (en)</cell>
@@ -1008,7 +2544,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="63">
+  <row index="159">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph51-en</cell>
     <cell name="title">Banks ask for significant collateral (en)</cell>
@@ -1024,7 +2560,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="64">
+  <row index="160">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph38-en</cell>
     <cell name="title">Barriers to entrepreneurship remain high (en)</cell>
@@ -1040,7 +2576,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="65">
+  <row index="161">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-1-en</cell>
     <cell name="title">Basic statistics of Tunisia, 2016 (en)</cell>
@@ -1056,7 +2592,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="66">
+  <row index="162">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph57-en</cell>
     <cell name="title">Breakdown of the active employed population by sector of activity (en)</cell>
@@ -1072,7 +2608,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="67">
+  <row index="163">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph22-en</cell>
     <cell name="title">Changes in the ratio of public debt to GDP: past and future scenario (en)</cell>
@@ -1088,7 +2624,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="68">
+  <row index="164">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph47-fr</cell>
     <cell name="title">Contraintes de financement selon la taille des entreprises (fr)</cell>
@@ -1104,7 +2640,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="69">
+  <row index="165">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph56-fr</cell>
     <cell name="title">Contribution de l'emploi et du chômage à la croissance de la population active (fr)</cell>
@@ -1120,7 +2656,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="70">
+  <row index="166">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph42-fr</cell>
     <cell name="title">Contribution des entreprises offshore aux exportations et à la création d'emplois formels (fr)</cell>
@@ -1136,7 +2672,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="71">
+  <row index="167">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph56-en</cell>
     <cell name="title">Contribution of employment and unemployment to growth of the active population (en)</cell>
@@ -1152,7 +2688,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="72">
+  <row index="168">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph42-en</cell>
     <cell name="title">Contribution of offshore businesses to exports and the creation of formal employment (en)</cell>
@@ -1168,7 +2704,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="73">
+  <row index="169">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph19-en</cell>
     <cell name="title">Contributions to economic growth (en)</cell>
@@ -1184,7 +2720,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="74">
+  <row index="170">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph40-fr</cell>
     <cell name="title">Contrôle de l'état sur les entreprises : résultats des indicateurs de réglementation des marchés de produits (fr)</cell>
@@ -1200,7 +2736,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="75">
+  <row index="171">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph50-en</cell>
     <cell name="title">Credit information systems are rudimentary (en)</cell>
@@ -1216,7 +2752,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="76">
+  <row index="172">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph45-fr</cell>
     <cell name="title">Déperditions du réseau électrique (fr)</cell>
@@ -1232,7 +2768,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="77">
+  <row index="173">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph68-en</cell>
     <cell name="title">Differences in unemployment rates are significant (en)</cell>
@@ -1248,7 +2784,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="78">
+  <row index="174">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph61-en</cell>
     <cell name="title">Employment protection legislation is strict for people on open-ended contracts (en)</cell>
@@ -1264,7 +2800,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="79">
+  <row index="175">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-4-fr</cell>
     <cell name="title">Évaluation et recommandations (fr)</cell>
@@ -1280,7 +2816,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="80">
+  <row index="176">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph22-fr</cell>
     <cell name="title">Évolution du ratio dette publique au PIB : historique et scénarios (fr)</cell>
@@ -1296,7 +2832,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="81">
+  <row index="177">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-3-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1312,7 +2848,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="82">
+  <row index="178">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph41-fr</cell>
     <cell name="title">Facilitation des échanges : des gains de compétitivité à saisir (fr)</cell>
@@ -1328,7 +2864,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="83">
+  <row index="179">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph44-en</cell>
     <cell name="title">FDI restrictions have declined but remain high in certain sectors (en)</cell>
@@ -1344,7 +2880,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="84">
+  <row index="180">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph62-en</cell>
     <cell name="title">Financial inclusion is still weak (en)</cell>
@@ -1360,7 +2896,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="85">
+  <row index="181">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph47-en</cell>
     <cell name="title">Financing constraints by size of enterprises (en)</cell>
@@ -1376,7 +2912,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="86">
+  <row index="182">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph33-en</cell>
     <cell name="title">Flows and stock of foreign direct investment are relatively high (en)</cell>
@@ -1392,7 +2928,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="87">
+  <row index="183">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph54-en</cell>
     <cell name="title">GDP per capita has risen but still falls short of OECD countries (en)</cell>
@@ -1408,7 +2944,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="88">
+  <row index="184">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph46-fr</cell>
     <cell name="title">Il existe des marges d'amélioration de la performance logistique (fr)</cell>
@@ -1424,7 +2960,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="89">
+  <row index="185">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph21-en</cell>
     <cell name="title">Impact of the different reform scenarios on growth (en)</cell>
@@ -1440,7 +2976,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="90">
+  <row index="186">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph21-fr</cell>
     <cell name="title">Impact sur le niveau du PIB de différents scénarios de réformes (fr)</cell>
@@ -1456,7 +2992,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="91">
+  <row index="187">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph10-fr</cell>
     <cell name="title">Indicateurs macroéconomiques (fr)</cell>
@@ -1472,7 +3008,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="92">
+  <row index="188">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph5-en</cell>
     <cell name="title">Indicators of well-being are fairly high, except for employment and income (en)</cell>
@@ -1488,7 +3024,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="93">
+  <row index="189">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph26-en</cell>
     <cell name="title">Informal employment is widespread (en)</cell>
@@ -1504,7 +3040,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="94">
+  <row index="190">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph70-en</cell>
     <cell name="title">Internet access varies across regions (en)</cell>
@@ -1520,7 +3056,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="95">
+  <row index="191">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph53-en</cell>
     <cell name="title">Investment capital is scarce and supports few new enterprises (en)</cell>
@@ -1536,7 +3072,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="96">
+  <row index="192">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph30-en</cell>
     <cell name="title">Investment is dominated by households and governments (en)</cell>
@@ -1552,7 +3088,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="97">
+  <row index="193">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph2-en</cell>
     <cell name="title">Investment rate (en)</cell>
@@ -1568,7 +3104,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="98">
+  <row index="194">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph48-fr</cell>
     <cell name="title">L'autofinancement joue un rôle important mais en déclin (fr)</cell>
@@ -1584,7 +3120,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="99">
+  <row index="195">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph8-fr</cell>
     <cell name="title">L'économie tunisienne a été résiliente (fr)</cell>
@@ -1600,7 +3136,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="100">
+  <row index="196">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph26-fr</cell>
     <cell name="title">L'emploi informel est répandu (fr)</cell>
@@ -1616,7 +3152,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="101">
+  <row index="197">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph62-fr</cell>
     <cell name="title">L'inclusion financière est encore faible (fr)</cell>
@@ -1632,7 +3168,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="102">
+  <row index="198">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph66-fr</cell>
     <cell name="title">L'indice de développement régional montre une disparité entre les gouvernorats (fr)</cell>
@@ -1648,7 +3184,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="103">
+  <row index="199">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph30-fr</cell>
     <cell name="title">L'investissement est dominé par les ménages et les administrations publiques (fr)</cell>
@@ -1664,7 +3200,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="104">
+  <row index="200">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph63-fr</cell>
     <cell name="title">L'offre de services bancaires pourrait être développée (fr)</cell>
@@ -1680,7 +3216,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="105">
+  <row index="201">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph12-fr</cell>
     <cell name="title">La dépréciation du dinar ne s'est pas encore traduite par une réduction du déficit courant (fr)</cell>
@@ -1696,7 +3232,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="106">
+  <row index="202">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph68-fr</cell>
     <cell name="title">La dispersion des taux de chômage est importante (fr)</cell>
@@ -1712,7 +3248,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="107">
+  <row index="203">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph69-fr</cell>
     <cell name="title">La dispersion du niveau d'éducation est plus prononcée que dans les pays de l'OCDE (fr)</cell>
@@ -1728,7 +3264,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="108">
+  <row index="204">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph61-fr</cell>
     <cell name="title">La législation sur la protection de l'emploi est stricte pour les contrats à durée indéterminée (fr)</cell>
@@ -1744,7 +3280,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="109">
+  <row index="205">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph24-fr</cell>
     <cell name="title">La performance logistique s'est détériorée (fr)</cell>
@@ -1760,7 +3296,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="110">
+  <row index="206">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph23-fr</cell>
     <cell name="title">La position de la Tunisie dans les chaînes de valeur mondiales a progressé (fr)</cell>
@@ -1776,7 +3312,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="111">
+  <row index="207">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph16-fr</cell>
     <cell name="title">La Tunisie doit remettre ses finances publiques sur un chemin plus soutenable (fr)</cell>
@@ -1792,7 +3328,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="112">
+  <row index="208">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph53-fr</cell>
     <cell name="title">Le capital investissement est peu développé et bénéficie peu aux nouvelles entreprises (fr)</cell>
@@ -1808,7 +3344,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="113">
+  <row index="209">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph49-fr</cell>
     <cell name="title">Le crédit bancaire reste faible et l'augmentation récente a profité davantage aux ménages (fr)</cell>
@@ -1824,7 +3360,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="114">
+  <row index="210">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph64-fr</cell>
     <cell name="title">Le niveau d'éducation reste assez faible (fr)</cell>
@@ -1840,7 +3376,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="115">
+  <row index="211">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph70-fr</cell>
     <cell name="title">Le nombre de ménages ayant accès à Internet varie selon les régions (fr)</cell>
@@ -1856,7 +3392,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="116">
+  <row index="212">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph54-fr</cell>
     <cell name="title">Le PIB par habitant a augmenté mais reste en deçà de celui des pays de l'OCDE (fr)</cell>
@@ -1872,7 +3408,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="117">
+  <row index="213">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph7-fr</cell>
     <cell name="title">Le processus de convergence économique a été graduel (fr)</cell>
@@ -1888,7 +3424,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="118">
+  <row index="214">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph17-fr</cell>
     <cell name="title">Le régime de retraite est généreux mais pas soutenable (fr)</cell>
@@ -1904,7 +3440,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="119">
+  <row index="215">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph58-fr</cell>
     <cell name="title">Le taux d'emploi est faible en particulier pour les femmes (fr)</cell>
@@ -1920,7 +3456,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="120">
+  <row index="216">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph29-fr</cell>
     <cell name="title">Le taux d'investissement a baissé depuis le début des années 2000 (fr)</cell>
@@ -1936,7 +3472,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="121">
+  <row index="217">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph60-fr</cell>
     <cell name="title">Le taux de chômage des diplômés de l'enseignement supérieur est plus élevé chez les femmes (fr)</cell>
@@ -1952,7 +3488,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="122">
+  <row index="218">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph28-fr</cell>
     <cell name="title">Le taux de chômage est très différent entre les régions (fr)</cell>
@@ -1968,7 +3504,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="123">
+  <row index="219">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph37-fr</cell>
     <cell name="title">Le taux de création d'entreprises reste faible (fr)</cell>
@@ -1984,7 +3520,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="124">
+  <row index="220">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph14-fr</cell>
     <cell name="title">Le taux de crédit a augmenté mais reste faible (fr)</cell>
@@ -2000,7 +3536,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="125">
+  <row index="221">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph65-fr</cell>
     <cell name="title">Le taux de pauvreté a baissé dans toutes les régions (fr)</cell>
@@ -2016,7 +3552,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="126">
+  <row index="222">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph6-fr</cell>
     <cell name="title">Le taux de pauvreté a diminué (fr)</cell>
@@ -2032,7 +3568,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="127">
+  <row index="223">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph27-fr</cell>
     <cell name="title">Les cotisations sociales pèsent sur l'emploi formel (fr)</cell>
@@ -2048,7 +3584,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="128">
+  <row index="224">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph15-fr</cell>
     <cell name="title">Les créances douteuses sont importantes (fr)</cell>
@@ -2064,7 +3600,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="129">
+  <row index="225">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph32-fr</cell>
     <cell name="title">Les dépenses d'investissement public sont restées relativement élevées (fr)</cell>
@@ -2080,7 +3616,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="130">
+  <row index="226">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph25-fr</cell>
     <cell name="title">Les échanges commerciaux pourraient être facilités (fr)</cell>
@@ -2096,7 +3632,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="131">
+  <row index="227">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph67-fr</cell>
     <cell name="title">Les entreprises privées sont concentrées dans quelques régions (fr)</cell>
@@ -2112,7 +3648,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="132">
+  <row index="228">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph36-fr</cell>
     <cell name="title">Les entreprises tunisiennes restent de petite taille (fr)</cell>
@@ -2128,7 +3664,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="133">
+  <row index="229">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph33-fr</cell>
     <cell name="title">Les flux et stocks d'investissements directs étrangers sont plutôt élevés (fr)</cell>
@@ -2144,7 +3680,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="134">
+  <row index="230">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph51-fr</cell>
     <cell name="title">Les garanties exigées par les banques sont élevées (fr)</cell>
@@ -2160,7 +3696,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="135">
+  <row index="231">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph5-fr</cell>
     <cell name="title">Les indicateurs de bien-être sont plutôt élevés hormis l'emploi et les revenus (fr)</cell>
@@ -2176,7 +3712,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="136">
+  <row index="232">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph55-fr</cell>
     <cell name="title">Les inégalités de niveau de vie ont diminué (fr)</cell>
@@ -2192,7 +3728,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="137">
+  <row index="233">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph38-fr</cell>
     <cell name="title">Les obstacles à l'entreprenariat sont élevés (fr)</cell>
@@ -2208,7 +3744,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="138">
+  <row index="234">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph18-fr</cell>
     <cell name="title">Les recettes fiscales sont relativement élevées par rapport aux autres pays émergents (fr)</cell>
@@ -2224,7 +3760,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="139">
+  <row index="235">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph39-fr</cell>
     <cell name="title">Les réglementations sont restrictives pour le commerce de détail (fr)</cell>
@@ -2240,7 +3776,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="140">
+  <row index="236">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph20-fr</cell>
     <cell name="title">Les réglementations sur le marché des produits sont particulièrement contraignantes (fr)</cell>
@@ -2256,7 +3792,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="141">
+  <row index="237">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph44-fr</cell>
     <cell name="title">Les restrictions aux IDE ont baissé mais restent élevées dans certains secteurs (fr)</cell>
@@ -2272,7 +3808,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="142">
+  <row index="238">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph11-fr</cell>
     <cell name="title">Les salaires réels ont augmenté plus vite que la productivité (fr)</cell>
@@ -2288,7 +3824,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="143">
+  <row index="239">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph50-fr</cell>
     <cell name="title">Les systèmes d'information sur le crédit sont peu développés (fr)</cell>
@@ -2304,7 +3840,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="144">
+  <row index="240">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph55-en</cell>
     <cell name="title">Living standard inequalities have diminished (en)</cell>
@@ -2320,7 +3856,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="145">
+  <row index="241">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph24-en</cell>
     <cell name="title">Logistical performance has deteriorated (en)</cell>
@@ -2336,7 +3872,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="146">
+  <row index="242">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph45-en</cell>
     <cell name="title">Losses in the electric power network (en)</cell>
@@ -2352,7 +3888,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="147">
+  <row index="243">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph10-en</cell>
     <cell name="title">Macroeconomic indicators (en)</cell>
@@ -2368,7 +3904,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="148">
+  <row index="244">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph9-en</cell>
     <cell name="title">Medium-term growth outlook based on the complexity of the economy (en)</cell>
@@ -2384,7 +3920,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="149">
+  <row index="245">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph15-en</cell>
     <cell name="title">Non-performing loans are significant (en)</cell>
@@ -2400,7 +3936,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="150">
+  <row index="246">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph52-fr</cell>
     <cell name="title">Performances du marché boursier (fr)</cell>
@@ -2416,7 +3952,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="151">
+  <row index="247">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph9-fr</cell>
     <cell name="title">Perspectives de croissance à moyen terme sous le prisme de la complexité de l'économie (fr)</cell>
@@ -2432,7 +3968,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="152">
+  <row index="248">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph4-en</cell>
     <cell name="title">Political transition: significant progress toward democracy (en)</cell>
@@ -2448,7 +3984,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="153">
+  <row index="249">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph3-en</cell>
     <cell name="title">Poverty rate (en)</cell>
@@ -2464,7 +4000,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="154">
+  <row index="250">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph67-en</cell>
     <cell name="title">Private enterprises are concentrated in a few regions (en)</cell>
@@ -2480,7 +4016,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="155">
+  <row index="251">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph20-en</cell>
     <cell name="title">Product market regulations are particularly restrictive (en)</cell>
@@ -2496,7 +4032,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="156">
+  <row index="252">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph35-fr</cell>
     <cell name="title">Productivité : de fortes différences entre secteurs mais une faible réallocation des ressources (fr)</cell>
@@ -2512,7 +4048,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="157">
+  <row index="253">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph34-fr</cell>
     <cell name="title">Productivité, investissement et croissance potentielle (fr)</cell>
@@ -2528,7 +4064,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="158">
+  <row index="254">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph34-en</cell>
     <cell name="title">Productivity, investment and potential growth (en)</cell>
@@ -2544,7 +4080,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="159">
+  <row index="255">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph35-en</cell>
     <cell name="title">Productivity: sharp differences between sectors but poor reallocation of resources (en)</cell>
@@ -2560,7 +4096,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="160">
+  <row index="256">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph32-en</cell>
     <cell name="title">Public investment spending has remained relatively high (en)</cell>
@@ -2576,7 +4112,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="161">
+  <row index="257">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph11-en</cell>
     <cell name="title">Real wages have outpaced productivity (en)</cell>
@@ -2592,7 +4128,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="162">
+  <row index="258">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-5-fr</cell>
     <cell name="title">Relancer l'investissement (fr)</cell>
@@ -2608,7 +4144,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="163">
+  <row index="259">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph13-fr</cell>
     <cell name="title">Rentabilité bancaire en comparaison internationale (fr)</cell>
@@ -2624,7 +4160,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="164">
+  <row index="260">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph57-fr</cell>
     <cell name="title">Répartition de la population active occupée selon le secteur d'activité (fr)</cell>
@@ -2640,7 +4176,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="165">
+  <row index="261">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-3-fr</cell>
     <cell name="title">Résumé (fr)</cell>
@@ -2656,7 +4192,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="166">
+  <row index="262">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph39-en</cell>
     <cell name="title">Retail trade regulations are restrictive (en)</cell>
@@ -2672,7 +4208,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="167">
+  <row index="263">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-5-en</cell>
     <cell name="title">Reviving investment (en)</cell>
@@ -2688,7 +4224,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="168">
+  <row index="264">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph46-en</cell>
     <cell name="title">Room for improvement in logistics performance (en)</cell>
@@ -2704,7 +4240,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="169">
+  <row index="265">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph48-en</cell>
     <cell name="title">Self-financing plays an important but declining role (en)</cell>
@@ -2720,7 +4256,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="170">
+  <row index="266">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph27-en</cell>
     <cell name="title">Social contributions depress formal employment (en)</cell>
@@ -2736,7 +4272,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="171">
+  <row index="267">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph19-fr</cell>
     <cell name="title">Sources de la croissance (fr)</cell>
@@ -2752,7 +4288,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="172">
+  <row index="268">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph40-en</cell>
     <cell name="title">State control of businesses: PMR outcomes (en)</cell>
@@ -2768,7 +4304,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="173">
+  <row index="269">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-1-fr</cell>
     <cell name="title">Statistiques de base de la Tunisie, 2016 (fr)</cell>
@@ -2784,7 +4320,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="174">
+  <row index="270">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph43-en</cell>
     <cell name="title">Statutory tax rate on corporations, 2017 (en)</cell>
@@ -2800,7 +4336,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="175">
+  <row index="271">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph52-en</cell>
     <cell name="title">Stock market performance (en)</cell>
@@ -2816,7 +4352,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="176">
+  <row index="272">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph2-fr</cell>
     <cell name="title">Taux d'investissement (fr)</cell>
@@ -2832,7 +4368,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="177">
+  <row index="273">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph3-fr</cell>
     <cell name="title">Taux de pauvreté (fr)</cell>
@@ -2848,7 +4384,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="178">
+  <row index="274">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph43-fr</cell>
     <cell name="title">Taux statutaire de l'impôt sur les sociétés (fr)</cell>
@@ -2864,7 +4400,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="179">
+  <row index="275">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph18-en</cell>
     <cell name="title">Tax revenues are relatively high in comparison to other emerging countries (en)</cell>
@@ -2880,7 +4416,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="180">
+  <row index="276">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph12-en</cell>
     <cell name="title">The devaluation of the dinar was not enough to reduce the current deficit (en)</cell>
@@ -2896,7 +4432,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="181">
+  <row index="277">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph69-en</cell>
     <cell name="title">The education level differs more widely than in OECD countries (en)</cell>
@@ -2912,7 +4448,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="182">
+  <row index="278">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph58-en</cell>
     <cell name="title">The employment rate is low, especially for women (en)</cell>
@@ -2928,7 +4464,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="183">
+  <row index="279">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph29-en</cell>
     <cell name="title">The investment rate has fallen since the start of the century (en)</cell>
@@ -2944,7 +4480,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="184">
+  <row index="280">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph64-en</cell>
     <cell name="title">The level of education level is still fairly weak (en)</cell>
@@ -2960,7 +4496,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="185">
+  <row index="281">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph17-en</cell>
     <cell name="title">The pension regime is generous but unsustainable (en)</cell>
@@ -2976,7 +4512,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="186">
+  <row index="282">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph6-en</cell>
     <cell name="title">The poverty rate has declined (en)</cell>
@@ -2992,7 +4528,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="187">
+  <row index="283">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph65-en</cell>
     <cell name="title">The poverty rate has dropped in all regions (en)</cell>
@@ -3008,7 +4544,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="188">
+  <row index="284">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph7-en</cell>
     <cell name="title">The process of economic convergence has been gradual (en)</cell>
@@ -3024,7 +4560,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="189">
+  <row index="285">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph37-en</cell>
     <cell name="title">The rate of business creation remains low (en)</cell>
@@ -3040,7 +4576,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="190">
+  <row index="286">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph14-en</cell>
     <cell name="title">The rate of lending is higher but remains weak (en)</cell>
@@ -3056,7 +4592,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="191">
+  <row index="287">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph66-en</cell>
     <cell name="title">The regional development index reveals disparities between gouvernorats (en)</cell>
@@ -3072,7 +4608,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="192">
+  <row index="288">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph8-en</cell>
     <cell name="title">The Tunisian economy has been resilient (en)</cell>
@@ -3088,7 +4624,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="193">
+  <row index="289">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph60-en</cell>
     <cell name="title">The unemployment rate among higher education graduates is higher for women (en)</cell>
@@ -3104,7 +4640,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="194">
+  <row index="290">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph28-en</cell>
     <cell name="title">The unemployment rate varies greatly among regions (en)</cell>
@@ -3120,7 +4656,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="195">
+  <row index="291">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-6-en</cell>
     <cell name="title">Toward more inclusive growth: reducing inequalities through quality job creation (en)</cell>
@@ -3136,7 +4672,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="196">
+  <row index="292">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph25-en</cell>
     <cell name="title">Trade could be facilitated (en)</cell>
@@ -3152,7 +4688,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="197">
+  <row index="293">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph41-en</cell>
     <cell name="title">Trade facilitation: competitiveness gains to realise (en)</cell>
@@ -3168,7 +4704,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="198">
+  <row index="294">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph4-fr</cell>
     <cell name="title">Transition politique : des progrès considérables pour la démocratie (fr)</cell>
@@ -3184,7 +4720,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="199">
+  <row index="295">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph1-en</cell>
     <cell name="title">Tunisia GDP per capita (en)</cell>
@@ -3200,7 +4736,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="200">
+  <row index="296">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph16-en</cell>
     <cell name="title">Tunisia needs to return its public finances to a more sustainable path (en)</cell>
@@ -3216,7 +4752,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="201">
+  <row index="297">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph23-en</cell>
     <cell name="title">Tunisia's positioning in global value chains has progressed (en)</cell>
@@ -3232,7 +4768,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="202">
+  <row index="298">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph36-en</cell>
     <cell name="title">Tunisian businesses tend to remain small (en)</cell>
@@ -3248,7 +4784,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="203">
+  <row index="299">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph1-fr</cell>
     <cell name="title">Tunisie PIB par habitant (fr)</cell>
@@ -3264,7 +4800,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="204">
+  <row index="300">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph31-fr</cell>
     <cell name="title">Un nombre élevé de tunisiens sont propriétaires de leur logement (fr)</cell>
@@ -3280,7 +4816,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="205">
+  <row index="301">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-graph59-fr</cell>
     <cell name="title">Une large part des jeunes âgés de 15 à 29 ans sont déscolarisés et sans emploi (fr)</cell>
@@ -3296,7 +4832,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="206">
+  <row index="302">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-6-fr</cell>
     <cell name="title">Vers une croissance plus inclusive : réduire les inégalités par la création d'emplois de qualité (fr)</cell>
@@ -3312,7 +4848,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="207">
+  <row index="303">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-en</cell>
     <cell name="title">OECD Economic Surveys: Tunisia 2018 (en)</cell>
@@ -3328,7 +4864,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="208">
+  <row index="304">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-2-fr</cell>
     <cell name="title">Acronymes et abréviations (fr)</cell>
@@ -3344,7 +4880,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="209">
+  <row index="305">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-2-en</cell>
     <cell name="title">Acronyms (en)</cell>
@@ -3360,7 +4896,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="210">
+  <row index="306">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-4-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -3376,7 +4912,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="211">
+  <row index="307">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-1-en</cell>
     <cell name="title">Basic statistics of Tunisia, 2016 (en)</cell>
@@ -3392,7 +4928,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="212">
+  <row index="308">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-fr</cell>
     <cell name="title">Études économiques de l'OCDE : Tunisie 2018 (fr)</cell>
@@ -3408,7 +4944,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="213">
+  <row index="309">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-fr</cell>
     <cell name="title">Études économiques de l'OCDE : Tunisie 2018 (fr)</cell>
@@ -3424,7 +4960,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="214">
+  <row index="310">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-fr</cell>
     <cell name="title">Études économiques de l'OCDE : Tunisie 2018 (fr)</cell>
@@ -3440,7 +4976,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="215">
+  <row index="311">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-fr</cell>
     <cell name="title">Études économiques de l'OCDE : Tunisie 2018 (fr)</cell>
@@ -3456,7 +4992,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="216">
+  <row index="312">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-4-fr</cell>
     <cell name="title">Évaluation et recommandations (fr)</cell>
@@ -3472,7 +5008,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="217">
+  <row index="313">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-3-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -3488,7 +5024,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="218">
+  <row index="314">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-en</cell>
     <cell name="title">OECD Economic Surveys: Tunisia 2018 (en)</cell>
@@ -3504,7 +5040,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="219">
+  <row index="315">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-en</cell>
     <cell name="title">OECD Economic Surveys: Tunisia 2018 (en)</cell>
@@ -3520,7 +5056,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="220">
+  <row index="316">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-en</cell>
     <cell name="title">OECD Economic Surveys: Tunisia 2018 (en)</cell>
@@ -3536,7 +5072,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="221">
+  <row index="317">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-5-fr</cell>
     <cell name="title">Relancer l'investissement (fr)</cell>
@@ -3552,7 +5088,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="222">
+  <row index="318">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-3-fr</cell>
     <cell name="title">Résumé (fr)</cell>
@@ -3568,7 +5104,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="223">
+  <row index="319">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-5-en</cell>
     <cell name="title">Reviving investment (en)</cell>
@@ -3584,7 +5120,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="224">
+  <row index="320">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-1-fr</cell>
     <cell name="title">Statistiques de base de la Tunisie, 2016 (fr)</cell>
@@ -3600,7 +5136,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="225">
+  <row index="321">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-6-en</cell>
     <cell name="title">Toward more inclusive growth: reducing inequalities through quality job creation (en)</cell>
@@ -3616,7 +5152,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="226">
+  <row index="322">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tun-2018-6-fr</cell>
     <cell name="title">Vers une croissance plus inclusive : réduire les inégalités par la création d'emplois de qualité (fr)</cell>

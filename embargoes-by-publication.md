@@ -1,6 +1,6 @@
 # OECD publication embargoes (22 embargoes)
 
-*Data generated on Friday 30 March 2018 at 0:32*
+*Data generated on Friday 30 March 2018 at 23:04*
 
 ------
 
@@ -75,8 +75,8 @@ Tuesday 3 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
-- [x] Exported to Keepeek Saturday 24 March 2018 at 0:50
+- [x] Exported to iLibrary Thursday 29 March 2018 at 23:19
+- [x] Exported to Keepeek Friday 30 March 2018 at 0:09
 
 ### Additional Information
 
@@ -250,7 +250,7 @@ Wednesday 4 April 2018 at 11:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -263,7 +263,7 @@ Embargo date | Launch date
 Thursday 5 April 2018 at 9:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 27 March 2018 at 23:14
 - [ ] Exported to Keepeek
 
@@ -271,7 +271,7 @@ Thursday 5 April 2018 at 9:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -285,12 +285,12 @@ Monday 9 April 2018 at 0:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 28 March 2018 at 23:41
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 29 March 2018 at 23:19
+- [x] Exported to Keepeek Friday 30 March 2018 at 0:09
 
 ### Additional Information
 
-* Directorate: *Development Centre, Statistics and Data Directorate, Economics Department, Public Affairs and Communications Directorate*
+* Directorate: *Public Affairs and Communications Directorate, Economics Department, Statistics and Data Directorate, Development Centre*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
