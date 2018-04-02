@@ -1,6 +1,6 @@
 # OECD publication embargoes (22 embargoes)
 
-*Data generated on Friday 30 March 2018 at 23:04*
+*Data generated on Monday 2 April 2018 at 22:05*
 
 ------
 
@@ -244,7 +244,7 @@ Wednesday 4 April 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 28 March 2018 at 23:41
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Friday 30 March 2018 at 22:53
 
 ### Additional Information
 
@@ -265,7 +265,7 @@ Thursday 5 April 2018 at 9:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 27 March 2018 at 23:14
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Friday 30 March 2018 at 22:53
 
 ### Additional Information
 
@@ -290,7 +290,7 @@ Monday 9 April 2018 at 0:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Public Affairs and Communications Directorate, Economics Department, Statistics and Data Directorate, Development Centre*
+* Directorate: *Public Affairs and Communications Directorate, Statistics and Data Directorate, Development Centre, Economics Department*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
