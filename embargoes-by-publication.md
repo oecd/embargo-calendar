@@ -1,27 +1,6 @@
-# OECD publication embargoes (12 embargoes)
+# OECD publication embargoes (13 embargoes)
 
-*Data generated on Wednesday 4 April 2018 at 23:39*
-
-------
-
-## [Investing in Youth: Norway](https://doi.org/10.1787/9789264283671-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 5 April 2018 at 9:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 3 April 2018 at 23:38
-- [x] Exported to Keepeek Friday 30 March 2018 at 22:53
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Saturday 7 April 2018 at 12:33*
 
 ------
 
@@ -33,15 +12,36 @@ Monday 9 April 2018 at 0:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 3 April 2018 at 23:38
+- [x] Exported to iLibrary Wednesday 4 April 2018 at 22:22
 - [x] Exported to Keepeek Friday 30 March 2018 at 0:09
 
 ### Additional Information
 
-* Directorate: *Economics Department, Development Centre, Public Affairs and Communications Directorate, Statistics and Data Directorate*
+* Directorate: *Statistics and Data Directorate, Public Affairs and Communications Directorate, Economics Department, Development Centre*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [What does innovation in pedagogy look like?](https://doi.org/10.1787/cca19081-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 9 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 6 April 2018 at 22:37
+- [x] Exported to Keepeek Friday 6 April 2018 at 23:51
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
@@ -55,7 +55,7 @@ Monday 9 April 2018 at 15:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 3 April 2018 at 23:38
-- [x] Exported to Keepeek Wednesday 4 April 2018 at 0:45
+- [x] Exported to Keepeek Friday 6 April 2018 at 23:51
 
 ### Additional Information
 
@@ -75,8 +75,8 @@ Monday 9 April 2018 at 15:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 26 March 2018 at 22:52
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 4 April 2018 at 22:22
+- [x] Exported to Keepeek Wednesday 4 April 2018 at 23:08
 
 ### Additional Information
 
@@ -118,6 +118,27 @@ Thursday 12 April 2018 at 11:00 | no launch event
 ### Status Information
 - [ ] FTI loaded
 - [x] Exported to iLibrary Tuesday 3 April 2018 at 23:38
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [The Role and Design of Net Wealth Taxes in the OECD](https://doi.org/10.1787/9789264290303-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 12 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 6 April 2018 at 22:37
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -243,7 +264,7 @@ Monday 30 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 3 April 2018 at 23:38
+- [x] Exported to iLibrary Wednesday 4 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
