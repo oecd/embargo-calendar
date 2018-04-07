@@ -1,6 +1,6 @@
 # OECD publication embargoes (13 embargoes)
 
-*Data generated on Saturday 7 April 2018 at 12:44*
+*Data generated on Saturday 7 April 2018 at 12:48*
 
 ------
 
@@ -17,7 +17,7 @@ Monday 9 April 2018 at 0:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Development Centre, Economics Department, Public Affairs and Communications Directorate, Statistics and Data Directorate*
+* Directorate: *Public Affairs and Communications Directorate, Statistics and Data Directorate, Development Centre, Economics Department*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
