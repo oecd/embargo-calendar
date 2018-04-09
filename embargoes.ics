@@ -7,10 +7,10 @@ BEGIN:VEVENT
 UID:10.1787/9789264293311-en
 SUMMARY:Multi-Dimensional Review of Thailand (Vo
  lume 1) - Initial Assessment
-DESCRIPTION:Directorate: Public Affairs and Communic
- ations Directorate, Statistics and Data 
- Directorate, Development Centre, Economi
- cs Department\nLanguage: English\nDOI: h
+DESCRIPTION:Directorate: Development Centre, Economi
+ cs Department, Statistics and Data Direc
+ torate, Public Affairs and Communication
+ s Directorate\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264293311-en\
  nPublication type: Book\nReleased as: Pa
  perback, ePub, PDF, HTML.\n\niLibrary ex
@@ -18,7 +18,7 @@ DESCRIPTION:Directorate: Public Affairs and Communic
  T+00:00)\nFreepreview export: 29 March 2
  018, 22:09 Paris time (GMT+00:00)\nFTI l
  oaded: ✓.
-DTSTAMP:20180407T124844Z
+DTSTAMP:20180410T003743Z
 DTSTART:20180408T220000Z
 DTEND:20180408T221500Z
 TRANSP:TRANSPARENT
@@ -44,7 +44,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  37 Paris time (GMT+00:00)\nFreepreview e
  xport: 6 April 2018, 21:51 Paris time (G
  MT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180407T124844Z
+DTSTAMP:20180410T003743Z
 DTSTART:20180409T090000Z
 DTEND:20180409T091500Z
 TRANSP:TRANSPARENT
@@ -65,12 +65,12 @@ SUMMARY:Latin American Economic Outlook 2018 - R
 DESCRIPTION:Directorate: Development Centre\nLanguag
  e: English\nDOI: https://doi.org/10.1787
  /leo-2018-en\nPublication type: Book\nRe
- leased as: Paperback, PDF.\n\niLibrary e
+ leased as: PDF, Paperback.\n\niLibrary e
  xport: 3 April 2018, 21:38 Paris time (G
  MT+00:00)\nFreepreview export: 6 April 2
  018, 21:51 Paris time (GMT+00:00)\nFTI l
  oaded: ✓.
-DTSTAMP:20180407T124844Z
+DTSTAMP:20180410T003743Z
 DTSTART:20180409T130000Z
 DTEND:20180409T131500Z
 TRANSP:TRANSPARENT
@@ -93,12 +93,12 @@ SUMMARY:Perspectivas económicas de América Latin
 DESCRIPTION:Directorate: Development Centre\nLanguag
  e: Spanish\nDOI: https://doi.org/10.1787
  /leo-2018-es\nPublication type: Book\nRe
- leased as: PDF, Paperback.\n\niLibrary e
+ leased as: Paperback, PDF.\n\niLibrary e
  xport: 4 April 2018, 20:22 Paris time (G
  MT+00:00)\nFreepreview export: 4 April 2
  018, 21:08 Paris time (GMT+00:00)\nFTI l
  oaded: ✓.
-DTSTAMP:20180407T124844Z
+DTSTAMP:20180410T003743Z
 DTSTART:20180409T130000Z
 DTEND:20180409T131500Z
 TRANSP:TRANSPARENT
@@ -122,11 +122,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/d8c0fbc4-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
- xport: 4 April 2018, 20:22 Paris time (G
- MT+00:00)\nFreepreview export: 4 April 2
- 018, 21:08 Paris time (GMT+00:00)\nFTI l
+ xport: 9 April 2018, 20:41 Paris time (G
+ MT+00:00)\nFreepreview export: 9 April 2
+ 018, 21:58 Paris time (GMT+00:00)\nFTI l
  oaded: ✓.
-DTSTAMP:20180407T124844Z
+DTSTAMP:20180410T003743Z
 DTSTART:20180410T000000Z
 DTEND:20180410T001500Z
 TRANSP:TRANSPARENT
@@ -143,6 +143,57 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/8a34ce38-en
+SUMMARY:Market Opening, Growth and Employment
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/8a34ce38-en\nPublication
+  type: Working paper\nReleased as: PDF.\
+ n\niLibrary export: 9 April 2018, 20:41 
+ Paris time (GMT+00:00)\nFreepreview expo
+ rt: 9 April 2018, 21:58 Paris time (GMT+
+ 00:00)\nFTI loaded: ✓.
+DTSTAMP:20180410T003743Z
+DTSTART:20180411T000000Z
+DTEND:20180411T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Market Opening, Growth and Emp
+ loyment
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264298507-en
+SUMMARY:Apprenticeship in England, United Kingdo
+ m
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: English\nDOI: https
+ ://doi.org/10.1787/9789264298507-en\nPub
+ lication type: Book\nReleased as: ePub, 
+ Paperback, PDF, HTML.\n\niLibrary export
+ : 6 April 2018, 20:37 Paris time (GMT+00
+ :00)\nFreepreview export: never\nFTI loa
+ ded: ✓.
+DTSTAMP:20180410T003743Z
+DTSTART:20180411T090000Z
+DTEND:20180411T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Apprenticeship in England, Uni
+ ted Kingdom
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264289536-en
 SUMMARY:Taxation of Household Savings
 DESCRIPTION:Directorate: Centre for Tax Policy and A
@@ -152,7 +203,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  F, Paperback.\n\niLibrary export: 3 Apri
  l 2018, 21:38 Paris time (GMT+00:00)\nFr
  eepreview export: never\nFTI loaded: no.
-DTSTAMP:20180407T124844Z
+DTSTAMP:20180410T003743Z
 DTSTART:20180412T090000Z
 DTEND:20180412T091500Z
 TRANSP:TRANSPARENT
@@ -172,11 +223,11 @@ SUMMARY:The Role and Design of Net Wealth Taxes
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264290303-en\
- nPublication type: Book\nReleased as: Pa
- perback, PDF.\n\niLibrary export: 6 Apri
+ nPublication type: Book\nReleased as: PD
+ F, Paperback.\n\niLibrary export: 6 Apri
  l 2018, 20:37 Paris time (GMT+00:00)\nFr
  eepreview export: never\nFTI loaded: no.
-DTSTAMP:20180407T124844Z
+DTSTAMP:20180410T003743Z
 DTSTART:20180412T090000Z
 DTEND:20180412T091500Z
 TRANSP:TRANSPARENT
@@ -201,7 +252,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  rt: 23 March 2018, 22:30 Paris time (GMT
  +00:00)\nFreepreview export: never\nFTI 
  loaded: no.
-DTSTAMP:20180407T124844Z
+DTSTAMP:20180410T003743Z
 DTSTART:20180417T150000Z
 DTEND:20180417T151500Z
 TRANSP:TRANSPARENT
@@ -227,7 +278,7 @@ DESCRIPTION:Directorate: Directorate for Employment,
  e (GMT+00:00)\nFreepreview export: 21 Fe
  bruary 2018, 22:48 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180407T124844Z
+DTSTAMP:20180410T003743Z
 DTSTART:20180426T073000Z
 DTEND:20180426T074500Z
 TRANSP:TRANSPARENT
@@ -250,7 +301,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  perback, PDF.\n\niLibrary export: 3 Apri
  l 2018, 21:38 Paris time (GMT+00:00)\nFr
  eepreview export: never\nFTI loaded: no.
-DTSTAMP:20180407T124844Z
+DTSTAMP:20180410T003743Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -275,7 +326,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  il 2018, 21:38 Paris time (GMT+00:00)\nF
  reepreview export: never\nFTI loaded: no
  .
-DTSTAMP:20180407T124844Z
+DTSTAMP:20180410T003743Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -299,7 +350,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  iLibrary export: 6 March 2018, 22:07 Par
  is time (GMT+00:00)\nFreepreview export:
   never\nFTI loaded: no.
-DTSTAMP:20180407T124844Z
+DTSTAMP:20180410T003743Z
 DTSTART:20180430T090000Z
 DTEND:20180430T091500Z
 TRANSP:TRANSPARENT
@@ -324,7 +375,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  \n\niLibrary export: 4 April 2018, 20:22
   Paris time (GMT+00:00)\nFreepreview exp
  ort: never\nFTI loaded: no.
-DTSTAMP:20180407T124844Z
+DTSTAMP:20180410T003743Z
 DTSTART:20180430T090000Z
 DTEND:20180430T091500Z
 TRANSP:TRANSPARENT

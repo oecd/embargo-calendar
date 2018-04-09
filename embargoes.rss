@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Sat, 07 Apr 2018 12:48:45 GMT</pubDate>
+      <pubDate>Tue, 10 Apr 2018 00:37:44 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -18,10 +18,10 @@
          <pubDate>Sun, 08 Apr 2018 22:00:00 GMT</pubDate>
          <title>Multi-Dimensional Review of Thailand (Volume 1) - Initial Assessment</title>
          <link>https://doi.org/10.1787/9789264293311-en</link>
-         <description>Multi-Dimensional Review of Thailand (Volume 1) - Initial Assessment by Public Affairs and Communications Directorate, Statistics and Data Directorate, Development Centre, Economics Department has an embargo on Monday, 9 April 2018, 0:00 Paris time (GMT+02:00).</description>
+         <description>Multi-Dimensional Review of Thailand (Volume 1) - Initial Assessment by Development Centre, Economics Department, Statistics and Data Directorate, Public Affairs and Communications Directorate has an embargo on Monday, 9 April 2018, 0:00 Paris time (GMT+02:00).</description>
          <oe:embargoTime>2018-04-08T22:00:00Z</oe:embargoTime>
          <oe:launchTime/>
-         <oe:directorate>Public Affairs and Communications Directorate, Statistics and Data Directorate, Development Centre, Economics Department</oe:directorate>
+         <oe:directorate>Development Centre, Economics Department, Statistics and Data Directorate, Public Affairs and Communications Directorate</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Wednesday, 4 April 2018, 20:22 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Thursday, 29 March 2018, 22:09 Paris time (GMT+00:00)</oe:freePreviewExport>
@@ -56,7 +56,7 @@
          <oe:iLibraryExport>Tuesday, 3 April 2018, 21:38 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Friday, 6 April 2018, 21:51 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/leo-2018-es</guid>
@@ -71,7 +71,7 @@
          <oe:iLibraryExport>Wednesday, 4 April 2018, 20:22 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Wednesday, 4 April 2018, 21:08 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/d8c0fbc4-en</guid>
@@ -83,10 +83,40 @@
          <oe:launchTime/>
          <oe:directorate>Economics Department</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Wednesday, 4 April 2018, 20:22 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Wednesday, 4 April 2018, 21:08 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:iLibraryExport>Monday, 9 April 2018, 20:41 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Monday, 9 April 2018, 21:58 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Working paper</oe:catalogueType>
          <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/8a34ce38-en</guid>
+         <pubDate>Wed, 11 Apr 2018 00:00:00 GMT</pubDate>
+         <title>Market Opening, Growth and Employment</title>
+         <link>https://doi.org/10.1787/8a34ce38-en</link>
+         <description>Market Opening, Growth and Employment by Trade and Agriculture Directorate has an embargo on Wednesday, 11 April 2018, 2:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-04-11T00:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Monday, 9 April 2018, 20:41 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Monday, 9 April 2018, 21:58 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264298507-en</guid>
+         <pubDate>Wed, 11 Apr 2018 09:00:00 GMT</pubDate>
+         <title>Apprenticeship in England, United Kingdom</title>
+         <link>https://doi.org/10.1787/9789264298507-en</link>
+         <description>Apprenticeship in England, United Kingdom by Directorate for Education and Skills has an embargo on Wednesday, 11 April 2018, 11:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-04-11T09:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Education and Skills</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Friday, 6 April 2018, 20:37 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>ePub, Paperback, PDF, HTML</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264289536-en</guid>
@@ -116,7 +146,7 @@
          <oe:iLibraryExport>Friday, 6 April 2018, 20:37 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/eco_surveys-cri-2018-en</guid>

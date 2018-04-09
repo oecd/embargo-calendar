@@ -1,90 +1,6 @@
-# OECD publication embargoes (13 embargoes)
+# OECD publication embargoes (11 embargoes)
 
-*Data generated on Saturday 7 April 2018 at 12:48*
-
-------
-
-## [Multi-Dimensional Review of Thailand (Volume 1) - Initial Assessment](https://doi.org/10.1787/9789264293311-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 9 April 2018 at 0:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 4 April 2018 at 22:22
-- [x] Exported to Keepeek Friday 30 March 2018 at 0:09
-
-### Additional Information
-
-* Directorate: *Public Affairs and Communications Directorate, Statistics and Data Directorate, Development Centre, Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [What does innovation in pedagogy look like?](https://doi.org/10.1787/cca19081-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 9 April 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 6 April 2018 at 22:37
-- [x] Exported to Keepeek Friday 6 April 2018 at 23:51
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Latin American Economic Outlook 2018 - Rethinking Institutions for Development](https://doi.org/10.1787/leo-2018-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 9 April 2018 at 15:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 3 April 2018 at 23:38
-- [x] Exported to Keepeek Friday 6 April 2018 at 23:51
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Perspectivas económicas de América Latina 2018 - Repensando las instituciones para el desarrollo](https://doi.org/10.1787/leo-2018-es)
-
-Embargo date | Launch date
--------------|------------
-Monday 9 April 2018 at 15:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 4 April 2018 at 22:22
-- [x] Exported to Keepeek Wednesday 4 April 2018 at 23:08
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Tuesday 10 April 2018 at 0:37*
 
 ------
 
@@ -96,8 +12,8 @@ Tuesday 10 April 2018 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 4 April 2018 at 22:22
-- [x] Exported to Keepeek Wednesday 4 April 2018 at 23:08
+- [x] Exported to iLibrary Monday 9 April 2018 at 22:41
+- [x] Exported to Keepeek Monday 9 April 2018 at 23:58
 
 ### Additional Information
 
@@ -105,6 +21,48 @@ Tuesday 10 April 2018 at 2:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Market Opening, Growth and Employment](https://doi.org/10.1787/8a34ce38-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 11 April 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 9 April 2018 at 22:41
+- [x] Exported to Keepeek Monday 9 April 2018 at 23:58
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Apprenticeship in England, United Kingdom](https://doi.org/10.1787/9789264298507-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 11 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 6 April 2018 at 22:37
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------
