@@ -1,27 +1,6 @@
 # OECD publication embargoes (11 embargoes)
 
-*Data generated on Tuesday 10 April 2018 at 0:37*
-
-------
-
-## [Basic income or a single tapering rule? Incentives, inclusiveness and affordability compared for the case of Finland](https://doi.org/10.1787/d8c0fbc4-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 10 April 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 April 2018 at 22:41
-- [x] Exported to Keepeek Monday 9 April 2018 at 23:58
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Wednesday 11 April 2018 at 1:00*
 
 ------
 
@@ -54,8 +33,8 @@ Wednesday 11 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 6 April 2018 at 22:37
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 9 April 2018 at 22:41
+- [x] Exported to Keepeek Monday 9 April 2018 at 23:58
 
 ### Additional Information
 
@@ -74,7 +53,7 @@ Embargo date | Launch date
 Thursday 12 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 3 April 2018 at 23:38
 - [ ] Exported to Keepeek
 
@@ -82,7 +61,7 @@ Thursday 12 April 2018 at 11:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -95,16 +74,37 @@ Embargo date | Launch date
 Thursday 12 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 6 April 2018 at 22:37
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 9 April 2018 at 22:41
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Investment as a transmission mechanism from weak demand to weak supply and post-crisis productivity slowdown](https://doi.org/10.1787/0c62cc26-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 16 April 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 10 April 2018 at 23:26
+- [x] Exported to Keepeek Wednesday 11 April 2018 at 0:33
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------

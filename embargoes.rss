@@ -8,26 +8,11 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Tue, 10 Apr 2018 00:37:44 GMT</pubDate>
+      <pubDate>Wed, 11 Apr 2018 01:00:27 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
                  type="application/rss+xml"/>
-      <item>
-         <guid isPermaLink="false">10.1787/9789264293311-en</guid>
-         <pubDate>Sun, 08 Apr 2018 22:00:00 GMT</pubDate>
-         <title>Multi-Dimensional Review of Thailand (Volume 1) - Initial Assessment</title>
-         <link>https://doi.org/10.1787/9789264293311-en</link>
-         <description>Multi-Dimensional Review of Thailand (Volume 1) - Initial Assessment by Development Centre, Economics Department, Statistics and Data Directorate, Public Affairs and Communications Directorate has an embargo on Monday, 9 April 2018, 0:00 Paris time (GMT+02:00).</description>
-         <oe:embargoTime>2018-04-08T22:00:00Z</oe:embargoTime>
-         <oe:launchTime/>
-         <oe:directorate>Development Centre, Economics Department, Statistics and Data Directorate, Public Affairs and Communications Directorate</oe:directorate>
-         <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Wednesday, 4 April 2018, 20:22 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Thursday, 29 March 2018, 22:09 Paris time (GMT+00:00)</oe:freePreviewExport>
-         <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, ePub, PDF, HTML</oe:availableMedia>
-      </item>
       <item>
          <guid isPermaLink="false">10.1787/cca19081-en</guid>
          <pubDate>Mon, 09 Apr 2018 09:00:00 GMT</pubDate>
@@ -68,7 +53,7 @@
          <oe:launchTime/>
          <oe:directorate>Development Centre</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Wednesday, 4 April 2018, 20:22 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Monday, 9 April 2018, 20:41 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Wednesday, 4 April 2018, 21:08 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>Paperback, PDF</oe:availableMedia>
@@ -113,10 +98,10 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Education and Skills</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Friday, 6 April 2018, 20:37 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:iLibraryExport>Monday, 9 April 2018, 20:41 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Monday, 9 April 2018, 21:58 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>ePub, Paperback, PDF, HTML</oe:availableMedia>
+         <oe:availableMedia>HTML, ePub, Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264289536-en</guid>
@@ -127,11 +112,11 @@
          <oe:embargoTime>2018-04-12T09:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Tuesday, 3 April 2018, 21:38 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>ePub, PDF, HTML, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264290303-en</guid>
@@ -142,11 +127,26 @@
          <oe:embargoTime>2018-04-12T09:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
-         <oe:ftiLoaded/>
-         <oe:iLibraryExport>Friday, 6 April 2018, 20:37 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Monday, 9 April 2018, 20:41 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>HTML, PDF, ePub, Paperback</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/0c62cc26-en</guid>
+         <pubDate>Mon, 16 Apr 2018 00:00:00 GMT</pubDate>
+         <title>Investment as a transmission mechanism from weak demand to weak supply and post-crisis productivity slowdown</title>
+         <link>https://doi.org/10.1787/0c62cc26-en</link>
+         <description>Investment as a transmission mechanism from weak demand to weak supply and post-crisis productivity slowdown by Economics Department has an embargo on Monday, 16 April 2018, 2:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-04-16T00:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Tuesday, 10 April 2018, 21:26 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Tuesday, 10 April 2018, 22:33 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/eco_surveys-cri-2018-en</guid>
