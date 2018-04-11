@@ -1,48 +1,6 @@
 # OECD publication embargoes (11 embargoes)
 
-*Data generated on Wednesday 11 April 2018 at 1:00*
-
-------
-
-## [Market Opening, Growth and Employment](https://doi.org/10.1787/8a34ce38-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 11 April 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 April 2018 at 22:41
-- [x] Exported to Keepeek Monday 9 April 2018 at 23:58
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Apprenticeship in England, United Kingdom](https://doi.org/10.1787/9789264298507-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 11 April 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 April 2018 at 22:41
-- [x] Exported to Keepeek Monday 9 April 2018 at 23:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Wednesday 11 April 2018 at 23:54*
 
 ------
 
@@ -54,8 +12,8 @@ Thursday 12 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 3 April 2018 at 23:38
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 10 April 2018 at 23:26
+- [x] Exported to Keepeek Wednesday 11 April 2018 at 0:33
 
 ### Additional Information
 
@@ -75,13 +33,55 @@ Thursday 12 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 April 2018 at 22:41
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 10 April 2018 at 23:26
+- [x] Exported to Keepeek Wednesday 11 April 2018 at 0:33
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Japan: Promoting Inclusive Growth for an Ageing Society](https://doi.org/10.1787/9789264299207-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 13 April 2018 at 4:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 10 April 2018 at 23:26
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *General Secretariat*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [日本：高齢化社会における包摂的な成長の促進](https://doi.org/10.1787/9789264299900-ja)
+
+Embargo date | Launch date
+-------------|------------
+Friday 13 April 2018 at 4:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 10 April 2018 at 23:26
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *General Secretariat*
+* Language: *Japanese*
 * Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
@@ -96,8 +96,8 @@ Monday 16 April 2018 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 April 2018 at 23:26
-- [x] Exported to Keepeek Wednesday 11 April 2018 at 0:33
+- [x] Exported to iLibrary Wednesday 11 April 2018 at 22:37
+- [x] Exported to Keepeek Wednesday 11 April 2018 at 23:30
 
 ### Additional Information
 
