@@ -1,6 +1,27 @@
-# OECD publication embargoes (7 embargoes)
+# OECD publication embargoes (9 embargoes)
 
-*Data generated on Thursday 12 April 2018 at 23:12*
+*Data generated on Friday 13 April 2018 at 23:08*
+
+------
+
+## [How has Internet use changed between 2012 and 2015?](https://doi.org/10.1787/1e912a10-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 16 April 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 13 April 2018 at 22:00
+- [x] Exported to Keepeek Friday 13 April 2018 at 22:41
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
 
 ------
 
@@ -32,8 +53,8 @@ Embargo date | Launch date
 Tuesday 17 April 2018 at 17:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 23 March 2018 at 23:30
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 12 April 2018 at 22:06
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -42,6 +63,27 @@ Tuesday 17 April 2018 at 17:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
+## [State-Owned Enterprises and the Low-Carbon Transition](https://doi.org/10.1787/06ff826b-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 18 April 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 13 April 2018 at 22:00
+- [x] Exported to Keepeek Friday 13 April 2018 at 22:41
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
