@@ -4,58 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264289536-en
-SUMMARY:Taxation of Household Savings
-DESCRIPTION:Directorate: Centre for Tax Policy and A
- dministration\nLanguage: English\nDOI: h
- ttps://doi.org/10.1787/9789264289536-en\
- nPublication type: Book\nReleased as: eP
- ub, PDF, HTML, Paperback.\n\niLibrary ex
- port: 10 April 2018, 21:26 Paris time (G
- MT+00:00)\nFreepreview export: 10 April 
- 2018, 22:33 Paris time (GMT+00:00)\nFTI 
- loaded: ✓.
-DTSTAMP:20180413T230845Z
-DTSTART:20180412T090000Z
-DTEND:20180412T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Taxation of Household Savings
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264290303-en
-SUMMARY:The Role and Design of Net Wealth Taxes 
- in the OECD
-DESCRIPTION:Directorate: Centre for Tax Policy and A
- dministration\nLanguage: English\nDOI: h
- ttps://doi.org/10.1787/9789264290303-en\
- nPublication type: Book\nReleased as: HT
- ML, PDF, ePub, Paperback.\n\niLibrary ex
- port: 12 April 2018, 20:06 Paris time (G
- MT+00:00)\nFreepreview export: 12 April 
- 2018, 20:49 Paris time (GMT+00:00)\nFTI 
- loaded: ✓.
-DTSTAMP:20180413T230845Z
-DTSTART:20180412T090000Z
-DTEND:20180412T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: The Role and Design of Net Wea
- lth Taxes in the OECD
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/1e912a10-en
 SUMMARY:How has Internet use changed between 201
  2 and 2015?
@@ -67,7 +15,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  :00 Paris time (GMT+00:00)\nFreepreview 
  export: 13 April 2018, 20:41 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180413T230845Z
+DTSTAMP:20180416T235446Z
 DTSTART:20180416T000000Z
 DTEND:20180416T001500Z
 TRANSP:TRANSPARENT
@@ -94,7 +42,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  GMT+00:00)\nFreepreview export: 11 April
   2018, 21:30 Paris time (GMT+00:00)\nFTI
   loaded: ✓.
-DTSTAMP:20180413T230845Z
+DTSTAMP:20180416T235446Z
 DTSTART:20180416T000000Z
 DTEND:20180416T001500Z
 TRANSP:TRANSPARENT
@@ -115,12 +63,12 @@ SUMMARY:OECD Economic Surveys: Costa Rica 2018
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-cri-2018-en\nPublication 
- type: Economic survey\nReleased as: HTML
- , PDF, Paperback, ePub.\n\niLibrary expo
- rt: 12 April 2018, 20:06 Paris time (GMT
+ type: Economic survey\nReleased as: PDF,
+  Paperback, ePub, HTML.\n\niLibrary expo
+ rt: 13 April 2018, 20:00 Paris time (GMT
  +00:00)\nFreepreview export: never\nFTI 
  loaded: ✓.
-DTSTAMP:20180413T230845Z
+DTSTAMP:20180416T235446Z
 DTSTART:20180417T150000Z
 DTEND:20180417T151500Z
 TRANSP:TRANSPARENT
@@ -146,7 +94,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  e (GMT+00:00)\nFreepreview export: 13 Ap
  ril 2018, 20:41 Paris time (GMT+00:00)\n
  FTI loaded: ✓.
-DTSTAMP:20180413T230845Z
+DTSTAMP:20180416T235446Z
 DTSTART:20180418T000000Z
 DTEND:20180418T001500Z
 TRANSP:TRANSPARENT
@@ -157,6 +105,56 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: State-Owned Enterprises and th
  e Low-Carbon Transition
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264085350-en
+SUMMARY:Working Together for Local Integration o
+ f Migrants and Refugees
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ English\nDOI: https://doi.org/10.1787/97
+ 89264085350-en\nPublication type: Stand-
+ alone monograph\nReleased as: Paperback,
+  PDF.\n\niLibrary export: 22 March 2018,
+  23:35 Paris time (GMT+00:00)\nFreeprevi
+ ew export: never\nFTI loaded: ✓.
+DTSTAMP:20180416T235446Z
+DTSTART:20180418T093000Z
+DTEND:20180418T094500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Working Together for Local Int
+ egration of Migrants and Refugees
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264298750-en
+SUMMARY:Education for a Bright Future in Greece
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: English\nDOI: https
+ ://doi.org/10.1787/9789264298750-en\nPub
+ lication type: Book\nReleased as: PDF, P
+ aperback.\n\niLibrary export: 13 April 2
+ 018, 20:00 Paris time (GMT+00:00)\nFreep
+ review export: never\nFTI loaded: no.
+DTSTAMP:20180416T235446Z
+DTSTART:20180419T080000Z
+DTEND:20180419T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education for a Bright Future 
+ in Greece
 END:VALARM
 END:VEVENT
 
@@ -172,7 +170,7 @@ DESCRIPTION:Directorate: Directorate for Employment,
  e (GMT+00:00)\nFreepreview export: 21 Fe
  bruary 2018, 22:48 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180413T230845Z
+DTSTAMP:20180416T235446Z
 DTSTART:20180426T073000Z
 DTEND:20180426T074500Z
 TRANSP:TRANSPARENT
@@ -191,11 +189,12 @@ SUMMARY:Les impôts sur les salaires 2018
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-fr\
- nPublication type: Book\nReleased as: Pa
- perback, PDF.\n\niLibrary export: 3 Apri
- l 2018, 21:38 Paris time (GMT+00:00)\nFr
- eepreview export: never\nFTI loaded: no.
-DTSTAMP:20180413T230845Z
+ nPublication type: Book\nReleased as: PD
+ F, ePub, HTML, Paperback.\n\niLibrary ex
+ port: 3 April 2018, 21:38 Paris time (GM
+ T+00:00)\nFreepreview export: never\nFTI
+  loaded: no.
+DTSTAMP:20180416T235446Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -215,12 +214,12 @@ SUMMARY:Taxing Wages 2018
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-en
- \nPublication type: Book\nReleased as: P
- DF, Paperback.\n\niLibrary export: 3 Apr
- il 2018, 21:38 Paris time (GMT+00:00)\nF
- reepreview export: never\nFTI loaded: no
- .
-DTSTAMP:20180413T230845Z
+ \nPublication type: Book\nReleased as: e
+ Pub, Paperback, HTML, PDF.\n\niLibrary e
+ xport: 3 April 2018, 21:38 Paris time (G
+ MT+00:00)\nFreepreview export: never\nFT
+ I loaded: no.
+DTSTAMP:20180416T235446Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -244,7 +243,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  iLibrary export: 6 March 2018, 22:07 Par
  is time (GMT+00:00)\nFreepreview export:
   never\nFTI loaded: no.
-DTSTAMP:20180413T230845Z
+DTSTAMP:20180416T235446Z
 DTSTART:20180430T090000Z
 DTEND:20180430T091500Z
 TRANSP:TRANSPARENT
@@ -269,7 +268,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  \n\niLibrary export: 11 April 2018, 20:3
  7 Paris time (GMT+00:00)\nFreepreview ex
  port: never\nFTI loaded: no.
-DTSTAMP:20180413T230845Z
+DTSTAMP:20180416T235446Z
 DTSTART:20180430T090000Z
 DTEND:20180430T091500Z
 TRANSP:TRANSPARENT

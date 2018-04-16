@@ -1,48 +1,6 @@
 # OECD publication embargoes (9 embargoes)
 
-*Data generated on Friday 13 April 2018 at 23:08*
-
-------
-
-## [How has Internet use changed between 2012 and 2015?](https://doi.org/10.1787/1e912a10-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 16 April 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 13 April 2018 at 22:00
-- [x] Exported to Keepeek Friday 13 April 2018 at 22:41
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Investment as a transmission mechanism from weak demand to weak supply and post-crisis productivity slowdown](https://doi.org/10.1787/0c62cc26-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 16 April 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 11 April 2018 at 22:37
-- [x] Exported to Keepeek Wednesday 11 April 2018 at 23:30
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Monday 16 April 2018 at 23:54*
 
 ------
 
@@ -54,14 +12,14 @@ Tuesday 17 April 2018 at 17:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 April 2018 at 22:06
+- [x] Exported to iLibrary Friday 13 April 2018 at 22:00
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Medium: *PDF*
 
@@ -84,6 +42,48 @@ Wednesday 18 April 2018 at 2:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Working Together for Local Integration of Migrants and Refugees](https://doi.org/10.1787/9789264085350-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 18 April 2018 at 11:30 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 23 March 2018 at 0:35
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [Education for a Bright Future in Greece](https://doi.org/10.1787/9789264298750-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 19 April 2018 at 10:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 13 April 2018 at 22:00
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------
