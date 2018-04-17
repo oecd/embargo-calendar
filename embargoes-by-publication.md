@@ -1,27 +1,6 @@
-# OECD publication embargoes (9 embargoes)
+# OECD publication embargoes (10 embargoes)
 
-*Data generated on Monday 16 April 2018 at 23:54*
-
-------
-
-## [OECD Economic Surveys: Costa Rica 2018](https://doi.org/10.1787/eco_surveys-cri-2018-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 17 April 2018 at 17:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 13 April 2018 at 22:00
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Medium: *PDF*
+*Data generated on Wednesday 18 April 2018 at 0:06*
 
 ------
 
@@ -54,14 +33,35 @@ Wednesday 18 April 2018 at 11:30 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 March 2018 at 0:35
+- [x] Exported to iLibrary Monday 16 April 2018 at 22:39
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [OECD Economic Survey of Costa Rica: Research Findings on Productivity](https://doi.org/10.1787/9789264298774-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 18 April 2018 at 18:30 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 16 April 2018 at 22:39
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
@@ -74,16 +74,37 @@ Embargo date | Launch date
 Thursday 19 April 2018 at 10:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 13 April 2018 at 22:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 16 April 2018 at 22:39
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [How is depression related to education?](https://doi.org/10.1787/782fc82d-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 20 April 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 17 April 2018 at 22:44
+- [x] Exported to Keepeek Tuesday 17 April 2018 at 23:41
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
@@ -180,7 +201,7 @@ Monday 30 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 11 April 2018 at 22:37
+- [x] Exported to iLibrary Monday 16 April 2018 at 22:39
 - [ ] Exported to Keepeek
 
 ### Additional Information

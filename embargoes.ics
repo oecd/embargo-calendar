@@ -15,7 +15,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  :00 Paris time (GMT+00:00)\nFreepreview 
  export: 13 April 2018, 20:41 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180416T235446Z
+DTSTAMP:20180418T000650Z
 DTSTART:20180416T000000Z
 DTEND:20180416T001500Z
 TRANSP:TRANSPARENT
@@ -32,17 +32,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:10.1787/0c62cc26-en
 SUMMARY:Investment as a transmission mechanism f
- rom weak demand to weak supply and post-
- crisis productivity slowdown
+ rom weak demand to weak supply and the p
+ ost-crisis productivity slowdown
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/0c62cc26-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
- xport: 11 April 2018, 20:37 Paris time (
- GMT+00:00)\nFreepreview export: 11 April
-  2018, 21:30 Paris time (GMT+00:00)\nFTI
+ xport: 17 April 2018, 20:44 Paris time (
+ GMT+00:00)\nFreepreview export: 17 April
+  2018, 21:41 Paris time (GMT+00:00)\nFTI
   loaded: ✓.
-DTSTAMP:20180416T235446Z
+DTSTAMP:20180418T000650Z
 DTSTART:20180416T000000Z
 DTEND:20180416T001500Z
 TRANSP:TRANSPARENT
@@ -53,7 +53,8 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Investment as a transmission m
  echanism from weak demand to weak supply
-  and post-crisis productivity slowdown
+  and the post-crisis productivity slowdo
+ wn
 END:VALARM
 END:VEVENT
 
@@ -63,12 +64,13 @@ SUMMARY:OECD Economic Surveys: Costa Rica 2018
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-cri-2018-en\nPublication 
- type: Economic survey\nReleased as: PDF,
-  Paperback, ePub, HTML.\n\niLibrary expo
- rt: 13 April 2018, 20:00 Paris time (GMT
- +00:00)\nFreepreview export: never\nFTI 
- loaded: ✓.
-DTSTAMP:20180416T235446Z
+ type: Economic survey\nReleased as: ePub
+ , HTML, PDF, Paperback.\n\niLibrary expo
+ rt: 16 April 2018, 20:39 Paris time (GMT
+ +00:00)\nFreepreview export: 16 April 20
+ 18, 21:29 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓.
+DTSTAMP:20180418T000650Z
 DTSTART:20180417T150000Z
 DTEND:20180417T151500Z
 TRANSP:TRANSPARENT
@@ -94,7 +96,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  e (GMT+00:00)\nFreepreview export: 13 Ap
  ril 2018, 20:41 Paris time (GMT+00:00)\n
  FTI loaded: ✓.
-DTSTAMP:20180416T235446Z
+DTSTAMP:20180418T000650Z
 DTSTART:20180418T000000Z
 DTEND:20180418T001500Z
 TRANSP:TRANSPARENT
@@ -116,11 +118,11 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  , SMEs and Local Development\nLanguage: 
  English\nDOI: https://doi.org/10.1787/97
  89264085350-en\nPublication type: Stand-
- alone monograph\nReleased as: Paperback,
-  PDF.\n\niLibrary export: 22 March 2018,
-  23:35 Paris time (GMT+00:00)\nFreeprevi
+ alone monograph\nReleased as: PDF, Paper
+ back.\n\niLibrary export: 16 April 2018,
+  20:39 Paris time (GMT+00:00)\nFreeprevi
  ew export: never\nFTI loaded: ✓.
-DTSTAMP:20180416T235446Z
+DTSTAMP:20180418T000650Z
 DTSTART:20180418T093000Z
 DTEND:20180418T094500Z
 TRANSP:TRANSPARENT
@@ -135,16 +137,41 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/9789264298774-en
+SUMMARY:OECD Economic Survey of Costa Rica: Rese
+ arch Findings on Productivity
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/9789264298774-en\nPublication type: S
+ tand-alone monograph\nReleased as: Paper
+ back, PDF.\n\niLibrary export: 16 April 
+ 2018, 20:39 Paris time (GMT+00:00)\nFree
+ preview export: never\nFTI loaded: ✓.
+DTSTAMP:20180418T000650Z
+DTSTART:20180418T163000Z
+DTEND:20180418T164500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Economic Survey of Costa 
+ Rica: Research Findings on Productivity
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264298750-en
 SUMMARY:Education for a Bright Future in Greece
 DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9789264298750-en\nPub
- lication type: Book\nReleased as: PDF, P
- aperback.\n\niLibrary export: 13 April 2
- 018, 20:00 Paris time (GMT+00:00)\nFreep
- review export: never\nFTI loaded: no.
-DTSTAMP:20180416T235446Z
+ lication type: Book\nReleased as: Paperb
+ ack, PDF.\n\niLibrary export: 16 April 2
+ 018, 20:39 Paris time (GMT+00:00)\nFreep
+ review export: never\nFTI loaded: ✓.
+DTSTAMP:20180418T000650Z
 DTSTART:20180419T080000Z
 DTEND:20180419T081500Z
 TRANSP:TRANSPARENT
@@ -155,6 +182,31 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Education for a Bright Future 
  in Greece
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/782fc82d-en
+SUMMARY:How is depression related to education?
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: English\nDOI: https
+ ://doi.org/10.1787/782fc82d-en\nPublicat
+ ion type: Working paper\nReleased as: PD
+ F.\n\niLibrary export: 17 April 2018, 20
+ :44 Paris time (GMT+00:00)\nFreepreview 
+ export: 17 April 2018, 21:41 Paris time 
+ (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180418T000650Z
+DTSTART:20180420T000000Z
+DTEND:20180420T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How is depression related to e
+ ducation?
 END:VALARM
 END:VEVENT
 
@@ -170,7 +222,7 @@ DESCRIPTION:Directorate: Directorate for Employment,
  e (GMT+00:00)\nFreepreview export: 21 Fe
  bruary 2018, 22:48 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180416T235446Z
+DTSTAMP:20180418T000650Z
 DTSTART:20180426T073000Z
 DTEND:20180426T074500Z
 TRANSP:TRANSPARENT
@@ -189,12 +241,12 @@ SUMMARY:Les impôts sur les salaires 2018
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-fr\
- nPublication type: Book\nReleased as: PD
- F, ePub, HTML, Paperback.\n\niLibrary ex
+ nPublication type: Book\nReleased as: HT
+ ML, Paperback, PDF, ePub.\n\niLibrary ex
  port: 3 April 2018, 21:38 Paris time (GM
  T+00:00)\nFreepreview export: never\nFTI
   loaded: no.
-DTSTAMP:20180416T235446Z
+DTSTAMP:20180418T000650Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -214,12 +266,12 @@ SUMMARY:Taxing Wages 2018
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-en
- \nPublication type: Book\nReleased as: e
- Pub, Paperback, HTML, PDF.\n\niLibrary e
+ \nPublication type: Book\nReleased as: H
+ TML, PDF, ePub, Paperback.\n\niLibrary e
  xport: 3 April 2018, 21:38 Paris time (G
  MT+00:00)\nFreepreview export: never\nFT
  I loaded: no.
-DTSTAMP:20180416T235446Z
+DTSTAMP:20180418T000650Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -243,7 +295,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  iLibrary export: 6 March 2018, 22:07 Par
  is time (GMT+00:00)\nFreepreview export:
   never\nFTI loaded: no.
-DTSTAMP:20180416T235446Z
+DTSTAMP:20180418T000650Z
 DTSTART:20180430T090000Z
 DTEND:20180430T091500Z
 TRANSP:TRANSPARENT
@@ -265,10 +317,10 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-grc-2018-en\nPublication 
  type: Economic survey\nReleased as: PDF.
- \n\niLibrary export: 11 April 2018, 20:3
- 7 Paris time (GMT+00:00)\nFreepreview ex
+ \n\niLibrary export: 16 April 2018, 20:3
+ 9 Paris time (GMT+00:00)\nFreepreview ex
  port: never\nFTI loaded: no.
-DTSTAMP:20180416T235446Z
+DTSTAMP:20180418T000650Z
 DTSTART:20180430T090000Z
 DTEND:20180430T091500Z
 TRANSP:TRANSPARENT
