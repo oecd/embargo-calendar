@@ -1,69 +1,6 @@
-# OECD publication embargoes (10 embargoes)
+# OECD publication embargoes (8 embargoes)
 
-*Data generated on Wednesday 18 April 2018 at 0:06*
-
-------
-
-## [State-Owned Enterprises and the Low-Carbon Transition](https://doi.org/10.1787/06ff826b-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 18 April 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 13 April 2018 at 22:00
-- [x] Exported to Keepeek Friday 13 April 2018 at 22:41
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Working Together for Local Integration of Migrants and Refugees](https://doi.org/10.1787/9789264085350-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 18 April 2018 at 11:30 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 April 2018 at 22:39
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
-
-------
-
-## [OECD Economic Survey of Costa Rica: Research Findings on Productivity](https://doi.org/10.1787/9789264298774-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 18 April 2018 at 18:30 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 April 2018 at 22:39
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
+*Data generated on Wednesday 18 April 2018 at 22:35*
 
 ------
 
@@ -75,8 +12,8 @@ Thursday 19 April 2018 at 10:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 April 2018 at 22:39
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 17 April 2018 at 22:44
+- [x] Exported to Keepeek Tuesday 17 April 2018 at 23:41
 
 ### Additional Information
 
@@ -105,6 +42,27 @@ Friday 20 April 2018 at 2:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Competitiveness in South East Europe - A Policy Outlook 2018](https://doi.org/10.1787/9789264298576-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 24 April 2018 at 10:30 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 9 April 2018 at 22:41
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Unable to find a matching Taxonomy description for directorate/grs, General Secretariat*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------
