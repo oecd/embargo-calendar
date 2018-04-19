@@ -4,32 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/eco_surveys-cri-2018-en
-SUMMARY:OECD Economic Surveys: Costa Rica 2018
-DESCRIPTION:Directorate: Economics Department\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/eco_surveys-cri-2018-en\nPublication 
- type: Economic survey\nReleased as: ePub
- , HTML, PDF, Paperback.\n\niLibrary expo
- rt: 16 April 2018, 20:39 Paris time (GMT
- +00:00)\nFreepreview export: 16 April 20
- 18, 21:29 Paris time (GMT+00:00)\nFTI lo
- aded: ✓.
-DTSTAMP:20180418T223512Z
-DTSTART:20180417T150000Z
-DTEND:20180417T151500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Economic Surveys: Costa R
- ica 2018
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/06ff826b-en
 SUMMARY:State-Owned Enterprises and the Low-Carb
  on Transition
@@ -41,7 +15,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  e (GMT+00:00)\nFreepreview export: 18 Ap
  ril 2018, 20:25 Paris time (GMT+00:00)\n
  FTI loaded: ✓, ✓.
-DTSTAMP:20180418T223512Z
+DTSTAMP:20180419T225200Z
 DTSTART:20180418T000000Z
 DTEND:20180418T001500Z
 TRANSP:TRANSPARENT
@@ -68,7 +42,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
   20:44 Paris time (GMT+00:00)\nFreeprevi
  ew export: 17 April 2018, 21:41 Paris ti
  me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180418T223512Z
+DTSTAMP:20180419T225200Z
 DTSTART:20180418T093000Z
 DTEND:20180418T094500Z
 TRANSP:TRANSPARENT
@@ -90,11 +64,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/9789264298774-en\nPublication type: S
  tand-alone monograph\nReleased as: Paper
- back, PDF.\n\niLibrary export: 17 April 
- 2018, 20:44 Paris time (GMT+00:00)\nFree
- preview export: 17 April 2018, 21:41 Par
+ back, PDF.\n\niLibrary export: 19 April 
+ 2018, 13:31 Paris time (GMT+00:00)\nFree
+ preview export: 18 April 2018, 20:25 Par
  is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180418T223512Z
+DTSTAMP:20180419T225200Z
 DTSTART:20180418T163000Z
 DTEND:20180418T164500Z
 TRANSP:TRANSPARENT
@@ -119,7 +93,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  018, 20:44 Paris time (GMT+00:00)\nFreep
  review export: 17 April 2018, 21:41 Pari
  s time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180418T223512Z
+DTSTAMP:20180419T225200Z
 DTSTART:20180419T080000Z
 DTEND:20180419T081500Z
 TRANSP:TRANSPARENT
@@ -144,7 +118,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  :44 Paris time (GMT+00:00)\nFreepreview 
  export: 17 April 2018, 21:41 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180418T223512Z
+DTSTAMP:20180419T225200Z
 DTSTART:20180420T000000Z
 DTEND:20180420T001500Z
 TRANSP:TRANSPARENT
@@ -162,16 +136,16 @@ BEGIN:VEVENT
 UID:10.1787/9789264298576-en
 SUMMARY:Competitiveness in South East Europe - A
   Policy Outlook 2018
-DESCRIPTION:Directorate: Unable to find a matching T
- axonomy description for directorate/grs,
-  General Secretariat\nLanguage: English\
+DESCRIPTION:Directorate: General Secretariat, Unable
+  to find a matching Taxonomy description
+  for directorate/grs\nLanguage: English\
  nDOI: https://doi.org/10.1787/9789264298
  576-en\nPublication type: Book\nReleased
-  as: PDF, Paperback.\n\niLibrary export:
-  9 April 2018, 20:41 Paris time (GMT+00:
- 00)\nFreepreview export: never\nFTI load
- ed: no.
-DTSTAMP:20180418T223512Z
+  as: Paperback, PDF.\n\niLibrary export:
+  19 April 2018, 13:31 Paris time (GMT+00
+ :00)\nFreepreview export: never\nFTI loa
+ ded: no.
+DTSTAMP:20180419T225200Z
 DTSTART:20180424T083000Z
 DTEND:20180424T084500Z
 TRANSP:TRANSPARENT
@@ -197,7 +171,7 @@ DESCRIPTION:Directorate: Directorate for Employment,
  e (GMT+00:00)\nFreepreview export: 21 Fe
  bruary 2018, 22:48 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180418T223512Z
+DTSTAMP:20180419T225200Z
 DTSTART:20180426T073000Z
 DTEND:20180426T074500Z
 TRANSP:TRANSPARENT
@@ -216,12 +190,12 @@ SUMMARY:Les impôts sur les salaires 2018
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-fr\
- nPublication type: Book\nReleased as: PD
- F, ePub, HTML, Paperback.\n\niLibrary ex
+ nPublication type: Book\nReleased as: HT
+ ML, Paperback, PDF, ePub.\n\niLibrary ex
  port: 3 April 2018, 21:38 Paris time (GM
  T+00:00)\nFreepreview export: never\nFTI
   loaded: no.
-DTSTAMP:20180418T223512Z
+DTSTAMP:20180419T225200Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -241,12 +215,12 @@ SUMMARY:Taxing Wages 2018
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-en
- \nPublication type: Book\nReleased as: e
- Pub, Paperback, HTML, PDF.\n\niLibrary e
+ \nPublication type: Book\nReleased as: H
+ TML, PDF, ePub, Paperback.\n\niLibrary e
  xport: 3 April 2018, 21:38 Paris time (G
  MT+00:00)\nFreepreview export: never\nFT
  I loaded: no.
-DTSTAMP:20180418T223512Z
+DTSTAMP:20180419T225200Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -270,7 +244,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  iLibrary export: 6 March 2018, 22:07 Par
  is time (GMT+00:00)\nFreepreview export:
   never\nFTI loaded: no.
-DTSTAMP:20180418T223512Z
+DTSTAMP:20180419T225200Z
 DTSTART:20180430T090000Z
 DTEND:20180430T091500Z
 TRANSP:TRANSPARENT
@@ -295,7 +269,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  \n\niLibrary export: 16 April 2018, 20:3
  9 Paris time (GMT+00:00)\nFreepreview ex
  port: never\nFTI loaded: no.
-DTSTAMP:20180418T223512Z
+DTSTAMP:20180419T225200Z
 DTSTART:20180430T090000Z
 DTEND:20180430T091500Z
 TRANSP:TRANSPARENT

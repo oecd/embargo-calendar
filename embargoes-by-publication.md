@@ -1,27 +1,6 @@
-# OECD publication embargoes (8 embargoes)
+# OECD publication embargoes (7 embargoes)
 
-*Data generated on Wednesday 18 April 2018 at 22:35*
-
-------
-
-## [Education for a Bright Future in Greece](https://doi.org/10.1787/9789264298750-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 19 April 2018 at 10:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 17 April 2018 at 22:44
-- [x] Exported to Keepeek Tuesday 17 April 2018 at 23:41
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Thursday 19 April 2018 at 22:51*
 
 ------
 
@@ -54,12 +33,12 @@ Tuesday 24 April 2018 at 10:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 9 April 2018 at 22:41
+- [x] Exported to iLibrary Thursday 19 April 2018 at 15:31
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Unable to find a matching Taxonomy description for directorate/grs, General Secretariat*
+* Directorate: *General Secretariat, Unable to find a matching Taxonomy description for directorate/grs*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*

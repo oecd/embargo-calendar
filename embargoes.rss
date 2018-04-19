@@ -8,26 +8,11 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Wed, 18 Apr 2018 22:35:14 GMT</pubDate>
+      <pubDate>Thu, 19 Apr 2018 22:52:01 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
                  type="application/rss+xml"/>
-      <item>
-         <guid isPermaLink="false">10.1787/eco_surveys-cri-2018-en</guid>
-         <pubDate>Tue, 17 Apr 2018 15:00:00 GMT</pubDate>
-         <title>OECD Economic Surveys: Costa Rica 2018</title>
-         <link>https://doi.org/10.1787/eco_surveys-cri-2018-en</link>
-         <description>OECD Economic Surveys: Costa Rica 2018 by Economics Department has an embargo on Tuesday, 17 April 2018, 17:00 Paris time (GMT+02:00).</description>
-         <oe:embargoTime>2018-04-17T15:00:00Z</oe:embargoTime>
-         <oe:launchTime/>
-         <oe:directorate>Economics Department</oe:directorate>
-         <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Monday, 16 April 2018, 20:39 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Monday, 16 April 2018, 21:29 Paris time (GMT+00:00)</oe:freePreviewExport>
-         <oe:catalogueType>Economic survey</oe:catalogueType>
-         <oe:availableMedia>ePub, HTML, PDF, Paperback</oe:availableMedia>
-      </item>
       <item>
          <guid isPermaLink="false">10.1787/06ff826b-en</guid>
          <pubDate>Wed, 18 Apr 2018 00:00:00 GMT</pubDate>
@@ -68,8 +53,8 @@
          <oe:launchTime/>
          <oe:directorate>Economics Department</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Tuesday, 17 April 2018, 20:44 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Tuesday, 17 April 2018, 21:41 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:iLibraryExport>Thursday, 19 April 2018, 13:31 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Wednesday, 18 April 2018, 20:25 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
          <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
@@ -108,15 +93,15 @@
          <pubDate>Tue, 24 Apr 2018 08:30:00 GMT</pubDate>
          <title>Competitiveness in South East Europe - A Policy Outlook 2018</title>
          <link>https://doi.org/10.1787/9789264298576-en</link>
-         <description>Competitiveness in South East Europe - A Policy Outlook 2018 by Unable to find a matching Taxonomy description for directorate/grs, General Secretariat has an embargo on Tuesday, 24 April 2018, 10:30 Paris time (GMT+02:00).</description>
+         <description>Competitiveness in South East Europe - A Policy Outlook 2018 by General Secretariat, Unable to find a matching Taxonomy description for directorate/grs has an embargo on Tuesday, 24 April 2018, 10:30 Paris time (GMT+02:00).</description>
          <oe:embargoTime>2018-04-24T08:30:00Z</oe:embargoTime>
          <oe:launchTime/>
-         <oe:directorate>Unable to find a matching Taxonomy description for directorate/grs, General Secretariat</oe:directorate>
+         <oe:directorate>General Secretariat, Unable to find a matching Taxonomy description for directorate/grs</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Monday, 9 April 2018, 20:41 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Thursday, 19 April 2018, 13:31 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264282346-en</guid>
@@ -146,7 +131,7 @@
          <oe:iLibraryExport>Tuesday, 3 April 2018, 21:38 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, ePub, HTML, Paperback</oe:availableMedia>
+         <oe:availableMedia>HTML, Paperback, PDF, ePub</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/tax_wages-2018-en</guid>
@@ -161,7 +146,7 @@
          <oe:iLibraryExport>Tuesday, 3 April 2018, 21:38 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>ePub, Paperback, HTML, PDF</oe:availableMedia>
+         <oe:availableMedia>HTML, PDF, ePub, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264284319-en</guid>
