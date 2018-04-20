@@ -4,96 +4,18 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/06ff826b-en
-SUMMARY:State-Owned Enterprises and the Low-Carb
- on Transition
-DESCRIPTION:Directorate: Environment Directorate\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/06ff826b-en\nPublication type: Wor
- king paper\nReleased as: PDF.\n\niLibrar
- y export: 13 April 2018, 20:00 Paris tim
- e (GMT+00:00)\nFreepreview export: 18 Ap
- ril 2018, 20:25 Paris time (GMT+00:00)\n
- FTI loaded: ✓, ✓.
-DTSTAMP:20180419T225200Z
-DTSTART:20180418T000000Z
-DTEND:20180418T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: State-Owned Enterprises and th
- e Low-Carbon Transition
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264085350-en
-SUMMARY:Working Together for Local Integration o
- f Migrants and Refugees
-DESCRIPTION:Directorate: Centre for Entrepreneurship
- , SMEs and Local Development\nLanguage: 
- English\nDOI: https://doi.org/10.1787/97
- 89264085350-en\nPublication type: Stand-
- alone monograph\nReleased as: Paperback,
-  PDF.\n\niLibrary export: 17 April 2018,
-  20:44 Paris time (GMT+00:00)\nFreeprevi
- ew export: 17 April 2018, 21:41 Paris ti
- me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180419T225200Z
-DTSTART:20180418T093000Z
-DTEND:20180418T094500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Working Together for Local Int
- egration of Migrants and Refugees
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264298774-en
-SUMMARY:OECD Economic Survey of Costa Rica: Rese
- arch Findings on Productivity
-DESCRIPTION:Directorate: Economics Department\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/9789264298774-en\nPublication type: S
- tand-alone monograph\nReleased as: Paper
- back, PDF.\n\niLibrary export: 19 April 
- 2018, 13:31 Paris time (GMT+00:00)\nFree
- preview export: 18 April 2018, 20:25 Par
- is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180419T225200Z
-DTSTART:20180418T163000Z
-DTEND:20180418T164500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Economic Survey of Costa 
- Rica: Research Findings on Productivity
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264298750-en
 SUMMARY:Education for a Bright Future in Greece
 DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9789264298750-en\nPub
- lication type: Book\nReleased as: PDF, P
- aperback.\n\niLibrary export: 17 April 2
- 018, 20:44 Paris time (GMT+00:00)\nFreep
- review export: 17 April 2018, 21:41 Pari
- s time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180419T225200Z
+ lication type: Book\nReleased as: PDF, e
+ Pub, Paperback, HTML.\n\niLibrary export
+ : 17 April 2018, 20:44 Paris time (GMT+0
+ 0:00)\nFreepreview export: 17 April 2018
+ , 21:41 Paris time (GMT+00:00)\nFTI load
+ ed: ✓.
+DTSTAMP:20180420T234016Z
 DTSTART:20180419T080000Z
 DTEND:20180419T081500Z
 TRANSP:TRANSPARENT
@@ -118,7 +40,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  :44 Paris time (GMT+00:00)\nFreepreview 
  export: 17 April 2018, 21:41 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180419T225200Z
+DTSTAMP:20180420T234016Z
 DTSTART:20180420T000000Z
 DTEND:20180420T001500Z
 TRANSP:TRANSPARENT
@@ -136,16 +58,16 @@ BEGIN:VEVENT
 UID:10.1787/9789264298576-en
 SUMMARY:Competitiveness in South East Europe - A
   Policy Outlook 2018
-DESCRIPTION:Directorate: General Secretariat, Unable
-  to find a matching Taxonomy description
-  for directorate/grs\nLanguage: English\
+DESCRIPTION:Directorate: Unable to find a matching T
+ axonomy description for directorate/grs,
+  General Secretariat\nLanguage: English\
  nDOI: https://doi.org/10.1787/9789264298
  576-en\nPublication type: Book\nReleased
-  as: Paperback, PDF.\n\niLibrary export:
-  19 April 2018, 13:31 Paris time (GMT+00
+  as: PDF, Paperback.\n\niLibrary export:
+  19 April 2018, 20:06 Paris time (GMT+00
  :00)\nFreepreview export: never\nFTI loa
  ded: no.
-DTSTAMP:20180419T225200Z
+DTSTAMP:20180420T234016Z
 DTSTART:20180424T083000Z
 DTEND:20180424T084500Z
 TRANSP:TRANSPARENT
@@ -171,7 +93,7 @@ DESCRIPTION:Directorate: Directorate for Employment,
  e (GMT+00:00)\nFreepreview export: 21 Fe
  bruary 2018, 22:48 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180419T225200Z
+DTSTAMP:20180420T234016Z
 DTSTART:20180426T073000Z
 DTEND:20180426T074500Z
 TRANSP:TRANSPARENT
@@ -185,6 +107,1245 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table84-en
+SUMMARY:Annual gross wage and net income, marrie
+ d couple, 2016 - In US dollars using PPP
+ , by family-type and wage level
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble84-en\nPublication type: Table\nRelea
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Annual gross wage and net inco
+ me, married couple, 2016 - In US dollars
+  using PPP, by family-type and wage leve
+ l
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table36-en
+SUMMARY:Annual gross wage and net income, marrie
+ d couple, 2017 - In US dollars using PPP
+ , by family-type and wage level
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble36-en\nPublication type: Table\nRelea
+ sed as: Spreadsheet, HTML, PDF.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Annual gross wage and net inco
+ me, married couple, 2017 - In US dollars
+  using PPP, by family-type and wage leve
+ l
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table83-en
+SUMMARY:Annual gross wage and net income, single
+  person, 2016 - In US dollars using PPP,
+  by family-type and wage level
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble83-en\nPublication type: Table\nRelea
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Annual gross wage and net inco
+ me, single person, 2016 - In US dollars 
+ using PPP, by family-type and wage level
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table35-en
+SUMMARY:Annual gross wage and net income, single
+  person, 2017 - In US dollars using PPP,
+  by family-type and wage level
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble35-en\nPublication type: Table\nRelea
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Annual gross wage and net inco
+ me, single person, 2017 - In US dollars 
+ using PPP, by family-type and wage level
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table86-en
+SUMMARY:Annual labour costs and net income, marr
+ ied couple, 2016 - In US dollars using P
+ PP, by family-type and wage level
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble86-en\nPublication type: Table\nRelea
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Annual labour costs and net in
+ come, married couple, 2016 - In US dolla
+ rs using PPP, by family-type and wage le
+ vel
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table38-en
+SUMMARY:Annual labour costs and net income, marr
+ ied couple, 2017 - In US dollars using P
+ PP, by family-type and wage level
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble38-en\nPublication type: Table\nRelea
+ sed as: Spreadsheet, HTML, PDF.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Annual labour costs and net in
+ come, married couple, 2017 - In US dolla
+ rs using PPP, by family-type and wage le
+ vel
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table85-en
+SUMMARY:Annual labour costs and net income, sing
+ le person, 2016 - In US dollars using PP
+ P, by family-type and wage level
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble85-en\nPublication type: Table\nRelea
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Annual labour costs and net in
+ come, single person, 2016 - In US dollar
+ s using PPP, by family-type and wage lev
+ el
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table37-en
+SUMMARY:Annual labour costs and net income, sing
+ le person, 2017 - In US dollars using PP
+ P, by family-type and wage level
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble37-en\nPublication type: Table\nRelea
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Annual labour costs and net in
+ come, single person, 2017 - In US dollar
+ s using PPP, by family-type and wage lev
+ el
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table78-en
+SUMMARY:Employee contributions, 2016 - As % of g
+ ross wage earnings, by family-type and w
+ age level
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble78-en\nPublication type: Table\nRelea
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Employee contributions, 2016 -
+  As % of gross wage earnings, by family-
+ type and wage level
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table27-en
+SUMMARY:Employee contributions, 2017 - As % of g
+ ross wage earnings, by family-type and w
+ age level
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble27-en\nPublication type: Table\nRelea
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Employee contributions, 2017 -
+  As % of gross wage earnings, by family-
+ type and wage level
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table74-en
+SUMMARY:Income tax plus employee and employer co
+ ntributions less cash benefits, 2016 - A
+ s % of labour costs, by family-type and 
+ wage level
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble74-en\nPublication type: Table\nRelea
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax plus employee and e
+ mployer contributions less cash benefits
+ , 2016 - As % of labour costs, by family
+ -type and wage level
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table19-en
+SUMMARY:Income tax plus employee and employer co
+ ntributions less cash benefits, 2017 - A
+ s % of labour costs, by family-type and 
+ wage level
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble19-en\nPublication type: Table\nRelea
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax plus employee and e
+ mployer contributions less cash benefits
+ , 2017 - As % of labour costs, by family
+ -type and wage level
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table108-en
+SUMMARY:Income tax plus employee and employer co
+ ntributions less cash benefits, married 
+ couple at 100% and 33% of average earnin
+ gs - Tax burden as a % of labour costs, 
+ two-earner married couple without childr
+ en
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble108-en\nPublication type: Table\nRele
+ ased as: HTML, PDF, Spreadsheet.\n\niLib
+ rary export: never\nFreepreview export: 
+ never\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax plus employee and e
+ mployer contributions less cash benefits
+ , married couple at 100% and 33% of aver
+ age earnings - Tax burden as a % of labo
+ ur costs, two-earner married couple with
+ out children
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table105-en
+SUMMARY:Income tax plus employee and employer co
+ ntributions less cash benefits, married 
+ couple at 100% and 67% of average earnin
+ gs - Tax burden as a % of labour costs, 
+ two-earner married couple with two child
+ ren
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble105-en\nPublication type: Table\nRele
+ ased as: HTML, PDF, Spreadsheet.\n\niLib
+ rary export: never\nFreepreview export: 
+ never\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax plus employee and e
+ mployer contributions less cash benefits
+ , married couple at 100% and 67% of aver
+ age earnings - Tax burden as a % of labo
+ ur costs, two-earner married couple with
+  two children
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table99-en
+SUMMARY:Income tax plus employee and employer co
+ ntributions less cash benefits, married 
+ couple at 100% of average earnings - Tax
+  burden as a % of labour costs, one-earn
+ er married couple with two children
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble99-en\nPublication type: Table\nRelea
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax plus employee and e
+ mployer contributions less cash benefits
+ , married couple at 100% of average earn
+ ings - Tax burden as a % of labour costs
+ , one-earner married couple with two chi
+ ldren
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table102-en
+SUMMARY:Income tax plus employee and employer co
+ ntributions less cash benefits, married 
+ couple with two children, at 100% and 33
+ % of average earnings - Tax burden as a 
+ % of labour costs, two-earner married co
+ uple with two children
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble102-en\nPublication type: Table\nRele
+ ased as: HTML, PDF, Spreadsheet.\n\niLib
+ rary export: never\nFreepreview export: 
+ never\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax plus employee and e
+ mployer contributions less cash benefits
+ , married couple with two children, at 1
+ 00% and 33% of average earnings - Tax bu
+ rden as a % of labour costs, two-earner 
+ married couple with two children
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table96-en
+SUMMARY:Income tax plus employee and employer co
+ ntributions less cash benefits, single p
+ arent at 67% of average earnings - Tax b
+ urden as a % of labour costs, single par
+ ent with two children
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble96-en\nPublication type: Table\nRelea
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax plus employee and e
+ mployer contributions less cash benefits
+ , single parent at 67% of average earnin
+ gs - Tax burden as a % of labour costs, 
+ single parent with two children
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table90-en
+SUMMARY:Income tax plus employee and employer co
+ ntributions less cash benefits, single p
+ ersons at 100% of average earnings - Tax
+  burden as a % of labour costs, single p
+ ersons without children
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble90-en\nPublication type: Table\nRelea
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax plus employee and e
+ mployer contributions less cash benefits
+ , single persons at 100% of average earn
+ ings - Tax burden as a % of labour costs
+ , single persons without children
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table93-en
+SUMMARY:Income tax plus employee and employer co
+ ntributions less cash benefits, single p
+ ersons at 167% of average earnings - Tax
+  burden as a % of labour costs, single p
+ ersons without children
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble93-en\nPublication type: Table\nRelea
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax plus employee and e
+ mployer contributions less cash benefits
+ , single persons at 167% of average earn
+ ings - Tax burden as a % of labour costs
+ , single persons without children
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table87-en
+SUMMARY:Income tax plus employee and employer co
+ ntributions less cash benefits, single p
+ ersons at 67% of average earnings - Tax 
+ burden as a % of labour costs, single pe
+ rsons without children
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble87-en\nPublication type: Table\nRelea
+ sed as: Spreadsheet, HTML, PDF.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax plus employee and e
+ mployer contributions less cash benefits
+ , single persons at 67% of average earni
+ ngs - Tax burden as a % of labour costs,
+  single persons without children
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table76-en
+SUMMARY:Income tax plus employee contributions l
+ ess cash benefits, 2016 - As % of gross 
+ wage earnings, by family-type and wage l
+ evel
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble76-en\nPublication type: Table\nRelea
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax plus employee contr
+ ibutions less cash benefits, 2016 - As %
+  of gross wage earnings, by family-type 
+ and wage level
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table23-en
+SUMMARY:Income tax plus employee contributions l
+ ess cash benefits, 2017 - As % of gross 
+ wage earnings, by family-type and wage l
+ evel
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble23-en\nPublication type: Table\nRelea
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax plus employee contr
+ ibutions less cash benefits, 2017 - As %
+  of gross wage earnings, by family-type 
+ and wage level
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table110-en
+SUMMARY:Income tax plus employee contributions l
+ ess cash benefits, married couple at 100
+ % and 33% of average earnings - Tax burd
+ en as a % of gross wage earnings, two-ea
+ rner married couple without children
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble110-en\nPublication type: Table\nRele
+ ased as: HTML, PDF, Spreadsheet.\n\niLib
+ rary export: never\nFreepreview export: 
+ never\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax plus employee contr
+ ibutions less cash benefits, married cou
+ ple at 100% and 33% of average earnings 
+ - Tax burden as a % of gross wage earnin
+ gs, two-earner married couple without ch
+ ildren
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table107-en
+SUMMARY:Income tax plus employee contributions l
+ ess cash benefits, married couple at 100
+ % and 67% of average earnings - Tax burd
+ en as a % of gross wage earnings, two-ea
+ rner married couple with two children
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble107-en\nPublication type: Table\nRele
+ ased as: HTML, PDF, Spreadsheet.\n\niLib
+ rary export: never\nFreepreview export: 
+ never\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax plus employee contr
+ ibutions less cash benefits, married cou
+ ple at 100% and 67% of average earnings 
+ - Tax burden as a % of gross wage earnin
+ gs, two-earner married couple with two c
+ hildren
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table101-en
+SUMMARY:Income tax plus employee contributions l
+ ess cash benefits, married couple at 100
+ % of average earnings - Tax burden as a 
+ % of gross wage earnings, one-earner mar
+ ried couple with two children
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble101-en\nPublication type: Table\nRele
+ ased as: HTML, PDF, Spreadsheet.\n\niLib
+ rary export: never\nFreepreview export: 
+ never\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax plus employee contr
+ ibutions less cash benefits, married cou
+ ple at 100% of average earnings - Tax bu
+ rden as a % of gross wage earnings, one-
+ earner married couple with two children
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table104-en
+SUMMARY:Income tax plus employee contributions l
+ ess cash benefits, married couple with t
+ wo children, at 100% and 33% of average 
+ earnings - Tax burden as a % of gross wa
+ ge earnings, two-earner married couple w
+ ith two children
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble104-en\nPublication type: Table\nRele
+ ased as: HTML, PDF, Spreadsheet.\n\niLib
+ rary export: never\nFreepreview export: 
+ never\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax plus employee contr
+ ibutions less cash benefits, married cou
+ ple with two children, at 100% and 33% o
+ f average earnings - Tax burden as a % o
+ f gross wage earnings, two-earner marrie
+ d couple with two children
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table98-en
+SUMMARY:Income tax plus employee contributions l
+ ess cash benefits, single parent at 67% 
+ of average earnings - Tax burden as a % 
+ of gross wage earnings, single parent wi
+ th two children
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble98-en\nPublication type: Table\nRelea
+ sed as: Spreadsheet, HTML, PDF.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax plus employee contr
+ ibutions less cash benefits, single pare
+ nt at 67% of average earnings - Tax burd
+ en as a % of gross wage earnings, single
+  parent with two children
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table92-en
+SUMMARY:Income tax plus employee contributions l
+ ess cash benefits, single persons at 100
+ % of average earnings - Tax burden as a 
+ % of gross wage earnings, single persons
+  without children
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble92-en\nPublication type: Table\nRelea
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax plus employee contr
+ ibutions less cash benefits, single pers
+ ons at 100% of average earnings - Tax bu
+ rden as a % of gross wage earnings, sing
+ le persons without children
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table95-en
+SUMMARY:Income tax plus employee contributions l
+ ess cash benefits, single persons at 167
+ % of average earnings - Tax burden as a 
+ % of gross wage earnings, single persons
+  without children
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble95-en\nPublication type: Table\nRelea
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax plus employee contr
+ ibutions less cash benefits, single pers
+ ons at 167% of average earnings - Tax bu
+ rden as a % of gross wage earnings, sing
+ le persons without children
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table89-en
+SUMMARY:Income tax plus employee contributions l
+ ess cash benefits, single persons at 67%
+  of average earnings - Tax burden as a %
+  of gross wage earnings, single persons 
+ without children
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble89-en\nPublication type: Table\nRelea
+ sed as: Spreadsheet, HTML, PDF.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax plus employee contr
+ ibutions less cash benefits, single pers
+ ons at 67% of average earnings - Tax bur
+ den as a % of gross wage earnings, singl
+ e persons without children
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table75-en
+SUMMARY:Income tax plus employee contributions, 
+ 2016 - As % of gross wage earnings, by f
+ amily-type and wage level
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble75-en\nPublication type: Table\nRelea
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax plus employee contr
+ ibutions, 2016 - As % of gross wage earn
+ ings, by family-type and wage level
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table21-en
+SUMMARY:Income tax plus employee contributions, 
+ 2017 - As % of gross wage earnings, by f
+ amily-type and wage level
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble21-en\nPublication type: Table\nRelea
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax plus employee contr
+ ibutions, 2017 - As % of gross wage earn
+ ings, by family-type and wage level
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table77-en
+SUMMARY:Income tax, 2016 - As % of gross wage ea
+ rnings, by family-type and wage level
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble77-en\nPublication type: Table\nRelea
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax, 2016 - As % of gro
+ ss wage earnings, by family-type and wag
+ e level
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table25-en
+SUMMARY:Income tax, 2017 - As % of gross wage ea
+ rnings, by family-type and wage level
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble25-en\nPublication type: Table\nRelea
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax, 2017 - As % of gro
+ ss wage earnings, by family-type and wag
+ e level
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table109-en
+SUMMARY:Income tax, married couple at 100% and 3
+ 3% of average earnings - Tax burden as a
+  % of gross wage earnings, two-earner ma
+ rried couple without children
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble109-en\nPublication type: Table\nRele
+ ased as: PDF, Spreadsheet, HTML.\n\niLib
+ rary export: never\nFreepreview export: 
+ never\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax, married couple at 
+ 100% and 33% of average earnings - Tax b
+ urden as a % of gross wage earnings, two
+ -earner married couple without children
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table106-en
+SUMMARY:Income tax, married couple at 100% and 6
+ 7% of average earnings - Tax burden as a
+  % of gross wage earnings, two-earner ma
+ rried couple with two children
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble106-en\nPublication type: Table\nRele
+ ased as: HTML, PDF, Spreadsheet.\n\niLib
+ rary export: never\nFreepreview export: 
+ never\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax, married couple at 
+ 100% and 67% of average earnings - Tax b
+ urden as a % of gross wage earnings, two
+ -earner married couple with two children
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table100-en
+SUMMARY:Income tax, married couple at 100% of av
+ erage earnings - Tax burden as a % of gr
+ oss wage earnings, one-earner married co
+ uple with two children
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble100-en\nPublication type: Table\nRele
+ ased as: HTML, PDF, Spreadsheet.\n\niLib
+ rary export: never\nFreepreview export: 
+ never\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax, married couple at 
+ 100% of average earnings - Tax burden as
+  a % of gross wage earnings, one-earner 
+ married couple with two children
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table103-en
+SUMMARY:Income tax, married couple with two chil
+ dren, at 100% and 33% of average earning
+ s - Tax burden as a % of gross wage earn
+ ings, two-earner married couple with two
+  children
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble103-en\nPublication type: Table\nRele
+ ased as: PDF, Spreadsheet, HTML.\n\niLib
+ rary export: never\nFreepreview export: 
+ never\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax, married couple wit
+ h two children, at 100% and 33% of avera
+ ge earnings - Tax burden as a % of gross
+  wage earnings, two-earner married coupl
+ e with two children
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table97-en
+SUMMARY:Income tax, single parent at 67% of aver
+ age earnings - Tax burden as a % of gros
+ s wage earnings, single parent with two 
+ children
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble97-en\nPublication type: Table\nRelea
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax, single parent at 6
+ 7% of average earnings - Tax burden as a
+  % of gross wage earnings, single parent
+  with two children
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table91-en
+SUMMARY:Income tax, single persons at 100% of th
+ e average earnings - Tax burden as a % o
+ f gross wage earnings, single persons wi
+ thout children
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble91-en\nPublication type: Table\nRelea
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax, single persons at 
+ 100% of the average earnings - Tax burde
+ n as a % of gross wage earnings, single 
+ persons without children
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table94-en
+SUMMARY:Income tax, single persons at 167% of av
+ erage earnings - Tax burden as a % of gr
+ oss wage earnings, single persons withou
+ t children
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble94-en\nPublication type: Table\nRelea
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax, single persons at 
+ 167% of average earnings - Tax burden as
+  a % of gross wage earnings, single pers
+ ons without children
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table88-en
+SUMMARY:Income tax, single persons at 67% of ave
+ rage earnings - Tax burden as a % of gro
+ ss wage earnings, single persons without
+  children
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble88-en\nPublication type: Table\nRelea
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income tax, single persons at 
+ 67% of average earnings - Tax burden as 
+ a % of gross wage earnings, single perso
+ ns without children
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/tax_wages-2018-fr
 SUMMARY:Les impôts sur les salaires 2018
 DESCRIPTION:Directorate: Centre for Tax Policy and A
@@ -192,10 +1353,10 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  tps://doi.org/10.1787/tax_wages-2018-fr\
  nPublication type: Book\nReleased as: HT
  ML, Paperback, PDF, ePub.\n\niLibrary ex
- port: 3 April 2018, 21:38 Paris time (GM
- T+00:00)\nFreepreview export: never\nFTI
-  loaded: no.
-DTSTAMP:20180419T225200Z
+ port: 19 April 2018, 20:06 Paris time (G
+ MT+00:00)\nFreepreview export: never\nFT
+ I loaded: no.
+DTSTAMP:20180420T234016Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -210,6 +1371,246 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table79-en
+SUMMARY:Marginal rate of income tax plus employe
+ e and employer contributions less cash b
+ enefits, 2016 - As % of labour costs, by
+  family-type and wage level
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble79-en\nPublication type: Table\nRelea
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Marginal rate of income tax pl
+ us employee and employer contributions l
+ ess cash benefits, 2016 - As % of labour
+  costs, by family-type and wage level
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table29-en
+SUMMARY:Marginal rate of income tax plus employe
+ e and employer contributions less cash b
+ enefits, 2017 - As % of labour costs, by
+  family-type and wage level
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble29-en\nPublication type: Table\nRelea
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Marginal rate of income tax pl
+ us employee and employer contributions l
+ ess cash benefits, 2017 - As % of labour
+  costs, by family-type and wage level
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table80-en
+SUMMARY:Marginal rate of income tax plus employe
+ e contributions less cash benefits, 2016
+  - As % of gross wage earnings, by famil
+ y-type and wage level
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble80-en\nPublication type: Table\nRelea
+ sed as: Spreadsheet, HTML, PDF.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Marginal rate of income tax pl
+ us employee contributions less cash bene
+ fits, 2016 - As % of gross wage earnings
+ , by family-type and wage level
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table31-en
+SUMMARY:Marginal rate of income tax plus employe
+ e contributions less cash benefits, 2017
+  - As % of gross wage earnings, by famil
+ y-type and wage level
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble31-en\nPublication type: Table\nRelea
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Marginal rate of income tax pl
+ us employee contributions less cash bene
+ fits, 2017 - As % of gross wage earnings
+ , by family-type and wage level
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table82-en
+SUMMARY:Percentage increase in net income relati
+ ve to percentage increase in gross labou
+ r cost, 2016 - After an increase of 1 cu
+ rrency unit in gross labour cost, by fam
+ ily-type and wage level
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble82-en\nPublication type: Table\nRelea
+ sed as: Spreadsheet, HTML, PDF.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Percentage increase in net inc
+ ome relative to percentage increase in g
+ ross labour cost, 2016 - After an increa
+ se of 1 currency unit in gross labour co
+ st, by family-type and wage level
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table34-en
+SUMMARY:Percentage increase in net income relati
+ ve to percentage increase in gross labou
+ r cost, 2017 - After an increase of 1 cu
+ rrency unit in gross labour cost, by fam
+ ily-type and wage level
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble34-en\nPublication type: Table\nRelea
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Percentage increase in net inc
+ ome relative to percentage increase in g
+ ross labour cost, 2017 - After an increa
+ se of 1 currency unit in gross labour co
+ st, by family-type and wage level
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table81-en
+SUMMARY:Percentage increase in net income relati
+ ve to percentage increase in gross wages
+ , 2016 - After an increase of 1 currency
+  unit in gross wages, by family-type and
+  wage level
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble81-en\nPublication type: Table\nRelea
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Percentage increase in net inc
+ ome relative to percentage increase in g
+ ross wages, 2016 - After an increase of 
+ 1 currency unit in gross wages, by famil
+ y-type and wage level
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/tax_wages-2018-table33-en
+SUMMARY:Percentage increase in net income relati
+ ve to percentage increase in gross wages
+ , 2017 - After an increase of 1 currency
+  unit in gross wages, by family-type and
+  wage level
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/tax_wages-2018-ta
+ ble33-en\nPublication type: Table\nRelea
+ sed as: HTML, Spreadsheet, PDF.\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nFTI loaded: no.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Percentage increase in net inc
+ ome relative to percentage increase in g
+ ross wages, 2017 - After an increase of 
+ 1 currency unit in gross wages, by famil
+ y-type and wage level
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/tax_wages-2018-en
 SUMMARY:Taxing Wages 2018
 DESCRIPTION:Directorate: Centre for Tax Policy and A
@@ -219,8 +1620,8 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  TML, PDF, ePub, Paperback.\n\niLibrary e
  xport: 3 April 2018, 21:38 Paris time (G
  MT+00:00)\nFreepreview export: never\nFT
- I loaded: no.
-DTSTAMP:20180419T225200Z
+ I loaded: ✓.
+DTSTAMP:20180420T234016Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -230,6 +1631,215 @@ REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Taxing Wages 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/6835fb1f-zh
+SUMMARY:Taxing Wages 2018 (Summary in Chinese), 
+ 2018年工资征税报告
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: Chinese\nDOI: h
+ ttps://doi.org/10.1787/6835fb1f-zh\nPubl
+ ication type: Summary\nReleased as: PDF,
+  HTML, ePub.\n\niLibrary export: 20 Apri
+ l 2018, 20:22 Paris time (GMT+00:00)\nFr
+ eepreview export: 20 April 2018, 21:11 P
+ aris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Taxing Wages 2018 (Summary in 
+ Chinese), 2018年工资征税报告
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9bfd951c-en
+SUMMARY:Taxing Wages 2018 (Summary in English)
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/9bfd951c-en\nPubl
+ ication type: Summary\nReleased as: PDF,
+  ePub, HTML.\n\niLibrary export: 20 Apri
+ l 2018, 20:22 Paris time (GMT+00:00)\nFr
+ eepreview export: 20 April 2018, 21:11 P
+ aris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Taxing Wages 2018 (Summary in 
+ English)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/e5d17aff-fr
+SUMMARY:Taxing Wages 2018 (Summary in French), L
+ es impôts sur les salaires 2018
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: French\nDOI: ht
+ tps://doi.org/10.1787/e5d17aff-fr\nPubli
+ cation type: Summary\nReleased as: ePub,
+  HTML, PDF.\n\niLibrary export: 20 April
+  2018, 20:22 Paris time (GMT+00:00)\nFre
+ epreview export: 20 April 2018, 21:11 Pa
+ ris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Taxing Wages 2018 (Summary in 
+ French), Les impôts sur les salaires 201
+ 8
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/452ad739-de
+SUMMARY:Taxing Wages 2018 (Summary in German), B
+ esteuerung der Arbeit 2018
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: German\nDOI: ht
+ tps://doi.org/10.1787/452ad739-de\nPubli
+ cation type: Summary\nReleased as: ePub,
+  HTML, PDF.\n\niLibrary export: 20 April
+  2018, 20:22 Paris time (GMT+00:00)\nFre
+ epreview export: 20 April 2018, 21:11 Pa
+ ris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Taxing Wages 2018 (Summary in 
+ German), Besteuerung der Arbeit 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/4978c638-it
+SUMMARY:Taxing Wages 2018 (Summary in Italian), 
+ La tassazione dei salari 2018
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: Italian\nDOI: h
+ ttps://doi.org/10.1787/4978c638-it\nPubl
+ ication type: Summary\nReleased as: PDF,
+  ePub, HTML.\n\niLibrary export: 20 Apri
+ l 2018, 20:22 Paris time (GMT+00:00)\nFr
+ eepreview export: 20 April 2018, 21:11 P
+ aris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Taxing Wages 2018 (Summary in 
+ Italian), La tassazione dei salari 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/1838dd78-ja
+SUMMARY:Taxing Wages 2018 (Summary in Japanese),
+  Taxing Wages 2018年版
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: Japanese\nDOI: 
+ https://doi.org/10.1787/1838dd78-ja\nPub
+ lication type: Summary\nReleased as: PDF
+ , HTML, ePub.\n\niLibrary export: 20 Apr
+ il 2018, 20:22 Paris time (GMT+00:00)\nF
+ reepreview export: 20 April 2018, 21:11 
+ Paris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Taxing Wages 2018 (Summary in 
+ Japanese), Taxing Wages 2018年版
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/f88a2849-pt
+SUMMARY:Taxing Wages 2018 (Summary in Portuguese
+ ), Tributação de Salários 2018
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: Portuguese\nDOI
+ : https://doi.org/10.1787/f88a2849-pt\nP
+ ublication type: Summary\nReleased as: H
+ TML, ePub, PDF.\n\niLibrary export: 20 A
+ pril 2018, 20:22 Paris time (GMT+00:00)\
+ nFreepreview export: 20 April 2018, 21:1
+ 1 Paris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Taxing Wages 2018 (Summary in 
+ Portuguese), Tributação de Salários 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/af49b4f5-es
+SUMMARY:Taxing Wages 2018 (Summary in Spanish), 
+ Impuestos sobre los salarios 2018
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: Spanish\nDOI: h
+ ttps://doi.org/10.1787/af49b4f5-es\nPubl
+ ication type: Summary\nReleased as: ePub
+ , HTML, PDF.\n\niLibrary export: 20 Apri
+ l 2018, 20:22 Paris time (GMT+00:00)\nFr
+ eepreview export: 20 April 2018, 21:11 P
+ aris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180420T234016Z
+DTSTART:20180426T090000Z
+DTEND:20180426T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Taxing Wages 2018 (Summary in 
+ Spanish), Impuestos sobre los salarios 2
+ 018
 END:VALARM
 END:VEVENT
 
@@ -244,7 +1854,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  iLibrary export: 6 March 2018, 22:07 Par
  is time (GMT+00:00)\nFreepreview export:
   never\nFTI loaded: no.
-DTSTAMP:20180419T225200Z
+DTSTAMP:20180420T234016Z
 DTSTART:20180430T090000Z
 DTEND:20180430T091500Z
 TRANSP:TRANSPARENT
@@ -269,7 +1879,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  \n\niLibrary export: 16 April 2018, 20:3
  9 Paris time (GMT+00:00)\nFreepreview ex
  port: never\nFTI loaded: no.
-DTSTAMP:20180419T225200Z
+DTSTAMP:20180420T234016Z
 DTSTART:20180430T090000Z
 DTEND:20180430T091500Z
 TRANSP:TRANSPARENT
