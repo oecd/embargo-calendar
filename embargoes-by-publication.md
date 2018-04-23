@@ -1,6 +1,6 @@
-# OECD publication embargoes (64 embargoes)
+# OECD publication embargoes (65 embargoes)
 
-*Data generated on Friday 20 April 2018 at 23:40*
+*Data generated on Monday 23 April 2018 at 23:11*
 
 ------
 
@@ -11,7 +11,7 @@ Embargo date | Launch date
 Tuesday 24 April 2018 at 10:30 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 19 April 2018 at 22:06
 - [ ] Exported to Keepeek
 
@@ -19,7 +19,7 @@ Tuesday 24 April 2018 at 10:30 | no launch event
 
 * Directorate: *Unable to find a matching Taxonomy description for directorate/grs, General Secretariat*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -54,7 +54,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -75,7 +75,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -96,7 +96,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -117,7 +117,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -138,7 +138,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -159,7 +159,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -180,7 +180,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -201,7 +201,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -222,7 +222,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -243,7 +243,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -264,7 +264,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -285,7 +285,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -306,7 +306,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -327,7 +327,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -348,7 +348,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -369,7 +369,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -390,7 +390,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -411,7 +411,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -432,7 +432,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -453,7 +453,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -474,7 +474,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -495,7 +495,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -516,7 +516,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -537,7 +537,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -558,7 +558,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -579,7 +579,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -600,7 +600,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -621,7 +621,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -642,7 +642,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -663,7 +663,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -684,7 +684,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -705,7 +705,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -726,7 +726,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -747,7 +747,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -768,7 +768,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -789,7 +789,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -810,7 +810,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -831,7 +831,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -852,7 +852,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -873,7 +873,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -894,7 +894,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -915,7 +915,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -957,7 +957,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -978,7 +978,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -999,7 +999,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -1020,7 +1020,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -1041,7 +1041,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -1062,7 +1062,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -1083,7 +1083,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -1104,7 +1104,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -1125,8 +1125,8 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 3 April 2018 at 23:38
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
+- [x] Exported to Keepeek Friday 20 April 2018 at 23:11
 
 ### Additional Information
 
@@ -1344,4 +1344,25 @@ Monday 30 April 2018 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
+## [Skills Strategy Implementation Guidance for Portugal - Strengthening the Adult-Learning System](https://doi.org/10.1787/9789264298705-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 4 May 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 12 April 2018 at 22:06
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Medium: *PDF*
