@@ -1,27 +1,6 @@
-# OECD publication embargoes (65 embargoes)
+# OECD publication embargoes (114 embargoes)
 
-*Data generated on Monday 23 April 2018 at 23:11*
-
-------
-
-## [Competitiveness in South East Europe - A Policy Outlook 2018](https://doi.org/10.1787/9789264298576-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 24 April 2018 at 10:30 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 19 April 2018 at 22:06
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Unable to find a matching Taxonomy description for directorate/grs, General Secretariat*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Tuesday 24 April 2018 at 23:06*
 
 ------
 
@@ -53,7 +32,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -74,7 +53,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -95,7 +74,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -116,7 +95,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -137,7 +116,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -158,7 +137,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -179,7 +158,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -200,7 +179,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -214,6 +193,216 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ------
 
+## [Augmentation en pourcentage du revenu net selon l'augmentation en pourcentage des coûts bruts de main d'œuvre, 2016 - Après une augmentation d'une unité monétaire des coûts bruts de main d'œuvre, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table82-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Augmentation en pourcentage du revenu net selon l'augmentation en pourcentage des coûts bruts de main d'œuvre, 2017 - Après une augmentation d'une unité monétaire des coûts bruts de main d'œuvre, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table34-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Augmentation en pourcentage du revenu net selon l'augmentation en pourcentage du salaire brut, 2016 - Après une augmentation d'une unité monétaire du salaire brut, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table81-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Augmentation en pourcentage du revenu net selon l'augmentation en pourcentage du salaire brut, 2017 - Après une augmentation d'une unité monétaire du salaire brut, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table33-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [cotisations sociales des salariés, 2016 - En % du salaire brut, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table78-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [cotisations sociales des salariés, 2017 - En % du salaire brut, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table27-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Coûts annuels de main-d'œuvre et revenu net, célibataire, 2016 - En dollars US convertis sur la base des PPA, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table85-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Coûts annuels de main-d'œuvre et revenu net, célibataire, 2017 - En dollars US convertis sur la base des PPA, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table37-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Coûts annuels de main-d'œuvre et revenu net, couple marié, 2016 - En dollars US convertis sur la base des PPA, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table86-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Coûts annuels de main-d'œuvre et revenu net, couple marié, 2017 - En dollars US convertis sur la base des PPA, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table38-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
 ## [Employee contributions, 2016 - As % of gross wage earnings, by family-type and wage level](https://doi.org/10.1787/tax_wages-2018-table78-en)
 
 Embargo date | Launch date
@@ -221,7 +410,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -242,7 +431,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -256,6 +445,678 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ------
 
+## [Impôt sur le revenu et cotisations sociales des salariés diminués des prestations versées, 2016 - En % du salaire brut, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table76-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu et cotisations sociales des salariés diminués des prestations versées, 2017 - En % du salaire brut, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table23-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu et cotisations sociales des salariés diminués des prestations versées, célibataire, salaire égal à 100 % du salaire moyen - Pression fiscale en % du salaire brut, célibataire sans enfant](https://doi.org/10.1787/tax_wages-2018-table92-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu et cotisations sociales des salariés diminués des prestations versées, célibataire, salaire égal à 167 % du salaire moyen - Pression fiscale en % du salaire brut, célibataire sans enfant](https://doi.org/10.1787/tax_wages-2018-table95-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu et cotisations sociales des salariés diminués des prestations versées, célibataire, salaire égal à 67 % du salaire moyen - Pression fiscale en % du salaire brut, célibataire sans enfant](https://doi.org/10.1787/tax_wages-2018-table89-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu et cotisations sociales des salariés diminués des prestations versées, couple marié, deux enfants, deux salaires égaux à 100 % et 33 % du salaire moyen - Pression fiscale en % du salaire brut, couple marié ayant deux enfants et deux salaires](https://doi.org/10.1787/tax_wages-2018-table104-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu et cotisations sociales des salariés diminués des prestations versées, couple marié, deux salaires égaux à 100 % et 33 % du salaire moyen - Pression fiscale en % du salaire brut, couple marié sans enfant, avec deux salaires](https://doi.org/10.1787/tax_wages-2018-table110-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu et cotisations sociales des salariés diminués des prestations versées, couple marié, deux salaires égaux à 100 % et 67 % du salaire moyen - Pression fiscale en % du salaire brut, couple marié ayant deux enfants et deux salaires](https://doi.org/10.1787/tax_wages-2018-table107-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu et cotisations sociales des salariés diminués des prestations versées, couple marié, salaire égal à 100 % du salaire moyen - Pression fiscale en % du salaire brut, couple marié ayant deux enfants et un seul salaire](https://doi.org/10.1787/tax_wages-2018-table101-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu et cotisations sociales des salariés diminués des prestations versées, parent isolé, salaire égal à 67 % du salaire moyen - Pression fiscale en % du salaire brut, parent isolé ayant deux enfants](https://doi.org/10.1787/tax_wages-2018-table98-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu et cotisations sociales des salariés et employeurs diminués des prestations versées, 2016 - En % des coûts de main d'œuvre, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table74-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu et cotisations sociales des salariés et employeurs diminués des prestations versées, 2017 - En % des coûts de main-d'oeuvre, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table19-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu et cotisations sociales des salariés et employeurs diminués des prestations versées, célibataire, salaire égal à 100 % du salaire moyen - Pression fiscale en % des coûts de main-d'œuvre, célibataire sans enfant](https://doi.org/10.1787/tax_wages-2018-table90-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu et cotisations sociales des salariés et employeurs diminués des prestations versées, célibataire, salaire égal à 167 % du salaire moyen - Pression fiscale en % des coûts de main-d'œuvre, célibataire sans enfant](https://doi.org/10.1787/tax_wages-2018-table93-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu et cotisations sociales des salariés et employeurs diminués des prestations versées, célibataire, salaire égal à 67 % du salaire moyen - Pression fiscale en % des coûts de main-d'œuvre, célibataire sans enfant](https://doi.org/10.1787/tax_wages-2018-table87-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu et cotisations sociales des salariés et employeurs diminués des prestations versées, couple marié, deux enfants, deux salaires égaux à 100 % et 33 % du salaire moyen - Pression fiscale en % des coûts de main-d'œuvre, couple marié ayant deux enfants et deux salaires](https://doi.org/10.1787/tax_wages-2018-table102-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu et cotisations sociales des salariés et employeurs diminués des prestations versées, couple marié, deux salaires égaux à 100 % et 33 % du salaire moyen - Pression fiscale en % des coûts de main-d'œuvre, couple marié sans enfant, avec deux salaires](https://doi.org/10.1787/tax_wages-2018-table108-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu et cotisations sociales des salariés et employeurs diminués des prestations versées, couple marié, deux salaires égaux à 100 % et 67 % du salaire moyen - Pression fiscale en % des coûts de main-d'œuvre, couple marié ayant deux enfants et deux salaires](https://doi.org/10.1787/tax_wages-2018-table105-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu et cotisations sociales des salariés et employeurs diminués des prestations versées, couple marié, salaire égal à 100 % du salaire moyen - Pression fiscale en % des coûts de main-d'œuvre, couple marié ayant deux enfants et un seul salaire](https://doi.org/10.1787/tax_wages-2018-table99-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu et cotisations sociales des salariés et employeurs diminués des prestations versées, parent isolé, salaire égal à 67 % du salaire moyen - Pression fiscale en % des coûts de main-d'œuvre, parent isolé ayant deux enfants](https://doi.org/10.1787/tax_wages-2018-table96-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu et cotisations sociales des salariés, 2016 - En % du salaire brut, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table75-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu et cotisations sociales des salariés, 2017 - En % du salaire brut, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table21-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu, 2016 - En % du salaire brut, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table77-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu, 2017 - En % du salaire brut, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table25-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu, célibataire, salaire égal à 100 % du salaire moyen - Pression fiscale en % du salaire brut, célibataire sans enfant](https://doi.org/10.1787/tax_wages-2018-table91-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu, célibataire, salaire égal à 167 % du salaire moyen - Pression fiscale en % du salaire brut, célibataire sans enfant](https://doi.org/10.1787/tax_wages-2018-table94-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu, célibataire, salaire égal à 67 % du salaire moyen - Pression fiscale en % du salaire brut, célibataire sans enfant](https://doi.org/10.1787/tax_wages-2018-table88-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu, couple marié, deux enfants, deux salaires égaux à 100 % et 33 % du salaire moyen - Pression fiscale en % du salaire brut, couple marié ayant deux enfants et deux salaires](https://doi.org/10.1787/tax_wages-2018-table103-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu, couple marié, deux salaires égaux à 100 % et 33 % du salaire moyen - Pression fiscale en % du salaire brut, couple marié sans enfant, avec deux salaires](https://doi.org/10.1787/tax_wages-2018-table109-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu, couple marié, deux salaires égaux à 100 % et 67 % du salaire moyen - Pression fiscale en % du salaire brut, couple marié ayant deux enfants et deux salaires](https://doi.org/10.1787/tax_wages-2018-table106-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu, couple marié, salaire égal à 100 % du salaire moyen - Pression fiscale en % du salaire brut, couple marié ayant deux enfants et un seul salaire](https://doi.org/10.1787/tax_wages-2018-table100-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Impôt sur le revenu, parent isolé, salaire égal à 67 % du salaire moyen - Pression fiscale en % du salaire brut, parent isolé ayant deux enfants](https://doi.org/10.1787/tax_wages-2018-table97-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
 ## [Income tax plus employee and employer contributions less cash benefits, 2016 - As % of labour costs, by family-type and wage level](https://doi.org/10.1787/tax_wages-2018-table74-en)
 
 Embargo date | Launch date
@@ -263,7 +1124,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -284,7 +1145,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -305,7 +1166,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -326,7 +1187,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -347,7 +1208,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -368,7 +1229,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -389,7 +1250,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -410,7 +1271,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -431,7 +1292,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -452,7 +1313,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -473,7 +1334,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -494,7 +1355,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -515,7 +1376,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -536,7 +1397,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -557,7 +1418,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -578,7 +1439,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -599,7 +1460,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -620,7 +1481,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -641,7 +1502,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -662,7 +1523,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -683,7 +1544,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -704,7 +1565,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -725,7 +1586,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -746,7 +1607,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -767,7 +1628,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -788,7 +1649,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -809,7 +1670,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -830,7 +1691,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -851,7 +1712,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -872,7 +1733,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -893,7 +1754,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -914,7 +1775,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -935,15 +1796,15 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 19 April 2018 at 22:06
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 23 April 2018 at 22:29
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -956,7 +1817,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -977,7 +1838,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -998,7 +1859,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -1019,7 +1880,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -1040,7 +1901,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -1061,7 +1922,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -1082,7 +1943,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -1103,7 +1964,7 @@ Embargo date | Launch date
 Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 April 2018 at 22:22
 - [ ] Exported to Keepeek
 
@@ -1111,6 +1972,174 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Salaire brut annuel et revenu net, célibataire, 2016 - En dollars US convertis sur la base des PPA, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table83-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Salaire brut annuel et revenu net, célibataire, 2017 - En dollars US convertis sur la base des PPA, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table35-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Salaire brut annuel et revenu net, couple marié, 2016 - En dollars US convertis sur la base des PPA, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table84-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Salaire brut annuel et revenu net, couple marié, 2017 - En dollars US convertis sur la base des PPA, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table36-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Taux marginal applicable à l'impôt sur le revenu et aux cotisations sociales des salariés diminués des prestations versées, 2016 - En % du salaire brut, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table80-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Taux marginal applicable à l'impôt sur le revenu et aux cotisations sociales des salariés diminués des prestations versées, 2017 - En % du salaire brut, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table31-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Taux marginal applicable à l'impôt sur le revenu et aux cotisations sociales des salariés et employeurs diminués des prestations versées, 2016 - En % du salaire brut, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table79-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Table*
+* Medium: *PDF*
+
+------
+
+## [Taux marginal applicable à l'impôt sur le revenu et aux cotisations sociales des salariés et employeurs diminués des prestations versées, 2017 - En % des coûts de main-d'oeuvre, par catégorie de famille et niveau de salaire](https://doi.org/10.1787/tax_wages-2018-table29-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 April 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Published*
 * Type of publication: *Table*
 * Medium: *PDF*
@@ -1125,7 +2154,7 @@ Thursday 26 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 April 2018 at 22:22
+- [x] Exported to iLibrary Monday 23 April 2018 at 22:29
 - [x] Exported to Keepeek Friday 20 April 2018 at 23:11
 
 ### Additional Information
@@ -1314,7 +2343,7 @@ Monday 30 April 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 6 March 2018 at 23:07
+- [x] Exported to iLibrary Monday 23 April 2018 at 22:29
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -1356,7 +2385,7 @@ Friday 4 May 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 12 April 2018 at 22:06
+- [x] Exported to iLibrary Monday 23 April 2018 at 22:29
 - [ ] Exported to Keepeek
 
 ### Additional Information
