@@ -4,33 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264298576-en
-SUMMARY:Competitiveness in South East Europe - A
-  Policy Outlook 2018
-DESCRIPTION:Directorate: Global Relations Secretaria
- t, General Secretariat\nLanguage: Englis
- h\nDOI: https://doi.org/10.1787/97892642
- 98576-en\nPublication type: Book\nReleas
- ed as: PDF, Paperback.\n\niLibrary expor
- t: 24 April 2018, 20:16 Paris time (GMT+
- 00:00)\nFreepreview export: 23 April 201
- 8, 21:07 Paris time (GMT+00:00)\nFTI loa
- ded: ✓.
-DTSTAMP:20180425T231108Z
-DTSTART:20180424T083000Z
-DTEND:20180424T084500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Competitiveness in South East 
- Europe - A Policy Outlook 2018
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264282346-en
 SUMMARY:Getting Skills Right: Spain
 DESCRIPTION:Directorate: Directorate for Employment,
@@ -42,7 +15,7 @@ DESCRIPTION:Directorate: Directorate for Employment,
  e (GMT+00:00)\nFreepreview export: 21 Fe
  bruary 2018, 22:48 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T073000Z
 DTEND:20180426T074500Z
 TRANSP:TRANSPARENT
@@ -64,12 +37,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble84-en\nPublication type: Table\nRelea
- sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -94,12 +67,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble36-en\nPublication type: Table\nRelea
- sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ sed as: Spreadsheet, HTML, PDF.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -124,12 +97,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble83-en\nPublication type: Table\nRelea
- sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -153,12 +126,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble35-en\nPublication type: Table\nRelea
- sed as: Spreadsheet, HTML, PDF.\n\niLibr
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -182,12 +155,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble86-en\nPublication type: Table\nRelea
- sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -212,12 +185,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble38-en\nPublication type: Table\nRelea
- sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -242,12 +215,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble85-en\nPublication type: Table\nRelea
- sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -277,7 +250,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -306,12 +279,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le82-fr\nPublication type: Table\nReleas
- ed as: PDF, Spreadsheet, HTML.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ed as: HTML, PDF, Spreadsheet.\n\niLibra
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -344,11 +317,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  tps://doi.org/10.1787/tax_wages-2018-tab
  le34-fr\nPublication type: Table\nReleas
  ed as: PDF, Spreadsheet, HTML.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -380,11 +353,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  tps://doi.org/10.1787/tax_wages-2018-tab
  le81-fr\nPublication type: Table\nReleas
  ed as: PDF, Spreadsheet, HTML.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -414,12 +387,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le33-fr\nPublication type: Table\nReleas
- ed as: PDF, Spreadsheet, HTML.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ed as: HTML, PDF, Spreadsheet.\n\niLibra
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -447,11 +420,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  tps://doi.org/10.1787/tax_wages-2018-tab
  le78-fr\nPublication type: Table\nReleas
  ed as: PDF, Spreadsheet, HTML.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -476,11 +449,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  tps://doi.org/10.1787/tax_wages-2018-tab
  le27-fr\nPublication type: Table\nReleas
  ed as: HTML, PDF, Spreadsheet.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -505,12 +478,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le85-fr\nPublication type: Table\nReleas
- ed as: HTML, PDF, Spreadsheet.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ed as: PDF, Spreadsheet, HTML.\n\niLibra
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -538,11 +511,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  tps://doi.org/10.1787/tax_wages-2018-tab
  le37-fr\nPublication type: Table\nReleas
  ed as: PDF, Spreadsheet, HTML.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -569,12 +542,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le86-fr\nPublication type: Table\nReleas
- ed as: PDF, Spreadsheet, HTML.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ed as: HTML, PDF, Spreadsheet.\n\niLibra
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -601,12 +574,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le38-fr\nPublication type: Table\nReleas
- ed as: HTML, PDF, Spreadsheet.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ed as: PDF, Spreadsheet, HTML.\n\niLibra
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -632,12 +605,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble78-en\nPublication type: Table\nRelea
- sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -666,7 +639,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -693,11 +666,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  tps://doi.org/10.1787/tax_wages-2018-tab
  le76-fr\nPublication type: Table\nReleas
  ed as: HTML, PDF, Spreadsheet.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -726,11 +699,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  tps://doi.org/10.1787/tax_wages-2018-tab
  le23-fr\nPublication type: Table\nReleas
  ed as: HTML, PDF, Spreadsheet.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -759,12 +732,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le92-fr\nPublication type: Table\nReleas
- ed as: PDF, Spreadsheet, HTML.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ed as: HTML, PDF, Spreadsheet.\n\niLibra
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -795,11 +768,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  tps://doi.org/10.1787/tax_wages-2018-tab
  le95-fr\nPublication type: Table\nReleas
  ed as: HTML, PDF, Spreadsheet.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -829,12 +802,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le89-fr\nPublication type: Table\nReleas
- ed as: HTML, PDF, Spreadsheet.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ed as: PDF, Spreadsheet, HTML.\n\niLibra
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -865,12 +838,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le104-fr\nPublication type: Table\nRelea
- sed as: PDF, Spreadsheet, HTML.\n\niLibr
- ary export: 24 April 2018, 20:16 Paris t
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ ary export: 25 April 2018, 20:04 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -902,12 +875,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le110-fr\nPublication type: Table\nRelea
- sed as: Spreadsheet, HTML, PDF.\n\niLibr
- ary export: 24 April 2018, 20:16 Paris t
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ ary export: 25 April 2018, 20:04 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -939,12 +912,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le107-fr\nPublication type: Table\nRelea
- sed as: HTML, PDF, Spreadsheet.\n\niLibr
- ary export: 24 April 2018, 20:16 Paris t
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ ary export: 25 April 2018, 20:04 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -976,11 +949,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  tps://doi.org/10.1787/tax_wages-2018-tab
  le101-fr\nPublication type: Table\nRelea
  sed as: Spreadsheet, HTML, PDF.\n\niLibr
- ary export: 24 April 2018, 20:16 Paris t
+ ary export: 25 April 2018, 20:04 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1011,12 +984,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le98-fr\nPublication type: Table\nReleas
- ed as: PDF, Spreadsheet, HTML.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ed as: HTML, PDF, Spreadsheet.\n\niLibra
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1045,12 +1018,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le74-fr\nPublication type: Table\nReleas
- ed as: HTML, PDF, Spreadsheet.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ed as: PDF, Spreadsheet, HTML.\n\niLibra
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1079,11 +1052,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  tps://doi.org/10.1787/tax_wages-2018-tab
  le19-fr\nPublication type: Table\nReleas
  ed as: PDF, Spreadsheet, HTML.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1112,12 +1085,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le90-fr\nPublication type: Table\nReleas
- ed as: Spreadsheet, HTML, PDF.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ed as: PDF, Spreadsheet, HTML.\n\niLibra
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1148,11 +1121,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  tps://doi.org/10.1787/tax_wages-2018-tab
  le93-fr\nPublication type: Table\nReleas
  ed as: HTML, PDF, Spreadsheet.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1183,11 +1156,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  tps://doi.org/10.1787/tax_wages-2018-tab
  le87-fr\nPublication type: Table\nReleas
  ed as: HTML, PDF, Spreadsheet.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1219,12 +1192,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le102-fr\nPublication type: Table\nRelea
- sed as: PDF, Spreadsheet, HTML.\n\niLibr
- ary export: 24 April 2018, 20:16 Paris t
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ ary export: 25 April 2018, 20:04 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1258,11 +1231,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  tps://doi.org/10.1787/tax_wages-2018-tab
  le108-fr\nPublication type: Table\nRelea
  sed as: PDF, Spreadsheet, HTML.\n\niLibr
- ary export: 24 April 2018, 20:16 Paris t
+ ary export: 25 April 2018, 20:04 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1295,11 +1268,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  tps://doi.org/10.1787/tax_wages-2018-tab
  le105-fr\nPublication type: Table\nRelea
  sed as: PDF, Spreadsheet, HTML.\n\niLibr
- ary export: 24 April 2018, 20:16 Paris t
+ ary export: 25 April 2018, 20:04 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1332,12 +1305,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le99-fr\nPublication type: Table\nReleas
- ed as: Spreadsheet, HTML, PDF.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ed as: HTML, PDF, Spreadsheet.\n\niLibra
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1368,12 +1341,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le96-fr\nPublication type: Table\nReleas
- ed as: PDF, Spreadsheet, HTML.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ed as: Spreadsheet, HTML, PDF.\n\niLibra
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1403,11 +1376,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  tps://doi.org/10.1787/tax_wages-2018-tab
  le75-fr\nPublication type: Table\nReleas
  ed as: Spreadsheet, HTML, PDF.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1433,12 +1406,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le21-fr\nPublication type: Table\nReleas
- ed as: HTML, PDF, Spreadsheet.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ed as: PDF, Spreadsheet, HTML.\n\niLibra
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1464,11 +1437,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  tps://doi.org/10.1787/tax_wages-2018-tab
  le77-fr\nPublication type: Table\nReleas
  ed as: HTML, PDF, Spreadsheet.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1493,11 +1466,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  tps://doi.org/10.1787/tax_wages-2018-tab
  le25-fr\nPublication type: Table\nReleas
  ed as: PDF, Spreadsheet, HTML.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1522,12 +1495,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le91-fr\nPublication type: Table\nReleas
- ed as: HTML, PDF, Spreadsheet.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ed as: PDF, Spreadsheet, HTML.\n\niLibra
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1554,11 +1527,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  tps://doi.org/10.1787/tax_wages-2018-tab
  le94-fr\nPublication type: Table\nReleas
  ed as: HTML, PDF, Spreadsheet.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1584,12 +1557,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le88-fr\nPublication type: Table\nReleas
- ed as: HTML, PDF, Spreadsheet.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ed as: PDF, Spreadsheet, HTML.\n\niLibra
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1617,11 +1590,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  tps://doi.org/10.1787/tax_wages-2018-tab
  le103-fr\nPublication type: Table\nRelea
  sed as: HTML, PDF, Spreadsheet.\n\niLibr
- ary export: 24 April 2018, 20:16 Paris t
+ ary export: 25 April 2018, 20:04 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1651,11 +1624,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  tps://doi.org/10.1787/tax_wages-2018-tab
  le109-fr\nPublication type: Table\nRelea
  sed as: PDF, Spreadsheet, HTML.\n\niLibr
- ary export: 24 April 2018, 20:16 Paris t
+ ary export: 25 April 2018, 20:04 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1683,12 +1656,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le106-fr\nPublication type: Table\nRelea
- sed as: PDF, Spreadsheet, HTML.\n\niLibr
- ary export: 24 April 2018, 20:16 Paris t
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ ary export: 25 April 2018, 20:04 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1716,12 +1689,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le100-fr\nPublication type: Table\nRelea
- sed as: PDF, Spreadsheet, HTML.\n\niLibr
- ary export: 24 April 2018, 20:16 Paris t
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ ary export: 25 April 2018, 20:04 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1748,12 +1721,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le97-fr\nPublication type: Table\nReleas
- ed as: HTML, PDF, Spreadsheet.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ed as: PDF, Spreadsheet, HTML.\n\niLibra
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1784,7 +1757,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1815,7 +1788,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1843,12 +1816,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble108-en\nPublication type: Table\nRele
- ased as: PDF, Spreadsheet, HTML.\n\niLib
+ ased as: Spreadsheet, HTML, PDF.\n\niLib
  rary export: 24 April 2018, 20:16 Paris 
  time (GMT+00:00)\nFreepreview export: 24
   April 2018, 21:02 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1878,12 +1851,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble105-en\nPublication type: Table\nRele
- ased as: PDF, Spreadsheet, HTML.\n\niLib
+ ased as: Spreadsheet, HTML, PDF.\n\niLib
  rary export: 24 April 2018, 20:16 Paris 
  time (GMT+00:00)\nFreepreview export: 24
   April 2018, 21:02 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1912,12 +1885,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble99-en\nPublication type: Table\nRelea
- sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1952,7 +1925,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  time (GMT+00:00)\nFreepreview export: 24
   April 2018, 21:02 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -1986,7 +1959,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2019,7 +1992,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2052,7 +2025,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2080,12 +2053,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble87-en\nPublication type: Table\nRelea
- sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ sed as: Spreadsheet, HTML, PDF.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2112,12 +2085,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble76-en\nPublication type: Table\nRelea
- sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2148,7 +2121,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2175,12 +2148,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble110-en\nPublication type: Table\nRele
- ased as: PDF, Spreadsheet, HTML.\n\niLib
+ ased as: HTML, PDF, Spreadsheet.\n\niLib
  rary export: 24 April 2018, 20:16 Paris 
  time (GMT+00:00)\nFreepreview export: 24
   April 2018, 21:02 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2209,12 +2182,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble107-en\nPublication type: Table\nRele
- ased as: PDF, Spreadsheet, HTML.\n\niLib
+ ased as: HTML, PDF, Spreadsheet.\n\niLib
  rary export: 24 April 2018, 20:16 Paris 
  time (GMT+00:00)\nFreepreview export: 24
   April 2018, 21:02 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2243,12 +2216,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble101-en\nPublication type: Table\nRele
- ased as: HTML, PDF, Spreadsheet.\n\niLib
+ ased as: Spreadsheet, HTML, PDF.\n\niLib
  rary export: 24 April 2018, 20:16 Paris 
  time (GMT+00:00)\nFreepreview export: 24
   April 2018, 21:02 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2282,7 +2255,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  time (GMT+00:00)\nFreepreview export: 24
   April 2018, 21:02 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2311,12 +2284,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble98-en\nPublication type: Table\nRelea
- sed as: Spreadsheet, HTML, PDF.\n\niLibr
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2344,12 +2317,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble92-en\nPublication type: Table\nRelea
- sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2377,12 +2350,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble95-en\nPublication type: Table\nRelea
- sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2410,12 +2383,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble89-en\nPublication type: Table\nRelea
- sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2441,12 +2414,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble75-en\nPublication type: Table\nRelea
- sed as: Spreadsheet, HTML, PDF.\n\niLibr
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2470,12 +2443,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble21-en\nPublication type: Table\nRelea
- sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ sed as: Spreadsheet, HTML, PDF.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2503,7 +2476,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2526,12 +2499,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble25-en\nPublication type: Table\nRelea
- sed as: Spreadsheet, HTML, PDF.\n\niLibr
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2556,12 +2529,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble109-en\nPublication type: Table\nRele
- ased as: Spreadsheet, HTML, PDF.\n\niLib
+ ased as: HTML, PDF, Spreadsheet.\n\niLib
  rary export: 24 April 2018, 20:16 Paris 
  time (GMT+00:00)\nFreepreview export: 24
   April 2018, 21:02 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2592,7 +2565,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  time (GMT+00:00)\nFreepreview export: 24
   April 2018, 21:02 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2623,7 +2596,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  time (GMT+00:00)\nFreepreview export: 24
   April 2018, 21:02 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2655,7 +2628,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  time (GMT+00:00)\nFreepreview export: 24
   April 2018, 21:02 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2682,12 +2655,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble97-en\nPublication type: Table\nRelea
- sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2718,7 +2691,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2749,7 +2722,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2775,12 +2748,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble88-en\nPublication type: Table\nRelea
- sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2804,11 +2777,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  tps://doi.org/10.1787/tax_wages-2018-fr\
  nPublication type: Book\nReleased as: HT
  ML, Paperback, PDF, ePub.\n\niLibrary ex
- port: 24 April 2018, 20:16 Paris time (G
+ port: 25 April 2018, 20:04 Paris time (G
  MT+00:00)\nFreepreview export: 24 April 
  2018, 21:02 Paris time (GMT+00:00)\nFTI 
  loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2832,12 +2805,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble79-en\nPublication type: Table\nRelea
- sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2863,12 +2836,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble29-en\nPublication type: Table\nRelea
- sed as: Spreadsheet, HTML, PDF.\n\niLibr
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2894,12 +2867,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble80-en\nPublication type: Table\nRelea
- sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ sed as: Spreadsheet, HTML, PDF.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2925,12 +2898,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble31-en\nPublication type: Table\nRelea
- sed as: PDF, Spreadsheet, HTML.\n\niLibr
+ sed as: HTML, PDF, Spreadsheet.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2957,12 +2930,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble82-en\nPublication type: Table\nRelea
- sed as: Spreadsheet, HTML, PDF.\n\niLibr
+ sed as: PDF, Spreadsheet, HTML.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -2990,12 +2963,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble34-en\nPublication type: Table\nRelea
- sed as: HTML, PDF, Spreadsheet.\n\niLibr
+ sed as: Spreadsheet, HTML, PDF.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -3028,7 +3001,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -3056,12 +3029,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/tax_wages-2018-ta
  ble33-en\nPublication type: Table\nRelea
- sed as: PDF, HTML, Spreadsheet.\n\niLibr
+ sed as: Spreadsheet, PDF, HTML.\n\niLibr
  ary export: 24 April 2018, 20:16 Paris t
  ime (GMT+00:00)\nFreepreview export: 24 
  April 2018, 21:02 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -3088,12 +3061,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le83-fr\nPublication type: Table\nReleas
- ed as: PDF, Spreadsheet, HTML.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ed as: HTML, PDF, Spreadsheet.\n\niLibra
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -3119,12 +3092,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le35-fr\nPublication type: Table\nReleas
- ed as: HTML, PDF, Spreadsheet.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ed as: PDF, Spreadsheet, HTML.\n\niLibra
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -3150,12 +3123,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le84-fr\nPublication type: Table\nReleas
- ed as: PDF, Spreadsheet, HTML.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ed as: HTML, PDF, Spreadsheet.\n\niLibra
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -3182,11 +3155,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  tps://doi.org/10.1787/tax_wages-2018-tab
  le36-fr\nPublication type: Table\nReleas
  ed as: HTML, Spreadsheet, PDF.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -3213,12 +3186,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le80-fr\nPublication type: Table\nReleas
- ed as: PDF, Spreadsheet, HTML.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ed as: Spreadsheet, HTML, PDF.\n\niLibra
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -3248,11 +3221,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  tps://doi.org/10.1787/tax_wages-2018-tab
  le31-fr\nPublication type: Table\nReleas
  ed as: HTML, PDF, Spreadsheet.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -3282,12 +3255,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: French\nDOI: ht
  tps://doi.org/10.1787/tax_wages-2018-tab
  le79-fr\nPublication type: Table\nReleas
- ed as: HTML, PDF, Spreadsheet.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ed as: PDF, Spreadsheet, HTML.\n\niLibra
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -3318,11 +3291,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  tps://doi.org/10.1787/tax_wages-2018-tab
  le29-fr\nPublication type: Table\nReleas
  ed as: PDF, Spreadsheet, HTML.\n\niLibra
- ry export: 24 April 2018, 20:16 Paris ti
+ ry export: 25 April 2018, 20:04 Paris ti
  me (GMT+00:00)\nFreepreview export: 24 A
  pril 2018, 21:02 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -3352,7 +3325,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  GMT+00:00)\nFreepreview export: 20 April
   2018, 21:11 Paris time (GMT+00:00)\nFTI
   loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -3377,7 +3350,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  l 2018, 20:22 Paris time (GMT+00:00)\nFr
  eepreview export: 20 April 2018, 21:11 P
  aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -3402,7 +3375,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  l 2018, 20:22 Paris time (GMT+00:00)\nFr
  eepreview export: 20 April 2018, 21:11 P
  aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -3428,7 +3401,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
   2018, 20:22 Paris time (GMT+00:00)\nFre
  epreview export: 20 April 2018, 21:11 Pa
  ris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -3455,7 +3428,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
   2018, 20:22 Paris time (GMT+00:00)\nFre
  epreview export: 20 April 2018, 21:11 Pa
  ris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -3481,7 +3454,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  l 2018, 20:22 Paris time (GMT+00:00)\nFr
  eepreview export: 20 April 2018, 21:11 P
  aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -3507,7 +3480,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  il 2018, 20:22 Paris time (GMT+00:00)\nF
  reepreview export: 20 April 2018, 21:11 
  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -3533,7 +3506,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  pril 2018, 20:22 Paris time (GMT+00:00)\
  nFreepreview export: 20 April 2018, 21:1
  1 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -3559,7 +3532,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  l 2018, 20:22 Paris time (GMT+00:00)\nFr
  eepreview export: 20 April 2018, 21:11 P
  aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180426T090000Z
 DTEND:20180426T091500Z
 TRANSP:TRANSPARENT
@@ -3585,7 +3558,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  iLibrary export: 23 April 2018, 20:29 Pa
  ris time (GMT+00:00)\nFreepreview export
  : never\nFTI loaded: no.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180430T090000Z
 DTEND:20180430T091500Z
 TRANSP:TRANSPARENT
@@ -3607,10 +3580,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-grc-2018-en\nPublication 
  type: Economic survey\nReleased as: ePub
- , HTML, PDF.\n\niLibrary export: 16 Apri
- l 2018, 20:39 Paris time (GMT+00:00)\nFr
- eepreview export: never\nFTI loaded: ✓.
-DTSTAMP:20180425T231108Z
+ , HTML, PDF.\n\niLibrary export: 25 Apri
+ l 2018, 20:04 Paris time (GMT+00:00)\nFr
+ eepreview export: 25 April 2018, 20:43 P
+ aris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180426T231320Z
 DTSTART:20180430T120000Z
 DTEND:20180430T121500Z
 TRANSP:TRANSPARENT
@@ -3636,7 +3610,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  aperback.\n\niLibrary export: 23 April 2
  018, 20:29 Paris time (GMT+00:00)\nFreep
  review export: never\nFTI loaded: no.
-DTSTAMP:20180425T231108Z
+DTSTAMP:20180426T231320Z
 DTSTART:20180504T090000Z
 DTEND:20180504T091500Z
 TRANSP:TRANSPARENT
