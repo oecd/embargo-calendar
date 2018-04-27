@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Thu, 26 Apr 2018 23:13:22 GMT</pubDate>
+      <pubDate>Fri, 27 Apr 2018 23:11:20 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -1706,7 +1706,7 @@
          <oe:iLibraryExport>Wednesday, 25 April 2018, 20:04 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Wednesday, 25 April 2018, 20:43 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Economic survey</oe:catalogueType>
-         <oe:availableMedia>ePub, HTML, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback, ePub, HTML</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264298705-en</guid>
@@ -1717,7 +1717,7 @@
          <oe:embargoTime>2018-05-04T09:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Directorate for Education and Skills</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Monday, 23 April 2018, 20:29 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
