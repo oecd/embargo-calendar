@@ -8,41 +8,11 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Tue, 01 May 2018 23:00:09 GMT</pubDate>
+      <pubDate>Wed, 02 May 2018 23:19:38 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
                  type="application/rss+xml"/>
-      <item>
-         <guid isPermaLink="false">10.1787/9789264284319-en</guid>
-         <pubDate>Mon, 30 Apr 2018 09:00:00 GMT</pubDate>
-         <title>Inventory of Energy Subsidies in the EU's Eastern Partnership Countries</title>
-         <link>https://doi.org/10.1787/9789264284319-en</link>
-         <description>Inventory of Energy Subsidies in the EU's Eastern Partnership Countries by Environment Directorate has an embargo on Monday, 30 April 2018, 11:00 Paris time (GMT+02:00).</description>
-         <oe:embargoTime>2018-04-30T09:00:00Z</oe:embargoTime>
-         <oe:launchTime/>
-         <oe:directorate>Environment Directorate</oe:directorate>
-         <oe:ftiLoaded/>
-         <oe:iLibraryExport>Friday, 27 April 2018, 20:01 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
-         <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
-      </item>
-      <item>
-         <guid isPermaLink="false">10.1787/eco_surveys-grc-2018-en</guid>
-         <pubDate>Mon, 30 Apr 2018 12:00:00 GMT</pubDate>
-         <title>OECD Economic Surveys: Greece 2018</title>
-         <link>https://doi.org/10.1787/eco_surveys-grc-2018-en</link>
-         <description>OECD Economic Surveys: Greece 2018 by Economics Department has an embargo on Monday, 30 April 2018, 14:00 Paris time (GMT+02:00).</description>
-         <oe:embargoTime>2018-04-30T12:00:00Z</oe:embargoTime>
-         <oe:launchTime/>
-         <oe:directorate>Economics Department</oe:directorate>
-         <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Monday, 30 April 2018, 19:55 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Wednesday, 25 April 2018, 20:43 Paris time (GMT+00:00)</oe:freePreviewExport>
-         <oe:catalogueType>Economic survey</oe:catalogueType>
-         <oe:availableMedia>Paperback, ePub, HTML, PDF</oe:availableMedia>
-      </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264298705-en</guid>
          <pubDate>Fri, 04 May 2018 09:00:00 GMT</pubDate>
@@ -57,6 +27,21 @@
          <oe:freePreviewExport>Friday, 27 April 2018, 20:38 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264189881-en</guid>
+         <pubDate>Thu, 14 Jun 2018 10:00:00 GMT</pubDate>
+         <title>Rethinking Urban Sprawl - Moving Towards Sustainable Cities</title>
+         <link>https://doi.org/10.1787/9789264189881-en</link>
+         <description>Rethinking Urban Sprawl - Moving Towards Sustainable Cities by Environment Directorate has an embargo on Thursday, 14 June 2018, 12:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-14T10:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Environment Directorate</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Friday, 27 April 2018, 20:01 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
    </channel>
 </rss>

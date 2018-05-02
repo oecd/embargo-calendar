@@ -4,58 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264284319-en
-SUMMARY:Inventory of Energy Subsidies in the EU'
- s Eastern Partnership Countries
-DESCRIPTION:Directorate: Environment Directorate\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/9789264284319-en\nPublication type
- : Book\nReleased as: Paperback, PDF.\n\n
- iLibrary export: 27 April 2018, 20:01 Pa
- ris time (GMT+00:00)\nFreepreview export
- : never\nFTI loaded: no.
-DTSTAMP:20180501T230007Z
-DTSTART:20180430T090000Z
-DTEND:20180430T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Inventory of Energy Subsidies 
- in the EU's Eastern Partnership Countrie
- s
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/eco_surveys-grc-2018-en
-SUMMARY:OECD Economic Surveys: Greece 2018
-DESCRIPTION:Directorate: Economics Department\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/eco_surveys-grc-2018-en\nPublication 
- type: Economic survey\nReleased as: Pape
- rback, ePub, HTML, PDF.\n\niLibrary expo
- rt: 30 April 2018, 19:55 Paris time (GMT
- +00:00)\nFreepreview export: 25 April 20
- 18, 20:43 Paris time (GMT+00:00)\nFTI lo
- aded: ✓.
-DTSTAMP:20180501T230007Z
-DTSTART:20180430T120000Z
-DTEND:20180430T121500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Economic Surveys: Greece 
- 2018
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264298705-en
 SUMMARY:Skills Strategy Implementation Guidance 
  for Portugal - Strengthening the Adult-L
@@ -68,7 +16,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  018, 19:55 Paris time (GMT+00:00)\nFreep
  review export: 27 April 2018, 20:38 Pari
  s time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180501T230007Z
+DTSTAMP:20180502T231937Z
 DTSTART:20180504T090000Z
 DTEND:20180504T091500Z
 TRANSP:TRANSPARENT
@@ -80,6 +28,32 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Skills Strategy Implementation
   Guidance for Portugal - Strengthening t
  he Adult-Learning System
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264189881-en
+SUMMARY:Rethinking Urban Sprawl - Moving Towards
+  Sustainable Cities
+DESCRIPTION:Directorate: Environment Directorate\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/9789264189881-en\nPublication type
+ : Stand-alone monograph\nReleased as: Pa
+ perback, PDF.\n\niLibrary export: 27 Apr
+ il 2018, 20:01 Paris time (GMT+00:00)\nF
+ reepreview export: never\nFTI loaded: no
+ .
+DTSTAMP:20180502T231937Z
+DTSTART:20180614T100000Z
+DTEND:20180614T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Rethinking Urban Sprawl - Movi
+ ng Towards Sustainable Cities
 END:VALARM
 END:VEVENT
 END:VCALENDAR
