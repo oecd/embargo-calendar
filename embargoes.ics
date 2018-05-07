@@ -4,30 +4,30 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264298705-en
-SUMMARY:Skills Strategy Implementation Guidance 
- for Portugal - Strengthening the Adult-L
- earning System
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills\nLanguage: English\nDOI: https
- ://doi.org/10.1787/9789264298705-en\nPub
- lication type: Book\nReleased as: PDF, P
- aperback.\n\niLibrary export: 2 May 2018
- , 20:07 Paris time (GMT+00:00)\nFreeprev
- iew export: 27 April 2018, 20:38 Paris t
- ime (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180504T230417Z
-DTSTART:20180504T090000Z
-DTEND:20180504T091500Z
+UID:10.1787/9789264300040-en
+SUMMARY:Is the Last Mile the Longest? Economic G
+ ains from Gender Equality in Nordic Coun
+ tries
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: En
+ glish\nDOI: https://doi.org/10.1787/9789
+ 264300040-en\nPublication type: Stand-al
+ one monograph\nReleased as: PDF, Paperba
+ ck.\n\niLibrary export: 20 April 2018, 2
+ 0:22 Paris time (GMT+00:00)\nFreepreview
+  export: never\nFTI loaded: ✓.
+DTSTAMP:20180507T230232Z
+DTSTART:20180514T173000Z
+DTEND:20180514T174500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT72H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Skills Strategy Implementation
-  Guidance for Portugal - Strengthening t
- he Adult-Learning System
+DESCRIPTION:Reminder: Is the Last Mile the Longest? 
+ Economic Gains from Gender Equality in N
+ ordic Countries
 END:VALARM
 END:VEVENT
 
@@ -38,11 +38,12 @@ SUMMARY:Rethinking Urban Sprawl - Moving Towards
 DESCRIPTION:Directorate: Environment Directorate\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/9789264189881-en\nPublication type
- : Stand-alone monograph\nReleased as: Pa
- perback, PDF.\n\niLibrary export: 2 May 
- 2018, 20:07 Paris time (GMT+00:00)\nFree
- preview export: never\nFTI loaded: no.
-DTSTAMP:20180504T230417Z
+ : Stand-alone monograph\nReleased as: PD
+ F, ePub, Paperback.\n\niLibrary export: 
+ 2 May 2018, 20:07 Paris time (GMT+00:00)
+ \nFreepreview export: never\nFTI loaded:
+  no.
+DTSTAMP:20180507T230232Z
 DTSTART:20180614T100000Z
 DTEND:20180614T101500Z
 TRANSP:TRANSPARENT
