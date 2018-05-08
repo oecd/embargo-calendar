@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2018-05-07T23:02:29.8328478+02:00" count="5">
+<report name="official-embargoes" generated="2018-05-08T22:58:09.6999671+02:00" count="5">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -22,38 +22,6 @@
     <cell name="title">Rethinking Urban Sprawl (en)</cell>
     <cell name="subtitle">Moving Towards Sustainable Cities (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-06-14</cell>
-    <cell name="embargo date">2018-06-14T10:00:00Z</cell>
-    <cell name="launch date/time">2018-06-14T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-05-02T20:07:37.917Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="2">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264189881-en</cell>
-    <cell name="title">Rethinking Urban Sprawl (en)</cell>
-    <cell name="subtitle">Moving Towards Sustainable Cities (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-06-14</cell>
-    <cell name="embargo date">2018-06-14T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-05-02T20:07:37.917Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="3">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264189881-en</cell>
-    <cell name="title">Rethinking Urban Sprawl (en)</cell>
-    <cell name="subtitle">Moving Towards Sustainable Cities (en)</cell>
-    <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-06-14</cell>
@@ -64,23 +32,39 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="4">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/9789264300040-en</cell>
-    <cell name="title">Is the Last Mile the Longest? Economic Gains from Gender Equality in Nordic Countries (en)</cell>
-    <cell name="subtitle"/>
+  <row index="2">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264189881-en</cell>
+    <cell name="title">Rethinking Urban Sprawl (en)</cell>
+    <cell name="subtitle">Moving Towards Sustainable Cities (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-05-14</cell>
-    <cell name="embargo date">2018-05-14T17:30:00Z</cell>
-    <cell name="launch date/time">2018-05-14T17:30:00Z</cell>
-    <cell name="ilibrary last export date">2018-04-20T20:22:19.647Z</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-06-14</cell>
+    <cell name="embargo date">2018-06-14T10:00:00Z</cell>
+    <cell name="launch date/time">2018-06-14T10:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-05-07T20:00:10.213Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
+    <cell name="fti loaded?"/>
   </row>
-  <row index="5">
+  <row index="3">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264189881-en</cell>
+    <cell name="title">Rethinking Urban Sprawl (en)</cell>
+    <cell name="subtitle">Moving Towards Sustainable Cities (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-06-14</cell>
+    <cell name="embargo date">2018-06-14T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-05-07T20:00:10.213Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="4">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264300040-en</cell>
     <cell name="title">Is the Last Mile the Longest? Economic Gains from Gender Equality in Nordic Countries (en)</cell>
@@ -95,5 +79,21 @@
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
+  </row>
+  <row index="5">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/9789264300040-en</cell>
+    <cell name="title">Is the Last Mile the Longest? Economic Gains from Gender Equality in Nordic Countries (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-05-14</cell>
+    <cell name="embargo date">2018-05-14T17:30:00Z</cell>
+    <cell name="launch date/time">2018-05-14T17:30:00Z</cell>
+    <cell name="ilibrary last export date">2018-05-07T20:00:10.213Z</cell>
+    <cell name="freepreview last export date">2018-05-07T20:34:47.63Z</cell>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
   </row>
 </report>
