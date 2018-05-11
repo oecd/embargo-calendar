@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2018-05-10T23:05:16.7494144+02:00" count="5">
+<report name="official-embargoes" generated="2018-05-11T23:14:13.2709363+02:00" count="20">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -18,6 +18,182 @@
   </row>
   <row index="1">
     <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264300453-fr</cell>
+    <cell name="title">Analyse coûts-avantages et environnement (fr)</cell>
+    <cell name="subtitle">Avancées théoriques et utilisation par les pouvoirs publics (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2018-06-25</cell>
+    <cell name="embargo date">2018-06-25T09:00:00Z</cell>
+    <cell name="launch date/time">2018-05-25T09:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="2">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264300453-fr</cell>
+    <cell name="title">Analyse coûts-avantages et environnement (fr)</cell>
+    <cell name="subtitle">Avancées théoriques et utilisation par les pouvoirs publics (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2018-06-25</cell>
+    <cell name="embargo date">2018-06-25T09:00:00Z</cell>
+    <cell name="launch date/time">2018-06-25T09:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="3">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264300453-fr</cell>
+    <cell name="title">Analyse coûts-avantages et environnement (fr)</cell>
+    <cell name="subtitle">Avancées théoriques et utilisation par les pouvoirs publics (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-06-25</cell>
+    <cell name="embargo date">2018-06-25T09:00:00Z</cell>
+    <cell name="launch date/time">2018-06-25T09:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-05-09T20:02:45.473Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="4">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264085169-en</cell>
+    <cell name="title">Cost-Benefit Analysis and the Environment (en)</cell>
+    <cell name="subtitle">Further Developments and Policy Use (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-06-25</cell>
+    <cell name="embargo date">2018-06-25T09:00:00Z</cell>
+    <cell name="launch date/time">2018-06-25T09:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-05-09T20:02:45.473Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="5">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264085169-en</cell>
+    <cell name="title">Cost-Benefit Analysis and the Environment (en)</cell>
+    <cell name="subtitle">Further Developments and Policy Use (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-06-25</cell>
+    <cell name="embargo date">2018-06-25T09:00:00Z</cell>
+    <cell name="launch date/time">2018-06-25T09:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="6">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264085169-en</cell>
+    <cell name="title">Cost-Benefit Analysis and the Environment (en)</cell>
+    <cell name="subtitle">Further Developments and Policy Use (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2018-06-25</cell>
+    <cell name="embargo date">2018-06-25T09:00:00Z</cell>
+    <cell name="launch date/time">2018-06-25T09:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="7">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264085169-en</cell>
+    <cell name="title">Cost-Benefit Analysis and the Environment (en)</cell>
+    <cell name="subtitle">Further Developments and Policy Use (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-06-25</cell>
+    <cell name="embargo date">2018-06-25T09:00:00Z</cell>
+    <cell name="launch date/time">2018-06-25T09:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-05-09T20:02:45.473Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="8">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-kor-2018-en</cell>
+    <cell name="title">OECD Economic Surveys: Korea 2018 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-06-20</cell>
+    <cell name="embargo date">2018-06-20T09:00:00Z</cell>
+    <cell name="launch date/time">2018-06-20T09:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-05-03T20:06:01.127Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="9">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-kor-2018-en</cell>
+    <cell name="title">OECD Economic Surveys: Korea 2018 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-06-20</cell>
+    <cell name="embargo date">2018-06-20T09:00:00Z</cell>
+    <cell name="launch date/time">2018-06-20T09:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="10">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-kor-2018-en</cell>
+    <cell name="title">OECD Economic Surveys: Korea 2018 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2018-06-20</cell>
+    <cell name="embargo date">2018-06-20T09:00:00Z</cell>
+    <cell name="launch date/time">2018-06-20T09:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="11">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-kor-2018-en</cell>
+    <cell name="title">OECD Economic Surveys: Korea 2018 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2018-06-20</cell>
+    <cell name="embargo date">2018-06-20T09:00:00Z</cell>
+    <cell name="launch date/time">2018-06-20T09:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="12">
+    <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264189881-en</cell>
     <cell name="title">Rethinking Urban Sprawl (en)</cell>
     <cell name="subtitle">Moving Towards Sustainable Cities (en)</cell>
@@ -32,7 +208,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="2">
+  <row index="13">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264189881-en</cell>
     <cell name="title">Rethinking Urban Sprawl (en)</cell>
@@ -48,7 +224,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="3">
+  <row index="14">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264189881-en</cell>
     <cell name="title">Rethinking Urban Sprawl (en)</cell>
@@ -64,7 +240,71 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="4">
+  <row index="15">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9789264277571-en</cell>
+    <cell name="title">Trade Facilitation and the Global Economy (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-05-31</cell>
+    <cell name="embargo date">2018-05-31T06:00:00Z</cell>
+    <cell name="launch date/time">2018-05-31T06:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-05-09T20:02:45.473Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="16">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9789264277571-en</cell>
+    <cell name="title">Trade Facilitation and the Global Economy (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2018-05-31</cell>
+    <cell name="embargo date">2018-05-31T06:00:00Z</cell>
+    <cell name="launch date/time">2018-05-31T06:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-04-16T20:39:14.143Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="17">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9789264277571-en</cell>
+    <cell name="title">Trade Facilitation and the Global Economy (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-05-31</cell>
+    <cell name="embargo date">2018-05-31T06:00:00Z</cell>
+    <cell name="launch date/time">2018-05-31T06:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="18">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9789264277571-en</cell>
+    <cell name="title">Trade Facilitation and the Global Economy (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2018-05-31</cell>
+    <cell name="embargo date">2018-05-31T06:00:00Z</cell>
+    <cell name="launch date/time">2018-05-31T06:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-04-16T20:39:14.143Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="19">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264300040-en</cell>
     <cell name="title">Is the Last Mile the Longest? Economic Gains from Gender Equality in Nordic Countries (en)</cell>
@@ -80,7 +320,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="5">
+  <row index="20">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264300040-en</cell>
     <cell name="title">Is the Last Mile the Longest? Economic Gains from Gender Equality in Nordic Countries (en)</cell>

@@ -17,7 +17,7 @@ DESCRIPTION:Directorate: Directorate for Employment,
  0 Paris time (GMT+00:00)\nFreepreview ex
  port: 7 May 2018, 20:34 Paris time (GMT+
  00:00)\nFTI loaded: ✓.
-DTSTAMP:20180510T230520Z
+DTSTAMP:20180511T231417Z
 DTSTART:20180514T173000Z
 DTEND:20180514T174500Z
 TRANSP:TRANSPARENT
@@ -33,6 +33,32 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/9789264277571-en
+SUMMARY:Trade Facilitation and the Global Econom
+ y
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/9789264277571-en\nPublic
+ ation type: Stand-alone monograph\nRelea
+ sed as: PDF, HTML, Paperback, ePub.\n\ni
+ Library export: 9 May 2018, 20:02 Paris 
+ time (GMT+00:00)\nFreepreview export: ne
+ ver\nFTI loaded: no.
+DTSTAMP:20180511T231417Z
+DTSTART:20180531T060000Z
+DTEND:20180531T061500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Trade Facilitation and the Glo
+ bal Economy
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264189881-en
 SUMMARY:Rethinking Urban Sprawl - Moving Towards
   Sustainable Cities
@@ -44,7 +70,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  7 May 2018, 20:00 Paris time (GMT+00:00)
  \nFreepreview export: never\nFTI loaded:
   no.
-DTSTAMP:20180510T230520Z
+DTSTAMP:20180511T231417Z
 DTSTART:20180614T100000Z
 DTEND:20180614T101500Z
 TRANSP:TRANSPARENT
@@ -55,6 +81,85 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Rethinking Urban Sprawl - Movi
  ng Towards Sustainable Cities
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/eco_surveys-kor-2018-en
+SUMMARY:OECD Economic Surveys: Korea 2018
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/eco_surveys-kor-2018-en\nPublication 
+ type: Economic survey\nReleased as: PDF,
+  ePub, Paperback, HTML.\n\niLibrary expo
+ rt: 3 May 2018, 20:06 Paris time (GMT+00
+ :00)\nFreepreview export: never\nFTI loa
+ ded: no.
+DTSTAMP:20180511T231417Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Economic Surveys: Korea 2
+ 018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264300453-fr
+SUMMARY:Analyse coûts-avantages et environnement
+  - Avancées théoriques et utilisation pa
+ r les pouvoirs publics
+DESCRIPTION:Directorate: Environment Directorate\nLa
+ nguage: French\nDOI: https://doi.org/10.
+ 1787/9789264300453-fr\nPublication type:
+  Stand-alone monograph\nReleased as: HTM
+ L, ePub, PDF.\n\niLibrary export: 9 May 
+ 2018, 20:02 Paris time (GMT+00:00)\nFree
+ preview export: never\nFTI loaded: no.
+DTSTAMP:20180511T231417Z
+DTSTART:20180625T090000Z
+DTEND:20180625T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Analyse coûts-avantages et env
+ ironnement - Avancées théoriques et util
+ isation par les pouvoirs publics
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264085169-en
+SUMMARY:Cost-Benefit Analysis and the Environmen
+ t - Further Developments and Policy Use
+DESCRIPTION:Directorate: Environment Directorate\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/9789264085169-en\nPublication type
+ : Stand-alone monograph\nReleased as: PD
+ F, HTML, Paperback, ePub.\n\niLibrary ex
+ port: 9 May 2018, 20:02 Paris time (GMT+
+ 00:00)\nFreepreview export: never\nFTI l
+ oaded: no.
+DTSTAMP:20180511T231417Z
+DTSTART:20180625T090000Z
+DTEND:20180625T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Cost-Benefit Analysis and the 
+ Environment - Further Developments and P
+ olicy Use
 END:VALARM
 END:VEVENT
 END:VCALENDAR
