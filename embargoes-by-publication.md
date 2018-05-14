@@ -1,27 +1,6 @@
-# OECD publication embargoes (6 embargoes)
+# OECD publication embargoes (5 embargoes)
 
-*Data generated on Friday 11 May 2018 at 23:14*
-
-------
-
-## [Is the Last Mile the Longest? Economic Gains from Gender Equality in Nordic Countries](https://doi.org/10.1787/9789264300040-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 14 May 2018 at 19:30 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 7 May 2018 at 22:00
-- [x] Exported to Keepeek Monday 7 May 2018 at 22:34
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
+*Data generated on Monday 14 May 2018 at 23:11*
 
 ------
 
@@ -33,7 +12,7 @@ Thursday 31 May 2018 at 8:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 9 May 2018 at 22:02
+- [x] Exported to iLibrary Friday 11 May 2018 at 22:01
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -75,7 +54,7 @@ Wednesday 20 June 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 3 May 2018 at 22:06
+- [x] Exported to iLibrary Friday 11 May 2018 at 22:01
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -96,7 +75,7 @@ Monday 25 June 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 9 May 2018 at 22:02
+- [x] Exported to iLibrary Friday 11 May 2018 at 22:01
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -117,7 +96,7 @@ Monday 25 June 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 9 May 2018 at 22:02
+- [x] Exported to iLibrary Friday 11 May 2018 at 22:01
 - [ ] Exported to Keepeek
 
 ### Additional Information

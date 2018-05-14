@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2018-05-11T23:14:13.2709363+02:00" count="20">
+<report name="official-embargoes" generated="2018-05-14T23:11:17.3647171+02:00" count="20">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -22,11 +22,11 @@
     <cell name="title">Analyse coûts-avantages et environnement (fr)</cell>
     <cell name="subtitle">Avancées théoriques et utilisation par les pouvoirs publics (fr)</cell>
     <cell name="language">French</cell>
-    <cell name="medium">HTML</cell>
+    <cell name="medium">ePub</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2018-06-25</cell>
     <cell name="embargo date">2018-06-25T09:00:00Z</cell>
-    <cell name="launch date/time">2018-05-25T09:00:00Z</cell>
+    <cell name="launch date/time">2018-06-25T09:00:00Z</cell>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -38,12 +38,12 @@
     <cell name="title">Analyse coûts-avantages et environnement (fr)</cell>
     <cell name="subtitle">Avancées théoriques et utilisation par les pouvoirs publics (fr)</cell>
     <cell name="language">French</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-06-25</cell>
     <cell name="embargo date">2018-06-25T09:00:00Z</cell>
     <cell name="launch date/time">2018-06-25T09:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-05-11T20:01:06.203Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
@@ -54,49 +54,17 @@
     <cell name="title">Analyse coûts-avantages et environnement (fr)</cell>
     <cell name="subtitle">Avancées théoriques et utilisation par les pouvoirs publics (fr)</cell>
     <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-06-25</cell>
-    <cell name="embargo date">2018-06-25T09:00:00Z</cell>
-    <cell name="launch date/time">2018-06-25T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-05-09T20:02:45.473Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="4">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264085169-en</cell>
-    <cell name="title">Cost-Benefit Analysis and the Environment (en)</cell>
-    <cell name="subtitle">Further Developments and Policy Use (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-06-25</cell>
-    <cell name="embargo date">2018-06-25T09:00:00Z</cell>
-    <cell name="launch date/time">2018-06-25T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-05-09T20:02:45.473Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="5">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264085169-en</cell>
-    <cell name="title">Cost-Benefit Analysis and the Environment (en)</cell>
-    <cell name="subtitle">Further Developments and Policy Use (en)</cell>
-    <cell name="language">English</cell>
     <cell name="medium">HTML</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2018-06-25</cell>
     <cell name="embargo date">2018-06-25T09:00:00Z</cell>
-    <cell name="launch date/time">2018-06-25T09:00:00Z</cell>
+    <cell name="launch date/time">2018-05-25T09:00:00Z</cell>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="6">
+  <row index="4">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264085169-en</cell>
     <cell name="title">Cost-Benefit Analysis and the Environment (en)</cell>
@@ -112,7 +80,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="7">
+  <row index="5">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264085169-en</cell>
     <cell name="title">Cost-Benefit Analysis and the Environment (en)</cell>
@@ -123,7 +91,39 @@
     <cell name="date of publication">2018-06-25</cell>
     <cell name="embargo date">2018-06-25T09:00:00Z</cell>
     <cell name="launch date/time">2018-06-25T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-05-09T20:02:45.473Z</cell>
+    <cell name="ilibrary last export date">2018-05-11T20:01:06.203Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="6">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264085169-en</cell>
+    <cell name="title">Cost-Benefit Analysis and the Environment (en)</cell>
+    <cell name="subtitle">Further Developments and Policy Use (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-06-25</cell>
+    <cell name="embargo date">2018-06-25T09:00:00Z</cell>
+    <cell name="launch date/time">2018-06-25T09:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-05-11T20:01:06.203Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="7">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264085169-en</cell>
+    <cell name="title">Cost-Benefit Analysis and the Environment (en)</cell>
+    <cell name="subtitle">Further Developments and Policy Use (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-06-25</cell>
+    <cell name="embargo date">2018-06-25T09:00:00Z</cell>
+    <cell name="launch date/time">2018-06-25T09:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
@@ -139,7 +139,7 @@
     <cell name="date of publication">2018-06-20</cell>
     <cell name="embargo date">2018-06-20T09:00:00Z</cell>
     <cell name="launch date/time">2018-06-20T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-05-03T20:06:01.127Z</cell>
+    <cell name="ilibrary last export date">2018-05-11T20:01:06.203Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
@@ -155,7 +155,7 @@
     <cell name="date of publication">2018-06-20</cell>
     <cell name="embargo date">2018-06-20T09:00:00Z</cell>
     <cell name="launch date/time">2018-06-20T09:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-05-11T20:01:06.203Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
@@ -251,7 +251,7 @@
     <cell name="date of publication">2018-05-31</cell>
     <cell name="embargo date">2018-05-31T06:00:00Z</cell>
     <cell name="launch date/time">2018-05-31T06:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-05-09T20:02:45.473Z</cell>
+    <cell name="ilibrary last export date">2018-05-11T20:01:06.203Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
@@ -310,22 +310,6 @@
     <cell name="title">Is the Last Mile the Longest? Economic Gains from Gender Equality in Nordic Countries (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2018-05-14</cell>
-    <cell name="embargo date">2018-05-14T17:30:00Z</cell>
-    <cell name="launch date/time">2018-05-14T17:30:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="20">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/9789264300040-en</cell>
-    <cell name="title">Is the Last Mile the Longest? Economic Gains from Gender Equality in Nordic Countries (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-05-14</cell>
@@ -335,5 +319,21 @@
     <cell name="freepreview last export date">2018-05-07T20:34:47.63Z</cell>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="20">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/9789264300040-en</cell>
+    <cell name="title">Is the Last Mile the Longest? Economic Gains from Gender Equality in Nordic Countries (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2018-05-14</cell>
+    <cell name="embargo date">2018-05-14T17:30:00Z</cell>
+    <cell name="launch date/time">2018-05-14T17:30:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
   </row>
 </report>
