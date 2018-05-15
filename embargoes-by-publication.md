@@ -1,6 +1,27 @@
-# OECD publication embargoes (5 embargoes)
+# OECD publication embargoes (7 embargoes)
 
-*Data generated on Monday 14 May 2018 at 23:11*
+*Data generated on Tuesday 15 May 2018 at 23:13*
+
+------
+
+## [Lithuania](https://doi.org/10.1787/9789264300873-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 25 May 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 9 May 2018 at 22:02
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
 
 ------
 
@@ -11,7 +32,7 @@ Embargo date | Launch date
 Thursday 31 May 2018 at 8:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 May 2018 at 22:01
 - [ ] Exported to Keepeek
 
@@ -19,8 +40,29 @@ Thursday 31 May 2018 at 8:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [Benchmarking Civil Service Reform in Kazakhstan](https://doi.org/10.1787/9789264288096-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 8 June 2018 at 10:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 14 May 2018 at 22:07
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------

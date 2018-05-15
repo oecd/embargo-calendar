@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Mon, 14 May 2018 23:11:22 GMT</pubDate>
+      <pubDate>Tue, 15 May 2018 23:13:08 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -26,7 +26,22 @@
          <oe:iLibraryExport>Monday, 7 May 2018, 20:00 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Monday, 7 May 2018, 20:34 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264300873-en</guid>
+         <pubDate>Fri, 25 May 2018 09:00:00 GMT</pubDate>
+         <title>Lithuania</title>
+         <link>https://doi.org/10.1787/9789264300873-en</link>
+         <description>Lithuania by Directorate for Employment, Labour and Social Affairs has an embargo on Friday, 25 May 2018, 11:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-05-25T09:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Wednesday, 9 May 2018, 20:02 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264277571-en</guid>
@@ -37,11 +52,26 @@
          <oe:embargoTime>2018-05-31T06:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Friday, 11 May 2018, 20:01 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
-         <oe:availableMedia>PDF, HTML, Paperback, ePub</oe:availableMedia>
+         <oe:availableMedia>HTML, Paperback, ePub, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264288096-en</guid>
+         <pubDate>Fri, 08 Jun 2018 08:00:00 GMT</pubDate>
+         <title>Benchmarking Civil Service Reform in Kazakhstan</title>
+         <link>https://doi.org/10.1787/9789264288096-en</link>
+         <description>Benchmarking Civil Service Reform in Kazakhstan by Directorate for Public Governance has an embargo on Friday, 8 June 2018, 10:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-08T08:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Public Governance</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Monday, 14 May 2018, 20:07 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264189881-en</guid>
