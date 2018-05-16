@@ -4,46 +4,18 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264300040-en
-SUMMARY:Is the Last Mile the Longest? Economic G
- ains from Gender Equality in Nordic Coun
- tries
-DESCRIPTION:Directorate: Directorate for Employment,
-  Labour and Social Affairs\nLanguage: En
- glish\nDOI: https://doi.org/10.1787/9789
- 264300040-en\nPublication type: Stand-al
- one monograph\nReleased as: Paperback, P
- DF.\n\niLibrary export: 7 May 2018, 20:0
- 0 Paris time (GMT+00:00)\nFreepreview ex
- port: 7 May 2018, 20:34 Paris time (GMT+
- 00:00)\nFTI loaded: ✓.
-DTSTAMP:20180515T231307Z
-DTSTART:20180514T173000Z
-DTEND:20180514T174500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Is the Last Mile the Longest? 
- Economic Gains from Gender Equality in N
- ordic Countries
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264300873-en
-SUMMARY:Lithuania
+SUMMARY:OECD Reviews of Health Systems: Lithuani
+ a 2018
 DESCRIPTION:Directorate: Directorate for Employment,
   Labour and Social Affairs\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264300873-en\nPublication type: Book\nRe
- leased as: Paperback, PDF.\n\niLibrary e
- xport: 9 May 2018, 20:02 Paris time (GMT
- +00:00)\nFreepreview export: never\nFTI 
- loaded: no.
-DTSTAMP:20180515T231307Z
+ leased as: PDF, Paperback.\n\niLibrary e
+ xport: 15 May 2018, 20:10 Paris time (GM
+ T+00:00)\nFreepreview export: never\nFTI
+  loaded: no.
+DTSTAMP:20180516T230556Z
 DTSTART:20180525T090000Z
 DTEND:20180525T091500Z
 TRANSP:TRANSPARENT
@@ -52,7 +24,8 @@ TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Lithuania
+DESCRIPTION:Reminder: OECD Reviews of Health Systems
+ : Lithuania 2018
 END:VALARM
 END:VEVENT
 
@@ -64,11 +37,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/9789264277571-en\nPublic
  ation type: Stand-alone monograph\nRelea
- sed as: HTML, Paperback, ePub, PDF.\n\ni
- Library export: 11 May 2018, 20:01 Paris
-  time (GMT+00:00)\nFreepreview export: n
- ever\nFTI loaded: ✓.
-DTSTAMP:20180515T231307Z
+ sed as: ePub, PDF, HTML, Paperback.\n\ni
+ Library export: 15 May 2018, 20:10 Paris
+  time (GMT+00:00)\nFreepreview export: 1
+ 5 May 2018, 20:47 Paris time (GMT+00:00)
+ \nFTI loaded: ✓.
+DTSTAMP:20180516T230556Z
 DTSTART:20180531T060000Z
 DTEND:20180531T061500Z
 TRANSP:TRANSPARENT
@@ -89,11 +63,12 @@ SUMMARY:Benchmarking Civil Service Reform in Kaz
 DESCRIPTION:Directorate: Directorate for Public Gove
  rnance\nLanguage: English\nDOI: https://
  doi.org/10.1787/9789264288096-en\nPublic
- ation type: Book\nReleased as: Paperback
- , PDF.\n\niLibrary export: 14 May 2018, 
- 20:07 Paris time (GMT+00:00)\nFreeprevie
- w export: never\nFTI loaded: ✓.
-DTSTAMP:20180515T231307Z
+ ation type: Book\nReleased as: PDF, Pape
+ rback.\n\niLibrary export: 15 May 2018, 
+ 20:10 Paris time (GMT+00:00)\nFreeprevie
+ w export: 15 May 2018, 20:47 Paris time 
+ (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180516T230556Z
 DTSTART:20180608T080000Z
 DTEND:20180608T081500Z
 TRANSP:TRANSPARENT
@@ -115,11 +90,11 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/9789264189881-en\nPublication type
  : Stand-alone monograph\nReleased as: Pa
- perback, PDF, ePub.\n\niLibrary export: 
- 7 May 2018, 20:00 Paris time (GMT+00:00)
- \nFreepreview export: never\nFTI loaded:
-  no.
-DTSTAMP:20180515T231307Z
+ perback, HTML, PDF, ePub.\n\niLibrary ex
+ port: 7 May 2018, 20:00 Paris time (GMT+
+ 00:00)\nFreepreview export: never\nFTI l
+ oaded: no.
+DTSTAMP:20180516T230556Z
 DTSTART:20180614T100000Z
 DTEND:20180614T101500Z
 TRANSP:TRANSPARENT
@@ -141,10 +116,10 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  87/eco_surveys-kor-2018-en\nPublication 
  type: Economic survey\nReleased as: PDF,
   ePub, Paperback, HTML.\n\niLibrary expo
- rt: 11 May 2018, 20:01 Paris time (GMT+0
+ rt: 15 May 2018, 20:10 Paris time (GMT+0
  0:00)\nFreepreview export: never\nFTI lo
  aded: no.
-DTSTAMP:20180515T231307Z
+DTSTAMP:20180516T230556Z
 DTSTART:20180620T090000Z
 DTEND:20180620T091500Z
 TRANSP:TRANSPARENT
@@ -170,7 +145,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  b, PDF, HTML.\n\niLibrary export: 11 May
   2018, 20:01 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180515T231307Z
+DTSTAMP:20180516T230556Z
 DTSTART:20180625T090000Z
 DTEND:20180625T091500Z
 TRANSP:TRANSPARENT
@@ -197,7 +172,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  port: 11 May 2018, 20:01 Paris time (GMT
  +00:00)\nFreepreview export: never\nFTI 
  loaded: no.
-DTSTAMP:20180515T231307Z
+DTSTAMP:20180516T230556Z
 DTSTART:20180625T090000Z
 DTEND:20180625T091500Z
 TRANSP:TRANSPARENT
