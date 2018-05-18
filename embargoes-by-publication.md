@@ -1,6 +1,48 @@
-# OECD publication embargoes (7 embargoes)
+# OECD publication embargoes (9 embargoes)
 
-*Data generated on Thursday 17 May 2018 at 23:31*
+*Data generated on Friday 18 May 2018 at 23:54*
+
+------
+
+## [How is the tertiary-educated population evolving?](https://doi.org/10.1787/a17e95dc-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 24 May 2018 at 6:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 18 May 2018 at 22:27
+- [x] Exported to Keepeek Friday 18 May 2018 at 23:18
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [The deterioration of the public spending mix during the global financial crisis - Insights from new indicators](https://doi.org/10.1787/2f6d2e8f-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 25 May 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 18 May 2018 at 22:27
+- [x] Exported to Keepeek Friday 18 May 2018 at 23:18
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
 
 ------
 
@@ -12,7 +54,7 @@ Friday 25 May 2018 at 9:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 16 May 2018 at 22:00
+- [x] Exported to iLibrary Thursday 17 May 2018 at 22:16
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -33,7 +75,7 @@ Thursday 31 May 2018 at 8:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 16 May 2018 at 22:00
+- [x] Exported to iLibrary Thursday 17 May 2018 at 22:16
 - [x] Exported to Keepeek Tuesday 15 May 2018 at 22:47
 
 ### Additional Information
