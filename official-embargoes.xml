@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2018-05-18T23:54:55.4241155+02:00" count="46">
+<report name="official-embargoes" generated="2018-05-21T23:09:41.6715969+02:00" count="45">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -735,21 +735,5 @@
     <cell name="freepreview last export date">2018-05-18T21:18:08.3647702Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="46">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/26e12903-en</cell>
-    <cell name="title">Benefit reform for employment and equal opportunity in Finland (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-05-25</cell>
-    <cell name="embargo date">2018-05-18T00:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-05-18T20:27:54.1691457Z</cell>
-    <cell name="freepreview last export date">2018-05-18T21:18:08.3647702Z</cell>
-    <cell name="catalogue type">Working paper</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
   </row>
 </report>
