@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Mon, 21 May 2018 23:09:46 GMT</pubDate>
+      <pubDate>Tue, 22 May 2018 23:08:45 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -29,6 +29,21 @@
          <oe:availableMedia>PDF</oe:availableMedia>
       </item>
       <item>
+         <guid isPermaLink="false">10.1787/26e12903-en</guid>
+         <pubDate>Fri, 25 May 2018 00:00:00 GMT</pubDate>
+         <title>Benefit reform for employment and equal opportunity in Finland</title>
+         <link>https://doi.org/10.1787/26e12903-en</link>
+         <description>Benefit reform for employment and equal opportunity in Finland by Economics Department has an embargo on Friday, 25 May 2018, 2:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-05-25T00:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Friday, 18 May 2018, 20:27 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Tuesday, 22 May 2018, 20:38 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
          <guid isPermaLink="false">10.1787/2f6d2e8f-en</guid>
          <pubDate>Fri, 25 May 2018 00:00:00 GMT</pubDate>
          <title>The deterioration of the public spending mix during the global financial crisis - Insights from new indicators</title>
@@ -39,7 +54,7 @@
          <oe:directorate>Economics Department</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Friday, 18 May 2018, 20:27 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Friday, 18 May 2018, 21:18 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:freePreviewExport>Tuesday, 22 May 2018, 20:38 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Working paper</oe:catalogueType>
          <oe:availableMedia>PDF</oe:availableMedia>
       </item>
@@ -52,8 +67,68 @@
          <oe:embargoTime>2018-05-25T07:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Thursday, 17 May 2018, 20:16 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264301665-en</guid>
+         <pubDate>Tue, 29 May 2018 11:30:00 GMT</pubDate>
+         <title>Opportunities for All - A Framework for Policy Action on Inclusive Growth</title>
+         <link>https://doi.org/10.1787/9789264301665-en</link>
+         <description>Opportunities for All - A Framework for Policy Action on Inclusive Growth by General Secretariat has an embargo on Tuesday, 29 May 2018, 13:30 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-05-29T11:30:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>General Secretariat</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/eco_outlook-v2018-1-en</guid>
+         <pubDate>Wed, 30 May 2018 08:30:00 GMT</pubDate>
+         <title>OECD Economic Outlook, Volume 2018 Issue 1 - Preliminary version</title>
+         <link>https://doi.org/10.1787/eco_outlook-v2018-1-en</link>
+         <description>OECD Economic Outlook, Volume 2018 Issue 1 - Preliminary version by Economics Department has an embargo on Wednesday, 30 May 2018, 10:30 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-05-30T08:30:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Friday, 18 May 2018, 20:27 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/eco_outlook-v2018-1-de</guid>
+         <pubDate>Wed, 30 May 2018 08:30:00 GMT</pubDate>
+         <title>OECD-Wirtschaftsausblick, Ausgabe 2018/1 - Vorläufige Ausgabe</title>
+         <link>https://doi.org/10.1787/eco_outlook-v2018-1-de</link>
+         <description>OECD-Wirtschaftsausblick, Ausgabe 2018/1 - Vorläufige Ausgabe by Economics Department has an embargo on Wednesday, 30 May 2018, 10:30 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-05-30T08:30:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Friday, 18 May 2018, 20:27 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/eco_outlook-v2018-1-fr</guid>
+         <pubDate>Wed, 30 May 2018 08:30:00 GMT</pubDate>
+         <title>Perspectives économiques de l'OCDE, Volume 2018 Numéro 1 - Version préliminaire</title>
+         <link>https://doi.org/10.1787/eco_outlook-v2018-1-fr</link>
+         <description>Perspectives économiques de l'OCDE, Volume 2018 Numéro 1 - Version préliminaire by Economics Department has an embargo on Wednesday, 30 May 2018, 10:30 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-05-30T08:30:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Friday, 18 May 2018, 20:27 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
@@ -101,7 +176,7 @@
          <oe:iLibraryExport>Monday, 7 May 2018, 20:00 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
-         <oe:availableMedia>Paperback, HTML, PDF, ePub</oe:availableMedia>
+         <oe:availableMedia>PDF, ePub, Paperback, HTML</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/eco_surveys-kor-2018-en</guid>

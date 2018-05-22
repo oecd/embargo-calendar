@@ -1,6 +1,6 @@
-# OECD publication embargoes (9 embargoes)
+# OECD publication embargoes (14 embargoes)
 
-*Data generated on Monday 21 May 2018 at 23:09*
+*Data generated on Tuesday 22 May 2018 at 23:08*
 
 ------
 
@@ -25,6 +25,27 @@ Thursday 24 May 2018 at 6:00 | no launch event
 
 ------
 
+## [Benefit reform for employment and equal opportunity in Finland](https://doi.org/10.1787/26e12903-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 25 May 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 18 May 2018 at 22:27
+- [x] Exported to Keepeek Tuesday 22 May 2018 at 22:38
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
 ## [The deterioration of the public spending mix during the global financial crisis - Insights from new indicators](https://doi.org/10.1787/2f6d2e8f-en)
 
 Embargo date | Launch date
@@ -34,7 +55,7 @@ Friday 25 May 2018 at 2:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 18 May 2018 at 22:27
-- [x] Exported to Keepeek Friday 18 May 2018 at 23:18
+- [x] Exported to Keepeek Tuesday 22 May 2018 at 22:38
 
 ### Additional Information
 
@@ -53,7 +74,7 @@ Embargo date | Launch date
 Friday 25 May 2018 at 9:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 17 May 2018 at 22:16
 - [ ] Exported to Keepeek
 
@@ -61,6 +82,90 @@ Friday 25 May 2018 at 9:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Opportunities for All - A Framework for Policy Action on Inclusive Growth](https://doi.org/10.1787/9789264301665-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 29 May 2018 at 13:30 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *General Secretariat*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [OECD Economic Outlook, Volume 2018 Issue 1 - Preliminary version](https://doi.org/10.1787/eco_outlook-v2018-1-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 30 May 2018 at 10:30 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 18 May 2018 at 22:27
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [OECD-Wirtschaftsausblick, Ausgabe 2018/1 - Vorläufige Ausgabe](https://doi.org/10.1787/eco_outlook-v2018-1-de)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 30 May 2018 at 10:30 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 18 May 2018 at 22:27
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *German*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Perspectives économiques de l'OCDE, Volume 2018 Numéro 1 - Version préliminaire](https://doi.org/10.1787/eco_outlook-v2018-1-fr)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 30 May 2018 at 10:30 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 18 May 2018 at 22:27
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Medium: *PDF*

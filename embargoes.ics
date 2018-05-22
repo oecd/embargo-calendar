@@ -15,7 +15,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  7 Paris time (GMT+00:00)\nFreepreview ex
  port: 18 May 2018, 21:18 Paris time (GMT
  +00:00)\nFTI loaded: ✓.
-DTSTAMP:20180521T230945Z
+DTSTAMP:20180522T230843Z
 DTSTART:20180524T040000Z
 DTEND:20180524T041500Z
 TRANSP:TRANSPARENT
@@ -30,6 +30,32 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/26e12903-en
+SUMMARY:Benefit reform for employment and equal 
+ opportunity in Finland
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/26e12903-en\nPublication type: Workin
+ g paper\nReleased as: PDF.\n\niLibrary e
+ xport: 18 May 2018, 20:27 Paris time (GM
+ T+00:00)\nFreepreview export: 22 May 201
+ 8, 20:38 Paris time (GMT+00:00)\nFTI loa
+ ded: ✓, ✓.
+DTSTAMP:20180522T230843Z
+DTSTART:20180525T000000Z
+DTEND:20180525T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Benefit reform for employment 
+ and equal opportunity in Finland
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/2f6d2e8f-en
 SUMMARY:The deterioration of the public spending
   mix during the global financial crisis 
@@ -39,10 +65,10 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  87/2f6d2e8f-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
  xport: 18 May 2018, 20:27 Paris time (GM
- T+00:00)\nFreepreview export: 18 May 201
- 8, 21:18 Paris time (GMT+00:00)\nFTI loa
+ T+00:00)\nFreepreview export: 22 May 201
+ 8, 20:38 Paris time (GMT+00:00)\nFTI loa
  ded: ✓, ✓.
-DTSTAMP:20180521T230945Z
+DTSTAMP:20180522T230843Z
 DTSTART:20180525T000000Z
 DTEND:20180525T001500Z
 TRANSP:TRANSPARENT
@@ -65,11 +91,11 @@ DESCRIPTION:Directorate: Directorate for Employment,
   Labour and Social Affairs\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264300873-en\nPublication type: Book\nRe
- leased as: PDF, Paperback.\n\niLibrary e
+ leased as: Paperback, PDF.\n\niLibrary e
  xport: 17 May 2018, 20:16 Paris time (GM
  T+00:00)\nFreepreview export: never\nFTI
-  loaded: no.
-DTSTAMP:20180521T230945Z
+  loaded: ✓.
+DTSTAMP:20180522T230843Z
 DTSTART:20180525T070000Z
 DTEND:20180525T071500Z
 TRANSP:TRANSPARENT
@@ -80,6 +106,107 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Reviews of Health Systems
  : Lithuania 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264301665-en
+SUMMARY:Opportunities for All - A Framework for 
+ Policy Action on Inclusive Growth
+DESCRIPTION:Directorate: General Secretariat\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/9789264301665-en\nPublication type: St
+ and-alone monograph\nReleased as: PDF, P
+ aperback.\n\niLibrary export: never\nFre
+ epreview export: never\nFTI loaded: no.
+DTSTAMP:20180522T230843Z
+DTSTART:20180529T113000Z
+DTEND:20180529T114500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Opportunities for All - A Fram
+ ework for Policy Action on Inclusive Gro
+ wth
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/eco_outlook-v2018-1-en
+SUMMARY:OECD Economic Outlook, Volume 2018 Issue
+  1 - Preliminary version
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/eco_outlook-v2018-1-en\nPublication t
+ ype: Book\nReleased as: PDF, Paperback.\
+ n\niLibrary export: 18 May 2018, 20:27 P
+ aris time (GMT+00:00)\nFreepreview expor
+ t: never\nFTI loaded: no.
+DTSTAMP:20180522T230843Z
+DTSTART:20180530T083000Z
+DTEND:20180530T084500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Economic Outlook, Volume 
+ 2018 Issue 1 - Preliminary version
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/eco_outlook-v2018-1-de
+SUMMARY:OECD-Wirtschaftsausblick, Ausgabe 2018/1
+  - Vorläufige Ausgabe
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: German\nDOI: https://doi.org/10.178
+ 7/eco_outlook-v2018-1-de\nPublication ty
+ pe: Book\nReleased as: PDF, Paperback.\n
+ \niLibrary export: 18 May 2018, 20:27 Pa
+ ris time (GMT+00:00)\nFreepreview export
+ : never\nFTI loaded: no.
+DTSTAMP:20180522T230843Z
+DTSTART:20180530T083000Z
+DTEND:20180530T084500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD-Wirtschaftsausblick, Ausg
+ abe 2018/1 - Vorläufige Ausgabe
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/eco_outlook-v2018-1-fr
+SUMMARY:Perspectives économiques de l'OCDE, Volu
+ me 2018 Numéro 1 - Version préliminaire
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: French\nDOI: https://doi.org/10.178
+ 7/eco_outlook-v2018-1-fr\nPublication ty
+ pe: Book\nReleased as: PDF, Paperback.\n
+ \niLibrary export: 18 May 2018, 20:27 Pa
+ ris time (GMT+00:00)\nFreepreview export
+ : never\nFTI loaded: no.
+DTSTAMP:20180522T230843Z
+DTSTART:20180530T083000Z
+DTEND:20180530T084500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Perspectives économiques de l'
+ OCDE, Volume 2018 Numéro 1 - Version pré
+ liminaire
 END:VALARM
 END:VEVENT
 
@@ -96,7 +223,7 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
   time (GMT+00:00)\nFreepreview export: 1
  5 May 2018, 20:47 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180521T230945Z
+DTSTAMP:20180522T230843Z
 DTSTART:20180531T060000Z
 DTEND:20180531T061500Z
 TRANSP:TRANSPARENT
@@ -122,7 +249,7 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  20:10 Paris time (GMT+00:00)\nFreeprevie
  w export: 15 May 2018, 20:47 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180521T230945Z
+DTSTAMP:20180522T230843Z
 DTSTART:20180608T080000Z
 DTEND:20180608T081500Z
 TRANSP:TRANSPARENT
@@ -143,12 +270,12 @@ SUMMARY:Rethinking Urban Sprawl - Moving Towards
 DESCRIPTION:Directorate: Environment Directorate\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/9789264189881-en\nPublication type
- : Stand-alone monograph\nReleased as: Pa
- perback, HTML, PDF, ePub.\n\niLibrary ex
+ : Stand-alone monograph\nReleased as: PD
+ F, ePub, Paperback, HTML.\n\niLibrary ex
  port: 7 May 2018, 20:00 Paris time (GMT+
  00:00)\nFreepreview export: never\nFTI l
  oaded: no.
-DTSTAMP:20180521T230945Z
+DTSTAMP:20180522T230843Z
 DTSTART:20180614T100000Z
 DTEND:20180614T101500Z
 TRANSP:TRANSPARENT
@@ -173,7 +300,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  rt: 15 May 2018, 20:10 Paris time (GMT+0
  0:00)\nFreepreview export: never\nFTI lo
  aded: no.
-DTSTAMP:20180521T230945Z
+DTSTAMP:20180522T230843Z
 DTSTART:20180620T090000Z
 DTEND:20180620T091500Z
 TRANSP:TRANSPARENT
@@ -199,7 +326,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  b, PDF, HTML.\n\niLibrary export: 11 May
   2018, 20:01 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180521T230945Z
+DTSTAMP:20180522T230843Z
 DTSTART:20180625T090000Z
 DTEND:20180625T091500Z
 TRANSP:TRANSPARENT
@@ -226,7 +353,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  port: 11 May 2018, 20:01 Paris time (GMT
  +00:00)\nFreepreview export: never\nFTI 
  loaded: no.
-DTSTAMP:20180521T230945Z
+DTSTAMP:20180522T230843Z
 DTSTART:20180625T090000Z
 DTEND:20180625T091500Z
 TRANSP:TRANSPARENT
