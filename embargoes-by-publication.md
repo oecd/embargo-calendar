@@ -1,6 +1,6 @@
-# OECD publication embargoes (14 embargoes)
+# OECD publication embargoes (19 embargoes)
 
-*Data generated on Tuesday 22 May 2018 at 23:08*
+*Data generated on Wednesday 23 May 2018 at 23:29*
 
 ------
 
@@ -21,6 +21,27 @@ Thursday 24 May 2018 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Improving Markets for Recycled Plastics - Trends, Prospects and Policy Responses](https://doi.org/10.1787/9789264301016-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 24 May 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 16 May 2018 at 22:00
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
 ------
@@ -75,8 +96,8 @@ Friday 25 May 2018 at 9:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 May 2018 at 22:16
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 22 May 2018 at 22:02
+- [x] Exported to Keepeek Tuesday 22 May 2018 at 22:38
 
 ### Additional Information
 
@@ -84,6 +105,27 @@ Friday 25 May 2018 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Tax reform to support growth and employment in Finland](https://doi.org/10.1787/412834d3-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 29 May 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 23 May 2018 at 22:17
+- [x] Exported to Keepeek Wednesday 23 May 2018 at 22:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
@@ -96,7 +138,7 @@ Tuesday 29 May 2018 at 13:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 22 May 2018 at 22:02
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -117,7 +159,7 @@ Wednesday 30 May 2018 at 10:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 18 May 2018 at 22:27
+- [x] Exported to iLibrary Tuesday 22 May 2018 at 22:02
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -138,7 +180,7 @@ Wednesday 30 May 2018 at 10:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 18 May 2018 at 22:27
+- [x] Exported to iLibrary Tuesday 22 May 2018 at 22:02
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -159,7 +201,7 @@ Wednesday 30 May 2018 at 10:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 18 May 2018 at 22:27
+- [x] Exported to iLibrary Tuesday 22 May 2018 at 22:02
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -189,6 +231,69 @@ Thursday 31 May 2018 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [Études économiques de l'OCDE : Canada 2018](https://doi.org/10.1787/eco_surveys-can-2018-fr)
+
+Embargo date | Launch date
+-------------|------------
+Saturday 2 June 2018 at 23:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
+## [OECD Economic Surveys: Canada 2018](https://doi.org/10.1787/eco_surveys-can-2018-en)
+
+Embargo date | Launch date
+-------------|------------
+Saturday 2 June 2018 at 23:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
+## [OECD Economic Surveys: United States 2018](https://doi.org/10.1787/eco_surveys-usa-2018-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 6 June 2018 at 17:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
 * Medium: *PDF*
 
 ------
