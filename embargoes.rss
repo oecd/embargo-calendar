@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Wed, 23 May 2018 23:29:27 GMT</pubDate>
+      <pubDate>Thu, 24 May 2018 23:49:23 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -37,11 +37,11 @@
          <oe:embargoTime>2018-05-24T09:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Environment Directorate</oe:directorate>
-         <oe:ftiLoaded/>
-         <oe:iLibraryExport>Wednesday, 16 May 2018, 20:00 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Wednesday, 23 May 2018, 20:17 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Wednesday, 23 May 2018, 20:57 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/26e12903-en</guid>
@@ -86,6 +86,21 @@
          <oe:iLibraryExport>Tuesday, 22 May 2018, 20:02 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Tuesday, 22 May 2018, 20:38 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264301030-en</guid>
+         <pubDate>Mon, 28 May 2018 12:30:00 GMT</pubDate>
+         <title>Catching Up? Country Studies on Intergenerational Mobility and Children of Immigrants</title>
+         <link>https://doi.org/10.1787/9789264301030-en</link>
+         <description>Catching Up? Country Studies on Intergenerational Mobility and Children of Immigrants by Directorate for Employment, Labour and Social Affairs has an embargo on Monday, 28 May 2018, 14:30 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-05-28T12:30:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Friday, 18 May 2018, 20:27 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
          <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
@@ -113,10 +128,85 @@
          <oe:launchTime/>
          <oe:directorate>General Secretariat</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Tuesday, 22 May 2018, 20:02 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Wednesday, 23 May 2018, 20:17 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/8ddfd4c6-en</guid>
+         <pubDate>Tue, 29 May 2018 23:00:00 GMT</pubDate>
+         <title>Enhancing governance in Thailand</title>
+         <link>https://doi.org/10.1787/8ddfd4c6-en</link>
+         <description>Enhancing governance in Thailand by Economics Department has an embargo on Wednesday, 30 May 2018, 1:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-05-29T23:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Thursday, 24 May 2018, 20:32 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Thursday, 24 May 2018, 21:12 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/e525c875-en</guid>
+         <pubDate>Wed, 30 May 2018 00:00:00 GMT</pubDate>
+         <title>Boosting productivity and living standards in Thailand</title>
+         <link>https://doi.org/10.1787/e525c875-en</link>
+         <description>Boosting productivity and living standards in Thailand by Economics Department has an embargo on Wednesday, 30 May 2018, 2:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-05-30T00:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Thursday, 24 May 2018, 20:32 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Thursday, 24 May 2018, 21:12 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/263a78df-en</guid>
+         <pubDate>Wed, 30 May 2018 00:00:00 GMT</pubDate>
+         <title>Making growth more inclusive in Thailand</title>
+         <link>https://doi.org/10.1787/263a78df-en</link>
+         <description>Making growth more inclusive in Thailand by Economics Department has an embargo on Wednesday, 30 May 2018, 2:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-05-30T00:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Thursday, 24 May 2018, 20:32 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Thursday, 24 May 2018, 21:12 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/7ad06329-en</guid>
+         <pubDate>Wed, 30 May 2018 00:00:00 GMT</pubDate>
+         <title>Sustainable finance for inclusive growth in Thailand</title>
+         <link>https://doi.org/10.1787/7ad06329-en</link>
+         <description>Sustainable finance for inclusive growth in Thailand by Economics Department has an embargo on Wednesday, 30 May 2018, 2:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-05-30T00:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Thursday, 24 May 2018, 20:32 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Thursday, 24 May 2018, 21:12 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264277571-en</guid>
+         <pubDate>Wed, 30 May 2018 07:00:00 GMT</pubDate>
+         <title>Trade Facilitation and the Global Economy</title>
+         <link>https://doi.org/10.1787/9789264277571-en</link>
+         <description>Trade Facilitation and the Global Economy by Trade and Agriculture Directorate has an embargo on Wednesday, 30 May 2018, 9:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-05-30T07:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Thursday, 17 May 2018, 20:16 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Tuesday, 15 May 2018, 20:47 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+         <oe:availableMedia>HTML, Paperback, ePub, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/eco_outlook-v2018-1-en</guid>
@@ -131,7 +221,7 @@
          <oe:iLibraryExport>Tuesday, 22 May 2018, 20:02 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/eco_outlook-v2018-1-de</guid>
@@ -143,10 +233,10 @@
          <oe:launchTime/>
          <oe:directorate>Economics Department</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Tuesday, 22 May 2018, 20:02 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Wednesday, 23 May 2018, 20:17 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/eco_outlook-v2018-1-fr</guid>
@@ -158,25 +248,10 @@
          <oe:launchTime/>
          <oe:directorate>Economics Department</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Tuesday, 22 May 2018, 20:02 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Wednesday, 23 May 2018, 20:17 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
-      </item>
-      <item>
-         <guid isPermaLink="false">10.1787/9789264277571-en</guid>
-         <pubDate>Thu, 31 May 2018 06:00:00 GMT</pubDate>
-         <title>Trade Facilitation and the Global Economy</title>
-         <link>https://doi.org/10.1787/9789264277571-en</link>
-         <description>Trade Facilitation and the Global Economy by Trade and Agriculture Directorate has an embargo on Thursday, 31 May 2018, 8:00 Paris time (GMT+02:00).</description>
-         <oe:embargoTime>2018-05-31T06:00:00Z</oe:embargoTime>
-         <oe:launchTime/>
-         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
-         <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Thursday, 17 May 2018, 20:16 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Tuesday, 15 May 2018, 20:47 Paris time (GMT+00:00)</oe:freePreviewExport>
-         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
-         <oe:availableMedia>HTML, Paperback, ePub, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/eco_surveys-can-2018-fr</guid>
@@ -188,7 +263,7 @@
          <oe:launchTime/>
          <oe:directorate>Economics Department</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport/>
+         <oe:iLibraryExport>Wednesday, 23 May 2018, 20:17 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Economic survey</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
@@ -203,7 +278,7 @@
          <oe:launchTime/>
          <oe:directorate>Economics Department</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport/>
+         <oe:iLibraryExport>Wednesday, 23 May 2018, 20:17 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Economic survey</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
@@ -218,7 +293,7 @@
          <oe:launchTime/>
          <oe:directorate>Economics Department</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport/>
+         <oe:iLibraryExport>Wednesday, 23 May 2018, 20:17 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Economic survey</oe:catalogueType>
          <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>

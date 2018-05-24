@@ -1,48 +1,6 @@
-# OECD publication embargoes (19 embargoes)
+# OECD publication embargoes (22 embargoes)
 
-*Data generated on Wednesday 23 May 2018 at 23:29*
-
-------
-
-## [How is the tertiary-educated population evolving?](https://doi.org/10.1787/a17e95dc-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 24 May 2018 at 6:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 18 May 2018 at 22:27
-- [x] Exported to Keepeek Friday 18 May 2018 at 23:18
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Improving Markets for Recycled Plastics - Trends, Prospects and Policy Responses](https://doi.org/10.1787/9789264301016-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 24 May 2018 at 11:00 | no launch event
-
-### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 16 May 2018 at 22:00
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
+*Data generated on Thursday 24 May 2018 at 23:49*
 
 ------
 
@@ -109,6 +67,27 @@ Friday 25 May 2018 at 9:00 | no launch event
 
 ------
 
+## [Catching Up? Country Studies on Intergenerational Mobility and Children of Immigrants](https://doi.org/10.1787/9789264301030-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 28 May 2018 at 14:30 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 18 May 2018 at 22:27
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
 ## [Tax reform to support growth and employment in Finland](https://doi.org/10.1787/412834d3-en)
 
 Embargo date | Launch date
@@ -138,7 +117,7 @@ Tuesday 29 May 2018 at 13:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 22 May 2018 at 22:02
+- [x] Exported to iLibrary Wednesday 23 May 2018 at 22:17
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -146,6 +125,111 @@ Tuesday 29 May 2018 at 13:30 | no launch event
 * Directorate: *General Secretariat*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [Enhancing governance in Thailand](https://doi.org/10.1787/8ddfd4c6-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 30 May 2018 at 1:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 24 May 2018 at 22:32
+- [x] Exported to Keepeek Thursday 24 May 2018 at 23:12
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Boosting productivity and living standards in Thailand](https://doi.org/10.1787/e525c875-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 30 May 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 24 May 2018 at 22:32
+- [x] Exported to Keepeek Thursday 24 May 2018 at 23:12
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Making growth more inclusive in Thailand](https://doi.org/10.1787/263a78df-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 30 May 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 24 May 2018 at 22:32
+- [x] Exported to Keepeek Thursday 24 May 2018 at 23:12
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Sustainable finance for inclusive growth in Thailand](https://doi.org/10.1787/7ad06329-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 30 May 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 24 May 2018 at 22:32
+- [x] Exported to Keepeek Thursday 24 May 2018 at 23:12
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Trade Facilitation and the Global Economy](https://doi.org/10.1787/9789264277571-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 30 May 2018 at 9:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 17 May 2018 at 22:16
+- [x] Exported to Keepeek Tuesday 15 May 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
@@ -180,7 +264,7 @@ Wednesday 30 May 2018 at 10:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 22 May 2018 at 22:02
+- [x] Exported to iLibrary Wednesday 23 May 2018 at 22:17
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -201,7 +285,7 @@ Wednesday 30 May 2018 at 10:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 22 May 2018 at 22:02
+- [x] Exported to iLibrary Wednesday 23 May 2018 at 22:17
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -214,27 +298,6 @@ Wednesday 30 May 2018 at 10:30 | no launch event
 
 ------
 
-## [Trade Facilitation and the Global Economy](https://doi.org/10.1787/9789264277571-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 31 May 2018 at 8:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 May 2018 at 22:16
-- [x] Exported to Keepeek Tuesday 15 May 2018 at 22:47
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
-
-------
-
 ## [Études économiques de l'OCDE : Canada 2018](https://doi.org/10.1787/eco_surveys-can-2018-fr)
 
 Embargo date | Launch date
@@ -243,7 +306,7 @@ Saturday 2 June 2018 at 23:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 23 May 2018 at 22:17
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -264,7 +327,7 @@ Saturday 2 June 2018 at 23:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 23 May 2018 at 22:17
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -285,7 +348,7 @@ Wednesday 6 June 2018 at 17:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 23 May 2018 at 22:17
 - [ ] Exported to Keepeek
 
 ### Additional Information
