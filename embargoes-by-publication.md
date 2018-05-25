@@ -1,69 +1,6 @@
-# OECD publication embargoes (22 embargoes)
+# OECD publication embargoes (20 embargoes)
 
-*Data generated on Thursday 24 May 2018 at 23:49*
-
-------
-
-## [Benefit reform for employment and equal opportunity in Finland](https://doi.org/10.1787/26e12903-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 25 May 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 18 May 2018 at 22:27
-- [x] Exported to Keepeek Tuesday 22 May 2018 at 22:38
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [The deterioration of the public spending mix during the global financial crisis - Insights from new indicators](https://doi.org/10.1787/2f6d2e8f-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 25 May 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 18 May 2018 at 22:27
-- [x] Exported to Keepeek Tuesday 22 May 2018 at 22:38
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [OECD Reviews of Health Systems: Lithuania 2018](https://doi.org/10.1787/9789264300873-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 25 May 2018 at 9:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 22 May 2018 at 22:02
-- [x] Exported to Keepeek Tuesday 22 May 2018 at 22:38
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Friday 25 May 2018 at 23:33*
 
 ------
 
@@ -75,7 +12,7 @@ Monday 28 May 2018 at 14:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 18 May 2018 at 22:27
+- [x] Exported to iLibrary Thursday 24 May 2018 at 22:32
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -97,7 +34,7 @@ Tuesday 29 May 2018 at 2:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 23 May 2018 at 22:17
-- [x] Exported to Keepeek Wednesday 23 May 2018 at 22:57
+- [x] Exported to Keepeek Friday 25 May 2018 at 22:59
 
 ### Additional Information
 
@@ -113,10 +50,10 @@ Tuesday 29 May 2018 at 2:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 29 May 2018 at 13:30 | no launch event
+Tuesday 29 May 2018 at 11:30 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 23 May 2018 at 22:17
 - [ ] Exported to Keepeek
 
@@ -124,7 +61,7 @@ Tuesday 29 May 2018 at 13:30 | no launch event
 
 * Directorate: *General Secretariat*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
@@ -139,7 +76,7 @@ Wednesday 30 May 2018 at 1:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 24 May 2018 at 22:32
-- [x] Exported to Keepeek Thursday 24 May 2018 at 23:12
+- [x] Exported to Keepeek Friday 25 May 2018 at 22:59
 
 ### Additional Information
 
@@ -160,7 +97,7 @@ Wednesday 30 May 2018 at 2:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 24 May 2018 at 22:32
-- [x] Exported to Keepeek Thursday 24 May 2018 at 23:12
+- [x] Exported to Keepeek Friday 25 May 2018 at 22:59
 
 ### Additional Information
 
@@ -181,7 +118,7 @@ Wednesday 30 May 2018 at 2:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 24 May 2018 at 22:32
-- [x] Exported to Keepeek Thursday 24 May 2018 at 23:12
+- [x] Exported to Keepeek Friday 25 May 2018 at 22:59
 
 ### Additional Information
 
@@ -202,7 +139,7 @@ Wednesday 30 May 2018 at 2:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 24 May 2018 at 22:32
-- [x] Exported to Keepeek Thursday 24 May 2018 at 23:12
+- [x] Exported to Keepeek Friday 25 May 2018 at 22:59
 
 ### Additional Information
 
@@ -222,8 +159,8 @@ Wednesday 30 May 2018 at 9:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 May 2018 at 22:16
-- [x] Exported to Keepeek Tuesday 15 May 2018 at 22:47
+- [x] Exported to iLibrary Thursday 24 May 2018 at 22:32
+- [x] Exported to Keepeek Thursday 24 May 2018 at 23:12
 
 ### Additional Information
 
@@ -298,11 +235,11 @@ Wednesday 30 May 2018 at 10:30 | no launch event
 
 ------
 
-## [Études économiques de l'OCDE : Canada 2018](https://doi.org/10.1787/eco_surveys-can-2018-fr)
+## [Gender Equality in Canada - Mainstreaming, Governance and Budgeting](https://doi.org/10.1787/9789264301108-en)
 
 Embargo date | Launch date
 -------------|------------
-Saturday 2 June 2018 at 23:00 | no launch event
+Thursday 31 May 2018 at 20:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
@@ -311,31 +248,10 @@ Saturday 2 June 2018 at 23:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Economic survey*
-* Medium: *PDF*
-
-------
-
-## [OECD Economic Surveys: Canada 2018](https://doi.org/10.1787/eco_surveys-can-2018-en)
-
-Embargo date | Launch date
--------------|------------
-Saturday 2 June 2018 at 23:00 | no launch event
-
-### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 23 May 2018 at 22:17
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Economics Department*
+* Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Forthcoming*
-* Type of publication: *Economic survey*
+* Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
 ------
@@ -348,7 +264,7 @@ Wednesday 6 June 2018 at 17:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 23 May 2018 at 22:17
+- [x] Exported to iLibrary Thursday 24 May 2018 at 22:32
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -462,4 +378,46 @@ Monday 25 June 2018 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [Études économiques de l'OCDE : Canada 2018](https://doi.org/10.1787/eco_surveys-can-2018-fr)
+
+Embargo date | Launch date
+-------------|------------
+Saturday 30 June 2018 at 23:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 24 May 2018 at 22:32
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
+## [OECD Economic Surveys: Canada 2018](https://doi.org/10.1787/eco_surveys-can-2018-en)
+
+Embargo date | Launch date
+-------------|------------
+Saturday 30 June 2018 at 23:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 24 May 2018 at 22:32
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
 * Medium: *PDF*
