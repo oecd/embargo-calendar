@@ -1,27 +1,6 @@
 # OECD publication embargoes (20 embargoes)
 
-*Data generated on Friday 25 May 2018 at 23:33*
-
-------
-
-## [Catching Up? Country Studies on Intergenerational Mobility and Children of Immigrants](https://doi.org/10.1787/9789264301030-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 28 May 2018 at 14:30 | no launch event
-
-### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 24 May 2018 at 22:32
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
+*Data generated on Monday 28 May 2018 at 23:26*
 
 ------
 
@@ -54,8 +33,8 @@ Tuesday 29 May 2018 at 11:30 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 23 May 2018 at 22:17
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 25 May 2018 at 22:20
+- [x] Exported to Keepeek Friday 25 May 2018 at 22:59
 
 ### Additional Information
 
@@ -180,7 +159,7 @@ Wednesday 30 May 2018 at 10:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 22 May 2018 at 22:02
+- [x] Exported to iLibrary Friday 25 May 2018 at 22:20
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -243,7 +222,7 @@ Thursday 31 May 2018 at 20:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 23 May 2018 at 22:17
+- [x] Exported to iLibrary Friday 25 May 2018 at 22:20
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -264,7 +243,7 @@ Wednesday 6 June 2018 at 17:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 24 May 2018 at 22:32
+- [x] Exported to iLibrary Friday 25 May 2018 at 22:20
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -382,6 +361,27 @@ Monday 25 June 2018 at 11:00 | no launch event
 
 ------
 
+## [OECD Environmental Performance Reviews: Hungary 2018](https://doi.org/10.1787/9789264298613-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 28 June 2018 at 9:30 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 17 May 2018 at 22:16
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
 ## [Études économiques de l'OCDE : Canada 2018](https://doi.org/10.1787/eco_surveys-can-2018-fr)
 
 Embargo date | Launch date
@@ -390,7 +390,7 @@ Saturday 30 June 2018 at 23:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 24 May 2018 at 22:32
+- [x] Exported to iLibrary Friday 25 May 2018 at 22:20
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -411,7 +411,7 @@ Saturday 30 June 2018 at 23:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 24 May 2018 at 22:32
+- [x] Exported to iLibrary Friday 25 May 2018 at 22:20
 - [ ] Exported to Keepeek
 
 ### Additional Information
