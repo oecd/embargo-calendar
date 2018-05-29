@@ -1,48 +1,6 @@
-# OECD publication embargoes (20 embargoes)
+# OECD publication embargoes (18 embargoes)
 
-*Data generated on Monday 28 May 2018 at 23:26*
-
-------
-
-## [Tax reform to support growth and employment in Finland](https://doi.org/10.1787/412834d3-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 29 May 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 23 May 2018 at 22:17
-- [x] Exported to Keepeek Friday 25 May 2018 at 22:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Opportunities for All - A Framework for Policy Action on Inclusive Growth](https://doi.org/10.1787/9789264301665-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 29 May 2018 at 11:30 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 25 May 2018 at 22:20
-- [x] Exported to Keepeek Friday 25 May 2018 at 22:59
-
-### Additional Information
-
-* Directorate: *General Secretariat*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
+*Data generated on Tuesday 29 May 2018 at 23:34*
 
 ------
 
@@ -138,7 +96,7 @@ Wednesday 30 May 2018 at 9:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 May 2018 at 22:32
+- [x] Exported to iLibrary Monday 28 May 2018 at 22:13
 - [x] Exported to Keepeek Thursday 24 May 2018 at 23:12
 
 ### Additional Information
@@ -158,15 +116,15 @@ Embargo date | Launch date
 Wednesday 30 May 2018 at 10:30 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 25 May 2018 at 22:20
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 28 May 2018 at 22:13
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -179,15 +137,15 @@ Embargo date | Launch date
 Wednesday 30 May 2018 at 10:30 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 23 May 2018 at 22:17
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 28 May 2018 at 22:13
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *German*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -201,14 +159,14 @@ Wednesday 30 May 2018 at 10:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 23 May 2018 at 22:17
+- [x] Exported to iLibrary Monday 28 May 2018 at 22:13
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -222,7 +180,7 @@ Thursday 31 May 2018 at 20:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 25 May 2018 at 22:20
+- [x] Exported to iLibrary Monday 28 May 2018 at 22:13
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -369,7 +327,7 @@ Thursday 28 June 2018 at 9:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 17 May 2018 at 22:16
+- [x] Exported to iLibrary Monday 28 May 2018 at 22:13
 - [ ] Exported to Keepeek
 
 ### Additional Information
