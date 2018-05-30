@@ -1,174 +1,6 @@
-# OECD publication embargoes (18 embargoes)
+# OECD publication embargoes (11 embargoes)
 
-*Data generated on Tuesday 29 May 2018 at 23:34*
-
-------
-
-## [Enhancing governance in Thailand](https://doi.org/10.1787/8ddfd4c6-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 30 May 2018 at 1:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 May 2018 at 22:32
-- [x] Exported to Keepeek Friday 25 May 2018 at 22:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Boosting productivity and living standards in Thailand](https://doi.org/10.1787/e525c875-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 30 May 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 May 2018 at 22:32
-- [x] Exported to Keepeek Friday 25 May 2018 at 22:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Making growth more inclusive in Thailand](https://doi.org/10.1787/263a78df-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 30 May 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 May 2018 at 22:32
-- [x] Exported to Keepeek Friday 25 May 2018 at 22:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Sustainable finance for inclusive growth in Thailand](https://doi.org/10.1787/7ad06329-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 30 May 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 May 2018 at 22:32
-- [x] Exported to Keepeek Friday 25 May 2018 at 22:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Trade Facilitation and the Global Economy](https://doi.org/10.1787/9789264277571-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 30 May 2018 at 9:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 28 May 2018 at 22:13
-- [x] Exported to Keepeek Thursday 24 May 2018 at 23:12
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
-
-------
-
-## [OECD Economic Outlook, Volume 2018 Issue 1 - Preliminary version](https://doi.org/10.1787/eco_outlook-v2018-1-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 30 May 2018 at 10:30 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 28 May 2018 at 22:13
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [OECD-Wirtschaftsausblick, Ausgabe 2018/1 - Vorläufige Ausgabe](https://doi.org/10.1787/eco_outlook-v2018-1-de)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 30 May 2018 at 10:30 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 28 May 2018 at 22:13
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Perspectives économiques de l'OCDE, Volume 2018 Numéro 1 - Version préliminaire](https://doi.org/10.1787/eco_outlook-v2018-1-fr)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 30 May 2018 at 10:30 | no launch event
-
-### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 28 May 2018 at 22:13
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Wednesday 30 May 2018 at 23:26*
 
 ------
 
@@ -249,6 +81,27 @@ Thursday 14 June 2018 at 12:00 | no launch event
 ### Additional Information
 
 * Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [Broken Elevator: How to Promote Social Mobility](https://doi.org/10.1787/9789264301085-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 15 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*

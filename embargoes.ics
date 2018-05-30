@@ -4,35 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264301030-en
-SUMMARY:Catching Up? Country Studies on Intergen
- erational Mobility and Children of Immig
- rants
-DESCRIPTION:Directorate: Directorate for Employment,
-  Labour and Social Affairs\nLanguage: En
- glish\nDOI: https://doi.org/10.1787/9789
- 264301030-en\nPublication type: Stand-al
- one monograph\nReleased as: Paperback, P
- DF.\n\niLibrary export: 28 May 2018, 20:
- 13 Paris time (GMT+00:00)\nFreepreview e
- xport: 28 May 2018, 20:52 Paris time (GM
- T+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180529T233452Z
-DTSTART:20180528T123000Z
-DTEND:20180528T124500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Catching Up? Country Studies o
- n Intergenerational Mobility and Childre
- n of Immigrants
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/412834d3-en
 SUMMARY:Tax reform to support growth and employm
  ent in Finland
@@ -44,7 +15,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  T+00:00)\nFreepreview export: 25 May 201
  8, 20:59 Paris time (GMT+00:00)\nFTI loa
  ded: ✓, ✓.
-DTSTAMP:20180529T233452Z
+DTSTAMP:20180530T232619Z
 DTSTART:20180529T000000Z
 DTEND:20180529T001500Z
 TRANSP:TRANSPARENT
@@ -70,7 +41,7 @@ DESCRIPTION:Directorate: General Secretariat\nLangua
  8, 20:13 Paris time (GMT+00:00)\nFreepre
  view export: 25 May 2018, 20:59 Paris ti
  me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180529T233452Z
+DTSTAMP:20180530T232619Z
 DTSTART:20180529T093000Z
 DTEND:20180529T094500Z
 TRANSP:TRANSPARENT
@@ -96,7 +67,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  T+00:00)\nFreepreview export: 25 May 201
  8, 20:59 Paris time (GMT+00:00)\nFTI loa
  ded: ✓, ✓.
-DTSTAMP:20180529T233452Z
+DTSTAMP:20180530T232619Z
 DTSTART:20180529T230000Z
 DTEND:20180529T231500Z
 TRANSP:TRANSPARENT
@@ -122,7 +93,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  T+00:00)\nFreepreview export: 25 May 201
  8, 20:59 Paris time (GMT+00:00)\nFTI loa
  ded: ✓, ✓.
-DTSTAMP:20180529T233452Z
+DTSTAMP:20180530T232619Z
 DTSTART:20180530T000000Z
 DTEND:20180530T001500Z
 TRANSP:TRANSPARENT
@@ -147,7 +118,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  T+00:00)\nFreepreview export: 25 May 201
  8, 20:59 Paris time (GMT+00:00)\nFTI loa
  ded: ✓, ✓.
-DTSTAMP:20180529T233452Z
+DTSTAMP:20180530T232619Z
 DTSTART:20180530T000000Z
 DTEND:20180530T001500Z
 TRANSP:TRANSPARENT
@@ -173,7 +144,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  T+00:00)\nFreepreview export: 25 May 201
  8, 20:59 Paris time (GMT+00:00)\nFTI loa
  ded: ✓, ✓.
-DTSTAMP:20180529T233452Z
+DTSTAMP:20180530T232619Z
 DTSTART:20180530T000000Z
 DTEND:20180530T001500Z
 TRANSP:TRANSPARENT
@@ -200,7 +171,7 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
   time (GMT+00:00)\nFreepreview export: 2
  4 May 2018, 21:12 Paris time (GMT+00:00)
  \nFTI loaded: ✓.
-DTSTAMP:20180529T233452Z
+DTSTAMP:20180530T232619Z
 DTSTART:20180530T070000Z
 DTEND:20180530T071500Z
 TRANSP:TRANSPARENT
@@ -221,11 +192,12 @@ SUMMARY:OECD Economic Outlook, Volume 2018 Issue
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_outlook-v2018-1-en\nPublication t
- ype: Book\nReleased as: PDF, Paperback.\
- n\niLibrary export: 28 May 2018, 20:13 P
+ ype: Book\nReleased as: Paperback, PDF.\
+ n\niLibrary export: 29 May 2018, 20:18 P
  aris time (GMT+00:00)\nFreepreview expor
- t: never\nFTI loaded: ✓.
-DTSTAMP:20180529T233452Z
+ t: 29 May 2018, 21:00 Paris time (GMT+00
+ :00)\nFTI loaded: ✓.
+DTSTAMP:20180530T232619Z
 DTSTART:20180530T083000Z
 DTEND:20180530T084500Z
 TRANSP:TRANSPARENT
@@ -246,11 +218,12 @@ SUMMARY:OECD-Wirtschaftsausblick, Ausgabe 2018/1
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: German\nDOI: https://doi.org/10.178
  7/eco_outlook-v2018-1-de\nPublication ty
- pe: Book\nReleased as: PDF, Paperback.\n
- \niLibrary export: 28 May 2018, 20:13 Pa
+ pe: Book\nReleased as: Paperback, PDF.\n
+ \niLibrary export: 29 May 2018, 20:18 Pa
  ris time (GMT+00:00)\nFreepreview export
- : never\nFTI loaded: ✓.
-DTSTAMP:20180529T233452Z
+ : 29 May 2018, 21:00 Paris time (GMT+00:
+ 00)\nFTI loaded: ✓.
+DTSTAMP:20180530T232619Z
 DTSTART:20180530T083000Z
 DTEND:20180530T084500Z
 TRANSP:TRANSPARENT
@@ -271,11 +244,12 @@ SUMMARY:Perspectives économiques de l'OCDE, Volu
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: French\nDOI: https://doi.org/10.178
  7/eco_outlook-v2018-1-fr\nPublication ty
- pe: Book\nReleased as: PDF, Paperback.\n
- \niLibrary export: 28 May 2018, 20:13 Pa
+ pe: Book\nReleased as: Paperback, PDF.\n
+ \niLibrary export: 29 May 2018, 20:18 Pa
  ris time (GMT+00:00)\nFreepreview export
- : never\nFTI loaded: no.
-DTSTAMP:20180529T233452Z
+ : 29 May 2018, 21:00 Paris time (GMT+00:
+ 00)\nFTI loaded: ✓.
+DTSTAMP:20180530T232619Z
 DTSTART:20180530T083000Z
 DTEND:20180530T084500Z
 TRANSP:TRANSPARENT
@@ -302,7 +276,7 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  rt: 28 May 2018, 20:13 Paris time (GMT+0
  0:00)\nFreepreview export: never\nFTI lo
  aded: no.
-DTSTAMP:20180529T233452Z
+DTSTAMP:20180530T232619Z
 DTSTART:20180531T180000Z
 DTEND:20180531T181500Z
 TRANSP:TRANSPARENT
@@ -328,7 +302,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  rt: 25 May 2018, 20:20 Paris time (GMT+0
  0:00)\nFreepreview export: never\nFTI lo
  aded: no.
-DTSTAMP:20180529T233452Z
+DTSTAMP:20180530T232619Z
 DTSTART:20180606T150000Z
 DTEND:20180606T151500Z
 TRANSP:TRANSPARENT
@@ -354,7 +328,7 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  20:10 Paris time (GMT+00:00)\nFreeprevie
  w export: 15 May 2018, 20:47 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180529T233452Z
+DTSTAMP:20180530T232619Z
 DTSTART:20180608T080000Z
 DTEND:20180608T081500Z
 TRANSP:TRANSPARENT
@@ -380,7 +354,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  port: 7 May 2018, 20:00 Paris time (GMT+
  00:00)\nFreepreview export: never\nFTI l
  oaded: no.
-DTSTAMP:20180529T233452Z
+DTSTAMP:20180530T232619Z
 DTSTART:20180614T100000Z
 DTEND:20180614T101500Z
 TRANSP:TRANSPARENT
@@ -395,6 +369,31 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/9789264301085-en
+SUMMARY:Broken Elevator: How to Promote Social M
+ obility
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: En
+ glish\nDOI: https://doi.org/10.1787/9789
+ 264301085-en\nPublication type: Stand-al
+ one monograph\nReleased as: PDF, Paperba
+ ck.\n\niLibrary export: never\nFreeprevi
+ ew export: never\nFTI loaded: no.
+DTSTAMP:20180530T232619Z
+DTSTART:20180615T090000Z
+DTEND:20180615T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Broken Elevator: How to Promot
+ e Social Mobility
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/eco_surveys-kor-2018-en
 SUMMARY:OECD Economic Surveys: Korea 2018
 DESCRIPTION:Directorate: Economics Department\nLangu
@@ -405,7 +404,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  rt: 15 May 2018, 20:10 Paris time (GMT+0
  0:00)\nFreepreview export: never\nFTI lo
  aded: no.
-DTSTAMP:20180529T233452Z
+DTSTAMP:20180530T232619Z
 DTSTART:20180620T090000Z
 DTEND:20180620T091500Z
 TRANSP:TRANSPARENT
@@ -431,7 +430,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  b, PDF, HTML.\n\niLibrary export: 11 May
   2018, 20:01 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180529T233452Z
+DTSTAMP:20180530T232619Z
 DTSTART:20180625T090000Z
 DTEND:20180625T091500Z
 TRANSP:TRANSPARENT
@@ -458,7 +457,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  port: 11 May 2018, 20:01 Paris time (GMT
  +00:00)\nFreepreview export: never\nFTI 
  loaded: no.
-DTSTAMP:20180529T233452Z
+DTSTAMP:20180530T232619Z
 DTSTART:20180625T090000Z
 DTEND:20180625T091500Z
 TRANSP:TRANSPARENT
@@ -484,7 +483,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  iLibrary export: 28 May 2018, 20:13 Pari
  s time (GMT+00:00)\nFreepreview export: 
  never\nFTI loaded: no.
-DTSTAMP:20180529T233452Z
+DTSTAMP:20180530T232619Z
 DTSTART:20180628T073000Z
 DTEND:20180628T074500Z
 TRANSP:TRANSPARENT
@@ -509,7 +508,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  Paperback.\n\niLibrary export: 25 May 20
  18, 20:20 Paris time (GMT+00:00)\nFreepr
  eview export: never\nFTI loaded: no.
-DTSTAMP:20180529T233452Z
+DTSTAMP:20180530T232619Z
 DTSTART:20180630T210000Z
 DTEND:20180630T211500Z
 TRANSP:TRANSPARENT
@@ -533,7 +532,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  rback, PDF.\n\niLibrary export: 25 May 2
  018, 20:20 Paris time (GMT+00:00)\nFreep
  review export: never\nFTI loaded: no.
-DTSTAMP:20180529T233452Z
+DTSTAMP:20180530T232619Z
 DTSTART:20180630T210000Z
 DTEND:20180630T211500Z
 TRANSP:TRANSPARENT
