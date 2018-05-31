@@ -1,27 +1,6 @@
-# OECD publication embargoes (11 embargoes)
+# OECD publication embargoes (12 embargoes)
 
-*Data generated on Wednesday 30 May 2018 at 23:26*
-
-------
-
-## [Gender Equality in Canada - Mainstreaming, Governance and Budgeting](https://doi.org/10.1787/9789264301108-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 31 May 2018 at 20:00 | no launch event
-
-### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 28 May 2018 at 22:13
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
+*Data generated on Thursday 31 May 2018 at 23:38*
 
 ------
 
@@ -67,6 +46,48 @@ Friday 8 June 2018 at 10:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Germany 2018](https://doi.org/10.1787/eco_surveys-deu-2018-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 12 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 25 May 2018 at 22:20
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
+## [OECD-Wirtschaftsberichte: Deutschland 2018](https://doi.org/10.1787/eco_surveys-deu-2018-de)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 12 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 29 May 2018 at 22:18
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *German*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
 ## [Rethinking Urban Sprawl - Moving Towards Sustainable Cities](https://doi.org/10.1787/9789264189881-en)
 
 Embargo date | Launch date
@@ -88,7 +109,7 @@ Thursday 14 June 2018 at 12:00 | no launch event
 
 ------
 
-## [Broken Elevator: How to Promote Social Mobility](https://doi.org/10.1787/9789264301085-en)
+## [A Broken Social Elevator? How to Promote Social Mobility](https://doi.org/10.1787/9789264301085-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -96,7 +117,7 @@ Friday 15 June 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 30 May 2018 at 22:07
 - [ ] Exported to Keepeek
 
 ### Additional Information
