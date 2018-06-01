@@ -1,6 +1,6 @@
 # OECD publication embargoes (12 embargoes)
 
-*Data generated on Thursday 31 May 2018 at 23:38*
+*Data generated on Friday 1 June 2018 at 23:37*
 
 ------
 
@@ -54,7 +54,7 @@ Tuesday 12 June 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 25 May 2018 at 22:20
+- [x] Exported to iLibrary Thursday 31 May 2018 at 22:19
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -75,7 +75,7 @@ Tuesday 12 June 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 29 May 2018 at 22:18
+- [x] Exported to iLibrary Thursday 31 May 2018 at 22:19
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -117,7 +117,7 @@ Friday 15 June 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 30 May 2018 at 22:07
+- [x] Exported to iLibrary Thursday 31 May 2018 at 22:19
 - [ ] Exported to Keepeek
 
 ### Additional Information
