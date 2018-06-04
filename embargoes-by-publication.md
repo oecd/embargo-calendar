@@ -1,6 +1,27 @@
-# OECD publication embargoes (12 embargoes)
+# OECD publication embargoes (14 embargoes)
 
-*Data generated on Friday 1 June 2018 at 23:37*
+*Data generated on Monday 4 June 2018 at 20:53*
+
+------
+
+## [Higher Education in Norway - Labour Market Relevance and Outcomes](https://doi.org/10.1787/9789264301757-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 5 June 2018 at 10:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 31 May 2018 at 22:19
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
 
 ------
 
@@ -41,6 +62,27 @@ Friday 8 June 2018 at 10:00 | no launch event
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Effective Teacher Policies - Insights from PISA](https://doi.org/10.1787/9789264301603-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 11 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 21 May 2018 at 22:02
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -159,7 +201,7 @@ Monday 25 June 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 11 May 2018 at 22:01
+- [x] Exported to iLibrary Friday 1 June 2018 at 22:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -180,7 +222,7 @@ Monday 25 June 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 11 May 2018 at 22:01
+- [x] Exported to iLibrary Friday 1 June 2018 at 22:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
