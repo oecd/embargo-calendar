@@ -1,27 +1,6 @@
-# OECD publication embargoes (14 embargoes)
+# OECD publication embargoes (16 embargoes)
 
-*Data generated on Monday 4 June 2018 at 20:53*
-
-------
-
-## [Higher Education in Norway - Labour Market Relevance and Outcomes](https://doi.org/10.1787/9789264301757-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 5 June 2018 at 10:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 31 May 2018 at 22:19
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Tuesday 5 June 2018 at 23:27*
 
 ------
 
@@ -32,7 +11,7 @@ Embargo date | Launch date
 Wednesday 6 June 2018 at 17:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 25 May 2018 at 22:20
 - [ ] Exported to Keepeek
 
@@ -40,7 +19,7 @@ Wednesday 6 June 2018 at 17:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Medium: *PDF*
 
@@ -67,6 +46,27 @@ Friday 8 June 2018 at 10:00 | no launch event
 
 ------
 
+## [Innovation, Agricultural Productivity and Sustainability in Sweden](https://doi.org/10.1787/9789264085268-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 8 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 17 May 2018 at 22:16
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
 ## [Effective Teacher Policies - Insights from PISA](https://doi.org/10.1787/9789264301603-en)
 
 Embargo date | Launch date
@@ -81,6 +81,27 @@ Monday 11 June 2018 at 11:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Care Needed - Improving the Lives of People with Dementia](https://doi.org/10.1787/9789264085107-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 12 June 2018 at 9:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 28 May 2018 at 22:13
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
@@ -231,6 +252,27 @@ Monday 25 June 2018 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands](https://doi.org/10.1787/9789264292048-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 25 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 24 May 2018 at 22:32
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------
