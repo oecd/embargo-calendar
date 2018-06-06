@@ -11,11 +11,11 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9789264301757-en\nPub
  lication type: Book\nReleased as: PDF, P
- aperback.\n\niLibrary export: 31 May 201
- 8, 20:19 Paris time (GMT+00:00)\nFreepre
- view export: 5 June 2018, 7:42 Paris tim
- e (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180605T232722Z
+ aperback.\n\niLibrary export: 5 June 201
+ 8, 20:13 Paris time (GMT+00:00)\nFreepre
+ view export: 5 June 2018, 20:53 Paris ti
+ me (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180606T232311Z
 DTSTART:20180605T080000Z
 DTEND:20180605T081500Z
 TRANSP:TRANSPARENT
@@ -38,10 +38,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  87/eco_surveys-usa-2018-en\nPublication 
  type: Economic survey\nReleased as: ePub
  , PDF, HTML, Paperback.\n\niLibrary expo
- rt: 25 May 2018, 20:20 Paris time (GMT+0
- 0:00)\nFreepreview export: never\nFTI lo
- aded: ✓.
-DTSTAMP:20180605T232722Z
+ rt: 5 June 2018, 20:13 Paris time (GMT+0
+ 0:00)\nFreepreview export: 5 June 2018, 
+ 20:53 Paris time (GMT+00:00)\nFTI loaded
+ : ✓.
+DTSTAMP:20180606T232311Z
 DTSTART:20180606T150000Z
 DTEND:20180606T151500Z
 TRANSP:TRANSPARENT
@@ -67,7 +68,7 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  20:10 Paris time (GMT+00:00)\nFreeprevie
  w export: 15 May 2018, 20:47 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180605T232722Z
+DTSTAMP:20180606T232311Z
 DTSTART:20180608T080000Z
 DTEND:20180608T081500Z
 TRANSP:TRANSPARENT
@@ -89,10 +90,10 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/9789264085268-en\nPublic
  ation type: Book\nReleased as: PDF, Pape
- rback.\n\niLibrary export: 17 May 2018, 
- 20:16 Paris time (GMT+00:00)\nFreeprevie
+ rback.\n\niLibrary export: 5 June 2018, 
+ 20:13 Paris time (GMT+00:00)\nFreeprevie
  w export: never\nFTI loaded: ✓.
-DTSTAMP:20180605T232722Z
+DTSTAMP:20180606T232311Z
 DTSTART:20180608T090000Z
 DTEND:20180608T091500Z
 TRANSP:TRANSPARENT
@@ -107,6 +108,260 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/6d9cd656-en
+SUMMARY:Faces of Joblessness in Estonia - A Peop
+ le-centred perspective on employment bar
+ riers and policies
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: En
+ glish\nDOI: https://doi.org/10.1787/6d9c
+ d656-en\nPublication type: Working paper
+ \nReleased as: PDF.\n\niLibrary export: 
+ 6 June 2018, 20:08 Paris time (GMT+00:00
+ )\nFreepreview export: 6 June 2018, 20:4
+ 6 Paris time (GMT+00:00)\nFTI loaded: ✓,
+  ✓.
+DTSTAMP:20180606T232311Z
+DTSTART:20180608T160000Z
+DTEND:20180608T161500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Faces of Joblessness in Estoni
+ a - A People-centred perspective on empl
+ oyment barriers and policies
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/40958439-en
+SUMMARY:Faces of Joblessness in Ireland - A Peop
+ le-centred perspective on employment bar
+ riers and policies
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: En
+ glish\nDOI: https://doi.org/10.1787/4095
+ 8439-en\nPublication type: Working paper
+ \nReleased as: PDF.\n\niLibrary export: 
+ 6 June 2018, 20:08 Paris time (GMT+00:00
+ )\nFreepreview export: 6 June 2018, 20:4
+ 6 Paris time (GMT+00:00)\nFTI loaded: ✓,
+  ✓.
+DTSTAMP:20180606T232311Z
+DTSTART:20180608T160000Z
+DTEND:20180608T161500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Faces of Joblessness in Irelan
+ d - A People-centred perspective on empl
+ oyment barriers and policies
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/e5d510c2-en
+SUMMARY:Faces of Joblessness in Italy - A People
+ -centred perspective on employment barri
+ ers and policies
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: En
+ glish\nDOI: https://doi.org/10.1787/e5d5
+ 10c2-en\nPublication type: Working paper
+ \nReleased as: PDF.\n\niLibrary export: 
+ 6 June 2018, 20:08 Paris time (GMT+00:00
+ )\nFreepreview export: 6 June 2018, 20:4
+ 6 Paris time (GMT+00:00)\nFTI loaded: ✓,
+  ✓.
+DTSTAMP:20180606T232311Z
+DTSTART:20180608T160000Z
+DTEND:20180608T161500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Faces of Joblessness in Italy 
+ - A People-centred perspective on employ
+ ment barriers and policies
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/3657b81e-en
+SUMMARY:Faces of Joblessness in Lithuania - A Pe
+ ople-centred perspective on employment b
+ arriers and policies
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: En
+ glish\nDOI: https://doi.org/10.1787/3657
+ b81e-en\nPublication type: Working paper
+ \nReleased as: PDF.\n\niLibrary export: 
+ 6 June 2018, 20:08 Paris time (GMT+00:00
+ )\nFreepreview export: 6 June 2018, 20:4
+ 6 Paris time (GMT+00:00)\nFTI loaded: ✓,
+  ✓.
+DTSTAMP:20180606T232311Z
+DTSTART:20180608T160000Z
+DTEND:20180608T161500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Faces of Joblessness in Lithua
+ nia - A People-centred perspective on em
+ ployment barriers and policies
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/b0fa55e7-en
+SUMMARY:Faces of Joblessness in Portugal - A Peo
+ ple-centred perspective on employment ba
+ rriers and policies
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: En
+ glish\nDOI: https://doi.org/10.1787/b0fa
+ 55e7-en\nPublication type: Working paper
+ \nReleased as: PDF.\n\niLibrary export: 
+ 6 June 2018, 20:08 Paris time (GMT+00:00
+ )\nFreepreview export: 6 June 2018, 20:4
+ 6 Paris time (GMT+00:00)\nFTI loaded: ✓,
+  ✓.
+DTSTAMP:20180606T232311Z
+DTSTART:20180608T160000Z
+DTEND:20180608T161500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Faces of Joblessness in Portug
+ al - A People-centred perspective on emp
+ loyment barriers and policies
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/6149118d-en
+SUMMARY:Faces of Joblessness in Spain - A People
+ -centred perspective on employment barri
+ ers and policies
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: En
+ glish\nDOI: https://doi.org/10.1787/6149
+ 118d-en\nPublication type: Working paper
+ \nReleased as: PDF.\n\niLibrary export: 
+ 6 June 2018, 20:08 Paris time (GMT+00:00
+ )\nFreepreview export: 6 June 2018, 20:4
+ 6 Paris time (GMT+00:00)\nFTI loaded: ✓,
+  ✓.
+DTSTAMP:20180606T232311Z
+DTSTART:20180608T160000Z
+DTEND:20180608T161500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Faces of Joblessness in Spain 
+ - A People-centred perspective on employ
+ ment barriers and policies
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/b102e5fc-en
+SUMMARY:Firms at the productivity frontier enjoy
+  lower effective taxation
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/b102e5fc-en\nPublication type: Workin
+ g paper\nReleased as: PDF.\n\niLibrary e
+ xport: 6 June 2018, 20:08 Paris time (GM
+ T+00:00)\nFreepreview export: 6 June 201
+ 8, 20:46 Paris time (GMT+00:00)\nFTI loa
+ ded: ✓, ✓.
+DTSTAMP:20180606T232311Z
+DTSTART:20180611T000000Z
+DTEND:20180611T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Firms at the productivity fron
+ tier enjoy lower effective taxation
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/1a55f809-en
+SUMMARY:Miracle or Mirage - What role can trade 
+ policies play in tackling global trade i
+ mbalances?
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/1a55f809-en\nPublication type: Workin
+ g paper\nReleased as: PDF.\n\niLibrary e
+ xport: 6 June 2018, 20:08 Paris time (GM
+ T+00:00)\nFreepreview export: 6 June 201
+ 8, 20:46 Paris time (GMT+00:00)\nFTI loa
+ ded: ✓, ✓.
+DTSTAMP:20180606T232311Z
+DTSTART:20180611T000000Z
+DTEND:20180611T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Miracle or Mirage - What role 
+ can trade policies play in tackling glob
+ al trade imbalances?
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/d35026d6-en
+SUMMARY:Network service deregulation and manufac
+ turing exports in Greece
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/d35026d6-en\nPublication type: Workin
+ g paper\nReleased as: PDF.\n\niLibrary e
+ xport: 6 June 2018, 20:08 Paris time (GM
+ T+00:00)\nFreepreview export: 6 June 201
+ 8, 20:46 Paris time (GMT+00:00)\nFTI loa
+ ded: ✓, ✓.
+DTSTAMP:20180606T232311Z
+DTSTART:20180611T000000Z
+DTEND:20180611T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Network service deregulation a
+ nd manufacturing exports in Greece
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264301603-en
 SUMMARY:Effective Teacher Policies - Insights fr
  om PISA
@@ -114,10 +369,10 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9789264301603-en\nPub
  lication type: Book\nReleased as: PDF, P
- aperback.\n\niLibrary export: 21 May 201
- 8, 20:02 Paris time (GMT+00:00)\nFreepre
+ aperback.\n\niLibrary export: 5 June 201
+ 8, 20:13 Paris time (GMT+00:00)\nFreepre
  view export: never\nFTI loaded: no.
-DTSTAMP:20180605T232722Z
+DTSTAMP:20180606T232311Z
 DTSTART:20180611T090000Z
 DTEND:20180611T091500Z
 TRANSP:TRANSPARENT
@@ -140,10 +395,10 @@ DESCRIPTION:Directorate: Directorate for Employment,
  glish\nDOI: https://doi.org/10.1787/9789
  264085107-en\nPublication type: Book\nRe
  leased as: PDF, Paperback.\n\niLibrary e
- xport: 28 May 2018, 20:13 Paris time (GM
+ xport: 5 June 2018, 20:13 Paris time (GM
  T+00:00)\nFreepreview export: never\nFTI
   loaded: no.
-DTSTAMP:20180605T232722Z
+DTSTAMP:20180606T232311Z
 DTSTART:20180612T070000Z
 DTEND:20180612T071500Z
 TRANSP:TRANSPARENT
@@ -167,7 +422,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  rback, PDF.\n\niLibrary export: 31 May 2
  018, 20:19 Paris time (GMT+00:00)\nFreep
  review export: never\nFTI loaded: no.
-DTSTAMP:20180605T232722Z
+DTSTAMP:20180606T232311Z
 DTSTART:20180612T090000Z
 DTEND:20180612T091500Z
 TRANSP:TRANSPARENT
@@ -192,7 +447,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  back, PDF.\n\niLibrary export: 31 May 20
  18, 20:19 Paris time (GMT+00:00)\nFreepr
  eview export: never\nFTI loaded: no.
-DTSTAMP:20180605T232722Z
+DTSTAMP:20180606T232311Z
 DTSTART:20180612T090000Z
 DTEND:20180612T091500Z
 TRANSP:TRANSPARENT
@@ -213,12 +468,12 @@ SUMMARY:Rethinking Urban Sprawl - Moving Towards
 DESCRIPTION:Directorate: Environment Directorate\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/9789264189881-en\nPublication type
- : Stand-alone monograph\nReleased as: Pa
- perback, HTML, PDF, ePub.\n\niLibrary ex
- port: 7 May 2018, 20:00 Paris time (GMT+
- 00:00)\nFreepreview export: never\nFTI l
- oaded: no.
-DTSTAMP:20180605T232722Z
+ : Stand-alone monograph\nReleased as: HT
+ ML, PDF, ePub, Paperback.\n\niLibrary ex
+ port: 5 June 2018, 20:13 Paris time (GMT
+ +00:00)\nFreepreview export: never\nFTI 
+ loaded: no.
+DTSTAMP:20180606T232311Z
 DTSTART:20180614T100000Z
 DTEND:20180614T101500Z
 TRANSP:TRANSPARENT
@@ -233,6 +488,29 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/g2g904ac-en
+SUMMARY:Going Digital in Sweden
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/g2g904ac
+ -en\nPublication type: Stand-alone monog
+ raph\nReleased as: PDF, Paperback.\n\niL
+ ibrary export: never\nFreepreview export
+ : never\nFTI loaded: no.
+DTSTAMP:20180606T232311Z
+DTSTART:20180615T070000Z
+DTEND:20180615T071500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Going Digital in Sweden
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264301085-en
 SUMMARY:A Broken Social Elevator? How to Promote
   Social Mobility
@@ -241,10 +519,10 @@ DESCRIPTION:Directorate: Directorate for Employment,
  glish\nDOI: https://doi.org/10.1787/9789
  264301085-en\nPublication type: Stand-al
  one monograph\nReleased as: Paperback, P
- DF.\n\niLibrary export: 31 May 2018, 20:
- 19 Paris time (GMT+00:00)\nFreepreview e
+ DF.\n\niLibrary export: 5 June 2018, 20:
+ 13 Paris time (GMT+00:00)\nFreepreview e
  xport: never\nFTI loaded: no.
-DTSTAMP:20180605T232722Z
+DTSTAMP:20180606T232311Z
 DTSTART:20180615T090000Z
 DTEND:20180615T091500Z
 TRANSP:TRANSPARENT
@@ -269,7 +547,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  rt: 15 May 2018, 20:10 Paris time (GMT+0
  0:00)\nFreepreview export: never\nFTI lo
  aded: no.
-DTSTAMP:20180605T232722Z
+DTSTAMP:20180606T232311Z
 DTSTART:20180620T090000Z
 DTEND:20180620T091500Z
 TRANSP:TRANSPARENT
@@ -295,7 +573,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  L, ePub, PDF.\n\niLibrary export: 1 June
   2018, 20:12 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180605T232722Z
+DTSTAMP:20180606T232311Z
 DTSTART:20180625T090000Z
 DTEND:20180625T091500Z
 TRANSP:TRANSPARENT
@@ -322,7 +600,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  port: 1 June 2018, 20:12 Paris time (GMT
  +00:00)\nFreepreview export: never\nFTI 
  loaded: no.
-DTSTAMP:20180605T232722Z
+DTSTAMP:20180606T232311Z
 DTSTART:20180625T090000Z
 DTEND:20180625T091500Z
 TRANSP:TRANSPARENT
@@ -342,16 +620,16 @@ UID:10.1787/9789264292048-en
 SUMMARY:Supporting Entrepreneurship and Innovati
  on in Higher Education in The Netherland
  s
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills, Centre for Entrepreneurship, 
- SMEs and Local Development\nLanguage: En
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development, Directorat
+ e for Education and Skills\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264292048-en\nPublication type: Book\nRe
  leased as: Paperback, ePub, PDF.\n\niLib
- rary export: 24 May 2018, 20:32 Paris ti
+ rary export: 5 June 2018, 20:13 Paris ti
  me (GMT+00:00)\nFreepreview export: neve
  r\nFTI loaded: no.
-DTSTAMP:20180605T232722Z
+DTSTAMP:20180606T232311Z
 DTSTART:20180625T090000Z
 DTEND:20180625T091500Z
 TRANSP:TRANSPARENT
@@ -377,7 +655,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  iLibrary export: 28 May 2018, 20:13 Pari
  s time (GMT+00:00)\nFreepreview export: 
  never\nFTI loaded: no.
-DTSTAMP:20180605T232722Z
+DTSTAMP:20180606T232311Z
 DTSTART:20180628T073000Z
 DTEND:20180628T074500Z
 TRANSP:TRANSPARENT
@@ -402,7 +680,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  back, PDF.\n\niLibrary export: 25 May 20
  18, 20:20 Paris time (GMT+00:00)\nFreepr
  eview export: never\nFTI loaded: no.
-DTSTAMP:20180605T232722Z
+DTSTAMP:20180606T232311Z
 DTSTART:20180630T210000Z
 DTEND:20180630T211500Z
 TRANSP:TRANSPARENT
@@ -426,7 +704,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  rback, PDF.\n\niLibrary export: 25 May 2
  018, 20:20 Paris time (GMT+00:00)\nFreep
  review export: never\nFTI loaded: no.
-DTSTAMP:20180605T232722Z
+DTSTAMP:20180606T232311Z
 DTSTART:20180630T210000Z
 DTEND:20180630T211500Z
 TRANSP:TRANSPARENT
