@@ -1,174 +1,6 @@
-# OECD publication embargoes (25 embargoes)
+# OECD publication embargoes (19 embargoes)
 
-*Data generated on Thursday 7 June 2018 at 23:02*
-
-------
-
-## [Benchmarking Civil Service Reform in Kazakhstan](https://doi.org/10.1787/9789264288096-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 8 June 2018 at 10:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 May 2018 at 22:10
-- [x] Exported to Keepeek Tuesday 15 May 2018 at 22:47
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Innovation, Agricultural Productivity and Sustainability in Sweden](https://doi.org/10.1787/9789264085268-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 8 June 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 June 2018 at 22:13
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Faces of Joblessness in Estonia - A People-centred perspective on employment barriers and policies](https://doi.org/10.1787/6d9cd656-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 8 June 2018 at 18:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 June 2018 at 22:08
-- [x] Exported to Keepeek Wednesday 6 June 2018 at 22:46
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Faces of Joblessness in Ireland - A People-centred perspective on employment barriers and policies](https://doi.org/10.1787/40958439-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 8 June 2018 at 18:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 June 2018 at 22:08
-- [x] Exported to Keepeek Wednesday 6 June 2018 at 22:46
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Faces of Joblessness in Italy - A People-centred perspective on employment barriers and policies](https://doi.org/10.1787/e5d510c2-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 8 June 2018 at 18:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 June 2018 at 21:43
-- [x] Exported to Keepeek Wednesday 6 June 2018 at 22:46
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Faces of Joblessness in Lithuania - A People-centred perspective on employment barriers and policies](https://doi.org/10.1787/3657b81e-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 8 June 2018 at 18:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 June 2018 at 21:43
-- [x] Exported to Keepeek Wednesday 6 June 2018 at 22:46
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Faces of Joblessness in Portugal - A People-centred perspective on employment barriers and policies](https://doi.org/10.1787/b0fa55e7-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 8 June 2018 at 18:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 June 2018 at 22:08
-- [x] Exported to Keepeek Wednesday 6 June 2018 at 22:46
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Faces of Joblessness in Spain - A People-centred perspective on employment barriers and policies](https://doi.org/10.1787/6149118d-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 8 June 2018 at 18:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 June 2018 at 22:08
-- [x] Exported to Keepeek Wednesday 6 June 2018 at 22:46
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Friday 8 June 2018 at 23:22*
 
 ------
 
@@ -235,14 +67,35 @@ Monday 11 June 2018 at 2:00 | no launch event
 
 ------
 
-## [Effective Teacher Policies - Insights from PISA](https://doi.org/10.1787/9789264301603-en)
+## [In which countries do the most highly qualified and experienced teachers teach in the most difficult schools?](https://doi.org/10.1787/3ef99aba-en)
 
 Embargo date | Launch date
 -------------|------------
-Monday 11 June 2018 at 11:00 | no launch event
+Monday 11 June 2018 at 6:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 8 June 2018 at 22:02
+- [x] Exported to Keepeek Friday 8 June 2018 at 22:42
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Education Policy Outlook 2018 - Putting Student Learning at the Centre](https://doi.org/10.1787/9789264301528-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 11 June 2018 at 9:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 5 June 2018 at 22:13
 - [ ] Exported to Keepeek
 
@@ -250,7 +103,28 @@ Monday 11 June 2018 at 11:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [Effective Teacher Policies - Insights from PISA](https://doi.org/10.1787/9789264301603-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 11 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 5 June 2018 at 22:13
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -263,7 +137,7 @@ Embargo date | Launch date
 Tuesday 12 June 2018 at 9:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 5 June 2018 at 22:13
 - [ ] Exported to Keepeek
 
@@ -271,7 +145,7 @@ Tuesday 12 June 2018 at 9:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -340,7 +214,7 @@ Thursday 14 June 2018 at 12:00 | no launch event
 
 ------
 
-## [Going Digital in Sweden](https://doi.org/10.1787/g2g904ac-en)
+## [OECD Reviews of Digital Transformation: Going Digital in Sweden](https://doi.org/10.1787/9789264302259-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -355,7 +229,7 @@ Friday 15 June 2018 at 9:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
@@ -369,7 +243,7 @@ Friday 15 June 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 5 June 2018 at 22:13
+- [x] Exported to iLibrary Thursday 7 June 2018 at 21:43
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -390,7 +264,7 @@ Wednesday 20 June 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 15 May 2018 at 22:10
+- [x] Exported to iLibrary Thursday 7 June 2018 at 21:43
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -458,7 +332,7 @@ Monday 25 June 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*

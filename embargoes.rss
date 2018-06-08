@@ -8,26 +8,11 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Thu, 07 Jun 2018 23:02:58 GMT</pubDate>
+      <pubDate>Fri, 08 Jun 2018 23:22:58 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
                  type="application/rss+xml"/>
-      <item>
-         <guid isPermaLink="false">10.1787/eco_surveys-usa-2018-en</guid>
-         <pubDate>Wed, 06 Jun 2018 15:00:00 GMT</pubDate>
-         <title>OECD Economic Surveys: United States 2018</title>
-         <link>https://doi.org/10.1787/eco_surveys-usa-2018-en</link>
-         <description>OECD Economic Surveys: United States 2018 by Economics Department has an embargo on Wednesday, 6 June 2018, 17:00 Paris time (GMT+02:00).</description>
-         <oe:embargoTime>2018-06-06T15:00:00Z</oe:embargoTime>
-         <oe:launchTime/>
-         <oe:directorate>Economics Department</oe:directorate>
-         <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Tuesday, 5 June 2018, 20:13 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Tuesday, 5 June 2018, 20:53 Paris time (GMT+00:00)</oe:freePreviewExport>
-         <oe:catalogueType>Economic survey</oe:catalogueType>
-         <oe:availableMedia>ePub, PDF, HTML, Paperback</oe:availableMedia>
-      </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264288096-en</guid>
          <pubDate>Fri, 08 Jun 2018 08:00:00 GMT</pubDate>
@@ -53,10 +38,10 @@
          <oe:launchTime/>
          <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Tuesday, 5 June 2018, 20:13 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:iLibraryExport>Thursday, 7 June 2018, 19:43 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Thursday, 7 June 2018, 20:24 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/6d9cd656-en</guid>
@@ -194,6 +179,36 @@
          <oe:availableMedia>PDF</oe:availableMedia>
       </item>
       <item>
+         <guid isPermaLink="false">10.1787/3ef99aba-en</guid>
+         <pubDate>Mon, 11 Jun 2018 04:00:00 GMT</pubDate>
+         <title>In which countries do the most highly qualified and experienced teachers teach in the most difficult schools?</title>
+         <link>https://doi.org/10.1787/3ef99aba-en</link>
+         <description>In which countries do the most highly qualified and experienced teachers teach in the most difficult schools? by Directorate for Education and Skills has an embargo on Monday, 11 June 2018, 6:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-11T04:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Education and Skills</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Friday, 8 June 2018, 20:02 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Friday, 8 June 2018, 20:42 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264301528-en</guid>
+         <pubDate>Mon, 11 Jun 2018 07:00:00 GMT</pubDate>
+         <title>Education Policy Outlook 2018 - Putting Student Learning at the Centre</title>
+         <link>https://doi.org/10.1787/9789264301528-en</link>
+         <description>Education Policy Outlook 2018 - Putting Student Learning at the Centre by Directorate for Education and Skills has an embargo on Monday, 11 June 2018, 9:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-11T07:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Education and Skills</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Tuesday, 5 June 2018, 20:13 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+      </item>
+      <item>
          <guid isPermaLink="false">10.1787/9789264301603-en</guid>
          <pubDate>Mon, 11 Jun 2018 09:00:00 GMT</pubDate>
          <title>Effective Teacher Policies - Insights from PISA</title>
@@ -202,7 +217,7 @@
          <oe:embargoTime>2018-06-11T09:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Directorate for Education and Skills</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Tuesday, 5 June 2018, 20:13 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
@@ -217,7 +232,7 @@
          <oe:embargoTime>2018-06-12T07:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Tuesday, 5 June 2018, 20:13 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
@@ -269,11 +284,11 @@
          <oe:availableMedia>HTML, PDF, ePub, Paperback</oe:availableMedia>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/g2g904ac-en</guid>
+         <guid isPermaLink="false">10.1787/9789264302259-en</guid>
          <pubDate>Fri, 15 Jun 2018 07:00:00 GMT</pubDate>
-         <title>Going Digital in Sweden</title>
-         <link>https://doi.org/10.1787/g2g904ac-en</link>
-         <description>Going Digital in Sweden by Directorate for Science, Technology and Industry  has an embargo on Friday, 15 June 2018, 9:00 Paris time (GMT+02:00).</description>
+         <title>OECD Reviews of Digital Transformation: Going Digital in Sweden</title>
+         <link>https://doi.org/10.1787/9789264302259-en</link>
+         <description>OECD Reviews of Digital Transformation: Going Digital in Sweden by Directorate for Science, Technology and Industry  has an embargo on Friday, 15 June 2018, 9:00 Paris time (GMT+02:00).</description>
          <oe:embargoTime>2018-06-15T07:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Directorate for Science, Technology and Industry </oe:directorate>
@@ -281,7 +296,7 @@
          <oe:iLibraryExport/>
          <oe:freePreviewExport/>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264301085-en</guid>
@@ -293,7 +308,7 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Tuesday, 5 June 2018, 20:13 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Thursday, 7 June 2018, 19:43 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
@@ -308,10 +323,10 @@
          <oe:launchTime/>
          <oe:directorate>Economics Department</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Tuesday, 15 May 2018, 20:10 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Thursday, 7 June 2018, 19:43 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Economic survey</oe:catalogueType>
-         <oe:availableMedia>HTML, PDF, ePub, Paperback</oe:availableMedia>
+         <oe:availableMedia>PDF, ePub, Paperback, HTML</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264300453-fr</guid>
@@ -348,10 +363,10 @@
          <pubDate>Mon, 25 Jun 2018 09:00:00 GMT</pubDate>
          <title>Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands</title>
          <link>https://doi.org/10.1787/9789264292048-en</link>
-         <description>Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands by Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development has an embargo on Monday, 25 June 2018, 11:00 Paris time (GMT+02:00).</description>
+         <description>Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands by Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills has an embargo on Monday, 25 June 2018, 11:00 Paris time (GMT+02:00).</description>
          <oe:embargoTime>2018-06-25T09:00:00Z</oe:embargoTime>
          <oe:launchTime/>
-         <oe:directorate>Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development</oe:directorate>
+         <oe:directorate>Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills</oe:directorate>
          <oe:ftiLoaded/>
          <oe:iLibraryExport>Tuesday, 5 June 2018, 20:13 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
