@@ -1,132 +1,6 @@
-# OECD publication embargoes (19 embargoes)
+# OECD publication embargoes (14 embargoes)
 
-*Data generated on Friday 8 June 2018 at 23:22*
-
-------
-
-## [Firms at the productivity frontier enjoy lower effective taxation](https://doi.org/10.1787/b102e5fc-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 11 June 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 June 2018 at 22:08
-- [x] Exported to Keepeek Wednesday 6 June 2018 at 22:46
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Miracle or Mirage - What role can trade policies play in tackling global trade imbalances?](https://doi.org/10.1787/1a55f809-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 11 June 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 June 2018 at 22:08
-- [x] Exported to Keepeek Wednesday 6 June 2018 at 22:46
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Network service deregulation and manufacturing exports in Greece](https://doi.org/10.1787/d35026d6-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 11 June 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 June 2018 at 22:08
-- [x] Exported to Keepeek Wednesday 6 June 2018 at 22:46
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [In which countries do the most highly qualified and experienced teachers teach in the most difficult schools?](https://doi.org/10.1787/3ef99aba-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 11 June 2018 at 6:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 June 2018 at 22:02
-- [x] Exported to Keepeek Friday 8 June 2018 at 22:42
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Education Policy Outlook 2018 - Putting Student Learning at the Centre](https://doi.org/10.1787/9789264301528-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 11 June 2018 at 9:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 June 2018 at 22:13
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
-
-------
-
-## [Effective Teacher Policies - Insights from PISA](https://doi.org/10.1787/9789264301603-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 11 June 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 June 2018 at 22:13
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Monday 11 June 2018 at 23:34*
 
 ------
 
@@ -138,8 +12,8 @@ Tuesday 12 June 2018 at 9:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 June 2018 at 22:13
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 8 June 2018 at 22:02
+- [x] Exported to Keepeek Friday 8 June 2018 at 22:42
 
 ### Additional Information
 
@@ -158,7 +32,7 @@ Embargo date | Launch date
 Tuesday 12 June 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 31 May 2018 at 22:19
 - [ ] Exported to Keepeek
 
@@ -166,7 +40,7 @@ Tuesday 12 June 2018 at 11:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Medium: *PDF*
 
@@ -179,7 +53,7 @@ Embargo date | Launch date
 Tuesday 12 June 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 31 May 2018 at 22:19
 - [ ] Exported to Keepeek
 
@@ -187,7 +61,7 @@ Tuesday 12 June 2018 at 11:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *German*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Medium: *PDF*
 
@@ -200,7 +74,7 @@ Embargo date | Launch date
 Thursday 14 June 2018 at 12:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 5 June 2018 at 22:13
 - [ ] Exported to Keepeek
 
@@ -208,7 +82,7 @@ Thursday 14 June 2018 at 12:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
@@ -222,7 +96,7 @@ Friday 15 June 2018 at 9:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 8 June 2018 at 22:02
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -319,27 +193,6 @@ Monday 25 June 2018 at 11:00 | no launch event
 
 ------
 
-## [Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands](https://doi.org/10.1787/9789264292048-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 25 June 2018 at 11:00 | no launch event
-
-### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 5 June 2018 at 22:13
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
 ## [OECD Environmental Performance Reviews: Hungary 2018](https://doi.org/10.1787/9789264298613-en)
 
 Embargo date | Launch date
@@ -399,4 +252,46 @@ Saturday 30 June 2018 at 23:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
+## [Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands](https://doi.org/10.1787/9789264292048-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 2 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 5 June 2018 at 22:13
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [OECD Environmental Performance Reviews: Czech Republic 2018](https://doi.org/10.1787/9789264300958-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 16 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 7 June 2018 at 21:43
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Medium: *PDF*

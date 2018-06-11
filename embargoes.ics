@@ -4,232 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264288096-en
-SUMMARY:Benchmarking Civil Service Reform in Kaz
- akhstan
-DESCRIPTION:Directorate: Directorate for Public Gove
- rnance\nLanguage: English\nDOI: https://
- doi.org/10.1787/9789264288096-en\nPublic
- ation type: Book\nReleased as: PDF, Pape
- rback.\n\niLibrary export: 15 May 2018, 
- 20:10 Paris time (GMT+00:00)\nFreeprevie
- w export: 15 May 2018, 20:47 Paris time 
- (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180608T232256Z
-DTSTART:20180608T080000Z
-DTEND:20180608T081500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Benchmarking Civil Service Ref
- orm in Kazakhstan
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264085268-en
-SUMMARY:Innovation, Agricultural Productivity an
- d Sustainability in Sweden
-DESCRIPTION:Directorate: Trade and Agriculture Direc
- torate\nLanguage: English\nDOI: https://
- doi.org/10.1787/9789264085268-en\nPublic
- ation type: Book\nReleased as: PDF, Pape
- rback.\n\niLibrary export: 7 June 2018, 
- 19:43 Paris time (GMT+00:00)\nFreeprevie
- w export: 7 June 2018, 20:24 Paris time 
- (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180608T232256Z
-DTSTART:20180608T090000Z
-DTEND:20180608T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Innovation, Agricultural Produ
- ctivity and Sustainability in Sweden
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/6d9cd656-en
-SUMMARY:Faces of Joblessness in Estonia - A Peop
- le-centred perspective on employment bar
- riers and policies
-DESCRIPTION:Directorate: Directorate for Employment,
-  Labour and Social Affairs\nLanguage: En
- glish\nDOI: https://doi.org/10.1787/6d9c
- d656-en\nPublication type: Working paper
- \nReleased as: PDF.\n\niLibrary export: 
- 6 June 2018, 20:08 Paris time (GMT+00:00
- )\nFreepreview export: 6 June 2018, 20:4
- 6 Paris time (GMT+00:00)\nFTI loaded: ✓,
-  ✓.
-DTSTAMP:20180608T232256Z
-DTSTART:20180608T160000Z
-DTEND:20180608T161500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Faces of Joblessness in Estoni
- a - A People-centred perspective on empl
- oyment barriers and policies
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/40958439-en
-SUMMARY:Faces of Joblessness in Ireland - A Peop
- le-centred perspective on employment bar
- riers and policies
-DESCRIPTION:Directorate: Directorate for Employment,
-  Labour and Social Affairs\nLanguage: En
- glish\nDOI: https://doi.org/10.1787/4095
- 8439-en\nPublication type: Working paper
- \nReleased as: PDF.\n\niLibrary export: 
- 6 June 2018, 20:08 Paris time (GMT+00:00
- )\nFreepreview export: 6 June 2018, 20:4
- 6 Paris time (GMT+00:00)\nFTI loaded: ✓,
-  ✓.
-DTSTAMP:20180608T232256Z
-DTSTART:20180608T160000Z
-DTEND:20180608T161500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Faces of Joblessness in Irelan
- d - A People-centred perspective on empl
- oyment barriers and policies
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/e5d510c2-en
-SUMMARY:Faces of Joblessness in Italy - A People
- -centred perspective on employment barri
- ers and policies
-DESCRIPTION:Directorate: Directorate for Employment,
-  Labour and Social Affairs\nLanguage: En
- glish\nDOI: https://doi.org/10.1787/e5d5
- 10c2-en\nPublication type: Working paper
- \nReleased as: PDF.\n\niLibrary export: 
- 7 June 2018, 19:43 Paris time (GMT+00:00
- )\nFreepreview export: 6 June 2018, 20:4
- 6 Paris time (GMT+00:00)\nFTI loaded: ✓,
-  ✓.
-DTSTAMP:20180608T232256Z
-DTSTART:20180608T160000Z
-DTEND:20180608T161500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Faces of Joblessness in Italy 
- - A People-centred perspective on employ
- ment barriers and policies
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/3657b81e-en
-SUMMARY:Faces of Joblessness in Lithuania - A Pe
- ople-centred perspective on employment b
- arriers and policies
-DESCRIPTION:Directorate: Directorate for Employment,
-  Labour and Social Affairs\nLanguage: En
- glish\nDOI: https://doi.org/10.1787/3657
- b81e-en\nPublication type: Working paper
- \nReleased as: PDF.\n\niLibrary export: 
- 7 June 2018, 19:43 Paris time (GMT+00:00
- )\nFreepreview export: 6 June 2018, 20:4
- 6 Paris time (GMT+00:00)\nFTI loaded: ✓,
-  ✓.
-DTSTAMP:20180608T232256Z
-DTSTART:20180608T160000Z
-DTEND:20180608T161500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Faces of Joblessness in Lithua
- nia - A People-centred perspective on em
- ployment barriers and policies
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/b0fa55e7-en
-SUMMARY:Faces of Joblessness in Portugal - A Peo
- ple-centred perspective on employment ba
- rriers and policies
-DESCRIPTION:Directorate: Directorate for Employment,
-  Labour and Social Affairs\nLanguage: En
- glish\nDOI: https://doi.org/10.1787/b0fa
- 55e7-en\nPublication type: Working paper
- \nReleased as: PDF.\n\niLibrary export: 
- 6 June 2018, 20:08 Paris time (GMT+00:00
- )\nFreepreview export: 6 June 2018, 20:4
- 6 Paris time (GMT+00:00)\nFTI loaded: ✓,
-  ✓.
-DTSTAMP:20180608T232256Z
-DTSTART:20180608T160000Z
-DTEND:20180608T161500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Faces of Joblessness in Portug
- al - A People-centred perspective on emp
- loyment barriers and policies
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/6149118d-en
-SUMMARY:Faces of Joblessness in Spain - A People
- -centred perspective on employment barri
- ers and policies
-DESCRIPTION:Directorate: Directorate for Employment,
-  Labour and Social Affairs\nLanguage: En
- glish\nDOI: https://doi.org/10.1787/6149
- 118d-en\nPublication type: Working paper
- \nReleased as: PDF.\n\niLibrary export: 
- 6 June 2018, 20:08 Paris time (GMT+00:00
- )\nFreepreview export: 6 June 2018, 20:4
- 6 Paris time (GMT+00:00)\nFTI loaded: ✓,
-  ✓.
-DTSTAMP:20180608T232256Z
-DTSTART:20180608T160000Z
-DTEND:20180608T161500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Faces of Joblessness in Spain 
- - A People-centred perspective on employ
- ment barriers and policies
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/b102e5fc-en
 SUMMARY:Firms at the productivity frontier enjoy
   lower effective taxation
@@ -238,10 +12,10 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  87/b102e5fc-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
  xport: 6 June 2018, 20:08 Paris time (GM
- T+00:00)\nFreepreview export: 6 June 201
- 8, 20:46 Paris time (GMT+00:00)\nFTI loa
- ded: ✓, ✓.
-DTSTAMP:20180608T232256Z
+ T+00:00)\nFreepreview export: 11 June 20
+ 18, 20:51 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓, ✓.
+DTSTAMP:20180611T233409Z
 DTSTART:20180611T000000Z
 DTEND:20180611T001500Z
 TRANSP:TRANSPARENT
@@ -265,10 +39,10 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  87/1a55f809-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
  xport: 6 June 2018, 20:08 Paris time (GM
- T+00:00)\nFreepreview export: 6 June 201
- 8, 20:46 Paris time (GMT+00:00)\nFTI loa
- ded: ✓, ✓.
-DTSTAMP:20180608T232256Z
+ T+00:00)\nFreepreview export: 11 June 20
+ 18, 20:51 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓, ✓.
+DTSTAMP:20180611T233409Z
 DTSTART:20180611T000000Z
 DTEND:20180611T001500Z
 TRANSP:TRANSPARENT
@@ -292,10 +66,10 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  87/d35026d6-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
  xport: 6 June 2018, 20:08 Paris time (GM
- T+00:00)\nFreepreview export: 6 June 201
- 8, 20:46 Paris time (GMT+00:00)\nFTI loa
- ded: ✓, ✓.
-DTSTAMP:20180608T232256Z
+ T+00:00)\nFreepreview export: 11 June 20
+ 18, 20:51 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓, ✓.
+DTSTAMP:20180611T233409Z
 DTSTART:20180611T000000Z
 DTEND:20180611T001500Z
 TRANSP:TRANSPARENT
@@ -322,7 +96,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  2 Paris time (GMT+00:00)\nFreepreview ex
  port: 8 June 2018, 20:42 Paris time (GMT
  +00:00)\nFTI loaded: ✓.
-DTSTAMP:20180608T232256Z
+DTSTAMP:20180611T233409Z
 DTSTART:20180611T040000Z
 DTEND:20180611T041500Z
 TRANSP:TRANSPARENT
@@ -346,10 +120,11 @@ DESCRIPTION:Directorate: Directorate for Education a
  ://doi.org/10.1787/9789264301528-en\nPub
  lication type: Stand-alone monograph\nRe
  leased as: PDF, Paperback.\n\niLibrary e
- xport: 5 June 2018, 20:13 Paris time (GM
- T+00:00)\nFreepreview export: never\nFTI
-  loaded: ✓.
-DTSTAMP:20180608T232256Z
+ xport: 8 June 2018, 20:02 Paris time (GM
+ T+00:00)\nFreepreview export: 8 June 201
+ 8, 20:42 Paris time (GMT+00:00)\nFTI loa
+ ded: ✓.
+DTSTAMP:20180611T233409Z
 DTSTART:20180611T070000Z
 DTEND:20180611T071500Z
 TRANSP:TRANSPARENT
@@ -371,10 +146,11 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9789264301603-en\nPub
  lication type: Book\nReleased as: PDF, P
- aperback.\n\niLibrary export: 5 June 201
- 8, 20:13 Paris time (GMT+00:00)\nFreepre
- view export: never\nFTI loaded: ✓.
-DTSTAMP:20180608T232256Z
+ aperback.\n\niLibrary export: 8 June 201
+ 8, 20:02 Paris time (GMT+00:00)\nFreepre
+ view export: 8 June 2018, 20:42 Paris ti
+ me (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180611T233409Z
 DTSTART:20180611T090000Z
 DTEND:20180611T091500Z
 TRANSP:TRANSPARENT
@@ -397,10 +173,11 @@ DESCRIPTION:Directorate: Directorate for Employment,
  glish\nDOI: https://doi.org/10.1787/9789
  264085107-en\nPublication type: Book\nRe
  leased as: PDF, Paperback.\n\niLibrary e
- xport: 5 June 2018, 20:13 Paris time (GM
- T+00:00)\nFreepreview export: never\nFTI
-  loaded: ✓.
-DTSTAMP:20180608T232256Z
+ xport: 8 June 2018, 20:02 Paris time (GM
+ T+00:00)\nFreepreview export: 8 June 201
+ 8, 20:42 Paris time (GMT+00:00)\nFTI loa
+ ded: ✓.
+DTSTAMP:20180611T233409Z
 DTSTART:20180612T070000Z
 DTEND:20180612T071500Z
 TRANSP:TRANSPARENT
@@ -420,11 +197,11 @@ SUMMARY:OECD Economic Surveys: Germany 2018
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-deu-2018-en\nPublication 
- type: Economic survey\nReleased as: Pape
- rback, PDF.\n\niLibrary export: 31 May 2
+ type: Economic survey\nReleased as: PDF,
+  Paperback.\n\niLibrary export: 31 May 2
  018, 20:19 Paris time (GMT+00:00)\nFreep
- review export: never\nFTI loaded: no.
-DTSTAMP:20180608T232256Z
+ review export: never\nFTI loaded: ✓.
+DTSTAMP:20180611T233409Z
 DTSTART:20180612T090000Z
 DTEND:20180612T091500Z
 TRANSP:TRANSPARENT
@@ -445,11 +222,11 @@ SUMMARY:OECD-Wirtschaftsberichte: Deutschland 20
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: German\nDOI: https://doi.org/10.178
  7/eco_surveys-deu-2018-de\nPublication t
- ype: Economic survey\nReleased as: Paper
- back, PDF.\n\niLibrary export: 31 May 20
+ ype: Economic survey\nReleased as: PDF, 
+ Paperback.\n\niLibrary export: 31 May 20
  18, 20:19 Paris time (GMT+00:00)\nFreepr
- eview export: never\nFTI loaded: no.
-DTSTAMP:20180608T232256Z
+ eview export: never\nFTI loaded: ✓.
+DTSTAMP:20180611T233409Z
 DTSTART:20180612T090000Z
 DTEND:20180612T091500Z
 TRANSP:TRANSPARENT
@@ -470,12 +247,12 @@ SUMMARY:Rethinking Urban Sprawl - Moving Towards
 DESCRIPTION:Directorate: Environment Directorate\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/9789264189881-en\nPublication type
- : Stand-alone monograph\nReleased as: HT
- ML, PDF, ePub, Paperback.\n\niLibrary ex
+ : Stand-alone monograph\nReleased as: PD
+ F, ePub, Paperback, HTML.\n\niLibrary ex
  port: 5 June 2018, 20:13 Paris time (GMT
  +00:00)\nFreepreview export: never\nFTI 
- loaded: no.
-DTSTAMP:20180608T232256Z
+ loaded: ✓.
+DTSTAMP:20180611T233409Z
 DTSTART:20180614T100000Z
 DTEND:20180614T101500Z
 TRANSP:TRANSPARENT
@@ -497,10 +274,11 @@ DESCRIPTION:Directorate: Directorate for Science, Te
  chnology and Industry \nLanguage: Englis
  h\nDOI: https://doi.org/10.1787/97892643
  02259-en\nPublication type: Stand-alone 
- monograph\nReleased as: Paperback, PDF.\
- n\niLibrary export: never\nFreepreview e
- xport: never\nFTI loaded: no.
-DTSTAMP:20180608T232256Z
+ monograph\nReleased as: PDF, Paperback.\
+ n\niLibrary export: 8 June 2018, 20:02 P
+ aris time (GMT+00:00)\nFreepreview expor
+ t: never\nFTI loaded: no.
+DTSTAMP:20180611T233409Z
 DTSTART:20180615T070000Z
 DTEND:20180615T071500Z
 TRANSP:TRANSPARENT
@@ -522,11 +300,11 @@ DESCRIPTION:Directorate: Directorate for Employment,
   Labour and Social Affairs\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264301085-en\nPublication type: Stand-al
- one monograph\nReleased as: PDF, Paperba
- ck.\n\niLibrary export: 7 June 2018, 19:
+ one monograph\nReleased as: Paperback, P
+ DF.\n\niLibrary export: 7 June 2018, 19:
  43 Paris time (GMT+00:00)\nFreepreview e
  xport: never\nFTI loaded: no.
-DTSTAMP:20180608T232256Z
+DTSTAMP:20180611T233409Z
 DTSTART:20180615T090000Z
 DTEND:20180615T091500Z
 TRANSP:TRANSPARENT
@@ -551,7 +329,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  rt: 7 June 2018, 19:43 Paris time (GMT+0
  0:00)\nFreepreview export: never\nFTI lo
  aded: no.
-DTSTAMP:20180608T232256Z
+DTSTAMP:20180611T233409Z
 DTSTART:20180620T090000Z
 DTEND:20180620T091500Z
 TRANSP:TRANSPARENT
@@ -573,11 +351,11 @@ SUMMARY:Analyse coûts-avantages et environnement
 DESCRIPTION:Directorate: Environment Directorate\nLa
  nguage: French\nDOI: https://doi.org/10.
  1787/9789264300453-fr\nPublication type:
-  Stand-alone monograph\nReleased as: ePu
- b, PDF, HTML.\n\niLibrary export: 1 June
+  Stand-alone monograph\nReleased as: HTM
+ L, ePub, PDF.\n\niLibrary export: 1 June
   2018, 20:12 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180608T232256Z
+DTSTAMP:20180611T233409Z
 DTSTART:20180625T090000Z
 DTEND:20180625T091500Z
 TRANSP:TRANSPARENT
@@ -599,12 +377,12 @@ SUMMARY:Cost-Benefit Analysis and the Environmen
 DESCRIPTION:Directorate: Environment Directorate\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/9789264085169-en\nPublication type
- : Stand-alone monograph\nReleased as: Pa
- perback, ePub, PDF, HTML.\n\niLibrary ex
+ : Stand-alone monograph\nReleased as: PD
+ F, HTML, Paperback, ePub.\n\niLibrary ex
  port: 1 June 2018, 20:12 Paris time (GMT
  +00:00)\nFreepreview export: never\nFTI 
  loaded: no.
-DTSTAMP:20180608T232256Z
+DTSTAMP:20180611T233409Z
 DTSTART:20180625T090000Z
 DTEND:20180625T091500Z
 TRANSP:TRANSPARENT
@@ -620,35 +398,6 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:10.1787/9789264292048-en
-SUMMARY:Supporting Entrepreneurship and Innovati
- on in Higher Education in The Netherland
- s
-DESCRIPTION:Directorate: Centre for Entrepreneurship
- , SMEs and Local Development, Directorat
- e for Education and Skills\nLanguage: En
- glish\nDOI: https://doi.org/10.1787/9789
- 264292048-en\nPublication type: Book\nRe
- leased as: Paperback, ePub, PDF.\n\niLib
- rary export: 5 June 2018, 20:13 Paris ti
- me (GMT+00:00)\nFreepreview export: neve
- r\nFTI loaded: no.
-DTSTAMP:20180608T232256Z
-DTSTART:20180625T090000Z
-DTEND:20180625T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Supporting Entrepreneurship an
- d Innovation in Higher Education in The 
- Netherlands
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264298613-en
 SUMMARY:OECD Environmental Performance Reviews: 
  Hungary 2018
@@ -659,7 +408,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  iLibrary export: 28 May 2018, 20:13 Pari
  s time (GMT+00:00)\nFreepreview export: 
  never\nFTI loaded: no.
-DTSTAMP:20180608T232256Z
+DTSTAMP:20180611T233409Z
 DTSTART:20180628T073000Z
 DTEND:20180628T074500Z
 TRANSP:TRANSPARENT
@@ -684,7 +433,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  back, PDF.\n\niLibrary export: 25 May 20
  18, 20:20 Paris time (GMT+00:00)\nFreepr
  eview export: never\nFTI loaded: no.
-DTSTAMP:20180608T232256Z
+DTSTAMP:20180611T233409Z
 DTSTART:20180630T210000Z
 DTEND:20180630T211500Z
 TRANSP:TRANSPARENT
@@ -708,7 +457,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  rback, PDF.\n\niLibrary export: 25 May 2
  018, 20:20 Paris time (GMT+00:00)\nFreep
  review export: never\nFTI loaded: no.
-DTSTAMP:20180608T232256Z
+DTSTAMP:20180611T233409Z
 DTSTART:20180630T210000Z
 DTEND:20180630T211500Z
 TRANSP:TRANSPARENT
@@ -719,6 +468,60 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Economic Surveys: Canada 
  2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264292048-en
+SUMMARY:Supporting Entrepreneurship and Innovati
+ on in Higher Education in The Netherland
+ s
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills, Centre for Entrepreneurship, 
+ SMEs and Local Development\nLanguage: En
+ glish\nDOI: https://doi.org/10.1787/9789
+ 264292048-en\nPublication type: Book\nRe
+ leased as: Paperback, ePub, PDF.\n\niLib
+ rary export: 5 June 2018, 20:13 Paris ti
+ me (GMT+00:00)\nFreepreview export: neve
+ r\nFTI loaded: no.
+DTSTAMP:20180611T233409Z
+DTSTART:20180702T090000Z
+DTEND:20180702T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Supporting Entrepreneurship an
+ d Innovation in Higher Education in The 
+ Netherlands
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264300958-en
+SUMMARY:OECD Environmental Performance Reviews: 
+ Czech Republic 2018
+DESCRIPTION:Directorate: Environment Directorate\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/9789264300958-en\nPublication type
+ : Book\nReleased as: Paperback, ePub, PD
+ F.\n\niLibrary export: 7 June 2018, 19:4
+ 3 Paris time (GMT+00:00)\nFreepreview ex
+ port: never\nFTI loaded: no.
+DTSTAMP:20180611T233409Z
+DTSTART:20180716T090000Z
+DTEND:20180716T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Environmental Performance
+  Reviews: Czech Republic 2018
 END:VALARM
 END:VEVENT
 END:VCALENDAR
