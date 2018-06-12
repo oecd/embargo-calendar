@@ -1,69 +1,6 @@
-# OECD publication embargoes (14 embargoes)
+# OECD publication embargoes (18 embargoes)
 
-*Data generated on Monday 11 June 2018 at 23:34*
-
-------
-
-## [Care Needed - Improving the Lives of People with Dementia](https://doi.org/10.1787/9789264085107-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 12 June 2018 at 9:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 June 2018 at 22:02
-- [x] Exported to Keepeek Friday 8 June 2018 at 22:42
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [OECD Economic Surveys: Germany 2018](https://doi.org/10.1787/eco_surveys-deu-2018-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 12 June 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 31 May 2018 at 22:19
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Medium: *PDF*
-
-------
-
-## [OECD-Wirtschaftsberichte: Deutschland 2018](https://doi.org/10.1787/eco_surveys-deu-2018-de)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 12 June 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 31 May 2018 at 22:19
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Medium: *PDF*
+*Data generated on Tuesday 12 June 2018 at 23:45*
 
 ------
 
@@ -75,8 +12,8 @@ Thursday 14 June 2018 at 12:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 June 2018 at 22:13
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 11 June 2018 at 22:07
+- [x] Exported to Keepeek Monday 11 June 2018 at 22:51
 
 ### Additional Information
 
@@ -92,11 +29,11 @@ Thursday 14 June 2018 at 12:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Friday 15 June 2018 at 9:00 | no launch event
+Friday 15 June 2018 at 8:45 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 8 June 2018 at 22:02
+- [x] Exported to iLibrary Monday 11 June 2018 at 22:07
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -117,7 +54,7 @@ Friday 15 June 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 7 June 2018 at 21:43
+- [x] Exported to iLibrary Monday 11 June 2018 at 22:07
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -130,11 +67,95 @@ Friday 15 June 2018 at 11:00 | no launch event
 
 ------
 
+## [Études économiques de l'OCDE : Union européenne 2018](https://doi.org/10.1787/eco_surveys-eur-2018-fr)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 19 June 2018 at 9:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
+## [Études économiques de l'OCDE : Zone Euro 2018](https://doi.org/10.1787/eco_surveys-euz-2018-fr)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 19 June 2018 at 9:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
+## [OECD Economic Surveys: Euro Area 2018](https://doi.org/10.1787/eco_surveys-euz-2018-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 19 June 2018 at 9:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
+## [OECD Economic Surveys: European Union 2018](https://doi.org/10.1787/eco_surveys-eur-2018-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 19 June 2018 at 9:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Korea 2018](https://doi.org/10.1787/eco_surveys-kor-2018-en)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 20 June 2018 at 11:00 | no launch event
+Wednesday 20 June 2018 at 7:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
@@ -147,6 +168,69 @@ Wednesday 20 June 2018 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018](https://doi.org/10.1787/migr_outlook-2018-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 29 May 2018 at 22:18
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Perspectives des migrations internationales 2018](https://doi.org/10.1787/migr_outlook-2018-fr)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Trade in Counterfeit Goods and the Italian Economy - Making Sure "Made in Italy" Always Is](https://doi.org/10.1787/g2g9066d-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 15:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
 ------
@@ -180,7 +264,7 @@ Monday 25 June 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 1 June 2018 at 22:12
+- [x] Exported to iLibrary Monday 11 June 2018 at 22:07
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -256,27 +340,6 @@ Saturday 30 June 2018 at 23:00 | no launch event
 
 ------
 
-## [Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands](https://doi.org/10.1787/9789264292048-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 2 July 2018 at 11:00 | no launch event
-
-### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 5 June 2018 at 22:13
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
 ## [OECD Environmental Performance Reviews: Czech Republic 2018](https://doi.org/10.1787/9789264300958-en)
 
 Embargo date | Launch date
@@ -285,12 +348,33 @@ Monday 16 July 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 7 June 2018 at 21:43
+- [x] Exported to iLibrary Monday 11 June 2018 at 22:07
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands](https://doi.org/10.1787/9789264292048-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 7 September 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 11 June 2018 at 22:07
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
