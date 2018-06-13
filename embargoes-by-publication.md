@@ -1,6 +1,6 @@
-# OECD publication embargoes (18 embargoes)
+# OECD publication embargoes (19 embargoes)
 
-*Data generated on Tuesday 12 June 2018 at 23:45*
+*Data generated on Wednesday 13 June 2018 at 23:28*
 
 ------
 
@@ -8,7 +8,7 @@
 
 Embargo date | Launch date
 -------------|------------
-Thursday 14 June 2018 at 12:00 | no launch event
+Thursday 14 June 2018 at 10:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
@@ -32,15 +32,15 @@ Embargo date | Launch date
 Friday 15 June 2018 at 8:45 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 11 June 2018 at 22:07
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 June 2018 at 22:19
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
@@ -53,7 +53,7 @@ Embargo date | Launch date
 Friday 15 June 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 11 June 2018 at 22:07
 - [ ] Exported to Keepeek
 
@@ -61,7 +61,7 @@ Friday 15 June 2018 at 11:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
@@ -103,7 +103,7 @@ Tuesday 19 June 2018 at 9:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Medium: *PDF*
 
@@ -124,7 +124,7 @@ Tuesday 19 June 2018 at 9:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Medium: *PDF*
 
@@ -159,7 +159,7 @@ Wednesday 20 June 2018 at 7:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 7 June 2018 at 21:43
+- [x] Exported to iLibrary Tuesday 12 June 2018 at 22:19
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -180,7 +180,7 @@ Wednesday 20 June 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 29 May 2018 at 22:18
+- [x] Exported to iLibrary Tuesday 12 June 2018 at 22:19
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -208,13 +208,34 @@ Wednesday 20 June 2018 at 11:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Medium: *PDF*
 
 ------
 
-## [Trade in Counterfeit Goods and the Italian Economy - Making Sure "Made in Italy" Always Is](https://doi.org/10.1787/g2g9066d-en)
+## [Il commercio di beni contraffatti e l'economia Italiana - Tutelare la proprietà intellettuale dell'Italia](https://doi.org/10.1787/9789264302655-it)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 15:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Italian*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [Trade in Counterfeit Goods and the Italian Economy - Making Sure "Made in Italy" Always Is](https://doi.org/10.1787/9789264302426-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -229,7 +250,7 @@ Wednesday 20 June 2018 at 15:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
@@ -369,7 +390,7 @@ Friday 7 September 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 11 June 2018 at 22:07
+- [x] Exported to iLibrary Tuesday 12 June 2018 at 22:19
 - [ ] Exported to Keepeek
 
 ### Additional Information
