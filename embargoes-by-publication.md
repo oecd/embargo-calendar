@@ -1,27 +1,6 @@
-# OECD publication embargoes (19 embargoes)
+# OECD publication embargoes (20 embargoes)
 
-*Data generated on Wednesday 13 June 2018 at 23:28*
-
-------
-
-## [Rethinking Urban Sprawl - Moving Towards Sustainable Cities](https://doi.org/10.1787/9789264189881-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 14 June 2018 at 10:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 June 2018 at 22:07
-- [x] Exported to Keepeek Monday 11 June 2018 at 22:51
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
+*Data generated on Thursday 14 June 2018 at 23:36*
 
 ------
 
@@ -33,8 +12,8 @@ Friday 15 June 2018 at 8:45 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 June 2018 at 22:19
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 13 June 2018 at 22:12
+- [x] Exported to Keepeek Wednesday 13 June 2018 at 22:52
 
 ### Additional Information
 
@@ -54,8 +33,8 @@ Friday 15 June 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 June 2018 at 22:07
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 13 June 2018 at 22:12
+- [x] Exported to Keepeek Wednesday 13 June 2018 at 22:52
 
 ### Additional Information
 
@@ -82,7 +61,7 @@ Tuesday 19 June 2018 at 9:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Medium: *PDF*
 
@@ -96,7 +75,7 @@ Tuesday 19 June 2018 at 9:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 13 June 2018 at 22:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -117,7 +96,7 @@ Tuesday 19 June 2018 at 9:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 13 June 2018 at 22:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -145,8 +124,50 @@ Tuesday 19 June 2018 at 9:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
+## [Qui veut devenir enseignant et pour quelles raisons?](https://doi.org/10.1787/0a8d5175-fr)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 19 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 June 2018 at 22:17
+- [x] Exported to Keepeek Thursday 14 June 2018 at 22:58
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Who wants to become a teacher and why?](https://doi.org/10.1787/d6a81156-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 19 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 June 2018 at 22:17
+- [x] Exported to Keepeek Thursday 14 June 2018 at 22:58
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
@@ -180,7 +201,7 @@ Wednesday 20 June 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 12 June 2018 at 22:19
+- [x] Exported to iLibrary Wednesday 13 June 2018 at 22:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -201,7 +222,7 @@ Wednesday 20 June 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 13 June 2018 at 22:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -222,7 +243,7 @@ Wednesday 20 June 2018 at 15:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 13 June 2018 at 22:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -235,7 +256,7 @@ Wednesday 20 June 2018 at 15:00 | no launch event
 
 ------
 
-## [Trade in Counterfeit Goods and the Italian Economy - Making Sure "Made in Italy" Always Is](https://doi.org/10.1787/9789264302426-en)
+## [Trade in Counterfeit Goods and the Italian Economy - Protecting Italy's intellectual property](https://doi.org/10.1787/9789264302426-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -243,7 +264,7 @@ Wednesday 20 June 2018 at 15:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 13 June 2018 at 22:12
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -368,7 +389,7 @@ Embargo date | Launch date
 Monday 16 July 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 11 June 2018 at 22:07
 - [ ] Exported to Keepeek
 
@@ -376,7 +397,7 @@ Monday 16 July 2018 at 11:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
