@@ -1,48 +1,6 @@
-# OECD publication embargoes (20 embargoes)
+# OECD publication embargoes (18 embargoes)
 
-*Data generated on Thursday 14 June 2018 at 23:36*
-
-------
-
-## [OECD Reviews of Digital Transformation: Going Digital in Sweden](https://doi.org/10.1787/9789264302259-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 15 June 2018 at 8:45 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 June 2018 at 22:12
-- [x] Exported to Keepeek Wednesday 13 June 2018 at 22:52
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
-
-------
-
-## [A Broken Social Elevator? How to Promote Social Mobility](https://doi.org/10.1787/9789264301085-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 15 June 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 June 2018 at 22:12
-- [x] Exported to Keepeek Wednesday 13 June 2018 at 22:52
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
+*Data generated on Friday 15 June 2018 at 23:26*
 
 ------
 
@@ -53,15 +11,15 @@ Embargo date | Launch date
 Tuesday 19 June 2018 at 9:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 June 2018 at 22:16
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Medium: *PDF*
 
@@ -74,15 +32,15 @@ Embargo date | Launch date
 Tuesday 19 June 2018 at 9:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 13 June 2018 at 22:12
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 June 2018 at 22:16
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Medium: *PDF*
 
@@ -95,15 +53,15 @@ Embargo date | Launch date
 Tuesday 19 June 2018 at 9:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 13 June 2018 at 22:12
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 June 2018 at 22:16
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Medium: *PDF*
 
@@ -116,15 +74,15 @@ Embargo date | Launch date
 Tuesday 19 June 2018 at 9:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 June 2018 at 22:16
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Medium: *PDF*
 
@@ -201,7 +159,7 @@ Wednesday 20 June 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 13 June 2018 at 22:12
+- [x] Exported to iLibrary Thursday 14 June 2018 at 22:16
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -264,7 +222,7 @@ Wednesday 20 June 2018 at 15:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 13 June 2018 at 22:12
+- [x] Exported to iLibrary Thursday 14 June 2018 at 22:16
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -390,8 +348,8 @@ Monday 16 July 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 June 2018 at 22:07
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 14 June 2018 at 22:16
+- [x] Exported to Keepeek Thursday 14 June 2018 at 22:58
 
 ### Additional Information
 
