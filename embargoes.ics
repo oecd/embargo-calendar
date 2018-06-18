@@ -4,87 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264189881-en
-SUMMARY:Rethinking Urban Sprawl - Moving Towards
-  Sustainable Cities
-DESCRIPTION:Directorate: Environment Directorate\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/9789264189881-en\nPublication type
- : Stand-alone monograph\nReleased as: PD
- F, ePub, Paperback, HTML.\n\niLibrary ex
- port: 13 June 2018, 20:12 Paris time (GM
- T+00:00)\nFreepreview export: 13 June 20
- 18, 20:52 Paris time (GMT+00:00)\nFTI lo
- aded: ✓.
-DTSTAMP:20180615T232703Z
-DTSTART:20180614T080000Z
-DTEND:20180614T081500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Rethinking Urban Sprawl - Movi
- ng Towards Sustainable Cities
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264302259-en
-SUMMARY:OECD Reviews of Digital Transformation: 
- Going Digital in Sweden
-DESCRIPTION:Directorate: Directorate for Science, Te
- chnology and Industry \nLanguage: Englis
- h\nDOI: https://doi.org/10.1787/97892643
- 02259-en\nPublication type: Stand-alone 
- monograph\nReleased as: PDF, Paperback.\
- n\niLibrary export: 13 June 2018, 20:12 
- Paris time (GMT+00:00)\nFreepreview expo
- rt: 13 June 2018, 20:52 Paris time (GMT+
- 00:00)\nFTI loaded: ✓.
-DTSTAMP:20180615T232703Z
-DTSTART:20180615T064500Z
-DTEND:20180615T070000Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Reviews of Digital Transf
- ormation: Going Digital in Sweden
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264301085-en
-SUMMARY:A Broken Social Elevator? How to Promote
-  Social Mobility
-DESCRIPTION:Directorate: Directorate for Employment,
-  Labour and Social Affairs\nLanguage: En
- glish\nDOI: https://doi.org/10.1787/9789
- 264301085-en\nPublication type: Stand-al
- one monograph\nReleased as: Paperback, P
- DF.\n\niLibrary export: 13 June 2018, 20
- :12 Paris time (GMT+00:00)\nFreepreview 
- export: 13 June 2018, 20:52 Paris time (
- GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180615T232703Z
-DTSTART:20180615T090000Z
-DTEND:20180615T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: A Broken Social Elevator? How 
- to Promote Social Mobility
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/eco_surveys-eur-2018-fr
 SUMMARY:Études économiques de l'OCDE : Union eur
  opéenne 2018
@@ -92,10 +11,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: French\nDOI: https://doi.org/10.178
  7/eco_surveys-eur-2018-fr\nPublication t
  ype: Economic survey\nReleased as: Paper
- back, PDF.\n\niLibrary export: 14 June 2
- 018, 20:16 Paris time (GMT+00:00)\nFreep
- review export: never\nFTI loaded: ✓.
-DTSTAMP:20180615T232703Z
+ back, PDF.\n\niLibrary export: 15 June 2
+ 018, 20:08 Paris time (GMT+00:00)\nFreep
+ review export: 15 June 2018, 20:46 Paris
+  time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180618T231703Z
 DTSTART:20180619T070000Z
 DTEND:20180619T071500Z
 TRANSP:TRANSPARENT
@@ -116,11 +36,12 @@ SUMMARY:Études économiques de l'OCDE : Zone Euro
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: French\nDOI: https://doi.org/10.178
  7/eco_surveys-euz-2018-fr\nPublication t
- ype: Economic survey\nReleased as: PDF, 
- Paperback.\n\niLibrary export: 14 June 2
- 018, 20:16 Paris time (GMT+00:00)\nFreep
- review export: never\nFTI loaded: ✓.
-DTSTAMP:20180615T232703Z
+ ype: Economic survey\nReleased as: Paper
+ back, PDF.\n\niLibrary export: 15 June 2
+ 018, 20:08 Paris time (GMT+00:00)\nFreep
+ review export: 15 June 2018, 20:46 Paris
+  time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180618T231703Z
 DTSTART:20180619T070000Z
 DTEND:20180619T071500Z
 TRANSP:TRANSPARENT
@@ -141,10 +62,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-euz-2018-en\nPublication 
  type: Economic survey\nReleased as: PDF,
-  Paperback.\n\niLibrary export: 14 June 
- 2018, 20:16 Paris time (GMT+00:00)\nFree
- preview export: never\nFTI loaded: ✓.
-DTSTAMP:20180615T232703Z
+  Paperback.\n\niLibrary export: 15 June 
+ 2018, 20:08 Paris time (GMT+00:00)\nFree
+ preview export: 15 June 2018, 20:46 Pari
+ s time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180618T231703Z
 DTSTART:20180619T070000Z
 DTEND:20180619T071500Z
 TRANSP:TRANSPARENT
@@ -166,10 +88,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-eur-2018-en\nPublication 
  type: Economic survey\nReleased as: Pape
- rback, PDF.\n\niLibrary export: 14 June 
- 2018, 20:16 Paris time (GMT+00:00)\nFree
- preview export: never\nFTI loaded: ✓.
-DTSTAMP:20180615T232703Z
+ rback, PDF.\n\niLibrary export: 15 June 
+ 2018, 20:08 Paris time (GMT+00:00)\nFree
+ preview export: 15 June 2018, 20:46 Pari
+ s time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180618T231703Z
 DTSTART:20180619T070000Z
 DTEND:20180619T071500Z
 TRANSP:TRANSPARENT
@@ -195,7 +118,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  7 Paris time (GMT+00:00)\nFreepreview ex
  port: 14 June 2018, 20:58 Paris time (GM
  T+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180615T232703Z
+DTSTAMP:20180618T231703Z
 DTSTART:20180619T090000Z
 DTEND:20180619T091500Z
 TRANSP:TRANSPARENT
@@ -220,7 +143,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  17 Paris time (GMT+00:00)\nFreepreview e
  xport: 14 June 2018, 20:58 Paris time (G
  MT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180615T232703Z
+DTSTAMP:20180618T231703Z
 DTSTART:20180619T090000Z
 DTEND:20180619T091500Z
 TRANSP:TRANSPARENT
@@ -241,11 +164,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-kor-2018-en\nPublication 
  type: Economic survey\nReleased as: HTML
- , ePub, Paperback, PDF.\n\niLibrary expo
+ , PDF, ePub, Paperback.\n\niLibrary expo
  rt: 12 June 2018, 20:19 Paris time (GMT+
  00:00)\nFreepreview export: never\nFTI l
- oaded: no.
-DTSTAMP:20180615T232703Z
+ oaded: ✓.
+DTSTAMP:20180618T231703Z
 DTSTART:20180620T050000Z
 DTEND:20180620T051500Z
 TRANSP:TRANSPARENT
@@ -269,8 +192,8 @@ DESCRIPTION:Directorate: Directorate for Employment,
  \nReleased as: PDF, Paperback.\n\niLibra
  ry export: 14 June 2018, 20:16 Paris tim
  e (GMT+00:00)\nFreepreview export: never
- \nFTI loaded: no.
-DTSTAMP:20180615T232703Z
+ \nFTI loaded: ✓.
+DTSTAMP:20180618T231703Z
 DTSTART:20180620T090000Z
 DTEND:20180620T091500Z
 TRANSP:TRANSPARENT
@@ -293,10 +216,10 @@ DESCRIPTION:Directorate: Directorate for Employment,
  ench\nDOI: https://doi.org/10.1787/migr_
  outlook-2018-fr\nPublication type: Book\
  nReleased as: PDF, Paperback.\n\niLibrar
- y export: 13 June 2018, 20:12 Paris time
+ y export: 15 June 2018, 20:08 Paris time
   (GMT+00:00)\nFreepreview export: never\
- nFTI loaded: no.
-DTSTAMP:20180615T232703Z
+ nFTI loaded: ✓.
+DTSTAMP:20180618T231703Z
 DTSTART:20180620T090000Z
 DTEND:20180620T091500Z
 TRANSP:TRANSPARENT
@@ -322,10 +245,10 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  sed as: Paperback, PDF.\n\niLibrary expo
  rt: 13 June 2018, 20:12 Paris time (GMT+
  00:00)\nFreepreview export: never\nFTI l
- oaded: no.
-DTSTAMP:20180615T232703Z
-DTSTART:20180620T130000Z
-DTEND:20180620T131500Z
+ oaded: ✓.
+DTSTAMP:20180618T231703Z
+DTSTART:20180620T100000Z
+DTEND:20180620T101500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT48H
@@ -347,13 +270,13 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  rnance\nLanguage: English\nDOI: https://
  doi.org/10.1787/9789264302426-en\nPublic
  ation type: Stand-alone monograph\nRelea
- sed as: PDF, Paperback.\n\niLibrary expo
+ sed as: Paperback, PDF.\n\niLibrary expo
  rt: 14 June 2018, 20:16 Paris time (GMT+
  00:00)\nFreepreview export: never\nFTI l
- oaded: no.
-DTSTAMP:20180615T232703Z
-DTSTART:20180620T130000Z
-DTEND:20180620T131500Z
+ oaded: ✓.
+DTSTAMP:20180618T231703Z
+DTSTART:20180620T100000Z
+DTEND:20180620T101500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT48H
@@ -378,7 +301,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  L, ePub, PDF.\n\niLibrary export: 1 June
   2018, 20:12 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180615T232703Z
+DTSTAMP:20180618T231703Z
 DTSTART:20180625T090000Z
 DTEND:20180625T091500Z
 TRANSP:TRANSPARENT
@@ -400,12 +323,12 @@ SUMMARY:Cost-Benefit Analysis and the Environmen
 DESCRIPTION:Directorate: Environment Directorate\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/9789264085169-en\nPublication type
- : Stand-alone monograph\nReleased as: PD
- F, HTML, Paperback, ePub.\n\niLibrary ex
+ : Stand-alone monograph\nReleased as: Pa
+ perback, ePub, PDF, HTML.\n\niLibrary ex
  port: 11 June 2018, 20:07 Paris time (GM
  T+00:00)\nFreepreview export: never\nFTI
-  loaded: no.
-DTSTAMP:20180615T232703Z
+  loaded: ✓.
+DTSTAMP:20180618T231703Z
 DTSTART:20180625T090000Z
 DTEND:20180625T091500Z
 TRANSP:TRANSPARENT
@@ -421,17 +344,43 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/agr_pol-2018-en
+SUMMARY:Agricultural Policy Monitoring and Evalu
+ ation 2018
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_pol-2018-en\nPublica
+ tion type: Book\nReleased as: HTML, PDF,
+  ePub, Paperback.\n\niLibrary export: 11
+  June 2018, 20:07 Paris time (GMT+00:00)
+ \nFreepreview export: never\nFTI loaded:
+  no.
+DTSTAMP:20180618T231703Z
+DTSTART:20180626T090000Z
+DTEND:20180626T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Agricultural Policy Monitoring
+  and Evaluation 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264298613-en
 SUMMARY:OECD Environmental Performance Reviews: 
  Hungary 2018
 DESCRIPTION:Directorate: Environment Directorate\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/9789264298613-en\nPublication type
- : Book\nReleased as: Paperback, PDF.\n\n
- iLibrary export: 28 May 2018, 20:13 Pari
- s time (GMT+00:00)\nFreepreview export: 
- never\nFTI loaded: no.
-DTSTAMP:20180615T232703Z
+ : Book\nReleased as: HTML, PDF, Paperbac
+ k, ePub.\n\niLibrary export: 28 May 2018
+ , 20:13 Paris time (GMT+00:00)\nFreeprev
+ iew export: never\nFTI loaded: no.
+DTSTAMP:20180618T231703Z
 DTSTART:20180628T073000Z
 DTEND:20180628T074500Z
 TRANSP:TRANSPARENT
@@ -452,11 +401,11 @@ SUMMARY:Études économiques de l'OCDE : Canada 20
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: French\nDOI: https://doi.org/10.178
  7/eco_surveys-can-2018-fr\nPublication t
- ype: Economic survey\nReleased as: PDF, 
- Paperback.\n\niLibrary export: 25 May 20
- 18, 20:20 Paris time (GMT+00:00)\nFreepr
- eview export: never\nFTI loaded: no.
-DTSTAMP:20180615T232703Z
+ ype: Economic survey\nReleased as: Paper
+ back, PDF.\n\niLibrary export: 15 June 2
+ 018, 20:08 Paris time (GMT+00:00)\nFreep
+ review export: never\nFTI loaded: no.
+DTSTAMP:20180618T231703Z
 DTSTART:20180630T210000Z
 DTEND:20180630T211500Z
 TRANSP:TRANSPARENT
@@ -476,11 +425,11 @@ SUMMARY:OECD Economic Surveys: Canada 2018
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-can-2018-en\nPublication 
- type: Economic survey\nReleased as: PDF,
-  Paperback.\n\niLibrary export: 25 May 2
- 018, 20:20 Paris time (GMT+00:00)\nFreep
- review export: never\nFTI loaded: no.
-DTSTAMP:20180615T232703Z
+ type: Economic survey\nReleased as: Pape
+ rback, PDF.\n\niLibrary export: 15 June 
+ 2018, 20:08 Paris time (GMT+00:00)\nFree
+ preview export: never\nFTI loaded: no.
+DTSTAMP:20180618T231703Z
 DTSTART:20180630T210000Z
 DTEND:20180630T211500Z
 TRANSP:TRANSPARENT
@@ -506,7 +455,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  16 Paris time (GMT+00:00)\nFreepreview e
  xport: 14 June 2018, 20:58 Paris time (G
  MT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180615T232703Z
+DTSTAMP:20180618T231703Z
 DTSTART:20180716T090000Z
 DTEND:20180716T091500Z
 TRANSP:TRANSPARENT
@@ -521,20 +470,46 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/9789264300309-en
+SUMMARY:Delivering Quality Health Services: A Gl
+ obal Imperative
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: En
+ glish\nDOI: https://doi.org/10.1787/9789
+ 264300309-en\nPublication type: Stand-al
+ one monograph\nReleased as: PDF.\n\niLib
+ rary export: 12 June 2018, 20:19 Paris t
+ ime (GMT+00:00)\nFreepreview export: nev
+ er\nFTI loaded: ✓.
+DTSTAMP:20180618T231703Z
+DTSTART:20180729T220000Z
+DTEND:20180729T221500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Delivering Quality Health Serv
+ ices: A Global Imperative
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264292048-en
 SUMMARY:Supporting Entrepreneurship and Innovati
  on in Higher Education in The Netherland
  s
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills, Centre for Entrepreneurship, 
- SMEs and Local Development\nLanguage: En
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development, Directorat
+ e for Education and Skills\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264292048-en\nPublication type: Book\nRe
  leased as: Paperback, ePub, PDF.\n\niLib
  rary export: 12 June 2018, 20:19 Paris t
  ime (GMT+00:00)\nFreepreview export: nev
  er\nFTI loaded: no.
-DTSTAMP:20180615T232703Z
+DTSTAMP:20180618T231703Z
 DTSTART:20180907T090000Z
 DTEND:20180907T091500Z
 TRANSP:TRANSPARENT

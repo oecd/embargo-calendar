@@ -1,6 +1,6 @@
-# OECD publication embargoes (18 embargoes)
+# OECD publication embargoes (20 embargoes)
 
-*Data generated on Friday 15 June 2018 at 23:26*
+*Data generated on Monday 18 June 2018 at 23:16*
 
 ------
 
@@ -12,8 +12,8 @@ Tuesday 19 June 2018 at 9:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 June 2018 at 22:16
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 15 June 2018 at 22:08
+- [x] Exported to Keepeek Friday 15 June 2018 at 22:46
 
 ### Additional Information
 
@@ -33,8 +33,8 @@ Tuesday 19 June 2018 at 9:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 June 2018 at 22:16
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 15 June 2018 at 22:08
+- [x] Exported to Keepeek Friday 15 June 2018 at 22:46
 
 ### Additional Information
 
@@ -54,8 +54,8 @@ Tuesday 19 June 2018 at 9:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 June 2018 at 22:16
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 15 June 2018 at 22:08
+- [x] Exported to Keepeek Friday 15 June 2018 at 22:46
 
 ### Additional Information
 
@@ -75,8 +75,8 @@ Tuesday 19 June 2018 at 9:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 June 2018 at 22:16
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 15 June 2018 at 22:08
+- [x] Exported to Keepeek Friday 15 June 2018 at 22:46
 
 ### Additional Information
 
@@ -137,7 +137,7 @@ Embargo date | Launch date
 Wednesday 20 June 2018 at 7:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 June 2018 at 22:19
 - [ ] Exported to Keepeek
 
@@ -158,7 +158,7 @@ Embargo date | Launch date
 Wednesday 20 June 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 June 2018 at 22:16
 - [ ] Exported to Keepeek
 
@@ -166,7 +166,7 @@ Wednesday 20 June 2018 at 11:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -179,15 +179,15 @@ Embargo date | Launch date
 Wednesday 20 June 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 13 June 2018 at 22:12
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 15 June 2018 at 22:08
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -197,10 +197,10 @@ Wednesday 20 June 2018 at 11:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 20 June 2018 at 15:00 | no launch event
+Wednesday 20 June 2018 at 12:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 June 2018 at 22:12
 - [ ] Exported to Keepeek
 
@@ -208,7 +208,7 @@ Wednesday 20 June 2018 at 15:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Italian*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
@@ -218,10 +218,10 @@ Wednesday 20 June 2018 at 15:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 20 June 2018 at 15:00 | no launch event
+Wednesday 20 June 2018 at 12:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 June 2018 at 22:16
 - [ ] Exported to Keepeek
 
@@ -229,7 +229,7 @@ Wednesday 20 June 2018 at 15:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
@@ -263,7 +263,7 @@ Embargo date | Launch date
 Monday 25 June 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 11 June 2018 at 22:07
 - [ ] Exported to Keepeek
 
@@ -271,8 +271,29 @@ Monday 25 June 2018 at 11:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [Agricultural Policy Monitoring and Evaluation 2018](https://doi.org/10.1787/agr_pol-2018-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 26 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 11 June 2018 at 22:07
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------
@@ -306,7 +327,7 @@ Saturday 30 June 2018 at 23:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 25 May 2018 at 22:20
+- [x] Exported to iLibrary Friday 15 June 2018 at 22:08
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -327,7 +348,7 @@ Saturday 30 June 2018 at 23:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 25 May 2018 at 22:20
+- [x] Exported to iLibrary Friday 15 June 2018 at 22:08
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -361,6 +382,27 @@ Monday 16 July 2018 at 11:00 | no launch event
 
 ------
 
+## [Delivering Quality Health Services: A Global Imperative](https://doi.org/10.1787/9789264300309-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 30 July 2018 at 0:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 June 2018 at 22:19
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
 ## [Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands](https://doi.org/10.1787/9789264292048-en)
 
 Embargo date | Launch date
@@ -374,7 +416,7 @@ Friday 7 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
