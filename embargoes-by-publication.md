@@ -1,132 +1,6 @@
-# OECD publication embargoes (20 embargoes)
+# OECD publication embargoes (41 embargoes)
 
-*Data generated on Monday 18 June 2018 at 23:16*
-
-------
-
-## [Études économiques de l'OCDE : Union européenne 2018](https://doi.org/10.1787/eco_surveys-eur-2018-fr)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 19 June 2018 at 9:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 June 2018 at 22:08
-- [x] Exported to Keepeek Friday 15 June 2018 at 22:46
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Medium: *PDF*
-
-------
-
-## [Études économiques de l'OCDE : Zone Euro 2018](https://doi.org/10.1787/eco_surveys-euz-2018-fr)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 19 June 2018 at 9:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 June 2018 at 22:08
-- [x] Exported to Keepeek Friday 15 June 2018 at 22:46
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Medium: *PDF*
-
-------
-
-## [OECD Economic Surveys: Euro Area 2018](https://doi.org/10.1787/eco_surveys-euz-2018-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 19 June 2018 at 9:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 June 2018 at 22:08
-- [x] Exported to Keepeek Friday 15 June 2018 at 22:46
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Medium: *PDF*
-
-------
-
-## [OECD Economic Surveys: European Union 2018](https://doi.org/10.1787/eco_surveys-eur-2018-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 19 June 2018 at 9:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 June 2018 at 22:08
-- [x] Exported to Keepeek Friday 15 June 2018 at 22:46
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Medium: *PDF*
-
-------
-
-## [Qui veut devenir enseignant et pour quelles raisons?](https://doi.org/10.1787/0a8d5175-fr)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 19 June 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 June 2018 at 22:17
-- [x] Exported to Keepeek Thursday 14 June 2018 at 22:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Who wants to become a teacher and why?](https://doi.org/10.1787/d6a81156-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 19 June 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 June 2018 at 22:17
-- [x] Exported to Keepeek Thursday 14 June 2018 at 22:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Tuesday 19 June 2018 at 23:23*
 
 ------
 
@@ -138,14 +12,14 @@ Wednesday 20 June 2018 at 7:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 June 2018 at 22:19
+- [x] Exported to iLibrary Monday 18 June 2018 at 22:07
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Medium: *PDF*
 
@@ -159,8 +33,8 @@ Wednesday 20 June 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 June 2018 at 22:16
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 18 June 2018 at 22:07
+- [x] Exported to Keepeek Monday 18 June 2018 at 22:45
 
 ### Additional Information
 
@@ -168,6 +42,573 @@ Wednesday 20 June 2018 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in Arabic), توقعات الهجرة الدولية لعام 2018](https://doi.org/10.1787/192d6335-ar)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Arabic*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in Chinese), 2018年国际移民展望](https://doi.org/10.1787/bc07290f-zh)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Chinese*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in Czech), Výhled v oblasti mezinárodní migrace pro rok 2018](https://doi.org/10.1787/20301d1c-cs)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Czech*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in Danish), Udsigterne for international migration 2018](https://doi.org/10.1787/2b9d1d65-da)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Danish*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in Dutch), Vooruitzichten Internationale Migratie 2018](https://doi.org/10.1787/9d599769-nl)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Dutch*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in English)](https://doi.org/10.1787/0312b53d-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in Estonian), Rahvusvahelise rände ülevaade 2018](https://doi.org/10.1787/f85a756d-et)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Estonian*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in Finnish), Kansainvälinen muuttoliikekatsaus 2018](https://doi.org/10.1787/68be5585-fi)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Finnish*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in French), Perspectives des migrations internationales 2018](https://doi.org/10.1787/9fe5b4b8-fr)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in German), Internationaler Migrationsausblick 2018](https://doi.org/10.1787/1412a4be-de)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *German*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in Greek), Προοπτικές διεθνούς μετανάστευσης 2018](https://doi.org/10.1787/f226d6c5-el)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Greek*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in Hebrew), מבט על ההגירה הבינלאומית 2018](https://doi.org/10.1787/3a540e4d-he)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Hebrew*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in Hungarian), Nemzetközi migrációs kilátások 2018](https://doi.org/10.1787/198da873-hu)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Hungarian*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in Icelandic), Horfur í fólksflutningamálum 2018](https://doi.org/10.1787/c493f2d2-is)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Icelandic*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in Italian), Prospettive delle migrazioni internazionali 2018](https://doi.org/10.1787/31de709c-it)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Italian*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in Japanese), 国際移民アウトルック 2018年版](https://doi.org/10.1787/4194b7a5-ja)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Japanese*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in Korean), 2018년 국제이주 전망](https://doi.org/10.1787/4fa0bf00-ko)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Korean*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in Latvian), Starptautiskās migrācijas apskats 2018](https://doi.org/10.1787/0b49dc4c-lv)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Latvian*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in Norwegian), Utsikter for internasjonal migrasjon 2018](https://doi.org/10.1787/dd95fe32-no)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Norwegian*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in Polish), Przegląd migracji międzynarodowej 2018](https://doi.org/10.1787/ebee002a-pl)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Polish*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in Portuguese), Perspetivas das Migrações Internacionais 2018](https://doi.org/10.1787/92717fae-pt)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Portuguese*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in Russian), Перспективы международной миграции 2018](https://doi.org/10.1787/399da04a-ru)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Russian*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in Slovak), Výhľad v oblasti medzinárodnej migrácie na rok 2018](https://doi.org/10.1787/d78c94d3-sk)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Slovak*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in Slovenian), Pregled mednarodnih migracij 2018](https://doi.org/10.1787/3a8a2680-sl)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Slovenian*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in Spanish), Perspectivas de las migraciones internacionales 2018](https://doi.org/10.1787/dfce87d4-es)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in Swedish), Internationell migrationsöversikt 2018](https://doi.org/10.1787/69b690cf-sv)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Swedish*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [International Migration Outlook 2018 (Summary in Turkish), 2018 Uluslararası Göç Görünümü](https://doi.org/10.1787/8b53829e-tr)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 20 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
+- [x] Exported to Keepeek Tuesday 19 June 2018 at 22:47
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Turkish*
+* Availability: *Published*
+* Type of publication: *Summary*
 * Medium: *PDF*
 
 ------
@@ -180,8 +621,8 @@ Wednesday 20 June 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 June 2018 at 22:08
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 18 June 2018 at 22:07
+- [x] Exported to Keepeek Monday 18 June 2018 at 22:45
 
 ### Additional Information
 
@@ -201,8 +642,8 @@ Wednesday 20 June 2018 at 12:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 June 2018 at 22:12
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 18 June 2018 at 22:07
+- [x] Exported to Keepeek Monday 18 June 2018 at 22:45
 
 ### Additional Information
 
@@ -222,8 +663,8 @@ Wednesday 20 June 2018 at 12:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 June 2018 at 22:16
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 18 June 2018 at 22:07
+- [x] Exported to Keepeek Monday 18 June 2018 at 22:45
 
 ### Additional Information
 
@@ -264,8 +705,8 @@ Monday 25 June 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 June 2018 at 22:07
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 18 June 2018 at 22:07
+- [x] Exported to Keepeek Monday 18 June 2018 at 22:45
 
 ### Additional Information
 
@@ -285,7 +726,7 @@ Tuesday 26 June 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 11 June 2018 at 22:07
+- [x] Exported to iLibrary Monday 18 June 2018 at 22:07
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -390,8 +831,8 @@ Monday 30 July 2018 at 0:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 June 2018 at 22:19
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 18 June 2018 at 22:07
+- [x] Exported to Keepeek Monday 18 June 2018 at 22:45
 
 ### Additional Information
 
@@ -416,7 +857,7 @@ Friday 7 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
+* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*

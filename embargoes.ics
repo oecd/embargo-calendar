@@ -15,7 +15,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  018, 20:08 Paris time (GMT+00:00)\nFreep
  review export: 15 June 2018, 20:46 Paris
   time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180618T231703Z
+DTSTAMP:20180619T232404Z
 DTSTART:20180619T070000Z
 DTEND:20180619T071500Z
 TRANSP:TRANSPARENT
@@ -41,7 +41,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  018, 20:08 Paris time (GMT+00:00)\nFreep
  review export: 15 June 2018, 20:46 Paris
   time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180618T231703Z
+DTSTAMP:20180619T232404Z
 DTSTART:20180619T070000Z
 DTEND:20180619T071500Z
 TRANSP:TRANSPARENT
@@ -66,7 +66,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  2018, 20:08 Paris time (GMT+00:00)\nFree
  preview export: 15 June 2018, 20:46 Pari
  s time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180618T231703Z
+DTSTAMP:20180619T232404Z
 DTSTART:20180619T070000Z
 DTEND:20180619T071500Z
 TRANSP:TRANSPARENT
@@ -92,7 +92,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  2018, 20:08 Paris time (GMT+00:00)\nFree
  preview export: 15 June 2018, 20:46 Pari
  s time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180618T231703Z
+DTSTAMP:20180619T232404Z
 DTSTART:20180619T070000Z
 DTEND:20180619T071500Z
 TRANSP:TRANSPARENT
@@ -118,7 +118,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  7 Paris time (GMT+00:00)\nFreepreview ex
  port: 14 June 2018, 20:58 Paris time (GM
  T+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180618T231703Z
+DTSTAMP:20180619T232404Z
 DTSTART:20180619T090000Z
 DTEND:20180619T091500Z
 TRANSP:TRANSPARENT
@@ -143,7 +143,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  17 Paris time (GMT+00:00)\nFreepreview e
  xport: 14 June 2018, 20:58 Paris time (G
  MT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180618T231703Z
+DTSTAMP:20180619T232404Z
 DTSTART:20180619T090000Z
 DTEND:20180619T091500Z
 TRANSP:TRANSPARENT
@@ -164,11 +164,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-kor-2018-en\nPublication 
  type: Economic survey\nReleased as: HTML
- , PDF, ePub, Paperback.\n\niLibrary expo
- rt: 12 June 2018, 20:19 Paris time (GMT+
+ , Paperback, PDF, ePub.\n\niLibrary expo
+ rt: 18 June 2018, 20:07 Paris time (GMT+
  00:00)\nFreepreview export: never\nFTI l
  oaded: ✓.
-DTSTAMP:20180618T231703Z
+DTSTAMP:20180619T232404Z
 DTSTART:20180620T050000Z
 DTEND:20180620T051500Z
 TRANSP:TRANSPARENT
@@ -189,11 +189,12 @@ DESCRIPTION:Directorate: Directorate for Employment,
   Labour and Social Affairs\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/migr
  _outlook-2018-en\nPublication type: Book
- \nReleased as: PDF, Paperback.\n\niLibra
- ry export: 14 June 2018, 20:16 Paris tim
- e (GMT+00:00)\nFreepreview export: never
- \nFTI loaded: ✓.
-DTSTAMP:20180618T231703Z
+ \nReleased as: Paperback, PDF.\n\niLibra
+ ry export: 18 June 2018, 20:07 Paris tim
+ e (GMT+00:00)\nFreepreview export: 18 Ju
+ ne 2018, 20:45 Paris time (GMT+00:00)\nF
+ TI loaded: ✓.
+DTSTAMP:20180619T232404Z
 DTSTART:20180620T090000Z
 DTEND:20180620T091500Z
 TRANSP:TRANSPARENT
@@ -208,6 +209,784 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/192d6335-ar
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in Arabic), توقعات الهجرة الدولية 
+ لعام 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: Ar
+ abic\nDOI: https://doi.org/10.1787/192d6
+ 335-ar\nPublication type: Summary\nRelea
+ sed as: ePub, HTML, PDF.\n\niLibrary exp
+ ort: 19 June 2018, 20:07 Paris time (GMT
+ +00:00)\nFreepreview export: 19 June 201
+ 8, 20:47 Paris time (GMT+00:00)\nFTI loa
+ ded: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in Arabic), توقعات الهجر
+ ة الدولية لعام 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/bc07290f-zh
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in Chinese), 2018年国际移民展望
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: Ch
+ inese\nDOI: https://doi.org/10.1787/bc07
+ 290f-zh\nPublication type: Summary\nRele
+ ased as: PDF, HTML, ePub.\n\niLibrary ex
+ port: 19 June 2018, 20:07 Paris time (GM
+ T+00:00)\nFreepreview export: 19 June 20
+ 18, 20:47 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in Chinese), 2018年国际移民展望
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/20301d1c-cs
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in Czech), Výhled v oblasti meziná
+ rodní migrace pro rok 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: Cz
+ ech\nDOI: https://doi.org/10.1787/20301d
+ 1c-cs\nPublication type: Summary\nReleas
+ ed as: PDF, HTML, ePub.\n\niLibrary expo
+ rt: 19 June 2018, 20:07 Paris time (GMT+
+ 00:00)\nFreepreview export: 19 June 2018
+ , 20:47 Paris time (GMT+00:00)\nFTI load
+ ed: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in Czech), Výhled v obla
+ sti mezinárodní migrace pro rok 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/2b9d1d65-da
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in Danish), Udsigterne for interna
+ tional migration 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: Da
+ nish\nDOI: https://doi.org/10.1787/2b9d1
+ d65-da\nPublication type: Summary\nRelea
+ sed as: HTML, PDF, ePub.\n\niLibrary exp
+ ort: 19 June 2018, 20:07 Paris time (GMT
+ +00:00)\nFreepreview export: 19 June 201
+ 8, 20:47 Paris time (GMT+00:00)\nFTI loa
+ ded: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in Danish), Udsigterne f
+ or international migration 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9d599769-nl
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in Dutch), Vooruitzichten Internat
+ ionale Migratie 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: Du
+ tch\nDOI: https://doi.org/10.1787/9d5997
+ 69-nl\nPublication type: Summary\nReleas
+ ed as: ePub, PDF, HTML.\n\niLibrary expo
+ rt: 19 June 2018, 20:07 Paris time (GMT+
+ 00:00)\nFreepreview export: 19 June 2018
+ , 20:47 Paris time (GMT+00:00)\nFTI load
+ ed: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in Dutch), Vooruitzichte
+ n Internationale Migratie 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/0312b53d-en
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in English)
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: En
+ glish\nDOI: https://doi.org/10.1787/0312
+ b53d-en\nPublication type: Summary\nRele
+ ased as: PDF, HTML, ePub.\n\niLibrary ex
+ port: 19 June 2018, 20:07 Paris time (GM
+ T+00:00)\nFreepreview export: 19 June 20
+ 18, 20:47 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in English)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/f85a756d-et
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in Estonian), Rahvusvahelise rände
+  ülevaade 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: Es
+ tonian\nDOI: https://doi.org/10.1787/f85
+ a756d-et\nPublication type: Summary\nRel
+ eased as: PDF, ePub, HTML.\n\niLibrary e
+ xport: 19 June 2018, 20:07 Paris time (G
+ MT+00:00)\nFreepreview export: 19 June 2
+ 018, 20:47 Paris time (GMT+00:00)\nFTI l
+ oaded: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in Estonian), Rahvusvahe
+ lise rände ülevaade 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/68be5585-fi
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in Finnish), Kansainvälinen muutto
+ liikekatsaus 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: Fi
+ nnish\nDOI: https://doi.org/10.1787/68be
+ 5585-fi\nPublication type: Summary\nRele
+ ased as: PDF, ePub, HTML.\n\niLibrary ex
+ port: 19 June 2018, 20:07 Paris time (GM
+ T+00:00)\nFreepreview export: 19 June 20
+ 18, 20:47 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in Finnish), Kansainväli
+ nen muuttoliikekatsaus 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9fe5b4b8-fr
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in French), Perspectives des migra
+ tions internationales 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: Fr
+ ench\nDOI: https://doi.org/10.1787/9fe5b
+ 4b8-fr\nPublication type: Summary\nRelea
+ sed as: PDF, ePub, HTML.\n\niLibrary exp
+ ort: 19 June 2018, 20:07 Paris time (GMT
+ +00:00)\nFreepreview export: 19 June 201
+ 8, 20:47 Paris time (GMT+00:00)\nFTI loa
+ ded: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in French), Perspectives
+  des migrations internationales 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/1412a4be-de
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in German), Internationaler Migrat
+ ionsausblick 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: Ge
+ rman\nDOI: https://doi.org/10.1787/1412a
+ 4be-de\nPublication type: Summary\nRelea
+ sed as: ePub, PDF, HTML.\n\niLibrary exp
+ ort: 19 June 2018, 20:07 Paris time (GMT
+ +00:00)\nFreepreview export: 19 June 201
+ 8, 20:47 Paris time (GMT+00:00)\nFTI loa
+ ded: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in German), Internationa
+ ler Migrationsausblick 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/f226d6c5-el
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in Greek), Προοπτικές διεθνούς μετ
+ ανάστευσης 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: Gr
+ eek\nDOI: https://doi.org/10.1787/f226d6
+ c5-el\nPublication type: Summary\nReleas
+ ed as: HTML, ePub, PDF.\n\niLibrary expo
+ rt: 19 June 2018, 20:07 Paris time (GMT+
+ 00:00)\nFreepreview export: 19 June 2018
+ , 20:47 Paris time (GMT+00:00)\nFTI load
+ ed: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in Greek), Προοπτικές δι
+ εθνούς μετανάστευσης 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/3a540e4d-he
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in Hebrew), מבט על ההגירה הבינלאומ
+ ית 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: He
+ brew\nDOI: https://doi.org/10.1787/3a540
+ e4d-he\nPublication type: Summary\nRelea
+ sed as: PDF, HTML, ePub.\n\niLibrary exp
+ ort: 19 June 2018, 20:07 Paris time (GMT
+ +00:00)\nFreepreview export: 19 June 201
+ 8, 20:47 Paris time (GMT+00:00)\nFTI loa
+ ded: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in Hebrew), מבט על ההגיר
+ ה הבינלאומית 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/198da873-hu
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in Hungarian), Nemzetközi migráció
+ s kilátások 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: Hu
+ ngarian\nDOI: https://doi.org/10.1787/19
+ 8da873-hu\nPublication type: Summary\nRe
+ leased as: HTML, ePub, PDF.\n\niLibrary 
+ export: 19 June 2018, 20:07 Paris time (
+ GMT+00:00)\nFreepreview export: 19 June 
+ 2018, 20:47 Paris time (GMT+00:00)\nFTI 
+ loaded: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in Hungarian), Nemzetköz
+ i migrációs kilátások 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/c493f2d2-is
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in Icelandic), Horfur í fólksflutn
+ ingamálum 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: Ic
+ elandic\nDOI: https://doi.org/10.1787/c4
+ 93f2d2-is\nPublication type: Summary\nRe
+ leased as: ePub, HTML, PDF.\n\niLibrary 
+ export: 19 June 2018, 20:07 Paris time (
+ GMT+00:00)\nFreepreview export: 19 June 
+ 2018, 20:47 Paris time (GMT+00:00)\nFTI 
+ loaded: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in Icelandic), Horfur í 
+ fólksflutningamálum 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/31de709c-it
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in Italian), Prospettive delle mig
+ razioni internazionali 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: It
+ alian\nDOI: https://doi.org/10.1787/31de
+ 709c-it\nPublication type: Summary\nRele
+ ased as: ePub, HTML, PDF.\n\niLibrary ex
+ port: 19 June 2018, 20:07 Paris time (GM
+ T+00:00)\nFreepreview export: 19 June 20
+ 18, 20:47 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in Italian), Prospettive
+  delle migrazioni internazionali 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/4194b7a5-ja
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in Japanese), 国際移民アウトルック 2018年版
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: Ja
+ panese\nDOI: https://doi.org/10.1787/419
+ 4b7a5-ja\nPublication type: Summary\nRel
+ eased as: PDF, ePub, HTML.\n\niLibrary e
+ xport: 19 June 2018, 20:07 Paris time (G
+ MT+00:00)\nFreepreview export: 19 June 2
+ 018, 20:47 Paris time (GMT+00:00)\nFTI l
+ oaded: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in Japanese), 国際移民アウトルック
+  2018年版
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/4fa0bf00-ko
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in Korean), 2018년 국제이주 전망
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: Ko
+ rean\nDOI: https://doi.org/10.1787/4fa0b
+ f00-ko\nPublication type: Summary\nRelea
+ sed as: ePub, HTML, PDF.\n\niLibrary exp
+ ort: 19 June 2018, 20:07 Paris time (GMT
+ +00:00)\nFreepreview export: 19 June 201
+ 8, 20:47 Paris time (GMT+00:00)\nFTI loa
+ ded: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in Korean), 2018년 국제이주 전
+ 망
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/0b49dc4c-lv
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in Latvian), Starptautiskās migrāc
+ ijas apskats 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: La
+ tvian\nDOI: https://doi.org/10.1787/0b49
+ dc4c-lv\nPublication type: Summary\nRele
+ ased as: ePub, HTML, PDF.\n\niLibrary ex
+ port: 19 June 2018, 20:07 Paris time (GM
+ T+00:00)\nFreepreview export: 19 June 20
+ 18, 20:47 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in Latvian), Starptautis
+ kās migrācijas apskats 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/dd95fe32-no
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in Norwegian), Utsikter for intern
+ asjonal migrasjon 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: No
+ rwegian\nDOI: https://doi.org/10.1787/dd
+ 95fe32-no\nPublication type: Summary\nRe
+ leased as: ePub, PDF, HTML.\n\niLibrary 
+ export: 19 June 2018, 20:07 Paris time (
+ GMT+00:00)\nFreepreview export: 19 June 
+ 2018, 20:47 Paris time (GMT+00:00)\nFTI 
+ loaded: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in Norwegian), Utsikter 
+ for internasjonal migrasjon 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/ebee002a-pl
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in Polish), Przegląd migracji międ
+ zynarodowej 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: Po
+ lish\nDOI: https://doi.org/10.1787/ebee0
+ 02a-pl\nPublication type: Summary\nRelea
+ sed as: HTML, ePub, PDF.\n\niLibrary exp
+ ort: 19 June 2018, 20:07 Paris time (GMT
+ +00:00)\nFreepreview export: 19 June 201
+ 8, 20:47 Paris time (GMT+00:00)\nFTI loa
+ ded: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in Polish), Przegląd mig
+ racji międzynarodowej 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/92717fae-pt
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in Portuguese), Perspetivas das Mi
+ grações Internacionais 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: Po
+ rtuguese\nDOI: https://doi.org/10.1787/9
+ 2717fae-pt\nPublication type: Summary\nR
+ eleased as: ePub, PDF, HTML.\n\niLibrary
+  export: 19 June 2018, 20:07 Paris time 
+ (GMT+00:00)\nFreepreview export: 19 June
+  2018, 20:47 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in Portuguese), Perspeti
+ vas das Migrações Internacionais 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/399da04a-ru
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in Russian), Перспективы междунаро
+ дной миграции 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: Ru
+ ssian\nDOI: https://doi.org/10.1787/399d
+ a04a-ru\nPublication type: Summary\nRele
+ ased as: ePub, PDF, HTML.\n\niLibrary ex
+ port: 19 June 2018, 20:07 Paris time (GM
+ T+00:00)\nFreepreview export: 19 June 20
+ 18, 20:47 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in Russian), Перспективы
+  международной миграции 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/d78c94d3-sk
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in Slovak), Výhľad v oblasti medzi
+ národnej migrácie na rok 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: Sl
+ ovak\nDOI: https://doi.org/10.1787/d78c9
+ 4d3-sk\nPublication type: Summary\nRelea
+ sed as: HTML, PDF, ePub.\n\niLibrary exp
+ ort: 19 June 2018, 20:07 Paris time (GMT
+ +00:00)\nFreepreview export: 19 June 201
+ 8, 20:47 Paris time (GMT+00:00)\nFTI loa
+ ded: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in Slovak), Výhľad v obl
+ asti medzinárodnej migrácie na rok 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/3a8a2680-sl
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in Slovenian), Pregled mednarodnih
+  migracij 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: Sl
+ ovenian\nDOI: https://doi.org/10.1787/3a
+ 8a2680-sl\nPublication type: Summary\nRe
+ leased as: HTML, ePub, PDF.\n\niLibrary 
+ export: 19 June 2018, 20:07 Paris time (
+ GMT+00:00)\nFreepreview export: 19 June 
+ 2018, 20:47 Paris time (GMT+00:00)\nFTI 
+ loaded: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in Slovenian), Pregled m
+ ednarodnih migracij 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/dfce87d4-es
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in Spanish), Perspectivas de las m
+ igraciones internacionales 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: Sp
+ anish\nDOI: https://doi.org/10.1787/dfce
+ 87d4-es\nPublication type: Summary\nRele
+ ased as: ePub, PDF, HTML.\n\niLibrary ex
+ port: 19 June 2018, 20:07 Paris time (GM
+ T+00:00)\nFreepreview export: 19 June 20
+ 18, 20:47 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in Spanish), Perspectiva
+ s de las migraciones internacionales 201
+ 8
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/69b690cf-sv
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in Swedish), Internationell migrat
+ ionsöversikt 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: Sw
+ edish\nDOI: https://doi.org/10.1787/69b6
+ 90cf-sv\nPublication type: Summary\nRele
+ ased as: ePub, HTML, PDF.\n\niLibrary ex
+ port: 19 June 2018, 20:07 Paris time (GM
+ T+00:00)\nFreepreview export: 19 June 20
+ 18, 20:47 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in Swedish), Internation
+ ell migrationsöversikt 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/8b53829e-tr
+SUMMARY:International Migration Outlook 2018 (Su
+ mmary in Turkish), 2018 Uluslararası Göç
+  Görünümü
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: Tu
+ rkish\nDOI: https://doi.org/10.1787/8b53
+ 829e-tr\nPublication type: Summary\nRele
+ ased as: HTML, ePub, PDF.\n\niLibrary ex
+ port: 19 June 2018, 20:07 Paris time (GM
+ T+00:00)\nFreepreview export: 19 June 20
+ 18, 20:47 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓.
+DTSTAMP:20180619T232404Z
+DTSTART:20180620T090000Z
+DTEND:20180620T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: International Migration Outloo
+ k 2018 (Summary in Turkish), 2018 Ulusla
+ rarası Göç Görünümü
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/migr_outlook-2018-fr
 SUMMARY:Perspectives des migrations internationa
  les 2018
@@ -215,11 +994,12 @@ DESCRIPTION:Directorate: Directorate for Employment,
   Labour and Social Affairs\nLanguage: Fr
  ench\nDOI: https://doi.org/10.1787/migr_
  outlook-2018-fr\nPublication type: Book\
- nReleased as: PDF, Paperback.\n\niLibrar
- y export: 15 June 2018, 20:08 Paris time
-  (GMT+00:00)\nFreepreview export: never\
- nFTI loaded: ✓.
-DTSTAMP:20180618T231703Z
+ nReleased as: Paperback, PDF.\n\niLibrar
+ y export: 18 June 2018, 20:07 Paris time
+  (GMT+00:00)\nFreepreview export: 18 Jun
+ e 2018, 20:45 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180619T232404Z
 DTSTART:20180620T090000Z
 DTEND:20180620T091500Z
 TRANSP:TRANSPARENT
@@ -243,10 +1023,11 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  doi.org/10.1787/9789264302655-it\nPublic
  ation type: Stand-alone monograph\nRelea
  sed as: Paperback, PDF.\n\niLibrary expo
- rt: 13 June 2018, 20:12 Paris time (GMT+
- 00:00)\nFreepreview export: never\nFTI l
- oaded: ✓.
-DTSTAMP:20180618T231703Z
+ rt: 18 June 2018, 20:07 Paris time (GMT+
+ 00:00)\nFreepreview export: 18 June 2018
+ , 20:45 Paris time (GMT+00:00)\nFTI load
+ ed: ✓.
+DTSTAMP:20180619T232404Z
 DTSTART:20180620T100000Z
 DTEND:20180620T101500Z
 TRANSP:TRANSPARENT
@@ -271,10 +1052,11 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  doi.org/10.1787/9789264302426-en\nPublic
  ation type: Stand-alone monograph\nRelea
  sed as: Paperback, PDF.\n\niLibrary expo
- rt: 14 June 2018, 20:16 Paris time (GMT+
- 00:00)\nFreepreview export: never\nFTI l
- oaded: ✓.
-DTSTAMP:20180618T231703Z
+ rt: 18 June 2018, 20:07 Paris time (GMT+
+ 00:00)\nFreepreview export: 18 June 2018
+ , 20:45 Paris time (GMT+00:00)\nFTI load
+ ed: ✓.
+DTSTAMP:20180619T232404Z
 DTSTART:20180620T100000Z
 DTEND:20180620T101500Z
 TRANSP:TRANSPARENT
@@ -297,11 +1079,11 @@ SUMMARY:Analyse coûts-avantages et environnement
 DESCRIPTION:Directorate: Environment Directorate\nLa
  nguage: French\nDOI: https://doi.org/10.
  1787/9789264300453-fr\nPublication type:
-  Stand-alone monograph\nReleased as: HTM
- L, ePub, PDF.\n\niLibrary export: 1 June
+  Stand-alone monograph\nReleased as: ePu
+ b, PDF, HTML.\n\niLibrary export: 1 June
   2018, 20:12 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180618T231703Z
+DTSTAMP:20180619T232404Z
 DTSTART:20180625T090000Z
 DTEND:20180625T091500Z
 TRANSP:TRANSPARENT
@@ -323,12 +1105,13 @@ SUMMARY:Cost-Benefit Analysis and the Environmen
 DESCRIPTION:Directorate: Environment Directorate\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/9789264085169-en\nPublication type
- : Stand-alone monograph\nReleased as: Pa
- perback, ePub, PDF, HTML.\n\niLibrary ex
- port: 11 June 2018, 20:07 Paris time (GM
- T+00:00)\nFreepreview export: never\nFTI
-  loaded: ✓.
-DTSTAMP:20180618T231703Z
+ : Stand-alone monograph\nReleased as: PD
+ F, HTML, Paperback, ePub.\n\niLibrary ex
+ port: 18 June 2018, 20:07 Paris time (GM
+ T+00:00)\nFreepreview export: 18 June 20
+ 18, 20:45 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓.
+DTSTAMP:20180619T232404Z
 DTSTART:20180625T090000Z
 DTEND:20180625T091500Z
 TRANSP:TRANSPARENT
@@ -350,12 +1133,12 @@ SUMMARY:Agricultural Policy Monitoring and Evalu
 DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-en\nPublica
- tion type: Book\nReleased as: HTML, PDF,
-  ePub, Paperback.\n\niLibrary export: 11
+ tion type: Book\nReleased as: Paperback,
+  HTML, PDF, ePub.\n\niLibrary export: 18
   June 2018, 20:07 Paris time (GMT+00:00)
  \nFreepreview export: never\nFTI loaded:
   no.
-DTSTAMP:20180618T231703Z
+DTSTAMP:20180619T232404Z
 DTSTART:20180626T090000Z
 DTEND:20180626T091500Z
 TRANSP:TRANSPARENT
@@ -380,7 +1163,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  k, ePub.\n\niLibrary export: 28 May 2018
  , 20:13 Paris time (GMT+00:00)\nFreeprev
  iew export: never\nFTI loaded: no.
-DTSTAMP:20180618T231703Z
+DTSTAMP:20180619T232404Z
 DTSTART:20180628T073000Z
 DTEND:20180628T074500Z
 TRANSP:TRANSPARENT
@@ -405,7 +1188,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  back, PDF.\n\niLibrary export: 15 June 2
  018, 20:08 Paris time (GMT+00:00)\nFreep
  review export: never\nFTI loaded: no.
-DTSTAMP:20180618T231703Z
+DTSTAMP:20180619T232404Z
 DTSTART:20180630T210000Z
 DTEND:20180630T211500Z
 TRANSP:TRANSPARENT
@@ -429,7 +1212,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  rback, PDF.\n\niLibrary export: 15 June 
  2018, 20:08 Paris time (GMT+00:00)\nFree
  preview export: never\nFTI loaded: no.
-DTSTAMP:20180618T231703Z
+DTSTAMP:20180619T232404Z
 DTSTART:20180630T210000Z
 DTEND:20180630T211500Z
 TRANSP:TRANSPARENT
@@ -455,7 +1238,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  16 Paris time (GMT+00:00)\nFreepreview e
  xport: 14 June 2018, 20:58 Paris time (G
  MT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180618T231703Z
+DTSTAMP:20180619T232404Z
 DTSTART:20180716T090000Z
 DTEND:20180716T091500Z
 TRANSP:TRANSPARENT
@@ -478,10 +1261,11 @@ DESCRIPTION:Directorate: Directorate for Employment,
  glish\nDOI: https://doi.org/10.1787/9789
  264300309-en\nPublication type: Stand-al
  one monograph\nReleased as: PDF.\n\niLib
- rary export: 12 June 2018, 20:19 Paris t
- ime (GMT+00:00)\nFreepreview export: nev
- er\nFTI loaded: ✓.
-DTSTAMP:20180618T231703Z
+ rary export: 18 June 2018, 20:07 Paris t
+ ime (GMT+00:00)\nFreepreview export: 18 
+ June 2018, 20:45 Paris time (GMT+00:00)\
+ nFTI loaded: ✓.
+DTSTAMP:20180619T232404Z
 DTSTART:20180729T220000Z
 DTEND:20180729T221500Z
 TRANSP:TRANSPARENT
@@ -500,16 +1284,16 @@ UID:10.1787/9789264292048-en
 SUMMARY:Supporting Entrepreneurship and Innovati
  on in Higher Education in The Netherland
  s
-DESCRIPTION:Directorate: Centre for Entrepreneurship
- , SMEs and Local Development, Directorat
- e for Education and Skills\nLanguage: En
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills, Centre for Entrepreneurship, 
+ SMEs and Local Development\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264292048-en\nPublication type: Book\nRe
- leased as: Paperback, ePub, PDF.\n\niLib
+ leased as: ePub, PDF, Paperback.\n\niLib
  rary export: 12 June 2018, 20:19 Paris t
  ime (GMT+00:00)\nFreepreview export: nev
  er\nFTI loaded: no.
-DTSTAMP:20180618T231703Z
+DTSTAMP:20180619T232404Z
 DTSTART:20180907T090000Z
 DTEND:20180907T091500Z
 TRANSP:TRANSPARENT
