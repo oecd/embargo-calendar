@@ -1,6 +1,6 @@
-# OECD publication embargoes (9 embargoes)
+# OECD publication embargoes (12 embargoes)
 
-*Data generated on Wednesday 20 June 2018 at 22:55*
+*Data generated on Friday 22 June 2018 at 0:53*
 
 ------
 
@@ -46,11 +46,32 @@ Monday 25 June 2018 at 11:00 | no launch event
 
 ------
 
-## [Agricultural Policy Monitoring and Evaluation 2018](https://doi.org/10.1787/agr_pol-2018-en)
+## [OECD Compendium of Productivity Indicators 2018](https://doi.org/10.1787/pdtvy-2018-en)
 
 Embargo date | Launch date
 -------------|------------
 Tuesday 26 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 18 June 2018 at 22:07
+- [x] Exported to Keepeek Thursday 21 June 2018 at 22:17
+
+### Additional Information
+
+* Directorate: *Statistics and Data Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Agricultural Policy Monitoring and Evaluation 2018](https://doi.org/10.1787/agr_pol-2018-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 26 June 2018 at 13:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
@@ -74,16 +95,58 @@ Embargo date | Launch date
 Thursday 28 June 2018 at 9:30 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 19 June 2018 at 22:07
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Thursday 21 June 2018 at 22:17
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Domestic Revenue Mobilisation - A new database on tax levels and structures in 80 countries](https://doi.org/10.1787/a87feae8-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 28 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Mobilisation des ressources intérieures - Une nouvelle base de données sur le niveau d’imposition et la structure fiscale de 80 pays](https://doi.org/10.1787/f6fa19c4-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 28 June 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
