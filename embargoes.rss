@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Sat, 23 Jun 2018 04:14:24 GMT</pubDate>
+      <pubDate>Tue, 26 Jun 2018 02:18:26 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -26,7 +26,7 @@
          <oe:iLibraryExport>Friday, 1 June 2018, 20:12 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
-         <oe:availableMedia>ePub, PDF, HTML</oe:availableMedia>
+         <oe:availableMedia>PDF, HTML, ePub</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264085169-en</guid>
@@ -39,9 +39,9 @@
          <oe:directorate>Environment Directorate</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Monday, 18 June 2018, 20:07 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Monday, 18 June 2018, 20:45 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
-         <oe:availableMedia>Paperback, ePub, PDF, HTML</oe:availableMedia>
+         <oe:availableMedia>PDF, HTML, Paperback, ePub</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/pdtvy-2018-en</guid>
@@ -67,11 +67,1646 @@
          <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Thursday, 21 June 2018, 20:12 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>ePub, Paperback, HTML, PDF</oe:availableMedia>
+         <oe:availableMedia>Paperback, HTML, PDF, ePub</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/2ec8ce4b-zh</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Agricultural Policy Monitoring and Evaluation 2018 (Summary in Chinese), 2018年农业政策监测与评估</title>
+         <link>https://doi.org/10.1787/2ec8ce4b-zh</link>
+         <description>Agricultural Policy Monitoring and Evaluation 2018 (Summary in Chinese), 2018年农业政策监测与评估 by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, ePub</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/733b37e5-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Agricultural Policy Monitoring and Evaluation 2018 (Summary in English)</title>
+         <link>https://doi.org/10.1787/733b37e5-en</link>
+         <description>Agricultural Policy Monitoring and Evaluation 2018 (Summary in English) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, ePub</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/8ebbaa65-fr</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Agricultural Policy Monitoring and Evaluation 2018 (Summary in French), Politiques agricoles : suivi et évaluation 2018</title>
+         <link>https://doi.org/10.1787/8ebbaa65-fr</link>
+         <description>Agricultural Policy Monitoring and Evaluation 2018 (Summary in French), Politiques agricoles : suivi et évaluation 2018 by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>HTML, ePub, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/39fc9c2c-de</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Agricultural Policy Monitoring and Evaluation 2018 (Summary in German), Monitoring und Evaluierung der Agrarpolitik 2018</title>
+         <link>https://doi.org/10.1787/39fc9c2c-de</link>
+         <description>Agricultural Policy Monitoring and Evaluation 2018 (Summary in German), Monitoring und Evaluierung der Agrarpolitik 2018 by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, ePub</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/1c0a0992-it</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Agricultural Policy Monitoring and Evaluation 2018 (Summary in Italian), Monitoraggio e valutazione delle Politiche agricole 2018</title>
+         <link>https://doi.org/10.1787/1c0a0992-it</link>
+         <description>Agricultural Policy Monitoring and Evaluation 2018 (Summary in Italian), Monitoraggio e valutazione delle Politiche agricole 2018 by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>ePub, PDF, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/5d6b7a1d-ja</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Agricultural Policy Monitoring and Evaluation 2018 (Summary in Japanese), 農業政策：監視と評価2018</title>
+         <link>https://doi.org/10.1787/5d6b7a1d-ja</link>
+         <description>Agricultural Policy Monitoring and Evaluation 2018 (Summary in Japanese), 農業政策：監視と評価2018 by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>HTML, ePub, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/87b7779e-pt</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Agricultural Policy Monitoring and Evaluation 2018 (Summary in Portuguese), Monitorização e Avaliação da Política Agrícola 2018</title>
+         <link>https://doi.org/10.1787/87b7779e-pt</link>
+         <description>Agricultural Policy Monitoring and Evaluation 2018 (Summary in Portuguese), Monitorização e Avaliação da Política Agrícola 2018 by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>PDF, HTML, ePub</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/b0541836-es</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Agricultural Policy Monitoring and Evaluation 2018 (Summary in Spanish), Seguimiento y Evaluación de las Políticas Agrícolas en 2018</title>
+         <link>https://doi.org/10.1787/b0541836-es</link>
+         <description>Agricultural Policy Monitoring and Evaluation 2018 (Summary in Spanish), Seguimiento y Evaluación de las Políticas Agrícolas en 2018 by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>HTML, ePub, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table33-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>All countries: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table33-en</link>
+         <description>All countries: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table255-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>All countries: Estimates of support to agriculture (EUR)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table255-en</link>
+         <description>All countries: Estimates of support to agriculture (EUR) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table313-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Australia: Consumer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table313-en</link>
+         <description>Australia: Consumer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table37-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Australia: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table37-en</link>
+         <description>Australia: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table256-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Australia: Estimates of support to agriculture (AUD)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table256-en</link>
+         <description>Australia: Estimates of support to agriculture (AUD) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table337-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Australia: Payments made on the basis of area, animal numbers, receipts or income</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table337-en</link>
+         <description>Australia: Payments made on the basis of area, animal numbers, receipts or income by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table288-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Australia: Producer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table288-en</link>
+         <description>Australia: Producer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table314-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Brazil: Consumer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table314-en</link>
+         <description>Brazil: Consumer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table46-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Brazil: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table46-en</link>
+         <description>Brazil: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table257-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Brazil: Estimates of support to agriculture (BRL)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table257-en</link>
+         <description>Brazil: Estimates of support to agriculture (BRL) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table338-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Brazil: Payments made on the basis of area, animal numbers, receipts or income</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table338-en</link>
+         <description>Brazil: Payments made on the basis of area, animal numbers, receipts or income by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table289-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Brazil: Producer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table289-en</link>
+         <description>Brazil: Producer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table315-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Canada: Consumer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table315-en</link>
+         <description>Canada: Consumer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table55-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Canada: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table55-en</link>
+         <description>Canada: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table258-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Canada: Estimates of support to agriculture (CAD)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table258-en</link>
+         <description>Canada: Estimates of support to agriculture (CAD) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table339-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Canada: Payments made on the basis of area, animal numbers, receipts or income</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table339-en</link>
+         <description>Canada: Payments made on the basis of area, animal numbers, receipts or income by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, HTML, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table290-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Canada: Producer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table290-en</link>
+         <description>Canada: Producer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table285-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Characteristics of policy support by country</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table285-en</link>
+         <description>Characteristics of policy support by country by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table316-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Chile: Consumer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table316-en</link>
+         <description>Chile: Consumer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table64-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Chile: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table64-en</link>
+         <description>Chile: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table259-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Chile: Estimates of support to agriculture (CLP)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table259-en</link>
+         <description>Chile: Estimates of support to agriculture (CLP) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table340-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Chile: Payments made on the basis of area, animal numbers, receipts or income</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table340-en</link>
+         <description>Chile: Payments made on the basis of area, animal numbers, receipts or income by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table291-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Chile: Producer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table291-en</link>
+         <description>Chile: Producer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>Spreadsheet, HTML, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table317-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>China: Consumer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table317-en</link>
+         <description>China: Consumer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table73-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>China: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table73-en</link>
+         <description>China: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table260-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>China: Estimates of support to agriculture (CNY)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table260-en</link>
+         <description>China: Estimates of support to agriculture (CNY) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table341-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>China: Payments made on the basis of area, animal numbers, receipts or income</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table341-en</link>
+         <description>China: Payments made on the basis of area, animal numbers, receipts or income by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table292-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>China: Producer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table292-en</link>
+         <description>China: Producer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table318-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Colombia: Consumer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table318-en</link>
+         <description>Colombia: Consumer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table82-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Colombia: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table82-en</link>
+         <description>Colombia: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table261-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Colombia: Estimates of support to agriculture (COP)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table261-en</link>
+         <description>Colombia: Estimates of support to agriculture (COP) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table342-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Colombia: Payments made on the basis of area, animal numbers, receipts or income</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table342-en</link>
+         <description>Colombia: Payments made on the basis of area, animal numbers, receipts or income by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table293-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Colombia: Producer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table293-en</link>
+         <description>Colombia: Producer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table286-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Composition of General Services Support Estimate</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table286-en</link>
+         <description>Composition of General Services Support Estimate by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>Spreadsheet, PDF, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table284-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Composition of Producer Support Estimate by country</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table284-en</link>
+         <description>Composition of Producer Support Estimate by country by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>Spreadsheet, HTML, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table281-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Consumer Support Estimate by country</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table281-en</link>
+         <description>Consumer Support Estimate by country by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table362-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Contribution of Budgetary Payments to change in Producer Support Estimate by country, 2016 to 2017</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table362-en</link>
+         <description>Contribution of Budgetary Payments to change in Producer Support Estimate by country, 2016 to 2017 by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table363-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Contribution to change in border price by country, 2016 to 2017</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table363-en</link>
+         <description>Contribution to change in border price by country, 2016 to 2017 by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table361-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Contribution to change in Producer Support Estimate by country, 2016 to 2017</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table361-en</link>
+         <description>Contribution to change in Producer Support Estimate by country, 2016 to 2017 by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table319-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Costa Rica: Consumer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table319-en</link>
+         <description>Costa Rica: Consumer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table91-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Costa Rica: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table91-en</link>
+         <description>Costa Rica: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table262-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Costa Rica: Estimates of support to agriculture (CRC)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table262-en</link>
+         <description>Costa Rica: Estimates of support to agriculture (CRC) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table343-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Costa Rica: Payments made on the basis of area, animal numbers, receipts or income</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table343-en</link>
+         <description>Costa Rica: Payments made on the basis of area, animal numbers, receipts or income by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table294-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Costa Rica: Producer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table294-en</link>
+         <description>Costa Rica: Producer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table32-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Emerging Economies: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table32-en</link>
+         <description>Emerging Economies: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>Spreadsheet, HTML, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table254-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Emerging Economies: Estimates of support to agriculture (EUR)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table254-en</link>
+         <description>Emerging Economies: Estimates of support to agriculture (EUR) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, Spreadsheet, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table320-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>European Union: Consumer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table320-en</link>
+         <description>European Union: Consumer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table100-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>European Union: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table100-en</link>
+         <description>European Union: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table263-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>European Union: Estimates of support to agriculture (EUR)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table263-en</link>
+         <description>European Union: Estimates of support to agriculture (EUR) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table344-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>European Union: Payments made on the basis of area, animal numbers, receipts or income</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table344-en</link>
+         <description>European Union: Payments made on the basis of area, animal numbers, receipts or income by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table295-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>European Union: Producer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table295-en</link>
+         <description>European Union: Producer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>Spreadsheet, HTML, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table282-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>General Services Support Estimate by country</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table282-en</link>
+         <description>General Services Support Estimate by country by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table321-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Iceland: Consumer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table321-en</link>
+         <description>Iceland: Consumer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>Spreadsheet, HTML, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table112-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Iceland: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table112-en</link>
+         <description>Iceland: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table264-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Iceland: Estimates of support to agriculture (ISK)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table264-en</link>
+         <description>Iceland: Estimates of support to agriculture (ISK) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table345-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Iceland: Payments made on the basis of area, animal numbers, receipts or income</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table345-en</link>
+         <description>Iceland: Payments made on the basis of area, animal numbers, receipts or income by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table296-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Iceland: Producer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table296-en</link>
+         <description>Iceland: Producer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table322-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Israel: Consumer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table322-en</link>
+         <description>Israel: Consumer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table121-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Israel: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table121-en</link>
+         <description>Israel: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table265-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Israel: Estimates of support to agriculture (ILS)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table265-en</link>
+         <description>Israel: Estimates of support to agriculture (ILS) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table346-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Israel: Payments made on the basis of area, animal numbers, receipts or income</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table346-en</link>
+         <description>Israel: Payments made on the basis of area, animal numbers, receipts or income by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table297-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Israel: Producer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table297-en</link>
+         <description>Israel: Producer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table323-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Japan: Consumer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table323-en</link>
+         <description>Japan: Consumer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>Spreadsheet, HTML, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table130-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Japan: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table130-en</link>
+         <description>Japan: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table266-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Japan: Estimates of support to agriculture (JPY)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table266-en</link>
+         <description>Japan: Estimates of support to agriculture (JPY) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table347-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Japan: Payments made on the basis of area, animal numbers, receipts or income</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table347-en</link>
+         <description>Japan: Payments made on the basis of area, animal numbers, receipts or income by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table298-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Japan: Producer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table298-en</link>
+         <description>Japan: Producer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table324-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Kazakhstan: Consumer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table324-en</link>
+         <description>Kazakhstan: Consumer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table139-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Kazakhstan: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table139-en</link>
+         <description>Kazakhstan: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table267-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Kazakhstan: Estimates of support to agriculture (KZT)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table267-en</link>
+         <description>Kazakhstan: Estimates of support to agriculture (KZT) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table348-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Kazakhstan: Payments made on the basis of area, animal numbers, receipts or income</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table348-en</link>
+         <description>Kazakhstan: Payments made on the basis of area, animal numbers, receipts or income by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table299-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Kazakhstan: Producer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table299-en</link>
+         <description>Kazakhstan: Producer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table325-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Korea: Consumer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table325-en</link>
+         <description>Korea: Consumer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table148-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Korea: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table148-en</link>
+         <description>Korea: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table268-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Korea: Estimates of support to agriculture (KRW)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table268-en</link>
+         <description>Korea: Estimates of support to agriculture (KRW) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table349-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Korea: Payments made on the basis of area, animal numbers, receipts or income</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table349-en</link>
+         <description>Korea: Payments made on the basis of area, animal numbers, receipts or income by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table300-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Korea: Producer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table300-en</link>
+         <description>Korea: Producer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>Spreadsheet, HTML, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table326-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Mexico: Consumer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table326-en</link>
+         <description>Mexico: Consumer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table157-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Mexico: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table157-en</link>
+         <description>Mexico: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table269-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Mexico: Estimates of support to agriculture (MXN)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table269-en</link>
+         <description>Mexico: Estimates of support to agriculture (MXN) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table350-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Mexico: Payments made on the basis of area, animal numbers, receipts or income</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table350-en</link>
+         <description>Mexico: Payments made on the basis of area, animal numbers, receipts or income by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>Spreadsheet, HTML, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table301-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Mexico: Producer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table301-en</link>
+         <description>Mexico: Producer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table327-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>New Zealand: Consumer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table327-en</link>
+         <description>New Zealand: Consumer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table166-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>New Zealand: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table166-en</link>
+         <description>New Zealand: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table270-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>New Zealand: Estimates of support to agriculture (NZD)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table270-en</link>
+         <description>New Zealand: Estimates of support to agriculture (NZD) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>Spreadsheet, HTML, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table351-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>New Zealand: Payments made on the basis of area, animal numbers, receipts or income</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table351-en</link>
+         <description>New Zealand: Payments made on the basis of area, animal numbers, receipts or income by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table302-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>New Zealand: Producer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table302-en</link>
+         <description>New Zealand: Producer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>Spreadsheet, HTML, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table328-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Norway: Consumer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table328-en</link>
+         <description>Norway: Consumer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table175-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Norway: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table175-en</link>
+         <description>Norway: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table271-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Norway: Estimates of support to agriculture (NOK)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table271-en</link>
+         <description>Norway: Estimates of support to agriculture (NOK) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table352-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Norway: Payments made on the basis of area, animal numbers, receipts or income</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table352-en</link>
+         <description>Norway: Payments made on the basis of area, animal numbers, receipts or income by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table303-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Norway: Producer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table303-en</link>
+         <description>Norway: Producer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table312-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>OECD: Consumer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table312-en</link>
+         <description>OECD: Consumer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table31-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>OECD: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table31-en</link>
+         <description>OECD: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table253-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>OECD: Estimates of support to agriculture (EUR)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table253-en</link>
+         <description>OECD: Estimates of support to agriculture (EUR) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table287-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>OECD: Producer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table287-en</link>
+         <description>OECD: Producer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table329-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Philippines: Consumer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table329-en</link>
+         <description>Philippines: Consumer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table184-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Philippines: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table184-en</link>
+         <description>Philippines: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table272-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Philippines: Estimates of support to agriculture (PHP)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table272-en</link>
+         <description>Philippines: Estimates of support to agriculture (PHP) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table353-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Philippines: Payments made on the basis of area, animal numbers, receipts or income</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table353-en</link>
+         <description>Philippines: Payments made on the basis of area, animal numbers, receipts or income by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table304-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Philippines: Producer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table304-en</link>
+         <description>Philippines: Producer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/g2g90edc-fr</guid>
@@ -86,7 +1721,562 @@
          <oe:iLibraryExport/>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, ePub, PDF, HTML</oe:availableMedia>
+         <oe:availableMedia>PDF, HTML, Paperback, ePub</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table280-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Producer Support Estimate by country</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table280-en</link>
+         <description>Producer Support Estimate by country by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table330-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Russia: Consumer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table330-en</link>
+         <description>Russia: Consumer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table193-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Russia: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table193-en</link>
+         <description>Russia: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table273-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Russia: Estimates of support to agriculture (RUB)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table273-en</link>
+         <description>Russia: Estimates of support to agriculture (RUB) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table354-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Russia: Payments made on the basis of area, animal numbers, receipts or income</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table354-en</link>
+         <description>Russia: Payments made on the basis of area, animal numbers, receipts or income by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table305-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Russia: Producer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table305-en</link>
+         <description>Russia: Producer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>Spreadsheet, HTML, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table331-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>South Africa: Consumer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table331-en</link>
+         <description>South Africa: Consumer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table202-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>South Africa: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table202-en</link>
+         <description>South Africa: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>Spreadsheet, HTML, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table274-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>South Africa: Estimates of support to agriculture (ZAR)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table274-en</link>
+         <description>South Africa: Estimates of support to agriculture (ZAR) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table355-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>South Africa: Payments made on the basis of area, animal numbers, receipts or income</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table355-en</link>
+         <description>South Africa: Payments made on the basis of area, animal numbers, receipts or income by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table306-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>South Africa: Producer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table306-en</link>
+         <description>South Africa: Producer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>Spreadsheet, HTML, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table332-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Switzerland: Consumer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table332-en</link>
+         <description>Switzerland: Consumer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>Spreadsheet, HTML, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table211-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Switzerland: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table211-en</link>
+         <description>Switzerland: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table275-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Switzerland: Estimates of support to agriculture (CHF)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table275-en</link>
+         <description>Switzerland: Estimates of support to agriculture (CHF) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>Spreadsheet, HTML, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table356-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Switzerland: Payments made on the basis of area, animal numbers, receipts or income</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table356-en</link>
+         <description>Switzerland: Payments made on the basis of area, animal numbers, receipts or income by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table307-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Switzerland: Producer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table307-en</link>
+         <description>Switzerland: Producer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>Spreadsheet, HTML, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table283-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Total Support Estimate by country</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table283-en</link>
+         <description>Total Support Estimate by country by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table333-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Turkey: Consumer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table333-en</link>
+         <description>Turkey: Consumer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table220-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Turkey: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table220-en</link>
+         <description>Turkey: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table276-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Turkey: Estimates of support to agriculture (TRY)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table276-en</link>
+         <description>Turkey: Estimates of support to agriculture (TRY) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table357-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Turkey: Payments made on the basis of area, animal numbers, receipts or income</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table357-en</link>
+         <description>Turkey: Payments made on the basis of area, animal numbers, receipts or income by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>Spreadsheet, HTML, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table308-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Turkey: Producer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table308-en</link>
+         <description>Turkey: Producer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>Spreadsheet, HTML, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table334-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Ukraine: Consumer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table334-en</link>
+         <description>Ukraine: Consumer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>Spreadsheet, HTML, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table229-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Ukraine: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table229-en</link>
+         <description>Ukraine: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table277-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Ukraine: Estimates of support to agriculture (UAH)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table277-en</link>
+         <description>Ukraine: Estimates of support to agriculture (UAH) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table358-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Ukraine: Payments made on the basis of area, animal numbers, receipts or income</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table358-en</link>
+         <description>Ukraine: Payments made on the basis of area, animal numbers, receipts or income by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table309-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Ukraine: Producer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table309-en</link>
+         <description>Ukraine: Producer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table335-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>United States: Consumer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table335-en</link>
+         <description>United States: Consumer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table238-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>United States: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table238-en</link>
+         <description>United States: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table278-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>United States: Estimates of support to agriculture (USD)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table278-en</link>
+         <description>United States: Estimates of support to agriculture (USD) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table359-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>United States: Payments made on the basis of area, animal numbers, receipts or income</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table359-en</link>
+         <description>United States: Payments made on the basis of area, animal numbers, receipts or income by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table310-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>United States: Producer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table310-en</link>
+         <description>United States: Producer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table336-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Viet Nam: Consumer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table336-en</link>
+         <description>Viet Nam: Consumer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table247-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Viet Nam: Estimates of support to agriculture</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table247-en</link>
+         <description>Viet Nam: Estimates of support to agriculture by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table279-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Viet Nam: Estimates of support to agriculture (VND)</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table279-en</link>
+         <description>Viet Nam: Estimates of support to agriculture (VND) by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table360-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Viet Nam: Payments made on the basis of area, animal numbers, receipts or income</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table360-en</link>
+         <description>Viet Nam: Payments made on the basis of area, animal numbers, receipts or income by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>PDF, Spreadsheet, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/agr_pol-2018-table311-en</guid>
+         <pubDate>Tue, 26 Jun 2018 11:00:00 GMT</pubDate>
+         <title>Viet Nam: Producer Single Commodity Transfers</title>
+         <link>https://doi.org/10.1787/agr_pol-2018-table311-en</link>
+         <description>Viet Nam: Producer Single Commodity Transfers by Trade and Agriculture Directorate has an embargo on Tuesday, 26 June 2018, 13:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-06-26T11:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Monday, 25 June 2018, 22:14 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Table</oe:catalogueType>
+         <oe:availableMedia>HTML, PDF, Spreadsheet</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/55b4653d-fr</guid>
@@ -98,7 +2288,7 @@
          <oe:launchTime/>
          <oe:directorate>Economics Department</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport/>
+         <oe:iLibraryExport>Saturday, 23 June 2018, 3:45 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Saturday, 23 June 2018, 0:16 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Working paper</oe:catalogueType>
          <oe:availableMedia>PDF</oe:availableMedia>
@@ -113,10 +2303,10 @@
          <oe:launchTime/>
          <oe:directorate>Environment Directorate</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Thursday, 21 June 2018, 20:12 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Saturday, 23 June 2018, 3:45 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Thursday, 21 June 2018, 20:17 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>HTML, PDF, Paperback, ePub</oe:availableMedia>
+         <oe:availableMedia>Paperback, ePub, HTML, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/a87feae8-en</guid>
@@ -188,7 +2378,7 @@
          <oe:launchTime/>
          <oe:directorate>Economics Department</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Wednesday, 20 June 2018, 20:23 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Saturday, 23 June 2018, 3:45 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Economic survey</oe:catalogueType>
          <oe:availableMedia>Paperback, PDF</oe:availableMedia>
@@ -206,7 +2396,7 @@
          <oe:iLibraryExport>Thursday, 14 June 2018, 20:16 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Thursday, 14 June 2018, 20:58 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback, ePub</oe:availableMedia>
+         <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264300309-en</guid>
@@ -228,10 +2418,10 @@
          <pubDate>Fri, 07 Sep 2018 09:00:00 GMT</pubDate>
          <title>Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands</title>
          <link>https://doi.org/10.1787/9789264292048-en</link>
-         <description>Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands by Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development has an embargo on Friday, 7 September 2018, 11:00 Paris time (GMT+02:00).</description>
+         <description>Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands by Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills has an embargo on Friday, 7 September 2018, 11:00 Paris time (GMT+02:00).</description>
          <oe:embargoTime>2018-09-07T09:00:00Z</oe:embargoTime>
          <oe:launchTime/>
-         <oe:directorate>Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development</oe:directorate>
+         <oe:directorate>Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills</oe:directorate>
          <oe:ftiLoaded/>
          <oe:iLibraryExport>Tuesday, 19 June 2018, 20:07 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
