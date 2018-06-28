@@ -4,61 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264300453-fr
-SUMMARY:Analyse coûts-avantages et environnement
-  - Avancées théoriques et utilisation pa
- r les pouvoirs publics
-DESCRIPTION:Directorate: Environment Directorate\nLa
- nguage: French\nDOI: https://doi.org/10.
- 1787/9789264300453-fr\nPublication type:
-  Stand-alone monograph\nReleased as: ePu
- b, PDF, HTML.\n\niLibrary export: 1 June
-  2018, 20:12 Paris time (GMT+00:00)\nFre
- epreview export: never\nFTI loaded: no.
-DTSTAMP:20180627T022707Z
-DTSTART:20180625T090000Z
-DTEND:20180625T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Analyse coûts-avantages et env
- ironnement - Avancées théoriques et util
- isation par les pouvoirs publics
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264085169-en
-SUMMARY:Cost-Benefit Analysis and the Environmen
- t - Further Developments and Policy Use
-DESCRIPTION:Directorate: Environment Directorate\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/9789264085169-en\nPublication type
- : Stand-alone monograph\nReleased as: Pa
- perback, ePub, PDF, HTML.\n\niLibrary ex
- port: 26 June 2018, 1:46 Paris time (GMT
- +00:00)\nFreepreview export: 25 June 201
- 8, 22:14 Paris time (GMT+00:00)\nFTI loa
- ded: ✓.
-DTSTAMP:20180627T022707Z
-DTSTART:20180625T090000Z
-DTEND:20180625T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Cost-Benefit Analysis and the 
- Environment - Further Developments and P
- olicy Use
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/pdtvy-2018-en
 SUMMARY:OECD Compendium of Productivity Indicato
  rs 2018
@@ -70,7 +15,7 @@ DESCRIPTION:Directorate: Statistics and Data Directo
  2 Paris time (GMT+00:00)\nFreepreview ex
  port: 21 June 2018, 20:17 Paris time (GM
  T+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T090000Z
 DTEND:20180626T091500Z
 TRANSP:TRANSPARENT
@@ -92,11 +37,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-en\nPublica
  tion type: Book\nReleased as: ePub, Pape
- rback, HTML, PDF.\n\niLibrary export: 26
-  June 2018, 1:46 Paris time (GMT+00:00)\
+ rback, HTML, PDF.\n\niLibrary export: 27
+  June 2018, 1:56 Paris time (GMT+00:00)\
  nFreepreview export: 25 June 2018, 22:14
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -123,7 +68,7 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  1:46 Paris time (GMT+00:00)\nFreepreview
   export: 25 June 2018, 22:14 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -150,7 +95,7 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  1:46 Paris time (GMT+00:00)\nFreepreview
   export: 25 June 2018, 22:14 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -178,7 +123,7 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  :46 Paris time (GMT+00:00)\nFreepreview 
  export: 25 June 2018, 22:14 Paris time (
  GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -207,7 +152,7 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  :46 Paris time (GMT+00:00)\nFreepreview 
  export: 25 June 2018, 22:14 Paris time (
  GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -237,7 +182,7 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  1:46 Paris time (GMT+00:00)\nFreepreview
   export: 25 June 2018, 22:14 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -266,7 +211,7 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
   1:46 Paris time (GMT+00:00)\nFreeprevie
  w export: 25 June 2018, 22:14 Paris time
   (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -295,7 +240,7 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  8, 1:46 Paris time (GMT+00:00)\nFreeprev
  iew export: 25 June 2018, 22:14 Paris ti
  me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -325,7 +270,7 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  1:46 Paris time (GMT+00:00)\nFreepreview
   export: 25 June 2018, 22:14 Paris time 
  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -350,11 +295,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table33-en\
  nPublication type: Table\nReleased as: S
  preadsheet, HTML, PDF.\n\niLibrary expor
- t: 26 June 2018, 1:46 Paris time (GMT+00
+ t: 27 June 2018, 1:56 Paris time (GMT+00
  :00)\nFreepreview export: 25 June 2018, 
  22:14 Paris time (GMT+00:00)\nFTI loaded
  : ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -376,12 +321,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table255-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -403,12 +348,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table313-en
  \nPublication type: Table\nReleased as: 
- HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ Spreadsheet, HTML, PDF.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -429,13 +374,13 @@ SUMMARY:Australia: Estimates of support to agric
 DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table37-en\
- nPublication type: Table\nReleased as: H
- TML, PDF, Spreadsheet.\n\niLibrary expor
- t: 26 June 2018, 1:46 Paris time (GMT+00
+ nPublication type: Table\nReleased as: P
+ DF, Spreadsheet, HTML.\n\niLibrary expor
+ t: 27 June 2018, 1:56 Paris time (GMT+00
  :00)\nFreepreview export: 25 June 2018, 
  22:14 Paris time (GMT+00:00)\nFTI loaded
  : ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -458,11 +403,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table256-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -485,12 +430,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table337-en
  \nPublication type: Table\nReleased as: 
- Spreadsheet, HTML, PDF.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -514,11 +459,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table288-en
  \nPublication type: Table\nReleased as: 
  HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -540,12 +485,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table314-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -568,11 +513,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table46-en\
  nPublication type: Table\nReleased as: S
  preadsheet, HTML, PDF.\n\niLibrary expor
- t: 26 June 2018, 1:46 Paris time (GMT+00
+ t: 27 June 2018, 1:56 Paris time (GMT+00
  :00)\nFreepreview export: 25 June 2018, 
  22:14 Paris time (GMT+00:00)\nFTI loaded
  : ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -595,11 +540,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table257-en
  \nPublication type: Table\nReleased as: 
  Spreadsheet, HTML, PDF.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -621,12 +566,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table338-en
  \nPublication type: Table\nReleased as: 
- Spreadsheet, HTML, PDF.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -649,12 +594,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table289-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -676,12 +621,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table315-en
  \nPublication type: Table\nReleased as: 
- HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -704,11 +649,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table55-en\
  nPublication type: Table\nReleased as: H
  TML, PDF, Spreadsheet.\n\niLibrary expor
- t: 26 June 2018, 1:46 Paris time (GMT+00
+ t: 27 June 2018, 1:56 Paris time (GMT+00
  :00)\nFreepreview export: 25 June 2018, 
  22:14 Paris time (GMT+00:00)\nFTI loaded
  : ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -731,11 +676,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table258-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -758,11 +703,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table339-en
  \nPublication type: Table\nReleased as: 
  HTML, Spreadsheet, PDF.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -786,11 +731,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table290-en
  \nPublication type: Table\nReleased as: 
  HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -812,12 +757,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table285-en
  \nPublication type: Table\nReleased as: 
- HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -839,12 +784,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table316-en
  \nPublication type: Table\nReleased as: 
- Spreadsheet, HTML, PDF.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -865,13 +810,13 @@ SUMMARY:Chile: Estimates of support to agricultu
 DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table64-en\
- nPublication type: Table\nReleased as: H
- TML, PDF, Spreadsheet.\n\niLibrary expor
- t: 26 June 2018, 1:46 Paris time (GMT+00
+ nPublication type: Table\nReleased as: P
+ DF, Spreadsheet, HTML.\n\niLibrary expor
+ t: 27 June 2018, 1:56 Paris time (GMT+00
  :00)\nFreepreview export: 25 June 2018, 
  22:14 Paris time (GMT+00:00)\nFTI loaded
  : ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -893,12 +838,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table259-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ Spreadsheet, HTML, PDF.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -920,12 +865,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table340-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -949,11 +894,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table291-en
  \nPublication type: Table\nReleased as: 
  Spreadsheet, HTML, PDF.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -976,11 +921,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table317-en
  \nPublication type: Table\nReleased as: 
  HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1001,13 +946,13 @@ SUMMARY:China: Estimates of support to agricultu
 DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table73-en\
- nPublication type: Table\nReleased as: P
- DF, Spreadsheet, HTML.\n\niLibrary expor
- t: 26 June 2018, 1:46 Paris time (GMT+00
+ nPublication type: Table\nReleased as: H
+ TML, PDF, Spreadsheet.\n\niLibrary expor
+ t: 27 June 2018, 1:56 Paris time (GMT+00
  :00)\nFreepreview export: 25 June 2018, 
  22:14 Paris time (GMT+00:00)\nFTI loaded
  : ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1030,11 +975,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table260-en
  \nPublication type: Table\nReleased as: 
  HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1056,12 +1001,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table341-en
  \nPublication type: Table\nReleased as: 
- HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1085,11 +1030,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table292-en
  \nPublication type: Table\nReleased as: 
  HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1111,12 +1056,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table318-en
  \nPublication type: Table\nReleased as: 
- HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ Spreadsheet, HTML, PDF.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1137,13 +1082,13 @@ SUMMARY:Colombia: Estimates of support to agricu
 DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table82-en\
- nPublication type: Table\nReleased as: H
- TML, PDF, Spreadsheet.\n\niLibrary expor
- t: 26 June 2018, 1:46 Paris time (GMT+00
+ nPublication type: Table\nReleased as: P
+ DF, Spreadsheet, HTML.\n\niLibrary expor
+ t: 27 June 2018, 1:56 Paris time (GMT+00
  :00)\nFreepreview export: 25 June 2018, 
  22:14 Paris time (GMT+00:00)\nFTI loaded
  : ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1166,11 +1111,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table261-en
  \nPublication type: Table\nReleased as: 
  HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1193,11 +1138,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table342-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1220,12 +1165,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table293-en
  \nPublication type: Table\nReleased as: 
- HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1247,12 +1192,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table286-en
  \nPublication type: Table\nReleased as: 
- Spreadsheet, PDF, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, Spreadsheet, PDF.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1274,12 +1219,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table284-en
  \nPublication type: Table\nReleased as: 
- Spreadsheet, HTML, PDF.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1301,11 +1246,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table281-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1328,12 +1273,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table362-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1356,12 +1301,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table363-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ Spreadsheet, HTML, PDF.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1384,11 +1329,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table361-en
  \nPublication type: Table\nReleased as: 
  HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1412,11 +1357,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table319-en
  \nPublication type: Table\nReleased as: 
  HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1437,13 +1382,13 @@ SUMMARY:Costa Rica: Estimates of support to agri
 DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table91-en\
- nPublication type: Table\nReleased as: H
- TML, PDF, Spreadsheet.\n\niLibrary expor
- t: 26 June 2018, 1:46 Paris time (GMT+00
+ nPublication type: Table\nReleased as: P
+ DF, Spreadsheet, HTML.\n\niLibrary expor
+ t: 27 June 2018, 1:56 Paris time (GMT+00
  :00)\nFreepreview export: 25 June 2018, 
  22:14 Paris time (GMT+00:00)\nFTI loaded
  : ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1466,11 +1411,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table262-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1493,12 +1438,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table343-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1522,11 +1467,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table294-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1547,13 +1492,13 @@ SUMMARY:Emerging Economies: Estimates of support
 DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table32-en\
- nPublication type: Table\nReleased as: P
- DF, Spreadsheet, HTML.\n\niLibrary expor
- t: 26 June 2018, 1:46 Paris time (GMT+00
+ nPublication type: Table\nReleased as: S
+ preadsheet, HTML, PDF.\n\niLibrary expor
+ t: 27 June 2018, 1:56 Paris time (GMT+00
  :00)\nFreepreview export: 25 June 2018, 
  22:14 Paris time (GMT+00:00)\nFTI loaded
  : ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1576,11 +1521,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table254-en
  \nPublication type: Table\nReleased as: 
  Spreadsheet, PDF, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1602,12 +1547,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table320-en
  \nPublication type: Table\nReleased as: 
- HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1629,12 +1574,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table100-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1657,11 +1602,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table263-en
  \nPublication type: Table\nReleased as: 
  HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1685,11 +1630,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table344-en
  \nPublication type: Table\nReleased as: 
  HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1713,11 +1658,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table295-en
  \nPublication type: Table\nReleased as: 
  HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1739,12 +1684,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table282-en
  \nPublication type: Table\nReleased as: 
- Spreadsheet, HTML, PDF.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1767,11 +1712,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table321-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1793,12 +1738,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table112-en
  \nPublication type: Table\nReleased as: 
- Spreadsheet, HTML, PDF.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1821,11 +1766,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table264-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1847,12 +1792,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table345-en
  \nPublication type: Table\nReleased as: 
- Spreadsheet, HTML, PDF.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1876,11 +1821,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table296-en
  \nPublication type: Table\nReleased as: 
  HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1902,12 +1847,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table322-en
  \nPublication type: Table\nReleased as: 
- Spreadsheet, HTML, PDF.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1930,11 +1875,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table121-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1956,12 +1901,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table265-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -1984,11 +1929,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table346-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2011,12 +1956,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table297-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2038,12 +1983,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table323-en
  \nPublication type: Table\nReleased as: 
- Spreadsheet, HTML, PDF.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2065,12 +2010,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table130-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2092,12 +2037,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table266-en
  \nPublication type: Table\nReleased as: 
- Spreadsheet, HTML, PDF.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2119,12 +2064,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table347-en
  \nPublication type: Table\nReleased as: 
- HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2147,12 +2092,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table298-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2175,11 +2120,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table324-en
  \nPublication type: Table\nReleased as: 
  HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2202,11 +2147,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table139-en
  \nPublication type: Table\nReleased as: 
  Spreadsheet, HTML, PDF.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2228,12 +2173,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table267-en
  \nPublication type: Table\nReleased as: 
- HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2256,12 +2201,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table348-en
  \nPublication type: Table\nReleased as: 
- HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ Spreadsheet, HTML, PDF.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2284,12 +2229,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table299-en
  \nPublication type: Table\nReleased as: 
- HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2312,11 +2257,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table325-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2339,11 +2284,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table148-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2365,12 +2310,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table268-en
  \nPublication type: Table\nReleased as: 
- Spreadsheet, HTML, PDF.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2393,11 +2338,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table349-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2421,11 +2366,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table300-en
  \nPublication type: Table\nReleased as: 
  HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2447,12 +2392,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table326-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2475,11 +2420,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table157-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2501,12 +2446,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table269-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2528,12 +2473,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table350-en
  \nPublication type: Table\nReleased as: 
- HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ Spreadsheet, HTML, PDF.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2557,11 +2502,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table301-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2584,11 +2529,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table327-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2610,12 +2555,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table166-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2638,11 +2583,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table270-en
  \nPublication type: Table\nReleased as: 
  HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2665,12 +2610,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table351-en
  \nPublication type: Table\nReleased as: 
- HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2694,11 +2639,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table302-en
  \nPublication type: Table\nReleased as: 
  Spreadsheet, HTML, PDF.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2720,12 +2665,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table328-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2747,12 +2692,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table175-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2775,11 +2720,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table271-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2802,11 +2747,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table352-en
  \nPublication type: Table\nReleased as: 
  HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2830,11 +2775,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table303-en
  \nPublication type: Table\nReleased as: 
  HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2857,11 +2802,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table312-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2884,11 +2829,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table31-en\
  nPublication type: Table\nReleased as: P
  DF, Spreadsheet, HTML.\n\niLibrary expor
- t: 26 June 2018, 1:46 Paris time (GMT+00
+ t: 27 June 2018, 1:56 Paris time (GMT+00
  :00)\nFreepreview export: 25 June 2018, 
  22:14 Paris time (GMT+00:00)\nFTI loaded
  : ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2910,12 +2855,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table253-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2937,12 +2882,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table287-en
  \nPublication type: Table\nReleased as: 
- HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2964,12 +2909,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table329-en
  \nPublication type: Table\nReleased as: 
- Spreadsheet, HTML, PDF.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -2992,11 +2937,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table184-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3019,11 +2964,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table272-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3046,12 +2991,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table353-en
  \nPublication type: Table\nReleased as: 
- Spreadsheet, HTML, PDF.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3074,12 +3019,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table304-en
  \nPublication type: Table\nReleased as: 
- HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3104,7 +3049,7 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  , PDF, HTML.\n\niLibrary export: never\n
  Freepreview export: never\nFTI loaded: n
  o.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3125,12 +3070,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table280-en
  \nPublication type: Table\nReleased as: 
- HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3152,12 +3097,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table330-en
  \nPublication type: Table\nReleased as: 
- Spreadsheet, HTML, PDF.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3180,11 +3125,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table193-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3207,11 +3152,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table273-en
  \nPublication type: Table\nReleased as: 
  Spreadsheet, HTML, PDF.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3233,12 +3178,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table354-en
  \nPublication type: Table\nReleased as: 
- HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3261,12 +3206,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table305-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ Spreadsheet, HTML, PDF.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3288,12 +3233,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table331-en
  \nPublication type: Table\nReleased as: 
- Spreadsheet, HTML, PDF.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3315,12 +3260,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table202-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3342,12 +3287,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table274-en
  \nPublication type: Table\nReleased as: 
- Spreadsheet, HTML, PDF.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3370,12 +3315,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table355-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ Spreadsheet, HTML, PDF.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3398,12 +3343,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table306-en
  \nPublication type: Table\nReleased as: 
- HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3425,12 +3370,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table332-en
  \nPublication type: Table\nReleased as: 
- HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ Spreadsheet, HTML, PDF.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3452,12 +3397,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table211-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3479,12 +3424,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table275-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3507,12 +3452,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table356-en
  \nPublication type: Table\nReleased as: 
- Spreadsheet, HTML, PDF.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3535,12 +3480,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table307-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ Spreadsheet, HTML, PDF.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3561,12 +3506,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table283-en
  \nPublication type: Table\nReleased as: 
- HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ Spreadsheet, HTML, PDF.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3589,11 +3534,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table333-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3616,11 +3561,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table220-en
  \nPublication type: Table\nReleased as: 
  HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3642,12 +3587,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table276-en
  \nPublication type: Table\nReleased as: 
- HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3670,11 +3615,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table357-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3697,12 +3642,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table308-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3724,12 +3669,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table334-en
  \nPublication type: Table\nReleased as: 
- HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ Spreadsheet, HTML, PDF.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3752,11 +3697,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table229-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3778,12 +3723,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table277-en
  \nPublication type: Table\nReleased as: 
- Spreadsheet, HTML, PDF.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3806,11 +3751,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table358-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3833,12 +3778,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table309-en
  \nPublication type: Table\nReleased as: 
- HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3860,12 +3805,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table335-en
  \nPublication type: Table\nReleased as: 
- HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3887,12 +3832,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table238-en
  \nPublication type: Table\nReleased as: 
- HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3914,12 +3859,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table278-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ HTML, PDF, Spreadsheet.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3943,11 +3888,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table359-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3971,11 +3916,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table310-en
  \nPublication type: Table\nReleased as: 
  HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -3998,11 +3943,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table336-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -4025,11 +3970,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table247-en
  \nPublication type: Table\nReleased as: 
  PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -4052,11 +3997,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/agr_pol-2018-table279-en
  \nPublication type: Table\nReleased as: 
  HTML, PDF, Spreadsheet.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -4078,12 +4023,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table360-en
  \nPublication type: Table\nReleased as: 
- PDF, Spreadsheet, HTML.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ Spreadsheet, HTML, PDF.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -4106,12 +4051,12 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/agr_pol-2018-table311-en
  \nPublication type: Table\nReleased as: 
- Spreadsheet, HTML, PDF.\n\niLibrary expo
- rt: 26 June 2018, 1:46 Paris time (GMT+0
+ PDF, Spreadsheet, HTML.\n\niLibrary expo
+ rt: 27 June 2018, 1:56 Paris time (GMT+0
  0:00)\nFreepreview export: 25 June 2018,
   22:14 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180626T110000Z
 DTEND:20180626T111500Z
 TRANSP:TRANSPARENT
@@ -4136,7 +4081,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  +00:00)\nFreepreview export: 23 June 201
  8, 0:16 Paris time (GMT+00:00)\nFTI load
  ed: ✓, ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180627T000000Z
 DTEND:20180627T001500Z
 TRANSP:TRANSPARENT
@@ -4157,12 +4102,12 @@ SUMMARY:OECD Environmental Performance Reviews:
 DESCRIPTION:Directorate: Environment Directorate\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/9789264298613-en\nPublication type
- : Book\nReleased as: HTML, PDF, Paperbac
- k, ePub.\n\niLibrary export: 26 June 201
+ : Book\nReleased as: ePub, HTML, PDF, Pa
+ perback.\n\niLibrary export: 26 June 201
  8, 1:46 Paris time (GMT+00:00)\nFreeprev
  iew export: 21 June 2018, 20:17 Paris ti
  me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180628T073000Z
 DTEND:20180628T074500Z
 TRANSP:TRANSPARENT
@@ -4187,7 +4132,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ication type: Working paper\nReleased as
  : PDF.\n\niLibrary export: never\nFreepr
  eview export: never\nFTI loaded: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180628T090000Z
 DTEND:20180628T091500Z
 TRANSP:TRANSPARENT
@@ -4214,7 +4159,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  cation type: Working paper\nReleased as:
   PDF.\n\niLibrary export: never\nFreepre
  view export: never\nFTI loaded: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180628T090000Z
 DTEND:20180628T091500Z
 TRANSP:TRANSPARENT
@@ -4231,16 +4176,42 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/d7605f72-en
+SUMMARY: Financing innovative business investmen
+ t in Poland
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/d7605f72-en\nPublication type: Workin
+ g paper\nReleased as: PDF.\n\niLibrary e
+ xport: never\nFreepreview export: 27 Jun
+ e 2018, 23:29 Paris time (GMT+00:00)\nFT
+ I loaded: ✓, ✓.
+DTSTAMP:20180628T032118Z
+DTSTART:20180629T000000Z
+DTEND:20180629T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder:  Financing innovative business
+  investment in Poland
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/abf2c877-en
 SUMMARY: Strengthening innovation in Poland
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/abf2c877-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
- xport: never\nFreepreview export: 26 Jun
- e 2018, 22:19 Paris time (GMT+00:00)\nFT
- I loaded: ✓, ✓.
-DTSTAMP:20180627T022707Z
+ xport: 27 June 2018, 1:56 Paris time (GM
+ T+00:00)\nFreepreview export: 26 June 20
+ 18, 22:19 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓, ✓.
+DTSTAMP:20180628T032118Z
 DTSTART:20180629T000000Z
 DTEND:20180629T001500Z
 TRANSP:TRANSPARENT
@@ -4255,6 +4226,31 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/1a30745e-en
+SUMMARY: The "family 500+" child allowance and f
+ emale labour supply in Poland
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/1a30745e-en\nPublication type: Workin
+ g paper\nReleased as: PDF.\n\niLibrary e
+ xport: never\nFreepreview export: 27 Jun
+ e 2018, 23:29 Paris time (GMT+00:00)\nFT
+ I loaded: ✓, ✓.
+DTSTAMP:20180628T032118Z
+DTSTART:20180629T000000Z
+DTEND:20180629T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder:  The "family 500+" child allow
+ ance and female labour supply in Poland
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/546dbd75-fr
 SUMMARY:Insertion de la Tunisie dans les chaines
   de valeur mondiales et role des entrepr
@@ -4263,9 +4259,10 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: French\nDOI: https://doi.org/10.178
  7/546dbd75-fr\nPublication type: Working
   paper\nReleased as: PDF.\n\niLibrary ex
- port: never\nFreepreview export: never\n
- FTI loaded: ✓.
-DTSTAMP:20180627T022707Z
+ port: never\nFreepreview export: 27 June
+  2018, 23:29 Paris time (GMT+00:00)\nFTI
+  loaded: ✓, ✓.
+DTSTAMP:20180628T032118Z
 DTSTART:20180629T000200Z
 DTEND:20180629T001700Z
 TRANSP:TRANSPARENT
@@ -4290,7 +4287,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
   Paperback.\n\niLibrary export: 23 June 
  2018, 3:45 Paris time (GMT+00:00)\nFreep
  review export: never\nFTI loaded: no.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180702T090000Z
 DTEND:20180702T091500Z
 TRANSP:TRANSPARENT
@@ -4307,15 +4304,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:10.1787/empl_outlook-2018-en
 SUMMARY:OECD Employment Outlook 2018
-DESCRIPTION:Directorate: Economics Department, Direc
- torate for Employment, Labour and Social
-  Affairs\nLanguage: English\nDOI: https:
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs, Economics De
+ partment\nLanguage: English\nDOI: https:
  //doi.org/10.1787/empl_outlook-2018-en\n
- Publication type: Book\nReleased as: Pap
- erback, PDF.\n\niLibrary export: 5 June 
- 2018, 20:13 Paris time (GMT+00:00)\nFree
+ Publication type: Book\nReleased as: PDF
+ , Paperback.\n\niLibrary export: 27 June
+  2018, 1:56 Paris time (GMT+00:00)\nFree
  preview export: never\nFTI loaded: no.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -4334,11 +4331,12 @@ SUMMARY:Agricultural Policies in India
 DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/9789264302334-en\nPublic
- ation type: Book\nReleased as: PDF, Pape
- rback.\n\niLibrary export: 26 June 2018,
-  1:46 Paris time (GMT+00:00)\nFreeprevie
- w export: never\nFTI loaded: no.
-DTSTAMP:20180627T022707Z
+ ation type: Book\nReleased as: HTML, PDF
+ , Paperback, ePub.\n\niLibrary export: 2
+ 7 June 2018, 1:56 Paris time (GMT+00:00)
+ \nFreepreview export: never\nFTI loaded:
+  no.
+DTSTAMP:20180628T032118Z
 DTSTART:20180705T030000Z
 DTEND:20180705T031500Z
 TRANSP:TRANSPARENT
@@ -4357,11 +4355,11 @@ SUMMARY:OECD Economic Surveys: Lithuania 2018
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-ltu-2018-en\nPublication 
- type: Economic survey\nReleased as: PDF,
-  Paperback.\n\niLibrary export: 23 June 
- 2018, 3:45 Paris time (GMT+00:00)\nFreep
+ type: Economic survey\nReleased as: Pape
+ rback, PDF.\n\niLibrary export: 27 June 
+ 2018, 1:56 Paris time (GMT+00:00)\nFreep
  review export: never\nFTI loaded: no.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180705T090000Z
 DTEND:20180705T091500Z
 TRANSP:TRANSPARENT
@@ -4382,11 +4380,11 @@ SUMMARY:OECD Economic Surveys: Czech Republic 20
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-cze-2018-en\nPublication 
- type: Economic survey\nReleased as: PDF,
-  Paperback.\n\niLibrary export: never\nF
- reepreview export: never\nFTI loaded: no
- .
-DTSTAMP:20180627T022707Z
+ type: Economic survey\nReleased as: Pape
+ rback, PDF.\n\niLibrary export: 27 June 
+ 2018, 1:56 Paris time (GMT+00:00)\nFreep
+ review export: never\nFTI loaded: no.
+DTSTAMP:20180628T032118Z
 DTSTART:20180716T090000Z
 DTEND:20180716T091500Z
 TRANSP:TRANSPARENT
@@ -4412,7 +4410,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  16 Paris time (GMT+00:00)\nFreepreview e
  xport: 14 June 2018, 20:58 Paris time (G
  MT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180716T090000Z
 DTEND:20180716T091500Z
 TRANSP:TRANSPARENT
@@ -4433,12 +4431,12 @@ SUMMARY:Études économiques de l'OCDE : Canada 20
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: French\nDOI: https://doi.org/10.178
  7/eco_surveys-can-2018-fr\nPublication t
- ype: Economic survey\nReleased as: PDF, 
- Paperback, ePub.\n\niLibrary export: 15 
- June 2018, 20:08 Paris time (GMT+00:00)\
- nFreepreview export: never\nFTI loaded: 
- no.
-DTSTAMP:20180627T022707Z
+ ype: Economic survey\nReleased as: Paper
+ back, ePub, PDF.\n\niLibrary export: 27 
+ June 2018, 1:56 Paris time (GMT+00:00)\n
+ Freepreview export: never\nFTI loaded: n
+ o.
+DTSTAMP:20180628T032118Z
 DTSTART:20180718T090000Z
 DTEND:20180718T091500Z
 TRANSP:TRANSPARENT
@@ -4458,12 +4456,12 @@ SUMMARY:OECD Economic Surveys: Canada 2018
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-can-2018-en\nPublication 
- type: Economic survey\nReleased as: PDF,
-  Paperback, ePub.\n\niLibrary export: 15
-  June 2018, 20:08 Paris time (GMT+00:00)
- \nFreepreview export: never\nFTI loaded:
-  no.
-DTSTAMP:20180627T022707Z
+ type: Economic survey\nReleased as: Pape
+ rback, ePub, PDF.\n\niLibrary export: 27
+  June 2018, 1:56 Paris time (GMT+00:00)\
+ nFreepreview export: never\nFTI loaded: 
+ no.
+DTSTAMP:20180628T032118Z
 DTSTART:20180718T090000Z
 DTEND:20180718T091500Z
 TRANSP:TRANSPARENT
@@ -4490,7 +4488,7 @@ DESCRIPTION:Directorate: Directorate for Employment,
  ime (GMT+00:00)\nFreepreview export: 18 
  June 2018, 20:45 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180729T220000Z
 DTEND:20180729T221500Z
 TRANSP:TRANSPARENT
@@ -4518,7 +4516,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  rary export: 19 June 2018, 20:07 Paris t
  ime (GMT+00:00)\nFreepreview export: nev
  er\nFTI loaded: no.
-DTSTAMP:20180627T022707Z
+DTSTAMP:20180628T032118Z
 DTSTART:20180907T090000Z
 DTEND:20180907T091500Z
 TRANSP:TRANSPARENT
@@ -4542,10 +4540,10 @@ DESCRIPTION:Directorate: Development Centre, Public
  Language: French\nDOI: https://doi.org/1
  0.1787/9789264300347-fr\nPublication typ
  e: Book\nReleased as: PDF, Paperback, eP
- ub.\n\niLibrary export: 15 June 2018, 20
- :08 Paris time (GMT+00:00)\nFreepreview 
- export: never\nFTI loaded: no.
-DTSTAMP:20180627T022707Z
+ ub.\n\niLibrary export: 27 June 2018, 1:
+ 56 Paris time (GMT+00:00)\nFreepreview e
+ xport: never\nFTI loaded: no.
+DTSTAMP:20180628T032118Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT

@@ -1,6 +1,6 @@
-# OECD publication embargoes (16 embargoes)
+# OECD publication embargoes (18 embargoes)
 
-*Data generated on Wednesday 27 June 2018 at 2:26*
+*Data generated on Thursday 28 June 2018 at 3:21*
 
 ------
 
@@ -67,7 +67,7 @@ Thursday 28 June 2018 at 11:00 | no launch event
 
 ------
 
-## [ Strengthening innovation in Poland](https://doi.org/10.1787/abf2c877-en)
+## [ Financing innovative business investment in Poland](https://doi.org/10.1787/d7605f72-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -76,7 +76,49 @@ Friday 29 June 2018 at 2:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
+- [x] Exported to Keepeek Thursday 28 June 2018 at 1:29
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [ Strengthening innovation in Poland](https://doi.org/10.1787/abf2c877-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 29 June 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 June 2018 at 3:56
 - [x] Exported to Keepeek Wednesday 27 June 2018 at 0:19
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [ The "family 500+" child allowance and female labour supply in Poland](https://doi.org/10.1787/1a30745e-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 29 June 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Thursday 28 June 2018 at 1:29
 
 ### Additional Information
 
@@ -97,13 +139,13 @@ Friday 29 June 2018 at 2:02 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Thursday 28 June 2018 at 1:29
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Medium: *PDF*
 
@@ -138,12 +180,12 @@ Wednesday 4 July 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 5 June 2018 at 22:13
+- [x] Exported to iLibrary Wednesday 27 June 2018 at 3:56
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Economics Department, Directorate for Employment, Labour and Social Affairs*
+* Directorate: *Directorate for Employment, Labour and Social Affairs, Economics Department*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
@@ -159,7 +201,7 @@ Thursday 5 July 2018 at 5:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 26 June 2018 at 3:46
+- [x] Exported to iLibrary Wednesday 27 June 2018 at 3:56
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -180,7 +222,7 @@ Thursday 5 July 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Saturday 23 June 2018 at 5:45
+- [x] Exported to iLibrary Wednesday 27 June 2018 at 3:56
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -201,7 +243,7 @@ Monday 16 July 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 27 June 2018 at 3:56
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -243,7 +285,7 @@ Wednesday 18 July 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 15 June 2018 at 22:08
+- [x] Exported to iLibrary Wednesday 27 June 2018 at 3:56
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -264,7 +306,7 @@ Wednesday 18 July 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 15 June 2018 at 22:08
+- [x] Exported to iLibrary Wednesday 27 June 2018 at 3:56
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -327,7 +369,7 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 15 June 2018 at 22:08
+- [x] Exported to iLibrary Wednesday 27 June 2018 at 3:56
 - [ ] Exported to Keepeek
 
 ### Additional Information
