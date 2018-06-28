@@ -1,69 +1,6 @@
-# OECD publication embargoes (18 embargoes)
+# OECD publication embargoes (15 embargoes)
 
-*Data generated on Thursday 28 June 2018 at 3:21*
-
-------
-
-## [OECD Environmental Performance Reviews: Hungary 2018](https://doi.org/10.1787/9789264298613-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 28 June 2018 at 9:30 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 26 June 2018 at 3:46
-- [x] Exported to Keepeek Thursday 21 June 2018 at 22:17
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Domestic Revenue Mobilisation - A new database on tax levels and structures in 80 countries](https://doi.org/10.1787/a87feae8-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 28 June 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Mobilisation des ressources intérieures - Une nouvelle base de données sur le niveau d’imposition et la structure fiscale de 80 pays](https://doi.org/10.1787/f6fa19c4-fr)
-
-Embargo date | Launch date
--------------|------------
-Thursday 28 June 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Friday 29 June 2018 at 1:57*
 
 ------
 
@@ -75,7 +12,7 @@ Friday 29 June 2018 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 28 June 2018 at 4:49
 - [x] Exported to Keepeek Thursday 28 June 2018 at 1:29
 
 ### Additional Information
@@ -117,7 +54,7 @@ Friday 29 June 2018 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 28 June 2018 at 4:49
 - [x] Exported to Keepeek Thursday 28 June 2018 at 1:29
 
 ### Additional Information
@@ -138,7 +75,7 @@ Friday 29 June 2018 at 2:02 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 28 June 2018 at 4:49
 - [x] Exported to Keepeek Thursday 28 June 2018 at 1:29
 
 ### Additional Information
@@ -155,18 +92,18 @@ Friday 29 June 2018 at 2:02 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Monday 2 July 2018 at 11:00 | no launch event
+Monday 2 July 2018 at 13:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Saturday 23 June 2018 at 5:45
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Friday 29 June 2018 at 0:02
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Medium: *PDF*
 
@@ -200,15 +137,15 @@ Embargo date | Launch date
 Thursday 5 July 2018 at 5:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 June 2018 at 3:56
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Friday 29 June 2018 at 0:02
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -243,7 +180,7 @@ Monday 16 July 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 27 June 2018 at 3:56
+- [x] Exported to iLibrary Thursday 28 June 2018 at 4:49
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -353,7 +290,7 @@ Friday 7 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
+* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
