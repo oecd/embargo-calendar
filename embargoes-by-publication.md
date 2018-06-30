@@ -1,90 +1,6 @@
-# OECD publication embargoes (15 embargoes)
+# OECD publication embargoes (37 embargoes)
 
-*Data generated on Friday 29 June 2018 at 1:57*
-
-------
-
-## [ Financing innovative business investment in Poland](https://doi.org/10.1787/d7605f72-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 29 June 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 28 June 2018 at 4:49
-- [x] Exported to Keepeek Thursday 28 June 2018 at 1:29
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [ Strengthening innovation in Poland](https://doi.org/10.1787/abf2c877-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 29 June 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 June 2018 at 3:56
-- [x] Exported to Keepeek Wednesday 27 June 2018 at 0:19
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [ The "family 500+" child allowance and female labour supply in Poland](https://doi.org/10.1787/1a30745e-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 29 June 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 28 June 2018 at 4:49
-- [x] Exported to Keepeek Thursday 28 June 2018 at 1:29
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Insertion de la Tunisie dans les chaines de valeur mondiales et role des entreprises offshore](https://doi.org/10.1787/546dbd75-fr)
-
-Embargo date | Launch date
--------------|------------
-Friday 29 June 2018 at 2:02 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 28 June 2018 at 4:49
-- [x] Exported to Keepeek Thursday 28 June 2018 at 1:29
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Saturday 30 June 2018 at 3:53*
 
 ------
 
@@ -96,7 +12,7 @@ Monday 2 July 2018 at 13:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 23 June 2018 at 5:45
+- [x] Exported to iLibrary Friday 29 June 2018 at 3:27
 - [x] Exported to Keepeek Friday 29 June 2018 at 0:02
 
 ### Additional Information
@@ -122,10 +38,556 @@ Wednesday 4 July 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Employment, Labour and Social Affairs, Economics Department*
+* Directorate: *Economics Department, Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in Chinese), 2018年OECD就业展望](https://doi.org/10.1787/66b66381-zh)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department, Directorate for Employment, Labour and Social Affairs*
+* Language: *Chinese*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in Czech), Výhled zaměstnanosti OECD 2018](https://doi.org/10.1787/d46517a5-cs)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs, Economics Department*
+* Language: *Czech*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in Danish), OECD: Udsigterne for beskæftigelsen 2018](https://doi.org/10.1787/a371d6ea-da)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department, Directorate for Employment, Labour and Social Affairs*
+* Language: *Danish*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in Dutch), OESO Werkgelegenheidsvooruitzichten 2018](https://doi.org/10.1787/26be130e-nl)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department, Directorate for Employment, Labour and Social Affairs*
+* Language: *Dutch*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in English)](https://doi.org/10.1787/60b860f8-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs, Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in Estonian), OECD tööhõiveväljavaated 2018](https://doi.org/10.1787/8bb78bc2-et)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs, Economics Department*
+* Language: *Estonian*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in Finnish), OECD:n Työllisyyskatsaus 2018](https://doi.org/10.1787/5817c872-fi)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department, Directorate for Employment, Labour and Social Affairs*
+* Language: *Finnish*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in French), Perspectives de l'emploi de l'OCDE 2018](https://doi.org/10.1787/3f400ac1-fr)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs, Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in German), OECD-Beschäftigungsausblick 2018](https://doi.org/10.1787/7435d14f-de)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs, Economics Department*
+* Language: *German*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in Greek), Προοπτικές απασχόλησης του ΟΟΣΑ 2018](https://doi.org/10.1787/d3bd0b02-el)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs, Economics Department*
+* Language: *Greek*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in Hebrew), דוח OECD בנושא תעסוקה לשנת 2018](https://doi.org/10.1787/bbeaac31-he)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs, Economics Department*
+* Language: *Hebrew*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in Hungarian), OECD foglalkoztatási kilátások 2018](https://doi.org/10.1787/b8a877dd-hu)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department, Directorate for Employment, Labour and Social Affairs*
+* Language: *Hungarian*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in Icelandic), Horfur í atvinnumálum innan OECD 2018](https://doi.org/10.1787/34263756-is)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs, Economics Department*
+* Language: *Icelandic*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in Italian), Prospettive dell’occupazione OCSE 2018](https://doi.org/10.1787/9519fcae-it)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department, Directorate for Employment, Labour and Social Affairs*
+* Language: *Italian*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in Japanese), OECD雇用アウトルック2018](https://doi.org/10.1787/d3a816ef-ja)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs, Economics Department*
+* Language: *Japanese*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in Korean), 2018년 OECD 고용 전망](https://doi.org/10.1787/36ed6d79-ko)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs, Economics Department*
+* Language: *Korean*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in Latvian), OECD Nodarbinātības apskats 2018](https://doi.org/10.1787/32e5af3a-lv)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department, Directorate for Employment, Labour and Social Affairs*
+* Language: *Latvian*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in Norwegian), Utsikter for arbeidsmarkedet i OECD – 2018](https://doi.org/10.1787/160a8c10-no)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs, Economics Department*
+* Language: *Norwegian*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in Polish), Przegląd OECD "Zatrudnienie w roku 2018"](https://doi.org/10.1787/c4b8449e-pl)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department, Directorate for Employment, Labour and Social Affairs*
+* Language: *Polish*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in Portuguese), Perspetivas da OCDE sobre o Emprego para 2018](https://doi.org/10.1787/71e73746-pt)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department, Directorate for Employment, Labour and Social Affairs*
+* Language: *Portuguese*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in Russian), Перспективы занятости ОЭСР 2018](https://doi.org/10.1787/816a47dc-ru)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department, Directorate for Employment, Labour and Social Affairs*
+* Language: *Russian*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in Slovak), Výhľad OECD v oblasti zamestnanosti na rok 2018](https://doi.org/10.1787/609ff989-sk)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department, Directorate for Employment, Labour and Social Affairs*
+* Language: *Slovak*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in Slovenian), Pregled zaposlovanja OECD 2018](https://doi.org/10.1787/2fe787f7-sl)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs, Economics Department*
+* Language: *Slovenian*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in Spanish), Perspectivas del empleo de la OCDE 2018](https://doi.org/10.1787/b3846094-es)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department, Directorate for Employment, Labour and Social Affairs*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in Swedish), OECD:s sysselsättningsöversikt 2018](https://doi.org/10.1787/98b771e5-sv)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs, Economics Department*
+* Language: *Swedish*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [OECD Employment Outlook 2018 (Summary in Turkish), OECD 2018 İstihdam Görünümü](https://doi.org/10.1787/fff6af05-tr)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 4 July 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs, Economics Department*
+* Language: *Turkish*
+* Availability: *Not yet available*
+* Type of publication: *Summary*
 * Medium: *PDF*
 
 ------
@@ -138,7 +600,7 @@ Thursday 5 July 2018 at 5:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 June 2018 at 3:56
+- [x] Exported to iLibrary Friday 29 June 2018 at 3:27
 - [x] Exported to Keepeek Friday 29 June 2018 at 0:02
 
 ### Additional Information
@@ -202,7 +664,7 @@ Monday 16 July 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 June 2018 at 22:16
-- [x] Exported to Keepeek Thursday 14 June 2018 at 22:58
+- [x] Exported to Keepeek Saturday 30 June 2018 at 1:51
 
 ### Additional Information
 
@@ -290,7 +752,7 @@ Friday 7 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
@@ -311,7 +773,7 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Development Centre, Public Affairs and Communications Directorate*
+* Directorate: *Public Affairs and Communications Directorate, Development Centre*
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*

@@ -4,31 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/55b4653d-fr
-SUMMARY:Relancer l'investissement en Tunisie
-DESCRIPTION:Directorate: Economics Department\nLangu
- age: French\nDOI: https://doi.org/10.178
- 7/55b4653d-fr\nPublication type: Working
-  paper\nReleased as: PDF.\n\niLibrary ex
- port: 23 June 2018, 3:45 Paris time (GMT
- +00:00)\nFreepreview export: 23 June 201
- 8, 0:16 Paris time (GMT+00:00)\nFTI load
- ed: ✓, ✓.
-DTSTAMP:20180629T015728Z
-DTSTART:20180627T000000Z
-DTEND:20180627T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Relancer l'investissement en T
- unisie
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264298613-en
 SUMMARY:OECD Environmental Performance Reviews: 
  Hungary 2018
@@ -40,7 +15,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  8, 1:46 Paris time (GMT+00:00)\nFreeprev
  iew export: 28 June 2018, 22:02 Paris ti
  me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180629T015728Z
+DTSTAMP:20180630T035324Z
 DTSTART:20180628T073000Z
 DTEND:20180628T074500Z
 TRANSP:TRANSPARENT
@@ -66,7 +41,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  T+00:00)\nFreepreview export: 27 June 20
  18, 23:29 Paris time (GMT+00:00)\nFTI lo
  aded: ✓, ✓.
-DTSTAMP:20180629T015728Z
+DTSTAMP:20180630T035324Z
 DTSTART:20180629T000000Z
 DTEND:20180629T001500Z
 TRANSP:TRANSPARENT
@@ -91,7 +66,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  T+00:00)\nFreepreview export: 26 June 20
  18, 22:19 Paris time (GMT+00:00)\nFTI lo
  aded: ✓, ✓.
-DTSTAMP:20180629T015728Z
+DTSTAMP:20180630T035324Z
 DTSTART:20180629T000000Z
 DTEND:20180629T001500Z
 TRANSP:TRANSPARENT
@@ -117,7 +92,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  T+00:00)\nFreepreview export: 27 June 20
  18, 23:29 Paris time (GMT+00:00)\nFTI lo
  aded: ✓, ✓.
-DTSTAMP:20180629T015728Z
+DTSTAMP:20180630T035324Z
 DTSTART:20180629T000000Z
 DTEND:20180629T001500Z
 TRANSP:TRANSPARENT
@@ -144,7 +119,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  +00:00)\nFreepreview export: 27 June 201
  8, 23:29 Paris time (GMT+00:00)\nFTI loa
  ded: ✓, ✓.
-DTSTAMP:20180629T015728Z
+DTSTAMP:20180630T035324Z
 DTSTART:20180629T000200Z
 DTEND:20180629T001700Z
 TRANSP:TRANSPARENT
@@ -166,11 +141,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-nld-2018-en\nPublication 
  type: Economic survey\nReleased as: Pape
- rback, PDF.\n\niLibrary export: 23 June 
- 2018, 3:45 Paris time (GMT+00:00)\nFreep
+ rback, PDF.\n\niLibrary export: 29 June 
+ 2018, 1:27 Paris time (GMT+00:00)\nFreep
  review export: 28 June 2018, 22:02 Paris
   time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180629T015728Z
+DTSTAMP:20180630T035324Z
 DTSTART:20180702T110000Z
 DTEND:20180702T111500Z
 TRANSP:TRANSPARENT
@@ -187,15 +162,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:10.1787/empl_outlook-2018-en
 SUMMARY:OECD Employment Outlook 2018
-DESCRIPTION:Directorate: Directorate for Employment,
-  Labour and Social Affairs, Economics De
- partment\nLanguage: English\nDOI: https:
+DESCRIPTION:Directorate: Economics Department, Direc
+ torate for Employment, Labour and Social
+  Affairs\nLanguage: English\nDOI: https:
  //doi.org/10.1787/empl_outlook-2018-en\n
  Publication type: Book\nReleased as: Pap
  erback, PDF.\n\niLibrary export: 27 June
   2018, 1:56 Paris time (GMT+00:00)\nFree
  preview export: never\nFTI loaded: no.
-DTSTAMP:20180629T015728Z
+DTSTAMP:20180630T035324Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -209,17 +184,708 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/66b66381-zh
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  Chinese), 2018年OECD就业展望
+DESCRIPTION:Directorate: Economics Department, Direc
+ torate for Employment, Labour and Social
+  Affairs\nLanguage: Chinese\nDOI: https:
+ //doi.org/10.1787/66b66381-zh\nPublicati
+ on type: Summary\nReleased as: HTML, ePu
+ b, PDF.\n\niLibrary export: never\nFreep
+ review export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in Chinese), 2018年OECD就业展望
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/d46517a5-cs
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  Czech), Výhled zaměstnanosti OECD 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs, Economics De
+ partment\nLanguage: Czech\nDOI: https://
+ doi.org/10.1787/d46517a5-cs\nPublication
+  type: Summary\nReleased as: HTML, PDF, 
+ ePub.\n\niLibrary export: never\nFreepre
+ view export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in Czech), Výhled zaměstnanosti 
+ OECD 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/a371d6ea-da
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  Danish), OECD: Udsigterne for beskæftig
+ elsen 2018
+DESCRIPTION:Directorate: Economics Department, Direc
+ torate for Employment, Labour and Social
+  Affairs\nLanguage: Danish\nDOI: https:/
+ /doi.org/10.1787/a371d6ea-da\nPublicatio
+ n type: Summary\nReleased as: HTML, ePub
+ , PDF.\n\niLibrary export: never\nFreepr
+ eview export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in Danish), OECD: Udsigterne for
+  beskæftigelsen 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/26be130e-nl
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  Dutch), OESO Werkgelegenheidsvooruitzic
+ hten 2018
+DESCRIPTION:Directorate: Economics Department, Direc
+ torate for Employment, Labour and Social
+  Affairs\nLanguage: Dutch\nDOI: https://
+ doi.org/10.1787/26be130e-nl\nPublication
+  type: Summary\nReleased as: PDF, ePub, 
+ HTML.\n\niLibrary export: never\nFreepre
+ view export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in Dutch), OESO Werkgelegenheids
+ vooruitzichten 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/60b860f8-en
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  English)
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs, Economics De
+ partment\nLanguage: English\nDOI: https:
+ //doi.org/10.1787/60b860f8-en\nPublicati
+ on type: Summary\nReleased as: HTML, ePu
+ b, PDF.\n\niLibrary export: never\nFreep
+ review export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in English)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/8bb78bc2-et
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  Estonian), OECD tööhõiveväljavaated 201
+ 8
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs, Economics De
+ partment\nLanguage: Estonian\nDOI: https
+ ://doi.org/10.1787/8bb78bc2-et\nPublicat
+ ion type: Summary\nReleased as: PDF, ePu
+ b, HTML.\n\niLibrary export: never\nFree
+ preview export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in Estonian), OECD tööhõivevälja
+ vaated 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/5817c872-fi
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  Finnish), OECD:n Työllisyyskatsaus 2018
+DESCRIPTION:Directorate: Economics Department, Direc
+ torate for Employment, Labour and Social
+  Affairs\nLanguage: Finnish\nDOI: https:
+ //doi.org/10.1787/5817c872-fi\nPublicati
+ on type: Summary\nReleased as: PDF, HTML
+ , ePub.\n\niLibrary export: never\nFreep
+ review export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in Finnish), OECD:n Työllisyyska
+ tsaus 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/3f400ac1-fr
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  French), Perspectives de l'emploi de l'
+ OCDE 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs, Economics De
+ partment\nLanguage: French\nDOI: https:/
+ /doi.org/10.1787/3f400ac1-fr\nPublicatio
+ n type: Summary\nReleased as: PDF, HTML,
+  ePub.\n\niLibrary export: never\nFreepr
+ eview export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in French), Perspectives de l'em
+ ploi de l'OCDE 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/7435d14f-de
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  German), OECD-Beschäftigungsausblick 20
+ 18
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs, Economics De
+ partment\nLanguage: German\nDOI: https:/
+ /doi.org/10.1787/7435d14f-de\nPublicatio
+ n type: Summary\nReleased as: ePub, PDF,
+  HTML.\n\niLibrary export: never\nFreepr
+ eview export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in German), OECD-Beschäftigungsa
+ usblick 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/d3bd0b02-el
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  Greek), Προοπτικές απασχόλησης του ΟΟΣΑ
+  2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs, Economics De
+ partment\nLanguage: Greek\nDOI: https://
+ doi.org/10.1787/d3bd0b02-el\nPublication
+  type: Summary\nReleased as: ePub, HTML,
+  PDF.\n\niLibrary export: never\nFreepre
+ view export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in Greek), Προοπτικές απασχόληση
+ ς του ΟΟΣΑ 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/bbeaac31-he
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  Hebrew), דוח OECD בנושא תעסוקה לשנת 201
+ 8
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs, Economics De
+ partment\nLanguage: Hebrew\nDOI: https:/
+ /doi.org/10.1787/bbeaac31-he\nPublicatio
+ n type: Summary\nReleased as: PDF, ePub,
+  HTML.\n\niLibrary export: never\nFreepr
+ eview export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in Hebrew), דוח OECD בנושא תעסוק
+ ה לשנת 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/b8a877dd-hu
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  Hungarian), OECD foglalkoztatási kilátá
+ sok 2018
+DESCRIPTION:Directorate: Economics Department, Direc
+ torate for Employment, Labour and Social
+  Affairs\nLanguage: Hungarian\nDOI: http
+ s://doi.org/10.1787/b8a877dd-hu\nPublica
+ tion type: Summary\nReleased as: PDF, HT
+ ML, ePub.\n\niLibrary export: never\nFre
+ epreview export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in Hungarian), OECD foglalkoztat
+ ási kilátások 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/34263756-is
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  Icelandic), Horfur í atvinnumálum innan
+  OECD 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs, Economics De
+ partment\nLanguage: Icelandic\nDOI: http
+ s://doi.org/10.1787/34263756-is\nPublica
+ tion type: Summary\nReleased as: HTML, e
+ Pub, PDF.\n\niLibrary export: never\nFre
+ epreview export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in Icelandic), Horfur í atvinnum
+ álum innan OECD 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9519fcae-it
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  Italian), Prospettive dell’occupazione 
+ OCSE 2018
+DESCRIPTION:Directorate: Economics Department, Direc
+ torate for Employment, Labour and Social
+  Affairs\nLanguage: Italian\nDOI: https:
+ //doi.org/10.1787/9519fcae-it\nPublicati
+ on type: Summary\nReleased as: PDF, HTML
+ , ePub.\n\niLibrary export: never\nFreep
+ review export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in Italian), Prospettive dell’oc
+ cupazione OCSE 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/d3a816ef-ja
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  Japanese), OECD雇用アウトルック2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs, Economics De
+ partment\nLanguage: Japanese\nDOI: https
+ ://doi.org/10.1787/d3a816ef-ja\nPublicat
+ ion type: Summary\nReleased as: ePub, PD
+ F, HTML.\n\niLibrary export: never\nFree
+ preview export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in Japanese), OECD雇用アウトルック2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/36ed6d79-ko
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  Korean), 2018년 OECD 고용 전망
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs, Economics De
+ partment\nLanguage: Korean\nDOI: https:/
+ /doi.org/10.1787/36ed6d79-ko\nPublicatio
+ n type: Summary\nReleased as: PDF, HTML,
+  ePub.\n\niLibrary export: never\nFreepr
+ eview export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in Korean), 2018년 OECD 고용 전망
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/32e5af3a-lv
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  Latvian), OECD Nodarbinātības apskats 2
+ 018
+DESCRIPTION:Directorate: Economics Department, Direc
+ torate for Employment, Labour and Social
+  Affairs\nLanguage: Latvian\nDOI: https:
+ //doi.org/10.1787/32e5af3a-lv\nPublicati
+ on type: Summary\nReleased as: PDF, HTML
+ , ePub.\n\niLibrary export: never\nFreep
+ review export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in Latvian), OECD Nodarbinātības
+  apskats 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/160a8c10-no
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  Norwegian), Utsikter for arbeidsmarkede
+ t i OECD – 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs, Economics De
+ partment\nLanguage: Norwegian\nDOI: http
+ s://doi.org/10.1787/160a8c10-no\nPublica
+ tion type: Summary\nReleased as: ePub, H
+ TML, PDF.\n\niLibrary export: never\nFre
+ epreview export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in Norwegian), Utsikter for arbe
+ idsmarkedet i OECD – 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/c4b8449e-pl
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  Polish), Przegląd OECD "Zatrudnienie w 
+ roku 2018"
+DESCRIPTION:Directorate: Economics Department, Direc
+ torate for Employment, Labour and Social
+  Affairs\nLanguage: Polish\nDOI: https:/
+ /doi.org/10.1787/c4b8449e-pl\nPublicatio
+ n type: Summary\nReleased as: HTML, ePub
+ , PDF.\n\niLibrary export: never\nFreepr
+ eview export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in Polish), Przegląd OECD "Zatru
+ dnienie w roku 2018"
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/71e73746-pt
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  Portuguese), Perspetivas da OCDE sobre 
+ o Emprego para 2018
+DESCRIPTION:Directorate: Economics Department, Direc
+ torate for Employment, Labour and Social
+  Affairs\nLanguage: Portuguese\nDOI: htt
+ ps://doi.org/10.1787/71e73746-pt\nPublic
+ ation type: Summary\nReleased as: ePub, 
+ PDF, HTML.\n\niLibrary export: never\nFr
+ eepreview export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in Portuguese), Perspetivas da O
+ CDE sobre o Emprego para 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/816a47dc-ru
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  Russian), Перспективы занятости ОЭСР 20
+ 18
+DESCRIPTION:Directorate: Economics Department, Direc
+ torate for Employment, Labour and Social
+  Affairs\nLanguage: Russian\nDOI: https:
+ //doi.org/10.1787/816a47dc-ru\nPublicati
+ on type: Summary\nReleased as: PDF, HTML
+ , ePub.\n\niLibrary export: never\nFreep
+ review export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in Russian), Перспективы занятос
+ ти ОЭСР 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/609ff989-sk
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  Slovak), Výhľad OECD v oblasti zamestna
+ nosti na rok 2018
+DESCRIPTION:Directorate: Economics Department, Direc
+ torate for Employment, Labour and Social
+  Affairs\nLanguage: Slovak\nDOI: https:/
+ /doi.org/10.1787/609ff989-sk\nPublicatio
+ n type: Summary\nReleased as: ePub, HTML
+ , PDF.\n\niLibrary export: never\nFreepr
+ eview export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in Slovak), Výhľad OECD v oblast
+ i zamestnanosti na rok 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/2fe787f7-sl
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  Slovenian), Pregled zaposlovanja OECD 2
+ 018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs, Economics De
+ partment\nLanguage: Slovenian\nDOI: http
+ s://doi.org/10.1787/2fe787f7-sl\nPublica
+ tion type: Summary\nReleased as: PDF, HT
+ ML, ePub.\n\niLibrary export: never\nFre
+ epreview export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in Slovenian), Pregled zaposlova
+ nja OECD 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/b3846094-es
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  Spanish), Perspectivas del empleo de la
+  OCDE 2018
+DESCRIPTION:Directorate: Economics Department, Direc
+ torate for Employment, Labour and Social
+  Affairs\nLanguage: Spanish\nDOI: https:
+ //doi.org/10.1787/b3846094-es\nPublicati
+ on type: Summary\nReleased as: ePub, PDF
+ , HTML.\n\niLibrary export: never\nFreep
+ review export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in Spanish), Perspectivas del em
+ pleo de la OCDE 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/98b771e5-sv
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  Swedish), OECD:s sysselsättningsöversik
+ t 2018
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs, Economics De
+ partment\nLanguage: Swedish\nDOI: https:
+ //doi.org/10.1787/98b771e5-sv\nPublicati
+ on type: Summary\nReleased as: PDF, ePub
+ , HTML.\n\niLibrary export: never\nFreep
+ review export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in Swedish), OECD:s sysselsättni
+ ngsöversikt 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/fff6af05-tr
+SUMMARY:OECD Employment Outlook 2018 (Summary in
+  Turkish), OECD 2018 İstihdam Görünümü
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs, Economics De
+ partment\nLanguage: Turkish\nDOI: https:
+ //doi.org/10.1787/fff6af05-tr\nPublicati
+ on type: Summary\nReleased as: PDF, ePub
+ , HTML.\n\niLibrary export: never\nFreep
+ review export: never\nFTI loaded: ✓.
+DTSTAMP:20180630T035324Z
+DTSTART:20180704T090000Z
+DTEND:20180704T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Employment Outlook 2018 (
+ Summary in Turkish), OECD 2018 İstihdam 
+ Görünümü
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264302334-en
 SUMMARY:Agricultural Policies in India
 DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/9789264302334-en\nPublic
- ation type: Book\nReleased as: Paperback
- , ePub, HTML, PDF.\n\niLibrary export: 2
- 7 June 2018, 1:56 Paris time (GMT+00:00)
+ ation type: Book\nReleased as: HTML, PDF
+ , Paperback, ePub.\n\niLibrary export: 2
+ 9 June 2018, 1:27 Paris time (GMT+00:00)
  \nFreepreview export: 28 June 2018, 22:0
  2 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180629T015728Z
+DTSTAMP:20180630T035324Z
 DTSTART:20180705T030000Z
 DTEND:20180705T031500Z
 TRANSP:TRANSPARENT
@@ -242,7 +908,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  rback, PDF.\n\niLibrary export: 27 June 
  2018, 1:56 Paris time (GMT+00:00)\nFreep
  review export: never\nFTI loaded: no.
-DTSTAMP:20180629T015728Z
+DTSTAMP:20180630T035324Z
 DTSTART:20180705T090000Z
 DTEND:20180705T091500Z
 TRANSP:TRANSPARENT
@@ -267,7 +933,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
   Paperback.\n\niLibrary export: 28 June 
  2018, 2:49 Paris time (GMT+00:00)\nFreep
  review export: never\nFTI loaded: no.
-DTSTAMP:20180629T015728Z
+DTSTAMP:20180630T035324Z
 DTSTART:20180716T090000Z
 DTEND:20180716T091500Z
 TRANSP:TRANSPARENT
@@ -291,9 +957,9 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  : Book\nReleased as: HTML, PDF, Paperbac
  k, ePub.\n\niLibrary export: 14 June 201
  8, 20:16 Paris time (GMT+00:00)\nFreepre
- view export: 14 June 2018, 20:58 Paris t
+ view export: 29 June 2018, 23:51 Paris t
  ime (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180629T015728Z
+DTSTAMP:20180630T035324Z
 DTSTART:20180716T090000Z
 DTEND:20180716T091500Z
 TRANSP:TRANSPARENT
@@ -319,7 +985,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  June 2018, 1:56 Paris time (GMT+00:00)\n
  Freepreview export: never\nFTI loaded: n
  o.
-DTSTAMP:20180629T015728Z
+DTSTAMP:20180630T035324Z
 DTSTART:20180718T090000Z
 DTEND:20180718T091500Z
 TRANSP:TRANSPARENT
@@ -344,7 +1010,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
   June 2018, 1:56 Paris time (GMT+00:00)\
  nFreepreview export: never\nFTI loaded: 
  no.
-DTSTAMP:20180629T015728Z
+DTSTAMP:20180630T035324Z
 DTSTART:20180718T090000Z
 DTEND:20180718T091500Z
 TRANSP:TRANSPARENT
@@ -371,7 +1037,7 @@ DESCRIPTION:Directorate: Directorate for Employment,
  ime (GMT+00:00)\nFreepreview export: 18 
  June 2018, 20:45 Paris time (GMT+00:00)\
  nFTI loaded: ✓.
-DTSTAMP:20180629T015728Z
+DTSTAMP:20180630T035324Z
 DTSTART:20180729T220000Z
 DTEND:20180729T221500Z
 TRANSP:TRANSPARENT
@@ -390,16 +1056,16 @@ UID:10.1787/9789264292048-en
 SUMMARY:Supporting Entrepreneurship and Innovati
  on in Higher Education in The Netherland
  s
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills, Centre for Entrepreneurship, 
- SMEs and Local Development\nLanguage: En
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development, Directorat
+ e for Education and Skills\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264292048-en\nPublication type: Book\nRe
  leased as: ePub, PDF, Paperback.\n\niLib
  rary export: 19 June 2018, 20:07 Paris t
  ime (GMT+00:00)\nFreepreview export: nev
  er\nFTI loaded: no.
-DTSTAMP:20180629T015728Z
+DTSTAMP:20180630T035324Z
 DTSTART:20180907T090000Z
 DTEND:20180907T091500Z
 TRANSP:TRANSPARENT
@@ -418,15 +1084,15 @@ BEGIN:VEVENT
 UID:10.1787/9789264300347-fr
 SUMMARY:Examen multidimensionnel du Sénégal - Vo
  lume 3. De l'analyse à l'action
-DESCRIPTION:Directorate: Development Centre, Public 
- Affairs and Communications Directorate\n
+DESCRIPTION:Directorate: Public Affairs and Communic
+ ations Directorate, Development Centre\n
  Language: French\nDOI: https://doi.org/1
  0.1787/9789264300347-fr\nPublication typ
  e: Book\nReleased as: PDF, Paperback, eP
  ub.\n\niLibrary export: 27 June 2018, 1:
  56 Paris time (GMT+00:00)\nFreepreview e
  xport: never\nFTI loaded: no.
-DTSTAMP:20180629T015728Z
+DTSTAMP:20180630T035324Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
