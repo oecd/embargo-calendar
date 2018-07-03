@@ -4,137 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264298613-en
-SUMMARY:OECD Environmental Performance Reviews: 
- Hungary 2018
-DESCRIPTION:Directorate: Environment Directorate\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/9789264298613-en\nPublication type
- : Book\nReleased as: HTML, PDF, Paperbac
- k, ePub.\n\niLibrary export: 26 June 201
- 8, 1:46 Paris time (GMT+00:00)\nFreeprev
- iew export: 28 June 2018, 22:02 Paris ti
- me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
-DTSTART:20180628T073000Z
-DTEND:20180628T074500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Environmental Performance
-  Reviews: Hungary 2018
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/d7605f72-en
-SUMMARY: Financing innovative business investmen
- t in Poland
-DESCRIPTION:Directorate: Economics Department\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/d7605f72-en\nPublication type: Workin
- g paper\nReleased as: PDF.\n\niLibrary e
- xport: 28 June 2018, 2:49 Paris time (GM
- T+00:00)\nFreepreview export: 27 June 20
- 18, 23:29 Paris time (GMT+00:00)\nFTI lo
- aded: ✓, ✓.
-DTSTAMP:20180630T035324Z
-DTSTART:20180629T000000Z
-DTEND:20180629T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder:  Financing innovative business
-  investment in Poland
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/abf2c877-en
-SUMMARY: Strengthening innovation in Poland
-DESCRIPTION:Directorate: Economics Department\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/abf2c877-en\nPublication type: Workin
- g paper\nReleased as: PDF.\n\niLibrary e
- xport: 27 June 2018, 1:56 Paris time (GM
- T+00:00)\nFreepreview export: 26 June 20
- 18, 22:19 Paris time (GMT+00:00)\nFTI lo
- aded: ✓, ✓.
-DTSTAMP:20180630T035324Z
-DTSTART:20180629T000000Z
-DTEND:20180629T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder:  Strengthening innovation in P
- oland
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/1a30745e-en
-SUMMARY: The "family 500+" child allowance and f
- emale labour supply in Poland
-DESCRIPTION:Directorate: Economics Department\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/1a30745e-en\nPublication type: Workin
- g paper\nReleased as: PDF.\n\niLibrary e
- xport: 28 June 2018, 2:49 Paris time (GM
- T+00:00)\nFreepreview export: 27 June 20
- 18, 23:29 Paris time (GMT+00:00)\nFTI lo
- aded: ✓, ✓.
-DTSTAMP:20180630T035324Z
-DTSTART:20180629T000000Z
-DTEND:20180629T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder:  The "family 500+" child allow
- ance and female labour supply in Poland
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/546dbd75-fr
-SUMMARY:Insertion de la Tunisie dans les chaines
-  de valeur mondiales et role des entrepr
- ises offshore
-DESCRIPTION:Directorate: Economics Department\nLangu
- age: French\nDOI: https://doi.org/10.178
- 7/546dbd75-fr\nPublication type: Working
-  paper\nReleased as: PDF.\n\niLibrary ex
- port: 28 June 2018, 2:49 Paris time (GMT
- +00:00)\nFreepreview export: 27 June 201
- 8, 23:29 Paris time (GMT+00:00)\nFTI loa
- ded: ✓, ✓.
-DTSTAMP:20180630T035324Z
-DTSTART:20180629T000200Z
-DTEND:20180629T001700Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Insertion de la Tunisie dans l
- es chaines de valeur mondiales et role d
- es entreprises offshore
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/eco_surveys-nld-2018-en
 SUMMARY:OECD Economic Surveys: Netherlands 2018
 DESCRIPTION:Directorate: Economics Department\nLangu
@@ -145,7 +14,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  2018, 1:27 Paris time (GMT+00:00)\nFreep
  review export: 28 June 2018, 22:02 Paris
   time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+DTSTAMP:20180703T020850Z
 DTSTART:20180702T110000Z
 DTEND:20180702T111500Z
 TRANSP:TRANSPARENT
@@ -160,17 +29,3770 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table145-en
+SUMMARY:Beef and veal projections: Consumption, 
+ food
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table14
+ 5-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Beef and veal projections: Con
+ sumption, food
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table144-en
+SUMMARY:Beef and veal projections: Production an
+ d trade
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table14
+ 4-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Beef and veal projections: Pro
+ duction and trade
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table169-en
+SUMMARY:Biodiesel projections: Production and us
+ e
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table16
+ 9-en\nPublication type: Table\nReleased 
+ as: Spreadsheet, HTML, PDF.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biodiesel projections: Product
+ ion and use
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table170-en
+SUMMARY:Biodiesel projections: Share in volume t
+ erms and trade
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table17
+ 0-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biodiesel projections: Share i
+ n volume terms and trade
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table154-en
+SUMMARY:Butter projections: Consumption, food
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table15
+ 4-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Butter projections: Consumptio
+ n, food
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table153-en
+SUMMARY:Butter projections: Production and trade
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table15
+ 3-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Butter projections: Production
+  and trade
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table156-en
+SUMMARY:Cheese projections: Consumption, food
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table15
+ 6-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Cheese projections: Consumptio
+ n, food
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table155-en
+SUMMARY:Cheese projections: Production and trade
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table15
+ 5-en\nPublication type: Table\nReleased 
+ as: Spreadsheet, HTML, PDF.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Cheese projections: Production
+  and trade
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table173-en
+SUMMARY:Cotton projections: Consumption
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table17
+ 3-en\nPublication type: Table\nReleased 
+ as: Spreadsheet, HTML, PDF.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Cotton projections: Consumptio
+ n
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table172-en
+SUMMARY:Cotton projections: Production and trade
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table17
+ 2-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Cotton projections: Production
+  and trade
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table117-en
+SUMMARY:Economic assumptions
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table11
+ 7-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Economic assumptions
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table167-en
+SUMMARY:Ethanol projections: Production and use
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table16
+ 7-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Ethanol projections: Productio
+ n and use
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table168-en
+SUMMARY:Ethanol projections: Share in volume ter
+ ms and trade
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table16
+ 8-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Ethanol projections: Share in 
+ volume terms and trade
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table165-en
+SUMMARY:Fish and seafood projections: Production
+  and trade
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table16
+ 5-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Fish and seafood projections: 
+ Production and trade
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table166-en
+SUMMARY:Fish and seafood projections: Reduction,
+  food consumption
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table16
+ 6-en\nPublication type: Table\nReleased 
+ as: HTML, Spreadsheet, PDF.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Fish and seafood projections: 
+ Reduction, food consumption
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table161-en
+SUMMARY:Fresh dairy products projections: Produc
+ tion and food consumption
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table16
+ 1-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Fresh dairy products projectio
+ ns: Production and food consumption
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table171-fr
+SUMMARY:Hypothèses concernant le marché des bioc
+ arburants
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table171
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hypothèses concernant le march
+ é des biocarburants
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table164-fr
+SUMMARY:Hypothèses concernant le marché des prod
+ uits laitiers
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table164
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hypothèses concernant le march
+ é des produits laitiers
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table152-fr
+SUMMARY:Hypothèses concernant le marché du bétai
+ l
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table152
+ -fr\nPublication type: Table\nReleased a
+ s: Spreadsheet, HTML, PDF.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hypothèses concernant le march
+ é du bétail
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table129-fr
+SUMMARY:Hypothèses concernant les marchés des cé
+ réales
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table129
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hypothèses concernant les marc
+ hés des céréales
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table138-fr
+SUMMARY:Hypothèses concernant les marchés des ol
+ éagineux
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table138
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hypothèses concernant les marc
+ hés des oléagineux
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table174-fr
+SUMMARY:Hypothèses concernant les marchés du cot
+ on
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table174
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hypothèses concernant les marc
+ hés du coton
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table141-fr
+SUMMARY:Hypothèses concernant les marchés du suc
+ re
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table141
+ -fr\nPublication type: Table\nReleased a
+ s: Spreadsheet, HTML, PDF.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hypothèses concernant les marc
+ hés du sucre
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table117-fr
+SUMMARY:Hypothèses économiques
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table117
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hypothèses économiques
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table176-en
+SUMMARY:Information on food price changes
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table17
+ 6-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Information on food price chan
+ ges
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table176-fr
+SUMMARY:Information sur les variations des prix 
+ alimentaires
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table176
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Information sur les variations
+  des prix alimentaires
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table171-en
+SUMMARY:Main policy assumptions for biofuel mark
+ ets
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table17
+ 1-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Main policy assumptions for bi
+ ofuel markets
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table129-en
+SUMMARY:Main policy assumptions for cereal marke
+ ts
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table12
+ 9-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Main policy assumptions for ce
+ real markets
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table174-en
+SUMMARY:Main policy assumptions for cotton marke
+ ts
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table17
+ 4-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Main policy assumptions for co
+ tton markets
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table164-en
+SUMMARY:Main policy assumptions for dairy market
+ s
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table16
+ 4-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Main policy assumptions for da
+ iry markets
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table152-en
+SUMMARY:Main policy assumptions for meat markets
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table15
+ 2-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Main policy assumptions for me
+ at markets
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table138-en
+SUMMARY:Main policy assumptions for oilseed mark
+ ets
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table13
+ 8-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Main policy assumptions for oi
+ lseed markets
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table141-en
+SUMMARY:Main policy assumptions for sugar market
+ s
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table14
+ 1-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Main policy assumptions for su
+ gar markets
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table124-en
+SUMMARY:Maize projections: Consumption, feed, fo
+ od
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table12
+ 4-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Maize projections: Consumption
+ , feed, food
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table123-en
+SUMMARY:Maize projections: Production and trade
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table12
+ 3-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Maize projections: Production 
+ and trade
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table143-en
+SUMMARY:Meat projections: Consumption, food
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table14
+ 3-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Meat projections: Consumption,
+  food
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table142-en
+SUMMARY:Meat projections: Production and trade
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table14
+ 2-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Meat projections: Production a
+ nd trade
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table162-en
+SUMMARY:Milk projections: Production, inventorie
+ s, yield
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table16
+ 2-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Milk projections: Production, 
+ inventories, yield
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-en
+SUMMARY:OECD-FAO Agricultural Outlook 2018-2027
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-en\nPub
+ lication type: Book\nReleased as: ePub, 
+ HTML, PDF.\n\niLibrary export: 30 June 2
+ 018, 3:21 Paris time (GMT+00:00)\nFreepr
+ eview export: 2 July 2018, 22:09 Paris t
+ ime (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD-FAO Agricultural Outlook 
+ 2018-2027
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table126-en
+SUMMARY:Other coarse grain projections: Consumpt
+ ion, feed, food
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table12
+ 6-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Other coarse grain projections
+ : Consumption, feed, food
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table125-en
+SUMMARY:Other coarse grain projections: Producti
+ on and trade
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table12
+ 5-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Other coarse grain projections
+ : Production and trade
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table133-en
+SUMMARY:Other oilseed projections: Consumption, 
+ domestic crush
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table13
+ 3-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Other oilseed projections: Con
+ sumption, domestic crush
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table132-en
+SUMMARY:Other oilseed projections: Production an
+ d trade
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table13
+ 2-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Other oilseed projections: Pro
+ duction and trade
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-fr
+SUMMARY:Perspectives agricoles de l'OCDE et de l
+ a FAO 2018-2027
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-fr\nPubl
+ ication type: Book\nReleased as: HTML, e
+ Pub, PDF.\n\niLibrary export: 27 June 20
+ 18, 1:56 Paris time (GMT+00:00)\nFreepre
+ view export: 2 July 2018, 22:09 Paris ti
+ me (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Perspectives agricoles de l'OC
+ DE et de la FAO 2018-2027
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table147-en
+SUMMARY:Pigmeat projections: Consumption, food
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table14
+ 7-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pigmeat projections: Consumpti
+ on, food
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table146-en
+SUMMARY:Pigmeat projections: Production and trad
+ e
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table14
+ 6-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pigmeat projections: Productio
+ n and trade
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table149-en
+SUMMARY:Poultry meat projections: Consumption, f
+ ood
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table14
+ 9-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Poultry meat projections: Cons
+ umption, food
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table148-en
+SUMMARY:Poultry meat projections: Production and
+  trade
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table14
+ 8-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Poultry meat projections: Prod
+ uction and trade
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table118-fr
+SUMMARY:Prix mondiaux
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table118
+ -fr\nPublication type: Table\nReleased a
+ s: Spreadsheet, HTML, PDF.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Prix mondiaux
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table168-fr
+SUMMARY:Projections de l'éthanol : Part en volum
+ e et échanges
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table168
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections de l'éthanol : Par
+ t en volume et échanges
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table167-fr
+SUMMARY:Projections de l'éthanol : Production et
+  utilisation
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table167
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections de l'éthanol : Pro
+ duction et utilisation
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table165-fr
+SUMMARY:Projections de la pêche et l'aquaculture
+  : Production et échanges
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table165
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections de la pêche et l'a
+ quaculture : Production et échanges
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table166-fr
+SUMMARY:Projections de la pêche et l'aquaculture
+  : Transformation, consommation humaine
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table166
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections de la pêche et l'a
+ quaculture : Transformation, consommatio
+ n humaine
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table143-fr
+SUMMARY:Projections de la viande : Consommation,
+  humaine
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table143
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections de la viande : Con
+ sommation, humaine
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table142-fr
+SUMMARY:Projections de la viande : Production et
+  échanges
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table142
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections de la viande : Pro
+ duction et échanges
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table145-fr
+SUMMARY:Projections de la viande bovine : Consom
+ mation, humaine
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table145
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections de la viande bovin
+ e : Consommation, humaine
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table144-fr
+SUMMARY:Projections de la viande bovine : Produc
+ tion et échanges
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table144
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections de la viande bovin
+ e : Production et échanges
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table149-fr
+SUMMARY:Projections de la viande de volaille : C
+ onsommation, humaine
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table149
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections de la viande de vo
+ laille : Consommation, humaine
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table148-fr
+SUMMARY:Projections de la viande de volaille : P
+ roduction et échanges
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table148
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections de la viande de vo
+ laille : Production et échanges
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table151-fr
+SUMMARY:Projections de la viande ovine : Consomm
+ ation, humaine
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table151
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections de la viande ovine
+  : Consommation, humaine
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table150-fr
+SUMMARY:Projections de la viande ovine : Product
+ ion et échanges
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table150
+ -fr\nPublication type: Table\nReleased a
+ s: Spreadsheet, HTML, PDF.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections de la viande ovine
+  : Production et échanges
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table147-fr
+SUMMARY:Projections de la viande porcine : Conso
+ mmation, humaine
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table147
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections de la viande porci
+ ne : Consommation, humaine
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table146-fr
+SUMMARY:Projections de la viande porcine : Produ
+ ction et échanges
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table146
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections de la viande porci
+ ne : Production et échanges
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table126-fr
+SUMMARY:Projections des autres céréales secondai
+ res : Consommation, animale, humaine
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table126
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections des autres céréale
+ s secondaires : Consommation, animale, h
+ umaine
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table125-fr
+SUMMARY:Projections des autres céréales secondai
+ res : Production et échanges
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table125
+ -fr\nPublication type: Table\nReleased a
+ s: Spreadsheet, HTML, PDF.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections des autres céréale
+ s secondaires : Production et échanges
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table133-fr
+SUMMARY:Projections des autres oléagineux : Cons
+ ommation, trituration domestique
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table133
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections des autres oléagin
+ eux : Consommation, trituration domestiq
+ ue
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table132-fr
+SUMMARY:Projections des autres oléagineux : Prod
+ uction et échanges
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table132
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections des autres oléagin
+ eux : Production et échanges
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table120-fr
+SUMMARY:Projections des échanges mondiaux, expor
+ tations
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table120
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections des échanges mondi
+ aux, exportations
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table119-fr
+SUMMARY:Projections des échanges mondiaux, impor
+ tations
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table119
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections des échanges mondi
+ aux, importations
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table137-fr
+SUMMARY:Projections des huiles végétales : Conso
+ mmation, humaine
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table137
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections des huiles végétal
+ es : Consommation, humaine
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table136-fr
+SUMMARY:Projections des huiles végétales : Produ
+ ction et échanges
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table136
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections des huiles végétal
+ es : Production et échanges
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table161-fr
+SUMMARY:Projections des produits laitiers frais 
+ : Production et consommation humaine
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table161
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections des produits laiti
+ ers frais : Production et consommation h
+ umaine
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table175-fr
+SUMMARY:Projections des racines et tubercules : 
+ Production et consommation humaine
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table175
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections des racines et tub
+ ercules : Production et consommation hum
+ aine
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table135-fr
+SUMMARY:Projections des tourteaux protéiques : C
+ onsommation
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table135
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections des tourteaux prot
+ éiques : Consommation
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table134-fr
+SUMMARY:Projections des tourteaux protéiques : P
+ roduction et échanges
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table134
+ -fr\nPublication type: Table\nReleased a
+ s: Spreadsheet, HTML, PDF.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections des tourteaux prot
+ éiques : Production et échanges
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table154-fr
+SUMMARY:Projections du beurre : Consommation, hu
+ maine
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table154
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections du beurre : Consom
+ mation, humaine
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table153-fr
+SUMMARY:Projections du beurre : Production et éc
+ hanges
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table153
+ -fr\nPublication type: Table\nReleased a
+ s: Spreadsheet, HTML, PDF.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections du beurre : Produc
+ tion et échanges
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table170-fr
+SUMMARY:Projections du biodiesel : Part en volum
+ e et échanges
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table170
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections du biodiesel : Par
+ t en volume et échanges
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table169-fr
+SUMMARY:Projections du biodiesel : Production et
+  utilisation
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table169
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections du biodiesel : Pro
+ duction et utilisation
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table122-fr
+SUMMARY:Projections du blé : Consommation, humai
+ ne
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table122
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections du blé : Consommat
+ ion, humaine
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table121-fr
+SUMMARY:Projections du blé : Production et échan
+ ges
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table121
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections du blé : Productio
+ n et échanges
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table173-fr
+SUMMARY:Projections du coton : Consommation
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table173
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections du coton : Consomm
+ ation
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table172-fr
+SUMMARY:Projections du coton : Production et éch
+ anges
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table172
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections du coton : Product
+ ion et échanges
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table156-fr
+SUMMARY:Projections du fromage : Consommation, h
+ umaine
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table156
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections du fromage : Conso
+ mmation, humaine
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table155-fr
+SUMMARY:Projections du fromage : Production et é
+ changes
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table155
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections du fromage : Produ
+ ction et échanges
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table163-fr
+SUMMARY:Projections du lactosérum en poudre et d
+ e la caséine
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table163
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections du lactosérum en p
+ oudre et de la caséine
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table162-fr
+SUMMARY:Projections du lait : Production, invent
+ aires, rendement
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table162
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections du lait : Producti
+ on, inventaires, rendement
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table158-fr
+SUMMARY:Projections du lait écrémé en poudre : C
+ onsommation, humaine
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table158
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections du lait écrémé en 
+ poudre : Consommation, humaine
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table157-fr
+SUMMARY:Projections du lait écrémé en poudre : P
+ roduction et échanges
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table157
+ -fr\nPublication type: Table\nReleased a
+ s: Spreadsheet, HTML, PDF.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections du lait écrémé en 
+ poudre : Production et échanges
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table160-fr
+SUMMARY:Projections du lait entier en poudre : C
+ onsommation, humaine
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table160
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections du lait entier en 
+ poudre : Consommation, humaine
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table159-fr
+SUMMARY:Projections du lait entier en poudre : P
+ roduction et échanges
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table159
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections du lait entier en 
+ poudre : Production et échanges
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table124-fr
+SUMMARY:Projections du maïs : Consommation, anim
+ ale, humaine
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table124
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections du maïs : Consomma
+ tion, animale, humaine
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table123-fr
+SUMMARY:Projections du maïs : Production et écha
+ nges
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table123
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections du maïs : Producti
+ on et échanges
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table128-fr
+SUMMARY:Projections du riz : Consommation, humai
+ ne
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table128
+ -fr\nPublication type: Table\nReleased a
+ s: Spreadsheet, HTML, PDF.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections du riz : Consommat
+ ion, humaine
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table127-fr
+SUMMARY:Projections du riz : Production et échan
+ ges
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table127
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections du riz : Productio
+ n et échanges
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table131-fr
+SUMMARY:Projections du soja : Consommation, trit
+ uration domestique
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table131
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections du soja : Consomma
+ tion, trituration domestique
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table130-fr
+SUMMARY:Projections du soja : Production et écha
+ nges
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table130
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections du soja : Producti
+ on et échanges
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table140-fr
+SUMMARY:Projections du sucre : Consommation, hum
+ aine
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table140
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections du sucre : Consomm
+ ation, humaine
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table139-fr
+SUMMARY:Projections du sucre : Production et éch
+ anges
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table139
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections du sucre : Product
+ ion et échanges
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table114-fr
+SUMMARY:Projections mondiales de la pêche et l'a
+ quaculture
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table114
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections mondiales de la pê
+ che et l'aquaculture
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table115-fr
+SUMMARY:Projections mondiales des biocarburants
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table115
+ -fr\nPublication type: Table\nReleased a
+ s: Spreadsheet, HTML, PDF.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections mondiales des bioc
+ arburants
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table108-fr
+SUMMARY:Projections mondiales des céréales
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table108
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections mondiales des céré
+ ales
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table109-fr
+SUMMARY:Projections mondiales des oléagineux
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table109
+ -fr\nPublication type: Table\nReleased a
+ s: Spreadsheet, HTML, PDF.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections mondiales des oléa
+ gineux
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table111-fr
+SUMMARY:Projections mondiales des viandes
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table111
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections mondiales des vian
+ des
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table116-fr
+SUMMARY:Projections mondiales du coton
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table116
+ -fr\nPublication type: Table\nReleased a
+ s: HTML, PDF, Spreadsheet.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections mondiales du coton
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table112-fr
+SUMMARY:Projections mondiales du secteur laitier
+  : Beurre et fromage
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table112
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections mondiales du secte
+ ur laitier : Beurre et fromage
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table113-fr
+SUMMARY:Projections mondiales du secteur laitier
+  : Poudres et caséine
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table113
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections mondiales du secte
+ ur laitier : Poudres et caséine
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table110-fr
+SUMMARY:Projections mondiales du sucre
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: French\nDOI: https://d
+ oi.org/10.1787/agr_outlook-2018-table110
+ -fr\nPublication type: Table\nReleased a
+ s: PDF, Spreadsheet, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Projections mondiales du sucre
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table135-en
+SUMMARY:Protein meal projections: Consumption
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table13
+ 5-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Protein meal projections: Cons
+ umption
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table134-en
+SUMMARY:Protein meal projections: Production and
+  trade
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table13
+ 4-en\nPublication type: Table\nReleased 
+ as: Spreadsheet, HTML, PDF.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Protein meal projections: Prod
+ uction and trade
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table128-en
+SUMMARY:Rice projections: Consumption, food
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table12
+ 8-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Rice projections: Consumption,
+  food
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table127-en
+SUMMARY:Rice projections: Production and trade
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table12
+ 7-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Rice projections: Production a
+ nd trade
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table175-en
+SUMMARY:Roots and tubers projections: Production
+  and food consumption
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table17
+ 5-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Roots and tubers projections: 
+ Production and food consumption
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table151-en
+SUMMARY:Sheep meat projections: Consumption, foo
+ d
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table15
+ 1-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Sheep meat projections: Consum
+ ption, food
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table150-en
+SUMMARY:Sheep meat projections: Production and t
+ rade
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table15
+ 0-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Sheep meat projections: Produc
+ tion and trade
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table158-en
+SUMMARY:Skim milk powder projections: Consumptio
+ n, food
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table15
+ 8-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Skim milk powder projections: 
+ Consumption, food
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table157-en
+SUMMARY:Skim milk powder projections: Production
+  and trade
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table15
+ 7-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Skim milk powder projections: 
+ Production and trade
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table131-en
+SUMMARY:Soybean projections: Consumption, domest
+ ic crush
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table13
+ 1-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Soybean projections: Consumpti
+ on, domestic crush
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table130-en
+SUMMARY:Soybean projections: Production and trad
+ e
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table13
+ 0-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Soybean projections: Productio
+ n and trade
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table140-en
+SUMMARY:Sugar projections: Consumption, food
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table14
+ 0-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Sugar projections: Consumption
+ , food
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table139-en
+SUMMARY:Sugar projections: Production and trade
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table13
+ 9-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Sugar projections: Production 
+ and trade
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table137-en
+SUMMARY:Vegetable oil projections: Consumption, 
+ food
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table13
+ 7-en\nPublication type: Table\nReleased 
+ as: Spreadsheet, HTML, PDF.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Vegetable oil projections: Con
+ sumption, food
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table136-en
+SUMMARY:Vegetable oil projections: Production an
+ d trade
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table13
+ 6-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Vegetable oil projections: Pro
+ duction and trade
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table122-en
+SUMMARY:Wheat projections: Consumption, food
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table12
+ 2-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Wheat projections: Consumption
+ , food
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table121-en
+SUMMARY:Wheat projections: Production and trade
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table12
+ 1-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Wheat projections: Production 
+ and trade
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table163-en
+SUMMARY:Whey powder and casein projections
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table16
+ 3-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Whey powder and casein project
+ ions
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table160-en
+SUMMARY:Whole milk powder projections: Consumpti
+ on, food
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table16
+ 0-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Whole milk powder projections:
+  Consumption, food
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table159-en
+SUMMARY:Whole milk powder projections: Productio
+ n and trade
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table15
+ 9-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Whole milk powder projections:
+  Production and trade
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table115-en
+SUMMARY:World biofuel projections
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table11
+ 5-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: World biofuel projections
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table108-en
+SUMMARY:World cereal projections
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table10
+ 8-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: World cereal projections
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table116-en
+SUMMARY:World cotton projections
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table11
+ 6-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: World cotton projections
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table112-en
+SUMMARY:World dairy projections: Butter and chee
+ se
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table11
+ 2-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: World dairy projections: Butte
+ r and cheese
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table113-en
+SUMMARY:World dairy projections: Powders and cas
+ ein
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table11
+ 3-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: World dairy projections: Powde
+ rs and casein
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table114-en
+SUMMARY:World fish and seafood projections
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table11
+ 4-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: World fish and seafood project
+ ions
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table111-en
+SUMMARY:World meat projections
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table11
+ 1-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: World meat projections
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table109-en
+SUMMARY:World oilseed projections
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table10
+ 9-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: World oilseed projections
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table118-en
+SUMMARY:World prices
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table11
+ 8-en\nPublication type: Table\nReleased 
+ as: Spreadsheet, HTML, PDF.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: World prices
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table110-en
+SUMMARY:World sugar projections
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table11
+ 0-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: World sugar projections
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table120-en
+SUMMARY:World trade projections, exports
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table12
+ 0-en\nPublication type: Table\nReleased 
+ as: PDF, Spreadsheet, HTML.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: World trade projections, expor
+ ts
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/agr_outlook-2018-table119-en
+SUMMARY:World trade projections, imports
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/agr_outlook-2018-table11
+ 9-en\nPublication type: Table\nReleased 
+ as: HTML, PDF, Spreadsheet.\n\niLibrary 
+ export: never\nFreepreview export: 2 Jul
+ y 2018, 22:09 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180703T130000Z
+DTEND:20180703T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: World trade projections, impor
+ ts
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/f005be6a-es
+SUMMARY:Costa Rica - Restablecer la sostenabilid
+ ad fiscal y establecer las bases para un
+ a política fiscal más inclusiva y favora
+ ble al crecimiento
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: Spanish\nDOI: https://doi.org/10.17
+ 87/f005be6a-es\nPublication type: Workin
+ g paper\nReleased as: PDF.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓, ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180704T000000Z
+DTEND:20180704T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Costa Rica - Restablecer la so
+ stenabilidad fiscal y establecer las bas
+ es para una política fiscal más inclusiv
+ a y favorable al crecimiento
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/a0669dc0-en
+SUMMARY:Costa Rica - Restoring fiscal sustainabi
+ lity and setting the basis for a more gr
+ owth-friendly and inclusive fiscal polic
+ y
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/a0669dc0-en\nPublication type: Workin
+ g paper\nReleased as: PDF.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓, ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180704T000000Z
+DTEND:20180704T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Costa Rica - Restoring fiscal 
+ sustainability and setting the basis for
+  a more growth-friendly and inclusive fi
+ scal policy
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/e55c0310-es
+SUMMARY:Políticas estructurales para impulsar la
+  productividad y la incluión en Costa Ri
+ ca
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: Spanish\nDOI: https://doi.org/10.17
+ 87/e55c0310-es\nPublication type: Workin
+ g paper\nReleased as: PDF.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓, ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180704T000000Z
+DTEND:20180704T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Políticas estructurales para i
+ mpulsar la productividad y la incluión e
+ n Costa Rica
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/715509d0-en
+SUMMARY:Structural policies to boost productivit
+ y and inclusion in Costa Rica
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/715509d0-en\nPublication type: Workin
+ g paper\nReleased as: PDF.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓, ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180704T000000Z
+DTEND:20180704T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Structural policies to boost p
+ roductivity and inclusion in Costa Rica
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/6d883be1-en
+SUMMARY:The quantification of structural reforms
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/6d883be1-en\nPublication type: Workin
+ g paper\nReleased as: PDF.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓, ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180704T000000Z
+DTEND:20180704T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: The quantification of structur
+ al reforms
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/192ef3ad-en
+SUMMARY:To shorten or to lengthen? - Public debt
+  management in the low interest rate env
+ ironment
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/192ef3ad-en\nPublication type: Workin
+ g paper\nReleased as: PDF.\n\niLibrary e
+ xport: never\nFreepreview export: 2 July
+  2018, 22:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓, ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180704T000000Z
+DTEND:20180704T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: To shorten or to lengthen? - P
+ ublic debt management in the low interes
+ t rate environment
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/empl_outlook-2018-en
 SUMMARY:OECD Employment Outlook 2018
-DESCRIPTION:Directorate: Economics Department, Direc
- torate for Employment, Labour and Social
-  Affairs\nLanguage: English\nDOI: https:
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs, Economics De
+ partment\nLanguage: English\nDOI: https:
  //doi.org/10.1787/empl_outlook-2018-en\n
- Publication type: Book\nReleased as: Pap
- erback, PDF.\n\niLibrary export: 27 June
+ Publication type: Book\nReleased as: PDF
+ , Paperback.\n\niLibrary export: 27 June
   2018, 1:56 Paris time (GMT+00:00)\nFree
- preview export: never\nFTI loaded: no.
-DTSTAMP:20180630T035324Z
+ preview export: 2 July 2018, 22:09 Paris
+  time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -187,14 +3809,15 @@ BEGIN:VEVENT
 UID:10.1787/66b66381-zh
 SUMMARY:OECD Employment Outlook 2018 (Summary in
   Chinese), 2018年OECD就业展望
-DESCRIPTION:Directorate: Economics Department, Direc
- torate for Employment, Labour and Social
-  Affairs\nLanguage: Chinese\nDOI: https:
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs, Economics De
+ partment\nLanguage: Chinese\nDOI: https:
  //doi.org/10.1787/66b66381-zh\nPublicati
  on type: Summary\nReleased as: HTML, ePu
  b, PDF.\n\niLibrary export: never\nFreep
- review export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ review export: 2 July 2018, 22:09 Paris 
+ time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -212,14 +3835,15 @@ BEGIN:VEVENT
 UID:10.1787/d46517a5-cs
 SUMMARY:OECD Employment Outlook 2018 (Summary in
   Czech), Výhled zaměstnanosti OECD 2018
-DESCRIPTION:Directorate: Directorate for Employment,
-  Labour and Social Affairs, Economics De
- partment\nLanguage: Czech\nDOI: https://
+DESCRIPTION:Directorate: Economics Department, Direc
+ torate for Employment, Labour and Social
+  Affairs\nLanguage: Czech\nDOI: https://
  doi.org/10.1787/d46517a5-cs\nPublication
   type: Summary\nReleased as: HTML, PDF, 
  ePub.\n\niLibrary export: never\nFreepre
- view export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ view export: 2 July 2018, 22:09 Paris ti
+ me (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -245,8 +3869,9 @@ DESCRIPTION:Directorate: Economics Department, Direc
  /doi.org/10.1787/a371d6ea-da\nPublicatio
  n type: Summary\nReleased as: HTML, ePub
  , PDF.\n\niLibrary export: never\nFreepr
- eview export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ eview export: 2 July 2018, 22:09 Paris t
+ ime (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -266,14 +3891,15 @@ UID:10.1787/26be130e-nl
 SUMMARY:OECD Employment Outlook 2018 (Summary in
   Dutch), OESO Werkgelegenheidsvooruitzic
  hten 2018
-DESCRIPTION:Directorate: Economics Department, Direc
- torate for Employment, Labour and Social
-  Affairs\nLanguage: Dutch\nDOI: https://
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs, Economics De
+ partment\nLanguage: Dutch\nDOI: https://
  doi.org/10.1787/26be130e-nl\nPublication
   type: Summary\nReleased as: PDF, ePub, 
  HTML.\n\niLibrary export: never\nFreepre
- view export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ view export: 2 July 2018, 22:09 Paris ti
+ me (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -298,8 +3924,9 @@ DESCRIPTION:Directorate: Directorate for Employment,
  //doi.org/10.1787/60b860f8-en\nPublicati
  on type: Summary\nReleased as: HTML, ePu
  b, PDF.\n\niLibrary export: never\nFreep
- review export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ review export: 2 July 2018, 22:09 Paris 
+ time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -324,8 +3951,9 @@ DESCRIPTION:Directorate: Directorate for Employment,
  ://doi.org/10.1787/8bb78bc2-et\nPublicat
  ion type: Summary\nReleased as: PDF, ePu
  b, HTML.\n\niLibrary export: never\nFree
- preview export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ preview export: 2 July 2018, 22:09 Paris
+  time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -350,8 +3978,9 @@ DESCRIPTION:Directorate: Economics Department, Direc
  //doi.org/10.1787/5817c872-fi\nPublicati
  on type: Summary\nReleased as: PDF, HTML
  , ePub.\n\niLibrary export: never\nFreep
- review export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ review export: 2 July 2018, 22:09 Paris 
+ time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -371,14 +4000,15 @@ UID:10.1787/3f400ac1-fr
 SUMMARY:OECD Employment Outlook 2018 (Summary in
   French), Perspectives de l'emploi de l'
  OCDE 2018
-DESCRIPTION:Directorate: Directorate for Employment,
-  Labour and Social Affairs, Economics De
- partment\nLanguage: French\nDOI: https:/
+DESCRIPTION:Directorate: Economics Department, Direc
+ torate for Employment, Labour and Social
+  Affairs\nLanguage: French\nDOI: https:/
  /doi.org/10.1787/3f400ac1-fr\nPublicatio
  n type: Summary\nReleased as: PDF, HTML,
   ePub.\n\niLibrary export: never\nFreepr
- eview export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ eview export: 2 July 2018, 22:09 Paris t
+ ime (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -398,14 +4028,15 @@ UID:10.1787/7435d14f-de
 SUMMARY:OECD Employment Outlook 2018 (Summary in
   German), OECD-Beschäftigungsausblick 20
  18
-DESCRIPTION:Directorate: Directorate for Employment,
-  Labour and Social Affairs, Economics De
- partment\nLanguage: German\nDOI: https:/
+DESCRIPTION:Directorate: Economics Department, Direc
+ torate for Employment, Labour and Social
+  Affairs\nLanguage: German\nDOI: https:/
  /doi.org/10.1787/7435d14f-de\nPublicatio
  n type: Summary\nReleased as: ePub, PDF,
   HTML.\n\niLibrary export: never\nFreepr
- eview export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ eview export: 2 July 2018, 22:09 Paris t
+ ime (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -431,8 +4062,9 @@ DESCRIPTION:Directorate: Directorate for Employment,
  doi.org/10.1787/d3bd0b02-el\nPublication
   type: Summary\nReleased as: ePub, HTML,
   PDF.\n\niLibrary export: never\nFreepre
- view export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ view export: 2 July 2018, 22:09 Paris ti
+ me (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -458,8 +4090,9 @@ DESCRIPTION:Directorate: Directorate for Employment,
  /doi.org/10.1787/bbeaac31-he\nPublicatio
  n type: Summary\nReleased as: PDF, ePub,
   HTML.\n\niLibrary export: never\nFreepr
- eview export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ eview export: 2 July 2018, 22:09 Paris t
+ ime (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -479,14 +4112,15 @@ UID:10.1787/b8a877dd-hu
 SUMMARY:OECD Employment Outlook 2018 (Summary in
   Hungarian), OECD foglalkoztatási kilátá
  sok 2018
-DESCRIPTION:Directorate: Economics Department, Direc
- torate for Employment, Labour and Social
-  Affairs\nLanguage: Hungarian\nDOI: http
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs, Economics De
+ partment\nLanguage: Hungarian\nDOI: http
  s://doi.org/10.1787/b8a877dd-hu\nPublica
  tion type: Summary\nReleased as: PDF, HT
  ML, ePub.\n\niLibrary export: never\nFre
- epreview export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ epreview export: 2 July 2018, 22:09 Pari
+ s time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -512,8 +4146,9 @@ DESCRIPTION:Directorate: Directorate for Employment,
  s://doi.org/10.1787/34263756-is\nPublica
  tion type: Summary\nReleased as: HTML, e
  Pub, PDF.\n\niLibrary export: never\nFre
- epreview export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ epreview export: 2 July 2018, 22:09 Pari
+ s time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -533,14 +4168,15 @@ UID:10.1787/9519fcae-it
 SUMMARY:OECD Employment Outlook 2018 (Summary in
   Italian), Prospettive dell’occupazione 
  OCSE 2018
-DESCRIPTION:Directorate: Economics Department, Direc
- torate for Employment, Labour and Social
-  Affairs\nLanguage: Italian\nDOI: https:
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs, Economics De
+ partment\nLanguage: Italian\nDOI: https:
  //doi.org/10.1787/9519fcae-it\nPublicati
  on type: Summary\nReleased as: PDF, HTML
  , ePub.\n\niLibrary export: never\nFreep
- review export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ review export: 2 July 2018, 22:09 Paris 
+ time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -559,14 +4195,15 @@ BEGIN:VEVENT
 UID:10.1787/d3a816ef-ja
 SUMMARY:OECD Employment Outlook 2018 (Summary in
   Japanese), OECD雇用アウトルック2018
-DESCRIPTION:Directorate: Directorate for Employment,
-  Labour and Social Affairs, Economics De
- partment\nLanguage: Japanese\nDOI: https
+DESCRIPTION:Directorate: Economics Department, Direc
+ torate for Employment, Labour and Social
+  Affairs\nLanguage: Japanese\nDOI: https
  ://doi.org/10.1787/d3a816ef-ja\nPublicat
  ion type: Summary\nReleased as: ePub, PD
  F, HTML.\n\niLibrary export: never\nFree
- preview export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ preview export: 2 July 2018, 22:09 Paris
+  time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -590,8 +4227,9 @@ DESCRIPTION:Directorate: Directorate for Employment,
  /doi.org/10.1787/36ed6d79-ko\nPublicatio
  n type: Summary\nReleased as: PDF, HTML,
   ePub.\n\niLibrary export: never\nFreepr
- eview export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ eview export: 2 July 2018, 22:09 Paris t
+ ime (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -616,8 +4254,9 @@ DESCRIPTION:Directorate: Economics Department, Direc
  //doi.org/10.1787/32e5af3a-lv\nPublicati
  on type: Summary\nReleased as: PDF, HTML
  , ePub.\n\niLibrary export: never\nFreep
- review export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ review export: 2 July 2018, 22:09 Paris 
+ time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -643,8 +4282,9 @@ DESCRIPTION:Directorate: Directorate for Employment,
  s://doi.org/10.1787/160a8c10-no\nPublica
  tion type: Summary\nReleased as: ePub, H
  TML, PDF.\n\niLibrary export: never\nFre
- epreview export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ epreview export: 2 July 2018, 22:09 Pari
+ s time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -670,8 +4310,9 @@ DESCRIPTION:Directorate: Economics Department, Direc
  /doi.org/10.1787/c4b8449e-pl\nPublicatio
  n type: Summary\nReleased as: HTML, ePub
  , PDF.\n\niLibrary export: never\nFreepr
- eview export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ eview export: 2 July 2018, 22:09 Paris t
+ ime (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -697,8 +4338,9 @@ DESCRIPTION:Directorate: Economics Department, Direc
  ps://doi.org/10.1787/71e73746-pt\nPublic
  ation type: Summary\nReleased as: ePub, 
  PDF, HTML.\n\niLibrary export: never\nFr
- eepreview export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ eepreview export: 2 July 2018, 22:09 Par
+ is time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -718,14 +4360,15 @@ UID:10.1787/816a47dc-ru
 SUMMARY:OECD Employment Outlook 2018 (Summary in
   Russian), Перспективы занятости ОЭСР 20
  18
-DESCRIPTION:Directorate: Economics Department, Direc
- torate for Employment, Labour and Social
-  Affairs\nLanguage: Russian\nDOI: https:
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs, Economics De
+ partment\nLanguage: Russian\nDOI: https:
  //doi.org/10.1787/816a47dc-ru\nPublicati
  on type: Summary\nReleased as: PDF, HTML
  , ePub.\n\niLibrary export: never\nFreep
- review export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ review export: 2 July 2018, 22:09 Paris 
+ time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -751,8 +4394,9 @@ DESCRIPTION:Directorate: Economics Department, Direc
  /doi.org/10.1787/609ff989-sk\nPublicatio
  n type: Summary\nReleased as: ePub, HTML
  , PDF.\n\niLibrary export: never\nFreepr
- eview export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ eview export: 2 July 2018, 22:09 Paris t
+ ime (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -778,8 +4422,9 @@ DESCRIPTION:Directorate: Directorate for Employment,
  s://doi.org/10.1787/2fe787f7-sl\nPublica
  tion type: Summary\nReleased as: PDF, HT
  ML, ePub.\n\niLibrary export: never\nFre
- epreview export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ epreview export: 2 July 2018, 22:09 Pari
+ s time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -805,8 +4450,9 @@ DESCRIPTION:Directorate: Economics Department, Direc
  //doi.org/10.1787/b3846094-es\nPublicati
  on type: Summary\nReleased as: ePub, PDF
  , HTML.\n\niLibrary export: never\nFreep
- review export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ review export: 2 July 2018, 22:09 Paris 
+ time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -832,8 +4478,9 @@ DESCRIPTION:Directorate: Directorate for Employment,
  //doi.org/10.1787/98b771e5-sv\nPublicati
  on type: Summary\nReleased as: PDF, ePub
  , HTML.\n\niLibrary export: never\nFreep
- review export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ review export: 2 July 2018, 22:09 Paris 
+ time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -852,14 +4499,15 @@ BEGIN:VEVENT
 UID:10.1787/fff6af05-tr
 SUMMARY:OECD Employment Outlook 2018 (Summary in
   Turkish), OECD 2018 İstihdam Görünümü
-DESCRIPTION:Directorate: Directorate for Employment,
-  Labour and Social Affairs, Economics De
- partment\nLanguage: Turkish\nDOI: https:
+DESCRIPTION:Directorate: Economics Department, Direc
+ torate for Employment, Labour and Social
+  Affairs\nLanguage: Turkish\nDOI: https:
  //doi.org/10.1787/fff6af05-tr\nPublicati
  on type: Summary\nReleased as: PDF, ePub
  , HTML.\n\niLibrary export: never\nFreep
- review export: never\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ review export: 2 July 2018, 22:09 Paris 
+ time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180704T090000Z
 DTEND:20180704T091500Z
 TRANSP:TRANSPARENT
@@ -875,17 +4523,44 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/9789264300309-en
+SUMMARY:Delivering Quality Health Services: A Gl
+ obal Imperative
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: En
+ glish\nDOI: https://doi.org/10.1787/9789
+ 264300309-en\nPublication type: Stand-al
+ one monograph\nReleased as: PDF.\n\niLib
+ rary export: 18 June 2018, 20:07 Paris t
+ ime (GMT+00:00)\nFreepreview export: 2 J
+ uly 2018, 22:09 Paris time (GMT+00:00)\n
+ FTI loaded: ✓.
+DTSTAMP:20180703T020850Z
+DTSTART:20180704T220000Z
+DTEND:20180704T221500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Delivering Quality Health Serv
+ ices: A Global Imperative
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264302334-en
 SUMMARY:Agricultural Policies in India
 DESCRIPTION:Directorate: Trade and Agriculture Direc
  torate\nLanguage: English\nDOI: https://
  doi.org/10.1787/9789264302334-en\nPublic
- ation type: Book\nReleased as: HTML, PDF
- , Paperback, ePub.\n\niLibrary export: 2
+ ation type: Book\nReleased as: PDF, Pape
+ rback, ePub, HTML.\n\niLibrary export: 2
  9 June 2018, 1:27 Paris time (GMT+00:00)
  \nFreepreview export: 28 June 2018, 22:0
  2 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+DTSTAMP:20180703T020850Z
 DTSTART:20180705T030000Z
 DTEND:20180705T031500Z
 TRANSP:TRANSPARENT
@@ -908,7 +4583,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  rback, PDF.\n\niLibrary export: 27 June 
  2018, 1:56 Paris time (GMT+00:00)\nFreep
  review export: never\nFTI loaded: no.
-DTSTAMP:20180630T035324Z
+DTSTAMP:20180703T020850Z
 DTSTART:20180705T090000Z
 DTEND:20180705T091500Z
 TRANSP:TRANSPARENT
@@ -923,6 +4598,30 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/eco_surveys-tur-2018-en
+SUMMARY:OECD Economic Surveys: Turkey 2018
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/eco_surveys-tur-2018-en\nPublication 
+ type: Economic survey\nReleased as: PDF,
+  Paperback.\n\niLibrary export: never\nF
+ reepreview export: never\nFTI loaded: no
+ .
+DTSTAMP:20180703T020850Z
+DTSTART:20180713T090000Z
+DTEND:20180713T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Economic Surveys: Turkey 
+ 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/eco_surveys-cze-2018-en
 SUMMARY:OECD Economic Surveys: Czech Republic 20
  18
@@ -933,7 +4632,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
   Paperback.\n\niLibrary export: 28 June 
  2018, 2:49 Paris time (GMT+00:00)\nFreep
  review export: never\nFTI loaded: no.
-DTSTAMP:20180630T035324Z
+DTSTAMP:20180703T020850Z
 DTSTART:20180716T090000Z
 DTEND:20180716T091500Z
 TRANSP:TRANSPARENT
@@ -954,12 +4653,12 @@ SUMMARY:OECD Environmental Performance Reviews:
 DESCRIPTION:Directorate: Environment Directorate\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/9789264300958-en\nPublication type
- : Book\nReleased as: HTML, PDF, Paperbac
- k, ePub.\n\niLibrary export: 14 June 201
- 8, 20:16 Paris time (GMT+00:00)\nFreepre
- view export: 29 June 2018, 23:51 Paris t
- ime (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
+ : Book\nReleased as: Paperback, ePub, HT
+ ML, PDF.\n\niLibrary export: 30 June 201
+ 8, 3:21 Paris time (GMT+00:00)\nFreeprev
+ iew export: 29 June 2018, 23:51 Paris ti
+ me (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180703T020850Z
 DTSTART:20180716T090000Z
 DTEND:20180716T091500Z
 TRANSP:TRANSPARENT
@@ -980,12 +4679,12 @@ SUMMARY:Études économiques de l'OCDE : Canada 20
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: French\nDOI: https://doi.org/10.178
  7/eco_surveys-can-2018-fr\nPublication t
- ype: Economic survey\nReleased as: Paper
- back, ePub, PDF.\n\niLibrary export: 27 
+ ype: Economic survey\nReleased as: PDF, 
+ Paperback, ePub.\n\niLibrary export: 27 
  June 2018, 1:56 Paris time (GMT+00:00)\n
  Freepreview export: never\nFTI loaded: n
  o.
-DTSTAMP:20180630T035324Z
+DTSTAMP:20180703T020850Z
 DTSTART:20180718T090000Z
 DTEND:20180718T091500Z
 TRANSP:TRANSPARENT
@@ -1005,12 +4704,12 @@ SUMMARY:OECD Economic Surveys: Canada 2018
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-can-2018-en\nPublication 
- type: Economic survey\nReleased as: Pape
- rback, ePub, PDF.\n\niLibrary export: 27
+ type: Economic survey\nReleased as: PDF,
+  Paperback, ePub.\n\niLibrary export: 27
   June 2018, 1:56 Paris time (GMT+00:00)\
  nFreepreview export: never\nFTI loaded: 
  no.
-DTSTAMP:20180630T035324Z
+DTSTAMP:20180703T020850Z
 DTSTART:20180718T090000Z
 DTEND:20180718T091500Z
 TRANSP:TRANSPARENT
@@ -1021,33 +4720,6 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Economic Surveys: Canada 
  2018
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264300309-en
-SUMMARY:Delivering Quality Health Services: A Gl
- obal Imperative
-DESCRIPTION:Directorate: Directorate for Employment,
-  Labour and Social Affairs\nLanguage: En
- glish\nDOI: https://doi.org/10.1787/9789
- 264300309-en\nPublication type: Stand-al
- one monograph\nReleased as: PDF.\n\niLib
- rary export: 18 June 2018, 20:07 Paris t
- ime (GMT+00:00)\nFreepreview export: 18 
- June 2018, 20:45 Paris time (GMT+00:00)\
- nFTI loaded: ✓.
-DTSTAMP:20180630T035324Z
-DTSTART:20180729T220000Z
-DTEND:20180729T221500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Delivering Quality Health Serv
- ices: A Global Imperative
 END:VALARM
 END:VEVENT
 
@@ -1065,7 +4737,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  rary export: 19 June 2018, 20:07 Paris t
  ime (GMT+00:00)\nFreepreview export: nev
  er\nFTI loaded: no.
-DTSTAMP:20180630T035324Z
+DTSTAMP:20180703T020850Z
 DTSTART:20180907T090000Z
 DTEND:20180907T091500Z
 TRANSP:TRANSPARENT
@@ -1092,7 +4764,7 @@ DESCRIPTION:Directorate: Public Affairs and Communic
  ub.\n\niLibrary export: 27 June 2018, 1:
  56 Paris time (GMT+00:00)\nFreepreview e
  xport: never\nFTI loaded: no.
-DTSTAMP:20180630T035324Z
+DTSTAMP:20180703T020850Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
