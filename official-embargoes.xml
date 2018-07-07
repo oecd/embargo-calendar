@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2018-07-06T02:53:03.4587552+02:00" count="269">
+<report name="official-embargoes" generated="2018-07-07T03:55:51.531106+02:00" count="193">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -17,7 +17,7 @@
     <cell name="fti loaded?">FTI Loaded?</cell>
   </row>
   <row index="1">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-fr</cell>
     <cell name="title">Examen multidimensionnel du Sénégal (fr)</cell>
     <cell name="subtitle">Volume 3. De l'analyse à l'action (fr)</cell>
@@ -33,7 +33,7 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="2">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-fr</cell>
     <cell name="title">Examen multidimensionnel du Sénégal (fr)</cell>
     <cell name="subtitle">Volume 3. De l'analyse à l'action (fr)</cell>
@@ -49,7 +49,7 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="3">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-fr</cell>
     <cell name="title">Examen multidimensionnel du Sénégal (fr)</cell>
     <cell name="subtitle">Volume 3. De l'analyse à l'action (fr)</cell>
@@ -97,7 +97,7 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="6">
-    <cell name="directorate">Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development</cell>
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264292048-en</cell>
     <cell name="title">Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands (en)</cell>
     <cell name="subtitle"/>
@@ -235,7 +235,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T12:00:00Z</cell>
     <cell name="launch date/time">2018-07-16T12:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-06-14T20:58:40.837Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
@@ -251,7 +251,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T12:00:00Z</cell>
     <cell name="launch date/time">2018-07-16T12:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
@@ -262,15 +262,15 @@
     <cell name="title">Abbreviations and acronyms (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
+    <cell name="medium">HTML</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
-    <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
+    <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
+    <cell name="fti loaded?">✓</cell>
   </row>
   <row index="17">
     <cell name="directorate">Environment Directorate</cell>
@@ -278,15 +278,15 @@
     <cell name="title">Abbreviations and acronyms (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
+    <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="18">
     <cell name="directorate">Environment Directorate</cell>
@@ -299,7 +299,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -315,7 +315,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -331,7 +331,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -347,7 +347,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -363,7 +363,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -374,15 +374,15 @@
     <cell name="title">Assessment and recommendations (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
+    <cell name="medium">HTML</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
-    <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
+    <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
+    <cell name="fti loaded?">✓</cell>
   </row>
   <row index="24">
     <cell name="directorate">Environment Directorate</cell>
@@ -390,15 +390,15 @@
     <cell name="title">Assessment and recommendations (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
+    <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="25">
     <cell name="directorate">Environment Directorate</cell>
@@ -411,7 +411,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -427,7 +427,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
@@ -443,7 +443,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -459,7 +459,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -475,7 +475,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
@@ -491,7 +491,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -507,7 +507,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
@@ -523,7 +523,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -534,15 +534,15 @@
     <cell name="title">Executive summary (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
+    <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="34">
     <cell name="directorate">Environment Directorate</cell>
@@ -550,15 +550,15 @@
     <cell name="title">Executive summary (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
+    <cell name="medium">HTML</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
-    <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
+    <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
+    <cell name="fti loaded?">✓</cell>
   </row>
   <row index="35">
     <cell name="directorate">Environment Directorate</cell>
@@ -571,7 +571,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
@@ -587,7 +587,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -603,7 +603,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-05T02:42:36.127Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -619,7 +619,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -635,7 +635,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -651,7 +651,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -667,7 +667,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -683,7 +683,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -699,7 +699,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -715,7 +715,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -731,7 +731,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -747,7 +747,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -795,7 +795,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
@@ -811,7 +811,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -827,7 +827,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -838,15 +838,15 @@
     <cell name="title">Preface (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
+    <cell name="medium">HTML</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
-    <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
+    <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
+    <cell name="fti loaded?">✓</cell>
   </row>
   <row index="53">
     <cell name="directorate">Environment Directorate</cell>
@@ -854,15 +854,15 @@
     <cell name="title">Preface (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
+    <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="54">
     <cell name="directorate">Environment Directorate</cell>
@@ -875,7 +875,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -891,7 +891,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -907,7 +907,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -923,7 +923,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
@@ -939,7 +939,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -955,7 +955,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -971,7 +971,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -987,7 +987,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1003,7 +1003,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1019,7 +1019,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1035,7 +1035,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
@@ -1051,7 +1051,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1067,7 +1067,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1083,7 +1083,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1099,7 +1099,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1115,7 +1115,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1131,7 +1131,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1147,7 +1147,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1163,7 +1163,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1179,7 +1179,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1195,7 +1195,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1211,7 +1211,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1227,7 +1227,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
@@ -1243,7 +1243,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1259,7 +1259,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1275,7 +1275,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1291,7 +1291,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1307,7 +1307,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1323,7 +1323,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1339,7 +1339,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1355,7 +1355,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1371,7 +1371,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
@@ -1387,7 +1387,7 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-30T03:21:39.937Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1435,12 +1435,76 @@
     <cell name="date of publication">2018-07-12</cell>
     <cell name="embargo date">2018-07-12T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-07-06T02:25:02.1637985Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="90">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/9789264302501-en</cell>
+    <cell name="title">Africa's Development Dynamics 2018 (en)</cell>
+    <cell name="subtitle">Growth, Jobs and Inequalities (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-07-11</cell>
+    <cell name="embargo date">2018-07-11T05:00:00Z</cell>
+    <cell name="launch date/time">2018-07-11T05:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="91">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/9789264302501-en</cell>
+    <cell name="title">Africa's Development Dynamics 2018 (en)</cell>
+    <cell name="subtitle">Growth, Jobs and Inequalities (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-07-11</cell>
+    <cell name="embargo date">2018-07-11T05:00:00Z</cell>
+    <cell name="launch date/time">2018-07-11T05:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-06-29T01:27:25.867Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="92">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/9789264302525-fr</cell>
+    <cell name="title">Dynamiques du développement en Afrique 2018 (fr)</cell>
+    <cell name="subtitle">Croissance, emploi et inégalités (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-07-11</cell>
+    <cell name="embargo date">2018-07-11T05:00:00Z</cell>
+    <cell name="launch date/time">2018-07-11T05:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="93">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/9789264302525-fr</cell>
+    <cell name="title">Dynamiques du développement en Afrique 2018 (fr)</cell>
+    <cell name="subtitle">Croissance, emploi et inégalités (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-07-11</cell>
+    <cell name="embargo date">2018-07-11T05:00:00Z</cell>
+    <cell name="launch date/time">2018-07-11T05:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-06-29T01:27:25.867Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="94">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/55c7e0c4-fr</cell>
     <cell name="title">Vers une croissance plus inclusive en Tunisie (fr)</cell>
@@ -1451,12 +1515,28 @@
     <cell name="date of publication">2018-07-11</cell>
     <cell name="embargo date">2018-07-11T00:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-07-06T02:25:02.1637985Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="91">
+  <row index="95">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/e124db26-en</cell>
+    <cell name="title">How is participation in sports related to students’ performance and well-being? (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-07-10</cell>
+    <cell name="embargo date">2018-07-10T04:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="96">
     <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/9789264302884-1-fr</cell>
     <cell name="title">Avant-propos (fr)</cell>
@@ -1472,7 +1552,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="92">
+  <row index="97">
     <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/9789264302884-fr</cell>
     <cell name="title">Dialogue Maroc-OCDE sur les politiques de développement territorial (fr)</cell>
@@ -1488,7 +1568,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="93">
+  <row index="98">
     <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/9789264302884-fr</cell>
     <cell name="title">Dialogue Maroc-OCDE sur les politiques de développement territorial (fr)</cell>
@@ -1504,7 +1584,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="94">
+  <row index="99">
     <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/9789264302884-2-fr</cell>
     <cell name="title">Glossaire (fr)</cell>
@@ -1520,7 +1600,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="95">
+  <row index="100">
     <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/9789264302884-7-fr</cell>
     <cell name="title">Investissement public efficace pour un développement territorial inclusif et durable (fr)</cell>
@@ -1536,7 +1616,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="96">
+  <row index="101">
     <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/9789264302884-6-fr</cell>
     <cell name="title">Les liens urbain-rural dans les provinces de Taounate (Région Fès-Meknès) et Berrechid (Région Casablanca-Settat) (fr)</cell>
@@ -1552,7 +1632,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="97">
+  <row index="102">
     <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/9789264302884-5-fr</cell>
     <cell name="title">Quelle gouvernance pour une aire métropolitaine durable et inclusive de Casablanca (fr)</cell>
@@ -1568,7 +1648,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="98">
+  <row index="103">
     <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/9789264302884-3-fr</cell>
     <cell name="title">Résumé (fr)</cell>
@@ -1584,7 +1664,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="99">
+  <row index="104">
     <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/9789264302884-4-fr</cell>
     <cell name="title">Synthèse et Principales Recommandations (fr)</cell>
@@ -1600,7 +1680,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="100">
+  <row index="105">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-2-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -1616,8 +1696,8 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="101">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+  <row index="106">
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-2-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
     <cell name="subtitle"/>
@@ -1632,8 +1712,8 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="102">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+  <row index="107">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph7-en</cell>
     <cell name="title">Activity status by single year of age and socio-economic status (2016) (en)</cell>
     <cell name="subtitle"/>
@@ -1648,8 +1728,8 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="103">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+  <row index="108">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph26-en</cell>
     <cell name="title">Although spending on training is high, overall labour-market policy spending is low (en)</cell>
     <cell name="subtitle"/>
@@ -1664,7 +1744,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="104">
+  <row index="109">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph47-en</cell>
     <cell name="title">Average monthly wages by type of job in firms within and outside of SEZs (en)</cell>
@@ -1680,8 +1760,8 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="105">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+  <row index="110">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph44-en</cell>
     <cell name="title">Average tax paid as a share of market income in Panama, 2016 (en)</cell>
     <cell name="subtitle"/>
@@ -1696,7 +1776,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="106">
+  <row index="111">
     <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-5-en</cell>
     <cell name="title">Building better skills and creating formal jobs for all Panamanians (en)</cell>
@@ -1712,7 +1792,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="107">
+  <row index="112">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-5-en</cell>
     <cell name="title">Building better skills and creating formal jobs for all Panamanians (en)</cell>
@@ -1728,7 +1808,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="108">
+  <row index="113">
     <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-graph31-en</cell>
     <cell name="title">Changes in municipal revenue 2012-2106 (en)</cell>
@@ -1744,7 +1824,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="109">
+  <row index="114">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph23-en</cell>
     <cell name="title">Composition of informal workers by skills level of their job in Panama, 2016 (en)</cell>
@@ -1760,7 +1840,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="110">
+  <row index="115">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph17-en</cell>
     <cell name="title">Composition of informal workers in Panama, 2016 (en)</cell>
@@ -1776,8 +1856,8 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="111">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+  <row index="116">
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-graph43-en</cell>
     <cell name="title">Concentration shares of tax payments, by deciles of market income (2016) (en)</cell>
     <cell name="subtitle"/>
@@ -1792,7 +1872,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="112">
+  <row index="117">
     <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-graph3-en</cell>
     <cell name="title">Earnings are lower and more unequal than in OECD economies (en)</cell>
@@ -1808,7 +1888,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="113">
+  <row index="118">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph18-en</cell>
     <cell name="title">Employment composition and informality by firm size in Panama, 2016 (en)</cell>
@@ -1824,8 +1904,8 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="114">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+  <row index="119">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph16-en</cell>
     <cell name="title">Employment elasticity across selected sectors in Panama, 2003-16 (en)</cell>
     <cell name="subtitle"/>
@@ -1840,8 +1920,8 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="115">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+  <row index="120">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph24-en</cell>
     <cell name="title">Enrolment rates are rising but are still low at upper secondary level (en)</cell>
     <cell name="subtitle"/>
@@ -1856,8 +1936,8 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="116">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+  <row index="121">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph49-en</cell>
     <cell name="title">Environmental and environmentally related taxes (2014) (en)</cell>
     <cell name="subtitle">Percentage of GDP (en)</cell>
@@ -1872,7 +1952,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="117">
+  <row index="122">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph19-en</cell>
     <cell name="title">Evolution of productivity and wages in Panama (en)</cell>
@@ -1888,7 +1968,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="118">
+  <row index="123">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph20-en</cell>
     <cell name="title">Evolution of productivity and wages in Panama by sectors (en)</cell>
@@ -1904,7 +1984,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="119">
+  <row index="124">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-3-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -1920,8 +2000,8 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="120">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+  <row index="125">
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-3-en</cell>
     <cell name="title">Executive Summary (en)</cell>
     <cell name="subtitle"/>
@@ -1936,7 +2016,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="121">
+  <row index="126">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph48-en</cell>
     <cell name="title">FDI growth decomposed by type of investments (en)</cell>
@@ -1952,7 +2032,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="122">
+  <row index="127">
     <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-graph39-en</cell>
     <cell name="title">Fiscal revenue from the NFPS, 2000-16 (en)</cell>
@@ -1968,7 +2048,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="123">
+  <row index="128">
     <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-graph37-en</cell>
     <cell name="title">Fiscal rule compliance measures (en)</cell>
@@ -1984,7 +2064,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="124">
+  <row index="129">
     <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-graph8-en</cell>
     <cell name="title">Flows in Latin America's labour market (en)</cell>
@@ -2000,8 +2080,8 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="125">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+  <row index="130">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-1-en</cell>
     <cell name="title">Foreword (en)</cell>
     <cell name="subtitle"/>
@@ -2016,8 +2096,8 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="126">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+  <row index="131">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-1-en</cell>
     <cell name="title">Foreword (en)</cell>
     <cell name="subtitle"/>
@@ -2032,7 +2112,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="127">
+  <row index="132">
     <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-graph1-en</cell>
     <cell name="title">GDP per capita and labour productivity in Panama (en)</cell>
@@ -2048,8 +2128,8 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="128">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+  <row index="133">
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-graph45-en</cell>
     <cell name="title">Impact of taxes and transfers on income distribution in Panama, Latin America, the European Union and selected OECD economies (en)</cell>
     <cell name="subtitle"/>
@@ -2064,7 +2144,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="129">
+  <row index="134">
     <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-7-en</cell>
     <cell name="title">Improving the taxation system and promoting private sector involvement to support financing for development (en)</cell>
@@ -2080,7 +2160,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="130">
+  <row index="135">
     <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-7-en</cell>
     <cell name="title">Improving the taxation system and promoting private sector involvement to support financing for development (en)</cell>
@@ -2096,7 +2176,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="131">
+  <row index="136">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph21-en</cell>
     <cell name="title">Income tax plus employee and employer social security contributions, 2013 (en)</cell>
@@ -2112,7 +2192,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="132">
+  <row index="137">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph12-en</cell>
     <cell name="title">Informality and earning, 2016 (en)</cell>
@@ -2128,7 +2208,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="133">
+  <row index="138">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph6-en</cell>
     <cell name="title">Informality enhances inequality (en)</cell>
@@ -2144,8 +2224,8 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="134">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+  <row index="139">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph2-en</cell>
     <cell name="title">Informality rates in Panama and selected Latin American countries (LAC) (en)</cell>
     <cell name="subtitle"/>
@@ -2160,8 +2240,8 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="135">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+  <row index="140">
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-graph13-en</cell>
     <cell name="title">Informality, wages and productivity by province (en)</cell>
     <cell name="subtitle"/>
@@ -2176,8 +2256,8 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="136">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+  <row index="141">
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-graph30-en</cell>
     <cell name="title">Investment at the provincial level (2016) (en)</cell>
     <cell name="subtitle"/>
@@ -2192,7 +2272,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="137">
+  <row index="142">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph5-en</cell>
     <cell name="title">Job quality is worst for informal than formal workers (en)</cell>
@@ -2208,7 +2288,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="138">
+  <row index="143">
     <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-graph4-en</cell>
     <cell name="title">Labour market insecurity due to extreme low pay is higher than in OECD economies (en)</cell>
@@ -2224,7 +2304,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="139">
+  <row index="144">
     <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-en</cell>
     <cell name="title">Multi-Dimensional Review of Panama (en)</cell>
@@ -2240,8 +2320,8 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="140">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+  <row index="145">
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-en</cell>
     <cell name="title">Multi-Dimensional Review of Panama (en)</cell>
     <cell name="subtitle">Volume 2: In-depth Analysis and Recommendations (en)</cell>
@@ -2256,7 +2336,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="141">
+  <row index="146">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-en</cell>
     <cell name="title">Multi-Dimensional Review of Panama (en)</cell>
@@ -2272,8 +2352,8 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="142">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+  <row index="147">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-en</cell>
     <cell name="title">Multi-Dimensional Review of Panama (en)</cell>
     <cell name="subtitle">Volume 2: In-depth Analysis and Recommendations (en)</cell>
@@ -2288,8 +2368,8 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="143">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+  <row index="148">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph28-en</cell>
     <cell name="title">Municipal expenditure as a percentage of GDP and total general government revenue (en)</cell>
     <cell name="subtitle">2009-16 (en)</cell>
@@ -2304,8 +2384,8 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="144">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+  <row index="149">
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-graph35-en</cell>
     <cell name="title">Municipal population levels by number of inhabitants (en)</cell>
     <cell name="subtitle"/>
@@ -2320,7 +2400,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="145">
+  <row index="150">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph32-en</cell>
     <cell name="title">Municipal revenue by category in 2016 (%, provincial level) (en)</cell>
@@ -2336,8 +2416,8 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="146">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+  <row index="151">
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-graph34-en</cell>
     <cell name="title">Number of inhabitants per municipal staff member, 2013 (en)</cell>
     <cell name="subtitle"/>
@@ -2352,8 +2432,8 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="147">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+  <row index="152">
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-4-en</cell>
     <cell name="title">Overview: Towards a sustainable and inclusive high-income country (en)</cell>
     <cell name="subtitle"/>
@@ -2368,7 +2448,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="148">
+  <row index="153">
     <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-4-en</cell>
     <cell name="title">Overview: Towards a sustainable and inclusive high-income country (en)</cell>
@@ -2384,8 +2464,8 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="149">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+  <row index="154">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph42-en</cell>
     <cell name="title">Panama: Tax expenditure evolution and composition by type of benefit (en)</cell>
     <cell name="subtitle"/>
@@ -2400,8 +2480,8 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="150">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+  <row index="155">
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-graph38-en</cell>
     <cell name="title">Panama's tax revenue structure compared with benchmark countries (en)</cell>
     <cell name="subtitle">Percentage of GDP, 2016 (en)</cell>
@@ -2416,7 +2496,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="151">
+  <row index="156">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph22-en</cell>
     <cell name="title">Pension coverage in Latin American, 2015 (en)</cell>
@@ -2432,7 +2512,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="152">
+  <row index="157">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph29-en</cell>
     <cell name="title">Per capita municipal revenues and expenditures, 2016 (USD) (en)</cell>
@@ -2448,8 +2528,8 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="153">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+  <row index="158">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph33-en</cell>
     <cell name="title">Population levels in each category of municipality (2010) (en)</cell>
     <cell name="subtitle"/>
@@ -2464,7 +2544,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="154">
+  <row index="159">
     <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-graph14-en</cell>
     <cell name="title">Productivity and the distribution of labour in Panama, 2016 (en)</cell>
@@ -2480,7 +2560,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="155">
+  <row index="160">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph15-en</cell>
     <cell name="title">Productivity increases are led by within-sector growth with a few exceptions (en)</cell>
@@ -2496,8 +2576,8 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="156">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+  <row index="161">
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-graph50-en</cell>
     <cell name="title">Regulatory and institutional frameworks in Panama vs. Latin American economies (2017) (en)</cell>
     <cell name="subtitle"/>
@@ -2512,7 +2592,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="157">
+  <row index="162">
     <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-graph11-en</cell>
     <cell name="title">Relative productivity and labour informality in Panama, 2016 (en)</cell>
@@ -2528,7 +2608,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="158">
+  <row index="163">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph46-en</cell>
     <cell name="title">Shares of sectoral distribution profits and CIT revenues (en)</cell>
@@ -2544,7 +2624,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="159">
+  <row index="164">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph25-en</cell>
     <cell name="title">Spending in education and quality of education (en)</cell>
@@ -2560,7 +2640,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="160">
+  <row index="165">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-6-en</cell>
     <cell name="title">Strengthening regional development policy to boost inclusive growth (en)</cell>
@@ -2576,8 +2656,8 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="161">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+  <row index="166">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-6-en</cell>
     <cell name="title">Strengthening regional development policy to boost inclusive growth (en)</cell>
     <cell name="subtitle"/>
@@ -2592,8 +2672,8 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="162">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+  <row index="167">
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-graph27-en</cell>
     <cell name="title">Subnational government expenditure is low in Panama (2014) (en)</cell>
     <cell name="subtitle"/>
@@ -2608,7 +2688,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="163">
+  <row index="168">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph40-en</cell>
     <cell name="title">Tax revenue and composition in Panama, LAC and OECD economies, 2016 (en)</cell>
@@ -2624,7 +2704,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="164">
+  <row index="169">
     <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-graph10-en</cell>
     <cell name="title">The employment structure is changing for low-skilled workers (en)</cell>
@@ -2640,7 +2720,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="165">
+  <row index="170">
     <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264302549-graph9-en</cell>
     <cell name="title">The improvement of labour market conditions is slowing (en)</cell>
@@ -2656,7 +2736,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="166">
+  <row index="171">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph41-en</cell>
     <cell name="title">The VAT revenue ratio (VRR): Decomposing the VAT's potential revenue (en)</cell>
@@ -2672,7 +2752,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="167">
+  <row index="172">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264302549-graph36-en</cell>
     <cell name="title">Total revenue and expenditures of the non-financial public sector (NFPS) (en)</cell>
@@ -2688,7 +2768,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="168">
+  <row index="173">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/51c9d18d-en</cell>
     <cell name="title">Working it out (en)</cell>
@@ -2699,12 +2779,28 @@
     <cell name="date of publication">2018-07-06</cell>
     <cell name="embargo date">2018-07-06T08:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-04T02:19:25.0333707Z</cell>
+    <cell name="ilibrary last export date">2018-07-06T02:25:02.1637985Z</cell>
     <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="169">
+  <row index="174">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-ltu-2018-en</cell>
+    <cell name="title">OECD Economic Surveys: Lithuania 2018 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2018-07-05</cell>
+    <cell name="embargo date">2018-07-05T09:00:00Z</cell>
+    <cell name="launch date/time">2018-07-05T09:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="175">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-ltu-2018-en</cell>
     <cell name="title">OECD Economic Surveys: Lithuania 2018 (en)</cell>
@@ -2720,23 +2816,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="170">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_surveys-ltu-2018-en</cell>
-    <cell name="title">OECD Economic Surveys: Lithuania 2018 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2018-07-05</cell>
-    <cell name="embargo date">2018-07-05T09:00:00Z</cell>
-    <cell name="launch date/time">2018-07-05T09:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="171">
+  <row index="176">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9789264302334-2-en</cell>
     <cell name="title">Abbreviations (en)</cell>
@@ -2752,7 +2832,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="172">
+  <row index="177">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9789264302334-2-en</cell>
     <cell name="title">Abbreviations (en)</cell>
@@ -2768,7 +2848,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="173">
+  <row index="178">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9789264302334-en</cell>
     <cell name="title">Agricultural Policies in India (en)</cell>
@@ -2784,7 +2864,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="174">
+  <row index="179">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9789264302334-en</cell>
     <cell name="title">Agricultural Policies in India (en)</cell>
@@ -2800,7 +2880,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="175">
+  <row index="180">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9789264302334-en</cell>
     <cell name="title">Agricultural Policies in India (en)</cell>
@@ -2816,7 +2896,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="176">
+  <row index="181">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9789264302334-en</cell>
     <cell name="title">Agricultural Policies in India (en)</cell>
@@ -2832,122 +2912,26 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="177">
-    <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264302334-3-en</cell>
-    <cell name="title">Executive summary (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-05</cell>
-    <cell name="embargo date">2018-07-05T03:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-29T01:27:25.867Z</cell>
-    <cell name="freepreview last export date">2018-06-28T22:02:47Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
-  </row>
-  <row index="178">
-    <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264302334-3-en</cell>
-    <cell name="title">Executive summary (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-05</cell>
-    <cell name="embargo date">2018-07-05T03:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-29T01:27:25.867Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="179">
-    <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264302334-1-en</cell>
-    <cell name="title">Foreword (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-05</cell>
-    <cell name="embargo date">2018-07-05T03:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-29T01:27:25.867Z</cell>
-    <cell name="freepreview last export date">2018-06-28T22:02:47Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
-  </row>
-  <row index="180">
-    <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264302334-1-en</cell>
-    <cell name="title">Foreword (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-05</cell>
-    <cell name="embargo date">2018-07-05T03:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-29T01:27:25.867Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="181">
-    <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264302334-7-en</cell>
-    <cell name="title">Making India food secure while ensuring farmer income security in an inclusive and sustainable manner (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-05</cell>
-    <cell name="embargo date">2018-07-05T03:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-29T01:27:25.867Z</cell>
-    <cell name="freepreview last export date">2018-06-28T22:02:47Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
-  </row>
   <row index="182">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264302334-7-en</cell>
-    <cell name="title">Making India food secure while ensuring farmer income security in an inclusive and sustainable manner (en)</cell>
+    <cell name="doi">10.1787/9789264302334-3-en</cell>
+    <cell name="title">Executive summary (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-07-05</cell>
     <cell name="embargo date">2018-07-05T03:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-06-29T01:27:25.867Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2018-06-28T22:02:47Z</cell>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="183">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264302334-4-en</cell>
-    <cell name="title">Overview, policy recommendations and conclusions (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-05</cell>
-    <cell name="embargo date">2018-07-05T03:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-06-29T01:27:25.867Z</cell>
-    <cell name="freepreview last export date">2018-06-28T22:02:47Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
-  </row>
-  <row index="184">
-    <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264302334-4-en</cell>
-    <cell name="title">Overview, policy recommendations and conclusions (en)</cell>
+    <cell name="doi">10.1787/9789264302334-3-en</cell>
+    <cell name="title">Executive summary (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">HTML</cell>
@@ -2960,10 +2944,26 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
+  <row index="184">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9789264302334-1-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-07-05</cell>
+    <cell name="embargo date">2018-07-05T03:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-06-29T01:27:25.867Z</cell>
+    <cell name="freepreview last export date">2018-06-28T22:02:47Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
   <row index="185">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264302334-5-en</cell>
-    <cell name="title">The policy context (en)</cell>
+    <cell name="doi">10.1787/9789264302334-1-en</cell>
+    <cell name="title">Foreword (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">HTML</cell>
@@ -2978,8 +2978,8 @@
   </row>
   <row index="186">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264302334-5-en</cell>
-    <cell name="title">The policy context (en)</cell>
+    <cell name="doi">10.1787/9789264302334-7-en</cell>
+    <cell name="title">Making India food secure while ensuring farmer income security in an inclusive and sustainable manner (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
@@ -2994,8 +2994,8 @@
   </row>
   <row index="187">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264302334-6-en</cell>
-    <cell name="title">Trends and evaluation of agricultural policy in India (en)</cell>
+    <cell name="doi">10.1787/9789264302334-7-en</cell>
+    <cell name="title">Making India food secure while ensuring farmer income security in an inclusive and sustainable manner (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">HTML</cell>
@@ -3010,8 +3010,8 @@
   </row>
   <row index="188">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264302334-6-en</cell>
-    <cell name="title">Trends and evaluation of agricultural policy in India (en)</cell>
+    <cell name="doi">10.1787/9789264302334-4-en</cell>
+    <cell name="title">Overview, policy recommendations and conclusions (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
@@ -3025,1299 +3025,83 @@
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="189">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/9789264300309-en</cell>
-    <cell name="title">Delivering Quality Health Services: A Global Imperative (en)</cell>
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9789264302334-4-en</cell>
+    <cell name="title">Overview, policy recommendations and conclusions (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-07-05</cell>
+    <cell name="embargo date">2018-07-05T03:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-06-29T01:27:25.867Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="190">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9789264302334-5-en</cell>
+    <cell name="title">The policy context (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-07-05</cell>
+    <cell name="embargo date">2018-07-05T03:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-06-29T01:27:25.867Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="191">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9789264302334-5-en</cell>
+    <cell name="title">The policy context (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-07-05</cell>
-    <cell name="embargo date">2018-07-04T22:00:00Z</cell>
-    <cell name="launch date/time">2018-07-04T22:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-07-05T02:42:36.127Z</cell>
-    <cell name="freepreview last export date">2018-07-04T22:59:58Z</cell>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="190">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/empl_outlook-2018-en</cell>
-    <cell name="title">OECD Employment Outlook 2018 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time">2018-07-04T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-07-04T02:19:23.543Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="191">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/empl_outlook-2018-en</cell>
-    <cell name="title">OECD Employment Outlook 2018 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time">2018-07-04T09:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="embargo date">2018-07-05T03:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-06-29T01:27:25.867Z</cell>
+    <cell name="freepreview last export date">2018-06-28T22:02:47Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="192">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/66b66381-zh</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Chinese) (en), 2018年OECD就业展望 (zh)</cell>
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9789264302334-6-en</cell>
+    <cell name="title">Trends and evaluation of agricultural policy in India (en)</cell>
     <cell name="subtitle"/>
-    <cell name="language">Chinese</cell>
+    <cell name="language">English</cell>
     <cell name="medium">HTML</cell>
     <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
+    <cell name="date of publication">2018-07-05</cell>
+    <cell name="embargo date">2018-07-05T03:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
+    <cell name="ilibrary last export date">2018-06-29T01:27:25.867Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
+    <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="193">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/66b66381-zh</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Chinese) (en), 2018年OECD就业展望 (zh)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Chinese</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="194">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/66b66381-zh</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Chinese) (en), 2018年OECD就业展望 (zh)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Chinese</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="195">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/d46517a5-cs</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Czech) (en), Výhled zaměstnanosti OECD 2018 (cs)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Czech</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="196">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/d46517a5-cs</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Czech) (en), Výhled zaměstnanosti OECD 2018 (cs)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Czech</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="197">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/d46517a5-cs</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Czech) (en), Výhled zaměstnanosti OECD 2018 (cs)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Czech</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="198">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/a371d6ea-da</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Danish) (en), OECD: Udsigterne for beskæftigelsen 2018 (da)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Danish</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="199">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/a371d6ea-da</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Danish) (en), OECD: Udsigterne for beskæftigelsen 2018 (da)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Danish</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="200">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/a371d6ea-da</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Danish) (en), OECD: Udsigterne for beskæftigelsen 2018 (da)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Danish</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="201">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/26be130e-nl</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Dutch) (en), OESO Werkgelegenheidsvooruitzichten 2018 (nl)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Dutch</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="202">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/26be130e-nl</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Dutch) (en), OESO Werkgelegenheidsvooruitzichten 2018 (nl)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Dutch</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="203">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/26be130e-nl</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Dutch) (en), OESO Werkgelegenheidsvooruitzichten 2018 (nl)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Dutch</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="204">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/60b860f8-en</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in English) (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="205">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/60b860f8-en</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in English) (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="206">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/60b860f8-en</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in English) (en)</cell>
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9789264302334-6-en</cell>
+    <cell name="title">Trends and evaluation of agricultural policy in India (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="207">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/8bb78bc2-et</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Estonian) (en), OECD tööhõiveväljavaated 2018 (et)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Estonian</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="208">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/8bb78bc2-et</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Estonian) (en), OECD tööhõiveväljavaated 2018 (et)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Estonian</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="209">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/8bb78bc2-et</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Estonian) (en), OECD tööhõiveväljavaated 2018 (et)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Estonian</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="210">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/5817c872-fi</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Finnish) (en), OECD:n Työllisyyskatsaus 2018 (fi)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Finnish</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="211">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/5817c872-fi</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Finnish) (en), OECD:n Työllisyyskatsaus 2018 (fi)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Finnish</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="212">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/5817c872-fi</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Finnish) (en), OECD:n Työllisyyskatsaus 2018 (fi)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Finnish</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="213">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/3f400ac1-fr</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in French) (en), Perspectives de l'emploi de l'OCDE 2018 (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="214">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/3f400ac1-fr</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in French) (en), Perspectives de l'emploi de l'OCDE 2018 (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="215">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/3f400ac1-fr</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in French) (en), Perspectives de l'emploi de l'OCDE 2018 (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="216">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/7435d14f-de</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in German) (en), OECD-Beschäftigungsausblick 2018 (de)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">German</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="217">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/7435d14f-de</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in German) (en), OECD-Beschäftigungsausblick 2018 (de)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">German</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="218">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/7435d14f-de</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in German) (en), OECD-Beschäftigungsausblick 2018 (de)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">German</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="219">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/d3bd0b02-el</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Greek) (en), Προοπτικές απασχόλησης του ΟΟΣΑ 2018 (el)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Greek</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="220">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/d3bd0b02-el</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Greek) (en), Προοπτικές απασχόλησης του ΟΟΣΑ 2018 (el)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Greek</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="221">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/d3bd0b02-el</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Greek) (en), Προοπτικές απασχόλησης του ΟΟΣΑ 2018 (el)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Greek</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="222">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/bbeaac31-he</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Hebrew) (en), דוח OECD בנושא תעסוקה לשנת 2018 (he)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Hebrew</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="223">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/bbeaac31-he</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Hebrew) (en), דוח OECD בנושא תעסוקה לשנת 2018 (he)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Hebrew</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="224">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/bbeaac31-he</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Hebrew) (en), דוח OECD בנושא תעסוקה לשנת 2018 (he)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Hebrew</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="225">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/b8a877dd-hu</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Hungarian) (en), OECD foglalkoztatási kilátások 2018 (hu)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Hungarian</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="226">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/b8a877dd-hu</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Hungarian) (en), OECD foglalkoztatási kilátások 2018 (hu)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Hungarian</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="227">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/b8a877dd-hu</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Hungarian) (en), OECD foglalkoztatási kilátások 2018 (hu)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Hungarian</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="228">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/34263756-is</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Icelandic) (en), Horfur í atvinnumálum innan OECD 2018 (is)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Icelandic</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="229">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/34263756-is</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Icelandic) (en), Horfur í atvinnumálum innan OECD 2018 (is)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Icelandic</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="230">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/34263756-is</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Icelandic) (en), Horfur í atvinnumálum innan OECD 2018 (is)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Icelandic</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="231">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/9519fcae-it</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Italian) (en), Prospettive dell’occupazione OCSE 2018 (it)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Italian</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="232">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/9519fcae-it</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Italian) (en), Prospettive dell’occupazione OCSE 2018 (it)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Italian</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="233">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/9519fcae-it</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Italian) (en), Prospettive dell’occupazione OCSE 2018 (it)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Italian</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="234">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/d3a816ef-ja</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Japanese) (en), OECD雇用アウトルック2018 (ja)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Japanese</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="235">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/d3a816ef-ja</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Japanese) (en), OECD雇用アウトルック2018 (ja)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Japanese</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="236">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/d3a816ef-ja</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Japanese) (en), OECD雇用アウトルック2018 (ja)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Japanese</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="237">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/36ed6d79-ko</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Korean) (en), 2018년 OECD 고용 전망 (ko)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Korean</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="238">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/36ed6d79-ko</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Korean) (en), 2018년 OECD 고용 전망 (ko)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Korean</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="239">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/36ed6d79-ko</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Korean) (en), 2018년 OECD 고용 전망 (ko)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Korean</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="240">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/32e5af3a-lv</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Latvian) (en), OECD Nodarbinātības apskats 2018 (lv)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Latvian</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-04T22:59:58Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="241">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/32e5af3a-lv</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Latvian) (en), OECD Nodarbinātības apskats 2018 (lv)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Latvian</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="242">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/32e5af3a-lv</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Latvian) (en), OECD Nodarbinātības apskats 2018 (lv)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Latvian</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="243">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/160a8c10-no</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Norwegian) (en), Utsikter for arbeidsmarkedet i OECD – 2018 (no)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Norwegian</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="244">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/160a8c10-no</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Norwegian) (en), Utsikter for arbeidsmarkedet i OECD – 2018 (no)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Norwegian</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="245">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/160a8c10-no</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Norwegian) (en), Utsikter for arbeidsmarkedet i OECD – 2018 (no)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Norwegian</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="246">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/c4b8449e-pl</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Polish) (en), Przegląd OECD "Zatrudnienie w roku 2018" (pl)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Polish</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="247">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/c4b8449e-pl</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Polish) (en), Przegląd OECD "Zatrudnienie w roku 2018" (pl)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Polish</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="248">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/c4b8449e-pl</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Polish) (en), Przegląd OECD "Zatrudnienie w roku 2018" (pl)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Polish</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="249">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/71e73746-pt</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Portuguese) (en), Perspetivas da OCDE sobre o Emprego para 2018 (pt)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Portuguese</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="250">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/71e73746-pt</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Portuguese) (en), Perspetivas da OCDE sobre o Emprego para 2018 (pt)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Portuguese</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="251">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/71e73746-pt</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Portuguese) (en), Perspetivas da OCDE sobre o Emprego para 2018 (pt)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Portuguese</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="252">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/816a47dc-ru</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Russian) (en), Перспективы занятости ОЭСР 2018 (ru)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Russian</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="253">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/816a47dc-ru</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Russian) (en), Перспективы занятости ОЭСР 2018 (ru)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Russian</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="254">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/816a47dc-ru</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Russian) (en), Перспективы занятости ОЭСР 2018 (ru)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Russian</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="255">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/609ff989-sk</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Slovak) (en), Výhľad OECD v oblasti zamestnanosti na rok 2018 (sk)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Slovak</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="256">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/609ff989-sk</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Slovak) (en), Výhľad OECD v oblasti zamestnanosti na rok 2018 (sk)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Slovak</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="257">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/609ff989-sk</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Slovak) (en), Výhľad OECD v oblasti zamestnanosti na rok 2018 (sk)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Slovak</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="258">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/2fe787f7-sl</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Slovenian) (en), Pregled zaposlovanja OECD 2018 (sl)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Slovenian</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="259">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/2fe787f7-sl</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Slovenian) (en), Pregled zaposlovanja OECD 2018 (sl)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Slovenian</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="260">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/2fe787f7-sl</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Slovenian) (en), Pregled zaposlovanja OECD 2018 (sl)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Slovenian</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="261">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/b3846094-es</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Spanish) (en), Perspectivas del empleo de la OCDE 2018 (es)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="262">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/b3846094-es</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Spanish) (en), Perspectivas del empleo de la OCDE 2018 (es)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="263">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/b3846094-es</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Spanish) (en), Perspectivas del empleo de la OCDE 2018 (es)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="264">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/98b771e5-sv</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Swedish) (en), OECD:s sysselsättningsöversikt 2018 (sv)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Swedish</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="265">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/98b771e5-sv</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Swedish) (en), OECD:s sysselsättningsöversikt 2018 (sv)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Swedish</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="266">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/98b771e5-sv</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Swedish) (en), OECD:s sysselsättningsöversikt 2018 (sv)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Swedish</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="267">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/fff6af05-tr</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Turkish) (en), OECD 2018 İstihdam Görünümü (tr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Turkish</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date">2018-07-02T22:09:57Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="268">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Economics Department</cell>
-    <cell name="doi">10.1787/fff6af05-tr</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Turkish) (en), OECD 2018 İstihdam Görünümü (tr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Turkish</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="269">
-    <cell name="directorate">Economics Department, Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/fff6af05-tr</cell>
-    <cell name="title">OECD Employment Outlook 2018 (Summary in Turkish) (en), OECD 2018 İstihdam Görünümü (tr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Turkish</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-04</cell>
-    <cell name="embargo date">2018-07-04T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-03T01:35:58.2181712Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
+    <cell name="date of publication">2018-07-05</cell>
+    <cell name="embargo date">2018-07-05T03:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-06-29T01:27:25.867Z</cell>
+    <cell name="freepreview last export date">2018-06-28T22:02:47Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
   </row>
 </report>

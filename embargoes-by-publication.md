@@ -1,48 +1,6 @@
-# OECD publication embargoes (12 embargoes)
+# OECD publication embargoes (13 embargoes)
 
-*Data generated on Friday 6 July 2018 at 2:53*
-
-------
-
-## [Working it out - Career Guidance and Employer Engagement](https://doi.org/10.1787/51c9d18d-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 6 July 2018 at 10:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 4 July 2018 at 4:19
-- [x] Exported to Keepeek Friday 6 July 2018 at 0:39
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Multi-Dimensional Review of Panama - Volume 2: In-depth Analysis and Recommendations](https://doi.org/10.1787/9789264302549-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 6 July 2018 at 18:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 5 July 2018 at 4:42
-- [x] Exported to Keepeek Wednesday 4 July 2018 at 0:40
-
-### Additional Information
-
-* Directorate: *Development Centre, Public Affairs and Communications Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Saturday 7 July 2018 at 3:55*
 
 ------
 
@@ -67,6 +25,27 @@ Monday 9 July 2018 at 11:00 | no launch event
 
 ------
 
+## [How is participation in sports related to students’ performance and well-being?](https://doi.org/10.1787/e124db26-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 10 July 2018 at 6:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
 ## [Vers une croissance plus inclusive en Tunisie](https://doi.org/10.1787/55c7e0c4-fr)
 
 Embargo date | Launch date
@@ -75,7 +54,7 @@ Wednesday 11 July 2018 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 6 July 2018 at 4:25
 - [x] Exported to Keepeek Friday 6 July 2018 at 0:39
 
 ### Additional Information
@@ -88,6 +67,48 @@ Wednesday 11 July 2018 at 2:00 | no launch event
 
 ------
 
+## [Africa's Development Dynamics 2018 - Growth, Jobs and Inequalities](https://doi.org/10.1787/9789264302501-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 11 July 2018 at 7:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 29 June 2018 at 3:27
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [Dynamiques du développement en Afrique 2018 - Croissance, emploi et inégalités](https://doi.org/10.1787/9789264302525-fr)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 11 July 2018 at 7:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 29 June 2018 at 3:27
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
 ## [How does the earnings advantage of tertiary-educated workers evolve across generations?](https://doi.org/10.1787/3093362c-en)
 
 Embargo date | Launch date
@@ -96,7 +117,7 @@ Thursday 12 July 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 6 July 2018 at 4:25
 - [x] Exported to Keepeek Friday 6 July 2018 at 0:39
 
 ### Additional Information
@@ -159,7 +180,7 @@ Monday 16 July 2018 at 14:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 30 June 2018 at 5:21
+- [x] Exported to iLibrary Friday 6 July 2018 at 4:25
 - [x] Exported to Keepeek Friday 6 July 2018 at 0:39
 
 ### Additional Information
@@ -248,7 +269,7 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Public Affairs and Communications Directorate, Development Centre*
+* Directorate: *Development Centre, Public Affairs and Communications Directorate*
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
