@@ -4,110 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264302334-en
-SUMMARY:Agricultural Policies in India
-DESCRIPTION:Directorate: Trade and Agriculture Direc
- torate\nLanguage: English\nDOI: https://
- doi.org/10.1787/9789264302334-en\nPublic
- ation type: Book\nReleased as: HTML, PDF
- , Paperback, ePub.\n\niLibrary export: 3
-  July 2018, 1:35 Paris time (GMT+00:00)\
- nFreepreview export: 28 June 2018, 22:02
-  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180707T035557Z
-DTSTART:20180705T030000Z
-DTEND:20180705T031500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Agricultural Policies in India
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/eco_surveys-ltu-2018-en
-SUMMARY:OECD Economic Surveys: Lithuania 2018
-DESCRIPTION:Directorate: Economics Department\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/eco_surveys-ltu-2018-en\nPublication 
- type: Economic survey\nReleased as: Pape
- rback, PDF.\n\niLibrary export: 4 July 2
- 018, 2:19 Paris time (GMT+00:00)\nFreepr
- eview export: 3 July 2018, 22:40 Paris t
- ime (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180707T035557Z
-DTSTART:20180705T090000Z
-DTEND:20180705T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Economic Surveys: Lithuan
- ia 2018
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/51c9d18d-en
-SUMMARY:Working it out - Career Guidance and Emp
- loyer Engagement
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills\nLanguage: English\nDOI: https
- ://doi.org/10.1787/51c9d18d-en\nPublicat
- ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: 6 July 2018, 2:25
-  Paris time (GMT+00:00)\nFreepreview exp
- ort: 5 July 2018, 22:39 Paris time (GMT+
- 00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20180707T035557Z
-DTSTART:20180706T080000Z
-DTEND:20180706T081500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Working it out - Career Guidan
- ce and Employer Engagement
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264302549-en
-SUMMARY:Multi-Dimensional Review of Panama - Vol
- ume 2: In-depth Analysis and Recommendat
- ions
-DESCRIPTION:Directorate: Development Centre, Public 
- Affairs and Communications Directorate\n
- Language: English\nDOI: https://doi.org/
- 10.1787/9789264302549-en\nPublication ty
- pe: Book\nReleased as: PDF, HTML, Paperb
- ack, ePub.\n\niLibrary export: 5 July 20
- 18, 2:42 Paris time (GMT+00:00)\nFreepre
- view export: 3 July 2018, 22:40 Paris ti
- me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180707T035557Z
-DTSTART:20180706T160000Z
-DTEND:20180706T161500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Multi-Dimensional Review of Pa
- nama - Volume 2: In-depth Analysis and R
- ecommendations
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264302884-fr
 SUMMARY:Dialogue Maroc-OCDE sur les politiques d
  e développement territorial - Enjeux et 
@@ -122,7 +18,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  42 Paris time (GMT+00:00)\nFreepreview e
  xport: 4 July 2018, 22:59 Paris time (GM
  T+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180707T035557Z
+DTSTAMP:20180710T032246Z
 DTSTART:20180709T090000Z
 DTEND:20180709T091500Z
 TRANSP:TRANSPARENT
@@ -146,9 +42,10 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/e124db26-en\nPublicat
  ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: never\nFreeprevie
- w export: never\nFTI loaded: no.
-DTSTAMP:20180707T035557Z
+ F.\n\niLibrary export: 7 July 2018, 3:33
+  Paris time (GMT+00:00)\nFreepreview exp
+ ort: never\nFTI loaded: no.
+DTSTAMP:20180710T032246Z
 DTSTART:20180710T040000Z
 DTEND:20180710T041500Z
 TRANSP:TRANSPARENT
@@ -172,10 +69,10 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  7/55c7e0c4-fr\nPublication type: Working
   paper\nReleased as: PDF.\n\niLibrary ex
  port: 6 July 2018, 2:25 Paris time (GMT+
- 00:00)\nFreepreview export: 5 July 2018,
-  22:39 Paris time (GMT+00:00)\nFTI loade
+ 00:00)\nFreepreview export: 9 July 2018,
+  22:52 Paris time (GMT+00:00)\nFTI loade
  d: ✓, ✓.
-DTSTAMP:20180707T035557Z
+DTSTAMP:20180710T032246Z
 DTSTART:20180711T000000Z
 DTEND:20180711T001500Z
 TRANSP:TRANSPARENT
@@ -197,10 +94,10 @@ DESCRIPTION:Directorate: Development Centre\nLanguag
  e: English\nDOI: https://doi.org/10.1787
  /9789264302501-en\nPublication type: Sta
  nd-alone monograph\nReleased as: Paperba
- ck, PDF.\n\niLibrary export: 29 June 201
- 8, 1:27 Paris time (GMT+00:00)\nFreeprev
- iew export: never\nFTI loaded: no.
-DTSTAMP:20180707T035557Z
+ ck, PDF.\n\niLibrary export: 7 July 2018
+ , 3:33 Paris time (GMT+00:00)\nFreeprevi
+ ew export: never\nFTI loaded: ✓.
+DTSTAMP:20180710T032246Z
 DTSTART:20180711T050000Z
 DTEND:20180711T051500Z
 TRANSP:TRANSPARENT
@@ -222,10 +119,10 @@ DESCRIPTION:Directorate: Development Centre\nLanguag
  e: French\nDOI: https://doi.org/10.1787/
  9789264302525-fr\nPublication type: Stan
  d-alone monograph\nReleased as: Paperbac
- k, PDF.\n\niLibrary export: 29 June 2018
- , 1:27 Paris time (GMT+00:00)\nFreeprevi
- ew export: never\nFTI loaded: no.
-DTSTAMP:20180707T035557Z
+ k, PDF.\n\niLibrary export: 7 July 2018,
+  3:33 Paris time (GMT+00:00)\nFreeprevie
+ w export: never\nFTI loaded: ✓.
+DTSTAMP:20180710T032246Z
 DTSTART:20180711T050000Z
 DTEND:20180711T051500Z
 TRANSP:TRANSPARENT
@@ -237,6 +134,59 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Dynamiques du développement en
   Afrique 2018 - Croissance, emploi et in
  égalités
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/b4f4e03e-en
+SUMMARY:The Long View - Scenarios for the World 
+ Economy to 2060
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/b4f4e03e-en\nPublication type: Workin
+ g paper\nReleased as: PDF.\n\niLibrary e
+ xport: never\nFreepreview export: 9 July
+  2018, 22:52 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20180710T032246Z
+DTSTART:20180712T080000Z
+DTEND:20180712T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: The Long View - Scenarios for 
+ the World Economy to 2060
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264302488-en
+SUMMARY:Fiscal Decentralisation and Inclusive Gr
+ owth
+DESCRIPTION:Directorate: Directorate for Public Gove
+ rnance, Economics Department, Centre for
+  Entrepreneurship, SMEs and Local Develo
+ pment, Centre for Tax Policy and Adminis
+ tration\nLanguage: English\nDOI: https:/
+ /doi.org/10.1787/9789264302488-en\nPubli
+ cation type: Book\nReleased as: Paperbac
+ k, PDF.\n\niLibrary export: 6 July 2018,
+  2:25 Paris time (GMT+00:00)\nFreeprevie
+ w export: never\nFTI loaded: no.
+DTSTAMP:20180710T032246Z
+DTSTART:20180712T090000Z
+DTEND:20180712T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Fiscal Decentralisation and In
+ clusive Growth
 END:VALARM
 END:VEVENT
 
@@ -253,7 +203,7 @@ DESCRIPTION:Directorate: Directorate for Education a
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 5 July 2018, 22:39 Paris time (GMT+
  00:00)\nFTI loaded: ✓.
-DTSTAMP:20180707T035557Z
+DTSTAMP:20180710T032246Z
 DTSTART:20180712T090000Z
 DTEND:20180712T091500Z
 TRANSP:TRANSPARENT
@@ -278,7 +228,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  rback, PDF.\n\niLibrary export: 5 July 2
  018, 2:42 Paris time (GMT+00:00)\nFreepr
  eview export: never\nFTI loaded: no.
-DTSTAMP:20180707T035557Z
+DTSTAMP:20180710T032246Z
 DTSTART:20180713T090000Z
 DTEND:20180713T091500Z
 TRANSP:TRANSPARENT
@@ -303,9 +253,9 @@ DESCRIPTION:Directorate: Economics Department\nLangu
   Paperback.\n\niLibrary export: 28 June 
  2018, 2:49 Paris time (GMT+00:00)\nFreep
  review export: never\nFTI loaded: no.
-DTSTAMP:20180707T035557Z
-DTSTART:20180716T090000Z
-DTEND:20180716T091500Z
+DTSTAMP:20180710T032246Z
+DTSTART:20180716T120000Z
+DTEND:20180716T121500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT72H
@@ -324,12 +274,12 @@ SUMMARY:OECD Environmental Performance Reviews:
 DESCRIPTION:Directorate: Environment Directorate\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/9789264300958-en\nPublication type
- : Book\nReleased as: Paperback, ePub, PD
- F, HTML.\n\niLibrary export: 6 July 2018
+ : Book\nReleased as: Paperback, ePub, HT
+ ML, PDF.\n\niLibrary export: 6 July 2018
  , 2:25 Paris time (GMT+00:00)\nFreeprevi
  ew export: 5 July 2018, 22:39 Paris time
   (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180707T035557Z
+DTSTAMP:20180710T032246Z
 DTSTART:20180716T120000Z
 DTEND:20180716T121500Z
 TRANSP:TRANSPARENT
@@ -344,23 +294,47 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/9789264302075-en
+SUMMARY:States of Fragility 2018
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: English\nDOI: https
+ ://doi.org/10.1787/9789264302075-en\nPub
+ lication type: Stand-alone monograph\nRe
+ leased as: PDF, Paperback.\n\niLibrary e
+ xport: 7 July 2018, 3:33 Paris time (GMT
+ +00:00)\nFreepreview export: never\nFTI 
+ loaded: no.
+DTSTAMP:20180710T032246Z
+DTSTART:20180717T150000Z
+DTEND:20180717T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: States of Fragility 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/eco_surveys-can-2018-fr
 SUMMARY:Études économiques de l'OCDE : Canada 20
  18
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: French\nDOI: https://doi.org/10.178
  7/eco_surveys-can-2018-fr\nPublication t
- ype: Economic survey\nReleased as: PDF, 
- Paperback, ePub.\n\niLibrary export: 27 
+ ype: Economic survey\nReleased as: Paper
+ back, ePub, PDF.\n\niLibrary export: 27 
  June 2018, 1:56 Paris time (GMT+00:00)\n
  Freepreview export: never\nFTI loaded: n
  o.
-DTSTAMP:20180707T035557Z
-DTSTART:20180718T090000Z
-DTEND:20180718T091500Z
+DTSTAMP:20180710T032246Z
+DTSTART:20180723T140000Z
+DTEND:20180723T141500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT72H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
@@ -375,17 +349,17 @@ SUMMARY:OECD Economic Surveys: Canada 2018
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-can-2018-en\nPublication 
- type: Economic survey\nReleased as: PDF,
-  Paperback, ePub.\n\niLibrary export: 27
+ type: Economic survey\nReleased as: Pape
+ rback, ePub, PDF.\n\niLibrary export: 27
   June 2018, 1:56 Paris time (GMT+00:00)\
  nFreepreview export: never\nFTI loaded: 
  no.
-DTSTAMP:20180707T035557Z
-DTSTART:20180718T090000Z
-DTEND:20180718T091500Z
+DTSTAMP:20180710T032246Z
+DTSTART:20180723T140000Z
+DTEND:20180723T141500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT72H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
@@ -399,16 +373,16 @@ UID:10.1787/9789264292048-en
 SUMMARY:Supporting Entrepreneurship and Innovati
  on in Higher Education in The Netherland
  s
-DESCRIPTION:Directorate: Centre for Entrepreneurship
- , SMEs and Local Development, Directorat
- e for Education and Skills\nLanguage: En
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills, Centre for Entrepreneurship, 
+ SMEs and Local Development\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264292048-en\nPublication type: Book\nRe
  leased as: ePub, PDF, Paperback.\n\niLib
  rary export: 19 June 2018, 20:07 Paris t
  ime (GMT+00:00)\nFreepreview export: nev
  er\nFTI loaded: no.
-DTSTAMP:20180707T035557Z
+DTSTAMP:20180710T032246Z
 DTSTART:20180907T090000Z
 DTEND:20180907T091500Z
 TRANSP:TRANSPARENT
@@ -431,11 +405,11 @@ DESCRIPTION:Directorate: Development Centre, Public
  Affairs and Communications Directorate\n
  Language: French\nDOI: https://doi.org/1
  0.1787/9789264300347-fr\nPublication typ
- e: Book\nReleased as: PDF, Paperback, eP
- ub.\n\niLibrary export: 27 June 2018, 1:
- 56 Paris time (GMT+00:00)\nFreepreview e
- xport: never\nFTI loaded: no.
-DTSTAMP:20180707T035557Z
+ e: Book\nReleased as: Paperback, ePub, H
+ TML, PDF.\n\niLibrary export: 7 July 201
+ 8, 3:33 Paris time (GMT+00:00)\nFreeprev
+ iew export: never\nFTI loaded: no.
+DTSTAMP:20180710T032246Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
