@@ -1,48 +1,6 @@
-# OECD publication embargoes (15 embargoes)
+# OECD publication embargoes (21 embargoes)
 
-*Data generated on Tuesday 10 July 2018 at 3:22*
-
-------
-
-## [How is participation in sports related to students’ performance and well-being?](https://doi.org/10.1787/e124db26-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 10 July 2018 at 6:00 | no launch event
-
-### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Saturday 7 July 2018 at 5:33
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Vers une croissance plus inclusive en Tunisie](https://doi.org/10.1787/55c7e0c4-fr)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 11 July 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 6 July 2018 at 4:25
-- [x] Exported to Keepeek Tuesday 10 July 2018 at 0:52
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Wednesday 11 July 2018 at 3:09*
 
 ------
 
@@ -54,14 +12,14 @@ Wednesday 11 July 2018 at 7:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 7 July 2018 at 5:33
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
+- [x] Exported to Keepeek Wednesday 11 July 2018 at 0:51
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
@@ -71,24 +29,24 @@ Wednesday 11 July 2018 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 11 July 2018 at 7:00 | no launch event
+Wednesday 11 July 2018 at 9:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 7 July 2018 at 5:33
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
+- [x] Exported to Keepeek Wednesday 11 July 2018 at 0:51
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
 ------
 
-## [The Long View - Scenarios for the World Economy to 2060](https://doi.org/10.1787/b4f4e03e-en)
+## [The Long View: Scenarios for the World Economy to 2060](https://doi.org/10.1787/b4f4e03e-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -96,8 +54,8 @@ Thursday 12 July 2018 at 10:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [x] Exported to Keepeek Tuesday 10 July 2018 at 0:52
+- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
+- [x] Exported to Keepeek Wednesday 11 July 2018 at 0:51
 
 ### Additional Information
 
@@ -116,15 +74,15 @@ Embargo date | Launch date
 Thursday 12 July 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 6 July 2018 at 4:25
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
+- [x] Exported to Keepeek Wednesday 11 July 2018 at 0:51
 
 ### Additional Information
 
-* Directorate: *Directorate for Public Governance, Economics Department, Centre for Entrepreneurship, SMEs and Local Development, Centre for Tax Policy and Administration*
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Centre for Tax Policy and Administration, Directorate for Public Governance, Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -172,6 +130,153 @@ Friday 13 July 2018 at 11:00 | no launch event
 
 ------
 
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Guernsey 2018 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9789264302730-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 16 July 2018 at 12:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
+- [x] Exported to Keepeek Wednesday 11 July 2018 at 0:51
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Indonesia 2018 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9789264302754-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 16 July 2018 at 12:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
+- [x] Exported to Keepeek Wednesday 11 July 2018 at 0:51
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Japan 2018 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9789264302778-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 16 July 2018 at 12:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
+- [x] Exported to Keepeek Wednesday 11 July 2018 at 0:51
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Kazakhstan 2018 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9789264302792-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 16 July 2018 at 12:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
+- [x] Exported to Keepeek Wednesday 11 July 2018 at 0:51
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: San Marino 2018 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9789264302839-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 16 July 2018 at 12:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
+- [x] Exported to Keepeek Wednesday 11 July 2018 at 0:51
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: The Philippines 2018 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9789264303317-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 16 July 2018 at 12:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
+- [x] Exported to Keepeek Wednesday 11 July 2018 at 0:51
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: United States 2018 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9789264302853-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 16 July 2018 at 12:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
+- [x] Exported to Keepeek Wednesday 11 July 2018 at 0:51
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Czech Republic 2018](https://doi.org/10.1787/eco_surveys-cze-2018-en)
 
 Embargo date | Launch date
@@ -180,7 +285,7 @@ Monday 16 July 2018 at 14:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 28 June 2018 at 4:49
+- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -222,7 +327,7 @@ Tuesday 17 July 2018 at 17:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Saturday 7 July 2018 at 5:33
+- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -235,6 +340,27 @@ Tuesday 17 July 2018 at 17:00 | no launch event
 
 ------
 
+## [OECD Reviews of School Resources: Colombia 2018](https://doi.org/10.1787/9789264303751-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 18 July 2018 at 22:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
 ## [Études économiques de l'OCDE : Canada 2018](https://doi.org/10.1787/eco_surveys-can-2018-fr)
 
 Embargo date | Launch date
@@ -243,7 +369,7 @@ Monday 23 July 2018 at 16:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 27 June 2018 at 3:56
+- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -264,7 +390,7 @@ Monday 23 July 2018 at 16:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 27 June 2018 at 3:56
+- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -290,7 +416,7 @@ Friday 7 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
