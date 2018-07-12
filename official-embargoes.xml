@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2018-07-11T03:09:14.4234441+02:00" count="138">
+<report name="official-embargoes" generated="2018-07-12T02:04:54.8867359+02:00" count="132">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -49,7 +49,7 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="3">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-fr</cell>
     <cell name="title">Examen multidimensionnel du Sénégal (fr)</cell>
     <cell name="subtitle">Volume 3. De l'analyse à l'action (fr)</cell>
@@ -118,6 +118,22 @@
     <cell name="title">Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2018-09-07</cell>
+    <cell name="embargo date">2018-09-07T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-06-19T20:07:13.433Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="8">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/9789264292048-en</cell>
+    <cell name="title">Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-09-07</cell>
@@ -128,29 +144,13 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="8">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_surveys-can-2018-fr</cell>
-    <cell name="title">Études économiques de l'OCDE : Canada 2018 (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2018-07-18</cell>
-    <cell name="embargo date">2018-07-23T14:00:00Z</cell>
-    <cell name="launch date/time">2018-07-23T14:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-  </row>
   <row index="9">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-can-2018-fr</cell>
     <cell name="title">Études économiques de l'OCDE : Canada 2018 (fr)</cell>
     <cell name="subtitle"/>
     <cell name="language">French</cell>
-    <cell name="medium">ePub</cell>
+    <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2018-07-18</cell>
     <cell name="embargo date">2018-07-23T14:00:00Z</cell>
@@ -166,6 +166,22 @@
     <cell name="title">Études économiques de l'OCDE : Canada 2018 (fr)</cell>
     <cell name="subtitle"/>
     <cell name="language">French</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2018-07-18</cell>
+    <cell name="embargo date">2018-07-23T14:00:00Z</cell>
+    <cell name="launch date/time">2018-07-23T14:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="11">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-can-2018-fr</cell>
+    <cell name="title">Études économiques de l'OCDE : Canada 2018 (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-07-18</cell>
@@ -176,29 +192,13 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="11">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_surveys-can-2018-en</cell>
-    <cell name="title">OECD Economic Surveys: Canada 2018 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2018-07-18</cell>
-    <cell name="embargo date">2018-07-23T14:00:00Z</cell>
-    <cell name="launch date/time">2018-07-23T14:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-  </row>
   <row index="12">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-can-2018-en</cell>
     <cell name="title">OECD Economic Surveys: Canada 2018 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">ePub</cell>
+    <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2018-07-18</cell>
     <cell name="embargo date">2018-07-23T14:00:00Z</cell>
@@ -214,6 +214,22 @@
     <cell name="title">OECD Economic Surveys: Canada 2018 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2018-07-18</cell>
+    <cell name="embargo date">2018-07-23T14:00:00Z</cell>
+    <cell name="launch date/time">2018-07-23T14:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="14">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-can-2018-en</cell>
+    <cell name="title">OECD Economic Surveys: Canada 2018 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-07-18</cell>
@@ -224,28 +240,28 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="14">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/9789264303751-en</cell>
-    <cell name="title">OECD Reviews of School Resources: Colombia 2018 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-07-18</cell>
-    <cell name="embargo date">2018-07-18T20:00:00Z</cell>
-    <cell name="launch date/time">2018-07-18T20:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-07-10T03:03:20.477Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
   <row index="15">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264303751-en</cell>
     <cell name="title">OECD Reviews of School Resources: Colombia 2018 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-07-18</cell>
+    <cell name="embargo date">2018-07-18T20:00:00Z</cell>
+    <cell name="launch date/time">2018-07-18T20:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-07-11T02:49:17.77Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="16">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/9789264303751-en</cell>
+    <cell name="title">OECD Reviews of School Resources: Colombia 2018 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2018-07-18</cell>
@@ -256,40 +272,72 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="16">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264302075-en</cell>
-    <cell name="title">States of Fragility 2018 (en)</cell>
+  <row index="17">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/5cb47f33-en</cell>
+    <cell name="title">An empirical investigation on the drivers of income redistribution across OECD countries (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-07-17</cell>
-    <cell name="embargo date">2018-07-17T15:00:00Z</cell>
-    <cell name="launch date/time">2018-07-17T15:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-07-10T03:03:20.477Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="17">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264302075-en</cell>
-    <cell name="title">States of Fragility 2018 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2018-07-17</cell>
-    <cell name="embargo date">2018-07-17T15:00:00Z</cell>
-    <cell name="launch date/time">2018-07-17T15:00:00Z</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-07-18</cell>
+    <cell name="embargo date">2018-07-18T00:00:00Z</cell>
+    <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
+    <cell name="freepreview last export date">2018-07-11T22:02:28Z</cell>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="18">
     <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/885727c3-en</cell>
+    <cell name="title">The quantification of structural reforms (en)</cell>
+    <cell name="subtitle">Introducing country-specific policy effects (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-07-18</cell>
+    <cell name="embargo date">2018-07-18T00:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date">2018-07-11T22:02:28Z</cell>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="19">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/9789264302075-en</cell>
+    <cell name="title">States of Fragility 2018 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-07-17</cell>
+    <cell name="embargo date">2018-07-17T15:00:00Z</cell>
+    <cell name="launch date/time">2018-07-17T15:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-07-10T03:03:20.477Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="20">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/9789264302075-en</cell>
+    <cell name="title">States of Fragility 2018 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2018-07-17</cell>
+    <cell name="embargo date">2018-07-17T15:00:00Z</cell>
+    <cell name="launch date/time">2018-07-17T15:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="21">
+    <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-cze-2018-en</cell>
     <cell name="title">OECD Economic Surveys: Czech Republic 2018 (en)</cell>
     <cell name="subtitle"/>
@@ -304,7 +352,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="19">
+  <row index="22">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-cze-2018-en</cell>
     <cell name="title">OECD Economic Surveys: Czech Republic 2018 (en)</cell>
@@ -320,7 +368,7 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="20">
+  <row index="23">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Czech Republic 2018 (en)</cell>
@@ -336,7 +384,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="21">
+  <row index="24">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Czech Republic 2018 (en)</cell>
@@ -352,7 +400,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="22">
+  <row index="25">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Czech Republic 2018 (en)</cell>
@@ -368,7 +416,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="23">
+  <row index="26">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Czech Republic 2018 (en)</cell>
@@ -384,58 +432,10 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="24">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9789264302730-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Guernsey 2018 (Second Round) (en)</cell>
-    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-16</cell>
-    <cell name="embargo date">2018-07-16T10:00:00Z</cell>
-    <cell name="launch date/time">2018-07-16T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-07-10T03:03:20.477Z</cell>
-    <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="25">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9789264302730-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Guernsey 2018 (Second Round) (en)</cell>
-    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-07-16</cell>
-    <cell name="embargo date">2018-07-16T10:00:00Z</cell>
-    <cell name="launch date/time">2018-07-16T10:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="26">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9789264302754-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Indonesia 2018 (Second Round) (en)</cell>
-    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-07-16</cell>
-    <cell name="embargo date">2018-07-16T10:00:00Z</cell>
-    <cell name="launch date/time">2018-07-16T10:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
   <row index="27">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9789264302754-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Indonesia 2018 (Second Round) (en)</cell>
+    <cell name="doi">10.1787/9789264302730-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Guernsey 2018 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
@@ -443,15 +443,15 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T10:00:00Z</cell>
     <cell name="launch date/time">2018-07-16T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-07-10T03:03:20.477Z</cell>
+    <cell name="ilibrary last export date">2018-07-11T02:49:17.77Z</cell>
     <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="28">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9789264302778-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Japan 2018 (Second Round) (en)</cell>
+    <cell name="doi">10.1787/9789264302730-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Guernsey 2018 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
@@ -466,8 +466,8 @@
   </row>
   <row index="29">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9789264302778-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Japan 2018 (Second Round) (en)</cell>
+    <cell name="doi">10.1787/9789264302754-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Indonesia 2018 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
@@ -475,31 +475,31 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T10:00:00Z</cell>
     <cell name="launch date/time">2018-07-16T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-07-10T03:03:20.477Z</cell>
+    <cell name="ilibrary last export date">2018-07-11T02:49:17.77Z</cell>
     <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="30">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9789264302792-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Kazakhstan 2018 (Second Round) (en)</cell>
+    <cell name="doi">10.1787/9789264302754-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Indonesia 2018 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T10:00:00Z</cell>
     <cell name="launch date/time">2018-07-16T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-07-10T03:03:20.477Z</cell>
-    <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
+    <cell name="fti loaded?"/>
   </row>
   <row index="31">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9789264302792-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Kazakhstan 2018 (Second Round) (en)</cell>
+    <cell name="doi">10.1787/9789264302778-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Japan 2018 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
@@ -514,8 +514,8 @@
   </row>
   <row index="32">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9789264302839-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: San Marino 2018 (Second Round) (en)</cell>
+    <cell name="doi">10.1787/9789264302778-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Japan 2018 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
@@ -523,15 +523,15 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T10:00:00Z</cell>
     <cell name="launch date/time">2018-07-16T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-07-10T03:03:20.477Z</cell>
+    <cell name="ilibrary last export date">2018-07-11T02:49:17.77Z</cell>
     <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="33">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9789264302839-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: San Marino 2018 (Second Round) (en)</cell>
+    <cell name="doi">10.1787/9789264302792-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Kazakhstan 2018 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
@@ -546,8 +546,8 @@
   </row>
   <row index="34">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9789264303317-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: The Philippines 2018 (Second Round) (en)</cell>
+    <cell name="doi">10.1787/9789264302792-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Kazakhstan 2018 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
@@ -555,13 +555,61 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T10:00:00Z</cell>
     <cell name="launch date/time">2018-07-16T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-07-10T03:03:20.477Z</cell>
+    <cell name="ilibrary last export date">2018-07-11T02:49:17.77Z</cell>
     <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="35">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264302839-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: San Marino 2018 (Second Round) (en)</cell>
+    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-07-16</cell>
+    <cell name="embargo date">2018-07-16T10:00:00Z</cell>
+    <cell name="launch date/time">2018-07-16T10:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-07-11T02:49:17.77Z</cell>
+    <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="36">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264302839-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: San Marino 2018 (Second Round) (en)</cell>
+    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-07-16</cell>
+    <cell name="embargo date">2018-07-16T10:00:00Z</cell>
+    <cell name="launch date/time">2018-07-16T10:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="37">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264303317-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: The Philippines 2018 (Second Round) (en)</cell>
+    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-07-16</cell>
+    <cell name="embargo date">2018-07-16T10:00:00Z</cell>
+    <cell name="launch date/time">2018-07-16T10:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-07-11T02:49:17.77Z</cell>
+    <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="38">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264303317-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: The Philippines 2018 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
@@ -576,7 +624,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="36">
+  <row index="39">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264302853-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: United States 2018 (Second Round) (en)</cell>
@@ -587,12 +635,12 @@
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T10:00:00Z</cell>
     <cell name="launch date/time">2018-07-16T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-07-10T03:03:20.477Z</cell>
+    <cell name="ilibrary last export date">2018-07-11T02:49:17.77Z</cell>
     <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="37">
+  <row index="40">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264302853-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: United States 2018 (Second Round) (en)</cell>
@@ -608,7 +656,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="38">
+  <row index="41">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-4-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -624,7 +672,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="39">
+  <row index="42">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-4-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -640,7 +688,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="40">
+  <row index="43">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph11-en</cell>
     <cell name="title">Achieving mid- and long-term climate targets will require additional efforts (en)</cell>
@@ -656,7 +704,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="41">
+  <row index="44">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph32-en</cell>
     <cell name="title">Aid in support of environment remains modest (en)</cell>
@@ -672,7 +720,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="42">
+  <row index="45">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph13-en</cell>
     <cell name="title">Air pollutant emissions are declining (en)</cell>
@@ -688,7 +736,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="43">
+  <row index="46">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph8-en</cell>
     <cell name="title">Although declining, fossil fuels are still predominant (en)</cell>
@@ -704,7 +752,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="44">
+  <row index="47">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph38-en</cell>
     <cell name="title">An increasing share of urban population lives outside urban centres (en)</cell>
@@ -720,56 +768,56 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="45">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264300958-7-en</cell>
-    <cell name="title">Assessment and recommendations (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-16</cell>
-    <cell name="embargo date">2018-07-16T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="46">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264300958-7-en</cell>
-    <cell name="title">Assessment and recommendations (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-16</cell>
-    <cell name="embargo date">2018-07-16T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
-    <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
-  </row>
-  <row index="47">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264300958-5-en</cell>
-    <cell name="title">Basic statistics of the Czech Republic (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-16</cell>
-    <cell name="embargo date">2018-07-16T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
   <row index="48">
     <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264300958-7-en</cell>
+    <cell name="title">Assessment and recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-07-16</cell>
+    <cell name="embargo date">2018-07-16T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="49">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264300958-7-en</cell>
+    <cell name="title">Assessment and recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-07-16</cell>
+    <cell name="embargo date">2018-07-16T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
+    <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="50">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264300958-5-en</cell>
+    <cell name="title">Basic statistics of the Czech Republic (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-07-16</cell>
+    <cell name="embargo date">2018-07-16T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="51">
+    <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-5-en</cell>
     <cell name="title">Basic statistics of the Czech Republic (en)</cell>
     <cell name="subtitle"/>
@@ -784,7 +832,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="49">
+  <row index="52">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph4-en</cell>
     <cell name="title">Car traffic volume is growing in Prague's outer zone (en)</cell>
@@ -800,7 +848,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="50">
+  <row index="53">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph42-en</cell>
     <cell name="title">Car traffic volume is growing in Prague's outer zone (graph) (en)</cell>
@@ -816,88 +864,88 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="51">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264300958-9-en</cell>
-    <cell name="title">Environmental governance and management (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-16</cell>
-    <cell name="embargo date">2018-07-16T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
-    <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
-  </row>
-  <row index="52">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264300958-9-en</cell>
-    <cell name="title">Environmental governance and management (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-16</cell>
-    <cell name="embargo date">2018-07-16T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="53">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264300958-8-en</cell>
-    <cell name="title">Environmental performance: Trends and recent developments (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-16</cell>
-    <cell name="embargo date">2018-07-16T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
-    <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
-  </row>
   <row index="54">
     <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264300958-8-en</cell>
-    <cell name="title">Environmental performance: Trends and recent developments (en)</cell>
+    <cell name="doi">10.1787/9789264300958-9-en</cell>
+    <cell name="title">Environmental governance and management (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="55">
     <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264300958-6-en</cell>
-    <cell name="title">Executive summary (en)</cell>
+    <cell name="doi">10.1787/9789264300958-9-en</cell>
+    <cell name="title">Environmental governance and management (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
+    <cell name="medium">HTML</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-07-16</cell>
     <cell name="embargo date">2018-07-16T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
-    <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
+    <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
+    <cell name="fti loaded?">✓</cell>
   </row>
   <row index="56">
     <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264300958-8-en</cell>
+    <cell name="title">Environmental performance: Trends and recent developments (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-07-16</cell>
+    <cell name="embargo date">2018-07-16T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
+    <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="57">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264300958-8-en</cell>
+    <cell name="title">Environmental performance: Trends and recent developments (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-07-16</cell>
+    <cell name="embargo date">2018-07-16T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="58">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264300958-6-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-07-16</cell>
+    <cell name="embargo date">2018-07-16T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-07-06T02:25:00.763Z</cell>
+    <cell name="freepreview last export date">2018-07-05T22:39:30Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="59">
+    <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-6-en</cell>
     <cell name="title">Executive summary (en)</cell>
     <cell name="subtitle"/>
@@ -912,7 +960,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="57">
+  <row index="60">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-2-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -928,7 +976,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="58">
+  <row index="61">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-2-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -944,7 +992,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="59">
+  <row index="62">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph20-en</cell>
     <cell name="title">Inspections are better targeting installations at risk (en)</cell>
@@ -960,7 +1008,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="60">
+  <row index="63">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph25-en</cell>
     <cell name="title">Investment in wastewater management and in air and climate protection increased significantly (en)</cell>
@@ -976,7 +1024,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="61">
+  <row index="64">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph16-en</cell>
     <cell name="title">Landfill remains the main treatment method (en)</cell>
@@ -992,7 +1040,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="62">
+  <row index="65">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph36-en</cell>
     <cell name="title">Landfilling of municipal waste is encouraged through low landfill taxes (en)</cell>
@@ -1008,7 +1056,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="63">
+  <row index="66">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph34-en</cell>
     <cell name="title">Levels of waste generated vary according to the data source used (en)</cell>
@@ -1024,7 +1072,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="64">
+  <row index="67">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph2-en</cell>
     <cell name="title">Lower and differentiated taxes on road fuels have boosted diesel consumption (en)</cell>
@@ -1040,7 +1088,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="65">
+  <row index="68">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph26-en</cell>
     <cell name="title">Making the most of EU funds requires improved strategic planning and procurement practices (en)</cell>
@@ -1056,7 +1104,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="66">
+  <row index="69">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph15-en</cell>
     <cell name="title">Material productivity increases (en)</cell>
@@ -1072,7 +1120,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="67">
+  <row index="70">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph39-en</cell>
     <cell name="title">Metropolitan areas are the engine of economic growth (en)</cell>
@@ -1088,7 +1136,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="68">
+  <row index="71">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph35-en</cell>
     <cell name="title">Municipal waste has been growing, recycling has increased and landfilling is little changed (en)</cell>
@@ -1104,7 +1152,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="69">
+  <row index="72">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph24-en</cell>
     <cell name="title">Oversupply of allowances in the EU ETS has weakened emission abatement incentives (en)</cell>
@@ -1120,7 +1168,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="70">
+  <row index="73">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph44-en</cell>
     <cell name="title">Prague's environmental budget has dropped significantly (en)</cell>
@@ -1136,7 +1184,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="71">
+  <row index="74">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-1-en</cell>
     <cell name="title">Preface (en)</cell>
@@ -1152,7 +1200,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="72">
+  <row index="75">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-1-en</cell>
     <cell name="title">Preface (en)</cell>
@@ -1168,7 +1216,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="73">
+  <row index="76">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph30-en</cell>
     <cell name="title">Public budgets and patent applications have shifted from environmental management to climate- and energy-related technology (en)</cell>
@@ -1184,7 +1232,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="74">
+  <row index="77">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph41-en</cell>
     <cell name="title">Public transport is the main mode used in Prague (en)</cell>
@@ -1200,7 +1248,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="75">
+  <row index="78">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-3-en</cell>
     <cell name="title">Reader's guide (en)</cell>
@@ -1216,7 +1264,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="76">
+  <row index="79">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-3-en</cell>
     <cell name="title">Reader's guide (en)</cell>
@@ -1232,7 +1280,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="77">
+  <row index="80">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph10-en</cell>
     <cell name="title">Road transport is increasing (en)</cell>
@@ -1248,7 +1296,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="78">
+  <row index="81">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph1-en</cell>
     <cell name="title">Selected environmental performance indicators (en)</cell>
@@ -1264,7 +1312,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="79">
+  <row index="82">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph22-en</cell>
     <cell name="title">Since 2011, lower and differentiated taxes on road fuels have reduced revenue and boosted diesel consumption (en)</cell>
@@ -1280,7 +1328,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="80">
+  <row index="83">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph27-en</cell>
     <cell name="title">Since 2012, changes in support measures have stopped the expansion of renewables-based electricity capacity (en)</cell>
@@ -1296,7 +1344,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="81">
+  <row index="84">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph43-en</cell>
     <cell name="title">Subnational government spending is significant in some areas (en)</cell>
@@ -1312,7 +1360,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="82">
+  <row index="85">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-12-en</cell>
     <cell name="title">Sustainable urban development in the Czech Republic (en)</cell>
@@ -1328,7 +1376,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="83">
+  <row index="86">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-12-en</cell>
     <cell name="title">Sustainable urban development in the Czech Republic (en)</cell>
@@ -1344,7 +1392,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="84">
+  <row index="87">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph23-en</cell>
     <cell name="title">Tax expenditure for fossil fuels lowers incentives to save energy (en)</cell>
@@ -1360,7 +1408,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="85">
+  <row index="88">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph6-en</cell>
     <cell name="title">The Czech economy grew faster than that of the OECD as a whole (en)</cell>
@@ -1376,7 +1424,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="86">
+  <row index="89">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph14-en</cell>
     <cell name="title">The Czech population is among the most affected by air pollution in the OECD (en)</cell>
@@ -1392,7 +1440,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="87">
+  <row index="90">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph18-en</cell>
     <cell name="title">The Czech Republic has already achieved the 2020 Aichi target on terrestrial protected areas (en)</cell>
@@ -1408,7 +1456,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="88">
+  <row index="91">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph37-en</cell>
     <cell name="title">The Czech Republic is among the least urbanised of OECD countries (en)</cell>
@@ -1424,7 +1472,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="89">
+  <row index="92">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph5-en</cell>
     <cell name="title">The Czech Republic performs well on water, poverty and biodiversity but falls short on many other SDGs (en)</cell>
@@ -1440,7 +1488,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="90">
+  <row index="93">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph12-en</cell>
     <cell name="title">The Czech Republic still has one of the most carbon-intensive economies in the OECD (en)</cell>
@@ -1456,7 +1504,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="91">
+  <row index="94">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph29-en</cell>
     <cell name="title">The environmental goods and services sector could be better monitored (en)</cell>
@@ -1472,7 +1520,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="92">
+  <row index="95">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph19-en</cell>
     <cell name="title">The level of water abstraction is relatively low (en)</cell>
@@ -1488,7 +1536,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="93">
+  <row index="96">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph21-en</cell>
     <cell name="title">The number of businesses adopting environmental management systems has decreased significantly (en)</cell>
@@ -1504,7 +1552,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="94">
+  <row index="97">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph31-en</cell>
     <cell name="title">The public energy R&amp;D budget is geared towards nuclear energy (en)</cell>
@@ -1520,7 +1568,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="95">
+  <row index="98">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-10-en</cell>
     <cell name="title">Towards green growth (en)</cell>
@@ -1536,7 +1584,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="96">
+  <row index="99">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-10-en</cell>
     <cell name="title">Towards green growth (en)</cell>
@@ -1552,7 +1600,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="97">
+  <row index="100">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph7-en</cell>
     <cell name="title">Traffic density and surface water quality are the main environmental concerns (en)</cell>
@@ -1568,7 +1616,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="98">
+  <row index="101">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph28-en</cell>
     <cell name="title">Transport investment has been volatile and mostly dedicated to road (en)</cell>
@@ -1584,7 +1632,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="99">
+  <row index="102">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph9-en</cell>
     <cell name="title">Transport is a growing source of energy consumption (en)</cell>
@@ -1600,7 +1648,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="100">
+  <row index="103">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph40-en</cell>
     <cell name="title">Unemployment rates in some major cities remain high (en)</cell>
@@ -1616,7 +1664,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="101">
+  <row index="104">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph33-en</cell>
     <cell name="title">Waste generation and material consumption have been decoupled from economic growth (en)</cell>
@@ -1632,7 +1680,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="102">
+  <row index="105">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph3-en</cell>
     <cell name="title">Waste generation: two data sources, two messages (en)</cell>
@@ -1648,7 +1696,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="103">
+  <row index="106">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-11-en</cell>
     <cell name="title">Waste, materials management and circular economy (en)</cell>
@@ -1664,7 +1712,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="104">
+  <row index="107">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-11-en</cell>
     <cell name="title">Waste, materials management and circular economy (en)</cell>
@@ -1680,7 +1728,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="105">
+  <row index="108">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264300958-graph17-en</cell>
     <cell name="title">While chemicals consumption doubled, emissions of key pollutants declined (en)</cell>
@@ -1696,7 +1744,23 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="106">
+  <row index="109">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-tur-2018-en</cell>
+    <cell name="title">OECD Economic Surveys: Turkey 2018 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-07-13</cell>
+    <cell name="embargo date">2018-07-13T09:00:00Z</cell>
+    <cell name="launch date/time">2018-07-13T09:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-07-05T02:42:36.127Z</cell>
+    <cell name="freepreview last export date">2018-07-11T22:02:28Z</cell>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="110">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-tur-2018-en</cell>
     <cell name="title">OECD Economic Surveys: Turkey 2018 (en)</cell>
@@ -1712,24 +1776,8 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="107">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_surveys-tur-2018-en</cell>
-    <cell name="title">OECD Economic Surveys: Turkey 2018 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-07-13</cell>
-    <cell name="embargo date">2018-07-13T09:00:00Z</cell>
-    <cell name="launch date/time">2018-07-13T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-07-05T02:42:36.127Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="108">
-    <cell name="directorate">Economics Department, Centre for Entrepreneurship, SMEs and Local Development, Centre for Tax Policy and Administration, Directorate for Public Governance</cell>
+  <row index="111">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development, Directorate for Public Governance, Economics Department, Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264302488-12-en</cell>
     <cell name="title">Decentralisation and inclusive growth: Channels and implications (en)</cell>
     <cell name="subtitle"/>
@@ -1739,13 +1787,13 @@
     <cell name="date of publication">2018-07-12</cell>
     <cell name="embargo date">2018-07-12T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-07-11T02:49:17.77Z</cell>
     <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="109">
-    <cell name="directorate">Economics Department, Directorate for Public Governance, Centre for Entrepreneurship, SMEs and Local Development, Centre for Tax Policy and Administration</cell>
+  <row index="112">
+    <cell name="directorate">Centre for Tax Policy and Administration, Directorate for Public Governance, Centre for Entrepreneurship, SMEs and Local Development, Economics Department</cell>
     <cell name="doi">10.1787/9789264302488-7-en</cell>
     <cell name="title">Decentralised funding and inequality in education (en)</cell>
     <cell name="subtitle"/>
@@ -1755,13 +1803,13 @@
     <cell name="date of publication">2018-07-12</cell>
     <cell name="embargo date">2018-07-12T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-07-11T02:49:17.77Z</cell>
     <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="110">
-    <cell name="directorate">Economics Department, Centre for Entrepreneurship, SMEs and Local Development, Centre for Tax Policy and Administration, Directorate for Public Governance</cell>
+  <row index="113">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development, Centre for Tax Policy and Administration, Economics Department, Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264302488-2-en</cell>
     <cell name="title">Executive summary (en)</cell>
     <cell name="subtitle"/>
@@ -1771,13 +1819,13 @@
     <cell name="date of publication">2018-07-12</cell>
     <cell name="embargo date">2018-07-12T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-07-11T02:49:17.77Z</cell>
     <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="111">
-    <cell name="directorate">Directorate for Public Governance, Centre for Tax Policy and Administration, Centre for Entrepreneurship, SMEs and Local Development, Economics Department</cell>
+  <row index="114">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development, Economics Department, Directorate for Public Governance, Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264302488-4-en</cell>
     <cell name="title">Fiscal decentralisation and economic growth (en)</cell>
     <cell name="subtitle"/>
@@ -1787,13 +1835,13 @@
     <cell name="date of publication">2018-07-12</cell>
     <cell name="embargo date">2018-07-12T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-07-11T02:49:17.77Z</cell>
     <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="112">
-    <cell name="directorate">Directorate for Public Governance, Centre for Entrepreneurship, SMEs and Local Development, Centre for Tax Policy and Administration, Economics Department</cell>
+  <row index="115">
+    <cell name="directorate">Directorate for Public Governance, Economics Department, Centre for Tax Policy and Administration, Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/9789264302488-en</cell>
     <cell name="title">Fiscal Decentralisation and Inclusive Growth (en)</cell>
     <cell name="subtitle"/>
@@ -1808,8 +1856,8 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="113">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development, Centre for Tax Policy and Administration, Directorate for Public Governance, Economics Department</cell>
+  <row index="116">
+    <cell name="directorate">Economics Department, Directorate for Public Governance, Centre for Tax Policy and Administration, Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/9789264302488-en</cell>
     <cell name="title">Fiscal Decentralisation and Inclusive Growth (en)</cell>
     <cell name="subtitle"/>
@@ -1819,13 +1867,13 @@
     <cell name="date of publication">2018-07-12</cell>
     <cell name="embargo date">2018-07-12T09:00:00Z</cell>
     <cell name="launch date/time">2018-07-12T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-07-10T03:03:20.477Z</cell>
+    <cell name="ilibrary last export date">2018-07-11T02:49:17.77Z</cell>
     <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="114">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development, Directorate for Public Governance, Economics Department, Centre for Tax Policy and Administration</cell>
+  <row index="117">
+    <cell name="directorate">Directorate for Public Governance, Economics Department, Centre for Entrepreneurship, SMEs and Local Development, Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264302488-3-en</cell>
     <cell name="title">Fiscal decentralisation and inclusive growth: An overview (en)</cell>
     <cell name="subtitle"/>
@@ -1835,13 +1883,13 @@
     <cell name="date of publication">2018-07-12</cell>
     <cell name="embargo date">2018-07-12T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-07-11T02:49:17.77Z</cell>
     <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="115">
-    <cell name="directorate">Economics Department, Directorate for Public Governance, Centre for Entrepreneurship, SMEs and Local Development, Centre for Tax Policy and Administration</cell>
+  <row index="118">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development, Centre for Tax Policy and Administration, Economics Department, Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264302488-8-en</cell>
     <cell name="title">Fiscal decentralisation and inclusive growth: Considering education (en)</cell>
     <cell name="subtitle"/>
@@ -1851,13 +1899,13 @@
     <cell name="date of publication">2018-07-12</cell>
     <cell name="embargo date">2018-07-12T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-07-11T02:49:17.77Z</cell>
     <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="116">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development, Economics Department, Centre for Tax Policy and Administration, Directorate for Public Governance</cell>
+  <row index="119">
+    <cell name="directorate">Economics Department, Centre for Entrepreneurship, SMEs and Local Development, Directorate for Public Governance, Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264302488-11-en</cell>
     <cell name="title">Fiscal decentralisation and the efficiency of public service delivery (en)</cell>
     <cell name="subtitle"/>
@@ -1867,12 +1915,12 @@
     <cell name="date of publication">2018-07-12</cell>
     <cell name="embargo date">2018-07-12T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-07-11T02:49:17.77Z</cell>
     <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="117">
+  <row index="120">
     <cell name="directorate">Centre for Tax Policy and Administration, Directorate for Public Governance, Economics Department, Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/9789264302488-10-en</cell>
     <cell name="title">Fiscal decentralisation in the Netherlands: Distributional and employment effects (en)</cell>
@@ -1883,13 +1931,13 @@
     <cell name="date of publication">2018-07-12</cell>
     <cell name="embargo date">2018-07-12T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-07-11T02:49:17.77Z</cell>
     <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="118">
-    <cell name="directorate">Directorate for Public Governance, Centre for Tax Policy and Administration, Centre for Entrepreneurship, SMEs and Local Development, Economics Department</cell>
+  <row index="121">
+    <cell name="directorate">Directorate for Public Governance, Economics Department, Centre for Entrepreneurship, SMEs and Local Development, Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264302488-1-en</cell>
     <cell name="title">Foreword (en)</cell>
     <cell name="subtitle"/>
@@ -1899,13 +1947,13 @@
     <cell name="date of publication">2018-07-12</cell>
     <cell name="embargo date">2018-07-12T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-07-11T02:49:17.77Z</cell>
     <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="119">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development, Centre for Tax Policy and Administration, Directorate for Public Governance, Economics Department</cell>
+  <row index="122">
+    <cell name="directorate">Centre for Tax Policy and Administration, Economics Department, Directorate for Public Governance, Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/9789264302488-5-en</cell>
     <cell name="title">Globalisation, decentralisation and inclusive growth (en)</cell>
     <cell name="subtitle"/>
@@ -1915,12 +1963,12 @@
     <cell name="date of publication">2018-07-12</cell>
     <cell name="embargo date">2018-07-12T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-07-11T02:49:17.77Z</cell>
     <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="120">
+  <row index="123">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/3093362c-en</cell>
     <cell name="title">How does the earnings advantage of tertiary-educated workers evolve across generations? (en)</cell>
@@ -1936,8 +1984,8 @@
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="121">
-    <cell name="directorate">Centre for Tax Policy and Administration, Economics Department, Directorate for Public Governance, Centre for Entrepreneurship, SMEs and Local Development</cell>
+  <row index="124">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development, Directorate for Public Governance, Economics Department, Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264302488-9-en</cell>
     <cell name="title">Local government revenue decentralisation and funding divergence: An English case study (en)</cell>
     <cell name="subtitle"/>
@@ -1947,13 +1995,13 @@
     <cell name="date of publication">2018-07-12</cell>
     <cell name="embargo date">2018-07-12T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-07-11T02:49:17.77Z</cell>
     <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="122">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development, Centre for Tax Policy and Administration, Economics Department, Directorate for Public Governance</cell>
+  <row index="125">
+    <cell name="directorate">Directorate for Public Governance, Economics Department, Centre for Tax Policy and Administration, Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/9789264302488-6-en</cell>
     <cell name="title">The effects of central-government transfers to states in India (en)</cell>
     <cell name="subtitle"/>
@@ -1963,12 +2011,12 @@
     <cell name="date of publication">2018-07-12</cell>
     <cell name="embargo date">2018-07-12T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-07-11T02:49:17.77Z</cell>
     <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="123">
+  <row index="126">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b4f4e03e-en</cell>
     <cell name="title">The Long View: Scenarios for the World Economy to 2060 (en)</cell>
@@ -1979,12 +2027,12 @@
     <cell name="date of publication">2018-07-12</cell>
     <cell name="embargo date">2018-07-12T08:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-10T03:03:22.3551966Z</cell>
+    <cell name="ilibrary last export date">2018-07-11T02:49:18.7571216Z</cell>
     <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="124">
+  <row index="127">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/9789264302501-en</cell>
     <cell name="title">Africa's Development Dynamics 2018 (en)</cell>
@@ -2000,7 +2048,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="125">
+  <row index="128">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/9789264302525-fr</cell>
     <cell name="title">Dynamiques du développement en Afrique 2018 (fr)</cell>
@@ -2011,12 +2059,12 @@
     <cell name="date of publication">2018-07-11</cell>
     <cell name="embargo date">2018-07-11T07:00:00Z</cell>
     <cell name="launch date/time">2018-07-11T07:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-07-10T03:03:20.477Z</cell>
+    <cell name="ilibrary last export date">2018-07-11T02:49:17.77Z</cell>
     <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="126">
+  <row index="129">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/9789264302525-fr</cell>
     <cell name="title">Dynamiques du développement en Afrique 2018 (fr)</cell>
@@ -2032,7 +2080,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="127">
+  <row index="130">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/9789264302501-en</cell>
     <cell name="title">Africa's Development Dynamics 2018 (en)</cell>
@@ -2043,12 +2091,12 @@
     <cell name="date of publication">2018-07-11</cell>
     <cell name="embargo date">2018-07-11T05:00:00Z</cell>
     <cell name="launch date/time">2018-07-11T05:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-07-10T03:03:20.477Z</cell>
+    <cell name="ilibrary last export date">2018-07-11T02:49:17.77Z</cell>
     <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="128">
+  <row index="131">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/55c7e0c4-fr</cell>
     <cell name="title">Vers une croissance plus inclusive en Tunisie (fr)</cell>
@@ -2064,7 +2112,7 @@
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="129">
+  <row index="132">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e124db26-en</cell>
     <cell name="title">How is participation in sports related to students’ performance and well-being? (en)</cell>
@@ -2075,153 +2123,9 @@
     <cell name="date of publication">2018-07-10</cell>
     <cell name="embargo date">2018-07-10T04:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-07T03:33:31.5820089Z</cell>
+    <cell name="ilibrary last export date">2018-07-11T02:49:18.7571216Z</cell>
     <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="130">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264302884-1-fr</cell>
-    <cell name="title">Avant-propos (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-10</cell>
-    <cell name="embargo date">2018-07-09T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-05T02:42:36.127Z</cell>
-    <cell name="freepreview last export date">2018-07-04T22:59:58Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
-  </row>
-  <row index="131">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264302884-fr</cell>
-    <cell name="title">Dialogue Maroc-OCDE sur les politiques de développement territorial (fr)</cell>
-    <cell name="subtitle">Enjeux et Recommandations pour une action publique coordonnée (fr)</cell>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-09</cell>
-    <cell name="embargo date">2018-07-09T09:00:00Z</cell>
-    <cell name="launch date/time">2018-07-09T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-07-05T02:42:36.127Z</cell>
-    <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="132">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264302884-fr</cell>
-    <cell name="title">Dialogue Maroc-OCDE sur les politiques de développement territorial (fr)</cell>
-    <cell name="subtitle">Enjeux et Recommandations pour une action publique coordonnée (fr)</cell>
-    <cell name="language">French</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-09</cell>
-    <cell name="embargo date">2018-07-09T09:00:00Z</cell>
-    <cell name="launch date/time">2018-07-09T09:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date">2018-07-10T22:51:37Z</cell>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="133">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264302884-2-fr</cell>
-    <cell name="title">Glossaire (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-10</cell>
-    <cell name="embargo date">2018-07-09T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-05T02:42:36.127Z</cell>
-    <cell name="freepreview last export date">2018-07-04T22:59:58Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
-  </row>
-  <row index="134">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264302884-7-fr</cell>
-    <cell name="title">Investissement public efficace pour un développement territorial inclusif et durable (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-10</cell>
-    <cell name="embargo date">2018-07-09T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-05T02:42:36.127Z</cell>
-    <cell name="freepreview last export date">2018-07-04T22:59:58Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
-  </row>
-  <row index="135">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264302884-6-fr</cell>
-    <cell name="title">Les liens urbain-rural dans les provinces de Taounate (Région Fès-Meknès) et Berrechid (Région Casablanca-Settat) (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-10</cell>
-    <cell name="embargo date">2018-07-09T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-05T02:42:36.127Z</cell>
-    <cell name="freepreview last export date">2018-07-04T22:59:58Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
-  </row>
-  <row index="136">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264302884-5-fr</cell>
-    <cell name="title">Quelle gouvernance pour une aire métropolitaine durable et inclusive de Casablanca (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-10</cell>
-    <cell name="embargo date">2018-07-09T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-05T02:42:36.127Z</cell>
-    <cell name="freepreview last export date">2018-07-04T22:59:58Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
-  </row>
-  <row index="137">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264302884-3-fr</cell>
-    <cell name="title">Résumé (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-10</cell>
-    <cell name="embargo date">2018-07-09T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-05T02:42:36.127Z</cell>
-    <cell name="freepreview last export date">2018-07-04T22:59:58Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
-  </row>
-  <row index="138">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264302884-4-fr</cell>
-    <cell name="title">Synthèse et Principales Recommandations (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-07-10</cell>
-    <cell name="embargo date">2018-07-09T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-07-05T02:42:36.127Z</cell>
-    <cell name="freepreview last export date">2018-07-04T22:59:58Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
   </row>
 </report>

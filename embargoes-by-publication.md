@@ -1,48 +1,6 @@
 # OECD publication embargoes (21 embargoes)
 
-*Data generated on Wednesday 11 July 2018 at 3:09*
-
-------
-
-## [Africa's Development Dynamics 2018 - Growth, Jobs and Inequalities](https://doi.org/10.1787/9789264302501-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 11 July 2018 at 7:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
-- [x] Exported to Keepeek Wednesday 11 July 2018 at 0:51
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
-
-------
-
-## [Dynamiques du développement en Afrique 2018 - Croissance, emploi et inégalités](https://doi.org/10.1787/9789264302525-fr)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 11 July 2018 at 9:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
-- [x] Exported to Keepeek Wednesday 11 July 2018 at 0:51
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
+*Data generated on Thursday 12 July 2018 at 2:04*
 
 ------
 
@@ -54,7 +12,7 @@ Thursday 12 July 2018 at 10:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
+- [x] Exported to iLibrary Wednesday 11 July 2018 at 4:49
 - [x] Exported to Keepeek Wednesday 11 July 2018 at 0:51
 
 ### Additional Information
@@ -75,12 +33,12 @@ Thursday 12 July 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
+- [x] Exported to iLibrary Wednesday 11 July 2018 at 4:49
 - [x] Exported to Keepeek Wednesday 11 July 2018 at 0:51
 
 ### Additional Information
 
-* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Centre for Tax Policy and Administration, Directorate for Public Governance, Economics Department*
+* Directorate: *Economics Department, Directorate for Public Governance, Centre for Tax Policy and Administration, Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
@@ -116,15 +74,15 @@ Embargo date | Launch date
 Friday 13 July 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 5 July 2018 at 4:42
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Thursday 12 July 2018 at 0:02
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Medium: *PDF*
 
@@ -138,7 +96,7 @@ Monday 16 July 2018 at 12:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
+- [x] Exported to iLibrary Wednesday 11 July 2018 at 4:49
 - [x] Exported to Keepeek Wednesday 11 July 2018 at 0:51
 
 ### Additional Information
@@ -159,7 +117,7 @@ Monday 16 July 2018 at 12:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
+- [x] Exported to iLibrary Wednesday 11 July 2018 at 4:49
 - [x] Exported to Keepeek Wednesday 11 July 2018 at 0:51
 
 ### Additional Information
@@ -180,7 +138,7 @@ Monday 16 July 2018 at 12:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
+- [x] Exported to iLibrary Wednesday 11 July 2018 at 4:49
 - [x] Exported to Keepeek Wednesday 11 July 2018 at 0:51
 
 ### Additional Information
@@ -201,7 +159,7 @@ Monday 16 July 2018 at 12:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
+- [x] Exported to iLibrary Wednesday 11 July 2018 at 4:49
 - [x] Exported to Keepeek Wednesday 11 July 2018 at 0:51
 
 ### Additional Information
@@ -222,7 +180,7 @@ Monday 16 July 2018 at 12:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
+- [x] Exported to iLibrary Wednesday 11 July 2018 at 4:49
 - [x] Exported to Keepeek Wednesday 11 July 2018 at 0:51
 
 ### Additional Information
@@ -243,7 +201,7 @@ Monday 16 July 2018 at 12:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
+- [x] Exported to iLibrary Wednesday 11 July 2018 at 4:49
 - [x] Exported to Keepeek Wednesday 11 July 2018 at 0:51
 
 ### Additional Information
@@ -264,7 +222,7 @@ Monday 16 July 2018 at 12:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
+- [x] Exported to iLibrary Wednesday 11 July 2018 at 4:49
 - [x] Exported to Keepeek Wednesday 11 July 2018 at 0:51
 
 ### Additional Information
@@ -340,6 +298,48 @@ Tuesday 17 July 2018 at 17:00 | no launch event
 
 ------
 
+## [An empirical investigation on the drivers of income redistribution across OECD countries](https://doi.org/10.1787/5cb47f33-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 18 July 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Thursday 12 July 2018 at 0:02
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [The quantification of structural reforms - Introducing country-specific policy effects](https://doi.org/10.1787/885727c3-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 18 July 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Thursday 12 July 2018 at 0:02
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
 ## [OECD Reviews of School Resources: Colombia 2018](https://doi.org/10.1787/9789264303751-en)
 
 Embargo date | Launch date
@@ -348,7 +348,7 @@ Wednesday 18 July 2018 at 22:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
+- [x] Exported to iLibrary Wednesday 11 July 2018 at 4:49
 - [ ] Exported to Keepeek
 
 ### Additional Information
