@@ -4,59 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/e124db26-en
-SUMMARY:How is participation in sports related t
- o students’ performance and well-being?
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills\nLanguage: English\nDOI: https
- ://doi.org/10.1787/e124db26-en\nPublicat
- ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: 11 July 2018, 2:4
- 9 Paris time (GMT+00:00)\nFreepreview ex
- port: 10 July 2018, 22:51 Paris time (GM
- T+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180712T020459Z
-DTSTART:20180710T040000Z
-DTEND:20180710T041500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: How is participation in sports
-  related to students’ performance and we
- ll-being?
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/55c7e0c4-fr
-SUMMARY:Vers une croissance plus inclusive en Tu
- nisie
-DESCRIPTION:Directorate: Economics Department\nLangu
- age: French\nDOI: https://doi.org/10.178
- 7/55c7e0c4-fr\nPublication type: Working
-  paper\nReleased as: PDF.\n\niLibrary ex
- port: 6 July 2018, 2:25 Paris time (GMT+
- 00:00)\nFreepreview export: 9 July 2018,
-  22:52 Paris time (GMT+00:00)\nFTI loade
- d: ✓, ✓.
-DTSTAMP:20180712T020459Z
-DTSTART:20180711T000000Z
-DTEND:20180711T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Vers une croissance plus inclu
- sive en Tunisie
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264302501-en
 SUMMARY:Africa's Development Dynamics 2018 - Gro
  wth, Jobs and Inequalities
@@ -68,7 +15,7 @@ DESCRIPTION:Directorate: Development Centre\nLanguag
  8, 2:49 Paris time (GMT+00:00)\nFreeprev
  iew export: 10 July 2018, 22:51 Paris ti
  me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180712T020459Z
+DTSTAMP:20180713T054121Z
 DTSTART:20180711T050000Z
 DTEND:20180711T051500Z
 TRANSP:TRANSPARENT
@@ -94,7 +41,7 @@ DESCRIPTION:Directorate: Development Centre\nLanguag
  , 2:49 Paris time (GMT+00:00)\nFreeprevi
  ew export: 10 July 2018, 22:51 Paris tim
  e (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180712T020459Z
+DTSTAMP:20180713T054121Z
 DTSTART:20180711T070000Z
 DTEND:20180711T071500Z
 TRANSP:TRANSPARENT
@@ -121,7 +68,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  T+00:00)\nFreepreview export: 10 July 20
  18, 22:51 Paris time (GMT+00:00)\nFTI lo
  aded: ✓.
-DTSTAMP:20180712T020459Z
+DTSTAMP:20180713T054121Z
 DTSTART:20180712T080000Z
 DTEND:20180712T081500Z
 TRANSP:TRANSPARENT
@@ -139,8 +86,8 @@ BEGIN:VEVENT
 UID:10.1787/9789264302488-en
 SUMMARY:Fiscal Decentralisation and Inclusive Gr
  owth
-DESCRIPTION:Directorate: Economics Department, Direc
- torate for Public Governance, Centre for
+DESCRIPTION:Directorate: Directorate for Public Gove
+ rnance, Economics Department, Centre for
   Tax Policy and Administration, Centre f
  or Entrepreneurship, SMEs and Local Deve
  lopment\nLanguage: English\nDOI: https:/
@@ -150,7 +97,7 @@ DESCRIPTION:Directorate: Economics Department, Direc
  , 2:49 Paris time (GMT+00:00)\nFreeprevi
  ew export: 10 July 2018, 22:51 Paris tim
  e (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180712T020459Z
+DTSTAMP:20180713T054121Z
 DTSTART:20180712T090000Z
 DTEND:20180712T091500Z
 TRANSP:TRANSPARENT
@@ -175,9 +122,9 @@ DESCRIPTION:Directorate: Directorate for Education a
  ion type: Working paper\nReleased as: PD
  F.\n\niLibrary export: 6 July 2018, 2:25
   Paris time (GMT+00:00)\nFreepreview exp
- ort: 5 July 2018, 22:39 Paris time (GMT+
+ ort: 13 July 2018, 0:44 Paris time (GMT+
  00:00)\nFTI loaded: ✓.
-DTSTAMP:20180712T020459Z
+DTSTAMP:20180713T054121Z
 DTSTART:20180712T090000Z
 DTEND:20180712T091500Z
 TRANSP:TRANSPARENT
@@ -199,11 +146,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-tur-2018-en\nPublication 
  type: Economic survey\nReleased as: PDF,
-  Paperback.\n\niLibrary export: 5 July 2
- 018, 2:42 Paris time (GMT+00:00)\nFreepr
- eview export: 11 July 2018, 22:02 Paris 
- time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180712T020459Z
+  Paperback.\n\niLibrary export: 12 July 
+ 2018, 1:42 Paris time (GMT+00:00)\nFreep
+ review export: 11 July 2018, 22:02 Paris
+  time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180713T054121Z
 DTSTART:20180713T090000Z
 DTEND:20180713T091500Z
 TRANSP:TRANSPARENT
@@ -232,7 +179,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  y 2018, 2:49 Paris time (GMT+00:00)\nFre
  epreview export: 10 July 2018, 22:51 Par
  is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180712T020459Z
+DTSTAMP:20180713T054121Z
 DTSTART:20180716T100000Z
 DTEND:20180716T101500Z
 TRANSP:TRANSPARENT
@@ -264,7 +211,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  y 2018, 2:49 Paris time (GMT+00:00)\nFre
  epreview export: 10 July 2018, 22:51 Par
  is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180712T020459Z
+DTSTAMP:20180713T054121Z
 DTSTART:20180716T100000Z
 DTEND:20180716T101500Z
 TRANSP:TRANSPARENT
@@ -296,7 +243,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  y 2018, 2:49 Paris time (GMT+00:00)\nFre
  epreview export: 10 July 2018, 22:51 Par
  is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180712T020459Z
+DTSTAMP:20180713T054121Z
 DTSTART:20180716T100000Z
 DTEND:20180716T101500Z
 TRANSP:TRANSPARENT
@@ -328,7 +275,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  y 2018, 2:49 Paris time (GMT+00:00)\nFre
  epreview export: 10 July 2018, 22:51 Par
  is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180712T020459Z
+DTSTAMP:20180713T054121Z
 DTSTART:20180716T100000Z
 DTEND:20180716T101500Z
 TRANSP:TRANSPARENT
@@ -360,7 +307,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  y 2018, 2:49 Paris time (GMT+00:00)\nFre
  epreview export: 10 July 2018, 22:51 Par
  is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180712T020459Z
+DTSTAMP:20180713T054121Z
 DTSTART:20180716T100000Z
 DTEND:20180716T101500Z
 TRANSP:TRANSPARENT
@@ -392,7 +339,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  y 2018, 2:49 Paris time (GMT+00:00)\nFre
  epreview export: 10 July 2018, 22:51 Par
  is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180712T020459Z
+DTSTAMP:20180713T054121Z
 DTSTART:20180716T100000Z
 DTEND:20180716T101500Z
 TRANSP:TRANSPARENT
@@ -424,7 +371,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  y 2018, 2:49 Paris time (GMT+00:00)\nFre
  epreview export: 10 July 2018, 22:51 Par
  is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180712T020459Z
+DTSTAMP:20180713T054121Z
 DTSTART:20180716T100000Z
 DTEND:20180716T101500Z
 TRANSP:TRANSPARENT
@@ -448,11 +395,12 @@ SUMMARY:OECD Economic Surveys: Czech Republic 20
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-cze-2018-en\nPublication 
- type: Economic survey\nReleased as: PDF,
-  Paperback.\n\niLibrary export: 10 July 
+ type: Economic survey\nReleased as: Pape
+ rback, PDF.\n\niLibrary export: 10 July 
  2018, 3:03 Paris time (GMT+00:00)\nFreep
- review export: never\nFTI loaded: no.
-DTSTAMP:20180712T020459Z
+ review export: 13 July 2018, 0:44 Paris 
+ time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180713T054121Z
 DTSTART:20180716T120000Z
 DTEND:20180716T121500Z
 TRANSP:TRANSPARENT
@@ -474,11 +422,11 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/9789264300958-en\nPublication type
  : Book\nReleased as: Paperback, ePub, HT
- ML, PDF.\n\niLibrary export: 6 July 2018
- , 2:25 Paris time (GMT+00:00)\nFreeprevi
- ew export: 5 July 2018, 22:39 Paris time
-  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180712T020459Z
+ ML, PDF.\n\niLibrary export: 12 July 201
+ 8, 1:42 Paris time (GMT+00:00)\nFreeprev
+ iew export: 5 July 2018, 22:39 Paris tim
+ e (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180713T054121Z
 DTSTART:20180716T120000Z
 DTEND:20180716T121500Z
 TRANSP:TRANSPARENT
@@ -499,11 +447,12 @@ DESCRIPTION:Directorate: Development Co-operation Di
  rectorate\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9789264302075-en\nPub
  lication type: Stand-alone monograph\nRe
- leased as: PDF, Paperback.\n\niLibrary e
- xport: 10 July 2018, 3:03 Paris time (GM
- T+00:00)\nFreepreview export: never\nFTI
-  loaded: no.
-DTSTAMP:20180712T020459Z
+ leased as: PDF, Paperback, ePub, HTML.\n
+ \niLibrary export: 10 July 2018, 3:03 Pa
+ ris time (GMT+00:00)\nFreepreview export
+ : 13 July 2018, 0:44 Paris time (GMT+00:
+ 00)\nFTI loaded: ✓.
+DTSTAMP:20180713T054121Z
 DTSTART:20180717T150000Z
 DTEND:20180717T151500Z
 TRANSP:TRANSPARENT
@@ -525,10 +474,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/5cb47f33-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
- xport: never\nFreepreview export: 11 Jul
- y 2018, 22:02 Paris time (GMT+00:00)\nFT
- I loaded: ✓, ✓.
-DTSTAMP:20180712T020459Z
+ xport: 12 July 2018, 1:42 Paris time (GM
+ T+00:00)\nFreepreview export: 11 July 20
+ 18, 22:02 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓, ✓.
+DTSTAMP:20180713T054121Z
 DTSTART:20180718T000000Z
 DTEND:20180718T001500Z
 TRANSP:TRANSPARENT
@@ -552,10 +502,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/885727c3-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
- xport: never\nFreepreview export: 11 Jul
- y 2018, 22:02 Paris time (GMT+00:00)\nFT
- I loaded: ✓, ✓.
-DTSTAMP:20180712T020459Z
+ xport: 12 July 2018, 1:42 Paris time (GM
+ T+00:00)\nFreepreview export: 11 July 20
+ 18, 22:02 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓, ✓.
+DTSTAMP:20180713T054121Z
 DTSTART:20180718T000000Z
 DTEND:20180718T001500Z
 TRANSP:TRANSPARENT
@@ -581,7 +532,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  aperback.\n\niLibrary export: 11 July 20
  18, 2:49 Paris time (GMT+00:00)\nFreepre
  view export: never\nFTI loaded: no.
-DTSTAMP:20180712T020459Z
+DTSTAMP:20180713T054121Z
 DTSTART:20180718T200000Z
 DTEND:20180718T201500Z
 TRANSP:TRANSPARENT
@@ -607,7 +558,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  July 2018, 3:03 Paris time (GMT+00:00)\n
  Freepreview export: never\nFTI loaded: n
  o.
-DTSTAMP:20180712T020459Z
+DTSTAMP:20180713T054121Z
 DTSTART:20180723T140000Z
 DTEND:20180723T141500Z
 TRANSP:TRANSPARENT
@@ -632,7 +583,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
   July 2018, 3:03 Paris time (GMT+00:00)\
  nFreepreview export: never\nFTI loaded: 
  no.
-DTSTAMP:20180712T020459Z
+DTSTAMP:20180713T054121Z
 DTSTART:20180723T140000Z
 DTEND:20180723T141500Z
 TRANSP:TRANSPARENT
@@ -643,6 +594,31 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Economic Surveys: Canada 
  2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264302402-en
+SUMMARY:Education Policy in Japan - Building Bri
+ dges towards 2030
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: English\nDOI: https
+ ://doi.org/10.1787/9789264302402-en\nPub
+ lication type: Book\nReleased as: Paperb
+ ack, PDF.\n\niLibrary export: 10 July 20
+ 18, 3:03 Paris time (GMT+00:00)\nFreepre
+ view export: never\nFTI loaded: no.
+DTSTAMP:20180713T054121Z
+DTSTART:20180727T190000Z
+DTEND:20180727T191500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education Policy in Japan - Bu
+ ilding Bridges towards 2030
 END:VALARM
 END:VEVENT
 
@@ -660,7 +636,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  \niLibrary export: 19 June 2018, 20:07 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20180712T020459Z
+DTSTAMP:20180713T054121Z
 DTSTART:20180907T090000Z
 DTEND:20180907T091500Z
 TRANSP:TRANSPARENT
@@ -684,10 +660,10 @@ DESCRIPTION:Directorate: Development Centre, Public
  Language: French\nDOI: https://doi.org/1
  0.1787/9789264300347-fr\nPublication typ
  e: Book\nReleased as: PDF, Paperback, eP
- ub, HTML.\n\niLibrary export: 7 July 201
- 8, 3:33 Paris time (GMT+00:00)\nFreeprev
- iew export: never\nFTI loaded: no.
-DTSTAMP:20180712T020459Z
+ ub, HTML.\n\niLibrary export: 12 July 20
+ 18, 1:42 Paris time (GMT+00:00)\nFreepre
+ view export: never\nFTI loaded: no.
+DTSTAMP:20180713T054121Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
