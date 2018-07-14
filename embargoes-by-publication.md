@@ -1,27 +1,6 @@
 # OECD publication embargoes (19 embargoes)
 
-*Data generated on Friday 13 July 2018 at 5:41*
-
-------
-
-## [OECD Economic Surveys: Turkey 2018](https://doi.org/10.1787/eco_surveys-tur-2018-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 13 July 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 July 2018 at 3:42
-- [x] Exported to Keepeek Thursday 12 July 2018 at 0:02
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Medium: *PDF*
+*Data generated on Saturday 14 July 2018 at 5:32*
 
 ------
 
@@ -180,7 +159,7 @@ Monday 16 July 2018 at 14:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
+- [x] Exported to iLibrary Friday 13 July 2018 at 7:17
 - [x] Exported to Keepeek Friday 13 July 2018 at 2:44
 
 ### Additional Information
@@ -222,7 +201,7 @@ Tuesday 17 July 2018 at 17:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
+- [x] Exported to iLibrary Friday 13 July 2018 at 7:17
 - [x] Exported to Keepeek Friday 13 July 2018 at 2:44
 
 ### Additional Information
@@ -298,6 +277,27 @@ Wednesday 18 July 2018 at 22:00 | no launch event
 
 ------
 
+## [Unintended technology-bias in corporate income taxation - The case of electricity generation in the low-carbon transition](https://doi.org/10.1787/9f4a34ff-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 19 July 2018 at 6:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Friday 13 July 2018 at 21:03
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
 ## [Études économiques de l'OCDE : Canada 2018](https://doi.org/10.1787/eco_surveys-can-2018-fr)
 
 Embargo date | Launch date
@@ -348,7 +348,7 @@ Friday 27 July 2018 at 21:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
+- [x] Exported to iLibrary Friday 13 July 2018 at 7:17
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -374,7 +374,7 @@ Friday 7 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
+* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
@@ -395,7 +395,7 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Development Centre, Public Affairs and Communications Directorate*
+* Directorate: *Public Affairs and Communications Directorate, Development Centre*
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*

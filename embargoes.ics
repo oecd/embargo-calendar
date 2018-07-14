@@ -4,59 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264302501-en
-SUMMARY:Africa's Development Dynamics 2018 - Gro
- wth, Jobs and Inequalities
-DESCRIPTION:Directorate: Development Centre\nLanguag
- e: English\nDOI: https://doi.org/10.1787
- /9789264302501-en\nPublication type: Sta
- nd-alone monograph\nReleased as: Paperba
- ck, PDF.\n\niLibrary export: 11 July 201
- 8, 2:49 Paris time (GMT+00:00)\nFreeprev
- iew export: 10 July 2018, 22:51 Paris ti
- me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180713T054121Z
-DTSTART:20180711T050000Z
-DTEND:20180711T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Africa's Development Dynamics 
- 2018 - Growth, Jobs and Inequalities
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264302525-fr
-SUMMARY:Dynamiques du développement en Afrique 2
- 018 - Croissance, emploi et inégalités
-DESCRIPTION:Directorate: Development Centre\nLanguag
- e: French\nDOI: https://doi.org/10.1787/
- 9789264302525-fr\nPublication type: Stan
- d-alone monograph\nReleased as: PDF, Pap
- erback.\n\niLibrary export: 11 July 2018
- , 2:49 Paris time (GMT+00:00)\nFreeprevi
- ew export: 10 July 2018, 22:51 Paris tim
- e (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180713T054121Z
-DTSTART:20180711T070000Z
-DTEND:20180711T071500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Dynamiques du développement en
-  Afrique 2018 - Croissance, emploi et in
- égalités
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/b4f4e03e-en
 SUMMARY:The Long View: Scenarios for the World E
  conomy to 2060
@@ -68,7 +15,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  T+00:00)\nFreepreview export: 10 July 20
  18, 22:51 Paris time (GMT+00:00)\nFTI lo
  aded: ✓.
-DTSTAMP:20180713T054121Z
+DTSTAMP:20180714T053213Z
 DTSTART:20180712T080000Z
 DTEND:20180712T081500Z
 TRANSP:TRANSPARENT
@@ -88,16 +35,16 @@ SUMMARY:Fiscal Decentralisation and Inclusive Gr
  owth
 DESCRIPTION:Directorate: Directorate for Public Gove
  rnance, Economics Department, Centre for
-  Tax Policy and Administration, Centre f
- or Entrepreneurship, SMEs and Local Deve
- lopment\nLanguage: English\nDOI: https:/
+  Entrepreneurship, SMEs and Local Develo
+ pment, Centre for Tax Policy and Adminis
+ tration\nLanguage: English\nDOI: https:/
  /doi.org/10.1787/9789264302488-en\nPubli
- cation type: Book\nReleased as: Paperbac
- k, PDF.\n\niLibrary export: 11 July 2018
+ cation type: Book\nReleased as: PDF, Pap
+ erback.\n\niLibrary export: 11 July 2018
  , 2:49 Paris time (GMT+00:00)\nFreeprevi
  ew export: 10 July 2018, 22:51 Paris tim
  e (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180713T054121Z
+DTSTAMP:20180714T053213Z
 DTSTART:20180712T090000Z
 DTEND:20180712T091500Z
 TRANSP:TRANSPARENT
@@ -122,9 +69,9 @@ DESCRIPTION:Directorate: Directorate for Education a
  ion type: Working paper\nReleased as: PD
  F.\n\niLibrary export: 6 July 2018, 2:25
   Paris time (GMT+00:00)\nFreepreview exp
- ort: 13 July 2018, 0:44 Paris time (GMT+
- 00:00)\nFTI loaded: ✓.
-DTSTAMP:20180713T054121Z
+ ort: 13 July 2018, 19:03 Paris time (GMT
+ +00:00)\nFTI loaded: ✓.
+DTSTAMP:20180714T053213Z
 DTSTART:20180712T090000Z
 DTEND:20180712T091500Z
 TRANSP:TRANSPARENT
@@ -150,7 +97,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  2018, 1:42 Paris time (GMT+00:00)\nFreep
  review export: 11 July 2018, 22:02 Paris
   time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180713T054121Z
+DTSTAMP:20180714T053213Z
 DTSTART:20180713T090000Z
 DTEND:20180713T091500Z
 TRANSP:TRANSPARENT
@@ -174,12 +121,12 @@ SUMMARY:Global Forum on Transparency and Exchang
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264302730-en\
- nPublication type: Book\nReleased as: PD
- F, Paperback.\n\niLibrary export: 11 Jul
+ nPublication type: Book\nReleased as: Pa
+ perback, PDF.\n\niLibrary export: 11 Jul
  y 2018, 2:49 Paris time (GMT+00:00)\nFre
  epreview export: 10 July 2018, 22:51 Par
  is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180713T054121Z
+DTSTAMP:20180714T053213Z
 DTSTART:20180716T100000Z
 DTEND:20180716T101500Z
 TRANSP:TRANSPARENT
@@ -211,7 +158,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  y 2018, 2:49 Paris time (GMT+00:00)\nFre
  epreview export: 10 July 2018, 22:51 Par
  is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180713T054121Z
+DTSTAMP:20180714T053213Z
 DTSTART:20180716T100000Z
 DTEND:20180716T101500Z
 TRANSP:TRANSPARENT
@@ -238,12 +185,12 @@ SUMMARY:Global Forum on Transparency and Exchang
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264302778-en\
- nPublication type: Book\nReleased as: Pa
- perback, PDF.\n\niLibrary export: 11 Jul
+ nPublication type: Book\nReleased as: PD
+ F, Paperback.\n\niLibrary export: 11 Jul
  y 2018, 2:49 Paris time (GMT+00:00)\nFre
  epreview export: 10 July 2018, 22:51 Par
  is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180713T054121Z
+DTSTAMP:20180714T053213Z
 DTSTART:20180716T100000Z
 DTEND:20180716T101500Z
 TRANSP:TRANSPARENT
@@ -270,12 +217,12 @@ SUMMARY:Global Forum on Transparency and Exchang
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264302792-en\
- nPublication type: Book\nReleased as: Pa
- perback, PDF.\n\niLibrary export: 11 Jul
+ nPublication type: Book\nReleased as: PD
+ F, Paperback.\n\niLibrary export: 11 Jul
  y 2018, 2:49 Paris time (GMT+00:00)\nFre
  epreview export: 10 July 2018, 22:51 Par
  is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180713T054121Z
+DTSTAMP:20180714T053213Z
 DTSTART:20180716T100000Z
 DTEND:20180716T101500Z
 TRANSP:TRANSPARENT
@@ -302,12 +249,12 @@ SUMMARY:Global Forum on Transparency and Exchang
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264302839-en\
- nPublication type: Book\nReleased as: PD
- F, Paperback.\n\niLibrary export: 11 Jul
+ nPublication type: Book\nReleased as: Pa
+ perback, PDF.\n\niLibrary export: 11 Jul
  y 2018, 2:49 Paris time (GMT+00:00)\nFre
  epreview export: 10 July 2018, 22:51 Par
  is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180713T054121Z
+DTSTAMP:20180714T053213Z
 DTSTART:20180716T100000Z
 DTEND:20180716T101500Z
 TRANSP:TRANSPARENT
@@ -334,12 +281,12 @@ SUMMARY:Global Forum on Transparency and Exchang
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264303317-en\
- nPublication type: Book\nReleased as: PD
- F, Paperback.\n\niLibrary export: 11 Jul
+ nPublication type: Book\nReleased as: Pa
+ perback, PDF.\n\niLibrary export: 11 Jul
  y 2018, 2:49 Paris time (GMT+00:00)\nFre
  epreview export: 10 July 2018, 22:51 Par
  is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180713T054121Z
+DTSTAMP:20180714T053213Z
 DTSTART:20180716T100000Z
 DTEND:20180716T101500Z
 TRANSP:TRANSPARENT
@@ -371,7 +318,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  y 2018, 2:49 Paris time (GMT+00:00)\nFre
  epreview export: 10 July 2018, 22:51 Par
  is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180713T054121Z
+DTSTAMP:20180714T053213Z
 DTSTART:20180716T100000Z
 DTEND:20180716T101500Z
 TRANSP:TRANSPARENT
@@ -396,11 +343,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-cze-2018-en\nPublication 
  type: Economic survey\nReleased as: Pape
- rback, PDF.\n\niLibrary export: 10 July 
- 2018, 3:03 Paris time (GMT+00:00)\nFreep
+ rback, PDF.\n\niLibrary export: 13 July 
+ 2018, 5:17 Paris time (GMT+00:00)\nFreep
  review export: 13 July 2018, 0:44 Paris 
  time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180713T054121Z
+DTSTAMP:20180714T053213Z
 DTSTART:20180716T120000Z
 DTEND:20180716T121500Z
 TRANSP:TRANSPARENT
@@ -426,7 +373,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  8, 1:42 Paris time (GMT+00:00)\nFreeprev
  iew export: 5 July 2018, 22:39 Paris tim
  e (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180713T054121Z
+DTSTAMP:20180714T053213Z
 DTSTART:20180716T120000Z
 DTEND:20180716T121500Z
 TRANSP:TRANSPARENT
@@ -447,12 +394,12 @@ DESCRIPTION:Directorate: Development Co-operation Di
  rectorate\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9789264302075-en\nPub
  lication type: Stand-alone monograph\nRe
- leased as: PDF, Paperback, ePub, HTML.\n
- \niLibrary export: 10 July 2018, 3:03 Pa
+ leased as: ePub, HTML, PDF, Paperback.\n
+ \niLibrary export: 13 July 2018, 5:17 Pa
  ris time (GMT+00:00)\nFreepreview export
  : 13 July 2018, 0:44 Paris time (GMT+00:
  00)\nFTI loaded: ✓.
-DTSTAMP:20180713T054121Z
+DTSTAMP:20180714T053213Z
 DTSTART:20180717T150000Z
 DTEND:20180717T151500Z
 TRANSP:TRANSPARENT
@@ -478,7 +425,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  T+00:00)\nFreepreview export: 11 July 20
  18, 22:02 Paris time (GMT+00:00)\nFTI lo
  aded: ✓, ✓.
-DTSTAMP:20180713T054121Z
+DTSTAMP:20180714T053213Z
 DTSTART:20180718T000000Z
 DTEND:20180718T001500Z
 TRANSP:TRANSPARENT
@@ -506,7 +453,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  T+00:00)\nFreepreview export: 11 July 20
  18, 22:02 Paris time (GMT+00:00)\nFTI lo
  aded: ✓, ✓.
-DTSTAMP:20180713T054121Z
+DTSTAMP:20180714T053213Z
 DTSTART:20180718T000000Z
 DTEND:20180718T001500Z
 TRANSP:TRANSPARENT
@@ -532,7 +479,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  aperback.\n\niLibrary export: 11 July 20
  18, 2:49 Paris time (GMT+00:00)\nFreepre
  view export: never\nFTI loaded: no.
-DTSTAMP:20180713T054121Z
+DTSTAMP:20180714T053213Z
 DTSTART:20180718T200000Z
 DTEND:20180718T201500Z
 TRANSP:TRANSPARENT
@@ -543,6 +490,35 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Reviews of School Resourc
  es: Colombia 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9f4a34ff-en
+SUMMARY:Unintended technology-bias in corporate 
+ income taxation - The case of electricit
+ y generation in the low-carbon transitio
+ n
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/9f4a34ff-en\nPubl
+ ication type: Working paper\nReleased as
+ : PDF.\n\niLibrary export: never\nFreepr
+ eview export: 13 July 2018, 19:03 Paris 
+ time (GMT+00:00)\nFTI loaded: ✓, ✓.
+DTSTAMP:20180714T053213Z
+DTSTART:20180719T040000Z
+DTEND:20180719T041500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Unintended technology-bias in 
+ corporate income taxation - The case of 
+ electricity generation in the low-carbon
+  transition
 END:VALARM
 END:VEVENT
 
@@ -558,7 +534,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  July 2018, 3:03 Paris time (GMT+00:00)\n
  Freepreview export: never\nFTI loaded: n
  o.
-DTSTAMP:20180713T054121Z
+DTSTAMP:20180714T053213Z
 DTSTART:20180723T140000Z
 DTEND:20180723T141500Z
 TRANSP:TRANSPARENT
@@ -583,7 +559,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
   July 2018, 3:03 Paris time (GMT+00:00)\
  nFreepreview export: never\nFTI loaded: 
  no.
-DTSTAMP:20180713T054121Z
+DTSTAMP:20180714T053213Z
 DTSTART:20180723T140000Z
 DTEND:20180723T141500Z
 TRANSP:TRANSPARENT
@@ -604,11 +580,11 @@ SUMMARY:Education Policy in Japan - Building Bri
 DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9789264302402-en\nPub
- lication type: Book\nReleased as: Paperb
- ack, PDF.\n\niLibrary export: 10 July 20
- 18, 3:03 Paris time (GMT+00:00)\nFreepre
+ lication type: Book\nReleased as: PDF, P
+ aperback.\n\niLibrary export: 13 July 20
+ 18, 5:17 Paris time (GMT+00:00)\nFreepre
  view export: never\nFTI loaded: no.
-DTSTAMP:20180713T054121Z
+DTSTAMP:20180714T053213Z
 DTSTART:20180727T190000Z
 DTEND:20180727T191500Z
 TRANSP:TRANSPARENT
@@ -627,16 +603,16 @@ UID:10.1787/9789264292048-en
 SUMMARY:Supporting Entrepreneurship and Innovati
  on in Higher Education in The Netherland
  s
-DESCRIPTION:Directorate: Centre for Entrepreneurship
- , SMEs and Local Development, Directorat
- e for Education and Skills\nLanguage: En
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills, Centre for Entrepreneurship, 
+ SMEs and Local Development\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264292048-en\nPublication type: Book\nRe
  leased as: ePub, PDF, HTML, Paperback.\n
  \niLibrary export: 19 June 2018, 20:07 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20180713T054121Z
+DTSTAMP:20180714T053213Z
 DTSTART:20180907T090000Z
 DTEND:20180907T091500Z
 TRANSP:TRANSPARENT
@@ -655,15 +631,15 @@ BEGIN:VEVENT
 UID:10.1787/9789264300347-fr
 SUMMARY:Examen multidimensionnel du Sénégal - Vo
  lume 3. De l'analyse à l'action
-DESCRIPTION:Directorate: Development Centre, Public 
- Affairs and Communications Directorate\n
+DESCRIPTION:Directorate: Public Affairs and Communic
+ ations Directorate, Development Centre\n
  Language: French\nDOI: https://doi.org/1
  0.1787/9789264300347-fr\nPublication typ
  e: Book\nReleased as: PDF, Paperback, eP
  ub, HTML.\n\niLibrary export: 12 July 20
  18, 1:42 Paris time (GMT+00:00)\nFreepre
  view export: never\nFTI loaded: no.
-DTSTAMP:20180713T054121Z
+DTSTAMP:20180714T053213Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
