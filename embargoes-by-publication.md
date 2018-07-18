@@ -1,69 +1,6 @@
-# OECD publication embargoes (11 embargoes)
+# OECD publication embargoes (10 embargoes)
 
-*Data generated on Tuesday 17 July 2018 at 2:01*
-
-------
-
-## [States of Fragility 2018](https://doi.org/10.1787/9789264302075-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 17 July 2018 at 17:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 14 July 2018 at 7:23
-- [x] Exported to Keepeek Friday 13 July 2018 at 2:44
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
-
-------
-
-## [An empirical investigation on the drivers of income redistribution across OECD countries](https://doi.org/10.1787/5cb47f33-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 18 July 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 July 2018 at 3:42
-- [x] Exported to Keepeek Monday 16 July 2018 at 21:05
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [The quantification of structural reforms - Introducing country-specific policy effects](https://doi.org/10.1787/885727c3-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 18 July 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 July 2018 at 3:42
-- [x] Exported to Keepeek Monday 16 July 2018 at 21:05
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Wednesday 18 July 2018 at 4:18*
 
 ------
 
@@ -76,13 +13,13 @@ Wednesday 18 July 2018 at 17:28 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 17 July 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Sahel and West Africa Club*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Medium: *PDF*
 
@@ -95,15 +32,15 @@ Embargo date | Launch date
 Wednesday 18 July 2018 at 22:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 11 July 2018 at 4:49
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 17 July 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -123,6 +60,48 @@ Thursday 19 July 2018 at 6:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Reforms for sustainable productivity growth in Ireland](https://doi.org/10.1787/2fd5fd8a-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 23 July 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 17 July 2018 at 21:15
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [The Sustainable Management of a Productive Natural Capital](https://doi.org/10.1787/eaf40452-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 23 July 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 17 July 2018 at 21:15
+
+### Additional Information
+
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
@@ -176,7 +155,7 @@ Monday 23 July 2018 at 16:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Friday 27 July 2018 at 21:00 | no launch event
+Friday 27 July 2018 at 7:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
@@ -206,7 +185,7 @@ Friday 7 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
+* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
@@ -227,7 +206,7 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Public Affairs and Communications Directorate, Development Centre*
+* Directorate: *Development Centre, Public Affairs and Communications Directorate*
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*

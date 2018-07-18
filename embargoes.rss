@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Tue, 17 Jul 2018 02:02:01 GMT</pubDate>
+      <pubDate>Wed, 18 Jul 2018 04:18:45 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -41,7 +41,7 @@
          <oe:iLibraryExport>Wednesday, 11 July 2018, 2:49 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Tuesday, 10 July 2018, 22:51 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264302778-en</guid>
@@ -71,7 +71,7 @@
          <oe:iLibraryExport>Wednesday, 11 July 2018, 2:49 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Tuesday, 10 July 2018, 22:51 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264302839-en</guid>
@@ -86,7 +86,7 @@
          <oe:iLibraryExport>Wednesday, 11 July 2018, 2:49 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Tuesday, 10 July 2018, 22:51 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264303317-en</guid>
@@ -116,7 +116,7 @@
          <oe:iLibraryExport>Wednesday, 11 July 2018, 2:49 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Tuesday, 10 July 2018, 22:51 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/eco_surveys-cze-2018-en</guid>
@@ -161,7 +161,7 @@
          <oe:iLibraryExport>Saturday, 14 July 2018, 5:23 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Friday, 13 July 2018, 0:44 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
-         <oe:availableMedia>ePub, HTML, PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback, ePub, HTML</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/5cb47f33-en</guid>
@@ -204,7 +204,7 @@
          <oe:directorate>Sahel and West Africa Club</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport/>
-         <oe:freePreviewExport/>
+         <oe:freePreviewExport>Tuesday, 17 July 2018, 19:15 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Working paper</oe:catalogueType>
          <oe:availableMedia>PDF</oe:availableMedia>
       </item>
@@ -217,9 +217,9 @@
          <oe:embargoTime>2018-07-18T20:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Directorate for Education and Skills</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Wednesday, 11 July 2018, 2:49 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:freePreviewExport>Tuesday, 17 July 2018, 19:15 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
@@ -239,6 +239,36 @@
          <oe:availableMedia>PDF</oe:availableMedia>
       </item>
       <item>
+         <guid isPermaLink="false">10.1787/2fd5fd8a-en</guid>
+         <pubDate>Mon, 23 Jul 2018 00:00:00 GMT</pubDate>
+         <title>Reforms for sustainable productivity growth in Ireland</title>
+         <link>https://doi.org/10.1787/2fd5fd8a-en</link>
+         <description>Reforms for sustainable productivity growth in Ireland by Economics Department has an embargo on Monday, 23 July 2018, 2:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-07-23T00:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Tuesday, 17 July 2018, 19:15 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/eaf40452-en</guid>
+         <pubDate>Mon, 23 Jul 2018 00:00:00 GMT</pubDate>
+         <title>The Sustainable Management of a Productive Natural Capital</title>
+         <link>https://doi.org/10.1787/eaf40452-en</link>
+         <description>The Sustainable Management of a Productive Natural Capital by Economics Department has an embargo on Monday, 23 July 2018, 2:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-07-23T00:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Tuesday, 17 July 2018, 19:15 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
          <guid isPermaLink="false">10.1787/eco_surveys-can-2018-fr</guid>
          <pubDate>Mon, 23 Jul 2018 14:00:00 GMT</pubDate>
          <title>Études économiques de l'OCDE : Canada 2018</title>
@@ -251,7 +281,7 @@
          <oe:iLibraryExport>Tuesday, 10 July 2018, 3:03 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Economic survey</oe:catalogueType>
-         <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback, ePub</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/eco_surveys-can-2018-en</guid>
@@ -266,15 +296,15 @@
          <oe:iLibraryExport>Tuesday, 10 July 2018, 3:03 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Economic survey</oe:catalogueType>
-         <oe:availableMedia>Paperback, ePub, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback, ePub</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264302402-en</guid>
-         <pubDate>Fri, 27 Jul 2018 19:00:00 GMT</pubDate>
+         <pubDate>Fri, 27 Jul 2018 05:00:00 GMT</pubDate>
          <title>Education Policy in Japan - Building Bridges towards 2030</title>
          <link>https://doi.org/10.1787/9789264302402-en</link>
-         <description>Education Policy in Japan - Building Bridges towards 2030 by Directorate for Education and Skills has an embargo on Friday, 27 July 2018, 21:00 Paris time (GMT+02:00).</description>
-         <oe:embargoTime>2018-07-27T19:00:00Z</oe:embargoTime>
+         <description>Education Policy in Japan - Building Bridges towards 2030 by Directorate for Education and Skills has an embargo on Friday, 27 July 2018, 7:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-07-27T05:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Directorate for Education and Skills</oe:directorate>
          <oe:ftiLoaded/>
@@ -288,10 +318,10 @@
          <pubDate>Fri, 07 Sep 2018 09:00:00 GMT</pubDate>
          <title>Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands</title>
          <link>https://doi.org/10.1787/9789264292048-en</link>
-         <description>Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands by Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills has an embargo on Friday, 7 September 2018, 11:00 Paris time (GMT+02:00).</description>
+         <description>Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands by Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development has an embargo on Friday, 7 September 2018, 11:00 Paris time (GMT+02:00).</description>
          <oe:embargoTime>2018-09-07T09:00:00Z</oe:embargoTime>
          <oe:launchTime/>
-         <oe:directorate>Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills</oe:directorate>
+         <oe:directorate>Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development</oe:directorate>
          <oe:ftiLoaded/>
          <oe:iLibraryExport>Tuesday, 19 June 2018, 20:07 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
@@ -303,10 +333,10 @@
          <pubDate>Tue, 18 Sep 2018 09:00:00 GMT</pubDate>
          <title>Examen multidimensionnel du Sénégal - Volume 3. De l'analyse à l'action</title>
          <link>https://doi.org/10.1787/9789264300347-fr</link>
-         <description>Examen multidimensionnel du Sénégal - Volume 3. De l'analyse à l'action by Public Affairs and Communications Directorate, Development Centre has an embargo on Tuesday, 18 September 2018, 11:00 Paris time (GMT+02:00).</description>
+         <description>Examen multidimensionnel du Sénégal - Volume 3. De l'analyse à l'action by Development Centre, Public Affairs and Communications Directorate has an embargo on Tuesday, 18 September 2018, 11:00 Paris time (GMT+02:00).</description>
          <oe:embargoTime>2018-09-18T09:00:00Z</oe:embargoTime>
          <oe:launchTime/>
-         <oe:directorate>Public Affairs and Communications Directorate, Development Centre</oe:directorate>
+         <oe:directorate>Development Centre, Public Affairs and Communications Directorate</oe:directorate>
          <oe:ftiLoaded/>
          <oe:iLibraryExport>Thursday, 12 July 2018, 1:42 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
