@@ -1,27 +1,6 @@
-# OECD publication embargoes (13 embargoes)
+# OECD publication embargoes (14 embargoes)
 
-*Data generated on Thursday 19 July 2018 at 3:41*
-
-------
-
-## [Unintended technology-bias in corporate income taxation - The case of electricity generation in the low-carbon transition](https://doi.org/10.1787/9f4a34ff-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 19 July 2018 at 6:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 14 July 2018 at 7:23
-- [x] Exported to Keepeek Friday 13 July 2018 at 21:03
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Friday 20 July 2018 at 4:05*
 
 ------
 
@@ -33,7 +12,7 @@ Friday 20 July 2018 at 10:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 14 July 2018 at 7:23
+- [x] Exported to iLibrary Thursday 19 July 2018 at 5:18
 - [x] Exported to Keepeek Wednesday 18 July 2018 at 21:01
 
 ### Additional Information
@@ -75,7 +54,7 @@ Monday 23 July 2018 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 18 July 2018 at 5:53
+- [x] Exported to iLibrary Thursday 19 July 2018 at 5:18
 - [x] Exported to Keepeek Wednesday 18 July 2018 at 21:01
 
 ### Additional Information
@@ -117,8 +96,8 @@ Monday 23 July 2018 at 16:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
-- [x] Exported to Keepeek Wednesday 18 July 2018 at 21:01
+- [x] Exported to iLibrary Thursday 19 July 2018 at 5:18
+- [x] Exported to Keepeek Thursday 19 July 2018 at 21:01
 
 ### Additional Information
 
@@ -138,8 +117,8 @@ Monday 23 July 2018 at 16:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 July 2018 at 5:03
-- [x] Exported to Keepeek Wednesday 18 July 2018 at 21:01
+- [x] Exported to iLibrary Thursday 19 July 2018 at 5:18
+- [x] Exported to Keepeek Thursday 19 July 2018 at 21:01
 
 ### Additional Information
 
@@ -159,7 +138,7 @@ Tuesday 24 July 2018 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 19 July 2018 at 5:18
 - [x] Exported to Keepeek Wednesday 18 July 2018 at 21:01
 
 ### Additional Information
@@ -180,12 +159,54 @@ Tuesday 24 July 2018 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 19 July 2018 at 5:18
 - [x] Exported to Keepeek Wednesday 18 July 2018 at 21:01
 
 ### Additional Information
 
 * Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Les pratiques et les compétences des adultes en numératie](https://doi.org/10.1787/3545c222-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 July 2018 at 10:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Thursday 19 July 2018 at 21:01
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Numeracy Practices and Numeracy Skills among Adults](https://doi.org/10.1787/8f19fc9f-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 July 2018 at 10:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Thursday 19 July 2018 at 21:01
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
@@ -201,7 +222,7 @@ Thursday 26 July 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 12 July 2018 at 3:42
+- [x] Exported to iLibrary Thursday 19 July 2018 at 5:18
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -269,7 +290,7 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Development Centre, Public Affairs and Communications Directorate*
+* Directorate: *Public Affairs and Communications Directorate, Development Centre*
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*

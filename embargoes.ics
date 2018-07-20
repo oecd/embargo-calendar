@@ -4,87 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264302075-en
-SUMMARY:States of Fragility 2018
-DESCRIPTION:Directorate: Development Co-operation Di
- rectorate\nLanguage: English\nDOI: https
- ://doi.org/10.1787/9789264302075-en\nPub
- lication type: Stand-alone monograph\nRe
- leased as: HTML, PDF, Paperback, ePub.\n
- \niLibrary export: 14 July 2018, 5:23 Pa
- ris time (GMT+00:00)\nFreepreview export
- : 13 July 2018, 0:44 Paris time (GMT+00:
- 00)\nFTI loaded: ✓.
-DTSTAMP:20180719T034136Z
-DTSTART:20180717T150000Z
-DTEND:20180717T151500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: States of Fragility 2018
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/5cb47f33-en
-SUMMARY:An empirical investigation on the driver
- s of income redistribution across OECD c
- ountries
-DESCRIPTION:Directorate: Economics Department\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/5cb47f33-en\nPublication type: Workin
- g paper\nReleased as: PDF.\n\niLibrary e
- xport: 12 July 2018, 1:42 Paris time (GM
- T+00:00)\nFreepreview export: 16 July 20
- 18, 19:05 Paris time (GMT+00:00)\nFTI lo
- aded: ✓, ✓.
-DTSTAMP:20180719T034136Z
-DTSTART:20180718T000000Z
-DTEND:20180718T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: An empirical investigation on 
- the drivers of income redistribution acr
- oss OECD countries
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/885727c3-en
-SUMMARY:The quantification of structural reforms
-  - Introducing country-specific policy e
- ffects
-DESCRIPTION:Directorate: Economics Department\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/885727c3-en\nPublication type: Workin
- g paper\nReleased as: PDF.\n\niLibrary e
- xport: 12 July 2018, 1:42 Paris time (GM
- T+00:00)\nFreepreview export: 16 July 20
- 18, 19:05 Paris time (GMT+00:00)\nFTI lo
- aded: ✓, ✓.
-DTSTAMP:20180719T034136Z
-DTSTART:20180718T000000Z
-DTEND:20180718T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: The quantification of structur
- al reforms - Introducing country-specifi
- c policy effects
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/eb3b2806-en
 SUMMARY:Identifying the Factors Driving West Afr
  ican Migration
@@ -96,7 +15,7 @@ DESCRIPTION:Directorate: Sahel and West Africa Club\
  me (GMT+00:00)\nFreepreview export: 18 J
  uly 2018, 19:01 Paris time (GMT+00:00)\n
  FTI loaded: ✓.
-DTSTAMP:20180719T034136Z
+DTSTAMP:20180720T040551Z
 DTSTART:20180718T152800Z
 DTEND:20180718T154300Z
 TRANSP:TRANSPARENT
@@ -122,7 +41,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  18, 3:53 Paris time (GMT+00:00)\nFreepre
  view export: 17 July 2018, 19:15 Paris t
  ime (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180719T034136Z
+DTSTAMP:20180720T040551Z
 DTSTART:20180718T200000Z
 DTEND:20180718T201500Z
 TRANSP:TRANSPARENT
@@ -150,7 +69,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
   5:23 Paris time (GMT+00:00)\nFreeprevie
  w export: 13 July 2018, 19:03 Paris time
   (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20180719T034136Z
+DTSTAMP:20180720T040551Z
 DTSTART:20180719T040000Z
 DTEND:20180719T041500Z
 TRANSP:TRANSPARENT
@@ -173,12 +92,13 @@ SUMMARY:Examens de l'OCDE du cadre d'évaluation
 DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: French\nDOI: https:
  //doi.org/10.1787/9789264301832-fr\nPubl
- ication type: Book\nReleased as: Paperba
- ck, PDF, ePub.\n\niLibrary export: 14 Ju
- ly 2018, 5:23 Paris time (GMT+00:00)\nFr
- eepreview export: 18 July 2018, 19:01 Pa
- ris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180719T034136Z
+ ication type: Book\nReleased as: PDF, eP
+ ub, Paperback, HTML.\n\niLibrary export:
+  19 July 2018, 3:18 Paris time (GMT+00:0
+ 0)\nFreepreview export: 18 July 2018, 19
+ :01 Paris time (GMT+00:00)\nFTI loaded: 
+ ✓.
+DTSTAMP:20180720T040551Z
 DTSTART:20180720T080000Z
 DTEND:20180720T081500Z
 TRANSP:TRANSPARENT
@@ -200,10 +120,10 @@ SUMMARY:OECD Reviews of Evaluation and Assessmen
 DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9789264301818-en\nPub
- lication type: Book\nReleased as: PDF, P
- aperback.\n\niLibrary export: never\nFre
+ lication type: Book\nReleased as: Paperb
+ ack, PDF.\n\niLibrary export: never\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180719T034136Z
+DTSTAMP:20180720T040551Z
 DTSTART:20180720T080000Z
 DTEND:20180720T081500Z
 TRANSP:TRANSPARENT
@@ -226,11 +146,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/2fd5fd8a-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
- xport: 18 July 2018, 3:53 Paris time (GM
+ xport: 19 July 2018, 3:18 Paris time (GM
  T+00:00)\nFreepreview export: 18 July 20
  18, 19:01 Paris time (GMT+00:00)\nFTI lo
  aded: ✓, ✓.
-DTSTAMP:20180719T034136Z
+DTSTAMP:20180720T040551Z
 DTSTART:20180723T000000Z
 DTEND:20180723T001500Z
 TRANSP:TRANSPARENT
@@ -256,7 +176,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  T+00:00)\nFreepreview export: 17 July 20
  18, 19:15 Paris time (GMT+00:00)\nFTI lo
  aded: ✓, ✓.
-DTSTAMP:20180719T034136Z
+DTSTAMP:20180720T040551Z
 DTSTART:20180723T000000Z
 DTEND:20180723T001500Z
 TRANSP:TRANSPARENT
@@ -277,12 +197,12 @@ SUMMARY:Études économiques de l'OCDE : Canada 20
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: French\nDOI: https://doi.org/10.178
  7/eco_surveys-can-2018-fr\nPublication t
- ype: Economic survey\nReleased as: PDF, 
- Paperback, ePub.\n\niLibrary export: 10 
- July 2018, 3:03 Paris time (GMT+00:00)\n
- Freepreview export: 18 July 2018, 19:01 
+ ype: Economic survey\nReleased as: Paper
+ back, ePub, PDF.\n\niLibrary export: 19 
+ July 2018, 3:18 Paris time (GMT+00:00)\n
+ Freepreview export: 19 July 2018, 19:01 
  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180719T034136Z
+DTSTAMP:20180720T040551Z
 DTSTART:20180723T140000Z
 DTEND:20180723T141500Z
 TRANSP:TRANSPARENT
@@ -302,12 +222,12 @@ SUMMARY:OECD Economic Surveys: Canada 2018
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-can-2018-en\nPublication 
- type: Economic survey\nReleased as: PDF,
-  Paperback, ePub.\n\niLibrary export: 10
-  July 2018, 3:03 Paris time (GMT+00:00)\
- nFreepreview export: 18 July 2018, 19:01
+ type: Economic survey\nReleased as: Pape
+ rback, ePub, PDF.\n\niLibrary export: 19
+  July 2018, 3:18 Paris time (GMT+00:00)\
+ nFreepreview export: 19 July 2018, 19:01
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180719T034136Z
+DTSTAMP:20180720T040551Z
 DTSTART:20180723T140000Z
 DTEND:20180723T141500Z
 TRANSP:TRANSPARENT
@@ -329,10 +249,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/4ce667b4-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
- xport: never\nFreepreview export: 18 Jul
- y 2018, 19:01 Paris time (GMT+00:00)\nFT
- I loaded: ✓, ✓.
-DTSTAMP:20180719T034136Z
+ xport: 19 July 2018, 3:18 Paris time (GM
+ T+00:00)\nFreepreview export: 18 July 20
+ 18, 19:01 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓, ✓.
+DTSTAMP:20180720T040551Z
 DTSTART:20180724T000000Z
 DTEND:20180724T001500Z
 TRANSP:TRANSPARENT
@@ -354,10 +275,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/140b48c3-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
- xport: never\nFreepreview export: 18 Jul
- y 2018, 19:01 Paris time (GMT+00:00)\nFT
- I loaded: ✓, ✓.
-DTSTAMP:20180719T034136Z
+ xport: 19 July 2018, 3:18 Paris time (GM
+ T+00:00)\nFreepreview export: 18 July 20
+ 18, 19:01 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓, ✓.
+DTSTAMP:20180720T040551Z
 DTSTART:20180724T000000Z
 DTEND:20180724T001500Z
 TRANSP:TRANSPARENT
@@ -372,6 +294,56 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/3545c222-fr
+SUMMARY:Les pratiques et les compétences des adu
+ ltes en numératie
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: French\nDOI: https:
+ //doi.org/10.1787/3545c222-fr\nPublicati
+ on type: Working paper\nReleased as: PDF
+ .\n\niLibrary export: never\nFreepreview
+  export: 19 July 2018, 19:01 Paris time 
+ (GMT+00:00)\nFTI loaded: ✓, ✓.
+DTSTAMP:20180720T040551Z
+DTSTART:20180726T080000Z
+DTEND:20180726T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Les pratiques et les compétenc
+ es des adultes en numératie
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/8f19fc9f-en
+SUMMARY:Numeracy Practices and Numeracy Skills a
+ mong Adults
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: English\nDOI: https
+ ://doi.org/10.1787/8f19fc9f-en\nPublicat
+ ion type: Working paper\nReleased as: PD
+ F.\n\niLibrary export: never\nFreeprevie
+ w export: 19 July 2018, 19:01 Paris time
+  (GMT+00:00)\nFTI loaded: ✓, ✓.
+DTSTAMP:20180720T040551Z
+DTSTART:20180726T080000Z
+DTEND:20180726T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Numeracy Practices and Numerac
+ y Skills among Adults
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264302617-en
 SUMMARY:Corporate Governance in Lithuania
 DESCRIPTION:Directorate: Directorate for Financial a
@@ -379,10 +351,10 @@ DESCRIPTION:Directorate: Directorate for Financial a
  \nDOI: https://doi.org/10.1787/978926430
  2617-en\nPublication type: Book\nRelease
  d as: Paperback, PDF.\n\niLibrary export
- : 12 July 2018, 1:42 Paris time (GMT+00:
+ : 19 July 2018, 3:18 Paris time (GMT+00:
  00)\nFreepreview export: never\nFTI load
  ed: no.
-DTSTAMP:20180719T034136Z
+DTSTAMP:20180720T040551Z
 DTSTART:20180726T090000Z
 DTEND:20180726T091500Z
 TRANSP:TRANSPARENT
@@ -407,7 +379,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  aperback.\n\niLibrary export: 18 July 20
  18, 3:53 Paris time (GMT+00:00)\nFreepre
  view export: never\nFTI loaded: no.
-DTSTAMP:20180719T034136Z
+DTSTAMP:20180720T040551Z
 DTSTART:20180727T050000Z
 DTEND:20180727T051500Z
 TRANSP:TRANSPARENT
@@ -435,7 +407,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  \niLibrary export: 19 June 2018, 20:07 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20180719T034136Z
+DTSTAMP:20180720T040551Z
 DTSTART:20180907T090000Z
 DTEND:20180907T091500Z
 TRANSP:TRANSPARENT
@@ -454,15 +426,15 @@ BEGIN:VEVENT
 UID:10.1787/9789264300347-fr
 SUMMARY:Examen multidimensionnel du Sénégal - Vo
  lume 3. De l'analyse à l'action
-DESCRIPTION:Directorate: Development Centre, Public 
- Affairs and Communications Directorate\n
+DESCRIPTION:Directorate: Public Affairs and Communic
+ ations Directorate, Development Centre\n
  Language: French\nDOI: https://doi.org/1
  0.1787/9789264300347-fr\nPublication typ
  e: Book\nReleased as: PDF, Paperback, eP
  ub, HTML.\n\niLibrary export: 12 July 20
  18, 1:42 Paris time (GMT+00:00)\nFreepre
  view export: never\nFTI loaded: no.
-DTSTAMP:20180719T034136Z
+DTSTAMP:20180720T040551Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
