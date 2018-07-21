@@ -1,48 +1,6 @@
 # OECD publication embargoes (14 embargoes)
 
-*Data generated on Friday 20 July 2018 at 4:05*
-
-------
-
-## [Examens de l'OCDE du cadre d'évaluation de l'éducation : Maroc](https://doi.org/10.1787/9789264301832-fr)
-
-Embargo date | Launch date
--------------|------------
-Friday 20 July 2018 at 10:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 19 July 2018 at 5:18
-- [x] Exported to Keepeek Wednesday 18 July 2018 at 21:01
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [OECD Reviews of Evaluation and Assessment in Education: Morocco (Abriged Version)](https://doi.org/10.1787/9789264301818-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 20 July 2018 at 10:00 | no launch event
-
-### Status Information
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Saturday 21 July 2018 at 4:18*
 
 ------
 
@@ -96,7 +54,7 @@ Monday 23 July 2018 at 16:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 19 July 2018 at 5:18
+- [x] Exported to iLibrary Friday 20 July 2018 at 5:38
 - [x] Exported to Keepeek Thursday 19 July 2018 at 21:01
 
 ### Additional Information
@@ -117,7 +75,7 @@ Monday 23 July 2018 at 16:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 19 July 2018 at 5:18
+- [x] Exported to iLibrary Friday 20 July 2018 at 5:38
 - [x] Exported to Keepeek Thursday 19 July 2018 at 21:01
 
 ### Additional Information
@@ -172,6 +130,48 @@ Tuesday 24 July 2018 at 2:00 | no launch event
 
 ------
 
+## [Les compétences et les pratiques en numératie des étudiants](https://doi.org/10.1787/fe5b7ce1-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 July 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Friday 20 July 2018 at 21:14
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Students’ numeracy skills and practices](https://doi.org/10.1787/b6ce23eb-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 July 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Friday 20 July 2018 at 21:14
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
 ## [Les pratiques et les compétences des adultes en numératie](https://doi.org/10.1787/3545c222-fr)
 
 Embargo date | Launch date
@@ -180,7 +180,7 @@ Thursday 26 July 2018 at 10:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 July 2018 at 5:38
 - [x] Exported to Keepeek Thursday 19 July 2018 at 21:01
 
 ### Additional Information
@@ -201,7 +201,7 @@ Thursday 26 July 2018 at 10:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 July 2018 at 5:38
 - [x] Exported to Keepeek Thursday 19 July 2018 at 21:01
 
 ### Additional Information
@@ -269,7 +269,7 @@ Friday 7 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
+* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*

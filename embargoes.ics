@@ -4,58 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/eb3b2806-en
-SUMMARY:Identifying the Factors Driving West Afr
- ican Migration
-DESCRIPTION:Directorate: Sahel and West Africa Club\
- nLanguage: English\nDOI: https://doi.org
- /10.1787/eb3b2806-en\nPublication type: 
- Working paper\nReleased as: PDF.\n\niLib
- rary export: 18 July 2018, 3:53 Paris ti
- me (GMT+00:00)\nFreepreview export: 18 J
- uly 2018, 19:01 Paris time (GMT+00:00)\n
- FTI loaded: ✓.
-DTSTAMP:20180720T040551Z
-DTSTART:20180718T152800Z
-DTEND:20180718T154300Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Identifying the Factors Drivin
- g West African Migration
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264303751-en
-SUMMARY:OECD Reviews of School Resources: Colomb
- ia 2018
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills\nLanguage: English\nDOI: https
- ://doi.org/10.1787/9789264303751-en\nPub
- lication type: Book\nReleased as: PDF, P
- aperback.\n\niLibrary export: 18 July 20
- 18, 3:53 Paris time (GMT+00:00)\nFreepre
- view export: 17 July 2018, 19:15 Paris t
- ime (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180720T040551Z
-DTSTART:20180718T200000Z
-DTEND:20180718T201500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Reviews of School Resourc
- es: Colombia 2018
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9f4a34ff-en
 SUMMARY:Unintended technology-bias in corporate 
  income taxation - The case of electricit
@@ -69,7 +17,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
   5:23 Paris time (GMT+00:00)\nFreeprevie
  w export: 13 July 2018, 19:03 Paris time
   (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20180720T040551Z
+DTSTAMP:20180721T041849Z
 DTSTART:20180719T040000Z
 DTEND:20180719T041500Z
 TRANSP:TRANSPARENT
@@ -92,13 +40,13 @@ SUMMARY:Examens de l'OCDE du cadre d'évaluation
 DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: French\nDOI: https:
  //doi.org/10.1787/9789264301832-fr\nPubl
- ication type: Book\nReleased as: PDF, eP
- ub, Paperback, HTML.\n\niLibrary export:
+ ication type: Book\nReleased as: ePub, P
+ aperback, HTML, PDF.\n\niLibrary export:
   19 July 2018, 3:18 Paris time (GMT+00:0
  0)\nFreepreview export: 18 July 2018, 19
  :01 Paris time (GMT+00:00)\nFTI loaded: 
  ✓.
-DTSTAMP:20180720T040551Z
+DTSTAMP:20180721T041849Z
 DTSTART:20180720T080000Z
 DTEND:20180720T081500Z
 TRANSP:TRANSPARENT
@@ -120,10 +68,10 @@ SUMMARY:OECD Reviews of Evaluation and Assessmen
 DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9789264301818-en\nPub
- lication type: Book\nReleased as: Paperb
- ack, PDF.\n\niLibrary export: never\nFre
+ lication type: Book\nReleased as: PDF, P
+ aperback.\n\niLibrary export: never\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180720T040551Z
+DTSTAMP:20180721T041849Z
 DTSTART:20180720T080000Z
 DTEND:20180720T081500Z
 TRANSP:TRANSPARENT
@@ -150,7 +98,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  T+00:00)\nFreepreview export: 18 July 20
  18, 19:01 Paris time (GMT+00:00)\nFTI lo
  aded: ✓, ✓.
-DTSTAMP:20180720T040551Z
+DTSTAMP:20180721T041849Z
 DTSTART:20180723T000000Z
 DTEND:20180723T001500Z
 TRANSP:TRANSPARENT
@@ -176,7 +124,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  T+00:00)\nFreepreview export: 17 July 20
  18, 19:15 Paris time (GMT+00:00)\nFTI lo
  aded: ✓, ✓.
-DTSTAMP:20180720T040551Z
+DTSTAMP:20180721T041849Z
 DTSTART:20180723T000000Z
 DTEND:20180723T001500Z
 TRANSP:TRANSPARENT
@@ -197,12 +145,12 @@ SUMMARY:Études économiques de l'OCDE : Canada 20
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: French\nDOI: https://doi.org/10.178
  7/eco_surveys-can-2018-fr\nPublication t
- ype: Economic survey\nReleased as: Paper
- back, ePub, PDF.\n\niLibrary export: 19 
- July 2018, 3:18 Paris time (GMT+00:00)\n
+ ype: Economic survey\nReleased as: PDF, 
+ Paperback, ePub.\n\niLibrary export: 20 
+ July 2018, 3:38 Paris time (GMT+00:00)\n
  Freepreview export: 19 July 2018, 19:01 
  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180720T040551Z
+DTSTAMP:20180721T041849Z
 DTSTART:20180723T140000Z
 DTEND:20180723T141500Z
 TRANSP:TRANSPARENT
@@ -222,12 +170,12 @@ SUMMARY:OECD Economic Surveys: Canada 2018
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-can-2018-en\nPublication 
- type: Economic survey\nReleased as: Pape
- rback, ePub, PDF.\n\niLibrary export: 19
-  July 2018, 3:18 Paris time (GMT+00:00)\
+ type: Economic survey\nReleased as: PDF,
+  Paperback, ePub.\n\niLibrary export: 20
+  July 2018, 3:38 Paris time (GMT+00:00)\
  nFreepreview export: 19 July 2018, 19:01
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180720T040551Z
+DTSTAMP:20180721T041849Z
 DTSTART:20180723T140000Z
 DTEND:20180723T141500Z
 TRANSP:TRANSPARENT
@@ -253,7 +201,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  T+00:00)\nFreepreview export: 18 July 20
  18, 19:01 Paris time (GMT+00:00)\nFTI lo
  aded: ✓, ✓.
-DTSTAMP:20180720T040551Z
+DTSTAMP:20180721T041849Z
 DTSTART:20180724T000000Z
 DTEND:20180724T001500Z
 TRANSP:TRANSPARENT
@@ -279,7 +227,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  T+00:00)\nFreepreview export: 18 July 20
  18, 19:01 Paris time (GMT+00:00)\nFTI lo
  aded: ✓, ✓.
-DTSTAMP:20180720T040551Z
+DTSTAMP:20180721T041849Z
 DTSTART:20180724T000000Z
 DTEND:20180724T001500Z
 TRANSP:TRANSPARENT
@@ -294,6 +242,55 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/fe5b7ce1-fr
+SUMMARY:Les compétences et les pratiques en numé
+ ratie des étudiants
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: French\nDOI: https:
+ //doi.org/10.1787/fe5b7ce1-fr\nPublicati
+ on type: Working paper\nReleased as: PDF
+ .\n\niLibrary export: never\nFreepreview
+  export: 20 July 2018, 19:14 Paris time 
+ (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180721T041849Z
+DTSTART:20180726T000000Z
+DTEND:20180726T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Les compétences et les pratiqu
+ es en numératie des étudiants
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/b6ce23eb-en
+SUMMARY:Students’ numeracy skills and practices
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: English\nDOI: https
+ ://doi.org/10.1787/b6ce23eb-en\nPublicat
+ ion type: Working paper\nReleased as: PD
+ F.\n\niLibrary export: never\nFreeprevie
+ w export: 20 July 2018, 19:14 Paris time
+  (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180721T041849Z
+DTSTART:20180726T000000Z
+DTEND:20180726T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Students’ numeracy skills and 
+ practices
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/3545c222-fr
 SUMMARY:Les pratiques et les compétences des adu
  ltes en numératie
@@ -301,10 +298,11 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: French\nDOI: https:
  //doi.org/10.1787/3545c222-fr\nPublicati
  on type: Working paper\nReleased as: PDF
- .\n\niLibrary export: never\nFreepreview
-  export: 19 July 2018, 19:01 Paris time 
- (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20180720T040551Z
+ .\n\niLibrary export: 20 July 2018, 3:38
+  Paris time (GMT+00:00)\nFreepreview exp
+ ort: 19 July 2018, 19:01 Paris time (GMT
+ +00:00)\nFTI loaded: ✓, ✓.
+DTSTAMP:20180721T041849Z
 DTSTART:20180726T080000Z
 DTEND:20180726T081500Z
 TRANSP:TRANSPARENT
@@ -326,10 +324,11 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/8f19fc9f-en\nPublicat
  ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: never\nFreeprevie
- w export: 19 July 2018, 19:01 Paris time
-  (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20180720T040551Z
+ F.\n\niLibrary export: 20 July 2018, 3:3
+ 8 Paris time (GMT+00:00)\nFreepreview ex
+ port: 19 July 2018, 19:01 Paris time (GM
+ T+00:00)\nFTI loaded: ✓, ✓.
+DTSTAMP:20180721T041849Z
 DTSTART:20180726T080000Z
 DTEND:20180726T081500Z
 TRANSP:TRANSPARENT
@@ -354,7 +353,7 @@ DESCRIPTION:Directorate: Directorate for Financial a
  : 19 July 2018, 3:18 Paris time (GMT+00:
  00)\nFreepreview export: never\nFTI load
  ed: no.
-DTSTAMP:20180720T040551Z
+DTSTAMP:20180721T041849Z
 DTSTART:20180726T090000Z
 DTEND:20180726T091500Z
 TRANSP:TRANSPARENT
@@ -375,11 +374,12 @@ SUMMARY:Education Policy in Japan - Building Bri
 DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9789264302402-en\nPub
- lication type: Book\nReleased as: PDF, P
- aperback.\n\niLibrary export: 18 July 20
- 18, 3:53 Paris time (GMT+00:00)\nFreepre
- view export: never\nFTI loaded: no.
-DTSTAMP:20180720T040551Z
+ lication type: Book\nReleased as: Paperb
+ ack, HTML, PDF, ePub.\n\niLibrary export
+ : 18 July 2018, 3:53 Paris time (GMT+00:
+ 00)\nFreepreview export: never\nFTI load
+ ed: no.
+DTSTAMP:20180721T041849Z
 DTSTART:20180727T050000Z
 DTEND:20180727T051500Z
 TRANSP:TRANSPARENT
@@ -398,16 +398,16 @@ UID:10.1787/9789264292048-en
 SUMMARY:Supporting Entrepreneurship and Innovati
  on in Higher Education in The Netherland
  s
-DESCRIPTION:Directorate: Centre for Entrepreneurship
- , SMEs and Local Development, Directorat
- e for Education and Skills\nLanguage: En
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills, Centre for Entrepreneurship, 
+ SMEs and Local Development\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264292048-en\nPublication type: Book\nRe
  leased as: ePub, PDF, HTML, Paperback.\n
  \niLibrary export: 19 June 2018, 20:07 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20180720T040551Z
+DTSTAMP:20180721T041849Z
 DTSTART:20180907T090000Z
 DTEND:20180907T091500Z
 TRANSP:TRANSPARENT
@@ -434,7 +434,7 @@ DESCRIPTION:Directorate: Public Affairs and Communic
  ub, HTML.\n\niLibrary export: 12 July 20
  18, 1:42 Paris time (GMT+00:00)\nFreepre
  view export: never\nFTI loaded: no.
-DTSTAMP:20180720T040551Z
+DTSTAMP:20180721T041849Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
