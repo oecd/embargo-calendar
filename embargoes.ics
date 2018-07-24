@@ -4,89 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9f4a34ff-en
-SUMMARY:Unintended technology-bias in corporate 
- income taxation - The case of electricit
- y generation in the low-carbon transitio
- n
-DESCRIPTION:Directorate: Centre for Tax Policy and A
- dministration\nLanguage: English\nDOI: h
- ttps://doi.org/10.1787/9f4a34ff-en\nPubl
- ication type: Working paper\nReleased as
- : PDF.\n\niLibrary export: 14 July 2018,
-  5:23 Paris time (GMT+00:00)\nFreeprevie
- w export: 13 July 2018, 19:03 Paris time
-  (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20180721T041849Z
-DTSTART:20180719T040000Z
-DTEND:20180719T041500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Unintended technology-bias in 
- corporate income taxation - The case of 
- electricity generation in the low-carbon
-  transition
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264301832-fr
-SUMMARY:Examens de l'OCDE du cadre d'évaluation 
- de l'éducation : Maroc
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills\nLanguage: French\nDOI: https:
- //doi.org/10.1787/9789264301832-fr\nPubl
- ication type: Book\nReleased as: ePub, P
- aperback, HTML, PDF.\n\niLibrary export:
-  19 July 2018, 3:18 Paris time (GMT+00:0
- 0)\nFreepreview export: 18 July 2018, 19
- :01 Paris time (GMT+00:00)\nFTI loaded: 
- ✓.
-DTSTAMP:20180721T041849Z
-DTSTART:20180720T080000Z
-DTEND:20180720T081500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Examens de l'OCDE du cadre d'é
- valuation de l'éducation : Maroc
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264301818-en
-SUMMARY:OECD Reviews of Evaluation and Assessmen
- t in Education: Morocco (Abriged Version
- )
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills\nLanguage: English\nDOI: https
- ://doi.org/10.1787/9789264301818-en\nPub
- lication type: Book\nReleased as: PDF, P
- aperback.\n\niLibrary export: never\nFre
- epreview export: never\nFTI loaded: no.
-DTSTAMP:20180721T041849Z
-DTSTART:20180720T080000Z
-DTEND:20180720T081500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Reviews of Evaluation and
-  Assessment in Education: Morocco (Abrig
- ed Version)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/2fd5fd8a-en
 SUMMARY:Reforms for sustainable productivity gro
  wth in Ireland
@@ -98,7 +15,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  T+00:00)\nFreepreview export: 18 July 20
  18, 19:01 Paris time (GMT+00:00)\nFTI lo
  aded: ✓, ✓.
-DTSTAMP:20180721T041849Z
+DTSTAMP:20180724T041917Z
 DTSTART:20180723T000000Z
 DTEND:20180723T001500Z
 TRANSP:TRANSPARENT
@@ -124,7 +41,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  T+00:00)\nFreepreview export: 17 July 20
  18, 19:15 Paris time (GMT+00:00)\nFTI lo
  aded: ✓, ✓.
-DTSTAMP:20180721T041849Z
+DTSTAMP:20180724T041917Z
 DTSTART:20180723T000000Z
 DTEND:20180723T001500Z
 TRANSP:TRANSPARENT
@@ -150,7 +67,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  July 2018, 3:38 Paris time (GMT+00:00)\n
  Freepreview export: 19 July 2018, 19:01 
  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180721T041849Z
+DTSTAMP:20180724T041917Z
 DTSTART:20180723T140000Z
 DTEND:20180723T141500Z
 TRANSP:TRANSPARENT
@@ -175,7 +92,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
   July 2018, 3:38 Paris time (GMT+00:00)\
  nFreepreview export: 19 July 2018, 19:01
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180721T041849Z
+DTSTAMP:20180724T041917Z
 DTSTART:20180723T140000Z
 DTEND:20180723T141500Z
 TRANSP:TRANSPARENT
@@ -201,7 +118,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  T+00:00)\nFreepreview export: 18 July 20
  18, 19:01 Paris time (GMT+00:00)\nFTI lo
  aded: ✓, ✓.
-DTSTAMP:20180721T041849Z
+DTSTAMP:20180724T041917Z
 DTSTART:20180724T000000Z
 DTEND:20180724T001500Z
 TRANSP:TRANSPARENT
@@ -227,7 +144,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  T+00:00)\nFreepreview export: 18 July 20
  18, 19:01 Paris time (GMT+00:00)\nFTI lo
  aded: ✓, ✓.
-DTSTAMP:20180721T041849Z
+DTSTAMP:20180724T041917Z
 DTSTART:20180724T000000Z
 DTEND:20180724T001500Z
 TRANSP:TRANSPARENT
@@ -249,10 +166,11 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: French\nDOI: https:
  //doi.org/10.1787/fe5b7ce1-fr\nPublicati
  on type: Working paper\nReleased as: PDF
- .\n\niLibrary export: never\nFreepreview
-  export: 20 July 2018, 19:14 Paris time 
- (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180721T041849Z
+ .\n\niLibrary export: 21 July 2018, 4:00
+  Paris time (GMT+00:00)\nFreepreview exp
+ ort: 20 July 2018, 19:14 Paris time (GMT
+ +00:00)\nFTI loaded: ✓.
+DTSTAMP:20180724T041917Z
 DTSTART:20180726T000000Z
 DTEND:20180726T001500Z
 TRANSP:TRANSPARENT
@@ -273,10 +191,11 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/b6ce23eb-en\nPublicat
  ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: never\nFreeprevie
- w export: 20 July 2018, 19:14 Paris time
-  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180721T041849Z
+ F.\n\niLibrary export: 21 July 2018, 4:0
+ 0 Paris time (GMT+00:00)\nFreepreview ex
+ port: 23 July 2018, 19:12 Paris time (GM
+ T+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180724T041917Z
 DTSTART:20180726T000000Z
 DTEND:20180726T001500Z
 TRANSP:TRANSPARENT
@@ -302,7 +221,7 @@ DESCRIPTION:Directorate: Directorate for Education a
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 19 July 2018, 19:01 Paris time (GMT
  +00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20180721T041849Z
+DTSTAMP:20180724T041917Z
 DTSTART:20180726T080000Z
 DTEND:20180726T081500Z
 TRANSP:TRANSPARENT
@@ -328,7 +247,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  8 Paris time (GMT+00:00)\nFreepreview ex
  port: 19 July 2018, 19:01 Paris time (GM
  T+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20180721T041849Z
+DTSTAMP:20180724T041917Z
 DTSTART:20180726T080000Z
 DTEND:20180726T081500Z
 TRANSP:TRANSPARENT
@@ -349,11 +268,11 @@ DESCRIPTION:Directorate: Directorate for Financial a
  nd Enterprise Affairs\nLanguage: English
  \nDOI: https://doi.org/10.1787/978926430
  2617-en\nPublication type: Book\nRelease
- d as: Paperback, PDF.\n\niLibrary export
+ d as: PDF, Paperback.\n\niLibrary export
  : 19 July 2018, 3:18 Paris time (GMT+00:
  00)\nFreepreview export: never\nFTI load
  ed: no.
-DTSTAMP:20180721T041849Z
+DTSTAMP:20180724T041917Z
 DTSTART:20180726T090000Z
 DTEND:20180726T091500Z
 TRANSP:TRANSPARENT
@@ -379,7 +298,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  : 18 July 2018, 3:53 Paris time (GMT+00:
  00)\nFreepreview export: never\nFTI load
  ed: no.
-DTSTAMP:20180721T041849Z
+DTSTAMP:20180724T041917Z
 DTSTART:20180727T050000Z
 DTEND:20180727T051500Z
 TRANSP:TRANSPARENT
@@ -398,16 +317,16 @@ UID:10.1787/9789264292048-en
 SUMMARY:Supporting Entrepreneurship and Innovati
  on in Higher Education in The Netherland
  s
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills, Centre for Entrepreneurship, 
- SMEs and Local Development\nLanguage: En
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development, Directorat
+ e for Education and Skills\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264292048-en\nPublication type: Book\nRe
  leased as: ePub, PDF, HTML, Paperback.\n
  \niLibrary export: 19 June 2018, 20:07 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20180721T041849Z
+DTSTAMP:20180724T041917Z
 DTSTART:20180907T090000Z
 DTEND:20180907T091500Z
 TRANSP:TRANSPARENT
@@ -434,7 +353,7 @@ DESCRIPTION:Directorate: Public Affairs and Communic
  ub, HTML.\n\niLibrary export: 12 July 20
  18, 1:42 Paris time (GMT+00:00)\nFreepre
  view export: never\nFTI loaded: no.
-DTSTAMP:20180721T041849Z
+DTSTAMP:20180724T041917Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT

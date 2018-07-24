@@ -1,132 +1,6 @@
-# OECD publication embargoes (14 embargoes)
+# OECD publication embargoes (8 embargoes)
 
-*Data generated on Saturday 21 July 2018 at 4:18*
-
-------
-
-## [Reforms for sustainable productivity growth in Ireland](https://doi.org/10.1787/2fd5fd8a-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 23 July 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 19 July 2018 at 5:18
-- [x] Exported to Keepeek Wednesday 18 July 2018 at 21:01
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [The Sustainable Management of a Productive Natural Capital](https://doi.org/10.1787/eaf40452-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 23 July 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 18 July 2018 at 5:53
-- [x] Exported to Keepeek Tuesday 17 July 2018 at 21:15
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Études économiques de l'OCDE : Canada 2018](https://doi.org/10.1787/eco_surveys-can-2018-fr)
-
-Embargo date | Launch date
--------------|------------
-Monday 23 July 2018 at 16:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 July 2018 at 5:38
-- [x] Exported to Keepeek Thursday 19 July 2018 at 21:01
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Medium: *PDF*
-
-------
-
-## [OECD Economic Surveys: Canada 2018](https://doi.org/10.1787/eco_surveys-can-2018-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 23 July 2018 at 16:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 July 2018 at 5:38
-- [x] Exported to Keepeek Thursday 19 July 2018 at 21:01
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Medium: *PDF*
-
-------
-
-## [Building a stronger and more integrated Europe](https://doi.org/10.1787/4ce667b4-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 24 July 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 19 July 2018 at 5:18
-- [x] Exported to Keepeek Wednesday 18 July 2018 at 21:01
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Stabilisation policies to strengthen Euro area resilience](https://doi.org/10.1787/140b48c3-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 24 July 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 19 July 2018 at 5:18
-- [x] Exported to Keepeek Wednesday 18 July 2018 at 21:01
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Tuesday 24 July 2018 at 4:19*
 
 ------
 
@@ -138,7 +12,7 @@ Thursday 26 July 2018 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Saturday 21 July 2018 at 6:00
 - [x] Exported to Keepeek Friday 20 July 2018 at 21:14
 
 ### Additional Information
@@ -159,8 +33,8 @@ Thursday 26 July 2018 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [x] Exported to Keepeek Friday 20 July 2018 at 21:14
+- [x] Exported to iLibrary Saturday 21 July 2018 at 6:00
+- [x] Exported to Keepeek Monday 23 July 2018 at 21:12
 
 ### Additional Information
 
@@ -269,7 +143,7 @@ Friday 7 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
