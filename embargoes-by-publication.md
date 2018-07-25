@@ -1,6 +1,27 @@
-# OECD publication embargoes (8 embargoes)
+# OECD publication embargoes (11 embargoes)
 
-*Data generated on Tuesday 24 July 2018 at 4:19*
+*Data generated on Wednesday 25 July 2018 at 4:00*
+
+------
+
+## [ Limits to government debt sustainability in middle-income countries](https://doi.org/10.1787/deed4df6-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 July 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 24 July 2018 at 21:13
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
 
 ------
 
@@ -19,6 +40,27 @@ Thursday 26 July 2018 at 2:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *French*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Sovereign defaults - Evidence on the importance of government effectiveness](https://doi.org/10.1787/e6eb6668-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 26 July 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 24 July 2018 at 21:13
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
 * Medium: *PDF*
@@ -95,15 +137,15 @@ Embargo date | Launch date
 Thursday 26 July 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 19 July 2018 at 5:18
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 24 July 2018 at 5:53
+- [x] Exported to Keepeek Tuesday 24 July 2018 at 21:13
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -116,16 +158,37 @@ Embargo date | Launch date
 Friday 27 July 2018 at 7:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 18 July 2018 at 5:53
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 24 July 2018 at 21:13
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Digital technology diffusion - A matter of capabilities, incentives or both?](https://doi.org/10.1787/7c542c16-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 30 July 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 24 July 2018 at 21:13
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
@@ -143,7 +206,7 @@ Friday 7 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
+* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
@@ -164,7 +227,7 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Public Affairs and Communications Directorate, Development Centre*
+* Directorate: *Development Centre, Public Affairs and Communications Directorate*
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
