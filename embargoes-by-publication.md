@@ -1,90 +1,6 @@
-# OECD publication embargoes (11 embargoes)
+# OECD publication embargoes (7 embargoes)
 
-*Data generated on Wednesday 25 July 2018 at 4:00*
-
-------
-
-## [ Limits to government debt sustainability in middle-income countries](https://doi.org/10.1787/deed4df6-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 26 July 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [x] Exported to Keepeek Tuesday 24 July 2018 at 21:13
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Les compétences et les pratiques en numératie des étudiants](https://doi.org/10.1787/fe5b7ce1-fr)
-
-Embargo date | Launch date
--------------|------------
-Thursday 26 July 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 21 July 2018 at 6:00
-- [x] Exported to Keepeek Friday 20 July 2018 at 21:14
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Sovereign defaults - Evidence on the importance of government effectiveness](https://doi.org/10.1787/e6eb6668-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 26 July 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [x] Exported to Keepeek Tuesday 24 July 2018 at 21:13
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Students’ numeracy skills and practices](https://doi.org/10.1787/b6ce23eb-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 26 July 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 21 July 2018 at 6:00
-- [x] Exported to Keepeek Monday 23 July 2018 at 21:12
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Thursday 26 July 2018 at 3:42*
 
 ------
 
@@ -138,7 +54,7 @@ Thursday 26 July 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 24 July 2018 at 5:53
+- [x] Exported to iLibrary Wednesday 25 July 2018 at 5:37
 - [x] Exported to Keepeek Tuesday 24 July 2018 at 21:13
 
 ### Additional Information
@@ -159,7 +75,7 @@ Friday 27 July 2018 at 7:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 18 July 2018 at 5:53
+- [x] Exported to iLibrary Wednesday 25 July 2018 at 5:37
 - [x] Exported to Keepeek Tuesday 24 July 2018 at 21:13
 
 ### Additional Information
@@ -180,7 +96,7 @@ Monday 30 July 2018 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 25 July 2018 at 5:37
 - [x] Exported to Keepeek Tuesday 24 July 2018 at 21:13
 
 ### Additional Information

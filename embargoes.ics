@@ -4,109 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/eco_surveys-can-2018-fr
-SUMMARY:Études économiques de l'OCDE : Canada 20
- 18
-DESCRIPTION:Directorate: Economics Department\nLangu
- age: French\nDOI: https://doi.org/10.178
- 7/eco_surveys-can-2018-fr\nPublication t
- ype: Economic survey\nReleased as: PDF, 
- Paperback, ePub.\n\niLibrary export: 20 
- July 2018, 3:38 Paris time (GMT+00:00)\n
- Freepreview export: 19 July 2018, 19:01 
- Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180725T040017Z
-DTSTART:20180723T140000Z
-DTEND:20180723T141500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Études économiques de l'OCDE :
-  Canada 2018
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/eco_surveys-can-2018-en
-SUMMARY:OECD Economic Surveys: Canada 2018
-DESCRIPTION:Directorate: Economics Department\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/eco_surveys-can-2018-en\nPublication 
- type: Economic survey\nReleased as: PDF,
-  Paperback, ePub.\n\niLibrary export: 20
-  July 2018, 3:38 Paris time (GMT+00:00)\
- nFreepreview export: 19 July 2018, 19:01
-  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180725T040017Z
-DTSTART:20180723T140000Z
-DTEND:20180723T141500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Economic Surveys: Canada 
- 2018
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/4ce667b4-en
-SUMMARY:Building a stronger and more integrated 
- Europe
-DESCRIPTION:Directorate: Economics Department\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/4ce667b4-en\nPublication type: Workin
- g paper\nReleased as: PDF.\n\niLibrary e
- xport: 19 July 2018, 3:18 Paris time (GM
- T+00:00)\nFreepreview export: 18 July 20
- 18, 19:01 Paris time (GMT+00:00)\nFTI lo
- aded: ✓, ✓.
-DTSTAMP:20180725T040017Z
-DTSTART:20180724T000000Z
-DTEND:20180724T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Building a stronger and more i
- ntegrated Europe
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/140b48c3-en
-SUMMARY:Stabilisation policies to strengthen Eur
- o area resilience
-DESCRIPTION:Directorate: Economics Department\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/140b48c3-en\nPublication type: Workin
- g paper\nReleased as: PDF.\n\niLibrary e
- xport: 19 July 2018, 3:18 Paris time (GM
- T+00:00)\nFreepreview export: 18 July 20
- 18, 19:01 Paris time (GMT+00:00)\nFTI lo
- aded: ✓, ✓.
-DTSTAMP:20180725T040017Z
-DTSTART:20180724T000000Z
-DTEND:20180724T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Stabilisation policies to stre
- ngthen Euro area resilience
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/deed4df6-en
 SUMMARY: Limits to government debt sustainabilit
  y in middle-income countries
@@ -114,10 +11,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/deed4df6-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
- xport: never\nFreepreview export: 24 Jul
- y 2018, 19:13 Paris time (GMT+00:00)\nFT
- I loaded: ✓, ✓.
-DTSTAMP:20180725T040017Z
+ xport: 25 July 2018, 3:37 Paris time (GM
+ T+00:00)\nFreepreview export: 24 July 20
+ 18, 19:13 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓, ✓.
+DTSTAMP:20180726T034235Z
 DTSTART:20180726T000000Z
 DTEND:20180726T001500Z
 TRANSP:TRANSPARENT
@@ -143,7 +41,7 @@ DESCRIPTION:Directorate: Directorate for Education a
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 20 July 2018, 19:14 Paris time (GMT
  +00:00)\nFTI loaded: ✓.
-DTSTAMP:20180725T040017Z
+DTSTAMP:20180726T034235Z
 DTSTART:20180726T000000Z
 DTEND:20180726T001500Z
 TRANSP:TRANSPARENT
@@ -165,10 +63,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/e6eb6668-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
- xport: never\nFreepreview export: 24 Jul
- y 2018, 19:13 Paris time (GMT+00:00)\nFT
- I loaded: ✓, ✓.
-DTSTAMP:20180725T040017Z
+ xport: 25 July 2018, 3:37 Paris time (GM
+ T+00:00)\nFreepreview export: 24 July 20
+ 18, 19:13 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓, ✓.
+DTSTAMP:20180726T034235Z
 DTSTART:20180726T000000Z
 DTEND:20180726T001500Z
 TRANSP:TRANSPARENT
@@ -194,7 +93,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  0 Paris time (GMT+00:00)\nFreepreview ex
  port: 23 July 2018, 19:12 Paris time (GM
  T+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180725T040017Z
+DTSTAMP:20180726T034235Z
 DTSTART:20180726T000000Z
 DTEND:20180726T001500Z
 TRANSP:TRANSPARENT
@@ -220,7 +119,7 @@ DESCRIPTION:Directorate: Directorate for Education a
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 19 July 2018, 19:01 Paris time (GMT
  +00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20180725T040017Z
+DTSTAMP:20180726T034235Z
 DTSTART:20180726T080000Z
 DTEND:20180726T081500Z
 TRANSP:TRANSPARENT
@@ -246,7 +145,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  8 Paris time (GMT+00:00)\nFreepreview ex
  port: 19 July 2018, 19:01 Paris time (GM
  T+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20180725T040017Z
+DTSTAMP:20180726T034235Z
 DTSTART:20180726T080000Z
 DTEND:20180726T081500Z
 TRANSP:TRANSPARENT
@@ -268,11 +167,11 @@ DESCRIPTION:Directorate: Directorate for Financial a
  \nDOI: https://doi.org/10.1787/978926430
  2617-en\nPublication type: Book\nRelease
  d as: Paperback, PDF.\n\niLibrary export
- : 24 July 2018, 3:53 Paris time (GMT+00:
+ : 25 July 2018, 3:37 Paris time (GMT+00:
  00)\nFreepreview export: 24 July 2018, 1
  9:13 Paris time (GMT+00:00)\nFTI loaded:
   ✓.
-DTSTAMP:20180725T040017Z
+DTSTAMP:20180726T034235Z
 DTSTART:20180726T090000Z
 DTEND:20180726T091500Z
 TRANSP:TRANSPARENT
@@ -295,11 +194,11 @@ DESCRIPTION:Directorate: Directorate for Education a
  ://doi.org/10.1787/9789264302402-en\nPub
  lication type: Book\nReleased as: ePub, 
  Paperback, HTML, PDF.\n\niLibrary export
- : 18 July 2018, 3:53 Paris time (GMT+00:
+ : 25 July 2018, 3:37 Paris time (GMT+00:
  00)\nFreepreview export: 24 July 2018, 1
  9:13 Paris time (GMT+00:00)\nFTI loaded:
   ✓.
-DTSTAMP:20180725T040017Z
+DTSTAMP:20180726T034235Z
 DTSTART:20180727T050000Z
 DTEND:20180727T051500Z
 TRANSP:TRANSPARENT
@@ -321,10 +220,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/7c542c16-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
- xport: never\nFreepreview export: 24 Jul
- y 2018, 19:13 Paris time (GMT+00:00)\nFT
- I loaded: ✓, ✓.
-DTSTAMP:20180725T040017Z
+ xport: 25 July 2018, 3:37 Paris time (GM
+ T+00:00)\nFreepreview export: 24 July 20
+ 18, 19:13 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓, ✓.
+DTSTAMP:20180726T034235Z
 DTSTART:20180730T000000Z
 DTEND:20180730T001500Z
 TRANSP:TRANSPARENT
@@ -353,7 +253,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  \niLibrary export: 19 June 2018, 20:07 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20180725T040017Z
+DTSTAMP:20180726T034235Z
 DTSTART:20180907T090000Z
 DTEND:20180907T091500Z
 TRANSP:TRANSPARENT
@@ -380,7 +280,7 @@ DESCRIPTION:Directorate: Development Centre, Public
  ub, HTML.\n\niLibrary export: 12 July 20
  18, 1:42 Paris time (GMT+00:00)\nFreepre
  view export: never\nFTI loaded: no.
-DTSTAMP:20180725T040017Z
+DTSTAMP:20180726T034235Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
