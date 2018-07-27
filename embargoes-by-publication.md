@@ -1,69 +1,6 @@
-# OECD publication embargoes (7 embargoes)
+# OECD publication embargoes (13 embargoes)
 
-*Data generated on Thursday 26 July 2018 at 3:42*
-
-------
-
-## [Les pratiques et les compétences des adultes en numératie](https://doi.org/10.1787/3545c222-fr)
-
-Embargo date | Launch date
--------------|------------
-Thursday 26 July 2018 at 10:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 July 2018 at 5:38
-- [x] Exported to Keepeek Thursday 19 July 2018 at 21:01
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Numeracy Practices and Numeracy Skills among Adults](https://doi.org/10.1787/8f19fc9f-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 26 July 2018 at 10:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 July 2018 at 5:38
-- [x] Exported to Keepeek Thursday 19 July 2018 at 21:01
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Corporate Governance in Lithuania](https://doi.org/10.1787/9789264302617-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 26 July 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 25 July 2018 at 5:37
-- [x] Exported to Keepeek Tuesday 24 July 2018 at 21:13
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Friday 27 July 2018 at 4:44*
 
 ------
 
@@ -96,7 +33,7 @@ Monday 30 July 2018 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 25 July 2018 at 5:37
+- [x] Exported to iLibrary Thursday 26 July 2018 at 5:23
 - [x] Exported to Keepeek Tuesday 24 July 2018 at 21:13
 
 ### Additional Information
@@ -105,6 +42,195 @@ Monday 30 July 2018 at 2:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [How does finance influence labour market outcomes? - A review of empirical studies](https://doi.org/10.1787/d8651803-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 31 July 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Thursday 26 July 2018 at 21:07
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Australia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9789264304208-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 30 August 2018 at 16:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 20 July 2018 at 5:38
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Ireland (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9789264304192-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 30 August 2018 at 16:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 20 July 2018 at 5:38
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Israel (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9789264304284-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 30 August 2018 at 16:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 20 July 2018 at 5:38
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Japan (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9789264304307-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 30 August 2018 at 16:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 20 July 2018 at 5:38
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Malta (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9789264304321-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 30 August 2018 at 16:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 20 July 2018 at 5:38
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Mexico (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9789264304345-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 30 August 2018 at 16:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 20 July 2018 at 5:38
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, New Zealand (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9789264304369-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 30 August 2018 at 16:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 20 July 2018 at 5:38
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Portugal (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9789264304222-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 30 August 2018 at 16:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 20 July 2018 at 5:38
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------
@@ -122,7 +248,7 @@ Friday 7 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
