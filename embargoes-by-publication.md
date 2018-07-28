@@ -1,27 +1,6 @@
-# OECD publication embargoes (13 embargoes)
+# OECD publication embargoes (12 embargoes)
 
-*Data generated on Friday 27 July 2018 at 4:44*
-
-------
-
-## [Education Policy in Japan - Building Bridges towards 2030](https://doi.org/10.1787/9789264302402-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 27 July 2018 at 7:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 25 July 2018 at 5:37
-- [x] Exported to Keepeek Tuesday 24 July 2018 at 21:13
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Saturday 28 July 2018 at 3:57*
 
 ------
 
@@ -54,7 +33,7 @@ Tuesday 31 July 2018 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 27 July 2018 at 6:21
 - [x] Exported to Keepeek Thursday 26 July 2018 at 21:07
 
 ### Additional Information
@@ -75,7 +54,7 @@ Thursday 30 August 2018 at 16:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 20 July 2018 at 5:38
+- [x] Exported to iLibrary Friday 27 July 2018 at 6:21
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -96,7 +75,7 @@ Thursday 30 August 2018 at 16:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 20 July 2018 at 5:38
+- [x] Exported to iLibrary Friday 27 July 2018 at 6:21
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -117,7 +96,7 @@ Thursday 30 August 2018 at 16:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 20 July 2018 at 5:38
+- [x] Exported to iLibrary Friday 27 July 2018 at 6:21
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -138,7 +117,7 @@ Thursday 30 August 2018 at 16:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 20 July 2018 at 5:38
+- [x] Exported to iLibrary Friday 27 July 2018 at 6:21
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -159,7 +138,7 @@ Thursday 30 August 2018 at 16:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 20 July 2018 at 5:38
+- [x] Exported to iLibrary Friday 27 July 2018 at 6:21
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -180,7 +159,7 @@ Thursday 30 August 2018 at 16:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 20 July 2018 at 5:38
+- [x] Exported to iLibrary Friday 27 July 2018 at 6:21
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -201,7 +180,7 @@ Thursday 30 August 2018 at 16:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 20 July 2018 at 5:38
+- [x] Exported to iLibrary Friday 27 July 2018 at 6:21
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -222,7 +201,7 @@ Thursday 30 August 2018 at 16:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 20 July 2018 at 5:38
+- [x] Exported to iLibrary Friday 27 July 2018 at 6:21
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -248,7 +227,7 @@ Friday 7 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
+* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
