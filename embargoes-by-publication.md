@@ -1,48 +1,6 @@
-# OECD publication embargoes (12 embargoes)
+# OECD publication embargoes (10 embargoes)
 
-*Data generated on Saturday 28 July 2018 at 3:57*
-
-------
-
-## [Digital technology diffusion - A matter of capabilities, incentives or both?](https://doi.org/10.1787/7c542c16-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 30 July 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 26 July 2018 at 5:23
-- [x] Exported to Keepeek Tuesday 24 July 2018 at 21:13
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [How does finance influence labour market outcomes? - A review of empirical studies](https://doi.org/10.1787/d8651803-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 31 July 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 27 July 2018 at 6:21
-- [x] Exported to Keepeek Thursday 26 July 2018 at 21:07
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Tuesday 31 July 2018 at 3:21*
 
 ------
 
@@ -75,7 +33,7 @@ Thursday 30 August 2018 at 16:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 27 July 2018 at 6:21
+- [x] Exported to iLibrary Saturday 28 July 2018 at 5:45
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -96,7 +54,7 @@ Thursday 30 August 2018 at 16:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 27 July 2018 at 6:21
+- [x] Exported to iLibrary Saturday 28 July 2018 at 5:45
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -201,7 +159,7 @@ Thursday 30 August 2018 at 16:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 27 July 2018 at 6:21
+- [x] Exported to iLibrary Saturday 28 July 2018 at 5:45
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -227,7 +185,7 @@ Friday 7 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
