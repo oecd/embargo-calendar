@@ -1,6 +1,69 @@
-# OECD publication embargoes (10 embargoes)
+# OECD publication embargoes (13 embargoes)
 
-*Data generated on Tuesday 31 July 2018 at 3:21*
+*Data generated on Wednesday 1 August 2018 at 3:23*
+
+------
+
+## [Euro Area unemployment insurance at the time of zero nominal interest rates](https://doi.org/10.1787/99b92f5b-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 3 August 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 31 July 2018 at 21:04
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Stabilising the Euro Area through unemployment benefits re-insurance scheme](https://doi.org/10.1787/6ab5edd0-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 3 August 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 31 July 2018 at 21:04
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Who are the beneficiaries of the structural funds and the cohesion fund and how does the cohesion policy impact firm-level performance?](https://doi.org/10.1787/67947b82-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 3 August 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Medium: *PDF*
 
 ------
 
@@ -185,7 +248,7 @@ Friday 7 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
+* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*

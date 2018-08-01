@@ -4,33 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/7c542c16-en
-SUMMARY:Digital technology diffusion - A matter 
- of capabilities, incentives or both?
-DESCRIPTION:Directorate: Economics Department\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/7c542c16-en\nPublication type: Workin
- g paper\nReleased as: PDF.\n\niLibrary e
- xport: 26 July 2018, 3:23 Paris time (GM
- T+00:00)\nFreepreview export: 24 July 20
- 18, 19:13 Paris time (GMT+00:00)\nFTI lo
- aded: ✓, ✓.
-DTSTAMP:20180731T032120Z
-DTSTART:20180730T000000Z
-DTEND:20180730T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Digital technology diffusion -
-  A matter of capabilities, incentives or
-  both?
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/d8651803-en
 SUMMARY:How does finance influence labour market
   outcomes? - A review of empirical studi
@@ -43,7 +16,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  T+00:00)\nFreepreview export: 26 July 20
  18, 19:07 Paris time (GMT+00:00)\nFTI lo
  aded: ✓, ✓.
-DTSTAMP:20180731T032120Z
+DTSTAMP:20180801T032306Z
 DTSTART:20180731T000000Z
 DTEND:20180731T001500Z
 TRANSP:TRANSPARENT
@@ -55,6 +28,86 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: How does finance influence lab
  our market outcomes? - A review of empir
  ical studies
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/99b92f5b-en
+SUMMARY:Euro Area unemployment insurance at the 
+ time of zero nominal interest rates
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/99b92f5b-en\nPublication type: Workin
+ g paper\nReleased as: PDF.\n\niLibrary e
+ xport: never\nFreepreview export: 31 Jul
+ y 2018, 19:04 Paris time (GMT+00:00)\nFT
+ I loaded: ✓, ✓.
+DTSTAMP:20180801T032306Z
+DTSTART:20180803T000000Z
+DTEND:20180803T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Euro Area unemployment insuran
+ ce at the time of zero nominal interest 
+ rates
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/6ab5edd0-en
+SUMMARY:Stabilising the Euro Area through unempl
+ oyment benefits re-insurance scheme
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/6ab5edd0-en\nPublication type: Workin
+ g paper\nReleased as: PDF.\n\niLibrary e
+ xport: never\nFreepreview export: 31 Jul
+ y 2018, 19:04 Paris time (GMT+00:00)\nFT
+ I loaded: ✓, ✓.
+DTSTAMP:20180801T032306Z
+DTSTART:20180803T000000Z
+DTEND:20180803T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Stabilising the Euro Area thro
+ ugh unemployment benefits re-insurance s
+ cheme
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/67947b82-en
+SUMMARY:Who are the beneficiaries of the structu
+ ral funds and the cohesion fund and how 
+ does the cohesion policy impact firm-lev
+ el performance?
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/67947b82-en\nPublication type: Workin
+ g paper\nReleased as: PDF.\n\niLibrary e
+ xport: never\nFreepreview export: never\
+ nFTI loaded: ✓.
+DTSTAMP:20180801T032306Z
+DTSTART:20180803T000000Z
+DTEND:20180803T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Who are the beneficiaries of t
+ he structural funds and the cohesion fun
+ d and how does the cohesion policy impac
+ t firm-level performance?
 END:VALARM
 END:VEVENT
 
@@ -71,7 +124,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  F, Paperback.\n\niLibrary export: 27 Jul
  y 2018, 4:21 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180731T032120Z
+DTSTAMP:20180801T032306Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -100,7 +153,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  perback, PDF.\n\niLibrary export: 28 Jul
  y 2018, 3:45 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180731T032120Z
+DTSTAMP:20180801T032306Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -129,7 +182,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  F, Paperback.\n\niLibrary export: 28 Jul
  y 2018, 3:45 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180731T032120Z
+DTSTAMP:20180801T032306Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -158,7 +211,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  F, Paperback.\n\niLibrary export: 27 Jul
  y 2018, 4:21 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180731T032120Z
+DTSTAMP:20180801T032306Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -187,7 +240,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  perback, PDF.\n\niLibrary export: 27 Jul
  y 2018, 4:21 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180731T032120Z
+DTSTAMP:20180801T032306Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -216,7 +269,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  perback, PDF.\n\niLibrary export: 27 Jul
  y 2018, 4:21 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180731T032120Z
+DTSTAMP:20180801T032306Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -245,7 +298,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  F, Paperback.\n\niLibrary export: 27 Jul
  y 2018, 4:21 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180731T032120Z
+DTSTAMP:20180801T032306Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -274,7 +327,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  perback, PDF.\n\niLibrary export: 28 Jul
  y 2018, 3:45 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180731T032120Z
+DTSTAMP:20180801T032306Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -295,16 +348,16 @@ UID:10.1787/9789264292048-en
 SUMMARY:Supporting Entrepreneurship and Innovati
  on in Higher Education in The Netherland
  s
-DESCRIPTION:Directorate: Centre for Entrepreneurship
- , SMEs and Local Development, Directorat
- e for Education and Skills\nLanguage: En
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills, Centre for Entrepreneurship, 
+ SMEs and Local Development\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264292048-en\nPublication type: Book\nRe
  leased as: ePub, PDF, HTML, Paperback.\n
  \niLibrary export: 19 June 2018, 20:07 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20180731T032120Z
+DTSTAMP:20180801T032306Z
 DTSTART:20180907T090000Z
 DTEND:20180907T091500Z
 TRANSP:TRANSPARENT
@@ -331,7 +384,7 @@ DESCRIPTION:Directorate: Development Centre, Public
  ub, HTML.\n\niLibrary export: 12 July 20
  18, 1:42 Paris time (GMT+00:00)\nFreepre
  view export: never\nFTI loaded: no.
-DTSTAMP:20180731T032120Z
+DTSTAMP:20180801T032306Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
