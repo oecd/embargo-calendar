@@ -4,34 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/d8651803-en
-SUMMARY:How does finance influence labour market
-  outcomes? - A review of empirical studi
- es
-DESCRIPTION:Directorate: Economics Department\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/d8651803-en\nPublication type: Workin
- g paper\nReleased as: PDF.\n\niLibrary e
- xport: 27 July 2018, 4:21 Paris time (GM
- T+00:00)\nFreepreview export: 26 July 20
- 18, 19:07 Paris time (GMT+00:00)\nFTI lo
- aded: ✓, ✓.
-DTSTAMP:20180801T032306Z
-DTSTART:20180731T000000Z
-DTEND:20180731T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: How does finance influence lab
- our market outcomes? - A review of empir
- ical studies
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/99b92f5b-en
 SUMMARY:Euro Area unemployment insurance at the 
  time of zero nominal interest rates
@@ -39,10 +11,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/99b92f5b-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
- xport: never\nFreepreview export: 31 Jul
- y 2018, 19:04 Paris time (GMT+00:00)\nFT
- I loaded: ✓, ✓.
-DTSTAMP:20180801T032306Z
+ xport: 1 August 2018, 2:53 Paris time (G
+ MT+00:00)\nFreepreview export: 31 July 2
+ 018, 19:04 Paris time (GMT+00:00)\nFTI l
+ oaded: ✓, ✓.
+DTSTAMP:20180802T032632Z
 DTSTART:20180803T000000Z
 DTEND:20180803T001500Z
 TRANSP:TRANSPARENT
@@ -65,10 +38,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/6ab5edd0-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
- xport: never\nFreepreview export: 31 Jul
- y 2018, 19:04 Paris time (GMT+00:00)\nFT
- I loaded: ✓, ✓.
-DTSTAMP:20180801T032306Z
+ xport: 1 August 2018, 2:53 Paris time (G
+ MT+00:00)\nFreepreview export: 31 July 2
+ 018, 19:04 Paris time (GMT+00:00)\nFTI l
+ oaded: ✓, ✓.
+DTSTAMP:20180802T032632Z
 DTSTART:20180803T000000Z
 DTEND:20180803T001500Z
 TRANSP:TRANSPARENT
@@ -93,9 +67,10 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/67947b82-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
- xport: never\nFreepreview export: never\
- nFTI loaded: ✓.
-DTSTAMP:20180801T032306Z
+ xport: never\nFreepreview export: 1 Augu
+ st 2018, 19:04 Paris time (GMT+00:00)\nF
+ TI loaded: ✓, ✓.
+DTSTAMP:20180802T032632Z
 DTSTART:20180803T000000Z
 DTEND:20180803T001500Z
 TRANSP:TRANSPARENT
@@ -124,7 +99,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  F, Paperback.\n\niLibrary export: 27 Jul
  y 2018, 4:21 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180801T032306Z
+DTSTAMP:20180802T032632Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -153,7 +128,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  perback, PDF.\n\niLibrary export: 28 Jul
  y 2018, 3:45 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180801T032306Z
+DTSTAMP:20180802T032632Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -182,7 +157,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  F, Paperback.\n\niLibrary export: 28 Jul
  y 2018, 3:45 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180801T032306Z
+DTSTAMP:20180802T032632Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -211,7 +186,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  F, Paperback.\n\niLibrary export: 27 Jul
  y 2018, 4:21 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180801T032306Z
+DTSTAMP:20180802T032632Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -240,7 +215,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  perback, PDF.\n\niLibrary export: 27 Jul
  y 2018, 4:21 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180801T032306Z
+DTSTAMP:20180802T032632Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -269,7 +244,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  perback, PDF.\n\niLibrary export: 27 Jul
  y 2018, 4:21 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180801T032306Z
+DTSTAMP:20180802T032632Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -298,7 +273,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  F, Paperback.\n\niLibrary export: 27 Jul
  y 2018, 4:21 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180801T032306Z
+DTSTAMP:20180802T032632Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -327,7 +302,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  perback, PDF.\n\niLibrary export: 28 Jul
  y 2018, 3:45 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180801T032306Z
+DTSTAMP:20180802T032632Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -357,7 +332,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  \niLibrary export: 19 June 2018, 20:07 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20180801T032306Z
+DTSTAMP:20180802T032632Z
 DTSTART:20180907T090000Z
 DTEND:20180907T091500Z
 TRANSP:TRANSPARENT
@@ -376,15 +351,15 @@ BEGIN:VEVENT
 UID:10.1787/9789264300347-fr
 SUMMARY:Examen multidimensionnel du Sénégal - Vo
  lume 3. De l'analyse à l'action
-DESCRIPTION:Directorate: Development Centre, Public 
- Affairs and Communications Directorate\n
+DESCRIPTION:Directorate: Public Affairs and Communic
+ ations Directorate, Development Centre\n
  Language: French\nDOI: https://doi.org/1
  0.1787/9789264300347-fr\nPublication typ
  e: Book\nReleased as: PDF, Paperback, eP
  ub, HTML.\n\niLibrary export: 12 July 20
  18, 1:42 Paris time (GMT+00:00)\nFreepre
  view export: never\nFTI loaded: no.
-DTSTAMP:20180801T032306Z
+DTSTAMP:20180802T032632Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
