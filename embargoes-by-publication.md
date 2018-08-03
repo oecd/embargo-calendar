@@ -1,61 +1,61 @@
 # OECD publication embargoes (13 embargoes)
 
-*Data generated on Thursday 2 August 2018 at 3:26*
+*Data generated on Friday 3 August 2018 at 4:44*
 
 ------
 
-## [Euro Area unemployment insurance at the time of zero nominal interest rates](https://doi.org/10.1787/99b92f5b-en)
+## [Issuing GDP-linked bonds - Supply and demand can match](https://doi.org/10.1787/1da2253f-en)
 
 Embargo date | Launch date
 -------------|------------
-Friday 3 August 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 1 August 2018 at 4:53
-- [x] Exported to Keepeek Tuesday 31 July 2018 at 21:04
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Stabilising the Euro Area through unemployment benefits re-insurance scheme](https://doi.org/10.1787/6ab5edd0-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 3 August 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 1 August 2018 at 4:53
-- [x] Exported to Keepeek Tuesday 31 July 2018 at 21:04
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Who are the beneficiaries of the structural funds and the cohesion fund and how does the cohesion policy impact firm-level performance?](https://doi.org/10.1787/67947b82-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 3 August 2018 at 2:00 | no launch event
+Wednesday 8 August 2018 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [x] Exported to Keepeek Wednesday 1 August 2018 at 21:04
+- [x] Exported to Keepeek Thursday 2 August 2018 at 21:02
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Sectoral and regional distribution of export shocks - What do two hundred thousand UK firm observations say?](https://doi.org/10.1787/e5f21088-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 8 August 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Thursday 2 August 2018 at 21:02
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [The UK productivity puzzle through the magnifying glass - A sectoral perspective](https://doi.org/10.1787/e704ee28-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 8 August 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Thursday 2 August 2018 at 21:02
 
 ### Additional Information
 
@@ -248,7 +248,7 @@ Friday 7 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
@@ -269,7 +269,7 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Public Affairs and Communications Directorate, Development Centre*
+* Directorate: *Development Centre, Public Affairs and Communications Directorate*
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
