@@ -15,7 +15,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  MT+00:00)\nFreepreview export: 31 July 2
  018, 19:04 Paris time (GMT+00:00)\nFTI l
  oaded: ✓, ✓.
-DTSTAMP:20180803T044457Z
+DTSTAMP:20180804T030158Z
 DTSTART:20180803T000000Z
 DTEND:20180803T001500Z
 TRANSP:TRANSPARENT
@@ -42,7 +42,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  MT+00:00)\nFreepreview export: 31 July 2
  018, 19:04 Paris time (GMT+00:00)\nFTI l
  oaded: ✓, ✓.
-DTSTAMP:20180803T044457Z
+DTSTAMP:20180804T030158Z
 DTSTART:20180803T000000Z
 DTEND:20180803T001500Z
 TRANSP:TRANSPARENT
@@ -71,7 +71,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  MT+00:00)\nFreepreview export: 1 August 
  2018, 19:04 Paris time (GMT+00:00)\nFTI 
  loaded: ✓, ✓.
-DTSTAMP:20180803T044457Z
+DTSTAMP:20180804T030158Z
 DTSTART:20180803T000000Z
 DTEND:20180803T001500Z
 TRANSP:TRANSPARENT
@@ -88,31 +88,6 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:10.1787/1da2253f-en
-SUMMARY:Issuing GDP-linked bonds - Supply and de
- mand can match
-DESCRIPTION:Directorate: Economics Department\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/1da2253f-en\nPublication type: Workin
- g paper\nReleased as: PDF.\n\niLibrary e
- xport: never\nFreepreview export: 2 Augu
- st 2018, 19:02 Paris time (GMT+00:00)\nF
- TI loaded: ✓, ✓.
-DTSTAMP:20180803T044457Z
-DTSTART:20180808T000000Z
-DTEND:20180808T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Issuing GDP-linked bonds - Sup
- ply and demand can match
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/e5f21088-en
 SUMMARY:Sectoral and regional distribution of ex
  port shocks - What do two hundred thousa
@@ -121,10 +96,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/e5f21088-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
- xport: never\nFreepreview export: 2 Augu
- st 2018, 19:02 Paris time (GMT+00:00)\nF
- TI loaded: ✓, ✓.
-DTSTAMP:20180803T044457Z
+ xport: 3 August 2018, 4:16 Paris time (G
+ MT+00:00)\nFreepreview export: 2 August 
+ 2018, 19:02 Paris time (GMT+00:00)\nFTI 
+ loaded: ✓, ✓.
+DTSTAMP:20180804T030158Z
 DTSTART:20180808T000000Z
 DTEND:20180808T001500Z
 TRANSP:TRANSPARENT
@@ -147,10 +123,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/e704ee28-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
- xport: never\nFreepreview export: 2 Augu
- st 2018, 19:02 Paris time (GMT+00:00)\nF
- TI loaded: ✓, ✓.
-DTSTAMP:20180803T044457Z
+ xport: 3 August 2018, 4:16 Paris time (G
+ MT+00:00)\nFreepreview export: 2 August 
+ 2018, 19:02 Paris time (GMT+00:00)\nFTI 
+ loaded: ✓, ✓.
+DTSTAMP:20180804T030158Z
 DTSTART:20180808T000000Z
 DTEND:20180808T001500Z
 TRANSP:TRANSPARENT
@@ -162,6 +139,32 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: The UK productivity puzzle thr
  ough the magnifying glass - A sectoral p
  erspective
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/1da2253f-en
+SUMMARY:Issuing GDP-linked bonds - Supply and de
+ mand can match
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/1da2253f-en\nPublication type: Workin
+ g paper\nReleased as: PDF.\n\niLibrary e
+ xport: 3 August 2018, 4:16 Paris time (G
+ MT+00:00)\nFreepreview export: 3 August 
+ 2018, 18:58 Paris time (GMT+00:00)\nFTI 
+ loaded: ✓, ✓.
+DTSTAMP:20180804T030158Z
+DTSTART:20180809T000000Z
+DTEND:20180809T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Issuing GDP-linked bonds - Sup
+ ply and demand can match
 END:VALARM
 END:VEVENT
 
@@ -178,7 +181,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  F, Paperback.\n\niLibrary export: 27 Jul
  y 2018, 4:21 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180803T044457Z
+DTSTAMP:20180804T030158Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -207,7 +210,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  perback, PDF.\n\niLibrary export: 28 Jul
  y 2018, 3:45 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180803T044457Z
+DTSTAMP:20180804T030158Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -236,7 +239,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  F, Paperback.\n\niLibrary export: 28 Jul
  y 2018, 3:45 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180803T044457Z
+DTSTAMP:20180804T030158Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -265,7 +268,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  F, Paperback.\n\niLibrary export: 27 Jul
  y 2018, 4:21 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180803T044457Z
+DTSTAMP:20180804T030158Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -294,7 +297,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  perback, PDF.\n\niLibrary export: 27 Jul
  y 2018, 4:21 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180803T044457Z
+DTSTAMP:20180804T030158Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -323,7 +326,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  perback, PDF.\n\niLibrary export: 27 Jul
  y 2018, 4:21 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180803T044457Z
+DTSTAMP:20180804T030158Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -352,7 +355,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  F, Paperback.\n\niLibrary export: 27 Jul
  y 2018, 4:21 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180803T044457Z
+DTSTAMP:20180804T030158Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -381,7 +384,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  perback, PDF.\n\niLibrary export: 28 Jul
  y 2018, 3:45 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180803T044457Z
+DTSTAMP:20180804T030158Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -402,16 +405,16 @@ UID:10.1787/9789264292048-en
 SUMMARY:Supporting Entrepreneurship and Innovati
  on in Higher Education in The Netherland
  s
-DESCRIPTION:Directorate: Centre for Entrepreneurship
- , SMEs and Local Development, Directorat
- e for Education and Skills\nLanguage: En
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills, Centre for Entrepreneurship, 
+ SMEs and Local Development\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264292048-en\nPublication type: Book\nRe
  leased as: ePub, PDF, HTML, Paperback.\n
  \niLibrary export: 19 June 2018, 20:07 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20180803T044457Z
+DTSTAMP:20180804T030158Z
 DTSTART:20180907T090000Z
 DTEND:20180907T091500Z
 TRANSP:TRANSPARENT
@@ -430,15 +433,15 @@ BEGIN:VEVENT
 UID:10.1787/9789264300347-fr
 SUMMARY:Examen multidimensionnel du Sénégal - Vo
  lume 3. De l'analyse à l'action
-DESCRIPTION:Directorate: Development Centre, Public 
- Affairs and Communications Directorate\n
+DESCRIPTION:Directorate: Public Affairs and Communic
+ ations Directorate, Development Centre\n
  Language: French\nDOI: https://doi.org/1
  0.1787/9789264300347-fr\nPublication typ
  e: Book\nReleased as: PDF, Paperback, eP
  ub, HTML.\n\niLibrary export: 12 July 20
  18, 1:42 Paris time (GMT+00:00)\nFreepre
  view export: never\nFTI loaded: no.
-DTSTAMP:20180803T044457Z
+DTSTAMP:20180804T030158Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT

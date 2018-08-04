@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Fri, 03 Aug 2018 04:44:59 GMT</pubDate>
+      <pubDate>Sat, 04 Aug 2018 03:02:00 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -59,21 +59,6 @@
          <oe:availableMedia>PDF</oe:availableMedia>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/1da2253f-en</guid>
-         <pubDate>Wed, 08 Aug 2018 00:00:00 GMT</pubDate>
-         <title>Issuing GDP-linked bonds - Supply and demand can match</title>
-         <link>https://doi.org/10.1787/1da2253f-en</link>
-         <description>Issuing GDP-linked bonds - Supply and demand can match by Economics Department has an embargo on Wednesday, 8 August 2018, 2:00 Paris time (GMT+02:00).</description>
-         <oe:embargoTime>2018-08-08T00:00:00Z</oe:embargoTime>
-         <oe:launchTime/>
-         <oe:directorate>Economics Department</oe:directorate>
-         <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport/>
-         <oe:freePreviewExport>Thursday, 2 August 2018, 19:02 Paris time (GMT+00:00)</oe:freePreviewExport>
-         <oe:catalogueType>Working paper</oe:catalogueType>
-         <oe:availableMedia>PDF</oe:availableMedia>
-      </item>
-      <item>
          <guid isPermaLink="false">10.1787/e5f21088-en</guid>
          <pubDate>Wed, 08 Aug 2018 00:00:00 GMT</pubDate>
          <title>Sectoral and regional distribution of export shocks - What do two hundred thousand UK firm observations say?</title>
@@ -83,7 +68,7 @@
          <oe:launchTime/>
          <oe:directorate>Economics Department</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport/>
+         <oe:iLibraryExport>Friday, 3 August 2018, 4:16 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Thursday, 2 August 2018, 19:02 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Working paper</oe:catalogueType>
          <oe:availableMedia>PDF</oe:availableMedia>
@@ -98,8 +83,23 @@
          <oe:launchTime/>
          <oe:directorate>Economics Department</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport/>
+         <oe:iLibraryExport>Friday, 3 August 2018, 4:16 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Thursday, 2 August 2018, 19:02 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/1da2253f-en</guid>
+         <pubDate>Thu, 09 Aug 2018 00:00:00 GMT</pubDate>
+         <title>Issuing GDP-linked bonds - Supply and demand can match</title>
+         <link>https://doi.org/10.1787/1da2253f-en</link>
+         <description>Issuing GDP-linked bonds - Supply and demand can match by Economics Department has an embargo on Thursday, 9 August 2018, 2:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-08-09T00:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Friday, 3 August 2018, 4:16 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Friday, 3 August 2018, 18:58 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Working paper</oe:catalogueType>
          <oe:availableMedia>PDF</oe:availableMedia>
       </item>
@@ -228,10 +228,10 @@
          <pubDate>Fri, 07 Sep 2018 09:00:00 GMT</pubDate>
          <title>Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands</title>
          <link>https://doi.org/10.1787/9789264292048-en</link>
-         <description>Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands by Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills has an embargo on Friday, 7 September 2018, 11:00 Paris time (GMT+02:00).</description>
+         <description>Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands by Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development has an embargo on Friday, 7 September 2018, 11:00 Paris time (GMT+02:00).</description>
          <oe:embargoTime>2018-09-07T09:00:00Z</oe:embargoTime>
          <oe:launchTime/>
-         <oe:directorate>Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills</oe:directorate>
+         <oe:directorate>Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development</oe:directorate>
          <oe:ftiLoaded/>
          <oe:iLibraryExport>Tuesday, 19 June 2018, 20:07 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
@@ -243,10 +243,10 @@
          <pubDate>Tue, 18 Sep 2018 09:00:00 GMT</pubDate>
          <title>Examen multidimensionnel du Sénégal - Volume 3. De l'analyse à l'action</title>
          <link>https://doi.org/10.1787/9789264300347-fr</link>
-         <description>Examen multidimensionnel du Sénégal - Volume 3. De l'analyse à l'action by Development Centre, Public Affairs and Communications Directorate has an embargo on Tuesday, 18 September 2018, 11:00 Paris time (GMT+02:00).</description>
+         <description>Examen multidimensionnel du Sénégal - Volume 3. De l'analyse à l'action by Public Affairs and Communications Directorate, Development Centre has an embargo on Tuesday, 18 September 2018, 11:00 Paris time (GMT+02:00).</description>
          <oe:embargoTime>2018-09-18T09:00:00Z</oe:embargoTime>
          <oe:launchTime/>
-         <oe:directorate>Development Centre, Public Affairs and Communications Directorate</oe:directorate>
+         <oe:directorate>Public Affairs and Communications Directorate, Development Centre</oe:directorate>
          <oe:ftiLoaded/>
          <oe:iLibraryExport>Thursday, 12 July 2018, 1:42 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>

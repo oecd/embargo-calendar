@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2018-08-03T04:44:54.3901824+02:00" count="30">
+<report name="official-embargoes" generated="2018-08-04T03:01:54.5761095+02:00" count="30">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -17,7 +17,7 @@
     <cell name="fti loaded?">FTI Loaded?</cell>
   </row>
   <row index="1">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-fr</cell>
     <cell name="title">Examen multidimensionnel du Sénégal (fr)</cell>
     <cell name="subtitle">Volume 3. De l'analyse à l'action (fr)</cell>
@@ -49,7 +49,7 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="3">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-fr</cell>
     <cell name="title">Examen multidimensionnel du Sénégal (fr)</cell>
     <cell name="subtitle">Volume 3. De l'analyse à l'action (fr)</cell>
@@ -65,7 +65,7 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="4">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-fr</cell>
     <cell name="title">Examen multidimensionnel du Sénégal (fr)</cell>
     <cell name="subtitle">Volume 3. De l'analyse à l'action (fr)</cell>
@@ -97,7 +97,7 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="6">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills</cell>
+    <cell name="directorate">Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/9789264292048-en</cell>
     <cell name="title">Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands (en)</cell>
     <cell name="subtitle"/>
@@ -129,7 +129,7 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="8">
-    <cell name="directorate">Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development</cell>
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264292048-en</cell>
     <cell name="title">Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands (en)</cell>
     <cell name="subtitle"/>
@@ -408,11 +408,11 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-08-08</cell>
-    <cell name="embargo date">2018-08-08T00:00:00Z</cell>
+    <cell name="date of publication">2018-08-09</cell>
+    <cell name="embargo date">2018-08-09T00:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date">2018-08-02T19:02:35Z</cell>
+    <cell name="ilibrary last export date">2018-08-03T04:16:53.1823106Z</cell>
+    <cell name="freepreview last export date">2018-08-03T18:58:51Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
@@ -427,7 +427,7 @@
     <cell name="date of publication">2018-08-08</cell>
     <cell name="embargo date">2018-08-08T00:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-08-03T04:16:53.1823106Z</cell>
     <cell name="freepreview last export date">2018-08-02T19:02:35Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓, ✓</cell>
@@ -443,7 +443,7 @@
     <cell name="date of publication">2018-08-08</cell>
     <cell name="embargo date">2018-08-08T00:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-08-03T04:16:53.1823106Z</cell>
     <cell name="freepreview last export date">2018-08-02T19:02:35Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓, ✓</cell>
