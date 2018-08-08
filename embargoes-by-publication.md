@@ -1,48 +1,6 @@
-# OECD publication embargoes (13 embargoes)
+# OECD publication embargoes (11 embargoes)
 
-*Data generated on Tuesday 7 August 2018 at 4:01*
-
-------
-
-## [Sectoral and regional distribution of export shocks - What do two hundred thousand UK firm observations say?](https://doi.org/10.1787/e5f21088-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 8 August 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 August 2018 at 6:16
-- [x] Exported to Keepeek Thursday 2 August 2018 at 21:02
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [The UK productivity puzzle through the magnifying glass - A sectoral perspective](https://doi.org/10.1787/e704ee28-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 8 August 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 August 2018 at 6:16
-- [x] Exported to Keepeek Thursday 2 August 2018 at 21:02
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Wednesday 8 August 2018 at 3:14*
 
 ------
 
