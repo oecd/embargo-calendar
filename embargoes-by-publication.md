@@ -1,27 +1,6 @@
-# OECD publication embargoes (11 embargoes)
+# OECD publication embargoes (10 embargoes)
 
-*Data generated on Wednesday 8 August 2018 at 3:14*
-
-------
-
-## [Issuing GDP-linked bonds - Supply and demand can match](https://doi.org/10.1787/1da2253f-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 9 August 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 4 August 2018 at 4:48
-- [x] Exported to Keepeek Friday 3 August 2018 at 20:58
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Thursday 9 August 2018 at 3:20*
 
 ------
 
@@ -206,7 +185,7 @@ Friday 7 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
@@ -227,7 +206,7 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Public Affairs and Communications Directorate, Development Centre*
+* Directorate: *Development Centre, Public Affairs and Communications Directorate*
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
