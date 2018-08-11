@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2018-08-10T02:53:11.4400763+02:00" count="25">
+<report name="official-embargoes" generated="2018-08-11T04:23:46.2913377+02:00" count="24">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -17,7 +17,7 @@
     <cell name="fti loaded?">FTI Loaded?</cell>
   </row>
   <row index="1">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-fr</cell>
     <cell name="title">Examen multidimensionnel du Sénégal (fr)</cell>
     <cell name="subtitle">Volume 3. De l'analyse à l'action (fr)</cell>
@@ -65,7 +65,7 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="4">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-fr</cell>
     <cell name="title">Examen multidimensionnel du Sénégal (fr)</cell>
     <cell name="subtitle">Volume 3. De l'analyse à l'action (fr)</cell>
@@ -81,7 +81,7 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="5">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills</cell>
+    <cell name="directorate">Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/9789264292048-en</cell>
     <cell name="title">Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands (en)</cell>
     <cell name="subtitle"/>
@@ -97,7 +97,7 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="6">
-    <cell name="directorate">Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development</cell>
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264292048-en</cell>
     <cell name="title">Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands (en)</cell>
     <cell name="subtitle"/>
@@ -113,7 +113,7 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="7">
-    <cell name="directorate">Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development</cell>
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264292048-en</cell>
     <cell name="title">Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands (en)</cell>
     <cell name="subtitle"/>
@@ -129,7 +129,7 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="8">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills</cell>
+    <cell name="directorate">Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development</cell>
     <cell name="doi">10.1787/9789264292048-en</cell>
     <cell name="title">Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands (en)</cell>
     <cell name="subtitle"/>
@@ -399,21 +399,5 @@
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
-  </row>
-  <row index="25">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/1da2253f-en</cell>
-    <cell name="title">Issuing GDP-linked bonds (en)</cell>
-    <cell name="subtitle">Supply and demand can match (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-08-09</cell>
-    <cell name="embargo date">2018-08-09T00:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-08-04T02:48:27.3545839Z</cell>
-    <cell name="freepreview last export date">2018-08-08T19:09:27Z</cell>
-    <cell name="catalogue type">Working paper</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
   </row>
 </report>
