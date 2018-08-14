@@ -1,6 +1,6 @@
 # OECD publication embargoes (10 embargoes)
 
-*Data generated on Saturday 11 August 2018 at 4:23*
+*Data generated on Tuesday 14 August 2018 at 2:56*
 
 ------
 
@@ -206,7 +206,7 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Public Affairs and Communications Directorate, Development Centre*
+* Directorate: *Development Centre, Public Affairs and Communications Directorate*
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
