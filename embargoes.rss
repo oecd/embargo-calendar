@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Fri, 17 Aug 2018 04:17:56 GMT</pubDate>
+      <pubDate>Sat, 18 Aug 2018 05:01:57 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -71,7 +71,7 @@
          <oe:iLibraryExport>Friday, 27 July 2018, 4:21 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264304321-en</guid>
@@ -134,14 +134,29 @@
          <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
+         <guid isPermaLink="false">10.1787/9789264305250-en</guid>
+         <pubDate>Wed, 05 Sep 2018 09:00:00 GMT</pubDate>
+         <title>Working Together: Skills and Labour Market Integration of Immigrants and their Children in Finland</title>
+         <link>https://doi.org/10.1787/9789264305250-en</link>
+         <description>Working Together: Skills and Labour Market Integration of Immigrants and their Children in Finland by Directorate for Employment, Labour and Social Affairs has an embargo on Wednesday, 5 September 2018, 11:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-09-05T09:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+      </item>
+      <item>
          <guid isPermaLink="false">10.1787/9789264292048-en</guid>
          <pubDate>Fri, 07 Sep 2018 09:00:00 GMT</pubDate>
          <title>Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands</title>
          <link>https://doi.org/10.1787/9789264292048-en</link>
-         <description>Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands by Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development has an embargo on Friday, 7 September 2018, 11:00 Paris time (GMT+02:00).</description>
+         <description>Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands by Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills has an embargo on Friday, 7 September 2018, 11:00 Paris time (GMT+02:00).</description>
          <oe:embargoTime>2018-09-07T09:00:00Z</oe:embargoTime>
          <oe:launchTime/>
-         <oe:directorate>Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development</oe:directorate>
+         <oe:directorate>Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills</oe:directorate>
          <oe:ftiLoaded/>
          <oe:iLibraryExport>Tuesday, 14 August 2018, 2:27 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>

@@ -1,6 +1,6 @@
-# OECD publication embargoes (10 embargoes)
+# OECD publication embargoes (11 embargoes)
 
-*Data generated on Friday 17 August 2018 at 4:17*
+*Data generated on Saturday 18 August 2018 at 5:01*
 
 ------
 
@@ -172,6 +172,27 @@ Thursday 30 August 2018 at 16:00 | no launch event
 
 ------
 
+## [Working Together: Skills and Labour Market Integration of Immigrants and their Children in Finland](https://doi.org/10.1787/9789264305250-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 5 September 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
 ## [Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands](https://doi.org/10.1787/9789264292048-en)
 
 Embargo date | Launch date
@@ -185,7 +206,7 @@ Friday 7 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*

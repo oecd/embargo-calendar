@@ -16,7 +16,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  F, Paperback.\n\niLibrary export: 27 Jul
  y 2018, 4:21 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180817T041754Z
+DTSTAMP:20180818T050155Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -45,7 +45,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  perback, PDF.\n\niLibrary export: 28 Jul
  y 2018, 3:45 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180817T041754Z
+DTSTAMP:20180818T050155Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -74,7 +74,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  F, Paperback.\n\niLibrary export: 28 Jul
  y 2018, 3:45 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180817T041754Z
+DTSTAMP:20180818T050155Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -99,11 +99,11 @@ SUMMARY:Making Dispute Resolution More Effective
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264304307-en\
- nPublication type: Book\nReleased as: PD
- F, Paperback.\n\niLibrary export: 27 Jul
+ nPublication type: Book\nReleased as: Pa
+ perback, PDF.\n\niLibrary export: 27 Jul
  y 2018, 4:21 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180817T041754Z
+DTSTAMP:20180818T050155Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -132,7 +132,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  perback, PDF.\n\niLibrary export: 27 Jul
  y 2018, 4:21 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180817T041754Z
+DTSTAMP:20180818T050155Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -161,7 +161,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  perback, PDF.\n\niLibrary export: 27 Jul
  y 2018, 4:21 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180817T041754Z
+DTSTAMP:20180818T050155Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -190,7 +190,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  F, Paperback.\n\niLibrary export: 27 Jul
  y 2018, 4:21 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180817T041754Z
+DTSTAMP:20180818T050155Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -219,7 +219,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  perback, PDF.\n\niLibrary export: 28 Jul
  y 2018, 3:45 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20180817T041754Z
+DTSTAMP:20180818T050155Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -236,20 +236,47 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/9789264305250-en
+SUMMARY:Working Together: Skills and Labour Mark
+ et Integration of Immigrants and their C
+ hildren in Finland
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: En
+ glish\nDOI: https://doi.org/10.1787/9789
+ 264305250-en\nPublication type: Stand-al
+ one monograph\nReleased as: PDF, Paperba
+ ck.\n\niLibrary export: never\nFreeprevi
+ ew export: never\nFTI loaded: no.
+DTSTAMP:20180818T050155Z
+DTSTART:20180905T090000Z
+DTEND:20180905T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Working Together: Skills and L
+ abour Market Integration of Immigrants a
+ nd their Children in Finland
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264292048-en
 SUMMARY:Supporting Entrepreneurship and Innovati
  on in Higher Education in The Netherland
  s
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills, Centre for Entrepreneurship, 
- SMEs and Local Development\nLanguage: En
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development, Directorat
+ e for Education and Skills\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264292048-en\nPublication type: Book\nRe
  leased as: PDF, HTML, Paperback, ePub.\n
  \niLibrary export: 14 August 2018, 2:27 
  Paris time (GMT+00:00)\nFreepreview expo
  rt: never\nFTI loaded: no.
-DTSTAMP:20180817T041754Z
+DTSTAMP:20180818T050155Z
 DTSTART:20180907T090000Z
 DTEND:20180907T091500Z
 TRANSP:TRANSPARENT
@@ -276,7 +303,7 @@ DESCRIPTION:Directorate: Development Centre, Public
  ub, HTML.\n\niLibrary export: 12 July 20
  18, 1:42 Paris time (GMT+00:00)\nFreepre
  view export: never\nFTI loaded: no.
-DTSTAMP:20180817T041754Z
+DTSTAMP:20180818T050155Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
