@@ -1,6 +1,6 @@
 # OECD publication embargoes (11 embargoes)
 
-*Data generated on Saturday 18 August 2018 at 5:01*
+*Data generated on Tuesday 21 August 2018 at 4:12*
 
 ------
 
@@ -11,15 +11,15 @@ Embargo date | Launch date
 Thursday 30 August 2018 at 16:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 27 July 2018 at 6:21
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 18 August 2018 at 6:40
+- [x] Exported to Keepeek Monday 20 August 2018 at 21:05
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -32,15 +32,15 @@ Embargo date | Launch date
 Thursday 30 August 2018 at 16:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Saturday 28 July 2018 at 5:45
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 20 August 2018 at 21:05
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -53,15 +53,15 @@ Embargo date | Launch date
 Thursday 30 August 2018 at 16:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Saturday 28 July 2018 at 5:45
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 20 August 2018 at 21:05
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -74,15 +74,15 @@ Embargo date | Launch date
 Thursday 30 August 2018 at 16:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 27 July 2018 at 6:21
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 18 August 2018 at 6:40
+- [x] Exported to Keepeek Monday 20 August 2018 at 21:05
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -95,15 +95,15 @@ Embargo date | Launch date
 Thursday 30 August 2018 at 16:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 27 July 2018 at 6:21
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 20 August 2018 at 21:05
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -116,15 +116,15 @@ Embargo date | Launch date
 Thursday 30 August 2018 at 16:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 27 July 2018 at 6:21
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 20 August 2018 at 21:05
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -137,15 +137,15 @@ Embargo date | Launch date
 Thursday 30 August 2018 at 16:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 27 July 2018 at 6:21
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 20 August 2018 at 21:05
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -158,15 +158,15 @@ Embargo date | Launch date
 Thursday 30 August 2018 at 16:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Saturday 28 July 2018 at 5:45
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 20 August 2018 at 21:05
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -180,7 +180,7 @@ Wednesday 5 September 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Saturday 18 August 2018 at 6:40
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -206,7 +206,7 @@ Friday 7 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
+* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
@@ -227,7 +227,7 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Development Centre, Public Affairs and Communications Directorate*
+* Directorate: *Public Affairs and Communications Directorate, Development Centre*
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
