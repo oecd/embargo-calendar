@@ -1,6 +1,27 @@
-# OECD publication embargoes (11 embargoes)
+# OECD publication embargoes (12 embargoes)
 
-*Data generated on Thursday 23 August 2018 at 4:07*
+*Data generated on Saturday 25 August 2018 at 6:00*
+
+------
+
+## [Report of the Secretary-General on the Work of the Organization](https://doi.org/10.18356/0de800f9-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 27 August 2018 at 20:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Friday 24 August 2018 at 21:15
+
+### Additional Information
+
+* Directorate: *Non applicable*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
 
 ------
 
@@ -179,15 +200,15 @@ Embargo date | Launch date
 Wednesday 5 September 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 22 August 2018 at 5:54
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Friday 24 August 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 

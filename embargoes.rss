@@ -8,11 +8,26 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Thu, 23 Aug 2018 04:07:15 GMT</pubDate>
+      <pubDate>Sat, 25 Aug 2018 06:00:32 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
                  type="application/rss+xml"/>
+      <item>
+         <guid isPermaLink="false">10.18356/0de800f9-en</guid>
+         <pubDate>Mon, 27 Aug 2018 18:00:00 GMT</pubDate>
+         <title>Report of the Secretary-General on the Work of the Organization</title>
+         <link>https://doi.org/10.18356/0de800f9-en</link>
+         <description>Report of the Secretary-General on the Work of the Organization by Non applicable has an embargo on Monday, 27 August 2018, 20:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-08-27T18:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Non applicable</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Friday, 24 August 2018, 19:15 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264304208-en</guid>
          <pubDate>Thu, 30 Aug 2018 14:00:00 GMT</pubDate>
@@ -142,11 +157,11 @@
          <oe:embargoTime>2018-09-05T09:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Wednesday, 22 August 2018, 3:54 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:freePreviewExport>Friday, 24 August 2018, 19:15 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264292048-en</guid>
