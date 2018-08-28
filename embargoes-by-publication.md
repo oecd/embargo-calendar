@@ -1,27 +1,6 @@
-# OECD publication embargoes (12 embargoes)
+# OECD publication embargoes (14 embargoes)
 
-*Data generated on Saturday 25 August 2018 at 6:00*
-
-------
-
-## [Report of the Secretary-General on the Work of the Organization](https://doi.org/10.18356/0de800f9-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 27 August 2018 at 20:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [x] Exported to Keepeek Friday 24 August 2018 at 21:15
-
-### Additional Information
-
-* Directorate: *Non applicable*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Tuesday 28 August 2018 at 4:18*
 
 ------
 
@@ -193,6 +172,27 @@ Thursday 30 August 2018 at 16:00 | no launch event
 
 ------
 
+## [Tax Policy Reforms 2018 - OECD and Selected Partner Economies](https://doi.org/10.1787/9789264304468-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 4 September 2018 at 23:59 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 22 August 2018 at 5:54
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
 ## [Working Together: Skills and Labour Market Integration of Immigrants and their Children in Finland](https://doi.org/10.1787/9789264305250-en)
 
 Embargo date | Launch date
@@ -227,8 +227,50 @@ Friday 7 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
 * Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Education at a Glance 2018 - OECD Indicators](https://doi.org/10.1787/eag-2018-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 11 September 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 31 July 2018 at 4:51
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Regard sur l'éducation 2018 - Les indicateurs de l'OCDE](https://doi.org/10.1787/eag-2018-fr)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 11 September 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 31 July 2018 at 4:51
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Medium: *PDF*
@@ -248,7 +290,7 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Development Centre, Public Affairs and Communications Directorate*
+* Directorate: *Public Affairs and Communications Directorate, Development Centre*
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*

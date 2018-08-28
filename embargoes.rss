@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Sat, 25 Aug 2018 06:00:32 GMT</pubDate>
+      <pubDate>Tue, 28 Aug 2018 04:18:09 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -149,6 +149,21 @@
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
+         <guid isPermaLink="false">10.1787/9789264304468-en</guid>
+         <pubDate>Tue, 04 Sep 2018 21:59:00 GMT</pubDate>
+         <title>Tax Policy Reforms 2018 - OECD and Selected Partner Economies</title>
+         <link>https://doi.org/10.1787/9789264304468-en</link>
+         <description>Tax Policy Reforms 2018 - OECD and Selected Partner Economies by Centre for Tax Policy and Administration has an embargo on Tuesday, 4 September 2018, 23:59 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-09-04T21:59:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Wednesday, 22 August 2018, 3:54 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+      </item>
+      <item>
          <guid isPermaLink="false">10.1787/9789264305250-en</guid>
          <pubDate>Wed, 05 Sep 2018 09:00:00 GMT</pubDate>
          <title>Working Together: Skills and Labour Market Integration of Immigrants and their Children in Finland</title>
@@ -168,10 +183,10 @@
          <pubDate>Fri, 07 Sep 2018 09:00:00 GMT</pubDate>
          <title>Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands</title>
          <link>https://doi.org/10.1787/9789264292048-en</link>
-         <description>Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands by Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development has an embargo on Friday, 7 September 2018, 11:00 Paris time (GMT+02:00).</description>
+         <description>Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands by Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills has an embargo on Friday, 7 September 2018, 11:00 Paris time (GMT+02:00).</description>
          <oe:embargoTime>2018-09-07T09:00:00Z</oe:embargoTime>
          <oe:launchTime/>
-         <oe:directorate>Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development</oe:directorate>
+         <oe:directorate>Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills</oe:directorate>
          <oe:ftiLoaded/>
          <oe:iLibraryExport>Tuesday, 14 August 2018, 2:27 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
@@ -179,14 +194,44 @@
          <oe:availableMedia>PDF, HTML, Paperback, ePub</oe:availableMedia>
       </item>
       <item>
+         <guid isPermaLink="false">10.1787/eag-2018-en</guid>
+         <pubDate>Tue, 11 Sep 2018 09:00:00 GMT</pubDate>
+         <title>Education at a Glance 2018 - OECD Indicators</title>
+         <link>https://doi.org/10.1787/eag-2018-en</link>
+         <description>Education at a Glance 2018 - OECD Indicators by Directorate for Education and Skills has an embargo on Tuesday, 11 September 2018, 11:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-09-11T09:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Education and Skills</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Tuesday, 31 July 2018, 2:51 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/eag-2018-fr</guid>
+         <pubDate>Tue, 11 Sep 2018 09:00:00 GMT</pubDate>
+         <title>Regard sur l'éducation 2018 - Les indicateurs de l'OCDE</title>
+         <link>https://doi.org/10.1787/eag-2018-fr</link>
+         <description>Regard sur l'éducation 2018 - Les indicateurs de l'OCDE by Directorate for Education and Skills has an embargo on Tuesday, 11 September 2018, 11:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-09-11T09:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Education and Skills</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Tuesday, 31 July 2018, 2:51 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+      </item>
+      <item>
          <guid isPermaLink="false">10.1787/9789264300347-fr</guid>
          <pubDate>Tue, 18 Sep 2018 09:00:00 GMT</pubDate>
          <title>Examen multidimensionnel du Sénégal - Volume 3. De l'analyse à l'action</title>
          <link>https://doi.org/10.1787/9789264300347-fr</link>
-         <description>Examen multidimensionnel du Sénégal - Volume 3. De l'analyse à l'action by Development Centre, Public Affairs and Communications Directorate has an embargo on Tuesday, 18 September 2018, 11:00 Paris time (GMT+02:00).</description>
+         <description>Examen multidimensionnel du Sénégal - Volume 3. De l'analyse à l'action by Public Affairs and Communications Directorate, Development Centre has an embargo on Tuesday, 18 September 2018, 11:00 Paris time (GMT+02:00).</description>
          <oe:embargoTime>2018-09-18T09:00:00Z</oe:embargoTime>
          <oe:launchTime/>
-         <oe:directorate>Development Centre, Public Affairs and Communications Directorate</oe:directorate>
+         <oe:directorate>Public Affairs and Communications Directorate, Development Centre</oe:directorate>
          <oe:ftiLoaded/>
          <oe:iLibraryExport>Thursday, 12 July 2018, 1:42 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>

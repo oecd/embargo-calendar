@@ -13,7 +13,7 @@ DESCRIPTION:Directorate: Non applicable\nLanguage: E
  sed as: PDF.\n\niLibrary export: never\n
  Freepreview export: 24 August 2018, 19:1
  5 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180825T060030Z
+DTSTAMP:20180828T041807Z
 DTSTART:20180827T180000Z
 DTEND:20180827T181500Z
 TRANSP:TRANSPARENT
@@ -41,7 +41,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ust 2018, 3:50 Paris time (GMT+00:00)\nF
  reepreview export: 20 August 2018, 19:05
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180825T060030Z
+DTSTAMP:20180828T041807Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -71,7 +71,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ust 2018, 3:50 Paris time (GMT+00:00)\nF
  reepreview export: 20 August 2018, 19:05
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180825T060030Z
+DTSTAMP:20180828T041807Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -101,7 +101,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ust 2018, 3:50 Paris time (GMT+00:00)\nF
  reepreview export: 20 August 2018, 19:05
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180825T060030Z
+DTSTAMP:20180828T041807Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -131,7 +131,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ust 2018, 3:50 Paris time (GMT+00:00)\nF
  reepreview export: 20 August 2018, 19:05
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180825T060030Z
+DTSTAMP:20180828T041807Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -161,7 +161,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ust 2018, 3:50 Paris time (GMT+00:00)\nF
  reepreview export: 20 August 2018, 19:05
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180825T060030Z
+DTSTAMP:20180828T041807Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -191,7 +191,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ust 2018, 3:50 Paris time (GMT+00:00)\nF
  reepreview export: 20 August 2018, 19:05
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180825T060030Z
+DTSTAMP:20180828T041807Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -221,7 +221,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ust 2018, 3:50 Paris time (GMT+00:00)\nF
  reepreview export: 20 August 2018, 19:05
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180825T060030Z
+DTSTAMP:20180828T041807Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -251,7 +251,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ust 2018, 3:50 Paris time (GMT+00:00)\nF
  reepreview export: 20 August 2018, 19:05
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180825T060030Z
+DTSTAMP:20180828T041807Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -264,6 +264,32 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
   Effective – MAP Peer Review Report, Por
  tugal (Stage 1) - Inclusive Framework on
   BEPS: Action 14
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264304468-en
+SUMMARY:Tax Policy Reforms 2018 - OECD and Selec
+ ted Partner Economies
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/9789264304468-en\
+ nPublication type: Stand-alone monograph
+ \nReleased as: Paperback, PDF.\n\niLibra
+ ry export: 22 August 2018, 3:54 Paris ti
+ me (GMT+00:00)\nFreepreview export: neve
+ r\nFTI loaded: no.
+DTSTAMP:20180828T041807Z
+DTSTART:20180904T215900Z
+DTEND:20180904T221400Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Tax Policy Reforms 2018 - OECD
+  and Selected Partner Economies
 END:VALARM
 END:VEVENT
 
@@ -281,7 +307,7 @@ DESCRIPTION:Directorate: Directorate for Employment,
  3:54 Paris time (GMT+00:00)\nFreepreview
   export: 24 August 2018, 19:15 Paris tim
  e (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180825T060030Z
+DTSTAMP:20180828T041807Z
 DTSTART:20180905T090000Z
 DTEND:20180905T091500Z
 TRANSP:TRANSPARENT
@@ -301,16 +327,16 @@ UID:10.1787/9789264292048-en
 SUMMARY:Supporting Entrepreneurship and Innovati
  on in Higher Education in The Netherland
  s
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills, Centre for Entrepreneurship, 
- SMEs and Local Development\nLanguage: En
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development, Directorat
+ e for Education and Skills\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264292048-en\nPublication type: Book\nRe
  leased as: PDF, HTML, Paperback, ePub.\n
  \niLibrary export: 14 August 2018, 2:27 
  Paris time (GMT+00:00)\nFreepreview expo
  rt: never\nFTI loaded: no.
-DTSTAMP:20180825T060030Z
+DTSTAMP:20180828T041807Z
 DTSTART:20180907T090000Z
 DTEND:20180907T091500Z
 TRANSP:TRANSPARENT
@@ -326,18 +352,68 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/eag-2018-en
+SUMMARY:Education at a Glance 2018 - OECD Indica
+ tors
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: English\nDOI: https
+ ://doi.org/10.1787/eag-2018-en\nPublicat
+ ion type: Book\nReleased as: Paperback, 
+ PDF.\n\niLibrary export: 31 July 2018, 2
+ :51 Paris time (GMT+00:00)\nFreepreview 
+ export: never\nFTI loaded: no.
+DTSTAMP:20180828T041807Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 - O
+ ECD Indicators
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/eag-2018-fr
+SUMMARY:Regard sur l'éducation 2018 - Les indica
+ teurs de l'OCDE
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: French\nDOI: https:
+ //doi.org/10.1787/eag-2018-fr\nPublicati
+ on type: Book\nReleased as: PDF, Paperba
+ ck.\n\niLibrary export: 31 July 2018, 2:
+ 51 Paris time (GMT+00:00)\nFreepreview e
+ xport: never\nFTI loaded: no.
+DTSTAMP:20180828T041807Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Regard sur l'éducation 2018 - 
+ Les indicateurs de l'OCDE
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264300347-fr
 SUMMARY:Examen multidimensionnel du Sénégal - Vo
  lume 3. De l'analyse à l'action
-DESCRIPTION:Directorate: Development Centre, Public 
- Affairs and Communications Directorate\n
+DESCRIPTION:Directorate: Public Affairs and Communic
+ ations Directorate, Development Centre\n
  Language: French\nDOI: https://doi.org/1
  0.1787/9789264300347-fr\nPublication typ
  e: Book\nReleased as: Paperback, ePub, H
  TML, PDF.\n\niLibrary export: 12 July 20
  18, 1:42 Paris time (GMT+00:00)\nFreepre
  view export: never\nFTI loaded: no.
-DTSTAMP:20180825T060030Z
+DTSTAMP:20180828T041807Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
