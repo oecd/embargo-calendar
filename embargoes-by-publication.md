@@ -1,6 +1,6 @@
 # OECD publication embargoes (14 embargoes)
 
-*Data generated on Tuesday 28 August 2018 at 4:18*
+*Data generated on Wednesday 29 August 2018 at 3:13*
 
 ------
 
@@ -180,7 +180,7 @@ Tuesday 4 September 2018 at 23:59 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 22 August 2018 at 5:54
+- [x] Exported to iLibrary Tuesday 28 August 2018 at 5:56
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -201,7 +201,7 @@ Wednesday 5 September 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 August 2018 at 5:54
+- [x] Exported to iLibrary Tuesday 28 August 2018 at 5:56
 - [x] Exported to Keepeek Friday 24 August 2018 at 21:15
 
 ### Additional Information
@@ -243,7 +243,7 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 31 July 2018 at 4:51
+- [x] Exported to iLibrary Tuesday 28 August 2018 at 5:56
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -264,7 +264,7 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 31 July 2018 at 4:51
+- [x] Exported to iLibrary Tuesday 28 August 2018 at 5:56
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -290,7 +290,7 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Public Affairs and Communications Directorate, Development Centre*
+* Directorate: *Development Centre, Public Affairs and Communications Directorate*
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
