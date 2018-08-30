@@ -1,6 +1,48 @@
-# OECD publication embargoes (14 embargoes)
+# OECD publication embargoes (16 embargoes)
 
-*Data generated on Wednesday 29 August 2018 at 3:13*
+*Data generated on Thursday 30 August 2018 at 3:44*
+
+------
+
+## [Dreifach benachteiligt? - Ein erster überblick über die integration weiblicher flüchtlinge](https://doi.org/10.1787/b0cf3f35-de)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 30 August 2018 at 11:30 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Wednesday 29 August 2018 at 21:09
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *German*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Triple Disadvantage?  - A first overview of the integration of refugee women](https://doi.org/10.1787/3f3a9612-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 30 August 2018 at 11:30 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Wednesday 29 August 2018 at 21:09
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
 
 ------
 
@@ -227,7 +269,7 @@ Friday 7 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
+* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*

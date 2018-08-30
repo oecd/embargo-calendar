@@ -4,27 +4,57 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.18356/0de800f9-en
-SUMMARY:Report of the Secretary-General on the W
- ork of the Organization
-DESCRIPTION:Directorate: Non applicable\nLanguage: E
- nglish\nDOI: https://doi.org/10.18356/0d
- e800f9-en\nPublication type: Book\nRelea
- sed as: PDF.\n\niLibrary export: 28 Augu
- st 2018, 3:56 Paris time (GMT+00:00)\nFr
- eepreview export: 24 August 2018, 19:15 
- Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180829T031318Z
-DTSTART:20180827T180000Z
-DTEND:20180827T181500Z
+UID:10.1787/b0cf3f35-de
+SUMMARY:Dreifach benachteiligt? - Ein erster übe
+ rblick über die integration weiblicher f
+ lüchtlinge
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: Ge
+ rman\nDOI: https://doi.org/10.1787/b0cf3
+ f35-de\nPublication type: Working paper\
+ nReleased as: PDF.\n\niLibrary export: n
+ ever\nFreepreview export: 29 August 2018
+ , 19:09 Paris time (GMT+00:00)\nFTI load
+ ed: ✓, ✓.
+DTSTAMP:20180830T034426Z
+DTSTART:20180830T093000Z
+DTEND:20180830T094500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT72H
+TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Report of the Secretary-Genera
- l on the Work of the Organization
+DESCRIPTION:Reminder: Dreifach benachteiligt? - Ein 
+ erster überblick über die integration we
+ iblicher flüchtlinge
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/3f3a9612-en
+SUMMARY:Triple Disadvantage?  - A first overview
+  of the integration of refugee women
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: En
+ glish\nDOI: https://doi.org/10.1787/3f3a
+ 9612-en\nPublication type: Working paper
+ \nReleased as: PDF.\n\niLibrary export: 
+ never\nFreepreview export: 29 August 201
+ 8, 19:09 Paris time (GMT+00:00)\nFTI loa
+ ded: ✓, ✓.
+DTSTAMP:20180830T034426Z
+DTSTART:20180830T093000Z
+DTEND:20180830T094500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Triple Disadvantage?  - A firs
+ t overview of the integration of refugee
+  women
 END:VALARM
 END:VEVENT
 
@@ -42,7 +72,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ust 2018, 3:50 Paris time (GMT+00:00)\nF
  reepreview export: 20 August 2018, 19:05
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180829T031318Z
+DTSTAMP:20180830T034426Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -72,7 +102,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ust 2018, 3:50 Paris time (GMT+00:00)\nF
  reepreview export: 20 August 2018, 19:05
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180829T031318Z
+DTSTAMP:20180830T034426Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -102,7 +132,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ust 2018, 3:50 Paris time (GMT+00:00)\nF
  reepreview export: 20 August 2018, 19:05
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180829T031318Z
+DTSTAMP:20180830T034426Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -132,7 +162,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ust 2018, 3:50 Paris time (GMT+00:00)\nF
  reepreview export: 20 August 2018, 19:05
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180829T031318Z
+DTSTAMP:20180830T034426Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -162,7 +192,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ust 2018, 3:50 Paris time (GMT+00:00)\nF
  reepreview export: 20 August 2018, 19:05
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180829T031318Z
+DTSTAMP:20180830T034426Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -192,7 +222,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ust 2018, 3:50 Paris time (GMT+00:00)\nF
  reepreview export: 20 August 2018, 19:05
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180829T031318Z
+DTSTAMP:20180830T034426Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -222,7 +252,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ust 2018, 3:50 Paris time (GMT+00:00)\nF
  reepreview export: 20 August 2018, 19:05
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180829T031318Z
+DTSTAMP:20180830T034426Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -252,7 +282,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ust 2018, 3:50 Paris time (GMT+00:00)\nF
  reepreview export: 20 August 2018, 19:05
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180829T031318Z
+DTSTAMP:20180830T034426Z
 DTSTART:20180830T140000Z
 DTEND:20180830T141500Z
 TRANSP:TRANSPARENT
@@ -276,11 +306,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264304468-en\
  nPublication type: Stand-alone monograph
- \nReleased as: Paperback, PDF.\n\niLibra
+ \nReleased as: PDF, Paperback.\n\niLibra
  ry export: 28 August 2018, 3:56 Paris ti
  me (GMT+00:00)\nFreepreview export: neve
  r\nFTI loaded: no.
-DTSTAMP:20180829T031318Z
+DTSTAMP:20180830T034426Z
 DTSTART:20180904T215900Z
 DTEND:20180904T221400Z
 TRANSP:TRANSPARENT
@@ -303,12 +333,12 @@ DESCRIPTION:Directorate: Directorate for Employment,
   Labour and Social Affairs\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264305250-en\nPublication type: Stand-al
- one monograph\nReleased as: PDF, Paperba
- ck.\n\niLibrary export: 28 August 2018, 
+ one monograph\nReleased as: Paperback, P
+ DF.\n\niLibrary export: 28 August 2018, 
  3:56 Paris time (GMT+00:00)\nFreepreview
   export: 24 August 2018, 19:15 Paris tim
  e (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180829T031318Z
+DTSTAMP:20180830T034426Z
 DTSTART:20180905T090000Z
 DTEND:20180905T091500Z
 TRANSP:TRANSPARENT
@@ -328,16 +358,16 @@ UID:10.1787/9789264292048-en
 SUMMARY:Supporting Entrepreneurship and Innovati
  on in Higher Education in The Netherland
  s
-DESCRIPTION:Directorate: Centre for Entrepreneurship
- , SMEs and Local Development, Directorat
- e for Education and Skills\nLanguage: En
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills, Centre for Entrepreneurship, 
+ SMEs and Local Development\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264292048-en\nPublication type: Book\nRe
  leased as: PDF, HTML, Paperback, ePub.\n
  \niLibrary export: 14 August 2018, 2:27 
  Paris time (GMT+00:00)\nFreepreview expo
  rt: never\nFTI loaded: no.
-DTSTAMP:20180829T031318Z
+DTSTAMP:20180830T034426Z
 DTSTART:20180907T090000Z
 DTEND:20180907T091500Z
 TRANSP:TRANSPARENT
@@ -359,11 +389,11 @@ SUMMARY:Education at a Glance 2018 - OECD Indica
 DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/eag-2018-en\nPublicat
- ion type: Book\nReleased as: Paperback, 
- PDF.\n\niLibrary export: 28 August 2018,
+ ion type: Book\nReleased as: PDF, Paperb
+ ack.\n\niLibrary export: 28 August 2018,
   3:56 Paris time (GMT+00:00)\nFreeprevie
  w export: never\nFTI loaded: no.
-DTSTAMP:20180829T031318Z
+DTSTAMP:20180830T034426Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -384,11 +414,11 @@ SUMMARY:Regard sur l'éducation 2018 - Les indica
 DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: French\nDOI: https:
  //doi.org/10.1787/eag-2018-fr\nPublicati
- on type: Book\nReleased as: PDF, Paperba
- ck.\n\niLibrary export: 28 August 2018, 
+ on type: Book\nReleased as: Paperback, P
+ DF.\n\niLibrary export: 28 August 2018, 
  3:56 Paris time (GMT+00:00)\nFreepreview
   export: never\nFTI loaded: no.
-DTSTAMP:20180829T031318Z
+DTSTAMP:20180830T034426Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -414,7 +444,7 @@ DESCRIPTION:Directorate: Development Centre, Public
  TML, PDF.\n\niLibrary export: 12 July 20
  18, 1:42 Paris time (GMT+00:00)\nFreepre
  view export: never\nFTI loaded: no.
-DTSTAMP:20180829T031318Z
+DTSTAMP:20180830T034426Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
