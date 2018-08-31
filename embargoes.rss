@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Thu, 30 Aug 2018 03:44:28 GMT</pubDate>
+      <pubDate>Fri, 31 Aug 2018 05:03:23 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -23,8 +23,8 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport/>
-         <oe:freePreviewExport>Wednesday, 29 August 2018, 19:09 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:iLibraryExport>Thursday, 30 August 2018, 3:23 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Thursday, 30 August 2018, 19:09 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Working paper</oe:catalogueType>
          <oe:availableMedia>PDF</oe:availableMedia>
       </item>
@@ -38,8 +38,8 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport/>
-         <oe:freePreviewExport>Wednesday, 29 August 2018, 19:09 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:iLibraryExport>Thursday, 30 August 2018, 3:23 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Thursday, 30 August 2018, 19:09 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Working paper</oe:catalogueType>
          <oe:availableMedia>PDF</oe:availableMedia>
       </item>
@@ -116,7 +116,7 @@
          <oe:iLibraryExport>Tuesday, 21 August 2018, 3:50 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Monday, 20 August 2018, 19:05 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264304345-en</guid>
@@ -131,7 +131,7 @@
          <oe:iLibraryExport>Tuesday, 21 August 2018, 3:50 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Monday, 20 August 2018, 19:05 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264304369-en</guid>
@@ -161,7 +161,22 @@
          <oe:iLibraryExport>Tuesday, 21 August 2018, 3:50 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Monday, 20 August 2018, 19:05 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264298828-en</guid>
+         <pubDate>Mon, 03 Sep 2018 09:00:00 GMT</pubDate>
+         <title>OECD Business and Finance Outlook 2018</title>
+         <link>https://doi.org/10.1787/9789264298828-en</link>
+         <description>OECD Business and Finance Outlook 2018 by Directorate for Financial and Enterprise Affairs has an embargo on Monday, 3 September 2018, 11:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-09-03T09:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Financial and Enterprise Affairs</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Thursday, 30 August 2018, 3:23 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Thursday, 30 August 2018, 19:09 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>Paperback, ePub, PDF, HTML</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264304468-en</guid>
@@ -172,11 +187,11 @@
          <oe:embargoTime>2018-09-04T21:59:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Tuesday, 28 August 2018, 3:56 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:freePreviewExport>Thursday, 30 August 2018, 19:09 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, ePub, PDF, HTML</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264305250-en</guid>
@@ -236,17 +251,17 @@
          <oe:iLibraryExport>Tuesday, 28 August 2018, 3:56 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264300347-fr</guid>
          <pubDate>Tue, 18 Sep 2018 09:00:00 GMT</pubDate>
          <title>Examen multidimensionnel du Sénégal - Volume 3. De l'analyse à l'action</title>
          <link>https://doi.org/10.1787/9789264300347-fr</link>
-         <description>Examen multidimensionnel du Sénégal - Volume 3. De l'analyse à l'action by Development Centre, Public Affairs and Communications Directorate has an embargo on Tuesday, 18 September 2018, 11:00 Paris time (GMT+02:00).</description>
+         <description>Examen multidimensionnel du Sénégal - Volume 3. De l'analyse à l'action by Public Affairs and Communications Directorate, Development Centre has an embargo on Tuesday, 18 September 2018, 11:00 Paris time (GMT+02:00).</description>
          <oe:embargoTime>2018-09-18T09:00:00Z</oe:embargoTime>
          <oe:launchTime/>
-         <oe:directorate>Development Centre, Public Affairs and Communications Directorate</oe:directorate>
+         <oe:directorate>Public Affairs and Communications Directorate, Development Centre</oe:directorate>
          <oe:ftiLoaded/>
          <oe:iLibraryExport>Thursday, 12 July 2018, 1:42 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>

@@ -1,212 +1,23 @@
-# OECD publication embargoes (16 embargoes)
+# OECD publication embargoes (7 embargoes)
 
-*Data generated on Thursday 30 August 2018 at 3:44*
-
-------
-
-## [Dreifach benachteiligt? - Ein erster überblick über die integration weiblicher flüchtlinge](https://doi.org/10.1787/b0cf3f35-de)
-
-Embargo date | Launch date
--------------|------------
-Thursday 30 August 2018 at 11:30 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [x] Exported to Keepeek Wednesday 29 August 2018 at 21:09
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Friday 31 August 2018 at 5:03*
 
 ------
 
-## [Triple Disadvantage?  - A first overview of the integration of refugee women](https://doi.org/10.1787/3f3a9612-en)
+## [OECD Business and Finance Outlook 2018](https://doi.org/10.1787/9789264298828-en)
 
 Embargo date | Launch date
 -------------|------------
-Thursday 30 August 2018 at 11:30 | no launch event
+Monday 3 September 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [x] Exported to Keepeek Wednesday 29 August 2018 at 21:09
+- [x] Exported to iLibrary Thursday 30 August 2018 at 5:23
+- [x] Exported to Keepeek Thursday 30 August 2018 at 21:09
 
 ### Additional Information
 
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Australia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9789264304208-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 30 August 2018 at 16:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 August 2018 at 5:50
-- [x] Exported to Keepeek Monday 20 August 2018 at 21:05
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Ireland (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9789264304192-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 30 August 2018 at 16:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 August 2018 at 5:50
-- [x] Exported to Keepeek Monday 20 August 2018 at 21:05
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Israel (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9789264304284-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 30 August 2018 at 16:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 August 2018 at 5:50
-- [x] Exported to Keepeek Monday 20 August 2018 at 21:05
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Japan (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9789264304307-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 30 August 2018 at 16:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 August 2018 at 5:50
-- [x] Exported to Keepeek Monday 20 August 2018 at 21:05
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Malta (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9789264304321-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 30 August 2018 at 16:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 August 2018 at 5:50
-- [x] Exported to Keepeek Monday 20 August 2018 at 21:05
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Mexico (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9789264304345-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 30 August 2018 at 16:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 August 2018 at 5:50
-- [x] Exported to Keepeek Monday 20 August 2018 at 21:05
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, New Zealand (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9789264304369-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 30 August 2018 at 16:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 August 2018 at 5:50
-- [x] Exported to Keepeek Monday 20 August 2018 at 21:05
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Portugal (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9789264304222-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 30 August 2018 at 16:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 August 2018 at 5:50
-- [x] Exported to Keepeek Monday 20 August 2018 at 21:05
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
@@ -221,15 +32,15 @@ Embargo date | Launch date
 Tuesday 4 September 2018 at 23:59 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 28 August 2018 at 5:56
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Thursday 30 August 2018 at 21:09
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
@@ -332,7 +143,7 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Development Centre, Public Affairs and Communications Directorate*
+* Directorate: *Public Affairs and Communications Directorate, Development Centre*
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
