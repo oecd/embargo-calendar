@@ -1,27 +1,6 @@
-# OECD publication embargoes (10 embargoes)
+# OECD publication embargoes (9 embargoes)
 
-*Data generated on Tuesday 4 September 2018 at 3:39*
-
-------
-
-## [Tax Policy Reforms 2018 - OECD and Selected Partner Economies](https://doi.org/10.1787/9789264304468-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 5 September 2018 at 0:01 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 1 September 2018 at 12:37
-- [x] Exported to Keepeek Friday 31 August 2018 at 21:08
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Wednesday 5 September 2018 at 4:09*
 
 ------
 
@@ -33,7 +12,7 @@ Wednesday 5 September 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 August 2018 at 5:56
+- [x] Exported to iLibrary Tuesday 4 September 2018 at 5:22
 - [x] Exported to Keepeek Friday 24 August 2018 at 21:15
 
 ### Additional Information
@@ -54,7 +33,7 @@ Thursday 6 September 2018 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 4 September 2018 at 5:22
 - [x] Exported to Keepeek Monday 3 September 2018 at 21:13
 
 ### Additional Information
@@ -145,7 +124,7 @@ Friday 14 September 2018 at 11:00 | no launch event
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -166,7 +145,7 @@ Friday 14 September 2018 at 11:00 | no launch event
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -180,7 +159,7 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 23 August 2018 at 5:44
+- [x] Exported to iLibrary Tuesday 4 September 2018 at 5:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -206,7 +185,7 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Public Affairs and Communications Directorate, Development Centre*
+* Directorate: *Development Centre, Public Affairs and Communications Directorate*
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
