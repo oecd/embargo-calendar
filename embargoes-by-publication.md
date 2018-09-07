@@ -1,27 +1,6 @@
 # OECD publication embargoes (8 embargoes)
 
-*Data generated on Thursday 6 September 2018 at 4:13*
-
-------
-
-## [Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands](https://doi.org/10.1787/9789264292048-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 7 September 2018 at 11:00 | no launch event
-
-### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 August 2018 at 4:27
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Friday 7 September 2018 at 5:03*
 
 ------
 
@@ -53,7 +32,7 @@ Embargo date | Launch date
 Tuesday 11 September 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 28 August 2018 at 5:56
 - [ ] Exported to Keepeek
 
@@ -164,8 +143,29 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Development Centre, Public Affairs and Communications Directorate*
+* Directorate: *Public Affairs and Communications Directorate, Development Centre*
 * Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands](https://doi.org/10.1787/9789264292048-en)
+
+Embargo date | Launch date
+-------------|------------
+Sunday 30 September 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 14 August 2018 at 4:27
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
+* Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Medium: *PDF*
