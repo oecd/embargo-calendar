@@ -4,61 +4,27 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264305250-en
-SUMMARY:Working Together: Skills and Labour Mark
- et Integration of Immigrants and their C
- hildren in Finland
-DESCRIPTION:Directorate: Directorate for Employment,
-  Labour and Social Affairs\nLanguage: En
- glish\nDOI: https://doi.org/10.1787/9789
- 264305250-en\nPublication type: Stand-al
- one monograph\nReleased as: Paperback, P
- DF.\n\niLibrary export: 4 September 2018
- , 3:22 Paris time (GMT+00:00)\nFreeprevi
- ew export: 24 August 2018, 19:15 Paris t
- ime (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180907T050317Z
-DTSTART:20180905T090000Z
-DTEND:20180905T091500Z
+UID:10.1787/d44dc56f-en
+SUMMARY:Design of insolvency regimes across coun
+ tries
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/d44dc56f-en\nPublication type: Workin
+ g paper\nReleased as: PDF.\n\niLibrary e
+ xport: never\nFreepreview export: 7 Sept
+ ember 2018, 19:59 Paris time (GMT+00:00)
+ \nFTI loaded: ✓, ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T000000Z
+DTEND:20180911T001500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Working Together: Skills and L
- abour Market Integration of Immigrants a
- nd their Children in Finland
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/64bcf5de-en
-SUMMARY:Simplified registration and collection m
- echanisms for taxpayers that are not loc
- ated in the jurisdiction of taxation - A
-  review and assessment
-DESCRIPTION:Directorate: Centre for Tax Policy and A
- dministration\nLanguage: English\nDOI: h
- ttps://doi.org/10.1787/64bcf5de-en\nPubl
- ication type: Working paper\nReleased as
- : PDF.\n\niLibrary export: 4 September 2
- 018, 3:22 Paris time (GMT+00:00)\nFreepr
- eview export: 3 September 2018, 19:13 Pa
- ris time (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20180907T050317Z
-DTSTART:20180906T000000Z
-DTEND:20180906T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Simplified registration and co
- llection mechanisms for taxpayers that a
- re not located in the jurisdiction of ta
- xation - A review and assessment
+DESCRIPTION:Reminder: Design of insolvency regimes a
+ cross countries
 END:VALARM
 END:VEVENT
 
@@ -72,7 +38,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  on type: Book\nReleased as: PDF.\n\niLib
  rary export: never\nFreepreview export: 
  never\nFTI loaded: no.
-DTSTAMP:20180907T050317Z
+DTSTAMP:20180908T070542Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -94,10 +60,11 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/eag-2018-en\nPublicat
  ion type: Book\nReleased as: Paperback, 
- PDF.\n\niLibrary export: 28 August 2018,
-  3:56 Paris time (GMT+00:00)\nFreeprevie
- w export: never\nFTI loaded: ✓.
-DTSTAMP:20180907T050317Z
+ PDF.\n\niLibrary export: 7 September 201
+ 8, 4:42 Paris time (GMT+00:00)\nFreeprev
+ iew export: 7 September 2018, 19:59 Pari
+ s time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -112,6 +79,701 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/a1f883a5-zh
+SUMMARY:Education at a Glance 2018 (Summary in C
+ hinese), 2018年教育概览 - OECD Indicators, 经合
+ 组织参数
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: Chinese\nDOI: https
+ ://doi.org/10.1787/a1f883a5-zh\nPublicat
+ ion type: Summary\nReleased as: ePub, HT
+ ML, PDF.\n\niLibrary export: never\nFree
+ preview export: never\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 (Su
+ mmary in Chinese), 2018年教育概览 - OECD Indi
+ cators, 经合组织参数
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/4692fd1f-cs
+SUMMARY:Education at a Glance 2018 (Summary in C
+ zech), Letmý pohled na vzdělávání v roce
+  2018 - OECD Indicators, Ukazatele OECD
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: Czech\nDOI: https:/
+ /doi.org/10.1787/4692fd1f-cs\nPublicatio
+ n type: Summary\nReleased as: PDF, ePub,
+  HTML.\n\niLibrary export: never\nFreepr
+ eview export: never\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 (Su
+ mmary in Czech), Letmý pohled na vzděláv
+ ání v roce 2018 - OECD Indicators, Ukaza
+ tele OECD
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/7720dde9-da
+SUMMARY:Education at a Glance 2018 (Summary in D
+ anish), Uddannelse 2018 - kort fortalt -
+  OECD Indicators, OECD-indikatorer
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: Danish\nDOI: https:
+ //doi.org/10.1787/7720dde9-da\nPublicati
+ on type: Summary\nReleased as: PDF, ePub
+ , HTML.\n\niLibrary export: never\nFreep
+ review export: never\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 (Su
+ mmary in Danish), Uddannelse 2018 - kort
+  fortalt - OECD Indicators, OECD-indikat
+ orer
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/77f97b46-nl
+SUMMARY:Education at a Glance 2018 (Summary in D
+ utch), Onderwijs in een oogopslag 2018 -
+  OECD Indicators, OESO-indicatoren
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: Dutch\nDOI: https:/
+ /doi.org/10.1787/77f97b46-nl\nPublicatio
+ n type: Summary\nReleased as: HTML, ePub
+ , PDF.\n\niLibrary export: never\nFreepr
+ eview export: never\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 (Su
+ mmary in Dutch), Onderwijs in een oogops
+ lag 2018 - OECD Indicators, OESO-indicat
+ oren
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/6f3fd969-en
+SUMMARY:Education at a Glance 2018 (Summary in E
+ nglish) - OECD Indicators
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: English\nDOI: https
+ ://doi.org/10.1787/6f3fd969-en\nPublicat
+ ion type: Summary\nReleased as: ePub, HT
+ ML, PDF.\n\niLibrary export: never\nFree
+ preview export: never\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 (Su
+ mmary in English) - OECD Indicators
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/bc6b6484-et
+SUMMARY:Education at a Glance 2018 (Summary in E
+ stonian), Haridus lähivaates 2018 - OECD
+  Indicators, OECD näitajad
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: Estonian\nDOI: http
+ s://doi.org/10.1787/bc6b6484-et\nPublica
+ tion type: Summary\nReleased as: PDF, HT
+ ML, ePub.\n\niLibrary export: never\nFre
+ epreview export: never\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 (Su
+ mmary in Estonian), Haridus lähivaates 2
+ 018 - OECD Indicators, OECD näitajad
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9f56435b-fi
+SUMMARY:Education at a Glance 2018 (Summary in F
+ innish), Koulutuskatsaus 2018 - OECD Ind
+ icators, OECD:n indikaattorit
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: Finnish\nDOI: https
+ ://doi.org/10.1787/9f56435b-fi\nPublicat
+ ion type: Summary\nReleased as: ePub, HT
+ ML, PDF.\n\niLibrary export: never\nFree
+ preview export: never\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 (Su
+ mmary in Finnish), Koulutuskatsaus 2018 
+ - OECD Indicators, OECD:n indikaattorit
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/5faf22e4-fr
+SUMMARY:Education at a Glance 2018 (Summary in F
+ rench),  Regards sur l'éducation 2018 - 
+ OECD Indicators, Les indicateurs de l'OC
+ DE
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: French\nDOI: https:
+ //doi.org/10.1787/5faf22e4-fr\nPublicati
+ on type: Summary\nReleased as: PDF, ePub
+ , HTML.\n\niLibrary export: never\nFreep
+ review export: never\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 (Su
+ mmary in French),  Regards sur l'éducati
+ on 2018 - OECD Indicators, Les indicateu
+ rs de l'OCDE
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/8e243781-el
+SUMMARY:Education at a Glance 2018 (Summary in G
+ reek), Η εκπαίδευση με μια ματιά 2018 - 
+ OECD Indicators, Δείκτες ΟΟΣΑ
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: Greek\nDOI: https:/
+ /doi.org/10.1787/8e243781-el\nPublicatio
+ n type: Summary\nReleased as: HTML, ePub
+ , PDF.\n\niLibrary export: never\nFreepr
+ eview export: never\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 (Su
+ mmary in Greek), Η εκπαίδευση με μια ματ
+ ιά 2018 - OECD Indicators, Δείκτες ΟΟΣΑ
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/3c3f6f84-hu
+SUMMARY:Education at a Glance 2018 (Summary in H
+ ungarian), Oktatási körkép 2018 - OECD I
+ ndicators, OECD-mutatók
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: Hungarian\nDOI: htt
+ ps://doi.org/10.1787/3c3f6f84-hu\nPublic
+ ation type: Summary\nReleased as: HTML, 
+ ePub, PDF.\n\niLibrary export: never\nFr
+ eepreview export: never\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 (Su
+ mmary in Hungarian), Oktatási körkép 201
+ 8 - OECD Indicators, OECD-mutatók
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/682f703d-is
+SUMMARY:Education at a Glance 2018 (Summary in I
+ celandic), Menntun í hnotskurn 2018 - OE
+ CD Indicators, Hagvísar OECD
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: Icelandic\nDOI: htt
+ ps://doi.org/10.1787/682f703d-is\nPublic
+ ation type: Summary\nReleased as: PDF, H
+ TML, ePub.\n\niLibrary export: never\nFr
+ eepreview export: never\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 (Su
+ mmary in Icelandic), Menntun í hnotskurn
+  2018 - OECD Indicators, Hagvísar OECD
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/ba93c9aa-it
+SUMMARY:Education at a Glance 2018 (Summary in I
+ talian), Uno sguardo sull’istruzione - O
+ ECD Indicators, Indicatori dell’OCSE
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: Italian\nDOI: https
+ ://doi.org/10.1787/ba93c9aa-it\nPublicat
+ ion type: Summary\nReleased as: HTML, PD
+ F, ePub.\n\niLibrary export: never\nFree
+ preview export: never\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 (Su
+ mmary in Italian), Uno sguardo sull’istr
+ uzione - OECD Indicators, Indicatori del
+ l’OCSE
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/8593455c-ja
+SUMMARY:Education at a Glance 2018 (Summary in J
+ apanese), 図表でみる教育2018 - OECD Indicators,
+  OECDインディケータ
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: Japanese\nDOI: http
+ s://doi.org/10.1787/8593455c-ja\nPublica
+ tion type: Summary\nReleased as: ePub, P
+ DF, HTML.\n\niLibrary export: never\nFre
+ epreview export: never\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 (Su
+ mmary in Japanese), 図表でみる教育2018 - OECD I
+ ndicators, OECDインディケータ
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/0a2faba3-ko
+SUMMARY:Education at a Glance 2018 (Summary in K
+ orean), 2018년도 교육부문 개요 - OECD Indicators
+ , OECD 지표
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: Korean\nDOI: https:
+ //doi.org/10.1787/0a2faba3-ko\nPublicati
+ on type: Summary\nReleased as: HTML, ePu
+ b, PDF.\n\niLibrary export: never\nFreep
+ review export: never\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 (Su
+ mmary in Korean), 2018년도 교육부문 개요 - OECD 
+ Indicators, OECD 지표
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/c8cafafb-lv
+SUMMARY:Education at a Glance 2018 (Summary in L
+ atvian), Pārskats par izglītību 2018 - O
+ ECD Indicators, OECD rādītāji
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: Latvian\nDOI: https
+ ://doi.org/10.1787/c8cafafb-lv\nPublicat
+ ion type: Summary\nReleased as: HTML, eP
+ ub, PDF.\n\niLibrary export: never\nFree
+ preview export: never\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 (Su
+ mmary in Latvian), Pārskats par izglītīb
+ u 2018 - OECD Indicators, OECD rādītāji
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/424a9443-no
+SUMMARY:Education at a Glance 2018 (Summary in N
+ orwegian), Et blikk på utdanning – 2018 
+ - OECD Indicators, OECD-indikatorer
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: Norwegian\nDOI: htt
+ ps://doi.org/10.1787/424a9443-no\nPublic
+ ation type: Summary\nReleased as: ePub, 
+ PDF, HTML.\n\niLibrary export: never\nFr
+ eepreview export: never\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 (Su
+ mmary in Norwegian), Et blikk på utdanni
+ ng – 2018 - OECD Indicators, OECD-indika
+ torer
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/b842566b-pl
+SUMMARY:Education at a Glance 2018 (Summary in P
+ olish), Edukacja w zarysie 2017 - OECD I
+ ndicators, Wskaźniki OECD
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: Polish\nDOI: https:
+ //doi.org/10.1787/b842566b-pl\nPublicati
+ on type: Summary\nReleased as: HTML, PDF
+ , ePub.\n\niLibrary export: never\nFreep
+ review export: never\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 (Su
+ mmary in Polish), Edukacja w zarysie 201
+ 7 - OECD Indicators, Wskaźniki OECD
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/6777b3a7-pt
+SUMMARY:Education at a Glance 2018 (Summary in P
+ ortuguese), Educação em Revista 2018 - O
+ ECD Indicators, Indicadores da OCDE
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: Portuguese\nDOI: ht
+ tps://doi.org/10.1787/6777b3a7-pt\nPubli
+ cation type: Summary\nReleased as: PDF, 
+ ePub, HTML.\n\niLibrary export: never\nF
+ reepreview export: never\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 (Su
+ mmary in Portuguese), Educação em Revist
+ a 2018 - OECD Indicators, Indicadores da
+  OCDE
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/b86a8d6d-ru
+SUMMARY:Education at a Glance 2018 (Summary in R
+ ussian), Взгляд на образование 2018 - OE
+ CD Indicators, Показатели ОЭСР
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: Russian\nDOI: https
+ ://doi.org/10.1787/b86a8d6d-ru\nPublicat
+ ion type: Summary\nReleased as: ePub, PD
+ F, HTML.\n\niLibrary export: never\nFree
+ preview export: never\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 (Su
+ mmary in Russian), Взгляд на образование
+  2018 - OECD Indicators, Показатели ОЭСР
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/ca3ef445-sk
+SUMMARY:Education at a Glance 2018 (Summary in S
+ lovak), Prehľad o vzdelávaní 2018 - OECD
+  Indicators, Ukazovatele OECD
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: Slovak\nDOI: https:
+ //doi.org/10.1787/ca3ef445-sk\nPublicati
+ on type: Summary\nReleased as: PDF, HTML
+ , ePub.\n\niLibrary export: never\nFreep
+ review export: never\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 (Su
+ mmary in Slovak), Prehľad o vzdelávaní 2
+ 018 - OECD Indicators, Ukazovatele OECD
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/047e3e85-sl
+SUMMARY:Education at a Glance 2018 (Summary in S
+ lovenian), Pogled na izobraževanje 2018 
+ - OECD Indicators, Kazalniki OECD
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: Slovenian\nDOI: htt
+ ps://doi.org/10.1787/047e3e85-sl\nPublic
+ ation type: Summary\nReleased as: PDF, H
+ TML, ePub.\n\niLibrary export: never\nFr
+ eepreview export: never\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 (Su
+ mmary in Slovenian), Pogled na izobražev
+ anje 2018 - OECD Indicators, Kazalniki O
+ ECD
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/02ae3bae-es
+SUMMARY:Education at a Glance 2018 (Summary in S
+ panish), Panorama de la educación 2018 -
+  OECD Indicators, Indicadores de la OCDE
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: Spanish\nDOI: https
+ ://doi.org/10.1787/02ae3bae-es\nPublicat
+ ion type: Summary\nReleased as: ePub, PD
+ F, HTML.\n\niLibrary export: never\nFree
+ preview export: never\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 (Su
+ mmary in Spanish), Panorama de la educac
+ ión 2018 - OECD Indicators, Indicadores 
+ de la OCDE
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/c26c895b-sv
+SUMMARY:Education at a Glance 2018 (Summary in S
+ wedish), OECD:s utbildningsöversikt 2018
+  - OECD Indicators, OECD-indikatorer
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: Swedish\nDOI: https
+ ://doi.org/10.1787/c26c895b-sv\nPublicat
+ ion type: Summary\nReleased as: ePub, HT
+ ML, PDF.\n\niLibrary export: never\nFree
+ preview export: never\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 (Su
+ mmary in Swedish), OECD:s utbildningsöve
+ rsikt 2018 - OECD Indicators, OECD-indik
+ atorer
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/51cf50db-tr
+SUMMARY:Education at a Glance 2018 (Summary in T
+ urkish), 2018 Tek Bakışta Eğitim - OECD 
+ Indicators, OECD Göstergeleri
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: Turkish\nDOI: https
+ ://doi.org/10.1787/51cf50db-tr\nPublicat
+ ion type: Summary\nReleased as: ePub, HT
+ ML, PDF.\n\niLibrary export: never\nFree
+ preview export: never\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 (Su
+ mmary in Turkish), 2018 Tek Bakışta Eğit
+ im - OECD Indicators, OECD Göstergeleri
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264305380-fr
+SUMMARY:Guide de l'OCDE pour l'établissement de 
+ statistiques internationalement comparab
+ les dans le domaine de l'éducation 2018 
+ - Concepts, normes, définitions et class
+ ifications
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: French\nDOI: https:
+ //doi.org/10.1787/9789264305380-fr\nPubl
+ ication type: Stand-alone monograph\nRel
+ eased as: PDF, Paperback.\n\niLibrary ex
+ port: never\nFreepreview export: never\n
+ FTI loaded: no.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Guide de l'OCDE pour l'établis
+ sement de statistiques internationalemen
+ t comparables dans le domaine de l'éduca
+ tion 2018 - Concepts, normes, définition
+ s et classifications
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264304444-en
+SUMMARY:OECD Handbook for Internationally Compar
+ ative Education Statistics 2018 - Concep
+ ts, Standards, Definitions and Classific
+ ations
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: English\nDOI: https
+ ://doi.org/10.1787/9789264304444-en\nPub
+ lication type: Stand-alone monograph\nRe
+ leased as: PDF, Paperback.\n\niLibrary e
+ xport: 29 August 2018, 2:52 Paris time (
+ GMT+00:00)\nFreepreview export: 7 Septem
+ ber 2018, 19:59 Paris time (GMT+00:00)\n
+ FTI loaded: ✓.
+DTSTAMP:20180908T070542Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Handbook for Internationa
+ lly Comparative Education Statistics 201
+ 8 - Concepts, Standards, Definitions and
+  Classifications
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/eag-2018-fr
 SUMMARY:Regard sur l'éducation 2018 - Les indica
  teurs de l'OCDE
@@ -121,8 +783,9 @@ DESCRIPTION:Directorate: Directorate for Education a
  on type: Book\nReleased as: PDF, Paperba
  ck.\n\niLibrary export: 28 August 2018, 
  3:56 Paris time (GMT+00:00)\nFreepreview
-  export: never\nFTI loaded: no.
-DTSTAMP:20180907T050317Z
+  export: 7 September 2018, 19:59 Paris t
+ ime (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -143,11 +806,11 @@ SUMMARY:Examens de l'OCDE sur la coopération pou
 DESCRIPTION:Directorate: Development Co-operation Di
  rectorate\nLanguage: French\nDOI: https:
  //doi.org/10.1787/9789264303584-fr\nPubl
- ication type: Book\nReleased as: Paperba
- ck, PDF.\n\niLibrary export: 5 September
-  2018, 3:51 Paris time (GMT+00:00)\nFree
+ ication type: Book\nReleased as: PDF, Pa
+ perback.\n\niLibrary export: 7 September
+  2018, 4:42 Paris time (GMT+00:00)\nFree
  preview export: never\nFTI loaded: no.
-DTSTAMP:20180907T050317Z
+DTSTAMP:20180908T070542Z
 DTSTART:20180914T090000Z
 DTEND:20180914T091500Z
 TRANSP:TRANSPARENT
@@ -170,10 +833,11 @@ DESCRIPTION:Directorate: Development Co-operation Di
  rectorate\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9789264303560-en\nPub
  lication type: Book\nReleased as: PDF, P
- aperback.\n\niLibrary export: 5 Septembe
- r 2018, 3:51 Paris time (GMT+00:00)\nFre
- epreview export: never\nFTI loaded: no.
-DTSTAMP:20180907T050317Z
+ aperback.\n\niLibrary export: 7 Septembe
+ r 2018, 4:42 Paris time (GMT+00:00)\nFre
+ epreview export: 7 September 2018, 19:59
+  Paris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180908T070542Z
 DTSTART:20180914T090000Z
 DTEND:20180914T091500Z
 TRANSP:TRANSPARENT
@@ -200,7 +864,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  iLibrary export: 5 September 2018, 3:51 
  Paris time (GMT+00:00)\nFreepreview expo
  rt: never\nFTI loaded: no.
-DTSTAMP:20180907T050317Z
+DTSTAMP:20180908T070542Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
@@ -227,7 +891,7 @@ DESCRIPTION:Directorate: Public Affairs and Communic
  TML, PDF.\n\niLibrary export: 12 July 20
  18, 1:42 Paris time (GMT+00:00)\nFreepre
  view export: never\nFTI loaded: no.
-DTSTAMP:20180907T050317Z
+DTSTAMP:20180908T070542Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
@@ -252,11 +916,11 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  e for Education and Skills\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264292048-en\nPublication type: Book\nRe
- leased as: ePub, PDF, HTML, Paperback.\n
- \niLibrary export: 14 August 2018, 2:27 
- Paris time (GMT+00:00)\nFreepreview expo
- rt: never\nFTI loaded: no.
-DTSTAMP:20180907T050317Z
+ leased as: PDF, HTML, Paperback, ePub.\n
+ \niLibrary export: 7 September 2018, 4:4
+ 2 Paris time (GMT+00:00)\nFreepreview ex
+ port: never\nFTI loaded: no.
+DTSTAMP:20180908T070542Z
 DTSTART:20180930T090000Z
 DTEND:20180930T091500Z
 TRANSP:TRANSPARENT
