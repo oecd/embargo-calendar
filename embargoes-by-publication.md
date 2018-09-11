@@ -1,46 +1,25 @@
-# OECD publication embargoes (35 embargoes)
+# OECD publication embargoes (34 embargoes)
 
-*Data generated on Saturday 8 September 2018 at 7:05*
-
-------
-
-## [Design of insolvency regimes across countries](https://doi.org/10.1787/d44dc56f-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 11 September 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [x] Exported to Keepeek Friday 7 September 2018 at 21:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Tuesday 11 September 2018 at 4:42*
 
 ------
 
-## [Bildung auf einen Blick 2018 - OECD-Indikatoren](https://doi.org/10.1787/g2g95a3f-de)
+## [Bildung auf einen Blick 2018 - OECD-Indikatoren](https://doi.org/10.1787/6001821lw)
 
 Embargo date | Launch date
 -------------|------------
 Tuesday 11 September 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 10 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *German*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -54,7 +33,7 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 7 September 2018 at 6:42
+- [x] Exported to iLibrary Monday 10 September 2018 at 10:39
 - [x] Exported to Keepeek Friday 7 September 2018 at 21:59
 
 ### Additional Information
@@ -76,13 +55,13 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 10 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *Chinese*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -97,13 +76,13 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 10 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *Czech*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -118,13 +97,13 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 10 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *Danish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -139,13 +118,13 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 10 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *Dutch*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -160,13 +139,13 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 10 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -181,13 +160,13 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 10 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *Estonian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -202,13 +181,13 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 10 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *Finnish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -223,13 +202,13 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 10 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -244,13 +223,13 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 10 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *Greek*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -265,13 +244,13 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 10 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *Hungarian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -286,13 +265,13 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 10 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *Icelandic*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -307,13 +286,13 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 10 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *Italian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -328,13 +307,13 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 10 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *Japanese*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -349,13 +328,13 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 10 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *Korean*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -370,13 +349,13 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 10 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *Latvian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -391,13 +370,13 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 10 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *Norwegian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -412,13 +391,13 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 10 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *Polish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -433,13 +412,13 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 10 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *Portuguese*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -454,13 +433,13 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 10 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *Russian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -475,13 +454,13 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 10 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *Slovak*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -496,13 +475,13 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 10 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *Slovenian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -517,13 +496,13 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 10 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -538,13 +517,13 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 10 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *Swedish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -559,13 +538,13 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 10 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *Turkish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -600,7 +579,7 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 29 August 2018 at 4:52
+- [x] Exported to iLibrary Monday 10 September 2018 at 10:39
 - [x] Exported to Keepeek Friday 7 September 2018 at 21:59
 
 ### Additional Information
@@ -621,7 +600,7 @@ Tuesday 11 September 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 August 2018 at 5:56
+- [x] Exported to iLibrary Monday 10 September 2018 at 10:39
 - [x] Exported to Keepeek Friday 7 September 2018 at 21:59
 
 ### Additional Information
@@ -663,7 +642,7 @@ Friday 14 September 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 7 September 2018 at 6:42
+- [x] Exported to iLibrary Monday 10 September 2018 at 10:39
 - [x] Exported to Keepeek Friday 7 September 2018 at 21:59
 
 ### Additional Information
