@@ -8,26 +8,11 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Wed, 12 Sep 2018 04:35:27 GMT</pubDate>
+      <pubDate>Thu, 13 Sep 2018 04:40:59 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
                  type="application/rss+xml"/>
-      <item>
-         <guid isPermaLink="false">10.1787/d44dc56f-en</guid>
-         <pubDate>Tue, 11 Sep 2018 00:00:00 GMT</pubDate>
-         <title>Design of insolvency regimes across countries</title>
-         <link>https://doi.org/10.1787/d44dc56f-en</link>
-         <description>Design of insolvency regimes across countries by Economics Department has an embargo on Tuesday, 11 September 2018, 2:00 Paris time (GMT+02:00).</description>
-         <oe:embargoTime>2018-09-11T00:00:00Z</oe:embargoTime>
-         <oe:launchTime/>
-         <oe:directorate>Economics Department</oe:directorate>
-         <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Monday, 10 September 2018, 8:39 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Friday, 7 September 2018, 19:59 Paris time (GMT+00:00)</oe:freePreviewExport>
-         <oe:catalogueType>Working paper</oe:catalogueType>
-         <oe:availableMedia>PDF</oe:availableMedia>
-      </item>
       <item>
          <guid isPermaLink="false">10.3278/6001821lw</guid>
          <pubDate>Tue, 11 Sep 2018 09:00:00 GMT</pubDate>
@@ -38,7 +23,7 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Education and Skills</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Tuesday, 11 September 2018, 4:26 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Wednesday, 12 September 2018, 4:23 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Tuesday, 11 September 2018, 19:11 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>PDF</oe:availableMedia>
@@ -53,10 +38,10 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Education and Skills</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Tuesday, 11 September 2018, 4:26 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Wednesday, 12 September 2018, 4:23 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Friday, 7 September 2018, 19:59 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/a1f883a5-zh</guid>
@@ -189,7 +174,7 @@
          <oe:directorate>Directorate for Education and Skills</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport/>
-         <oe:freePreviewExport/>
+         <oe:freePreviewExport>Wednesday, 12 September 2018, 19:18 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Summary</oe:catalogueType>
          <oe:availableMedia>ePub, PDF, HTML</oe:availableMedia>
       </item>
@@ -205,6 +190,21 @@
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Tuesday, 11 September 2018, 4:26 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Monday, 10 September 2018, 19:15 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Summary</oe:catalogueType>
+         <oe:availableMedia>HTML, ePub, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/0fec3e43-he</guid>
+         <pubDate>Tue, 11 Sep 2018 09:00:00 GMT</pubDate>
+         <title>Education at a Glance 2018 (Summary in Hebrew), מבט על החינוך 2018 - OECD Indicators, אינדיקטורי OECD</title>
+         <link>https://doi.org/10.1787/0fec3e43-he</link>
+         <description>Education at a Glance 2018 (Summary in Hebrew), מבט על החינוך 2018 - OECD Indicators, אינדיקטורי OECD by Directorate for Education and Skills has an embargo on Tuesday, 11 September 2018, 11:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-09-11T09:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Education and Skills</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Wednesday, 12 September 2018, 19:18 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Summary</oe:catalogueType>
          <oe:availableMedia>HTML, ePub, PDF</oe:availableMedia>
       </item>
@@ -446,7 +446,7 @@
          <oe:iLibraryExport/>
          <oe:freePreviewExport/>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264304444-en</guid>
@@ -461,7 +461,7 @@
          <oe:iLibraryExport>Monday, 10 September 2018, 8:39 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Friday, 7 September 2018, 19:59 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/eag-2018-fr</guid>
@@ -473,10 +473,25 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Education and Skills</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Tuesday, 11 September 2018, 4:26 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Tuesday, 11 September 2018, 19:11 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:iLibraryExport>Wednesday, 12 September 2018, 4:23 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Wednesday, 12 September 2018, 19:18 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/c105422d-en</guid>
+         <pubDate>Fri, 14 Sep 2018 09:00:00 GMT</pubDate>
+         <title>Can we close gaps in literacy by social background over the life course? - Evidence from synthetic 1950-1980 birth cohorts</title>
+         <link>https://doi.org/10.1787/c105422d-en</link>
+         <description>Can we close gaps in literacy by social background over the life course? - Evidence from synthetic 1950-1980 birth cohorts by Directorate for Education and Skills has an embargo on Friday, 14 September 2018, 11:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-09-14T09:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Education and Skills</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport>Wednesday, 12 September 2018, 19:18 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264303584-fr</guid>
@@ -509,6 +524,21 @@
          <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
       <item>
+         <guid isPermaLink="false">10.1787/3806d5d5-fr</guid>
+         <pubDate>Mon, 17 Sep 2018 04:00:00 GMT</pubDate>
+         <title>Analyse de l’impact des politiques fiscales et de protection sociale sur les inégalités et la pauvreté au Togo</title>
+         <link>https://doi.org/10.1787/3806d5d5-fr</link>
+         <description>Analyse de l’impact des politiques fiscales et de protection sociale sur les inégalités et la pauvreté au Togo by Development Co-operation Directorate has an embargo on Monday, 17 September 2018, 6:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-09-17T04:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Development Co-operation Directorate</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
          <guid isPermaLink="false">10.1787/9789264305304-en</guid>
          <pubDate>Tue, 18 Sep 2018 09:00:00 GMT</pubDate>
          <title>Effective Carbon Rates 2018 - Pricing Carbon Emissions Through Taxes and Emissions Trading</title>
@@ -521,22 +551,37 @@
          <oe:iLibraryExport>Wednesday, 5 September 2018, 3:51 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
-         <oe:availableMedia>PDF, Paperback, ePub</oe:availableMedia>
+         <oe:availableMedia>Paperback, ePub, HTML, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264300347-fr</guid>
          <pubDate>Tue, 18 Sep 2018 09:00:00 GMT</pubDate>
          <title>Examen multidimensionnel du Sénégal - Volume 3. De l'analyse à l'action</title>
          <link>https://doi.org/10.1787/9789264300347-fr</link>
-         <description>Examen multidimensionnel du Sénégal - Volume 3. De l'analyse à l'action by Development Centre, Public Affairs and Communications Directorate has an embargo on Tuesday, 18 September 2018, 11:00 Paris time (GMT+02:00).</description>
+         <description>Examen multidimensionnel du Sénégal - Volume 3. De l'analyse à l'action by Public Affairs and Communications Directorate, Development Centre has an embargo on Tuesday, 18 September 2018, 11:00 Paris time (GMT+02:00).</description>
          <oe:embargoTime>2018-09-18T09:00:00Z</oe:embargoTime>
          <oe:launchTime/>
-         <oe:directorate>Development Centre, Public Affairs and Communications Directorate</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:directorate>Public Affairs and Communications Directorate, Development Centre</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Thursday, 12 July 2018, 1:42 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Wednesday, 12 September 2018, 19:18 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>PDF, Paperback, ePub, HTML</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264305342-en</guid>
+         <pubDate>Tue, 18 Sep 2018 09:00:00 GMT</pubDate>
+         <title>Job Creation and Local Economic Development 2018 - Preparing for the Future of Work</title>
+         <link>https://doi.org/10.1787/9789264305342-en</link>
+         <description>Job Creation and Local Economic Development 2018 - Preparing for the Future of Work by Centre for Entrepreneurship, SMEs and Local Development has an embargo on Tuesday, 18 September 2018, 11:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-09-18T09:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Centre for Entrepreneurship, SMEs and Local Development</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Wednesday, 12 September 2018, 4:23 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, ePub, HTML, PDF</oe:availableMedia>
+         <oe:availableMedia>Paperback, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264292048-en</guid>
@@ -552,6 +597,21 @@
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>PDF, HTML, Paperback, ePub</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/reg_cit_glance-2018-en</guid>
+         <pubDate>Mon, 08 Oct 2018 08:00:00 GMT</pubDate>
+         <title>OECD Regions and Cities at a Glance 2018</title>
+         <link>https://doi.org/10.1787/reg_cit_glance-2018-en</link>
+         <description>OECD Regions and Cities at a Glance 2018 by Centre for Entrepreneurship, SMEs and Local Development has an embargo on Monday, 8 October 2018, 10:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-10-08T08:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Centre for Entrepreneurship, SMEs and Local Development</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Wednesday, 12 September 2018, 4:23 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
       </item>
    </channel>
 </rss>

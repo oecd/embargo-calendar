@@ -1,6 +1,27 @@
-# OECD publication embargoes (5 embargoes)
+# OECD publication embargoes (9 embargoes)
 
-*Data generated on Wednesday 12 September 2018 at 4:35*
+*Data generated on Thursday 13 September 2018 at 4:40*
+
+------
+
+## [Can we close gaps in literacy by social background over the life course? - Evidence from synthetic 1950-1980 birth cohorts](https://doi.org/10.1787/c105422d-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 14 September 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Wednesday 12 September 2018 at 21:18
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
 
 ------
 
@@ -46,6 +67,27 @@ Friday 14 September 2018 at 11:00 | no launch event
 
 ------
 
+## [Analyse de l’impact des politiques fiscales et de protection sociale sur les inégalités et la pauvreté au Togo](https://doi.org/10.1787/3806d5d5-fr)
+
+Embargo date | Launch date
+-------------|------------
+Monday 17 September 2018 at 6:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
 ## [Effective Carbon Rates 2018 - Pricing Carbon Emissions Through Taxes and Emissions Trading](https://doi.org/10.1787/9789264305304-en)
 
 Embargo date | Launch date
@@ -74,14 +116,35 @@ Embargo date | Launch date
 Tuesday 18 September 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 12 July 2018 at 3:42
+- [x] Exported to Keepeek Wednesday 12 September 2018 at 21:18
+
+### Additional Information
+
+* Directorate: *Public Affairs and Communications Directorate, Development Centre*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Job Creation and Local Economic Development 2018 - Preparing for the Future of Work](https://doi.org/10.1787/9789264305342-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 18 September 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 12 September 2018 at 6:23
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Development Centre, Public Affairs and Communications Directorate*
-* Language: *French*
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
+* Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Medium: *PDF*
@@ -102,6 +165,27 @@ Sunday 30 September 2018 at 11:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [OECD Regions and Cities at a Glance 2018](https://doi.org/10.1787/reg_cit_glance-2018-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 8 October 2018 at 10:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 12 September 2018 at 6:23
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*

@@ -4,32 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/d44dc56f-en
-SUMMARY:Design of insolvency regimes across coun
- tries
-DESCRIPTION:Directorate: Economics Department\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/d44dc56f-en\nPublication type: Workin
- g paper\nReleased as: PDF.\n\niLibrary e
- xport: 10 September 2018, 8:39 Paris tim
- e (GMT+00:00)\nFreepreview export: 7 Sep
- tember 2018, 19:59 Paris time (GMT+00:00
- )\nFTI loaded: ✓, ✓.
-DTSTAMP:20180912T043526Z
-DTSTART:20180911T000000Z
-DTEND:20180911T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Design of insolvency regimes a
- cross countries
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.3278/6001821lw
 SUMMARY:Bildung auf einen Blick 2018 - OECD-Indi
  katoren
@@ -37,11 +11,11 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: German\nDOI: https:
  //doi.org/10.3278/6001821lw\nPublication
   type: Book\nReleased as: PDF.\n\niLibra
- ry export: 11 September 2018, 4:26 Paris
+ ry export: 12 September 2018, 4:23 Paris
   time (GMT+00:00)\nFreepreview export: 1
  1 September 2018, 19:11 Paris time (GMT+
  00:00)\nFTI loaded: ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -62,12 +36,12 @@ SUMMARY:Education at a Glance 2018 - OECD Indica
 DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/eag-2018-en\nPublicat
- ion type: Book\nReleased as: PDF, Paperb
- ack.\n\niLibrary export: 11 September 20
- 18, 4:26 Paris time (GMT+00:00)\nFreepre
+ ion type: Book\nReleased as: Paperback, 
+ PDF.\n\niLibrary export: 12 September 20
+ 18, 4:23 Paris time (GMT+00:00)\nFreepre
  view export: 7 September 2018, 19:59 Par
  is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -94,7 +68,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  r 2018, 4:26 Paris time (GMT+00:00)\nFre
  epreview export: 10 September 2018, 19:1
  5 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -122,7 +96,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  2018, 4:26 Paris time (GMT+00:00)\nFreep
  review export: 10 September 2018, 19:15 
  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -151,7 +125,7 @@ DESCRIPTION:Directorate: Directorate for Education a
   2018, 4:26 Paris time (GMT+00:00)\nFree
  preview export: 10 September 2018, 19:15
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -180,7 +154,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  2018, 4:26 Paris time (GMT+00:00)\nFreep
  review export: 10 September 2018, 19:15 
  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -208,7 +182,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  r 2018, 4:26 Paris time (GMT+00:00)\nFre
  epreview export: 10 September 2018, 19:1
  5 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -236,7 +210,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  eepreview export: 10 September 2018, 19:
  15 Paris time (GMT+00:00)\nFTI loaded: ✓
  .
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -264,7 +238,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  r 2018, 4:26 Paris time (GMT+00:00)\nFre
  epreview export: 10 September 2018, 19:1
  5 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -293,7 +267,7 @@ DESCRIPTION:Directorate: Directorate for Education a
   2018, 4:26 Paris time (GMT+00:00)\nFree
  preview export: 10 September 2018, 19:15
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -319,8 +293,9 @@ DESCRIPTION:Directorate: Directorate for Education a
  //doi.org/10.1787/54474647-de\nPublicati
  on type: Summary\nReleased as: ePub, PDF
  , HTML.\n\niLibrary export: never\nFreep
- review export: never\nFTI loaded: ✓.
-DTSTAMP:20180912T043526Z
+ review export: 12 September 2018, 19:18 
+ Paris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -349,7 +324,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  2018, 4:26 Paris time (GMT+00:00)\nFreep
  review export: 10 September 2018, 19:15 
  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -361,6 +336,33 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Education at a Glance 2018 (Su
  mmary in Greek), Η εκπαίδευση με μια ματ
  ιά 2018 - OECD Indicators, Δείκτες ΟΟΣΑ
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/0fec3e43-he
+SUMMARY:Education at a Glance 2018 (Summary in H
+ ebrew), מבט על החינוך 2018 - OECD Indica
+ tors, אינדיקטורי OECD
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: Hebrew\nDOI: https:
+ //doi.org/10.1787/0fec3e43-he\nPublicati
+ on type: Summary\nReleased as: HTML, ePu
+ b, PDF.\n\niLibrary export: never\nFreep
+ review export: 12 September 2018, 19:18 
+ Paris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180913T044057Z
+DTSTART:20180911T090000Z
+DTEND:20180911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Education at a Glance 2018 (Su
+ mmary in Hebrew), מבט על החינוך 2018 - O
+ ECD Indicators, אינדיקטורי OECD
 END:VALARM
 END:VEVENT
 
@@ -378,7 +380,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  reepreview export: 10 September 2018, 19
  :15 Paris time (GMT+00:00)\nFTI loaded: 
  ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -407,7 +409,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  reepreview export: 10 September 2018, 19
  :15 Paris time (GMT+00:00)\nFTI loaded: 
  ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -435,7 +437,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  r 2018, 4:26 Paris time (GMT+00:00)\nFre
  epreview export: 10 September 2018, 19:1
  5 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -465,7 +467,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  eepreview export: 10 September 2018, 19:
  15 Paris time (GMT+00:00)\nFTI loaded: ✓
  .
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -493,7 +495,7 @@ DESCRIPTION:Directorate: Directorate for Education a
   2018, 4:26 Paris time (GMT+00:00)\nFree
  preview export: 10 September 2018, 19:15
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -521,7 +523,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  r 2018, 4:26 Paris time (GMT+00:00)\nFre
  epreview export: 10 September 2018, 19:1
  5 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -550,7 +552,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  reepreview export: 10 September 2018, 19
  :15 Paris time (GMT+00:00)\nFTI loaded: 
  ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -579,7 +581,7 @@ DESCRIPTION:Directorate: Directorate for Education a
   2018, 4:26 Paris time (GMT+00:00)\nFree
  preview export: 10 September 2018, 19:15
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -608,7 +610,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  Freepreview export: 10 September 2018, 1
  9:15 Paris time (GMT+00:00)\nFTI loaded:
   ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -637,7 +639,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  r 2018, 4:26 Paris time (GMT+00:00)\nFre
  epreview export: 10 September 2018, 19:1
  5 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -665,7 +667,7 @@ DESCRIPTION:Directorate: Directorate for Education a
   2018, 4:26 Paris time (GMT+00:00)\nFree
  preview export: 10 September 2018, 19:15
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -694,7 +696,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  reepreview export: 10 September 2018, 19
  :15 Paris time (GMT+00:00)\nFTI loaded: 
  ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -723,7 +725,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  r 2018, 4:26 Paris time (GMT+00:00)\nFre
  epreview export: 10 September 2018, 19:1
  5 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -752,7 +754,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  r 2018, 4:26 Paris time (GMT+00:00)\nFre
  epreview export: 10 September 2018, 19:1
  5 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -781,7 +783,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  r 2018, 4:26 Paris time (GMT+00:00)\nFre
  epreview export: 10 September 2018, 19:1
  5 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -807,10 +809,10 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: French\nDOI: https:
  //doi.org/10.1787/9789264305380-fr\nPubl
  ication type: Stand-alone monograph\nRel
- eased as: PDF, Paperback.\n\niLibrary ex
+ eased as: Paperback, PDF.\n\niLibrary ex
  port: never\nFreepreview export: never\n
  FTI loaded: no.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -837,12 +839,12 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9789264304444-en\nPub
  lication type: Stand-alone monograph\nRe
- leased as: PDF, Paperback.\n\niLibrary e
+ leased as: Paperback, PDF.\n\niLibrary e
  xport: 10 September 2018, 8:39 Paris tim
  e (GMT+00:00)\nFreepreview export: 7 Sep
  tember 2018, 19:59 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -866,11 +868,11 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: French\nDOI: https:
  //doi.org/10.1787/eag-2018-fr\nPublicati
  on type: Book\nReleased as: PDF, Paperba
- ck.\n\niLibrary export: 11 September 201
- 8, 4:26 Paris time (GMT+00:00)\nFreeprev
- iew export: 11 September 2018, 19:11 Par
+ ck.\n\niLibrary export: 12 September 201
+ 8, 4:23 Paris time (GMT+00:00)\nFreeprev
+ iew export: 12 September 2018, 19:18 Par
  is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180911T090000Z
 DTEND:20180911T091500Z
 TRANSP:TRANSPARENT
@@ -885,6 +887,35 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/c105422d-en
+SUMMARY:Can we close gaps in literacy by social 
+ background over the life course? - Evide
+ nce from synthetic 1950-1980 birth cohor
+ ts
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: English\nDOI: https
+ ://doi.org/10.1787/c105422d-en\nPublicat
+ ion type: Working paper\nReleased as: PD
+ F.\n\niLibrary export: never\nFreeprevie
+ w export: 12 September 2018, 19:18 Paris
+  time (GMT+00:00)\nFTI loaded: ✓, ✓.
+DTSTAMP:20180913T044057Z
+DTSTART:20180914T090000Z
+DTEND:20180914T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Can we close gaps in literacy 
+ by social background over the life cours
+ e? - Evidence from synthetic 1950-1980 b
+ irth cohorts
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264303584-fr
 SUMMARY:Examens de l'OCDE sur la coopération pou
  r le développement : Canada 2018
@@ -895,7 +926,7 @@ DESCRIPTION:Directorate: Development Co-operation Di
  perback.\n\niLibrary export: 7 September
   2018, 4:42 Paris time (GMT+00:00)\nFree
  preview export: never\nFTI loaded: no.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180914T090000Z
 DTEND:20180914T091500Z
 TRANSP:TRANSPARENT
@@ -922,7 +953,7 @@ DESCRIPTION:Directorate: Development Co-operation Di
  er 2018, 8:39 Paris time (GMT+00:00)\nFr
  eepreview export: 7 September 2018, 19:5
  9 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180914T090000Z
 DTEND:20180914T091500Z
 TRANSP:TRANSPARENT
@@ -937,6 +968,32 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/3806d5d5-fr
+SUMMARY:Analyse de l’impact des politiques fisca
+ les et de protection sociale sur les iné
+ galités et la pauvreté au Togo
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: French\nDOI: https:
+ //doi.org/10.1787/3806d5d5-fr\nPublicati
+ on type: Working paper\nReleased as: PDF
+ .\n\niLibrary export: never\nFreepreview
+  export: never\nFTI loaded: no.
+DTSTAMP:20180913T044057Z
+DTSTART:20180917T040000Z
+DTEND:20180917T041500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Analyse de l’impact des politi
+ ques fiscales et de protection sociale s
+ ur les inégalités et la pauvreté au Togo
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264305304-en
 SUMMARY:Effective Carbon Rates 2018 - Pricing Ca
  rbon Emissions Through Taxes and Emissio
@@ -945,11 +1002,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264305304-en\
  nPublication type: Stand-alone monograph
- \nReleased as: PDF, Paperback, ePub.\n\n
- iLibrary export: 5 September 2018, 3:51 
- Paris time (GMT+00:00)\nFreepreview expo
- rt: never\nFTI loaded: no.
-DTSTAMP:20180912T043526Z
+ \nReleased as: Paperback, ePub, HTML, PD
+ F.\n\niLibrary export: 5 September 2018,
+  3:51 Paris time (GMT+00:00)\nFreeprevie
+ w export: never\nFTI loaded: no.
+DTSTAMP:20180913T044057Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
@@ -968,15 +1025,16 @@ BEGIN:VEVENT
 UID:10.1787/9789264300347-fr
 SUMMARY:Examen multidimensionnel du Sénégal - Vo
  lume 3. De l'analyse à l'action
-DESCRIPTION:Directorate: Development Centre, Public 
- Affairs and Communications Directorate\n
+DESCRIPTION:Directorate: Public Affairs and Communic
+ ations Directorate, Development Centre\n
  Language: French\nDOI: https://doi.org/1
  0.1787/9789264300347-fr\nPublication typ
- e: Book\nReleased as: Paperback, ePub, H
- TML, PDF.\n\niLibrary export: 12 July 20
+ e: Book\nReleased as: PDF, Paperback, eP
+ ub, HTML.\n\niLibrary export: 12 July 20
  18, 1:42 Paris time (GMT+00:00)\nFreepre
- view export: never\nFTI loaded: no.
-DTSTAMP:20180912T043526Z
+ view export: 12 September 2018, 19:18 Pa
+ ris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180913T044057Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
@@ -988,6 +1046,34 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Examen multidimensionnel du Sé
  négal - Volume 3. De l'analyse à l'actio
  n
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264305342-en
+SUMMARY:Job Creation and Local Economic Developm
+ ent 2018 - Preparing for the Future of W
+ ork
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ English\nDOI: https://doi.org/10.1787/97
+ 89264305342-en\nPublication type: Book\n
+ Released as: Paperback, PDF.\n\niLibrary
+  export: 12 September 2018, 4:23 Paris t
+ ime (GMT+00:00)\nFreepreview export: nev
+ er\nFTI loaded: no.
+DTSTAMP:20180913T044057Z
+DTSTART:20180918T090000Z
+DTEND:20180918T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Job Creation and Local Economi
+ c Development 2018 - Preparing for the F
+ uture of Work
 END:VALARM
 END:VEVENT
 
@@ -1005,7 +1091,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  \niLibrary export: 7 September 2018, 4:4
  2 Paris time (GMT+00:00)\nFreepreview ex
  port: never\nFTI loaded: no.
-DTSTAMP:20180912T043526Z
+DTSTAMP:20180913T044057Z
 DTSTART:20180930T090000Z
 DTEND:20180930T091500Z
 TRANSP:TRANSPARENT
@@ -1017,6 +1103,31 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Supporting Entrepreneurship an
  d Innovation in Higher Education in The 
  Netherlands
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/reg_cit_glance-2018-en
+SUMMARY:OECD Regions and Cities at a Glance 2018
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ English\nDOI: https://doi.org/10.1787/re
+ g_cit_glance-2018-en\nPublication type: 
+ Book\nReleased as: PDF, Paperback.\n\niL
+ ibrary export: 12 September 2018, 4:23 P
+ aris time (GMT+00:00)\nFreepreview expor
+ t: never\nFTI loaded: no.
+DTSTAMP:20180913T044057Z
+DTSTART:20181008T080000Z
+DTEND:20181008T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018
 END:VALARM
 END:VEVENT
 END:VCALENDAR
