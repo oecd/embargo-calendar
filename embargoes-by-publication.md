@@ -1,6 +1,6 @@
-# OECD publication embargoes (9 embargoes)
+# OECD publication embargoes (10 embargoes)
 
-*Data generated on Thursday 13 September 2018 at 4:40*
+*Data generated on Friday 14 September 2018 at 5:44*
 
 ------
 
@@ -12,7 +12,7 @@ Friday 14 September 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 13 September 2018 at 6:25
 - [x] Exported to Keepeek Wednesday 12 September 2018 at 21:18
 
 ### Additional Information
@@ -32,15 +32,15 @@ Embargo date | Launch date
 Friday 14 September 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 7 September 2018 at 6:42
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Thursday 13 September 2018 at 21:20
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -74,14 +74,35 @@ Embargo date | Launch date
 Monday 17 September 2018 at 6:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 September 2018 at 6:25
+- [x] Exported to Keepeek Thursday 13 September 2018 at 21:20
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *French*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [New technologies and 21st century children - Recent trends and outcomes ](https://doi.org/10.1787/e071a505-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 17 September 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Thursday 13 September 2018 at 21:20
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
 * Medium: *PDF*
@@ -117,7 +138,7 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 July 2018 at 3:42
+- [x] Exported to iLibrary Thursday 13 September 2018 at 6:25
 - [x] Exported to Keepeek Wednesday 12 September 2018 at 21:18
 
 ### Additional Information
@@ -138,7 +159,7 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 12 September 2018 at 6:23
+- [x] Exported to iLibrary Thursday 13 September 2018 at 6:25
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -180,7 +201,7 @@ Monday 8 October 2018 at 10:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 12 September 2018 at 6:23
+- [x] Exported to iLibrary Thursday 13 September 2018 at 6:25
 - [ ] Exported to Keepeek
 
 ### Additional Information
