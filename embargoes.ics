@@ -4,99 +4,17 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/c105422d-en
-SUMMARY:Can we close gaps in literacy by social 
- background over the life course? - Evide
- nce from synthetic 1950-1980 birth cohor
- ts
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills\nLanguage: English\nDOI: https
- ://doi.org/10.1787/c105422d-en\nPublicat
- ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: 13 September 2018
- , 4:25 Paris time (GMT+00:00)\nFreeprevi
- ew export: 12 September 2018, 19:18 Pari
- s time (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20180915T052822Z
-DTSTART:20180914T090000Z
-DTEND:20180914T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Can we close gaps in literacy 
- by social background over the life cours
- e? - Evidence from synthetic 1950-1980 b
- irth cohorts
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264303584-fr
-SUMMARY:Examens de l'OCDE sur la coopération pou
- r le développement : Canada 2018
-DESCRIPTION:Directorate: Development Co-operation Di
- rectorate\nLanguage: French\nDOI: https:
- //doi.org/10.1787/9789264303584-fr\nPubl
- ication type: Book\nReleased as: PDF, Pa
- perback.\n\niLibrary export: 14 Septembe
- r 2018, 5:30 Paris time (GMT+00:00)\nFre
- epreview export: 13 September 2018, 19:2
- 0 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180915T052822Z
-DTSTART:20180914T090000Z
-DTEND:20180914T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Examens de l'OCDE sur la coopé
- ration pour le développement : Canada 20
- 18
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264303560-en
-SUMMARY:OECD Development Co-operation Peer Revie
- ws: Canada 2018
-DESCRIPTION:Directorate: Development Co-operation Di
- rectorate\nLanguage: English\nDOI: https
- ://doi.org/10.1787/9789264303560-en\nPub
- lication type: Book\nReleased as: PDF, P
- aperback.\n\niLibrary export: 10 Septemb
- er 2018, 8:39 Paris time (GMT+00:00)\nFr
- eepreview export: 7 September 2018, 19:5
- 9 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180915T052822Z
-DTSTART:20180914T090000Z
-DTEND:20180914T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Development Co-operation 
- Peer Reviews: Canada 2018
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/53961c92-en
 SUMMARY:Boosting investment in Greece
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/53961c92-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
- xport: never\nFreepreview export: 14 Sep
- tember 2018, 19:18 Paris time (GMT+00:00
- )\nFTI loaded: ✓, ✓.
-DTSTAMP:20180915T052822Z
+ xport: 15 September 2018, 5:32 Paris tim
+ e (GMT+00:00)\nFreepreview export: 14 Se
+ ptember 2018, 19:18 Paris time (GMT+00:0
+ 0)\nFTI loaded: ✓, ✓.
+DTSTAMP:20180918T045227Z
 DTSTART:20180917T000000Z
 DTEND:20180917T001500Z
 TRANSP:TRANSPARENT
@@ -118,10 +36,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/27b11444-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
- xport: never\nFreepreview export: 14 Sep
- tember 2018, 19:18 Paris time (GMT+00:00
- )\nFTI loaded: ✓, ✓.
-DTSTAMP:20180915T052822Z
+ xport: 15 September 2018, 5:32 Paris tim
+ e (GMT+00:00)\nFreepreview export: 14 Se
+ ptember 2018, 19:18 Paris time (GMT+00:0
+ 0)\nFTI loaded: ✓, ✓.
+DTSTAMP:20180918T045227Z
 DTSTART:20180917T000000Z
 DTEND:20180917T001500Z
 TRANSP:TRANSPARENT
@@ -144,10 +63,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/8eec4ced-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
- xport: never\nFreepreview export: 14 Sep
- tember 2018, 19:18 Paris time (GMT+00:00
- )\nFTI loaded: ✓, ✓.
-DTSTAMP:20180915T052822Z
+ xport: 15 September 2018, 5:32 Paris tim
+ e (GMT+00:00)\nFreepreview export: 14 Se
+ ptember 2018, 19:18 Paris time (GMT+00:0
+ 0)\nFTI loaded: ✓, ✓.
+DTSTAMP:20180918T045227Z
 DTSTART:20180917T000000Z
 DTEND:20180917T001500Z
 TRANSP:TRANSPARENT
@@ -175,7 +95,7 @@ DESCRIPTION:Directorate: Development Co-operation Di
   5:30 Paris time (GMT+00:00)\nFreeprevie
  w export: 13 September 2018, 19:20 Paris
   time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180915T052822Z
+DTSTAMP:20180918T045227Z
 DTSTART:20180917T040000Z
 DTEND:20180917T041500Z
 TRANSP:TRANSPARENT
@@ -202,7 +122,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  , 5:30 Paris time (GMT+00:00)\nFreeprevi
  ew export: 13 September 2018, 19:20 Pari
  s time (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20180915T052822Z
+DTSTAMP:20180918T045227Z
 DTSTART:20180917T090000Z
 DTEND:20180917T091500Z
 TRANSP:TRANSPARENT
@@ -225,9 +145,10 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/af992283-en\nPublicat
  ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: never\nFreeprevie
- w export: never\nFTI loaded: no.
-DTSTAMP:20180915T052822Z
+ F.\n\niLibrary export: 15 September 2018
+ , 5:32 Paris time (GMT+00:00)\nFreeprevi
+ ew export: never\nFTI loaded: no.
+DTSTAMP:20180918T045227Z
 DTSTART:20180918T000000Z
 DTEND:20180918T001500Z
 TRANSP:TRANSPARENT
@@ -251,10 +172,11 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/c5f7c448-en\nPublication type: Wor
  king paper\nReleased as: PDF.\n\niLibrar
- y export: never\nFreepreview export: 14 
- September 2018, 19:18 Paris time (GMT+00
- :00)\nFTI loaded: ✓.
-DTSTAMP:20180915T052822Z
+ y export: 15 September 2018, 5:32 Paris 
+ time (GMT+00:00)\nFreepreview export: 14
+  September 2018, 19:18 Paris time (GMT+0
+ 0:00)\nFTI loaded: ✓.
+DTSTAMP:20180918T045227Z
 DTSTART:20180918T000000Z
 DTEND:20180918T001500Z
 TRANSP:TRANSPARENT
@@ -277,10 +199,11 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/9c8a13a0-en\nPublication type: Wor
  king paper\nReleased as: PDF.\n\niLibrar
- y export: never\nFreepreview export: 14 
- September 2018, 19:18 Paris time (GMT+00
- :00)\nFTI loaded: ✓.
-DTSTAMP:20180915T052822Z
+ y export: 15 September 2018, 5:32 Paris 
+ time (GMT+00:00)\nFreepreview export: 14
+  September 2018, 19:18 Paris time (GMT+0
+ 0:00)\nFTI loaded: ✓.
+DTSTAMP:20180918T045227Z
 DTSTART:20180918T000000Z
 DTEND:20180918T001500Z
 TRANSP:TRANSPARENT
@@ -303,12 +226,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264305304-en\
  nPublication type: Stand-alone monograph
- \nReleased as: HTML, PDF, Paperback, ePu
- b.\n\niLibrary export: 5 September 2018,
-  3:51 Paris time (GMT+00:00)\nFreeprevie
- w export: 14 September 2018, 19:18 Paris
-  time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180915T052822Z
+ \nReleased as: PDF, Paperback, ePub, HTM
+ L.\n\niLibrary export: 15 September 2018
+ , 5:32 Paris time (GMT+00:00)\nFreeprevi
+ ew export: 14 September 2018, 19:18 Pari
+ s time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180918T045227Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
@@ -332,12 +255,12 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  , SMEs and Local Development\nLanguage: 
  English\nDOI: https://doi.org/10.1787/97
  89264305342-en\nPublication type: Book\n
- Released as: PDF, Paperback.\n\niLibrary
-  export: 13 September 2018, 4:25 Paris t
+ Released as: Paperback, PDF.\n\niLibrary
+  export: 15 September 2018, 5:32 Paris t
  ime (GMT+00:00)\nFreepreview export: 14 
  September 2018, 19:18 Paris time (GMT+00
  :00)\nFTI loaded: ✓.
-DTSTAMP:20180915T052822Z
+DTSTAMP:20180918T045227Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
@@ -362,9 +285,10 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  Chinese\nDOI: https://doi.org/10.1787/8a
  fb2ff6-zh\nPublication type: Summary\nRe
  leased as: PDF, ePub, HTML.\n\niLibrary 
- export: never\nFreepreview export: never
- \nFTI loaded: ✓.
-DTSTAMP:20180915T052822Z
+ export: never\nFreepreview export: 17 Se
+ ptember 2018, 19:15 Paris time (GMT+00:0
+ 0)\nFTI loaded: ✓.
+DTSTAMP:20180918T045227Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
@@ -388,9 +312,10 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  English\nDOI: https://doi.org/10.1787/78
  13b83b-en\nPublication type: Summary\nRe
  leased as: HTML, ePub, PDF.\n\niLibrary 
- export: never\nFreepreview export: never
- \nFTI loaded: ✓.
-DTSTAMP:20180915T052822Z
+ export: never\nFreepreview export: 17 Se
+ ptember 2018, 19:15 Paris time (GMT+00:0
+ 0)\nFTI loaded: ✓.
+DTSTAMP:20180918T045227Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
@@ -405,6 +330,36 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/4fdca3a0-fr
+SUMMARY:Job Creation and Local Economic Developm
+ ent 2018 (Summary in French), Création d
+ 'emplois et développement économique loc
+ al 2018
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ French\nDOI: https://doi.org/10.1787/4fd
+ ca3a0-fr\nPublication type: Summary\nRel
+ eased as: ePub, HTML, PDF.\n\niLibrary e
+ xport: never\nFreepreview export: 17 Sep
+ tember 2018, 19:15 Paris time (GMT+00:00
+ )\nFTI loaded: ✓.
+DTSTAMP:20180918T045227Z
+DTSTART:20180918T090000Z
+DTEND:20180918T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Job Creation and Local Economi
+ c Development 2018 (Summary in French), 
+ Création d'emplois et développement écon
+ omique local 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/94c070a2-de
 SUMMARY:Job Creation and Local Economic Developm
  ent 2018 (Summary in German), Schaffung 
@@ -415,9 +370,10 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  German\nDOI: https://doi.org/10.1787/94c
  070a2-de\nPublication type: Summary\nRel
  eased as: PDF, HTML, ePub.\n\niLibrary e
- xport: never\nFreepreview export: never\
- nFTI loaded: ✓.
-DTSTAMP:20180915T052822Z
+ xport: never\nFreepreview export: 17 Sep
+ tember 2018, 19:15 Paris time (GMT+00:00
+ )\nFTI loaded: ✓.
+DTSTAMP:20180918T045227Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
@@ -444,9 +400,10 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  Italian\nDOI: https://doi.org/10.1787/9d
  01f33f-it\nPublication type: Summary\nRe
  leased as: HTML, PDF, ePub.\n\niLibrary 
- export: never\nFreepreview export: never
- \nFTI loaded: ✓.
-DTSTAMP:20180915T052822Z
+ export: never\nFreepreview export: 17 Se
+ ptember 2018, 19:15 Paris time (GMT+00:0
+ 0)\nFTI loaded: ✓.
+DTSTAMP:20180918T045227Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
@@ -472,9 +429,10 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  Japanese\nDOI: https://doi.org/10.1787/e
  969011e-ja\nPublication type: Summary\nR
  eleased as: HTML, PDF, ePub.\n\niLibrary
-  export: never\nFreepreview export: neve
- r\nFTI loaded: ✓.
-DTSTAMP:20180915T052822Z
+  export: never\nFreepreview export: 17 S
+ eptember 2018, 19:15 Paris time (GMT+00:
+ 00)\nFTI loaded: ✓.
+DTSTAMP:20180918T045227Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
@@ -500,9 +458,10 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  Portuguese\nDOI: https://doi.org/10.1787
  /2e6182d2-pt\nPublication type: Summary\
  nReleased as: ePub, PDF, HTML.\n\niLibra
- ry export: never\nFreepreview export: ne
- ver\nFTI loaded: ✓.
-DTSTAMP:20180915T052822Z
+ ry export: never\nFreepreview export: 17
+  September 2018, 19:15 Paris time (GMT+0
+ 0:00)\nFTI loaded: ✓.
+DTSTAMP:20180918T045227Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
@@ -529,9 +488,10 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  Spanish\nDOI: https://doi.org/10.1787/43
  e94b88-es\nPublication type: Summary\nRe
  leased as: ePub, HTML, PDF.\n\niLibrary 
- export: never\nFreepreview export: never
- \nFTI loaded: ✓.
-DTSTAMP:20180915T052822Z
+ export: never\nFreepreview export: 17 Se
+ ptember 2018, 19:15 Paris time (GMT+00:0
+ 0)\nFTI loaded: ✓.
+DTSTAMP:20180918T045227Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
@@ -544,6 +504,84 @@ DESCRIPTION:Reminder: Job Creation and Local Economi
  c Development 2018 (Summary in Spanish),
   Creación de empleo y desarrollo económi
  co local 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.18356/656a3808-en
+SUMMARY:Human Development Indices and Indicators
+  2018 - Statistical update
+DESCRIPTION:Directorate: Non applicable\nLanguage: E
+ nglish\nDOI: https://doi.org/10.18356/65
+ 6a3808-en\nPublication type: Stand-alone
+  monograph\nReleased as: PDF.\n\niLibrar
+ y export: never\nFreepreview export: 17 
+ September 2018, 19:15 Paris time (GMT+00
+ :00)\nFTI loaded: ✓.
+DTSTAMP:20180918T045227Z
+DTSTART:20180919T130000Z
+DTEND:20180919T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Development Indices and 
+ Indicators 2018 - Statistical update
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264302716-fr
+SUMMARY:Examens de l'OCDE sur la coopération pou
+ r le développement : France 2018
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: French\nDOI: https:
+ //doi.org/10.1787/9789264302716-fr\nPubl
+ ication type: Book\nReleased as: ePub, P
+ DF, Paperback.\n\niLibrary export: 15 Se
+ ptember 2018, 5:32 Paris time (GMT+00:00
+ )\nFreepreview export: 9 July 2018, 22:5
+ 2 Paris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180918T045227Z
+DTSTART:20180920T120000Z
+DTEND:20180920T121500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Examens de l'OCDE sur la coopé
+ ration pour le développement : France 20
+ 18
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264302679-en
+SUMMARY:OECD Development Co-operation Peer Revie
+ ws: France 2018
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: English\nDOI: https
+ ://doi.org/10.1787/9789264302679-en\nPub
+ lication type: Book\nReleased as: PDF, e
+ Pub, Paperback.\n\niLibrary export: 6 Se
+ ptember 2018, 3:54 Paris time (GMT+00:00
+ )\nFreepreview export: never\nFTI loaded
+ : ✓.
+DTSTAMP:20180918T045227Z
+DTSTART:20180920T120000Z
+DTEND:20180920T121500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Development Co-operation 
+ Peer Reviews: France 2018
 END:VALARM
 END:VEVENT
 
@@ -561,7 +599,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  \niLibrary export: 7 September 2018, 4:4
  2 Paris time (GMT+00:00)\nFreepreview ex
  port: never\nFTI loaded: no.
-DTSTAMP:20180915T052822Z
+DTSTAMP:20180918T045227Z
 DTSTART:20180930T090000Z
 DTEND:20180930T091500Z
 TRANSP:TRANSPARENT
@@ -587,7 +625,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  ibrary export: 13 September 2018, 4:25 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20180915T052822Z
+DTSTAMP:20180918T045227Z
 DTSTART:20181008T080000Z
 DTEND:20181008T081500Z
 TRANSP:TRANSPARENT
@@ -609,13 +647,13 @@ DESCRIPTION:Directorate: Public Affairs and Communic
  ations Directorate, Development Centre\n
  Language: French\nDOI: https://doi.org/1
  0.1787/9789264300347-fr\nPublication typ
- e: Book\nReleased as: PDF, Paperback, eP
- ub, HTML.\n\niLibrary export: 13 Septemb
- er 2018, 4:25 Paris time (GMT+00:00)\nFr
+ e: Book\nReleased as: HTML, PDF, Paperba
+ ck, ePub.\n\niLibrary export: 15 Septemb
+ er 2018, 5:32 Paris time (GMT+00:00)\nFr
  eepreview export: 14 September 2018, 19:
  18 Paris time (GMT+00:00)\nFTI loaded: ✓
  .
-DTSTAMP:20180915T052822Z
+DTSTAMP:20180918T045227Z
 DTSTART:20181018T090000Z
 DTEND:20181018T091500Z
 TRANSP:TRANSPARENT

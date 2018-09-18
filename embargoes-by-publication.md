@@ -1,174 +1,6 @@
-# OECD publication embargoes (20 embargoes)
+# OECD publication embargoes (16 embargoes)
 
-*Data generated on Saturday 15 September 2018 at 5:28*
-
-------
-
-## [Boosting investment in Greece](https://doi.org/10.1787/53961c92-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 17 September 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [x] Exported to Keepeek Friday 14 September 2018 at 21:18
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Cyclical vs structural effects on health care expenditure trends in OECD countries](https://doi.org/10.1787/27b11444-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 17 September 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [x] Exported to Keepeek Friday 14 September 2018 at 21:18
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Generating employment, raising incomes and addressing poverty in Greece](https://doi.org/10.1787/8eec4ced-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 17 September 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [x] Exported to Keepeek Friday 14 September 2018 at 21:18
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Analyse de l’impact des politiques fiscales et de protection sociale sur les inégalités et la pauvreté au Togo](https://doi.org/10.1787/3806d5d5-fr)
-
-Embargo date | Launch date
--------------|------------
-Monday 17 September 2018 at 6:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 14 September 2018 at 7:30
-- [x] Exported to Keepeek Thursday 13 September 2018 at 21:20
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [New technologies and 21st century children - Recent trends and outcomes ](https://doi.org/10.1787/e071a505-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 17 September 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 14 September 2018 at 7:30
-- [x] Exported to Keepeek Thursday 13 September 2018 at 21:20
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [How are school performance and school climate related to teachers’ experience?](https://doi.org/10.1787/af992283-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 18 September 2018 at 2:00 | no launch event
-
-### Status Information
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Improving Plastics Management - Trends, policy responses, and the role of international co-operation and trade](https://doi.org/10.1787/c5f7c448-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 18 September 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [x] Exported to Keepeek Friday 14 September 2018 at 21:18
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Innovative Approaches to Building Resilient Coastal Infrastructure](https://doi.org/10.1787/9c8a13a0-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 18 September 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [x] Exported to Keepeek Friday 14 September 2018 at 21:18
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Tuesday 18 September 2018 at 4:52*
 
 ------
 
@@ -180,7 +12,7 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 5 September 2018 at 5:51
+- [x] Exported to iLibrary Saturday 15 September 2018 at 7:32
 - [x] Exported to Keepeek Friday 14 September 2018 at 21:18
 
 ### Additional Information
@@ -201,7 +33,7 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 September 2018 at 6:25
+- [x] Exported to iLibrary Saturday 15 September 2018 at 7:32
 - [x] Exported to Keepeek Friday 14 September 2018 at 21:18
 
 ### Additional Information
@@ -223,13 +55,13 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 17 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Chinese*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -244,13 +76,34 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 17 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
+* Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Job Creation and Local Economic Development 2018 (Summary in French), Création d'emplois et développement économique local 2018](https://doi.org/10.1787/4fdca3a0-fr)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 18 September 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Monday 17 September 2018 at 21:15
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -265,13 +118,13 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 17 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *German*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -286,13 +139,13 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 17 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Italian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -307,13 +160,13 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 17 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Japanese*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -328,13 +181,13 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 17 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Portuguese*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -349,14 +202,77 @@ Tuesday 18 September 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 17 September 2018 at 21:15
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
+* Medium: *PDF*
+
+------
+
+## [Human Development Indices and Indicators 2018 - Statistical update](https://doi.org/10.18356/656a3808-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 19 September 2018 at 15:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Monday 17 September 2018 at 21:15
+
+### Additional Information
+
+* Directorate: *Non applicable*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [Examens de l'OCDE sur la coopération pour le développement : France 2018](https://doi.org/10.1787/9789264302716-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 20 September 2018 at 14:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 15 September 2018 at 7:32
+- [x] Exported to Keepeek Tuesday 10 July 2018 at 0:52
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [OECD Development Co-operation Peer Reviews: France 2018](https://doi.org/10.1787/9789264302679-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 20 September 2018 at 14:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 6 September 2018 at 5:54
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------
@@ -411,7 +327,7 @@ Thursday 18 October 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 September 2018 at 6:25
+- [x] Exported to iLibrary Saturday 15 September 2018 at 7:32
 - [x] Exported to Keepeek Friday 14 September 2018 at 21:18
 
 ### Additional Information
