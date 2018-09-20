@@ -1,27 +1,6 @@
-# OECD publication embargoes (8 embargoes)
+# OECD publication embargoes (11 embargoes)
 
-*Data generated on Wednesday 19 September 2018 at 5:03*
-
-------
-
-## [Human Development Indices and Indicators 2018 - Statistical update](https://doi.org/10.18356/656a3808-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 19 September 2018 at 15:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 September 2018 at 6:36
-- [x] Exported to Keepeek Tuesday 18 September 2018 at 21:17
-
-### Additional Information
-
-* Directorate: *Non applicable*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
+*Data generated on Thursday 20 September 2018 at 4:52*
 
 ------
 
@@ -33,7 +12,7 @@ Thursday 20 September 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 19 September 2018 at 6:50
 - [x] Exported to Keepeek Tuesday 18 September 2018 at 21:17
 
 ### Additional Information
@@ -54,7 +33,7 @@ Thursday 20 September 2018 at 14:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 September 2018 at 6:36
+- [x] Exported to iLibrary Wednesday 19 September 2018 at 6:50
 - [x] Exported to Keepeek Tuesday 18 September 2018 at 21:17
 
 ### Additional Information
@@ -75,7 +54,7 @@ Thursday 20 September 2018 at 14:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 September 2018 at 6:36
+- [x] Exported to iLibrary Wednesday 19 September 2018 at 6:50
 - [x] Exported to Keepeek Tuesday 18 September 2018 at 21:17
 
 ### Additional Information
@@ -88,6 +67,90 @@ Thursday 20 September 2018 at 14:00 | no launch event
 
 ------
 
+## [Teaching students with special needs - Are teachers well-prepared?](https://doi.org/10.1787/8f7e8c86-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 24 September 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Wednesday 19 September 2018 at 21:23
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Who Needs Special Education Professional Development? - International Trends from TALIS 2013](https://doi.org/10.1787/042c26c4-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 24 September 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Wednesday 19 September 2018 at 21:23
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [La valutazione dello “Startup Act” italiano](https://doi.org/10.1787/be8b4d7a-it)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 26 September 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Wednesday 19 September 2018 at 21:23
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *Italian*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [The evaluation of the Italian “Start-up Act”](https://doi.org/10.1787/02ab0eb7-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 26 September 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Wednesday 19 September 2018 at 21:23
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
 ## [Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands](https://doi.org/10.1787/9789264292048-en)
 
 Embargo date | Launch date
@@ -95,15 +158,15 @@ Embargo date | Launch date
 Sunday 30 September 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 7 September 2018 at 6:42
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Wednesday 19 September 2018 at 21:23
 
 ### Additional Information
 
-* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
+* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -138,7 +201,7 @@ Wednesday 10 October 2018 at 6:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 19 September 2018 at 6:50
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -164,7 +227,7 @@ Thursday 18 October 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Public Affairs and Communications Directorate, Development Centre*
+* Directorate: *Development Centre, Public Affairs and Communications Directorate*
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*

@@ -4,142 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/3806d5d5-fr
-SUMMARY:Analyse de l’impact des politiques fisca
- les et de protection sociale sur les iné
- galités et la pauvreté au Togo
-DESCRIPTION:Directorate: Development Co-operation Di
- rectorate\nLanguage: French\nDOI: https:
- //doi.org/10.1787/3806d5d5-fr\nPublicati
- on type: Working paper\nReleased as: PDF
- .\n\niLibrary export: 14 September 2018,
-  5:30 Paris time (GMT+00:00)\nFreeprevie
- w export: 13 September 2018, 19:20 Paris
-  time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180919T050335Z
-DTSTART:20180917T040000Z
-DTEND:20180917T041500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Analyse de l’impact des politi
- ques fiscales et de protection sociale s
- ur les inégalités et la pauvreté au Togo
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/e071a505-en
-SUMMARY:New technologies and 21st century childr
- en - Recent trends and outcomes 
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills\nLanguage: English\nDOI: https
- ://doi.org/10.1787/e071a505-en\nPublicat
- ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: 14 September 2018
- , 5:30 Paris time (GMT+00:00)\nFreeprevi
- ew export: 13 September 2018, 19:20 Pari
- s time (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20180919T050335Z
-DTSTART:20180917T090000Z
-DTEND:20180917T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: New technologies and 21st cent
- ury children - Recent trends and outcome
- s 
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/af992283-en
-SUMMARY:How are school performance and school cl
- imate related to teachers’ experience?
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills\nLanguage: English\nDOI: https
- ://doi.org/10.1787/af992283-en\nPublicat
- ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: 15 September 2018
- , 5:32 Paris time (GMT+00:00)\nFreeprevi
- ew export: 18 September 2018, 19:17 Pari
- s time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180919T050335Z
-DTSTART:20180918T000000Z
-DTEND:20180918T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: How are school performance and
-  school climate related to teachers’ exp
- erience?
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/c5f7c448-en
-SUMMARY:Improving Plastics Management - Trends, 
- policy responses, and the role of intern
- ational co-operation and trade
-DESCRIPTION:Directorate: Environment Directorate\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/c5f7c448-en\nPublication type: Wor
- king paper\nReleased as: PDF.\n\niLibrar
- y export: 15 September 2018, 5:32 Paris 
- time (GMT+00:00)\nFreepreview export: 14
-  September 2018, 19:18 Paris time (GMT+0
- 0:00)\nFTI loaded: ✓.
-DTSTAMP:20180919T050335Z
-DTSTART:20180918T000000Z
-DTEND:20180918T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Improving Plastics Management 
- - Trends, policy responses, and the role
-  of international co-operation and trade
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9c8a13a0-en
-SUMMARY:Innovative Approaches to Building Resili
- ent Coastal Infrastructure
-DESCRIPTION:Directorate: Environment Directorate\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/9c8a13a0-en\nPublication type: Wor
- king paper\nReleased as: PDF.\n\niLibrar
- y export: 15 September 2018, 5:32 Paris 
- time (GMT+00:00)\nFreepreview export: 14
-  September 2018, 19:18 Paris time (GMT+0
- 0:00)\nFTI loaded: ✓.
-DTSTAMP:20180919T050335Z
-DTSTART:20180918T000000Z
-DTEND:20180918T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Innovative Approaches to Build
- ing Resilient Coastal Infrastructure
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264305304-en
 SUMMARY:Effective Carbon Rates 2018 - Pricing Ca
  rbon Emissions Through Taxes and Emissio
@@ -148,12 +12,12 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264305304-en\
  nPublication type: Stand-alone monograph
- \nReleased as: PDF, Paperback, ePub, HTM
- L.\n\niLibrary export: 18 September 2018
+ \nReleased as: ePub, HTML, PDF, Paperbac
+ k.\n\niLibrary export: 18 September 2018
  , 4:36 Paris time (GMT+00:00)\nFreeprevi
  ew export: 18 September 2018, 19:17 Pari
  s time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180919T050335Z
+DTSTAMP:20180920T045239Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
@@ -177,12 +41,12 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  , SMEs and Local Development\nLanguage: 
  English\nDOI: https://doi.org/10.1787/97
  89264305342-en\nPublication type: Book\n
- Released as: PDF, Paperback.\n\niLibrary
-  export: 18 September 2018, 4:36 Paris t
+ Released as: Paperback, PDF.\n\niLibrary
+  export: 19 September 2018, 4:50 Paris t
  ime (GMT+00:00)\nFreepreview export: 14 
  September 2018, 19:18 Paris time (GMT+00
  :00)\nFTI loaded: ✓.
-DTSTAMP:20180919T050335Z
+DTSTAMP:20180920T045239Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
@@ -211,7 +75,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  me (GMT+00:00)\nFreepreview export: 17 S
  eptember 2018, 19:15 Paris time (GMT+00:
  00)\nFTI loaded: ✓.
-DTSTAMP:20180919T050335Z
+DTSTAMP:20180920T045239Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
@@ -239,7 +103,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  me (GMT+00:00)\nFreepreview export: 17 S
  eptember 2018, 19:15 Paris time (GMT+00:
  00)\nFTI loaded: ✓.
-DTSTAMP:20180919T050335Z
+DTSTAMP:20180920T045239Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
@@ -268,7 +132,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  e (GMT+00:00)\nFreepreview export: 17 Se
  ptember 2018, 19:15 Paris time (GMT+00:0
  0)\nFTI loaded: ✓.
-DTSTAMP:20180919T050335Z
+DTSTAMP:20180920T045239Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
@@ -299,7 +163,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  e (GMT+00:00)\nFreepreview export: 17 Se
  ptember 2018, 19:15 Paris time (GMT+00:0
  0)\nFTI loaded: ✓.
-DTSTAMP:20180919T050335Z
+DTSTAMP:20180920T045239Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
@@ -330,7 +194,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  me (GMT+00:00)\nFreepreview export: 17 S
  eptember 2018, 19:15 Paris time (GMT+00:
  00)\nFTI loaded: ✓.
-DTSTAMP:20180919T050335Z
+DTSTAMP:20180920T045239Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
@@ -360,7 +224,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  ime (GMT+00:00)\nFreepreview export: 17 
  September 2018, 19:15 Paris time (GMT+00
  :00)\nFTI loaded: ✓.
-DTSTAMP:20180919T050335Z
+DTSTAMP:20180920T045239Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
@@ -390,7 +254,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
   time (GMT+00:00)\nFreepreview export: 1
  7 September 2018, 19:15 Paris time (GMT+
  00:00)\nFTI loaded: ✓.
-DTSTAMP:20180919T050335Z
+DTSTAMP:20180920T045239Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
@@ -421,7 +285,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  me (GMT+00:00)\nFreepreview export: 17 S
  eptember 2018, 19:15 Paris time (GMT+00:
  00)\nFTI loaded: ✓.
-DTSTAMP:20180919T050335Z
+DTSTAMP:20180920T045239Z
 DTSTART:20180918T090000Z
 DTEND:20180918T091500Z
 TRANSP:TRANSPARENT
@@ -449,7 +313,7 @@ DESCRIPTION:Directorate: Non applicable\nLanguage: E
  time (GMT+00:00)\nFreepreview export: 18
   September 2018, 19:17 Paris time (GMT+0
  0:00)\nFTI loaded: ✓.
-DTSTAMP:20180919T050335Z
+DTSTAMP:20180920T045239Z
 DTSTART:20180919T130000Z
 DTEND:20180919T131500Z
 TRANSP:TRANSPARENT
@@ -472,10 +336,11 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/5830c400-en\nPublicat
  ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: never\nFreeprevie
- w export: 18 September 2018, 19:17 Paris
-  time (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20180919T050335Z
+ F.\n\niLibrary export: 19 September 2018
+ , 4:50 Paris time (GMT+00:00)\nFreeprevi
+ ew export: 18 September 2018, 19:17 Pari
+ s time (GMT+00:00)\nFTI loaded: ✓, ✓.
+DTSTAMP:20180920T045239Z
 DTSTART:20180920T090000Z
 DTEND:20180920T091500Z
 TRANSP:TRANSPARENT
@@ -499,11 +364,11 @@ DESCRIPTION:Directorate: Development Co-operation Di
  //doi.org/10.1787/9789264302716-fr\nPubl
  ication type: Book\nReleased as: ePub, P
  DF, Paperback, HTML.\n\niLibrary export:
-  18 September 2018, 4:36 Paris time (GMT
+  19 September 2018, 4:50 Paris time (GMT
  +00:00)\nFreepreview export: 18 Septembe
  r 2018, 19:17 Paris time (GMT+00:00)\nFT
  I loaded: ✓.
-DTSTAMP:20180919T050335Z
+DTSTAMP:20180920T045239Z
 DTSTART:20180920T120000Z
 DTEND:20180920T121500Z
 TRANSP:TRANSPARENT
@@ -525,13 +390,13 @@ SUMMARY:OECD Development Co-operation Peer Revie
 DESCRIPTION:Directorate: Development Co-operation Di
  rectorate\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9789264302679-en\nPub
- lication type: Book\nReleased as: PDF, e
- Pub, Paperback, HTML.\n\niLibrary export
- : 18 September 2018, 4:36 Paris time (GM
+ lication type: Book\nReleased as: Paperb
+ ack, HTML, PDF, ePub.\n\niLibrary export
+ : 19 September 2018, 4:50 Paris time (GM
  T+00:00)\nFreepreview export: 18 Septemb
  er 2018, 19:17 Paris time (GMT+00:00)\nF
  TI loaded: ✓.
-DTSTAMP:20180919T050335Z
+DTSTAMP:20180920T045239Z
 DTSTART:20180920T120000Z
 DTEND:20180920T121500Z
 TRANSP:TRANSPARENT
@@ -546,20 +411,125 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/8f7e8c86-en
+SUMMARY:Teaching students with special needs - A
+ re teachers well-prepared?
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: English\nDOI: https
+ ://doi.org/10.1787/8f7e8c86-en\nPublicat
+ ion type: Working paper\nReleased as: PD
+ F.\n\niLibrary export: never\nFreeprevie
+ w export: 19 September 2018, 19:23 Paris
+  time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180920T045239Z
+DTSTART:20180924T090000Z
+DTEND:20180924T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Teaching students with special
+  needs - Are teachers well-prepared?
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/042c26c4-en
+SUMMARY:Who Needs Special Education Professional
+  Development? - International Trends fro
+ m TALIS 2013
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: English\nDOI: https
+ ://doi.org/10.1787/042c26c4-en\nPublicat
+ ion type: Working paper\nReleased as: PD
+ F.\n\niLibrary export: never\nFreeprevie
+ w export: 19 September 2018, 19:23 Paris
+  time (GMT+00:00)\nFTI loaded: ✓, ✓.
+DTSTAMP:20180920T045239Z
+DTSTART:20180924T090000Z
+DTEND:20180924T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Who Needs Special Education Pr
+ ofessional Development? - International 
+ Trends from TALIS 2013
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/be8b4d7a-it
+SUMMARY:La valutazione dello “Startup Act” itali
+ ano
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Italia
+ n\nDOI: https://doi.org/10.1787/be8b4d7a
+ -it\nPublication type: Working paper\nRe
+ leased as: PDF.\n\niLibrary export: neve
+ r\nFreepreview export: 19 September 2018
+ , 19:23 Paris time (GMT+00:00)\nFTI load
+ ed: ✓.
+DTSTAMP:20180920T045239Z
+DTSTART:20180926T000000Z
+DTEND:20180926T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: La valutazione dello “Startup 
+ Act” italiano
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/02ab0eb7-en
+SUMMARY:The evaluation of the Italian “Start-up 
+ Act”
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/02ab0eb7
+ -en\nPublication type: Working paper\nRe
+ leased as: PDF.\n\niLibrary export: neve
+ r\nFreepreview export: 19 September 2018
+ , 19:23 Paris time (GMT+00:00)\nFTI load
+ ed: ✓.
+DTSTAMP:20180920T045239Z
+DTSTART:20180926T000000Z
+DTEND:20180926T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: The evaluation of the Italian 
+ “Start-up Act”
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264292048-en
 SUMMARY:Supporting Entrepreneurship and Innovati
  on in Higher Education in The Netherland
  s
-DESCRIPTION:Directorate: Centre for Entrepreneurship
- , SMEs and Local Development, Directorat
- e for Education and Skills\nLanguage: En
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills, Centre for Entrepreneurship, 
+ SMEs and Local Development\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264292048-en\nPublication type: Book\nRe
- leased as: ePub, PDF, HTML, Paperback.\n
+ leased as: HTML, Paperback, ePub, PDF.\n
  \niLibrary export: 7 September 2018, 4:4
  2 Paris time (GMT+00:00)\nFreepreview ex
- port: never\nFTI loaded: no.
-DTSTAMP:20180919T050335Z
+ port: 19 September 2018, 19:23 Paris tim
+ e (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180920T045239Z
 DTSTART:20180930T090000Z
 DTEND:20180930T091500Z
 TRANSP:TRANSPARENT
@@ -585,7 +555,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  ibrary export: 13 September 2018, 4:25 P
  aris time (GMT+00:00)\nFreepreview expor
  t: never\nFTI loaded: no.
-DTSTAMP:20180919T050335Z
+DTSTAMP:20180920T045239Z
 DTSTART:20181008T080000Z
 DTEND:20181008T081500Z
 TRANSP:TRANSPARENT
@@ -605,11 +575,12 @@ SUMMARY:OECD Economic Surveys: Indonesia 2018
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-idn-2018-en\nPublication 
- type: Economic survey\nReleased as: PDF,
-  Paperback.\n\niLibrary export: never\nF
- reepreview export: never\nFTI loaded: no
- .
-DTSTAMP:20180919T050335Z
+ type: Economic survey\nReleased as: Pape
+ rback, PDF.\n\niLibrary export: 19 Septe
+ mber 2018, 4:50 Paris time (GMT+00:00)\n
+ Freepreview export: never\nFTI loaded: n
+ o.
+DTSTAMP:20180920T045239Z
 DTSTART:20181010T040000Z
 DTEND:20181010T041500Z
 TRANSP:TRANSPARENT
@@ -627,8 +598,8 @@ BEGIN:VEVENT
 UID:10.1787/9789264300347-fr
 SUMMARY:Examen multidimensionnel du Sénégal - Vo
  lume 3. De l'analyse à l'action
-DESCRIPTION:Directorate: Public Affairs and Communic
- ations Directorate, Development Centre\n
+DESCRIPTION:Directorate: Development Centre, Public 
+ Affairs and Communications Directorate\n
  Language: French\nDOI: https://doi.org/1
  0.1787/9789264300347-fr\nPublication typ
  e: Book\nReleased as: Paperback, ePub, H
@@ -637,7 +608,7 @@ DESCRIPTION:Directorate: Public Affairs and Communic
  eepreview export: 14 September 2018, 19:
  18 Paris time (GMT+00:00)\nFTI loaded: ✓
  .
-DTSTAMP:20180919T050335Z
+DTSTAMP:20180920T045239Z
 DTSTART:20181018T090000Z
 DTEND:20181018T091500Z
 TRANSP:TRANSPARENT
