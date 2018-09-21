@@ -4,304 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264305304-en
-SUMMARY:Effective Carbon Rates 2018 - Pricing Ca
- rbon Emissions Through Taxes and Emissio
- ns Trading
-DESCRIPTION:Directorate: Centre for Tax Policy and A
- dministration\nLanguage: English\nDOI: h
- ttps://doi.org/10.1787/9789264305304-en\
- nPublication type: Stand-alone monograph
- \nReleased as: ePub, HTML, PDF, Paperbac
- k.\n\niLibrary export: 18 September 2018
- , 4:36 Paris time (GMT+00:00)\nFreeprevi
- ew export: 18 September 2018, 19:17 Pari
- s time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180920T045239Z
-DTSTART:20180918T090000Z
-DTEND:20180918T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Effective Carbon Rates 2018 - 
- Pricing Carbon Emissions Through Taxes a
- nd Emissions Trading
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264305342-en
-SUMMARY:Job Creation and Local Economic Developm
- ent 2018 - Preparing for the Future of W
- ork
-DESCRIPTION:Directorate: Centre for Entrepreneurship
- , SMEs and Local Development\nLanguage: 
- English\nDOI: https://doi.org/10.1787/97
- 89264305342-en\nPublication type: Book\n
- Released as: Paperback, PDF.\n\niLibrary
-  export: 19 September 2018, 4:50 Paris t
- ime (GMT+00:00)\nFreepreview export: 14 
- September 2018, 19:18 Paris time (GMT+00
- :00)\nFTI loaded: ✓.
-DTSTAMP:20180920T045239Z
-DTSTART:20180918T090000Z
-DTEND:20180918T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Job Creation and Local Economi
- c Development 2018 - Preparing for the F
- uture of Work
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/8afb2ff6-zh
-SUMMARY:Job Creation and Local Economic Developm
- ent 2018 (Summary in Chinese), 2018年创造就业
- 和本地经济发展报告
-DESCRIPTION:Directorate: Centre for Entrepreneurship
- , SMEs and Local Development\nLanguage: 
- Chinese\nDOI: https://doi.org/10.1787/8a
- fb2ff6-zh\nPublication type: Summary\nRe
- leased as: PDF, ePub, HTML.\n\niLibrary 
- export: 18 September 2018, 4:36 Paris ti
- me (GMT+00:00)\nFreepreview export: 17 S
- eptember 2018, 19:15 Paris time (GMT+00:
- 00)\nFTI loaded: ✓.
-DTSTAMP:20180920T045239Z
-DTSTART:20180918T090000Z
-DTEND:20180918T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Job Creation and Local Economi
- c Development 2018 (Summary in Chinese),
-  2018年创造就业和本地经济发展报告
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/7813b83b-en
-SUMMARY:Job Creation and Local Economic Developm
- ent 2018 (Summary in English)
-DESCRIPTION:Directorate: Centre for Entrepreneurship
- , SMEs and Local Development\nLanguage: 
- English\nDOI: https://doi.org/10.1787/78
- 13b83b-en\nPublication type: Summary\nRe
- leased as: HTML, ePub, PDF.\n\niLibrary 
- export: 18 September 2018, 4:36 Paris ti
- me (GMT+00:00)\nFreepreview export: 17 S
- eptember 2018, 19:15 Paris time (GMT+00:
- 00)\nFTI loaded: ✓.
-DTSTAMP:20180920T045239Z
-DTSTART:20180918T090000Z
-DTEND:20180918T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Job Creation and Local Economi
- c Development 2018 (Summary in English)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/4fdca3a0-fr
-SUMMARY:Job Creation and Local Economic Developm
- ent 2018 (Summary in French), Création d
- 'emplois et développement économique loc
- al 2018
-DESCRIPTION:Directorate: Centre for Entrepreneurship
- , SMEs and Local Development\nLanguage: 
- French\nDOI: https://doi.org/10.1787/4fd
- ca3a0-fr\nPublication type: Summary\nRel
- eased as: ePub, HTML, PDF.\n\niLibrary e
- xport: 18 September 2018, 4:36 Paris tim
- e (GMT+00:00)\nFreepreview export: 17 Se
- ptember 2018, 19:15 Paris time (GMT+00:0
- 0)\nFTI loaded: ✓.
-DTSTAMP:20180920T045239Z
-DTSTART:20180918T090000Z
-DTEND:20180918T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Job Creation and Local Economi
- c Development 2018 (Summary in French), 
- Création d'emplois et développement écon
- omique local 2018
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/94c070a2-de
-SUMMARY:Job Creation and Local Economic Developm
- ent 2018 (Summary in German), Schaffung 
- von Arbeitsplätzen und lokale Wirtschaft
- sentwicklung 2018
-DESCRIPTION:Directorate: Centre for Entrepreneurship
- , SMEs and Local Development\nLanguage: 
- German\nDOI: https://doi.org/10.1787/94c
- 070a2-de\nPublication type: Summary\nRel
- eased as: PDF, HTML, ePub.\n\niLibrary e
- xport: 18 September 2018, 4:36 Paris tim
- e (GMT+00:00)\nFreepreview export: 17 Se
- ptember 2018, 19:15 Paris time (GMT+00:0
- 0)\nFTI loaded: ✓.
-DTSTAMP:20180920T045239Z
-DTSTART:20180918T090000Z
-DTEND:20180918T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Job Creation and Local Economi
- c Development 2018 (Summary in German), 
- Schaffung von Arbeitsplätzen und lokale 
- Wirtschaftsentwicklung 2018
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9d01f33f-it
-SUMMARY:Job Creation and Local Economic Developm
- ent 2018 (Summary in Italian), Creazione
-  di posti di lavoro e sviluppo economico
-  locale 2018
-DESCRIPTION:Directorate: Centre for Entrepreneurship
- , SMEs and Local Development\nLanguage: 
- Italian\nDOI: https://doi.org/10.1787/9d
- 01f33f-it\nPublication type: Summary\nRe
- leased as: HTML, PDF, ePub.\n\niLibrary 
- export: 18 September 2018, 4:36 Paris ti
- me (GMT+00:00)\nFreepreview export: 17 S
- eptember 2018, 19:15 Paris time (GMT+00:
- 00)\nFTI loaded: ✓.
-DTSTAMP:20180920T045239Z
-DTSTART:20180918T090000Z
-DTEND:20180918T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Job Creation and Local Economi
- c Development 2018 (Summary in Italian),
-  Creazione di posti di lavoro e sviluppo
-  economico locale 2018
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/e969011e-ja
-SUMMARY:Job Creation and Local Economic Developm
- ent 2018 (Summary in Japanese), 雇用創出と地域経
- 済開発 2018年版
-DESCRIPTION:Directorate: Centre for Entrepreneurship
- , SMEs and Local Development\nLanguage: 
- Japanese\nDOI: https://doi.org/10.1787/e
- 969011e-ja\nPublication type: Summary\nR
- eleased as: HTML, PDF, ePub.\n\niLibrary
-  export: 18 September 2018, 4:36 Paris t
- ime (GMT+00:00)\nFreepreview export: 17 
- September 2018, 19:15 Paris time (GMT+00
- :00)\nFTI loaded: ✓.
-DTSTAMP:20180920T045239Z
-DTSTART:20180918T090000Z
-DTEND:20180918T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Job Creation and Local Economi
- c Development 2018 (Summary in Japanese)
- , 雇用創出と地域経済開発 2018年版
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/2e6182d2-pt
-SUMMARY:Job Creation and Local Economic Developm
- ent 2018 (Summary in Portuguese), Criaçã
- o de Emprego e Desenvolvimento Económico
-  Local 2018
-DESCRIPTION:Directorate: Centre for Entrepreneurship
- , SMEs and Local Development\nLanguage: 
- Portuguese\nDOI: https://doi.org/10.1787
- /2e6182d2-pt\nPublication type: Summary\
- nReleased as: ePub, PDF, HTML.\n\niLibra
- ry export: 18 September 2018, 4:36 Paris
-  time (GMT+00:00)\nFreepreview export: 1
- 7 September 2018, 19:15 Paris time (GMT+
- 00:00)\nFTI loaded: ✓.
-DTSTAMP:20180920T045239Z
-DTSTART:20180918T090000Z
-DTEND:20180918T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Job Creation and Local Economi
- c Development 2018 (Summary in Portugues
- e), Criação de Emprego e Desenvolvimento
-  Económico Local 2018
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/43e94b88-es
-SUMMARY:Job Creation and Local Economic Developm
- ent 2018 (Summary in Spanish), Creación 
- de empleo y desarrollo económico local 2
- 018
-DESCRIPTION:Directorate: Centre for Entrepreneurship
- , SMEs and Local Development\nLanguage: 
- Spanish\nDOI: https://doi.org/10.1787/43
- e94b88-es\nPublication type: Summary\nRe
- leased as: ePub, HTML, PDF.\n\niLibrary 
- export: 18 September 2018, 4:36 Paris ti
- me (GMT+00:00)\nFreepreview export: 17 S
- eptember 2018, 19:15 Paris time (GMT+00:
- 00)\nFTI loaded: ✓.
-DTSTAMP:20180920T045239Z
-DTSTART:20180918T090000Z
-DTEND:20180918T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Job Creation and Local Economi
- c Development 2018 (Summary in Spanish),
-  Creación de empleo y desarrollo económi
- co local 2018
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.18356/656a3808-en
 SUMMARY:Human Development Indices and Indicators
   2018 - Statistical update
@@ -313,7 +15,7 @@ DESCRIPTION:Directorate: Non applicable\nLanguage: E
  time (GMT+00:00)\nFreepreview export: 18
   September 2018, 19:17 Paris time (GMT+0
  0:00)\nFTI loaded: ✓.
-DTSTAMP:20180920T045239Z
+DTSTAMP:20180921T051620Z
 DTSTART:20180919T130000Z
 DTEND:20180919T131500Z
 TRANSP:TRANSPARENT
@@ -340,7 +42,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  , 4:50 Paris time (GMT+00:00)\nFreeprevi
  ew export: 18 September 2018, 19:17 Pari
  s time (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20180920T045239Z
+DTSTAMP:20180921T051620Z
 DTSTART:20180920T090000Z
 DTEND:20180920T091500Z
 TRANSP:TRANSPARENT
@@ -365,10 +67,10 @@ DESCRIPTION:Directorate: Development Co-operation Di
  ication type: Book\nReleased as: ePub, P
  DF, Paperback, HTML.\n\niLibrary export:
   19 September 2018, 4:50 Paris time (GMT
- +00:00)\nFreepreview export: 18 Septembe
- r 2018, 19:17 Paris time (GMT+00:00)\nFT
+ +00:00)\nFreepreview export: 20 Septembe
+ r 2018, 19:21 Paris time (GMT+00:00)\nFT
  I loaded: ✓.
-DTSTAMP:20180920T045239Z
+DTSTAMP:20180921T051620Z
 DTSTART:20180920T120000Z
 DTEND:20180920T121500Z
 TRANSP:TRANSPARENT
@@ -390,13 +92,13 @@ SUMMARY:OECD Development Co-operation Peer Revie
 DESCRIPTION:Directorate: Development Co-operation Di
  rectorate\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9789264302679-en\nPub
- lication type: Book\nReleased as: Paperb
- ack, HTML, PDF, ePub.\n\niLibrary export
+ lication type: Book\nReleased as: PDF, e
+ Pub, Paperback, HTML.\n\niLibrary export
  : 19 September 2018, 4:50 Paris time (GM
- T+00:00)\nFreepreview export: 18 Septemb
- er 2018, 19:17 Paris time (GMT+00:00)\nF
+ T+00:00)\nFreepreview export: 20 Septemb
+ er 2018, 19:21 Paris time (GMT+00:00)\nF
  TI loaded: ✓.
-DTSTAMP:20180920T045239Z
+DTSTAMP:20180921T051620Z
 DTSTART:20180920T120000Z
 DTEND:20180920T121500Z
 TRANSP:TRANSPARENT
@@ -418,10 +120,11 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/8f7e8c86-en\nPublicat
  ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: never\nFreeprevie
- w export: 19 September 2018, 19:23 Paris
-  time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180920T045239Z
+ F.\n\niLibrary export: 20 September 2018
+ , 4:39 Paris time (GMT+00:00)\nFreeprevi
+ ew export: 19 September 2018, 19:23 Pari
+ s time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180921T051620Z
 DTSTART:20180924T090000Z
 DTEND:20180924T091500Z
 TRANSP:TRANSPARENT
@@ -444,10 +147,11 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/042c26c4-en\nPublicat
  ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: never\nFreeprevie
- w export: 19 September 2018, 19:23 Paris
-  time (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20180920T045239Z
+ F.\n\niLibrary export: 20 September 2018
+ , 4:39 Paris time (GMT+00:00)\nFreeprevi
+ ew export: 19 September 2018, 19:23 Pari
+ s time (GMT+00:00)\nFTI loaded: ✓, ✓.
+DTSTAMP:20180921T051620Z
 DTSTART:20180924T090000Z
 DTEND:20180924T091500Z
 TRANSP:TRANSPARENT
@@ -470,11 +174,12 @@ DESCRIPTION:Directorate: Directorate for Science, Te
  chnology and Industry \nLanguage: Italia
  n\nDOI: https://doi.org/10.1787/be8b4d7a
  -it\nPublication type: Working paper\nRe
- leased as: PDF.\n\niLibrary export: neve
- r\nFreepreview export: 19 September 2018
- , 19:23 Paris time (GMT+00:00)\nFTI load
- ed: ✓.
-DTSTAMP:20180920T045239Z
+ leased as: PDF.\n\niLibrary export: 20 S
+ eptember 2018, 4:39 Paris time (GMT+00:0
+ 0)\nFreepreview export: 19 September 201
+ 8, 19:23 Paris time (GMT+00:00)\nFTI loa
+ ded: ✓.
+DTSTAMP:20180921T051620Z
 DTSTART:20180926T000000Z
 DTEND:20180926T001500Z
 TRANSP:TRANSPARENT
@@ -496,11 +201,12 @@ DESCRIPTION:Directorate: Directorate for Science, Te
  chnology and Industry \nLanguage: Englis
  h\nDOI: https://doi.org/10.1787/02ab0eb7
  -en\nPublication type: Working paper\nRe
- leased as: PDF.\n\niLibrary export: neve
- r\nFreepreview export: 19 September 2018
- , 19:23 Paris time (GMT+00:00)\nFTI load
- ed: ✓.
-DTSTAMP:20180920T045239Z
+ leased as: PDF.\n\niLibrary export: 20 S
+ eptember 2018, 4:39 Paris time (GMT+00:0
+ 0)\nFreepreview export: 19 September 201
+ 8, 19:23 Paris time (GMT+00:00)\nFTI loa
+ ded: ✓.
+DTSTAMP:20180921T051620Z
 DTSTART:20180926T000000Z
 DTEND:20180926T001500Z
 TRANSP:TRANSPARENT
@@ -519,17 +225,17 @@ UID:10.1787/9789264292048-en
 SUMMARY:Supporting Entrepreneurship and Innovati
  on in Higher Education in The Netherland
  s
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills, Centre for Entrepreneurship, 
- SMEs and Local Development\nLanguage: En
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development, Directorat
+ e for Education and Skills\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264292048-en\nPublication type: Book\nRe
- leased as: HTML, Paperback, ePub, PDF.\n
- \niLibrary export: 7 September 2018, 4:4
- 2 Paris time (GMT+00:00)\nFreepreview ex
- port: 19 September 2018, 19:23 Paris tim
- e (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180920T045239Z
+ leased as: Paperback, ePub, PDF, HTML.\n
+ \niLibrary export: 20 September 2018, 4:
+ 39 Paris time (GMT+00:00)\nFreepreview e
+ xport: 19 September 2018, 19:23 Paris ti
+ me (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20180921T051620Z
 DTSTART:20180930T090000Z
 DTEND:20180930T091500Z
 TRANSP:TRANSPARENT
@@ -551,11 +257,11 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  , SMEs and Local Development\nLanguage: 
  English\nDOI: https://doi.org/10.1787/re
  g_cit_glance-2018-en\nPublication type: 
- Book\nReleased as: PDF, Paperback.\n\niL
- ibrary export: 13 September 2018, 4:25 P
- aris time (GMT+00:00)\nFreepreview expor
- t: never\nFTI loaded: no.
-DTSTAMP:20180920T045239Z
+ Book\nReleased as: ePub, PDF, HTML, Pape
+ rback.\n\niLibrary export: 13 September 
+ 2018, 4:25 Paris time (GMT+00:00)\nFreep
+ review export: never\nFTI loaded: ✓.
+DTSTAMP:20180921T051620Z
 DTSTART:20181008T080000Z
 DTEND:20181008T081500Z
 TRANSP:TRANSPARENT
@@ -580,7 +286,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  mber 2018, 4:50 Paris time (GMT+00:00)\n
  Freepreview export: never\nFTI loaded: n
  o.
-DTSTAMP:20180920T045239Z
+DTSTAMP:20180921T051620Z
 DTSTART:20181010T040000Z
 DTEND:20181010T041500Z
 TRANSP:TRANSPARENT
@@ -608,7 +314,7 @@ DESCRIPTION:Directorate: Development Centre, Public
  eepreview export: 14 September 2018, 19:
  18 Paris time (GMT+00:00)\nFTI loaded: ✓
  .
-DTSTAMP:20180920T045239Z
+DTSTAMP:20180921T051620Z
 DTSTART:20181018T090000Z
 DTEND:20181018T091500Z
 TRANSP:TRANSPARENT

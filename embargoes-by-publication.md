@@ -1,69 +1,6 @@
-# OECD publication embargoes (11 embargoes)
+# OECD publication embargoes (8 embargoes)
 
-*Data generated on Thursday 20 September 2018 at 4:52*
-
-------
-
-## [Making skills transparent - Recognising vocational skills acquired through workbased learning](https://doi.org/10.1787/5830c400-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 20 September 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 September 2018 at 6:50
-- [x] Exported to Keepeek Tuesday 18 September 2018 at 21:17
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Examens de l'OCDE sur la coopération pour le développement : France 2018](https://doi.org/10.1787/9789264302716-fr)
-
-Embargo date | Launch date
--------------|------------
-Thursday 20 September 2018 at 14:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 September 2018 at 6:50
-- [x] Exported to Keepeek Tuesday 18 September 2018 at 21:17
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [OECD Development Co-operation Peer Reviews: France 2018](https://doi.org/10.1787/9789264302679-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 20 September 2018 at 14:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 September 2018 at 6:50
-- [x] Exported to Keepeek Tuesday 18 September 2018 at 21:17
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Friday 21 September 2018 at 5:16*
 
 ------
 
@@ -75,7 +12,7 @@ Monday 24 September 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 20 September 2018 at 6:39
 - [x] Exported to Keepeek Wednesday 19 September 2018 at 21:23
 
 ### Additional Information
@@ -96,7 +33,7 @@ Monday 24 September 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 20 September 2018 at 6:39
 - [x] Exported to Keepeek Wednesday 19 September 2018 at 21:23
 
 ### Additional Information
@@ -117,7 +54,7 @@ Wednesday 26 September 2018 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 20 September 2018 at 6:39
 - [x] Exported to Keepeek Wednesday 19 September 2018 at 21:23
 
 ### Additional Information
@@ -138,7 +75,7 @@ Wednesday 26 September 2018 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 20 September 2018 at 6:39
 - [x] Exported to Keepeek Wednesday 19 September 2018 at 21:23
 
 ### Additional Information
@@ -159,12 +96,12 @@ Sunday 30 September 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 7 September 2018 at 6:42
+- [x] Exported to iLibrary Thursday 20 September 2018 at 6:39
 - [x] Exported to Keepeek Wednesday 19 September 2018 at 21:23
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
@@ -179,7 +116,7 @@ Embargo date | Launch date
 Monday 8 October 2018 at 10:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 13 September 2018 at 6:25
 - [ ] Exported to Keepeek
 
