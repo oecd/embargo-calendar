@@ -1,6 +1,6 @@
 # OECD publication embargoes (8 embargoes)
 
-*Data generated on Friday 21 September 2018 at 5:16*
+*Data generated on Saturday 22 September 2018 at 5:46*
 
 ------
 
@@ -12,7 +12,7 @@ Monday 24 September 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 20 September 2018 at 6:39
+- [x] Exported to iLibrary Friday 21 September 2018 at 7:00
 - [x] Exported to Keepeek Wednesday 19 September 2018 at 21:23
 
 ### Additional Information
@@ -55,7 +55,7 @@ Wednesday 26 September 2018 at 2:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 20 September 2018 at 6:39
-- [x] Exported to Keepeek Wednesday 19 September 2018 at 21:23
+- [x] Exported to Keepeek Friday 21 September 2018 at 20:41
 
 ### Additional Information
 
@@ -117,14 +117,14 @@ Monday 8 October 2018 at 10:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 September 2018 at 6:25
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 21 September 2018 at 7:00
+- [x] Exported to Keepeek Friday 21 September 2018 at 20:41
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -164,7 +164,7 @@ Thursday 18 October 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Development Centre, Public Affairs and Communications Directorate*
+* Directorate: *Public Affairs and Communications Directorate, Development Centre*
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
