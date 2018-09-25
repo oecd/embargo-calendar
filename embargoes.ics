@@ -4,89 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/5830c400-en
-SUMMARY:Making skills transparent - Recognising 
- vocational skills acquired through workb
- ased learning
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills\nLanguage: English\nDOI: https
- ://doi.org/10.1787/5830c400-en\nPublicat
- ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: 19 September 2018
- , 4:50 Paris time (GMT+00:00)\nFreeprevi
- ew export: 18 September 2018, 19:17 Pari
- s time (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20180922T054626Z
-DTSTART:20180920T090000Z
-DTEND:20180920T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Making skills transparent - Re
- cognising vocational skills acquired thr
- ough workbased learning
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264302716-fr
-SUMMARY:Examens de l'OCDE sur la coopération pou
- r le développement : France 2018
-DESCRIPTION:Directorate: Development Co-operation Di
- rectorate\nLanguage: French\nDOI: https:
- //doi.org/10.1787/9789264302716-fr\nPubl
- ication type: Book\nReleased as: Paperba
- ck, HTML, ePub, PDF.\n\niLibrary export:
-  19 September 2018, 4:50 Paris time (GMT
- +00:00)\nFreepreview export: 20 Septembe
- r 2018, 19:21 Paris time (GMT+00:00)\nFT
- I loaded: ✓.
-DTSTAMP:20180922T054626Z
-DTSTART:20180920T120000Z
-DTEND:20180920T121500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Examens de l'OCDE sur la coopé
- ration pour le développement : France 20
- 18
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264302679-en
-SUMMARY:OECD Development Co-operation Peer Revie
- ws: France 2018
-DESCRIPTION:Directorate: Development Co-operation Di
- rectorate\nLanguage: English\nDOI: https
- ://doi.org/10.1787/9789264302679-en\nPub
- lication type: Book\nReleased as: HTML, 
- PDF, ePub, Paperback.\n\niLibrary export
- : 19 September 2018, 4:50 Paris time (GM
- T+00:00)\nFreepreview export: 20 Septemb
- er 2018, 19:21 Paris time (GMT+00:00)\nF
- TI loaded: ✓.
-DTSTAMP:20180922T054626Z
-DTSTART:20180920T120000Z
-DTEND:20180920T121500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Development Co-operation 
- Peer Reviews: France 2018
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/8f7e8c86-en
 SUMMARY:Teaching students with special needs - A
  re teachers well-prepared?
@@ -98,7 +15,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  , 5:00 Paris time (GMT+00:00)\nFreeprevi
  ew export: 19 September 2018, 19:23 Pari
  s time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180922T054626Z
+DTSTAMP:20180925T043120Z
 DTSTART:20180924T090000Z
 DTEND:20180924T091500Z
 TRANSP:TRANSPARENT
@@ -125,7 +42,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  , 4:39 Paris time (GMT+00:00)\nFreeprevi
  ew export: 19 September 2018, 19:23 Pari
  s time (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20180922T054626Z
+DTSTAMP:20180925T043120Z
 DTSTART:20180924T090000Z
 DTEND:20180924T091500Z
 TRANSP:TRANSPARENT
@@ -153,7 +70,7 @@ DESCRIPTION:Directorate: Directorate for Science, Te
  0)\nFreepreview export: 21 September 201
  8, 18:41 Paris time (GMT+00:00)\nFTI loa
  ded: ✓.
-DTSTAMP:20180922T054626Z
+DTSTAMP:20180925T043120Z
 DTSTART:20180926T000000Z
 DTEND:20180926T001500Z
 TRANSP:TRANSPARENT
@@ -180,7 +97,7 @@ DESCRIPTION:Directorate: Directorate for Science, Te
  0)\nFreepreview export: 19 September 201
  8, 19:23 Paris time (GMT+00:00)\nFTI loa
  ded: ✓.
-DTSTAMP:20180922T054626Z
+DTSTAMP:20180925T043120Z
 DTSTART:20180926T000000Z
 DTEND:20180926T001500Z
 TRANSP:TRANSPARENT
@@ -199,9 +116,9 @@ UID:10.1787/9789264292048-en
 SUMMARY:Supporting Entrepreneurship and Innovati
  on in Higher Education in The Netherland
  s
-DESCRIPTION:Directorate: Centre for Entrepreneurship
- , SMEs and Local Development, Directorat
- e for Education and Skills\nLanguage: En
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills, Centre for Entrepreneurship, 
+ SMEs and Local Development\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264292048-en\nPublication type: Book\nRe
  leased as: Paperback, ePub, PDF, HTML.\n
@@ -209,7 +126,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  39 Paris time (GMT+00:00)\nFreepreview e
  xport: 19 September 2018, 19:23 Paris ti
  me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180922T054626Z
+DTSTAMP:20180925T043120Z
 DTSTART:20180930T090000Z
 DTEND:20180930T091500Z
 TRANSP:TRANSPARENT
@@ -231,12 +148,12 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  , SMEs and Local Development\nLanguage: 
  English\nDOI: https://doi.org/10.1787/re
  g_cit_glance-2018-en\nPublication type: 
- Book\nReleased as: ePub, PDF, HTML, Pape
- rback.\n\niLibrary export: 21 September 
- 2018, 5:00 Paris time (GMT+00:00)\nFreep
+ Book\nReleased as: PDF, HTML, Paperback,
+  ePub.\n\niLibrary export: 22 September 
+ 2018, 5:39 Paris time (GMT+00:00)\nFreep
  review export: 21 September 2018, 18:41 
  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180922T054626Z
+DTSTAMP:20180925T043120Z
 DTSTART:20181008T080000Z
 DTEND:20181008T081500Z
 TRANSP:TRANSPARENT
@@ -256,12 +173,12 @@ SUMMARY:OECD Economic Surveys: Indonesia 2018
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-idn-2018-en\nPublication 
- type: Economic survey\nReleased as: Pape
- rback, PDF.\n\niLibrary export: 19 Septe
- mber 2018, 4:50 Paris time (GMT+00:00)\n
+ type: Economic survey\nReleased as: PDF,
+  Paperback.\n\niLibrary export: 22 Septe
+ mber 2018, 5:39 Paris time (GMT+00:00)\n
  Freepreview export: never\nFTI loaded: n
  o.
-DTSTAMP:20180922T054626Z
+DTSTAMP:20180925T043120Z
 DTSTART:20181010T040000Z
 DTEND:20181010T041500Z
 TRANSP:TRANSPARENT
@@ -279,8 +196,8 @@ BEGIN:VEVENT
 UID:10.1787/9789264300347-fr
 SUMMARY:Examen multidimensionnel du Sénégal - Vo
  lume 3. De l'analyse à l'action
-DESCRIPTION:Directorate: Public Affairs and Communic
- ations Directorate, Development Centre\n
+DESCRIPTION:Directorate: Development Centre, Public 
+ Affairs and Communications Directorate\n
  Language: French\nDOI: https://doi.org/1
  0.1787/9789264300347-fr\nPublication typ
  e: Book\nReleased as: Paperback, ePub, H
@@ -289,7 +206,7 @@ DESCRIPTION:Directorate: Public Affairs and Communic
  eepreview export: 14 September 2018, 19:
  18 Paris time (GMT+00:00)\nFTI loaded: ✓
  .
-DTSTAMP:20180922T054626Z
+DTSTAMP:20180925T043120Z
 DTSTART:20181018T090000Z
 DTEND:20181018T091500Z
 TRANSP:TRANSPARENT
