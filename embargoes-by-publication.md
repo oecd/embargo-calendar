@@ -1,48 +1,6 @@
-# OECD publication embargoes (6 embargoes)
+# OECD publication embargoes (4 embargoes)
 
-*Data generated on Tuesday 25 September 2018 at 4:31*
-
-------
-
-## [La valutazione dello “Startup Act” italiano](https://doi.org/10.1787/be8b4d7a-it)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 26 September 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 20 September 2018 at 6:39
-- [x] Exported to Keepeek Friday 21 September 2018 at 20:41
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Italian*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [The evaluation of the Italian “Start-up Act”](https://doi.org/10.1787/02ab0eb7-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 26 September 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 20 September 2018 at 6:39
-- [x] Exported to Keepeek Wednesday 19 September 2018 at 21:23
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Wednesday 26 September 2018 at 4:18*
 
 ------
 
@@ -59,7 +17,7 @@ Sunday 30 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
