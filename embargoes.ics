@@ -4,60 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/8f7e8c86-en
-SUMMARY:Teaching students with special needs - A
- re teachers well-prepared?
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills\nLanguage: English\nDOI: https
- ://doi.org/10.1787/8f7e8c86-en\nPublicat
- ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: 25 September 2018
- , 4:12 Paris time (GMT+00:00)\nFreeprevi
- ew export: 19 September 2018, 19:23 Pari
- s time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180926T041845Z
-DTSTART:20180924T090000Z
-DTEND:20180924T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Teaching students with special
-  needs - Are teachers well-prepared?
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/042c26c4-en
-SUMMARY:Who Needs Special Education Professional
-  Development? - International Trends fro
- m TALIS 2013
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills\nLanguage: English\nDOI: https
- ://doi.org/10.1787/042c26c4-en\nPublicat
- ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: 20 September 2018
- , 4:39 Paris time (GMT+00:00)\nFreeprevi
- ew export: 19 September 2018, 19:23 Pari
- s time (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20180926T041845Z
-DTSTART:20180924T090000Z
-DTEND:20180924T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Who Needs Special Education Pr
- ofessional Development? - International 
- Trends from TALIS 2013
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/be8b4d7a-it
 SUMMARY:La valutazione dello “Startup Act” itali
  ano
@@ -70,7 +16,7 @@ DESCRIPTION:Directorate: Directorate for Science, Te
  0)\nFreepreview export: 21 September 201
  8, 18:41 Paris time (GMT+00:00)\nFTI loa
  ded: ✓.
-DTSTAMP:20180926T041845Z
+DTSTAMP:20180927T042235Z
 DTSTART:20180926T000000Z
 DTEND:20180926T001500Z
 TRANSP:TRANSPARENT
@@ -97,7 +43,7 @@ DESCRIPTION:Directorate: Directorate for Science, Te
  0)\nFreepreview export: 19 September 201
  8, 19:23 Paris time (GMT+00:00)\nFTI loa
  ded: ✓.
-DTSTAMP:20180926T041845Z
+DTSTAMP:20180927T042235Z
 DTSTART:20180926T000000Z
 DTEND:20180926T001500Z
 TRANSP:TRANSPARENT
@@ -116,9 +62,9 @@ UID:10.1787/9789264292048-en
 SUMMARY:Supporting Entrepreneurship and Innovati
  on in Higher Education in The Netherland
  s
-DESCRIPTION:Directorate: Centre for Entrepreneurship
- , SMEs and Local Development, Directorat
- e for Education and Skills\nLanguage: En
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills, Centre for Entrepreneurship, 
+ SMEs and Local Development\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264292048-en\nPublication type: Book\nRe
  leased as: Paperback, ePub, PDF, HTML.\n
@@ -126,7 +72,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  39 Paris time (GMT+00:00)\nFreepreview e
  xport: 19 September 2018, 19:23 Paris ti
  me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180926T041845Z
+DTSTAMP:20180927T042235Z
 DTSTART:20180930T090000Z
 DTEND:20180930T091500Z
 TRANSP:TRANSPARENT
@@ -153,7 +99,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  2018, 5:39 Paris time (GMT+00:00)\nFreep
  review export: 21 September 2018, 18:41 
  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180926T041845Z
+DTSTAMP:20180927T042235Z
 DTSTART:20181008T080000Z
 DTEND:20181008T081500Z
 TRANSP:TRANSPARENT
@@ -178,7 +124,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  mber 2018, 5:39 Paris time (GMT+00:00)\n
  Freepreview export: never\nFTI loaded: n
  o.
-DTSTAMP:20180926T041845Z
+DTSTAMP:20180927T042235Z
 DTSTART:20181010T040000Z
 DTEND:20181010T041500Z
 TRANSP:TRANSPARENT
@@ -196,8 +142,8 @@ BEGIN:VEVENT
 UID:10.1787/9789264300347-fr
 SUMMARY:Examen multidimensionnel du Sénégal - Vo
  lume 3. De l'analyse à l'action
-DESCRIPTION:Directorate: Development Centre, Public 
- Affairs and Communications Directorate\n
+DESCRIPTION:Directorate: Public Affairs and Communic
+ ations Directorate, Development Centre\n
  Language: French\nDOI: https://doi.org/1
  0.1787/9789264300347-fr\nPublication typ
  e: Book\nReleased as: Paperback, ePub, H
@@ -206,7 +152,7 @@ DESCRIPTION:Directorate: Development Centre, Public
  eepreview export: 14 September 2018, 19:
  18 Paris time (GMT+00:00)\nFTI loaded: ✓
  .
-DTSTAMP:20180926T041845Z
+DTSTAMP:20180927T042235Z
 DTSTART:20181018T090000Z
 DTEND:20181018T091500Z
 TRANSP:TRANSPARENT

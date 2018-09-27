@@ -1,6 +1,6 @@
 # OECD publication embargoes (4 embargoes)
 
-*Data generated on Wednesday 26 September 2018 at 4:18*
+*Data generated on Thursday 27 September 2018 at 4:22*
 
 ------
 
@@ -17,7 +17,7 @@ Sunday 30 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
+* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
@@ -80,7 +80,7 @@ Thursday 18 October 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Development Centre, Public Affairs and Communications Directorate*
+* Directorate: *Public Affairs and Communications Directorate, Development Centre*
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
