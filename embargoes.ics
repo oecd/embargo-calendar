@@ -4,67 +4,13 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/be8b4d7a-it
-SUMMARY:La valutazione dello “Startup Act” itali
- ano
-DESCRIPTION:Directorate: Directorate for Science, Te
- chnology and Industry \nLanguage: Italia
- n\nDOI: https://doi.org/10.1787/be8b4d7a
- -it\nPublication type: Working paper\nRe
- leased as: PDF.\n\niLibrary export: 20 S
- eptember 2018, 4:39 Paris time (GMT+00:0
- 0)\nFreepreview export: 21 September 201
- 8, 18:41 Paris time (GMT+00:00)\nFTI loa
- ded: ✓.
-DTSTAMP:20180927T042235Z
-DTSTART:20180926T000000Z
-DTEND:20180926T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: La valutazione dello “Startup 
- Act” italiano
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/02ab0eb7-en
-SUMMARY:The evaluation of the Italian “Start-up 
- Act”
-DESCRIPTION:Directorate: Directorate for Science, Te
- chnology and Industry \nLanguage: Englis
- h\nDOI: https://doi.org/10.1787/02ab0eb7
- -en\nPublication type: Working paper\nRe
- leased as: PDF.\n\niLibrary export: 20 S
- eptember 2018, 4:39 Paris time (GMT+00:0
- 0)\nFreepreview export: 19 September 201
- 8, 19:23 Paris time (GMT+00:00)\nFTI loa
- ded: ✓.
-DTSTAMP:20180927T042235Z
-DTSTART:20180926T000000Z
-DTEND:20180926T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: The evaluation of the Italian 
- “Start-up Act”
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264292048-en
 SUMMARY:Supporting Entrepreneurship and Innovati
  on in Higher Education in The Netherland
  s
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills, Centre for Entrepreneurship, 
- SMEs and Local Development\nLanguage: En
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development, Directorat
+ e for Education and Skills\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264292048-en\nPublication type: Book\nRe
  leased as: Paperback, ePub, PDF, HTML.\n
@@ -72,7 +18,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  39 Paris time (GMT+00:00)\nFreepreview e
  xport: 19 September 2018, 19:23 Paris ti
  me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180927T042235Z
+DTSTAMP:20180928T062130Z
 DTSTART:20180930T090000Z
 DTEND:20180930T091500Z
 TRANSP:TRANSPARENT
@@ -99,7 +45,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  2018, 5:39 Paris time (GMT+00:00)\nFreep
  review export: 21 September 2018, 18:41 
  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180927T042235Z
+DTSTAMP:20180928T062130Z
 DTSTART:20181008T080000Z
 DTEND:20181008T081500Z
 TRANSP:TRANSPARENT
@@ -114,6 +60,32 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/9789264306264-en
+SUMMARY:SME and Entrepreneurship Policy in Indon
+ esia 2018
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ English\nDOI: https://doi.org/10.1787/97
+ 89264306264-en\nPublication type: Book\n
+ Released as: PDF, Paperback.\n\niLibrary
+  export: 11 September 2018, 4:26 Paris t
+ ime (GMT+00:00)\nFreepreview export: nev
+ er\nFTI loaded: no.
+DTSTAMP:20180928T062130Z
+DTSTART:20181010T030000Z
+DTEND:20181010T031500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: SME and Entrepreneurship Polic
+ y in Indonesia 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/eco_surveys-idn-2018-en
 SUMMARY:OECD Economic Surveys: Indonesia 2018
 DESCRIPTION:Directorate: Economics Department\nLangu
@@ -124,7 +96,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  mber 2018, 5:39 Paris time (GMT+00:00)\n
  Freepreview export: never\nFTI loaded: n
  o.
-DTSTAMP:20180927T042235Z
+DTSTAMP:20180928T062130Z
 DTSTART:20181010T040000Z
 DTEND:20181010T041500Z
 TRANSP:TRANSPARENT
@@ -152,7 +124,7 @@ DESCRIPTION:Directorate: Public Affairs and Communic
  eepreview export: 14 September 2018, 19:
  18 Paris time (GMT+00:00)\nFTI loaded: ✓
  .
-DTSTAMP:20180927T042235Z
+DTSTAMP:20180928T062130Z
 DTSTART:20181018T090000Z
 DTEND:20181018T091500Z
 TRANSP:TRANSPARENT

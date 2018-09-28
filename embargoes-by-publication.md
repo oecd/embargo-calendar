@@ -1,6 +1,6 @@
-# OECD publication embargoes (4 embargoes)
+# OECD publication embargoes (5 embargoes)
 
-*Data generated on Thursday 27 September 2018 at 4:22*
+*Data generated on Friday 28 September 2018 at 6:21*
 
 ------
 
@@ -17,7 +17,7 @@ Sunday 30 September 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development*
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
@@ -41,6 +41,27 @@ Monday 8 October 2018 at 10:00 | no launch event
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
 * Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [SME and Entrepreneurship Policy in Indonesia 2018](https://doi.org/10.1787/9789264306264-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 10 October 2018 at 5:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 11 September 2018 at 6:26
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Medium: *PDF*
 
