@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Sat, 29 Sep 2018 05:57:23 GMT</pubDate>
+      <pubDate>Tue, 02 Oct 2018 04:42:09 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -18,13 +18,13 @@
          <pubDate>Mon, 01 Oct 2018 10:00:00 GMT</pubDate>
          <title>Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands</title>
          <link>https://doi.org/10.1787/9789264292048-en</link>
-         <description>Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands by Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills has an embargo on Monday, 1 October 2018, 12:00 Paris time (GMT+02:00).</description>
+         <description>Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands by Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development has an embargo on Monday, 1 October 2018, 12:00 Paris time (GMT+02:00).</description>
          <oe:embargoTime>2018-10-01T10:00:00Z</oe:embargoTime>
          <oe:launchTime/>
-         <oe:directorate>Centre for Entrepreneurship, SMEs and Local Development, Directorate for Education and Skills</oe:directorate>
+         <oe:directorate>Directorate for Education and Skills, Centre for Entrepreneurship, SMEs and Local Development</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Thursday, 20 September 2018, 4:39 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport>Friday, 28 September 2018, 19:10 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:iLibraryExport>Saturday, 29 September 2018, 5:53 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Monday, 1 October 2018, 19:15 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>ePub, PDF, Paperback, HTML</oe:availableMedia>
       </item>
@@ -52,11 +52,11 @@
          <oe:embargoTime>2018-10-10T03:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Centre for Entrepreneurship, SMEs and Local Development</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Friday, 28 September 2018, 12:26 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:freePreviewExport>Monday, 1 October 2018, 19:15 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>HTML, PDF, ePub, Paperback</oe:availableMedia>
+         <oe:availableMedia>ePub, Paperback, HTML, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/eco_surveys-idn-2018-en</guid>
@@ -87,6 +87,36 @@
          <oe:freePreviewExport>Friday, 14 September 2018, 19:18 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>Paperback, ePub, HTML, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264305762-es</guid>
+         <pubDate>Wed, 24 Oct 2018 07:30:00 GMT</pubDate>
+         <title>Estudio de cooperación regulatoria internacional de México</title>
+         <link>https://doi.org/10.1787/9789264305762-es</link>
+         <description>Estudio de cooperación regulatoria internacional de México by Directorate for Public Governance has an embargo on Wednesday, 24 October 2018, 9:30 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-10-24T07:30:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Public Governance</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Friday, 28 September 2018, 12:26 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+         <oe:availableMedia>PDF, Paperback</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264305748-en</guid>
+         <pubDate>Wed, 24 Oct 2018 07:30:00 GMT</pubDate>
+         <title>Review of International Regulatory Co-operation of Mexico</title>
+         <link>https://doi.org/10.1787/9789264305748-en</link>
+         <description>Review of International Regulatory Co-operation of Mexico by Directorate for Public Governance has an embargo on Wednesday, 24 October 2018, 9:30 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-10-24T07:30:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Public Governance</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Tuesday, 18 September 2018, 4:36 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+         <oe:availableMedia>PDF, HTML, ePub, Paperback</oe:availableMedia>
       </item>
    </channel>
 </rss>

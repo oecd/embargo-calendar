@@ -8,17 +8,17 @@ UID:10.1787/9789264292048-en
 SUMMARY:Supporting Entrepreneurship and Innovati
  on in Higher Education in The Netherland
  s
-DESCRIPTION:Directorate: Centre for Entrepreneurship
- , SMEs and Local Development, Directorat
- e for Education and Skills\nLanguage: En
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills, Centre for Entrepreneurship, 
+ SMEs and Local Development\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264292048-en\nPublication type: Book\nRe
  leased as: ePub, PDF, Paperback, HTML.\n
- \niLibrary export: 20 September 2018, 4:
- 39 Paris time (GMT+00:00)\nFreepreview e
- xport: 28 September 2018, 19:10 Paris ti
- me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180929T055721Z
+ \niLibrary export: 29 September 2018, 5:
+ 53 Paris time (GMT+00:00)\nFreepreview e
+ xport: 1 October 2018, 19:15 Paris time 
+ (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181002T044208Z
 DTSTART:20181001T100000Z
 DTEND:20181001T101500Z
 TRANSP:TRANSPARENT
@@ -45,7 +45,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  2018, 5:39 Paris time (GMT+00:00)\nFreep
  review export: 21 September 2018, 18:41 
  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20180929T055721Z
+DTSTAMP:20181002T044208Z
 DTSTART:20181008T080000Z
 DTEND:20181008T081500Z
 TRANSP:TRANSPARENT
@@ -67,11 +67,12 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  , SMEs and Local Development\nLanguage: 
  English\nDOI: https://doi.org/10.1787/97
  89264306264-en\nPublication type: Book\n
- Released as: HTML, PDF, ePub, Paperback.
+ Released as: ePub, Paperback, HTML, PDF.
  \n\niLibrary export: 28 September 2018, 
  12:26 Paris time (GMT+00:00)\nFreeprevie
- w export: never\nFTI loaded: no.
-DTSTAMP:20180929T055721Z
+ w export: 1 October 2018, 19:15 Paris ti
+ me (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181002T044208Z
 DTSTART:20181010T030000Z
 DTEND:20181010T031500Z
 TRANSP:TRANSPARENT
@@ -96,7 +97,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  mber 2018, 5:39 Paris time (GMT+00:00)\n
  Freepreview export: never\nFTI loaded: n
  o.
-DTSTAMP:20180929T055721Z
+DTSTAMP:20181002T044208Z
 DTSTART:20181010T040000Z
 DTEND:20181010T041500Z
 TRANSP:TRANSPARENT
@@ -124,7 +125,7 @@ DESCRIPTION:Directorate: Public Affairs and Communic
  eepreview export: 14 September 2018, 19:
  18 Paris time (GMT+00:00)\nFTI loaded: ✓
  .
-DTSTAMP:20180929T055721Z
+DTSTAMP:20181002T044208Z
 DTSTART:20181018T090000Z
 DTEND:20181018T091500Z
 TRANSP:TRANSPARENT
@@ -136,6 +137,58 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Examen multidimensionnel du Sé
  négal - Volume 3. De l'analyse à l'actio
  n
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264305762-es
+SUMMARY:Estudio de cooperación regulatoria inter
+ nacional de México
+DESCRIPTION:Directorate: Directorate for Public Gove
+ rnance\nLanguage: Spanish\nDOI: https://
+ doi.org/10.1787/9789264305762-es\nPublic
+ ation type: Stand-alone monograph\nRelea
+ sed as: PDF, Paperback.\n\niLibrary expo
+ rt: 28 September 2018, 12:26 Paris time 
+ (GMT+00:00)\nFreepreview export: never\n
+ FTI loaded: no.
+DTSTAMP:20181002T044208Z
+DTSTART:20181024T073000Z
+DTEND:20181024T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Estudio de cooperación regulat
+ oria internacional de México
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264305748-en
+SUMMARY:Review of International Regulatory Co-op
+ eration of Mexico
+DESCRIPTION:Directorate: Directorate for Public Gove
+ rnance\nLanguage: English\nDOI: https://
+ doi.org/10.1787/9789264305748-en\nPublic
+ ation type: Stand-alone monograph\nRelea
+ sed as: PDF, HTML, ePub, Paperback.\n\ni
+ Library export: 18 September 2018, 4:36 
+ Paris time (GMT+00:00)\nFreepreview expo
+ rt: never\nFTI loaded: ✓.
+DTSTAMP:20181002T044208Z
+DTSTART:20181024T073000Z
+DTEND:20181024T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Review of International Regula
+ tory Co-operation of Mexico
 END:VALARM
 END:VEVENT
 END:VCALENDAR
