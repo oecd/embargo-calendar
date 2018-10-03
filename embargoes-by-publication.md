@@ -1,6 +1,6 @@
 # OECD publication embargoes (6 embargoes)
 
-*Data generated on Tuesday 2 October 2018 at 4:42*
+*Data generated on Wednesday 3 October 2018 at 5:04*
 
 ------
 
@@ -8,12 +8,12 @@
 
 Embargo date | Launch date
 -------------|------------
-Monday 8 October 2018 at 10:00 | no launch event
+Tuesday 9 October 2018 at 12:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
 - [x] Exported to iLibrary Saturday 22 September 2018 at 7:39
-- [x] Exported to Keepeek Friday 21 September 2018 at 20:41
+- [x] Exported to Keepeek Tuesday 2 October 2018 at 21:20
 
 ### Additional Information
 
@@ -33,7 +33,7 @@ Wednesday 10 October 2018 at 5:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 28 September 2018 at 14:26
+- [x] Exported to iLibrary Tuesday 2 October 2018 at 6:31
 - [x] Exported to Keepeek Monday 1 October 2018 at 21:15
 
 ### Additional Information
@@ -96,7 +96,7 @@ Wednesday 24 October 2018 at 9:30 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 28 September 2018 at 14:26
+- [x] Exported to iLibrary Tuesday 2 October 2018 at 6:31
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -117,7 +117,7 @@ Wednesday 24 October 2018 at 9:30 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 September 2018 at 6:36
+- [x] Exported to iLibrary Tuesday 2 October 2018 at 6:31
 - [ ] Exported to Keepeek
 
 ### Additional Information
