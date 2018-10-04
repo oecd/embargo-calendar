@@ -4,48 +4,18 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264292048-en
-SUMMARY:Supporting Entrepreneurship and Innovati
- on in Higher Education in The Netherland
- s
-DESCRIPTION:Directorate: Centre for Entrepreneurship
- , SMEs and Local Development, Directorat
- e for Education and Skills\nLanguage: En
- glish\nDOI: https://doi.org/10.1787/9789
- 264292048-en\nPublication type: Book\nRe
- leased as: ePub, PDF, Paperback.\n\niLib
- rary export: 29 September 2018, 5:53 Par
- is time (GMT+00:00)\nFreepreview export:
-  1 October 2018, 19:15 Paris time (GMT+0
- 0:00)\nFTI loaded: ✓.
-DTSTAMP:20181003T050432Z
-DTSTART:20181001T100000Z
-DTEND:20181001T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Supporting Entrepreneurship an
- d Innovation in Higher Education in The 
- Netherlands
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/reg_cit_glance-2018-en
 SUMMARY:OECD Regions and Cities at a Glance 2018
 DESCRIPTION:Directorate: Centre for Entrepreneurship
  , SMEs and Local Development\nLanguage: 
  English\nDOI: https://doi.org/10.1787/re
  g_cit_glance-2018-en\nPublication type: 
- Book\nReleased as: ePub, PDF, HTML, Pape
- rback.\n\niLibrary export: 22 September 
- 2018, 5:39 Paris time (GMT+00:00)\nFreep
- review export: 2 October 2018, 19:20 Par
- is time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181003T050432Z
+ Book\nReleased as: PDF, HTML, Paperback,
+  ePub.\n\niLibrary export: 3 October 201
+ 8, 4:48 Paris time (GMT+00:00)\nFreeprev
+ iew export: 2 October 2018, 19:20 Paris 
+ time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181004T050157Z
 DTSTART:20181009T100000Z
 DTEND:20181009T101500Z
 TRANSP:TRANSPARENT
@@ -72,7 +42,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  1 Paris time (GMT+00:00)\nFreepreview ex
  port: 1 October 2018, 19:15 Paris time (
  GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181003T050432Z
+DTSTAMP:20181004T050157Z
 DTSTART:20181010T030000Z
 DTEND:20181010T031500Z
 TRANSP:TRANSPARENT
@@ -97,7 +67,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  mber 2018, 5:39 Paris time (GMT+00:00)\n
  Freepreview export: never\nFTI loaded: n
  o.
-DTSTAMP:20181003T050432Z
+DTSTAMP:20181004T050157Z
 DTSTART:20181010T040000Z
 DTEND:20181010T041500Z
 TRANSP:TRANSPARENT
@@ -125,7 +95,7 @@ DESCRIPTION:Directorate: Public Affairs and Communic
  eepreview export: 14 September 2018, 19:
  18 Paris time (GMT+00:00)\nFTI loaded: ✓
  .
-DTSTAMP:20181003T050432Z
+DTSTAMP:20181004T050157Z
 DTSTART:20181018T090000Z
 DTEND:20181018T091500Z
 TRANSP:TRANSPARENT
@@ -152,7 +122,7 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  rt: 2 October 2018, 4:31 Paris time (GMT
  +00:00)\nFreepreview export: never\nFTI 
  loaded: no.
-DTSTAMP:20181003T050432Z
+DTSTAMP:20181004T050157Z
 DTSTART:20181024T073000Z
 DTEND:20181024T074500Z
 TRANSP:TRANSPARENT
@@ -178,7 +148,7 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  Library export: 2 October 2018, 4:31 Par
  is time (GMT+00:00)\nFreepreview export:
   never\nFTI loaded: ✓.
-DTSTAMP:20181003T050432Z
+DTSTAMP:20181004T050157Z
 DTSTART:20181024T073000Z
 DTEND:20181024T074500Z
 TRANSP:TRANSPARENT
