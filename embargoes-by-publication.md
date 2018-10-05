@@ -1,6 +1,6 @@
 # OECD publication embargoes (6 embargoes)
 
-*Data generated on Thursday 4 October 2018 at 5:01*
+*Data generated on Friday 5 October 2018 at 5:29*
 
 ------
 
@@ -53,15 +53,15 @@ Embargo date | Launch date
 Wednesday 10 October 2018 at 6:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Saturday 22 September 2018 at 7:39
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Thursday 4 October 2018 at 21:19
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Medium: *PDF*
 
