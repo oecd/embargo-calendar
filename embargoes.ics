@@ -15,7 +15,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  8, 4:48 Paris time (GMT+00:00)\nFreeprev
  iew export: 2 October 2018, 19:20 Paris 
  time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181005T053004Z
+DTSTAMP:20181006T051905Z
 DTSTART:20181009T100000Z
 DTEND:20181009T101500Z
 TRANSP:TRANSPARENT
@@ -26,6 +26,705 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Regions and Cities at a G
  lance 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/1983cece-zh
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in Chinese), 2018年OECD地区和城市概览
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ Chinese\nDOI: https://doi.org/10.1787/19
+ 83cece-zh\nPublication type: Summary\nRe
+ leased as: ePub, HTML, PDF.\n\niLibrary 
+ export: never\nFreepreview export: never
+ \nFTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in Chinese), 2018年OE
+ CD地区和城市概览
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/daab57a7-cs
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in Czech), Letmý pohled na reg
+ iony a města v roce 2018
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ Czech\nDOI: https://doi.org/10.1787/daab
+ 57a7-cs\nPublication type: Summary\nRele
+ ased as: ePub, HTML, PDF.\n\niLibrary ex
+ port: never\nFreepreview export: never\n
+ FTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in Czech), Letmý poh
+ led na regiony a města v roce 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/32bfb00e-da
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in Danish), OECD’s regioner og
+  byer i hovedtræk 2018
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ Danish\nDOI: https://doi.org/10.1787/32b
+ fb00e-da\nPublication type: Summary\nRel
+ eased as: ePub, HTML, PDF.\n\niLibrary e
+ xport: never\nFreepreview export: never\
+ nFTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in Danish), OECD’s r
+ egioner og byer i hovedtræk 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/cba686cc-nl
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in Dutch), OESO Regio’s en Ste
+ den Overzicht 2018
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ Dutch\nDOI: https://doi.org/10.1787/cba6
+ 86cc-nl\nPublication type: Summary\nRele
+ ased as: HTML, PDF, ePub.\n\niLibrary ex
+ port: never\nFreepreview export: never\n
+ FTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in Dutch), OESO Regi
+ o’s en Steden Overzicht 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/97dcb4c9-en
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in English)
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ English\nDOI: https://doi.org/10.1787/97
+ dcb4c9-en\nPublication type: Summary\nRe
+ leased as: PDF, ePub, HTML.\n\niLibrary 
+ export: never\nFreepreview export: never
+ \nFTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in English)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/23bc95f4-et
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in Estonian), OECD regioonid j
+ a linnad lähivaates 2018
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ Estonian\nDOI: https://doi.org/10.1787/2
+ 3bc95f4-et\nPublication type: Summary\nR
+ eleased as: PDF, HTML, ePub.\n\niLibrary
+  export: never\nFreepreview export: neve
+ r\nFTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in Estonian), OECD r
+ egioonid ja linnad lähivaates 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/ae3766bc-fi
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in Finnish), OECD:n alue- ja k
+ aupunkikatsaus 2018
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ Finnish\nDOI: https://doi.org/10.1787/ae
+ 3766bc-fi\nPublication type: Summary\nRe
+ leased as: PDF, HTML, ePub.\n\niLibrary 
+ export: never\nFreepreview export: never
+ \nFTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in Finnish), OECD:n 
+ alue- ja kaupunkikatsaus 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/96946629-fr
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in French), Panorama des régio
+ ns et des villes de l’OCDE
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ French\nDOI: https://doi.org/10.1787/969
+ 46629-fr\nPublication type: Summary\nRel
+ eased as: HTML, ePub, PDF.\n\niLibrary e
+ xport: never\nFreepreview export: never\
+ nFTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in French), Panorama
+  des régions et des villes de l’OCDE
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/76378634-de
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in German), OECD Regionen und 
+ Städte auf einen Blick 2018
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ German\nDOI: https://doi.org/10.1787/763
+ 78634-de\nPublication type: Summary\nRel
+ eased as: ePub, PDF, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: never\
+ nFTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in German), OECD Reg
+ ionen und Städte auf einen Blick 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/a9c72229-el
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in Greek), ΟΟΣΑ Περιφέρειες κα
+ ι Πόλεις με μια ματιά 2018
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ Greek\nDOI: https://doi.org/10.1787/a9c7
+ 2229-el\nPublication type: Summary\nRele
+ ased as: HTML, ePub, PDF.\n\niLibrary ex
+ port: never\nFreepreview export: never\n
+ FTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in Greek), ΟΟΣΑ Περι
+ φέρειες και Πόλεις με μια ματιά 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/db7591ec-he
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in Hebrew), מבט אל אזורי וערי 
+ ה-OECD לשנת 2018
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ Hebrew\nDOI: https://doi.org/10.1787/db7
+ 591ec-he\nPublication type: Summary\nRel
+ eased as: PDF, ePub, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: never\
+ nFTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in Hebrew), מבט אל א
+ זורי וערי ה-OECD לשנת 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/06a50f23-hu
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in Hungarian), OECD régiós és 
+ városi körkép 2018
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ Hungarian\nDOI: https://doi.org/10.1787/
+ 06a50f23-hu\nPublication type: Summary\n
+ Released as: ePub, HTML, PDF.\n\niLibrar
+ y export: never\nFreepreview export: nev
+ er\nFTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in Hungarian), OECD 
+ régiós és városi körkép 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/fc84dfaa-is
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in Icelandic), OECD byggðir og
+  borgir í hnotskurn 2018
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ Icelandic\nDOI: https://doi.org/10.1787/
+ fc84dfaa-is\nPublication type: Summary\n
+ Released as: PDF, HTML, ePub.\n\niLibrar
+ y export: never\nFreepreview export: nev
+ er\nFTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in Icelandic), OECD 
+ byggðir og borgir í hnotskurn 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/1df88445-it
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in Italian), Uno sguardo sulle
+  regioni e città OCSE 2018 
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ Italian\nDOI: https://doi.org/10.1787/1d
+ f88445-it\nPublication type: Summary\nRe
+ leased as: HTML, PDF, ePub.\n\niLibrary 
+ export: never\nFreepreview export: never
+ \nFTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in Italian), Uno sgu
+ ardo sulle regioni e città OCSE 2018 
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/100aa3c1-ja
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in Japanese), 図表で見る地域と都市 2018年
+ 版
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ Japanese\nDOI: https://doi.org/10.1787/1
+ 00aa3c1-ja\nPublication type: Summary\nR
+ eleased as: ePub, PDF, HTML.\n\niLibrary
+  export: never\nFreepreview export: neve
+ r\nFTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in Japanese), 図表で見る地
+ 域と都市 2018年版
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/df4c6360-ko
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in Korean), 2018년도 OECD 지역 및 도
+ 시 개요
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ Korean\nDOI: https://doi.org/10.1787/df4
+ c6360-ko\nPublication type: Summary\nRel
+ eased as: PDF, ePub, HTML.\n\niLibrary e
+ xport: never\nFreepreview export: never\
+ nFTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in Korean), 2018년도 O
+ ECD 지역 및 도시 개요
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/553eea79-lv
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in Latvian), OECD Reģionu un p
+ ilsētu apskats 2018
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ Latvian\nDOI: https://doi.org/10.1787/55
+ 3eea79-lv\nPublication type: Summary\nRe
+ leased as: HTML, PDF, ePub.\n\niLibrary 
+ export: never\nFreepreview export: never
+ \nFTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in Latvian), OECD Re
+ ģionu un pilsētu apskats 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/8da0c9b5-no
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in Norwegian), OECD-rapport om
+  regioner og byer 2018
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ Norwegian\nDOI: https://doi.org/10.1787/
+ 8da0c9b5-no\nPublication type: Summary\n
+ Released as: HTML, PDF, ePub.\n\niLibrar
+ y export: never\nFreepreview export: nev
+ er\nFTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in Norwegian), OECD-
+ rapport om regioner og byer 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/486f1e22-pl
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in Polish), Regiony i miasta O
+ ECD w zarysie 2018
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ Polish\nDOI: https://doi.org/10.1787/486
+ f1e22-pl\nPublication type: Summary\nRel
+ eased as: HTML, ePub, PDF.\n\niLibrary e
+ xport: never\nFreepreview export: never\
+ nFTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in Polish), Regiony 
+ i miasta OECD w zarysie 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/34827f58-pt
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in Portuguese), Panorama das R
+ egiões e Cidades da OCDE 2018
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ Portuguese\nDOI: https://doi.org/10.1787
+ /34827f58-pt\nPublication type: Summary\
+ nReleased as: PDF, ePub, HTML.\n\niLibra
+ ry export: never\nFreepreview export: ne
+ ver\nFTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in Portuguese), Pano
+ rama das Regiões e Cidades da OCDE 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/a9fbabed-ru
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in Russian), Панорама регионов
+  и городов ОЭСР 2018
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ Russian\nDOI: https://doi.org/10.1787/a9
+ fbabed-ru\nPublication type: Summary\nRe
+ leased as: HTML, PDF, ePub.\n\niLibrary 
+ export: never\nFreepreview export: never
+ \nFTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in Russian), Панорам
+ а регионов и городов ОЭСР 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/07e29f51-sk
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in Slovak), Prehľad o regiónoc
+ h a mestách OECD 2018
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ Slovak\nDOI: https://doi.org/10.1787/07e
+ 29f51-sk\nPublication type: Summary\nRel
+ eased as: HTML, PDF, ePub.\n\niLibrary e
+ xport: never\nFreepreview export: never\
+ nFTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in Slovak), Prehľad 
+ o regiónoch a mestách OECD 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/65de2c48-sl
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in Slovenian), Pogled OECD na 
+ regije in mesta 2018
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ Slovenian\nDOI: https://doi.org/10.1787/
+ 65de2c48-sl\nPublication type: Summary\n
+ Released as: HTML, ePub, PDF.\n\niLibrar
+ y export: never\nFreepreview export: nev
+ er\nFTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in Slovenian), Pogle
+ d OECD na regije in mesta 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/62e3c4ce-es
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in Spanish), Panorama OCDE 201
+ 8 de las Regiones y ciudades
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ Spanish\nDOI: https://doi.org/10.1787/62
+ e3c4ce-es\nPublication type: Summary\nRe
+ leased as: PDF, HTML, ePub.\n\niLibrary 
+ export: never\nFreepreview export: never
+ \nFTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in Spanish), Panoram
+ a OCDE 2018 de las Regiones y ciudades
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/f1f604e4-sv
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in Swedish), OECD:s regions- o
+ ch stadsöversikt 2018
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ Swedish\nDOI: https://doi.org/10.1787/f1
+ f604e4-sv\nPublication type: Summary\nRe
+ leased as: ePub, HTML, PDF.\n\niLibrary 
+ export: never\nFreepreview export: never
+ \nFTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in Swedish), OECD:s 
+ regions- och stadsöversikt 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/f01de667-tr
+SUMMARY:OECD Regions and Cities at a Glance 2018
+  (Summary in Turkish), 2018 Tek Bakışta 
+ OECD Bölgeleri ve Şehirleri
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ Turkish\nDOI: https://doi.org/10.1787/f0
+ 1de667-tr\nPublication type: Summary\nRe
+ leased as: ePub, HTML, PDF.\n\niLibrary 
+ export: never\nFreepreview export: never
+ \nFTI loaded: ✓.
+DTSTAMP:20181006T051905Z
+DTSTART:20181009T100000Z
+DTEND:20181009T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Regions and Cities at a G
+ lance 2018 (Summary in Turkish), 2018 Te
+ k Bakışta OECD Bölgeleri ve Şehirleri
 END:VALARM
 END:VEVENT
 
@@ -42,7 +741,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  1 Paris time (GMT+00:00)\nFreepreview ex
  port: 1 October 2018, 19:15 Paris time (
  GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181005T053004Z
+DTSTAMP:20181006T051905Z
 DTSTART:20181010T030000Z
 DTEND:20181010T031500Z
 TRANSP:TRANSPARENT
@@ -62,12 +761,12 @@ SUMMARY:OECD Economic Surveys: Indonesia 2018
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-idn-2018-en\nPublication 
- type: Economic survey\nReleased as: PDF,
-  Paperback.\n\niLibrary export: 22 Septe
- mber 2018, 5:39 Paris time (GMT+00:00)\n
- Freepreview export: 4 October 2018, 19:1
- 9 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181005T053004Z
+ type: Economic survey\nReleased as: Pape
+ rback, PDF.\n\niLibrary export: 5 Octobe
+ r 2018, 5:17 Paris time (GMT+00:00)\nFre
+ epreview export: 4 October 2018, 19:19 P
+ aris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181006T051905Z
 DTSTART:20181010T040000Z
 DTEND:20181010T041500Z
 TRANSP:TRANSPARENT
@@ -82,11 +781,235 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/9789264306042-en
+SUMMARY:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Aruba
+  2018 (Second Round) - Peer Review Repor
+ t on the Exchange of Information on Requ
+ est
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/9789264306042-en\
+ nPublication type: Book\nReleased as: Pa
+ perback, PDF.\n\niLibrary export: 19 Sep
+ tember 2018, 4:50 Paris time (GMT+00:00)
+ \nFreepreview export: never\nFTI loaded:
+  no.
+DTSTAMP:20181006T051905Z
+DTSTART:20181015T090000Z
+DTEND:20181015T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Forum on Transparency a
+ nd Exchange of Information for Tax Purpo
+ ses: Aruba 2018 (Second Round) - Peer Re
+ view Report on the Exchange of Informati
+ on on Request
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264306059-en
+SUMMARY:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Austr
+ ia 2018 (Second Round) - Peer Review Rep
+ ort on the Exchange of Information on Re
+ quest
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/9789264306059-en\
+ nPublication type: Book\nReleased as: PD
+ F, Paperback.\n\niLibrary export: 20 Sep
+ tember 2018, 4:39 Paris time (GMT+00:00)
+ \nFreepreview export: never\nFTI loaded:
+  no.
+DTSTAMP:20181006T051905Z
+DTSTART:20181015T090000Z
+DTEND:20181015T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Forum on Transparency a
+ nd Exchange of Information for Tax Purpo
+ ses: Austria 2018 (Second Round) - Peer 
+ Review Report on the Exchange of Informa
+ tion on Request
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264306080-en
+SUMMARY:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Bahra
+ in 2018 (Second Round) - Peer Review Rep
+ ort on the Exchange of Information on Re
+ quest
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/9789264306080-en\
+ nPublication type: Book\nReleased as: PD
+ F, Paperback.\n\niLibrary export: 20 Sep
+ tember 2018, 4:39 Paris time (GMT+00:00)
+ \nFreepreview export: never\nFTI loaded:
+  no.
+DTSTAMP:20181006T051905Z
+DTSTART:20181015T090000Z
+DTEND:20181015T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Forum on Transparency a
+ nd Exchange of Information for Tax Purpo
+ ses: Bahrain 2018 (Second Round) - Peer 
+ Review Report on the Exchange of Informa
+ tion on Request
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264306103-en
+SUMMARY:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Brazi
+ l 2018 (Second Round) - Peer Review Repo
+ rt on the Exchange of Information on Req
+ uest
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/9789264306103-en\
+ nPublication type: Book\nReleased as: PD
+ F, Paperback.\n\niLibrary export: 20 Sep
+ tember 2018, 4:39 Paris time (GMT+00:00)
+ \nFreepreview export: never\nFTI loaded:
+  no.
+DTSTAMP:20181006T051905Z
+DTSTART:20181015T090000Z
+DTEND:20181015T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Forum on Transparency a
+ nd Exchange of Information for Tax Purpo
+ ses: Brazil 2018 (Second Round) - Peer R
+ eview Report on the Exchange of Informat
+ ion on Request
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264306141-en
+SUMMARY:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Saint
+  Kitts and Nevis 2018 (Second Round) - P
+ eer Review Report on the Exchange of Inf
+ ormation on Request
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/9789264306141-en\
+ nPublication type: Book\nReleased as: PD
+ F, Paperback.\n\niLibrary export: 20 Sep
+ tember 2018, 4:39 Paris time (GMT+00:00)
+ \nFreepreview export: never\nFTI loaded:
+  no.
+DTSTAMP:20181006T051905Z
+DTSTART:20181015T090000Z
+DTEND:20181015T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Forum on Transparency a
+ nd Exchange of Information for Tax Purpo
+ ses: Saint Kitts and Nevis 2018 (Second 
+ Round) - Peer Review Report on the Excha
+ nge of Information on Request
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264306165-en
+SUMMARY:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Singa
+ pore 2018 (Second Round) - Peer Review R
+ eport on the Exchange of Information on 
+ Request
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/9789264306165-en\
+ nPublication type: Book\nReleased as: PD
+ F, Paperback.\n\niLibrary export: 20 Sep
+ tember 2018, 4:39 Paris time (GMT+00:00)
+ \nFreepreview export: never\nFTI loaded:
+  no.
+DTSTAMP:20181006T051905Z
+DTSTART:20181015T090000Z
+DTEND:20181015T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Forum on Transparency a
+ nd Exchange of Information for Tax Purpo
+ ses: Singapore 2018 (Second Round) - Pee
+ r Review Report on the Exchange of Infor
+ mation on Request
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264306189-en
+SUMMARY:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Unite
+ d Kingdom 2018 (Second Round) - Peer Rev
+ iew Report on the Exchange of Informatio
+ n on Request
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/9789264306189-en\
+ nPublication type: Book\nReleased as: PD
+ F, Paperback.\n\niLibrary export: 20 Sep
+ tember 2018, 4:39 Paris time (GMT+00:00)
+ \nFreepreview export: never\nFTI loaded:
+  no.
+DTSTAMP:20181006T051905Z
+DTSTART:20181015T090000Z
+DTEND:20181015T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Forum on Transparency a
+ nd Exchange of Information for Tax Purpo
+ ses: United Kingdom 2018 (Second Round) 
+ - Peer Review Report on the Exchange of 
+ Information on Request
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264300347-fr
 SUMMARY:Examen multidimensionnel du Sénégal - Vo
  lume 3. De l'analyse à l'action
-DESCRIPTION:Directorate: Public Affairs and Communic
- ations Directorate, Development Centre\n
+DESCRIPTION:Directorate: Development Centre, Public 
+ Affairs and Communications Directorate\n
  Language: French\nDOI: https://doi.org/1
  0.1787/9789264300347-fr\nPublication typ
  e: Book\nReleased as: Paperback, ePub, H
@@ -95,7 +1018,7 @@ DESCRIPTION:Directorate: Public Affairs and Communic
  eepreview export: 14 September 2018, 19:
  18 Paris time (GMT+00:00)\nFTI loaded: ✓
  .
-DTSTAMP:20181005T053004Z
+DTSTAMP:20181006T051905Z
 DTSTART:20181018T090000Z
 DTEND:20181018T091500Z
 TRANSP:TRANSPARENT
@@ -122,7 +1045,7 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  rt: 2 October 2018, 4:31 Paris time (GMT
  +00:00)\nFreepreview export: never\nFTI 
  loaded: no.
-DTSTAMP:20181005T053004Z
+DTSTAMP:20181006T051905Z
 DTSTART:20181024T073000Z
 DTEND:20181024T074500Z
 TRANSP:TRANSPARENT
@@ -148,7 +1071,7 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  Library export: 2 October 2018, 4:31 Par
  is time (GMT+00:00)\nFreepreview export:
   never\nFTI loaded: ✓.
-DTSTAMP:20181005T053004Z
+DTSTAMP:20181006T051905Z
 DTSTART:20181024T073000Z
 DTEND:20181024T074500Z
 TRANSP:TRANSPARENT
