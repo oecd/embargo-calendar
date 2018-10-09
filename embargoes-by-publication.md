@@ -1,6 +1,6 @@
-# OECD publication embargoes (39 embargoes)
+# OECD publication embargoes (43 embargoes)
 
-*Data generated on Saturday 6 October 2018 at 5:18*
+*Data generated on Tuesday 9 October 2018 at 5:01*
 
 ------
 
@@ -34,13 +34,13 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Chinese*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -55,13 +55,13 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Czech*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -76,13 +76,13 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Danish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -97,13 +97,13 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Dutch*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -118,13 +118,13 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -139,13 +139,13 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Estonian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -160,13 +160,13 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Finnish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -181,13 +181,13 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -202,13 +202,13 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *German*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -223,13 +223,13 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Greek*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -244,13 +244,13 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Hebrew*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -265,13 +265,13 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Hungarian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -286,13 +286,13 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Icelandic*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -307,13 +307,13 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Italian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -328,13 +328,13 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Japanese*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -349,13 +349,13 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Korean*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -370,13 +370,13 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Latvian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -391,13 +391,13 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Norwegian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -412,13 +412,13 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Polish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -433,13 +433,13 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Portuguese*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -454,13 +454,13 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Russian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -475,13 +475,13 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Slovak*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -496,13 +496,13 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Slovenian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -517,13 +517,13 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -538,13 +538,13 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Swedish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
@@ -559,35 +559,56 @@ Tuesday 9 October 2018 at 12:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *Turkish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Medium: *PDF*
 
 ------
 
-## [SME and Entrepreneurship Policy in Indonesia 2018](https://doi.org/10.1787/9789264306264-en)
+## [Enhancing dynamism in SMEs and entrepreneurship in Korea](https://doi.org/10.1787/ced4b0e9-en)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 10 October 2018 at 5:00 | no launch event
+Wednesday 10 October 2018 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 2 October 2018 at 6:31
-- [x] Exported to Keepeek Monday 1 October 2018 at 21:15
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
-* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Book*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Reforming the large business groups to promote productivity and inclusion in Korea](https://doi.org/10.1787/9e9052b5-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 10 October 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
@@ -596,12 +617,12 @@ Wednesday 10 October 2018 at 5:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 10 October 2018 at 6:00 | no launch event
+Wednesday 10 October 2018 at 4:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 October 2018 at 7:17
-- [x] Exported to Keepeek Thursday 4 October 2018 at 21:19
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
@@ -613,6 +634,69 @@ Wednesday 10 October 2018 at 6:00 | no launch event
 
 ------
 
+## [SME and Entrepreneurship Policy in Indonesia 2018](https://doi.org/10.1787/9789264306264-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 10 October 2018 at 4:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 6 October 2018 at 7:14
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [How do admission systems affect enrolment in public tertiary education?](https://doi.org/10.1787/41bf120b-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 10 October 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Resource curse in oil exporting countries](https://doi.org/10.1787/a5012a3d-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 11 October 2018 at 2:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
 ## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Aruba 2018 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9789264306042-en)
 
 Embargo date | Launch date
@@ -620,15 +704,15 @@ Embargo date | Launch date
 Monday 15 October 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 19 September 2018 at 6:50
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 6 October 2018 at 7:14
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -641,15 +725,15 @@ Embargo date | Launch date
 Monday 15 October 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 20 September 2018 at 6:39
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 6 October 2018 at 7:14
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -662,15 +746,15 @@ Embargo date | Launch date
 Monday 15 October 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 20 September 2018 at 6:39
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 6 October 2018 at 7:14
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -683,15 +767,15 @@ Embargo date | Launch date
 Monday 15 October 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 20 September 2018 at 6:39
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 6 October 2018 at 7:14
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -704,15 +788,15 @@ Embargo date | Launch date
 Monday 15 October 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 20 September 2018 at 6:39
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 6 October 2018 at 7:14
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -725,15 +809,15 @@ Embargo date | Launch date
 Monday 15 October 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 20 September 2018 at 6:39
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 6 October 2018 at 7:14
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -746,15 +830,15 @@ Embargo date | Launch date
 Monday 15 October 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 20 September 2018 at 6:39
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 6 October 2018 at 7:14
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -811,12 +895,12 @@ Wednesday 24 October 2018 at 9:30 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 2 October 2018 at 6:31
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
