@@ -1,69 +1,6 @@
-# OECD publication embargoes (14 embargoes)
+# OECD publication embargoes (11 embargoes)
 
-*Data generated on Wednesday 10 October 2018 at 4:53*
-
-------
-
-## [Education systems, education reforms, and adult skills in the Survey of Adult Skills (PIAAC)](https://doi.org/10.1787/bef85c7d-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 10 October 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [x] Exported to Keepeek Tuesday 9 October 2018 at 21:27
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [How do admission systems affect enrolment in public tertiary education?](https://doi.org/10.1787/41bf120b-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 10 October 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 October 2018 at 6:49
-- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [Resource curse in oil exporting countries](https://doi.org/10.1787/a5012a3d-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 11 October 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 October 2018 at 6:49
-- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Thursday 11 October 2018 at 4:45*
 
 ------
 
@@ -75,7 +12,7 @@ Thursday 11 October 2018 at 17:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 10 October 2018 at 6:37
 - [x] Exported to Keepeek Tuesday 9 October 2018 at 21:27
 
 ### Additional Information
@@ -235,27 +172,6 @@ Monday 15 October 2018 at 11:00 | no launch event
 
 ------
 
-## [Examen multidimensionnel du Sénégal - Volume 3. De l'analyse à l'action](https://doi.org/10.1787/9789264300347-fr)
-
-Embargo date | Launch date
--------------|------------
-Thursday 18 October 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 September 2018 at 6:36
-- [x] Exported to Keepeek Friday 14 September 2018 at 21:18
-
-### Additional Information
-
-* Directorate: *Development Centre, Public Affairs and Communications Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
 ## [Estudio de cooperación regulatoria internacional de México](https://doi.org/10.1787/9789264305762-es)
 
 Embargo date | Launch date
@@ -294,4 +210,25 @@ Wednesday 24 October 2018 at 9:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [Examen multidimensionnel du Sénégal - Volume 3. De l'analyse à l'action](https://doi.org/10.1787/9789264300347-fr)
+
+Embargo date | Launch date
+-------------|------------
+Monday 5 November 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 September 2018 at 6:36
+- [x] Exported to Keepeek Wednesday 10 October 2018 at 21:27
+
+### Additional Information
+
+* Directorate: *Public Affairs and Communications Directorate, Development Centre*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
 * Medium: *PDF*

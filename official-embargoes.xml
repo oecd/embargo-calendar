@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2018-10-10T04:53:44.4309597+02:00" count="451">
+<report name="official-embargoes" generated="2018-10-11T04:45:08.5665875+02:00" count="451">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -17,6 +17,70 @@
     <cell name="fti loaded?">FTI Loaded?</cell>
   </row>
   <row index="1">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="doi">10.1787/9789264300347-fr</cell>
+    <cell name="title">Examen multidimensionnel du Sénégal (fr)</cell>
+    <cell name="subtitle">Volume 3. De l'analyse à l'action (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-05</cell>
+    <cell name="embargo date">2018-11-05T10:00:00Z</cell>
+    <cell name="launch date/time">2018-10-18T09:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-09-18T04:36:43.9Z</cell>
+    <cell name="freepreview last export date">2018-10-10T19:27:18Z</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="2">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="doi">10.1787/9789264300347-fr</cell>
+    <cell name="title">Examen multidimensionnel du Sénégal (fr)</cell>
+    <cell name="subtitle">Volume 3. De l'analyse à l'action (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-11-05</cell>
+    <cell name="embargo date">2018-11-05T10:00:00Z</cell>
+    <cell name="launch date/time">2018-11-05T10:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="3">
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="doi">10.1787/9789264300347-fr</cell>
+    <cell name="title">Examen multidimensionnel du Sénégal (fr)</cell>
+    <cell name="subtitle">Volume 3. De l'analyse à l'action (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-05</cell>
+    <cell name="embargo date">2018-11-05T10:00:00Z</cell>
+    <cell name="launch date/time">2018-10-18T09:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-09-18T04:36:43.9Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="4">
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="doi">10.1787/9789264300347-fr</cell>
+    <cell name="title">Examen multidimensionnel du Sénégal (fr)</cell>
+    <cell name="subtitle">Volume 3. De l'analyse à l'action (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-05</cell>
+    <cell name="embargo date">2018-11-05T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-09-18T04:36:43.9Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="5">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305748-2-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -32,7 +96,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="2">
+  <row index="6">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305748-4-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -48,7 +112,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="3">
+  <row index="7">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305748-10-en</cell>
     <cell name="title">Bilateral mutual recognition agreements of professional qualifications (en)</cell>
@@ -64,7 +128,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="4">
+  <row index="8">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305748-7-en</cell>
     <cell name="title">Co-operative international regulatory co-operation efforts: how Mexico engages internationally on regulatory matters (en)</cell>
@@ -80,7 +144,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="5">
+  <row index="9">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305748-9-en</cell>
     <cell name="title">Co-operative non-governmental arrangements between conformity assessment bodies (en)</cell>
@@ -96,7 +160,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="6">
+  <row index="10">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305762-es</cell>
     <cell name="title">Estudio de cooperación regulatoria internacional de México (es)</cell>
@@ -112,7 +176,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="7">
+  <row index="11">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305762-es</cell>
     <cell name="title">Estudio de cooperación regulatoria internacional de México (es)</cell>
@@ -128,7 +192,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="8">
+  <row index="12">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305748-8-en</cell>
     <cell name="title">Examples of MoUs concluded by Mexico (en)</cell>
@@ -144,7 +208,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="9">
+  <row index="13">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305748-3-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -160,7 +224,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="10">
+  <row index="14">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305748-1-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -176,7 +240,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="11">
+  <row index="15">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305748-en</cell>
     <cell name="title">Review of International Regulatory Co-operation of Mexico (en)</cell>
@@ -192,7 +256,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="12">
+  <row index="16">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305748-en</cell>
     <cell name="title">Review of International Regulatory Co-operation of Mexico (en)</cell>
@@ -208,7 +272,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="13">
+  <row index="17">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305748-en</cell>
     <cell name="title">Review of International Regulatory Co-operation of Mexico (en)</cell>
@@ -224,7 +288,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="14">
+  <row index="18">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305748-en</cell>
     <cell name="title">Review of International Regulatory Co-operation of Mexico (en)</cell>
@@ -240,7 +304,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="15">
+  <row index="19">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305748-5-en</cell>
     <cell name="title">The context of international regulatory co-operation policies and practices in Mexico (en)</cell>
@@ -256,7 +320,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="16">
+  <row index="20">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305748-6-en</cell>
     <cell name="title">Unilateral approaches to international regulatory co-operation: how Mexico embeds international considerations in its domestic rule-making processes (en)</cell>
@@ -272,7 +336,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="17">
+  <row index="21">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9789264303911-en</cell>
     <cell name="title">Australian Services Trade in the Global Economy (en)</cell>
@@ -288,7 +352,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="18">
+  <row index="22">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9789264303911-en</cell>
     <cell name="title">Australian Services Trade in the Global Economy (en)</cell>
@@ -304,7 +368,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="19">
+  <row index="23">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-1-fr</cell>
     <cell name="title">Avant-propos (fr)</cell>
@@ -320,7 +384,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="20">
+  <row index="24">
     <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-1-fr</cell>
     <cell name="title">Avant-propos (fr)</cell>
@@ -332,11 +396,11 @@
     <cell name="embargo date">2018-10-18T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-09-15T05:32:25.65Z</cell>
-    <cell name="freepreview last export date">2018-09-14T19:18:16Z</cell>
+    <cell name="freepreview last export date">2018-10-10T19:27:18Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="21">
+  <row index="25">
     <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-graph11-fr</cell>
     <cell name="title">En fin de scolarité primaire, environ 40 % des élèves sénégalais n'ont pas atteint le seuil suffisant de compétences (fr)</cell>
@@ -348,76 +412,12 @@
     <cell name="embargo date">2018-10-18T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-09-15T05:32:25.65Z</cell>
-    <cell name="freepreview last export date">2018-09-14T19:18:16Z</cell>
+    <cell name="freepreview last export date">2018-10-10T19:27:18Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="22">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
-    <cell name="doi">10.1787/9789264300347-fr</cell>
-    <cell name="title">Examen multidimensionnel du Sénégal (fr)</cell>
-    <cell name="subtitle">Volume 3. De l'analyse à l'action (fr)</cell>
-    <cell name="language">French</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-10-18</cell>
-    <cell name="embargo date">2018-10-18T09:00:00Z</cell>
-    <cell name="launch date/time">2018-09-18T09:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="23">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
-    <cell name="doi">10.1787/9789264300347-fr</cell>
-    <cell name="title">Examen multidimensionnel du Sénégal (fr)</cell>
-    <cell name="subtitle">Volume 3. De l'analyse à l'action (fr)</cell>
-    <cell name="language">French</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-18</cell>
-    <cell name="embargo date">2018-10-18T09:00:00Z</cell>
-    <cell name="launch date/time">2018-10-18T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-09-18T04:36:43.9Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="24">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
-    <cell name="doi">10.1787/9789264300347-fr</cell>
-    <cell name="title">Examen multidimensionnel du Sénégal (fr)</cell>
-    <cell name="subtitle">Volume 3. De l'analyse à l'action (fr)</cell>
-    <cell name="language">French</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-18</cell>
-    <cell name="embargo date">2018-10-18T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-09-18T04:36:43.9Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="25">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
-    <cell name="doi">10.1787/9789264300347-fr</cell>
-    <cell name="title">Examen multidimensionnel du Sénégal (fr)</cell>
-    <cell name="subtitle">Volume 3. De l'analyse à l'action (fr)</cell>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-18</cell>
-    <cell name="embargo date">2018-10-18T09:00:00Z</cell>
-    <cell name="launch date/time">2018-10-18T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-09-18T04:36:43.9Z</cell>
-    <cell name="freepreview last export date">2018-09-14T19:18:16Z</cell>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
   <row index="26">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-graph3-fr</cell>
     <cell name="title">La croissance économique et le PIB par tête repartent à la hausse (fr)</cell>
     <cell name="subtitle"/>
@@ -428,12 +428,12 @@
     <cell name="embargo date">2018-10-18T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-09-15T05:32:25.65Z</cell>
-    <cell name="freepreview last export date">2018-09-14T19:18:16Z</cell>
+    <cell name="freepreview last export date">2018-10-10T19:27:18Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="27">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-graph13-fr</cell>
     <cell name="title">La structure fiscale du Sénégal repose principalement sur les impôts sur la consommation (fr)</cell>
     <cell name="subtitle">En pourcentage des recettes fiscales (fr)</cell>
@@ -444,7 +444,7 @@
     <cell name="embargo date">2018-10-18T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-09-15T05:32:25.65Z</cell>
-    <cell name="freepreview last export date">2018-09-14T19:18:16Z</cell>
+    <cell name="freepreview last export date">2018-10-10T19:27:18Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -460,12 +460,12 @@
     <cell name="embargo date">2018-10-18T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-09-15T05:32:25.65Z</cell>
-    <cell name="freepreview last export date">2018-09-14T19:18:16Z</cell>
+    <cell name="freepreview last export date">2018-10-10T19:27:18Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="29">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-graph4-fr</cell>
     <cell name="title">Le Sénégal est l'un des pays qui affichent le nombre le plus élevé de paiement d'impôts (fr)</cell>
     <cell name="subtitle">Nombre de paiements d'impôts et taxes (fr)</cell>
@@ -476,7 +476,7 @@
     <cell name="embargo date">2018-10-18T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-09-15T05:32:25.65Z</cell>
-    <cell name="freepreview last export date">2018-09-14T19:18:16Z</cell>
+    <cell name="freepreview last export date">2018-10-10T19:27:18Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -492,7 +492,7 @@
     <cell name="embargo date">2018-10-18T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-09-15T05:32:25.65Z</cell>
-    <cell name="freepreview last export date">2018-09-14T19:18:16Z</cell>
+    <cell name="freepreview last export date">2018-10-10T19:27:18Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -508,7 +508,7 @@
     <cell name="embargo date">2018-10-18T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-09-15T05:32:25.65Z</cell>
-    <cell name="freepreview last export date">2018-09-14T19:18:16Z</cell>
+    <cell name="freepreview last export date">2018-10-10T19:27:18Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
@@ -529,7 +529,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="33">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-graph1-fr</cell>
     <cell name="title">Le taux de fertilité du Sénégal est élevé compte tenu de son niveau de développement (fr)</cell>
     <cell name="subtitle">Taux de fertilité mesuré par le nombre de naissances par femme (fr)</cell>
@@ -540,12 +540,12 @@
     <cell name="embargo date">2018-10-18T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-09-15T05:32:25.65Z</cell>
-    <cell name="freepreview last export date">2018-09-14T19:18:16Z</cell>
+    <cell name="freepreview last export date">2018-10-10T19:27:18Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="34">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-graph5-fr</cell>
     <cell name="title">Les degrés de satisfaction des Sénégalais à l'égard des services éducatifs et de santé sont parmi les plus bas (fr)</cell>
     <cell name="subtitle"/>
@@ -556,12 +556,12 @@
     <cell name="embargo date">2018-10-18T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-09-15T05:32:25.65Z</cell>
-    <cell name="freepreview last export date">2018-09-14T19:18:16Z</cell>
+    <cell name="freepreview last export date">2018-10-10T19:27:18Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="35">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-graph9-fr</cell>
     <cell name="title">Les dépenses en éducation du Sénégal correspondent aux standards internationaux (fr)</cell>
     <cell name="subtitle">Dépenses en éducation en pourcentage du PIB (fr)</cell>
@@ -572,7 +572,7 @@
     <cell name="embargo date">2018-10-18T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-09-15T05:32:25.65Z</cell>
-    <cell name="freepreview last export date">2018-09-14T19:18:16Z</cell>
+    <cell name="freepreview last export date">2018-10-10T19:27:18Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -588,7 +588,7 @@
     <cell name="embargo date">2018-10-18T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-09-15T05:32:25.65Z</cell>
-    <cell name="freepreview last export date">2018-09-14T19:18:16Z</cell>
+    <cell name="freepreview last export date">2018-10-10T19:27:18Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -604,7 +604,7 @@
     <cell name="embargo date">2018-10-18T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-09-15T05:32:25.65Z</cell>
-    <cell name="freepreview last export date">2018-09-14T19:18:16Z</cell>
+    <cell name="freepreview last export date">2018-10-10T19:27:18Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -620,7 +620,7 @@
     <cell name="embargo date">2018-10-18T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-09-15T05:32:25.65Z</cell>
-    <cell name="freepreview last export date">2018-09-14T19:18:16Z</cell>
+    <cell name="freepreview last export date">2018-10-10T19:27:18Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -636,12 +636,12 @@
     <cell name="embargo date">2018-10-18T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-09-15T05:32:25.65Z</cell>
-    <cell name="freepreview last export date">2018-09-14T19:18:16Z</cell>
+    <cell name="freepreview last export date">2018-10-10T19:27:18Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="40">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-graph8-fr</cell>
     <cell name="title">Les procédures administratives de base sont lentes au Sénégal (fr)</cell>
     <cell name="subtitle">Jours nécessaires pour obtenir un service en 2017 (fr)</cell>
@@ -652,7 +652,7 @@
     <cell name="embargo date">2018-10-18T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-09-15T05:32:25.65Z</cell>
-    <cell name="freepreview last export date">2018-09-14T19:18:16Z</cell>
+    <cell name="freepreview last export date">2018-10-10T19:27:18Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
@@ -673,7 +673,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="42">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-5-fr</cell>
     <cell name="title">Plan d'action des recommandations pour le Sénégal et proposition de mise en œuvre (fr)</cell>
     <cell name="subtitle"/>
@@ -684,12 +684,12 @@
     <cell name="embargo date">2018-10-18T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-09-15T05:32:25.65Z</cell>
-    <cell name="freepreview last export date">2018-09-14T19:18:16Z</cell>
+    <cell name="freepreview last export date">2018-10-10T19:27:18Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="43">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-4-fr</cell>
     <cell name="title">Quelles priorités pour l'Émergence du Sénégal ? Synthèse des travaux analytiques (fr)</cell>
     <cell name="subtitle"/>
@@ -705,7 +705,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="44">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-4-fr</cell>
     <cell name="title">Quelles priorités pour l'Émergence du Sénégal ? Synthèse des travaux analytiques (fr)</cell>
     <cell name="subtitle"/>
@@ -716,12 +716,12 @@
     <cell name="embargo date">2018-10-18T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-09-15T05:32:25.65Z</cell>
-    <cell name="freepreview last export date">2018-09-14T19:18:16Z</cell>
+    <cell name="freepreview last export date">2018-10-10T19:27:18Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="45">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-3-fr</cell>
     <cell name="title">Résumé (fr)</cell>
     <cell name="subtitle"/>
@@ -737,7 +737,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="46">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-3-fr</cell>
     <cell name="title">Résumé (fr)</cell>
     <cell name="subtitle"/>
@@ -748,7 +748,7 @@
     <cell name="embargo date">2018-10-18T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-09-15T05:32:25.65Z</cell>
-    <cell name="freepreview last export date">2018-09-14T19:18:16Z</cell>
+    <cell name="freepreview last export date">2018-10-10T19:27:18Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
@@ -764,12 +764,12 @@
     <cell name="embargo date">2018-10-18T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-09-15T05:32:25.65Z</cell>
-    <cell name="freepreview last export date">2018-09-14T19:18:16Z</cell>
+    <cell name="freepreview last export date">2018-10-10T19:27:18Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="48">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-2-fr</cell>
     <cell name="title">Sigles et acronymes (fr)</cell>
     <cell name="subtitle"/>
@@ -1019,7 +1019,7 @@
     <cell name="date of publication">2018-10-11</cell>
     <cell name="embargo date">2018-10-11T15:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-10T04:37:08.6128642Z</cell>
     <cell name="freepreview last export date">2018-10-09T19:27:27Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓, ✓</cell>
@@ -1051,7 +1051,7 @@
     <cell name="date of publication">2018-10-10</cell>
     <cell name="embargo date">2018-10-10T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-10T04:37:08.6128642Z</cell>
     <cell name="freepreview last export date">2018-10-09T19:27:27Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓, ✓</cell>
@@ -1622,22 +1622,6 @@
     <cell name="title">OECD Economic Surveys: Indonesia 2018 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-10</cell>
-    <cell name="embargo date">2018-10-10T02:00:00Z</cell>
-    <cell name="launch date/time">2018-10-10T02:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-10-09T04:49:39.023Z</cell>
-    <cell name="freepreview last export date">2018-10-09T19:27:27Z</cell>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="102">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_surveys-idn-2018-en</cell>
-    <cell name="title">OECD Economic Surveys: Indonesia 2018 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2018-10-10</cell>
@@ -1647,6 +1631,22 @@
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
+  </row>
+  <row index="102">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-idn-2018-en</cell>
+    <cell name="title">OECD Economic Surveys: Indonesia 2018 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-10</cell>
+    <cell name="embargo date">2018-10-10T02:00:00Z</cell>
+    <cell name="launch date/time">2018-10-10T02:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-10-10T04:37:06.747Z</cell>
+    <cell name="freepreview last export date">2018-10-10T19:27:18Z</cell>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?">✓</cell>
   </row>
   <row index="103">
     <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
@@ -1974,7 +1974,7 @@
     <cell name="title">SME and Entrepreneurship Policy in Indonesia 2018 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
+    <cell name="medium">ePub</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-10</cell>
     <cell name="embargo date">2018-10-10T02:00:00Z</cell>
@@ -1990,15 +1990,15 @@
     <cell name="title">SME and Entrepreneurship Policy in Indonesia 2018 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
+    <cell name="medium">Paperback</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-10</cell>
     <cell name="embargo date">2018-10-10T02:00:00Z</cell>
     <cell name="launch date/time">2018-10-10T02:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-10-09T04:49:39.023Z</cell>
-    <cell name="freepreview last export date">2018-10-08T19:30:55Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date">2018-10-10T19:27:18Z</cell>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
+    <cell name="fti loaded?"/>
   </row>
   <row index="125">
     <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
@@ -2006,7 +2006,7 @@
     <cell name="title">SME and Entrepreneurship Policy in Indonesia 2018 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">ePub</cell>
+    <cell name="medium">HTML</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-10</cell>
     <cell name="embargo date">2018-10-10T02:00:00Z</cell>
@@ -2022,15 +2022,15 @@
     <cell name="title">SME and Entrepreneurship Policy in Indonesia 2018 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-10</cell>
     <cell name="embargo date">2018-10-10T02:00:00Z</cell>
     <cell name="launch date/time">2018-10-10T02:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-10-09T04:49:39.023Z</cell>
+    <cell name="freepreview last export date">2018-10-10T19:27:18Z</cell>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
   </row>
   <row index="127">
     <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
@@ -4219,7 +4219,7 @@
     <cell name="date of publication">2018-10-09</cell>
     <cell name="embargo date">2018-10-09T10:00:00Z</cell>
     <cell name="launch date/time">2018-10-09T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-10-03T04:48:12.007Z</cell>
+    <cell name="ilibrary last export date">2018-10-10T04:37:06.747Z</cell>
     <cell name="freepreview last export date">2018-10-09T19:27:27Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
@@ -4235,7 +4235,7 @@
     <cell name="date of publication">2018-10-09</cell>
     <cell name="embargo date">2018-10-09T10:00:00Z</cell>
     <cell name="launch date/time">2018-10-09T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-10-03T04:48:12.007Z</cell>
+    <cell name="ilibrary last export date">2018-10-10T04:37:06.747Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
@@ -4267,7 +4267,7 @@
     <cell name="date of publication">2018-10-09</cell>
     <cell name="embargo date">2018-10-09T10:00:00Z</cell>
     <cell name="launch date/time">2018-10-09T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-10-03T04:48:12.007Z</cell>
+    <cell name="ilibrary last export date">2018-10-10T04:37:06.747Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
