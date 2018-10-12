@@ -1,23 +1,23 @@
-# OECD publication embargoes (11 embargoes)
+# OECD publication embargoes (14 embargoes)
 
-*Data generated on Thursday 11 October 2018 at 4:45*
+*Data generated on Friday 12 October 2018 at 5:14*
 
 ------
 
-## [The Potential Macroeconomic and Sectoral Consequences of Brexit on Ireland](https://doi.org/10.1787/e930967b-en)
+## [The gender gap in educational outcomes in Norway](https://doi.org/10.1787/f8ef1489-en)
 
 Embargo date | Launch date
 -------------|------------
-Thursday 11 October 2018 at 17:00 | no launch event
+Friday 12 October 2018 at 9:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 10 October 2018 at 6:37
-- [x] Exported to Keepeek Tuesday 9 October 2018 at 21:27
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Thursday 11 October 2018 at 21:23
 
 ### Additional Information
 
-* Directorate: *Economics Department*
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
@@ -172,6 +172,48 @@ Monday 15 October 2018 at 11:00 | no launch event
 
 ------
 
+## [L'apprentissage et l'alternance en sept questions - Leçons des expériences internationales](https://doi.org/10.1787/9789264307513-fr)
+
+Embargo date | Launch date
+-------------|------------
+Monday 15 October 2018 at 15:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Seven Questions about Apprenticeships - Answers from International Experience](https://doi.org/10.1787/9789264306486-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 15 October 2018 at 15:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 6 October 2018 at 7:14
+- [x] Exported to Keepeek Thursday 11 October 2018 at 21:23
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
 ## [Estudio de cooperación regulatoria internacional de México](https://doi.org/10.1787/9789264305762-es)
 
 Embargo date | Launch date
@@ -214,6 +256,27 @@ Wednesday 24 October 2018 at 9:30 | no launch event
 
 ------
 
+## [Revenue Statistics in Africa 2018, Statistiques des recettes publiques en Afrique 2018](https://doi.org/10.1787/9789264305885-en-fr)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 31 October 2018 at 10:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 9 October 2018 at 6:49
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration, Development Centre*
+* Language: *English, French*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
 ## [Examen multidimensionnel du Sénégal - Volume 3. De l'analyse à l'action](https://doi.org/10.1787/9789264300347-fr)
 
 Embargo date | Launch date
@@ -222,7 +285,7 @@ Monday 5 November 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 September 2018 at 6:36
+- [x] Exported to iLibrary Thursday 11 October 2018 at 6:29
 - [x] Exported to Keepeek Wednesday 10 October 2018 at 21:27
 
 ### Additional Information
