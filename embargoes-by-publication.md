@@ -1,27 +1,6 @@
 # OECD publication embargoes (14 embargoes)
 
-*Data generated on Friday 12 October 2018 at 5:14*
-
-------
-
-## [The gender gap in educational outcomes in Norway](https://doi.org/10.1787/f8ef1489-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 12 October 2018 at 9:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [x] Exported to Keepeek Thursday 11 October 2018 at 21:23
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Saturday 13 October 2018 at 6:11*
 
 ------
 
@@ -160,7 +139,7 @@ Monday 15 October 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 9 October 2018 at 6:49
-- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
+- [x] Exported to Keepeek Friday 12 October 2018 at 21:22
 
 ### Additional Information
 
@@ -180,7 +159,7 @@ Monday 15 October 2018 at 15:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 12 October 2018 at 7:01
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -201,7 +180,7 @@ Monday 15 October 2018 at 15:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 6 October 2018 at 7:14
+- [x] Exported to iLibrary Friday 12 October 2018 at 7:01
 - [x] Exported to Keepeek Thursday 11 October 2018 at 21:23
 
 ### Additional Information
@@ -243,7 +222,7 @@ Wednesday 24 October 2018 at 9:30 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 October 2018 at 6:49
+- [x] Exported to iLibrary Friday 12 October 2018 at 7:01
 - [x] Exported to Keepeek Monday 8 October 2018 at 21:30
 
 ### Additional Information
@@ -263,15 +242,15 @@ Embargo date | Launch date
 Wednesday 31 October 2018 at 10:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 9 October 2018 at 6:49
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 12 October 2018 at 7:01
+- [x] Exported to Keepeek Friday 12 October 2018 at 21:22
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration, Development Centre*
 * Language: *English, French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
@@ -290,8 +269,29 @@ Monday 5 November 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Public Affairs and Communications Directorate, Development Centre*
+* Directorate: *Development Centre, Public Affairs and Communications Directorate*
 * Language: *French*
 * Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [SME and Entrepreneurship Policy in Kazakhstan 2018](https://doi.org/10.1787/9789264301450-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 5 December 2018 at 0:01 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 9 August 2018 at 4:52
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Medium: *PDF*

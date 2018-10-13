@@ -4,87 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/bef85c7d-en
-SUMMARY:Education systems, education reforms, an
- d adult skills in the Survey of Adult Sk
- ills (PIAAC)
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills\nLanguage: English\nDOI: https
- ://doi.org/10.1787/bef85c7d-en\nPublicat
- ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: 10 October 2018, 
- 4:37 Paris time (GMT+00:00)\nFreepreview
-  export: 9 October 2018, 19:27 Paris tim
- e (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20181012T051453Z
-DTSTART:20181010T090000Z
-DTEND:20181010T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Education systems, education r
- eforms, and adult skills in the Survey o
- f Adult Skills (PIAAC)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/41bf120b-en
-SUMMARY:How do admission systems affect enrolmen
- t in public tertiary education?
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills\nLanguage: English\nDOI: https
- ://doi.org/10.1787/41bf120b-en\nPublicat
- ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: 9 October 2018, 4
- :49 Paris time (GMT+00:00)\nFreepreview 
- export: 8 October 2018, 19:30 Paris time
-  (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181012T051453Z
-DTSTART:20181010T090000Z
-DTEND:20181010T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: How do admission systems affec
- t enrolment in public tertiary education
- ?
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/a5012a3d-en
-SUMMARY:Resource curse in oil exporting countrie
- s
-DESCRIPTION:Directorate: Economics Department\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/a5012a3d-en\nPublication type: Workin
- g paper\nReleased as: PDF.\n\niLibrary e
- xport: 9 October 2018, 4:49 Paris time (
- GMT+00:00)\nFreepreview export: 8 Octobe
- r 2018, 19:30 Paris time (GMT+00:00)\nFT
- I loaded: ✓, ✓.
-DTSTAMP:20181012T051453Z
-DTSTART:20181011T000000Z
-DTEND:20181011T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Resource curse in oil exportin
- g countries
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/e930967b-en
 SUMMARY:The Potential Macroeconomic and Sectoral
   Consequences of Brexit on Ireland
@@ -96,7 +15,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  (GMT+00:00)\nFreepreview export: 9 Octob
  er 2018, 19:27 Paris time (GMT+00:00)\nF
  TI loaded: ✓, ✓.
-DTSTAMP:20181012T051453Z
+DTSTAMP:20181013T061129Z
 DTSTART:20181011T150000Z
 DTEND:20181011T151500Z
 TRANSP:TRANSPARENT
@@ -119,10 +38,11 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/f8ef1489-en\nPublicat
  ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: never\nFreeprevie
- w export: 11 October 2018, 19:23 Paris t
- ime (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20181012T051453Z
+ F.\n\niLibrary export: 12 October 2018, 
+ 5:01 Paris time (GMT+00:00)\nFreepreview
+  export: 11 October 2018, 19:23 Paris ti
+ me (GMT+00:00)\nFTI loaded: ✓, ✓.
+DTSTAMP:20181013T061129Z
 DTSTART:20181012T070000Z
 DTEND:20181012T071500Z
 TRANSP:TRANSPARENT
@@ -151,7 +71,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ber 2018, 4:49 Paris time (GMT+00:00)\nF
  reepreview export: 8 October 2018, 19:30
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181012T051453Z
+DTSTAMP:20181013T061129Z
 DTSTART:20181015T090000Z
 DTEND:20181015T091500Z
 TRANSP:TRANSPARENT
@@ -183,7 +103,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ber 2018, 4:49 Paris time (GMT+00:00)\nF
  reepreview export: 8 October 2018, 19:30
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181012T051453Z
+DTSTAMP:20181013T061129Z
 DTSTART:20181015T090000Z
 DTEND:20181015T091500Z
 TRANSP:TRANSPARENT
@@ -215,7 +135,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ber 2018, 4:49 Paris time (GMT+00:00)\nF
  reepreview export: 8 October 2018, 19:30
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181012T051453Z
+DTSTAMP:20181013T061129Z
 DTSTART:20181015T090000Z
 DTEND:20181015T091500Z
 TRANSP:TRANSPARENT
@@ -247,7 +167,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ber 2018, 4:49 Paris time (GMT+00:00)\nF
  reepreview export: 8 October 2018, 19:30
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181012T051453Z
+DTSTAMP:20181013T061129Z
 DTSTART:20181015T090000Z
 DTEND:20181015T091500Z
 TRANSP:TRANSPARENT
@@ -279,7 +199,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ber 2018, 4:49 Paris time (GMT+00:00)\nF
  reepreview export: 8 October 2018, 19:30
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181012T051453Z
+DTSTAMP:20181013T061129Z
 DTSTART:20181015T090000Z
 DTEND:20181015T091500Z
 TRANSP:TRANSPARENT
@@ -311,7 +231,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ber 2018, 4:49 Paris time (GMT+00:00)\nF
  reepreview export: 8 October 2018, 19:30
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181012T051453Z
+DTSTAMP:20181013T061129Z
 DTSTART:20181015T090000Z
 DTEND:20181015T091500Z
 TRANSP:TRANSPARENT
@@ -338,12 +258,12 @@ SUMMARY:Global Forum on Transparency and Exchang
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264306189-en\
- nPublication type: Book\nReleased as: Pa
- perback, PDF.\n\niLibrary export: 9 Octo
+ nPublication type: Book\nReleased as: PD
+ F, Paperback.\n\niLibrary export: 9 Octo
  ber 2018, 4:49 Paris time (GMT+00:00)\nF
- reepreview export: 8 October 2018, 19:30
-  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181012T051453Z
+ reepreview export: 12 October 2018, 19:2
+ 2 Paris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181013T061129Z
 DTSTART:20181015T090000Z
 DTEND:20181015T091500Z
 TRANSP:TRANSPARENT
@@ -369,9 +289,10 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: French\nDOI: https:
  //doi.org/10.1787/9789264307513-fr\nPubl
  ication type: Book\nReleased as: Paperba
- ck, PDF.\n\niLibrary export: never\nFree
- preview export: never\nFTI loaded: no.
-DTSTAMP:20181012T051453Z
+ ck, PDF.\n\niLibrary export: 12 October 
+ 2018, 5:01 Paris time (GMT+00:00)\nFreep
+ review export: never\nFTI loaded: no.
+DTSTAMP:20181013T061129Z
 DTSTART:20181015T130000Z
 DTEND:20181015T131500Z
 TRANSP:TRANSPARENT
@@ -395,11 +316,11 @@ DESCRIPTION:Directorate: Directorate for Education a
  ://doi.org/10.1787/9789264306486-en\nPub
  lication type: Book\nReleased as: PDF, e
  Pub, Paperback, HTML.\n\niLibrary export
- : 6 October 2018, 5:14 Paris time (GMT+0
- 0:00)\nFreepreview export: 11 October 20
- 18, 19:23 Paris time (GMT+00:00)\nFTI lo
- aded: ✓.
-DTSTAMP:20181012T051453Z
+ : 12 October 2018, 5:01 Paris time (GMT+
+ 00:00)\nFreepreview export: 11 October 2
+ 018, 19:23 Paris time (GMT+00:00)\nFTI l
+ oaded: ✓.
+DTSTAMP:20181013T061129Z
 DTSTART:20181015T130000Z
 DTEND:20181015T131500Z
 TRANSP:TRANSPARENT
@@ -422,11 +343,11 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  rnance\nLanguage: Spanish\nDOI: https://
  doi.org/10.1787/9789264305762-es\nPublic
  ation type: Stand-alone monograph\nRelea
- sed as: PDF, Paperback.\n\niLibrary expo
+ sed as: Paperback, PDF.\n\niLibrary expo
  rt: 2 October 2018, 4:31 Paris time (GMT
  +00:00)\nFreepreview export: never\nFTI 
  loaded: no.
-DTSTAMP:20181012T051453Z
+DTSTAMP:20181013T061129Z
 DTSTART:20181024T073000Z
 DTEND:20181024T074500Z
 TRANSP:TRANSPARENT
@@ -449,11 +370,11 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  doi.org/10.1787/9789264305748-en\nPublic
  ation type: Stand-alone monograph\nRelea
  sed as: PDF, HTML, ePub, Paperback.\n\ni
- Library export: 9 October 2018, 4:49 Par
- is time (GMT+00:00)\nFreepreview export:
-  8 October 2018, 19:30 Paris time (GMT+0
- 0:00)\nFTI loaded: ✓.
-DTSTAMP:20181012T051453Z
+ Library export: 12 October 2018, 5:01 Pa
+ ris time (GMT+00:00)\nFreepreview export
+ : 8 October 2018, 19:30 Paris time (GMT+
+ 00:00)\nFTI loaded: ✓.
+DTSTAMP:20181013T061129Z
 DTSTART:20181024T073000Z
 DTEND:20181024T074500Z
 TRANSP:TRANSPARENT
@@ -478,10 +399,11 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  rg/10.1787/9789264305885-en-fr\nPublicat
  ion type: Stand-alone monograph\nRelease
  d as: Paperback, PDF.\n\niLibrary export
- : 9 October 2018, 4:49 Paris time (GMT+0
- 0:00)\nFreepreview export: never\nFTI lo
- aded: no.
-DTSTAMP:20181012T051453Z
+ : 12 October 2018, 5:01 Paris time (GMT+
+ 00:00)\nFreepreview export: 12 October 2
+ 018, 19:22 Paris time (GMT+00:00)\nFTI l
+ oaded: ✓.
+DTSTAMP:20181013T061129Z
 DTSTART:20181031T090000Z
 DTEND:20181031T091500Z
 TRANSP:TRANSPARENT
@@ -500,8 +422,8 @@ BEGIN:VEVENT
 UID:10.1787/9789264300347-fr
 SUMMARY:Examen multidimensionnel du Sénégal - Vo
  lume 3. De l'analyse à l'action
-DESCRIPTION:Directorate: Public Affairs and Communic
- ations Directorate, Development Centre\n
+DESCRIPTION:Directorate: Development Centre, Public 
+ Affairs and Communications Directorate\n
  Language: French\nDOI: https://doi.org/1
  0.1787/9789264300347-fr\nPublication typ
  e: Book\nReleased as: Paperback, ePub, H
@@ -509,7 +431,7 @@ DESCRIPTION:Directorate: Public Affairs and Communic
   2018, 4:29 Paris time (GMT+00:00)\nFree
  preview export: 10 October 2018, 19:27 P
  aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181012T051453Z
+DTSTAMP:20181013T061129Z
 DTSTART:20181105T100000Z
 DTEND:20181105T101500Z
 TRANSP:TRANSPARENT
@@ -521,6 +443,32 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Examen multidimensionnel du Sé
  négal - Volume 3. De l'analyse à l'actio
  n
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264301450-en
+SUMMARY:SME and Entrepreneurship Policy in Kazak
+ hstan 2018
+DESCRIPTION:Directorate: Centre for Entrepreneurship
+ , SMEs and Local Development\nLanguage: 
+ English\nDOI: https://doi.org/10.1787/97
+ 89264301450-en\nPublication type: Book\n
+ Released as: Paperback, PDF.\n\niLibrary
+  export: 9 August 2018, 2:52 Paris time 
+ (GMT+00:00)\nFreepreview export: never\n
+ FTI loaded: no.
+DTSTAMP:20181013T061129Z
+DTSTART:20181204T230100Z
+DTEND:20181204T231600Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: SME and Entrepreneurship Polic
+ y in Kazakhstan 2018
 END:VALARM
 END:VEVENT
 END:VCALENDAR
