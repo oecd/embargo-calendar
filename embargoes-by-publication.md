@@ -1,6 +1,6 @@
-# OECD publication embargoes (14 embargoes)
+# OECD publication embargoes (7 embargoes)
 
-*Data generated on Saturday 13 October 2018 at 6:11*
+*Data generated on Tuesday 16 October 2018 at 4:44*
 
 ------
 
@@ -8,12 +8,12 @@
 
 Embargo date | Launch date
 -------------|------------
-Monday 15 October 2018 at 11:00 | no launch event
+Wednesday 17 October 2018 at 12:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 9 October 2018 at 6:49
-- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
+- [x] Exported to Keepeek Monday 15 October 2018 at 21:37
 
 ### Additional Information
 
@@ -25,170 +25,23 @@ Monday 15 October 2018 at 11:00 | no launch event
 
 ------
 
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Austria 2018 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9789264306059-en)
+## [China’s Progress Towards Green Growth - An International Perspective](https://doi.org/10.1787/76401a8c-en)
 
 Embargo date | Launch date
 -------------|------------
-Monday 15 October 2018 at 11:00 | no launch event
+Friday 19 October 2018 at 6:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 October 2018 at 6:49
-- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Monday 15 October 2018 at 21:37
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Bahrain 2018 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9789264306080-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 15 October 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 October 2018 at 6:49
-- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Brazil 2018 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9789264306103-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 15 October 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 October 2018 at 6:49
-- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Saint Kitts and Nevis 2018 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9789264306141-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 15 October 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 October 2018 at 6:49
-- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Singapore 2018 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9789264306165-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 15 October 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 October 2018 at 6:49
-- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: United Kingdom 2018 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9789264306189-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 15 October 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 October 2018 at 6:49
-- [x] Exported to Keepeek Friday 12 October 2018 at 21:22
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [L'apprentissage et l'alternance en sept questions - Leçons des expériences internationales](https://doi.org/10.1787/9789264307513-fr)
-
-Embargo date | Launch date
--------------|------------
-Monday 15 October 2018 at 15:00 | no launch event
-
-### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 12 October 2018 at 7:01
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [Seven Questions about Apprenticeships - Answers from International Experience](https://doi.org/10.1787/9789264306486-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 15 October 2018 at 15:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 12 October 2018 at 7:01
-- [x] Exported to Keepeek Thursday 11 October 2018 at 21:23
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
@@ -243,13 +96,13 @@ Wednesday 31 October 2018 at 10:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 12 October 2018 at 7:01
+- [x] Exported to iLibrary Saturday 13 October 2018 at 8:11
 - [x] Exported to Keepeek Friday 12 October 2018 at 21:22
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration, Development Centre*
-* Language: *English, French*
+* Directorate: *Development Centre, Centre for Tax Policy and Administration*
+* Language: *French, English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
@@ -269,7 +122,7 @@ Monday 5 November 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Development Centre, Public Affairs and Communications Directorate*
+* Directorate: *Public Affairs and Communications Directorate, Development Centre*
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
@@ -285,7 +138,7 @@ Wednesday 5 December 2018 at 0:01 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 9 August 2018 at 4:52
+- [x] Exported to iLibrary Saturday 13 October 2018 at 8:11
 - [ ] Exported to Keepeek
 
 ### Additional Information

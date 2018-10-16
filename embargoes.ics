@@ -4,91 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/e930967b-en
-SUMMARY:The Potential Macroeconomic and Sectoral
-  Consequences of Brexit on Ireland
-DESCRIPTION:Directorate: Economics Department\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/e930967b-en\nPublication type: Workin
- g paper\nReleased as: PDF.\n\niLibrary e
- xport: 10 October 2018, 4:37 Paris time 
- (GMT+00:00)\nFreepreview export: 9 Octob
- er 2018, 19:27 Paris time (GMT+00:00)\nF
- TI loaded: ✓, ✓.
-DTSTAMP:20181013T061129Z
-DTSTART:20181011T150000Z
-DTEND:20181011T151500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: The Potential Macroeconomic an
- d Sectoral Consequences of Brexit on Ire
- land
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/f8ef1489-en
-SUMMARY:The gender gap in educational outcomes i
- n Norway
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills\nLanguage: English\nDOI: https
- ://doi.org/10.1787/f8ef1489-en\nPublicat
- ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: 12 October 2018, 
- 5:01 Paris time (GMT+00:00)\nFreepreview
-  export: 11 October 2018, 19:23 Paris ti
- me (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20181013T061129Z
-DTSTART:20181012T070000Z
-DTEND:20181012T071500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: The gender gap in educational 
- outcomes in Norway
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264306042-en
-SUMMARY:Global Forum on Transparency and Exchang
- e of Information for Tax Purposes: Aruba
-  2018 (Second Round) - Peer Review Repor
- t on the Exchange of Information on Requ
- est
-DESCRIPTION:Directorate: Centre for Tax Policy and A
- dministration\nLanguage: English\nDOI: h
- ttps://doi.org/10.1787/9789264306042-en\
- nPublication type: Book\nReleased as: Pa
- perback, PDF.\n\niLibrary export: 9 Octo
- ber 2018, 4:49 Paris time (GMT+00:00)\nF
- reepreview export: 8 October 2018, 19:30
-  Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181013T061129Z
-DTSTART:20181015T090000Z
-DTEND:20181015T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Global Forum on Transparency a
- nd Exchange of Information for Tax Purpo
- ses: Aruba 2018 (Second Round) - Peer Re
- view Report on the Exchange of Informati
- on on Request
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264306059-en
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Austr
@@ -98,12 +13,12 @@ SUMMARY:Global Forum on Transparency and Exchang
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264306059-en\
- nPublication type: Book\nReleased as: Pa
- perback, PDF.\n\niLibrary export: 9 Octo
+ nPublication type: Book\nReleased as: PD
+ F, Paperback.\n\niLibrary export: 9 Octo
  ber 2018, 4:49 Paris time (GMT+00:00)\nF
  reepreview export: 8 October 2018, 19:30
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181013T061129Z
+DTSTAMP:20181016T044459Z
 DTSTART:20181015T090000Z
 DTEND:20181015T091500Z
 TRANSP:TRANSPARENT
@@ -130,12 +45,12 @@ SUMMARY:Global Forum on Transparency and Exchang
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264306080-en\
- nPublication type: Book\nReleased as: Pa
- perback, PDF.\n\niLibrary export: 9 Octo
+ nPublication type: Book\nReleased as: PD
+ F, Paperback.\n\niLibrary export: 9 Octo
  ber 2018, 4:49 Paris time (GMT+00:00)\nF
  reepreview export: 8 October 2018, 19:30
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181013T061129Z
+DTSTAMP:20181016T044459Z
 DTSTART:20181015T090000Z
 DTEND:20181015T091500Z
 TRANSP:TRANSPARENT
@@ -162,12 +77,12 @@ SUMMARY:Global Forum on Transparency and Exchang
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264306103-en\
- nPublication type: Book\nReleased as: PD
- F, Paperback.\n\niLibrary export: 9 Octo
+ nPublication type: Book\nReleased as: Pa
+ perback, PDF.\n\niLibrary export: 9 Octo
  ber 2018, 4:49 Paris time (GMT+00:00)\nF
  reepreview export: 8 October 2018, 19:30
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181013T061129Z
+DTSTAMP:20181016T044459Z
 DTSTART:20181015T090000Z
 DTEND:20181015T091500Z
 TRANSP:TRANSPARENT
@@ -199,7 +114,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ber 2018, 4:49 Paris time (GMT+00:00)\nF
  reepreview export: 8 October 2018, 19:30
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181013T061129Z
+DTSTAMP:20181016T044459Z
 DTSTART:20181015T090000Z
 DTEND:20181015T091500Z
 TRANSP:TRANSPARENT
@@ -231,7 +146,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ber 2018, 4:49 Paris time (GMT+00:00)\nF
  reepreview export: 8 October 2018, 19:30
   Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181013T061129Z
+DTSTAMP:20181016T044459Z
 DTSTART:20181015T090000Z
 DTEND:20181015T091500Z
 TRANSP:TRANSPARENT
@@ -258,12 +173,13 @@ SUMMARY:Global Forum on Transparency and Exchang
 DESCRIPTION:Directorate: Centre for Tax Policy and A
  dministration\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/9789264306189-en\
- nPublication type: Book\nReleased as: PD
- F, Paperback.\n\niLibrary export: 9 Octo
- ber 2018, 4:49 Paris time (GMT+00:00)\nF
- reepreview export: 12 October 2018, 19:2
- 2 Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181013T061129Z
+ nPublication type: Book\nReleased as: Pa
+ perback, PDF.\n\niLibrary export: 13 Oct
+ ober 2018, 6:11 Paris time (GMT+00:00)\n
+ Freepreview export: 12 October 2018, 19:
+ 22 Paris time (GMT+00:00)\nFTI loaded: ✓
+ .
+DTSTAMP:20181016T044459Z
 DTSTART:20181015T090000Z
 DTEND:20181015T091500Z
 TRANSP:TRANSPARENT
@@ -289,10 +205,10 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: French\nDOI: https:
  //doi.org/10.1787/9789264307513-fr\nPubl
  ication type: Book\nReleased as: Paperba
- ck, PDF.\n\niLibrary export: 12 October 
- 2018, 5:01 Paris time (GMT+00:00)\nFreep
+ ck, PDF.\n\niLibrary export: 13 October 
+ 2018, 6:11 Paris time (GMT+00:00)\nFreep
  review export: never\nFTI loaded: no.
-DTSTAMP:20181013T061129Z
+DTSTAMP:20181016T044459Z
 DTSTART:20181015T130000Z
 DTEND:20181015T131500Z
 TRANSP:TRANSPARENT
@@ -317,10 +233,10 @@ DESCRIPTION:Directorate: Directorate for Education a
  lication type: Book\nReleased as: PDF, e
  Pub, Paperback, HTML.\n\niLibrary export
  : 12 October 2018, 5:01 Paris time (GMT+
- 00:00)\nFreepreview export: 11 October 2
- 018, 19:23 Paris time (GMT+00:00)\nFTI l
+ 00:00)\nFreepreview export: 15 October 2
+ 018, 19:37 Paris time (GMT+00:00)\nFTI l
  oaded: ✓.
-DTSTAMP:20181013T061129Z
+DTSTAMP:20181016T044459Z
 DTSTART:20181015T130000Z
 DTEND:20181015T131500Z
 TRANSP:TRANSPARENT
@@ -336,6 +252,63 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/9789264306042-en
+SUMMARY:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Aruba
+  2018 (Second Round) - Peer Review Repor
+ t on the Exchange of Information on Requ
+ est
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/9789264306042-en\
+ nPublication type: Book\nReleased as: PD
+ F, Paperback.\n\niLibrary export: 9 Octo
+ ber 2018, 4:49 Paris time (GMT+00:00)\nF
+ reepreview export: 15 October 2018, 19:3
+ 7 Paris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181016T044459Z
+DTSTART:20181017T100000Z
+DTEND:20181017T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Forum on Transparency a
+ nd Exchange of Information for Tax Purpo
+ ses: Aruba 2018 (Second Round) - Peer Re
+ view Report on the Exchange of Informati
+ on on Request
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/76401a8c-en
+SUMMARY:China’s Progress Towards Green Growth - 
+ An International Perspective
+DESCRIPTION:Directorate: Environment Directorate\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/76401a8c-en\nPublication type: Wor
+ king paper\nReleased as: PDF.\n\niLibrar
+ y export: never\nFreepreview export: 15 
+ October 2018, 19:37 Paris time (GMT+00:0
+ 0)\nFTI loaded: ✓.
+DTSTAMP:20181016T044459Z
+DTSTART:20181019T040000Z
+DTEND:20181019T041500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: China’s Progress Towards Green
+  Growth - An International Perspective
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264305762-es
 SUMMARY:Estudio de cooperación regulatoria inter
  nacional de México
@@ -347,7 +320,7 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  rt: 2 October 2018, 4:31 Paris time (GMT
  +00:00)\nFreepreview export: never\nFTI 
  loaded: no.
-DTSTAMP:20181013T061129Z
+DTSTAMP:20181016T044459Z
 DTSTART:20181024T073000Z
 DTEND:20181024T074500Z
 TRANSP:TRANSPARENT
@@ -374,7 +347,7 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  ris time (GMT+00:00)\nFreepreview export
  : 8 October 2018, 19:30 Paris time (GMT+
  00:00)\nFTI loaded: ✓.
-DTSTAMP:20181013T061129Z
+DTSTAMP:20181016T044459Z
 DTSTART:20181024T073000Z
 DTEND:20181024T074500Z
 TRANSP:TRANSPARENT
@@ -393,17 +366,17 @@ UID:10.1787/9789264305885-en-fr
 SUMMARY:Revenue Statistics in Africa 2018, Stati
  stiques des recettes publiques en Afriqu
  e 2018
-DESCRIPTION:Directorate: Centre for Tax Policy and A
- dministration, Development Centre\nLangu
- age: English, French\nDOI: https://doi.o
+DESCRIPTION:Directorate: Development Centre, Centre 
+ for Tax Policy and Administration\nLangu
+ age: French, English\nDOI: https://doi.o
  rg/10.1787/9789264305885-en-fr\nPublicat
  ion type: Stand-alone monograph\nRelease
- d as: Paperback, PDF.\n\niLibrary export
- : 12 October 2018, 5:01 Paris time (GMT+
+ d as: PDF, Paperback.\n\niLibrary export
+ : 13 October 2018, 6:11 Paris time (GMT+
  00:00)\nFreepreview export: 12 October 2
  018, 19:22 Paris time (GMT+00:00)\nFTI l
  oaded: ✓.
-DTSTAMP:20181013T061129Z
+DTSTAMP:20181016T044459Z
 DTSTART:20181031T090000Z
 DTEND:20181031T091500Z
 TRANSP:TRANSPARENT
@@ -422,8 +395,8 @@ BEGIN:VEVENT
 UID:10.1787/9789264300347-fr
 SUMMARY:Examen multidimensionnel du Sénégal - Vo
  lume 3. De l'analyse à l'action
-DESCRIPTION:Directorate: Development Centre, Public 
- Affairs and Communications Directorate\n
+DESCRIPTION:Directorate: Public Affairs and Communic
+ ations Directorate, Development Centre\n
  Language: French\nDOI: https://doi.org/1
  0.1787/9789264300347-fr\nPublication typ
  e: Book\nReleased as: Paperback, ePub, H
@@ -431,7 +404,7 @@ DESCRIPTION:Directorate: Development Centre, Public
   2018, 4:29 Paris time (GMT+00:00)\nFree
  preview export: 10 October 2018, 19:27 P
  aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181013T061129Z
+DTSTAMP:20181016T044459Z
 DTSTART:20181105T100000Z
 DTEND:20181105T101500Z
 TRANSP:TRANSPARENT
@@ -455,10 +428,10 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  English\nDOI: https://doi.org/10.1787/97
  89264301450-en\nPublication type: Book\n
  Released as: Paperback, PDF.\n\niLibrary
-  export: 9 August 2018, 2:52 Paris time 
- (GMT+00:00)\nFreepreview export: never\n
- FTI loaded: no.
-DTSTAMP:20181013T061129Z
+  export: 13 October 2018, 6:11 Paris tim
+ e (GMT+00:00)\nFreepreview export: never
+ \nFTI loaded: no.
+DTSTAMP:20181016T044459Z
 DTSTART:20181204T230100Z
 DTEND:20181204T231600Z
 TRANSP:TRANSPARENT
