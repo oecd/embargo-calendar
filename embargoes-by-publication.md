@@ -1,6 +1,6 @@
-# OECD publication embargoes (7 embargoes)
+# OECD publication embargoes (8 embargoes)
 
-*Data generated on Tuesday 16 October 2018 at 4:44*
+*Data generated on Wednesday 17 October 2018 at 4:38*
 
 ------
 
@@ -12,7 +12,7 @@ Wednesday 17 October 2018 at 12:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 October 2018 at 6:49
+- [x] Exported to iLibrary Tuesday 16 October 2018 at 6:30
 - [x] Exported to Keepeek Monday 15 October 2018 at 21:37
 
 ### Additional Information
@@ -33,7 +33,7 @@ Friday 19 October 2018 at 6:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 16 October 2018 at 6:30
 - [x] Exported to Keepeek Monday 15 October 2018 at 21:37
 
 ### Additional Information
@@ -42,6 +42,27 @@ Friday 19 October 2018 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Equity in Education - Breaking Down Barriers to Social Mobility](https://doi.org/10.1787/9789264073234-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 23 October 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 19 September 2018 at 6:50
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------
@@ -102,7 +123,7 @@ Wednesday 31 October 2018 at 10:00 | no launch event
 ### Additional Information
 
 * Directorate: *Development Centre, Centre for Tax Policy and Administration*
-* Language: *French, English*
+* Language: *English, French*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
@@ -122,7 +143,7 @@ Monday 5 November 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Public Affairs and Communications Directorate, Development Centre*
+* Directorate: *Development Centre, Public Affairs and Communications Directorate*
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
