@@ -1,26 +1,47 @@
-# OECD publication embargoes (8 embargoes)
+# OECD publication embargoes (9 embargoes)
 
-*Data generated on Wednesday 17 October 2018 at 4:38*
+*Data generated on Thursday 18 October 2018 at 4:38*
 
 ------
 
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Aruba 2018 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9789264306042-en)
+## [Integridad para el buen gobierno en América Latina y el Caribe - De los compromisos a la acción](https://doi.org/10.1787/9789264307339-es)
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 17 October 2018 at 12:00 | no launch event
+Thursday 18 October 2018 at 9:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 17 October 2018 at 6:26
+- [x] Exported to Keepeek Wednesday 17 October 2018 at 21:17
+
+### Additional Information
+
+* Directorate: *General Secretariat*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [Integrity for Good Governance in Latin America and the Caribbean - From Commitments to Action](https://doi.org/10.1787/9789264201866-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 18 October 2018 at 9:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 16 October 2018 at 6:30
-- [x] Exported to Keepeek Monday 15 October 2018 at 21:37
+- [x] Exported to Keepeek Wednesday 17 October 2018 at 21:17
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *General Secretariat*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Book*
+* Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
 ------
@@ -54,7 +75,7 @@ Tuesday 23 October 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 19 September 2018 at 6:50
+- [x] Exported to iLibrary Wednesday 17 October 2018 at 6:26
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -74,7 +95,7 @@ Embargo date | Launch date
 Wednesday 24 October 2018 at 9:30 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 2 October 2018 at 6:31
 - [ ] Exported to Keepeek
 
@@ -123,7 +144,7 @@ Wednesday 31 October 2018 at 10:00 | no launch event
 ### Additional Information
 
 * Directorate: *Development Centre, Centre for Tax Policy and Administration*
-* Language: *English, French*
+* Language: *French, English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
@@ -143,7 +164,7 @@ Monday 5 November 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Development Centre, Public Affairs and Communications Directorate*
+* Directorate: *Public Affairs and Communications Directorate, Development Centre*
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
