@@ -19,7 +19,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  Freepreview export: 15 October 2018, 19:
  37 Paris time (GMT+00:00)\nFTI loaded: ✓
  .
-DTSTAMP:20181018T043829Z
+DTSTAMP:20181019T051624Z
 DTSTART:20181017T100000Z
 DTEND:20181017T101500Z
 TRANSP:TRANSPARENT
@@ -45,11 +45,11 @@ DESCRIPTION:Directorate: General Secretariat\nLangua
  ge: Spanish\nDOI: https://doi.org/10.178
  7/9789264307339-es\nPublication type: St
  and-alone monograph\nReleased as: PDF.\n
- \niLibrary export: 17 October 2018, 4:26
+ \niLibrary export: 18 October 2018, 4:27
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 17 October 2018, 19:17 Paris time (
  GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181018T043829Z
+DTSTAMP:20181019T051624Z
 DTSTART:20181018T070000Z
 DTEND:20181018T071500Z
 TRANSP:TRANSPARENT
@@ -73,11 +73,11 @@ DESCRIPTION:Directorate: General Secretariat\nLangua
  ge: English\nDOI: https://doi.org/10.178
  7/9789264201866-en\nPublication type: St
  and-alone monograph\nReleased as: PDF.\n
- \niLibrary export: 16 October 2018, 4:30
+ \niLibrary export: 18 October 2018, 4:27
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 17 October 2018, 19:17 Paris time (
  GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181018T043829Z
+DTSTAMP:20181019T051624Z
 DTSTART:20181018T070000Z
 DTEND:20181018T071500Z
 TRANSP:TRANSPARENT
@@ -104,7 +104,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  me (GMT+00:00)\nFreepreview export: 15 O
  ctober 2018, 19:37 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20181018T043829Z
+DTSTAMP:20181019T051624Z
 DTSTART:20181019T040000Z
 DTEND:20181019T041500Z
 TRANSP:TRANSPARENT
@@ -119,17 +119,45 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/9789264303911-en
+SUMMARY:Australian Services Trade in the Global 
+ Economy
+DESCRIPTION:Directorate: Trade and Agriculture Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/9789264303911-en\nPublic
+ ation type: Stand-alone monograph\nRelea
+ sed as: HTML, ePub, PDF, Paperback.\n\ni
+ Library export: 29 September 2018, 5:53 
+ Paris time (GMT+00:00)\nFreepreview expo
+ rt: 18 October 2018, 19:11 Paris time (G
+ MT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181019T051624Z
+DTSTART:20181023T060000Z
+DTEND:20181023T061500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Australian Services Trade in t
+ he Global Economy
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264073234-en
 SUMMARY:Equity in Education - Breaking Down Barr
  iers to Social Mobility
 DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9789264073234-en\nPub
- lication type: Book\nReleased as: Paperb
- ack, PDF.\n\niLibrary export: 17 October
+ lication type: Book\nReleased as: PDF, P
+ aperback.\n\niLibrary export: 17 October
   2018, 4:26 Paris time (GMT+00:00)\nFree
- preview export: never\nFTI loaded: no.
-DTSTAMP:20181018T043829Z
+ preview export: 18 October 2018, 19:11 P
+ aris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181019T051624Z
 DTSTART:20181023T090000Z
 DTEND:20181023T091500Z
 TRANSP:TRANSPARENT
@@ -151,11 +179,11 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  rnance\nLanguage: Spanish\nDOI: https://
  doi.org/10.1787/9789264305762-es\nPublic
  ation type: Stand-alone monograph\nRelea
- sed as: PDF, ePub, Paperback, HTML.\n\ni
- Library export: 2 October 2018, 4:31 Par
- is time (GMT+00:00)\nFreepreview export:
-  never\nFTI loaded: ✓.
-DTSTAMP:20181018T043829Z
+ sed as: ePub, Paperback, HTML, PDF.\n\ni
+ Library export: 18 October 2018, 4:27 Pa
+ ris time (GMT+00:00)\nFreepreview export
+ : never\nFTI loaded: ✓.
+DTSTAMP:20181019T051624Z
 DTSTART:20181024T073000Z
 DTEND:20181024T074500Z
 TRANSP:TRANSPARENT
@@ -177,12 +205,12 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  rnance\nLanguage: English\nDOI: https://
  doi.org/10.1787/9789264305748-en\nPublic
  ation type: Stand-alone monograph\nRelea
- sed as: HTML, ePub, Paperback, PDF.\n\ni
+ sed as: ePub, Paperback, PDF, HTML.\n\ni
  Library export: 12 October 2018, 5:01 Pa
  ris time (GMT+00:00)\nFreepreview export
  : 8 October 2018, 19:30 Paris time (GMT+
  00:00)\nFTI loaded: ✓.
-DTSTAMP:20181018T043829Z
+DTSTAMP:20181019T051624Z
 DTSTART:20181024T073000Z
 DTEND:20181024T074500Z
 TRANSP:TRANSPARENT
@@ -201,8 +229,8 @@ UID:10.1787/9789264305885-en-fr
 SUMMARY:Revenue Statistics in Africa 2018, Stati
  stiques des recettes publiques en Afriqu
  e 2018
-DESCRIPTION:Directorate: Development Centre, Centre 
- for Tax Policy and Administration\nLangu
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration, Development Centre\nLangu
  age: French, English\nDOI: https://doi.o
  rg/10.1787/9789264305885-en-fr\nPublicat
  ion type: Stand-alone monograph\nRelease
@@ -211,7 +239,7 @@ DESCRIPTION:Directorate: Development Centre, Centre
  00:00)\nFreepreview export: 12 October 2
  018, 19:22 Paris time (GMT+00:00)\nFTI l
  oaded: ✓.
-DTSTAMP:20181018T043829Z
+DTSTAMP:20181019T051624Z
 DTSTART:20181031T090000Z
 DTEND:20181031T091500Z
 TRANSP:TRANSPARENT
@@ -239,7 +267,7 @@ DESCRIPTION:Directorate: Public Affairs and Communic
   2018, 4:29 Paris time (GMT+00:00)\nFree
  preview export: 10 October 2018, 19:27 P
  aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181018T043829Z
+DTSTAMP:20181019T051624Z
 DTSTART:20181105T100000Z
 DTEND:20181105T101500Z
 TRANSP:TRANSPARENT
@@ -266,7 +294,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
   export: 13 October 2018, 6:11 Paris tim
  e (GMT+00:00)\nFreepreview export: never
  \nFTI loaded: no.
-DTSTAMP:20181018T043829Z
+DTSTAMP:20181019T051624Z
 DTSTART:20181204T230100Z
 DTEND:20181204T231600Z
 TRANSP:TRANSPARENT

@@ -1,48 +1,6 @@
-# OECD publication embargoes (9 embargoes)
+# OECD publication embargoes (8 embargoes)
 
-*Data generated on Thursday 18 October 2018 at 4:38*
-
-------
-
-## [Integridad para el buen gobierno en América Latina y el Caribe - De los compromisos a la acción](https://doi.org/10.1787/9789264307339-es)
-
-Embargo date | Launch date
--------------|------------
-Thursday 18 October 2018 at 9:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 October 2018 at 6:26
-- [x] Exported to Keepeek Wednesday 17 October 2018 at 21:17
-
-### Additional Information
-
-* Directorate: *General Secretariat*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
-
-------
-
-## [Integrity for Good Governance in Latin America and the Caribbean - From Commitments to Action](https://doi.org/10.1787/9789264201866-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 18 October 2018 at 9:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 16 October 2018 at 6:30
-- [x] Exported to Keepeek Wednesday 17 October 2018 at 21:17
-
-### Additional Information
-
-* Directorate: *General Secretariat*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
+*Data generated on Friday 19 October 2018 at 5:16*
 
 ------
 
@@ -67,6 +25,27 @@ Friday 19 October 2018 at 6:00 | no launch event
 
 ------
 
+## [Australian Services Trade in the Global Economy](https://doi.org/10.1787/9789264303911-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 23 October 2018 at 8:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 29 September 2018 at 7:53
+- [x] Exported to Keepeek Thursday 18 October 2018 at 21:11
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
 ## [Equity in Education - Breaking Down Barriers to Social Mobility](https://doi.org/10.1787/9789264073234-en)
 
 Embargo date | Launch date
@@ -74,15 +53,15 @@ Embargo date | Launch date
 Tuesday 23 October 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 17 October 2018 at 6:26
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Thursday 18 October 2018 at 21:11
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -96,7 +75,7 @@ Wednesday 24 October 2018 at 9:30 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 2 October 2018 at 6:31
+- [x] Exported to iLibrary Thursday 18 October 2018 at 6:27
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -143,7 +122,7 @@ Wednesday 31 October 2018 at 10:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Development Centre, Centre for Tax Policy and Administration*
+* Directorate: *Centre for Tax Policy and Administration, Development Centre*
 * Language: *French, English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
