@@ -1,26 +1,26 @@
-# OECD publication embargoes (8 embargoes)
+# OECD publication embargoes (9 embargoes)
 
-*Data generated on Friday 19 October 2018 at 5:16*
+*Data generated on Saturday 20 October 2018 at 5:38*
 
 ------
 
-## [China’s Progress Towards Green Growth - An International Perspective](https://doi.org/10.1787/76401a8c-en)
+## [Oslo Manual 2018 - Guidelines for Collecting, Reporting and Using Data on Innovation, 4th Edition](https://doi.org/10.1787/9789264304604-en)
 
 Embargo date | Launch date
 -------------|------------
-Friday 19 October 2018 at 6:00 | no launch event
+Monday 22 October 2018 at 10:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 16 October 2018 at 6:30
-- [x] Exported to Keepeek Monday 15 October 2018 at 21:37
+- [x] Exported to iLibrary Saturday 6 October 2018 at 7:14
+- [x] Exported to Keepeek Friday 19 October 2018 at 21:09
 
 ### Additional Information
 
-* Directorate: *Environment Directorate*
+* Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Working paper*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------
@@ -33,7 +33,7 @@ Tuesday 23 October 2018 at 8:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 29 September 2018 at 7:53
+- [x] Exported to iLibrary Friday 19 October 2018 at 6:58
 - [x] Exported to Keepeek Thursday 18 October 2018 at 21:11
 
 ### Additional Information
@@ -46,6 +46,27 @@ Tuesday 23 October 2018 at 8:00 | no launch event
 
 ------
 
+## [Can equity in education foster social mobility?](https://doi.org/10.1787/ca611a13-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 23 October 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Friday 19 October 2018 at 21:09
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
 ## [Equity in Education - Breaking Down Barriers to Social Mobility](https://doi.org/10.1787/9789264073234-en)
 
 Embargo date | Launch date
@@ -54,7 +75,7 @@ Tuesday 23 October 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 October 2018 at 6:26
+- [x] Exported to iLibrary Friday 19 October 2018 at 6:58
 - [x] Exported to Keepeek Thursday 18 October 2018 at 21:11
 
 ### Additional Information
@@ -75,7 +96,7 @@ Wednesday 24 October 2018 at 9:30 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 18 October 2018 at 6:27
+- [x] Exported to iLibrary Friday 19 October 2018 at 6:58
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -122,10 +143,10 @@ Wednesday 31 October 2018 at 10:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration, Development Centre*
-* Language: *French, English*
+* Directorate: *Development Centre, Centre for Tax Policy and Administration*
+* Language: *English, French*
 * Availability: *Published*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------

@@ -4,39 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264306042-en
-SUMMARY:Global Forum on Transparency and Exchang
- e of Information for Tax Purposes: Aruba
-  2018 (Second Round) - Peer Review Repor
- t on the Exchange of Information on Requ
- est
-DESCRIPTION:Directorate: Centre for Tax Policy and A
- dministration\nLanguage: English\nDOI: h
- ttps://doi.org/10.1787/9789264306042-en\
- nPublication type: Book\nReleased as: Pa
- perback, PDF.\n\niLibrary export: 16 Oct
- ober 2018, 4:30 Paris time (GMT+00:00)\n
- Freepreview export: 15 October 2018, 19:
- 37 Paris time (GMT+00:00)\nFTI loaded: ✓
- .
-DTSTAMP:20181019T051624Z
-DTSTART:20181017T100000Z
-DTEND:20181017T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Global Forum on Transparency a
- nd Exchange of Information for Tax Purpo
- ses: Aruba 2018 (Second Round) - Peer Re
- view Report on the Exchange of Informati
- on on Request
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264307339-es
 SUMMARY:Integridad para el buen gobierno en Amér
  ica Latina y el Caribe - De los compromi
@@ -49,7 +16,7 @@ DESCRIPTION:Directorate: General Secretariat\nLangua
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 17 October 2018, 19:17 Paris time (
  GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181019T051624Z
+DTSTAMP:20181020T053811Z
 DTSTART:20181018T070000Z
 DTEND:20181018T071500Z
 TRANSP:TRANSPARENT
@@ -77,7 +44,7 @@ DESCRIPTION:Directorate: General Secretariat\nLangua
   Paris time (GMT+00:00)\nFreepreview exp
  ort: 17 October 2018, 19:17 Paris time (
  GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181019T051624Z
+DTSTAMP:20181020T053811Z
 DTSTART:20181018T070000Z
 DTEND:20181018T071500Z
 TRANSP:TRANSPARENT
@@ -104,7 +71,7 @@ DESCRIPTION:Directorate: Environment Directorate\nLa
  me (GMT+00:00)\nFreepreview export: 15 O
  ctober 2018, 19:37 Paris time (GMT+00:00
  )\nFTI loaded: ✓.
-DTSTAMP:20181019T051624Z
+DTSTAMP:20181020T053811Z
 DTSTART:20181019T040000Z
 DTEND:20181019T041500Z
 TRANSP:TRANSPARENT
@@ -119,6 +86,35 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/9789264304604-en
+SUMMARY:Oslo Manual 2018 - Guidelines for Collec
+ ting, Reporting and Using Data on Innova
+ tion, 4th Edition
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/97892643
+ 04604-en\nPublication type: Book\nReleas
+ ed as: HTML, PDF, ePub.\n\niLibrary expo
+ rt: 6 October 2018, 5:14 Paris time (GMT
+ +00:00)\nFreepreview export: 19 October 
+ 2018, 19:09 Paris time (GMT+00:00)\nFTI 
+ loaded: ✓.
+DTSTAMP:20181020T053811Z
+DTSTART:20181022T080000Z
+DTEND:20181022T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Oslo Manual 2018 - Guidelines 
+ for Collecting, Reporting and Using Data
+  on Innovation, 4th Edition
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264303911-en
 SUMMARY:Australian Services Trade in the Global 
  Economy
@@ -127,11 +123,11 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  doi.org/10.1787/9789264303911-en\nPublic
  ation type: Stand-alone monograph\nRelea
  sed as: HTML, ePub, PDF, Paperback.\n\ni
- Library export: 29 September 2018, 5:53 
- Paris time (GMT+00:00)\nFreepreview expo
- rt: 18 October 2018, 19:11 Paris time (G
- MT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181019T051624Z
+ Library export: 19 October 2018, 4:58 Pa
+ ris time (GMT+00:00)\nFreepreview export
+ : 18 October 2018, 19:11 Paris time (GMT
+ +00:00)\nFTI loaded: ✓.
+DTSTAMP:20181020T053811Z
 DTSTART:20181023T060000Z
 DTEND:20181023T061500Z
 TRANSP:TRANSPARENT
@@ -146,18 +142,43 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/ca611a13-en
+SUMMARY:Can equity in education foster social mo
+ bility?
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: English\nDOI: https
+ ://doi.org/10.1787/ca611a13-en\nPublicat
+ ion type: Working paper\nReleased as: PD
+ F.\n\niLibrary export: never\nFreeprevie
+ w export: 19 October 2018, 19:09 Paris t
+ ime (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181020T053811Z
+DTSTART:20181023T090000Z
+DTEND:20181023T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Can equity in education foster
+  social mobility?
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264073234-en
 SUMMARY:Equity in Education - Breaking Down Barr
  iers to Social Mobility
 DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9789264073234-en\nPub
- lication type: Book\nReleased as: PDF, P
- aperback.\n\niLibrary export: 17 October
-  2018, 4:26 Paris time (GMT+00:00)\nFree
+ lication type: Book\nReleased as: Paperb
+ ack, PDF.\n\niLibrary export: 19 October
+  2018, 4:58 Paris time (GMT+00:00)\nFree
  preview export: 18 October 2018, 19:11 P
  aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181019T051624Z
+DTSTAMP:20181020T053811Z
 DTSTART:20181023T090000Z
 DTEND:20181023T091500Z
 TRANSP:TRANSPARENT
@@ -179,11 +200,11 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  rnance\nLanguage: Spanish\nDOI: https://
  doi.org/10.1787/9789264305762-es\nPublic
  ation type: Stand-alone monograph\nRelea
- sed as: ePub, Paperback, HTML, PDF.\n\ni
- Library export: 18 October 2018, 4:27 Pa
+ sed as: Paperback, HTML, PDF, ePub.\n\ni
+ Library export: 19 October 2018, 4:58 Pa
  ris time (GMT+00:00)\nFreepreview export
  : never\nFTI loaded: ✓.
-DTSTAMP:20181019T051624Z
+DTSTAMP:20181020T053811Z
 DTSTART:20181024T073000Z
 DTEND:20181024T074500Z
 TRANSP:TRANSPARENT
@@ -205,12 +226,12 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  rnance\nLanguage: English\nDOI: https://
  doi.org/10.1787/9789264305748-en\nPublic
  ation type: Stand-alone monograph\nRelea
- sed as: ePub, Paperback, PDF, HTML.\n\ni
+ sed as: Paperback, PDF, HTML, ePub.\n\ni
  Library export: 12 October 2018, 5:01 Pa
  ris time (GMT+00:00)\nFreepreview export
  : 8 October 2018, 19:30 Paris time (GMT+
  00:00)\nFTI loaded: ✓.
-DTSTAMP:20181019T051624Z
+DTSTAMP:20181020T053811Z
 DTSTART:20181024T073000Z
 DTEND:20181024T074500Z
 TRANSP:TRANSPARENT
@@ -229,17 +250,16 @@ UID:10.1787/9789264305885-en-fr
 SUMMARY:Revenue Statistics in Africa 2018, Stati
  stiques des recettes publiques en Afriqu
  e 2018
-DESCRIPTION:Directorate: Centre for Tax Policy and A
- dministration, Development Centre\nLangu
- age: French, English\nDOI: https://doi.o
+DESCRIPTION:Directorate: Development Centre, Centre 
+ for Tax Policy and Administration\nLangu
+ age: English, French\nDOI: https://doi.o
  rg/10.1787/9789264305885-en-fr\nPublicat
- ion type: Stand-alone monograph\nRelease
- d as: PDF, Paperback.\n\niLibrary export
- : 13 October 2018, 6:11 Paris time (GMT+
- 00:00)\nFreepreview export: 12 October 2
- 018, 19:22 Paris time (GMT+00:00)\nFTI l
- oaded: ✓.
-DTSTAMP:20181019T051624Z
+ ion type: Book\nReleased as: Paperback, 
+ PDF.\n\niLibrary export: 13 October 2018
+ , 6:11 Paris time (GMT+00:00)\nFreeprevi
+ ew export: 12 October 2018, 19:22 Paris 
+ time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181020T053811Z
 DTSTART:20181031T090000Z
 DTEND:20181031T091500Z
 TRANSP:TRANSPARENT
@@ -267,7 +287,7 @@ DESCRIPTION:Directorate: Public Affairs and Communic
   2018, 4:29 Paris time (GMT+00:00)\nFree
  preview export: 10 October 2018, 19:27 P
  aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181019T051624Z
+DTSTAMP:20181020T053811Z
 DTSTART:20181105T100000Z
 DTEND:20181105T101500Z
 TRANSP:TRANSPARENT
@@ -294,7 +314,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
   export: 13 October 2018, 6:11 Paris tim
  e (GMT+00:00)\nFreepreview export: never
  \nFTI loaded: no.
-DTSTAMP:20181019T051624Z
+DTSTAMP:20181020T053811Z
 DTSTART:20181204T230100Z
 DTEND:20181204T231600Z
 TRANSP:TRANSPARENT
