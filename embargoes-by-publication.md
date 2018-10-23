@@ -1,27 +1,6 @@
-# OECD publication embargoes (9 embargoes)
+# OECD publication embargoes (11 embargoes)
 
-*Data generated on Saturday 20 October 2018 at 5:38*
-
-------
-
-## [Oslo Manual 2018 - Guidelines for Collecting, Reporting and Using Data on Innovation, 4th Edition](https://doi.org/10.1787/9789264304604-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 22 October 2018 at 10:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 6 October 2018 at 7:14
-- [x] Exported to Keepeek Friday 19 October 2018 at 21:09
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Tuesday 23 October 2018 at 4:33*
 
 ------
 
@@ -46,7 +25,7 @@ Tuesday 23 October 2018 at 8:00 | no launch event
 
 ------
 
-## [Can equity in education foster social mobility?](https://doi.org/10.1787/ca611a13-en)
+## [¿Puede la equidad en la educación fomentar la movilidad social?](https://doi.org/10.1787/9335f0fa-es)
 
 Embargo date | Launch date
 -------------|------------
@@ -55,6 +34,27 @@ Tuesday 23 October 2018 at 11:00 | no launch event
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
+- [x] Exported to Keepeek Monday 22 October 2018 at 21:15
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Can equity in education foster social mobility?](https://doi.org/10.1787/ca611a13-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 23 October 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 20 October 2018 at 7:29
 - [x] Exported to Keepeek Friday 19 October 2018 at 21:09
 
 ### Additional Information
@@ -63,6 +63,27 @@ Tuesday 23 October 2018 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Developing Schools as Learning Organisations in Wales](https://doi.org/10.1787/9789264307193-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 23 October 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 18 October 2018 at 6:27
+- [x] Exported to Keepeek Monday 22 October 2018 at 21:15
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------
@@ -84,6 +105,27 @@ Tuesday 23 October 2018 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [L’équité dans l’éducation peut-elle favoriser la mobilité sociale ?](https://doi.org/10.1787/c6d9bb42-fr)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 23 October 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Monday 22 October 2018 at 21:15
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Medium: *PDF*
 
 ------
@@ -138,13 +180,13 @@ Wednesday 31 October 2018 at 10:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 13 October 2018 at 8:11
+- [x] Exported to iLibrary Saturday 20 October 2018 at 7:29
 - [x] Exported to Keepeek Friday 12 October 2018 at 21:22
 
 ### Additional Information
 
 * Directorate: *Development Centre, Centre for Tax Policy and Administration*
-* Language: *English, French*
+* Language: *French, English*
 * Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
@@ -164,7 +206,7 @@ Monday 5 November 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Public Affairs and Communications Directorate, Development Centre*
+* Directorate: *Development Centre, Public Affairs and Communications Directorate*
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*

@@ -4,88 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264307339-es
-SUMMARY:Integridad para el buen gobierno en Amér
- ica Latina y el Caribe - De los compromi
- sos a la acción
-DESCRIPTION:Directorate: General Secretariat\nLangua
- ge: Spanish\nDOI: https://doi.org/10.178
- 7/9789264307339-es\nPublication type: St
- and-alone monograph\nReleased as: PDF.\n
- \niLibrary export: 18 October 2018, 4:27
-  Paris time (GMT+00:00)\nFreepreview exp
- ort: 17 October 2018, 19:17 Paris time (
- GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181020T053811Z
-DTSTART:20181018T070000Z
-DTEND:20181018T071500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Integridad para el buen gobier
- no en América Latina y el Caribe - De lo
- s compromisos a la acción
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264201866-en
-SUMMARY:Integrity for Good Governance in Latin A
- merica and the Caribbean - From Commitme
- nts to Action
-DESCRIPTION:Directorate: General Secretariat\nLangua
- ge: English\nDOI: https://doi.org/10.178
- 7/9789264201866-en\nPublication type: St
- and-alone monograph\nReleased as: PDF.\n
- \niLibrary export: 18 October 2018, 4:27
-  Paris time (GMT+00:00)\nFreepreview exp
- ort: 17 October 2018, 19:17 Paris time (
- GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181020T053811Z
-DTSTART:20181018T070000Z
-DTEND:20181018T071500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Integrity for Good Governance 
- in Latin America and the Caribbean - Fro
- m Commitments to Action
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/76401a8c-en
-SUMMARY:China’s Progress Towards Green Growth - 
- An International Perspective
-DESCRIPTION:Directorate: Environment Directorate\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/76401a8c-en\nPublication type: Wor
- king paper\nReleased as: PDF.\n\niLibrar
- y export: 16 October 2018, 4:30 Paris ti
- me (GMT+00:00)\nFreepreview export: 15 O
- ctober 2018, 19:37 Paris time (GMT+00:00
- )\nFTI loaded: ✓.
-DTSTAMP:20181020T053811Z
-DTSTART:20181019T040000Z
-DTEND:20181019T041500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: China’s Progress Towards Green
-  Growth - An International Perspective
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264304604-en
 SUMMARY:Oslo Manual 2018 - Guidelines for Collec
  ting, Reporting and Using Data on Innova
@@ -95,11 +13,11 @@ DESCRIPTION:Directorate: Directorate for Science, Te
  h\nDOI: https://doi.org/10.1787/97892643
  04604-en\nPublication type: Book\nReleas
  ed as: HTML, PDF, ePub.\n\niLibrary expo
- rt: 6 October 2018, 5:14 Paris time (GMT
- +00:00)\nFreepreview export: 19 October 
- 2018, 19:09 Paris time (GMT+00:00)\nFTI 
- loaded: ✓.
-DTSTAMP:20181020T053811Z
+ rt: 20 October 2018, 5:29 Paris time (GM
+ T+00:00)\nFreepreview export: 19 October
+  2018, 19:09 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20181023T043351Z
 DTSTART:20181022T080000Z
 DTEND:20181022T081500Z
 TRANSP:TRANSPARENT
@@ -127,7 +45,7 @@ DESCRIPTION:Directorate: Trade and Agriculture Direc
  ris time (GMT+00:00)\nFreepreview export
  : 18 October 2018, 19:11 Paris time (GMT
  +00:00)\nFTI loaded: ✓.
-DTSTAMP:20181020T053811Z
+DTSTAMP:20181023T043351Z
 DTSTART:20181023T060000Z
 DTEND:20181023T061500Z
 TRANSP:TRANSPARENT
@@ -142,6 +60,31 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/9335f0fa-es
+SUMMARY:¿Puede la equidad en la educación foment
+ ar la movilidad social?
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: Spanish\nDOI: https
+ ://doi.org/10.1787/9335f0fa-es\nPublicat
+ ion type: Working paper\nReleased as: PD
+ F.\n\niLibrary export: never\nFreeprevie
+ w export: 22 October 2018, 19:15 Paris t
+ ime (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181023T043351Z
+DTSTART:20181023T090000Z
+DTEND:20181023T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: ¿Puede la equidad en la educac
+ ión fomentar la movilidad social?
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/ca611a13-en
 SUMMARY:Can equity in education foster social mo
  bility?
@@ -149,10 +92,11 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/ca611a13-en\nPublicat
  ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: never\nFreeprevie
- w export: 19 October 2018, 19:09 Paris t
- ime (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181020T053811Z
+ F.\n\niLibrary export: 20 October 2018, 
+ 5:29 Paris time (GMT+00:00)\nFreepreview
+  export: 19 October 2018, 19:09 Paris ti
+ me (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181023T043351Z
 DTSTART:20181023T090000Z
 DTEND:20181023T091500Z
 TRANSP:TRANSPARENT
@@ -163,6 +107,33 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Can equity in education foster
   social mobility?
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264307193-en
+SUMMARY:Developing Schools as Learning Organisat
+ ions in Wales
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: English\nDOI: https
+ ://doi.org/10.1787/9789264307193-en\nPub
+ lication type: Book\nReleased as: Paperb
+ ack, ePub, PDF, HTML.\n\niLibrary export
+ : 18 October 2018, 4:27 Paris time (GMT+
+ 00:00)\nFreepreview export: 22 October 2
+ 018, 19:15 Paris time (GMT+00:00)\nFTI l
+ oaded: ✓.
+DTSTAMP:20181023T043351Z
+DTSTART:20181023T090000Z
+DTEND:20181023T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Developing Schools as Learning
+  Organisations in Wales
 END:VALARM
 END:VEVENT
 
@@ -178,7 +149,7 @@ DESCRIPTION:Directorate: Directorate for Education a
   2018, 4:58 Paris time (GMT+00:00)\nFree
  preview export: 18 October 2018, 19:11 P
  aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181020T053811Z
+DTSTAMP:20181023T043351Z
 DTSTART:20181023T090000Z
 DTEND:20181023T091500Z
 TRANSP:TRANSPARENT
@@ -189,6 +160,31 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Equity in Education - Breaking
   Down Barriers to Social Mobility
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/c6d9bb42-fr
+SUMMARY:L’équité dans l’éducation peut-elle favo
+ riser la mobilité sociale ?
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: French\nDOI: https:
+ //doi.org/10.1787/c6d9bb42-fr\nPublicati
+ on type: Working paper\nReleased as: PDF
+ .\n\niLibrary export: never\nFreepreview
+  export: 22 October 2018, 19:15 Paris ti
+ me (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181023T043351Z
+DTSTART:20181023T090000Z
+DTEND:20181023T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: L’équité dans l’éducation peut
+ -elle favoriser la mobilité sociale ?
 END:VALARM
 END:VEVENT
 
@@ -204,7 +200,7 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  Library export: 19 October 2018, 4:58 Pa
  ris time (GMT+00:00)\nFreepreview export
  : never\nFTI loaded: ✓.
-DTSTAMP:20181020T053811Z
+DTSTAMP:20181023T043351Z
 DTSTART:20181024T073000Z
 DTEND:20181024T074500Z
 TRANSP:TRANSPARENT
@@ -231,7 +227,7 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  ris time (GMT+00:00)\nFreepreview export
  : 8 October 2018, 19:30 Paris time (GMT+
  00:00)\nFTI loaded: ✓.
-DTSTAMP:20181020T053811Z
+DTSTAMP:20181023T043351Z
 DTSTART:20181024T073000Z
 DTEND:20181024T074500Z
 TRANSP:TRANSPARENT
@@ -252,14 +248,14 @@ SUMMARY:Revenue Statistics in Africa 2018, Stati
  e 2018
 DESCRIPTION:Directorate: Development Centre, Centre 
  for Tax Policy and Administration\nLangu
- age: English, French\nDOI: https://doi.o
+ age: French, English\nDOI: https://doi.o
  rg/10.1787/9789264305885-en-fr\nPublicat
  ion type: Book\nReleased as: Paperback, 
- PDF.\n\niLibrary export: 13 October 2018
- , 6:11 Paris time (GMT+00:00)\nFreeprevi
+ PDF.\n\niLibrary export: 20 October 2018
+ , 5:29 Paris time (GMT+00:00)\nFreeprevi
  ew export: 12 October 2018, 19:22 Paris 
  time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181020T053811Z
+DTSTAMP:20181023T043351Z
 DTSTART:20181031T090000Z
 DTEND:20181031T091500Z
 TRANSP:TRANSPARENT
@@ -278,8 +274,8 @@ BEGIN:VEVENT
 UID:10.1787/9789264300347-fr
 SUMMARY:Examen multidimensionnel du Sénégal - Vo
  lume 3. De l'analyse à l'action
-DESCRIPTION:Directorate: Public Affairs and Communic
- ations Directorate, Development Centre\n
+DESCRIPTION:Directorate: Development Centre, Public 
+ Affairs and Communications Directorate\n
  Language: French\nDOI: https://doi.org/1
  0.1787/9789264300347-fr\nPublication typ
  e: Book\nReleased as: Paperback, ePub, H
@@ -287,7 +283,7 @@ DESCRIPTION:Directorate: Public Affairs and Communic
   2018, 4:29 Paris time (GMT+00:00)\nFree
  preview export: 10 October 2018, 19:27 P
  aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181020T053811Z
+DTSTAMP:20181023T043351Z
 DTSTART:20181105T100000Z
 DTEND:20181105T101500Z
 TRANSP:TRANSPARENT
@@ -314,7 +310,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
   export: 13 October 2018, 6:11 Paris tim
  e (GMT+00:00)\nFreepreview export: never
  \nFTI loaded: no.
-DTSTAMP:20181020T053811Z
+DTSTAMP:20181023T043351Z
 DTSTART:20181204T230100Z
 DTEND:20181204T231600Z
 TRANSP:TRANSPARENT
