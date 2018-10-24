@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2018-10-23T04:33:44.3534085+02:00" count="260">
+<report name="official-embargoes" generated="2018-10-24T04:15:56.8100179+02:00" count="274">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -65,7 +65,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="4">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-1-fr</cell>
     <cell name="title">Avant-propos (fr)</cell>
     <cell name="subtitle"/>
@@ -81,7 +81,7 @@
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="5">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-graph11-fr</cell>
     <cell name="title">En fin de scolarité primaire, environ 40 % des élèves sénégalais n'ont pas atteint le seuil suffisant de compétences (fr)</cell>
     <cell name="subtitle">Répartition des élèves sénégalais en pourcentage, selon les niveaux de compétences (fr)</cell>
@@ -113,7 +113,7 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="7">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-fr</cell>
     <cell name="title">Examen multidimensionnel du Sénégal (fr)</cell>
     <cell name="subtitle">Volume 3. De l'analyse à l'action (fr)</cell>
@@ -177,7 +177,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="11">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-graph13-fr</cell>
     <cell name="title">La structure fiscale du Sénégal repose principalement sur les impôts sur la consommation (fr)</cell>
     <cell name="subtitle">En pourcentage des recettes fiscales (fr)</cell>
@@ -193,7 +193,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="12">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-graph2-fr</cell>
     <cell name="title">Le Sénégal a augmenté ses recettes depuis 2000 mais peut lever davantage de recettes fiscales (fr)</cell>
     <cell name="subtitle">En pourcentage du produit intérieur brut (PIB) (fr)</cell>
@@ -257,7 +257,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="16">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-6-fr</cell>
     <cell name="title">Le tableau de bord des indicateurs de suivi des réformes pour le Sénégal (fr)</cell>
     <cell name="subtitle"/>
@@ -321,7 +321,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="20">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-graph14-fr</cell>
     <cell name="title">Les dépenses fiscales en pourcentage du PIB restent très élevées entre 2014 et 2017 (fr)</cell>
     <cell name="subtitle"/>
@@ -337,7 +337,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="21">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-graph12-fr</cell>
     <cell name="title">Les enseignants sénégalais sont encore peu formés (fr)</cell>
     <cell name="subtitle">Proportion d'enseignants formés en pourcentage du total des enseignants, cycle primaire, 2005 et 2015 ou dernière année disponible (fr)</cell>
@@ -353,7 +353,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="22">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-graph7-fr</cell>
     <cell name="title">Les indicateurs relatifs au stock de capital humain sont faibles au Sénégal (fr)</cell>
     <cell name="subtitle"/>
@@ -369,7 +369,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="23">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-graph6-fr</cell>
     <cell name="title">Les performances du Sénégal sont souvent inférieures aux niveaux attendus de bien-être (fr)</cell>
     <cell name="subtitle"/>
@@ -385,7 +385,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="24">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-graph8-fr</cell>
     <cell name="title">Les procédures administratives de base sont lentes au Sénégal (fr)</cell>
     <cell name="subtitle">Jours nécessaires pour obtenir un service en 2017 (fr)</cell>
@@ -449,7 +449,7 @@
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="28">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-4-fr</cell>
     <cell name="title">Quelles priorités pour l'Émergence du Sénégal ? Synthèse des travaux analytiques (fr)</cell>
     <cell name="subtitle"/>
@@ -465,7 +465,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="29">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-3-fr</cell>
     <cell name="title">Résumé (fr)</cell>
     <cell name="subtitle"/>
@@ -481,7 +481,7 @@
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="30">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-3-fr</cell>
     <cell name="title">Résumé (fr)</cell>
     <cell name="subtitle"/>
@@ -497,7 +497,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="31">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-2-fr</cell>
     <cell name="title">Sigles et acronymes (fr)</cell>
     <cell name="subtitle"/>
@@ -533,7 +533,7 @@
     <cell name="doi">10.1787/9789264305885-9-en-fr</cell>
     <cell name="title">Annex A. The OECD classification of taxesand interpretative guide (en), Annexe A. Classification des impôts de l'OCDE et Guided'interprétation (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">French, English</cell>
+    <cell name="language">English, French</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-31</cell>
@@ -549,7 +549,7 @@
     <cell name="doi">10.1787/9789264305885-10-en-fr</cell>
     <cell name="title">Annex B. Interpretative guide to non-tax revenuein Revenue Statistics in Africa (en), Annexe B. Guide d'interprétation des recettes non fiscales dans les Statistiques des recettes publiques en Afrique (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">French, English</cell>
+    <cell name="language">English, French</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-31</cell>
@@ -565,7 +565,7 @@
     <cell name="doi">10.1787/9789264305885-8-en-fr</cell>
     <cell name="title">Country tables – Non-tax revenues,1997-2016 (en), Tableaux pays – Recettes non fiscales, 1997-2016 (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">French, English</cell>
+    <cell name="language">English, French</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-31</cell>
@@ -577,11 +577,11 @@
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="36">
-    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
+    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264305885-7-en-fr</cell>
     <cell name="title">Country tables – Tax revenues,1997-2016 (en), Tableaux pays – Recettes fiscales,1997-2016 (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">French, English</cell>
+    <cell name="language">English, French</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-31</cell>
@@ -593,11 +593,11 @@
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="37">
-    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
+    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264305885-2-en-fr</cell>
     <cell name="title">Executive summary (en), Résumé (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">French, English</cell>
+    <cell name="language">English, French</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-31</cell>
@@ -613,7 +613,7 @@
     <cell name="doi">10.1787/9789264305885-1-en-fr</cell>
     <cell name="title">Foreword (en), Avant-propos (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">English, French</cell>
+    <cell name="language">French, English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-31</cell>
@@ -625,11 +625,11 @@
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="39">
-    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
+    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
     <cell name="doi">10.1787/9789264305885-4-en-fr</cell>
     <cell name="title">Non-tax revenue trends, 1990-2016 (en), Tendances des recettes non fiscales,1990-2016 (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">English, French</cell>
+    <cell name="language">French, English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-31</cell>
@@ -645,7 +645,7 @@
     <cell name="doi">10.1787/9789264305885-en-fr</cell>
     <cell name="title">Revenue Statistics in Africa 2018 (en), Statistiques des recettes publiques en Afrique 2018 (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">English, French</cell>
+    <cell name="language">French, English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-10-31</cell>
@@ -657,11 +657,11 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="41">
-    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
+    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
     <cell name="doi">10.1787/9789264305885-en-fr</cell>
     <cell name="title">Revenue Statistics in Africa 2018 (en), Statistiques des recettes publiques en Afrique 2018 (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">French, English</cell>
+    <cell name="language">English, French</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-31</cell>
@@ -673,7 +673,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="42">
-    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
+    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
     <cell name="doi">10.1787/9789264305885-5-en-fr</cell>
     <cell name="title">SPECIAL FEATURE: Strategy for the Harmonisation of Statistics in Africa (SHaSA): 2017-2026 (en), ÉTUDE SPÉCIALE Stratégie pour l'harmonisation des statistiques en Afrique (SHaSA) : 2017-2026 (fr)</cell>
     <cell name="subtitle"/>
@@ -693,7 +693,7 @@
     <cell name="doi">10.1787/9789264305885-6-en-fr</cell>
     <cell name="title">Tax levels and tax structures,1990-2016 (en), Niveaux et structures des impôts, 1990-2016 (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">English, French</cell>
+    <cell name="language">French, English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-31</cell>
@@ -705,7 +705,7 @@
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="44">
-    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
+    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264305885-3-en-fr</cell>
     <cell name="title">Tax revenue trends, 2000-2016 (en), Tendances des recettes fiscales, 2000-2016 (fr)</cell>
     <cell name="subtitle"/>
@@ -721,249 +721,281 @@
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="45">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305762-2-es</cell>
-    <cell name="title">Acrónimos y abreviaturas (es)</cell>
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
+    <cell name="doi">10.1787/9789264305861-2-en</cell>
+    <cell name="title">Abbreviations and acronyms (en)</cell>
     <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-24</cell>
-    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="embargo date">2018-10-24T14:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date">2018-10-23T19:11:27Z</cell>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="46">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305762-2-es</cell>
-    <cell name="title">Acrónimos y abreviaturas (es)</cell>
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
+    <cell name="doi">10.1787/9789264305861-8-en</cell>
+    <cell name="title">Allocation of competences in France relevant for migrant integration (en)</cell>
     <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
+    <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-24</cell>
-    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="embargo date">2018-10-24T14:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date">2018-10-23T19:11:27Z</cell>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="47">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305748-2-en</cell>
-    <cell name="title">Acronyms and abbreviations (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-24</cell>
-    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="48">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305748-2-en</cell>
-    <cell name="title">Acronyms and abbreviations (en)</cell>
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
+    <cell name="doi">10.1787/9789264305861-3-en</cell>
+    <cell name="title">Executive summary (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-24</cell>
-    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="embargo date">2018-10-24T14:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date">2018-10-08T19:30:55Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date">2018-10-23T19:11:27Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="48">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
+    <cell name="doi">10.1787/9789264305861-1-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date">2018-10-23T19:11:27Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="49">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305762-10-es</cell>
-    <cell name="title">Acuerdos de Reconocimiento Mutuo (ARM) Bilaterales de Cualificaciones Profesionales (es)</cell>
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
+    <cell name="doi">10.1787/9789264305861-5-en</cell>
+    <cell name="title">Introduction (en)</cell>
     <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-24</cell>
-    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="embargo date">2018-10-24T14:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date">2018-10-23T19:11:27Z</cell>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="50">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305762-10-es</cell>
-    <cell name="title">Acuerdos de Reconocimiento Mutuo (ARM) Bilaterales de Cualificaciones Profesionales (es)</cell>
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
+    <cell name="doi">10.1787/9789264305861-4-en</cell>
+    <cell name="title">Key Data on Migrant Presence and Integration in Paris (en)</cell>
     <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
+    <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-24</cell>
-    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="embargo date">2018-10-24T14:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date">2018-10-23T19:11:27Z</cell>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="51">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305762-9-es</cell>
-    <cell name="title">Acuerdos no gubernamentales de cooperación entre organismos de evaluación de la conformidad (es)</cell>
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
+    <cell name="doi">10.1787/9789264305861-10-en</cell>
+    <cell name="title">List of participants in this case study (en)</cell>
     <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
+    <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-24</cell>
-    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="embargo date">2018-10-24T14:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date">2018-10-23T19:11:27Z</cell>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="52">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305762-9-es</cell>
-    <cell name="title">Acuerdos no gubernamentales de cooperación entre organismos de evaluación de la conformidad (es)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-10-24</cell>
-    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="53">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305748-4-en</cell>
-    <cell name="title">Assessment and recommendations (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-24</cell>
-    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="54">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305748-4-en</cell>
-    <cell name="title">Assessment and recommendations (en)</cell>
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
+    <cell name="doi">10.1787/9789264305861-6-en</cell>
+    <cell name="title">Migration Snap-shot of the city of Paris (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-24</cell>
-    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="embargo date">2018-10-24T14:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date">2018-10-08T19:30:55Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date">2018-10-23T19:11:27Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="53">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
+    <cell name="doi">10.1787/9789264305861-9-en</cell>
+    <cell name="title">The Asylum process and legislation in France (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date">2018-10-23T19:11:27Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="54">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
+    <cell name="doi">10.1787/9789264305861-7-en</cell>
+    <cell name="title">The Checklist for public action to migrant integration at the local level applied to the city of Paris (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date">2018-10-23T19:11:27Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="55">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305748-10-en</cell>
-    <cell name="title">Bilateral mutual recognition agreements of professional qualifications (en)</cell>
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
+    <cell name="doi">10.1787/9789264305861-en</cell>
+    <cell name="title">Working Together for Local Integration of Migrants and Refugees in Paris (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-10-24</cell>
-    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
+    <cell name="embargo date">2018-10-24T14:00:00Z</cell>
+    <cell name="launch date/time">2018-10-24T14:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
+    <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
   <row index="56">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305748-10-en</cell>
-    <cell name="title">Bilateral mutual recognition agreements of professional qualifications (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-24</cell>
-    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date">2018-10-08T19:30:55Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
-  </row>
-  <row index="57">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305748-7-en</cell>
-    <cell name="title">Co-operative international regulatory co-operation efforts: how Mexico engages internationally on regulatory matters (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-24</cell>
-    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date">2018-10-08T19:30:55Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
-  </row>
-  <row index="58">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305748-7-en</cell>
-    <cell name="title">Co-operative international regulatory co-operation efforts: how Mexico engages internationally on regulatory matters (en)</cell>
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
+    <cell name="doi">10.1787/9789264305861-en</cell>
+    <cell name="title">Working Together for Local Integration of Migrants and Refugees in Paris (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">HTML</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-17T04:26:12.16Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="57">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
+    <cell name="doi">10.1787/9789264305861-en</cell>
+    <cell name="title">Working Together for Local Integration of Migrants and Refugees in Paris (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-17T04:26:12.16Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="58">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
+    <cell name="doi">10.1787/9789264305861-en</cell>
+    <cell name="title">Working Together for Local Integration of Migrants and Refugees in Paris (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-24</cell>
-    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?"/>
+    <cell name="embargo date">2018-10-24T14:00:00Z</cell>
+    <cell name="launch date/time">2018-10-24T14:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-10-17T04:26:12.16Z</cell>
+    <cell name="freepreview last export date">2018-10-23T19:11:27Z</cell>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
   </row>
   <row index="59">
     <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305748-9-en</cell>
-    <cell name="title">Co-operative non-governmental arrangements between conformity assessment bodies (en)</cell>
+    <cell name="doi">10.1787/9789264305762-2-es</cell>
+    <cell name="title">Acrónimos y abreviaturas (es)</cell>
     <cell name="subtitle"/>
-    <cell name="language">English</cell>
+    <cell name="language">Spanish</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-24</cell>
     <cell name="embargo date">2018-10-24T07:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date">2018-10-08T19:30:55Z</cell>
+    <cell name="freepreview last export date">2018-10-23T19:11:27Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="60">
     <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305748-9-en</cell>
-    <cell name="title">Co-operative non-governmental arrangements between conformity assessment bodies (en)</cell>
+    <cell name="doi">10.1787/9789264305762-2-es</cell>
+    <cell name="title">Acrónimos y abreviaturas (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="61">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264305748-2-en</cell>
+    <cell name="title">Acronyms and abbreviations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
+    <cell name="freepreview last export date">2018-10-08T19:30:55Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="62">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264305748-2-en</cell>
+    <cell name="title">Acronyms and abbreviations (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">HTML</cell>
@@ -976,62 +1008,30 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="61">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305762-8-es</cell>
-    <cell name="title">Ejemplos de Memorandos de Entendimiento (MoU) celebrados en México (es)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-10-24</cell>
-    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="62">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305762-8-es</cell>
-    <cell name="title">Ejemplos de Memorandos de Entendimiento (MoU) celebrados en México (es)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-10-24</cell>
-    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
   <row index="63">
     <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305762-5-es</cell>
-    <cell name="title">El contexto de políticas y prácticas de cooperación regulatoria internacional (CRI) en México (es)</cell>
+    <cell name="doi">10.1787/9789264305762-10-es</cell>
+    <cell name="title">Acuerdos de Reconocimiento Mutuo (ARM) Bilaterales de Cualificaciones Profesionales (es)</cell>
     <cell name="subtitle"/>
     <cell name="language">Spanish</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-24</cell>
     <cell name="embargo date">2018-10-24T07:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2018-10-23T19:11:27Z</cell>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="64">
     <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305762-5-es</cell>
-    <cell name="title">El contexto de políticas y prácticas de cooperación regulatoria internacional (CRI) en México (es)</cell>
+    <cell name="doi">10.1787/9789264305762-10-es</cell>
+    <cell name="title">Acuerdos de Reconocimiento Mutuo (ARM) Bilaterales de Cualificaciones Profesionales (es)</cell>
     <cell name="subtitle"/>
     <cell name="language">Spanish</cell>
     <cell name="medium">HTML</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-24</cell>
     <cell name="embargo date">2018-10-24T07:30:00Z</cell>
     <cell name="launch date/time"/>
@@ -1042,104 +1042,104 @@
   </row>
   <row index="65">
     <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305762-es</cell>
-    <cell name="title">Estudio de cooperación regulatoria internacional de México (es)</cell>
+    <cell name="doi">10.1787/9789264305762-9-es</cell>
+    <cell name="title">Acuerdos no gubernamentales de cooperación entre organismos de evaluación de la conformidad (es)</cell>
     <cell name="subtitle"/>
     <cell name="language">Spanish</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-10-24</cell>
-    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
-    <cell name="launch date/time">2018-10-24T07:30:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="66">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305762-es</cell>
-    <cell name="title">Estudio de cooperación regulatoria internacional de México (es)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-24</cell>
     <cell name="embargo date">2018-10-24T07:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
+    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
+    <cell name="freepreview last export date">2018-10-23T19:11:27Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="66">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264305762-9-es</cell>
+    <cell name="title">Acuerdos no gubernamentales de cooperación entre organismos de evaluación de la conformidad (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="67">
     <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305762-es</cell>
-    <cell name="title">Estudio de cooperación regulatoria internacional de México (es)</cell>
+    <cell name="doi">10.1787/9789264305748-4-en</cell>
+    <cell name="title">Assessment and recommendations (en)</cell>
     <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
+    <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-24</cell>
     <cell name="embargo date">2018-10-24T07:30:00Z</cell>
-    <cell name="launch date/time">2018-10-24T07:30:00Z</cell>
-    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
+    <cell name="freepreview last export date">2018-10-08T19:30:55Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="68">
     <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305762-es</cell>
-    <cell name="title">Estudio de cooperación regulatoria internacional de México (es)</cell>
+    <cell name="doi">10.1787/9789264305748-4-en</cell>
+    <cell name="title">Assessment and recommendations (en)</cell>
     <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-24</cell>
     <cell name="embargo date">2018-10-24T07:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
+    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
   </row>
   <row index="69">
     <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305762-4-es</cell>
-    <cell name="title">Evaluación y recomendaciones (es)</cell>
+    <cell name="doi">10.1787/9789264305748-10-en</cell>
+    <cell name="title">Bilateral mutual recognition agreements of professional qualifications (en)</cell>
     <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-24</cell>
     <cell name="embargo date">2018-10-24T07:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2018-10-08T19:30:55Z</cell>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="70">
     <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305762-4-es</cell>
-    <cell name="title">Evaluación y recomendaciones (es)</cell>
+    <cell name="doi">10.1787/9789264305748-10-en</cell>
+    <cell name="title">Bilateral mutual recognition agreements of professional qualifications (en)</cell>
     <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-24</cell>
     <cell name="embargo date">2018-10-24T07:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
+    <cell name="fti loaded?"/>
   </row>
   <row index="71">
     <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305748-8-en</cell>
-    <cell name="title">Examples of MoUs concluded by Mexico (en)</cell>
+    <cell name="doi">10.1787/9789264305748-7-en</cell>
+    <cell name="title">Co-operative international regulatory co-operation efforts: how Mexico engages internationally on regulatory matters (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">HTML</cell>
@@ -1154,8 +1154,8 @@
   </row>
   <row index="72">
     <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305748-8-en</cell>
-    <cell name="title">Examples of MoUs concluded by Mexico (en)</cell>
+    <cell name="doi">10.1787/9789264305748-7-en</cell>
+    <cell name="title">Co-operative international regulatory co-operation efforts: how Mexico engages internationally on regulatory matters (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
@@ -1170,8 +1170,8 @@
   </row>
   <row index="73">
     <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305748-3-en</cell>
-    <cell name="title">Executive summary (en)</cell>
+    <cell name="doi">10.1787/9789264305748-9-en</cell>
+    <cell name="title">Co-operative non-governmental arrangements between conformity assessment bodies (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
@@ -1186,8 +1186,8 @@
   </row>
   <row index="74">
     <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305748-3-en</cell>
-    <cell name="title">Executive summary (en)</cell>
+    <cell name="doi">10.1787/9789264305748-9-en</cell>
+    <cell name="title">Co-operative non-governmental arrangements between conformity assessment bodies (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">HTML</cell>
@@ -1202,8 +1202,184 @@
   </row>
   <row index="75">
     <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305748-1-en</cell>
-    <cell name="title">Foreword (en)</cell>
+    <cell name="doi">10.1787/9789264305762-8-es</cell>
+    <cell name="title">Ejemplos de Memorandos de Entendimiento (MoU) celebrados en México (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="76">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264305762-8-es</cell>
+    <cell name="title">Ejemplos de Memorandos de Entendimiento (MoU) celebrados en México (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
+    <cell name="freepreview last export date">2018-10-23T19:11:27Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="77">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264305762-5-es</cell>
+    <cell name="title">El contexto de políticas y prácticas de cooperación regulatoria internacional (CRI) en México (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
+    <cell name="freepreview last export date">2018-10-23T19:11:27Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="78">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264305762-5-es</cell>
+    <cell name="title">El contexto de políticas y prácticas de cooperación regulatoria internacional (CRI) en México (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="79">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264305762-es</cell>
+    <cell name="title">Estudio de cooperación regulatoria internacional de México (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="launch date/time">2018-10-24T07:30:00Z</cell>
+    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
+    <cell name="freepreview last export date">2018-10-23T19:11:27Z</cell>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="80">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264305762-es</cell>
+    <cell name="title">Estudio de cooperación regulatoria internacional de México (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="81">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264305762-es</cell>
+    <cell name="title">Estudio de cooperación regulatoria internacional de México (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="launch date/time">2018-10-24T07:30:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="82">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264305762-es</cell>
+    <cell name="title">Estudio de cooperación regulatoria internacional de México (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="83">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264305762-4-es</cell>
+    <cell name="title">Evaluación y recomendaciones (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
+    <cell name="freepreview last export date">2018-10-23T19:11:27Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="84">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264305762-4-es</cell>
+    <cell name="title">Evaluación y recomendaciones (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="85">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264305748-8-en</cell>
+    <cell name="title">Examples of MoUs concluded by Mexico (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
+    <cell name="freepreview last export date">2018-10-08T19:30:55Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="86">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264305748-8-en</cell>
+    <cell name="title">Examples of MoUs concluded by Mexico (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">HTML</cell>
@@ -1216,7 +1392,39 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="76">
+  <row index="87">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264305748-3-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
+    <cell name="freepreview last export date">2018-10-08T19:30:55Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="88">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264305748-3-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="89">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305748-1-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1232,151 +1440,151 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="77">
+  <row index="90">
     <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305762-7-es</cell>
-    <cell name="title">Iniciativas de trabajo conjunto en materia de cooperación regulatoria internacional (CRI): la participación internacional de México en temas regulatorios (es)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-10-24</cell>
-    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="78">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305762-7-es</cell>
-    <cell name="title">Iniciativas de trabajo conjunto en materia de cooperación regulatoria internacional (CRI): la participación internacional de México en temas regulatorios (es)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-10-24</cell>
-    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="79">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305762-6-es</cell>
-    <cell name="title">Mecanismos unilaterales de cooperación regulatoria internacional (CRI): cómo incorpora México consideraciones internacionales en su proceso regulatorio interno (es)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-10-24</cell>
-    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="80">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305762-6-es</cell>
-    <cell name="title">Mecanismos unilaterales de cooperación regulatoria internacional (CRI): cómo incorpora México consideraciones internacionales en su proceso regulatorio interno (es)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-10-24</cell>
-    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="81">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305762-1-es</cell>
-    <cell name="title">Prefacio (es)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-10-24</cell>
-    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="82">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305762-1-es</cell>
-    <cell name="title">Prefacio (es)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-10-24</cell>
-    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="83">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305762-3-es</cell>
-    <cell name="title">Resumen ejecutivo (es)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-10-24</cell>
-    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="84">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305762-3-es</cell>
-    <cell name="title">Resumen ejecutivo (es)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-10-24</cell>
-    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="85">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264305748-en</cell>
-    <cell name="title">Review of International Regulatory Co-operation of Mexico (en)</cell>
+    <cell name="doi">10.1787/9789264305748-1-en</cell>
+    <cell name="title">Foreword (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-24</cell>
     <cell name="embargo date">2018-10-24T07:30:00Z</cell>
-    <cell name="launch date/time">2018-10-24T07:30:00Z</cell>
-    <cell name="ilibrary last export date"/>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="86">
+  <row index="91">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264305762-7-es</cell>
+    <cell name="title">Iniciativas de trabajo conjunto en materia de cooperación regulatoria internacional (CRI): la participación internacional de México en temas regulatorios (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="92">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264305762-7-es</cell>
+    <cell name="title">Iniciativas de trabajo conjunto en materia de cooperación regulatoria internacional (CRI): la participación internacional de México en temas regulatorios (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
+    <cell name="freepreview last export date">2018-10-23T19:11:27Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="93">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264305762-6-es</cell>
+    <cell name="title">Mecanismos unilaterales de cooperación regulatoria internacional (CRI): cómo incorpora México consideraciones internacionales en su proceso regulatorio interno (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="94">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264305762-6-es</cell>
+    <cell name="title">Mecanismos unilaterales de cooperación regulatoria internacional (CRI): cómo incorpora México consideraciones internacionales en su proceso regulatorio interno (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
+    <cell name="freepreview last export date">2018-10-23T19:11:27Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="95">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264305762-1-es</cell>
+    <cell name="title">Prefacio (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
+    <cell name="freepreview last export date">2018-10-23T19:11:27Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="96">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264305762-1-es</cell>
+    <cell name="title">Prefacio (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="97">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264305762-3-es</cell>
+    <cell name="title">Resumen ejecutivo (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
+    <cell name="freepreview last export date">2018-10-23T19:11:27Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="98">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264305762-3-es</cell>
+    <cell name="title">Resumen ejecutivo (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="99">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305748-en</cell>
     <cell name="title">Review of International Regulatory Co-operation of Mexico (en)</cell>
@@ -1392,7 +1600,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="87">
+  <row index="100">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305748-en</cell>
     <cell name="title">Review of International Regulatory Co-operation of Mexico (en)</cell>
@@ -1408,7 +1616,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="88">
+  <row index="101">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305748-en</cell>
     <cell name="title">Review of International Regulatory Co-operation of Mexico (en)</cell>
@@ -1424,7 +1632,23 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="89">
+  <row index="102">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264305748-en</cell>
+    <cell name="title">Review of International Regulatory Co-operation of Mexico (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-10-24</cell>
+    <cell name="embargo date">2018-10-24T07:30:00Z</cell>
+    <cell name="launch date/time">2018-10-24T07:30:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="103">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305748-5-en</cell>
     <cell name="title">The context of international regulatory co-operation policies and practices in Mexico (en)</cell>
@@ -1440,7 +1664,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="90">
+  <row index="104">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305748-5-en</cell>
     <cell name="title">The context of international regulatory co-operation policies and practices in Mexico (en)</cell>
@@ -1456,7 +1680,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="91">
+  <row index="105">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305748-6-en</cell>
     <cell name="title">Unilateral approaches to international regulatory co-operation: how Mexico embeds international considerations in its domestic rule-making processes (en)</cell>
@@ -1472,7 +1696,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="92">
+  <row index="106">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305748-6-en</cell>
     <cell name="title">Unilateral approaches to international regulatory co-operation: how Mexico embeds international considerations in its domestic rule-making processes (en)</cell>
@@ -1488,7 +1712,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="93">
+  <row index="107">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9335f0fa-es</cell>
     <cell name="title">¿Puede la equidad en la educación fomentar la movilidad social? (es)</cell>
@@ -1499,12 +1723,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:20.0078524Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="94">
+  <row index="108">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-6-en</cell>
     <cell name="title">Academic and socio-emotional resilience among disadvantaged students (en)</cell>
@@ -1520,7 +1744,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="95">
+  <row index="109">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph29-en</cell>
     <cell name="title">Academic resilience, and the likelihood of social and emotional resilience (en)</cell>
@@ -1536,7 +1760,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="96">
+  <row index="110">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-2-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -1547,12 +1771,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="97">
+  <row index="111">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-2-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -1563,12 +1787,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="98">
+  <row index="112">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-7-en</cell>
     <cell name="title">Are disadvantaged students affected by the socio-economic profile of their school? (en)</cell>
@@ -1584,23 +1808,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="99">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/9789264307193-4-en</cell>
-    <cell name="title">Assessment and recommendations (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-23</cell>
-    <cell name="embargo date">2018-10-23T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
-  </row>
-  <row index="100">
+  <row index="113">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-4-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -1611,28 +1819,28 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="101">
+  <row index="114">
     <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/9789264307193-10-en</cell>
-    <cell name="title">Authors (en)</cell>
+    <cell name="doi">10.1787/9789264307193-4-en</cell>
+    <cell name="title">Assessment and recommendations (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
+    <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="102">
+  <row index="115">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-10-en</cell>
     <cell name="title">Authors (en)</cell>
@@ -1643,12 +1851,28 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="103">
+  <row index="116">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/9789264307193-10-en</cell>
+    <cell name="title">Authors (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-23</cell>
+    <cell name="embargo date">2018-10-23T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="117">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph20-en</cell>
     <cell name="title">Availability of mentoring or coaching support, by staff categories (en)</cell>
@@ -1659,12 +1883,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="104">
+  <row index="118">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph10-en</cell>
     <cell name="title">Average school scores on creating and supporting continuous learning opportunities for all staff (en)</cell>
@@ -1675,12 +1899,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="105">
+  <row index="119">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph8-en</cell>
     <cell name="title">Average school scores on developing and sharing a vision centred on the learning of all students (en)</cell>
@@ -1691,12 +1915,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="106">
+  <row index="120">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph13-en</cell>
     <cell name="title">Average school scores on embedding systems for collecting and exchanging knowledge and learning (en)</cell>
@@ -1707,12 +1931,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="107">
+  <row index="121">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph12-en</cell>
     <cell name="title">Average school scores on establishing a culture of enquiry, exploration and innovation, by school type (en)</cell>
@@ -1723,12 +1947,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="108">
+  <row index="122">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph6-en</cell>
     <cell name="title">Average score per SLO dimension (en)</cell>
@@ -1739,12 +1963,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="109">
+  <row index="123">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph7-en</cell>
     <cell name="title">Average score per SLO dimension, by school type (en)</cell>
@@ -1755,12 +1979,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="110">
+  <row index="124">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph26-en</cell>
     <cell name="title">Building capacity to analyse and use data, by staff categories (en)</cell>
@@ -1771,12 +1995,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="111">
+  <row index="125">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph22-en</cell>
     <cell name="title">Building mutual trust, by staff categories (en)</cell>
@@ -1787,12 +2011,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="112">
+  <row index="126">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph28-en</cell>
     <cell name="title">Building trust, by staff categories (en)</cell>
@@ -1803,12 +2027,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="113">
+  <row index="127">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ca611a13-en</cell>
     <cell name="title">Can equity in education foster social mobility? (en)</cell>
@@ -1819,12 +2043,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-20T05:29:19.5594673Z</cell>
+    <cell name="ilibrary last export date">2018-10-23T04:20:20.0078524Z</cell>
     <cell name="freepreview last export date">2018-10-19T19:09:21Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="114">
+  <row index="128">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph8-en</cell>
     <cell name="title">Change between 2000 and 2015 in equity in reading performance (en)</cell>
@@ -1840,7 +2064,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="115">
+  <row index="129">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph9-en</cell>
     <cell name="title">Change between 2003 and 2015 in equity in mathematics performance (en)</cell>
@@ -1856,7 +2080,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="116">
+  <row index="130">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph11-en</cell>
     <cell name="title">Change between 2003 and 2015 in sense of belonging at school, by socio-economic status (en)</cell>
@@ -1872,7 +2096,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="117">
+  <row index="131">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph13-en</cell>
     <cell name="title">Change between 2006 and 2015 in career expectations, by socio-economic status (en)</cell>
@@ -1888,7 +2112,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="118">
+  <row index="132">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph6-en</cell>
     <cell name="title">Change between 2006 and 2015 in equity in science performance (en)</cell>
@@ -1904,7 +2128,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="119">
+  <row index="133">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph12-en</cell>
     <cell name="title">Change between 2006 and 2015 in science self-efficacy, by socio-economic status (en)</cell>
@@ -1920,7 +2144,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="120">
+  <row index="134">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph33-en</cell>
     <cell name="title">Change in student performance associated with school socio-economic profile (en)</cell>
@@ -1936,7 +2160,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="121">
+  <row index="135">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph17-en</cell>
     <cell name="title">Change in upward educational mobility across age cohorts (en)</cell>
@@ -1952,7 +2176,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="122">
+  <row index="136">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph29-en</cell>
     <cell name="title">Coaching by leaders, by region (en)</cell>
@@ -1963,12 +2187,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="123">
+  <row index="137">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph17-en</cell>
     <cell name="title">Coaching by leaders, by staff category (en)</cell>
@@ -1979,12 +2203,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="124">
+  <row index="138">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph15-en</cell>
     <cell name="title">Collaboration with external partners (en)</cell>
@@ -1995,12 +2219,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="125">
+  <row index="139">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph11-en</cell>
     <cell name="title">Collaborative learning and working (en)</cell>
@@ -2011,12 +2235,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="126">
+  <row index="140">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph39-en</cell>
     <cell name="title">Completed university education at age 25, by PISA reading performance and parents' education (en)</cell>
@@ -2032,7 +2256,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="127">
+  <row index="141">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph27-en</cell>
     <cell name="title">Core-skills resilience and student characteristics (en)</cell>
@@ -2048,55 +2272,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="128">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/9789264307193-en</cell>
-    <cell name="title">Developing Schools as Learning Organisations in Wales (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2018-10-23</cell>
-    <cell name="embargo date">2018-10-23T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="129">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/9789264307193-en</cell>
-    <cell name="title">Developing Schools as Learning Organisations in Wales (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-23</cell>
-    <cell name="embargo date">2018-10-23T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="130">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/9789264307193-en</cell>
-    <cell name="title">Developing Schools as Learning Organisations in Wales (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-23</cell>
-    <cell name="embargo date">2018-10-23T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
-    <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="131">
+  <row index="142">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-en</cell>
     <cell name="title">Developing Schools as Learning Organisations in Wales (en)</cell>
@@ -2107,12 +2283,60 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-18T04:27:53.797Z</cell>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="132">
+  <row index="143">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/9789264307193-en</cell>
+    <cell name="title">Developing Schools as Learning Organisations in Wales (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-10-23</cell>
+    <cell name="embargo date">2018-10-23T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="144">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/9789264307193-en</cell>
+    <cell name="title">Developing Schools as Learning Organisations in Wales (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-23</cell>
+    <cell name="embargo date">2018-10-23T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="145">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/9789264307193-en</cell>
+    <cell name="title">Developing Schools as Learning Organisations in Wales (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-23</cell>
+    <cell name="embargo date">2018-10-23T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
+    <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="146">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph30-en</cell>
     <cell name="title">Disadvantaged students in disadvantaged schools (en)</cell>
@@ -2128,7 +2352,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="133">
+  <row index="147">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph4-en</cell>
     <cell name="title">Educational mobility (longitudinal evidence) (en)</cell>
@@ -2144,7 +2368,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="134">
+  <row index="148">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-8-en</cell>
     <cell name="title">Educational mobility and school-to-work transitions among disadvantaged students (en)</cell>
@@ -2160,7 +2384,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="135">
+  <row index="149">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph16-en</cell>
     <cell name="title">Educational mobility, by country (en)</cell>
@@ -2176,7 +2400,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="136">
+  <row index="150">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph40-en</cell>
     <cell name="title">Employment status at age 25, by socio-economic background (en)</cell>
@@ -2192,7 +2416,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="137">
+  <row index="151">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph1-en</cell>
     <cell name="title">Equity in cognitive achievement (en)</cell>
@@ -2208,7 +2432,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="138">
+  <row index="152">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-en</cell>
     <cell name="title">Equity in Education (en)</cell>
@@ -2224,7 +2448,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="139">
+  <row index="153">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-en</cell>
     <cell name="title">Equity in Education (en)</cell>
@@ -2240,7 +2464,7 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="140">
+  <row index="154">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph3-en</cell>
     <cell name="title">Equity in educational attainment (en)</cell>
@@ -2256,7 +2480,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="141">
+  <row index="155">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph24-en</cell>
     <cell name="title">Equity in science achievement and national resilience (en)</cell>
@@ -2272,7 +2496,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="142">
+  <row index="156">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph2-en</cell>
     <cell name="title">Equity in student well-being (en)</cell>
@@ -2288,7 +2512,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="143">
+  <row index="157">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph31-en</cell>
     <cell name="title">Evolution since 2006 of the percentage of disadvantaged students in schools, by school socio-economic profile (en)</cell>
@@ -2304,23 +2528,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="144">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/9789264307193-3-en</cell>
-    <cell name="title">Executive summary (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-23</cell>
-    <cell name="embargo date">2018-10-23T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="145">
+  <row index="158">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-3-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -2331,12 +2539,28 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="146">
+  <row index="159">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/9789264307193-3-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-23</cell>
+    <cell name="embargo date">2018-10-23T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="160">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-2-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -2352,7 +2576,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="147">
+  <row index="161">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph43-en</cell>
     <cell name="title">Explaining disparities in literacy and numeracy proficiency in Denmark (en)</cell>
@@ -2368,7 +2592,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="148">
+  <row index="162">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-1-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2384,7 +2608,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="149">
+  <row index="163">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-1-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2395,12 +2619,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="150">
+  <row index="164">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-1-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2411,12 +2635,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="151">
+  <row index="165">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph1-en</cell>
     <cell name="title">Gross domestic product at current market prices in Euro per inhabitant as a percentage of the EU-28 average (en)</cell>
@@ -2427,12 +2651,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="152">
+  <row index="166">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph15-en</cell>
     <cell name="title">Highest level of education completed, by parents' education (en)</cell>
@@ -2448,7 +2672,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="153">
+  <row index="167">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph37-en</cell>
     <cell name="title">Highest level of education completed, by socio-economic status (en)</cell>
@@ -2464,7 +2688,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="154">
+  <row index="168">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-5-en</cell>
     <cell name="title">How is equity in education changing? (en)</cell>
@@ -2480,7 +2704,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="155">
+  <row index="169">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph18-en</cell>
     <cell name="title">Inclusion of moral purpose in schools' visions (en)</cell>
@@ -2491,12 +2715,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="156">
+  <row index="170">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph22-en</cell>
     <cell name="title">International, national and core-skills resilient students in PISA 2015 (en)</cell>
@@ -2512,7 +2736,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="157">
+  <row index="171">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph9-en</cell>
     <cell name="title">Involvement in shaping the school's vision (en)</cell>
@@ -2523,12 +2747,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="158">
+  <row index="172">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/c6d9bb42-fr</cell>
     <cell name="title">L’équité dans l’éducation peut-elle favoriser la mobilité sociale ? (fr)</cell>
@@ -2539,12 +2763,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:20.0078524Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="159">
+  <row index="173">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph18-en</cell>
     <cell name="title">Likelihood of attaining tertiary education, by parents' education (en)</cell>
@@ -2560,7 +2784,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="160">
+  <row index="174">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-10-en</cell>
     <cell name="title">List of tables available on line (en)</cell>
@@ -2576,7 +2800,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="161">
+  <row index="175">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph27-en</cell>
     <cell name="title">Modelling, coaching and promoting professional learning (en)</cell>
@@ -2587,12 +2811,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="162">
+  <row index="176">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph25-en</cell>
     <cell name="title">National resilience and core-skills resilience (en)</cell>
@@ -2608,7 +2832,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="163">
+  <row index="177">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph26-en</cell>
     <cell name="title">National resilience and student characteristics (en)</cell>
@@ -2624,7 +2848,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="164">
+  <row index="178">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph20-en</cell>
     <cell name="title">National trends in likelihood of completing tertiary education, by parents' education (en)</cell>
@@ -2640,7 +2864,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="165">
+  <row index="179">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph24-en</cell>
     <cell name="title">Openness to questioning among staff, by school type (en)</cell>
@@ -2651,12 +2875,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="166">
+  <row index="180">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-4-en</cell>
     <cell name="title">Overview and policy implications (en)</cell>
@@ -2672,7 +2896,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="167">
+  <row index="181">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph3-en</cell>
     <cell name="title">PISA results for Wales (2006-15) (en)</cell>
@@ -2683,12 +2907,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="168">
+  <row index="182">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-3-en</cell>
     <cell name="title">Reader's Guide (en)</cell>
@@ -2704,7 +2928,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="169">
+  <row index="183">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-9-en</cell>
     <cell name="title">Realising schools as learning organisations in Wales (en)</cell>
@@ -2715,12 +2939,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="170">
+  <row index="184">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-9-en</cell>
     <cell name="title">Realising schools as learning organisations in Wales (en)</cell>
@@ -2731,12 +2955,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="171">
+  <row index="185">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph34-en</cell>
     <cell name="title">School policies, practices and characteristics, and the impact of socio-economic status on science performance (en)</cell>
@@ -2752,7 +2976,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="172">
+  <row index="186">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph16-en</cell>
     <cell name="title">School scores on modelling and growing learning leadership, by school type (en)</cell>
@@ -2763,12 +2987,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="173">
+  <row index="187">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph5-en</cell>
     <cell name="title">School-to-work transitions (longitudinal evidence) (en)</cell>
@@ -2784,23 +3008,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="174">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/9789264307193-7-en</cell>
-    <cell name="title">Schools as learning organisations in Wales: A detailed analysis (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-23</cell>
-    <cell name="embargo date">2018-10-23T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="175">
+  <row index="188">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-7-en</cell>
     <cell name="title">Schools as learning organisations in Wales: A detailed analysis (en)</cell>
@@ -2811,28 +3019,28 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="176">
+  <row index="189">
     <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/9789264307193-6-en</cell>
-    <cell name="title">Schools as learning organisations in Wales: A general assessment (en)</cell>
+    <cell name="doi">10.1787/9789264307193-7-en</cell>
+    <cell name="title">Schools as learning organisations in Wales: A detailed analysis (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
+    <cell name="medium">HTML</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
+    <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
+    <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="177">
+  <row index="190">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-6-en</cell>
     <cell name="title">Schools as learning organisations in Wales: A general assessment (en)</cell>
@@ -2843,12 +3051,28 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="178">
+  <row index="191">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/9789264307193-6-en</cell>
+    <cell name="title">Schools as learning organisations in Wales: A general assessment (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-23</cell>
+    <cell name="embargo date">2018-10-23T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
+    <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="192">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-11-en</cell>
     <cell name="title">Schools as Learning Organisations Pilot Group members (en)</cell>
@@ -2859,12 +3083,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="179">
+  <row index="193">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-11-en</cell>
     <cell name="title">Schools as Learning Organisations Pilot Group members (en)</cell>
@@ -2875,12 +3099,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="180">
+  <row index="194">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph5-en</cell>
     <cell name="title">Schools in Wales developing as learning organisations (en)</cell>
@@ -2891,12 +3115,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="181">
+  <row index="195">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph23-en</cell>
     <cell name="title">Science performance and core-skills resilience (en)</cell>
@@ -2912,7 +3136,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="182">
+  <row index="196">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph4-en</cell>
     <cell name="title">Science performance and equity (PISA 2015) (en)</cell>
@@ -2923,12 +3147,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="183">
+  <row index="197">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph32-en</cell>
     <cell name="title">Science performance, by student and school socio-economic profile (en)</cell>
@@ -2944,7 +3168,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="184">
+  <row index="198">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph41-en</cell>
     <cell name="title">Skilled employment, by parents' education and PISA reading performance (en)</cell>
@@ -2960,7 +3184,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="185">
+  <row index="199">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph28-en</cell>
     <cell name="title">Social and emotional resilience, and its components (en)</cell>
@@ -2976,7 +3200,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="186">
+  <row index="200">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph21-en</cell>
     <cell name="title">Socio-economic disadvantage and science performance (en)</cell>
@@ -2992,7 +3216,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="187">
+  <row index="201">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph10-en</cell>
     <cell name="title">Socio-economic disparities in mathematics performance over students' lifetime (en)</cell>
@@ -3008,7 +3232,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="188">
+  <row index="202">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph36-en</cell>
     <cell name="title">Socio-economic diversity in school and student performance (en)</cell>
@@ -3024,7 +3248,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="189">
+  <row index="203">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph23-en</cell>
     <cell name="title">Staff attitudes to experimentation, initiative and risk taking (en)</cell>
@@ -3035,12 +3259,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="190">
+  <row index="204">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph25-en</cell>
     <cell name="title">Staff attitudes to failure and problems, by school type (en)</cell>
@@ -3051,12 +3275,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="191">
+  <row index="205">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph19-en</cell>
     <cell name="title">Staff involvement in developing the school's vision, by staff category (en)</cell>
@@ -3067,12 +3291,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="192">
+  <row index="206">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph14-en</cell>
     <cell name="title">Staff use of data and research evidence to improve their practice (en)</cell>
@@ -3083,12 +3307,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="193">
+  <row index="207">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph44-en</cell>
     <cell name="title">Student expectations and skilled employment (en)</cell>
@@ -3104,7 +3328,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="194">
+  <row index="208">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph35-en</cell>
     <cell name="title">Student truancy and the impact of socio-economic status on science performance (en)</cell>
@@ -3120,7 +3344,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="195">
+  <row index="209">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph7-en</cell>
     <cell name="title">Students' socio-economic status and average performance across OECD countries (en)</cell>
@@ -3136,7 +3360,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="196">
+  <row index="210">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-8-en</cell>
     <cell name="title">System-level policies for developing schools as learning organisations (en)</cell>
@@ -3147,12 +3371,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="197">
+  <row index="211">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-8-en</cell>
     <cell name="title">System-level policies for developing schools as learning organisations (en)</cell>
@@ -3163,12 +3387,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="198">
+  <row index="212">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-9-en</cell>
     <cell name="title">Technical notes on analyses in this report (en)</cell>
@@ -3184,7 +3408,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="199">
+  <row index="213">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph14-en</cell>
     <cell name="title">Total years of schooling, by wealth of countries (en)</cell>
@@ -3200,7 +3424,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="200">
+  <row index="214">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph19-en</cell>
     <cell name="title">Trends in likelihood of completing tertiary education, by parents' education (en)</cell>
@@ -3216,7 +3440,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="201">
+  <row index="215">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph21-en</cell>
     <cell name="title">Trust and mutual respect in learning and working together (en)</cell>
@@ -3227,12 +3451,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="202">
+  <row index="216">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-graph2-en</cell>
     <cell name="title">Unemployment rates in Wales, the European Union and the United Kingdom (2005-15) (en)</cell>
@@ -3243,12 +3467,12 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="203">
+  <row index="217">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph48-en</cell>
     <cell name="title">University completion rates among advantaged students, by school composition and student performance (en)</cell>
@@ -3264,7 +3488,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="204">
+  <row index="218">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph49-en</cell>
     <cell name="title">University completion rates among disadvantaged students, by school composition and student performance (en)</cell>
@@ -3280,7 +3504,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="205">
+  <row index="219">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph45-en</cell>
     <cell name="title">University completion rates, by effort and perseverance (en)</cell>
@@ -3296,7 +3520,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="206">
+  <row index="220">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph47-en</cell>
     <cell name="title">University completion rates, by family wealth (en)</cell>
@@ -3312,7 +3536,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="207">
+  <row index="221">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph46-en</cell>
     <cell name="title">University completion rates, by frequency of cultural activity, parents' education and PISA reading performance (en)</cell>
@@ -3328,7 +3552,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="208">
+  <row index="222">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph50-en</cell>
     <cell name="title">University completion rates, by peer expectations and school performance (en)</cell>
@@ -3344,7 +3568,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="209">
+  <row index="223">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph38-en</cell>
     <cell name="title">University completion, by quarter of PISA reading performance (en)</cell>
@@ -3360,7 +3584,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="210">
+  <row index="224">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264073234-graph42-en</cell>
     <cell name="title">Variation in numeracy proficiency explained by student characteristics and educational attainment (Denmark) (en)</cell>
@@ -3376,23 +3600,7 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="211">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/9789264307193-5-en</cell>
-    <cell name="title">Wales and its school system (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-23</cell>
-    <cell name="embargo date">2018-10-23T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="212">
+  <row index="225">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264307193-5-en</cell>
     <cell name="title">Wales and its school system (en)</cell>
@@ -3403,12 +3611,28 @@
     <cell name="date of publication">2018-10-23</cell>
     <cell name="embargo date">2018-10-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-22T19:15:28Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="213">
+  <row index="226">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/9789264307193-5-en</cell>
+    <cell name="title">Wales and its school system (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-23</cell>
+    <cell name="embargo date">2018-10-23T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="227">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9789264303911-2-en</cell>
     <cell name="title">Abbreviations (en)</cell>
@@ -3424,7 +3648,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="214">
+  <row index="228">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9789264303911-2-en</cell>
     <cell name="title">Abbreviations (en)</cell>
@@ -3440,7 +3664,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="215">
+  <row index="229">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9789264303911-13-en</cell>
     <cell name="title">Additional tables and figures (en)</cell>
@@ -3456,7 +3680,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="216">
+  <row index="230">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9789264303911-13-en</cell>
     <cell name="title">Additional tables and figures (en)</cell>
@@ -3472,7 +3696,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="217">
+  <row index="231">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9789264303911-6-en</cell>
     <cell name="title">Australia's services advantages (en)</cell>
@@ -3488,7 +3712,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="218">
+  <row index="232">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9789264303911-6-en</cell>
     <cell name="title">Australia's services advantages (en)</cell>
@@ -3504,7 +3728,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="219">
+  <row index="233">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9789264303911-en</cell>
     <cell name="title">Australian Services Trade in the Global Economy (en)</cell>
@@ -3520,7 +3744,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="220">
+  <row index="234">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9789264303911-en</cell>
     <cell name="title">Australian Services Trade in the Global Economy (en)</cell>
@@ -3536,7 +3760,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="221">
+  <row index="235">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9789264303911-en</cell>
     <cell name="title">Australian Services Trade in the Global Economy (en)</cell>
@@ -3552,7 +3776,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="222">
+  <row index="236">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9789264303911-en</cell>
     <cell name="title">Australian Services Trade in the Global Economy (en)</cell>
@@ -3568,234 +3792,10 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="223">
-    <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264303911-11-en</cell>
-    <cell name="title">Data (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-23</cell>
-    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="224">
-    <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264303911-11-en</cell>
-    <cell name="title">Data (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-23</cell>
-    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
-    <cell name="freepreview last export date">2018-10-18T19:11:27Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
-  </row>
-  <row index="225">
-    <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264303911-3-en</cell>
-    <cell name="title">Executive summary (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-23</cell>
-    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
-    <cell name="freepreview last export date">2018-10-18T19:11:27Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
-  </row>
-  <row index="226">
-    <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264303911-3-en</cell>
-    <cell name="title">Executive summary (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-23</cell>
-    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="227">
-    <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264303911-1-en</cell>
-    <cell name="title">Foreword (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-23</cell>
-    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="228">
-    <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264303911-1-en</cell>
-    <cell name="title">Foreword (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-23</cell>
-    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
-    <cell name="freepreview last export date">2018-10-18T19:11:27Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
-  </row>
-  <row index="229">
-    <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264303911-7-en</cell>
-    <cell name="title">Global markets for Australian services (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-23</cell>
-    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
-    <cell name="freepreview last export date">2018-10-18T19:11:27Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
-  </row>
-  <row index="230">
-    <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264303911-7-en</cell>
-    <cell name="title">Global markets for Australian services (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-23</cell>
-    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="231">
-    <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264303911-8-en</cell>
-    <cell name="title">Insights into strategic sectors: Health, METS, ICT, education and tourism (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-23</cell>
-    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
-    <cell name="freepreview last export date">2018-10-18T19:11:27Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
-  </row>
-  <row index="232">
-    <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264303911-8-en</cell>
-    <cell name="title">Insights into strategic sectors: Health, METS, ICT, education and tourism (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-23</cell>
-    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="233">
-    <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264303911-12-en</cell>
-    <cell name="title">Methodology (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-23</cell>
-    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
-    <cell name="freepreview last export date">2018-10-18T19:11:27Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
-  </row>
-  <row index="234">
-    <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264303911-12-en</cell>
-    <cell name="title">Methodology (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-23</cell>
-    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="235">
-    <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264303911-10-en</cell>
-    <cell name="title">Policy conclusions (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-23</cell>
-    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="236">
-    <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264303911-10-en</cell>
-    <cell name="title">Policy conclusions (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-23</cell>
-    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
-    <cell name="freepreview last export date">2018-10-18T19:11:27Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
-  </row>
   <row index="237">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264303911-9-en</cell>
-    <cell name="title">Promoting Australia's services competitiveness (en)</cell>
+    <cell name="doi">10.1787/9789264303911-11-en</cell>
+    <cell name="title">Data (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">HTML</cell>
@@ -3810,8 +3810,8 @@
   </row>
   <row index="238">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264303911-9-en</cell>
-    <cell name="title">Promoting Australia's services competitiveness (en)</cell>
+    <cell name="doi">10.1787/9789264303911-11-en</cell>
+    <cell name="title">Data (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
@@ -3826,8 +3826,8 @@
   </row>
   <row index="239">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/9789264303911-4-en</cell>
-    <cell name="title">The importance of services in the Australian economy (en)</cell>
+    <cell name="doi">10.1787/9789264303911-3-en</cell>
+    <cell name="title">Executive summary (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
@@ -3842,6 +3842,230 @@
   </row>
   <row index="240">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9789264303911-3-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-23</cell>
+    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="241">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9789264303911-1-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-23</cell>
+    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="242">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9789264303911-1-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-23</cell>
+    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
+    <cell name="freepreview last export date">2018-10-18T19:11:27Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="243">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9789264303911-7-en</cell>
+    <cell name="title">Global markets for Australian services (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-23</cell>
+    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
+    <cell name="freepreview last export date">2018-10-18T19:11:27Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="244">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9789264303911-7-en</cell>
+    <cell name="title">Global markets for Australian services (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-23</cell>
+    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="245">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9789264303911-8-en</cell>
+    <cell name="title">Insights into strategic sectors: Health, METS, ICT, education and tourism (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-23</cell>
+    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
+    <cell name="freepreview last export date">2018-10-18T19:11:27Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="246">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9789264303911-8-en</cell>
+    <cell name="title">Insights into strategic sectors: Health, METS, ICT, education and tourism (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-23</cell>
+    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="247">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9789264303911-12-en</cell>
+    <cell name="title">Methodology (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-23</cell>
+    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
+    <cell name="freepreview last export date">2018-10-18T19:11:27Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="248">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9789264303911-12-en</cell>
+    <cell name="title">Methodology (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-23</cell>
+    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="249">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9789264303911-10-en</cell>
+    <cell name="title">Policy conclusions (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-23</cell>
+    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="250">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9789264303911-10-en</cell>
+    <cell name="title">Policy conclusions (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-23</cell>
+    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
+    <cell name="freepreview last export date">2018-10-18T19:11:27Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="251">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9789264303911-9-en</cell>
+    <cell name="title">Promoting Australia's services competitiveness (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-23</cell>
+    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="252">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9789264303911-9-en</cell>
+    <cell name="title">Promoting Australia's services competitiveness (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-23</cell>
+    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
+    <cell name="freepreview last export date">2018-10-18T19:11:27Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="253">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9789264303911-4-en</cell>
+    <cell name="title">The importance of services in the Australian economy (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-23</cell>
+    <cell name="embargo date">2018-10-23T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-19T04:58:06.977Z</cell>
+    <cell name="freepreview last export date">2018-10-18T19:11:27Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="254">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9789264303911-4-en</cell>
     <cell name="title">The importance of services in the Australian economy (en)</cell>
     <cell name="subtitle"/>
@@ -3856,7 +4080,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="241">
+  <row index="255">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9789264303911-5-en</cell>
     <cell name="title">The regulatory environment for services in Australia (en)</cell>
@@ -3872,7 +4096,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="242">
+  <row index="256">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9789264303911-5-en</cell>
     <cell name="title">The regulatory environment for services in Australia (en)</cell>
@@ -3888,7 +4112,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="243">
+  <row index="257">
     <cell name="directorate">Directorate for Science, Technology and Industry </cell>
     <cell name="doi">10.1787/9789264304604-2-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -3904,7 +4128,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="244">
+  <row index="258">
     <cell name="directorate">Directorate for Science, Technology and Industry </cell>
     <cell name="doi">10.1787/9789264304604-9-en</cell>
     <cell name="title">Business innovation and knowledge flows (en)</cell>
@@ -3920,7 +4144,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="245">
+  <row index="259">
     <cell name="directorate">Directorate for Science, Technology and Industry </cell>
     <cell name="doi">10.1787/9789264304604-6-en</cell>
     <cell name="title">Concepts and definitions for measuring business innovation (en)</cell>
@@ -3936,7 +4160,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="246">
+  <row index="260">
     <cell name="directorate">Directorate for Science, Technology and Industry </cell>
     <cell name="doi">10.1787/9789264304604-5-en</cell>
     <cell name="title">Concepts for measuring innovation (en)</cell>
@@ -3952,7 +4176,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="247">
+  <row index="261">
     <cell name="directorate">Directorate for Science, Technology and Industry </cell>
     <cell name="doi">10.1787/9789264304604-3-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -3968,7 +4192,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="248">
+  <row index="262">
     <cell name="directorate">Directorate for Science, Technology and Industry </cell>
     <cell name="doi">10.1787/9789264304604-1-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -3984,7 +4208,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="249">
+  <row index="263">
     <cell name="directorate">Directorate for Science, Technology and Industry </cell>
     <cell name="doi">10.1787/9789264304604-15-en</cell>
     <cell name="title">Glossary of terms (en)</cell>
@@ -4000,7 +4224,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="250">
+  <row index="264">
     <cell name="directorate">Directorate for Science, Technology and Industry </cell>
     <cell name="doi">10.1787/9789264304604-4-en</cell>
     <cell name="title">Introduction to innovation statistics and the Oslo Manual (en)</cell>
@@ -4016,7 +4240,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="251">
+  <row index="265">
     <cell name="directorate">Directorate for Science, Technology and Industry </cell>
     <cell name="doi">10.1787/9789264304604-8-en</cell>
     <cell name="title">Measuring business capabilities for innovation (en)</cell>
@@ -4032,7 +4256,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="252">
+  <row index="266">
     <cell name="directorate">Directorate for Science, Technology and Industry </cell>
     <cell name="doi">10.1787/9789264304604-7-en</cell>
     <cell name="title">Measuring business innovation activities (en)</cell>
@@ -4048,7 +4272,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="253">
+  <row index="267">
     <cell name="directorate">Directorate for Science, Technology and Industry </cell>
     <cell name="doi">10.1787/9789264304604-10-en</cell>
     <cell name="title">Measuring external factors influencing innovation in firms (en)</cell>
@@ -4064,7 +4288,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="254">
+  <row index="268">
     <cell name="directorate">Directorate for Science, Technology and Industry </cell>
     <cell name="doi">10.1787/9789264304604-12-en</cell>
     <cell name="title">Methods for collecting data on business innovation (en)</cell>
@@ -4080,7 +4304,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="255">
+  <row index="269">
     <cell name="directorate">Directorate for Science, Technology and Industry </cell>
     <cell name="doi">10.1787/9789264304604-11-en</cell>
     <cell name="title">Objectives and outcomes of business innovation (en)</cell>
@@ -4096,7 +4320,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="256">
+  <row index="270">
     <cell name="directorate">Directorate for Science, Technology and Industry </cell>
     <cell name="doi">10.1787/9789264304604-en</cell>
     <cell name="title">Oslo Manual 2018 (en)</cell>
@@ -4107,12 +4331,12 @@
     <cell name="date of publication">2018-10-22</cell>
     <cell name="embargo date">2018-10-22T08:00:00Z</cell>
     <cell name="launch date/time">2018-10-22T08:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-10-20T05:29:17.82Z</cell>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="257">
+  <row index="271">
     <cell name="directorate">Directorate for Science, Technology and Industry </cell>
     <cell name="doi">10.1787/9789264304604-en</cell>
     <cell name="title">Oslo Manual 2018 (en)</cell>
@@ -4123,12 +4347,12 @@
     <cell name="date of publication">2018-10-22</cell>
     <cell name="embargo date">2018-10-22T08:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-20T05:29:17.82Z</cell>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date">2018-10-19T19:09:21Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="258">
+  <row index="272">
     <cell name="directorate">Directorate for Science, Technology and Industry </cell>
     <cell name="doi">10.1787/9789264304604-en</cell>
     <cell name="title">Oslo Manual 2018 (en)</cell>
@@ -4139,12 +4363,12 @@
     <cell name="date of publication">2018-10-22</cell>
     <cell name="embargo date">2018-10-22T08:00:00Z</cell>
     <cell name="launch date/time">2018-10-22T08:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-10-20T05:29:17.82Z</cell>
+    <cell name="ilibrary last export date">2018-10-23T04:20:18.14Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="259">
+  <row index="273">
     <cell name="directorate">Directorate for Science, Technology and Industry </cell>
     <cell name="doi">10.1787/9789264304604-13-en</cell>
     <cell name="title">The object method for innovation measurement (en)</cell>
@@ -4160,7 +4384,7 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="260">
+  <row index="274">
     <cell name="directorate">Directorate for Science, Technology and Industry </cell>
     <cell name="doi">10.1787/9789264304604-14-en</cell>
     <cell name="title">Use of innovation data for statistical indicators and analysis (en)</cell>

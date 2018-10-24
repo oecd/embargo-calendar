@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Tue, 23 Oct 2018 04:33:53 GMT</pubDate>
+      <pubDate>Wed, 24 Oct 2018 04:16:06 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -23,7 +23,7 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Science, Technology and Industry </oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Saturday, 20 October 2018, 5:29 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Tuesday, 23 October 2018, 4:20 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Friday, 19 October 2018, 19:09 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>HTML, PDF, ePub</oe:availableMedia>
@@ -53,7 +53,7 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Education and Skills</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport/>
+         <oe:iLibraryExport>Tuesday, 23 October 2018, 4:20 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Monday, 22 October 2018, 19:15 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Working paper</oe:catalogueType>
          <oe:availableMedia>PDF</oe:availableMedia>
@@ -68,7 +68,7 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Education and Skills</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Saturday, 20 October 2018, 5:29 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Tuesday, 23 October 2018, 4:20 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Friday, 19 October 2018, 19:09 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Working paper</oe:catalogueType>
          <oe:availableMedia>PDF</oe:availableMedia>
@@ -83,10 +83,10 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Education and Skills</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Thursday, 18 October 2018, 4:27 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:iLibraryExport>Tuesday, 23 October 2018, 4:20 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Monday, 22 October 2018, 19:15 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
-         <oe:availableMedia>Paperback, ePub, PDF, HTML</oe:availableMedia>
+         <oe:availableMedia>HTML, Paperback, ePub, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264073234-en</guid>
@@ -113,7 +113,7 @@
          <oe:launchTime/>
          <oe:directorate>Directorate for Education and Skills</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport/>
+         <oe:iLibraryExport>Tuesday, 23 October 2018, 4:20 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Monday, 22 October 2018, 19:15 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Working paper</oe:catalogueType>
          <oe:availableMedia>PDF</oe:availableMedia>
@@ -129,9 +129,9 @@
          <oe:directorate>Directorate for Public Governance</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Friday, 19 October 2018, 4:58 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:freePreviewExport>Tuesday, 23 October 2018, 19:11 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
-         <oe:availableMedia>Paperback, HTML, PDF, ePub</oe:availableMedia>
+         <oe:availableMedia>PDF, ePub, Paperback, HTML</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264305748-en</guid>
@@ -146,17 +146,32 @@
          <oe:iLibraryExport>Friday, 12 October 2018, 5:01 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Monday, 8 October 2018, 19:30 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
-         <oe:availableMedia>Paperback, PDF, HTML, ePub</oe:availableMedia>
+         <oe:availableMedia>PDF, HTML, ePub, Paperback</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264305861-en</guid>
+         <pubDate>Wed, 24 Oct 2018 14:00:00 GMT</pubDate>
+         <title>Working Together for Local Integration of Migrants and Refugees in Paris</title>
+         <link>https://doi.org/10.1787/9789264305861-en</link>
+         <description>Working Together for Local Integration of Migrants and Refugees in Paris by Centre for Entrepreneurship, SMEs and Local Development has an embargo on Wednesday, 24 October 2018, 16:00 Paris time (GMT+02:00).</description>
+         <oe:embargoTime>2018-10-24T14:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Centre for Entrepreneurship, SMEs and Local Development</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Wednesday, 17 October 2018, 4:26 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport>Tuesday, 23 October 2018, 19:11 Paris time (GMT+00:00)</oe:freePreviewExport>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+         <oe:availableMedia>Paperback, HTML, ePub, PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/9789264305885-en-fr</guid>
          <pubDate>Wed, 31 Oct 2018 09:00:00 GMT</pubDate>
          <title>Revenue Statistics in Africa 2018, Statistiques des recettes publiques en Afrique 2018</title>
          <link>https://doi.org/10.1787/9789264305885-en-fr</link>
-         <description>Revenue Statistics in Africa 2018, Statistiques des recettes publiques en Afrique 2018 by Development Centre, Centre for Tax Policy and Administration has an embargo on Wednesday, 31 October 2018, 10:00 Paris time (GMT+01:00).</description>
+         <description>Revenue Statistics in Africa 2018, Statistiques des recettes publiques en Afrique 2018 by Centre for Tax Policy and Administration, Development Centre has an embargo on Wednesday, 31 October 2018, 10:00 Paris time (GMT+01:00).</description>
          <oe:embargoTime>2018-10-31T09:00:00Z</oe:embargoTime>
          <oe:launchTime/>
-         <oe:directorate>Development Centre, Centre for Tax Policy and Administration</oe:directorate>
+         <oe:directorate>Centre for Tax Policy and Administration, Development Centre</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Saturday, 20 October 2018, 5:29 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Friday, 12 October 2018, 19:22 Paris time (GMT+00:00)</oe:freePreviewExport>
