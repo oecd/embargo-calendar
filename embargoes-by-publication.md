@@ -1,69 +1,6 @@
-# OECD publication embargoes (6 embargoes)
+# OECD publication embargoes (3 embargoes)
 
-*Data generated on Wednesday 24 October 2018 at 4:15*
-
-------
-
-## [Estudio de cooperación regulatoria internacional de México](https://doi.org/10.1787/9789264305762-es)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 24 October 2018 at 9:30 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 19 October 2018 at 6:58
-- [x] Exported to Keepeek Tuesday 23 October 2018 at 21:11
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
-
-------
-
-## [Review of International Regulatory Co-operation of Mexico](https://doi.org/10.1787/9789264305748-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 24 October 2018 at 9:30 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 12 October 2018 at 7:01
-- [x] Exported to Keepeek Monday 8 October 2018 at 21:30
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
-
-------
-
-## [Working Together for Local Integration of Migrants and Refugees in Paris](https://doi.org/10.1787/9789264305861-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 24 October 2018 at 16:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 October 2018 at 6:26
-- [x] Exported to Keepeek Tuesday 23 October 2018 at 21:11
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Medium: *PDF*
+*Data generated on Thursday 25 October 2018 at 4:57*
 
 ------
 
@@ -80,8 +17,8 @@ Wednesday 31 October 2018 at 10:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration, Development Centre*
-* Language: *English, French*
+* Directorate: *Development Centre, Centre for Tax Policy and Administration*
+* Language: *French, English*
 * Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
