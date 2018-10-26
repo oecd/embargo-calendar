@@ -1,6 +1,48 @@
-# OECD publication embargoes (3 embargoes)
+# OECD publication embargoes (6 embargoes)
 
-*Data generated on Thursday 25 October 2018 at 4:57*
+*Data generated on Friday 26 October 2018 at 5:05*
+
+------
+
+## [Skills on the Move - Migrants in the Survey of Adult Skills](https://doi.org/10.1787/9789264307353-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 29 October 2018 at 17:30 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 25 October 2018 at 6:42
+- [x] Exported to Keepeek Thursday 25 October 2018 at 21:10
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [The evolution of gender gaps in numeracy and literacy between childhood and adulthood](https://doi.org/10.1787/0ff7ae72-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 30 October 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Thursday 25 October 2018 at 21:10
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
 
 ------
 
@@ -38,10 +80,31 @@ Monday 5 November 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Development Centre, Public Affairs and Communications Directorate*
+* Directorate: *Public Affairs and Communications Directorate, Development Centre*
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Revenue Statistics in Asian and Pacific Economies](https://doi.org/10.1787/9789264308091-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 29 November 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 24 October 2018 at 6:02
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration, Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
 ------

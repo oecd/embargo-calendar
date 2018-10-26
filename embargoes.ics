@@ -4,164 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264303911-en
-SUMMARY:Australian Services Trade in the Global 
- Economy
-DESCRIPTION:Directorate: Trade and Agriculture Direc
- torate\nLanguage: English\nDOI: https://
- doi.org/10.1787/9789264303911-en\nPublic
- ation type: Stand-alone monograph\nRelea
- sed as: HTML, ePub, PDF, Paperback.\n\ni
- Library export: 19 October 2018, 4:58 Pa
- ris time (GMT+00:00)\nFreepreview export
- : 24 October 2018, 19:16 Paris time (GMT
- +00:00)\nFTI loaded: ✓.
-DTSTAMP:20181025T045718Z
-DTSTART:20181023T060000Z
-DTEND:20181023T061500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Australian Services Trade in t
- he Global Economy
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9335f0fa-es
-SUMMARY:¿Puede la equidad en la educación foment
- ar la movilidad social?
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills\nLanguage: Spanish\nDOI: https
- ://doi.org/10.1787/9335f0fa-es\nPublicat
- ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: 23 October 2018, 
- 4:20 Paris time (GMT+00:00)\nFreepreview
-  export: 22 October 2018, 19:15 Paris ti
- me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181025T045718Z
-DTSTART:20181023T090000Z
-DTEND:20181023T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: ¿Puede la equidad en la educac
- ión fomentar la movilidad social?
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/ca611a13-en
-SUMMARY:Can equity in education foster social mo
- bility?
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills\nLanguage: English\nDOI: https
- ://doi.org/10.1787/ca611a13-en\nPublicat
- ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: 23 October 2018, 
- 4:20 Paris time (GMT+00:00)\nFreepreview
-  export: 19 October 2018, 19:09 Paris ti
- me (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181025T045718Z
-DTSTART:20181023T090000Z
-DTEND:20181023T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Can equity in education foster
-  social mobility?
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264307193-en
-SUMMARY:Developing Schools as Learning Organisat
- ions in Wales
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills\nLanguage: English\nDOI: https
- ://doi.org/10.1787/9789264307193-en\nPub
- lication type: Book\nReleased as: ePub, 
- PDF, HTML, Paperback.\n\niLibrary export
- : 23 October 2018, 4:20 Paris time (GMT+
- 00:00)\nFreepreview export: 22 October 2
- 018, 19:15 Paris time (GMT+00:00)\nFTI l
- oaded: ✓.
-DTSTAMP:20181025T045718Z
-DTSTART:20181023T090000Z
-DTEND:20181023T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Developing Schools as Learning
-  Organisations in Wales
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264073234-en
-SUMMARY:Equity in Education - Breaking Down Barr
- iers to Social Mobility
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills\nLanguage: English\nDOI: https
- ://doi.org/10.1787/9789264073234-en\nPub
- lication type: Book\nReleased as: Paperb
- ack, PDF.\n\niLibrary export: 24 October
-  2018, 4:02 Paris time (GMT+00:00)\nFree
- preview export: 18 October 2018, 19:11 P
- aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181025T045718Z
-DTSTART:20181023T090000Z
-DTEND:20181023T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Equity in Education - Breaking
-  Down Barriers to Social Mobility
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/c6d9bb42-fr
-SUMMARY:L’équité dans l’éducation peut-elle favo
- riser la mobilité sociale ?
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills\nLanguage: French\nDOI: https:
- //doi.org/10.1787/c6d9bb42-fr\nPublicati
- on type: Working paper\nReleased as: PDF
- .\n\niLibrary export: 23 October 2018, 4
- :20 Paris time (GMT+00:00)\nFreepreview 
- export: 22 October 2018, 19:15 Paris tim
- e (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181025T045718Z
-DTSTART:20181023T090000Z
-DTEND:20181023T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: L’équité dans l’éducation peut
- -elle favoriser la mobilité sociale ?
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264305762-es
 SUMMARY:Estudio de cooperación regulatoria inter
  nacional de México
@@ -169,12 +11,12 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  rnance\nLanguage: Spanish\nDOI: https://
  doi.org/10.1787/9789264305762-es\nPublic
  ation type: Stand-alone monograph\nRelea
- sed as: PDF, ePub, Paperback, HTML.\n\ni
+ sed as: ePub, Paperback, HTML, PDF.\n\ni
  Library export: 24 October 2018, 4:02 Pa
  ris time (GMT+00:00)\nFreepreview export
  : 24 October 2018, 19:16 Paris time (GMT
  +00:00)\nFTI loaded: ✓.
-DTSTAMP:20181025T045718Z
+DTSTAMP:20181026T050535Z
 DTSTART:20181024T073000Z
 DTEND:20181024T074500Z
 TRANSP:TRANSPARENT
@@ -196,12 +38,12 @@ DESCRIPTION:Directorate: Directorate for Public Gove
  rnance\nLanguage: English\nDOI: https://
  doi.org/10.1787/9789264305748-en\nPublic
  ation type: Stand-alone monograph\nRelea
- sed as: PDF, HTML, ePub, Paperback.\n\ni
+ sed as: ePub, Paperback, PDF, HTML.\n\ni
  Library export: 12 October 2018, 5:01 Pa
  ris time (GMT+00:00)\nFreepreview export
  : 24 October 2018, 19:16 Paris time (GMT
  +00:00)\nFTI loaded: ✓.
-DTSTAMP:20181025T045718Z
+DTSTAMP:20181026T050535Z
 DTSTART:20181024T073000Z
 DTEND:20181024T074500Z
 TRANSP:TRANSPARENT
@@ -229,7 +71,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  0)\nFreepreview export: 23 October 2018,
   19:11 Paris time (GMT+00:00)\nFTI loade
  d: ✓.
-DTSTAMP:20181025T045718Z
+DTSTAMP:20181026T050535Z
 DTSTART:20181024T140000Z
 DTEND:20181024T141500Z
 TRANSP:TRANSPARENT
@@ -241,6 +83,59 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Working Together for Local Int
  egration of Migrants and Refugees in Par
  is
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264307353-en
+SUMMARY:Skills on the Move - Migrants in the Sur
+ vey of Adult Skills
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: English\nDOI: https
+ ://doi.org/10.1787/9789264307353-en\nPub
+ lication type: Book\nReleased as: PDF.\n
+ \niLibrary export: 25 October 2018, 4:42
+  Paris time (GMT+00:00)\nFreepreview exp
+ ort: 25 October 2018, 19:10 Paris time (
+ GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181026T050535Z
+DTSTART:20181029T163000Z
+DTEND:20181029T164500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Skills on the Move - Migrants 
+ in the Survey of Adult Skills
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/0ff7ae72-en
+SUMMARY:The evolution of gender gaps in numeracy
+  and literacy between childhood and adul
+ thood
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: English\nDOI: https
+ ://doi.org/10.1787/0ff7ae72-en\nPublicat
+ ion type: Working paper\nReleased as: PD
+ F.\n\niLibrary export: never\nFreeprevie
+ w export: 25 October 2018, 19:10 Paris t
+ ime (GMT+00:00)\nFTI loaded: ✓, ✓.
+DTSTAMP:20181026T050535Z
+DTSTART:20181030T100000Z
+DTEND:20181030T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: The evolution of gender gaps i
+ n numeracy and literacy between childhoo
+ d and adulthood
 END:VALARM
 END:VEVENT
 
@@ -258,7 +153,7 @@ DESCRIPTION:Directorate: Development Centre, Centre
  , 5:29 Paris time (GMT+00:00)\nFreeprevi
  ew export: 12 October 2018, 19:22 Paris 
  time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181025T045718Z
+DTSTAMP:20181026T050535Z
 DTSTART:20181031T090000Z
 DTEND:20181031T091500Z
 TRANSP:TRANSPARENT
@@ -277,8 +172,8 @@ BEGIN:VEVENT
 UID:10.1787/9789264300347-fr
 SUMMARY:Examen multidimensionnel du Sénégal - Vo
  lume 3. De l'analyse à l'action
-DESCRIPTION:Directorate: Development Centre, Public 
- Affairs and Communications Directorate\n
+DESCRIPTION:Directorate: Public Affairs and Communic
+ ations Directorate, Development Centre\n
  Language: French\nDOI: https://doi.org/1
  0.1787/9789264300347-fr\nPublication typ
  e: Book\nReleased as: Paperback, ePub, H
@@ -286,7 +181,7 @@ DESCRIPTION:Directorate: Development Centre, Public
   2018, 4:29 Paris time (GMT+00:00)\nFree
  preview export: 10 October 2018, 19:27 P
  aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181025T045718Z
+DTSTAMP:20181026T050535Z
 DTSTART:20181105T100000Z
 DTEND:20181105T101500Z
 TRANSP:TRANSPARENT
@@ -302,6 +197,32 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/9789264308091-en
+SUMMARY:Revenue Statistics in Asian and Pacific 
+ Economies
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration, Development Centre\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/9789264308091-en\nPublication type: S
+ tand-alone monograph\nReleased as: PDF, 
+ Paperback.\n\niLibrary export: 24 Octobe
+ r 2018, 4:02 Paris time (GMT+00:00)\nFre
+ epreview export: never\nFTI loaded: no.
+DTSTAMP:20181026T050535Z
+DTSTART:20181129T100000Z
+DTEND:20181129T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Revenue Statistics in Asian an
+ d Pacific Economies
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264301450-en
 SUMMARY:SME and Entrepreneurship Policy in Kazak
  hstan 2018
@@ -313,7 +234,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
   export: 13 October 2018, 6:11 Paris tim
  e (GMT+00:00)\nFreepreview export: never
  \nFTI loaded: no.
-DTSTAMP:20181025T045718Z
+DTSTAMP:20181026T050535Z
 DTSTART:20181204T230100Z
 DTEND:20181204T231600Z
 TRANSP:TRANSPARENT
