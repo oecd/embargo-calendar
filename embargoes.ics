@@ -4,89 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264305762-es
-SUMMARY:Estudio de cooperación regulatoria inter
- nacional de México
-DESCRIPTION:Directorate: Directorate for Public Gove
- rnance\nLanguage: Spanish\nDOI: https://
- doi.org/10.1787/9789264305762-es\nPublic
- ation type: Stand-alone monograph\nRelea
- sed as: ePub, Paperback, HTML, PDF.\n\ni
- Library export: 24 October 2018, 4:02 Pa
- ris time (GMT+00:00)\nFreepreview export
- : 24 October 2018, 19:16 Paris time (GMT
- +00:00)\nFTI loaded: ✓.
-DTSTAMP:20181026T050535Z
-DTSTART:20181024T073000Z
-DTEND:20181024T074500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Estudio de cooperación regulat
- oria internacional de México
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264305748-en
-SUMMARY:Review of International Regulatory Co-op
- eration of Mexico
-DESCRIPTION:Directorate: Directorate for Public Gove
- rnance\nLanguage: English\nDOI: https://
- doi.org/10.1787/9789264305748-en\nPublic
- ation type: Stand-alone monograph\nRelea
- sed as: ePub, Paperback, PDF, HTML.\n\ni
- Library export: 12 October 2018, 5:01 Pa
- ris time (GMT+00:00)\nFreepreview export
- : 24 October 2018, 19:16 Paris time (GMT
- +00:00)\nFTI loaded: ✓.
-DTSTAMP:20181026T050535Z
-DTSTART:20181024T073000Z
-DTEND:20181024T074500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Review of International Regula
- tory Co-operation of Mexico
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/9789264305861-en
-SUMMARY:Working Together for Local Integration o
- f Migrants and Refugees in Paris
-DESCRIPTION:Directorate: Centre for Entrepreneurship
- , SMEs and Local Development\nLanguage: 
- English\nDOI: https://doi.org/10.1787/97
- 89264305861-en\nPublication type: Stand-
- alone monograph\nReleased as: Paperback,
-  HTML, ePub, PDF.\n\niLibrary export: 24
-  October 2018, 4:02 Paris time (GMT+00:0
- 0)\nFreepreview export: 23 October 2018,
-  19:11 Paris time (GMT+00:00)\nFTI loade
- d: ✓.
-DTSTAMP:20181026T050535Z
-DTSTART:20181024T140000Z
-DTEND:20181024T141500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Working Together for Local Int
- egration of Migrants and Refugees in Par
- is
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264307353-en
 SUMMARY:Skills on the Move - Migrants in the Sur
  vey of Adult Skills
@@ -94,13 +11,13 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9789264307353-en\nPub
  lication type: Book\nReleased as: PDF.\n
- \niLibrary export: 25 October 2018, 4:42
+ \niLibrary export: 26 October 2018, 4:50
   Paris time (GMT+00:00)\nFreepreview exp
- ort: 25 October 2018, 19:10 Paris time (
+ ort: 26 October 2018, 19:08 Paris time (
  GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181026T050535Z
-DTSTART:20181029T163000Z
-DTEND:20181029T164500Z
+DTSTAMP:20181027T053451Z
+DTSTART:20181029T100000Z
+DTEND:20181029T101500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT72H
@@ -121,10 +38,11 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/0ff7ae72-en\nPublicat
  ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: never\nFreeprevie
- w export: 25 October 2018, 19:10 Paris t
- ime (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20181026T050535Z
+ F.\n\niLibrary export: 26 October 2018, 
+ 4:50 Paris time (GMT+00:00)\nFreepreview
+  export: 25 October 2018, 19:10 Paris ti
+ me (GMT+00:00)\nFTI loaded: ✓, ✓.
+DTSTAMP:20181027T053451Z
 DTSTART:20181030T100000Z
 DTEND:20181030T101500Z
 TRANSP:TRANSPARENT
@@ -146,14 +64,14 @@ SUMMARY:Revenue Statistics in Africa 2018, Stati
  e 2018
 DESCRIPTION:Directorate: Development Centre, Centre 
  for Tax Policy and Administration\nLangu
- age: French, English\nDOI: https://doi.o
+ age: English, French\nDOI: https://doi.o
  rg/10.1787/9789264305885-en-fr\nPublicat
- ion type: Book\nReleased as: Paperback, 
- PDF.\n\niLibrary export: 20 October 2018
+ ion type: Book\nReleased as: PDF, Paperb
+ ack.\n\niLibrary export: 20 October 2018
  , 5:29 Paris time (GMT+00:00)\nFreeprevi
  ew export: 12 October 2018, 19:22 Paris 
  time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181026T050535Z
+DTSTAMP:20181027T053451Z
 DTSTART:20181031T090000Z
 DTEND:20181031T091500Z
 TRANSP:TRANSPARENT
@@ -181,7 +99,7 @@ DESCRIPTION:Directorate: Public Affairs and Communic
   2018, 4:29 Paris time (GMT+00:00)\nFree
  preview export: 10 October 2018, 19:27 P
  aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181026T050535Z
+DTSTAMP:20181027T053451Z
 DTSTART:20181105T100000Z
 DTEND:20181105T101500Z
 TRANSP:TRANSPARENT
@@ -200,15 +118,15 @@ BEGIN:VEVENT
 UID:10.1787/9789264308091-en
 SUMMARY:Revenue Statistics in Asian and Pacific 
  Economies
-DESCRIPTION:Directorate: Centre for Tax Policy and A
- dministration, Development Centre\nLangu
+DESCRIPTION:Directorate: Development Centre, Centre 
+ for Tax Policy and Administration\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/9789264308091-en\nPublication type: S
  tand-alone monograph\nReleased as: PDF, 
- Paperback.\n\niLibrary export: 24 Octobe
- r 2018, 4:02 Paris time (GMT+00:00)\nFre
+ Paperback.\n\niLibrary export: 26 Octobe
+ r 2018, 4:50 Paris time (GMT+00:00)\nFre
  epreview export: never\nFTI loaded: no.
-DTSTAMP:20181026T050535Z
+DTSTAMP:20181027T053451Z
 DTSTART:20181129T100000Z
 DTEND:20181129T101500Z
 TRANSP:TRANSPARENT
@@ -234,7 +152,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
   export: 13 October 2018, 6:11 Paris tim
  e (GMT+00:00)\nFreepreview export: never
  \nFTI loaded: no.
-DTSTAMP:20181026T050535Z
+DTSTAMP:20181027T053451Z
 DTSTART:20181204T230100Z
 DTEND:20181204T231600Z
 TRANSP:TRANSPARENT

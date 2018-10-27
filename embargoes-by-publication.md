@@ -1,6 +1,6 @@
 # OECD publication embargoes (6 embargoes)
 
-*Data generated on Friday 26 October 2018 at 5:05*
+*Data generated on Saturday 27 October 2018 at 5:34*
 
 ------
 
@@ -8,12 +8,12 @@
 
 Embargo date | Launch date
 -------------|------------
-Monday 29 October 2018 at 17:30 | no launch event
+Monday 29 October 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 25 October 2018 at 6:42
-- [x] Exported to Keepeek Thursday 25 October 2018 at 21:10
+- [x] Exported to iLibrary Friday 26 October 2018 at 6:50
+- [x] Exported to Keepeek Friday 26 October 2018 at 21:08
 
 ### Additional Information
 
@@ -33,7 +33,7 @@ Tuesday 30 October 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 26 October 2018 at 6:50
 - [x] Exported to Keepeek Thursday 25 October 2018 at 21:10
 
 ### Additional Information
@@ -60,7 +60,7 @@ Wednesday 31 October 2018 at 10:00 | no launch event
 ### Additional Information
 
 * Directorate: *Development Centre, Centre for Tax Policy and Administration*
-* Language: *French, English*
+* Language: *English, French*
 * Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
@@ -96,12 +96,12 @@ Thursday 29 November 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 24 October 2018 at 6:02
+- [x] Exported to iLibrary Friday 26 October 2018 at 6:50
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration, Development Centre*
+* Directorate: *Development Centre, Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
