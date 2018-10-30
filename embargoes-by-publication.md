@@ -1,27 +1,6 @@
-# OECD publication embargoes (6 embargoes)
+# OECD publication embargoes (5 embargoes)
 
-*Data generated on Saturday 27 October 2018 at 5:34*
-
-------
-
-## [Skills on the Move - Migrants in the Survey of Adult Skills](https://doi.org/10.1787/9789264307353-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 29 October 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 26 October 2018 at 6:50
-- [x] Exported to Keepeek Friday 26 October 2018 at 21:08
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Tuesday 30 October 2018 at 4:20*
 
 ------
 
@@ -54,12 +33,12 @@ Wednesday 31 October 2018 at 10:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 20 October 2018 at 7:29
+- [x] Exported to iLibrary Saturday 27 October 2018 at 7:25
 - [x] Exported to Keepeek Friday 12 October 2018 at 21:22
 
 ### Additional Information
 
-* Directorate: *Development Centre, Centre for Tax Policy and Administration*
+* Directorate: *Centre for Tax Policy and Administration, Development Centre*
 * Language: *English, French*
 * Availability: *Published*
 * Type of publication: *Book*
@@ -80,7 +59,7 @@ Monday 5 November 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Public Affairs and Communications Directorate, Development Centre*
+* Directorate: *Development Centre, Public Affairs and Communications Directorate*
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
