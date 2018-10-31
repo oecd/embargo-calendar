@@ -1,27 +1,6 @@
-# OECD publication embargoes (5 embargoes)
+# OECD publication embargoes (7 embargoes)
 
-*Data generated on Tuesday 30 October 2018 at 4:20*
-
-------
-
-## [The evolution of gender gaps in numeracy and literacy between childhood and adulthood](https://doi.org/10.1787/0ff7ae72-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 30 October 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 26 October 2018 at 6:50
-- [x] Exported to Keepeek Thursday 25 October 2018 at 21:10
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Wednesday 31 October 2018 at 4:22*
 
 ------
 
@@ -38,8 +17,8 @@ Wednesday 31 October 2018 at 10:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration, Development Centre*
-* Language: *English, French*
+* Directorate: *Development Centre, Centre for Tax Policy and Administration*
+* Language: *French, English*
 * Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
@@ -59,9 +38,72 @@ Monday 5 November 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Development Centre, Public Affairs and Communications Directorate*
+* Directorate: *Public Affairs and Communications Directorate, Development Centre*
 * Language: *French*
 * Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [The role of education in promoting positive attitudes towards migration at times of stress](https://doi.org/10.1787/1d73c833-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 5 November 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 30 October 2018 at 21:14
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [Stemming the Superbug Tide - Just A Few Dollars More](https://doi.org/10.1787/9789264307599-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 7 November 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 30 October 2018 at 5:54
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [World Energy Outlook 2018](https://doi.org/10.1787/g2g96ddc-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 13 November 2018 at 13:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *International Energy Agency*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Medium: *PDF*
 
