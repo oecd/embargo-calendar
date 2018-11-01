@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2018-10-31T04:22:29.2287223+01:00" count="54">
+<report name="official-embargoes" generated="2018-11-01T04:17:16.763959+01:00" count="53">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -49,7 +49,7 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="3">
-    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
+    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
     <cell name="doi">10.1787/9789264308091-en</cell>
     <cell name="title">Revenue Statistics in Asian and Pacific Economies (en)</cell>
     <cell name="subtitle"/>
@@ -65,7 +65,7 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="4">
-    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
+    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264308091-en</cell>
     <cell name="title">Revenue Statistics in Asian and Pacific Economies (en)</cell>
     <cell name="subtitle"/>
@@ -81,7 +81,7 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="5">
-    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
+    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
     <cell name="doi">10.1787/9789264308091-en</cell>
     <cell name="title">Revenue Statistics in Asian and Pacific Economies (en)</cell>
     <cell name="subtitle"/>
@@ -97,7 +97,7 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="6">
-    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
+    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264308091-en</cell>
     <cell name="title">Revenue Statistics in Asian and Pacific Economies (en)</cell>
     <cell name="subtitle"/>
@@ -155,13 +155,13 @@
     <cell name="date of publication">2018-11-07</cell>
     <cell name="embargo date">2018-11-07T10:00:00Z</cell>
     <cell name="launch date/time">2018-11-07T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-10-30T04:54:47.623Z</cell>
+    <cell name="ilibrary last export date">2018-10-31T05:03:11.69Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
   <row index="10">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-1-fr</cell>
     <cell name="title">Avant-propos (fr)</cell>
     <cell name="subtitle"/>
@@ -193,7 +193,7 @@
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="12">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-graph11-fr</cell>
     <cell name="title">En fin de scolarité primaire, environ 40 % des élèves sénégalais n'ont pas atteint le seuil suffisant de compétences (fr)</cell>
     <cell name="subtitle">Répartition des élèves sénégalais en pourcentage, selon les niveaux de compétences (fr)</cell>
@@ -209,7 +209,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="13">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-fr</cell>
     <cell name="title">Examen multidimensionnel du Sénégal (fr)</cell>
     <cell name="subtitle">Volume 3. De l'analyse à l'action (fr)</cell>
@@ -225,7 +225,7 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="14">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-fr</cell>
     <cell name="title">Examen multidimensionnel du Sénégal (fr)</cell>
     <cell name="subtitle">Volume 3. De l'analyse à l'action (fr)</cell>
@@ -273,7 +273,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="17">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-graph3-fr</cell>
     <cell name="title">La croissance économique et le PIB par tête repartent à la hausse (fr)</cell>
     <cell name="subtitle"/>
@@ -289,7 +289,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="18">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-graph13-fr</cell>
     <cell name="title">La structure fiscale du Sénégal repose principalement sur les impôts sur la consommation (fr)</cell>
     <cell name="subtitle">En pourcentage des recettes fiscales (fr)</cell>
@@ -305,7 +305,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="19">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-graph2-fr</cell>
     <cell name="title">Le Sénégal a augmenté ses recettes depuis 2000 mais peut lever davantage de recettes fiscales (fr)</cell>
     <cell name="subtitle">En pourcentage du produit intérieur brut (PIB) (fr)</cell>
@@ -321,7 +321,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="20">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-graph4-fr</cell>
     <cell name="title">Le Sénégal est l'un des pays qui affichent le nombre le plus élevé de paiement d'impôts (fr)</cell>
     <cell name="subtitle">Nombre de paiements d'impôts et taxes (fr)</cell>
@@ -369,7 +369,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="23">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-6-fr</cell>
     <cell name="title">Le tableau de bord des indicateurs de suivi des réformes pour le Sénégal (fr)</cell>
     <cell name="subtitle"/>
@@ -417,7 +417,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="26">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-graph9-fr</cell>
     <cell name="title">Les dépenses en éducation du Sénégal correspondent aux standards internationaux (fr)</cell>
     <cell name="subtitle">Dépenses en éducation en pourcentage du PIB (fr)</cell>
@@ -433,7 +433,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="27">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-graph14-fr</cell>
     <cell name="title">Les dépenses fiscales en pourcentage du PIB restent très élevées entre 2014 et 2017 (fr)</cell>
     <cell name="subtitle"/>
@@ -449,7 +449,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="28">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-graph12-fr</cell>
     <cell name="title">Les enseignants sénégalais sont encore peu formés (fr)</cell>
     <cell name="subtitle">Proportion d'enseignants formés en pourcentage du total des enseignants, cycle primaire, 2005 et 2015 ou dernière année disponible (fr)</cell>
@@ -465,7 +465,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="29">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-graph7-fr</cell>
     <cell name="title">Les indicateurs relatifs au stock de capital humain sont faibles au Sénégal (fr)</cell>
     <cell name="subtitle"/>
@@ -481,7 +481,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="30">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-graph6-fr</cell>
     <cell name="title">Les performances du Sénégal sont souvent inférieures aux niveaux attendus de bien-être (fr)</cell>
     <cell name="subtitle"/>
@@ -529,7 +529,7 @@
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="33">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-5-fr</cell>
     <cell name="title">Plan d'action des recommandations pour le Sénégal et proposition de mise en œuvre (fr)</cell>
     <cell name="subtitle"/>
@@ -561,7 +561,7 @@
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="35">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-4-fr</cell>
     <cell name="title">Quelles priorités pour l'Émergence du Sénégal ? Synthèse des travaux analytiques (fr)</cell>
     <cell name="subtitle"/>
@@ -577,7 +577,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="36">
-    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
+    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
     <cell name="doi">10.1787/9789264300347-3-fr</cell>
     <cell name="title">Résumé (fr)</cell>
     <cell name="subtitle"/>
@@ -625,7 +625,7 @@
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="39">
-    <cell name="directorate">Development Centre, Public Affairs and Communications Directorate</cell>
+    <cell name="directorate">Public Affairs and Communications Directorate, Development Centre</cell>
     <cell name="doi">10.1787/9789264300347-2-fr</cell>
     <cell name="title">Sigles et acronymes (fr)</cell>
     <cell name="subtitle"/>
@@ -651,17 +651,17 @@
     <cell name="date of publication">2018-11-05</cell>
     <cell name="embargo date">2018-11-05T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-10-31T05:03:12.9527912Z</cell>
     <cell name="freepreview last export date">2018-10-30T20:14:49Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="41">
-    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
+    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264305885-9-en-fr</cell>
     <cell name="title">Annex A. The OECD classification of taxesand interpretative guide (en), Annexe A. Classification des impôts de l'OCDE et Guided'interprétation (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">French, English</cell>
+    <cell name="language">English, French</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-31</cell>
@@ -673,11 +673,11 @@
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="42">
-    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
+    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264305885-10-en-fr</cell>
     <cell name="title">Annex B. Interpretative guide to non-tax revenuein Revenue Statistics in Africa (en), Annexe B. Guide d'interprétation des recettes non fiscales dans les Statistiques des recettes publiques en Afrique (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">English, French</cell>
+    <cell name="language">French, English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-31</cell>
@@ -725,22 +725,6 @@
     <cell name="doi">10.1787/9789264305885-2-en-fr</cell>
     <cell name="title">Executive summary (en), Résumé (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">English, French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-31</cell>
-    <cell name="embargo date">2018-10-31T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-10-13T06:11:28.39Z</cell>
-    <cell name="freepreview last export date">2018-10-12T19:22:10Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
-  </row>
-  <row index="46">
-    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
-    <cell name="doi">10.1787/9789264305885-1-en-fr</cell>
-    <cell name="title">Foreword (en), Avant-propos (fr)</cell>
-    <cell name="subtitle"/>
     <cell name="language">French, English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
@@ -752,8 +736,24 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="47">
+  <row index="46">
     <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264305885-1-en-fr</cell>
+    <cell name="title">Foreword (en), Avant-propos (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English, French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-10-31</cell>
+    <cell name="embargo date">2018-10-31T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-10-13T06:11:28.39Z</cell>
+    <cell name="freepreview last export date">2018-10-12T19:22:10Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="47">
+    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
     <cell name="doi">10.1787/9789264305885-4-en-fr</cell>
     <cell name="title">Non-tax revenue trends, 1990-2016 (en), Tendances des recettes non fiscales,1990-2016 (fr)</cell>
     <cell name="subtitle"/>
@@ -773,7 +773,7 @@
     <cell name="doi">10.1787/9789264305885-en-fr</cell>
     <cell name="title">Revenue Statistics in Africa 2018 (en), Statistiques des recettes publiques en Afrique 2018 (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">French, English</cell>
+    <cell name="language">English, French</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-31</cell>
@@ -789,7 +789,7 @@
     <cell name="doi">10.1787/9789264305885-en-fr</cell>
     <cell name="title">Revenue Statistics in Africa 2018 (en), Statistiques des recettes publiques en Afrique 2018 (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">French, English</cell>
+    <cell name="language">English, French</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-10-31</cell>
@@ -805,7 +805,7 @@
     <cell name="doi">10.1787/9789264305885-5-en-fr</cell>
     <cell name="title">SPECIAL FEATURE: Strategy for the Harmonisation of Statistics in Africa (SHaSA): 2017-2026 (en), ÉTUDE SPÉCIALE Stratégie pour l'harmonisation des statistiques en Afrique (SHaSA) : 2017-2026 (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">English, French</cell>
+    <cell name="language">French, English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-10-31</cell>
@@ -817,7 +817,7 @@
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="51">
-    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
+    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
     <cell name="doi">10.1787/9789264305885-6-en-fr</cell>
     <cell name="title">Tax levels and tax structures,1990-2016 (en), Niveaux et structures des impôts, 1990-2016 (fr)</cell>
     <cell name="subtitle"/>
@@ -833,7 +833,7 @@
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
   <row index="52">
-    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
+    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
     <cell name="doi">10.1787/9789264305885-3-en-fr</cell>
     <cell name="title">Tax revenue trends, 2000-2016 (en), Tendances des recettes fiscales, 2000-2016 (fr)</cell>
     <cell name="subtitle"/>
@@ -863,21 +863,5 @@
     <cell name="freepreview last export date">2018-10-25T19:10:15Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓, ✓</cell>
-  </row>
-  <row index="54">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/9789264307353-en</cell>
-    <cell name="title">Skills on the Move (en)</cell>
-    <cell name="subtitle">Migrants in the Survey of Adult Skills (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-10-29</cell>
-    <cell name="embargo date">2018-10-29T10:00:00Z</cell>
-    <cell name="launch date/time">2018-10-29T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-10-27T05:25:21.513Z</cell>
-    <cell name="freepreview last export date">2018-10-26T19:08:26Z</cell>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
   </row>
 </report>

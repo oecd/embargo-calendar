@@ -1,27 +1,6 @@
-# OECD publication embargoes (7 embargoes)
+# OECD publication embargoes (6 embargoes)
 
-*Data generated on Wednesday 31 October 2018 at 4:22*
-
-------
-
-## [Revenue Statistics in Africa 2018, Statistiques des recettes publiques en Afrique 2018](https://doi.org/10.1787/9789264305885-en-fr)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 31 October 2018 at 10:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 27 October 2018 at 7:25
-- [x] Exported to Keepeek Friday 12 October 2018 at 21:22
-
-### Additional Information
-
-* Directorate: *Development Centre, Centre for Tax Policy and Administration*
-* Language: *French, English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Thursday 1 November 2018 at 4:17*
 
 ------
 
@@ -54,7 +33,7 @@ Monday 5 November 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 31 October 2018 at 6:03
 - [x] Exported to Keepeek Tuesday 30 October 2018 at 21:14
 
 ### Additional Information
@@ -75,7 +54,7 @@ Wednesday 7 November 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 30 October 2018 at 5:54
+- [x] Exported to iLibrary Wednesday 31 October 2018 at 6:03
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -122,7 +101,7 @@ Thursday 29 November 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Development Centre, Centre for Tax Policy and Administration*
+* Directorate: *Centre for Tax Policy and Administration, Development Centre*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*

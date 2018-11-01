@@ -4,32 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264307353-en
-SUMMARY:Skills on the Move - Migrants in the Sur
- vey of Adult Skills
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills\nLanguage: English\nDOI: https
- ://doi.org/10.1787/9789264307353-en\nPub
- lication type: Book\nReleased as: PDF.\n
- \niLibrary export: 27 October 2018, 5:25
-  Paris time (GMT+00:00)\nFreepreview exp
- ort: 26 October 2018, 19:08 Paris time (
- GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181031T042232Z
-DTSTART:20181029T100000Z
-DTEND:20181029T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Skills on the Move - Migrants 
- in the Survey of Adult Skills
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/0ff7ae72-en
 SUMMARY:The evolution of gender gaps in numeracy
   and literacy between childhood and adul
@@ -42,7 +16,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  4:50 Paris time (GMT+00:00)\nFreepreview
   export: 25 October 2018, 19:10 Paris ti
  me (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20181031T042232Z
+DTSTAMP:20181101T041719Z
 DTSTART:20181030T100000Z
 DTEND:20181030T101500Z
 TRANSP:TRANSPARENT
@@ -64,14 +38,14 @@ SUMMARY:Revenue Statistics in Africa 2018, Stati
  e 2018
 DESCRIPTION:Directorate: Development Centre, Centre 
  for Tax Policy and Administration\nLangu
- age: French, English\nDOI: https://doi.o
+ age: English, French\nDOI: https://doi.o
  rg/10.1787/9789264305885-en-fr\nPublicat
  ion type: Book\nReleased as: PDF, Paperb
  ack.\n\niLibrary export: 27 October 2018
  , 5:25 Paris time (GMT+00:00)\nFreeprevi
  ew export: 12 October 2018, 19:22 Paris 
  time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181031T042232Z
+DTSTAMP:20181101T041719Z
 DTSTART:20181031T090000Z
 DTEND:20181031T091500Z
 TRANSP:TRANSPARENT
@@ -99,7 +73,7 @@ DESCRIPTION:Directorate: Public Affairs and Communic
   2018, 4:29 Paris time (GMT+00:00)\nFree
  preview export: 10 October 2018, 19:27 P
  aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181031T042232Z
+DTSTAMP:20181101T041719Z
 DTSTART:20181105T100000Z
 DTEND:20181105T101500Z
 TRANSP:TRANSPARENT
@@ -123,10 +97,11 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/1d73c833-en\nPublicat
  ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: never\nFreeprevie
- w export: 30 October 2018, 20:14 Paris t
- ime (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20181031T042232Z
+ F.\n\niLibrary export: 31 October 2018, 
+ 5:03 Paris time (GMT+00:00)\nFreepreview
+  export: 30 October 2018, 20:14 Paris ti
+ me (GMT+00:00)\nFTI loaded: ✓, ✓.
+DTSTAMP:20181101T041719Z
 DTSTART:20181105T100000Z
 DTEND:20181105T101500Z
 TRANSP:TRANSPARENT
@@ -150,10 +125,10 @@ DESCRIPTION:Directorate: Directorate for Employment,
  glish\nDOI: https://doi.org/10.1787/9789
  264307599-en\nPublication type: Book\nRe
  leased as: Paperback, PDF.\n\niLibrary e
- xport: 30 October 2018, 4:54 Paris time 
+ xport: 31 October 2018, 5:03 Paris time 
  (GMT+00:00)\nFreepreview export: never\n
  FTI loaded: no.
-DTSTAMP:20181031T042232Z
+DTSTAMP:20181101T041719Z
 DTSTART:20181107T100000Z
 DTEND:20181107T101500Z
 TRANSP:TRANSPARENT
@@ -176,7 +151,7 @@ DESCRIPTION:Directorate: International Energy Agency
   Book\nReleased as: PDF.\n\niLibrary exp
  ort: never\nFreepreview export: never\nF
  TI loaded: no.
-DTSTAMP:20181031T042232Z
+DTSTAMP:20181101T041719Z
 DTSTART:20181113T120000Z
 DTEND:20181113T121500Z
 TRANSP:TRANSPARENT
@@ -193,8 +168,8 @@ BEGIN:VEVENT
 UID:10.1787/9789264308091-en
 SUMMARY:Revenue Statistics in Asian and Pacific 
  Economies
-DESCRIPTION:Directorate: Development Centre, Centre 
- for Tax Policy and Administration\nLangu
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration, Development Centre\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/9789264308091-en\nPublication type: S
  tand-alone monograph\nReleased as: PDF, 
@@ -202,7 +177,7 @@ DESCRIPTION:Directorate: Development Centre, Centre
  t: 26 October 2018, 4:50 Paris time (GMT
  +00:00)\nFreepreview export: never\nFTI 
  loaded: no.
-DTSTAMP:20181031T042232Z
+DTSTAMP:20181101T041719Z
 DTSTART:20181129T100000Z
 DTEND:20181129T101500Z
 TRANSP:TRANSPARENT
@@ -228,7 +203,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
   export: 13 October 2018, 6:11 Paris tim
  e (GMT+00:00)\nFreepreview export: never
  \nFTI loaded: no.
-DTSTAMP:20181031T042232Z
+DTSTAMP:20181101T041719Z
 DTSTART:20181204T230100Z
 DTEND:20181204T231600Z
 TRANSP:TRANSPARENT
