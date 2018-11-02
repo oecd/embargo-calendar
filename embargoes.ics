@@ -4,48 +4,20 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/0ff7ae72-en
-SUMMARY:The evolution of gender gaps in numeracy
-  and literacy between childhood and adul
- thood
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills\nLanguage: English\nDOI: https
- ://doi.org/10.1787/0ff7ae72-en\nPublicat
- ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: 26 October 2018, 
- 4:50 Paris time (GMT+00:00)\nFreepreview
-  export: 25 October 2018, 19:10 Paris ti
- me (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20181101T041719Z
-DTSTART:20181030T100000Z
-DTEND:20181030T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: The evolution of gender gaps i
- n numeracy and literacy between childhoo
- d and adulthood
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264305885-en-fr
 SUMMARY:Revenue Statistics in Africa 2018, Stati
  stiques des recettes publiques en Afriqu
  e 2018
-DESCRIPTION:Directorate: Development Centre, Centre 
- for Tax Policy and Administration\nLangu
- age: English, French\nDOI: https://doi.o
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration, Development Centre\nLangu
+ age: French, English\nDOI: https://doi.o
  rg/10.1787/9789264305885-en-fr\nPublicat
  ion type: Book\nReleased as: PDF, Paperb
  ack.\n\niLibrary export: 27 October 2018
  , 5:25 Paris time (GMT+00:00)\nFreeprevi
  ew export: 12 October 2018, 19:22 Paris 
  time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181101T041719Z
+DTSTAMP:20181102T050336Z
 DTSTART:20181031T090000Z
 DTEND:20181031T091500Z
 TRANSP:TRANSPARENT
@@ -64,8 +36,8 @@ BEGIN:VEVENT
 UID:10.1787/9789264300347-fr
 SUMMARY:Examen multidimensionnel du Sénégal - Vo
  lume 3. De l'analyse à l'action
-DESCRIPTION:Directorate: Public Affairs and Communic
- ations Directorate, Development Centre\n
+DESCRIPTION:Directorate: Development Centre, Public 
+ Affairs and Communications Directorate\n
  Language: French\nDOI: https://doi.org/1
  0.1787/9789264300347-fr\nPublication typ
  e: Book\nReleased as: Paperback, ePub, H
@@ -73,7 +45,7 @@ DESCRIPTION:Directorate: Public Affairs and Communic
   2018, 4:29 Paris time (GMT+00:00)\nFree
  preview export: 10 October 2018, 19:27 P
  aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181101T041719Z
+DTSTAMP:20181102T050336Z
 DTSTART:20181105T100000Z
 DTEND:20181105T101500Z
 TRANSP:TRANSPARENT
@@ -101,7 +73,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  5:03 Paris time (GMT+00:00)\nFreepreview
   export: 30 October 2018, 20:14 Paris ti
  me (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20181101T041719Z
+DTSTAMP:20181102T050336Z
 DTSTART:20181105T100000Z
 DTEND:20181105T101500Z
 TRANSP:TRANSPARENT
@@ -128,7 +100,7 @@ DESCRIPTION:Directorate: Directorate for Employment,
  xport: 31 October 2018, 5:03 Paris time 
  (GMT+00:00)\nFreepreview export: never\n
  FTI loaded: no.
-DTSTAMP:20181101T041719Z
+DTSTAMP:20181102T050336Z
 DTSTART:20181107T100000Z
 DTEND:20181107T101500Z
 TRANSP:TRANSPARENT
@@ -151,7 +123,7 @@ DESCRIPTION:Directorate: International Energy Agency
   Book\nReleased as: PDF.\n\niLibrary exp
  ort: never\nFreepreview export: never\nF
  TI loaded: no.
-DTSTAMP:20181101T041719Z
+DTSTAMP:20181102T050336Z
 DTSTART:20181113T120000Z
 DTEND:20181113T121500Z
 TRANSP:TRANSPARENT
@@ -168,8 +140,8 @@ BEGIN:VEVENT
 UID:10.1787/9789264308091-en
 SUMMARY:Revenue Statistics in Asian and Pacific 
  Economies
-DESCRIPTION:Directorate: Centre for Tax Policy and A
- dministration, Development Centre\nLangu
+DESCRIPTION:Directorate: Development Centre, Centre 
+ for Tax Policy and Administration\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/9789264308091-en\nPublication type: S
  tand-alone monograph\nReleased as: PDF, 
@@ -177,7 +149,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  t: 26 October 2018, 4:50 Paris time (GMT
  +00:00)\nFreepreview export: never\nFTI 
  loaded: no.
-DTSTAMP:20181101T041719Z
+DTSTAMP:20181102T050336Z
 DTSTART:20181129T100000Z
 DTEND:20181129T101500Z
 TRANSP:TRANSPARENT
@@ -200,10 +172,10 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
  English\nDOI: https://doi.org/10.1787/97
  89264301450-en\nPublication type: Book\n
  Released as: Paperback, PDF.\n\niLibrary
-  export: 13 October 2018, 6:11 Paris tim
+  export: 1 November 2018, 4:56 Paris tim
  e (GMT+00:00)\nFreepreview export: never
  \nFTI loaded: no.
-DTSTAMP:20181101T041719Z
+DTSTAMP:20181102T050336Z
 DTSTART:20181204T230100Z
 DTEND:20181204T231600Z
 TRANSP:TRANSPARENT
