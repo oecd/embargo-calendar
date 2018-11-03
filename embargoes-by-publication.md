@@ -1,6 +1,6 @@
 # OECD publication embargoes (6 embargoes)
 
-*Data generated on Friday 2 November 2018 at 5:03*
+*Data generated on Saturday 3 November 2018 at 5:23*
 
 ------
 
@@ -17,7 +17,7 @@ Monday 5 November 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Development Centre, Public Affairs and Communications Directorate*
+* Directorate: *Public Affairs and Communications Directorate, Development Centre*
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
@@ -101,7 +101,7 @@ Thursday 29 November 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Development Centre, Centre for Tax Policy and Administration*
+* Directorate: *Centre for Tax Policy and Administration, Development Centre*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
