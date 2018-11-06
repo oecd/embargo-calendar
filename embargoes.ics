@@ -7,8 +7,8 @@ BEGIN:VEVENT
 UID:10.1787/9789264300347-fr
 SUMMARY:Examen multidimensionnel du Sénégal - Vo
  lume 3. De l'analyse à l'action
-DESCRIPTION:Directorate: Public Affairs and Communic
- ations Directorate, Development Centre\n
+DESCRIPTION:Directorate: Development Centre, Public 
+ Affairs and Communications Directorate\n
  Language: French\nDOI: https://doi.org/1
  0.1787/9789264300347-fr\nPublication typ
  e: Book\nReleased as: Paperback, ePub, H
@@ -16,7 +16,7 @@ DESCRIPTION:Directorate: Public Affairs and Communic
   2018, 4:29 Paris time (GMT+00:00)\nFree
  preview export: 10 October 2018, 19:27 P
  aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181103T052310Z
+DTSTAMP:20181106T041939Z
 DTSTART:20181105T100000Z
 DTEND:20181105T101500Z
 TRANSP:TRANSPARENT
@@ -44,7 +44,7 @@ DESCRIPTION:Directorate: Directorate for Education a
  5:03 Paris time (GMT+00:00)\nFreepreview
   export: 30 October 2018, 20:14 Paris ti
  me (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20181103T052310Z
+DTSTAMP:20181106T041939Z
 DTSTART:20181105T100000Z
 DTEND:20181105T101500Z
 TRANSP:TRANSPARENT
@@ -60,6 +60,29 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/f9b2e53f-en
+SUMMARY:The Power and Promise of Early Learning
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: English\nDOI: https
+ ://doi.org/10.1787/f9b2e53f-en\nPublicat
+ ion type: Working paper\nReleased as: PD
+ F.\n\niLibrary export: never\nFreeprevie
+ w export: never\nFTI loaded: no.
+DTSTAMP:20181106T041939Z
+DTSTART:20181106T120000Z
+DTEND:20181106T121500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: The Power and Promise of Early
+  Learning
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/9789264307599-en
 SUMMARY:Stemming the Superbug Tide - Just A Few 
  Dollars More
@@ -69,9 +92,10 @@ DESCRIPTION:Directorate: Directorate for Employment,
  264307599-en\nPublication type: Book\nRe
  leased as: Paperback, PDF.\n\niLibrary e
  xport: 31 October 2018, 5:03 Paris time 
- (GMT+00:00)\nFreepreview export: never\n
- FTI loaded: no.
-DTSTAMP:20181103T052310Z
+ (GMT+00:00)\nFreepreview export: 5 Novem
+ ber 2018, 20:08 Paris time (GMT+00:00)\n
+ FTI loaded: ✓.
+DTSTAMP:20181106T041939Z
 DTSTART:20181107T100000Z
 DTEND:20181107T101500Z
 TRANSP:TRANSPARENT
@@ -86,6 +110,34 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/9789264307995-en
+SUMMARY:Global Outlook on Financing for Sustaina
+ ble Development 2019 - Time to Face the 
+ Challenge
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: English\nDOI: https
+ ://doi.org/10.1787/9789264307995-en\nPub
+ lication type: Stand-alone monograph\nRe
+ leased as: PDF.\n\niLibrary export: 3 No
+ vember 2018, 6:09 Paris time (GMT+00:00)
+ \nFreepreview export: never\nFTI loaded:
+  no.
+DTSTAMP:20181106T041939Z
+DTSTART:20181112T140000Z
+DTEND:20181112T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Outlook on Financing fo
+ r Sustainable Development 2019 - Time to
+  Face the Challenge
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/g2g96ddc-en
 SUMMARY:World Energy Outlook 2018
 DESCRIPTION:Directorate: International Energy Agency
@@ -94,7 +146,7 @@ DESCRIPTION:Directorate: International Energy Agency
   Book\nReleased as: PDF.\n\niLibrary exp
  ort: never\nFreepreview export: never\nF
  TI loaded: no.
-DTSTAMP:20181103T052310Z
+DTSTAMP:20181106T041939Z
 DTSTART:20181113T120000Z
 DTEND:20181113T121500Z
 TRANSP:TRANSPARENT
@@ -120,7 +172,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  t: 26 October 2018, 4:50 Paris time (GMT
  +00:00)\nFreepreview export: never\nFTI 
  loaded: no.
-DTSTAMP:20181103T052310Z
+DTSTAMP:20181106T041939Z
 DTSTART:20181129T100000Z
 DTEND:20181129T101500Z
 TRANSP:TRANSPARENT
@@ -146,7 +198,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
   export: 1 November 2018, 4:56 Paris tim
  e (GMT+00:00)\nFreepreview export: never
  \nFTI loaded: no.
-DTSTAMP:20181103T052310Z
+DTSTAMP:20181106T041939Z
 DTSTART:20181204T230100Z
 DTEND:20181204T231600Z
 TRANSP:TRANSPARENT

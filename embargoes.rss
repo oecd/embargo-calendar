@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Sat, 03 Nov 2018 05:23:12 GMT</pubDate>
+      <pubDate>Tue, 06 Nov 2018 04:19:41 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -18,10 +18,10 @@
          <pubDate>Mon, 05 Nov 2018 10:00:00 GMT</pubDate>
          <title>Examen multidimensionnel du Sénégal - Volume 3. De l'analyse à l'action</title>
          <link>https://doi.org/10.1787/9789264300347-fr</link>
-         <description>Examen multidimensionnel du Sénégal - Volume 3. De l'analyse à l'action by Public Affairs and Communications Directorate, Development Centre has an embargo on Monday, 5 November 2018, 11:00 Paris time (GMT+01:00).</description>
+         <description>Examen multidimensionnel du Sénégal - Volume 3. De l'analyse à l'action by Development Centre, Public Affairs and Communications Directorate has an embargo on Monday, 5 November 2018, 11:00 Paris time (GMT+01:00).</description>
          <oe:embargoTime>2018-11-05T10:00:00Z</oe:embargoTime>
          <oe:launchTime/>
-         <oe:directorate>Public Affairs and Communications Directorate, Development Centre</oe:directorate>
+         <oe:directorate>Development Centre, Public Affairs and Communications Directorate</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Thursday, 11 October 2018, 4:29 Paris time (GMT+00:00)</oe:iLibraryExport>
          <oe:freePreviewExport>Wednesday, 10 October 2018, 19:27 Paris time (GMT+00:00)</oe:freePreviewExport>
@@ -44,6 +44,21 @@
          <oe:availableMedia>PDF</oe:availableMedia>
       </item>
       <item>
+         <guid isPermaLink="false">10.1787/f9b2e53f-en</guid>
+         <pubDate>Tue, 06 Nov 2018 12:00:00 GMT</pubDate>
+         <title>The Power and Promise of Early Learning</title>
+         <link>https://doi.org/10.1787/f9b2e53f-en</link>
+         <description>The Power and Promise of Early Learning by Directorate for Education and Skills has an embargo on Tuesday, 6 November 2018, 13:00 Paris time (GMT+01:00).</description>
+         <oe:embargoTime>2018-11-06T12:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Directorate for Education and Skills</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
+      </item>
+      <item>
          <guid isPermaLink="false">10.1787/9789264307599-en</guid>
          <pubDate>Wed, 07 Nov 2018 10:00:00 GMT</pubDate>
          <title>Stemming the Superbug Tide - Just A Few Dollars More</title>
@@ -52,11 +67,26 @@
          <oe:embargoTime>2018-11-07T10:00:00Z</oe:embargoTime>
          <oe:launchTime/>
          <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Wednesday, 31 October 2018, 5:03 Paris time (GMT+00:00)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:freePreviewExport>Monday, 5 November 2018, 20:08 Paris time (GMT+00:00)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
          <oe:availableMedia>Paperback, PDF</oe:availableMedia>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264307995-en</guid>
+         <pubDate>Mon, 12 Nov 2018 14:00:00 GMT</pubDate>
+         <title>Global Outlook on Financing for Sustainable Development 2019 - Time to Face the Challenge</title>
+         <link>https://doi.org/10.1787/9789264307995-en</link>
+         <description>Global Outlook on Financing for Sustainable Development 2019 - Time to Face the Challenge by Development Co-operation Directorate has an embargo on Monday, 12 November 2018, 15:00 Paris time (GMT+01:00).</description>
+         <oe:embargoTime>2018-11-12T14:00:00Z</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:directorate>Development Co-operation Directorate</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Saturday, 3 November 2018, 6:09 Paris time (GMT+00:00)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+         <oe:availableMedia>PDF</oe:availableMedia>
       </item>
       <item>
          <guid isPermaLink="false">10.1787/g2g96ddc-en</guid>

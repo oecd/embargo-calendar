@@ -1,40 +1,19 @@
 # OECD publication embargoes (6 embargoes)
 
-*Data generated on Saturday 3 November 2018 at 5:23*
+*Data generated on Tuesday 6 November 2018 at 4:19*
 
 ------
 
-## [Examen multidimensionnel du Sénégal - Volume 3. De l'analyse à l'action](https://doi.org/10.1787/9789264300347-fr)
+## [The Power and Promise of Early Learning](https://doi.org/10.1787/f9b2e53f-en)
 
 Embargo date | Launch date
 -------------|------------
-Monday 5 November 2018 at 11:00 | no launch event
+Tuesday 6 November 2018 at 13:00 | no launch event
 
 ### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 11 October 2018 at 6:29
-- [x] Exported to Keepeek Wednesday 10 October 2018 at 21:27
-
-### Additional Information
-
-* Directorate: *Public Affairs and Communications Directorate, Development Centre*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
-
-------
-
-## [The role of education in promoting positive attitudes towards migration at times of stress](https://doi.org/10.1787/1d73c833-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 5 November 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 31 October 2018 at 6:03
-- [x] Exported to Keepeek Tuesday 30 October 2018 at 21:14
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
 
 ### Additional Information
 
@@ -53,16 +32,37 @@ Embargo date | Launch date
 Wednesday 7 November 2018 at 11:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 31 October 2018 at 6:03
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 5 November 2018 at 21:08
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Global Outlook on Financing for Sustainable Development 2019 - Time to Face the Challenge](https://doi.org/10.1787/9789264307995-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 12 November 2018 at 15:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Saturday 3 November 2018 at 7:09
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
 ------
