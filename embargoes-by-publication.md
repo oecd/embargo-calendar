@@ -1,27 +1,6 @@
 # OECD publication embargoes (6 embargoes)
 
-*Data generated on Tuesday 6 November 2018 at 4:19*
-
-------
-
-## [The Power and Promise of Early Learning](https://doi.org/10.1787/f9b2e53f-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 6 November 2018 at 13:00 | no launch event
-
-### Status Information
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Wednesday 7 November 2018 at 4:08*
 
 ------
 
@@ -33,7 +12,7 @@ Wednesday 7 November 2018 at 11:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 31 October 2018 at 6:03
+- [x] Exported to iLibrary Tuesday 6 November 2018 at 5:59
 - [x] Exported to Keepeek Monday 5 November 2018 at 21:08
 
 ### Additional Information
@@ -53,15 +32,15 @@ Embargo date | Launch date
 Monday 12 November 2018 at 15:00 | no launch event
 
 ### Status Information
-- [ ] FTI loaded
-- [x] Exported to iLibrary Saturday 3 November 2018 at 7:09
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 6 November 2018 at 5:59
+- [x] Exported to Keepeek Tuesday 6 November 2018 at 21:07
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
@@ -88,6 +67,27 @@ Tuesday 13 November 2018 at 13:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Spain 2018](https://doi.org/10.1787/g2g995a5-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 22 November 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
 ## [Revenue Statistics in Asian and Pacific Economies](https://doi.org/10.1787/9789264308091-en)
 
 Embargo date | Launch date
@@ -101,7 +101,7 @@ Thursday 29 November 2018 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration, Development Centre*
+* Directorate: *Development Centre, Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
