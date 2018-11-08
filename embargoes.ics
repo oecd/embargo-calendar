@@ -4,62 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264300347-fr
-SUMMARY:Examen multidimensionnel du Sénégal - Vo
- lume 3. De l'analyse à l'action
-DESCRIPTION:Directorate: Development Centre, Public 
- Affairs and Communications Directorate\n
- Language: French\nDOI: https://doi.org/1
- 0.1787/9789264300347-fr\nPublication typ
- e: Book\nReleased as: Paperback, ePub, H
- TML, PDF.\n\niLibrary export: 11 October
-  2018, 4:29 Paris time (GMT+00:00)\nFree
- preview export: 10 October 2018, 19:27 P
- aris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181107T040809Z
-DTSTART:20181105T100000Z
-DTEND:20181105T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Examen multidimensionnel du Sé
- négal - Volume 3. De l'analyse à l'actio
- n
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10.1787/1d73c833-en
-SUMMARY:The role of education in promoting posit
- ive attitudes towards migration at times
-  of stress
-DESCRIPTION:Directorate: Directorate for Education a
- nd Skills\nLanguage: English\nDOI: https
- ://doi.org/10.1787/1d73c833-en\nPublicat
- ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: 31 October 2018, 
- 5:03 Paris time (GMT+00:00)\nFreepreview
-  export: 30 October 2018, 20:14 Paris ti
- me (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20181107T040809Z
-DTSTART:20181105T100000Z
-DTEND:20181105T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: The role of education in promo
- ting positive attitudes towards migratio
- n at times of stress
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264307599-en
 SUMMARY:Stemming the Superbug Tide - Just A Few 
  Dollars More
@@ -67,12 +11,12 @@ DESCRIPTION:Directorate: Directorate for Employment,
   Labour and Social Affairs\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/9789
  264307599-en\nPublication type: Book\nRe
- leased as: PDF, Paperback.\n\niLibrary e
+ leased as: Paperback, PDF.\n\niLibrary e
  xport: 6 November 2018, 4:59 Paris time 
  (GMT+00:00)\nFreepreview export: 5 Novem
  ber 2018, 20:08 Paris time (GMT+00:00)\n
  FTI loaded: ✓.
-DTSTAMP:20181107T040809Z
+DTSTAMP:20181108T041700Z
 DTSTART:20181107T100000Z
 DTEND:20181107T101500Z
 TRANSP:TRANSPARENT
@@ -95,14 +39,14 @@ DESCRIPTION:Directorate: Development Co-operation Di
  rectorate\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9789264307995-en\nPub
  lication type: Stand-alone monograph\nRe
- leased as: PDF.\n\niLibrary export: 6 No
- vember 2018, 4:59 Paris time (GMT+00:00)
- \nFreepreview export: 6 November 2018, 2
- 0:07 Paris time (GMT+00:00)\nFTI loaded:
-  ✓.
-DTSTAMP:20181107T040809Z
-DTSTART:20181112T140000Z
-DTEND:20181112T141500Z
+ leased as: PDF, Paperback.\n\niLibrary e
+ xport: 7 November 2018, 4:51 Paris time 
+ (GMT+00:00)\nFreepreview export: 7 Novem
+ ber 2018, 20:08 Paris time (GMT+00:00)\n
+ FTI loaded: ✓.
+DTSTAMP:20181108T041700Z
+DTSTART:20181112T150000Z
+DTEND:20181112T151500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT72H
@@ -116,37 +60,89 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:10.1787/g2g96ddc-en
-SUMMARY:World Energy Outlook 2018
-DESCRIPTION:Directorate: International Energy Agency
- \nLanguage: English\nDOI: https://doi.or
- g/10.1787/g2g96ddc-en\nPublication type:
-  Book\nReleased as: PDF.\n\niLibrary exp
- ort: never\nFreepreview export: never\nF
- TI loaded: no.
-DTSTAMP:20181107T040809Z
-DTSTART:20181113T120000Z
-DTEND:20181113T121500Z
+UID:10.1787/eco_outlook-v2018-2-en
+SUMMARY:OECD Economic Outlook, Volume 2018 Issue
+  2 - Preliminary version
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/eco_outlook-v2018-2-en\nPublication t
+ ype: Book\nReleased as: Paperback, PDF.\
+ n\niLibrary export: never\nFreepreview e
+ xport: never\nFTI loaded: no.
+DTSTAMP:20181108T041700Z
+DTSTART:20181121T100000Z
+DTEND:20181121T101500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT24H
+TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: World Energy Outlook 2018
+DESCRIPTION:Reminder: OECD Economic Outlook, Volume 
+ 2018 Issue 2 - Preliminary version
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:10.1787/g2g995a5-en
+UID:10.1787/eco_outlook-v2018-2-de
+SUMMARY:OECD-Wirtschaftsausblick, Ausgabe 2018/2
+  - Vorläufige Ausgabe
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: German\nDOI: https://doi.org/10.178
+ 7/eco_outlook-v2018-2-de\nPublication ty
+ pe: Book\nReleased as: Paperback, PDF.\n
+ \niLibrary export: never\nFreepreview ex
+ port: never\nFTI loaded: no.
+DTSTAMP:20181108T041700Z
+DTSTART:20181121T100000Z
+DTEND:20181121T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD-Wirtschaftsausblick, Ausg
+ abe 2018/2 - Vorläufige Ausgabe
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/eco_outlook-v2018-2-fr
+SUMMARY:Perspectives économiques de l'OCDE, Volu
+ me 2018 Numéro 2 - Version préliminaire
+DESCRIPTION:Directorate: Economics Department\nLangu
+ age: French\nDOI: https://doi.org/10.178
+ 7/eco_outlook-v2018-2-fr\nPublication ty
+ pe: Book\nReleased as: PDF, Paperback.\n
+ \niLibrary export: never\nFreepreview ex
+ port: never\nFTI loaded: no.
+DTSTAMP:20181108T041700Z
+DTSTART:20181121T100000Z
+DTEND:20181121T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Perspectives économiques de l'
+ OCDE, Volume 2018 Numéro 2 - Version pré
+ liminaire
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/eco_surveys-esp-2018-en
 SUMMARY:OECD Economic Surveys: Spain 2018
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
- 87/g2g995a5-en\nPublication type: Econom
- ic survey\nReleased as: Paperback, PDF.\
- n\niLibrary export: never\nFreepreview e
- xport: never\nFTI loaded: no.
-DTSTAMP:20181107T040809Z
+ 87/eco_surveys-esp-2018-en\nPublication 
+ type: Economic survey\nReleased as: Pape
+ rback, PDF.\n\niLibrary export: never\nF
+ reepreview export: never\nFTI loaded: no
+ .
+DTSTAMP:20181108T041700Z
 DTSTART:20181122T100000Z
 DTEND:20181122T101500Z
 TRANSP:TRANSPARENT
@@ -157,6 +153,29 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Economic Surveys: Spain 2
  018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/rev_stats-2018-en
+SUMMARY:Revenue Statistics 2018
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/rev_stats-2018-en
+ \nPublication type: Book\nReleased as: P
+ aperback, PDF.\n\niLibrary export: never
+ \nFreepreview export: never\nFTI loaded:
+  no.
+DTSTAMP:20181108T041700Z
+DTSTART:20181129T100000Z
+DTEND:20181129T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Revenue Statistics 2018
 END:VALARM
 END:VEVENT
 
@@ -173,7 +192,7 @@ DESCRIPTION:Directorate: Development Centre, Centre
  t: 26 October 2018, 4:50 Paris time (GMT
  +00:00)\nFreepreview export: never\nFTI 
  loaded: no.
-DTSTAMP:20181107T040809Z
+DTSTAMP:20181108T041700Z
 DTSTART:20181129T100000Z
 DTEND:20181129T101500Z
 TRANSP:TRANSPARENT
@@ -184,6 +203,30 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Revenue Statistics in Asian an
  d Pacific Economies
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/rev_stats-2018-fr
+SUMMARY:Statistiques des recettes publiques 2018
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: French\nDOI: ht
+ tps://doi.org/10.1787/rev_stats-2018-fr\
+ nPublication type: Book\nReleased as: PD
+ F, Paperback.\n\niLibrary export: never\
+ nFreepreview export: never\nFTI loaded: 
+ no.
+DTSTAMP:20181108T041700Z
+DTSTART:20181129T100000Z
+DTEND:20181129T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Statistiques des recettes publ
+ iques 2018
 END:VALARM
 END:VEVENT
 
@@ -199,7 +242,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
   export: 1 November 2018, 4:56 Paris tim
  e (GMT+00:00)\nFreepreview export: never
  \nFTI loaded: no.
-DTSTAMP:20181107T040809Z
+DTSTAMP:20181108T041700Z
 DTSTART:20181204T230100Z
 DTEND:20181204T231600Z
 TRANSP:TRANSPARENT

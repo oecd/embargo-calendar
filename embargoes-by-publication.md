@@ -1,27 +1,6 @@
-# OECD publication embargoes (6 embargoes)
+# OECD publication embargoes (9 embargoes)
 
-*Data generated on Wednesday 7 November 2018 at 4:08*
-
-------
-
-## [Stemming the Superbug Tide - Just A Few Dollars More](https://doi.org/10.1787/9789264307599-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 7 November 2018 at 11:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 6 November 2018 at 5:59
-- [x] Exported to Keepeek Monday 5 November 2018 at 21:08
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Medium: *PDF*
+*Data generated on Thursday 8 November 2018 at 4:16*
 
 ------
 
@@ -29,12 +8,12 @@ Wednesday 7 November 2018 at 11:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Monday 12 November 2018 at 15:00 | no launch event
+Monday 12 November 2018 at 16:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 6 November 2018 at 5:59
-- [x] Exported to Keepeek Tuesday 6 November 2018 at 21:07
+- [x] Exported to iLibrary Wednesday 7 November 2018 at 5:51
+- [x] Exported to Keepeek Wednesday 7 November 2018 at 21:08
 
 ### Additional Information
 
@@ -46,11 +25,11 @@ Monday 12 November 2018 at 15:00 | no launch event
 
 ------
 
-## [World Energy Outlook 2018](https://doi.org/10.1787/g2g96ddc-en)
+## [OECD Economic Outlook, Volume 2018 Issue 2 - Preliminary version](https://doi.org/10.1787/eco_outlook-v2018-2-en)
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 13 November 2018 at 13:00 | no launch event
+Wednesday 21 November 2018 at 11:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
@@ -59,15 +38,57 @@ Tuesday 13 November 2018 at 13:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *International Energy Agency*
+* Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Medium: *PDF*
 
 ------
 
-## [OECD Economic Surveys: Spain 2018](https://doi.org/10.1787/g2g995a5-en)
+## [OECD-Wirtschaftsausblick, Ausgabe 2018/2 - Vorläufige Ausgabe](https://doi.org/10.1787/eco_outlook-v2018-2-de)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 21 November 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *German*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Perspectives économiques de l'OCDE, Volume 2018 Numéro 2 - Version préliminaire](https://doi.org/10.1787/eco_outlook-v2018-2-fr)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 21 November 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [OECD Economic Surveys: Spain 2018](https://doi.org/10.1787/eco_surveys-esp-2018-en)
 
 Embargo date | Launch date
 -------------|------------
@@ -84,6 +105,27 @@ Thursday 22 November 2018 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
+## [Revenue Statistics 2018](https://doi.org/10.1787/rev_stats-2018-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 29 November 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------
@@ -105,6 +147,27 @@ Thursday 29 November 2018 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Medium: *PDF*
+
+------
+
+## [Statistiques des recettes publiques 2018](https://doi.org/10.1787/rev_stats-2018-fr)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 29 November 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------
