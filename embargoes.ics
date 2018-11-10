@@ -4,33 +4,6 @@ PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 
 
 BEGIN:VEVENT
-UID:10.1787/9789264307599-en
-SUMMARY:Stemming the Superbug Tide - Just A Few 
- Dollars More
-DESCRIPTION:Directorate: Directorate for Employment,
-  Labour and Social Affairs\nLanguage: En
- glish\nDOI: https://doi.org/10.1787/9789
- 264307599-en\nPublication type: Book\nRe
- leased as: PDF, Paperback.\n\niLibrary e
- xport: 8 November 2018, 5:00 Paris time 
- (GMT+00:00)\nFreepreview export: 5 Novem
- ber 2018, 20:08 Paris time (GMT+00:00)\n
- FTI loaded: ✓.
-DTSTAMP:20181109T060150Z
-DTSTART:20181107T100000Z
-DTEND:20181107T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Stemming the Superbug Tide - J
- ust A Few Dollars More
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:10.1787/9789264307995-en
 SUMMARY:Global Outlook on Financing for Sustaina
  ble Development 2019 - Time to Face the 
@@ -39,12 +12,12 @@ DESCRIPTION:Directorate: Development Co-operation Di
  rectorate\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9789264307995-en\nPub
  lication type: Stand-alone monograph\nRe
- leased as: Paperback, PDF.\n\niLibrary e
- xport: 8 November 2018, 5:00 Paris time 
+ leased as: PDF, Paperback.\n\niLibrary e
+ xport: 9 November 2018, 6:38 Paris time 
  (GMT+00:00)\nFreepreview export: 8 Novem
  ber 2018, 20:17 Paris time (GMT+00:00)\n
  FTI loaded: ✓.
-DTSTAMP:20181109T060150Z
+DTSTAMP:20181110T043035Z
 DTSTART:20181112T150000Z
 DTEND:20181112T151500Z
 TRANSP:TRANSPARENT
@@ -60,6 +33,772 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/00250169-zh
+SUMMARY:Global Outlook on Financing for Sustaina
+ ble Development 2019 (Summary in Chinese
+ ), 2019 全球可持续发展融资展望 - Time to Face the C
+ hallenge, 直面挑战恰逢其时
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: Chinese\nDOI: https
+ ://doi.org/10.1787/00250169-zh\nPublicat
+ ion type: Summary\nReleased as: HTML, PD
+ F, ePub.\n\niLibrary export: never\nFree
+ preview export: 9 November 2018, 20:08 P
+ aris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181110T043035Z
+DTSTART:20181112T150000Z
+DTEND:20181112T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Outlook on Financing fo
+ r Sustainable Development 2019 (Summary 
+ in Chinese), 2019 全球可持续发展融资展望 - Time to 
+ Face the Challenge, 直面挑战恰逢其时
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/d3b2579b-cs
+SUMMARY:Global Outlook on Financing for Sustaina
+ ble Development 2019 (Summary in Czech),
+  Globální výhled týkající se financování
+  udržitelného rozvoje 2019 - Time to Fac
+ e the Challenge, Čas čelit výzvě
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: Czech\nDOI: https:/
+ /doi.org/10.1787/d3b2579b-cs\nPublicatio
+ n type: Summary\nReleased as: HTML, PDF,
+  ePub.\n\niLibrary export: never\nFreepr
+ eview export: 9 November 2018, 20:08 Par
+ is time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181110T043035Z
+DTSTART:20181112T150000Z
+DTEND:20181112T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Outlook on Financing fo
+ r Sustainable Development 2019 (Summary 
+ in Czech), Globální výhled týkající se f
+ inancování udržitelného rozvoje 2019 - T
+ ime to Face the Challenge, Čas čelit výz
+ vě
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/585a560e-nl
+SUMMARY:Global Outlook on Financing for Sustaina
+ ble Development 2019 (Summary in Dutch),
+  Internationale Vooruitzichten over de f
+ inanciering van duurzame ontwikkeling 20
+ 19 - Time to Face the Challenge, Tijd om
+  de uitdaging aan te gaan
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: Dutch\nDOI: https:/
+ /doi.org/10.1787/585a560e-nl\nPublicatio
+ n type: Summary\nReleased as: HTML, PDF,
+  ePub.\n\niLibrary export: never\nFreepr
+ eview export: 9 November 2018, 20:08 Par
+ is time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181110T043035Z
+DTSTART:20181112T150000Z
+DTEND:20181112T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Outlook on Financing fo
+ r Sustainable Development 2019 (Summary 
+ in Dutch), Internationale Vooruitzichten
+  over de financiering van duurzame ontwi
+ kkeling 2019 - Time to Face the Challeng
+ e, Tijd om de uitdaging aan te gaan
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/4d441d39-en
+SUMMARY:Global Outlook on Financing for Sustaina
+ ble Development 2019 (Summary in English
+ ) - Time to Face the Challenge
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: English\nDOI: https
+ ://doi.org/10.1787/4d441d39-en\nPublicat
+ ion type: Summary\nReleased as: ePub, PD
+ F, HTML.\n\niLibrary export: never\nFree
+ preview export: 9 November 2018, 20:08 P
+ aris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181110T043035Z
+DTSTART:20181112T150000Z
+DTEND:20181112T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Outlook on Financing fo
+ r Sustainable Development 2019 (Summary 
+ in English) - Time to Face the Challenge
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/7ffedc1c-et
+SUMMARY:Global Outlook on Financing for Sustaina
+ ble Development 2019 (Summary in Estonia
+ n), Globaalne ülevaade jätkusuutliku are
+ ngu rahastamise kohta 2019 - Time to Fac
+ e the Challenge, Aeg proovikivile otsa v
+ aadata
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: Estonian\nDOI: http
+ s://doi.org/10.1787/7ffedc1c-et\nPublica
+ tion type: Summary\nReleased as: PDF, HT
+ ML, ePub.\n\niLibrary export: never\nFre
+ epreview export: 9 November 2018, 20:08 
+ Paris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181110T043035Z
+DTSTART:20181112T150000Z
+DTEND:20181112T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Outlook on Financing fo
+ r Sustainable Development 2019 (Summary 
+ in Estonian), Globaalne ülevaade jätkusu
+ utliku arengu rahastamise kohta 2019 - T
+ ime to Face the Challenge, Aeg proovikiv
+ ile otsa vaadata
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/e3b67454-fi
+SUMMARY:Global Outlook on Financing for Sustaina
+ ble Development 2019 (Summary in Finnish
+ ), Kestävän kehityksen maailmanlaajuinen
+  rahoituskatsaus 2019 - Time to Face the
+  Challenge, Aika vastata haasteeseen
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: Finnish\nDOI: https
+ ://doi.org/10.1787/e3b67454-fi\nPublicat
+ ion type: Summary\nReleased as: PDF, ePu
+ b, HTML.\n\niLibrary export: never\nFree
+ preview export: 9 November 2018, 20:08 P
+ aris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181110T043035Z
+DTSTART:20181112T150000Z
+DTEND:20181112T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Outlook on Financing fo
+ r Sustainable Development 2019 (Summary 
+ in Finnish), Kestävän kehityksen maailma
+ nlaajuinen rahoituskatsaus 2019 - Time t
+ o Face the Challenge, Aika vastata haast
+ eeseen
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/e00cbdfe-de
+SUMMARY:Global Outlook on Financing for Sustaina
+ ble Development 2019 (Summary in German)
+ , Globaler Ausblick zur nachhaltigen Ent
+ wicklungsfinanzierung 2019 - Time to Fac
+ e the Challenge, Es ist Zeit, sich der H
+ erausforderung zu stellen
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: German\nDOI: https:
+ //doi.org/10.1787/e00cbdfe-de\nPublicati
+ on type: Summary\nReleased as: HTML, ePu
+ b, PDF.\n\niLibrary export: never\nFreep
+ review export: 9 November 2018, 20:08 Pa
+ ris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181110T043035Z
+DTSTART:20181112T150000Z
+DTEND:20181112T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Outlook on Financing fo
+ r Sustainable Development 2019 (Summary 
+ in German), Globaler Ausblick zur nachha
+ ltigen Entwicklungsfinanzierung 2019 - T
+ ime to Face the Challenge, Es ist Zeit, 
+ sich der Herausforderung zu stellen
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/14585df5-el
+SUMMARY:Global Outlook on Financing for Sustaina
+ ble Development 2019 (Summary in Greek),
+  Παγκόσμιες προοπτικές για τη χρηματοδότ
+ ηση της βιώσιμης ανάπτυξης 2019 - Time t
+ o Face the Challenge, Ήρθε η ώρα να αντι
+ μετωπίσουμε την πρόκληση
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: Greek\nDOI: https:/
+ /doi.org/10.1787/14585df5-el\nPublicatio
+ n type: Summary\nReleased as: PDF, HTML,
+  ePub.\n\niLibrary export: never\nFreepr
+ eview export: 9 November 2018, 20:08 Par
+ is time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181110T043035Z
+DTSTART:20181112T150000Z
+DTEND:20181112T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Outlook on Financing fo
+ r Sustainable Development 2019 (Summary 
+ in Greek), Παγκόσμιες προοπτικές για τη 
+ χρηματοδότηση της βιώσιμης ανάπτυξης 201
+ 9 - Time to Face the Challenge, Ήρθε η ώ
+ ρα να αντιμετωπίσουμε την πρόκληση
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/0b77768b-he
+SUMMARY:Global Outlook on Financing for Sustaina
+ ble Development 2019 (Summary in Hebrew)
+ , סקירה גלובלית בנושא מימון עבור פיתוח ב
+ ר-קיימא  - Time to Face the Challenge, ה
+ גיע הזמן להתמודד עם האתגר
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: Hebrew\nDOI: https:
+ //doi.org/10.1787/0b77768b-he\nPublicati
+ on type: Summary\nReleased as: PDF, HTML
+ , ePub.\n\niLibrary export: never\nFreep
+ review export: 9 November 2018, 20:08 Pa
+ ris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181110T043035Z
+DTSTART:20181112T150000Z
+DTEND:20181112T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Outlook on Financing fo
+ r Sustainable Development 2019 (Summary 
+ in Hebrew), סקירה גלובלית בנושא מימון עב
+ ור פיתוח בר-קיימא  - Time to Face the Ch
+ allenge, הגיע הזמן להתמודד עם האתגר
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/0398df63-hu
+SUMMARY:Global Outlook on Financing for Sustaina
+ ble Development 2019 (Summary in Hungari
+ an), A fenntartható fejlődés finanszíroz
+ ására vonatkozó globális kilátások 2019 
+ - Time to Face the Challenge, Ideje felv
+ állalni a kihívást
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: Hungarian\nDOI: htt
+ ps://doi.org/10.1787/0398df63-hu\nPublic
+ ation type: Summary\nReleased as: ePub, 
+ HTML, PDF.\n\niLibrary export: never\nFr
+ eepreview export: 9 November 2018, 20:08
+  Paris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181110T043035Z
+DTSTART:20181112T150000Z
+DTEND:20181112T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Outlook on Financing fo
+ r Sustainable Development 2019 (Summary 
+ in Hungarian), A fenntartható fejlődés f
+ inanszírozására vonatkozó globális kilát
+ ások 2019 - Time to Face the Challenge, 
+ Ideje felvállalni a kihívást
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/90bf993e-is
+SUMMARY:Global Outlook on Financing for Sustaina
+ ble Development 2019 (Summary in Iceland
+ ic), Almennar horfur í fjármögnun sjálfb
+ ærrar þróunar 2019 - Time to Face the Ch
+ allenge, Tími kominn til að taka áskorun
+ inni
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: Icelandic\nDOI: htt
+ ps://doi.org/10.1787/90bf993e-is\nPublic
+ ation type: Summary\nReleased as: PDF, e
+ Pub, HTML.\n\niLibrary export: never\nFr
+ eepreview export: 9 November 2018, 20:08
+  Paris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181110T043035Z
+DTSTART:20181112T150000Z
+DTEND:20181112T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Outlook on Financing fo
+ r Sustainable Development 2019 (Summary 
+ in Icelandic), Almennar horfur í fjármög
+ nun sjálfbærrar þróunar 2019 - Time to F
+ ace the Challenge, Tími kominn til að ta
+ ka áskoruninni
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/cc99d077-it
+SUMMARY:Global Outlook on Financing for Sustaina
+ ble Development 2019 (Summary in Italian
+ ), Prospettive globali sul finanziamento
+  dello sviluppo sostenibile 2019 - Time 
+ to Face the Challenge, Il momento è giun
+ to di affrontare la sfida
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: Italian\nDOI: https
+ ://doi.org/10.1787/cc99d077-it\nPublicat
+ ion type: Summary\nReleased as: HTML, eP
+ ub, PDF.\n\niLibrary export: never\nFree
+ preview export: 9 November 2018, 20:08 P
+ aris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181110T043035Z
+DTSTART:20181112T150000Z
+DTEND:20181112T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Outlook on Financing fo
+ r Sustainable Development 2019 (Summary 
+ in Italian), Prospettive globali sul fin
+ anziamento dello sviluppo sostenibile 20
+ 19 - Time to Face the Challenge, Il mome
+ nto è giunto di affrontare la sfida
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/4f35d435-ja
+SUMMARY:Global Outlook on Financing for Sustaina
+ ble Development 2019 (Summary in Japanes
+ e), 持続可能な開発のための資金に関するグローバルアウトルック2019 - T
+ ime to Face the Challenge, 課題に対処する時が来ている
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: Japanese\nDOI: http
+ s://doi.org/10.1787/4f35d435-ja\nPublica
+ tion type: Summary\nReleased as: HTML, e
+ Pub, PDF.\n\niLibrary export: never\nFre
+ epreview export: 9 November 2018, 20:08 
+ Paris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181110T043035Z
+DTSTART:20181112T150000Z
+DTEND:20181112T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Outlook on Financing fo
+ r Sustainable Development 2019 (Summary 
+ in Japanese), 持続可能な開発のための資金に関するグローバルアウトル
+ ック2019 - Time to Face the Challenge, 課題に
+ 対処する時が来ている
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/bfaa88af-ko
+SUMMARY:Global Outlook on Financing for Sustaina
+ ble Development 2019 (Summary in Korean)
+ , 2019 지속가능한 개발의 파이낸싱에 대한 글로벌 전망  - Time
+  to Face the Challenge, 도전에 직면한 시기
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: Korean\nDOI: https:
+ //doi.org/10.1787/bfaa88af-ko\nPublicati
+ on type: Summary\nReleased as: PDF, HTML
+ , ePub.\n\niLibrary export: never\nFreep
+ review export: 9 November 2018, 20:08 Pa
+ ris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181110T043035Z
+DTSTART:20181112T150000Z
+DTEND:20181112T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Outlook on Financing fo
+ r Sustainable Development 2019 (Summary 
+ in Korean), 2019 지속가능한 개발의 파이낸싱에 대한 글로벌 
+ 전망  - Time to Face the Challenge, 도전에 직면
+ 한 시기
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/5017d4cd-lv
+SUMMARY:Global Outlook on Financing for Sustaina
+ ble Development 2019 (Summary in Latvian
+ ), Vispārējs apskats par ilgtspējīgas at
+ tīstības finansēšanu 2019 - Time to Face
+  the Challenge, Laiks risināt problēmas
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: Latvian\nDOI: https
+ ://doi.org/10.1787/5017d4cd-lv\nPublicat
+ ion type: Summary\nReleased as: PDF, ePu
+ b, HTML.\n\niLibrary export: never\nFree
+ preview export: 9 November 2018, 20:08 P
+ aris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181110T043035Z
+DTSTART:20181112T150000Z
+DTEND:20181112T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Outlook on Financing fo
+ r Sustainable Development 2019 (Summary 
+ in Latvian), Vispārējs apskats par ilgts
+ pējīgas attīstības finansēšanu 2019 - Ti
+ me to Face the Challenge, Laiks risināt 
+ problēmas
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/8bacbf22-no
+SUMMARY:Global Outlook on Financing for Sustaina
+ ble Development 2019 (Summary in Norwegi
+ an), Global rapport om finansiering av b
+ ærekraftig utvikling 2019 - Time to Face
+  the Challenge, Tid for å møte utfordrin
+ gen
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: Norwegian\nDOI: htt
+ ps://doi.org/10.1787/8bacbf22-no\nPublic
+ ation type: Summary\nReleased as: ePub, 
+ HTML, PDF.\n\niLibrary export: never\nFr
+ eepreview export: 9 November 2018, 20:08
+  Paris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181110T043035Z
+DTSTART:20181112T150000Z
+DTEND:20181112T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Outlook on Financing fo
+ r Sustainable Development 2019 (Summary 
+ in Norwegian), Global rapport om finansi
+ ering av bærekraftig utvikling 2019 - Ti
+ me to Face the Challenge, Tid for å møte
+  utfordringen
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/5d1c22aa-pl
+SUMMARY:Global Outlook on Financing for Sustaina
+ ble Development 2019 (Summary in Polish)
+ , Światowy przegląd finansowania zrównow
+ ażonego rozwoju 2019 - Time to Face the 
+ Challenge, Czas stawić czoła wyzwaniu
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: Polish\nDOI: https:
+ //doi.org/10.1787/5d1c22aa-pl\nPublicati
+ on type: Summary\nReleased as: HTML, PDF
+ , ePub.\n\niLibrary export: never\nFreep
+ review export: 9 November 2018, 20:08 Pa
+ ris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181110T043035Z
+DTSTART:20181112T150000Z
+DTEND:20181112T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Outlook on Financing fo
+ r Sustainable Development 2019 (Summary 
+ in Polish), Światowy przegląd finansowan
+ ia zrównoważonego rozwoju 2019 - Time to
+  Face the Challenge, Czas stawić czoła w
+ yzwaniu
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/f73dc471-pt
+SUMMARY:Global Outlook on Financing for Sustaina
+ ble Development 2019 (Summary in Portugu
+ ese), Perspetivas Globais sobre o Financ
+ iamento para um Desenvolvimento sustentá
+ vel 2019 - Time to Face the Challenge, T
+ empo de enfrentar o desafio
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: Portuguese\nDOI: ht
+ tps://doi.org/10.1787/f73dc471-pt\nPubli
+ cation type: Summary\nReleased as: PDF, 
+ HTML, ePub.\n\niLibrary export: never\nF
+ reepreview export: 9 November 2018, 20:0
+ 8 Paris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181110T043035Z
+DTSTART:20181112T150000Z
+DTEND:20181112T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Outlook on Financing fo
+ r Sustainable Development 2019 (Summary 
+ in Portuguese), Perspetivas Globais sobr
+ e o Financiamento para um Desenvolviment
+ o sustentável 2019 - Time to Face the Ch
+ allenge, Tempo de enfrentar o desafio
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/424ac92c-ru
+SUMMARY:Global Outlook on Financing for Sustaina
+ ble Development 2019 (Summary in Russian
+ ), Глобальные перспективы финансирования
+  устойчивого развития 2019 - Time to Fac
+ e the Challenge, Пора решать задачу
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: Russian\nDOI: https
+ ://doi.org/10.1787/424ac92c-ru\nPublicat
+ ion type: Summary\nReleased as: ePub, PD
+ F, HTML.\n\niLibrary export: never\nFree
+ preview export: 9 November 2018, 20:08 P
+ aris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181110T043035Z
+DTSTART:20181112T150000Z
+DTEND:20181112T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Outlook on Financing fo
+ r Sustainable Development 2019 (Summary 
+ in Russian), Глобальные перспективы фина
+ нсирования устойчивого развития 2019 - T
+ ime to Face the Challenge, Пора решать з
+ адачу
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/72376837-sk
+SUMMARY:Global Outlook on Financing for Sustaina
+ ble Development 2019 (Summary in Slovak)
+ , Globálny výhľad financovania trvalo ud
+ ržateľného rozvoja 2019 - Time to Face t
+ he Challenge, Čas postaviť sa výzve
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: Slovak\nDOI: https:
+ //doi.org/10.1787/72376837-sk\nPublicati
+ on type: Summary\nReleased as: HTML, PDF
+ , ePub.\n\niLibrary export: never\nFreep
+ review export: 9 November 2018, 20:08 Pa
+ ris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181110T043035Z
+DTSTART:20181112T150000Z
+DTEND:20181112T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Outlook on Financing fo
+ r Sustainable Development 2019 (Summary 
+ in Slovak), Globálny výhľad financovania
+  trvalo udržateľného rozvoja 2019 - Time
+  to Face the Challenge, Čas postaviť sa 
+ výzve
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/e8debe52-sl
+SUMMARY:Global Outlook on Financing for Sustaina
+ ble Development 2019 (Summary in Sloveni
+ an), Globalni pogled na financiranje za 
+ trajnostni razvoj 2019 - Time to Face th
+ e Challenge, Čas za soočenje z izzivom
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: Slovenian\nDOI: htt
+ ps://doi.org/10.1787/e8debe52-sl\nPublic
+ ation type: Summary\nReleased as: ePub, 
+ PDF, HTML.\n\niLibrary export: never\nFr
+ eepreview export: 9 November 2018, 20:08
+  Paris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181110T043035Z
+DTSTART:20181112T150000Z
+DTEND:20181112T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Outlook on Financing fo
+ r Sustainable Development 2019 (Summary 
+ in Slovenian), Globalni pogled na financ
+ iranje za trajnostni razvoj 2019 - Time 
+ to Face the Challenge, Čas za soočenje z
+  izzivom
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/1508921d-es
+SUMMARY:Global Outlook on Financing for Sustaina
+ ble Development 2019 (Summary in Spanish
+ ), Perspectivas generales sobre el finan
+ ciamiento para el desarrollo sostenible 
+ 2019 - Time to Face the Challenge, Momen
+ to de enfrentar el desafío 
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: Spanish\nDOI: https
+ ://doi.org/10.1787/1508921d-es\nPublicat
+ ion type: Summary\nReleased as: PDF, ePu
+ b, HTML.\n\niLibrary export: never\nFree
+ preview export: 9 November 2018, 20:08 P
+ aris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181110T043035Z
+DTSTART:20181112T150000Z
+DTEND:20181112T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Outlook on Financing fo
+ r Sustainable Development 2019 (Summary 
+ in Spanish), Perspectivas generales sobr
+ e el financiamiento para el desarrollo s
+ ostenible 2019 - Time to Face the Challe
+ nge, Momento de enfrentar el desafío 
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/ffe5f4a2-sv
+SUMMARY:Global Outlook on Financing for Sustaina
+ ble Development 2019 (Summary in Swedish
+ ), Global översikt över finansiering för
+  hållbar utveckling 2019 - Time to Face 
+ the Challenge, Dags att anta utmaningen
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: Swedish\nDOI: https
+ ://doi.org/10.1787/ffe5f4a2-sv\nPublicat
+ ion type: Summary\nReleased as: ePub, PD
+ F, HTML.\n\niLibrary export: never\nFree
+ preview export: 9 November 2018, 20:08 P
+ aris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181110T043035Z
+DTSTART:20181112T150000Z
+DTEND:20181112T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Outlook on Financing fo
+ r Sustainable Development 2019 (Summary 
+ in Swedish), Global översikt över finans
+ iering för hållbar utveckling 2019 - Tim
+ e to Face the Challenge, Dags att anta u
+ tmaningen
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/4d3d7619-tr
+SUMMARY:Global Outlook on Financing for Sustaina
+ ble Development 2019 (Summary in Turkish
+ ), Sürdürülebilir Kalkınmanın Finansmanı
+  Hakkında Küresel Görünüm 2019 - Time to
+  Face the Challenge, Zorluklarla Yüzleşm
+ e Zamanı
+DESCRIPTION:Directorate: Development Co-operation Di
+ rectorate\nLanguage: Turkish\nDOI: https
+ ://doi.org/10.1787/4d3d7619-tr\nPublicat
+ ion type: Summary\nReleased as: PDF, ePu
+ b, HTML.\n\niLibrary export: never\nFree
+ preview export: 9 November 2018, 20:08 P
+ aris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181110T043035Z
+DTSTART:20181112T150000Z
+DTEND:20181112T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Outlook on Financing fo
+ r Sustainable Development 2019 (Summary 
+ in Turkish), Sürdürülebilir Kalkınmanın 
+ Finansmanı Hakkında Küresel Görünüm 2019
+  - Time to Face the Challenge, Zorluklar
+ la Yüzleşme Zamanı
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/eco_outlook-v2018-2-en
 SUMMARY:OECD Economic Outlook, Volume 2018 Issue
   2 - Preliminary version
@@ -70,7 +809,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  n\niLibrary export: 8 November 2018, 5:0
  0 Paris time (GMT+00:00)\nFreepreview ex
  port: never\nFTI loaded: no.
-DTSTAMP:20181109T060150Z
+DTSTAMP:20181110T043035Z
 DTSTART:20181121T100000Z
 DTEND:20181121T101500Z
 TRANSP:TRANSPARENT
@@ -95,7 +834,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  \niLibrary export: 8 November 2018, 5:00
   Paris time (GMT+00:00)\nFreepreview exp
  ort: never\nFTI loaded: no.
-DTSTAMP:20181109T060150Z
+DTSTAMP:20181110T043035Z
 DTSTART:20181121T100000Z
 DTEND:20181121T101500Z
 TRANSP:TRANSPARENT
@@ -120,7 +859,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  \niLibrary export: 8 November 2018, 5:00
   Paris time (GMT+00:00)\nFreepreview exp
  ort: never\nFTI loaded: no.
-DTSTAMP:20181109T060150Z
+DTSTAMP:20181110T043035Z
 DTSTART:20181121T100000Z
 DTEND:20181121T101500Z
 TRANSP:TRANSPARENT
@@ -141,11 +880,11 @@ SUMMARY:OECD Economic Surveys: Spain 2018
 DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/eco_surveys-esp-2018-en\nPublication 
- type: Economic survey\nReleased as: PDF,
-  Paperback.\n\niLibrary export: 8 Novemb
- er 2018, 5:00 Paris time (GMT+00:00)\nFr
+ type: Economic survey\nReleased as: Pape
+ rback, PDF.\n\niLibrary export: 9 Novemb
+ er 2018, 6:38 Paris time (GMT+00:00)\nFr
  eepreview export: never\nFTI loaded: no.
-DTSTAMP:20181109T060150Z
+DTSTAMP:20181110T043035Z
 DTSTART:20181122T100000Z
 DTEND:20181122T101500Z
 TRANSP:TRANSPARENT
@@ -170,7 +909,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ember 2018, 5:00 Paris time (GMT+00:00)\
  nFreepreview export: never\nFTI loaded: 
  no.
-DTSTAMP:20181109T060150Z
+DTSTAMP:20181110T043035Z
 DTSTART:20181129T100000Z
 DTEND:20181129T101500Z
 TRANSP:TRANSPARENT
@@ -196,7 +935,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  t: 26 October 2018, 4:50 Paris time (GMT
  +00:00)\nFreepreview export: never\nFTI 
  loaded: no.
-DTSTAMP:20181109T060150Z
+DTSTAMP:20181110T043035Z
 DTSTART:20181129T100000Z
 DTEND:20181129T101500Z
 TRANSP:TRANSPARENT
@@ -221,7 +960,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  mber 2018, 5:00 Paris time (GMT+00:00)\n
  Freepreview export: never\nFTI loaded: n
  o.
-DTSTAMP:20181109T060150Z
+DTSTAMP:20181110T043035Z
 DTSTART:20181129T100000Z
 DTEND:20181129T101500Z
 TRANSP:TRANSPARENT
@@ -243,11 +982,11 @@ DESCRIPTION:Directorate: Directorate for Financial a
  nd Enterprise Affairs\nLanguage: English
  \nDOI: https://doi.org/10.1787/978926430
  6929-en\nPublication type: Stand-alone m
- onograph\nReleased as: PDF, Paperback.\n
- \niLibrary export: 8 November 2018, 5:00
+ onograph\nReleased as: Paperback, PDF.\n
+ \niLibrary export: 9 November 2018, 6:38
   Paris time (GMT+00:00)\nFreepreview exp
  ort: never\nFTI loaded: no.
-DTSTAMP:20181109T060150Z
+DTSTAMP:20181110T043035Z
 DTSTART:20181203T090000Z
 DTEND:20181203T091500Z
 TRANSP:TRANSPARENT
@@ -258,6 +997,31 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Financial Incentives and Retir
  ement Savings
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/pens_outlook-2018-en
+SUMMARY:OECD Pensions Outlook 2018
+DESCRIPTION:Directorate: Directorate for Financial a
+ nd Enterprise Affairs, Directorate for E
+ mployment, Labour and Social Affairs\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/pens_outlook-2018-en\nPublication 
+ type: Book\nReleased as: PDF, Paperback.
+ \n\niLibrary export: 1 November 2018, 4:
+ 56 Paris time (GMT+00:00)\nFreepreview e
+ xport: never\nFTI loaded: no.
+DTSTAMP:20181110T043035Z
+DTSTART:20181203T090000Z
+DTEND:20181203T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Pensions Outlook 2018
 END:VALARM
 END:VEVENT
 
@@ -273,7 +1037,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
   export: 1 November 2018, 4:56 Paris tim
  e (GMT+00:00)\nFreepreview export: never
  \nFTI loaded: no.
-DTSTAMP:20181109T060150Z
+DTSTAMP:20181110T043035Z
 DTSTART:20181204T230100Z
 DTEND:20181204T231600Z
 TRANSP:TRANSPARENT
