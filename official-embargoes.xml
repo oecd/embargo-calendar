@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2018-11-13T04:54:41.1373433+01:00" count="115">
+<report name="official-embargoes" generated="2018-11-14T10:13:10.264902+01:00" count="118">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -17,38 +17,6 @@
     <cell name="fti loaded?">FTI Loaded?</cell>
   </row>
   <row index="1">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264301450-en</cell>
-    <cell name="title">SME and Entrepreneurship Policy in Kazakhstan 2018 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2018-11-22</cell>
-    <cell name="embargo date">2018-12-04T23:01:00Z</cell>
-    <cell name="launch date/time">2018-12-04T23:01:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="2">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
-    <cell name="doi">10.1787/9789264301450-en</cell>
-    <cell name="title">SME and Entrepreneurship Policy in Kazakhstan 2018 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-11-22</cell>
-    <cell name="embargo date">2018-12-04T23:01:00Z</cell>
-    <cell name="launch date/time">2018-12-04T23:01:00Z</cell>
-    <cell name="ilibrary last export date">2018-11-01T04:56:11.58Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="3">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/9789264306929-en</cell>
     <cell name="title">Financial Incentives and Retirement Savings (en)</cell>
@@ -64,7 +32,7 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="4">
+  <row index="2">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/9789264306929-en</cell>
     <cell name="title">Financial Incentives and Retirement Savings (en)</cell>
@@ -80,8 +48,8 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="5">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Directorate for Financial and Enterprise Affairs</cell>
+  <row index="3">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs, Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/pens_outlook-2018-en</cell>
     <cell name="title">OECD Pensions Outlook 2018 (en)</cell>
     <cell name="subtitle"/>
@@ -96,8 +64,8 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="6">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs, Directorate for Financial and Enterprise Affairs</cell>
+  <row index="4">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs, Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/pens_outlook-2018-en</cell>
     <cell name="title">OECD Pensions Outlook 2018 (en)</cell>
     <cell name="subtitle"/>
@@ -112,7 +80,55 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
   </row>
+  <row index="5">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
+    <cell name="doi">10.1787/9789264301450-en</cell>
+    <cell name="title">SME and Entrepreneurship Policy in Kazakhstan 2018 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2018-11-22</cell>
+    <cell name="embargo date">2018-11-30T10:00:00Z</cell>
+    <cell name="launch date/time">2018-12-04T23:01:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="6">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs and Local Development</cell>
+    <cell name="doi">10.1787/9789264301450-en</cell>
+    <cell name="title">SME and Entrepreneurship Policy in Kazakhstan 2018 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-11-22</cell>
+    <cell name="embargo date">2018-11-30T10:00:00Z</cell>
+    <cell name="launch date/time">2018-11-30T10:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-11-14T05:31:08.533Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
   <row index="7">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/rev_stats-2018-en</cell>
+    <cell name="title">Revenue Statistics 2018 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2018-11-29</cell>
+    <cell name="embargo date">2018-11-29T10:00:00Z</cell>
+    <cell name="launch date/time">2018-11-29T10:00:00Z</cell>
+    <cell name="ilibrary last export date">2018-11-13T05:41:04.443Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+  </row>
+  <row index="8">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/rev_stats-2018-en</cell>
     <cell name="title">Revenue Statistics 2018 (en)</cell>
@@ -124,22 +140,6 @@
     <cell name="embargo date">2018-11-29T10:00:00Z</cell>
     <cell name="launch date/time">2018-11-29T10:00:00Z</cell>
     <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-  </row>
-  <row index="8">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/rev_stats-2018-en</cell>
-    <cell name="title">Revenue Statistics 2018 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2018-11-29</cell>
-    <cell name="embargo date">2018-11-29T10:00:00Z</cell>
-    <cell name="launch date/time">2018-11-29T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-11-08T05:00:12.93Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -161,7 +161,7 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="10">
-    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
+    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
     <cell name="doi">10.1787/9789264308091-en</cell>
     <cell name="title">Revenue Statistics in Asian and Pacific Economies (en)</cell>
     <cell name="subtitle"/>
@@ -177,7 +177,7 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="11">
-    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
+    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264308091-en</cell>
     <cell name="title">Revenue Statistics in Asian and Pacific Economies (en)</cell>
     <cell name="subtitle"/>
@@ -193,7 +193,7 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="12">
-    <cell name="directorate">Centre for Tax Policy and Administration, Development Centre</cell>
+    <cell name="directorate">Development Centre, Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264308091-en</cell>
     <cell name="title">Revenue Statistics in Asian and Pacific Economies (en)</cell>
     <cell name="subtitle"/>
@@ -214,12 +214,12 @@
     <cell name="title">Statistiques des recettes publiques 2018 (fr)</cell>
     <cell name="subtitle"/>
     <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2018-11-29</cell>
     <cell name="embargo date">2018-11-29T10:00:00Z</cell>
     <cell name="launch date/time">2018-11-29T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-11-08T05:00:12.93Z</cell>
+    <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -230,12 +230,12 @@
     <cell name="title">Statistiques des recettes publiques 2018 (fr)</cell>
     <cell name="subtitle"/>
     <cell name="language">French</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2018-11-29</cell>
     <cell name="embargo date">2018-11-29T10:00:00Z</cell>
     <cell name="launch date/time">2018-11-29T10:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-11-13T05:41:04.443Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -299,7 +299,7 @@
     <cell name="date of publication">2018-11-21</cell>
     <cell name="embargo date">2018-11-21T10:00:00Z</cell>
     <cell name="launch date/time">2018-11-21T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-11-08T05:00:12.93Z</cell>
+    <cell name="ilibrary last export date">2018-11-13T05:41:04.443Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -331,7 +331,7 @@
     <cell name="date of publication">2018-11-21</cell>
     <cell name="embargo date">2018-11-21T10:00:00Z</cell>
     <cell name="launch date/time">2018-11-21T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-11-08T05:00:12.93Z</cell>
+    <cell name="ilibrary last export date">2018-11-14T05:31:08.533Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -347,7 +347,7 @@
     <cell name="date of publication">2018-11-21</cell>
     <cell name="embargo date">2018-11-21T10:00:00Z</cell>
     <cell name="launch date/time">2018-11-21T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-11-08T05:00:12.93Z</cell>
+    <cell name="ilibrary last export date">2018-11-13T05:41:04.443Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
@@ -369,6 +369,54 @@
     <cell name="fti loaded?"/>
   </row>
   <row index="23">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/f5bd9e57-en</cell>
+    <cell name="title">The science of teaching science (en)</cell>
+    <cell name="subtitle">An exploration of science teaching practices in PISA 2015 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-19</cell>
+    <cell name="embargo date">2018-11-19T04:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-14T05:31:10.4122717Z</cell>
+    <cell name="freepreview last export date">2018-11-13T20:21:02Z</cell>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="24">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/9550aa4e-en</cell>
+    <cell name="title">Changing interests and sustained knowledge in the TALIS 2018 framework (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-15</cell>
+    <cell name="embargo date">2018-11-15T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="25">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/799337c2-en</cell>
+    <cell name="title">Teaching and Learning International Survey (TALIS) 2018 Conceptual Framework (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-15</cell>
+    <cell name="embargo date">2018-11-15T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-14T05:31:10.4122717Z</cell>
+    <cell name="freepreview last export date">2018-11-13T20:21:02Z</cell>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="26">
     <cell name="directorate">International Energy Agency</cell>
     <cell name="doi">10.1787/weo-2018-12-en</cell>
     <cell name="title">Alternative electricity futures (en)</cell>
@@ -379,28 +427,12 @@
     <cell name="date of publication">2018-11-13</cell>
     <cell name="embargo date">2018-11-13T12:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-11-13T05:41:04.443Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="24">
-    <cell name="directorate">International Energy Agency</cell>
-    <cell name="doi">10.1787/weo-2018-11-en</cell>
-    <cell name="title">Chapter 8 : Outlook for electricity demand and supply (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-13</cell>
-    <cell name="embargo date">2018-11-13T12:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓, ✓</cell>
-  </row>
-  <row index="25">
+  <row index="27">
     <cell name="directorate">International Energy Agency</cell>
     <cell name="doi">10.1787/weo-2018-17-en</cell>
     <cell name="title">Definitions (en)</cell>
@@ -411,12 +443,12 @@
     <cell name="date of publication">2018-11-13</cell>
     <cell name="embargo date">2018-11-13T12:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-11-13T05:41:04.443Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="26">
+  <row index="28">
     <cell name="directorate">International Energy Agency</cell>
     <cell name="doi">10.1787/weo-2018-16-en</cell>
     <cell name="title">Design of the scenarios (en)</cell>
@@ -427,12 +459,12 @@
     <cell name="date of publication">2018-11-13</cell>
     <cell name="embargo date">2018-11-13T12:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-11-13T05:41:04.443Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="27">
+  <row index="29">
     <cell name="directorate">International Energy Agency</cell>
     <cell name="doi">10.1787/weo-2018-10-en</cell>
     <cell name="title">Electricity today (en)</cell>
@@ -443,12 +475,12 @@
     <cell name="date of publication">2018-11-13</cell>
     <cell name="embargo date">2018-11-13T12:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-11-13T05:41:04.443Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="28">
+  <row index="30">
     <cell name="directorate">International Energy Agency</cell>
     <cell name="doi">10.1787/weo-2018-5-en</cell>
     <cell name="title">Energy and the Sustainable Development Goals (en)</cell>
@@ -459,12 +491,12 @@
     <cell name="date of publication">2018-11-13</cell>
     <cell name="embargo date">2018-11-13T12:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-11-13T05:41:04.443Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="29">
+  <row index="31">
     <cell name="directorate">International Energy Agency</cell>
     <cell name="doi">10.1787/weo-2018-9-en</cell>
     <cell name="title">Energy efficiency and renewable energy (en)</cell>
@@ -475,12 +507,12 @@
     <cell name="date of publication">2018-11-13</cell>
     <cell name="embargo date">2018-11-13T12:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-11-13T05:41:04.443Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="30">
+  <row index="32">
     <cell name="directorate">International Energy Agency</cell>
     <cell name="doi">10.1787/weo-2018-2-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -491,12 +523,12 @@
     <cell name="date of publication">2018-11-13</cell>
     <cell name="embargo date">2018-11-13T12:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-11-13T05:41:04.443Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="31">
+  <row index="33">
     <cell name="directorate">International Energy Agency</cell>
     <cell name="doi">10.1787/weo-2018-1-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -507,12 +539,12 @@
     <cell name="date of publication">2018-11-13</cell>
     <cell name="embargo date">2018-11-13T12:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-11-13T05:41:04.443Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="32">
+  <row index="34">
     <cell name="directorate">International Energy Agency</cell>
     <cell name="doi">10.1787/weo-2018-13-en</cell>
     <cell name="title">Global implications of an electrifying future (en)</cell>
@@ -523,12 +555,12 @@
     <cell name="date of publication">2018-11-13</cell>
     <cell name="embargo date">2018-11-13T12:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-11-13T05:41:04.443Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="33">
+  <row index="35">
     <cell name="directorate">International Energy Agency</cell>
     <cell name="doi">10.1787/weo-2018-14-en</cell>
     <cell name="title">Innovation and the environmentalperformance of oil and gas supply (en)</cell>
@@ -539,12 +571,12 @@
     <cell name="date of publication">2018-11-13</cell>
     <cell name="embargo date">2018-11-13T12:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-11-13T05:41:04.443Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="34">
+  <row index="36">
     <cell name="directorate">International Energy Agency</cell>
     <cell name="doi">10.1787/weo-2018-3-en</cell>
     <cell name="title">Introduction (en)</cell>
@@ -555,12 +587,12 @@
     <cell name="date of publication">2018-11-13</cell>
     <cell name="embargo date">2018-11-13T12:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-11-13T05:41:04.443Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="35">
+  <row index="37">
     <cell name="directorate">International Energy Agency</cell>
     <cell name="doi">10.1787/weo-2018-8-en</cell>
     <cell name="title">Outlook for coal (en)</cell>
@@ -571,12 +603,28 @@
     <cell name="date of publication">2018-11-13</cell>
     <cell name="embargo date">2018-11-13T12:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-11-13T05:41:04.443Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="36">
+  <row index="38">
+    <cell name="directorate">International Energy Agency</cell>
+    <cell name="doi">10.1787/weo-2018-11-en</cell>
+    <cell name="title">Outlook for electricity demand and supply (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-13</cell>
+    <cell name="embargo date">2018-11-13T12:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-14T05:31:08.533Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓, ✓</cell>
+  </row>
+  <row index="39">
     <cell name="directorate">International Energy Agency</cell>
     <cell name="doi">10.1787/weo-2018-7-en</cell>
     <cell name="title">Outlook for natural gas (en)</cell>
@@ -587,12 +635,12 @@
     <cell name="date of publication">2018-11-13</cell>
     <cell name="embargo date">2018-11-13T12:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-11-13T05:41:04.443Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="37">
+  <row index="40">
     <cell name="directorate">International Energy Agency</cell>
     <cell name="doi">10.1787/weo-2018-6-en</cell>
     <cell name="title">Outlook for oil (en)</cell>
@@ -603,12 +651,12 @@
     <cell name="date of publication">2018-11-13</cell>
     <cell name="embargo date">2018-11-13T12:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-11-13T05:41:04.443Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="38">
+  <row index="41">
     <cell name="directorate">International Energy Agency</cell>
     <cell name="doi">10.1787/weo-2018-4-en</cell>
     <cell name="title">Overview and key findings (en)</cell>
@@ -619,12 +667,12 @@
     <cell name="date of publication">2018-11-13</cell>
     <cell name="embargo date">2018-11-13T12:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-11-13T05:41:04.443Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="39">
+  <row index="42">
     <cell name="directorate">International Energy Agency</cell>
     <cell name="doi">10.1787/weo-2018-18-en</cell>
     <cell name="title">References (en)</cell>
@@ -635,12 +683,12 @@
     <cell name="date of publication">2018-11-13</cell>
     <cell name="embargo date">2018-11-13T12:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-11-13T05:41:04.443Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="40">
+  <row index="43">
     <cell name="directorate">International Energy Agency</cell>
     <cell name="doi">10.1787/weo-2018-15-en</cell>
     <cell name="title">Tables for scenario projections (en)</cell>
@@ -651,12 +699,12 @@
     <cell name="date of publication">2018-11-13</cell>
     <cell name="embargo date">2018-11-13T12:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-11-13T05:41:04.443Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓, ✓</cell>
   </row>
-  <row index="41">
+  <row index="44">
     <cell name="directorate">International Energy Agency</cell>
     <cell name="doi">10.1787/weo-2018-en</cell>
     <cell name="title">World Energy Outlook 2018 (en)</cell>
@@ -667,12 +715,12 @@
     <cell name="date of publication">2018-11-13</cell>
     <cell name="embargo date">2018-11-13T00:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2018-11-13T05:41:04.443Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="42">
+  <row index="45">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/9789264307995-en</cell>
     <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (en)</cell>
@@ -683,12 +731,12 @@
     <cell name="date of publication">2018-11-12</cell>
     <cell name="embargo date">2018-11-12T15:00:00Z</cell>
     <cell name="launch date/time">2018-11-12T15:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-11-09T06:38:47.273Z</cell>
+    <cell name="ilibrary last export date">2018-11-14T05:31:08.533Z</cell>
     <cell name="freepreview last export date">2018-11-08T20:17:06Z</cell>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="43">
+  <row index="46">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/9789264307995-en</cell>
     <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (en)</cell>
@@ -704,60 +752,12 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
   </row>
-  <row index="44">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/00250169-zh</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Chinese) (en), 2019 全球可持续发展融资展望 (zh)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), 直面挑战恰逢其时 (zh)</cell>
-    <cell name="language">Chinese</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="45">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/00250169-zh</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Chinese) (en), 2019 全球可持续发展融资展望 (zh)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), 直面挑战恰逢其时 (zh)</cell>
-    <cell name="language">Chinese</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="46">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/00250169-zh</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Chinese) (en), 2019 全球可持续发展融资展望 (zh)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), 直面挑战恰逢其时 (zh)</cell>
-    <cell name="language">Chinese</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
   <row index="47">
     <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/d3b2579b-cs</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Czech) (en), Globální výhled týkající se financování udržitelného rozvoje 2019 (cs)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Čas čelit výzvě (cs)</cell>
-    <cell name="language">Czech</cell>
+    <cell name="doi">10.1787/00250169-zh</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Chinese) (en), 2019 全球可持续发展融资展望 (zh)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), 直面挑战恰逢其时 (zh)</cell>
+    <cell name="language">Chinese</cell>
     <cell name="medium">HTML</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-11-12</cell>
@@ -770,10 +770,10 @@
   </row>
   <row index="48">
     <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/d3b2579b-cs</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Czech) (en), Globální výhled týkající se financování udržitelného rozvoje 2019 (cs)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Čas čelit výzvě (cs)</cell>
-    <cell name="language">Czech</cell>
+    <cell name="doi">10.1787/00250169-zh</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Chinese) (en), 2019 全球可持续发展融资展望 (zh)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), 直面挑战恰逢其时 (zh)</cell>
+    <cell name="language">Chinese</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-11-12</cell>
@@ -786,6 +786,54 @@
   </row>
   <row index="49">
     <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/00250169-zh</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Chinese) (en), 2019 全球可持续发展融资展望 (zh)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), 直面挑战恰逢其时 (zh)</cell>
+    <cell name="language">Chinese</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="50">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/d3b2579b-cs</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Czech) (en), Globální výhled týkající se financování udržitelného rozvoje 2019 (cs)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Čas čelit výzvě (cs)</cell>
+    <cell name="language">Czech</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="51">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/d3b2579b-cs</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Czech) (en), Globální výhled týkající se financování udržitelného rozvoje 2019 (cs)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Čas čelit výzvě (cs)</cell>
+    <cell name="language">Czech</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="52">
+    <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/d3b2579b-cs</cell>
     <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Czech) (en), Globální výhled týkající se financování udržitelného rozvoje 2019 (cs)</cell>
     <cell name="subtitle">Time to Face the Challenge (en), Čas čelit výzvě (cs)</cell>
@@ -800,7 +848,7 @@
     <cell name="catalogue type">Summary</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="50">
+  <row index="53">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/585a560e-nl</cell>
     <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Dutch) (en), Internationale Vooruitzichten over de financiering van duurzame ontwikkeling 2019 (nl)</cell>
@@ -816,60 +864,12 @@
     <cell name="catalogue type">Summary</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="51">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/585a560e-nl</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Dutch) (en), Internationale Vooruitzichten over de financiering van duurzame ontwikkeling 2019 (nl)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Tijd om de uitdaging aan te gaan (nl)</cell>
-    <cell name="language">Dutch</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="52">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/585a560e-nl</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Dutch) (en), Internationale Vooruitzichten over de financiering van duurzame ontwikkeling 2019 (nl)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Tijd om de uitdaging aan te gaan (nl)</cell>
-    <cell name="language">Dutch</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="53">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/4d441d39-en</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in English) (en)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
   <row index="54">
     <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/4d441d39-en</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in English) (en)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en)</cell>
-    <cell name="language">English</cell>
+    <cell name="doi">10.1787/585a560e-nl</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Dutch) (en), Internationale Vooruitzichten over de financiering van duurzame ontwikkeling 2019 (nl)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Tijd om de uitdaging aan te gaan (nl)</cell>
+    <cell name="language">Dutch</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-11-12</cell>
@@ -882,6 +882,54 @@
   </row>
   <row index="55">
     <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/585a560e-nl</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Dutch) (en), Internationale Vooruitzichten over de financiering van duurzame ontwikkeling 2019 (nl)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Tijd om de uitdaging aan te gaan (nl)</cell>
+    <cell name="language">Dutch</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="56">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/4d441d39-en</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in English) (en)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="57">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/4d441d39-en</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in English) (en)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="58">
+    <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/4d441d39-en</cell>
     <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in English) (en)</cell>
     <cell name="subtitle">Time to Face the Challenge (en)</cell>
@@ -896,60 +944,12 @@
     <cell name="catalogue type">Summary</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="56">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/7ffedc1c-et</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Estonian) (en), Globaalne ülevaade jätkusuutliku arengu rahastamise kohta 2019 (et)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Aeg proovikivile otsa vaadata (et)</cell>
-    <cell name="language">Estonian</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="57">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/7ffedc1c-et</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Estonian) (en), Globaalne ülevaade jätkusuutliku arengu rahastamise kohta 2019 (et)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Aeg proovikivile otsa vaadata (et)</cell>
-    <cell name="language">Estonian</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="58">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/7ffedc1c-et</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Estonian) (en), Globaalne ülevaade jätkusuutliku arengu rahastamise kohta 2019 (et)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Aeg proovikivile otsa vaadata (et)</cell>
-    <cell name="language">Estonian</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
   <row index="59">
     <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/e3b67454-fi</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Finnish) (en), Kestävän kehityksen maailmanlaajuinen rahoituskatsaus 2019 (fi)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Aika vastata haasteeseen (fi)</cell>
-    <cell name="language">Finnish</cell>
+    <cell name="doi">10.1787/7ffedc1c-et</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Estonian) (en), Globaalne ülevaade jätkusuutliku arengu rahastamise kohta 2019 (et)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Aeg proovikivile otsa vaadata (et)</cell>
+    <cell name="language">Estonian</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-11-12</cell>
@@ -962,11 +962,11 @@
   </row>
   <row index="60">
     <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/e3b67454-fi</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Finnish) (en), Kestävän kehityksen maailmanlaajuinen rahoituskatsaus 2019 (fi)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Aika vastata haasteeseen (fi)</cell>
-    <cell name="language">Finnish</cell>
-    <cell name="medium">ePub</cell>
+    <cell name="doi">10.1787/7ffedc1c-et</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Estonian) (en), Globaalne ülevaade jätkusuutliku arengu rahastamise kohta 2019 (et)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Aeg proovikivile otsa vaadata (et)</cell>
+    <cell name="language">Estonian</cell>
+    <cell name="medium">HTML</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-11-12</cell>
     <cell name="embargo date">2018-11-12T15:00:00Z</cell>
@@ -978,11 +978,11 @@
   </row>
   <row index="61">
     <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/e3b67454-fi</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Finnish) (en), Kestävän kehityksen maailmanlaajuinen rahoituskatsaus 2019 (fi)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Aika vastata haasteeseen (fi)</cell>
-    <cell name="language">Finnish</cell>
-    <cell name="medium">HTML</cell>
+    <cell name="doi">10.1787/7ffedc1c-et</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Estonian) (en), Globaalne ülevaade jätkusuutliku arengu rahastamise kohta 2019 (et)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Aeg proovikivile otsa vaadata (et)</cell>
+    <cell name="language">Estonian</cell>
+    <cell name="medium">ePub</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-11-12</cell>
     <cell name="embargo date">2018-11-12T15:00:00Z</cell>
@@ -994,26 +994,26 @@
   </row>
   <row index="62">
     <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/e00cbdfe-de</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in German) (en), Globaler Ausblick zur nachhaltigen Entwicklungsfinanzierung 2019 (de)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Es ist Zeit, sich der Herausforderung zu stellen (de)</cell>
-    <cell name="language">German</cell>
-    <cell name="medium">HTML</cell>
+    <cell name="doi">10.1787/e3b67454-fi</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Finnish) (en), Kestävän kehityksen maailmanlaajuinen rahoituskatsaus 2019 (fi)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Aika vastata haasteeseen (fi)</cell>
+    <cell name="language">Finnish</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-11-12</cell>
     <cell name="embargo date">2018-11-12T15:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
     <cell name="catalogue type">Summary</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="63">
     <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/e00cbdfe-de</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in German) (en), Globaler Ausblick zur nachhaltigen Entwicklungsfinanzierung 2019 (de)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Es ist Zeit, sich der Herausforderung zu stellen (de)</cell>
-    <cell name="language">German</cell>
+    <cell name="doi">10.1787/e3b67454-fi</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Finnish) (en), Kestävän kehityksen maailmanlaajuinen rahoituskatsaus 2019 (fi)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Aika vastata haasteeseen (fi)</cell>
+    <cell name="language">Finnish</cell>
     <cell name="medium">ePub</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-11-12</cell>
@@ -1026,6 +1026,54 @@
   </row>
   <row index="64">
     <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/e3b67454-fi</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Finnish) (en), Kestävän kehityksen maailmanlaajuinen rahoituskatsaus 2019 (fi)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Aika vastata haasteeseen (fi)</cell>
+    <cell name="language">Finnish</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="65">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/e00cbdfe-de</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in German) (en), Globaler Ausblick zur nachhaltigen Entwicklungsfinanzierung 2019 (de)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Es ist Zeit, sich der Herausforderung zu stellen (de)</cell>
+    <cell name="language">German</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="66">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/e00cbdfe-de</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in German) (en), Globaler Ausblick zur nachhaltigen Entwicklungsfinanzierung 2019 (de)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Es ist Zeit, sich der Herausforderung zu stellen (de)</cell>
+    <cell name="language">German</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="67">
+    <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/e00cbdfe-de</cell>
     <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in German) (en), Globaler Ausblick zur nachhaltigen Entwicklungsfinanzierung 2019 (de)</cell>
     <cell name="subtitle">Time to Face the Challenge (en), Es ist Zeit, sich der Herausforderung zu stellen (de)</cell>
@@ -1040,60 +1088,12 @@
     <cell name="catalogue type">Summary</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="65">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/14585df5-el</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Greek) (en), Παγκόσμιες προοπτικές για τη χρηματοδότηση της βιώσιμης ανάπτυξης 2019 (el)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Ήρθε η ώρα να αντιμετωπίσουμε την πρόκληση (el)</cell>
-    <cell name="language">Greek</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="66">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/14585df5-el</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Greek) (en), Παγκόσμιες προοπτικές για τη χρηματοδότηση της βιώσιμης ανάπτυξης 2019 (el)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Ήρθε η ώρα να αντιμετωπίσουμε την πρόκληση (el)</cell>
-    <cell name="language">Greek</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="67">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/14585df5-el</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Greek) (en), Παγκόσμιες προοπτικές για τη χρηματοδότηση της βιώσιμης ανάπτυξης 2019 (el)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Ήρθε η ώρα να αντιμετωπίσουμε την πρόκληση (el)</cell>
-    <cell name="language">Greek</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
   <row index="68">
     <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/0b77768b-he</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Hebrew) (en), סקירה גלובלית בנושא מימון עבור פיתוח בר-קיימא  (he)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), הגיע הזמן להתמודד עם האתגר (he)</cell>
-    <cell name="language">Hebrew</cell>
+    <cell name="doi">10.1787/14585df5-el</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Greek) (en), Παγκόσμιες προοπτικές για τη χρηματοδότηση της βιώσιμης ανάπτυξης 2019 (el)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Ήρθε η ώρα να αντιμετωπίσουμε την πρόκληση (el)</cell>
+    <cell name="language">Greek</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-11-12</cell>
@@ -1106,10 +1106,10 @@
   </row>
   <row index="69">
     <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/0b77768b-he</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Hebrew) (en), סקירה גלובלית בנושא מימון עבור פיתוח בר-קיימא  (he)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), הגיע הזמן להתמודד עם האתגר (he)</cell>
-    <cell name="language">Hebrew</cell>
+    <cell name="doi">10.1787/14585df5-el</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Greek) (en), Παγκόσμιες προοπτικές για τη χρηματοδότηση της βιώσιμης ανάπτυξης 2019 (el)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Ήρθε η ώρα να αντιμετωπίσουμε την πρόκληση (el)</cell>
+    <cell name="language">Greek</cell>
     <cell name="medium">HTML</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-11-12</cell>
@@ -1122,6 +1122,54 @@
   </row>
   <row index="70">
     <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/14585df5-el</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Greek) (en), Παγκόσμιες προοπτικές για τη χρηματοδότηση της βιώσιμης ανάπτυξης 2019 (el)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Ήρθε η ώρα να αντιμετωπίσουμε την πρόκληση (el)</cell>
+    <cell name="language">Greek</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="71">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/0b77768b-he</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Hebrew) (en), סקירה גלובלית בנושא מימון עבור פיתוח בר-קיימא  (he)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), הגיע הזמן להתמודד עם האתגר (he)</cell>
+    <cell name="language">Hebrew</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="72">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/0b77768b-he</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Hebrew) (en), סקירה גלובלית בנושא מימון עבור פיתוח בר-קיימא  (he)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), הגיע הזמן להתמודד עם האתגר (he)</cell>
+    <cell name="language">Hebrew</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="73">
+    <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/0b77768b-he</cell>
     <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Hebrew) (en), סקירה גלובלית בנושא מימון עבור פיתוח בר-קיימא  (he)</cell>
     <cell name="subtitle">Time to Face the Challenge (en), הגיע הזמן להתמודד עם האתגר (he)</cell>
@@ -1136,7 +1184,7 @@
     <cell name="catalogue type">Summary</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="71">
+  <row index="74">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/0398df63-hu</cell>
     <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Hungarian) (en), A fenntartható fejlődés finanszírozására vonatkozó globális kilátások 2019 (hu)</cell>
@@ -1152,61 +1200,13 @@
     <cell name="catalogue type">Summary</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="72">
+  <row index="75">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/0398df63-hu</cell>
     <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Hungarian) (en), A fenntartható fejlődés finanszírozására vonatkozó globális kilátások 2019 (hu)</cell>
     <cell name="subtitle">Time to Face the Challenge (en), Ideje felvállalni a kihívást (hu)</cell>
     <cell name="language">Hungarian</cell>
     <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="73">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/0398df63-hu</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Hungarian) (en), A fenntartható fejlődés finanszírozására vonatkozó globális kilátások 2019 (hu)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Ideje felvállalni a kihívást (hu)</cell>
-    <cell name="language">Hungarian</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="74">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/90bf993e-is</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Icelandic) (en), Almennar horfur í fjármögnun sjálfbærrar þróunar 2019 (is)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Tími kominn til að taka áskoruninni (is)</cell>
-    <cell name="language">Icelandic</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="75">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/90bf993e-is</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Icelandic) (en), Almennar horfur í fjármögnun sjálfbærrar þróunar 2019 (is)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Tími kominn til að taka áskoruninni (is)</cell>
-    <cell name="language">Icelandic</cell>
-    <cell name="medium">ePub</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-11-12</cell>
     <cell name="embargo date">2018-11-12T15:00:00Z</cell>
@@ -1218,42 +1218,42 @@
   </row>
   <row index="76">
     <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/90bf993e-is</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Icelandic) (en), Almennar horfur í fjármögnun sjálfbærrar þróunar 2019 (is)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Tími kominn til að taka áskoruninni (is)</cell>
-    <cell name="language">Icelandic</cell>
-    <cell name="medium">HTML</cell>
+    <cell name="doi">10.1787/0398df63-hu</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Hungarian) (en), A fenntartható fejlődés finanszírozására vonatkozó globális kilátások 2019 (hu)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Ideje felvállalni a kihívást (hu)</cell>
+    <cell name="language">Hungarian</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-11-12</cell>
     <cell name="embargo date">2018-11-12T15:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
     <cell name="catalogue type">Summary</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="77">
     <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/cc99d077-it</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Italian) (en), Prospettive globali sul finanziamento dello sviluppo sostenibile 2019 (it)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Il momento è giunto di affrontare la sfida (it)</cell>
-    <cell name="language">Italian</cell>
-    <cell name="medium">HTML</cell>
+    <cell name="doi">10.1787/90bf993e-is</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Icelandic) (en), Almennar horfur í fjármögnun sjálfbærrar þróunar 2019 (is)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Tími kominn til að taka áskoruninni (is)</cell>
+    <cell name="language">Icelandic</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-11-12</cell>
     <cell name="embargo date">2018-11-12T15:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
     <cell name="catalogue type">Summary</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="78">
     <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/cc99d077-it</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Italian) (en), Prospettive globali sul finanziamento dello sviluppo sostenibile 2019 (it)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Il momento è giunto di affrontare la sfida (it)</cell>
-    <cell name="language">Italian</cell>
+    <cell name="doi">10.1787/90bf993e-is</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Icelandic) (en), Almennar horfur í fjármögnun sjálfbærrar þróunar 2019 (is)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Tími kominn til að taka áskoruninni (is)</cell>
+    <cell name="language">Icelandic</cell>
     <cell name="medium">ePub</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-11-12</cell>
@@ -1266,6 +1266,54 @@
   </row>
   <row index="79">
     <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/90bf993e-is</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Icelandic) (en), Almennar horfur í fjármögnun sjálfbærrar þróunar 2019 (is)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Tími kominn til að taka áskoruninni (is)</cell>
+    <cell name="language">Icelandic</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="80">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/cc99d077-it</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Italian) (en), Prospettive globali sul finanziamento dello sviluppo sostenibile 2019 (it)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Il momento è giunto di affrontare la sfida (it)</cell>
+    <cell name="language">Italian</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="81">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/cc99d077-it</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Italian) (en), Prospettive globali sul finanziamento dello sviluppo sostenibile 2019 (it)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Il momento è giunto di affrontare la sfida (it)</cell>
+    <cell name="language">Italian</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="82">
+    <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/cc99d077-it</cell>
     <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Italian) (en), Prospettive globali sul finanziamento dello sviluppo sostenibile 2019 (it)</cell>
     <cell name="subtitle">Time to Face the Challenge (en), Il momento è giunto di affrontare la sfida (it)</cell>
@@ -1280,7 +1328,7 @@
     <cell name="catalogue type">Summary</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="80">
+  <row index="83">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/4f35d435-ja</cell>
     <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Japanese) (en), 持続可能な開発のための資金に関するグローバルアウトルック2019 (ja)</cell>
@@ -1296,61 +1344,13 @@
     <cell name="catalogue type">Summary</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="81">
+  <row index="84">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/4f35d435-ja</cell>
     <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Japanese) (en), 持続可能な開発のための資金に関するグローバルアウトルック2019 (ja)</cell>
     <cell name="subtitle">Time to Face the Challenge (en), 課題に対処する時が来ている (ja)</cell>
     <cell name="language">Japanese</cell>
     <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="82">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/4f35d435-ja</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Japanese) (en), 持続可能な開発のための資金に関するグローバルアウトルック2019 (ja)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), 課題に対処する時が来ている (ja)</cell>
-    <cell name="language">Japanese</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="83">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/bfaa88af-ko</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Korean) (en), 2019 지속가능한 개발의 파이낸싱에 대한 글로벌 전망  (ko)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), 도전에 직면한 시기 (ko)</cell>
-    <cell name="language">Korean</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="84">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/bfaa88af-ko</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Korean) (en), 2019 지속가능한 개발의 파이낸싱에 대한 글로벌 전망  (ko)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), 도전에 직면한 시기 (ko)</cell>
-    <cell name="language">Korean</cell>
-    <cell name="medium">HTML</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-11-12</cell>
     <cell name="embargo date">2018-11-12T15:00:00Z</cell>
@@ -1362,26 +1362,26 @@
   </row>
   <row index="85">
     <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/bfaa88af-ko</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Korean) (en), 2019 지속가능한 개발의 파이낸싱에 대한 글로벌 전망  (ko)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), 도전에 직면한 시기 (ko)</cell>
-    <cell name="language">Korean</cell>
-    <cell name="medium">ePub</cell>
+    <cell name="doi">10.1787/4f35d435-ja</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Japanese) (en), 持続可能な開発のための資金に関するグローバルアウトルック2019 (ja)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), 課題に対処する時が来ている (ja)</cell>
+    <cell name="language">Japanese</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-11-12</cell>
     <cell name="embargo date">2018-11-12T15:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
     <cell name="catalogue type">Summary</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="86">
     <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/5017d4cd-lv</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Latvian) (en), Vispārējs apskats par ilgtspējīgas attīstības finansēšanu 2019 (lv)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Laiks risināt problēmas (lv)</cell>
-    <cell name="language">Latvian</cell>
+    <cell name="doi">10.1787/bfaa88af-ko</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Korean) (en), 2019 지속가능한 개발의 파이낸싱에 대한 글로벌 전망  (ko)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), 도전에 직면한 시기 (ko)</cell>
+    <cell name="language">Korean</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-11-12</cell>
@@ -1394,11 +1394,11 @@
   </row>
   <row index="87">
     <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/5017d4cd-lv</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Latvian) (en), Vispārējs apskats par ilgtspējīgas attīstības finansēšanu 2019 (lv)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Laiks risināt problēmas (lv)</cell>
-    <cell name="language">Latvian</cell>
-    <cell name="medium">ePub</cell>
+    <cell name="doi">10.1787/bfaa88af-ko</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Korean) (en), 2019 지속가능한 개발의 파이낸싱에 대한 글로벌 전망  (ko)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), 도전에 직면한 시기 (ko)</cell>
+    <cell name="language">Korean</cell>
+    <cell name="medium">HTML</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-11-12</cell>
     <cell name="embargo date">2018-11-12T15:00:00Z</cell>
@@ -1410,6 +1410,54 @@
   </row>
   <row index="88">
     <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/bfaa88af-ko</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Korean) (en), 2019 지속가능한 개발의 파이낸싱에 대한 글로벌 전망  (ko)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), 도전에 직면한 시기 (ko)</cell>
+    <cell name="language">Korean</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="89">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/5017d4cd-lv</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Latvian) (en), Vispārējs apskats par ilgtspējīgas attīstības finansēšanu 2019 (lv)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Laiks risināt problēmas (lv)</cell>
+    <cell name="language">Latvian</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date">2018-11-12T20:21:37Z</cell>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="90">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/5017d4cd-lv</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Latvian) (en), Vispārējs apskats par ilgtspējīgas attīstības finansēšanu 2019 (lv)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Laiks risināt problēmas (lv)</cell>
+    <cell name="language">Latvian</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="91">
+    <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/5017d4cd-lv</cell>
     <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Latvian) (en), Vispārējs apskats par ilgtspējīgas attīstības finansēšanu 2019 (lv)</cell>
     <cell name="subtitle">Time to Face the Challenge (en), Laiks risināt problēmas (lv)</cell>
@@ -1424,61 +1472,13 @@
     <cell name="catalogue type">Summary</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="89">
+  <row index="92">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/8bacbf22-no</cell>
     <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Norwegian) (en), Global rapport om finansiering av bærekraftig utvikling 2019 (no)</cell>
     <cell name="subtitle">Time to Face the Challenge (en), Tid for å møte utfordringen (no)</cell>
     <cell name="language">Norwegian</cell>
     <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="90">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/8bacbf22-no</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Norwegian) (en), Global rapport om finansiering av bærekraftig utvikling 2019 (no)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Tid for å møte utfordringen (no)</cell>
-    <cell name="language">Norwegian</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="91">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/8bacbf22-no</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Norwegian) (en), Global rapport om finansiering av bærekraftig utvikling 2019 (no)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Tid for å møte utfordringen (no)</cell>
-    <cell name="language">Norwegian</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="92">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/5d1c22aa-pl</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Polish) (en), Światowy przegląd finansowania zrównoważonego rozwoju 2019 (pl)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Czas stawić czoła wyzwaniu (pl)</cell>
-    <cell name="language">Polish</cell>
-    <cell name="medium">HTML</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-11-12</cell>
     <cell name="embargo date">2018-11-12T15:00:00Z</cell>
@@ -1490,58 +1490,10 @@
   </row>
   <row index="93">
     <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/5d1c22aa-pl</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Polish) (en), Światowy przegląd finansowania zrównoważonego rozwoju 2019 (pl)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Czas stawić czoła wyzwaniu (pl)</cell>
-    <cell name="language">Polish</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="94">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/5d1c22aa-pl</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Polish) (en), Światowy przegląd finansowania zrównoważonego rozwoju 2019 (pl)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Czas stawić czoła wyzwaniu (pl)</cell>
-    <cell name="language">Polish</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="95">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/f73dc471-pt</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Portuguese) (en), Perspetivas Globais sobre o Financiamento para um Desenvolvimento sustentável 2019 (pt)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Tempo de enfrentar o desafio (pt)</cell>
-    <cell name="language">Portuguese</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="96">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/f73dc471-pt</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Portuguese) (en), Perspetivas Globais sobre o Financiamento para um Desenvolvimento sustentável 2019 (pt)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Tempo de enfrentar o desafio (pt)</cell>
-    <cell name="language">Portuguese</cell>
+    <cell name="doi">10.1787/8bacbf22-no</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Norwegian) (en), Global rapport om finansiering av bærekraftig utvikling 2019 (no)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Tid for å møte utfordringen (no)</cell>
+    <cell name="language">Norwegian</cell>
     <cell name="medium">HTML</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-11-12</cell>
@@ -1552,12 +1504,60 @@
     <cell name="catalogue type">Summary</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
+  <row index="94">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/8bacbf22-no</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Norwegian) (en), Global rapport om finansiering av bærekraftig utvikling 2019 (no)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Tid for å møte utfordringen (no)</cell>
+    <cell name="language">Norwegian</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="95">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/5d1c22aa-pl</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Polish) (en), Światowy przegląd finansowania zrównoważonego rozwoju 2019 (pl)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Czas stawić czoła wyzwaniu (pl)</cell>
+    <cell name="language">Polish</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="96">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/5d1c22aa-pl</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Polish) (en), Światowy przegląd finansowania zrównoważonego rozwoju 2019 (pl)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Czas stawić czoła wyzwaniu (pl)</cell>
+    <cell name="language">Polish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
   <row index="97">
     <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/f73dc471-pt</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Portuguese) (en), Perspetivas Globais sobre o Financiamento para um Desenvolvimento sustentável 2019 (pt)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Tempo de enfrentar o desafio (pt)</cell>
-    <cell name="language">Portuguese</cell>
+    <cell name="doi">10.1787/5d1c22aa-pl</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Polish) (en), Światowy przegląd finansowania zrównoważonego rozwoju 2019 (pl)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Czas stawić czoła wyzwaniu (pl)</cell>
+    <cell name="language">Polish</cell>
     <cell name="medium">ePub</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-11-12</cell>
@@ -1570,6 +1570,54 @@
   </row>
   <row index="98">
     <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/f73dc471-pt</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Portuguese) (en), Perspetivas Globais sobre o Financiamento para um Desenvolvimento sustentável 2019 (pt)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Tempo de enfrentar o desafio (pt)</cell>
+    <cell name="language">Portuguese</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="99">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/f73dc471-pt</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Portuguese) (en), Perspetivas Globais sobre o Financiamento para um Desenvolvimento sustentável 2019 (pt)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Tempo de enfrentar o desafio (pt)</cell>
+    <cell name="language">Portuguese</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="100">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/f73dc471-pt</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Portuguese) (en), Perspetivas Globais sobre o Financiamento para um Desenvolvimento sustentável 2019 (pt)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Tempo de enfrentar o desafio (pt)</cell>
+    <cell name="language">Portuguese</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="101">
+    <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/424ac92c-ru</cell>
     <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Russian) (en), Глобальные перспективы финансирования устойчивого развития 2019 (ru)</cell>
     <cell name="subtitle">Time to Face the Challenge (en), Пора решать задачу (ru)</cell>
@@ -1584,60 +1632,12 @@
     <cell name="catalogue type">Summary</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="99">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/424ac92c-ru</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Russian) (en), Глобальные перспективы финансирования устойчивого развития 2019 (ru)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Пора решать задачу (ru)</cell>
-    <cell name="language">Russian</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="100">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/424ac92c-ru</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Russian) (en), Глобальные перспективы финансирования устойчивого развития 2019 (ru)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Пора решать задачу (ru)</cell>
-    <cell name="language">Russian</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="101">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/72376837-sk</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Slovak) (en), Globálny výhľad financovania trvalo udržateľného rozvoja 2019 (sk)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Čas postaviť sa výzve (sk)</cell>
-    <cell name="language">Slovak</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
   <row index="102">
     <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/72376837-sk</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Slovak) (en), Globálny výhľad financovania trvalo udržateľného rozvoja 2019 (sk)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Čas postaviť sa výzve (sk)</cell>
-    <cell name="language">Slovak</cell>
+    <cell name="doi">10.1787/424ac92c-ru</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Russian) (en), Глобальные перспективы финансирования устойчивого развития 2019 (ru)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Пора решать задачу (ru)</cell>
+    <cell name="language">Russian</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-11-12</cell>
@@ -1650,6 +1650,54 @@
   </row>
   <row index="103">
     <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/424ac92c-ru</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Russian) (en), Глобальные перспективы финансирования устойчивого развития 2019 (ru)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Пора решать задачу (ru)</cell>
+    <cell name="language">Russian</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="104">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/72376837-sk</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Slovak) (en), Globálny výhľad financovania trvalo udržateľného rozvoja 2019 (sk)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Čas postaviť sa výzve (sk)</cell>
+    <cell name="language">Slovak</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="105">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/72376837-sk</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Slovak) (en), Globálny výhľad financovania trvalo udržateľného rozvoja 2019 (sk)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Čas postaviť sa výzve (sk)</cell>
+    <cell name="language">Slovak</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="106">
+    <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/72376837-sk</cell>
     <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Slovak) (en), Globálny výhľad financovania trvalo udržateľného rozvoja 2019 (sk)</cell>
     <cell name="subtitle">Time to Face the Challenge (en), Čas postaviť sa výzve (sk)</cell>
@@ -1664,7 +1712,7 @@
     <cell name="catalogue type">Summary</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="104">
+  <row index="107">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/e8debe52-sl</cell>
     <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Slovenian) (en), Globalni pogled na financiranje za trajnostni razvoj 2019 (sl)</cell>
@@ -1677,79 +1725,31 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="105">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/e8debe52-sl</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Slovenian) (en), Globalni pogled na financiranje za trajnostni razvoj 2019 (sl)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Čas za soočenje z izzivom (sl)</cell>
-    <cell name="language">Slovenian</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="106">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/e8debe52-sl</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Slovenian) (en), Globalni pogled na financiranje za trajnostni razvoj 2019 (sl)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Čas za soočenje z izzivom (sl)</cell>
-    <cell name="language">Slovenian</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Summary</cell>
-    <cell name="fti loaded?">✓</cell>
-  </row>
-  <row index="107">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/1508921d-es</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Spanish) (en), Perspectivas generales sobre el financiamiento para el desarrollo sostenible 2019 (es)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Momento de enfrentar el desafío  (es)</cell>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2018-11-12</cell>
-    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
     <cell name="catalogue type">Summary</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="108">
     <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/1508921d-es</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Spanish) (en), Perspectivas generales sobre el financiamiento para el desarrollo sostenible 2019 (es)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Momento de enfrentar el desafío  (es)</cell>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">ePub</cell>
+    <cell name="doi">10.1787/e8debe52-sl</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Slovenian) (en), Globalni pogled na financiranje za trajnostni razvoj 2019 (sl)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Čas za soočenje z izzivom (sl)</cell>
+    <cell name="language">Slovenian</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-11-12</cell>
     <cell name="embargo date">2018-11-12T15:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
     <cell name="catalogue type">Summary</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
   <row index="109">
     <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/1508921d-es</cell>
-    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Spanish) (en), Perspectivas generales sobre el financiamiento para el desarrollo sostenible 2019 (es)</cell>
-    <cell name="subtitle">Time to Face the Challenge (en), Momento de enfrentar el desafío  (es)</cell>
-    <cell name="language">Spanish</cell>
+    <cell name="doi">10.1787/e8debe52-sl</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Slovenian) (en), Globalni pogled na financiranje za trajnostni razvoj 2019 (sl)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Čas za soočenje z izzivom (sl)</cell>
+    <cell name="language">Slovenian</cell>
     <cell name="medium">HTML</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2018-11-12</cell>
@@ -1762,6 +1762,54 @@
   </row>
   <row index="110">
     <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/1508921d-es</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Spanish) (en), Perspectivas generales sobre el financiamiento para el desarrollo sostenible 2019 (es)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Momento de enfrentar el desafío  (es)</cell>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date">2018-11-09T20:08:07Z</cell>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="111">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/1508921d-es</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Spanish) (en), Perspectivas generales sobre el financiamiento para el desarrollo sostenible 2019 (es)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Momento de enfrentar el desafío  (es)</cell>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="112">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/1508921d-es</cell>
+    <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Spanish) (en), Perspectivas generales sobre el financiamiento para el desarrollo sostenible 2019 (es)</cell>
+    <cell name="subtitle">Time to Face the Challenge (en), Momento de enfrentar el desafío  (es)</cell>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2018-11-12</cell>
+    <cell name="embargo date">2018-11-12T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-11-10T05:13:47.6962578Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+  </row>
+  <row index="113">
+    <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/ffe5f4a2-sv</cell>
     <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Swedish) (en), Global översikt över finansiering för hållbar utveckling 2019 (sv)</cell>
     <cell name="subtitle">Time to Face the Challenge (en), Dags att anta utmaningen (sv)</cell>
@@ -1776,7 +1824,7 @@
     <cell name="catalogue type">Summary</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="111">
+  <row index="114">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/ffe5f4a2-sv</cell>
     <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Swedish) (en), Global översikt över finansiering för hållbar utveckling 2019 (sv)</cell>
@@ -1792,7 +1840,7 @@
     <cell name="catalogue type">Summary</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="112">
+  <row index="115">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/ffe5f4a2-sv</cell>
     <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Swedish) (en), Global översikt över finansiering för hållbar utveckling 2019 (sv)</cell>
@@ -1808,7 +1856,7 @@
     <cell name="catalogue type">Summary</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="113">
+  <row index="116">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/4d3d7619-tr</cell>
     <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Turkish) (en), Sürdürülebilir Kalkınmanın Finansmanı Hakkında Küresel Görünüm 2019 (tr)</cell>
@@ -1824,7 +1872,7 @@
     <cell name="catalogue type">Summary</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="114">
+  <row index="117">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/4d3d7619-tr</cell>
     <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Turkish) (en), Sürdürülebilir Kalkınmanın Finansmanı Hakkında Küresel Görünüm 2019 (tr)</cell>
@@ -1840,7 +1888,7 @@
     <cell name="catalogue type">Summary</cell>
     <cell name="fti loaded?">✓</cell>
   </row>
-  <row index="115">
+  <row index="118">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/4d3d7619-tr</cell>
     <cell name="title">Global Outlook on Financing for Sustainable Development 2019 (Summary in Turkish) (en), Sürdürülebilir Kalkınmanın Finansmanı Hakkında Küresel Görünüm 2019 (tr)</cell>
