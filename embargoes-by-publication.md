@@ -1,23 +1,23 @@
-# OECD publication embargoes (13 embargoes)
+# OECD publication embargoes (16 embargoes)
 
-*Data generated on Wednesday 14 November 2018 at 10:13*
+*Data generated on Thursday 15 November 2018 at 11:17*
 
 ------
 
-## [Changing interests and sustained knowledge in the TALIS 2018 framework](https://doi.org/10.1787/9550aa4e-en)
+## [Regulatory framework for the loan-based crowdfunding platforms](https://doi.org/10.1787/24ad924a-en)
 
 Embargo date | Launch date
 -------------|------------
-Thursday 15 November 2018 at 11:00 | no launch event
+Friday 16 November 2018 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Wednesday 14 November 2018 at 21:09
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills*
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
@@ -25,20 +25,20 @@ Thursday 15 November 2018 at 11:00 | no launch event
 
 ------
 
-## [Teaching and Learning International Survey (TALIS) 2018 Conceptual Framework](https://doi.org/10.1787/799337c2-en)
+## [To what extent do policies contribute to self-employment?](https://doi.org/10.1787/74c044b1-en)
 
 Embargo date | Launch date
 -------------|------------
-Thursday 15 November 2018 at 11:00 | no launch event
+Friday 16 November 2018 at 2:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 14 November 2018 at 6:31
-- [x] Exported to Keepeek Tuesday 13 November 2018 at 21:21
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Wednesday 14 November 2018 at 21:09
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills*
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
@@ -130,6 +130,48 @@ Wednesday 21 November 2018 at 11:00 | no launch event
 
 ------
 
+## [Estudio de la OCDE sobre Integridad en el Estado de Nuevo León, México - Dando sostenibilidad a las reformas de integridad](https://doi.org/10.1787/9789264306905-es)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 21 November 2018 at 18:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 13 November 2018 at 6:41
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [OECD Integrity Review of Nuevo León, Mexico - Sustaining Integrity Reforms](https://doi.org/10.1787/9789264284463-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 21 November 2018 at 18:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 13 November 2018 at 6:41
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Spain 2018](https://doi.org/10.1787/eco_surveys-esp-2018-en)
 
 Embargo date | Launch date
@@ -147,6 +189,27 @@ Thursday 22 November 2018 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Medium: *PDF*
+
+------
+
+## [Health at a Glance: Europe 2018 - State of Health in the EU Cycle](https://doi.org/10.1787/health_glance_eur-2018-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 22 November 2018 at 13:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 November 2018 at 6:31
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Medium: *PDF*
 
 ------
@@ -269,7 +332,7 @@ Monday 3 December 2018 at 10:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Financial and Enterprise Affairs, Directorate for Employment, Labour and Social Affairs*
+* Directorate: *Directorate for Employment, Labour and Social Affairs, Directorate for Financial and Enterprise Affairs*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
