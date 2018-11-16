@@ -1,48 +1,6 @@
-# OECD publication embargoes (16 embargoes)
+# OECD publication embargoes (18 embargoes)
 
-*Data generated on Thursday 15 November 2018 at 11:17*
-
-------
-
-## [Regulatory framework for the loan-based crowdfunding platforms](https://doi.org/10.1787/24ad924a-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 16 November 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [x] Exported to Keepeek Wednesday 14 November 2018 at 21:09
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
-
-------
-
-## [To what extent do policies contribute to self-employment?](https://doi.org/10.1787/74c044b1-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 16 November 2018 at 2:00 | no launch event
-
-### Status Information
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [x] Exported to Keepeek Wednesday 14 November 2018 at 21:09
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Medium: *PDF*
+*Data generated on Friday 16 November 2018 at 5:06*
 
 ------
 
@@ -63,6 +21,90 @@ Monday 19 November 2018 at 5:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [How do science teachers teach science - and does it matter?](https://doi.org/10.1787/f3ac3fd6-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 November 2018 at 6:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Thursday 15 November 2018 at 21:16
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Medium: *PDF*
+
+------
+
+## [OECD Science, Technology and Innovation Outlook 2018 - Adapting to Technological and Societal Disruption](https://doi.org/10.1787/sti_in_outlook-2018-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 November 2018 at 11:00 | no launch event
+
+### Status Information
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 15 November 2018 at 13:08
+- [x] Exported to Keepeek Thursday 15 November 2018 at 21:16
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Science, technologie et innovation : Perspectives de l'OCDE 2018 (version abrégée) - S'adapter aux bouleversements technologiques et sociétaux](https://doi.org/10.1787/sti_in_outlook-2018-fr)
+
+Embargo date | Launch date
+-------------|------------
+Monday 19 November 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 15 November 2018 at 13:08
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Medium: *PDF*
+
+------
+
+## [Human Acceleration of the Nitrogen Cycle - Managing Risks and Uncertainty](https://doi.org/10.1787/9789264307438-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 20 November 2018 at 11:00 | no launch event
+
+### Status Information
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 15 November 2018 at 13:08
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Medium: *PDF*
 
 ------
@@ -138,7 +180,7 @@ Wednesday 21 November 2018 at 18:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 13 November 2018 at 6:41
+- [x] Exported to iLibrary Thursday 15 November 2018 at 13:08
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -159,7 +201,7 @@ Wednesday 21 November 2018 at 18:00 | no launch event
 
 ### Status Information
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 13 November 2018 at 6:41
+- [x] Exported to iLibrary Thursday 15 November 2018 at 13:08
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -201,14 +243,14 @@ Thursday 22 November 2018 at 13:00 | no launch event
 
 ### Status Information
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 14 November 2018 at 6:31
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 15 November 2018 at 13:08
+- [x] Exported to Keepeek Thursday 15 November 2018 at 21:16
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Medium: *PDF*
 
@@ -332,7 +374,7 @@ Monday 3 December 2018 at 10:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Employment, Labour and Social Affairs, Directorate for Financial and Enterprise Affairs*
+* Directorate: *Directorate for Financial and Enterprise Affairs, Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*

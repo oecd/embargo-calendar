@@ -11,10 +11,11 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9550aa4e-en\nPublicat
  ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: never\nFreeprevie
- w export: 14 November 2018, 20:09 Paris 
- time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181115T111736Z
+ F.\n\niLibrary export: 15 November 2018,
+  12:08 Paris time (GMT+00:00)\nFreeprevi
+ ew export: 14 November 2018, 20:09 Paris
+  time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181116T050610Z
 DTSTART:20181115T100000Z
 DTEND:20181115T101500Z
 TRANSP:TRANSPARENT
@@ -40,7 +41,7 @@ DESCRIPTION:Directorate: Directorate for Education a
   5:31 Paris time (GMT+00:00)\nFreeprevie
  w export: 13 November 2018, 20:21 Paris 
  time (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20181115T111736Z
+DTSTAMP:20181116T050610Z
 DTSTART:20181115T100000Z
 DTEND:20181115T101500Z
 TRANSP:TRANSPARENT
@@ -63,10 +64,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/24ad924a-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
- xport: never\nFreepreview export: 14 Nov
- ember 2018, 20:09 Paris time (GMT+00:00)
- \nFTI loaded: ✓, ✓.
-DTSTAMP:20181115T111736Z
+ xport: 15 November 2018, 12:08 Paris tim
+ e (GMT+00:00)\nFreepreview export: 14 No
+ vember 2018, 20:09 Paris time (GMT+00:00
+ )\nFTI loaded: ✓, ✓.
+DTSTAMP:20181116T050610Z
 DTSTART:20181116T010000Z
 DTEND:20181116T011500Z
 TRANSP:TRANSPARENT
@@ -88,10 +90,11 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/74c044b1-en\nPublication type: Workin
  g paper\nReleased as: PDF.\n\niLibrary e
- xport: never\nFreepreview export: 14 Nov
- ember 2018, 20:09 Paris time (GMT+00:00)
- \nFTI loaded: ✓, ✓.
-DTSTAMP:20181115T111736Z
+ xport: 15 November 2018, 12:08 Paris tim
+ e (GMT+00:00)\nFreepreview export: 14 No
+ vember 2018, 20:09 Paris time (GMT+00:00
+ )\nFTI loaded: ✓, ✓.
+DTSTAMP:20181116T050610Z
 DTSTART:20181116T010000Z
 DTEND:20181116T011500Z
 TRANSP:TRANSPARENT
@@ -118,7 +121,7 @@ DESCRIPTION:Directorate: Directorate for Education a
   5:31 Paris time (GMT+00:00)\nFreeprevie
  w export: 13 November 2018, 20:21 Paris 
  time (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20181115T111736Z
+DTSTAMP:20181116T050610Z
 DTSTART:20181119T040000Z
 DTEND:20181119T041500Z
 TRANSP:TRANSPARENT
@@ -134,6 +137,117 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/f3ac3fd6-en
+SUMMARY:How do science teachers teach science - 
+ and does it matter?
+DESCRIPTION:Directorate: Directorate for Education a
+ nd Skills\nLanguage: English\nDOI: https
+ ://doi.org/10.1787/f3ac3fd6-en\nPublicat
+ ion type: Working paper\nReleased as: PD
+ F.\n\niLibrary export: never\nFreeprevie
+ w export: 15 November 2018, 20:16 Paris 
+ time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181116T050610Z
+DTSTART:20181119T050000Z
+DTEND:20181119T051500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How do science teachers teach 
+ science - and does it matter?
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/sti_in_outlook-2018-en
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 - Adapting to Technological
+  and Societal Disruption
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/sti_in_o
+ utlook-2018-en\nPublication type: Book\n
+ Released as: Paperback, PDF.\n\niLibrary
+  export: 15 November 2018, 12:08 Paris t
+ ime (GMT+00:00)\nFreepreview export: 15 
+ November 2018, 20:16 Paris time (GMT+00:
+ 00)\nFTI loaded: ✓.
+DTSTAMP:20181116T050610Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 - Adapting to Tec
+ hnological and Societal Disruption
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/sti_in_outlook-2018-fr
+SUMMARY:Science, technologie et innovation : Per
+ spectives de l'OCDE 2018 (version abrégé
+ e) - S'adapter aux bouleversements techn
+ ologiques et sociétaux
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: French
+ \nDOI: https://doi.org/10.1787/sti_in_ou
+ tlook-2018-fr\nPublication type: Book\nR
+ eleased as: Paperback, PDF.\n\niLibrary 
+ export: 15 November 2018, 12:08 Paris ti
+ me (GMT+00:00)\nFreepreview export: neve
+ r\nFTI loaded: no.
+DTSTAMP:20181116T050610Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Science, technologie et innova
+ tion : Perspectives de l'OCDE 2018 (vers
+ ion abrégée) - S'adapter aux bouleversem
+ ents technologiques et sociétaux
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9789264307438-en
+SUMMARY:Human Acceleration of the Nitrogen Cycle
+  - Managing Risks and Uncertainty
+DESCRIPTION:Directorate: Environment Directorate\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/9789264307438-en\nPublication type
+ : Stand-alone monograph\nReleased as: Pa
+ perback, PDF.\n\niLibrary export: 15 Nov
+ ember 2018, 12:08 Paris time (GMT+00:00)
+ \nFreepreview export: never\nFTI loaded:
+  no.
+DTSTAMP:20181116T050610Z
+DTSTART:20181120T100000Z
+DTEND:20181120T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Acceleration of the Nitr
+ ogen Cycle - Managing Risks and Uncertai
+ nty
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/eco_outlook-v2018-2-en
 SUMMARY:OECD Economic Outlook, Volume 2018 Issue
   2 - Preliminary version
@@ -144,7 +258,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  n\niLibrary export: 13 November 2018, 5:
  41 Paris time (GMT+00:00)\nFreepreview e
  xport: never\nFTI loaded: no.
-DTSTAMP:20181115T111736Z
+DTSTAMP:20181116T050610Z
 DTSTART:20181121T100000Z
 DTEND:20181121T101500Z
 TRANSP:TRANSPARENT
@@ -169,7 +283,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  \niLibrary export: 14 November 2018, 5:3
  1 Paris time (GMT+00:00)\nFreepreview ex
  port: never\nFTI loaded: no.
-DTSTAMP:20181115T111736Z
+DTSTAMP:20181116T050610Z
 DTSTART:20181121T100000Z
 DTEND:20181121T101500Z
 TRANSP:TRANSPARENT
@@ -194,7 +308,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  \niLibrary export: 13 November 2018, 5:4
  1 Paris time (GMT+00:00)\nFreepreview ex
  port: never\nFTI loaded: no.
-DTSTAMP:20181115T111736Z
+DTSTAMP:20181116T050610Z
 DTSTART:20181121T100000Z
 DTEND:20181121T101500Z
 TRANSP:TRANSPARENT
@@ -218,11 +332,12 @@ SUMMARY:Estudio de la OCDE sobre Integridad en e
 DESCRIPTION:Directorate: Directorate for Public Gove
  rnance\nLanguage: Spanish\nDOI: https://
  doi.org/10.1787/9789264306905-es\nPublic
- ation type: Book\nReleased as: PDF, Pape
- rback.\n\niLibrary export: 13 November 2
- 018, 5:41 Paris time (GMT+00:00)\nFreepr
- eview export: never\nFTI loaded: no.
-DTSTAMP:20181115T111736Z
+ ation type: Book\nReleased as: PDF, ePub
+ , Paperback, HTML.\n\niLibrary export: 1
+ 5 November 2018, 12:08 Paris time (GMT+0
+ 0:00)\nFreepreview export: never\nFTI lo
+ aded: no.
+DTSTAMP:20181116T050610Z
 DTSTART:20181121T170000Z
 DTEND:20181121T171500Z
 TRANSP:TRANSPARENT
@@ -245,11 +360,11 @@ SUMMARY:OECD Integrity Review of Nuevo León, Mex
 DESCRIPTION:Directorate: Directorate for Public Gove
  rnance\nLanguage: English\nDOI: https://
  doi.org/10.1787/9789264284463-en\nPublic
- ation type: Book\nReleased as: PDF, Pape
- rback.\n\niLibrary export: 13 November 2
- 018, 5:41 Paris time (GMT+00:00)\nFreepr
- eview export: never\nFTI loaded: no.
-DTSTAMP:20181115T111736Z
+ ation type: Book\nReleased as: Paperback
+ , PDF.\n\niLibrary export: 15 November 2
+ 018, 12:08 Paris time (GMT+00:00)\nFreep
+ review export: never\nFTI loaded: no.
+DTSTAMP:20181116T050610Z
 DTSTART:20181121T170000Z
 DTEND:20181121T171500Z
 TRANSP:TRANSPARENT
@@ -274,7 +389,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  rback, PDF.\n\niLibrary export: 9 Novemb
  er 2018, 6:38 Paris time (GMT+00:00)\nFr
  eepreview export: never\nFTI loaded: no.
-DTSTAMP:20181115T111736Z
+DTSTAMP:20181116T050610Z
 DTSTART:20181122T100000Z
 DTEND:20181122T101500Z
 TRANSP:TRANSPARENT
@@ -296,11 +411,12 @@ DESCRIPTION:Directorate: Directorate for Employment,
   Labour and Social Affairs\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/heal
  th_glance_eur-2018-en\nPublication type:
-  Book\nReleased as: PDF, Paperback, ePub
- .\n\niLibrary export: 14 November 2018, 
- 5:31 Paris time (GMT+00:00)\nFreepreview
-  export: never\nFTI loaded: ✓.
-DTSTAMP:20181115T111736Z
+  Book\nReleased as: Paperback, ePub, PDF
+ , HTML.\n\niLibrary export: 15 November 
+ 2018, 12:08 Paris time (GMT+00:00)\nFree
+ preview export: 15 November 2018, 20:16 
+ Paris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181116T050610Z
 DTSTART:20181122T120000Z
 DTEND:20181122T121500Z
 TRANSP:TRANSPARENT
@@ -325,7 +441,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  vember 2018, 5:41 Paris time (GMT+00:00)
  \nFreepreview export: never\nFTI loaded:
   no.
-DTSTAMP:20181115T111736Z
+DTSTAMP:20181116T050610Z
 DTSTART:20181129T100000Z
 DTEND:20181129T101500Z
 TRANSP:TRANSPARENT
@@ -351,7 +467,7 @@ DESCRIPTION:Directorate: Development Centre, Centre
  t: 26 October 2018, 4:50 Paris time (GMT
  +00:00)\nFreepreview export: never\nFTI 
  loaded: no.
-DTSTAMP:20181115T111736Z
+DTSTAMP:20181116T050610Z
 DTSTART:20181129T100000Z
 DTEND:20181129T101500Z
 TRANSP:TRANSPARENT
@@ -376,7 +492,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ember 2018, 5:41 Paris time (GMT+00:00)\
  nFreepreview export: never\nFTI loaded: 
  no.
-DTSTAMP:20181115T111736Z
+DTSTAMP:20181116T050610Z
 DTSTART:20181129T100000Z
 DTEND:20181129T101500Z
 TRANSP:TRANSPARENT
@@ -402,7 +518,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
   export: 14 November 2018, 5:31 Paris ti
  me (GMT+00:00)\nFreepreview export: neve
  r\nFTI loaded: no.
-DTSTAMP:20181115T111736Z
+DTSTAMP:20181116T050610Z
 DTSTART:20181130T100000Z
 DTEND:20181130T101500Z
 TRANSP:TRANSPARENT
@@ -428,7 +544,7 @@ DESCRIPTION:Directorate: Directorate for Financial a
  \niLibrary export: 9 November 2018, 6:38
   Paris time (GMT+00:00)\nFreepreview exp
  ort: never\nFTI loaded: no.
-DTSTAMP:20181115T111736Z
+DTSTAMP:20181116T050610Z
 DTSTART:20181203T090000Z
 DTEND:20181203T091500Z
 TRANSP:TRANSPARENT
@@ -445,16 +561,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:10.1787/pens_outlook-2018-en
 SUMMARY:OECD Pensions Outlook 2018
-DESCRIPTION:Directorate: Directorate for Employment,
-  Labour and Social Affairs, Directorate 
- for Financial and Enterprise Affairs\nLa
+DESCRIPTION:Directorate: Directorate for Financial a
+ nd Enterprise Affairs, Directorate for E
+ mployment, Labour and Social Affairs\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/pens_outlook-2018-en\nPublication 
- type: Book\nReleased as: PDF, Paperback.
+ type: Book\nReleased as: Paperback, PDF.
  \n\niLibrary export: 10 November 2018, 5
  :13 Paris time (GMT+00:00)\nFreepreview 
  export: never\nFTI loaded: no.
-DTSTAMP:20181115T111736Z
+DTSTAMP:20181116T050610Z
 DTSTART:20181203T090000Z
 DTEND:20181203T091500Z
 TRANSP:TRANSPARENT
