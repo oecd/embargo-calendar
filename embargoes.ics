@@ -15,7 +15,7 @@ DESCRIPTION:Directorate: Directorate for Education a
   12:08 Paris time (GMT+00:00)\nFreeprevi
  ew export: 14 November 2018, 20:09 Paris
   time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181116T050610Z
+DTSTAMP:20181117T053944Z
 DTSTART:20181115T100000Z
 DTEND:20181115T101500Z
 TRANSP:TRANSPARENT
@@ -41,7 +41,7 @@ DESCRIPTION:Directorate: Directorate for Education a
   5:31 Paris time (GMT+00:00)\nFreeprevie
  w export: 13 November 2018, 20:21 Paris 
  time (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20181116T050610Z
+DTSTAMP:20181117T053944Z
 DTSTART:20181115T100000Z
 DTEND:20181115T101500Z
 TRANSP:TRANSPARENT
@@ -68,7 +68,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  e (GMT+00:00)\nFreepreview export: 14 No
  vember 2018, 20:09 Paris time (GMT+00:00
  )\nFTI loaded: ✓, ✓.
-DTSTAMP:20181116T050610Z
+DTSTAMP:20181117T053944Z
 DTSTART:20181116T010000Z
 DTEND:20181116T011500Z
 TRANSP:TRANSPARENT
@@ -94,7 +94,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  e (GMT+00:00)\nFreepreview export: 14 No
  vember 2018, 20:09 Paris time (GMT+00:00
  )\nFTI loaded: ✓, ✓.
-DTSTAMP:20181116T050610Z
+DTSTAMP:20181117T053944Z
 DTSTART:20181116T010000Z
 DTEND:20181116T011500Z
 TRANSP:TRANSPARENT
@@ -121,7 +121,7 @@ DESCRIPTION:Directorate: Directorate for Education a
   5:31 Paris time (GMT+00:00)\nFreeprevie
  w export: 13 November 2018, 20:21 Paris 
  time (GMT+00:00)\nFTI loaded: ✓, ✓.
-DTSTAMP:20181116T050610Z
+DTSTAMP:20181117T053944Z
 DTSTART:20181119T040000Z
 DTEND:20181119T041500Z
 TRANSP:TRANSPARENT
@@ -144,10 +144,11 @@ DESCRIPTION:Directorate: Directorate for Education a
  nd Skills\nLanguage: English\nDOI: https
  ://doi.org/10.1787/f3ac3fd6-en\nPublicat
  ion type: Working paper\nReleased as: PD
- F.\n\niLibrary export: never\nFreeprevie
+ F.\n\niLibrary export: 16 November 2018,
+  5:53 Paris time (GMT+00:00)\nFreeprevie
  w export: 15 November 2018, 20:16 Paris 
  time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181116T050610Z
+DTSTAMP:20181117T053944Z
 DTSTART:20181119T050000Z
 DTEND:20181119T051500Z
 TRANSP:TRANSPARENT
@@ -170,12 +171,12 @@ DESCRIPTION:Directorate: Directorate for Science, Te
  chnology and Industry \nLanguage: Englis
  h\nDOI: https://doi.org/10.1787/sti_in_o
  utlook-2018-en\nPublication type: Book\n
- Released as: Paperback, PDF.\n\niLibrary
-  export: 15 November 2018, 12:08 Paris t
- ime (GMT+00:00)\nFreepreview export: 15 
- November 2018, 20:16 Paris time (GMT+00:
- 00)\nFTI loaded: ✓.
-DTSTAMP:20181116T050610Z
+ Released as: PDF, Paperback.\n\niLibrary
+  export: 16 November 2018, 5:53 Paris ti
+ me (GMT+00:00)\nFreepreview export: 15 N
+ ovember 2018, 20:16 Paris time (GMT+00:0
+ 0)\nFTI loaded: ✓.
+DTSTAMP:20181117T053944Z
 DTSTART:20181119T100000Z
 DTEND:20181119T101500Z
 TRANSP:TRANSPARENT
@@ -191,6 +192,747 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:10.1787/2a706407-zh
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 (Summary in Chinese), 2018年
+ OECD科学、技术与创新展望
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Chines
+ e\nDOI: https://doi.org/10.1787/2a706407
+ -zh\nPublication type: Summary\nReleased
+  as: PDF, HTML, ePub.\n\niLibrary export
+ : never\nFreepreview export: 16 November
+  2018, 20:16 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20181117T053944Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 (Summary in Chine
+ se), 2018年OECD科学、技术与创新展望
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/c7f2bc4a-cs
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 (Summary in Czech), Výhled 
+ OECD na rok 2018 v oblasti vědy, technol
+ ogií a inovací
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Czech\
+ nDOI: https://doi.org/10.1787/c7f2bc4a-c
+ s\nPublication type: Summary\nReleased a
+ s: HTML, PDF, ePub.\n\niLibrary export: 
+ never\nFreepreview export: 16 November 2
+ 018, 20:16 Paris time (GMT+00:00)\nFTI l
+ oaded: ✓.
+DTSTAMP:20181117T053944Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 (Summary in Czech
+ ), Výhled OECD na rok 2018 v oblasti věd
+ y, technologií a inovací
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/0e180253-da
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 (Summary in Danish), OECD U
+ dsigter for videnskab, teknologi og inno
+ vation 2018
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Danish
+ \nDOI: https://doi.org/10.1787/0e180253-
+ da\nPublication type: Summary\nReleased 
+ as: HTML, PDF, ePub.\n\niLibrary export:
+  never\nFreepreview export: 16 November 
+ 2018, 20:16 Paris time (GMT+00:00)\nFTI 
+ loaded: ✓.
+DTSTAMP:20181117T053944Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 (Summary in Danis
+ h), OECD Udsigter for videnskab, teknolo
+ gi og innovation 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/664d0e66-nl
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 (Summary in Dutch), OESO - 
+ Vooruitzichten voor wetenschap, technolo
+ gie en innovatie 2018
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Dutch\
+ nDOI: https://doi.org/10.1787/664d0e66-n
+ l\nPublication type: Summary\nReleased a
+ s: ePub, PDF, HTML.\n\niLibrary export: 
+ never\nFreepreview export: 16 November 2
+ 018, 20:16 Paris time (GMT+00:00)\nFTI l
+ oaded: ✓.
+DTSTAMP:20181117T053944Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 (Summary in Dutch
+ ), OESO - Vooruitzichten voor wetenschap
+ , technologie en innovatie 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/a665d1f2-en
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 (Summary in English)
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/a665d1f2
+ -en\nPublication type: Summary\nReleased
+  as: PDF, ePub, HTML.\n\niLibrary export
+ : never\nFreepreview export: 16 November
+  2018, 20:16 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20181117T053944Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 (Summary in Engli
+ sh)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/56e08520-et
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 (Summary in Estonian), OECD
+  teaduse, tehnoloogia ja innovatsiooni v
+ äljavaated 2018
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Estoni
+ an\nDOI: https://doi.org/10.1787/56e0852
+ 0-et\nPublication type: Summary\nRelease
+ d as: PDF, HTML, ePub.\n\niLibrary expor
+ t: never\nFreepreview export: 16 Novembe
+ r 2018, 20:16 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20181117T053944Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 (Summary in Eston
+ ian), OECD teaduse, tehnoloogia ja innov
+ atsiooni väljavaated 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/60c1d9d8-fi
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 (Summary in Finnish), OECD:
+ n Tiede- Teknologia- ja Innovaatiokatsau
+ s 2018
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Finnis
+ h\nDOI: https://doi.org/10.1787/60c1d9d8
+ -fi\nPublication type: Summary\nReleased
+  as: HTML, PDF, ePub.\n\niLibrary export
+ : never\nFreepreview export: 16 November
+  2018, 20:16 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20181117T053944Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 (Summary in Finni
+ sh), OECD:n Tiede- Teknologia- ja Innova
+ atiokatsaus 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/778e95b2-fr
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 (Summary in French), Scienc
+ e, technologie et innovation : Perspecti
+ ves de l'OCDE 2018 
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: French
+ \nDOI: https://doi.org/10.1787/778e95b2-
+ fr\nPublication type: Summary\nReleased 
+ as: HTML, ePub, PDF.\n\niLibrary export:
+  never\nFreepreview export: 16 November 
+ 2018, 20:16 Paris time (GMT+00:00)\nFTI 
+ loaded: ✓.
+DTSTAMP:20181117T053944Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 (Summary in Frenc
+ h), Science, technologie et innovation :
+  Perspectives de l'OCDE 2018 
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/40805fd6-de
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 (Summary in German), OECD W
+ issenschafts-, Technologie- und Innovati
+ onsausblick 2018
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: German
+ \nDOI: https://doi.org/10.1787/40805fd6-
+ de\nPublication type: Summary\nReleased 
+ as: ePub, HTML, PDF.\n\niLibrary export:
+  never\nFreepreview export: 16 November 
+ 2018, 20:16 Paris time (GMT+00:00)\nFTI 
+ loaded: ✓.
+DTSTAMP:20181117T053944Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 (Summary in Germa
+ n), OECD Wissenschafts-, Technologie- un
+ d Innovationsausblick 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/9e21adbf-el
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 (Summary in Greek), Επιστήμ
+ η, Τεχνολογία και Καινοτομία: Προοπτικές
+  ΟΟΣΑ, Έκδοση 2018
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Greek\
+ nDOI: https://doi.org/10.1787/9e21adbf-e
+ l\nPublication type: Summary\nReleased a
+ s: ePub, PDF, HTML.\n\niLibrary export: 
+ never\nFreepreview export: 16 November 2
+ 018, 20:16 Paris time (GMT+00:00)\nFTI l
+ oaded: ✓.
+DTSTAMP:20181117T053944Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 (Summary in Greek
+ ), Επιστήμη, Τεχνολογία και Καινοτομία: 
+ Προοπτικές ΟΟΣΑ, Έκδοση 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/6ada447c-he
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 (Summary in Hebrew), סקירת 
+ OECD לשנת 2018 בנושא מדע, טכנולוגיה וחדש
+ נות
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Hebrew
+ \nDOI: https://doi.org/10.1787/6ada447c-
+ he\nPublication type: Summary\nReleased 
+ as: PDF, ePub, HTML.\n\niLibrary export:
+  never\nFreepreview export: 16 November 
+ 2018, 20:16 Paris time (GMT+00:00)\nFTI 
+ loaded: ✓.
+DTSTAMP:20181117T053944Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 (Summary in Hebre
+ w), סקירת OECD לשנת 2018 בנושא מדע, טכנו
+ לוגיה וחדשנות
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/be20b529-hu
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 (Summary in Hungarian), OEC
+ D tudomány, technológia és innováció: 20
+ 18. évi kilátások
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Hungar
+ ian\nDOI: https://doi.org/10.1787/be20b5
+ 29-hu\nPublication type: Summary\nReleas
+ ed as: PDF, HTML, ePub.\n\niLibrary expo
+ rt: never\nFreepreview export: 16 Novemb
+ er 2018, 20:16 Paris time (GMT+00:00)\nF
+ TI loaded: ✓.
+DTSTAMP:20181117T053944Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 (Summary in Hunga
+ rian), OECD tudomány, technológia és inn
+ ováció: 2018. évi kilátások
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/95026b75-is
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 (Summary in Icelandic), Hor
+ fur OECD í vísindum, tækni og nýsköpun á
+ rið 2018
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Icelan
+ dic\nDOI: https://doi.org/10.1787/95026b
+ 75-is\nPublication type: Summary\nReleas
+ ed as: ePub, HTML, PDF.\n\niLibrary expo
+ rt: never\nFreepreview export: 16 Novemb
+ er 2018, 20:16 Paris time (GMT+00:00)\nF
+ TI loaded: ✓.
+DTSTAMP:20181117T053944Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 (Summary in Icela
+ ndic), Horfur OECD í vísindum, tækni og 
+ nýsköpun árið 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/ba79a818-it
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 (Summary in Italian), Prosp
+ ettive dell’OCSE sulla Scienza, tecnolog
+ ia e sull’innovazione 2018
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Italia
+ n\nDOI: https://doi.org/10.1787/ba79a818
+ -it\nPublication type: Summary\nReleased
+  as: ePub, HTML, PDF.\n\niLibrary export
+ : never\nFreepreview export: 16 November
+  2018, 20:16 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20181117T053944Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 (Summary in Itali
+ an), Prospettive dell’OCSE sulla Scienza
+ , tecnologia e sull’innovazione 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/579cec22-ja
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 (Summary in Japanese), OECD
+ 科学技術イノベーション アウトルック2018
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Japane
+ se\nDOI: https://doi.org/10.1787/579cec2
+ 2-ja\nPublication type: Summary\nRelease
+ d as: ePub, PDF, HTML.\n\niLibrary expor
+ t: never\nFreepreview export: 16 Novembe
+ r 2018, 20:16 Paris time (GMT+00:00)\nFT
+ I loaded: ✓.
+DTSTAMP:20181117T053944Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 (Summary in Japan
+ ese), OECD科学技術イノベーション アウトルック2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/bb6fed4f-ko
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 (Summary in Korean), 2018년도
+  OECD 과학·기술·혁신 전망
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Korean
+ \nDOI: https://doi.org/10.1787/bb6fed4f-
+ ko\nPublication type: Summary\nReleased 
+ as: PDF, HTML, ePub.\n\niLibrary export:
+  never\nFreepreview export: 16 November 
+ 2018, 20:16 Paris time (GMT+00:00)\nFTI 
+ loaded: ✓.
+DTSTAMP:20181117T053944Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 (Summary in Korea
+ n), 2018년도 OECD 과학·기술·혁신 전망
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/c12130cf-no
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 (Summary in Norwegian), OEC
+ D-rapport om vitenskap, teknologi og inn
+ ovasjon 2016
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Norweg
+ ian\nDOI: https://doi.org/10.1787/c12130
+ cf-no\nPublication type: Summary\nReleas
+ ed as: PDF, ePub, HTML.\n\niLibrary expo
+ rt: never\nFreepreview export: 16 Novemb
+ er 2018, 20:16 Paris time (GMT+00:00)\nF
+ TI loaded: ✓.
+DTSTAMP:20181117T053944Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 (Summary in Norwe
+ gian), OECD-rapport om vitenskap, teknol
+ ogi og innovasjon 2016
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/d8ba3255-pl
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 (Summary in Polish), Nauka,
+  technologia i innowacje w krajach: prze
+ gląd OECD 2018
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Polish
+ \nDOI: https://doi.org/10.1787/d8ba3255-
+ pl\nPublication type: Summary\nReleased 
+ as: PDF, ePub, HTML.\n\niLibrary export:
+  never\nFreepreview export: 16 November 
+ 2018, 20:16 Paris time (GMT+00:00)\nFTI 
+ loaded: ✓.
+DTSTAMP:20181117T053944Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 (Summary in Polis
+ h), Nauka, technologia i innowacje w kra
+ jach: przegląd OECD 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/35baa3c6-pt
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 (Summary in Portuguese), Pe
+ rspetivas da OCDE para a Ciência, a Tecn
+ ologia e a Inovação 2018
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Portug
+ uese\nDOI: https://doi.org/10.1787/35baa
+ 3c6-pt\nPublication type: Summary\nRelea
+ sed as: HTML, PDF, ePub.\n\niLibrary exp
+ ort: never\nFreepreview export: 16 Novem
+ ber 2018, 20:16 Paris time (GMT+00:00)\n
+ FTI loaded: ✓.
+DTSTAMP:20181117T053944Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 (Summary in Portu
+ guese), Perspetivas da OCDE para a Ciênc
+ ia, a Tecnologia e a Inovação 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/ca32af25-ru
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 (Summary in Russian), Персп
+ ективы науки, технологий и инноваций ОЭС
+ Р 2018
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Russia
+ n\nDOI: https://doi.org/10.1787/ca32af25
+ -ru\nPublication type: Summary\nReleased
+  as: ePub, PDF, HTML.\n\niLibrary export
+ : never\nFreepreview export: 16 November
+  2018, 20:16 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20181117T053944Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 (Summary in Russi
+ an), Перспективы науки, технологий и инн
+ оваций ОЭСР 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/8e4a87c9-sk
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 (Summary in Slovak), Výhľad
+  OECD v oblasti vedy, technológií a inov
+ ácií v roku 2018
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Slovak
+ \nDOI: https://doi.org/10.1787/8e4a87c9-
+ sk\nPublication type: Summary\nReleased 
+ as: ePub, HTML, PDF.\n\niLibrary export:
+  never\nFreepreview export: 16 November 
+ 2018, 20:16 Paris time (GMT+00:00)\nFTI 
+ loaded: ✓.
+DTSTAMP:20181117T053944Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 (Summary in Slova
+ k), Výhľad OECD v oblasti vedy, technoló
+ gií a inovácií v roku 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/dbb7c7b2-sl
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 (Summary in Slovenian), Pre
+ gled področja znanosti, tehnologije in i
+ novacij OECD 2018
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Sloven
+ ian\nDOI: https://doi.org/10.1787/dbb7c7
+ b2-sl\nPublication type: Summary\nReleas
+ ed as: ePub, HTML, PDF.\n\niLibrary expo
+ rt: never\nFreepreview export: 16 Novemb
+ er 2018, 20:16 Paris time (GMT+00:00)\nF
+ TI loaded: ✓.
+DTSTAMP:20181117T053944Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 (Summary in Slove
+ nian), Pregled področja znanosti, tehnol
+ ogije in inovacij OECD 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/fe9c243a-es
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 (Summary in Spanish), OCDE 
+ Perspectivas de Ciencia, Tecnología e In
+ novación  2018
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Spanis
+ h\nDOI: https://doi.org/10.1787/fe9c243a
+ -es\nPublication type: Summary\nReleased
+  as: HTML, ePub, PDF.\n\niLibrary export
+ : never\nFreepreview export: 16 November
+  2018, 20:16 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20181117T053944Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 (Summary in Spani
+ sh), OCDE Perspectivas de Ciencia, Tecno
+ logía e Innovación  2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/e904d115-sv
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 (Summary in Swedish), Veten
+ skap, teknik och innovation: Översikt 20
+ 18
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Swedis
+ h\nDOI: https://doi.org/10.1787/e904d115
+ -sv\nPublication type: Summary\nReleased
+  as: ePub, HTML, PDF.\n\niLibrary export
+ : never\nFreepreview export: 16 November
+  2018, 20:16 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20181117T053944Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 (Summary in Swedi
+ sh), Vetenskap, teknik och innovation: Ö
+ versikt 2018
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10.1787/430bb739-tr
+SUMMARY:OECD Science, Technology and Innovation 
+ Outlook 2018 (Summary in Turkish), OECD 
+ 2018 Bilim, Teknoloji ve İnovasyon Görün
+ ümü
+DESCRIPTION:Directorate: Directorate for Science, Te
+ chnology and Industry \nLanguage: Turkis
+ h\nDOI: https://doi.org/10.1787/430bb739
+ -tr\nPublication type: Summary\nReleased
+  as: PDF, ePub, HTML.\n\niLibrary export
+ : never\nFreepreview export: 16 November
+  2018, 20:16 Paris time (GMT+00:00)\nFTI
+  loaded: ✓.
+DTSTAMP:20181117T053944Z
+DTSTART:20181119T100000Z
+DTEND:20181119T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Science, Technology and I
+ nnovation Outlook 2018 (Summary in Turki
+ sh), OECD 2018 Bilim, Teknoloji ve İnova
+ syon Görünümü
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:10.1787/sti_in_outlook-2018-fr
 SUMMARY:Science, technologie et innovation : Per
  spectives de l'OCDE 2018 (version abrégé
@@ -200,11 +942,12 @@ DESCRIPTION:Directorate: Directorate for Science, Te
  chnology and Industry \nLanguage: French
  \nDOI: https://doi.org/10.1787/sti_in_ou
  tlook-2018-fr\nPublication type: Book\nR
- eleased as: Paperback, PDF.\n\niLibrary 
- export: 15 November 2018, 12:08 Paris ti
- me (GMT+00:00)\nFreepreview export: neve
- r\nFTI loaded: no.
-DTSTAMP:20181116T050610Z
+ eleased as: PDF, Paperback.\n\niLibrary 
+ export: 16 November 2018, 5:53 Paris tim
+ e (GMT+00:00)\nFreepreview export: 16 No
+ vember 2018, 20:16 Paris time (GMT+00:00
+ )\nFTI loaded: ✓.
+DTSTAMP:20181117T053944Z
 DTSTART:20181119T100000Z
 DTEND:20181119T101500Z
 TRANSP:TRANSPARENT
@@ -227,12 +970,12 @@ SUMMARY:Human Acceleration of the Nitrogen Cycle
 DESCRIPTION:Directorate: Environment Directorate\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/9789264307438-en\nPublication type
- : Stand-alone monograph\nReleased as: Pa
- perback, PDF.\n\niLibrary export: 15 Nov
- ember 2018, 12:08 Paris time (GMT+00:00)
- \nFreepreview export: never\nFTI loaded:
-  no.
-DTSTAMP:20181116T050610Z
+ : Stand-alone monograph\nReleased as: PD
+ F, ePub, Paperback, HTML.\n\niLibrary ex
+ port: 16 November 2018, 5:53 Paris time 
+ (GMT+00:00)\nFreepreview export: never\n
+ FTI loaded: no.
+DTSTAMP:20181117T053944Z
 DTSTART:20181120T100000Z
 DTEND:20181120T101500Z
 TRANSP:TRANSPARENT
@@ -258,7 +1001,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  n\niLibrary export: 13 November 2018, 5:
  41 Paris time (GMT+00:00)\nFreepreview e
  xport: never\nFTI loaded: no.
-DTSTAMP:20181116T050610Z
+DTSTAMP:20181117T053944Z
 DTSTART:20181121T100000Z
 DTEND:20181121T101500Z
 TRANSP:TRANSPARENT
@@ -280,10 +1023,10 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  age: German\nDOI: https://doi.org/10.178
  7/eco_outlook-v2018-2-de\nPublication ty
  pe: Book\nReleased as: PDF, Paperback.\n
- \niLibrary export: 14 November 2018, 5:3
- 1 Paris time (GMT+00:00)\nFreepreview ex
+ \niLibrary export: 16 November 2018, 5:5
+ 3 Paris time (GMT+00:00)\nFreepreview ex
  port: never\nFTI loaded: no.
-DTSTAMP:20181116T050610Z
+DTSTAMP:20181117T053944Z
 DTSTART:20181121T100000Z
 DTEND:20181121T101500Z
 TRANSP:TRANSPARENT
@@ -308,7 +1051,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  \niLibrary export: 13 November 2018, 5:4
  1 Paris time (GMT+00:00)\nFreepreview ex
  port: never\nFTI loaded: no.
-DTSTAMP:20181116T050610Z
+DTSTAMP:20181117T053944Z
 DTSTART:20181121T100000Z
 DTEND:20181121T101500Z
 TRANSP:TRANSPARENT
@@ -332,12 +1075,13 @@ SUMMARY:Estudio de la OCDE sobre Integridad en e
 DESCRIPTION:Directorate: Directorate for Public Gove
  rnance\nLanguage: Spanish\nDOI: https://
  doi.org/10.1787/9789264306905-es\nPublic
- ation type: Book\nReleased as: PDF, ePub
- , Paperback, HTML.\n\niLibrary export: 1
- 5 November 2018, 12:08 Paris time (GMT+0
- 0:00)\nFreepreview export: never\nFTI lo
- aded: no.
-DTSTAMP:20181116T050610Z
+ ation type: Book\nReleased as: Paperback
+ , HTML, PDF, ePub.\n\niLibrary export: 1
+ 6 November 2018, 5:53 Paris time (GMT+00
+ :00)\nFreepreview export: 16 November 20
+ 18, 20:16 Paris time (GMT+00:00)\nFTI lo
+ aded: ✓.
+DTSTAMP:20181117T053944Z
 DTSTART:20181121T170000Z
 DTEND:20181121T171500Z
 TRANSP:TRANSPARENT
@@ -360,11 +1104,12 @@ SUMMARY:OECD Integrity Review of Nuevo León, Mex
 DESCRIPTION:Directorate: Directorate for Public Gove
  rnance\nLanguage: English\nDOI: https://
  doi.org/10.1787/9789264284463-en\nPublic
- ation type: Book\nReleased as: Paperback
- , PDF.\n\niLibrary export: 15 November 2
- 018, 12:08 Paris time (GMT+00:00)\nFreep
- review export: never\nFTI loaded: no.
-DTSTAMP:20181116T050610Z
+ ation type: Book\nReleased as: HTML, PDF
+ , ePub, Paperback.\n\niLibrary export: 1
+ 5 November 2018, 12:08 Paris time (GMT+0
+ 0:00)\nFreepreview export: never\nFTI lo
+ aded: no.
+DTSTAMP:20181117T053944Z
 DTSTART:20181121T170000Z
 DTEND:20181121T171500Z
 TRANSP:TRANSPARENT
@@ -389,7 +1134,7 @@ DESCRIPTION:Directorate: Economics Department\nLangu
  rback, PDF.\n\niLibrary export: 9 Novemb
  er 2018, 6:38 Paris time (GMT+00:00)\nFr
  eepreview export: never\nFTI loaded: no.
-DTSTAMP:20181116T050610Z
+DTSTAMP:20181117T053944Z
 DTSTART:20181122T100000Z
 DTEND:20181122T101500Z
 TRANSP:TRANSPARENT
@@ -411,12 +1156,12 @@ DESCRIPTION:Directorate: Directorate for Employment,
   Labour and Social Affairs\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/heal
  th_glance_eur-2018-en\nPublication type:
-  Book\nReleased as: Paperback, ePub, PDF
- , HTML.\n\niLibrary export: 15 November 
- 2018, 12:08 Paris time (GMT+00:00)\nFree
- preview export: 15 November 2018, 20:16 
- Paris time (GMT+00:00)\nFTI loaded: ✓.
-DTSTAMP:20181116T050610Z
+  Book\nReleased as: PDF, HTML, Paperback
+ , ePub.\n\niLibrary export: 16 November 
+ 2018, 5:53 Paris time (GMT+00:00)\nFreep
+ review export: 15 November 2018, 20:16 P
+ aris time (GMT+00:00)\nFTI loaded: ✓.
+DTSTAMP:20181117T053944Z
 DTSTART:20181122T120000Z
 DTEND:20181122T121500Z
 TRANSP:TRANSPARENT
@@ -441,7 +1186,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  vember 2018, 5:41 Paris time (GMT+00:00)
  \nFreepreview export: never\nFTI loaded:
   no.
-DTSTAMP:20181116T050610Z
+DTSTAMP:20181117T053944Z
 DTSTART:20181129T100000Z
 DTEND:20181129T101500Z
 TRANSP:TRANSPARENT
@@ -458,16 +1203,16 @@ BEGIN:VEVENT
 UID:10.1787/9789264308091-en
 SUMMARY:Revenue Statistics in Asian and Pacific 
  Economies
-DESCRIPTION:Directorate: Development Centre, Centre 
- for Tax Policy and Administration\nLangu
+DESCRIPTION:Directorate: Centre for Tax Policy and A
+ dministration, Development Centre\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/9789264308091-en\nPublication type: S
  tand-alone monograph\nReleased as: PDF, 
  ePub, Paperback, HTML.\n\niLibrary expor
- t: 26 October 2018, 4:50 Paris time (GMT
- +00:00)\nFreepreview export: never\nFTI 
- loaded: no.
-DTSTAMP:20181116T050610Z
+ t: 16 November 2018, 5:53 Paris time (GM
+ T+00:00)\nFreepreview export: never\nFTI
+  loaded: no.
+DTSTAMP:20181117T053944Z
 DTSTART:20181129T100000Z
 DTEND:20181129T101500Z
 TRANSP:TRANSPARENT
@@ -492,7 +1237,7 @@ DESCRIPTION:Directorate: Centre for Tax Policy and A
  ember 2018, 5:41 Paris time (GMT+00:00)\
  nFreepreview export: never\nFTI loaded: 
  no.
-DTSTAMP:20181116T050610Z
+DTSTAMP:20181117T053944Z
 DTSTART:20181129T100000Z
 DTEND:20181129T101500Z
 TRANSP:TRANSPARENT
@@ -518,7 +1263,7 @@ DESCRIPTION:Directorate: Centre for Entrepreneurship
   export: 14 November 2018, 5:31 Paris ti
  me (GMT+00:00)\nFreepreview export: neve
  r\nFTI loaded: no.
-DTSTAMP:20181116T050610Z
+DTSTAMP:20181117T053944Z
 DTSTART:20181130T100000Z
 DTEND:20181130T101500Z
 TRANSP:TRANSPARENT
@@ -544,7 +1289,7 @@ DESCRIPTION:Directorate: Directorate for Financial a
  \niLibrary export: 9 November 2018, 6:38
   Paris time (GMT+00:00)\nFreepreview exp
  ort: never\nFTI loaded: no.
-DTSTAMP:20181116T050610Z
+DTSTAMP:20181117T053944Z
 DTSTART:20181203T090000Z
 DTEND:20181203T091500Z
 TRANSP:TRANSPARENT
@@ -561,16 +1306,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:10.1787/pens_outlook-2018-en
 SUMMARY:OECD Pensions Outlook 2018
-DESCRIPTION:Directorate: Directorate for Financial a
- nd Enterprise Affairs, Directorate for E
- mployment, Labour and Social Affairs\nLa
+DESCRIPTION:Directorate: Directorate for Employment,
+  Labour and Social Affairs, Directorate 
+ for Financial and Enterprise Affairs\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/pens_outlook-2018-en\nPublication 
- type: Book\nReleased as: Paperback, PDF.
- \n\niLibrary export: 10 November 2018, 5
- :13 Paris time (GMT+00:00)\nFreepreview 
+ type: Book\nReleased as: PDF, Paperback.
+ \n\niLibrary export: 16 November 2018, 5
+ :53 Paris time (GMT+00:00)\nFreepreview 
  export: never\nFTI loaded: no.
-DTSTAMP:20181116T050610Z
+DTSTAMP:20181117T053944Z
 DTSTART:20181203T090000Z
 DTEND:20181203T091500Z
 TRANSP:TRANSPARENT
