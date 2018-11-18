@@ -1,7 +1,7 @@
 # OECD publication embargoes (43 embargoes)
 
 :-----|------:
-*Data generated on {l:format-dateTime($generation-date, $human-date-picture-2)}*|[See embargoes by date](embargoes-by-date.md)
+*Data generated on Sunday 18 November 2018 at 23:37* | [See embargoes by date](embargoes-by-date.md)
 
 ## [The science of teaching science - An exploration of science teaching practices in PISA 2015](https://doi.org/10.1787/f5bd9e57-en)
 
@@ -325,7 +325,7 @@ Thursday 29 November 2018 at 10:00 | Thursday 29 November 2018 at 10:00
 
 ### Additional Information
 
-* Directorate: *Development Centre, Centre for Tax Policy and Administration*
+* Directorate: *Centre for Tax Policy and Administration, Development Centre*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
@@ -413,7 +413,7 @@ Monday 3 December 2018 at 9:00 | Monday 3 December 2018 at 9:00
 
 ### Additional Information
 
-* Directorate: *Directorate for Financial and Enterprise Affairs, Directorate for Employment, Labour and Social Affairs*
+* Directorate: *Directorate for Employment, Labour and Social Affairs, Directorate for Financial and Enterprise Affairs*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
