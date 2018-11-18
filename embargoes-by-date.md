@@ -1,7 +1,8 @@
 # OECD publication embargoes
 
+Data generated on | |
 |:-----|------:|
-| *Data generated on Sunday 18 November 2018 at 23:41* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 18 November 2018 at 23:48* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [19 November 2018](#19-november-2018)
 * [20 November 2018](#20-november-2018)

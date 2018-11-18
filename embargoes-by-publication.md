@@ -1,7 +1,8 @@
 # OECD publication embargoes
 
+Data generated on | |
 |:-----|------:|
-| *Data generated on Sunday 18 November 2018 at 23:41* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 18 November 2018 at 23:48* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The science of teaching science - An exploration of science teaching practices in PISA 2015](https://doi.org/10.1787/f5bd9e57-en)
 
