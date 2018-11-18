@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 18 November 2018 at 23:48* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 19 November 2018 at 0:08* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The science of teaching science - An exploration of science teaching practices in PISA 2015](https://doi.org/10.1787/f5bd9e57-en)
 
@@ -326,7 +326,7 @@ Thursday 29 November 2018 at 10:00 | Thursday 29 November 2018 at 10:00
 
 ### Additional Information
 
-* Directorate: *Development Centre, Centre for Tax Policy and Administration*
+* Directorate: *Centre for Tax Policy and Administration, Development Centre*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
