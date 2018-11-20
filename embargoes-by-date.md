@@ -2,12 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 19 November 2018 at 0:08* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 20 November 2018 at 5:03* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [19 November 2018](#19-november-2018)
 * [20 November 2018](#20-november-2018)
 * [21 November 2018](#21-november-2018)
 * [22 November 2018](#22-november-2018)
+* [27 November 2018](#27-november-2018)
 * [29 November 2018](#29-november-2018)
 * [30 November 2018](#30-november-2018)
 * [3 December 2018](#3-december-2018)
@@ -138,9 +139,9 @@ Tuesday 20 November 2018 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Saturday 17 November 2018 at 7:30
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 19 November 2018 at 21:23
 
 ### Additional Information
 
@@ -186,15 +187,15 @@ Wednesday 21 November 2018 at 17:00 | Wednesday 21 November 2018 at 17:00
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 15 November 2018 at 13:08
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 19 November 2018 at 21:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -208,15 +209,15 @@ Wednesday 21 November 2018 at 10:00 | Wednesday 21 November 2018 at 10:00
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 13 November 2018 at 6:41
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 19 November 2018 at 21:23
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -280,7 +281,7 @@ Thursday 22 November 2018 at 12:00 | Thursday 22 November 2018 at 12:00
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 November 2018 at 6:53
-- [x] Exported to Keepeek Thursday 15 November 2018 at 21:16
+- [x] Exported to Keepeek Monday 19 November 2018 at 21:23
 
 ### Additional Information
 
@@ -311,6 +312,54 @@ Thursday 22 November 2018 at 10:00 | Thursday 22 November 2018 at 10:00
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 27 November 2018
+
+## [Beyond GDP - Measuring What Counts for Economic and Social Performance](https://doi.org/10.1787/9789264307292-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 27 November 2018 at 3:00 | Tuesday 27 November 2018 at 3:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 25 October 2018 at 6:42
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics and Data Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [For Good Measure - Advancing Research on Well-being Metrics Beyond GDP](https://doi.org/10.1787/9789264307278-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 27 November 2018 at 3:00 | Tuesday 27 November 2018 at 3:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 25 October 2018 at 6:42
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics and Data Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, Paperback, PDF*
 
 ------
 
@@ -354,7 +403,7 @@ Thursday 29 November 2018 at 10:00 | Thursday 29 November 2018 at 10:00
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration, Development Centre*
+* Directorate: *Development Centre, Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
@@ -444,15 +493,15 @@ Monday 3 December 2018 at 9:00 | Monday 3 December 2018 at 9:00
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Saturday 17 November 2018 at 7:30
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 19 November 2018 at 21:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs, Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
