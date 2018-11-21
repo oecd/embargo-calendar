@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 20 November 2018 at 5:03* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 21 November 2018 at 4:15* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [19 November 2018](#19-november-2018)
 * [20 November 2018](#20-november-2018)
@@ -12,6 +12,8 @@ Data generated on | |
 * [29 November 2018](#29-november-2018)
 * [30 November 2018](#30-november-2018)
 * [3 December 2018](#3-december-2018)
+* [5 December 2018](#5-december-2018)
+* [6 December 2018](#6-december-2018)
 
 ------
 
@@ -231,15 +233,15 @@ Wednesday 21 November 2018 at 10:00 | Wednesday 21 November 2018 at 10:00
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 November 2018 at 6:53
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 20 November 2018 at 21:27
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *German*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -253,15 +255,15 @@ Wednesday 21 November 2018 at 10:00 | Wednesday 21 November 2018 at 10:00
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 13 November 2018 at 6:41
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 20 November 2018 at 21:27
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -327,7 +329,7 @@ Tuesday 27 November 2018 at 3:00 | Tuesday 27 November 2018 at 3:00
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 25 October 2018 at 6:42
 - [ ] Exported to Keepeek
 
@@ -337,7 +339,7 @@ Tuesday 27 November 2018 at 3:00 | Tuesday 27 November 2018 at 3:00
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -349,7 +351,7 @@ Tuesday 27 November 2018 at 3:00 | Tuesday 27 November 2018 at 3:00
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 25 October 2018 at 6:42
 - [ ] Exported to Keepeek
 
@@ -359,7 +361,7 @@ Tuesday 27 November 2018 at 3:00 | Tuesday 27 November 2018 at 3:00
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Formats: *ePub, Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -403,7 +405,7 @@ Thursday 29 November 2018 at 10:00 | Thursday 29 November 2018 at 10:00
 
 ### Additional Information
 
-* Directorate: *Development Centre, Centre for Tax Policy and Administration*
+* Directorate: *Centre for Tax Policy and Administration, Development Centre*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
@@ -504,5 +506,79 @@ Monday 3 December 2018 at 9:00 | Monday 3 December 2018 at 9:00
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 5 December 2018
+
+## [Skills Strategy Implementation Guidance for Slovenia - Improving the Governance of Adult Learning](https://doi.org/10.1787/9789264308459-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 5 December 2018 at 10:30 | Wednesday 5 December 2018 at 10:30
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 6 December 2018
+
+## [A review of the empirical literature combining economic and environmental performance data at the micro-level](https://doi.org/10.1787/45d269b2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 6 December 2018 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 20 November 2018 at 21:27
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [The joint impact of the European Union emissions trading system on carbon emissions and economic performance](https://doi.org/10.1787/4819b016-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 6 December 2018 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 20 November 2018 at 21:27
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
