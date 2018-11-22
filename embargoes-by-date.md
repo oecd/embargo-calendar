@@ -2,132 +2,20 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 21 November 2018 at 4:15* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 22 November 2018 at 4:50* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [19 November 2018](#19-november-2018)
 * [20 November 2018](#20-november-2018)
 * [21 November 2018](#21-november-2018)
 * [22 November 2018](#22-november-2018)
+* [23 November 2018](#23-november-2018)
+* [26 November 2018](#26-november-2018)
 * [27 November 2018](#27-november-2018)
 * [29 November 2018](#29-november-2018)
 * [30 November 2018](#30-november-2018)
 * [3 December 2018](#3-december-2018)
 * [5 December 2018](#5-december-2018)
 * [6 December 2018](#6-december-2018)
-
-------
-
-# 19 November 2018
-
-## [OECD Science, Technology and Innovation Outlook 2018 - Adapting to Technological and Societal Disruption](https://doi.org/10.1787/sti_in_outlook-2018-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 19 November 2018 at 10:00 | Monday 19 November 2018 at 10:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 November 2018 at 6:53
-- [x] Exported to Keepeek Thursday 15 November 2018 at 21:16
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Multilingual Summaries for OECD Science, Technology and Innovation Outlook 2018](https://doi.org/10.1787/a665d1f2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 November 2018 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 17 November 2018 at 7:30
-- [x] Exported to Keepeek Friday 16 November 2018 at 21:16
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* 25 Languages: [Greek](https://doi.org/10.1787/9e21adbf-el), [Italian](https://doi.org/10.1787/ba79a818-it), [Korean](https://doi.org/10.1787/bb6fed4f-ko), [Turkish](https://doi.org/10.1787/430bb739-tr), [German](https://doi.org/10.1787/40805fd6-de), [Dutch](https://doi.org/10.1787/664d0e66-nl), [Slovak](https://doi.org/10.1787/8e4a87c9-sk), [Chinese](https://doi.org/10.1787/2a706407-zh), [Slovenian](https://doi.org/10.1787/dbb7c7b2-sl), [Danish](https://doi.org/10.1787/0e180253-da), [Norwegian](https://doi.org/10.1787/c12130cf-no), [English](https://doi.org/10.1787/a665d1f2-en), [Icelandic](https://doi.org/10.1787/95026b75-is), [Estonian](https://doi.org/10.1787/56e08520-et), [Polish](https://doi.org/10.1787/d8ba3255-pl), [Japanese](https://doi.org/10.1787/579cec22-ja), [Russian](https://doi.org/10.1787/ca32af25-ru), [Czech](https://doi.org/10.1787/c7f2bc4a-cs), [Spanish](https://doi.org/10.1787/fe9c243a-es), [Portuguese](https://doi.org/10.1787/35baa3c6-pt), [French](https://doi.org/10.1787/778e95b2-fr), [Swedish](https://doi.org/10.1787/e904d115-sv), [Finnish](https://doi.org/10.1787/60c1d9d8-fi), [Hungarian](https://doi.org/10.1787/be20b529-hu), [Hebrew](https://doi.org/10.1787/6ada447c-he)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Science, technologie et innovation : Perspectives de l'OCDE 2018 (version abrégée) - S'adapter aux bouleversements technologiques et sociétaux](https://doi.org/10.1787/sti_in_outlook-2018-fr)
-
-Embargo date | Launch date
--------------|------------
-Monday 19 November 2018 at 10:00 | Monday 19 November 2018 at 10:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 17 November 2018 at 7:30
-- [x] Exported to Keepeek Friday 16 November 2018 at 21:16
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [How do science teachers teach science - and does it matter?](https://doi.org/10.1787/f3ac3fd6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 November 2018 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 November 2018 at 6:53
-- [x] Exported to Keepeek Thursday 15 November 2018 at 21:16
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [The science of teaching science - An exploration of science teaching practices in PISA 2015](https://doi.org/10.1787/f5bd9e57-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 November 2018 at 4:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 14 November 2018 at 6:31
-- [x] Exported to Keepeek Tuesday 13 November 2018 at 21:21
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+* [10 December 2018](#10-december-2018)
 
 ------
 
@@ -142,7 +30,7 @@ Tuesday 20 November 2018 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 17 November 2018 at 7:30
+- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
 - [x] Exported to Keepeek Monday 19 November 2018 at 21:23
 
 ### Additional Information
@@ -190,7 +78,7 @@ Wednesday 21 November 2018 at 17:00 | Wednesday 21 November 2018 at 17:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 15 November 2018 at 13:08
+- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
 - [x] Exported to Keepeek Monday 19 November 2018 at 21:23
 
 ### Additional Information
@@ -212,7 +100,7 @@ Wednesday 21 November 2018 at 10:00 | Wednesday 21 November 2018 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 13 November 2018 at 6:41
+- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
 - [x] Exported to Keepeek Monday 19 November 2018 at 21:23
 
 ### Additional Information
@@ -234,7 +122,7 @@ Wednesday 21 November 2018 at 10:00 | Wednesday 21 November 2018 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 November 2018 at 6:53
+- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
 - [x] Exported to Keepeek Tuesday 20 November 2018 at 21:27
 
 ### Additional Information
@@ -256,7 +144,7 @@ Wednesday 21 November 2018 at 10:00 | Wednesday 21 November 2018 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 13 November 2018 at 6:41
+- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
 - [x] Exported to Keepeek Tuesday 20 November 2018 at 21:27
 
 ### Additional Information
@@ -282,7 +170,7 @@ Thursday 22 November 2018 at 12:00 | Thursday 22 November 2018 at 12:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 November 2018 at 6:53
+- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
 - [x] Exported to Keepeek Monday 19 November 2018 at 21:23
 
 ### Additional Information
@@ -295,25 +183,99 @@ Thursday 22 November 2018 at 12:00 | Thursday 22 November 2018 at 12:00
 
 ------
 
+## [Multilingual Summaries for Health at a Glance: Europe 2018](https://doi.org/10.1787/52181165-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 22 November 2018 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Wednesday 21 November 2018 at 21:29
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* 23 Languages: [Greek](https://doi.org/10.1787/931de122-el), [Italian](https://doi.org/10.1787/44f5ff3b-it), [Croatian](https://doi.org/10.1787/12d417aa-hr), [Lithuanian](https://doi.org/10.1787/8a9c35fc-lt), [German](https://doi.org/10.1787/e7ffbc2d-de), [Dutch](https://doi.org/10.1787/74d2e5b6-nl), [Slovak](https://doi.org/10.1787/b42c9818-sk), [Slovenian](https://doi.org/10.1787/73efc985-sl), [Danish](https://doi.org/10.1787/a704450f-da), [English](https://doi.org/10.1787/52181165-en), [Estonian](https://doi.org/10.1787/29677617-et), [Polish](https://doi.org/10.1787/12e3c515-pl), [Czech](https://doi.org/10.1787/39c68d2b-cs), [Spanish](https://doi.org/10.1787/fd41e65f-es), [Portuguese](https://doi.org/10.1787/1cd17825-pt), [Bulgarian](https://doi.org/10.1787/81ba2961-bg), [Romanian](https://doi.org/10.1787/e809bc6f-ro), [French](https://doi.org/10.1787/b7a151bc-fr), [Maltese](https://doi.org/10.1787/f222b050-mt), [Swedish](https://doi.org/10.1787/33422c5a-sv), [Finnish](https://doi.org/10.1787/511f2c1d-fi), [Latvian](https://doi.org/10.1787/49fcab05-lv), [Hungarian](https://doi.org/10.1787/7fe76a61-hu)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Spain 2018](https://doi.org/10.1787/eco_surveys-esp-2018-en)
 
 Embargo date | Launch date
 -------------|------------
-Thursday 22 November 2018 at 10:00 | Thursday 22 November 2018 at 10:00
+Thursday 22 November 2018 at 12:00 | Thursday 22 November 2018 at 12:00
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 9 November 2018 at 7:38
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Wednesday 21 November 2018 at 21:29
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 23 November 2018
+
+## [How decentralised are education systems, and what does it mean for schools?](https://doi.org/10.1787/e14575d5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 23 November 2018 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Wednesday 21 November 2018 at 21:29
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 26 November 2018
+
+## [OECD Progress Update on Approaches to Mobilising Institutional Investment for Sustainable Infrastructure - Background paper to the G20 Sustainable Finance Study Group](https://doi.org/10.1787/45426991-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 26 November 2018 at 0:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Wednesday 21 November 2018 at 21:29
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -330,14 +292,14 @@ Tuesday 27 November 2018 at 3:00 | Tuesday 27 November 2018 at 3:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 25 October 2018 at 6:42
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
+- [x] Exported to Keepeek Wednesday 21 November 2018 at 21:29
 
 ### Additional Information
 
 * Directorate: *Statistics and Data Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -352,14 +314,14 @@ Tuesday 27 November 2018 at 3:00 | Tuesday 27 November 2018 at 3:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 25 October 2018 at 6:42
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
+- [x] Exported to Keepeek Wednesday 21 November 2018 at 21:29
 
 ### Additional Information
 
 * Directorate: *Statistics and Data Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -400,12 +362,12 @@ Thursday 29 November 2018 at 10:00 | Thursday 29 November 2018 at 10:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 16 November 2018 at 6:53
+- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration, Development Centre*
+* Directorate: *Development Centre, Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
@@ -496,7 +458,7 @@ Monday 3 December 2018 at 9:00 | Monday 3 December 2018 at 9:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 17 November 2018 at 7:30
+- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
 - [x] Exported to Keepeek Monday 19 November 2018 at 21:23
 
 ### Additional Information
@@ -522,7 +484,7 @@ Wednesday 5 December 2018 at 10:30 | Wednesday 5 December 2018 at 10:30
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -548,7 +510,7 @@ Thursday 6 December 2018 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
 - [x] Exported to Keepeek Tuesday 20 November 2018 at 21:27
 
 ### Additional Information
@@ -570,7 +532,7 @@ Thursday 6 December 2018 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
 - [x] Exported to Keepeek Tuesday 20 November 2018 at 21:27
 
 ### Additional Information
@@ -580,5 +542,31 @@ Thursday 6 December 2018 at 12:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
+
+------
+
+------
+
+# 10 December 2018
+
+## [OECD Economic Surveys: Australia 2018](https://doi.org/10.1787/eco_surveys-aus-2018-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 10 December 2018 at 10:00 | Monday 10 December 2018 at 10:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
