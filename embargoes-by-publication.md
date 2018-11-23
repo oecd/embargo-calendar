@@ -2,29 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 22 November 2018 at 4:50* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Human Acceleration of the Nitrogen Cycle - Managing Risks and Uncertainty](https://doi.org/10.1787/9789264307438-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 20 November 2018 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
-- [x] Exported to Keepeek Monday 19 November 2018 at 21:23
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Friday 23 November 2018 at 5:51* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Outlook, Volume 2018 Issue 2 - Preliminary version](https://doi.org/10.1787/eco_outlook-v2018-2-en)
 
@@ -167,7 +145,7 @@ Thursday 22 November 2018 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 22 November 2018 at 7:07
 - [x] Exported to Keepeek Wednesday 21 November 2018 at 21:29
 
 ### Additional Information
@@ -189,7 +167,7 @@ Thursday 22 November 2018 at 12:00 | Thursday 22 November 2018 at 12:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 9 November 2018 at 7:38
+- [x] Exported to iLibrary Thursday 22 November 2018 at 7:07
 - [x] Exported to Keepeek Wednesday 21 November 2018 at 21:29
 
 ### Additional Information
@@ -211,7 +189,7 @@ Friday 23 November 2018 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 22 November 2018 at 7:07
 - [x] Exported to Keepeek Wednesday 21 November 2018 at 21:29
 
 ### Additional Information
@@ -233,12 +211,34 @@ Monday 26 November 2018 at 0:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 22 November 2018 at 7:07
 - [x] Exported to Keepeek Wednesday 21 November 2018 at 21:29
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Dilemmas of central governance and distributed autonomy in education](https://doi.org/10.1787/060260bf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 26 November 2018 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
@@ -255,8 +255,8 @@ Tuesday 27 November 2018 at 3:00 | Tuesday 27 November 2018 at 3:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
-- [x] Exported to Keepeek Wednesday 21 November 2018 at 21:29
+- [x] Exported to iLibrary Thursday 22 November 2018 at 7:07
+- [x] Exported to Keepeek Thursday 22 November 2018 at 21:35
 
 ### Additional Information
 
@@ -277,8 +277,8 @@ Tuesday 27 November 2018 at 3:00 | Tuesday 27 November 2018 at 3:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
-- [x] Exported to Keepeek Wednesday 21 November 2018 at 21:29
+- [x] Exported to iLibrary Thursday 22 November 2018 at 7:07
+- [x] Exported to Keepeek Thursday 22 November 2018 at 21:35
 
 ### Additional Information
 
@@ -287,6 +287,72 @@ Tuesday 27 November 2018 at 3:00 | Tuesday 27 November 2018 at 3:00
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Changes in Economic and Financial Synchronisation - A Global Factor Analysis](https://doi.org/10.1787/ba7c5c04-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 28 November 2018 at 1:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Thursday 22 November 2018 at 21:35
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Improving skills and their use in Germany](https://doi.org/10.1787/8a251b1f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 28 November 2018 at 1:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Thursday 22 November 2018 at 21:35
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [The potential economic impact of Brexit on the Netherlands](https://doi.org/10.1787/20cb5ddc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 28 November 2018 at 16:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Thursday 22 November 2018 at 21:35
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -321,12 +387,12 @@ Thursday 29 November 2018 at 10:00 | Thursday 29 November 2018 at 10:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
+- [x] Exported to iLibrary Thursday 22 November 2018 at 7:07
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Development Centre, Centre for Tax Policy and Administration*
+* Directorate: *Centre for Tax Policy and Administration, Development Centre*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
@@ -364,15 +430,15 @@ Friday 30 November 2018 at 10:00 | Friday 30 November 2018 at 10:00
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 14 November 2018 at 6:31
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Thursday 22 November 2018 at 21:35
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -409,12 +475,12 @@ Monday 3 December 2018 at 9:00 | Monday 3 December 2018 at 9:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
+- [x] Exported to iLibrary Thursday 22 November 2018 at 7:07
 - [x] Exported to Keepeek Monday 19 November 2018 at 21:23
 
 ### Additional Information
 
-* Directorate: *Directorate for Employment, Labour and Social Affairs, Directorate for Financial and Enterprise Affairs*
+* Directorate: *Directorate for Financial and Enterprise Affairs, Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
@@ -497,7 +563,7 @@ Monday 10 December 2018 at 10:00 | Monday 10 December 2018 at 10:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
+- [x] Exported to iLibrary Thursday 22 November 2018 at 7:07
 - [ ] Exported to Keepeek
 
 ### Additional Information
