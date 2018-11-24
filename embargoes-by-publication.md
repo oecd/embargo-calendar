@@ -2,117 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 23 November 2018 at 5:51* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Outlook, Volume 2018 Issue 2 - Preliminary version](https://doi.org/10.1787/eco_outlook-v2018-2-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 21 November 2018 at 10:00 | Wednesday 21 November 2018 at 10:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
-- [x] Exported to Keepeek Monday 19 November 2018 at 21:23
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD-Wirtschaftsausblick, Ausgabe 2018/2 - Vorläufige Ausgabe](https://doi.org/10.1787/eco_outlook-v2018-2-de)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 21 November 2018 at 10:00 | Wednesday 21 November 2018 at 10:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
-- [x] Exported to Keepeek Tuesday 20 November 2018 at 21:27
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Perspectives économiques de l'OCDE, Volume 2018 Numéro 2 - Version préliminaire](https://doi.org/10.1787/eco_outlook-v2018-2-fr)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 21 November 2018 at 10:00 | Wednesday 21 November 2018 at 10:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
-- [x] Exported to Keepeek Tuesday 20 November 2018 at 21:27
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Estudio de la OCDE sobre Integridad en el Estado de Nuevo León, México - Dando sostenibilidad a las reformas de integridad](https://doi.org/10.1787/9789264306905-es)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 21 November 2018 at 17:00 | Wednesday 21 November 2018 at 17:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 17 November 2018 at 7:30
-- [x] Exported to Keepeek Friday 16 November 2018 at 21:16
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD Integrity Review of Nuevo León, Mexico - Sustaining Integrity Reforms](https://doi.org/10.1787/9789264284463-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 21 November 2018 at 17:00 | Wednesday 21 November 2018 at 17:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
-- [x] Exported to Keepeek Monday 19 November 2018 at 21:23
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Saturday 24 November 2018 at 5:53* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Health at a Glance: Europe 2018 - State of Health in the EU Cycle](https://doi.org/10.1787/health_glance_eur-2018-en)
 
@@ -123,8 +13,8 @@ Thursday 22 November 2018 at 12:00 | Thursday 22 November 2018 at 12:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
-- [x] Exported to Keepeek Monday 19 November 2018 at 21:23
+- [x] Exported to iLibrary Friday 23 November 2018 at 8:10
+- [x] Exported to Keepeek Friday 23 November 2018 at 21:22
 
 ### Additional Information
 
@@ -233,7 +123,7 @@ Monday 26 November 2018 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 23 November 2018 at 8:10
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -255,7 +145,7 @@ Tuesday 27 November 2018 at 3:00 | Tuesday 27 November 2018 at 3:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 22 November 2018 at 7:07
+- [x] Exported to iLibrary Friday 23 November 2018 at 8:10
 - [x] Exported to Keepeek Thursday 22 November 2018 at 21:35
 
 ### Additional Information
@@ -277,7 +167,7 @@ Tuesday 27 November 2018 at 3:00 | Tuesday 27 November 2018 at 3:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 22 November 2018 at 7:07
+- [x] Exported to iLibrary Friday 23 November 2018 at 8:10
 - [x] Exported to Keepeek Thursday 22 November 2018 at 21:35
 
 ### Additional Information
@@ -299,7 +189,7 @@ Wednesday 28 November 2018 at 1:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 23 November 2018 at 8:10
 - [x] Exported to Keepeek Thursday 22 November 2018 at 21:35
 
 ### Additional Information
@@ -321,7 +211,7 @@ Wednesday 28 November 2018 at 1:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 23 November 2018 at 8:10
 - [x] Exported to Keepeek Thursday 22 November 2018 at 21:35
 
 ### Additional Information
@@ -331,6 +221,50 @@ Wednesday 28 November 2018 at 1:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
+
+------
+
+## [Power struggle - Decarbonising the electricity sector - Effects of climate policies, policy misalignments and political economy factors on decarbonisation](https://doi.org/10.1787/900f4c72-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 28 November 2018 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Friday 23 November 2018 at 21:22
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Financing Climate Futures - Rethinking Infrastructure](https://doi.org/10.1787/9789264308114-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 28 November 2018 at 9:00 | Wednesday 28 November 2018 at 9:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, Paperback, PDF*
 
 ------
 
@@ -343,7 +277,7 @@ Wednesday 28 November 2018 at 16:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 23 November 2018 at 8:10
 - [x] Exported to Keepeek Thursday 22 November 2018 at 21:35
 
 ### Additional Information
@@ -356,23 +290,23 @@ Wednesday 28 November 2018 at 16:00 | no launch event
 
 ------
 
-## [Revenue Statistics 2018](https://doi.org/10.1787/rev_stats-2018-en)
+## [Perspectives on Global Development 2019 - Rethinking Development Strategies](https://doi.org/10.1787/persp_glob_dev-2019-en)
 
 Embargo date | Launch date
 -------------|------------
-Thursday 29 November 2018 at 10:00 | Thursday 29 November 2018 at 10:00
+Thursday 29 November 2018 at 4:00 | Thursday 29 November 2018 at 4:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 13 November 2018 at 6:41
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 22 November 2018 at 7:07
+- [x] Exported to Keepeek Friday 23 November 2018 at 21:22
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -382,43 +316,21 @@ Thursday 29 November 2018 at 10:00 | Thursday 29 November 2018 at 10:00
 
 Embargo date | Launch date
 -------------|------------
-Thursday 29 November 2018 at 10:00 | Thursday 29 November 2018 at 10:00
+Thursday 29 November 2018 at 14:00 | Thursday 29 November 2018 at 14:00
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 22 November 2018 at 7:07
+- [x] Exported to iLibrary Friday 23 November 2018 at 8:10
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration, Development Centre*
+* Directorate: *Development Centre, Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Statistiques des recettes publiques 2018](https://doi.org/10.1787/rev_stats-2018-fr)
-
-Embargo date | Launch date
--------------|------------
-Thursday 29 November 2018 at 10:00 | Thursday 29 November 2018 at 10:00
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 13 November 2018 at 6:41
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
 
 ------
 
@@ -431,7 +343,7 @@ Friday 30 November 2018 at 10:00 | Friday 30 November 2018 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 14 November 2018 at 6:31
+- [x] Exported to iLibrary Friday 23 November 2018 at 8:10
 - [x] Exported to Keepeek Thursday 22 November 2018 at 21:35
 
 ### Additional Information
@@ -480,11 +392,55 @@ Monday 3 December 2018 at 9:00 | Monday 3 December 2018 at 9:00
 
 ### Additional Information
 
-* Directorate: *Directorate for Financial and Enterprise Affairs, Directorate for Employment, Labour and Social Affairs*
+* Directorate: *Directorate for Employment, Labour and Social Affairs, Directorate for Financial and Enterprise Affairs*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Revenue Statistics 2018](https://doi.org/10.1787/rev_stats-2018-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 5 December 2018 at 10:00 | Wednesday 5 December 2018 at 10:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 13 November 2018 at 6:41
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Statistiques des recettes publiques 2018](https://doi.org/10.1787/rev_stats-2018-fr)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 5 December 2018 at 10:00 | Wednesday 5 December 2018 at 10:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 13 November 2018 at 6:41
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -563,7 +519,7 @@ Monday 10 December 2018 at 10:00 | Monday 10 December 2018 at 10:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 22 November 2018 at 7:07
+- [x] Exported to iLibrary Friday 23 November 2018 at 8:10
 - [ ] Exported to Keepeek
 
 ### Additional Information
