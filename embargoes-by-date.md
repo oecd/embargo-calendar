@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 27 November 2018 at 5:00* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 28 November 2018 at 5:05* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [26 November 2018](#26-november-2018)
 * [27 November 2018](#27-november-2018)
@@ -13,6 +13,7 @@ Data generated on | |
 * [5 December 2018](#5-december-2018)
 * [6 December 2018](#6-december-2018)
 * [10 December 2018](#10-december-2018)
+* [13 December 2018](#13-december-2018)
 
 ------
 
@@ -27,7 +28,7 @@ Monday 26 November 2018 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 23 November 2018 at 8:10
+- [x] Exported to iLibrary Tuesday 27 November 2018 at 7:18
 - [x] Exported to Keepeek Monday 26 November 2018 at 21:25
 
 ### Additional Information
@@ -122,17 +123,39 @@ Wednesday 28 November 2018 at 9:00 | Wednesday 28 November 2018 at 9:00
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Saturday 24 November 2018 at 8:44
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 27 November 2018 at 21:29
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *ePub, Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Multilingual Summaries for Financing Climate Futures](https://doi.org/10.1787/4d36800f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 28 November 2018 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Tuesday 27 November 2018 at 21:29
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* 11 Languages: [Italian](https://doi.org/10.1787/5a9f78ac-it), [Korean](https://doi.org/10.1787/940f6e2b-ko), [German](https://doi.org/10.1787/23b6ec5f-de), [Arabic](https://doi.org/10.1787/2a24581c-ar), [Chinese](https://doi.org/10.1787/fcb6f4d9-zh), [English](https://doi.org/10.1787/4d36800f-en), [Japanese](https://doi.org/10.1787/fdb1c79b-ja), [Russian](https://doi.org/10.1787/c7fd17d8-ru), [Spanish](https://doi.org/10.1787/6349b1a4-es), [Portuguese](https://doi.org/10.1787/8ae9e18a-pt), [French](https://doi.org/10.1787/f3d8f776-fr)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -206,28 +229,6 @@ Wednesday 28 November 2018 at 1:00 | no launch event
 
 # 29 November 2018
 
-## [Revenue Statistics in Asian and Pacific Economies](https://doi.org/10.1787/9789264308091-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 29 November 2018 at 14:00 | Thursday 29 November 2018 at 14:00
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Saturday 24 November 2018 at 8:44
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration, Development Centre*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
 ## [Pharmaceutical Innovation and Access to Medicines](https://doi.org/10.1787/9789264307391-en)
 
 Embargo date | Launch date
@@ -237,14 +238,14 @@ Thursday 29 November 2018 at 10:00 | Thursday 29 November 2018 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 22 November 2018 at 7:07
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 27 November 2018 at 7:18
+- [x] Exported to Keepeek Tuesday 27 November 2018 at 21:29
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -269,6 +270,28 @@ Thursday 29 November 2018 at 4:00 | Thursday 29 November 2018 at 4:00
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Revenue Statistics in Asian and Pacific Economies](https://doi.org/10.1787/9789264308091-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 29 November 2018 at 2:00 | Thursday 29 November 2018 at 2:00
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 24 November 2018 at 8:44
+- [x] Exported to Keepeek Tuesday 27 November 2018 at 21:29
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration, Development Centre*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -307,7 +330,7 @@ Friday 30 November 2018 at 5:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 22 November 2018 at 7:07
+- [x] Exported to iLibrary Tuesday 27 November 2018 at 7:18
 - [x] Exported to Keepeek Monday 26 November 2018 at 21:25
 
 ### Additional Information
@@ -332,15 +355,15 @@ Monday 3 December 2018 at 9:00 | Monday 3 December 2018 at 9:00
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 9 November 2018 at 7:38
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 27 November 2018 at 21:29
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -508,6 +531,32 @@ Monday 10 December 2018 at 10:00 | Monday 10 December 2018 at 10:00
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 13 December 2018
+
+## [Harmful Tax Practices – 2017 Peer Review Reports on the Exchange of Information on Tax Rulings - Inclusive Framework on BEPS: Action 5](https://doi.org/10.1787/9789264309586-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 13 December 2018 at 10:00 | Thursday 13 December 2018 at 10:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 27 November 2018 at 7:18
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
