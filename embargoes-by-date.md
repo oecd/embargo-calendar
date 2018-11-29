@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 28 November 2018 at 5:05* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 29 November 2018 at 5:01* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [26 November 2018](#26-november-2018)
-* [27 November 2018](#27-november-2018)
 * [28 November 2018](#28-november-2018)
 * [29 November 2018](#29-november-2018)
 * [30 November 2018](#30-november-2018)
@@ -14,80 +12,6 @@ Data generated on | |
 * [6 December 2018](#6-december-2018)
 * [10 December 2018](#10-december-2018)
 * [13 December 2018](#13-december-2018)
-
-------
-
-# 26 November 2018
-
-## [Dilemmas of central governance and distributed autonomy in education](https://doi.org/10.1787/060260bf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 26 November 2018 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 27 November 2018 at 7:18
-- [x] Exported to Keepeek Monday 26 November 2018 at 21:25
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 27 November 2018
-
-## [Beyond GDP - Measuring What Counts for Economic and Social Performance](https://doi.org/10.1787/9789264307292-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 27 November 2018 at 3:00 | Tuesday 27 November 2018 at 3:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 November 2018 at 8:10
-- [x] Exported to Keepeek Thursday 22 November 2018 at 21:35
-
-### Additional Information
-
-* Directorate: *Statistics and Data Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [For Good Measure - Advancing Research on Well-being Metrics Beyond GDP](https://doi.org/10.1787/9789264307278-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 27 November 2018 at 3:00 | Tuesday 27 November 2018 at 3:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 November 2018 at 8:10
-- [x] Exported to Keepeek Thursday 22 November 2018 at 21:35
-
-### Additional Information
-
-* Directorate: *Statistics and Data Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -124,7 +48,7 @@ Wednesday 28 November 2018 at 9:00 | Wednesday 28 November 2018 at 9:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 24 November 2018 at 8:44
+- [x] Exported to iLibrary Wednesday 28 November 2018 at 7:26
 - [x] Exported to Keepeek Tuesday 27 November 2018 at 21:29
 
 ### Additional Information
@@ -146,7 +70,7 @@ Wednesday 28 November 2018 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 28 November 2018 at 7:26
 - [x] Exported to Keepeek Tuesday 27 November 2018 at 21:29
 
 ### Additional Information
@@ -238,7 +162,7 @@ Thursday 29 November 2018 at 10:00 | Thursday 29 November 2018 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 27 November 2018 at 7:18
+- [x] Exported to iLibrary Wednesday 28 November 2018 at 7:26
 - [x] Exported to Keepeek Tuesday 27 November 2018 at 21:29
 
 ### Additional Information
@@ -273,6 +197,28 @@ Thursday 29 November 2018 at 4:00 | Thursday 29 November 2018 at 4:00
 
 ------
 
+## [Multilingual Summaries for Perspectives on Global Development 2019](https://doi.org/10.1787/c1265e4f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 29 November 2018 at 4:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Wednesday 28 November 2018 at 21:28
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* 25 Languages: [Greek](https://doi.org/10.1787/d05d83be-el), [Italian](https://doi.org/10.1787/3e83d59f-it), [Korean](https://doi.org/10.1787/bd937de0-ko), [Turkish](https://doi.org/10.1787/25e16cbc-tr), [German](https://doi.org/10.1787/1a24a356-de), [Dutch](https://doi.org/10.1787/173ffadf-nl), [Slovak](https://doi.org/10.1787/ed1c2c6a-sk), [Chinese](https://doi.org/10.1787/5228291a-zh), [Slovenian](https://doi.org/10.1787/ce808e06-sl), [Danish](https://doi.org/10.1787/72e96dbf-da), [Norwegian](https://doi.org/10.1787/20b3d2e1-no), [English](https://doi.org/10.1787/c1265e4f-en), [Icelandic](https://doi.org/10.1787/2054e30a-is), [Estonian](https://doi.org/10.1787/31423ac4-et), [Polish](https://doi.org/10.1787/206c0e4e-pl), [Japanese](https://doi.org/10.1787/05f907b4-ja), [Russian](https://doi.org/10.1787/f12e75f4-ru), [Czech](https://doi.org/10.1787/39bb5041-cs), [Spanish](https://doi.org/10.1787/7a95ad2b-es), [Portuguese](https://doi.org/10.1787/68891347-pt), [Swedish](https://doi.org/10.1787/e7e2fed2-sv), [Finnish](https://doi.org/10.1787/90143467-fi), [Latvian](https://doi.org/10.1787/7cd7b3e6-lv), [Hungarian](https://doi.org/10.1787/e6b606e9-hu), [Hebrew](https://doi.org/10.1787/9c986556-he)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Formats: *ePub, HTML, PDF*
+
+------
+
 ## [Revenue Statistics in Asian and Pacific Economies](https://doi.org/10.1787/9789264308091-en)
 
 Embargo date | Launch date
@@ -282,12 +228,12 @@ Thursday 29 November 2018 at 2:00 | Thursday 29 November 2018 at 2:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 24 November 2018 at 8:44
+- [x] Exported to iLibrary Wednesday 28 November 2018 at 7:26
 - [x] Exported to Keepeek Tuesday 27 November 2018 at 21:29
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration, Development Centre*
+* Directorate: *Development Centre, Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
@@ -356,7 +302,7 @@ Monday 3 December 2018 at 9:00 | Monday 3 December 2018 at 9:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 9 November 2018 at 7:38
+- [x] Exported to iLibrary Wednesday 28 November 2018 at 7:26
 - [x] Exported to Keepeek Tuesday 27 November 2018 at 21:29
 
 ### Additional Information
@@ -404,7 +350,7 @@ Wednesday 5 December 2018 at 10:30 | Wednesday 5 December 2018 at 10:30
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 21 November 2018 at 6:40
+- [x] Exported to iLibrary Wednesday 28 November 2018 at 7:26
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -548,7 +494,7 @@ Thursday 13 December 2018 at 10:00 | Thursday 13 December 2018 at 10:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 27 November 2018 at 7:18
+- [x] Exported to iLibrary Wednesday 28 November 2018 at 7:26
 - [ ] Exported to Keepeek
 
 ### Additional Information
