@@ -2,51 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 29 November 2018 at 5:01* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Changes in Economic and Financial Synchronisation - A Global Factor Analysis](https://doi.org/10.1787/ba7c5c04-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 28 November 2018 at 1:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 23 November 2018 at 8:10
-- [x] Exported to Keepeek Thursday 22 November 2018 at 21:35
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Improving skills and their use in Germany](https://doi.org/10.1787/8a251b1f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 28 November 2018 at 1:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 23 November 2018 at 8:10
-- [x] Exported to Keepeek Thursday 22 November 2018 at 21:35
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Friday 30 November 2018 at 5:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Power struggle - Decarbonising the electricity sector - Effects of climate policies, policy misalignments and political economy factors on decarbonisation](https://doi.org/10.1787/900f4c72-en)
 
@@ -79,7 +35,7 @@ Wednesday 28 November 2018 at 9:00 | Wednesday 28 November 2018 at 9:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 28 November 2018 at 7:26
+- [x] Exported to iLibrary Thursday 29 November 2018 at 7:21
 - [x] Exported to Keepeek Tuesday 27 November 2018 at 21:29
 
 ### Additional Information
@@ -145,7 +101,7 @@ Thursday 29 November 2018 at 2:00 | Thursday 29 November 2018 at 2:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 28 November 2018 at 7:26
+- [x] Exported to iLibrary Thursday 29 November 2018 at 7:21
 - [x] Exported to Keepeek Tuesday 27 November 2018 at 21:29
 
 ### Additional Information
@@ -189,7 +145,7 @@ Thursday 29 November 2018 at 4:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 29 November 2018 at 7:21
 - [x] Exported to Keepeek Wednesday 28 November 2018 at 21:28
 
 ### Additional Information
@@ -268,6 +224,28 @@ Friday 30 November 2018 at 10:00 | Friday 30 November 2018 at 10:00
 
 ------
 
+## [Towards global SEEA Air Emission Accounts - Description and evaluation of the OECD methodology to estimate SEEA Air Emission Accounts for CO2, CH4 and N2O in Annex-I countries to the UNFCCC](https://doi.org/10.1787/7d88dfdd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 3 December 2018 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Thursday 29 November 2018 at 21:22
+
+### Additional Information
+
+* Directorate: *Statistics and Data Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Financial Incentives and Retirement Savings](https://doi.org/10.1787/9789264306929-en)
 
 Embargo date | Launch date
@@ -277,7 +255,7 @@ Monday 3 December 2018 at 9:00 | Monday 3 December 2018 at 9:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 28 November 2018 at 7:26
+- [x] Exported to iLibrary Thursday 29 November 2018 at 7:21
 - [x] Exported to Keepeek Tuesday 27 November 2018 at 21:29
 
 ### Additional Information
@@ -287,6 +265,28 @@ Monday 3 December 2018 at 9:00 | Monday 3 December 2018 at 9:00
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Health at a Glance: Asia/Pacific 2018 - Measuring Progress towards Universal Health Coverage](https://doi.org/10.1787/health_glance_ap-2018-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 3 December 2018 at 9:00 | Monday 3 December 2018 at 9:00
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 29 November 2018 at 7:21
+- [x] Exported to Keepeek Thursday 29 November 2018 at 21:22
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, Paperback, PDF*
 
 ------
 
@@ -304,11 +304,33 @@ Monday 3 December 2018 at 9:00 | Monday 3 December 2018 at 9:00
 
 ### Additional Information
 
-* Directorate: *Directorate for Financial and Enterprise Affairs, Directorate for Employment, Labour and Social Affairs*
+* Directorate: *Directorate for Employment, Labour and Social Affairs, Directorate for Financial and Enterprise Affairs*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Early Career Teachers - Pioneers Triggering Innovation or Compliant Professionals?](https://doi.org/10.1787/4a7043f9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 3 December 2018 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Thursday 29 November 2018 at 21:22
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -330,7 +352,7 @@ Wednesday 5 December 2018 at 10:00 | Wednesday 5 December 2018 at 10:00
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -374,7 +396,7 @@ Wednesday 5 December 2018 at 10:30 | Wednesday 5 December 2018 at 10:30
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
