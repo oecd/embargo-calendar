@@ -2,108 +2,16 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 30 November 2018 at 5:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Saturday 1 December 2018 at 5:50* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [28 November 2018](#28-november-2018)
 * [29 November 2018](#29-november-2018)
 * [30 November 2018](#30-november-2018)
 * [3 December 2018](#3-december-2018)
+* [4 December 2018](#4-december-2018)
 * [5 December 2018](#5-december-2018)
 * [6 December 2018](#6-december-2018)
 * [10 December 2018](#10-december-2018)
 * [13 December 2018](#13-december-2018)
-
-------
-
-# 28 November 2018
-
-## [The potential economic impact of Brexit on the Netherlands](https://doi.org/10.1787/20cb5ddc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 28 November 2018 at 16:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 23 November 2018 at 8:10
-- [x] Exported to Keepeek Thursday 22 November 2018 at 21:35
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Financing Climate Futures - Rethinking Infrastructure](https://doi.org/10.1787/9789264308114-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 28 November 2018 at 9:00 | Wednesday 28 November 2018 at 9:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 29 November 2018 at 7:21
-- [x] Exported to Keepeek Tuesday 27 November 2018 at 21:29
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Multilingual Summaries for Financing Climate Futures](https://doi.org/10.1787/4d36800f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 28 November 2018 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 28 November 2018 at 7:26
-- [x] Exported to Keepeek Tuesday 27 November 2018 at 21:29
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* 11 Languages: [Italian](https://doi.org/10.1787/5a9f78ac-it), [Korean](https://doi.org/10.1787/940f6e2b-ko), [German](https://doi.org/10.1787/23b6ec5f-de), [Arabic](https://doi.org/10.1787/2a24581c-ar), [Chinese](https://doi.org/10.1787/fcb6f4d9-zh), [English](https://doi.org/10.1787/4d36800f-en), [Japanese](https://doi.org/10.1787/fdb1c79b-ja), [Russian](https://doi.org/10.1787/c7fd17d8-ru), [Spanish](https://doi.org/10.1787/6349b1a4-es), [Portuguese](https://doi.org/10.1787/8ae9e18a-pt), [French](https://doi.org/10.1787/f3d8f776-fr)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Power struggle - Decarbonising the electricity sector - Effects of climate policies, policy misalignments and political economy factors on decarbonisation](https://doi.org/10.1787/900f4c72-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 28 November 2018 at 5:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Saturday 24 November 2018 at 8:44
-- [x] Exported to Keepeek Friday 23 November 2018 at 21:22
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -131,72 +39,6 @@ Thursday 29 November 2018 at 10:00 | Thursday 29 November 2018 at 10:00
 
 ------
 
-## [Perspectives on Global Development 2019 - Rethinking Development Strategies](https://doi.org/10.1787/persp_glob_dev-2019-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 29 November 2018 at 4:00 | Thursday 29 November 2018 at 4:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 24 November 2018 at 8:44
-- [x] Exported to Keepeek Friday 23 November 2018 at 21:22
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Multilingual Summaries for Perspectives on Global Development 2019](https://doi.org/10.1787/c1265e4f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 29 November 2018 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 29 November 2018 at 7:21
-- [x] Exported to Keepeek Wednesday 28 November 2018 at 21:28
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* 25 Languages: [Greek](https://doi.org/10.1787/d05d83be-el), [Italian](https://doi.org/10.1787/3e83d59f-it), [Korean](https://doi.org/10.1787/bd937de0-ko), [Turkish](https://doi.org/10.1787/25e16cbc-tr), [German](https://doi.org/10.1787/1a24a356-de), [Dutch](https://doi.org/10.1787/173ffadf-nl), [Slovak](https://doi.org/10.1787/ed1c2c6a-sk), [Chinese](https://doi.org/10.1787/5228291a-zh), [Slovenian](https://doi.org/10.1787/ce808e06-sl), [Danish](https://doi.org/10.1787/72e96dbf-da), [Norwegian](https://doi.org/10.1787/20b3d2e1-no), [English](https://doi.org/10.1787/c1265e4f-en), [Icelandic](https://doi.org/10.1787/2054e30a-is), [Estonian](https://doi.org/10.1787/31423ac4-et), [Polish](https://doi.org/10.1787/206c0e4e-pl), [Japanese](https://doi.org/10.1787/05f907b4-ja), [Russian](https://doi.org/10.1787/f12e75f4-ru), [Czech](https://doi.org/10.1787/39bb5041-cs), [Spanish](https://doi.org/10.1787/7a95ad2b-es), [Portuguese](https://doi.org/10.1787/68891347-pt), [Swedish](https://doi.org/10.1787/e7e2fed2-sv), [Finnish](https://doi.org/10.1787/90143467-fi), [Latvian](https://doi.org/10.1787/7cd7b3e6-lv), [Hungarian](https://doi.org/10.1787/e6b606e9-hu), [Hebrew](https://doi.org/10.1787/9c986556-he)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Revenue Statistics in Asian and Pacific Economies](https://doi.org/10.1787/9789264308091-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 29 November 2018 at 2:00 | Thursday 29 November 2018 at 2:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 29 November 2018 at 7:21
-- [x] Exported to Keepeek Tuesday 27 November 2018 at 21:29
-
-### Additional Information
-
-* Directorate: *Development Centre, Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
 ------
 
 # 30 November 2018
@@ -210,7 +52,7 @@ Friday 30 November 2018 at 10:00 | Friday 30 November 2018 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 November 2018 at 8:10
+- [x] Exported to iLibrary Friday 30 November 2018 at 7:33
 - [x] Exported to Keepeek Thursday 22 November 2018 at 21:35
 
 ### Additional Information
@@ -258,7 +100,7 @@ Monday 3 December 2018 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 30 November 2018 at 7:33
 - [x] Exported to Keepeek Thursday 29 November 2018 at 21:22
 
 ### Additional Information
@@ -302,7 +144,7 @@ Monday 3 December 2018 at 9:00 | Monday 3 December 2018 at 9:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 29 November 2018 at 7:21
+- [x] Exported to iLibrary Friday 30 November 2018 at 7:33
 - [x] Exported to Keepeek Thursday 29 November 2018 at 21:22
 
 ### Additional Information
@@ -324,16 +166,38 @@ Monday 3 December 2018 at 9:00 | Monday 3 December 2018 at 9:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 22 November 2018 at 7:07
+- [x] Exported to iLibrary Friday 30 November 2018 at 7:33
 - [x] Exported to Keepeek Monday 19 November 2018 at 21:23
 
 ### Additional Information
 
-* Directorate: *Directorate for Employment, Labour and Social Affairs, Directorate for Financial and Enterprise Affairs*
+* Directorate: *Directorate for Financial and Enterprise Affairs, Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Multilingual Summaries for OECD Pensions Outlook 2018](https://doi.org/10.1787/3d330526-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 3 December 2018 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Friday 30 November 2018 at 21:24
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs, Directorate for Employment, Labour and Social Affairs*
+* 15 Languages: [Greek](https://doi.org/10.1787/d8838fa1-el), [Korean](https://doi.org/10.1787/59a79e32-ko), [Turkish](https://doi.org/10.1787/5caac547-tr), [German](https://doi.org/10.1787/830cb022-de), [Dutch](https://doi.org/10.1787/7caa4d4e-nl), [Chinese](https://doi.org/10.1787/ce16d886-zh), [Slovenian](https://doi.org/10.1787/368c7a55-sl), [English](https://doi.org/10.1787/3d330526-en), [Icelandic](https://doi.org/10.1787/de1bbf95-is), [Estonian](https://doi.org/10.1787/5807abd6-et), [Polish](https://doi.org/10.1787/d3a79d33-pl), [Japanese](https://doi.org/10.1787/20978552-ja), [Czech](https://doi.org/10.1787/2d4ee5c6-cs), [Spanish](https://doi.org/10.1787/af432cf1-es), [Finnish](https://doi.org/10.1787/66fa557f-fi)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -346,8 +210,8 @@ Monday 3 December 2018 at 5:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [x] Exported to Keepeek Thursday 29 November 2018 at 21:22
+- [x] Exported to iLibrary Friday 30 November 2018 at 7:33
+- [x] Exported to Keepeek Friday 30 November 2018 at 21:24
 
 ### Additional Information
 
@@ -356,6 +220,32 @@ Monday 3 December 2018 at 5:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
+
+------
+
+------
+
+# 4 December 2018
+
+## [Good Jobs for All in a Changing World of Work - The OECD Jobs Strategy](https://doi.org/10.1787/9789264308817-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 4 December 2018 at 8:00 | Tuesday 4 December 2018 at 8:00
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 30 November 2018 at 7:33
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -372,7 +262,7 @@ Wednesday 5 December 2018 at 10:30 | Wednesday 5 December 2018 at 10:30
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 28 November 2018 at 7:26
+- [x] Exported to iLibrary Friday 30 November 2018 at 7:33
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -393,15 +283,15 @@ Wednesday 5 December 2018 at 10:00 | Wednesday 5 December 2018 at 10:00
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Saturday 24 November 2018 at 8:44
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Friday 30 November 2018 at 21:24
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -415,17 +305,17 @@ Wednesday 5 December 2018 at 10:00 | Wednesday 5 December 2018 at 10:00
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Saturday 24 November 2018 at 8:44
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Friday 30 November 2018 at 21:24
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -516,7 +406,7 @@ Thursday 13 December 2018 at 10:00 | Thursday 13 December 2018 at 10:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 28 November 2018 at 7:26
+- [x] Exported to iLibrary Friday 30 November 2018 at 7:33
 - [ ] Exported to Keepeek
 
 ### Additional Information
