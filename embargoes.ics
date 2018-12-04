@@ -2,140 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/9789264307391-end3e80170
-SUMMARY:Pharmaceutical Innovation and Access to 
- Medicines
-DESCRIPTION:*Pharmaceutical Innovation and Access to
-  Medicines*\n\nDirectorate: Directorate 
- for Employment, Labour and Social Affair
- s\nLanguage: English\nDOI: https://doi.o
- rg/10.1787/9789264307391-en\nPublication
-  type: Book\nReleased as: Paperback, PDF
- \n\nEmbargo date/time: Thursday, 29 Nove
- mber 2018, 10:00 (GMT)\nLaunch date/time
- : Thursday, 29 November 2018, 10:00 (GMT
- )\n\niLibrary export: Wednesday, 28 Nove
- mber 2018, 6:26 (GMT)\nFreepreview expor
- t: Tuesday, 27 November 2018, 20:29 (GMT
- )\nFTI loaded: ✓\n\nFor more information
-  see: https://github.com/oecd/embargo-ca
- lendar/blob/master/embargoes-by-publicat
- ion.md.\n\nPlease note: This information
-  was correct as of this morning at 5:50,
-  it is updated each night; therefore any
-  subsequent updates may not yet be visib
- le here. Also, please be aware that the 
- different released media (PDF, HTML, etc
- .) are not necessarily released at the s
- ame time. For complete and up-to-date in
- formation see here: http://kappa.oecd.or
- g/v3/search?term=9789264307391-en.
-DTSTAMP:20181201T055110Z
-DTSTART:20181129T100000Z
-DTEND:20181129T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Pharmaceutical Innovation and 
- Access to Medicines
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/45426991-end3e72371
-SUMMARY:OECD Progress Update on Approaches to Mo
- bilising Institutional Investment for Su
- stainable Infrastructure - Background pa
- per to the G20 Sustainable Finance Study
-  Group
-DESCRIPTION:*OECD Progress Update on Approaches to M
- obilising Institutional Investment for S
- ustainable Infrastructure - Background p
- aper to the G20 Sustainable Finance Stud
- y Group*\n\nDirectorate: Environment Dir
- ectorate\nLanguage: English\nDOI: https:
- //doi.org/10.1787/45426991-en\nPublicati
- on type: Working paper\nReleased as: PDF
- \n\nEmbargo date/time: Friday, 30 Novemb
- er 2018, 5:00 (GMT)\n\n\niLibrary export
- : Tuesday, 27 November 2018, 6:18 (GMT)\
- nFreepreview export: Monday, 26 November
-  2018, 20:25 (GMT)\nFTI loaded: ✗\n\nFor
-  more information see: https://github.co
- m/oecd/embargo-calendar/blob/master/emba
- rgoes-by-publication.md.\n\nPlease note:
-  This information was correct as of this
-  morning at 5:50, it is updated each nig
- ht; therefore any subsequent updates may
-  not yet be visible here. Also, please b
- e aware that the different released medi
- a (PDF, HTML, etc.) are not necessarily 
- released at the same time. For complete 
- and up-to-date information see here: htt
- p://kappa.oecd.org/v3/search?term=454269
- 91-en.
-DTSTAMP:20181201T055110Z
-DTSTART:20181130T050000Z
-DTEND:20181130T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Progress Update on Approa
- ches to Mobilising Institutional Investm
- ent for Sustainable Infrastructure - Bac
- kground paper to the G20 Sustainable Fin
- ance Study Group
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/9789264301450-end3e72012
-SUMMARY:SME and Entrepreneurship Policy in Kazak
- hstan 2018
-DESCRIPTION:*SME and Entrepreneurship Policy in Kaza
- khstan 2018*\n\nDirectorate: Centre for 
- Entrepreneurship, SMEs and Local Develop
- ment\nLanguage: English\nDOI: https://do
- i.org/10.1787/9789264301450-en\nPublicat
- ion type: Book\nReleased as: Paperback, 
- PDF\n\nEmbargo date/time: Friday, 30 Nov
- ember 2018, 10:00 (GMT)\nLaunch date/tim
- e: Friday, 30 November 2018, 10:00 (GMT)
- \n\niLibrary export: Friday, 30 November
-  2018, 6:33 (GMT)\nFreepreview export: T
- hursday, 22 November 2018, 20:35 (GMT)\n
- FTI loaded: ✓\n\nFor more information se
- e: https://github.com/oecd/embargo-calen
- dar/blob/master/embargoes-by-publication
- .md.\n\nPlease note: This information wa
- s correct as of this morning at 5:50, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=9789264301450-en.
-DTSTAMP:20181201T055110Z
-DTSTART:20181130T100000Z
-DTEND:20181130T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: SME and Entrepreneurship Polic
- y in Kazakhstan 2018
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/7d88dfdd-end3e70070
+UID:10.1787/7d88dfdd-end3e76449
 SUMMARY:Towards global SEEA Air Emission Account
  s - Description and evaluation of the OE
  CD methodology to estimate SEEA Air Emis
@@ -159,7 +26,7 @@ DESCRIPTION:*Towards global SEEA Air Emission Accoun
  rgo-calendar/blob/master/embargoes-by-pu
  blication.md.\n\nPlease note: This infor
  mation was correct as of this morning at
-  5:50, it is updated each night; therefo
+  4:56, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -167,7 +34,7 @@ DESCRIPTION:*Towards global SEEA Air Emission Accoun
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=7d88dfdd-en.
-DTSTAMP:20181201T055110Z
+DTSTAMP:20181204T045655Z
 DTSTART:20181203T050000Z
 DTEND:20181203T051500Z
 TRANSP:TRANSPARENT
@@ -184,7 +51,7 @@ DESCRIPTION:Reminder: Towards global SEEA Air Emissi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264306929-end3e58244
+UID:10.1787/9789264306929-end3e64633
 SUMMARY:Financial Incentives and Retirement Savi
  ngs
 DESCRIPTION:*Financial Incentives and Retirement Sav
@@ -198,22 +65,22 @@ DESCRIPTION:*Financial Incentives and Retirement Sav
  unch date/time: Monday, 3 December 2018,
   9:00 (GMT)\n\niLibrary export: Thursday
  , 29 November 2018, 6:21 (GMT)\nFreeprev
- iew export: Tuesday, 27 November 2018, 2
- 0:29 (GMT)\nFTI loaded: ✓\n\nFor more in
- formation see: https://github.com/oecd/e
- mbargo-calendar/blob/master/embargoes-by
- -publication.md.\n\nPlease note: This in
- formation was correct as of this morning
-  at 5:50, it is updated each night; ther
- efore any subsequent updates may not yet
-  be visible here. Also, please be aware 
- that the different released media (PDF, 
- HTML, etc.) are not necessarily released
-  at the same time. For complete and up-t
- o-date information see here: http://kapp
- a.oecd.org/v3/search?term=9789264306929-
- en.
-DTSTAMP:20181201T055110Z
+ iew export: Monday, 3 December 2018, 20:
+ 28 (GMT)\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://github.com/oecd/emb
+ argo-calendar/blob/master/embargoes-by-p
+ ublication.md.\n\nPlease note: This info
+ rmation was correct as of this morning a
+ t 4:56, it is updated each night; theref
+ ore any subsequent updates may not yet b
+ e visible here. Also, please be aware th
+ at the different released media (PDF, HT
+ ML, etc.) are not necessarily released a
+ t the same time. For complete and up-to-
+ date information see here: http://kappa.
+ oecd.org/v3/search?term=9789264306929-en
+ .
+DTSTAMP:20181204T045655Z
 DTSTART:20181203T090000Z
 DTEND:20181203T091500Z
 TRANSP:TRANSPARENT
@@ -227,7 +94,7 @@ DESCRIPTION:Reminder: Financial Incentives and Retir
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/health_glance_ap-2018-end3e59058
+UID:10.1787/health_glance_ap-2018-end3e65405
 SUMMARY:Health at a Glance: Asia/Pacific 2018 - 
  Measuring Progress towards Universal Hea
  lth Coverage
@@ -249,7 +116,7 @@ DESCRIPTION:*Health at a Glance: Asia/Pacific 2018 -
  argo-calendar/blob/master/embargoes-by-p
  ublication.md.\n\nPlease note: This info
  rmation was correct as of this morning a
- t 5:50, it is updated each night; theref
+ t 4:56, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -258,7 +125,7 @@ DESCRIPTION:*Health at a Glance: Asia/Pacific 2018 -
  date information see here: http://kappa.
  oecd.org/v3/search?term=health_glance_ap
  -2018-en.
-DTSTAMP:20181201T055110Z
+DTSTAMP:20181204T045655Z
 DTSTART:20181203T090000Z
 DTEND:20181203T091500Z
 TRANSP:TRANSPARENT
@@ -273,7 +140,7 @@ DESCRIPTION:Reminder: Health at a Glance: Asia/Pacif
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/pens_outlook-2018-end3e61954
+UID:10.1787/pens_outlook-2018-end3e68256
 SUMMARY:OECD Pensions Outlook 2018
 DESCRIPTION:*OECD Pensions Outlook 2018*\n\nDirector
  ate: Directorate for Financial and Enter
@@ -292,7 +159,7 @@ DESCRIPTION:*OECD Pensions Outlook 2018*\n\nDirector
  ps://github.com/oecd/embargo-calendar/bl
  ob/master/embargoes-by-publication.md.\n
  \nPlease note: This information was corr
- ect as of this morning at 5:50, it is up
+ ect as of this morning at 4:56, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -301,7 +168,7 @@ DESCRIPTION:*OECD Pensions Outlook 2018*\n\nDirector
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=pens_outlook-2018-en.
-DTSTAMP:20181201T055110Z
+DTSTAMP:20181204T045655Z
 DTSTART:20181203T090000Z
 DTEND:20181203T091500Z
 TRANSP:TRANSPARENT
@@ -314,36 +181,37 @@ DESCRIPTION:Reminder: OECD Pensions Outlook 2018
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3d330526-end3e62610
+UID:10.1787/3d330526-end3e68924
 SUMMARY:Multilingual Summaries for OECD Pensions
   Outlook 2018
 DESCRIPTION:*Multilingual Summaries for OECD Pension
  s Outlook 2018*\n\nDirectorate: Director
- ate for Financial and Enterprise Affairs
- , Directorate for Employment, Labour and
-  Social Affairs\n15 Languages: Greek, Ko
- rean, Turkish, German, Dutch, Chinese, S
- lovenian, English, Icelandic, Estonian, 
- Polish, Japanese, Czech, Spanish, Finnis
- h\nPublication type: Summary\nReleased a
- s: ePub, HTML, PDF\n\nEmbargo date/time:
-  Monday, 3 December 2018, 9:00 (GMT)\n\n
- iLibrary export: never\nFreepreview expo
- rt: Friday, 30 November 2018, 20:24 (GMT
- )\nFTI loaded: ✓\n\nFor more information
-  see: https://github.com/oecd/embargo-ca
- lendar/blob/master/embargoes-by-publicat
- ion.md.\n\nPlease note: This information
-  was correct as of this morning at 5:50,
-  it is updated each night; therefore any
-  subsequent updates may not yet be visib
- le here. Also, please be aware that the 
- different released media (PDF, HTML, etc
- .) are not necessarily released at the s
- ame time. For complete and up-to-date in
- formation see here: http://kappa.oecd.or
- g/v3/search?term=3d330526-en.
-DTSTAMP:20181201T055110Z
+ ate for Employment, Labour and Social Af
+ fairs, Directorate for Financial and Ent
+ erprise Affairs\n16 Languages: Greek, It
+ alian, Turkish, German, Slovak, Slovenia
+ n, Danish, Norwegian, English, Icelandic
+ , Polish, Japanese, Czech, Spanish, Port
+ uguese, Swedish\nPublication type: Summa
+ ry\nReleased as: ePub, HTML, PDF\n\nEmba
+ rgo date/time: Monday, 3 December 2018, 
+ 9:00 (GMT)\n\niLibrary export: Saturday,
+  1 December 2018, 7:33 (GMT)\nFreeprevie
+ w export: Friday, 30 November 2018, 20:2
+ 4 (GMT)\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://github.com/oecd/emba
+ rgo-calendar/blob/master/embargoes-by-pu
+ blication.md.\n\nPlease note: This infor
+ mation was correct as of this morning at
+  4:56, it is updated each night; therefo
+ re any subsequent updates may not yet be
+  visible here. Also, please be aware tha
+ t the different released media (PDF, HTM
+ L, etc.) are not necessarily released at
+  the same time. For complete and up-to-d
+ ate information see here: http://kappa.o
+ ecd.org/v3/search?term=3d330526-en.
+DTSTAMP:20181204T045655Z
 DTSTART:20181203T090000Z
 DTEND:20181203T091500Z
 TRANSP:TRANSPARENT
@@ -357,7 +225,7 @@ DESCRIPTION:Reminder: Multilingual Summaries for OEC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4a7043f9-end3e53417
+UID:10.1787/4a7043f9-end3e59717
 SUMMARY:Early Career Teachers - Pioneers Trigger
  ing Innovation or Compliant Professional
  s?
@@ -376,7 +244,7 @@ DESCRIPTION:*Early Career Teachers - Pioneers Trigge
  /github.com/oecd/embargo-calendar/blob/m
  aster/embargoes-by-publication.md.\n\nPl
  ease note: This information was correct 
- as of this morning at 5:50, it is update
+ as of this morning at 4:56, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -385,7 +253,7 @@ DESCRIPTION:*Early Career Teachers - Pioneers Trigge
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=4a7043f9-en.
-DTSTAMP:20181201T055110Z
+DTSTAMP:20181204T045655Z
 DTSTART:20181203T100000Z
 DTEND:20181203T101500Z
 TRANSP:TRANSPARENT
@@ -400,7 +268,7 @@ DESCRIPTION:Reminder: Early Career Teachers - Pionee
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264308817-end3e53327
+UID:10.1787/9789264308817-end3e58558
 SUMMARY:Good Jobs for All in a Changing World of
   Work - The OECD Jobs Strategy
 DESCRIPTION:*Good Jobs for All in a Changing World o
@@ -413,22 +281,23 @@ DESCRIPTION:*Good Jobs for All in a Changing World o
  \nEmbargo date/time: Tuesday, 4 December
   2018, 8:00 (GMT)\nLaunch date/time: Tue
  sday, 4 December 2018, 8:00 (GMT)\n\niLi
- brary export: Friday, 30 November 2018, 
- 6:33 (GMT)\nFreepreview export: never\nF
- TI loaded: ✓\n\nFor more information see
- : https://github.com/oecd/embargo-calend
- ar/blob/master/embargoes-by-publication.
- md.\n\nPlease note: This information was
-  correct as of this morning at 5:50, it 
- is updated each night; therefore any sub
- sequent updates may not yet be visible h
- ere. Also, please be aware that the diff
- erent released media (PDF, HTML, etc.) a
- re not necessarily released at the same 
- time. For complete and up-to-date inform
- ation see here: http://kappa.oecd.org/v3
- /search?term=9789264308817-en.
-DTSTAMP:20181201T055110Z
+ brary export: Saturday, 1 December 2018,
+  7:33 (GMT)\nFreepreview export: Monday,
+  3 December 2018, 20:28 (GMT)\nFTI loade
+ d: ✓\n\nFor more information see: https:
+ //github.com/oecd/embargo-calendar/blob/
+ master/embargoes-by-publication.md.\n\nP
+ lease note: This information was correct
+  as of this morning at 4:56, it is updat
+ ed each night; therefore any subsequent 
+ updates may not yet be visible here. Als
+ o, please be aware that the different re
+ leased media (PDF, HTML, etc.) are not n
+ ecessarily released at the same time. Fo
+ r complete and up-to-date information se
+ e here: http://kappa.oecd.org/v3/search?
+ term=9789264308817-en.
+DTSTAMP:20181204T045655Z
 DTSTART:20181204T080000Z
 DTEND:20181204T081500Z
 TRANSP:TRANSPARENT
@@ -442,7 +311,92 @@ DESCRIPTION:Reminder: Good Jobs for All in a Changin
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/rev_stats-2018-end3e41271
+UID:10.1787/acaaef5e-end3e58783
+SUMMARY:Multilingual Summaries for Good Jobs for
+  All in a Changing World of Work
+DESCRIPTION:*Multilingual Summaries for Good Jobs fo
+ r All in a Changing World of Work*\n\nDi
+ rectorate: Directorate for Employment, L
+ abour and Social Affairs\n8 Languages: I
+ talian, German, Chinese, English, Japane
+ se, Spanish, Portuguese, French\nPublica
+ tion type: Summary\nReleased as: ePub, H
+ TML, PDF\n\nEmbargo date/time: Tuesday, 
+ 4 December 2018, 8:00 (GMT)\n\niLibrary 
+ export: never\nFreepreview export: Monda
+ y, 3 December 2018, 20:28 (GMT)\nFTI loa
+ ded: ✓\n\nFor more information see: http
+ s://github.com/oecd/embargo-calendar/blo
+ b/master/embargoes-by-publication.md.\n\
+ nPlease note: This information was corre
+ ct as of this morning at 4:56, it is upd
+ ated each night; therefore any subsequen
+ t updates may not yet be visible here. A
+ lso, please be aware that the different 
+ released media (PDF, HTML, etc.) are not
+  necessarily released at the same time. 
+ For complete and up-to-date information 
+ see here: http://kappa.oecd.org/v3/searc
+ h?term=acaaef5e-en.
+DTSTAMP:20181204T045655Z
+DTSTART:20181204T080000Z
+DTEND:20181204T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Multilingual Summaries for Goo
+ d Jobs for All in a Changing World of Wo
+ rk
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ctt-2018-end3e10799
+SUMMARY:Consumption Tax Trends 2018 - VAT/GST an
+ d Excise Rates, Trends and Policy Issues
+DESCRIPTION:*Consumption Tax Trends 2018 - VAT/GST a
+ nd Excise Rates, Trends and Policy Issue
+ s*\n\nDirectorate: Centre for Tax Policy
+  and Administration\nLanguage: English\n
+ DOI: https://doi.org/10.1787/ctt-2018-en
+ \nPublication type: Book\nReleased as: P
+ aperback, PDF\n\nEmbargo date/time: Wedn
+ esday, 5 December 2018, 10:00 (GMT)\nLau
+ nch date/time: Wednesday, 5 December 201
+ 8, 10:00 (GMT)\n\niLibrary export: Satur
+ day, 1 December 2018, 7:33 (GMT)\nFreepr
+ eview export: never\nFTI loaded: ✓\n\nFo
+ r more information see: https://github.c
+ om/oecd/embargo-calendar/blob/master/emb
+ argoes-by-publication.md.\n\nPlease note
+ : This information was correct as of thi
+ s morning at 4:56, it is updated each ni
+ ght; therefore any subsequent updates ma
+ y not yet be visible here. Also, please 
+ be aware that the different released med
+ ia (PDF, HTML, etc.) are not necessarily
+  released at the same time. For complete
+  and up-to-date information see here: ht
+ tp://kappa.oecd.org/v3/search?term=ctt-2
+ 018-en.
+DTSTAMP:20181204T045655Z
+DTSTART:20181205T100000Z
+DTEND:20181205T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Consumption Tax Trends 2018 - 
+ VAT/GST and Excise Rates, Trends and Pol
+ icy Issues
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/rev_stats-2018-end3e46102
 SUMMARY:Revenue Statistics 2018
 DESCRIPTION:*Revenue Statistics 2018*\n\nDirectorate
  : Centre for Tax Policy and Administrati
@@ -453,23 +407,23 @@ DESCRIPTION:*Revenue Statistics 2018*\n\nDirectorate
  nesday, 5 December 2018, 10:00 (GMT)\nLa
  unch date/time: Wednesday, 5 December 20
  18, 10:00 (GMT)\n\niLibrary export: Satu
- rday, 24 November 2018, 7:44 (GMT)\nFree
- preview export: Friday, 30 November 2018
- , 20:24 (GMT)\nFTI loaded: ✓\n\nFor more
-  information see: https://github.com/oec
- d/embargo-calendar/blob/master/embargoes
- -by-publication.md.\n\nPlease note: This
-  information was correct as of this morn
- ing at 5:50, it is updated each night; t
- herefore any subsequent updates may not 
- yet be visible here. Also, please be awa
- re that the different released media (PD
- F, HTML, etc.) are not necessarily relea
- sed at the same time. For complete and u
- p-to-date information see here: http://k
- appa.oecd.org/v3/search?term=rev_stats-2
- 018-en.
-DTSTAMP:20181201T055110Z
+ rday, 1 December 2018, 7:33 (GMT)\nFreep
+ review export: Friday, 30 November 2018,
+  20:24 (GMT)\nFTI loaded: ✓\n\nFor more 
+ information see: https://github.com/oecd
+ /embargo-calendar/blob/master/embargoes-
+ by-publication.md.\n\nPlease note: This 
+ information was correct as of this morni
+ ng at 4:56, it is updated each night; th
+ erefore any subsequent updates may not y
+ et be visible here. Also, please be awar
+ e that the different released media (PDF
+ , HTML, etc.) are not necessarily releas
+ ed at the same time. For complete and up
+ -to-date information see here: http://ka
+ ppa.oecd.org/v3/search?term=rev_stats-20
+ 18-en.
+DTSTAMP:20181204T045655Z
 DTSTART:20181205T100000Z
 DTEND:20181205T101500Z
 TRANSP:TRANSPARENT
@@ -482,7 +436,7 @@ DESCRIPTION:Reminder: Revenue Statistics 2018
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/rev_stats-2018-frd3e44620
+UID:10.1787/rev_stats-2018-frd3e49789
 SUMMARY:Statistiques des recettes publiques 2018
 DESCRIPTION:*Statistiques des recettes publiques 201
  8*\n\nDirectorate: Centre for Tax Policy
@@ -493,23 +447,23 @@ DESCRIPTION:*Statistiques des recettes publiques 201
  o date/time: Wednesday, 5 December 2018,
   10:00 (GMT)\nLaunch date/time: Wednesda
  y, 5 December 2018, 10:00 (GMT)\n\niLibr
- ary export: Saturday, 24 November 2018, 
- 7:44 (GMT)\nFreepreview export: Friday, 
- 30 November 2018, 20:24 (GMT)\nFTI loade
- d: ✓\n\nFor more information see: https:
- //github.com/oecd/embargo-calendar/blob/
- master/embargoes-by-publication.md.\n\nP
- lease note: This information was correct
-  as of this morning at 5:50, it is updat
- ed each night; therefore any subsequent 
- updates may not yet be visible here. Als
- o, please be aware that the different re
- leased media (PDF, HTML, etc.) are not n
- ecessarily released at the same time. Fo
- r complete and up-to-date information se
- e here: http://kappa.oecd.org/v3/search?
- term=rev_stats-2018-fr.
-DTSTAMP:20181201T055110Z
+ ary export: Saturday, 1 December 2018, 7
+ :33 (GMT)\nFreepreview export: Friday, 3
+ 0 November 2018, 20:24 (GMT)\nFTI loaded
+ : ✓\n\nFor more information see: https:/
+ /github.com/oecd/embargo-calendar/blob/m
+ aster/embargoes-by-publication.md.\n\nPl
+ ease note: This information was correct 
+ as of this morning at 4:56, it is update
+ d each night; therefore any subsequent u
+ pdates may not yet be visible here. Also
+ , please be aware that the different rel
+ eased media (PDF, HTML, etc.) are not ne
+ cessarily released at the same time. For
+  complete and up-to-date information see
+  here: http://kappa.oecd.org/v3/search?t
+ erm=rev_stats-2018-fr.
+DTSTAMP:20181204T045655Z
 DTSTART:20181205T100000Z
 DTEND:20181205T101500Z
 TRANSP:TRANSPARENT
@@ -523,7 +477,7 @@ DESCRIPTION:Reminder: Statistiques des recettes publ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264308459-end3e405
+UID:10.1787/9789264308459-end3e3998
 SUMMARY:Skills Strategy Implementation Guidance 
  for Slovenia - Improving the Governance 
  of Adult Learning
@@ -539,21 +493,21 @@ DESCRIPTION:*Skills Strategy Implementation Guidance
  ime: Wednesday, 5 December 2018, 10:30 (
  GMT)\n\niLibrary export: Friday, 30 Nove
  mber 2018, 6:33 (GMT)\nFreepreview expor
- t: never\nFTI loaded: ✗\n\nFor more info
- rmation see: https://github.com/oecd/emb
- argo-calendar/blob/master/embargoes-by-p
- ublication.md.\n\nPlease note: This info
- rmation was correct as of this morning a
- t 5:50, it is updated each night; theref
- ore any subsequent updates may not yet b
- e visible here. Also, please be aware th
- at the different released media (PDF, HT
- ML, etc.) are not necessarily released a
- t the same time. For complete and up-to-
- date information see here: http://kappa.
- oecd.org/v3/search?term=9789264308459-en
- .
-DTSTAMP:20181201T055110Z
+ t: Monday, 3 December 2018, 20:28 (GMT)\
+ nFTI loaded: ✓\n\nFor more information s
+ ee: https://github.com/oecd/embargo-cale
+ ndar/blob/master/embargoes-by-publicatio
+ n.md.\n\nPlease note: This information w
+ as correct as of this morning at 4:56, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=9789264308459-en.
+DTSTAMP:20181204T045655Z
 DTSTART:20181205T103000Z
 DTEND:20181205T104500Z
 TRANSP:TRANSPARENT
@@ -568,7 +522,7 @@ DESCRIPTION:Reminder: Skills Strategy Implementation
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/45d269b2-end3e227
+UID:10.1787/45d269b2-end3e2009
 SUMMARY:A review of the empirical literature com
  bining economic and environmental perfor
  mance data at the micro-level
@@ -587,8 +541,8 @@ DESCRIPTION:*A review of the empirical literature co
  on see: https://github.com/oecd/embargo-
  calendar/blob/master/embargoes-by-public
  ation.md.\n\nPlease note: This informati
- on was correct as of this morning at 5:5
- 0, it is updated each night; therefore a
+ on was correct as of this morning at 4:5
+ 6, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -596,7 +550,7 @@ DESCRIPTION:*A review of the empirical literature co
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=45d269b2-en.
-DTSTAMP:20181201T055110Z
+DTSTAMP:20181204T045655Z
 DTSTART:20181206T120000Z
 DTEND:20181206T121500Z
 TRANSP:TRANSPARENT
@@ -611,7 +565,7 @@ DESCRIPTION:Reminder: A review of the empirical lite
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4819b016-end3e272
+UID:10.1787/4819b016-end3e2054
 SUMMARY:The joint impact of the European Union e
  missions trading system on carbon emissi
  ons and economic performance
@@ -630,7 +584,7 @@ DESCRIPTION:*The joint impact of the European Union
  n see: https://github.com/oecd/embargo-c
  alendar/blob/master/embargoes-by-publica
  tion.md.\n\nPlease note: This informatio
- n was correct as of this morning at 5:50
+ n was correct as of this morning at 4:56
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -639,7 +593,7 @@ DESCRIPTION:*The joint impact of the European Union
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=4819b016-en.
-DTSTAMP:20181201T055110Z
+DTSTAMP:20181204T045655Z
 DTSTART:20181206T120000Z
 DTEND:20181206T121500Z
 TRANSP:TRANSPARENT
@@ -654,33 +608,76 @@ DESCRIPTION:Reminder: The joint impact of the Europe
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/eco_surveys-aus-2018-end3e182
+UID:10.1787/eco_surveys-aus-2018-end3e1921
 SUMMARY:OECD Economic Surveys: Australia 2018
 DESCRIPTION:*OECD Economic Surveys: Australia 2018*\
  n\nDirectorate: Economics Department\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/eco_surveys-aus-2018-en\nPublicati
  on type: Economic survey\nReleased as: P
- aperback, PDF\n\nEmbargo date/time: Mond
- ay, 10 December 2018, 10:00 (GMT)\nLaunc
- h date/time: Monday, 10 December 2018, 1
- 0:00 (GMT)\n\niLibrary export: Friday, 2
- 3 November 2018, 7:10 (GMT)\nFreepreview
-  export: never\nFTI loaded: ✗\n\nFor mor
- e information see: https://github.com/oe
- cd/embargo-calendar/blob/master/embargoe
- s-by-publication.md.\n\nPlease note: Thi
- s information was correct as of this mor
- ning at 5:50, it is updated each night; 
- therefore any subsequent updates may not
-  yet be visible here. Also, please be aw
- are that the different released media (P
- DF, HTML, etc.) are not necessarily rele
- ased at the same time. For complete and 
- up-to-date information see here: http://
- kappa.oecd.org/v3/search?term=eco_survey
- s-aus-2018-en.
-DTSTAMP:20181201T055110Z
+ aperback, PDF\n\nEmbargo date/time: Sund
+ ay, 9 December 2018, 19:00 (GMT)\nLaunch
+  date/time: Sunday, 9 December 2018, 19:
+ 00 (GMT)\n\niLibrary export: Friday, 23 
+ November 2018, 7:10 (GMT)\nFreepreview e
+ xport: never\nFTI loaded: ✗\n\nFor more 
+ information see: https://github.com/oecd
+ /embargo-calendar/blob/master/embargoes-
+ by-publication.md.\n\nPlease note: This 
+ information was correct as of this morni
+ ng at 4:56, it is updated each night; th
+ erefore any subsequent updates may not y
+ et be visible here. Also, please be awar
+ e that the different released media (PDF
+ , HTML, etc.) are not necessarily releas
+ ed at the same time. For complete and up
+ -to-date information see here: http://ka
+ ppa.oecd.org/v3/search?term=eco_surveys-
+ aus-2018-en.
+DTSTAMP:20181204T045655Z
+DTSTART:20181209T190000Z
+DTEND:20181209T191500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Economic Surveys: Austral
+ ia 2018
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9789264309517-frd3e520
+SUMMARY:Examens de l'OCDE sur la coopération pou
+ r le développement : Union européenne 20
+ 18
+DESCRIPTION:*Examens de l'OCDE sur la coopération po
+ ur le développement : Union européenne 2
+ 018*\n\nDirectorate: Development Co-oper
+ ation Directorate\nLanguage: French\nDOI
+ : https://doi.org/10.1787/9789264309517-
+ fr\nPublication type: Book\nReleased as:
+  ePub, HTML, Paperback, PDF\n\nEmbargo d
+ ate/time: Monday, 10 December 2018, 10:0
+ 0 (GMT)\nLaunch date/time: Monday, 10 De
+ cember 2018, 10:00 (GMT)\n\niLibrary exp
+ ort: Wednesday, 28 November 2018, 6:26 (
+ GMT)\nFreepreview export: never\nFTI loa
+ ded: ✗\n\nFor more information see: http
+ s://github.com/oecd/embargo-calendar/blo
+ b/master/embargoes-by-publication.md.\n\
+ nPlease note: This information was corre
+ ct as of this morning at 4:56, it is upd
+ ated each night; therefore any subsequen
+ t updates may not yet be visible here. A
+ lso, please be aware that the different 
+ released media (PDF, HTML, etc.) are not
+  necessarily released at the same time. 
+ For complete and up-to-date information 
+ see here: http://kappa.oecd.org/v3/searc
+ h?term=9789264309517-fr.
+DTSTAMP:20181204T045655Z
 DTSTART:20181210T100000Z
 DTEND:20181210T101500Z
 TRANSP:TRANSPARENT
@@ -689,8 +686,51 @@ TRIGGER:-PT72H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Economic Surveys: Austral
- ia 2018
+DESCRIPTION:Reminder: Examens de l'OCDE sur la coopé
+ ration pour le développement : Union eur
+ opéenne 2018
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9789264309494-end3e819
+SUMMARY:OECD Development Co-operation Peer Revie
+ ws: European Union 2018
+DESCRIPTION:*OECD Development Co-operation Peer Revi
+ ews: European Union 2018*\n\nDirectorate
+ : Development Co-operation Directorate\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/9789264309494-en\nPublication ty
+ pe: Book\nReleased as: ePub, HTML, Paper
+ back, PDF\n\nEmbargo date/time: Monday, 
+ 10 December 2018, 10:00 (GMT)\nLaunch da
+ te/time: Monday, 10 December 2018, 10:00
+  (GMT)\n\niLibrary export: Wednesday, 28
+  November 2018, 6:26 (GMT)\nFreepreview 
+ export: never\nFTI loaded: ✗\n\nFor more
+  information see: https://github.com/oec
+ d/embargo-calendar/blob/master/embargoes
+ -by-publication.md.\n\nPlease note: This
+  information was correct as of this morn
+ ing at 4:56, it is updated each night; t
+ herefore any subsequent updates may not 
+ yet be visible here. Also, please be awa
+ re that the different released media (PD
+ F, HTML, etc.) are not necessarily relea
+ sed at the same time. For complete and u
+ p-to-date information see here: http://k
+ appa.oecd.org/v3/search?term=97892643094
+ 94-en.
+DTSTAMP:20181204T045655Z
+DTSTART:20181210T100000Z
+DTEND:20181210T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Development Co-operation 
+ Peer Reviews: European Union 2018
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -716,7 +756,7 @@ DESCRIPTION:*Harmful Tax Practices – 2017 Peer Revie
  : https://github.com/oecd/embargo-calend
  ar/blob/master/embargoes-by-publication.
  md.\n\nPlease note: This information was
-  correct as of this morning at 5:50, it 
+  correct as of this morning at 4:56, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -725,7 +765,7 @@ DESCRIPTION:*Harmful Tax Practices – 2017 Peer Revie
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=9789264309586-en.
-DTSTAMP:20181201T055110Z
+DTSTAMP:20181204T045655Z
 DTSTART:20181213T100000Z
 DTEND:20181213T101500Z
 TRANSP:TRANSPARENT
