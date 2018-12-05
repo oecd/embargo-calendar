@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 4 December 2018 at 4:56* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 5 December 2018 at 4:42* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Towards global SEEA Air Emission Accounts - Description and evaluation of the OECD methodology to estimate SEEA Air Emission Accounts for CO2, CH4 and N2O in Annex-I countries to the UNFCCC](https://doi.org/10.1787/7d88dfdd-en)
 
@@ -57,7 +57,7 @@ Monday 3 December 2018 at 9:00 | Monday 3 December 2018 at 9:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 30 November 2018 at 7:33
+- [x] Exported to iLibrary Tuesday 4 December 2018 at 7:14
 - [x] Exported to Keepeek Thursday 29 November 2018 at 21:22
 
 ### Additional Information
@@ -79,12 +79,12 @@ Monday 3 December 2018 at 9:00 | Monday 3 December 2018 at 9:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 30 November 2018 at 7:33
+- [x] Exported to iLibrary Tuesday 4 December 2018 at 7:14
 - [x] Exported to Keepeek Monday 19 November 2018 at 21:23
 
 ### Additional Information
 
-* Directorate: *Directorate for Financial and Enterprise Affairs, Directorate for Employment, Labour and Social Affairs*
+* Directorate: *Directorate for Employment, Labour and Social Affairs, Directorate for Financial and Enterprise Affairs*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
@@ -107,7 +107,7 @@ Monday 3 December 2018 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs, Directorate for Financial and Enterprise Affairs*
-* 16 Languages: [Greek](https://doi.org/10.1787/d8838fa1-el), [Italian](https://doi.org/10.1787/ff547e41-it), [Turkish](https://doi.org/10.1787/5caac547-tr), [German](https://doi.org/10.1787/830cb022-de), [Slovak](https://doi.org/10.1787/32de78d0-sk), [Slovenian](https://doi.org/10.1787/368c7a55-sl), [Danish](https://doi.org/10.1787/8eec5a33-da), [Norwegian](https://doi.org/10.1787/fe1b870e-no), [English](https://doi.org/10.1787/3d330526-en), [Icelandic](https://doi.org/10.1787/de1bbf95-is), [Polish](https://doi.org/10.1787/d3a79d33-pl), [Japanese](https://doi.org/10.1787/20978552-ja), [Czech](https://doi.org/10.1787/2d4ee5c6-cs), [Spanish](https://doi.org/10.1787/af432cf1-es), [Portuguese](https://doi.org/10.1787/da1cfe36-pt), [Swedish](https://doi.org/10.1787/eeb36467-sv)
+* 14 Languages: [Greek](https://doi.org/10.1787/d8838fa1-el), [Turkish](https://doi.org/10.1787/5caac547-tr), [Chinese](https://doi.org/10.1787/ce16d886-zh), [Danish](https://doi.org/10.1787/8eec5a33-da), [English](https://doi.org/10.1787/3d330526-en), [Icelandic](https://doi.org/10.1787/de1bbf95-is), [Estonian](https://doi.org/10.1787/5807abd6-et), [Spanish](https://doi.org/10.1787/af432cf1-es), [Portuguese](https://doi.org/10.1787/da1cfe36-pt), [French](https://doi.org/10.1787/7c765fe4-fr), [Finnish](https://doi.org/10.1787/66fa557f-fi), [Latvian](https://doi.org/10.1787/a16ffa6f-lv), [Hungarian](https://doi.org/10.1787/8afdb271-hu), [Hebrew](https://doi.org/10.1787/4d5b1305-he)
 * Availability: *Published*
 * Type of publication: *Summary*
 * Formats: *ePub, HTML, PDF*
@@ -145,7 +145,7 @@ Tuesday 4 December 2018 at 8:00 | Tuesday 4 December 2018 at 8:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 1 December 2018 at 8:33
+- [x] Exported to iLibrary Tuesday 4 December 2018 at 7:14
 - [x] Exported to Keepeek Monday 3 December 2018 at 21:28
 
 ### Additional Information
@@ -167,7 +167,7 @@ Tuesday 4 December 2018 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 4 December 2018 at 7:14
 - [x] Exported to Keepeek Monday 3 December 2018 at 21:28
 
 ### Additional Information
@@ -189,14 +189,14 @@ Wednesday 5 December 2018 at 10:00 | Wednesday 5 December 2018 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 1 December 2018 at 8:33
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 4 December 2018 at 7:14
+- [x] Exported to Keepeek Tuesday 4 December 2018 at 21:32
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -211,8 +211,8 @@ Wednesday 5 December 2018 at 10:00 | Wednesday 5 December 2018 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 1 December 2018 at 8:33
-- [x] Exported to Keepeek Friday 30 November 2018 at 21:24
+- [x] Exported to iLibrary Tuesday 4 December 2018 at 7:14
+- [x] Exported to Keepeek Tuesday 4 December 2018 at 21:32
 
 ### Additional Information
 
@@ -233,8 +233,8 @@ Wednesday 5 December 2018 at 10:00 | Wednesday 5 December 2018 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 1 December 2018 at 8:33
-- [x] Exported to Keepeek Friday 30 November 2018 at 21:24
+- [x] Exported to iLibrary Tuesday 4 December 2018 at 7:14
+- [x] Exported to Keepeek Tuesday 4 December 2018 at 21:32
 
 ### Additional Information
 
@@ -255,7 +255,7 @@ Wednesday 5 December 2018 at 10:30 | Wednesday 5 December 2018 at 10:30
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 30 November 2018 at 7:33
+- [x] Exported to iLibrary Tuesday 4 December 2018 at 7:14
 - [x] Exported to Keepeek Monday 3 December 2018 at 21:28
 
 ### Additional Information
@@ -312,6 +312,50 @@ Thursday 6 December 2018 at 12:00 | no launch event
 
 ------
 
+## [Settling In 2018 - Indicators of Immigrant Integration](https://doi.org/10.1787/9789264307216-en)
+
+Embargo date | Launch date
+-------------|------------
+Sunday 9 December 2018 at 16:00 | Sunday 9 December 2018 at 16:01
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Saturday 1 December 2018 at 8:33
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Trouver ses marques 2018 - Les indicateurs de l'intégration des immigrés](https://doi.org/10.1787/9789264309234-fr)
+
+Embargo date | Launch date
+-------------|------------
+Sunday 9 December 2018 at 16:00 | Sunday 9 December 2018 at 16:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Saturday 1 December 2018 at 8:33
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, Paperback, PDF*
+
+------
+
 ## [OECD Economic Surveys: Australia 2018](https://doi.org/10.1787/eco_surveys-aus-2018-en)
 
 Embargo date | Launch date
@@ -321,7 +365,7 @@ Sunday 9 December 2018 at 19:00 | Sunday 9 December 2018 at 19:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 23 November 2018 at 8:10
+- [x] Exported to iLibrary Tuesday 4 December 2018 at 7:14
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -343,7 +387,7 @@ Monday 10 December 2018 at 10:00 | Monday 10 December 2018 at 10:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 28 November 2018 at 7:26
+- [x] Exported to iLibrary Tuesday 4 December 2018 at 7:14
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -364,15 +408,15 @@ Monday 10 December 2018 at 10:00 | Monday 10 December 2018 at 10:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 28 November 2018 at 7:26
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 4 December 2018 at 7:14
+- [x] Exported to Keepeek Tuesday 4 December 2018 at 21:32
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
