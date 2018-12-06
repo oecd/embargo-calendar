@@ -2,139 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 5 December 2018 at 4:42* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Towards global SEEA Air Emission Accounts - Description and evaluation of the OECD methodology to estimate SEEA Air Emission Accounts for CO2, CH4 and N2O in Annex-I countries to the UNFCCC](https://doi.org/10.1787/7d88dfdd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 3 December 2018 at 5:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 30 November 2018 at 7:33
-- [x] Exported to Keepeek Friday 30 November 2018 at 21:24
-
-### Additional Information
-
-* Directorate: *Statistics and Data Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Financial Incentives and Retirement Savings](https://doi.org/10.1787/9789264306929-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 3 December 2018 at 9:00 | Monday 3 December 2018 at 9:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 29 November 2018 at 7:21
-- [x] Exported to Keepeek Monday 3 December 2018 at 21:28
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Health at a Glance: Asia/Pacific 2018 - Measuring Progress towards Universal Health Coverage](https://doi.org/10.1787/health_glance_ap-2018-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 3 December 2018 at 9:00 | Monday 3 December 2018 at 9:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 4 December 2018 at 7:14
-- [x] Exported to Keepeek Thursday 29 November 2018 at 21:22
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, Paperback, PDF*
-
-------
-
-## [OECD Pensions Outlook 2018](https://doi.org/10.1787/pens_outlook-2018-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 3 December 2018 at 9:00 | Monday 3 December 2018 at 9:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 4 December 2018 at 7:14
-- [x] Exported to Keepeek Monday 19 November 2018 at 21:23
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs, Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Multilingual Summaries for OECD Pensions Outlook 2018](https://doi.org/10.1787/3d330526-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 3 December 2018 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 1 December 2018 at 8:33
-- [x] Exported to Keepeek Friday 30 November 2018 at 21:24
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs, Directorate for Financial and Enterprise Affairs*
-* 14 Languages: [Greek](https://doi.org/10.1787/d8838fa1-el), [Turkish](https://doi.org/10.1787/5caac547-tr), [Chinese](https://doi.org/10.1787/ce16d886-zh), [Danish](https://doi.org/10.1787/8eec5a33-da), [English](https://doi.org/10.1787/3d330526-en), [Icelandic](https://doi.org/10.1787/de1bbf95-is), [Estonian](https://doi.org/10.1787/5807abd6-et), [Spanish](https://doi.org/10.1787/af432cf1-es), [Portuguese](https://doi.org/10.1787/da1cfe36-pt), [French](https://doi.org/10.1787/7c765fe4-fr), [Finnish](https://doi.org/10.1787/66fa557f-fi), [Latvian](https://doi.org/10.1787/a16ffa6f-lv), [Hungarian](https://doi.org/10.1787/8afdb271-hu), [Hebrew](https://doi.org/10.1787/4d5b1305-he)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Early Career Teachers - Pioneers Triggering Innovation or Compliant Professionals?](https://doi.org/10.1787/4a7043f9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 3 December 2018 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 30 November 2018 at 7:33
-- [x] Exported to Keepeek Thursday 29 November 2018 at 21:22
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Thursday 6 December 2018 at 5:04* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Good Jobs for All in a Changing World of Work - The OECD Jobs Strategy](https://doi.org/10.1787/9789264308817-en)
 
@@ -145,7 +13,7 @@ Tuesday 4 December 2018 at 8:00 | Tuesday 4 December 2018 at 8:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 4 December 2018 at 7:14
+- [x] Exported to iLibrary Wednesday 5 December 2018 at 7:16
 - [x] Exported to Keepeek Monday 3 December 2018 at 21:28
 
 ### Additional Information
@@ -189,7 +57,7 @@ Wednesday 5 December 2018 at 10:00 | Wednesday 5 December 2018 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 4 December 2018 at 7:14
+- [x] Exported to iLibrary Wednesday 5 December 2018 at 7:16
 - [x] Exported to Keepeek Tuesday 4 December 2018 at 21:32
 
 ### Additional Information
@@ -211,7 +79,7 @@ Wednesday 5 December 2018 at 10:00 | Wednesday 5 December 2018 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 4 December 2018 at 7:14
+- [x] Exported to iLibrary Wednesday 5 December 2018 at 7:16
 - [x] Exported to Keepeek Tuesday 4 December 2018 at 21:32
 
 ### Additional Information
@@ -233,7 +101,7 @@ Wednesday 5 December 2018 at 10:00 | Wednesday 5 December 2018 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 4 December 2018 at 7:14
+- [x] Exported to iLibrary Wednesday 5 December 2018 at 7:16
 - [x] Exported to Keepeek Tuesday 4 December 2018 at 21:32
 
 ### Additional Information
@@ -312,6 +180,28 @@ Thursday 6 December 2018 at 12:00 | no launch event
 
 ------
 
+## [OECD Reviews of School Resources: Portugal 2018](https://doi.org/10.1787/9789264308411-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 6 December 2018 at 16:00 | Thursday 6 December 2018 at 16:00
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 1 December 2018 at 8:33
+- [x] Exported to Keepeek Wednesday 5 December 2018 at 21:34
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
 ## [Settling In 2018 - Indicators of Immigrant Integration](https://doi.org/10.1787/9789264307216-en)
 
 Embargo date | Launch date
@@ -320,15 +210,15 @@ Sunday 9 December 2018 at 16:00 | Sunday 9 December 2018 at 16:01
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Saturday 1 December 2018 at 8:33
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 5 December 2018 at 7:16
+- [x] Exported to Keepeek Wednesday 5 December 2018 at 21:34
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -343,7 +233,7 @@ Sunday 9 December 2018 at 16:00 | Sunday 9 December 2018 at 16:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Saturday 1 December 2018 at 8:33
+- [x] Exported to iLibrary Wednesday 5 December 2018 at 7:16
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -378,6 +268,50 @@ Sunday 9 December 2018 at 19:00 | Sunday 9 December 2018 at 19:00
 
 ------
 
+## [International productivity gaps - Are labour input measures comparable?](https://doi.org/10.1787/5b43c728-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 December 2018 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Wednesday 5 December 2018 at 21:34
+
+### Additional Information
+
+* Directorate: *Statistics and Data Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Building Resilient Cities - An Assessment of Disaster Risk Management Policies in Southeast Asia](https://doi.org/10.1787/9789264305397-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 10 December 2018 at 8:00 | Monday 10 December 2018 at 8:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 22 November 2018 at 7:07
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
 ## [Examens de l'OCDE sur la coopération pour le développement : Union européenne 2018](https://doi.org/10.1787/9789264309517-fr)
 
 Embargo date | Launch date
@@ -386,15 +320,15 @@ Monday 10 December 2018 at 10:00 | Monday 10 December 2018 at 10:00
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 4 December 2018 at 7:14
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Wednesday 5 December 2018 at 21:34
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -409,7 +343,7 @@ Monday 10 December 2018 at 10:00 | Monday 10 December 2018 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 4 December 2018 at 7:14
+- [x] Exported to iLibrary Wednesday 5 December 2018 at 7:16
 - [x] Exported to Keepeek Tuesday 4 December 2018 at 21:32
 
 ### Additional Information
@@ -417,6 +351,72 @@ Monday 10 December 2018 at 10:00 | Monday 10 December 2018 at 10:00
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
 * Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Compétences en littératie et configurations familiales](https://doi.org/10.1787/0bb5c996-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 12 December 2018 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Wednesday 5 December 2018 at 21:34
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Literacy skills and family configurations](https://doi.org/10.1787/509d788a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 12 December 2018 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Wednesday 5 December 2018 at 21:34
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Mental Health and Work: New Zealand](https://doi.org/10.1787/9789264307315-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 12 December 2018 at 23:01 | Wednesday 12 December 2018 at 23:01
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 30 November 2018 at 7:33
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
