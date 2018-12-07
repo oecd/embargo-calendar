@@ -2,63 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 6 December 2018 at 5:04* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 7 December 2018 at 5:48* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [4 December 2018](#4-december-2018)
 * [5 December 2018](#5-december-2018)
 * [6 December 2018](#6-december-2018)
 * [9 December 2018](#9-december-2018)
 * [10 December 2018](#10-december-2018)
 * [12 December 2018](#12-december-2018)
 * [13 December 2018](#13-december-2018)
-
-------
-
-# 4 December 2018
-
-## [Good Jobs for All in a Changing World of Work - The OECD Jobs Strategy](https://doi.org/10.1787/9789264308817-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 4 December 2018 at 8:00 | Tuesday 4 December 2018 at 8:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 5 December 2018 at 7:16
-- [x] Exported to Keepeek Monday 3 December 2018 at 21:28
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Multilingual Summaries for Good Jobs for All in a Changing World of Work](https://doi.org/10.1787/acaaef5e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 December 2018 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 4 December 2018 at 7:14
-- [x] Exported to Keepeek Monday 3 December 2018 at 21:28
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* 8 Languages: [Italian](https://doi.org/10.1787/9c68d99b-it), [German](https://doi.org/10.1787/af64ee34-de), [Chinese](https://doi.org/10.1787/91dd730c-zh), [English](https://doi.org/10.1787/acaaef5e-en), [Japanese](https://doi.org/10.1787/9519cdbb-ja), [Spanish](https://doi.org/10.1787/3911072a-es), [Portuguese](https://doi.org/10.1787/0707cb8c-pt), [French](https://doi.org/10.1787/19e8b3c3-fr)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Formats: *ePub, HTML, PDF*
-
-------
 
 ------
 
@@ -165,7 +116,7 @@ Thursday 6 December 2018 at 16:00 | Thursday 6 December 2018 at 16:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 1 December 2018 at 8:33
+- [x] Exported to iLibrary Thursday 6 December 2018 at 7:24
 - [x] Exported to Keepeek Wednesday 5 December 2018 at 21:34
 
 ### Additional Information
@@ -234,15 +185,15 @@ Sunday 9 December 2018 at 19:00 | Sunday 9 December 2018 at 19:00
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 4 December 2018 at 7:14
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Thursday 6 December 2018 at 21:27
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -257,7 +208,7 @@ Sunday 9 December 2018 at 16:00 | Sunday 9 December 2018 at 16:01
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 5 December 2018 at 7:16
+- [x] Exported to iLibrary Thursday 6 December 2018 at 7:24
 - [x] Exported to Keepeek Wednesday 5 December 2018 at 21:34
 
 ### Additional Information
@@ -305,7 +256,7 @@ Monday 10 December 2018 at 10:00 | Monday 10 December 2018 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 4 December 2018 at 7:14
+- [x] Exported to iLibrary Thursday 6 December 2018 at 7:24
 - [x] Exported to Keepeek Wednesday 5 December 2018 at 21:34
 
 ### Additional Information
@@ -348,15 +299,15 @@ Monday 10 December 2018 at 8:00 | Monday 10 December 2018 at 8:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 22 November 2018 at 7:07
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 6 December 2018 at 7:24
+- [x] Exported to Keepeek Thursday 6 December 2018 at 21:27
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -371,7 +322,7 @@ Monday 10 December 2018 at 5:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 6 December 2018 at 7:24
 - [x] Exported to Keepeek Wednesday 5 December 2018 at 21:34
 
 ### Additional Information
@@ -397,7 +348,7 @@ Wednesday 12 December 2018 at 23:01 | Wednesday 12 December 2018 at 23:01
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 30 November 2018 at 7:33
+- [x] Exported to iLibrary Thursday 6 December 2018 at 7:24
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -419,7 +370,7 @@ Wednesday 12 December 2018 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 6 December 2018 at 7:24
 - [x] Exported to Keepeek Wednesday 5 December 2018 at 21:34
 
 ### Additional Information
@@ -441,7 +392,7 @@ Wednesday 12 December 2018 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 6 December 2018 at 7:24
 - [x] Exported to Keepeek Wednesday 5 December 2018 at 21:34
 
 ### Additional Information
