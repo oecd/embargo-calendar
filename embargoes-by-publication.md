@@ -2,73 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 11 December 2018 at 5:01* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Trouver ses marques 2018 - Les indicateurs de l'intégration des immigrés](https://doi.org/10.1787/9789264309234-fr)
-
-Embargo date | Launch date
--------------|------------
-Sunday 9 December 2018 at 16:00 | Sunday 9 December 2018 at 16:00
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 4 December 2018 at 23:51
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, Paperback, PDF*
-
-------
-
-## [Settling In 2018 - Indicators of Immigrant Integration](https://doi.org/10.1787/9789264307216-en)
-
-Embargo date | Launch date
--------------|------------
-Sunday 9 December 2018 at 16:00 | Sunday 9 December 2018 at 16:01
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 December 2018 at 0:15
-- [x] Exported to Keepeek Wednesday 5 December 2018 at 21:34
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Australia 2018](https://doi.org/10.1787/eco_surveys-aus-2018-en)
-
-Embargo date | Launch date
--------------|------------
-Sunday 9 December 2018 at 19:00 | Sunday 9 December 2018 at 19:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 7 December 2018 at 0:21
-- [x] Exported to Keepeek Thursday 6 December 2018 at 21:27
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
+| *Wednesday 12 December 2018 at 4:59* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [International productivity gaps - Are labour input measures comparable?](https://doi.org/10.1787/5b43c728-en)
 
@@ -89,6 +23,28 @@ Monday 10 December 2018 at 5:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
+
+------
+
+## [Building Resilient Cities - An Assessment of Disaster Risk Management Policies in Southeast Asia](https://doi.org/10.1787/9789264305397-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 10 December 2018 at 8:00 | Monday 10 December 2018 at 8:00
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 8 December 2018 at 0:46
+- [x] Exported to Keepeek Thursday 6 December 2018 at 21:27
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -123,35 +79,13 @@ Monday 10 December 2018 at 8:00 | Monday 10 December 2018 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 8 December 2018 at 0:46
-- [x] Exported to Keepeek Friday 7 December 2018 at 21:28
+- [x] Exported to iLibrary Tuesday 11 December 2018 at 23:58
+- [x] Exported to Keepeek Tuesday 11 December 2018 at 21:23
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Building Resilient Cities - An Assessment of Disaster Risk Management Policies in Southeast Asia](https://doi.org/10.1787/9789264305397-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 10 December 2018 at 8:00 | Monday 10 December 2018 at 8:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 8 December 2018 at 0:46
-- [x] Exported to Keepeek Thursday 6 December 2018 at 21:27
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
-* Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
@@ -242,7 +176,29 @@ Tuesday 11 December 2018 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
-* Format: *PDF*
+* Formats: *PDF, PDF*
+
+------
+
+## [PISA for Development - Results in Focus](https://doi.org/10.1787/c094b186-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 December 2018 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 8 December 2018 at 0:46
+- [x] Exported to Keepeek Tuesday 11 December 2018 at 21:23
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Formats: *PDF, PDF*
 
 ------
 
@@ -277,28 +233,6 @@ Wednesday 12 December 2018 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Formats: *PDF, PDF*
-
-------
-
-## [Devenir parent à l’adolescence - Quels liens avec le niveau de compétence en littératie ?](https://doi.org/10.1787/3ea0b2aa-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 12 December 2018 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 11 December 2018 at 0:28
 - [x] Exported to Keepeek Monday 10 December 2018 at 21:28
 
@@ -308,7 +242,7 @@ Wednesday 12 December 2018 at 5:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Working paper*
-* Formats: *PDF, PDF*
+* Format: *PDF*
 
 ------
 
@@ -378,6 +312,72 @@ Wednesday 12 December 2018 at 23:01 | Wednesday 12 December 2018 at 23:01
 
 ------
 
+## [Improving the Czech health care system](https://doi.org/10.1787/9686b4f3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 December 2018 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 11 December 2018 at 23:58
+- [x] Exported to Keepeek Tuesday 11 December 2018 at 21:23
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Keeping track of global trade in real time](https://doi.org/10.1787/6c911f57-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 December 2018 at 1:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 11 December 2018 at 23:58
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [The drivers of regional growth in Russia - A baseline model with applications](https://doi.org/10.1787/9279f6c3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 December 2018 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 11 December 2018 at 23:58
+- [x] Exported to Keepeek Tuesday 11 December 2018 at 21:23
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Harmful Tax Practices – 2017 Peer Review Reports on the Exchange of Information on Tax Rulings - Inclusive Framework on BEPS: Action 5](https://doi.org/10.1787/9789264309586-en)
 
 Embargo date | Launch date
@@ -386,17 +386,17 @@ Thursday 13 December 2018 at 10:00 | Thursday 13 December 2018 at 10:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 29 November 2018 at 23:50
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 11 December 2018 at 23:58
+- [x] Exported to Keepeek Tuesday 11 December 2018 at 21:23
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
