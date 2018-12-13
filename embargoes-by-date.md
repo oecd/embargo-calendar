@@ -2,198 +2,18 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 12 December 2018 at 4:59* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 13 December 2018 at 4:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [10 December 2018](#10-december-2018)
 * [11 December 2018](#11-december-2018)
 * [12 December 2018](#12-december-2018)
 * [13 December 2018](#13-december-2018)
 * [17 December 2018](#17-december-2018)
-
-------
-
-# 10 December 2018
-
-## [International productivity gaps - Are labour input measures comparable?](https://doi.org/10.1787/5b43c728-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 December 2018 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 December 2018 at 0:15
-- [x] Exported to Keepeek Wednesday 5 December 2018 at 21:34
-
-### Additional Information
-
-* Directorate: *Statistics and Data Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Building Resilient Cities - An Assessment of Disaster Risk Management Policies in Southeast Asia](https://doi.org/10.1787/9789264305397-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 10 December 2018 at 8:00 | Monday 10 December 2018 at 8:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 8 December 2018 at 0:46
-- [x] Exported to Keepeek Thursday 6 December 2018 at 21:27
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD Development Co-operation Peer Reviews: European Union 2018](https://doi.org/10.1787/9789264309494-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 10 December 2018 at 8:00 | Monday 10 December 2018 at 10:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 8 December 2018 at 0:46
-- [x] Exported to Keepeek Friday 7 December 2018 at 21:28
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Examens de l'OCDE sur la coopération pour le développement : Union européenne 2018](https://doi.org/10.1787/9789264309517-fr)
-
-Embargo date | Launch date
--------------|------------
-Monday 10 December 2018 at 8:00 | Monday 10 December 2018 at 10:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 December 2018 at 23:58
-- [x] Exported to Keepeek Tuesday 11 December 2018 at 21:23
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+* [8 January 2019](#8-january-2019)
 
 ------
 
 # 11 December 2018
 
-## [Fan charts around GDP projections based on probit models of downturn risk](https://doi.org/10.1787/d7c20354-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 December 2018 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 8 December 2018 at 0:46
-- [x] Exported to Keepeek Friday 7 December 2018 at 21:28
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Making the most of immigration in Canada](https://doi.org/10.1787/6813672e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 December 2018 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 8 December 2018 at 0:46
-- [x] Exported to Keepeek Friday 7 December 2018 at 21:28
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Increasing inclusiveness for women, youth and seniors in Canada](https://doi.org/10.1787/83cb8b8d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 December 2018 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 8 December 2018 at 0:46
-- [x] Exported to Keepeek Friday 7 December 2018 at 21:28
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [PISA for Development - Results in Focus](https://doi.org/10.1787/c094b186-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 December 2018 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 8 December 2018 at 0:46
-- [x] Exported to Keepeek Friday 7 December 2018 at 21:28
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Formats: *PDF, PDF*
-
-------
-
 ## [PISA for Development - Results in Focus](https://doi.org/10.1787/c094b186-en)
 
 Embargo date | Launch date
@@ -212,7 +32,7 @@ Tuesday 11 December 2018 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
-* Formats: *PDF, PDF*
+* Format: *PDF*
 
 ------
 
@@ -409,7 +229,7 @@ Thursday 13 December 2018 at 10:00 | Thursday 13 December 2018 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 December 2018 at 23:58
+- [x] Exported to iLibrary Wednesday 12 December 2018 at 23:41
 - [x] Exported to Keepeek Tuesday 11 December 2018 at 21:23
 
 ### Additional Information
@@ -425,6 +245,50 @@ Thursday 13 December 2018 at 10:00 | Thursday 13 December 2018 at 10:00
 ------
 
 # 17 December 2018
+
+## [Public finance structure and inclusive growth](https://doi.org/10.1787/e99683b5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 December 2018 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 12 December 2018 at 23:41
+- [x] Exported to Keepeek Wednesday 12 December 2018 at 21:22
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Structure des finances publiques et croissance inclusive](https://doi.org/10.1787/42b878d8-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 December 2018 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 12 December 2018 at 23:41
+- [x] Exported to Keepeek Wednesday 12 December 2018 at 21:22
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
 
 ## [Talents à l'étranger - Une revue des émigrés tunisiens](https://doi.org/10.1787/9789264308855-fr)
 
@@ -444,6 +308,54 @@ Monday 17 December 2018 at 13:00 | Monday 17 December 2018 at 13:00
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 8 January 2019
+
+## [Higher Education in Mexico - Labour Market Relevance and Outcomes](https://doi.org/10.1787/9789264309432-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 8 January 2019 at 17:00 | Tuesday 8 January 2019 at 17:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 12 December 2018 at 23:41
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [The Future of Mexican Higher Education - Promoting Quality and Equity](https://doi.org/10.1787/9789264309371-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 8 January 2019 at 17:00 | Tuesday 8 January 2019 at 17:00
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 12 December 2018 at 23:41
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
