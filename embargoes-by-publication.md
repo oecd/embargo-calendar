@@ -2,29 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 13 December 2018 at 4:47* | [See embargoes by date](embargoes-by-date.md) |
-
-## [PISA for Development - Results in Focus](https://doi.org/10.1787/c094b186-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 December 2018 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 8 December 2018 at 0:46
-- [x] Exported to Keepeek Tuesday 11 December 2018 at 21:23
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Friday 14 December 2018 at 5:34* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Teenage parenthood - How does it relate to proficiency in literacy?](https://doi.org/10.1787/de7859a0-en)
 
@@ -166,9 +144,9 @@ Thursday 13 December 2018 at 1:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 11 December 2018 at 23:58
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 14 December 2018 at 0:00
+- [x] Exported to Keepeek Thursday 13 December 2018 at 21:35
 
 ### Additional Information
 
@@ -176,7 +154,7 @@ Thursday 13 December 2018 at 1:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
-* Format: *PDF*
+* Formats: *PDF, PDF*
 
 ------
 
@@ -202,6 +180,28 @@ Thursday 13 December 2018 at 1:00 | no launch event
 
 ------
 
+## [Keeping track of global trade in real time](https://doi.org/10.1787/6c911f57-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 December 2018 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 11 December 2018 at 23:58
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Formats: *PDF, PDF*
+
+------
+
 ## [Harmful Tax Practices – 2017 Peer Review Reports on the Exchange of Information on Tax Rulings - Inclusive Framework on BEPS: Action 5](https://doi.org/10.1787/9789264309586-en)
 
 Embargo date | Launch date
@@ -224,6 +224,72 @@ Thursday 13 December 2018 at 10:00 | Thursday 13 December 2018 at 10:00
 
 ------
 
+## [Financing Refugee Hosting Contexts - An analysis of the DAC’s contribution to burden- and responsibility-sharing in supporting refugees and their host communities](https://doi.org/10.1787/24db9b07-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 December 2018 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 14 December 2018 at 0:00
+- [x] Exported to Keepeek Thursday 13 December 2018 at 21:35
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Do EU Funds boost productivity and employment? - Firm level analysis for Latvia](https://doi.org/10.1787/98e0a368-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 December 2018 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 14 December 2018 at 0:00
+- [x] Exported to Keepeek Thursday 13 December 2018 at 21:35
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Tax Policies for Inclusive Growth - Prescription versus Practice](https://doi.org/10.1787/09ba747a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 December 2018 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 14 December 2018 at 0:00
+- [x] Exported to Keepeek Thursday 13 December 2018 at 21:35
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Public finance structure and inclusive growth](https://doi.org/10.1787/e99683b5-en)
 
 Embargo date | Launch date
@@ -233,8 +299,8 @@ Monday 17 December 2018 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 12 December 2018 at 23:41
-- [x] Exported to Keepeek Wednesday 12 December 2018 at 21:22
+- [x] Exported to iLibrary Friday 14 December 2018 at 0:00
+- [x] Exported to Keepeek Thursday 13 December 2018 at 21:35
 
 ### Additional Information
 
@@ -255,8 +321,8 @@ Monday 17 December 2018 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 12 December 2018 at 23:41
-- [x] Exported to Keepeek Wednesday 12 December 2018 at 21:22
+- [x] Exported to iLibrary Friday 14 December 2018 at 0:00
+- [x] Exported to Keepeek Thursday 13 December 2018 at 21:35
 
 ### Additional Information
 
@@ -277,14 +343,14 @@ Monday 17 December 2018 at 13:00 | Monday 17 December 2018 at 13:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 December 2018 at 0:28
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 14 December 2018 at 0:00
+- [x] Exported to Keepeek Thursday 13 December 2018 at 21:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
