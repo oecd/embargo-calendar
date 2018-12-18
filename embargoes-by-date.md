@@ -2,39 +2,15 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 15 December 2018 at 4:32* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 18 December 2018 at 5:02* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [13 December 2018](#13-december-2018)
 * [17 December 2018](#17-december-2018)
 * [18 December 2018](#18-december-2018)
+* [19 December 2018](#19-december-2018)
 * [20 December 2018](#20-december-2018)
+* [21 December 2018](#21-december-2018)
 * [8 January 2019](#8-january-2019)
-
-------
-
-# 13 December 2018
-
-## [Harmful Tax Practices – 2017 Peer Review Reports on the Exchange of Information on Tax Rulings - Inclusive Framework on BEPS: Action 5](https://doi.org/10.1787/9789264309586-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 13 December 2018 at 10:00 | Thursday 13 December 2018 at 10:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 12 December 2018 at 23:41
-- [x] Exported to Keepeek Tuesday 11 December 2018 at 21:23
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+* [15 January 2019](#15-january-2019)
 
 ------
 
@@ -49,29 +25,7 @@ Monday 17 December 2018 at 1:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 14 December 2018 at 0:00
-- [x] Exported to Keepeek Thursday 13 December 2018 at 21:35
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Formats: *PDF, PDF, PDF*
-
-------
-
-## [Financing Refugee Hosting Contexts - An analysis of the DAC’s contribution to burden- and responsibility-sharing in supporting refugees and their host communities](https://doi.org/10.1787/24db9b07-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 December 2018 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 14 December 2018 at 0:00
+- [x] Exported to iLibrary Monday 17 December 2018 at 10:17
 - [x] Exported to Keepeek Friday 14 December 2018 at 21:22
 
 ### Additional Information
@@ -80,29 +34,7 @@ Monday 17 December 2018 at 1:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
-* Formats: *PDF, PDF, PDF*
-
-------
-
-## [Financing Refugee Hosting Contexts - An analysis of the DAC’s contribution to burden- and responsibility-sharing in supporting refugees and their host communities](https://doi.org/10.1787/24db9b07-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 December 2018 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 14 December 2018 at 0:00
-- [x] Exported to Keepeek Thursday 13 December 2018 at 21:35
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Formats: *PDF, PDF, PDF*
+* Format: *PDF*
 
 ------
 
@@ -220,6 +152,28 @@ Monday 17 December 2018 at 13:00 | Monday 17 December 2018 at 13:00
 
 # 18 December 2018
 
+## [Coal 2018 - Analysis and Forecasts to 2023](https://doi.org/10.1787/coal_mar-2018-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 December 2018 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 December 2018 at 0:02
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *International Energy Agency*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [How do the educational attainment and labour market outcomes of foreign-born adults compare to their native-born peers?](https://doi.org/10.1787/cf52bacd-en)
 
 Embargo date | Launch date
@@ -229,13 +183,105 @@ Tuesday 18 December 2018 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 14 December 2018 at 23:59
 - [x] Exported to Keepeek Friday 14 December 2018 at 21:22
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 19 December 2018
+
+## [Who’s in your export market? - The changing pattern of competition in world trade](https://doi.org/10.1787/d777efc3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 December 2018 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 December 2018 at 0:02
+- [x] Exported to Keepeek Monday 17 December 2018 at 21:27
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Making Employment More Inclusive in the Netherlands](https://doi.org/10.1787/da8bc5c4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 December 2018 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 December 2018 at 0:02
+- [x] Exported to Keepeek Monday 17 December 2018 at 21:27
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Firm Dynamics in South Africa](https://doi.org/10.1787/92b26361-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 December 2018 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 December 2018 at 0:02
+- [x] Exported to Keepeek Monday 17 December 2018 at 21:27
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Diplômés de l’enseignement tertiaire - Quelles évolutions ?](https://doi.org/10.1787/1a4e9f01-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 December 2018 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 December 2018 at 0:02
+- [x] Exported to Keepeek Monday 17 December 2018 at 21:27
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
 * Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
@@ -254,15 +300,129 @@ Thursday 20 December 2018 at 8:00 | Thursday 20 December 2018 at 8:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 12 December 2018 at 23:41
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 December 2018 at 0:02
+- [x] Exported to Keepeek Monday 17 December 2018 at 21:27
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 21 December 2018
+
+## [Boosting productivity and inclusiveness in Lithuania](https://doi.org/10.1787/1099017a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 21 December 2018 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 December 2018 at 0:02
+- [x] Exported to Keepeek Monday 17 December 2018 at 21:27
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Going local - A regional perspective on how trade affects labour markets and inequality](https://doi.org/10.1787/2981f94c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 21 December 2018 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 December 2018 at 0:02
+- [x] Exported to Keepeek Monday 17 December 2018 at 21:27
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Can productivity still grow in service-based economies? - Literature overview and preliminary evidence from OECD countries](https://doi.org/10.1787/4458ec7b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 21 December 2018 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 December 2018 at 0:02
+- [x] Exported to Keepeek Monday 17 December 2018 at 21:27
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Formats: *PDF, PDF*
+
+------
+
+## [Can productivity still grow in service-based economies? - Literature overview and preliminary evidence from OECD countries](https://doi.org/10.1787/4458ec7b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 21 December 2018 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Formats: *PDF, PDF*
+
+------
+
+## [Rethinking Quality Assurance for Higher Education in Brazil](https://doi.org/10.1787/9789264309050-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 21 December 2018 at 12:00 | Friday 21 December 2018 at 12:00
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 December 2018 at 0:02
+- [x] Exported to Keepeek Monday 17 December 2018 at 21:27
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -281,7 +441,7 @@ Tuesday 8 January 2019 at 17:00 | Tuesday 8 January 2019 at 17:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 12 December 2018 at 23:41
+- [x] Exported to iLibrary Friday 14 December 2018 at 23:59
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -312,6 +472,32 @@ Tuesday 8 January 2019 at 17:00 | Tuesday 8 January 2019 at 17:00
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 15 January 2019
+
+## [OECD Economic Surveys: Denmark 2019](https://doi.org/10.1787/eco_surveys-dnk-2019-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 15 January 2019 at 10:00 | Tuesday 15 January 2019 at 10:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 18 December 2018 at 0:02
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------

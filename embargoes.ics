@@ -2,55 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/9789264309586-end3e53
-SUMMARY:Harmful Tax Practices – 2017 Peer Review
-  Reports on the Exchange of Information 
- on Tax Rulings - Inclusive Framework on 
- BEPS: Action 5
-DESCRIPTION:*Harmful Tax Practices – 2017 Peer Revie
- w Reports on the Exchange of Information
-  on Tax Rulings - Inclusive Framework on
-  BEPS: Action 5*\n\nDirectorate: Centre 
- for Tax Policy and Administration\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/9789264309586-en\nPublication type: B
- ook\nReleased as: ePub, HTML, Paperback,
-  PDF\n\nEmbargo date/time: Thursday, 13 
- December 2018, 10:00 (GMT)\nLaunch date/
- time: Thursday, 13 December 2018, 10:00 
- (GMT)\n\niLibrary export: Wednesday, 12 
- December 2018, 22:41 (GMT)\nFreepreview 
- export: Tuesday, 11 December 2018, 20:23
-  (GMT)\nFTI loaded: ✓\n\nFor more inform
- ation see: https://github.com/oecd/embar
- go-calendar/blob/master/embargoes-by-pub
- lication.md.\n\nPlease note: This inform
- ation was correct as of this morning at 
- 4:32, it is updated each night; therefor
- e any subsequent updates may not yet be 
- visible here. Also, please be aware that
-  the different released media (PDF, HTML
- , etc.) are not necessarily released at 
- the same time. For complete and up-to-da
- te information see here: http://kappa.oe
- cd.org/v3/search?term=9789264309586-en.
-DTSTAMP:20181215T043225Z
-DTSTART:20181213T100000Z
-DTEND:20181213T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Harmful Tax Practices – 2017 P
- eer Review Reports on the Exchange of In
- formation on Tax Rulings - Inclusive Fra
- mework on BEPS: Action 5
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/24db9b07-end3e248
+UID:10.1787/24db9b07-end3e53
 SUMMARY:Financing Refugee Hosting Contexts - An 
  analysis of the DAC’s contribution to bu
  rden- and responsibility-sharing in supp
@@ -64,25 +16,25 @@ DESCRIPTION:*Financing Refugee Hosting Contexts - An
  ation Directorate\nLanguage: English\nDO
  I: https://doi.org/10.1787/24db9b07-en\n
  Publication type: Working paper\nRelease
- d as: PDF, PDF, PDF\n\nEmbargo date/time
- : Monday, 17 December 2018, 1:00 (GMT)\n
- \n\niLibrary export: Thursday, 13 Decemb
- er 2018, 23:00 (GMT)\nFreepreview export
- : Thursday, 13 December 2018, 20:35 (GMT
- )\nFTI loaded: ✓\n\nFor more information
-  see: https://github.com/oecd/embargo-ca
- lendar/blob/master/embargoes-by-publicat
- ion.md.\n\nPlease note: This information
-  was correct as of this morning at 4:32,
-  it is updated each night; therefore any
-  subsequent updates may not yet be visib
- le here. Also, please be aware that the 
- different released media (PDF, HTML, etc
- .) are not necessarily released at the s
- ame time. For complete and up-to-date in
- formation see here: http://kappa.oecd.or
- g/v3/search?term=24db9b07-en.
-DTSTAMP:20181215T043225Z
+ d as: PDF\n\nEmbargo date/time: Monday, 
+ 17 December 2018, 1:00 (GMT)\n\n\niLibra
+ ry export: Monday, 17 December 2018, 9:1
+ 7 (GMT)\nFreepreview export: Friday, 14 
+ December 2018, 20:22 (GMT)\nFTI loaded: 
+ ✓\n\nFor more information see: https://g
+ ithub.com/oecd/embargo-calendar/blob/mas
+ ter/embargoes-by-publication.md.\n\nPlea
+ se note: This information was correct as
+  of this morning at 5:02, it is updated 
+ each night; therefore any subsequent upd
+ ates may not yet be visible here. Also, 
+ please be aware that the different relea
+ sed media (PDF, HTML, etc.) are not nece
+ ssarily released at the same time. For c
+ omplete and up-to-date information see h
+ ere: http://kappa.oecd.org/v3/search?ter
+ m=24db9b07-en.
+DTSTAMP:20181218T050220Z
 DTSTART:20181217T010000Z
 DTEND:20181217T011500Z
 TRANSP:TRANSPARENT
@@ -99,105 +51,7 @@ DESCRIPTION:Reminder: Financing Refugee Hosting Cont
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/24db9b07-end3e297
-SUMMARY:Financing Refugee Hosting Contexts - An 
- analysis of the DAC’s contribution to bu
- rden- and responsibility-sharing in supp
- orting refugees and their host communiti
- es
-DESCRIPTION:*Financing Refugee Hosting Contexts - An
-  analysis of the DAC’s contribution to b
- urden- and responsibility-sharing in sup
- porting refugees and their host communit
- ies*\n\nDirectorate: Development Co-oper
- ation Directorate\nLanguage: English\nDO
- I: https://doi.org/10.1787/24db9b07-en\n
- Publication type: Working paper\nRelease
- d as: PDF, PDF, PDF\n\nEmbargo date/time
- : Monday, 17 December 2018, 1:00 (GMT)\n
- \n\niLibrary export: Thursday, 13 Decemb
- er 2018, 23:00 (GMT)\nFreepreview export
- : Friday, 14 December 2018, 20:22 (GMT)\
- nFTI loaded: ✓\n\nFor more information s
- ee: https://github.com/oecd/embargo-cale
- ndar/blob/master/embargoes-by-publicatio
- n.md.\n\nPlease note: This information w
- as correct as of this morning at 4:32, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=24db9b07-en.
-DTSTAMP:20181215T043225Z
-DTSTART:20181217T010000Z
-DTEND:20181217T011500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Financing Refugee Hosting Cont
- exts - An analysis of the DAC’s contribu
- tion to burden- and responsibility-shari
- ng in supporting refugees and their host
-  communities
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/24db9b07-end3e346
-SUMMARY:Financing Refugee Hosting Contexts - An 
- analysis of the DAC’s contribution to bu
- rden- and responsibility-sharing in supp
- orting refugees and their host communiti
- es
-DESCRIPTION:*Financing Refugee Hosting Contexts - An
-  analysis of the DAC’s contribution to b
- urden- and responsibility-sharing in sup
- porting refugees and their host communit
- ies*\n\nDirectorate: Development Co-oper
- ation Directorate\nLanguage: English\nDO
- I: https://doi.org/10.1787/24db9b07-en\n
- Publication type: Working paper\nRelease
- d as: PDF, PDF, PDF\n\nEmbargo date/time
- : Monday, 17 December 2018, 1:00 (GMT)\n
- \n\niLibrary export: Thursday, 13 Decemb
- er 2018, 23:00 (GMT)\nFreepreview export
- : Thursday, 13 December 2018, 20:35 (GMT
- )\nFTI loaded: ✓\n\nFor more information
-  see: https://github.com/oecd/embargo-ca
- lendar/blob/master/embargoes-by-publicat
- ion.md.\n\nPlease note: This information
-  was correct as of this morning at 4:32,
-  it is updated each night; therefore any
-  subsequent updates may not yet be visib
- le here. Also, please be aware that the 
- different released media (PDF, HTML, etc
- .) are not necessarily released at the s
- ame time. For complete and up-to-date in
- formation see here: http://kappa.oecd.or
- g/v3/search?term=24db9b07-en.
-DTSTAMP:20181215T043225Z
-DTSTART:20181217T010000Z
-DTEND:20181217T011500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Financing Refugee Hosting Cont
- exts - An analysis of the DAC’s contribu
- tion to burden- and responsibility-shari
- ng in supporting refugees and their host
-  communities
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/98e0a368-end3e395
+UID:10.1787/98e0a368-end3e102
 SUMMARY:Do EU Funds boost productivity and emplo
  yment? - Firm level analysis for Latvia
 DESCRIPTION:*Do EU Funds boost productivity and empl
@@ -215,7 +69,7 @@ DESCRIPTION:*Do EU Funds boost productivity and empl
  /embargo-calendar/blob/master/embargoes-
  by-publication.md.\n\nPlease note: This 
  information was correct as of this morni
- ng at 4:32, it is updated each night; th
+ ng at 5:02, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -223,7 +77,7 @@ DESCRIPTION:*Do EU Funds boost productivity and empl
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=98e0a368-en.
-DTSTAMP:20181215T043225Z
+DTSTAMP:20181218T050220Z
 DTSTART:20181217T010000Z
 DTEND:20181217T011500Z
 TRANSP:TRANSPARENT
@@ -238,7 +92,7 @@ DESCRIPTION:Reminder: Do EU Funds boost productivity
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/09ba747a-end3e444
+UID:10.1787/09ba747a-end3e151
 SUMMARY:Tax Policies for Inclusive Growth - Pres
  cription versus Practice
 DESCRIPTION:*Tax Policies for Inclusive Growth - Pre
@@ -255,7 +109,7 @@ DESCRIPTION:*Tax Policies for Inclusive Growth - Pre
  e: https://github.com/oecd/embargo-calen
  dar/blob/master/embargoes-by-publication
  .md.\n\nPlease note: This information wa
- s correct as of this morning at 4:32, it
+ s correct as of this morning at 5:02, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -264,7 +118,7 @@ DESCRIPTION:*Tax Policies for Inclusive Growth - Pre
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=09ba747a-en.
-DTSTAMP:20181215T043225Z
+DTSTAMP:20181218T050220Z
 DTSTART:20181217T100000Z
 DTEND:20181217T101500Z
 TRANSP:TRANSPARENT
@@ -278,7 +132,7 @@ DESCRIPTION:Reminder: Tax Policies for Inclusive Gro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e99683b5-end3e493
+UID:10.1787/e99683b5-end3e200
 SUMMARY:Public finance structure and inclusive g
  rowth
 DESCRIPTION:*Public finance structure and inclusive 
@@ -295,7 +149,7 @@ DESCRIPTION:*Public finance structure and inclusive
  om/oecd/embargo-calendar/blob/master/emb
  argoes-by-publication.md.\n\nPlease note
  : This information was correct as of thi
- s morning at 4:32, it is updated each ni
+ s morning at 5:02, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -304,7 +158,7 @@ DESCRIPTION:*Public finance structure and inclusive
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=e9968
  3b5-en.
-DTSTAMP:20181215T043225Z
+DTSTAMP:20181218T050220Z
 DTSTART:20181217T100000Z
 DTEND:20181217T101500Z
 TRANSP:TRANSPARENT
@@ -318,7 +172,7 @@ DESCRIPTION:Reminder: Public finance structure and i
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/42b878d8-frd3e542
+UID:10.1787/42b878d8-frd3e249
 SUMMARY:Structure des finances publiques et croi
  ssance inclusive
 DESCRIPTION:*Structure des finances publiques et cro
@@ -335,7 +189,7 @@ DESCRIPTION:*Structure des finances publiques et cro
  //github.com/oecd/embargo-calendar/blob/
  master/embargoes-by-publication.md.\n\nP
  lease note: This information was correct
-  as of this morning at 4:32, it is updat
+  as of this morning at 5:02, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -344,7 +198,7 @@ DESCRIPTION:*Structure des finances publiques et cro
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=42b878d8-fr.
-DTSTAMP:20181215T043225Z
+DTSTAMP:20181218T050220Z
 DTSTART:20181217T100000Z
 DTEND:20181217T101500Z
 TRANSP:TRANSPARENT
@@ -358,7 +212,7 @@ DESCRIPTION:Reminder: Structure des finances publiqu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264308855-frd3e827
+UID:10.1787/9789264308855-frd3e1014
 SUMMARY:Talents à l'étranger - Une revue des émi
  grés tunisiens
 DESCRIPTION:*Talents à l'étranger - Une revue des ém
@@ -378,7 +232,7 @@ DESCRIPTION:*Talents à l'étranger - Une revue des ém
  s://github.com/oecd/embargo-calendar/blo
  b/master/embargoes-by-publication.md.\n\
  nPlease note: This information was corre
- ct as of this morning at 4:32, it is upd
+ ct as of this morning at 5:02, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -387,7 +241,7 @@ DESCRIPTION:*Talents à l'étranger - Une revue des ém
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=9789264308855-fr.
-DTSTAMP:20181215T043225Z
+DTSTAMP:20181218T050220Z
 DTSTART:20181217T130000Z
 DTEND:20181217T131500Z
 TRANSP:TRANSPARENT
@@ -401,7 +255,46 @@ DESCRIPTION:Reminder: Talents à l'étranger - Une rev
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cf52bacd-end3e1452
+UID:10.1787/coal_mar-2018-end3e1159
+SUMMARY:Coal 2018 - Analysis and Forecasts to 20
+ 23
+DESCRIPTION:*Coal 2018 - Analysis and Forecasts to 2
+ 023*\n\nDirectorate: International Energ
+ y Agency\nLanguage: English\nDOI: https:
+ //doi.org/10.1787/coal_mar-2018-en\nPubl
+ ication type: Book\nReleased as: PDF\n\n
+ Embargo date/time: Tuesday, 18 December 
+ 2018, 0:00 (GMT)\n\n\niLibrary export: M
+ onday, 17 December 2018, 23:02 (GMT)\nFr
+ eepreview export: never\nFTI loaded: ✓\n
+ \nFor more information see: https://gith
+ ub.com/oecd/embargo-calendar/blob/master
+ /embargoes-by-publication.md.\n\nPlease 
+ note: This information was correct as of
+  this morning at 5:02, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=c
+ oal_mar-2018-en.
+DTSTAMP:20181218T050220Z
+DTSTART:20181218T000000Z
+DTEND:20181218T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Coal 2018 - Analysis and Forec
+ asts to 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/cf52bacd-end3e1207
 SUMMARY:How do the educational attainment and la
  bour market outcomes of foreign-born adu
  lts compare to their native-born peers?
@@ -414,22 +307,23 @@ DESCRIPTION:*How do the educational attainment and l
  lication type: Working paper\nReleased a
  s: PDF\n\nEmbargo date/time: Tuesday, 18
   December 2018, 10:00 (GMT)\n\n\niLibrar
- y export: never\nFreepreview export: Fri
- day, 14 December 2018, 20:22 (GMT)\nFTI 
- loaded: ✓\n\nFor more information see: h
- ttps://github.com/oecd/embargo-calendar/
- blob/master/embargoes-by-publication.md.
- \n\nPlease note: This information was co
- rrect as of this morning at 4:32, it is 
- updated each night; therefore any subseq
- uent updates may not yet be visible here
- . Also, please be aware that the differe
- nt released media (PDF, HTML, etc.) are 
- not necessarily released at the same tim
- e. For complete and up-to-date informati
- on see here: http://kappa.oecd.org/v3/se
- arch?term=cf52bacd-en.
-DTSTAMP:20181215T043225Z
+ y export: Friday, 14 December 2018, 22:5
+ 9 (GMT)\nFreepreview export: Friday, 14 
+ December 2018, 20:22 (GMT)\nFTI loaded: 
+ ✓\n\nFor more information see: https://g
+ ithub.com/oecd/embargo-calendar/blob/mas
+ ter/embargoes-by-publication.md.\n\nPlea
+ se note: This information was correct as
+  of this morning at 5:02, it is updated 
+ each night; therefore any subsequent upd
+ ates may not yet be visible here. Also, 
+ please be aware that the different relea
+ sed media (PDF, HTML, etc.) are not nece
+ ssarily released at the same time. For c
+ omplete and up-to-date information see h
+ ere: http://kappa.oecd.org/v3/search?ter
+ m=cf52bacd-en.
+DTSTAMP:20181218T050220Z
 DTSTART:20181218T100000Z
 DTEND:20181218T101500Z
 TRANSP:TRANSPARENT
@@ -445,7 +339,167 @@ DESCRIPTION:Reminder: How do the educational attainm
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264201996-end3e1545
+UID:10.1787/d777efc3-end3e1255
+SUMMARY:Who’s in your export market? - The chang
+ ing pattern of competition in world trad
+ e
+DESCRIPTION:*Who’s in your export market? - The chan
+ ging pattern of competition in world tra
+ de*\n\nDirectorate: Economics Department
+ \nLanguage: English\nDOI: https://doi.or
+ g/10.1787/d777efc3-en\nPublication type:
+  Working paper\nReleased as: PDF\n\nEmba
+ rgo date/time: Wednesday, 19 December 20
+ 18, 1:00 (GMT)\n\n\niLibrary export: Mon
+ day, 17 December 2018, 23:02 (GMT)\nFree
+ preview export: Monday, 17 December 2018
+ , 20:27 (GMT)\nFTI loaded: ✓\n\nFor more
+  information see: https://github.com/oec
+ d/embargo-calendar/blob/master/embargoes
+ -by-publication.md.\n\nPlease note: This
+  information was correct as of this morn
+ ing at 5:02, it is updated each night; t
+ herefore any subsequent updates may not 
+ yet be visible here. Also, please be awa
+ re that the different released media (PD
+ F, HTML, etc.) are not necessarily relea
+ sed at the same time. For complete and u
+ p-to-date information see here: http://k
+ appa.oecd.org/v3/search?term=d777efc3-en
+ .
+DTSTAMP:20181218T050220Z
+DTSTART:20181219T010000Z
+DTEND:20181219T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Who’s in your export market? -
+  The changing pattern of competition in 
+ world trade
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/da8bc5c4-end3e1304
+SUMMARY:Making Employment More Inclusive in the 
+ Netherlands
+DESCRIPTION:*Making Employment More Inclusive in the
+  Netherlands*\n\nDirectorate: Economics 
+ Department\nLanguage: English\nDOI: http
+ s://doi.org/10.1787/da8bc5c4-en\nPublica
+ tion type: Working paper\nReleased as: P
+ DF\n\nEmbargo date/time: Wednesday, 19 D
+ ecember 2018, 1:00 (GMT)\n\n\niLibrary e
+ xport: Monday, 17 December 2018, 23:02 (
+ GMT)\nFreepreview export: Monday, 17 Dec
+ ember 2018, 20:27 (GMT)\nFTI loaded: ✓\n
+ \nFor more information see: https://gith
+ ub.com/oecd/embargo-calendar/blob/master
+ /embargoes-by-publication.md.\n\nPlease 
+ note: This information was correct as of
+  this morning at 5:02, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=d
+ a8bc5c4-en.
+DTSTAMP:20181218T050220Z
+DTSTART:20181219T010000Z
+DTEND:20181219T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Employment More Inclusi
+ ve in the Netherlands
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/92b26361-end3e1352
+SUMMARY:Firm Dynamics in South Africa
+DESCRIPTION:*Firm Dynamics in South Africa*\n\nDirec
+ torate: Economics Department\nLanguage: 
+ English\nDOI: https://doi.org/10.1787/92
+ b26361-en\nPublication type: Working pap
+ er\nReleased as: PDF\n\nEmbargo date/tim
+ e: Wednesday, 19 December 2018, 1:00 (GM
+ T)\n\n\niLibrary export: Monday, 17 Dece
+ mber 2018, 23:02 (GMT)\nFreepreview expo
+ rt: Monday, 17 December 2018, 20:27 (GMT
+ )\nFTI loaded: ✓\n\nFor more information
+  see: https://github.com/oecd/embargo-ca
+ lendar/blob/master/embargoes-by-publicat
+ ion.md.\n\nPlease note: This information
+  was correct as of this morning at 5:02,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=92b26361-en.
+DTSTAMP:20181218T050220Z
+DTSTART:20181219T010000Z
+DTEND:20181219T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Firm Dynamics in South Africa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/1a4e9f01-frd3e1401
+SUMMARY:Diplômés de l’enseignement tertiaire - Q
+ uelles évolutions ?
+DESCRIPTION:*Diplômés de l’enseignement tertiaire - 
+ Quelles évolutions ?*\n\nDirectorate: Di
+ rectorate for Education and Skills\nLang
+ uage: French\nDOI: https://doi.org/10.17
+ 87/1a4e9f01-fr\nPublication type: Workin
+ g paper\nReleased as: PDF\n\nEmbargo dat
+ e/time: Wednesday, 19 December 2018, 5:0
+ 0 (GMT)\n\n\niLibrary export: Monday, 17
+  December 2018, 23:02 (GMT)\nFreepreview
+  export: Monday, 17 December 2018, 20:27
+  (GMT)\nFTI loaded: ✓\n\nFor more inform
+ ation see: https://github.com/oecd/embar
+ go-calendar/blob/master/embargoes-by-pub
+ lication.md.\n\nPlease note: This inform
+ ation was correct as of this morning at 
+ 5:02, it is updated each night; therefor
+ e any subsequent updates may not yet be 
+ visible here. Also, please be aware that
+  the different released media (PDF, HTML
+ , etc.) are not necessarily released at 
+ the same time. For complete and up-to-da
+ te information see here: http://kappa.oe
+ cd.org/v3/search?term=1a4e9f01-fr.
+DTSTAMP:20181218T050220Z
+DTSTART:20181219T050000Z
+DTEND:20181219T051500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Diplômés de l’enseignement ter
+ tiaire - Quelles évolutions ?
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9789264201996-end3e1496
 SUMMARY:Working Better with Age: Japan
 DESCRIPTION:*Working Better with Age: Japan*\n\nDire
  ctorate: Directorate for Employment, Lab
@@ -456,22 +510,23 @@ DESCRIPTION:*Working Better with Age: Japan*\n\nDire
  me: Thursday, 20 December 2018, 8:00 (GM
  T)\nLaunch date/time: Thursday, 20 Decem
  ber 2018, 8:00 (GMT)\n\niLibrary export:
-  Wednesday, 12 December 2018, 22:41 (GMT
- )\nFreepreview export: never\nFTI loaded
- : ✗\n\nFor more information see: https:/
- /github.com/oecd/embargo-calendar/blob/m
- aster/embargoes-by-publication.md.\n\nPl
- ease note: This information was correct 
- as of this morning at 4:32, it is update
- d each night; therefore any subsequent u
- pdates may not yet be visible here. Also
- , please be aware that the different rel
- eased media (PDF, HTML, etc.) are not ne
- cessarily released at the same time. For
-  complete and up-to-date information see
-  here: http://kappa.oecd.org/v3/search?t
- erm=9789264201996-en.
-DTSTAMP:20181215T043225Z
+  Monday, 17 December 2018, 23:02 (GMT)\n
+ Freepreview export: Monday, 17 December 
+ 2018, 20:27 (GMT)\nFTI loaded: ✓\n\nFor 
+ more information see: https://github.com
+ /oecd/embargo-calendar/blob/master/embar
+ goes-by-publication.md.\n\nPlease note: 
+ This information was correct as of this 
+ morning at 5:02, it is updated each nigh
+ t; therefore any subsequent updates may 
+ not yet be visible here. Also, please be
+  aware that the different released media
+  (PDF, HTML, etc.) are not necessarily r
+ eleased at the same time. For complete a
+ nd up-to-date information see here: http
+ ://kappa.oecd.org/v3/search?term=9789264
+ 201996-en.
+DTSTAMP:20181218T050220Z
 DTSTART:20181220T080000Z
 DTEND:20181220T081500Z
 TRANSP:TRANSPARENT
@@ -484,7 +539,222 @@ DESCRIPTION:Reminder: Working Better with Age: Japan
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264309432-end3e1639
+UID:10.1787/1099017a-end3e1545
+SUMMARY:Boosting productivity and inclusiveness 
+ in Lithuania
+DESCRIPTION:*Boosting productivity and inclusiveness
+  in Lithuania*\n\nDirectorate: Economics
+  Department\nLanguage: English\nDOI: htt
+ ps://doi.org/10.1787/1099017a-en\nPublic
+ ation type: Working paper\nReleased as: 
+ PDF\n\nEmbargo date/time: Friday, 21 Dec
+ ember 2018, 1:00 (GMT)\n\n\niLibrary exp
+ ort: Monday, 17 December 2018, 23:02 (GM
+ T)\nFreepreview export: Monday, 17 Decem
+ ber 2018, 20:27 (GMT)\nFTI loaded: ✓\n\n
+ For more information see: https://github
+ .com/oecd/embargo-calendar/blob/master/e
+ mbargoes-by-publication.md.\n\nPlease no
+ te: This information was correct as of t
+ his morning at 5:02, it is updated each 
+ night; therefore any subsequent updates 
+ may not yet be visible here. Also, pleas
+ e be aware that the different released m
+ edia (PDF, HTML, etc.) are not necessari
+ ly released at the same time. For comple
+ te and up-to-date information see here: 
+ http://kappa.oecd.org/v3/search?term=109
+ 9017a-en.
+DTSTAMP:20181218T050220Z
+DTSTART:20181221T010000Z
+DTEND:20181221T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Boosting productivity and incl
+ usiveness in Lithuania
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/2981f94c-end3e1593
+SUMMARY:Going local - A regional perspective on 
+ how trade affects labour markets and ine
+ quality
+DESCRIPTION:*Going local - A regional perspective on
+  how trade affects labour markets and in
+ equality*\n\nDirectorate: Economics Depa
+ rtment\nLanguage: English\nDOI: https://
+ doi.org/10.1787/2981f94c-en\nPublication
+  type: Working paper\nReleased as: PDF\n
+ \nEmbargo date/time: Friday, 21 December
+  2018, 1:00 (GMT)\n\n\niLibrary export: 
+ Monday, 17 December 2018, 23:02 (GMT)\nF
+ reepreview export: Monday, 17 December 2
+ 018, 20:27 (GMT)\nFTI loaded: ✓\n\nFor m
+ ore information see: https://github.com/
+ oecd/embargo-calendar/blob/master/embarg
+ oes-by-publication.md.\n\nPlease note: T
+ his information was correct as of this m
+ orning at 5:02, it is updated each night
+ ; therefore any subsequent updates may n
+ ot yet be visible here. Also, please be 
+ aware that the different released media 
+ (PDF, HTML, etc.) are not necessarily re
+ leased at the same time. For complete an
+ d up-to-date information see here: http:
+ //kappa.oecd.org/v3/search?term=2981f94c
+ -en.
+DTSTAMP:20181218T050220Z
+DTSTART:20181221T010000Z
+DTEND:20181221T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Going local - A regional persp
+ ective on how trade affects labour marke
+ ts and inequality
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/4458ec7b-end3e1642
+SUMMARY:Can productivity still grow in service-b
+ ased economies? - Literature overview an
+ d preliminary evidence from OECD countri
+ es
+DESCRIPTION:*Can productivity still grow in service-
+ based economies? - Literature overview a
+ nd preliminary evidence from OECD countr
+ ies*\n\nDirectorate: Economics Departmen
+ t\nLanguage: English\nDOI: https://doi.o
+ rg/10.1787/4458ec7b-en\nPublication type
+ : Working paper\nReleased as: PDF, PDF\n
+ \nEmbargo date/time: Friday, 21 December
+  2018, 1:00 (GMT)\n\n\niLibrary export: 
+ Monday, 17 December 2018, 23:02 (GMT)\nF
+ reepreview export: Monday, 17 December 2
+ 018, 20:27 (GMT)\nFTI loaded: ✓\n\nFor m
+ ore information see: https://github.com/
+ oecd/embargo-calendar/blob/master/embarg
+ oes-by-publication.md.\n\nPlease note: T
+ his information was correct as of this m
+ orning at 5:02, it is updated each night
+ ; therefore any subsequent updates may n
+ ot yet be visible here. Also, please be 
+ aware that the different released media 
+ (PDF, HTML, etc.) are not necessarily re
+ leased at the same time. For complete an
+ d up-to-date information see here: http:
+ //kappa.oecd.org/v3/search?term=4458ec7b
+ -en.
+DTSTAMP:20181218T050220Z
+DTSTART:20181221T010000Z
+DTEND:20181221T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Can productivity still grow in
+  service-based economies? - Literature o
+ verview and preliminary evidence from OE
+ CD countries
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/4458ec7b-end3e1692
+SUMMARY:Can productivity still grow in service-b
+ ased economies? - Literature overview an
+ d preliminary evidence from OECD countri
+ es
+DESCRIPTION:*Can productivity still grow in service-
+ based economies? - Literature overview a
+ nd preliminary evidence from OECD countr
+ ies*\n\nDirectorate: Economics Departmen
+ t\nLanguage: English\nDOI: https://doi.o
+ rg/10.1787/4458ec7b-en\nPublication type
+ : Working paper\nReleased as: PDF, PDF\n
+ \nEmbargo date/time: Friday, 21 December
+  2018, 1:00 (GMT)\n\n\niLibrary export: 
+ never\nFreepreview export: never\nFTI lo
+ aded: ✓\n\nFor more information see: htt
+ ps://github.com/oecd/embargo-calendar/bl
+ ob/master/embargoes-by-publication.md.\n
+ \nPlease note: This information was corr
+ ect as of this morning at 5:02, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=4458ec7b-en.
+DTSTAMP:20181218T050220Z
+DTSTART:20181221T010000Z
+DTEND:20181221T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Can productivity still grow in
+  service-based economies? - Literature o
+ verview and preliminary evidence from OE
+ CD countries
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9789264309050-end3e1785
+SUMMARY:Rethinking Quality Assurance for Higher 
+ Education in Brazil
+DESCRIPTION:*Rethinking Quality Assurance for Higher
+  Education in Brazil*\n\nDirectorate: Di
+ rectorate for Education and Skills\nLang
+ uage: English\nDOI: https://doi.org/10.1
+ 787/9789264309050-en\nPublication type: 
+ Book\nReleased as: Paperback, PDF\n\nEmb
+ argo date/time: Friday, 21 December 2018
+ , 12:00 (GMT)\nLaunch date/time: Friday,
+  21 December 2018, 12:00 (GMT)\n\niLibra
+ ry export: Monday, 17 December 2018, 23:
+ 02 (GMT)\nFreepreview export: Monday, 17
+  December 2018, 20:27 (GMT)\nFTI loaded:
+  ✓\n\nFor more information see: https://
+ github.com/oecd/embargo-calendar/blob/ma
+ ster/embargoes-by-publication.md.\n\nPle
+ ase note: This information was correct a
+ s of this morning at 5:02, it is updated
+  each night; therefore any subsequent up
+ dates may not yet be visible here. Also,
+  please be aware that the different rele
+ ased media (PDF, HTML, etc.) are not nec
+ essarily released at the same time. For 
+ complete and up-to-date information see 
+ here: http://kappa.oecd.org/v3/search?te
+ rm=9789264309050-en.
+DTSTAMP:20181218T050220Z
+DTSTART:20181221T120000Z
+DTEND:20181221T121500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Rethinking Quality Assurance f
+ or Higher Education in Brazil
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9789264309432-end3e1881
 SUMMARY:Higher Education in Mexico - Labour Mark
  et Relevance and Outcomes
 DESCRIPTION:*Higher Education in Mexico - Labour Mar
@@ -496,23 +766,22 @@ DESCRIPTION:*Higher Education in Mexico - Labour Mar
  : PDF\n\nEmbargo date/time: Tuesday, 8 J
  anuary 2019, 17:00 (GMT)\nLaunch date/ti
  me: Tuesday, 8 January 2019, 17:00 (GMT)
- \n\niLibrary export: Wednesday, 12 Decem
- ber 2018, 22:41 (GMT)\nFreepreview expor
- t: never\nFTI loaded: ✗\n\nFor more info
- rmation see: https://github.com/oecd/emb
- argo-calendar/blob/master/embargoes-by-p
- ublication.md.\n\nPlease note: This info
- rmation was correct as of this morning a
- t 4:32, it is updated each night; theref
- ore any subsequent updates may not yet b
- e visible here. Also, please be aware th
- at the different released media (PDF, HT
- ML, etc.) are not necessarily released a
- t the same time. For complete and up-to-
- date information see here: http://kappa.
- oecd.org/v3/search?term=9789264309432-en
- .
-DTSTAMP:20181215T043225Z
+ \n\niLibrary export: Friday, 14 December
+  2018, 22:59 (GMT)\nFreepreview export: 
+ never\nFTI loaded: ✗\n\nFor more informa
+ tion see: https://github.com/oecd/embarg
+ o-calendar/blob/master/embargoes-by-publ
+ ication.md.\n\nPlease note: This informa
+ tion was correct as of this morning at 5
+ :02, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=9789264309432-en.
+DTSTAMP:20181218T050220Z
 DTSTART:20190108T170000Z
 DTEND:20190108T171500Z
 TRANSP:TRANSPARENT
@@ -526,7 +795,7 @@ DESCRIPTION:Reminder: Higher Education in Mexico - L
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264309371-end3e1688
+UID:10.1787/9789264309371-end3e1929
 SUMMARY:The Future of Mexican Higher Education -
   Promoting Quality and Equity
 DESCRIPTION:*The Future of Mexican Higher Education 
@@ -545,7 +814,7 @@ DESCRIPTION:*The Future of Mexican Higher Education
  go-calendar/blob/master/embargoes-by-pub
  lication.md.\n\nPlease note: This inform
  ation was correct as of this morning at 
- 4:32, it is updated each night; therefor
+ 5:02, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -553,7 +822,7 @@ DESCRIPTION:*The Future of Mexican Higher Education
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=9789264309371-en.
-DTSTAMP:20181215T043225Z
+DTSTAMP:20181218T050220Z
 DTSTART:20190108T170000Z
 DTEND:20190108T171500Z
 TRANSP:TRANSPARENT
@@ -564,6 +833,46 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: The Future of Mexican Higher E
  ducation - Promoting Quality and Equity
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/eco_surveys-dnk-2019-end3e2025
+SUMMARY:OECD Economic Surveys: Denmark 2019
+DESCRIPTION:*OECD Economic Surveys: Denmark 2019*\n\
+ nDirectorate: Economics Department\nLang
+ uage: English\nDOI: https://doi.org/10.1
+ 787/eco_surveys-dnk-2019-en\nPublication
+  type: Economic survey\nReleased as: Pap
+ erback, PDF\n\nEmbargo date/time: Tuesda
+ y, 15 January 2019, 10:00 (GMT)\nLaunch 
+ date/time: Tuesday, 15 January 2019, 10:
+ 00 (GMT)\n\niLibrary export: Monday, 17 
+ December 2018, 23:02 (GMT)\nFreepreview 
+ export: never\nFTI loaded: ✗\n\nFor more
+  information see: https://github.com/oec
+ d/embargo-calendar/blob/master/embargoes
+ -by-publication.md.\n\nPlease note: This
+  information was correct as of this morn
+ ing at 5:02, it is updated each night; t
+ herefore any subsequent updates may not 
+ yet be visible here. Also, please be awa
+ re that the different released media (PD
+ F, HTML, etc.) are not necessarily relea
+ sed at the same time. For complete and u
+ p-to-date information see here: http://k
+ appa.oecd.org/v3/search?term=eco_surveys
+ -dnk-2019-en.
+DTSTAMP:20181218T050220Z
+DTSTART:20190115T100000Z
+DTEND:20190115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Economic Surveys: Denmark
+  2019
 END:VALARM
 END:VEVENT
 END:VCALENDAR
