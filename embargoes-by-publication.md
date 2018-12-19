@@ -2,51 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 18 December 2018 at 5:02* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Financing Refugee Hosting Contexts - An analysis of the DAC’s contribution to burden- and responsibility-sharing in supporting refugees and their host communities](https://doi.org/10.1787/24db9b07-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 December 2018 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 December 2018 at 10:17
-- [x] Exported to Keepeek Friday 14 December 2018 at 21:22
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Do EU Funds boost productivity and employment? - Firm level analysis for Latvia](https://doi.org/10.1787/98e0a368-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 December 2018 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 14 December 2018 at 0:00
-- [x] Exported to Keepeek Thursday 13 December 2018 at 21:35
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Wednesday 19 December 2018 at 5:00* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Tax Policies for Inclusive Growth - Prescription versus Practice](https://doi.org/10.1787/09ba747a-en)
 
@@ -124,7 +80,7 @@ Monday 17 December 2018 at 13:00 | Monday 17 December 2018 at 13:00
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 14 December 2018 at 0:00
-- [x] Exported to Keepeek Thursday 13 December 2018 at 21:35
+- [x] Exported to Keepeek Tuesday 18 December 2018 at 21:31
 
 ### Additional Information
 
@@ -312,7 +268,7 @@ Friday 21 December 2018 at 1:00 | no launch event
 
 ------
 
-## [Going local - A regional perspective on how trade affects labour markets and inequality](https://doi.org/10.1787/2981f94c-en)
+## [Going local: a regional perspective on how trade affects labour markets and inequality](https://doi.org/10.1787/2981f94c-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -321,8 +277,8 @@ Friday 21 December 2018 at 1:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 December 2018 at 0:02
-- [x] Exported to Keepeek Monday 17 December 2018 at 21:27
+- [x] Exported to iLibrary Wednesday 19 December 2018 at 0:00
+- [x] Exported to Keepeek Tuesday 18 December 2018 at 21:31
 
 ### Additional Information
 
@@ -352,29 +308,7 @@ Friday 21 December 2018 at 1:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
-* Formats: *PDF, PDF*
-
-------
-
-## [Can productivity still grow in service-based economies? - Literature overview and preliminary evidence from OECD countries](https://doi.org/10.1787/4458ec7b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 21 December 2018 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Formats: *PDF, PDF*
+* Format: *PDF*
 
 ------
 
@@ -400,25 +334,47 @@ Friday 21 December 2018 at 12:00 | Friday 21 December 2018 at 12:00
 
 ------
 
-## [Higher Education in Mexico - Labour Market Relevance and Outcomes](https://doi.org/10.1787/9789264309432-en)
+## [Administrative Simplification in the Mexican Social Security Institute](https://doi.org/10.1787/9789264306561-en)
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 8 January 2019 at 17:00 | Tuesday 8 January 2019 at 17:00
+Monday 7 January 2019 at 14:00 | Monday 7 January 2019 at 14:00
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 14 December 2018 at 23:59
+- [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills*
+* Directorate: *Directorate for Public Governance*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Simplificación Administrativa en el Instituto Mexicano del Seguro Social](https://doi.org/10.1787/9789264306585-es)
+
+Embargo date | Launch date
+-------------|------------
+Monday 7 January 2019 at 14:00 | Monday 7 January 2019 at 14:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 19 December 2018 at 0:00
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
