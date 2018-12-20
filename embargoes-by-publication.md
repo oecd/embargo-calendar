@@ -2,117 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 19 December 2018 at 5:00* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Tax Policies for Inclusive Growth - Prescription versus Practice](https://doi.org/10.1787/09ba747a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 December 2018 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 14 December 2018 at 0:00
-- [x] Exported to Keepeek Thursday 13 December 2018 at 21:35
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Public finance structure and inclusive growth](https://doi.org/10.1787/e99683b5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 December 2018 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 14 December 2018 at 0:00
-- [x] Exported to Keepeek Thursday 13 December 2018 at 21:35
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Structure des finances publiques et croissance inclusive](https://doi.org/10.1787/42b878d8-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 December 2018 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 14 December 2018 at 0:00
-- [x] Exported to Keepeek Thursday 13 December 2018 at 21:35
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Talents à l'étranger - Une revue des émigrés tunisiens](https://doi.org/10.1787/9789264308855-fr)
-
-Embargo date | Launch date
--------------|------------
-Monday 17 December 2018 at 13:00 | Monday 17 December 2018 at 13:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 14 December 2018 at 0:00
-- [x] Exported to Keepeek Tuesday 18 December 2018 at 21:31
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Coal 2018 - Analysis and Forecasts to 2023](https://doi.org/10.1787/coal_mar-2018-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 18 December 2018 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 December 2018 at 0:02
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *International Energy Agency*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Thursday 20 December 2018 at 5:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [How do the educational attainment and labour market outcomes of foreign-born adults compare to their native-born peers?](https://doi.org/10.1787/cf52bacd-en)
 
@@ -374,7 +264,7 @@ Monday 7 January 2019 at 14:00 | Monday 7 January 2019 at 14:00
 * Language: *Spanish*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
