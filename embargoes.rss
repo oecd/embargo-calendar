@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Fri, 21 Dec 2018 06:06:01 GMT</pubDate>
+      <pubDate>Sat, 22 Dec 2018 06:15:26 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -74,7 +74,7 @@
          <oe:catalogueType>Working paper</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/9789264309050-en-d3e294</guid>
+         <guid isPermaLink="false">10.1787/9789264309050-en-d3e340</guid>
          <pubDate>Fri, 21 Dec 2018 13:00:00 GMT</pubDate>
          <title>Rethinking Quality Assurance for Higher Education in Brazil</title>
          <link>https://doi.org/10.1787/9789264309050-en</link>
@@ -89,22 +89,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/9789264306585-es-d3e483</guid>
-         <pubDate>Mon, 07 Jan 2019 15:00:00 GMT</pubDate>
-         <title>Simplificación Administrativa en el Instituto Mexicano del Seguro Social</title>
-         <link>https://doi.org/10.1787/9789264306585-es</link>
-         <description>Simplificación Administrativa en el Instituto Mexicano del Seguro Social by Directorate for Public Governance has an embargo on Monday 7 January 2019 at 15:00 and a launch event planned on Monday 7 January 2019 at 15:00.</description>
-         <oe:embargoTime>Mon, 07 Jan 2019 15:00:00 GMT</oe:embargoTime>
-         <oe:launchTime>Mon, 07 Jan 2019 15:00:00 GMT</oe:launchTime>
-         <oe:languages>Spanish</oe:languages>
-         <oe:directorate>Directorate for Public Governance</oe:directorate>
-         <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Friday, 21 December 2018, 1:23 (GMT)</oe:iLibraryExport>
-         <oe:freePreviewExport>Thursday, 20 December 2018, 21:40 (GMT)</oe:freePreviewExport>
-         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
-      </item>
-      <item>
-         <guid isPermaLink="false">10.1787/9789264306561-en-d3e1242</guid>
+         <guid isPermaLink="false">10.1787/9789264306561-en-d3e485</guid>
          <pubDate>Mon, 07 Jan 2019 15:00:00 GMT</pubDate>
          <title>Administrative Simplification in the Mexican Social Security Institute</title>
          <link>https://doi.org/10.1787/9789264306561-en</link>
@@ -116,6 +101,21 @@
          <oe:ftiLoaded/>
          <oe:iLibraryExport/>
          <oe:freePreviewExport/>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264306585-es-d3e958</guid>
+         <pubDate>Mon, 07 Jan 2019 15:00:00 GMT</pubDate>
+         <title>Simplificación Administrativa en el Instituto Mexicano del Seguro Social</title>
+         <link>https://doi.org/10.1787/9789264306585-es</link>
+         <description>Simplificación Administrativa en el Instituto Mexicano del Seguro Social by Directorate for Public Governance has an embargo on Monday 7 January 2019 at 15:00 and a launch event planned on Monday 7 January 2019 at 15:00.</description>
+         <oe:embargoTime>Mon, 07 Jan 2019 15:00:00 GMT</oe:embargoTime>
+         <oe:launchTime>Mon, 07 Jan 2019 15:00:00 GMT</oe:launchTime>
+         <oe:languages>Spanish</oe:languages>
+         <oe:directorate>Directorate for Public Governance</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Friday, 21 December 2018, 1:23 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport>Thursday, 20 December 2018, 21:40 (GMT)</oe:freePreviewExport>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>

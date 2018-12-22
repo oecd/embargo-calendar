@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 21 December 2018 at 6:05* | [See embargoes by date](embargoes-by-date.md) |
+| *Saturday 22 December 2018 at 6:15* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Working Better with Age: Japan](https://doi.org/10.1787/9789264201996-en)
 
@@ -114,28 +114,6 @@ Friday 21 December 2018 at 12:00 | Friday 21 December 2018 at 12:00
 
 ------
 
-## [Simplificación Administrativa en el Instituto Mexicano del Seguro Social](https://doi.org/10.1787/9789264306585-es)
-
-Embargo date | Launch date
--------------|------------
-Monday 7 January 2019 at 14:00 | Monday 7 January 2019 at 14:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 21 December 2018 at 1:23
-- [x] Exported to Keepeek Thursday 20 December 2018 at 21:40
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
 ## [Administrative Simplification in the Mexican Social Security Institute](https://doi.org/10.1787/9789264306561-en)
 
 Embargo date | Launch date
@@ -155,6 +133,28 @@ Monday 7 January 2019 at 14:00 | Monday 7 January 2019 at 14:00
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Simplificación Administrativa en el Instituto Mexicano del Seguro Social](https://doi.org/10.1787/9789264306585-es)
+
+Embargo date | Launch date
+-------------|------------
+Monday 7 January 2019 at 14:00 | Monday 7 January 2019 at 14:00
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 21 December 2018 at 1:23
+- [x] Exported to Keepeek Thursday 20 December 2018 at 21:40
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 

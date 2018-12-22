@@ -20,7 +20,7 @@ DESCRIPTION:*Working Better with Age: Japan*\n\nDire
  /oecd/embargo-calendar/blob/master/embar
  goes-by-publication.md.\n\nPlease note: 
  This information was correct as of this 
- morning at 6:05, it is updated each nigh
+ morning at 6:15, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -29,7 +29,7 @@ DESCRIPTION:*Working Better with Age: Japan*\n\nDire
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=9789264
  201996-en.
-DTSTAMP:20181221T060558Z
+DTSTAMP:20181222T061523Z
 DTSTART:20181220T080000Z
 DTEND:20181220T081500Z
 TRANSP:TRANSPARENT
@@ -59,7 +59,7 @@ DESCRIPTION:*Boosting productivity and inclusiveness
  .com/oecd/embargo-calendar/blob/master/e
  mbargoes-by-publication.md.\n\nPlease no
  te: This information was correct as of t
- his morning at 6:05, it is updated each 
+ his morning at 6:15, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -68,7 +68,7 @@ DESCRIPTION:*Boosting productivity and inclusiveness
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=109
  9017a-en.
-DTSTAMP:20181221T060558Z
+DTSTAMP:20181222T061523Z
 DTSTART:20181221T010000Z
 DTEND:20181221T011500Z
 TRANSP:TRANSPARENT
@@ -101,7 +101,7 @@ DESCRIPTION:*Going local: a regional perspective on
  /oecd/embargo-calendar/blob/master/embar
  goes-by-publication.md.\n\nPlease note: 
  This information was correct as of this 
- morning at 6:05, it is updated each nigh
+ morning at 6:15, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -110,7 +110,7 @@ DESCRIPTION:*Going local: a regional perspective on
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=2981f94
  c-en.
-DTSTAMP:20181221T060558Z
+DTSTAMP:20181222T061523Z
 DTSTART:20181221T010000Z
 DTEND:20181221T011500Z
 TRANSP:TRANSPARENT
@@ -146,7 +146,7 @@ DESCRIPTION:*Can productivity still grow in service-
  embargo-calendar/blob/master/embargoes-b
  y-publication.md.\n\nPlease note: This i
  nformation was correct as of this mornin
- g at 6:05, it is updated each night; the
+ g at 6:15, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -154,7 +154,7 @@ DESCRIPTION:*Can productivity still grow in service-
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=4458ec7b-en.
-DTSTAMP:20181221T060558Z
+DTSTAMP:20181222T061523Z
 DTSTART:20181221T010000Z
 DTEND:20181221T011500Z
 TRANSP:TRANSPARENT
@@ -170,7 +170,7 @@ DESCRIPTION:Reminder: Can productivity still grow in
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264309050-end3e294
+UID:10.1787/9789264309050-end3e340
 SUMMARY:Rethinking Quality Assurance for Higher 
  Education in Brazil
 DESCRIPTION:*Rethinking Quality Assurance for Higher
@@ -189,7 +189,7 @@ DESCRIPTION:*Rethinking Quality Assurance for Higher
  github.com/oecd/embargo-calendar/blob/ma
  ster/embargoes-by-publication.md.\n\nPle
  ase note: This information was correct a
- s of this morning at 6:05, it is updated
+ s of this morning at 6:15, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -198,7 +198,7 @@ DESCRIPTION:*Rethinking Quality Assurance for Higher
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=9789264309050-en.
-DTSTAMP:20181221T060558Z
+DTSTAMP:20181222T061523Z
 DTSTART:20181221T120000Z
 DTEND:20181221T121500Z
 TRANSP:TRANSPARENT
@@ -212,7 +212,48 @@ DESCRIPTION:Reminder: Rethinking Quality Assurance f
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264306585-esd3e483
+UID:10.1787/9789264306561-end3e485
+SUMMARY:Administrative Simplification in the Mex
+ ican Social Security Institute
+DESCRIPTION:*Administrative Simplification in the Me
+ xican Social Security Institute*\n\nDire
+ ctorate: Directorate for Public Governan
+ ce\nLanguage: English\nDOI: https://doi.
+ org/10.1787/9789264306561-en\nPublicatio
+ n type: Stand-alone monograph\nReleased 
+ as: Paperback, PDF\n\nEmbargo date/time:
+  Monday, 7 January 2019, 14:00 (GMT)\nLa
+ unch date/time: Monday, 7 January 2019, 
+ 14:00 (GMT)\n\niLibrary export: never\nF
+ reepreview export: never\nFTI loaded: ✗\
+ n\nFor more information see: https://git
+ hub.com/oecd/embargo-calendar/blob/maste
+ r/embargoes-by-publication.md.\n\nPlease
+  note: This information was correct as o
+ f this morning at 6:15, it is updated ea
+ ch night; therefore any subsequent updat
+ es may not yet be visible here. Also, pl
+ ease be aware that the different release
+ d media (PDF, HTML, etc.) are not necess
+ arily released at the same time. For com
+ plete and up-to-date information see her
+ e: http://kappa.oecd.org/v3/search?term=
+ 9789264306561-en.
+DTSTAMP:20181222T061523Z
+DTSTART:20190107T140000Z
+DTEND:20190107T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Administrative Simplification 
+ in the Mexican Social Security Institute
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9789264306585-esd3e958
 SUMMARY:Simplificación Administrativa en el Inst
  ituto Mexicano del Seguro Social
 DESCRIPTION:*Simplificación Administrativa en el Ins
@@ -232,7 +273,7 @@ DESCRIPTION:*Simplificación Administrativa en el Ins
  ub.com/oecd/embargo-calendar/blob/master
  /embargoes-by-publication.md.\n\nPlease 
  note: This information was correct as of
-  this morning at 6:05, it is updated eac
+  this morning at 6:15, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -241,7 +282,7 @@ DESCRIPTION:*Simplificación Administrativa en el Ins
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=9
  789264306585-es.
-DTSTAMP:20181221T060558Z
+DTSTAMP:20181222T061523Z
 DTSTART:20190107T140000Z
 DTEND:20190107T141500Z
 TRANSP:TRANSPARENT
@@ -253,47 +294,6 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: Simplificación Administrativa 
  en el Instituto Mexicano del Seguro Soci
  al
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/9789264306561-end3e1242
-SUMMARY:Administrative Simplification in the Mex
- ican Social Security Institute
-DESCRIPTION:*Administrative Simplification in the Me
- xican Social Security Institute*\n\nDire
- ctorate: Directorate for Public Governan
- ce\nLanguage: English\nDOI: https://doi.
- org/10.1787/9789264306561-en\nPublicatio
- n type: Stand-alone monograph\nReleased 
- as: Paperback, PDF\n\nEmbargo date/time:
-  Monday, 7 January 2019, 14:00 (GMT)\nLa
- unch date/time: Monday, 7 January 2019, 
- 14:00 (GMT)\n\niLibrary export: never\nF
- reepreview export: never\nFTI loaded: ✗\
- n\nFor more information see: https://git
- hub.com/oecd/embargo-calendar/blob/maste
- r/embargoes-by-publication.md.\n\nPlease
-  note: This information was correct as o
- f this morning at 6:05, it is updated ea
- ch night; therefore any subsequent updat
- es may not yet be visible here. Also, pl
- ease be aware that the different release
- d media (PDF, HTML, etc.) are not necess
- arily released at the same time. For com
- plete and up-to-date information see her
- e: http://kappa.oecd.org/v3/search?term=
- 9789264306561-en.
-DTSTAMP:20181221T060558Z
-DTSTART:20190107T140000Z
-DTEND:20190107T141500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Administrative Simplification 
- in the Mexican Social Security Institute
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -316,7 +316,7 @@ DESCRIPTION:*The Future of Mexican Higher Education
  go-calendar/blob/master/embargoes-by-pub
  lication.md.\n\nPlease note: This inform
  ation was correct as of this morning at 
- 6:05, it is updated each night; therefor
+ 6:15, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -324,7 +324,7 @@ DESCRIPTION:*The Future of Mexican Higher Education
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=9789264309371-en.
-DTSTAMP:20181221T060558Z
+DTSTAMP:20181222T061523Z
 DTSTART:20190108T170000Z
 DTEND:20190108T171500Z
 TRANSP:TRANSPARENT
@@ -355,7 +355,7 @@ DESCRIPTION:*OECD Economic Surveys: Denmark 2019*\n\
  d/embargo-calendar/blob/master/embargoes
  -by-publication.md.\n\nPlease note: This
   information was correct as of this morn
- ing at 6:05, it is updated each night; t
+ ing at 6:15, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -364,7 +364,7 @@ DESCRIPTION:*OECD Economic Surveys: Denmark 2019*\n\
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=eco_surveys
  -dnk-2019-en.
-DTSTAMP:20181221T060558Z
+DTSTAMP:20181222T061523Z
 DTSTART:20190115T100000Z
 DTEND:20190115T101500Z
 TRANSP:TRANSPARENT
