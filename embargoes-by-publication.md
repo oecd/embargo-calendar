@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 27 December 2018 at 3:44* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 28 December 2018 at 4:26* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Administrative Simplification in the Mexican Social Security Institute](https://doi.org/10.1787/9789264306561-en)
 
