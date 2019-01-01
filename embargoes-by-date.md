@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 29 December 2018 at 5:11* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 1 January 2019 at 3:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [7 January 2019](#7-january-2019)
 * [8 January 2019](#8-january-2019)
