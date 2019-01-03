@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2019-01-02T03:39:28.6085405+01:00">
+<report name="official-embargoes" generated="2019-01-03T05:04:37.5721928+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -19,6 +19,23 @@
   </row>
   <row index="1">
     <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264306585-es</cell>
+    <cell name="title">Simplificación Administrativa en el Instituto Mexicano del Seguro Social (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-07</cell>
+    <cell name="embargo date">2019-01-07T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-12-21T00:23:40Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9d8e9</cell>
+  </row>
+  <row index="2">
+    <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264306585-2-es</cell>
     <cell name="title">Acrónimos y abreviaciones (es)</cell>
     <cell name="subtitle"/>
@@ -34,7 +51,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9d8ef</cell>
   </row>
-  <row index="2">
+  <row index="3">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264306585-1-es</cell>
     <cell name="title">Prólogo (es)</cell>
@@ -50,23 +67,6 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9d8ed</cell>
-  </row>
-  <row index="3">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264306561-en</cell>
-    <cell name="title">Administrative Simplification in the Mexican Social Security Institute (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
-    <cell name="embargo date">2019-01-07T14:00:00Z</cell>
-    <cell name="launch date/time">2019-01-07T14:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g95a38</cell>
   </row>
   <row index="4">
     <cell name="directorate">Directorate for Public Governance</cell>
@@ -104,6 +104,23 @@
   </row>
   <row index="6">
     <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264306561-en</cell>
+    <cell name="title">Administrative Simplification in the Mexican Social Security Institute (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2019-01-07T14:00:00Z</cell>
+    <cell name="launch date/time">2019-01-07T14:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g95a38</cell>
+  </row>
+  <row index="7">
+    <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264306585-6-es</cell>
     <cell name="title">Impacto de la simplificación administrativa en el Instituto Mexicano del Seguro Social (es)</cell>
     <cell name="subtitle"/>
@@ -119,7 +136,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9d8f8</cell>
   </row>
-  <row index="7">
+  <row index="8">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264306585-7-es</cell>
     <cell name="title">Ahorros potenciales en cargas administrativas en el Instituto Mexicano del Seguro Social (es)</cell>
@@ -136,7 +153,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9d8f9</cell>
   </row>
-  <row index="8">
+  <row index="9">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264306585-3-es</cell>
     <cell name="title">Resumen ejecutivo (es)</cell>
@@ -153,7 +170,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9d8f2</cell>
   </row>
-  <row index="9">
+  <row index="10">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264306585-9-es</cell>
     <cell name="title">Glosario y definiciones (es)</cell>
@@ -170,7 +187,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9d8fe</cell>
   </row>
-  <row index="10">
+  <row index="11">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264306585-8-es</cell>
     <cell name="title">Recomendaciones para impulsar la estrategia de simplificación administrativa en el Instituto Mexicano del Seguro Social (es)</cell>
@@ -187,7 +204,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9d8fb</cell>
   </row>
-  <row index="11">
+  <row index="12">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264306585-5-es</cell>
     <cell name="title">Medición de las cargas administrativas de los trámites del Instituto Mexicano del Seguro Social (es)</cell>
@@ -204,7 +221,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9d8f6</cell>
   </row>
-  <row index="12">
+  <row index="13">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264306585-1-es</cell>
     <cell name="title">Prólogo (es)</cell>
@@ -221,7 +238,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9d8ee</cell>
   </row>
-  <row index="13">
+  <row index="14">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264306585-es</cell>
     <cell name="title">Simplificación Administrativa en el Instituto Mexicano del Seguro Social (es)</cell>
@@ -238,41 +255,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g95a3a</cell>
   </row>
-  <row index="14">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264306561-en</cell>
-    <cell name="title">Administrative Simplification in the Mexican Social Security Institute (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
-    <cell name="embargo date">2019-01-07T14:00:00Z</cell>
-    <cell name="launch date/time">2019-01-07T14:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g95a37</cell>
-  </row>
   <row index="15">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264306585-es</cell>
-    <cell name="title">Simplificación Administrativa en el Instituto Mexicano del Seguro Social (es)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2019-01-07</cell>
-    <cell name="embargo date">2019-01-07T14:00:00Z</cell>
-    <cell name="launch date/time">2019-01-07T14:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g95a39</cell>
-  </row>
-  <row index="16">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264306585-4-es</cell>
     <cell name="title">Introducción a la mejora de los trámites en el Instituto Mexicano del Seguro Social (es)</cell>
@@ -288,6 +271,23 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9d8f4</cell>
+  </row>
+  <row index="16">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264306561-en</cell>
+    <cell name="title">Administrative Simplification in the Mexican Social Security Institute (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2019-01-07T14:00:00Z</cell>
+    <cell name="launch date/time">2019-01-07T14:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g95a37</cell>
   </row>
   <row index="17">
     <cell name="directorate">Directorate for Public Governance</cell>
@@ -308,6 +308,23 @@
   </row>
   <row index="18">
     <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264306585-es</cell>
+    <cell name="title">Simplificación Administrativa en el Instituto Mexicano del Seguro Social (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2019-01-07</cell>
+    <cell name="embargo date">2019-01-07T14:00:00Z</cell>
+    <cell name="launch date/time">2019-01-07T14:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g95a39</cell>
+  </row>
+  <row index="19">
+    <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264306585-3-es</cell>
     <cell name="title">Resumen ejecutivo (es)</cell>
     <cell name="subtitle"/>
@@ -322,23 +339,6 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9d8f1</cell>
-  </row>
-  <row index="19">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264306585-es</cell>
-    <cell name="title">Simplificación Administrativa en el Instituto Mexicano del Seguro Social (es)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-01-07</cell>
-    <cell name="embargo date">2019-01-07T14:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-12-21T00:23:40Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9d8ea</cell>
   </row>
   <row index="20">
     <cell name="directorate">Directorate for Public Governance</cell>
@@ -359,6 +359,23 @@
   </row>
   <row index="21">
     <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9789264306585-es</cell>
+    <cell name="title">Simplificación Administrativa en el Instituto Mexicano del Seguro Social (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-07</cell>
+    <cell name="embargo date">2019-01-07T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2018-12-21T00:23:40Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9d8ea</cell>
+  </row>
+  <row index="22">
+    <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264306585-8-es</cell>
     <cell name="title">Recomendaciones para impulsar la estrategia de simplificación administrativa en el Instituto Mexicano del Seguro Social (es)</cell>
     <cell name="subtitle"/>
@@ -373,23 +390,6 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9d8fc</cell>
-  </row>
-  <row index="22">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/9789264306585-es</cell>
-    <cell name="title">Simplificación Administrativa en el Instituto Mexicano del Seguro Social (es)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-01-07</cell>
-    <cell name="embargo date">2019-01-07T14:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2018-12-21T00:23:40Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9d8e9</cell>
   </row>
   <row index="23">
     <cell name="directorate">Directorate for Public Governance</cell>
@@ -431,6 +431,23 @@
     <cell name="title">The Future of Mexican Higher Education (en)</cell>
     <cell name="subtitle">Promoting Quality and Equity (en)</cell>
     <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-08</cell>
+    <cell name="embargo date">2019-01-08T17:00:00Z</cell>
+    <cell name="launch date/time">2019-01-08T17:00:00Z</cell>
+    <cell name="ilibrary last export date">2019-01-02T22:48:07Z</cell>
+    <cell name="freepreview last export date">2019-01-02T20:24:19Z</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g99ac8</cell>
+  </row>
+  <row index="26">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/9789264309371-en</cell>
+    <cell name="title">The Future of Mexican Higher Education (en)</cell>
+    <cell name="subtitle">Promoting Quality and Equity (en)</cell>
+    <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2019-01-08</cell>
@@ -441,23 +458,6 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g99ac7</cell>
-  </row>
-  <row index="26">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/9789264309371-en</cell>
-    <cell name="title">The Future of Mexican Higher Education (en)</cell>
-    <cell name="subtitle">Promoting Quality and Equity (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2019-01-08</cell>
-    <cell name="embargo date">2019-01-08T17:00:00Z</cell>
-    <cell name="launch date/time">2019-01-08T17:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-12-12T22:41:39Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g99ac8</cell>
   </row>
   <row index="27">
     <cell name="directorate">Economics Department</cell>

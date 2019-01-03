@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 2 January 2019 at 3:39* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 3 January 2019 at 5:04* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Administrative Simplification in the Mexican Social Security Institute](https://doi.org/10.1787/9789264306561-en)
 
@@ -57,14 +57,14 @@ Tuesday 8 January 2019 at 17:00 | Tuesday 8 January 2019 at 17:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 12 December 2018 at 23:41
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 2 January 2019 at 23:48
+- [x] Exported to Keepeek Wednesday 2 January 2019 at 21:24
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
