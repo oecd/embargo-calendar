@@ -2,7 +2,95 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 3 January 2019 at 5:04* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 4 January 2019 at 5:27* | [See embargoes by date](embargoes-by-date.md) |
+
+## [The changing landscape of agricultural markets and trade: prospects for future reforms](https://doi.org/10.1787/7dec9074-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 January 2019 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Formats: *PDF, PDF*
+
+------
+
+## [The changing landscape of agricultural markets and trade: prospects for future reforms](https://doi.org/10.1787/7dec9074-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 January 2019 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 3 January 2019 at 23:42
+- [x] Exported to Keepeek Thursday 3 January 2019 at 21:25
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Formats: *PDF, PDF*
+
+------
+
+## [Measuring distortions in international markets: the aluminium value chain](https://doi.org/10.1787/c82911ab-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 January 2019 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Formats: *PDF, PDF*
+
+------
+
+## [Measuring distortions in international markets: the aluminium value chain](https://doi.org/10.1787/c82911ab-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 January 2019 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 3 January 2019 at 23:42
+- [x] Exported to Keepeek Thursday 3 January 2019 at 21:25
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Formats: *PDF, PDF*
+
+------
 
 ## [Administrative Simplification in the Mexican Social Security Institute](https://doi.org/10.1787/9789264306561-en)
 
