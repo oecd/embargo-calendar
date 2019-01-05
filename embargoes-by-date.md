@@ -2,10 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 4 January 2019 at 5:27* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Saturday 5 January 2019 at 5:59* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [7 January 2019](#7-january-2019)
-* [8 January 2019](#8-january-2019)
+* [9 January 2019](#9-january-2019)
 * [15 January 2019](#15-january-2019)
 
 ------
@@ -21,28 +21,6 @@ Monday 7 January 2019 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Formats: *PDF, PDF*
-
-------
-
-## [The changing landscape of agricultural markets and trade: prospects for future reforms](https://doi.org/10.1787/7dec9074-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 January 2019 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 3 January 2019 at 23:42
 - [x] Exported to Keepeek Thursday 3 January 2019 at 21:25
 
@@ -52,29 +30,7 @@ Monday 7 January 2019 at 5:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
-* Formats: *PDF, PDF*
-
-------
-
-## [Measuring distortions in international markets: the aluminium value chain](https://doi.org/10.1787/c82911ab-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 January 2019 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Formats: *PDF, PDF*
+* Format: *PDF*
 
 ------
 
@@ -96,7 +52,7 @@ Monday 7 January 2019 at 5:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
-* Formats: *PDF, PDF*
+* Format: *PDF*
 
 ------
 
@@ -122,43 +78,21 @@ Monday 7 January 2019 at 14:00 | Monday 7 January 2019 at 14:00
 
 ------
 
-## [Simplificación Administrativa en el Instituto Mexicano del Seguro Social](https://doi.org/10.1787/9789264306585-es)
-
-Embargo date | Launch date
--------------|------------
-Monday 7 January 2019 at 14:00 | Monday 7 January 2019 at 14:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 21 December 2018 at 1:23
-- [x] Exported to Keepeek Thursday 20 December 2018 at 21:40
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
 ------
 
-------
-
-# 8 January 2019
+# 9 January 2019
 
 ## [The Future of Mexican Higher Education - Promoting Quality and Equity](https://doi.org/10.1787/9789264309371-en)
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 8 January 2019 at 17:00 | Tuesday 8 January 2019 at 17:00
+Wednesday 9 January 2019 at 17:30 | Wednesday 9 January 2019 at 17:30
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 2 January 2019 at 23:48
-- [x] Exported to Keepeek Wednesday 2 January 2019 at 21:24
+- [x] Exported to iLibrary Saturday 5 January 2019 at 0:00
+- [x] Exported to Keepeek Friday 4 January 2019 at 21:23
 
 ### Additional Information
 
@@ -167,6 +101,28 @@ Tuesday 8 January 2019 at 17:00 | Tuesday 8 January 2019 at 17:00
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Higher Education in Mexico - Labour Market Relevance and Outcomes](https://doi.org/10.1787/9789264309432-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 9 January 2019 at 17:30 | Wednesday 9 January 2019 at 17:30
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 5 January 2019 at 0:00
+- [x] Exported to Keepeek Friday 4 January 2019 at 21:23
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
