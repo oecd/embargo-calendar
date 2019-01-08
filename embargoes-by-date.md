@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 5 January 2019 at 5:59* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 8 January 2019 at 7:20* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [7 January 2019](#7-january-2019)
 * [9 January 2019](#9-january-2019)
@@ -65,14 +65,14 @@ Monday 7 January 2019 at 14:00 | Monday 7 January 2019 at 14:00
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 7 January 2019 at 23:52
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -91,7 +91,7 @@ Wednesday 9 January 2019 at 17:30 | Wednesday 9 January 2019 at 17:30
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 5 January 2019 at 0:00
+- [x] Exported to iLibrary Monday 7 January 2019 at 23:52
 - [x] Exported to Keepeek Friday 4 January 2019 at 21:23
 
 ### Additional Information
