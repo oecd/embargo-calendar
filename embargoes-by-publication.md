@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 8 January 2019 at 7:20* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 9 January 2019 at 5:01* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The changing landscape of agricultural markets and trade: prospects for future reforms](https://doi.org/10.1787/7dec9074-en)
 
@@ -44,7 +44,51 @@ Monday 7 January 2019 at 5:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
-* Format: *PDF*
+* Formats: *PDF, PDF, PDF*
+
+------
+
+## [Measuring distortions in international markets: the aluminium value chain](https://doi.org/10.1787/c82911ab-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 January 2019 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 3 January 2019 at 23:42
+- [x] Exported to Keepeek Thursday 3 January 2019 at 21:25
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Formats: *PDF, PDF, PDF*
+
+------
+
+## [Measuring distortions in international markets: the aluminium value chain](https://doi.org/10.1787/c82911ab-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 January 2019 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 3 January 2019 at 23:42
+- [x] Exported to Keepeek Tuesday 8 January 2019 at 21:39
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Formats: *PDF, PDF, PDF*
 
 ------
 
@@ -74,13 +118,13 @@ Monday 7 January 2019 at 14:00 | Monday 7 January 2019 at 14:00
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 9 January 2019 at 17:30 | Wednesday 9 January 2019 at 17:30
+Thursday 10 January 2019 at 17:00 | Thursday 10 January 2019 at 17:00
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 7 January 2019 at 23:52
-- [x] Exported to Keepeek Friday 4 January 2019 at 21:23
+- [x] Exported to iLibrary Wednesday 9 January 2019 at 0:21
+- [x] Exported to Keepeek Tuesday 8 January 2019 at 21:39
 
 ### Additional Information
 
@@ -96,13 +140,13 @@ Wednesday 9 January 2019 at 17:30 | Wednesday 9 January 2019 at 17:30
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 9 January 2019 at 17:30 | Wednesday 9 January 2019 at 17:30
+Thursday 10 January 2019 at 17:00 | Thursday 10 January 2019 at 17:00
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 5 January 2019 at 0:00
-- [x] Exported to Keepeek Friday 4 January 2019 at 21:23
+- [x] Exported to iLibrary Wednesday 9 January 2019 at 0:21
+- [x] Exported to Keepeek Tuesday 8 January 2019 at 21:39
 
 ### Additional Information
 
