@@ -2,115 +2,27 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 9 January 2019 at 5:01* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 10 January 2019 at 5:09* | [See embargoes by date](embargoes-by-date.md) |
 
-## [The changing landscape of agricultural markets and trade: prospects for future reforms](https://doi.org/10.1787/7dec9074-en)
+## [Higher Education in Mexico - Labour Market Relevance and Outcomes](https://doi.org/10.1787/9789264309432-en)
 
 Embargo date | Launch date
--------------|:------------:
-Monday 7 January 2019 at 5:00 | no launch event
+-------------|------------
+Thursday 10 January 2019 at 17:00 | Thursday 10 January 2019 at 17:00
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 January 2019 at 23:42
-- [x] Exported to Keepeek Thursday 3 January 2019 at 21:25
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Measuring distortions in international markets: the aluminium value chain](https://doi.org/10.1787/c82911ab-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 January 2019 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 January 2019 at 23:42
-- [x] Exported to Keepeek Thursday 3 January 2019 at 21:25
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Formats: *PDF, PDF, PDF*
-
-------
-
-## [Measuring distortions in international markets: the aluminium value chain](https://doi.org/10.1787/c82911ab-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 January 2019 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 January 2019 at 23:42
-- [x] Exported to Keepeek Thursday 3 January 2019 at 21:25
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Formats: *PDF, PDF, PDF*
-
-------
-
-## [Measuring distortions in international markets: the aluminium value chain](https://doi.org/10.1787/c82911ab-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 January 2019 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 January 2019 at 23:42
+- [x] Exported to iLibrary Wednesday 9 January 2019 at 0:21
 - [x] Exported to Keepeek Tuesday 8 January 2019 at 21:39
 
 ### Additional Information
 
-* Directorate: *Trade and Agriculture Directorate*
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Working paper*
-* Formats: *PDF, PDF, PDF*
-
-------
-
-## [Administrative Simplification in the Mexican Social Security Institute](https://doi.org/10.1787/9789264306561-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 7 January 2019 at 14:00 | Monday 7 January 2019 at 14:00
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 7 January 2019 at 23:52
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -136,25 +48,47 @@ Thursday 10 January 2019 at 17:00 | Thursday 10 January 2019 at 17:00
 
 ------
 
-## [Higher Education in Mexico - Labour Market Relevance and Outcomes](https://doi.org/10.1787/9789264309432-en)
+## [Curriculum alignment and progression between early childhood education and care and primary school  - A brief review and case studies](https://doi.org/10.1787/d2821a65-en)
 
 Embargo date | Launch date
--------------|------------
-Thursday 10 January 2019 at 17:00 | Thursday 10 January 2019 at 17:00
+-------------|:------------:
+Friday 11 January 2019 at 11:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 9 January 2019 at 0:21
-- [x] Exported to Keepeek Tuesday 8 January 2019 at 21:39
+- [x] Exported to iLibrary Thursday 10 January 2019 at 0:25
+- [x] Exported to Keepeek Wednesday 9 January 2019 at 21:43
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Type of publication: *Working paper*
+* Formats: *PDF, PDF*
+
+------
+
+## [Curriculum alignment and progression between early childhood education and care and primary school  - A brief review and case studies](https://doi.org/10.1787/d2821a65-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 11 January 2019 at 11:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Formats: *PDF, PDF*
 
 ------
 
