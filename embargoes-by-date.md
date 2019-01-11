@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 10 January 2019 at 5:09* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 11 January 2019 at 5:42* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [10 January 2019](#10-january-2019)
 * [11 January 2019](#11-january-2019)
 * [15 January 2019](#15-january-2019)
+* [21 January 2019](#21-january-2019)
 
 ------
 
@@ -59,6 +60,28 @@ Thursday 10 January 2019 at 17:00 | Thursday 10 January 2019 at 17:00
 ------
 
 # 11 January 2019
+
+## [Ready to Help? - Improving Resilience of Integration Systems for Refugees and other Vulnerable Migrants](https://doi.org/10.1787/9789264311312-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 11 January 2019 at 10:00 | Friday 11 January 2019 at 10:00
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 January 2019 at 0:04
+- [x] Exported to Keepeek Thursday 10 January 2019 at 21:37
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
 
 ## [Curriculum alignment and progression between early childhood education and care and primary school  - A brief review and case studies](https://doi.org/10.1787/d2821a65-en)
 
@@ -116,16 +139,42 @@ Tuesday 15 January 2019 at 10:00 | Tuesday 15 January 2019 at 10:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 18 December 2018 at 0:02
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 January 2019 at 0:04
+- [x] Exported to Keepeek Thursday 10 January 2019 at 21:37
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 21 January 2019
+
+## [Trends Shaping Education 2019](https://doi.org/10.1787/trends_edu-2019-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 21 January 2019 at 9:00 | Monday 21 January 2019 at 9:00
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 January 2019 at 0:04
+- [x] Exported to Keepeek Thursday 10 January 2019 at 21:37
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------

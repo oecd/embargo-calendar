@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2019-01-10T05:09:18.8520229+01:00">
+<report name="official-embargoes" generated="2019-01-11T05:42:30.5119331+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -121,23 +121,6 @@
   </row>
   <row index="7">
     <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/9789264309432-en</cell>
-    <cell name="title">Higher Education in Mexico (en)</cell>
-    <cell name="subtitle">Labour Market Relevance and Outcomes (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-01-10</cell>
-    <cell name="embargo date">2019-01-10T17:00:00Z</cell>
-    <cell name="launch date/time">2019-01-10T17:00:00Z</cell>
-    <cell name="ilibrary last export date">2019-01-08T23:21:56Z</cell>
-    <cell name="freepreview last export date">2019-01-08T20:39:39Z</cell>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g99aff</cell>
-  </row>
-  <row index="8">
-    <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-graph25-en</cell>
     <cell name="title">Employment rates of young higher education graduates (25-34 year-olds) from short-cycle, bachelor's and master's programmes, 2017 (en)</cell>
     <cell name="subtitle"/>
@@ -153,7 +136,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd99</cell>
   </row>
-  <row index="9">
+  <row index="8">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-graph15-en</cell>
     <cell name="title">Distribution of new entrants by field of study, all students and female students, Mexico and OECD average, 2016 (en)</cell>
@@ -170,7 +153,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd8d</cell>
   </row>
-  <row index="10">
+  <row index="9">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-9-en</cell>
     <cell name="title">Enhancing labour market relevance and outcomes through higher education (en)</cell>
@@ -186,6 +169,23 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dda2</cell>
+  </row>
+  <row index="10">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/9789264309432-en</cell>
+    <cell name="title">Higher Education in Mexico (en)</cell>
+    <cell name="subtitle">Labour Market Relevance and Outcomes (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2019-01-10</cell>
+    <cell name="embargo date">2019-01-10T17:00:00Z</cell>
+    <cell name="launch date/time">2019-01-10T17:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g99af1</cell>
   </row>
   <row index="11">
     <cell name="directorate">Directorate for Education and Skills</cell>
@@ -240,6 +240,23 @@
   </row>
   <row index="14">
     <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/9789264309432-en</cell>
+    <cell name="title">Higher Education in Mexico (en)</cell>
+    <cell name="subtitle">Labour Market Relevance and Outcomes (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-10</cell>
+    <cell name="embargo date">2019-01-10T17:00:00Z</cell>
+    <cell name="launch date/time">2019-01-10T17:00:00Z</cell>
+    <cell name="ilibrary last export date">2019-01-08T23:21:56Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd70</cell>
+  </row>
+  <row index="15">
+    <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-7-en</cell>
     <cell name="title">The structure and governance of higher education in Mexico (en)</cell>
     <cell name="subtitle"/>
@@ -255,7 +272,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd87</cell>
   </row>
-  <row index="15">
+  <row index="16">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-4-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -272,7 +289,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd77</cell>
   </row>
-  <row index="16">
+  <row index="17">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-graph7-en</cell>
     <cell name="title">Annual hours worked and annual wage, 2017 (en)</cell>
@@ -289,7 +306,24 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd83</cell>
   </row>
-  <row index="17">
+  <row index="18">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/9789264309432-en</cell>
+    <cell name="title">Higher Education in Mexico (en)</cell>
+    <cell name="subtitle">Labour Market Relevance and Outcomes (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-10</cell>
+    <cell name="embargo date">2019-01-10T17:00:00Z</cell>
+    <cell name="launch date/time">2019-01-10T17:00:00Z</cell>
+    <cell name="ilibrary last export date">2019-01-08T23:21:56Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd6f</cell>
+  </row>
+  <row index="19">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-8-en</cell>
     <cell name="title">Labour market outcomes of higher education graduates (en)</cell>
@@ -306,7 +340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd92</cell>
   </row>
-  <row index="18">
+  <row index="20">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-6-en</cell>
     <cell name="title">The economy and labour market (en)</cell>
@@ -323,7 +357,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd7c</cell>
   </row>
-  <row index="19">
+  <row index="21">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-table11-en</cell>
     <cell name="title">Education system in Mexico: Key figures, 2016-2017 (en)</cell>
@@ -340,24 +374,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd89</cell>
   </row>
-  <row index="20">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/9789264309371-en</cell>
-    <cell name="title">The Future of Mexican Higher Education (en)</cell>
-    <cell name="subtitle">Promoting Quality and Equity (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2019-01-10</cell>
-    <cell name="embargo date">2019-01-10T17:00:00Z</cell>
-    <cell name="launch date/time">2019-01-10T17:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g99ac7</cell>
-  </row>
-  <row index="21">
+  <row index="22">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-2-en</cell>
     <cell name="title">Reader's guide (en)</cell>
@@ -374,7 +391,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd74</cell>
   </row>
-  <row index="22">
+  <row index="23">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-graph16-en</cell>
     <cell name="title">Trend in number of graduates from private and public higher education institutions in Mexico, 2005-2016 (en)</cell>
@@ -391,7 +408,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd8e</cell>
   </row>
-  <row index="23">
+  <row index="24">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-graph28-en</cell>
     <cell name="title">Labour market outcomes of young higher education graduates (25-34 year-olds) in Mexico by field of study, 2017 (en)</cell>
@@ -408,11 +425,11 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd9c</cell>
   </row>
-  <row index="24">
+  <row index="25">
     <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/9789264309432-en</cell>
-    <cell name="title">Higher Education in Mexico (en)</cell>
-    <cell name="subtitle">Labour Market Relevance and Outcomes (en)</cell>
+    <cell name="doi">10.1787/9789264309371-en</cell>
+    <cell name="title">The Future of Mexican Higher Education (en)</cell>
+    <cell name="subtitle">Promoting Quality and Equity (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
@@ -423,9 +440,9 @@
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g99af1</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g99ac7</cell>
   </row>
-  <row index="25">
+  <row index="26">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-3-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -442,7 +459,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd76</cell>
   </row>
-  <row index="26">
+  <row index="27">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-table29-en</cell>
     <cell name="title">Employment outcomes of young higher education graduates (25-34 year-olds) in Mexico by field of study, 2017 or latest data (en)</cell>
@@ -459,7 +476,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd9d</cell>
   </row>
-  <row index="27">
+  <row index="28">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-1-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -475,23 +492,6 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd71</cell>
-  </row>
-  <row index="28">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/9789264309432-en</cell>
-    <cell name="title">Higher Education in Mexico (en)</cell>
-    <cell name="subtitle">Labour Market Relevance and Outcomes (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-01-10</cell>
-    <cell name="embargo date">2019-01-10T17:00:00Z</cell>
-    <cell name="launch date/time">2019-01-10T17:00:00Z</cell>
-    <cell name="ilibrary last export date">2019-01-08T23:21:56Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd70</cell>
   </row>
   <row index="29">
     <cell name="directorate">Directorate for Education and Skills</cell>
@@ -546,23 +546,6 @@
   </row>
   <row index="32">
     <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/9789264309432-en</cell>
-    <cell name="title">Higher Education in Mexico (en)</cell>
-    <cell name="subtitle">Labour Market Relevance and Outcomes (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-01-10</cell>
-    <cell name="embargo date">2019-01-10T17:00:00Z</cell>
-    <cell name="launch date/time">2019-01-10T17:00:00Z</cell>
-    <cell name="ilibrary last export date">2019-01-08T23:21:56Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd6f</cell>
-  </row>
-  <row index="33">
-    <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-graph26-en</cell>
     <cell name="title">Relative earnings of young higher education graduates (25-34 year-olds) by educational attainment, 2016 (en)</cell>
     <cell name="subtitle">Upper secondary level education (ISCED 3) or (ISCED 3+4) = 100. Full-time, full-year earners. (en)</cell>
@@ -578,7 +561,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd9a</cell>
   </row>
-  <row index="34">
+  <row index="33">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-graph21-en</cell>
     <cell name="title">Employment of young higher education graduates (25-34 year-olds) in Mexico by sector and type of employer, 2017 (en)</cell>
@@ -595,7 +578,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd95</cell>
   </row>
-  <row index="35">
+  <row index="34">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-graph32-en</cell>
     <cell name="title">Labour market outcomes of young higher education graduates (25-34 year-olds) in Mexico by state, 2017 (en)</cell>
@@ -612,7 +595,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dda0</cell>
   </row>
-  <row index="36">
+  <row index="35">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-graph33-en</cell>
     <cell name="title">Informal employment and overqualification rates of young higher education graduates (25-34 year-olds) in Mexico by state, 2017 (en)</cell>
@@ -629,7 +612,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dda1</cell>
   </row>
-  <row index="37">
+  <row index="36">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-9-en</cell>
     <cell name="title">Enhancing labour market relevance and outcomes through higher education (en)</cell>
@@ -646,7 +629,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dda3</cell>
   </row>
-  <row index="38">
+  <row index="37">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-graph20-en</cell>
     <cell name="title">Employment and inactivity rates for young higher education graduates (25-34 year-olds), 2017 (en)</cell>
@@ -663,7 +646,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd94</cell>
   </row>
-  <row index="39">
+  <row index="38">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-graph24-en</cell>
     <cell name="title">Informal employment rates for young (25-34 year-olds) and older (35-44 year-olds) higher education graduates in Mexico by field of study, averages 2013 - 2017 (en)</cell>
@@ -680,7 +663,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd98</cell>
   </row>
-  <row index="40">
+  <row index="39">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-10-en</cell>
     <cell name="title">Enhancing labour market relevance and outcomes through policy (en)</cell>
@@ -697,7 +680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dda4</cell>
   </row>
-  <row index="41">
+  <row index="40">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-table14-en</cell>
     <cell name="title">Enrolment by ISCED level, 2016-2017 (en)</cell>
@@ -714,7 +697,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd8c</cell>
   </row>
-  <row index="42">
+  <row index="41">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-7-en</cell>
     <cell name="title">The structure and governance of higher education in Mexico (en)</cell>
@@ -731,7 +714,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd86</cell>
   </row>
-  <row index="43">
+  <row index="42">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-5-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -748,7 +731,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd7a</cell>
   </row>
-  <row index="44">
+  <row index="43">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-graph17-en</cell>
     <cell name="title">Public and private expenditure on higher education institutions as a percentage of GDP, 2015 (en)</cell>
@@ -765,7 +748,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd8f</cell>
   </row>
-  <row index="45">
+  <row index="44">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-graph19-en</cell>
     <cell name="title">Employment rates of young graduates (25-34 year-olds) from higher education and upper secondary or post-secondary non-tertiary education, 2017 (en)</cell>
@@ -782,7 +765,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd93</cell>
   </row>
-  <row index="46">
+  <row index="45">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-graph31-en</cell>
     <cell name="title">Labour market outcomes of young higher education graduates (25-34 year-olds) in Mexico by gender, 2017 (en)</cell>
@@ -799,7 +782,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd9f</cell>
   </row>
-  <row index="47">
+  <row index="46">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-4-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -816,7 +799,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd78</cell>
   </row>
-  <row index="48">
+  <row index="47">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-graph4-en</cell>
     <cell name="title">Disposable household income across Mexican states, 2008 and 2016 (en)</cell>
@@ -833,7 +816,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd80</cell>
   </row>
-  <row index="49">
+  <row index="48">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-8-en</cell>
     <cell name="title">Labour market outcomes of higher education graduates (en)</cell>
@@ -850,7 +833,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd91</cell>
   </row>
-  <row index="50">
+  <row index="49">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-graph30-en</cell>
     <cell name="title">Entrepreneurship rates of young higher education graduates (25-34 year-olds) in Mexico by field of study, averages 2013-2017 (en)</cell>
@@ -867,7 +850,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd9e</cell>
   </row>
-  <row index="51">
+  <row index="50">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-graph1-en</cell>
     <cell name="title">Population of Mexico by state, 2001 and 2017 (en)</cell>
@@ -884,7 +867,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd7d</cell>
   </row>
-  <row index="52">
+  <row index="51">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-6-en</cell>
     <cell name="title">The economy and labour market (en)</cell>
@@ -901,7 +884,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd7b</cell>
   </row>
-  <row index="53">
+  <row index="52">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-5-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -917,6 +900,23 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd79</cell>
+  </row>
+  <row index="53">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/9789264309432-en</cell>
+    <cell name="title">Higher Education in Mexico (en)</cell>
+    <cell name="subtitle">Labour Market Relevance and Outcomes (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-10</cell>
+    <cell name="embargo date">2019-01-10T17:00:00Z</cell>
+    <cell name="launch date/time">2019-01-10T17:00:00Z</cell>
+    <cell name="ilibrary last export date">2019-01-08T23:21:56Z</cell>
+    <cell name="freepreview last export date">2019-01-08T20:39:39Z</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g99aff</cell>
   </row>
   <row index="54">
     <cell name="directorate">Directorate for Education and Skills</cell>
@@ -971,23 +971,6 @@
   </row>
   <row index="57">
     <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/9789264309371-en</cell>
-    <cell name="title">The Future of Mexican Higher Education (en)</cell>
-    <cell name="subtitle">Promoting Quality and Equity (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-01-10</cell>
-    <cell name="embargo date">2019-01-10T17:00:00Z</cell>
-    <cell name="launch date/time">2019-01-10T17:00:00Z</cell>
-    <cell name="ilibrary last export date">2019-01-08T23:21:56Z</cell>
-    <cell name="freepreview last export date">2019-01-08T20:39:39Z</cell>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g99ac8</cell>
-  </row>
-  <row index="58">
-    <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-table22-en</cell>
     <cell name="title">Employment outcomes of young higher education graduates (25-34 year-olds) in Mexico by levels of study and gender, 2017 or latest data (en)</cell>
     <cell name="subtitle"/>
@@ -1003,7 +986,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd96</cell>
   </row>
-  <row index="59">
+  <row index="58">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309432-3-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -1020,7 +1003,41 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd75</cell>
   </row>
+  <row index="59">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/9789264309371-en</cell>
+    <cell name="title">The Future of Mexican Higher Education (en)</cell>
+    <cell name="subtitle">Promoting Quality and Equity (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-10</cell>
+    <cell name="embargo date">2019-01-10T17:00:00Z</cell>
+    <cell name="launch date/time">2019-01-10T17:00:00Z</cell>
+    <cell name="ilibrary last export date">2019-01-08T23:21:56Z</cell>
+    <cell name="freepreview last export date">2019-01-08T20:39:39Z</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g99ac8</cell>
+  </row>
   <row index="60">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/9789264311312-en</cell>
+    <cell name="title">Ready to Help? (en)</cell>
+    <cell name="subtitle">Improving Resilience of Integration Systems for Refugees and other Vulnerable Migrants (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-11</cell>
+    <cell name="embargo date">2019-01-11T10:00:00Z</cell>
+    <cell name="launch date/time">2019-01-11T10:00:00Z</cell>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9d904</cell>
+  </row>
+  <row index="61">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d2821a65-en</cell>
     <cell name="title">Curriculum alignment and progression between early childhood education and care and primary school  (en)</cell>
@@ -1037,7 +1054,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/48b8df96</cell>
   </row>
-  <row index="61">
+  <row index="62">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d2821a65-en</cell>
     <cell name="title">Curriculum alignment and progression between early childhood education and care and primary school  (en)</cell>
@@ -1054,7 +1071,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/48b8df96</cell>
   </row>
-  <row index="62">
+  <row index="63">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-dnk-2019-en</cell>
     <cell name="title">OECD Economic Surveys: Denmark 2019 (en)</cell>
@@ -1071,24 +1088,1044 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9b001</cell>
   </row>
-  <row index="63">
+  <row index="64">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-dnk-2019-en</cell>
     <cell name="title">OECD Economic Surveys: Denmark 2019 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2019-01-15</cell>
     <cell name="embargo date">2019-01-15T10:00:00Z</cell>
     <cell name="launch date/time">2019-01-15T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-12-17T23:02:45Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
     <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9b002</cell>
   </row>
-  <row index="64">
+  <row index="65">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph10-en</cell>
+    <cell name="title">The growth of AI technologies (en)</cell>
+    <cell name="subtitle">Number of patents in artificial intelligence technologies, 1991-2015 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0b5</cell>
+  </row>
+  <row index="66">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph27-en</cell>
+    <cell name="title">Eye of the storm: increasing natural disasters worldwide (en)</cell>
+    <cell name="subtitle">Number of recorded events, 1900-2018 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0c8</cell>
+  </row>
+  <row index="67">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph8-en</cell>
+    <cell name="title">World's fastest growing waste problem (en)</cell>
+    <cell name="subtitle">E-waste volume growth rates in percentage by category, 2010-2020 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0b3</cell>
+  </row>
+  <row index="68">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph44-en</cell>
+    <cell name="title">Partners in time (en)</cell>
+    <cell name="subtitle">Number of OECD countries granting paid paternity leave, 1975-2016 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0db</cell>
+  </row>
+  <row index="69">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph3-en</cell>
+    <cell name="title">Ready for take-off? (en)</cell>
+    <cell name="subtitle">Increasing air transport of people (left axis) and freight (right axis), 1970-2017 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0ae</cell>
+  </row>
+  <row index="70">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph12-en</cell>
+    <cell name="title">Civic rights, civic duties? (en)</cell>
+    <cell name="subtitle">The world's offshore household financial wealth, 2001-2015 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0b8</cell>
+  </row>
+  <row index="71">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph37-en</cell>
+    <cell name="title">Ageing societies, ageing markets? (en)</cell>
+    <cell name="subtitle">Population 65+ as percentage of the total population, OECD average, 1990-2100 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0d3</cell>
+  </row>
+  <row index="72">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph48-en</cell>
+    <cell name="title">Log on, check in, cash out (en)</cell>
+    <cell name="subtitle">Airbnb hosts and nights hosted in the US and major European markets, 2010-2016 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0df</cell>
+  </row>
+  <row index="73">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-7-en</cell>
+    <cell name="title">Living longer, living better (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0cc</cell>
+  </row>
+  <row index="74">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-1-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0a8</cell>
+  </row>
+  <row index="75">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph31-en</cell>
+    <cell name="title">Getting on in years (en)</cell>
+    <cell name="subtitle">Life expectancy at birth, 1970 and 2015 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0cd</cell>
+  </row>
+  <row index="76">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-2-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0a9</cell>
+  </row>
+  <row index="77">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph40-en</cell>
+    <cell name="title">Digital crime (en)</cell>
+    <cell name="subtitle">Internet fraud complaints, total number (right axis) and percentage by age group (left axis), 2001-2017 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0d6</cell>
+  </row>
+  <row index="78">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph1-en</cell>
+    <cell name="title">China and India's share of the pie (en)</cell>
+    <cell name="subtitle">Composition of world output (%) in USD at 2010 PPPs, 2005-2030 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0ac</cell>
+  </row>
+  <row index="79">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph18-en</cell>
+    <cell name="title">Objective: 50/50 (en)</cell>
+    <cell name="subtitle">Number of countries with laws defining gender quotas in national legislatures worldwide, 1990-2014 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0be</cell>
+  </row>
+  <row index="80">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph4-en</cell>
+    <cell name="title">Interconnected global trade (en)</cell>
+    <cell name="subtitle">World's exports by origin (left) and type (right), 1995-2015 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0af</cell>
+  </row>
+  <row index="81">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph32-en</cell>
+    <cell name="title">70 is the new 60 (en)</cell>
+    <cell name="subtitle">Total gains in life expectancy at birth, OECD countries, 2000-2016 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0ce</cell>
+  </row>
+  <row index="82">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph17-en</cell>
+    <cell name="title">This land is your land (en)</cell>
+    <cell name="subtitle">Adoption of multiculturalism policy for immigrant minorities, 1960-2011 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0bd</cell>
+  </row>
+  <row index="83">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph5-en</cell>
+    <cell name="title">More people on the move (en)</cell>
+    <cell name="subtitle">Estimates of international migrant stock by region of destination, 1990-2017 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0b0</cell>
+  </row>
+  <row index="84">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph38-en</cell>
+    <cell name="title">Elders' expenditure power (en)</cell>
+    <cell name="subtitle">Percentage change in relative income of 60-64 vs 30-34 between the mid-1980s and the mid-2010s (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0d4</cell>
+  </row>
+  <row index="85">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph2-en</cell>
+    <cell name="title">The global middle class on the rise (en)</cell>
+    <cell name="subtitle">Estimates of the size of the global middle class, percentage of the world population (left axis) and headcount (right axis), 1950-2030 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0ad</cell>
+  </row>
+  <row index="86">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph35-en</cell>
+    <cell name="title">Time to retire? (en)</cell>
+    <cell name="subtitle">Average years in retirement across all OECD countries, 1970-2016 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0d1</cell>
+  </row>
+  <row index="87">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph13-en</cell>
+    <cell name="title">Declining voter turnout in OECD countries (en)</cell>
+    <cell name="subtitle">Change in average voting rates per decade in OECD countries, 1990s and 2010s (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0b9</cell>
+  </row>
+  <row index="88">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph24-en</cell>
+    <cell name="title">Increasing need for privacy and security experts (en)</cell>
+    <cell name="subtitle">Number of certified/professional privacy and security experts, 2003-2018 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0c5</cell>
+  </row>
+  <row index="89">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph16-en</cell>
+    <cell name="title">Para-diplomacy on the rise in cities (en)</cell>
+    <cell name="subtitle">Cumulative number of city networks, 1885-2017 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0bc</cell>
+  </row>
+  <row index="90">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph6-en</cell>
+    <cell name="title">Sending money home (en)</cell>
+    <cell name="subtitle">Remittances compared with other resource flows to developing countries, 1970-2017 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0b1</cell>
+  </row>
+  <row index="91">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph33-en</cell>
+    <cell name="title">The dementia threat (en)</cell>
+    <cell name="subtitle">People with dementia per 1 000 population (all ages), 2017 and estimates for 2037 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0cf</cell>
+  </row>
+  <row index="92">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-5-en</cell>
+    <cell name="title">Public matters (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0b6</cell>
+  </row>
+  <row index="93">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph9-en</cell>
+    <cell name="title">Supporting clean energy technologies (en)</cell>
+    <cell name="subtitle">Public and private spending on R&amp;D, 2012-2017 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0b4</cell>
+  </row>
+  <row index="94">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-en</cell>
+    <cell name="title">Trends Shaping Education 2019 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time">2019-01-21T09:00:00Z</cell>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g99475</cell>
+  </row>
+  <row index="95">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-8-en</cell>
+    <cell name="title">Modern cultures (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0d7</cell>
+  </row>
+  <row index="96">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph22-en</cell>
+    <cell name="title">The rise of superbugs (en)</cell>
+    <cell name="subtitle">Average proportion of infections caused by bacteria resistant to antimicrobial treatment for eight antibiotic-bacterium combinations in 2005, 2015 and 2030 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0c3</cell>
+  </row>
+  <row index="97">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph47-en</cell>
+    <cell name="title">Mass self-communication and creative expression (en)</cell>
+    <cell name="subtitle">Individuals using the Internet (last 3 months) for uploading self-created content on sharing websites, 2008 and 2017 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0de</cell>
+  </row>
+  <row index="98">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph29-en</cell>
+    <cell name="title">Household savings and debt (en)</cell>
+    <cell name="subtitle">Household savings (% of disposable income, left axis) and household debt (% of disposable income, right axis), OECD average, 1970-2016 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0ca</cell>
+  </row>
+  <row index="99">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph36-en</cell>
+    <cell name="title">Working later in life (en)</cell>
+    <cell name="subtitle">Senior and older (50-74 years) labour participation rates (% of the age group), 2006 and 2016 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0d2</cell>
+  </row>
+  <row index="100">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph26-en</cell>
+    <cell name="title">Peace across time (en)</cell>
+    <cell name="subtitle">Probability of inhabiting a country with an armed conflict, 1820-2000 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0c7</cell>
+  </row>
+  <row index="101">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-3-en</cell>
+    <cell name="title">Global mega-trends and the future of education (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0aa</cell>
+  </row>
+  <row index="102">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph45-en</cell>
+    <cell name="title">Out of wedlock, but not out of the ordinary (en)</cell>
+    <cell name="subtitle">Proportion of all births where mother's marital status at time of birth is other than married, 1970 and 2016 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0dc</cell>
+  </row>
+  <row index="103">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph7-en</cell>
+    <cell name="title">China and India consuming more (en)</cell>
+    <cell name="subtitle">Shares of global middle class consumption, 2000-2030 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0b2</cell>
+  </row>
+  <row index="104">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph43-en</cell>
+    <cell name="title">Closing the gap (en)</cell>
+    <cell name="subtitle">Unadjusted difference between median earnings of men and women relative to median earnings of men, % of male median wage, OECD average, 1995-2016 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0da</cell>
+  </row>
+  <row index="105">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph41-en</cell>
+    <cell name="title">Access to access (en)</cell>
+    <cell name="subtitle">Number of mobile broadband subscriptions per 100 inhabitants, OECD average, 2009-2017 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0d8</cell>
+  </row>
+  <row index="106">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph19-en</cell>
+    <cell name="title">Rural economic landscape shifting (en)</cell>
+    <cell name="subtitle">Share of employment in primary activities in predominantly rural regions, 2000 and 2014 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0bf</cell>
+  </row>
+  <row index="107">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph23-en</cell>
+    <cell name="title">Too big for your (data) breaches? (en)</cell>
+    <cell name="subtitle">World's biggest data breaches by method of leak (billions of records lost), 2004-2018 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0c4</cell>
+  </row>
+  <row index="108">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph11-en</cell>
+    <cell name="title">Income gap continues to grow (en)</cell>
+    <cell name="subtitle">Trends in real household incomes by percentile, OECD average, 1985-2015 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0b7</cell>
+  </row>
+  <row index="109">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph42-en</cell>
+    <cell name="title">Freeing up work? (en)</cell>
+    <cell name="subtitle">Combined registered users of Upwork and Freelancer, 2005-2016 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0d9</cell>
+  </row>
+  <row index="110">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph21-en</cell>
+    <cell name="title">Safer on the roads (en)</cell>
+    <cell name="subtitle">Number of road fatalities per 100 000 population, 1970, 1990 and 2016 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0c2</cell>
+  </row>
+  <row index="111">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph28-en</cell>
+    <cell name="title">Toxic air (en)</cell>
+    <cell name="subtitle">Projected number of deaths caused by outdoor air pollution per year per million people, 2010 and 2060 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0c9</cell>
+  </row>
+  <row index="112">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph20-en</cell>
+    <cell name="title">Distance matters (en)</cell>
+    <cell name="subtitle">Change in the share of population living in rural regions, 2000‑2014 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0c0</cell>
+  </row>
+  <row index="113">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph14-en</cell>
+    <cell name="title">Reading the news online: Is this for real? (en)</cell>
+    <cell name="subtitle">Individuals using the Internet (last 3 months) for reading/downloading the news online, 2005 and 2017 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0ba</cell>
+  </row>
+  <row index="114">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph46-en</cell>
+    <cell name="title">Spare the child (en)</cell>
+    <cell name="subtitle">Cumulative number of states prohibiting all corporal punishment of children by law, 1978-2018 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0dd</cell>
+  </row>
+  <row index="115">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph39-en</cell>
+    <cell name="title">Going digital (en)</cell>
+    <cell name="subtitle">Different Internet uses by age group (last 3 months), OECD average, 2008, 2013 and 2017 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0d5</cell>
+  </row>
+  <row index="116">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph30-en</cell>
+    <cell name="title">Precarious workers (en)</cell>
+    <cell name="subtitle">Expected percentage earnings loss associated with unemployment, 2007 and 2015 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0cb</cell>
+  </row>
+  <row index="117">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-6-en</cell>
+    <cell name="title">Security in a risky world (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0c1</cell>
+  </row>
+  <row index="118">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph49-en</cell>
+    <cell name="title">Eco-mobility (en)</cell>
+    <cell name="subtitle">Number of electric cars in circulation worldwide, 2013-2017 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0e0</cell>
+  </row>
+  <row index="119">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph50-en</cell>
+    <cell name="title">Carnivorous future (en)</cell>
+    <cell name="subtitle">Past and forecast annual meat consumption by location, thousand tonnes, 2000-2026 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0e1</cell>
+  </row>
+  <row index="120">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-4-en</cell>
+    <cell name="title">Shifting global gravity (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0ab</cell>
+  </row>
+  <row index="121">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph34-en</cell>
+    <cell name="title">A loneliness epidemic in the making? (en)</cell>
+    <cell name="subtitle">Share of households inhabited by a single person, selected OECD countries, 1970, 2000 and 2017 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0d0</cell>
+  </row>
+  <row index="122">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-en</cell>
+    <cell name="title">Trends Shaping Education 2019 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time">2019-01-21T09:00:00Z</cell>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g99474</cell>
+  </row>
+  <row index="123">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph15-en</cell>
+    <cell name="title">Sovereignty disputes: Should I stay or should I go? (en)</cell>
+    <cell name="subtitle">Decade-wise sovereignty referendums by type and frequency, 1776-2017 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0bb</cell>
+  </row>
+  <row index="124">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-graph25-en</cell>
+    <cell name="title">Mutually assured détente? (en)</cell>
+    <cell name="subtitle">Number of worldwide nuclear tests, 1945-2018 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0c6</cell>
+  </row>
+  <row index="125">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264306585-es</cell>
     <cell name="title">Simplificación Administrativa en el Instituto Mexicano del Seguro Social (es)</cell>

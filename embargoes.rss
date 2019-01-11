@@ -8,13 +8,13 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Thu, 10 Jan 2019 05:09:25 GMT</pubDate>
+      <pubDate>Fri, 11 Jan 2019 05:42:37 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
                  type="application/rss+xml"/>
       <item>
-         <guid isPermaLink="false">10.1787/9789264309432-en-d3e341</guid>
+         <guid isPermaLink="false">10.1787/9789264309432-en-d3e2549</guid>
          <pubDate>Thu, 10 Jan 2019 18:00:00 GMT</pubDate>
          <title>Higher Education in Mexico - Labour Market Relevance and Outcomes</title>
          <link>https://doi.org/10.1787/9789264309432-en</link>
@@ -29,7 +29,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/9789264309371-en-d3e2743</guid>
+         <guid isPermaLink="false">10.1787/9789264309371-en-d3e2840</guid>
          <pubDate>Thu, 10 Jan 2019 18:00:00 GMT</pubDate>
          <title>The Future of Mexican Higher Education - Promoting Quality and Equity</title>
          <link>https://doi.org/10.1787/9789264309371-en</link>
@@ -44,7 +44,22 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/d2821a65-en-d3e2890</guid>
+         <guid isPermaLink="false">10.1787/9789264311312-en-d3e2890</guid>
+         <pubDate>Fri, 11 Jan 2019 11:00:00 GMT</pubDate>
+         <title>Ready to Help? - Improving Resilience of Integration Systems for Refugees and other Vulnerable Migrants</title>
+         <link>https://doi.org/10.1787/9789264311312-en</link>
+         <description>Ready to Help? - Improving Resilience of Integration Systems for Refugees and other Vulnerable Migrants by Directorate for Employment, Labour and Social Affairs has an embargo on Friday 11 January 2019 at 11:00 and a launch event planned on Friday 11 January 2019 at 11:00.</description>
+         <oe:embargoTime>Fri, 11 Jan 2019 11:00:00 GMT</oe:embargoTime>
+         <oe:launchTime>Fri, 11 Jan 2019 11:00:00 GMT</oe:launchTime>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Friday, 11 January 2019, 0:04 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport>Thursday, 10 January 2019, 21:37 (GMT)</oe:freePreviewExport>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/d2821a65-en-d3e2940</guid>
          <pubDate>Fri, 11 Jan 2019 12:00:00 GMT</pubDate>
          <title>Curriculum alignment and progression between early childhood education and care and primary school  - A brief review and case studies</title>
          <link>https://doi.org/10.1787/d2821a65-en</link>
@@ -59,7 +74,7 @@
          <oe:catalogueType>Working paper</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/d2821a65-en-d3e2939</guid>
+         <guid isPermaLink="false">10.1787/d2821a65-en-d3e2989</guid>
          <pubDate>Fri, 11 Jan 2019 12:00:00 GMT</pubDate>
          <title>Curriculum alignment and progression between early childhood education and care and primary school  - A brief review and case studies</title>
          <link>https://doi.org/10.1787/d2821a65-en</link>
@@ -74,7 +89,7 @@
          <oe:catalogueType>Working paper</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/eco_surveys-dnk-2019-en-d3e3032</guid>
+         <guid isPermaLink="false">10.1787/eco_surveys-dnk-2019-en-d3e3082</guid>
          <pubDate>Tue, 15 Jan 2019 11:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: Denmark 2019</title>
          <link>https://doi.org/10.1787/eco_surveys-dnk-2019-en</link>
@@ -83,10 +98,25 @@
          <oe:launchTime>Tue, 15 Jan 2019 11:00:00 GMT</oe:launchTime>
          <oe:languages>English</oe:languages>
          <oe:directorate>Economics Department</oe:directorate>
-         <oe:ftiLoaded/>
-         <oe:iLibraryExport>Tuesday, 18 December 2018, 0:02 (GMT)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Friday, 11 January 2019, 0:04 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport>Thursday, 10 January 2019, 21:37 (GMT)</oe:freePreviewExport>
          <oe:catalogueType>Economic survey</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/trends_edu-2019-en-d3e4553</guid>
+         <pubDate>Mon, 21 Jan 2019 10:00:00 GMT</pubDate>
+         <title>Trends Shaping Education 2019</title>
+         <link>https://doi.org/10.1787/trends_edu-2019-en</link>
+         <description>Trends Shaping Education 2019 by Directorate for Education and Skills has an embargo on Monday 21 January 2019 at 10:00 and a launch event planned on Monday 21 January 2019 at 10:00.</description>
+         <oe:embargoTime>Mon, 21 Jan 2019 10:00:00 GMT</oe:embargoTime>
+         <oe:launchTime>Mon, 21 Jan 2019 10:00:00 GMT</oe:launchTime>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Directorate for Education and Skills</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Friday, 11 January 2019, 0:04 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport>Thursday, 10 January 2019, 21:37 (GMT)</oe:freePreviewExport>
+         <oe:catalogueType>Book</oe:catalogueType>
       </item>
    </channel>
 </rss>
