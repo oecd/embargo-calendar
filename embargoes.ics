@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/9789264309432-end3e2549
+UID:10.1787/9789264309432-end3e1201
 SUMMARY:Higher Education in Mexico - Labour Mark
  et Relevance and Outcomes
 DESCRIPTION:*Higher Education in Mexico - Labour Mar
@@ -21,8 +21,8 @@ DESCRIPTION:*Higher Education in Mexico - Labour Mar
  tion see: https://github.com/oecd/embarg
  o-calendar/blob/master/embargoes-by-publ
  ication.md.\n\nPlease note: This informa
- tion was correct as of this morning at 5
- :42, it is updated each night; therefore
+ tion was correct as of this morning at 6
+ :10, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -30,7 +30,7 @@ DESCRIPTION:*Higher Education in Mexico - Labour Mar
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=9789264309432-en.
-DTSTAMP:20190111T054234Z
+DTSTAMP:20190112T061046Z
 DTSTART:20190110T170000Z
 DTEND:20190110T171500Z
 TRANSP:TRANSPARENT
@@ -44,7 +44,7 @@ DESCRIPTION:Reminder: Higher Education in Mexico - L
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264309371-end3e2840
+UID:10.1787/9789264309371-end3e2262
 SUMMARY:The Future of Mexican Higher Education -
   Promoting Quality and Equity
 DESCRIPTION:*The Future of Mexican Higher Education 
@@ -63,7 +63,7 @@ DESCRIPTION:*The Future of Mexican Higher Education
  : https://github.com/oecd/embargo-calend
  ar/blob/master/embargoes-by-publication.
  md.\n\nPlease note: This information was
-  correct as of this morning at 5:42, it 
+  correct as of this morning at 6:10, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -72,7 +72,7 @@ DESCRIPTION:*The Future of Mexican Higher Education
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=9789264309371-en.
-DTSTAMP:20190111T054234Z
+DTSTAMP:20190112T061046Z
 DTSTART:20190110T170000Z
 DTEND:20190110T171500Z
 TRANSP:TRANSPARENT
@@ -108,7 +108,7 @@ DESCRIPTION:*Ready to Help? - Improving Resilience o
  cd/embargo-calendar/blob/master/embargoe
  s-by-publication.md.\n\nPlease note: Thi
  s information was correct as of this mor
- ning at 5:42, it is updated each night; 
+ ning at 6:10, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -117,7 +117,7 @@ DESCRIPTION:*Ready to Help? - Improving Resilience o
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=9789264311
  312-en.
-DTSTAMP:20190111T054234Z
+DTSTAMP:20190112T061046Z
 DTSTART:20190111T100000Z
 DTEND:20190111T101500Z
 TRANSP:TRANSPARENT
@@ -144,25 +144,25 @@ DESCRIPTION:*Curriculum alignment and progression be
  te for Education and Skills\nLanguage: E
  nglish\nDOI: https://doi.org/10.1787/d28
  21a65-en\nPublication type: Working pape
- r\nReleased as: PDF, PDF\n\nEmbargo date
- /time: Friday, 11 January 2019, 11:00 (G
- MT)\n\n\niLibrary export: Wednesday, 9 J
- anuary 2019, 23:25 (GMT)\nFreepreview ex
- port: Wednesday, 9 January 2019, 20:43 (
- GMT)\nFTI loaded: ✓\n\nFor more informat
- ion see: https://github.com/oecd/embargo
- -calendar/blob/master/embargoes-by-publi
- cation.md.\n\nPlease note: This informat
- ion was correct as of this morning at 5:
- 42, it is updated each night; therefore 
- any subsequent updates may not yet be vi
- sible here. Also, please be aware that t
- he different released media (PDF, HTML, 
- etc.) are not necessarily released at th
- e same time. For complete and up-to-date
-  information see here: http://kappa.oecd
- .org/v3/search?term=d2821a65-en.
-DTSTAMP:20190111T054234Z
+ r\nReleased as: PDF\n\nEmbargo date/time
+ : Friday, 11 January 2019, 11:00 (GMT)\n
+ \n\niLibrary export: Wednesday, 9 Januar
+ y 2019, 23:25 (GMT)\nFreepreview export:
+  Wednesday, 9 January 2019, 20:43 (GMT)\
+ nFTI loaded: ✓\n\nFor more information s
+ ee: https://github.com/oecd/embargo-cale
+ ndar/blob/master/embargoes-by-publicatio
+ n.md.\n\nPlease note: This information w
+ as correct as of this morning at 6:10, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=d2821a65-en.
+DTSTAMP:20190112T061046Z
 DTSTART:20190111T110000Z
 DTEND:20190111T111500Z
 TRANSP:TRANSPARENT
@@ -178,52 +178,87 @@ DESCRIPTION:Reminder: Curriculum alignment and progr
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d2821a65-end3e2989
-SUMMARY:Curriculum alignment and progression bet
- ween early childhood education and care 
- and primary school  - A brief review and
-  case studies
-DESCRIPTION:*Curriculum alignment and progression be
- tween early childhood education and care
-  and primary school - A brief review and
-  case studies*\n\nDirectorate: Directora
- te for Education and Skills\nLanguage: E
- nglish\nDOI: https://doi.org/10.1787/d28
- 21a65-en\nPublication type: Working pape
- r\nReleased as: PDF, PDF\n\nEmbargo date
- /time: Friday, 11 January 2019, 11:00 (G
- MT)\n\n\niLibrary export: never\nFreepre
- view export: never\nFTI loaded: ✓\n\nFor
-  more information see: https://github.co
- m/oecd/embargo-calendar/blob/master/emba
- rgoes-by-publication.md.\n\nPlease note:
-  This information was correct as of this
-  morning at 5:42, it is updated each nig
- ht; therefore any subsequent updates may
-  not yet be visible here. Also, please b
- e aware that the different released medi
- a (PDF, HTML, etc.) are not necessarily 
- released at the same time. For complete 
- and up-to-date information see here: htt
- p://kappa.oecd.org/v3/search?term=d2821a
- 65-en.
-DTSTAMP:20190111T054234Z
-DTSTART:20190111T110000Z
-DTEND:20190111T111500Z
+UID:10.1787/d7c28431-end3e2989
+SUMMARY:How is students’ motivation related to t
+ heir performance and anxiety?
+DESCRIPTION:*How is students’ motivation related to 
+ their performance and anxiety?*\n\nDirec
+ torate: Directorate for Education and Sk
+ ills\nLanguage: English\nDOI: https://do
+ i.org/10.1787/d7c28431-en\nPublication t
+ ype: Working paper\nReleased as: PDF, PD
+ F\n\nEmbargo date/time: Tuesday, 15 Janu
+ ary 2019, 5:00 (GMT)\n\n\niLibrary expor
+ t: never\nFreepreview export: never\nFTI
+  loaded: ✓\n\nFor more information see: 
+ https://github.com/oecd/embargo-calendar
+ /blob/master/embargoes-by-publication.md
+ .\n\nPlease note: This information was c
+ orrect as of this morning at 6:10, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=d7c28431-en.
+DTSTAMP:20190112T061046Z
+DTSTART:20190115T050000Z
+DTEND:20190115T051500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Curriculum alignment and progr
- ession between early childhood education
-  and care and primary school  - A brief 
- review and case studies
+DESCRIPTION:Reminder: How is students’ motivation re
+ lated to their performance and anxiety?
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/eco_surveys-dnk-2019-end3e3082
+UID:10.1787/d7c28431-end3e3035
+SUMMARY:How is students’ motivation related to t
+ heir performance and anxiety?
+DESCRIPTION:*How is students’ motivation related to 
+ their performance and anxiety?*\n\nDirec
+ torate: Directorate for Education and Sk
+ ills\nLanguage: English\nDOI: https://do
+ i.org/10.1787/d7c28431-en\nPublication t
+ ype: Working paper\nReleased as: PDF, PD
+ F\n\nEmbargo date/time: Tuesday, 15 Janu
+ ary 2019, 5:00 (GMT)\n\n\niLibrary expor
+ t: Friday, 11 January 2019, 22:54 (GMT)\
+ nFreepreview export: Friday, 11 January 
+ 2019, 20:30 (GMT)\nFTI loaded: ✓\n\nFor 
+ more information see: https://github.com
+ /oecd/embargo-calendar/blob/master/embar
+ goes-by-publication.md.\n\nPlease note: 
+ This information was correct as of this 
+ morning at 6:10, it is updated each nigh
+ t; therefore any subsequent updates may 
+ not yet be visible here. Also, please be
+  aware that the different released media
+  (PDF, HTML, etc.) are not necessarily r
+ eleased at the same time. For complete a
+ nd up-to-date information see here: http
+ ://kappa.oecd.org/v3/search?term=d7c2843
+ 1-en.
+DTSTAMP:20190112T061046Z
+DTSTART:20190115T050000Z
+DTEND:20190115T051500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How is students’ motivation re
+ lated to their performance and anxiety?
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/eco_surveys-dnk-2019-end3e3130
 SUMMARY:OECD Economic Surveys: Denmark 2019
 DESCRIPTION:*OECD Economic Surveys: Denmark 2019*\n\
  nDirectorate: Economics Department\nLang
@@ -241,7 +276,7 @@ DESCRIPTION:*OECD Economic Surveys: Denmark 2019*\n\
  rgo-calendar/blob/master/embargoes-by-pu
  blication.md.\n\nPlease note: This infor
  mation was correct as of this morning at
-  5:42, it is updated each night; therefo
+  6:10, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -250,7 +285,7 @@ DESCRIPTION:*OECD Economic Surveys: Denmark 2019*\n\
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=eco_surveys-dnk-2
  019-en.
-DTSTAMP:20190111T054234Z
+DTSTAMP:20190112T061046Z
 DTSTART:20190115T100000Z
 DTEND:20190115T101500Z
 TRANSP:TRANSPARENT
@@ -264,7 +299,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Denmark
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/trends_edu-2019-end3e4553
+UID:10.1787/trends_edu-2019-end3e4112
 SUMMARY:Trends Shaping Education 2019
 DESCRIPTION:*Trends Shaping Education 2019*\n\nDirec
  torate: Directorate for Education and Sk
@@ -281,7 +316,7 @@ DESCRIPTION:*Trends Shaping Education 2019*\n\nDirec
  : https://github.com/oecd/embargo-calend
  ar/blob/master/embargoes-by-publication.
  md.\n\nPlease note: This information was
-  correct as of this morning at 5:42, it 
+  correct as of this morning at 6:10, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -290,7 +325,7 @@ DESCRIPTION:*Trends Shaping Education 2019*\n\nDirec
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=trends_edu-2019-en.
-DTSTAMP:20190111T054234Z
+DTSTAMP:20190112T061046Z
 DTSTART:20190121T090000Z
 DTEND:20190121T091500Z
 TRANSP:TRANSPARENT
@@ -300,6 +335,46 @@ REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Trends Shaping Education 2019
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9789264309791-end3e6119
+SUMMARY:OECD Skills Strategy Flanders - Assessme
+ nt and Recommendations
+DESCRIPTION:*OECD Skills Strategy Flanders - Assessm
+ ent and Recommendations*\n\nDirectorate:
+  Directorate for Education and Skills\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/9789264309791-en\nPublication typ
+ e: Book\nReleased as: ePub, HTML, PDF\n\
+ nEmbargo date/time: Monday, 21 January 2
+ 019, 13:30 (GMT)\n\n\niLibrary export: F
+ riday, 11 January 2019, 22:54 (GMT)\nFre
+ epreview export: never\nFTI loaded: ✗\n\
+ nFor more information see: https://githu
+ b.com/oecd/embargo-calendar/blob/master/
+ embargoes-by-publication.md.\n\nPlease n
+ ote: This information was correct as of 
+ this morning at 6:10, it is updated each
+  night; therefore any subsequent updates
+  may not yet be visible here. Also, plea
+ se be aware that the different released 
+ media (PDF, HTML, etc.) are not necessar
+ ily released at the same time. For compl
+ ete and up-to-date information see here:
+  http://kappa.oecd.org/v3/search?term=97
+ 89264309791-en.
+DTSTAMP:20190112T061046Z
+DTSTART:20190121T133000Z
+DTEND:20190121T134500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Skills Strategy Flanders 
+ - Assessment and Recommendations
 END:VALARM
 END:VEVENT
 END:VCALENDAR
