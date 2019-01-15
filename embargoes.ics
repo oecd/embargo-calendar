@@ -2,183 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/9789264309432-end3e1201
-SUMMARY:Higher Education in Mexico - Labour Mark
- et Relevance and Outcomes
-DESCRIPTION:*Higher Education in Mexico - Labour Mar
- ket Relevance and Outcomes*\n\nDirectora
- te: Directorate for Education and Skills
- \nLanguage: English\nDOI: https://doi.or
- g/10.1787/9789264309432-en\nPublication 
- type: Book\nReleased as: ePub, HTML, Pap
- erback, PDF\n\nEmbargo date/time: Thursd
- ay, 10 January 2019, 17:00 (GMT)\nLaunch
-  date/time: Thursday, 10 January 2019, 1
- 7:00 (GMT)\n\niLibrary export: Tuesday, 
- 8 January 2019, 23:21 (GMT)\nFreepreview
-  export: Tuesday, 8 January 2019, 20:39 
- (GMT)\nFTI loaded: ✓\n\nFor more informa
- tion see: https://github.com/oecd/embarg
- o-calendar/blob/master/embargoes-by-publ
- ication.md.\n\nPlease note: This informa
- tion was correct as of this morning at 6
- :10, it is updated each night; therefore
-  any subsequent updates may not yet be v
- isible here. Also, please be aware that 
- the different released media (PDF, HTML,
-  etc.) are not necessarily released at t
- he same time. For complete and up-to-dat
- e information see here: http://kappa.oec
- d.org/v3/search?term=9789264309432-en.
-DTSTAMP:20190112T061046Z
-DTSTART:20190110T170000Z
-DTEND:20190110T171500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Higher Education in Mexico - L
- abour Market Relevance and Outcomes
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/9789264309371-end3e2262
-SUMMARY:The Future of Mexican Higher Education -
-  Promoting Quality and Equity
-DESCRIPTION:*The Future of Mexican Higher Education 
- - Promoting Quality and Equity*\n\nDirec
- torate: Directorate for Education and Sk
- ills\nLanguage: English\nDOI: https://do
- i.org/10.1787/9789264309371-en\nPublicat
- ion type: Book\nReleased as: Paperback, 
- PDF\n\nEmbargo date/time: Thursday, 10 J
- anuary 2019, 17:00 (GMT)\nLaunch date/ti
- me: Thursday, 10 January 2019, 17:00 (GM
- T)\n\niLibrary export: Tuesday, 8 Januar
- y 2019, 23:21 (GMT)\nFreepreview export:
-  Tuesday, 8 January 2019, 20:39 (GMT)\nF
- TI loaded: ✓\n\nFor more information see
- : https://github.com/oecd/embargo-calend
- ar/blob/master/embargoes-by-publication.
- md.\n\nPlease note: This information was
-  correct as of this morning at 6:10, it 
- is updated each night; therefore any sub
- sequent updates may not yet be visible h
- ere. Also, please be aware that the diff
- erent released media (PDF, HTML, etc.) a
- re not necessarily released at the same 
- time. For complete and up-to-date inform
- ation see here: http://kappa.oecd.org/v3
- /search?term=9789264309371-en.
-DTSTAMP:20190112T061046Z
-DTSTART:20190110T170000Z
-DTEND:20190110T171500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: The Future of Mexican Higher E
- ducation - Promoting Quality and Equity
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/9789264311312-end3e2890
-SUMMARY:Ready to Help? - Improving Resilience of
-  Integration Systems for Refugees and ot
- her Vulnerable Migrants
-DESCRIPTION:*Ready to Help? - Improving Resilience o
- f Integration Systems for Refugees and o
- ther Vulnerable Migrants*\n\nDirectorate
- : Directorate for Employment, Labour and
-  Social Affairs\nLanguage: English\nDOI:
-  https://doi.org/10.1787/9789264311312-e
- n\nPublication type: Stand-alone monogra
- ph\nReleased as: PDF\n\nEmbargo date/tim
- e: Friday, 11 January 2019, 10:00 (GMT)\
- nLaunch date/time: Friday, 11 January 20
- 19, 10:00 (GMT)\n\niLibrary export: Thur
- sday, 10 January 2019, 23:04 (GMT)\nFree
- preview export: Thursday, 10 January 201
- 9, 20:37 (GMT)\nFTI loaded: ✓\n\nFor mor
- e information see: https://github.com/oe
- cd/embargo-calendar/blob/master/embargoe
- s-by-publication.md.\n\nPlease note: Thi
- s information was correct as of this mor
- ning at 6:10, it is updated each night; 
- therefore any subsequent updates may not
-  yet be visible here. Also, please be aw
- are that the different released media (P
- DF, HTML, etc.) are not necessarily rele
- ased at the same time. For complete and 
- up-to-date information see here: http://
- kappa.oecd.org/v3/search?term=9789264311
- 312-en.
-DTSTAMP:20190112T061046Z
-DTSTART:20190111T100000Z
-DTEND:20190111T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Ready to Help? - Improving Res
- ilience of Integration Systems for Refug
- ees and other Vulnerable Migrants
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/d2821a65-end3e2940
-SUMMARY:Curriculum alignment and progression bet
- ween early childhood education and care 
- and primary school  - A brief review and
-  case studies
-DESCRIPTION:*Curriculum alignment and progression be
- tween early childhood education and care
-  and primary school - A brief review and
-  case studies*\n\nDirectorate: Directora
- te for Education and Skills\nLanguage: E
- nglish\nDOI: https://doi.org/10.1787/d28
- 21a65-en\nPublication type: Working pape
- r\nReleased as: PDF\n\nEmbargo date/time
- : Friday, 11 January 2019, 11:00 (GMT)\n
- \n\niLibrary export: Wednesday, 9 Januar
- y 2019, 23:25 (GMT)\nFreepreview export:
-  Wednesday, 9 January 2019, 20:43 (GMT)\
- nFTI loaded: ✓\n\nFor more information s
- ee: https://github.com/oecd/embargo-cale
- ndar/blob/master/embargoes-by-publicatio
- n.md.\n\nPlease note: This information w
- as correct as of this morning at 6:10, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=d2821a65-en.
-DTSTAMP:20190112T061046Z
-DTSTART:20190111T110000Z
-DTEND:20190111T111500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Curriculum alignment and progr
- ession between early childhood education
-  and care and primary school  - A brief 
- review and case studies
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/d7c28431-end3e2989
+UID:10.1787/d7c28431-end3e53
 SUMMARY:How is students’ motivation related to t
  heir performance and anxiety?
 DESCRIPTION:*How is students’ motivation related to 
@@ -186,24 +10,25 @@ DESCRIPTION:*How is students’ motivation related to
  torate: Directorate for Education and Sk
  ills\nLanguage: English\nDOI: https://do
  i.org/10.1787/d7c28431-en\nPublication t
- ype: Working paper\nReleased as: PDF, PD
- F\n\nEmbargo date/time: Tuesday, 15 Janu
- ary 2019, 5:00 (GMT)\n\n\niLibrary expor
- t: never\nFreepreview export: never\nFTI
-  loaded: ✓\n\nFor more information see: 
- https://github.com/oecd/embargo-calendar
- /blob/master/embargoes-by-publication.md
- .\n\nPlease note: This information was c
- orrect as of this morning at 6:10, it is
-  updated each night; therefore any subse
- quent updates may not yet be visible her
- e. Also, please be aware that the differ
- ent released media (PDF, HTML, etc.) are
-  not necessarily released at the same ti
- me. For complete and up-to-date informat
- ion see here: http://kappa.oecd.org/v3/s
- earch?term=d7c28431-en.
-DTSTAMP:20190112T061046Z
+ ype: Working paper\nReleased as: PDF\n\n
+ Embargo date/time: Tuesday, 15 January 2
+ 019, 5:00 (GMT)\n\n\niLibrary export: Fr
+ iday, 11 January 2019, 22:54 (GMT)\nFree
+ preview export: Friday, 11 January 2019,
+  20:30 (GMT)\nFTI loaded: ✓\n\nFor more 
+ information see: https://github.com/oecd
+ /embargo-calendar/blob/master/embargoes-
+ by-publication.md.\n\nPlease note: This 
+ information was correct as of this morni
+ ng at 6:25, it is updated each night; th
+ erefore any subsequent updates may not y
+ et be visible here. Also, please be awar
+ e that the different released media (PDF
+ , HTML, etc.) are not necessarily releas
+ ed at the same time. For complete and up
+ -to-date information see here: http://ka
+ ppa.oecd.org/v3/search?term=d7c28431-en.
+DTSTAMP:20190115T062544Z
 DTSTART:20190115T050000Z
 DTEND:20190115T051500Z
 TRANSP:TRANSPARENT
@@ -217,48 +42,7 @@ DESCRIPTION:Reminder: How is students’ motivation re
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d7c28431-end3e3035
-SUMMARY:How is students’ motivation related to t
- heir performance and anxiety?
-DESCRIPTION:*How is students’ motivation related to 
- their performance and anxiety?*\n\nDirec
- torate: Directorate for Education and Sk
- ills\nLanguage: English\nDOI: https://do
- i.org/10.1787/d7c28431-en\nPublication t
- ype: Working paper\nReleased as: PDF, PD
- F\n\nEmbargo date/time: Tuesday, 15 Janu
- ary 2019, 5:00 (GMT)\n\n\niLibrary expor
- t: Friday, 11 January 2019, 22:54 (GMT)\
- nFreepreview export: Friday, 11 January 
- 2019, 20:30 (GMT)\nFTI loaded: ✓\n\nFor 
- more information see: https://github.com
- /oecd/embargo-calendar/blob/master/embar
- goes-by-publication.md.\n\nPlease note: 
- This information was correct as of this 
- morning at 6:10, it is updated each nigh
- t; therefore any subsequent updates may 
- not yet be visible here. Also, please be
-  aware that the different released media
-  (PDF, HTML, etc.) are not necessarily r
- eleased at the same time. For complete a
- nd up-to-date information see here: http
- ://kappa.oecd.org/v3/search?term=d7c2843
- 1-en.
-DTSTAMP:20190112T061046Z
-DTSTART:20190115T050000Z
-DTEND:20190115T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: How is students’ motivation re
- lated to their performance and anxiety?
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/eco_surveys-dnk-2019-end3e3130
+UID:10.1787/eco_surveys-dnk-2019-end3e101
 SUMMARY:OECD Economic Surveys: Denmark 2019
 DESCRIPTION:*OECD Economic Surveys: Denmark 2019*\n\
  nDirectorate: Economics Department\nLang
@@ -266,28 +50,28 @@ DESCRIPTION:*OECD Economic Surveys: Denmark 2019*\n\
  787/eco_surveys-dnk-2019-en\nPublication
   type: Economic survey\nReleased as: Pap
  erback, PDF\n\nEmbargo date/time: Tuesda
- y, 15 January 2019, 10:00 (GMT)\nLaunch 
- date/time: Tuesday, 15 January 2019, 10:
- 00 (GMT)\n\niLibrary export: Thursday, 1
- 0 January 2019, 23:04 (GMT)\nFreepreview
-  export: Thursday, 10 January 2019, 20:3
- 7 (GMT)\nFTI loaded: ✓\n\nFor more infor
- mation see: https://github.com/oecd/emba
- rgo-calendar/blob/master/embargoes-by-pu
- blication.md.\n\nPlease note: This infor
- mation was correct as of this morning at
-  6:10, it is updated each night; therefo
- re any subsequent updates may not yet be
-  visible here. Also, please be aware tha
- t the different released media (PDF, HTM
- L, etc.) are not necessarily released at
-  the same time. For complete and up-to-d
- ate information see here: http://kappa.o
- ecd.org/v3/search?term=eco_surveys-dnk-2
- 019-en.
-DTSTAMP:20190112T061046Z
-DTSTART:20190115T100000Z
-DTEND:20190115T101500Z
+ y, 15 January 2019, 12:30 (GMT)\nLaunch 
+ date/time: Tuesday, 15 January 2019, 12:
+ 30 (GMT)\n\niLibrary export: Monday, 14 
+ January 2019, 23:07 (GMT)\nFreepreview e
+ xport: Monday, 14 January 2019, 20:36 (G
+ MT)\nFTI loaded: ✓\n\nFor more informati
+ on see: https://github.com/oecd/embargo-
+ calendar/blob/master/embargoes-by-public
+ ation.md.\n\nPlease note: This informati
+ on was correct as of this morning at 6:2
+ 5, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=eco_surveys-dnk-2019-
+ en.
+DTSTAMP:20190115T062544Z
+DTSTART:20190115T123000Z
+DTEND:20190115T124500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT24H
@@ -299,7 +83,143 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Denmark
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/trends_edu-2019-end3e4112
+UID:10.1787/0adf9e55-end3e196
+SUMMARY:How do Europeans differ in their attitud
+ es to immigration? - Findings from the E
+ uropean Social Survey 2002/03 – 2016/17
+DESCRIPTION:*How do Europeans differ in their attitu
+ des to immigration? - Findings from the 
+ European Social Survey 2002/03 – 2016/17
+ *\n\nDirectorate: Directorate for Employ
+ ment, Labour and Social Affairs\nLanguag
+ e: English\nDOI: https://doi.org/10.1787
+ /0adf9e55-en\nPublication type: Working 
+ paper\nReleased as: PDF, PDF\n\nEmbargo 
+ date/time: Wednesday, 16 January 2019, 1
+ 0:00 (GMT)\nLaunch date/time: Wednesday,
+  16 January 2019, 11:19 (GMT)\n\niLibrar
+ y export: never\nFreepreview export: nev
+ er\nFTI loaded: ✓\n\nFor more informatio
+ n see: https://github.com/oecd/embargo-c
+ alendar/blob/master/embargoes-by-publica
+ tion.md.\n\nPlease note: This informatio
+ n was correct as of this morning at 6:25
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=0adf9e55-en.
+DTSTAMP:20190115T062544Z
+DTSTART:20190116T100000Z
+DTEND:20190116T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How do Europeans differ in the
+ ir attitudes to immigration? - Findings 
+ from the European Social Survey 2002/03 
+ – 2016/17
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/0adf9e55-end3e245
+SUMMARY:How do Europeans differ in their attitud
+ es to immigration? - Findings from the E
+ uropean Social Survey 2002/03 – 2016/17
+DESCRIPTION:*How do Europeans differ in their attitu
+ des to immigration? - Findings from the 
+ European Social Survey 2002/03 – 2016/17
+ *\n\nDirectorate: Directorate for Employ
+ ment, Labour and Social Affairs\nLanguag
+ e: English\nDOI: https://doi.org/10.1787
+ /0adf9e55-en\nPublication type: Working 
+ paper\nReleased as: PDF, PDF\n\nEmbargo 
+ date/time: Wednesday, 16 January 2019, 1
+ 0:00 (GMT)\nLaunch date/time: Wednesday,
+  16 January 2019, 11:19 (GMT)\n\niLibrar
+ y export: Monday, 14 January 2019, 23:07
+  (GMT)\nFreepreview export: Monday, 14 J
+ anuary 2019, 20:36 (GMT)\nFTI loaded: ✓\
+ n\nFor more information see: https://git
+ hub.com/oecd/embargo-calendar/blob/maste
+ r/embargoes-by-publication.md.\n\nPlease
+  note: This information was correct as o
+ f this morning at 6:25, it is updated ea
+ ch night; therefore any subsequent updat
+ es may not yet be visible here. Also, pl
+ ease be aware that the different release
+ d media (PDF, HTML, etc.) are not necess
+ arily released at the same time. For com
+ plete and up-to-date information see her
+ e: http://kappa.oecd.org/v3/search?term=
+ 0adf9e55-en.
+DTSTAMP:20190115T062544Z
+DTSTART:20190116T100000Z
+DTEND:20190116T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How do Europeans differ in the
+ ir attitudes to immigration? - Findings 
+ from the European Social Survey 2002/03 
+ – 2016/17
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9789264311299-end3e295
+SUMMARY:Social Impact Investment 2019 - The Impa
+ ct Imperative for Sustainable Developmen
+ t
+DESCRIPTION:*Social Impact Investment 2019 - The Imp
+ act Imperative for Sustainable Developme
+ nt*\n\nDirectorate: Development Co-opera
+ tion Directorate\nLanguage: English\nDOI
+ : https://doi.org/10.1787/9789264311299-
+ en\nPublication type: Stand-alone monogr
+ aph\nReleased as: Paperback, PDF\n\nEmba
+ rgo date/time: Thursday, 17 January 2019
+ , 13:00 (GMT)\nLaunch date/time: Thursda
+ y, 17 January 2019, 13:00 (GMT)\n\niLibr
+ ary export: Monday, 14 January 2019, 23:
+ 07 (GMT)\nFreepreview export: never\nFTI
+  loaded: ✓\n\nFor more information see: 
+ https://github.com/oecd/embargo-calendar
+ /blob/master/embargoes-by-publication.md
+ .\n\nPlease note: This information was c
+ orrect as of this morning at 6:25, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=9789264311299-en.
+DTSTAMP:20190115T062544Z
+DTSTART:20190117T130000Z
+DTEND:20190117T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Social Impact Investment 2019 
+ - The Impact Imperative for Sustainable 
+ Development
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/trends_edu-2019-end3e1177
 SUMMARY:Trends Shaping Education 2019
 DESCRIPTION:*Trends Shaping Education 2019*\n\nDirec
  torate: Directorate for Education and Sk
@@ -316,7 +236,7 @@ DESCRIPTION:*Trends Shaping Education 2019*\n\nDirec
  : https://github.com/oecd/embargo-calend
  ar/blob/master/embargoes-by-publication.
  md.\n\nPlease note: This information was
-  correct as of this morning at 6:10, it 
+  correct as of this morning at 6:25, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -325,7 +245,7 @@ DESCRIPTION:*Trends Shaping Education 2019*\n\nDirec
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=trends_edu-2019-en.
-DTSTAMP:20190112T061046Z
+DTSTAMP:20190115T062544Z
 DTSTART:20190121T090000Z
 DTEND:20190121T091500Z
 TRANSP:TRANSPARENT
@@ -338,7 +258,7 @@ DESCRIPTION:Reminder: Trends Shaping Education 2019
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264309791-end3e6119
+UID:10.1787/9789264309791-end3e3672
 SUMMARY:OECD Skills Strategy Flanders - Assessme
  nt and Recommendations
 DESCRIPTION:*OECD Skills Strategy Flanders - Assessm
@@ -348,23 +268,24 @@ DESCRIPTION:*OECD Skills Strategy Flanders - Assessm
  0.1787/9789264309791-en\nPublication typ
  e: Book\nReleased as: ePub, HTML, PDF\n\
  nEmbargo date/time: Monday, 21 January 2
- 019, 13:30 (GMT)\n\n\niLibrary export: F
- riday, 11 January 2019, 22:54 (GMT)\nFre
- epreview export: never\nFTI loaded: ✗\n\
- nFor more information see: https://githu
- b.com/oecd/embargo-calendar/blob/master/
- embargoes-by-publication.md.\n\nPlease n
- ote: This information was correct as of 
- this morning at 6:10, it is updated each
-  night; therefore any subsequent updates
-  may not yet be visible here. Also, plea
- se be aware that the different released 
- media (PDF, HTML, etc.) are not necessar
- ily released at the same time. For compl
- ete and up-to-date information see here:
-  http://kappa.oecd.org/v3/search?term=97
- 89264309791-en.
-DTSTAMP:20190112T061046Z
+ 019, 13:30 (GMT)\n\n\niLibrary export: M
+ onday, 14 January 2019, 23:07 (GMT)\nFre
+ epreview export: Monday, 14 January 2019
+ , 20:36 (GMT)\nFTI loaded: ✓\n\nFor more
+  information see: https://github.com/oec
+ d/embargo-calendar/blob/master/embargoes
+ -by-publication.md.\n\nPlease note: This
+  information was correct as of this morn
+ ing at 6:25, it is updated each night; t
+ herefore any subsequent updates may not 
+ yet be visible here. Also, please be awa
+ re that the different released media (PD
+ F, HTML, etc.) are not necessarily relea
+ sed at the same time. For complete and u
+ p-to-date information see here: http://k
+ appa.oecd.org/v3/search?term=97892643097
+ 91-en.
+DTSTAMP:20190115T062544Z
 DTSTART:20190121T133000Z
 DTEND:20190121T134500Z
 TRANSP:TRANSPARENT
@@ -375,6 +296,88 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Skills Strategy Flanders 
  - Assessment and Recommendations
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/eco_surveys-hun-2019-end3e7203
+SUMMARY:OECD Economic Surveys: Hungary 2019
+DESCRIPTION:*OECD Economic Surveys: Hungary 2019*\n\
+ nDirectorate: Economics Department\nLang
+ uage: English\nDOI: https://doi.org/10.1
+ 787/eco_surveys-hun-2019-en\nPublication
+  type: Economic survey\nReleased as: Pap
+ erback, PDF\n\nEmbargo date/time: Thursd
+ ay, 31 January 2019, 10:00 (GMT)\nLaunch
+  date/time: Thursday, 31 January 2019, 1
+ 0:00 (GMT)\n\niLibrary export: Monday, 1
+ 4 January 2019, 23:07 (GMT)\nFreepreview
+  export: never\nFTI loaded: ✗\n\nFor mor
+ e information see: https://github.com/oe
+ cd/embargo-calendar/blob/master/embargoe
+ s-by-publication.md.\n\nPlease note: Thi
+ s information was correct as of this mor
+ ning at 6:25, it is updated each night; 
+ therefore any subsequent updates may not
+  yet be visible here. Also, please be aw
+ are that the different released media (P
+ DF, HTML, etc.) are not necessarily rele
+ ased at the same time. For complete and 
+ up-to-date information see here: http://
+ kappa.oecd.org/v3/search?term=eco_survey
+ s-hun-2019-en.
+DTSTAMP:20190115T062544Z
+DTSTART:20190131T100000Z
+DTEND:20190131T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Economic Surveys: Hungary
+  2019
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9789264311053-end3e7343
+SUMMARY:Rethinking Innovation for a Sustainable 
+ Ocean Economy
+DESCRIPTION:*Rethinking Innovation for a Sustainable
+  Ocean Economy*\n\nDirectorate: Director
+ ate for Science, Technology and Industry
+ \nLanguage: English\nDOI: https://doi.or
+ g/10.1787/9789264311053-en\nPublication 
+ type: Stand-alone monograph\nReleased as
+ : Paperback, PDF\n\nEmbargo date/time: T
+ hursday, 14 February 2019, 10:00 (GMT)\n
+ Launch date/time: Thursday, 14 February 
+ 2019, 10:00 (GMT)\n\niLibrary export: Mo
+ nday, 14 January 2019, 23:07 (GMT)\nFree
+ preview export: never\nFTI loaded: ✗\n\n
+ For more information see: https://github
+ .com/oecd/embargo-calendar/blob/master/e
+ mbargoes-by-publication.md.\n\nPlease no
+ te: This information was correct as of t
+ his morning at 6:25, it is updated each 
+ night; therefore any subsequent updates 
+ may not yet be visible here. Also, pleas
+ e be aware that the different released m
+ edia (PDF, HTML, etc.) are not necessari
+ ly released at the same time. For comple
+ te and up-to-date information see here: 
+ http://kappa.oecd.org/v3/search?term=978
+ 9264311053-en.
+DTSTAMP:20190115T062544Z
+DTSTART:20190214T100000Z
+DTEND:20190214T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Rethinking Innovation for a Su
+ stainable Ocean Economy
 END:VALARM
 END:VEVENT
 END:VCALENDAR
