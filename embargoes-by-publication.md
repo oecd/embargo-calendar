@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 15 January 2019 at 6:25* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 16 January 2019 at 5:03* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [How is students’ motivation related to their performance and anxiety?](https://doi.org/10.1787/d7c28431-en)
 
@@ -101,14 +101,14 @@ Thursday 17 January 2019 at 13:00 | Thursday 17 January 2019 at 13:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 January 2019 at 0:07
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 15 January 2019 at 23:59
+- [x] Exported to Keepeek Tuesday 15 January 2019 at 21:30
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
