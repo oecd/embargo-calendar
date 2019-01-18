@@ -2,29 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 17 January 2019 at 6:53* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Denmark 2019](https://doi.org/10.1787/eco_surveys-dnk-2019-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 15 January 2019 at 12:30 | Tuesday 15 January 2019 at 12:30
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 January 2019 at 0:07
-- [x] Exported to Keepeek Monday 14 January 2019 at 21:36
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
+| *Friday 18 January 2019 at 7:50* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [How do Europeans differ in their attitudes to immigration? - Findings from the European Social Survey 2002/03 – 2016/17](https://doi.org/10.1787/0adf9e55-en)
 
@@ -57,8 +35,8 @@ Thursday 17 January 2019 at 13:00 | Thursday 17 January 2019 at 13:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 January 2019 at 23:59
-- [x] Exported to Keepeek Tuesday 15 January 2019 at 21:30
+- [x] Exported to iLibrary Friday 18 January 2019 at 2:08
+- [x] Exported to Keepeek Thursday 17 January 2019 at 21:38
 
 ### Additional Information
 
@@ -167,7 +145,7 @@ Tuesday 5 February 2019 at 10:00 | Tuesday 5 February 2019 at 10:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 15 January 2019 at 23:59
+- [x] Exported to iLibrary Friday 18 January 2019 at 2:08
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -195,6 +173,28 @@ Thursday 14 February 2019 at 10:00 | Thursday 14 February 2019 at 10:00
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [How's Life in the Digital Age? - Opportunities and Risks of the Digital Transformation for People's Well-being](https://doi.org/10.1787/9789264311800-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 26 February 2019 at 10:00 | Tuesday 26 February 2019 at 10:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 18 January 2019 at 2:08
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics and Data Directorate*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*

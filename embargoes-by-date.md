@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 17 January 2019 at 6:53* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 18 January 2019 at 7:50* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [15 January 2019](#15-january-2019)
 * [16 January 2019](#16-january-2019)
 * [17 January 2019](#17-january-2019)
 * [21 January 2019](#21-january-2019)
@@ -12,32 +11,7 @@ Data generated on | |
 * [31 January 2019](#31-january-2019)
 * [5 February 2019](#5-february-2019)
 * [14 February 2019](#14-february-2019)
-
-------
-
-# 15 January 2019
-
-## [OECD Economic Surveys: Denmark 2019](https://doi.org/10.1787/eco_surveys-dnk-2019-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 15 January 2019 at 12:30 | Tuesday 15 January 2019 at 12:30
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 January 2019 at 0:07
-- [x] Exported to Keepeek Monday 14 January 2019 at 21:36
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
+* [26 February 2019](#26-february-2019)
 
 ------
 
@@ -78,8 +52,8 @@ Thursday 17 January 2019 at 13:00 | Thursday 17 January 2019 at 13:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 January 2019 at 23:59
-- [x] Exported to Keepeek Tuesday 15 January 2019 at 21:30
+- [x] Exported to iLibrary Friday 18 January 2019 at 2:08
+- [x] Exported to Keepeek Thursday 17 January 2019 at 21:38
 
 ### Additional Information
 
@@ -204,7 +178,7 @@ Tuesday 5 February 2019 at 10:00 | Tuesday 5 February 2019 at 10:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 15 January 2019 at 23:59
+- [x] Exported to iLibrary Friday 18 January 2019 at 2:08
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -236,6 +210,32 @@ Thursday 14 February 2019 at 10:00 | Thursday 14 February 2019 at 10:00
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 26 February 2019
+
+## [How's Life in the Digital Age? - Opportunities and Risks of the Digital Transformation for People's Well-being](https://doi.org/10.1787/9789264311800-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 26 February 2019 at 10:00 | Tuesday 26 February 2019 at 10:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 18 January 2019 at 2:08
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics and Data Directorate*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
