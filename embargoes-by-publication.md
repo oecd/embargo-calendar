@@ -2,29 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 19 January 2019 at 5:51* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Social Impact Investment 2019 - The Impact Imperative for Sustainable Development](https://doi.org/10.1787/9789264311299-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 17 January 2019 at 13:00 | Thursday 17 January 2019 at 13:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 18 January 2019 at 2:08
-- [x] Exported to Keepeek Thursday 17 January 2019 at 21:38
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
+| *Tuesday 22 January 2019 at 5:17* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Trends Shaping Education 2019](https://doi.org/10.1787/trends_edu-2019-en)
 
@@ -36,7 +14,7 @@ Monday 21 January 2019 at 9:00 | Monday 21 January 2019 at 9:00
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 January 2019 at 0:04
-- [x] Exported to Keepeek Thursday 10 January 2019 at 21:37
+- [x] Exported to Keepeek Monday 21 January 2019 at 21:33
 
 ### Additional Information
 
@@ -92,6 +70,28 @@ Monday 21 January 2019 at 13:30 | no launch event
 
 ------
 
+## [World Economic Situation and Prospects 2019](https://doi.org/10.18356/a97d12e3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 22 January 2019 at 16:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 22 January 2019 at 0:12
+- [x] Exported to Keepeek Monday 21 January 2019 at 21:33
+
+### Additional Information
+
+* Directorate: *Non applicable*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Upgrading business investment in Turkey](https://doi.org/10.1787/537fc88b-en)
 
 Embargo date | Launch date
@@ -110,29 +110,7 @@ Wednesday 23 January 2019 at 1:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
-* Formats: *PDF, PDF*
-
-------
-
-## [Upgrading business investment in Turkey](https://doi.org/10.1787/537fc88b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 23 January 2019 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Formats: *PDF, PDF*
+* Format: *PDF*
 
 ------
 
@@ -180,6 +158,28 @@ Monday 28 January 2019 at 9:00 | Monday 28 January 2019 at 9:00
 
 ------
 
+## [OECD Environmental Performance Reviews: Australia 2019](https://doi.org/10.1787/9789264310452-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 30 January 2019 at 2:00 | Wednesday 30 January 2019 at 2:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 22 January 2019 at 0:12
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
 ## [OECD Economic Surveys: Hungary 2019](https://doi.org/10.1787/eco_surveys-hun-2019-en)
 
 Embargo date | Launch date
@@ -211,7 +211,7 @@ Tuesday 5 February 2019 at 10:00 | Tuesday 5 February 2019 at 10:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 18 January 2019 at 2:08
+- [x] Exported to iLibrary Tuesday 22 January 2019 at 0:12
 - [ ] Exported to Keepeek
 
 ### Additional Information

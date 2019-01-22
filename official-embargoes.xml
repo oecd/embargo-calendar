@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2019-01-19T05:51:49.6320793+01:00">
+<report name="official-embargoes" generated="2019-01-22T05:17:07.7783721+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -18,57 +18,6 @@
     <cell name="kappa link">Kappa Link</cell>
   </row>
   <row index="1">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264311299-en</cell>
-    <cell name="title">Social Impact Investment 2019 (en)</cell>
-    <cell name="subtitle">The Impact Imperative for Sustainable Development (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-01-17</cell>
-    <cell name="embargo date">2019-01-17T13:00:00Z</cell>
-    <cell name="launch date/time">2019-01-17T13:00:00Z</cell>
-    <cell name="ilibrary last export date">2019-01-18T01:08:13Z</cell>
-    <cell name="freepreview last export date">2019-01-17T20:38:55Z</cell>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9d8ec</cell>
-  </row>
-  <row index="2">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/9789264233430-en</cell>
-    <cell name="title">Social Impact Investment (en)</cell>
-    <cell name="subtitle">Building the Evidence Base (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2015-12-15</cell>
-    <cell name="embargo date">2019-01-17T13:00:00Z</cell>
-    <cell name="launch date/time">2019-01-17T13:00:00Z</cell>
-    <cell name="ilibrary last export date">2018-01-23T22:00:00Z</cell>
-    <cell name="freepreview last export date">2019-01-14T20:36:33Z</cell>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g502c0</cell>
-  </row>
-  <row index="3">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/9789264311299-en</cell>
-    <cell name="title">Social Impact Investment 2019 (en)</cell>
-    <cell name="subtitle">The Impact Imperative for Sustainable Development (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2019-01-17</cell>
-    <cell name="embargo date">2019-01-17T13:00:00Z</cell>
-    <cell name="launch date/time">2019-01-17T13:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9d8eb</cell>
-  </row>
-  <row index="4">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph30-en</cell>
     <cell name="title">Precarious workers (en)</cell>
@@ -85,7 +34,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0cb</cell>
   </row>
-  <row index="5">
+  <row index="2">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph39-en</cell>
     <cell name="title">Going digital (en)</cell>
@@ -102,7 +51,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0d5</cell>
   </row>
-  <row index="6">
+  <row index="3">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph26-en</cell>
     <cell name="title">Peace across time (en)</cell>
@@ -119,7 +68,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0c7</cell>
   </row>
-  <row index="7">
+  <row index="4">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph47-en</cell>
     <cell name="title">Mass self-communication and creative expression (en)</cell>
@@ -136,7 +85,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0de</cell>
   </row>
-  <row index="8">
+  <row index="5">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph32-en</cell>
     <cell name="title">70 is the new 60 (en)</cell>
@@ -153,7 +102,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0ce</cell>
   </row>
-  <row index="9">
+  <row index="6">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph50-en</cell>
     <cell name="title">Carnivorous future (en)</cell>
@@ -170,7 +119,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0e1</cell>
   </row>
-  <row index="10">
+  <row index="7">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-2-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -187,7 +136,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0a9</cell>
   </row>
-  <row index="11">
+  <row index="8">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph49-en</cell>
     <cell name="title">Eco-mobility (en)</cell>
@@ -204,7 +153,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0e0</cell>
   </row>
-  <row index="12">
+  <row index="9">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph3-en</cell>
     <cell name="title">Ready for take-off? (en)</cell>
@@ -221,7 +170,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0ae</cell>
   </row>
-  <row index="13">
+  <row index="10">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph43-en</cell>
     <cell name="title">Closing the gap (en)</cell>
@@ -238,7 +187,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0da</cell>
   </row>
-  <row index="14">
+  <row index="11">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph19-en</cell>
     <cell name="title">Rural economic landscape shifting (en)</cell>
@@ -255,7 +204,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0bf</cell>
   </row>
-  <row index="15">
+  <row index="12">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph5-en</cell>
     <cell name="title">More people on the move (en)</cell>
@@ -272,7 +221,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0b0</cell>
   </row>
-  <row index="16">
+  <row index="13">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph45-en</cell>
     <cell name="title">Out of wedlock, but not out of the ordinary (en)</cell>
@@ -289,7 +238,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0dc</cell>
   </row>
-  <row index="17">
+  <row index="14">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph42-en</cell>
     <cell name="title">Freeing up work? (en)</cell>
@@ -306,7 +255,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0d9</cell>
   </row>
-  <row index="18">
+  <row index="15">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph36-en</cell>
     <cell name="title">Working later in life (en)</cell>
@@ -323,24 +272,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0d2</cell>
   </row>
-  <row index="19">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/trends_edu-2019-en</cell>
-    <cell name="title">Trends Shaping Education 2019 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-01-21</cell>
-    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
-    <cell name="launch date/time">2019-01-21T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
-    <cell name="freepreview last export date">2019-01-10T20:37:01Z</cell>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g99475</cell>
-  </row>
-  <row index="20">
+  <row index="16">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph31-en</cell>
     <cell name="title">Getting on in years (en)</cell>
@@ -357,7 +289,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0cd</cell>
   </row>
-  <row index="21">
+  <row index="17">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph33-en</cell>
     <cell name="title">The dementia threat (en)</cell>
@@ -374,7 +306,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0cf</cell>
   </row>
-  <row index="22">
+  <row index="18">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph11-en</cell>
     <cell name="title">Income gap continues to grow (en)</cell>
@@ -391,7 +323,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0b7</cell>
   </row>
-  <row index="23">
+  <row index="19">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph15-en</cell>
     <cell name="title">Sovereignty disputes: Should I stay or should I go? (en)</cell>
@@ -408,7 +340,24 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0bb</cell>
   </row>
-  <row index="24">
+  <row index="20">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-en</cell>
+    <cell name="title">Trends Shaping Education 2019 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time">2019-01-21T09:00:00Z</cell>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-21T20:33:57Z</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g99475</cell>
+  </row>
+  <row index="21">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ddddb354-en</cell>
     <cell name="title">Trends Shaping Education 2019 (Summary in English) (en)</cell>
@@ -425,7 +374,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a15aa242</cell>
   </row>
-  <row index="25">
+  <row index="22">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-8-en</cell>
     <cell name="title">Modern cultures (en)</cell>
@@ -442,7 +391,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0d7</cell>
   </row>
-  <row index="26">
+  <row index="23">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph34-en</cell>
     <cell name="title">A loneliness epidemic in the making? (en)</cell>
@@ -459,7 +408,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0d0</cell>
   </row>
-  <row index="27">
+  <row index="24">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph41-en</cell>
     <cell name="title">Access to access (en)</cell>
@@ -476,7 +425,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0d8</cell>
   </row>
-  <row index="28">
+  <row index="25">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph37-en</cell>
     <cell name="title">Ageing societies, ageing markets? (en)</cell>
@@ -493,7 +442,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0d3</cell>
   </row>
-  <row index="29">
+  <row index="26">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/341978c4-ca</cell>
     <cell name="title">Trends Shaping Education 2019 (Summary in Catalan) (en) | Trends Shaping Education 2019 (ca)</cell>
@@ -510,7 +459,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/edb536fe</cell>
   </row>
-  <row index="30">
+  <row index="27">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph48-en</cell>
     <cell name="title">Log on, check in, cash out (en)</cell>
@@ -527,7 +476,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0df</cell>
   </row>
-  <row index="31">
+  <row index="28">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph23-en</cell>
     <cell name="title">Too big for your (data) breaches? (en)</cell>
@@ -544,7 +493,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0c4</cell>
   </row>
-  <row index="32">
+  <row index="29">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph35-en</cell>
     <cell name="title">Time to retire? (en)</cell>
@@ -561,7 +510,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0d1</cell>
   </row>
-  <row index="33">
+  <row index="30">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph10-en</cell>
     <cell name="title">The growth of AI technologies (en)</cell>
@@ -578,7 +527,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0b5</cell>
   </row>
-  <row index="34">
+  <row index="31">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph21-en</cell>
     <cell name="title">Safer on the roads (en)</cell>
@@ -595,7 +544,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0c2</cell>
   </row>
-  <row index="35">
+  <row index="32">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph28-en</cell>
     <cell name="title">Toxic air (en)</cell>
@@ -612,7 +561,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0c9</cell>
   </row>
-  <row index="36">
+  <row index="33">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph38-en</cell>
     <cell name="title">Elders' expenditure power (en)</cell>
@@ -629,7 +578,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0d4</cell>
   </row>
-  <row index="37">
+  <row index="34">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-3-en</cell>
     <cell name="title">Global mega-trends and the future of education (en)</cell>
@@ -646,7 +595,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0aa</cell>
   </row>
-  <row index="38">
+  <row index="35">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph9-en</cell>
     <cell name="title">Supporting clean energy technologies (en)</cell>
@@ -663,7 +612,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0b4</cell>
   </row>
-  <row index="39">
+  <row index="36">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph12-en</cell>
     <cell name="title">Civic rights, civic duties? (en)</cell>
@@ -680,7 +629,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0b8</cell>
   </row>
-  <row index="40">
+  <row index="37">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph2-en</cell>
     <cell name="title">The global middle class on the rise (en)</cell>
@@ -697,7 +646,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0ad</cell>
   </row>
-  <row index="41">
+  <row index="38">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph4-en</cell>
     <cell name="title">Interconnected global trade (en)</cell>
@@ -714,7 +663,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0af</cell>
   </row>
-  <row index="42">
+  <row index="39">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph7-en</cell>
     <cell name="title">China and India consuming more (en)</cell>
@@ -731,7 +680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0b2</cell>
   </row>
-  <row index="43">
+  <row index="40">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph1-en</cell>
     <cell name="title">China and India's share of the pie (en)</cell>
@@ -748,7 +697,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0ac</cell>
   </row>
-  <row index="44">
+  <row index="41">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph25-en</cell>
     <cell name="title">Mutually assured détente? (en)</cell>
@@ -765,7 +714,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0c6</cell>
   </row>
-  <row index="45">
+  <row index="42">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-6-en</cell>
     <cell name="title">Security in a risky world (en)</cell>
@@ -782,7 +731,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0c1</cell>
   </row>
-  <row index="46">
+  <row index="43">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph18-en</cell>
     <cell name="title">Objective: 50/50 (en)</cell>
@@ -799,7 +748,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0be</cell>
   </row>
-  <row index="47">
+  <row index="44">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-7-en</cell>
     <cell name="title">Living longer, living better (en)</cell>
@@ -816,7 +765,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0cc</cell>
   </row>
-  <row index="48">
+  <row index="45">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph40-en</cell>
     <cell name="title">Digital crime (en)</cell>
@@ -833,7 +782,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0d6</cell>
   </row>
-  <row index="49">
+  <row index="46">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph13-en</cell>
     <cell name="title">Declining voter turnout in OECD countries (en)</cell>
@@ -850,7 +799,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0b9</cell>
   </row>
-  <row index="50">
+  <row index="47">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph16-en</cell>
     <cell name="title">Para-diplomacy on the rise in cities (en)</cell>
@@ -867,7 +816,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0bc</cell>
   </row>
-  <row index="51">
+  <row index="48">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-4-en</cell>
     <cell name="title">Shifting global gravity (en)</cell>
@@ -884,24 +833,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0ab</cell>
   </row>
-  <row index="52">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/trends_edu-2019-en</cell>
-    <cell name="title">Trends Shaping Education 2019 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2019-01-21</cell>
-    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
-    <cell name="launch date/time">2019-01-21T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g99474</cell>
-  </row>
-  <row index="53">
+  <row index="49">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph22-en</cell>
     <cell name="title">The rise of superbugs (en)</cell>
@@ -918,7 +850,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0c3</cell>
   </row>
-  <row index="54">
+  <row index="50">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/6449d8e2-es</cell>
     <cell name="title">Trends Shaping Education 2019 (Summary in Spanish) (en) | Trends Shaping Education 2019 (es)</cell>
@@ -935,7 +867,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/33367591</cell>
   </row>
-  <row index="55">
+  <row index="51">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph8-en</cell>
     <cell name="title">World's fastest growing waste problem (en)</cell>
@@ -952,7 +884,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0b3</cell>
   </row>
-  <row index="56">
+  <row index="52">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph14-en</cell>
     <cell name="title">Reading the news online: Is this for real? (en)</cell>
@@ -969,7 +901,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0ba</cell>
   </row>
-  <row index="57">
+  <row index="53">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-5-en</cell>
     <cell name="title">Public matters (en)</cell>
@@ -986,7 +918,24 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0b6</cell>
   </row>
-  <row index="58">
+  <row index="54">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/trends_edu-2019-en</cell>
+    <cell name="title">Trends Shaping Education 2019 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T09:00:00Z</cell>
+    <cell name="launch date/time">2019-01-21T09:00:00Z</cell>
+    <cell name="ilibrary last export date">2019-01-10T23:04:58Z</cell>
+    <cell name="freepreview last export date">2019-01-21T20:33:57Z</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g99474</cell>
+  </row>
+  <row index="55">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph20-en</cell>
     <cell name="title">Distance matters (en)</cell>
@@ -1003,7 +952,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0c0</cell>
   </row>
-  <row index="59">
+  <row index="56">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph46-en</cell>
     <cell name="title">Spare the child (en)</cell>
@@ -1020,7 +969,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0dd</cell>
   </row>
-  <row index="60">
+  <row index="57">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph17-en</cell>
     <cell name="title">This land is your land (en)</cell>
@@ -1037,7 +986,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0bd</cell>
   </row>
-  <row index="61">
+  <row index="58">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph29-en</cell>
     <cell name="title">Household savings and debt (en)</cell>
@@ -1054,7 +1003,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0ca</cell>
   </row>
-  <row index="62">
+  <row index="59">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph44-en</cell>
     <cell name="title">Partners in time (en)</cell>
@@ -1071,7 +1020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0db</cell>
   </row>
-  <row index="63">
+  <row index="60">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph24-en</cell>
     <cell name="title">Increasing need for privacy and security experts (en)</cell>
@@ -1088,7 +1037,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0c5</cell>
   </row>
-  <row index="64">
+  <row index="61">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph27-en</cell>
     <cell name="title">Eye of the storm: increasing natural disasters worldwide (en)</cell>
@@ -1105,7 +1054,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0c8</cell>
   </row>
-  <row index="65">
+  <row index="62">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/716f55d5-de</cell>
     <cell name="title">Trends Shaping Education 2019 (Summary in German) (en) | Trends Shaping Education 2019 (de)</cell>
@@ -1122,7 +1071,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c5f09b66</cell>
   </row>
-  <row index="66">
+  <row index="63">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-graph6-en</cell>
     <cell name="title">Sending money home (en)</cell>
@@ -1139,7 +1088,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0b1</cell>
   </row>
-  <row index="67">
+  <row index="64">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/trends_edu-2019-1-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1156,7 +1105,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0a8</cell>
   </row>
-  <row index="68">
+  <row index="65">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph52-en</cell>
     <cell name="title">Support for recommendations related to financing adult education (en)</cell>
@@ -1173,7 +1122,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e18e</cell>
   </row>
-  <row index="69">
+  <row index="66">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph1-en</cell>
     <cell name="title">Cross-country variation in job automatability, percentage of jobs at risk by degree of risk (en)</cell>
@@ -1190,7 +1139,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e14d</cell>
   </row>
-  <row index="70">
+  <row index="67">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph41-en</cell>
     <cell name="title">Sustainable governance indicators (en)</cell>
@@ -1207,7 +1156,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e17d</cell>
   </row>
-  <row index="71">
+  <row index="68">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph35-en</cell>
     <cell name="title">High-performance work practice by firm size in Flanders (en)</cell>
@@ -1224,7 +1173,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e175</cell>
   </row>
-  <row index="72">
+  <row index="69">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-9-en</cell>
     <cell name="title">Improving the financing of adult learning (en)</cell>
@@ -1241,7 +1190,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e180</cell>
   </row>
-  <row index="73">
+  <row index="70">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph15-en</cell>
     <cell name="title">Obstacles to participation as a share of total, by skill level (en)</cell>
@@ -1258,7 +1207,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e15d</cell>
   </row>
-  <row index="74">
+  <row index="71">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-5-en</cell>
     <cell name="title">Developing a learning culture (en)</cell>
@@ -1275,7 +1224,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e152</cell>
   </row>
-  <row index="75">
+  <row index="72">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph12-en</cell>
     <cell name="title">Readiness to learn (en)</cell>
@@ -1292,7 +1241,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e15a</cell>
   </row>
-  <row index="76">
+  <row index="73">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph36-en</cell>
     <cell name="title">Involvement of employees in the improvement of the work, 2015 (en)</cell>
@@ -1309,7 +1258,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e176</cell>
   </row>
-  <row index="77">
+  <row index="74">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph34-en</cell>
     <cell name="title">High-performance work practices (en)</cell>
@@ -1326,7 +1275,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e174</cell>
   </row>
-  <row index="78">
+  <row index="75">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph8-en</cell>
     <cell name="title">Participation in job-related adult education (en)</cell>
@@ -1343,7 +1292,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e156</cell>
   </row>
-  <row index="79">
+  <row index="76">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-11-en</cell>
     <cell name="title">Pre-workshop surveys outcomes (en)</cell>
@@ -1360,7 +1309,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e188</cell>
   </row>
-  <row index="80">
+  <row index="77">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph18-en</cell>
     <cell name="title">Formal education by firm size (en)</cell>
@@ -1377,7 +1326,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e160</cell>
   </row>
-  <row index="81">
+  <row index="78">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph23-en</cell>
     <cell name="title">Qualification and field-of-study mismatch, Flanders and selected OECD countries (en)</cell>
@@ -1394,7 +1343,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e167</cell>
   </row>
-  <row index="82">
+  <row index="79">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-10-en</cell>
     <cell name="title">Workshop recommendations (en)</cell>
@@ -1411,24 +1360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e185</cell>
   </row>
-  <row index="83">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/9789264309791-en</cell>
-    <cell name="title">OECD Skills Strategy Flanders (en)</cell>
-    <cell name="subtitle">Assessment and Recommendations (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-01-21</cell>
-    <cell name="embargo date">2019-01-21T13:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-01-14T23:07:57Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9a7f3</cell>
-  </row>
-  <row index="84">
+  <row index="80">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph47-en</cell>
     <cell name="title">Rank of priority areas in both workshops (en)</cell>
@@ -1445,7 +1377,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e189</cell>
   </row>
-  <row index="85">
+  <row index="81">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph51-en</cell>
     <cell name="title">Support for recommendations related to governance of adult education (en)</cell>
@@ -1462,7 +1394,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e18d</cell>
   </row>
-  <row index="86">
+  <row index="82">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph9-en</cell>
     <cell name="title">Participation in formal or non-formal education for job-related reasons by demographic group (en)</cell>
@@ -1479,7 +1411,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e157</cell>
   </row>
-  <row index="87">
+  <row index="83">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph6-en</cell>
     <cell name="title">Adult learning levels in Flanders in comparison with other countries (en)</cell>
@@ -1496,7 +1428,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e154</cell>
   </row>
-  <row index="88">
+  <row index="84">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph37-en</cell>
     <cell name="title">Influence of employees on their work, 2015 (en)</cell>
@@ -1513,7 +1445,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e177</cell>
   </row>
-  <row index="89">
+  <row index="85">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph25-en</cell>
     <cell name="title">Mismatch between the education profile of wage earners and that of jobseekers, Flanders and other Belgian regions, and selected countries (2011, 2016) (en)</cell>
@@ -1530,7 +1462,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e169</cell>
   </row>
-  <row index="90">
+  <row index="86">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-2-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -1547,7 +1479,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e148</cell>
   </row>
-  <row index="91">
+  <row index="87">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph48-en</cell>
     <cell name="title">Support for recommendations related to developing a learning culture (en)</cell>
@@ -1564,7 +1496,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e18a</cell>
   </row>
-  <row index="92">
+  <row index="88">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-12-en</cell>
     <cell name="title">Engagement (en)</cell>
@@ -1581,7 +1513,24 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e190</cell>
   </row>
-  <row index="93">
+  <row index="89">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/9789264309791-en</cell>
+    <cell name="title">OECD Skills Strategy Flanders (en)</cell>
+    <cell name="subtitle">Assessment and Recommendations (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T13:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-14T23:07:57Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9a7f3</cell>
+  </row>
+  <row index="90">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-3-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1598,7 +1547,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e14a</cell>
   </row>
-  <row index="94">
+  <row index="91">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-4-en</cell>
     <cell name="title">Key insights and recommendations (en)</cell>
@@ -1615,7 +1564,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e14b</cell>
   </row>
-  <row index="95">
+  <row index="92">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-12-en</cell>
     <cell name="title">Engagement (en)</cell>
@@ -1632,7 +1581,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e18f</cell>
   </row>
-  <row index="96">
+  <row index="93">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-6-en</cell>
     <cell name="title">Reducing skills imbalances (en)</cell>
@@ -1649,7 +1598,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e162</cell>
   </row>
-  <row index="97">
+  <row index="94">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph16-en</cell>
     <cell name="title">Stock of qualifications attained via adult education (en)</cell>
@@ -1666,7 +1615,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e15e</cell>
   </row>
-  <row index="98">
+  <row index="95">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-1-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1683,7 +1632,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e146</cell>
   </row>
-  <row index="99">
+  <row index="96">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-8-en</cell>
     <cell name="title">Strengthening the governance of adult learning (en)</cell>
@@ -1700,7 +1649,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e17c</cell>
   </row>
-  <row index="100">
+  <row index="97">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph17-en</cell>
     <cell name="title">Recent adult education flow in formal provisions (en)</cell>
@@ -1717,7 +1666,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e15f</cell>
   </row>
-  <row index="101">
+  <row index="98">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph45-en</cell>
     <cell name="title">Share of employees receiving employer financial support for education or training, by skill level (en)</cell>
@@ -1734,7 +1683,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e183</cell>
   </row>
-  <row index="102">
+  <row index="99">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-7-en</cell>
     <cell name="title">Strengthening skills use in the workplace (en)</cell>
@@ -1751,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e16e</cell>
   </row>
-  <row index="103">
+  <row index="100">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph26-en</cell>
     <cell name="title">Labour market polarisation, Belgium and selected OECD countries, 1995-2015 (en)</cell>
@@ -1768,7 +1717,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e16a</cell>
   </row>
-  <row index="104">
+  <row index="101">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-3-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1785,7 +1734,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e149</cell>
   </row>
-  <row index="105">
+  <row index="102">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph20-en</cell>
     <cell name="title">Job vacancy rate and unemployment rate, Flanders, other Belgian regions and OECD-EU countries, 2017 (en)</cell>
@@ -1802,7 +1751,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e164</cell>
   </row>
-  <row index="106">
+  <row index="103">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph38-en</cell>
     <cell name="title">Distribution of groups of establishments by structural characteristics, 2013 (en)</cell>
@@ -1819,7 +1768,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e178</cell>
   </row>
-  <row index="107">
+  <row index="104">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph39-en</cell>
     <cell name="title">Type of establishment, by country 2013 (en)</cell>
@@ -1836,7 +1785,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e179</cell>
   </row>
-  <row index="108">
+  <row index="105">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph7-en</cell>
     <cell name="title">Rates and intensity of adult education (en)</cell>
@@ -1853,7 +1802,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e155</cell>
   </row>
-  <row index="109">
+  <row index="106">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-table5-en</cell>
     <cell name="title">Overview of providers of adult education in Flanders (en)</cell>
@@ -1870,7 +1819,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e153</cell>
   </row>
-  <row index="110">
+  <row index="107">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-5-en</cell>
     <cell name="title">Developing a learning culture (en)</cell>
@@ -1887,7 +1836,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e151</cell>
   </row>
-  <row index="111">
+  <row index="108">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph14-en</cell>
     <cell name="title">Obstacles to participation as a share of total (en)</cell>
@@ -1904,7 +1853,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e15c</cell>
   </row>
-  <row index="112">
+  <row index="109">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-9-en</cell>
     <cell name="title">Improving the financing of adult learning (en)</cell>
@@ -1921,7 +1870,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e181</cell>
   </row>
-  <row index="113">
+  <row index="110">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph28-en</cell>
     <cell name="title">Labour force participation rate by age group, Flanders and EU-28, 2017 (en)</cell>
@@ -1938,7 +1887,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e16c</cell>
   </row>
-  <row index="114">
+  <row index="111">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph19-en</cell>
     <cell name="title">Non-formal education by firm size (en)</cell>
@@ -1955,7 +1904,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e161</cell>
   </row>
-  <row index="115">
+  <row index="112">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-11-en</cell>
     <cell name="title">Pre-workshop surveys outcomes (en)</cell>
@@ -1972,7 +1921,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e187</cell>
   </row>
-  <row index="116">
+  <row index="113">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph44-en</cell>
     <cell name="title">Share of workers who did not participate in training because it was too expensive (en)</cell>
@@ -1989,7 +1938,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e182</cell>
   </row>
-  <row index="117">
+  <row index="114">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph11-en</cell>
     <cell name="title">Willingness to participate in formal and/or non-formal education (en)</cell>
@@ -2006,7 +1955,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e159</cell>
   </row>
-  <row index="118">
+  <row index="115">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph30-en</cell>
     <cell name="title">How skills use, education and skills affect job satisfaction in Flanders (en)</cell>
@@ -2023,24 +1972,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e170</cell>
   </row>
-  <row index="119">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/9789264309791-en</cell>
-    <cell name="title">OECD Skills Strategy Flanders (en)</cell>
-    <cell name="subtitle">Assessment and Recommendations (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-01-21</cell>
-    <cell name="embargo date">2019-01-21T13:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-01-14T23:07:57Z</cell>
-    <cell name="freepreview last export date">2019-01-14T20:36:33Z</cell>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9a7f2</cell>
-  </row>
-  <row index="120">
+  <row index="116">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph3-en</cell>
     <cell name="title">Key indicators for activating skills supply (en)</cell>
@@ -2057,7 +1989,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e14f</cell>
   </row>
-  <row index="121">
+  <row index="117">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-10-en</cell>
     <cell name="title">Workshop recommendations (en)</cell>
@@ -2074,24 +2006,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e186</cell>
   </row>
-  <row index="122">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/9789264309791-en</cell>
-    <cell name="title">OECD Skills Strategy Flanders (en)</cell>
-    <cell name="subtitle">Assessment and Recommendations (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-01-21</cell>
-    <cell name="embargo date">2019-01-21T13:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-01-14T23:07:57Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9a7f4</cell>
-  </row>
-  <row index="123">
+  <row index="118">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph42-en</cell>
     <cell name="title">Stakeholder engagement in developing regulations, 2014 (en)</cell>
@@ -2108,7 +2023,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e17e</cell>
   </row>
-  <row index="124">
+  <row index="119">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph40-en</cell>
     <cell name="title">Paid time off for training and on-the-job training, provided to at least some employees, by country (%), 2013 (en)</cell>
@@ -2125,7 +2040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e17a</cell>
   </row>
-  <row index="125">
+  <row index="120">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-2-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -2142,7 +2057,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e147</cell>
   </row>
-  <row index="126">
+  <row index="121">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph27-en</cell>
     <cell name="title">Distribution of upper secondary student enrolment, by programme orientation (en)</cell>
@@ -2159,7 +2074,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e16b</cell>
   </row>
-  <row index="127">
+  <row index="122">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph33-en</cell>
     <cell name="title">Skills use at work by occupation in Flanders (en)</cell>
@@ -2176,7 +2091,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e173</cell>
   </row>
-  <row index="128">
+  <row index="123">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph4-en</cell>
     <cell name="title">Key indicators for using skills effectively (en)</cell>
@@ -2193,7 +2108,24 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e150</cell>
   </row>
-  <row index="129">
+  <row index="124">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/9789264309791-en</cell>
+    <cell name="title">OECD Skills Strategy Flanders (en)</cell>
+    <cell name="subtitle">Assessment and Recommendations (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T13:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-14T23:07:57Z</cell>
+    <cell name="freepreview last export date">2019-01-14T20:36:33Z</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9a7f2</cell>
+  </row>
+  <row index="125">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph49-en</cell>
     <cell name="title">Support for recommendations related to reducing skills imbalances (en)</cell>
@@ -2210,7 +2142,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e18b</cell>
   </row>
-  <row index="130">
+  <row index="126">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph21-en</cell>
     <cell name="title">Hiring difficulties have become a more significant issue in certain economic activities (en)</cell>
@@ -2227,7 +2159,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e165</cell>
   </row>
-  <row index="131">
+  <row index="127">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph24-en</cell>
     <cell name="title">Elevated incidence of long-term unemployment (en)</cell>
@@ -2244,7 +2176,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e168</cell>
   </row>
-  <row index="132">
+  <row index="128">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph43-en</cell>
     <cell name="title">Open-Useful-Reusable Government Data Index (OURdata), 2017 (en)</cell>
@@ -2261,7 +2193,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e17f</cell>
   </row>
-  <row index="133">
+  <row index="129">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph22-en</cell>
     <cell name="title">Skills shortage and surplus, Flanders, 2016 (en)</cell>
@@ -2278,7 +2210,24 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e166</cell>
   </row>
-  <row index="134">
+  <row index="130">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/9789264309791-en</cell>
+    <cell name="title">OECD Skills Strategy Flanders (en)</cell>
+    <cell name="subtitle">Assessment and Recommendations (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-21</cell>
+    <cell name="embargo date">2019-01-21T13:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-14T23:07:57Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9a7f4</cell>
+  </row>
+  <row index="131">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph10-en</cell>
     <cell name="title">Participation gap in formal and non-formal education for job-related reasons, high-skilled and low-skilled adults (en)</cell>
@@ -2295,7 +2244,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e158</cell>
   </row>
-  <row index="135">
+  <row index="132">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph50-en</cell>
     <cell name="title">Support for recommendations related to strengthening skills use (en)</cell>
@@ -2312,7 +2261,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e18c</cell>
   </row>
-  <row index="136">
+  <row index="133">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph2-en</cell>
     <cell name="title">Key indicators for developing relevant skills (en)</cell>
@@ -2329,7 +2278,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e14e</cell>
   </row>
-  <row index="137">
+  <row index="134">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph13-en</cell>
     <cell name="title">Share of adults who found formal or non-formal education useful for their job (en)</cell>
@@ -2346,7 +2295,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e15b</cell>
   </row>
-  <row index="138">
+  <row index="135">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph29-en</cell>
     <cell name="title">Wage returns to skills use, education, and skills proficiency in Flanders (en)</cell>
@@ -2363,7 +2312,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e16f</cell>
   </row>
-  <row index="139">
+  <row index="136">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph32-en</cell>
     <cell name="title">Use of information-processing skills at work, by firm size (en)</cell>
@@ -2380,7 +2329,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e172</cell>
   </row>
-  <row index="140">
+  <row index="137">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-1-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2397,7 +2346,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e145</cell>
   </row>
-  <row index="141">
+  <row index="138">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-table46-en</cell>
     <cell name="title">Distribution of training and guidance vouchers (en)</cell>
@@ -2414,7 +2363,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e184</cell>
   </row>
-  <row index="142">
+  <row index="139">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-4-en</cell>
     <cell name="title">Key insights and recommendations (en)</cell>
@@ -2431,7 +2380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e14c</cell>
   </row>
-  <row index="143">
+  <row index="140">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-8-en</cell>
     <cell name="title">Strengthening the governance of adult learning (en)</cell>
@@ -2448,7 +2397,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e17b</cell>
   </row>
-  <row index="144">
+  <row index="141">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-6-en</cell>
     <cell name="title">Reducing skills imbalances (en)</cell>
@@ -2465,7 +2414,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e163</cell>
   </row>
-  <row index="145">
+  <row index="142">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-7-en</cell>
     <cell name="title">Strengthening skills use in the workplace (en)</cell>
@@ -2482,7 +2431,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e16d</cell>
   </row>
-  <row index="146">
+  <row index="143">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264309791-graph31-en</cell>
     <cell name="title">Skills use at work and skills proficiency of working population (en)</cell>
@@ -2499,7 +2448,24 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e171</cell>
   </row>
-  <row index="147">
+  <row index="144">
+    <cell name="directorate">Non applicable</cell>
+    <cell name="doi">10.18356/a97d12e3-en</cell>
+    <cell name="title">World Economic Situation and Prospects 2019 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-22</cell>
+    <cell name="embargo date">2019-01-22T16:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-21T23:12:51Z</cell>
+    <cell name="freepreview last export date">2019-01-21T20:33:57Z</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2293025c</cell>
+  </row>
+  <row index="145">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/537fc88b-en</cell>
     <cell name="title">Upgrading business investment in Turkey (en)</cell>
@@ -2516,24 +2482,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ee8907bf</cell>
   </row>
-  <row index="148">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/537fc88b-en</cell>
-    <cell name="title">Upgrading business investment in Turkey (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-01-23</cell>
-    <cell name="embargo date">2019-01-23T01:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Working paper</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ee8907bf</cell>
-  </row>
-  <row index="149">
+  <row index="146">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/cde28569-en</cell>
     <cell name="title">Extended Producer Responsibility (EPR) and the Impact of Online Sales (en)</cell>
@@ -2550,7 +2499,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0dd18bd</cell>
   </row>
-  <row index="150">
+  <row index="147">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264311671-en</cell>
     <cell name="title">Measuring Innovation in Education 2019 (en)</cell>
@@ -2567,7 +2516,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e097</cell>
   </row>
-  <row index="151">
+  <row index="148">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9789264311671-en</cell>
     <cell name="title">Measuring Innovation in Education 2019 (en)</cell>
@@ -2584,7 +2533,75 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e098</cell>
   </row>
+  <row index="149">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264310452-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: Australia 2019 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2019-01-30</cell>
+    <cell name="embargo date">2019-01-30T02:00:00Z</cell>
+    <cell name="launch date/time">2019-01-30T02:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9b370</cell>
+  </row>
+  <row index="150">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264310452-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: Australia 2019 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2019-01-30</cell>
+    <cell name="embargo date">2019-01-30T02:00:00Z</cell>
+    <cell name="launch date/time">2019-01-30T02:00:00Z</cell>
+    <cell name="ilibrary last export date">2019-01-21T23:12:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9b36d</cell>
+  </row>
+  <row index="151">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264310452-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: Australia 2019 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2019-01-30</cell>
+    <cell name="embargo date">2019-01-30T02:00:00Z</cell>
+    <cell name="launch date/time">2019-01-30T02:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9b36f</cell>
+  </row>
   <row index="152">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264310452-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: Australia 2019 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2019-01-30</cell>
+    <cell name="embargo date">2019-01-30T02:00:00Z</cell>
+    <cell name="launch date/time">2019-01-30T02:00:00Z</cell>
+    <cell name="ilibrary last export date">2019-01-21T23:12:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9b36e</cell>
+  </row>
+  <row index="153">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-hun-2019-en</cell>
     <cell name="title">OECD Economic Surveys: Hungary 2019 (en)</cell>
@@ -2601,7 +2618,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9d89a</cell>
   </row>
-  <row index="153">
+  <row index="154">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-hun-2019-en</cell>
     <cell name="title">OECD Economic Surveys: Hungary 2019 (en)</cell>
@@ -2618,7 +2635,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9d855</cell>
   </row>
-  <row index="154">
+  <row index="155">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264306585-es</cell>
     <cell name="title">Simplificación Administrativa en el Instituto Mexicano del Seguro Social (es)</cell>
@@ -2635,7 +2652,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g95a39</cell>
   </row>
-  <row index="155">
+  <row index="156">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-svk-2019-en</cell>
     <cell name="title">OECD Economic Surveys: Slovak Republic 2019 (en)</cell>
@@ -2646,13 +2663,13 @@
     <cell name="date of publication">2019-02-05</cell>
     <cell name="embargo date">2019-02-05T10:00:00Z</cell>
     <cell name="launch date/time">2019-02-05T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2019-01-18T01:08:13Z</cell>
+    <cell name="ilibrary last export date">2019-01-21T23:12:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9daef</cell>
   </row>
-  <row index="156">
+  <row index="157">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-svk-2019-en</cell>
     <cell name="title">OECD Economic Surveys: Slovak Republic 2019 (en)</cell>
@@ -2669,7 +2686,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9daee</cell>
   </row>
-  <row index="157">
+  <row index="158">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/9789264311053-en</cell>
     <cell name="title">Rethinking Innovation for a Sustainable Ocean Economy (en)</cell>
@@ -2686,7 +2703,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9c464</cell>
   </row>
-  <row index="158">
+  <row index="159">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/9789264311053-en</cell>
     <cell name="title">Rethinking Innovation for a Sustainable Ocean Economy (en)</cell>
@@ -2703,7 +2720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9c465</cell>
   </row>
-  <row index="159">
+  <row index="160">
     <cell name="directorate">Statistics and Data Directorate</cell>
     <cell name="doi">10.1787/9789264311800-en</cell>
     <cell name="title">How's Life in the Digital Age? (en)</cell>
@@ -2720,7 +2737,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e413</cell>
   </row>
-  <row index="160">
+  <row index="161">
     <cell name="directorate">Statistics and Data Directorate</cell>
     <cell name="doi">10.1787/9789264311800-en</cell>
     <cell name="title">How's Life in the Digital Age? (en)</cell>
