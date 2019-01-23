@@ -8,28 +8,13 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Tue, 22 Jan 2019 05:17:14 GMT</pubDate>
+      <pubDate>Wed, 23 Jan 2019 05:03:06 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
                  type="application/rss+xml"/>
       <item>
-         <guid isPermaLink="false">10.1787/trends_edu-2019-en-d3e986</guid>
-         <pubDate>Mon, 21 Jan 2019 10:00:00 GMT</pubDate>
-         <title>Trends Shaping Education 2019</title>
-         <link>https://doi.org/10.1787/trends_edu-2019-en</link>
-         <description>Trends Shaping Education 2019 by Directorate for Education and Skills has an embargo on Monday 21 January 2019 at 10:00 and a launch event planned on Monday 21 January 2019 at 10:00.</description>
-         <oe:embargoTime>Mon, 21 Jan 2019 10:00:00 GMT</oe:embargoTime>
-         <oe:launchTime>Mon, 21 Jan 2019 10:00:00 GMT</oe:launchTime>
-         <oe:languages>English</oe:languages>
-         <oe:directorate>Directorate for Education and Skills</oe:directorate>
-         <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Friday, 11 January 2019, 0:04 (GMT)</oe:iLibraryExport>
-         <oe:freePreviewExport>Monday, 21 January 2019, 21:33 (GMT)</oe:freePreviewExport>
-         <oe:catalogueType>Book</oe:catalogueType>
-      </item>
-      <item>
-         <guid isPermaLink="false">10.1787/ddddb354-en-d3e1035</guid>
+         <guid isPermaLink="false">10.1787/ddddb354-en-d3e986</guid>
          <pubDate>Mon, 21 Jan 2019 10:00:00 GMT</pubDate>
          <title>Trends Shaping Education 2019 (Summary in English)</title>
          <link>https://doi.org/10.1787/ddddb354-en</link>
@@ -44,7 +29,22 @@
          <oe:catalogueType>Summary</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/9789264309791-en-d3e6040</guid>
+         <guid isPermaLink="false">10.1787/trends_edu-2019-en-d3e1426</guid>
+         <pubDate>Mon, 21 Jan 2019 10:00:00 GMT</pubDate>
+         <title>Trends Shaping Education 2019</title>
+         <link>https://doi.org/10.1787/trends_edu-2019-en</link>
+         <description>Trends Shaping Education 2019 by Directorate for Education and Skills has an embargo on Monday 21 January 2019 at 10:00 and a launch event planned on Monday 21 January 2019 at 10:00.</description>
+         <oe:embargoTime>Mon, 21 Jan 2019 10:00:00 GMT</oe:embargoTime>
+         <oe:launchTime>Mon, 21 Jan 2019 10:00:00 GMT</oe:launchTime>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Directorate for Education and Skills</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Friday, 11 January 2019, 0:04 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport>Tuesday, 22 January 2019, 21:36 (GMT)</oe:freePreviewExport>
+         <oe:catalogueType>Book</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264309791-en-d3e5797</guid>
          <pubDate>Mon, 21 Jan 2019 14:30:00 GMT</pubDate>
          <title>OECD Skills Strategy Flanders - Assessment and Recommendations</title>
          <link>https://doi.org/10.1787/9789264309791-en</link>
@@ -54,12 +54,12 @@
          <oe:languages>English</oe:languages>
          <oe:directorate>Directorate for Education and Skills</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Tuesday, 15 January 2019, 0:07 (GMT)</oe:iLibraryExport>
+         <oe:iLibraryExport>Tuesday, 22 January 2019, 23:56 (GMT)</oe:iLibraryExport>
          <oe:freePreviewExport>Monday, 14 January 2019, 21:36 (GMT)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.18356/a97d12e3-en-d3e7010</guid>
+         <guid isPermaLink="false">10.18356/a97d12e3-en-d3e7058</guid>
          <pubDate>Tue, 22 Jan 2019 17:00:00 GMT</pubDate>
          <title>World Economic Situation and Prospects 2019</title>
          <link>https://doi.org/10.18356/a97d12e3-en</link>
@@ -74,7 +74,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/537fc88b-en-d3e7058</guid>
+         <guid isPermaLink="false">10.1787/537fc88b-en-d3e7491</guid>
          <pubDate>Wed, 23 Jan 2019 02:00:00 GMT</pubDate>
          <title>Upgrading business investment in Turkey</title>
          <link>https://doi.org/10.1787/537fc88b-en</link>
@@ -89,7 +89,7 @@
          <oe:catalogueType>Working paper</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/cde28569-en-d3e7106</guid>
+         <guid isPermaLink="false">10.1787/cde28569-en-d3e7540</guid>
          <pubDate>Wed, 23 Jan 2019 06:00:00 GMT</pubDate>
          <title>Extended Producer Responsibility (EPR) and the Impact of Online Sales</title>
          <link>https://doi.org/10.1787/cde28569-en</link>
@@ -104,7 +104,7 @@
          <oe:catalogueType>Working paper</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/9789264311671-en-d3e7201</guid>
+         <guid isPermaLink="false">10.1787/9789264311671-en-d3e7635</guid>
          <pubDate>Mon, 28 Jan 2019 10:00:00 GMT</pubDate>
          <title>Measuring Innovation in Education 2019 - What Has Changed in the Classroom?</title>
          <link>https://doi.org/10.1787/9789264311671-en</link>
@@ -119,7 +119,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/9789264310452-en-d3e7389</guid>
+         <guid isPermaLink="false">10.1787/9789264310452-en-d3e7683</guid>
          <pubDate>Wed, 30 Jan 2019 03:00:00 GMT</pubDate>
          <title>OECD Environmental Performance Reviews: Australia 2019</title>
          <link>https://doi.org/10.1787/9789264310452-en</link>
@@ -134,7 +134,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/eco_surveys-hun-2019-en-d3e7436</guid>
+         <guid isPermaLink="false">10.1787/eco_surveys-hun-2019-en-d3e7870</guid>
          <pubDate>Thu, 31 Jan 2019 11:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: Hungary 2019</title>
          <link>https://doi.org/10.1787/eco_surveys-hun-2019-en</link>
@@ -149,7 +149,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/eco_surveys-svk-2019-en-d3e7576</guid>
+         <guid isPermaLink="false">10.1787/eco_surveys-svk-2019-en-d3e8055</guid>
          <pubDate>Tue, 05 Feb 2019 11:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: Slovak Republic 2019</title>
          <link>https://doi.org/10.1787/eco_surveys-svk-2019-en</link>
@@ -164,7 +164,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/9789264311053-en-d3e7715</guid>
+         <guid isPermaLink="false">10.1787/9789264311053-en-d3e8149</guid>
          <pubDate>Thu, 14 Feb 2019 11:00:00 GMT</pubDate>
          <title>Rethinking Innovation for a Sustainable Ocean Economy</title>
          <link>https://doi.org/10.1787/9789264311053-en</link>
@@ -179,7 +179,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/9789264311800-en-d3e7762</guid>
+         <guid isPermaLink="false">10.1787/9789264311800-en-d3e8196</guid>
          <pubDate>Tue, 26 Feb 2019 11:00:00 GMT</pubDate>
          <title>How's Life in the Digital Age? - Opportunities and Risks of the Digital Transformation for People's Well-being</title>
          <link>https://doi.org/10.1787/9789264311800-en</link>
@@ -190,6 +190,36 @@
          <oe:directorate>Statistics and Data Directorate</oe:directorate>
          <oe:ftiLoaded/>
          <oe:iLibraryExport>Friday, 18 January 2019, 2:08 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264311992-en-d3e8336</guid>
+         <pubDate>Mon, 11 Mar 2019 09:00:00 GMT</pubDate>
+         <title>Measuring the Digital Transformation</title>
+         <link>https://doi.org/10.1787/9789264311992-en</link>
+         <description>Measuring the Digital Transformation by Directorate for Science, Technology and Industry has an embargo on Monday 11 March 2019 at 9:00 and a launch event planned on Monday 11 March 2019 at 9:00.</description>
+         <oe:embargoTime>Mon, 11 Mar 2019 09:00:00 GMT</oe:embargoTime>
+         <oe:launchTime>Mon, 11 Mar 2019 09:00:00 GMT</oe:launchTime>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Directorate for Science, Technology and Industry</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Tuesday, 22 January 2019, 23:56 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9789264312012-en-d3e8430</guid>
+         <pubDate>Mon, 11 Mar 2019 09:00:00 GMT</pubDate>
+         <title>Going Digital Synthesis Report - Making Digital Transformation Work for Growth and Well-being</title>
+         <link>https://doi.org/10.1787/9789264312012-en</link>
+         <description>Going Digital Synthesis Report - Making Digital Transformation Work for Growth and Well-being by Directorate for Science, Technology and Industry has an embargo on Monday 11 March 2019 at 9:00 and a launch event planned on Monday 11 March 2019 at 9:00.</description>
+         <oe:embargoTime>Mon, 11 Mar 2019 09:00:00 GMT</oe:embargoTime>
+         <oe:launchTime>Mon, 11 Mar 2019 09:00:00 GMT</oe:launchTime>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Directorate for Science, Technology and Industry</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Tuesday, 22 January 2019, 0:12 (GMT)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>

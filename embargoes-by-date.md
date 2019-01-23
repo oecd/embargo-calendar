@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 22 January 2019 at 5:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 23 January 2019 at 5:02* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [21 January 2019](#21-january-2019)
 * [22 January 2019](#22-january-2019)
@@ -13,32 +13,11 @@ Data generated on | |
 * [5 February 2019](#5-february-2019)
 * [14 February 2019](#14-february-2019)
 * [26 February 2019](#26-february-2019)
+* [11 March 2019](#11-march-2019)
 
 ------
 
 # 21 January 2019
-
-## [Trends Shaping Education 2019](https://doi.org/10.1787/trends_edu-2019-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 21 January 2019 at 9:00 | Monday 21 January 2019 at 9:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 January 2019 at 0:04
-- [x] Exported to Keepeek Monday 21 January 2019 at 21:33
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
 
 ## [Multilingual Summaries for Trends Shaping Education 2019](https://doi.org/10.1787/ddddb354-en)
 
@@ -62,6 +41,28 @@ Monday 21 January 2019 at 9:00 | no launch event
 
 ------
 
+## [Trends Shaping Education 2019](https://doi.org/10.1787/trends_edu-2019-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 21 January 2019 at 9:00 | Monday 21 January 2019 at 9:00
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 January 2019 at 0:04
+- [x] Exported to Keepeek Tuesday 22 January 2019 at 21:36
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [OECD Skills Strategy Flanders - Assessment and Recommendations](https://doi.org/10.1787/9789264309791-en)
 
 Embargo date | Launch date
@@ -71,7 +72,7 @@ Monday 21 January 2019 at 13:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 January 2019 at 0:07
+- [x] Exported to iLibrary Tuesday 22 January 2019 at 23:56
 - [x] Exported to Keepeek Monday 14 January 2019 at 21:36
 
 ### Additional Information
@@ -311,5 +312,53 @@ Tuesday 26 February 2019 at 10:00 | Tuesday 26 February 2019 at 10:00
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 11 March 2019
+
+## [Measuring the Digital Transformation](https://doi.org/10.1787/9789264311992-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 11 March 2019 at 8:00 | Monday 11 March 2019 at 8:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 22 January 2019 at 23:56
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Going Digital Synthesis Report - Making Digital Transformation Work for Growth and Well-being](https://doi.org/10.1787/9789264312012-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 11 March 2019 at 8:00 | Monday 11 March 2019 at 8:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 22 January 2019 at 0:12
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------

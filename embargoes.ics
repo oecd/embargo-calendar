@@ -2,46 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/trends_edu-2019-end3e986
-SUMMARY:Trends Shaping Education 2019
-DESCRIPTION:*Trends Shaping Education 2019*\n\nDirec
- torate: Directorate for Education and Sk
- ills\nLanguage: English\nDOI: https://do
- i.org/10.1787/trends_edu-2019-en\nPublic
- ation type: Book\nReleased as: Paperback
- , PDF\n\nEmbargo date/time: Monday, 21 J
- anuary 2019, 9:00 (GMT)\nLaunch date/tim
- e: Monday, 21 January 2019, 9:00 (GMT)\n
- \niLibrary export: Thursday, 10 January 
- 2019, 23:04 (GMT)\nFreepreview export: M
- onday, 21 January 2019, 20:33 (GMT)\nFTI
-  loaded: ✓\n\nFor more information see: 
- https://github.com/oecd/embargo-calendar
- /blob/master/embargoes-by-publication.md
- .\n\nPlease note: This information was c
- orrect as of this morning at 5:17, it is
-  updated each night; therefore any subse
- quent updates may not yet be visible her
- e. Also, please be aware that the differ
- ent released media (PDF, HTML, etc.) are
-  not necessarily released at the same ti
- me. For complete and up-to-date informat
- ion see here: http://kappa.oecd.org/v3/s
- earch?term=trends_edu-2019-en.
-DTSTAMP:20190122T051711Z
-DTSTART:20190121T090000Z
-DTEND:20190121T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Trends Shaping Education 2019
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/ddddb354-end3e1035
+UID:10.1787/ddddb354-end3e986
 SUMMARY:Multilingual Summaries for Trends Shapin
  g Education 2019
 DESCRIPTION:*Multilingual Summaries for Trends Shapi
@@ -58,7 +19,7 @@ DESCRIPTION:*Multilingual Summaries for Trends Shapi
  /oecd/embargo-calendar/blob/master/embar
  goes-by-publication.md.\n\nPlease note: 
  This information was correct as of this 
- morning at 5:17, it is updated each nigh
+ morning at 5:02, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -67,7 +28,7 @@ DESCRIPTION:*Multilingual Summaries for Trends Shapi
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=ddddb35
  4-en.
-DTSTAMP:20190122T051711Z
+DTSTAMP:20190123T050303Z
 DTSTART:20190121T090000Z
 DTEND:20190121T091500Z
 TRANSP:TRANSPARENT
@@ -81,7 +42,46 @@ DESCRIPTION:Reminder: Multilingual Summaries for Tre
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264309791-end3e6040
+UID:10.1787/trends_edu-2019-end3e1426
+SUMMARY:Trends Shaping Education 2019
+DESCRIPTION:*Trends Shaping Education 2019*\n\nDirec
+ torate: Directorate for Education and Sk
+ ills\nLanguage: English\nDOI: https://do
+ i.org/10.1787/trends_edu-2019-en\nPublic
+ ation type: Book\nReleased as: Paperback
+ , PDF\n\nEmbargo date/time: Monday, 21 J
+ anuary 2019, 9:00 (GMT)\nLaunch date/tim
+ e: Monday, 21 January 2019, 9:00 (GMT)\n
+ \niLibrary export: Thursday, 10 January 
+ 2019, 23:04 (GMT)\nFreepreview export: T
+ uesday, 22 January 2019, 20:36 (GMT)\nFT
+ I loaded: ✓\n\nFor more information see:
+  https://github.com/oecd/embargo-calenda
+ r/blob/master/embargoes-by-publication.m
+ d.\n\nPlease note: This information was 
+ correct as of this morning at 5:02, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=trends_edu-2019-en.
+DTSTAMP:20190123T050303Z
+DTSTART:20190121T090000Z
+DTEND:20190121T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Trends Shaping Education 2019
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9789264309791-end3e5797
 SUMMARY:OECD Skills Strategy Flanders - Assessme
  nt and Recommendations
 DESCRIPTION:*OECD Skills Strategy Flanders - Assessm
@@ -91,24 +91,24 @@ DESCRIPTION:*OECD Skills Strategy Flanders - Assessm
  0.1787/9789264309791-en\nPublication typ
  e: Book\nReleased as: ePub, HTML, PDF\n\
  nEmbargo date/time: Monday, 21 January 2
- 019, 13:30 (GMT)\n\n\niLibrary export: M
- onday, 14 January 2019, 23:07 (GMT)\nFre
- epreview export: Monday, 14 January 2019
- , 20:36 (GMT)\nFTI loaded: ✓\n\nFor more
-  information see: https://github.com/oec
- d/embargo-calendar/blob/master/embargoes
- -by-publication.md.\n\nPlease note: This
-  information was correct as of this morn
- ing at 5:17, it is updated each night; t
- herefore any subsequent updates may not 
- yet be visible here. Also, please be awa
- re that the different released media (PD
- F, HTML, etc.) are not necessarily relea
- sed at the same time. For complete and u
- p-to-date information see here: http://k
- appa.oecd.org/v3/search?term=97892643097
- 91-en.
-DTSTAMP:20190122T051711Z
+ 019, 13:30 (GMT)\n\n\niLibrary export: T
+ uesday, 22 January 2019, 22:56 (GMT)\nFr
+ eepreview export: Monday, 14 January 201
+ 9, 20:36 (GMT)\nFTI loaded: ✓\n\nFor mor
+ e information see: https://github.com/oe
+ cd/embargo-calendar/blob/master/embargoe
+ s-by-publication.md.\n\nPlease note: Thi
+ s information was correct as of this mor
+ ning at 5:02, it is updated each night; 
+ therefore any subsequent updates may not
+  yet be visible here. Also, please be aw
+ are that the different released media (P
+ DF, HTML, etc.) are not necessarily rele
+ ased at the same time. For complete and 
+ up-to-date information see here: http://
+ kappa.oecd.org/v3/search?term=9789264309
+ 791-en.
+DTSTAMP:20190123T050303Z
 DTSTART:20190121T133000Z
 DTEND:20190121T134500Z
 TRANSP:TRANSPARENT
@@ -122,7 +122,7 @@ DESCRIPTION:Reminder: OECD Skills Strategy Flanders
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.18356/a97d12e3-end3e7010
+UID:10.18356/a97d12e3-end3e7058
 SUMMARY:World Economic Situation and Prospects 2
  019
 DESCRIPTION:*World Economic Situation and Prospects 
@@ -138,7 +138,7 @@ DESCRIPTION:*World Economic Situation and Prospects
  : https://github.com/oecd/embargo-calend
  ar/blob/master/embargoes-by-publication.
  md.\n\nPlease note: This information was
-  correct as of this morning at 5:17, it 
+  correct as of this morning at 5:02, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -147,7 +147,7 @@ DESCRIPTION:*World Economic Situation and Prospects
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=a97d12e3-en.
-DTSTAMP:20190122T051711Z
+DTSTAMP:20190123T050303Z
 DTSTART:20190122T160000Z
 DTEND:20190122T161500Z
 TRANSP:TRANSPARENT
@@ -161,7 +161,7 @@ DESCRIPTION:Reminder: World Economic Situation and P
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/537fc88b-end3e7058
+UID:10.1787/537fc88b-end3e7491
 SUMMARY:Upgrading business investment in Turkey
 DESCRIPTION:*Upgrading business investment in Turkey
  *\n\nDirectorate: Economics Department\n
@@ -177,7 +177,7 @@ DESCRIPTION:*Upgrading business investment in Turkey
  argo-calendar/blob/master/embargoes-by-p
  ublication.md.\n\nPlease note: This info
  rmation was correct as of this morning a
- t 5:17, it is updated each night; theref
+ t 5:02, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -185,7 +185,7 @@ DESCRIPTION:*Upgrading business investment in Turkey
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=537fc88b-en.
-DTSTAMP:20190122T051711Z
+DTSTAMP:20190123T050303Z
 DTSTART:20190123T010000Z
 DTEND:20190123T011500Z
 TRANSP:TRANSPARENT
@@ -199,7 +199,7 @@ DESCRIPTION:Reminder: Upgrading business investment
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cde28569-end3e7106
+UID:10.1787/cde28569-end3e7540
 SUMMARY:Extended Producer Responsibility (EPR) a
  nd the Impact of Online Sales
 DESCRIPTION:*Extended Producer Responsibility (EPR) 
@@ -216,7 +216,7 @@ DESCRIPTION:*Extended Producer Responsibility (EPR)
   see: https://github.com/oecd/embargo-ca
  lendar/blob/master/embargoes-by-publicat
  ion.md.\n\nPlease note: This information
-  was correct as of this morning at 5:17,
+  was correct as of this morning at 5:02,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -225,7 +225,7 @@ DESCRIPTION:*Extended Producer Responsibility (EPR)
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=cde28569-en.
-DTSTAMP:20190122T051711Z
+DTSTAMP:20190123T050303Z
 DTSTART:20190123T050000Z
 DTEND:20190123T051500Z
 TRANSP:TRANSPARENT
@@ -239,7 +239,7 @@ DESCRIPTION:Reminder: Extended Producer Responsibili
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311671-end3e7201
+UID:10.1787/9789264311671-end3e7635
 SUMMARY:Measuring Innovation in Education 2019 -
   What Has Changed in the Classroom?
 DESCRIPTION:*Measuring Innovation in Education 2019 
@@ -258,7 +258,7 @@ DESCRIPTION:*Measuring Innovation in Education 2019
  bargo-calendar/blob/master/embargoes-by-
  publication.md.\n\nPlease note: This inf
  ormation was correct as of this morning 
- at 5:17, it is updated each night; there
+ at 5:02, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -267,7 +267,7 @@ DESCRIPTION:*Measuring Innovation in Education 2019
  -date information see here: http://kappa
  .oecd.org/v3/search?term=9789264311671-e
  n.
-DTSTAMP:20190122T051711Z
+DTSTAMP:20190123T050303Z
 DTSTART:20190128T090000Z
 DTEND:20190128T091500Z
 TRANSP:TRANSPARENT
@@ -282,7 +282,7 @@ DESCRIPTION:Reminder: Measuring Innovation in Educat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264310452-end3e7389
+UID:10.1787/9789264310452-end3e7683
 SUMMARY:OECD Environmental Performance Reviews: 
  Australia 2019
 DESCRIPTION:*OECD Environmental Performance Reviews:
@@ -300,7 +300,7 @@ DESCRIPTION:*OECD Environmental Performance Reviews:
  ://github.com/oecd/embargo-calendar/blob
  /master/embargoes-by-publication.md.\n\n
  Please note: This information was correc
- t as of this morning at 5:17, it is upda
+ t as of this morning at 5:02, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -309,7 +309,7 @@ DESCRIPTION:*OECD Environmental Performance Reviews:
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=9789264310452-en.
-DTSTAMP:20190122T051711Z
+DTSTAMP:20190123T050303Z
 DTSTART:20190130T020000Z
 DTEND:20190130T021500Z
 TRANSP:TRANSPARENT
@@ -323,7 +323,7 @@ DESCRIPTION:Reminder: OECD Environmental Performance
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/eco_surveys-hun-2019-end3e7436
+UID:10.1787/eco_surveys-hun-2019-end3e7870
 SUMMARY:OECD Economic Surveys: Hungary 2019
 DESCRIPTION:*OECD Economic Surveys: Hungary 2019*\n\
  nDirectorate: Economics Department\nLang
@@ -340,7 +340,7 @@ DESCRIPTION:*OECD Economic Surveys: Hungary 2019*\n\
  cd/embargo-calendar/blob/master/embargoe
  s-by-publication.md.\n\nPlease note: Thi
  s information was correct as of this mor
- ning at 5:17, it is updated each night; 
+ ning at 5:02, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -349,7 +349,7 @@ DESCRIPTION:*OECD Economic Surveys: Hungary 2019*\n\
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=eco_survey
  s-hun-2019-en.
-DTSTAMP:20190122T051711Z
+DTSTAMP:20190123T050303Z
 DTSTART:20190131T100000Z
 DTEND:20190131T101500Z
 TRANSP:TRANSPARENT
@@ -363,7 +363,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Hungary
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/eco_surveys-svk-2019-end3e7576
+UID:10.1787/eco_surveys-svk-2019-end3e8055
 SUMMARY:OECD Economic Surveys: Slovak Republic 2
  019
 DESCRIPTION:*OECD Economic Surveys: Slovak Republic 
@@ -381,7 +381,7 @@ DESCRIPTION:*OECD Economic Surveys: Slovak Republic
  com/oecd/embargo-calendar/blob/master/em
  bargoes-by-publication.md.\n\nPlease not
  e: This information was correct as of th
- is morning at 5:17, it is updated each n
+ is morning at 5:02, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -390,7 +390,7 @@ DESCRIPTION:*OECD Economic Surveys: Slovak Republic
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=eco_
  surveys-svk-2019-en.
-DTSTAMP:20190122T051711Z
+DTSTAMP:20190123T050303Z
 DTSTART:20190205T100000Z
 DTEND:20190205T101500Z
 TRANSP:TRANSPARENT
@@ -404,7 +404,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Slovak
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311053-end3e7715
+UID:10.1787/9789264311053-end3e8149
 SUMMARY:Rethinking Innovation for a Sustainable 
  Ocean Economy
 DESCRIPTION:*Rethinking Innovation for a Sustainable
@@ -423,7 +423,7 @@ DESCRIPTION:*Rethinking Innovation for a Sustainable
  .com/oecd/embargo-calendar/blob/master/e
  mbargoes-by-publication.md.\n\nPlease no
  te: This information was correct as of t
- his morning at 5:17, it is updated each 
+ his morning at 5:02, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -432,7 +432,7 @@ DESCRIPTION:*Rethinking Innovation for a Sustainable
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=978
  9264311053-en.
-DTSTAMP:20190122T051711Z
+DTSTAMP:20190123T050303Z
 DTSTART:20190214T100000Z
 DTEND:20190214T101500Z
 TRANSP:TRANSPARENT
@@ -446,7 +446,7 @@ DESCRIPTION:Reminder: Rethinking Innovation for a Su
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311800-end3e7762
+UID:10.1787/9789264311800-end3e8196
 SUMMARY:How's Life in the Digital Age? - Opportu
  nities and Risks of the Digital Transfor
  mation for People's Well-being
@@ -467,7 +467,7 @@ DESCRIPTION:*How's Life in the Digital Age? - Opport
  m/oecd/embargo-calendar/blob/master/emba
  rgoes-by-publication.md.\n\nPlease note:
   This information was correct as of this
-  morning at 5:17, it is updated each nig
+  morning at 5:02, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -476,7 +476,7 @@ DESCRIPTION:*How's Life in the Digital Age? - Opport
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=978926
  4311800-en.
-DTSTAMP:20190122T051711Z
+DTSTAMP:20190123T050303Z
 DTSTART:20190226T100000Z
 DTEND:20190226T101500Z
 TRANSP:TRANSPARENT
@@ -488,6 +488,91 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: How's Life in the Digital Age?
   - Opportunities and Risks of the Digita
  l Transformation for People's Well-being
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9789264311992-end3e8336
+SUMMARY:Measuring the Digital Transformation
+DESCRIPTION:*Measuring the Digital Transformation*\n
+ \nDirectorate: Directorate for Science, 
+ Technology and Industry\nLanguage: Engli
+ sh\nDOI: https://doi.org/10.1787/9789264
+ 311992-en\nPublication type: Stand-alone
+  monograph\nReleased as: ePub, HTML, Pap
+ erback, PDF\n\nEmbargo date/time: Monday
+ , 11 March 2019, 8:00 (GMT)\nLaunch date
+ /time: Monday, 11 March 2019, 8:00 (GMT)
+ \n\niLibrary export: Tuesday, 22 January
+  2019, 22:56 (GMT)\nFreepreview export: 
+ never\nFTI loaded: ✗\n\nFor more informa
+ tion see: https://github.com/oecd/embarg
+ o-calendar/blob/master/embargoes-by-publ
+ ication.md.\n\nPlease note: This informa
+ tion was correct as of this morning at 5
+ :02, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=9789264311992-en.
+DTSTAMP:20190123T050303Z
+DTSTART:20190311T080000Z
+DTEND:20190311T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Measuring the Digital Transfor
+ mation
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9789264312012-end3e8430
+SUMMARY:Going Digital Synthesis Report - Making 
+ Digital Transformation Work for Growth a
+ nd Well-being
+DESCRIPTION:*Going Digital Synthesis Report - Making
+  Digital Transformation Work for Growth 
+ and Well-being*\n\nDirectorate: Director
+ ate for Science, Technology and Industry
+ \nLanguage: English\nDOI: https://doi.or
+ g/10.1787/9789264312012-en\nPublication 
+ type: Stand-alone monograph\nReleased as
+ : ePub, HTML, Paperback, PDF\n\nEmbargo 
+ date/time: Monday, 11 March 2019, 8:00 (
+ GMT)\nLaunch date/time: Monday, 11 March
+  2019, 8:00 (GMT)\n\niLibrary export: Mo
+ nday, 21 January 2019, 23:12 (GMT)\nFree
+ preview export: never\nFTI loaded: ✗\n\n
+ For more information see: https://github
+ .com/oecd/embargo-calendar/blob/master/e
+ mbargoes-by-publication.md.\n\nPlease no
+ te: This information was correct as of t
+ his morning at 5:02, it is updated each 
+ night; therefore any subsequent updates 
+ may not yet be visible here. Also, pleas
+ e be aware that the different released m
+ edia (PDF, HTML, etc.) are not necessari
+ ly released at the same time. For comple
+ te and up-to-date information see here: 
+ http://kappa.oecd.org/v3/search?term=978
+ 9264312012-en.
+DTSTAMP:20190123T050303Z
+DTSTART:20190311T080000Z
+DTEND:20190311T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Going Digital Synthesis Report
+  - Making Digital Transformation Work fo
+ r Growth and Well-being
 END:VALARM
 END:VEVENT
 END:VCALENDAR
