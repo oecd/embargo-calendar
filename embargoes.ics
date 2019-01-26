@@ -21,7 +21,7 @@ DESCRIPTION:*Measuring Innovation in Education 2019
   see: https://github.com/oecd/embargo-ca
  lendar/blob/master/embargoes-by-publicat
  ion.md.\n\nPlease note: This information
-  was correct as of this morning at 6:18,
+  was correct as of this morning at 6:50,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -30,7 +30,7 @@ DESCRIPTION:*Measuring Innovation in Education 2019
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=9789264311671-en.
-DTSTAMP:20190125T061900Z
+DTSTAMP:20190126T065103Z
 DTSTART:20190128T090000Z
 DTEND:20190128T091500Z
 TRANSP:TRANSPARENT
@@ -45,52 +45,49 @@ DESCRIPTION:Reminder: Measuring Innovation in Educat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311480-end3e245
-SUMMARY:Harmful Tax Practices - 2018 Progress Re
- port on Preferential Regimes - Inclusive
-  Framework on BEPS: Action 5
-DESCRIPTION:*Harmful Tax Practices - 2018 Progress R
- eport on Preferential Regimes - Inclusiv
- e Framework on BEPS: Action 5*\n\nDirect
- orate: Centre for Tax Policy and Adminis
- tration\nLanguage: English\nDOI: https:/
- /doi.org/10.1787/9789264311480-en\nPubli
- cation type: Book\nReleased as: Paperbac
- k, PDF\n\nEmbargo date/time: Tuesday, 29
-  January 2019, 10:00 (GMT)\nLaunch date/
- time: Tuesday, 29 January 2019, 10:00 (G
- MT)\n\niLibrary export: Thursday, 24 Jan
- uary 2019, 23:13 (GMT)\nFreepreview expo
- rt: never\nFTI loaded: ✗\n\nFor more inf
- ormation see: https://github.com/oecd/em
- bargo-calendar/blob/master/embargoes-by-
- publication.md.\n\nPlease note: This inf
- ormation was correct as of this morning 
- at 6:18, it is updated each night; there
- fore any subsequent updates may not yet 
- be visible here. Also, please be aware t
- hat the different released media (PDF, H
- TML, etc.) are not necessarily released 
- at the same time. For complete and up-to
- -date information see here: http://kappa
- .oecd.org/v3/search?term=9789264311480-e
- n.
-DTSTAMP:20190125T061900Z
-DTSTART:20190129T100000Z
-DTEND:20190129T101500Z
+UID:10.1787/9789264311718-end3e580
+SUMMARY:Saving Costs in Chemicals Management - H
+ ow the OECD Ensures Benefits to Society
+DESCRIPTION:*Saving Costs in Chemicals Management - 
+ How the OECD Ensures Benefits to Society
+ *\n\nDirectorate: Environment Directorat
+ e\nLanguage: English\nDOI: https://doi.o
+ rg/10.1787/9789264311718-en\nPublication
+  type: Stand-alone monograph\nReleased a
+ s: ePub, HTML, Paperback, PDF\n\nEmbargo
+  date/time: Monday, 28 January 2019, 10:
+ 00 (GMT)\n\n\niLibrary export: Friday, 2
+ 5 January 2019, 23:37 (GMT)\nFreepreview
+  export: Friday, 25 January 2019, 20:45 
+ (GMT)\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://github.com/oecd/embarg
+ o-calendar/blob/master/embargoes-by-publ
+ ication.md.\n\nPlease note: This informa
+ tion was correct as of this morning at 6
+ :50, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=9789264311718-en.
+DTSTAMP:20190126T065103Z
+DTSTART:20190128T100000Z
+DTEND:20190128T101500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT24H
+TRIGGER:-PT72H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Harmful Tax Practices - 2018 P
- rogress Report on Preferential Regimes -
-  Inclusive Framework on BEPS: Action 5
+DESCRIPTION:Reminder: Saving Costs in Chemicals Mana
+ gement - How the OECD Ensures Benefits t
+ o Society
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311503-frd3e293
+UID:10.1787/9789264311503-frd3e1391
 SUMMARY:Pratiques Fiscales Dommageables - Rappor
  t d'étape de 2018 sur les régimes préfér
  entiels - Cadre inclusif sur le BEPS : A
@@ -112,7 +109,7 @@ DESCRIPTION:*Pratiques Fiscales Dommageables - Rappo
  github.com/oecd/embargo-calendar/blob/ma
  ster/embargoes-by-publication.md.\n\nPle
  ase note: This information was correct a
- s of this morning at 6:18, it is updated
+ s of this morning at 6:50, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -121,7 +118,7 @@ DESCRIPTION:*Pratiques Fiscales Dommageables - Rappo
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=9789264311503-fr.
-DTSTAMP:20190125T061900Z
+DTSTAMP:20190126T065103Z
 DTSTART:20190129T100000Z
 DTEND:20190129T101500Z
 TRANSP:TRANSPARENT
@@ -137,7 +134,52 @@ DESCRIPTION:Reminder: Pratiques Fiscales Dommageable
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264310452-end3e341
+UID:10.1787/9789264311480-end3e1533
+SUMMARY:Harmful Tax Practices - 2018 Progress Re
+ port on Preferential Regimes - Inclusive
+  Framework on BEPS: Action 5
+DESCRIPTION:*Harmful Tax Practices - 2018 Progress R
+ eport on Preferential Regimes - Inclusiv
+ e Framework on BEPS: Action 5*\n\nDirect
+ orate: Centre for Tax Policy and Adminis
+ tration\nLanguage: English\nDOI: https:/
+ /doi.org/10.1787/9789264311480-en\nPubli
+ cation type: Book\nReleased as: Paperbac
+ k, PDF\n\nEmbargo date/time: Tuesday, 29
+  January 2019, 10:00 (GMT)\nLaunch date/
+ time: Tuesday, 29 January 2019, 10:00 (G
+ MT)\n\niLibrary export: Friday, 25 Janua
+ ry 2019, 23:37 (GMT)\nFreepreview export
+ : Friday, 25 January 2019, 20:45 (GMT)\n
+ FTI loaded: ✓\n\nFor more information se
+ e: https://github.com/oecd/embargo-calen
+ dar/blob/master/embargoes-by-publication
+ .md.\n\nPlease note: This information wa
+ s correct as of this morning at 6:50, it
+  is updated each night; therefore any su
+ bsequent updates may not yet be visible 
+ here. Also, please be aware that the dif
+ ferent released media (PDF, HTML, etc.) 
+ are not necessarily released at the same
+  time. For complete and up-to-date infor
+ mation see here: http://kappa.oecd.org/v
+ 3/search?term=9789264311480-en.
+DTSTAMP:20190126T065103Z
+DTSTART:20190129T100000Z
+DTEND:20190129T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Harmful Tax Practices - 2018 P
+ rogress Report on Preferential Regimes -
+  Inclusive Framework on BEPS: Action 5
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9789264310452-end3e2486
 SUMMARY:OECD Environmental Performance Reviews: 
  Australia 2019
 DESCRIPTION:*OECD Environmental Performance Reviews:
@@ -149,22 +191,23 @@ DESCRIPTION:*OECD Environmental Performance Reviews:
  ate/time: Wednesday, 30 January 2019, 2:
  00 (GMT)\nLaunch date/time: Wednesday, 3
  0 January 2019, 2:00 (GMT)\n\niLibrary e
- xport: Monday, 21 January 2019, 23:12 (G
- MT)\nFreepreview export: never\nFTI load
- ed: ✗\n\nFor more information see: https
- ://github.com/oecd/embargo-calendar/blob
- /master/embargoes-by-publication.md.\n\n
- Please note: This information was correc
- t as of this morning at 6:18, it is upda
- ted each night; therefore any subsequent
-  updates may not yet be visible here. Al
- so, please be aware that the different r
- eleased media (PDF, HTML, etc.) are not 
- necessarily released at the same time. F
- or complete and up-to-date information s
- ee here: http://kappa.oecd.org/v3/search
- ?term=9789264310452-en.
-DTSTAMP:20190125T061900Z
+ xport: Friday, 25 January 2019, 23:37 (G
+ MT)\nFreepreview export: Friday, 25 Janu
+ ary 2019, 20:45 (GMT)\nFTI loaded: ✓\n\n
+ For more information see: https://github
+ .com/oecd/embargo-calendar/blob/master/e
+ mbargoes-by-publication.md.\n\nPlease no
+ te: This information was correct as of t
+ his morning at 6:50, it is updated each 
+ night; therefore any subsequent updates 
+ may not yet be visible here. Also, pleas
+ e be aware that the different released m
+ edia (PDF, HTML, etc.) are not necessari
+ ly released at the same time. For comple
+ te and up-to-date information see here: 
+ http://kappa.oecd.org/v3/search?term=978
+ 9264310452-en.
+DTSTAMP:20190126T065103Z
 DTSTART:20190130T020000Z
 DTEND:20190130T021500Z
 TRANSP:TRANSPARENT
@@ -178,7 +221,7 @@ DESCRIPTION:Reminder: OECD Environmental Performance
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/eco_surveys-hun-2019-end3e528
+UID:10.1787/eco_surveys-hun-2019-end3e4594
 SUMMARY:OECD Economic Surveys: Hungary 2019
 DESCRIPTION:*OECD Economic Surveys: Hungary 2019*\n\
  nDirectorate: Economics Department\nLang
@@ -195,7 +238,7 @@ DESCRIPTION:*OECD Economic Surveys: Hungary 2019*\n\
  cd/embargo-calendar/blob/master/embargoe
  s-by-publication.md.\n\nPlease note: Thi
  s information was correct as of this mor
- ning at 6:18, it is updated each night; 
+ ning at 6:50, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -204,7 +247,7 @@ DESCRIPTION:*OECD Economic Surveys: Hungary 2019*\n\
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=eco_survey
  s-hun-2019-en.
-DTSTAMP:20190125T061900Z
+DTSTAMP:20190126T065103Z
 DTSTART:20190131T100000Z
 DTEND:20190131T101500Z
 TRANSP:TRANSPARENT
@@ -218,7 +261,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Hungary
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/eco_surveys-svk-2019-end3e713
+UID:10.1787/eco_surveys-svk-2019-end3e4779
 SUMMARY:OECD Economic Surveys: Slovak Republic 2
  019
 DESCRIPTION:*OECD Economic Surveys: Slovak Republic 
@@ -236,7 +279,7 @@ DESCRIPTION:*OECD Economic Surveys: Slovak Republic
  com/oecd/embargo-calendar/blob/master/em
  bargoes-by-publication.md.\n\nPlease not
  e: This information was correct as of th
- is morning at 6:18, it is updated each n
+ is morning at 6:50, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -245,7 +288,7 @@ DESCRIPTION:*OECD Economic Surveys: Slovak Republic
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=eco_
  surveys-svk-2019-en.
-DTSTAMP:20190125T061900Z
+DTSTAMP:20190126T065103Z
 DTSTART:20190205T100000Z
 DTEND:20190205T101500Z
 TRANSP:TRANSPARENT
@@ -259,7 +302,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Slovak
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311053-end3e760
+UID:10.1787/9789264311053-end3e4827
 SUMMARY:Rethinking Innovation for a Sustainable 
  Ocean Economy
 DESCRIPTION:*Rethinking Innovation for a Sustainable
@@ -279,7 +322,7 @@ DESCRIPTION:*Rethinking Innovation for a Sustainable
  oecd/embargo-calendar/blob/master/embarg
  oes-by-publication.md.\n\nPlease note: T
  his information was correct as of this m
- orning at 6:18, it is updated each night
+ orning at 6:50, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -288,7 +331,7 @@ DESCRIPTION:*Rethinking Innovation for a Sustainable
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=97892643
  11053-en.
-DTSTAMP:20190125T061900Z
+DTSTAMP:20190126T065103Z
 DTSTART:20190214T100000Z
 DTEND:20190214T101500Z
 TRANSP:TRANSPARENT
@@ -302,7 +345,7 @@ DESCRIPTION:Reminder: Rethinking Innovation for a Su
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311800-end3e856
+UID:10.1787/9789264311800-end3e4922
 SUMMARY:How's Life in the Digital Age? - Opportu
  nities and Risks of the Digital Transfor
  mation for People's Well-being
@@ -323,7 +366,7 @@ DESCRIPTION:*How's Life in the Digital Age? - Opport
  m/oecd/embargo-calendar/blob/master/emba
  rgoes-by-publication.md.\n\nPlease note:
   This information was correct as of this
-  morning at 6:18, it is updated each nig
+  morning at 6:50, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -332,7 +375,7 @@ DESCRIPTION:*How's Life in the Digital Age? - Opport
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=978926
  4311800-en.
-DTSTAMP:20190125T061900Z
+DTSTAMP:20190126T065103Z
 DTSTART:20190226T100000Z
 DTEND:20190226T101500Z
 TRANSP:TRANSPARENT
@@ -347,7 +390,7 @@ DESCRIPTION:Reminder: How's Life in the Digital Age?
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264312012-end3e1042
+UID:10.1787/9789264312012-end3e5109
 SUMMARY:Going Digital Synthesis Report - Making 
  Digital Transformation Work for Growth a
  nd Well-being
@@ -368,7 +411,7 @@ DESCRIPTION:*Going Digital Synthesis Report - Making
  .com/oecd/embargo-calendar/blob/master/e
  mbargoes-by-publication.md.\n\nPlease no
  te: This information was correct as of t
- his morning at 6:18, it is updated each 
+ his morning at 6:50, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -377,7 +420,7 @@ DESCRIPTION:*Going Digital Synthesis Report - Making
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=978
  9264312012-en.
-DTSTAMP:20190125T061900Z
+DTSTAMP:20190126T065103Z
 DTSTART:20190311T080000Z
 DTEND:20190311T081500Z
 TRANSP:TRANSPARENT
@@ -392,7 +435,7 @@ DESCRIPTION:Reminder: Going Digital Synthesis Report
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311992-end3e1275
+UID:10.1787/9789264311992-end3e5341
 SUMMARY:Measuring the Digital Transformation
 DESCRIPTION:*Measuring the Digital Transformation*\n
  \nDirectorate: Directorate for Science, 
@@ -410,7 +453,7 @@ DESCRIPTION:*Measuring the Digital Transformation*\n
  o-calendar/blob/master/embargoes-by-publ
  ication.md.\n\nPlease note: This informa
  tion was correct as of this morning at 6
- :18, it is updated each night; therefore
+ :50, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -418,7 +461,7 @@ DESCRIPTION:*Measuring the Digital Transformation*\n
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=9789264311992-en.
-DTSTAMP:20190125T061900Z
+DTSTAMP:20190126T065103Z
 DTSTART:20190311T080000Z
 DTEND:20190311T081500Z
 TRANSP:TRANSPARENT
