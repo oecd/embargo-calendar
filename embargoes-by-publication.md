@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 26 January 2019 at 6:50* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 29 January 2019 at 5:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Measuring Innovation in Education 2019 - What Has Changed in the Classroom?](https://doi.org/10.1787/9789264311671-en)
 
@@ -13,8 +13,8 @@ Monday 28 January 2019 at 9:00 | Monday 28 January 2019 at 9:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 25 January 2019 at 0:13
-- [x] Exported to Keepeek Thursday 24 January 2019 at 21:39
+- [x] Exported to iLibrary Tuesday 29 January 2019 at 0:02
+- [x] Exported to Keepeek Monday 28 January 2019 at 21:33
 
 ### Additional Information
 
@@ -35,7 +35,7 @@ Monday 28 January 2019 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 26 January 2019 at 0:37
+- [x] Exported to iLibrary Tuesday 29 January 2019 at 0:02
 - [x] Exported to Keepeek Friday 25 January 2019 at 21:45
 
 ### Additional Information
@@ -101,7 +101,7 @@ Wednesday 30 January 2019 at 2:00 | Wednesday 30 January 2019 at 2:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 26 January 2019 at 0:37
+- [x] Exported to iLibrary Tuesday 29 January 2019 at 0:02
 - [x] Exported to Keepeek Friday 25 January 2019 at 21:45
 
 ### Additional Information
