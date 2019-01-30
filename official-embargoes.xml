@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2019-01-29T05:10:25.70282+01:00">
+<report name="official-embargoes" generated="2019-01-30T05:05:44.9688431+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -23,23 +23,6 @@
     <cell name="title">Measuring Innovation in Education 2019 (en)</cell>
     <cell name="subtitle">What Has Changed in the Classroom? (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-01-28</cell>
-    <cell name="embargo date">2019-01-28T09:00:00Z</cell>
-    <cell name="launch date/time">2019-01-28T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2019-01-28T23:02:51Z</cell>
-    <cell name="freepreview last export date">2019-01-28T20:33:38Z</cell>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e098</cell>
-  </row>
-  <row index="2">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/9789264311671-en</cell>
-    <cell name="title">Measuring Innovation in Education 2019 (en)</cell>
-    <cell name="subtitle">What Has Changed in the Classroom? (en)</cell>
-    <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2019-01-28</cell>
@@ -51,7 +34,41 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e097</cell>
   </row>
+  <row index="2">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/9789264311671-en</cell>
+    <cell name="title">Measuring Innovation in Education 2019 (en)</cell>
+    <cell name="subtitle">What Has Changed in the Classroom? (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-28</cell>
+    <cell name="embargo date">2019-01-28T09:00:00Z</cell>
+    <cell name="launch date/time">2019-01-28T09:00:00Z</cell>
+    <cell name="ilibrary last export date">2019-01-28T23:02:51Z</cell>
+    <cell name="freepreview last export date">2019-01-28T20:33:38Z</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e098</cell>
+  </row>
   <row index="3">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264311718-en</cell>
+    <cell name="title">Saving Costs in Chemicals Management (en)</cell>
+    <cell name="subtitle">How the OECD Ensures Benefits to Society (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-28</cell>
+    <cell name="embargo date">2019-01-28T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-28T23:02:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3c4</cell>
+  </row>
+  <row index="4">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264311718-6-en</cell>
     <cell name="title">Quantifying the costs and savings of the OECD Environment, Health and Safety Programme (en)</cell>
@@ -68,7 +85,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3d0</cell>
   </row>
-  <row index="4">
+  <row index="5">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264311718-11-en</cell>
     <cell name="title">Countries and regions used in this report (en)</cell>
@@ -84,23 +101,6 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3db</cell>
-  </row>
-  <row index="5">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264311718-en</cell>
-    <cell name="title">Saving Costs in Chemicals Management (en)</cell>
-    <cell name="subtitle">How the OECD Ensures Benefits to Society (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2019-01-28</cell>
-    <cell name="embargo date">2019-01-28T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-01-28T23:02:51Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0e4</cell>
   </row>
   <row index="6">
     <cell name="directorate">Environment Directorate</cell>
@@ -155,23 +155,6 @@
   </row>
   <row index="9">
     <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264311718-en</cell>
-    <cell name="title">Saving Costs in Chemicals Management (en)</cell>
-    <cell name="subtitle">How the OECD Ensures Benefits to Society (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-01-28</cell>
-    <cell name="embargo date">2019-01-28T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-01-28T23:02:51Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3c5</cell>
-  </row>
-  <row index="10">
-    <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264311718-10-en</cell>
     <cell name="title">RPA analysis of the cost of testing and (Q)SARs based on data from the European Chemicals Agency's Registration Database (en)</cell>
     <cell name="subtitle"/>
@@ -186,6 +169,23 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3d8</cell>
+  </row>
+  <row index="10">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264311718-en</cell>
+    <cell name="title">Saving Costs in Chemicals Management (en)</cell>
+    <cell name="subtitle">How the OECD Ensures Benefits to Society (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2019-01-28</cell>
+    <cell name="embargo date">2019-01-28T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-28T23:02:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0e4</cell>
   </row>
   <row index="11">
     <cell name="directorate">Environment Directorate</cell>
@@ -274,6 +274,23 @@
   </row>
   <row index="16">
     <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264311718-en</cell>
+    <cell name="title">Saving Costs in Chemicals Management (en)</cell>
+    <cell name="subtitle">How the OECD Ensures Benefits to Society (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-28</cell>
+    <cell name="embargo date">2019-01-28T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-28T23:02:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3c5</cell>
+  </row>
+  <row index="17">
+    <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264311718-6-en</cell>
     <cell name="title">Quantifying the costs and savings of the OECD Environment, Health and Safety Programme (en)</cell>
     <cell name="subtitle"/>
@@ -289,7 +306,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3d1</cell>
   </row>
-  <row index="17">
+  <row index="18">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264311718-11-en</cell>
     <cell name="title">Countries and regions used in this report (en)</cell>
@@ -305,23 +322,6 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3da</cell>
-  </row>
-  <row index="18">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264311718-en</cell>
-    <cell name="title">Saving Costs in Chemicals Management (en)</cell>
-    <cell name="subtitle">How the OECD Ensures Benefits to Society (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-01-28</cell>
-    <cell name="embargo date">2019-01-28T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-01-28T23:02:51Z</cell>
-    <cell name="freepreview last export date">2019-01-25T20:45:48Z</cell>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0e5</cell>
   </row>
   <row index="19">
     <cell name="directorate">Environment Directorate</cell>
@@ -376,23 +376,6 @@
   </row>
   <row index="22">
     <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264311718-en</cell>
-    <cell name="title">Saving Costs in Chemicals Management (en)</cell>
-    <cell name="subtitle">How the OECD Ensures Benefits to Society (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-01-28</cell>
-    <cell name="embargo date">2019-01-28T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-01-28T23:02:51Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3c4</cell>
-  </row>
-  <row index="23">
-    <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264311718-9-en</cell>
     <cell name="title">Responses from the survey of governments and industry (en)</cell>
     <cell name="subtitle"/>
@@ -408,7 +391,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3d6</cell>
   </row>
-  <row index="24">
+  <row index="23">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264311718-10-en</cell>
     <cell name="title">RPA analysis of the cost of testing and (Q)SARs based on data from the European Chemicals Agency's Registration Database (en)</cell>
@@ -425,7 +408,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3d9</cell>
   </row>
-  <row index="25">
+  <row index="24">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264311718-1-en</cell>
     <cell name="title">About the OECD (en)</cell>
@@ -441,6 +424,23 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3c6</cell>
+  </row>
+  <row index="25">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264311718-en</cell>
+    <cell name="title">Saving Costs in Chemicals Management (en)</cell>
+    <cell name="subtitle">How the OECD Ensures Benefits to Society (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-28</cell>
+    <cell name="embargo date">2019-01-28T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-01-28T23:02:51Z</cell>
+    <cell name="freepreview last export date">2019-01-25T20:45:48Z</cell>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0e5</cell>
   </row>
   <row index="26">
     <cell name="directorate">Environment Directorate</cell>
@@ -495,23 +495,6 @@
   </row>
   <row index="29">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9789264311503-fr</cell>
-    <cell name="title">Pratiques Fiscales Dommageables - Rapport d'étape de 2018 sur les régimes préférentiels (fr)</cell>
-    <cell name="subtitle">Cadre inclusif sur le BEPS : Action 5 (fr)</cell>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2019-02-07</cell>
-    <cell name="embargo date">2019-01-29T10:00:00Z</cell>
-    <cell name="launch date/time">2019-01-29T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2019-01-24T23:13:27Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd6a</cell>
-  </row>
-  <row index="30">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264311480-en</cell>
     <cell name="title">Harmful Tax Practices - 2018 Progress Report on Preferential Regimes (en)</cell>
     <cell name="subtitle">Inclusive Framework on BEPS: Action 5 (en)</cell>
@@ -527,7 +510,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd67</cell>
   </row>
-  <row index="31">
+  <row index="30">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264311503-fr</cell>
     <cell name="title">Pratiques Fiscales Dommageables - Rapport d'étape de 2018 sur les régimes préférentiels (fr)</cell>
@@ -544,7 +527,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd69</cell>
   </row>
-  <row index="32">
+  <row index="31">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9789264311480-en</cell>
     <cell name="title">Harmful Tax Practices - 2018 Progress Report on Preferential Regimes (en)</cell>
@@ -560,6 +543,23 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd68</cell>
+  </row>
+  <row index="32">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9789264311503-fr</cell>
+    <cell name="title">Pratiques Fiscales Dommageables - Rapport d'étape de 2018 sur les régimes préférentiels (fr)</cell>
+    <cell name="subtitle">Cadre inclusif sur le BEPS : Action 5 (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2019-02-07</cell>
+    <cell name="embargo date">2019-01-29T10:00:00Z</cell>
+    <cell name="launch date/time">2019-01-29T10:00:00Z</cell>
+    <cell name="ilibrary last export date">2019-01-24T23:13:27Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9dd6a</cell>
   </row>
   <row index="33">
     <cell name="directorate">Environment Directorate</cell>
@@ -716,23 +716,6 @@
   </row>
   <row index="42">
     <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264310452-en</cell>
-    <cell name="title">OECD Environmental Performance Reviews: Australia 2019 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-01-30</cell>
-    <cell name="embargo date">2019-01-30T02:00:00Z</cell>
-    <cell name="launch date/time">2019-01-30T02:00:00Z</cell>
-    <cell name="ilibrary last export date">2019-01-28T23:02:51Z</cell>
-    <cell name="freepreview last export date">2019-01-25T20:45:48Z</cell>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9b36e</cell>
-  </row>
-  <row index="43">
-    <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-6-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
     <cell name="subtitle"/>
@@ -748,7 +731,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3e9</cell>
   </row>
-  <row index="44">
+  <row index="43">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-graph25-en</cell>
     <cell name="title">Record 2017 investment secured the 2020 target on renewables (en)</cell>
@@ -765,7 +748,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f408</cell>
   </row>
-  <row index="45">
+  <row index="44">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-graph19-en</cell>
     <cell name="title">Energy taxes' contribution to tax revenue has declined (en)</cell>
@@ -782,7 +765,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f402</cell>
   </row>
-  <row index="46">
+  <row index="45">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-1-en</cell>
     <cell name="title">Preface (en)</cell>
@@ -799,7 +782,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3de</cell>
   </row>
-  <row index="47">
+  <row index="46">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-5-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -816,7 +799,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3e6</cell>
   </row>
-  <row index="48">
+  <row index="47">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-graph4-en</cell>
     <cell name="title">The Australian economy withstood the global financial crisis (en)</cell>
@@ -833,7 +816,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3ef</cell>
   </row>
-  <row index="49">
+  <row index="48">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-8-en</cell>
     <cell name="title">Environmental governance and management (en)</cell>
@@ -850,7 +833,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3fb</cell>
   </row>
-  <row index="50">
+  <row index="49">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-graph10-en</cell>
     <cell name="title">Material extraction increased faster than GDP but consumption remained stable (en)</cell>
@@ -867,7 +850,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3f5</cell>
   </row>
-  <row index="51">
+  <row index="50">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-graph29-en</cell>
     <cell name="title">The Great Barrier Reef catchments are losing trees, rainfed lands and wetlands, while grasslands expand (en)</cell>
@@ -884,7 +867,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f40e</cell>
   </row>
-  <row index="52">
+  <row index="51">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-graph20-en</cell>
     <cell name="title">Australia lags behind most OECD countries in pricing carbon (en)</cell>
@@ -901,7 +884,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f403</cell>
   </row>
-  <row index="53">
+  <row index="52">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-3-en</cell>
     <cell name="title">Reader's guide (en)</cell>
@@ -918,7 +901,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3e2</cell>
   </row>
-  <row index="54">
+  <row index="53">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-graph14-en</cell>
     <cell name="title">Australia has a rich variety of mineral and fossil fuel resources (en)</cell>
@@ -935,7 +918,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3f9</cell>
   </row>
-  <row index="55">
+  <row index="54">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-graph35-en</cell>
     <cell name="title">The value of chemical and pharmaceutical production fell significantly in a decade of general economic growth (en)</cell>
@@ -951,6 +934,23 @@
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f416</cell>
+  </row>
+  <row index="55">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264310452-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: Australia 2019 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-30</cell>
+    <cell name="embargo date">2019-01-30T02:00:00Z</cell>
+    <cell name="launch date/time">2019-01-30T02:00:00Z</cell>
+    <cell name="ilibrary last export date">2019-01-28T23:02:51Z</cell>
+    <cell name="freepreview last export date">2019-01-25T20:45:48Z</cell>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9b36e</cell>
   </row>
   <row index="56">
     <cell name="directorate">Environment Directorate</cell>
@@ -1158,23 +1158,6 @@
   </row>
   <row index="68">
     <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264310452-en</cell>
-    <cell name="title">OECD Environmental Performance Reviews: Australia 2019 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-01-30</cell>
-    <cell name="embargo date">2019-01-30T02:00:00Z</cell>
-    <cell name="launch date/time">2019-01-30T02:00:00Z</cell>
-    <cell name="ilibrary last export date">2019-01-28T23:02:51Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9b370</cell>
-  </row>
-  <row index="69">
-    <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-graph6-en</cell>
     <cell name="title">Coal dominates the energy mix but natural gas and renewables are growing (en)</cell>
     <cell name="subtitle"/>
@@ -1190,7 +1173,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3f1</cell>
   </row>
-  <row index="70">
+  <row index="69">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-2-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1207,24 +1190,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3e0</cell>
   </row>
-  <row index="71">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264310452-en</cell>
-    <cell name="title">OECD Environmental Performance Reviews: Australia 2019 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2019-01-30</cell>
-    <cell name="embargo date">2019-01-30T02:00:00Z</cell>
-    <cell name="launch date/time">2019-01-30T02:00:00Z</cell>
-    <cell name="ilibrary last export date">2019-01-28T23:02:51Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9b36d</cell>
-  </row>
-  <row index="72">
+  <row index="70">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-6-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -1241,24 +1207,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3e8</cell>
   </row>
-  <row index="73">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9789264310452-en</cell>
-    <cell name="title">OECD Environmental Performance Reviews: Australia 2019 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2019-01-30</cell>
-    <cell name="embargo date">2019-01-30T02:00:00Z</cell>
-    <cell name="launch date/time">2019-01-30T02:00:00Z</cell>
-    <cell name="ilibrary last export date">2019-01-28T23:02:51Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9b36f</cell>
-  </row>
-  <row index="74">
+  <row index="71">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-graph33-en</cell>
     <cell name="title">Biodiversity programmes have come and gone but overall expenditure has been fairly level since 2010 (en)</cell>
@@ -1275,7 +1224,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f412</cell>
   </row>
-  <row index="75">
+  <row index="72">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-graph34-en</cell>
     <cell name="title">The chemical and plastic industry is the country's second largest manufacturing sector (en)</cell>
@@ -1292,7 +1241,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f415</cell>
   </row>
-  <row index="76">
+  <row index="73">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-1-en</cell>
     <cell name="title">Preface (en)</cell>
@@ -1309,7 +1258,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3df</cell>
   </row>
-  <row index="77">
+  <row index="74">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-5-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1326,7 +1275,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3e7</cell>
   </row>
-  <row index="78">
+  <row index="75">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-8-en</cell>
     <cell name="title">Environmental governance and management (en)</cell>
@@ -1343,7 +1292,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3fc</cell>
   </row>
-  <row index="79">
+  <row index="76">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-graph1-en</cell>
     <cell name="title">Selected environmental performance indicators (en)</cell>
@@ -1360,7 +1309,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3ea</cell>
   </row>
-  <row index="80">
+  <row index="77">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-graph30-en</cell>
     <cell name="title">Threatened species numbers are increasing, partly due to improved knowledge (en)</cell>
@@ -1377,7 +1326,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f40f</cell>
   </row>
-  <row index="81">
+  <row index="78">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-graph36-en</cell>
     <cell name="title">Endosulfan concentrations at study sites in 2011-14 (en)</cell>
@@ -1394,7 +1343,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f417</cell>
   </row>
-  <row index="82">
+  <row index="79">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-graph2-en</cell>
     <cell name="title">Australia needs to intensify mitigation efforts to meet its 2030 target (en)</cell>
@@ -1411,7 +1360,41 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3eb</cell>
   </row>
-  <row index="83">
+  <row index="80">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264310452-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: Australia 2019 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-30</cell>
+    <cell name="embargo date">2019-01-30T02:00:00Z</cell>
+    <cell name="launch date/time">2019-01-30T02:00:00Z</cell>
+    <cell name="ilibrary last export date">2019-01-28T23:02:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9b370</cell>
+  </row>
+  <row index="81">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264310452-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: Australia 2019 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2019-01-30</cell>
+    <cell name="embargo date">2019-01-30T02:00:00Z</cell>
+    <cell name="launch date/time">2019-01-30T02:00:00Z</cell>
+    <cell name="ilibrary last export date">2019-01-28T23:02:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9b36d</cell>
+  </row>
+  <row index="82">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-graph9-en</cell>
     <cell name="title">Air emissions have been further decoupled from economic activity (en)</cell>
@@ -1428,7 +1411,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3f4</cell>
   </row>
-  <row index="84">
+  <row index="83">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-11-en</cell>
     <cell name="title">Chemical management (en)</cell>
@@ -1445,7 +1428,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f413</cell>
   </row>
-  <row index="85">
+  <row index="84">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9789264310452-3-en</cell>
     <cell name="title">Reader's guide (en)</cell>
@@ -1461,6 +1444,23 @@
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3e3</cell>
+  </row>
+  <row index="85">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264310452-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: Australia 2019 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2019-01-30</cell>
+    <cell name="embargo date">2019-01-30T02:00:00Z</cell>
+    <cell name="launch date/time">2019-01-30T02:00:00Z</cell>
+    <cell name="ilibrary last export date">2019-01-28T23:02:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9b36f</cell>
   </row>
   <row index="86">
     <cell name="directorate">Environment Directorate</cell>
@@ -1633,21 +1633,21 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3ff</cell>
   </row>
   <row index="96">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_surveys-hun-2019-en</cell>
-    <cell name="title">OECD Economic Surveys: Hungary 2019 (en)</cell>
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/d773f268-en</cell>
+    <cell name="title">How much would it cost to reduce class size by one student? (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2019-01-31</cell>
-    <cell name="embargo date">2019-01-31T10:00:00Z</cell>
-    <cell name="launch date/time">2019-01-31T10:00:00Z</cell>
-    <cell name="ilibrary last export date">2019-01-14T23:07:57Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9d89a</cell>
+    <cell name="embargo date">2019-01-31T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date">2019-01-29T20:41:15Z</cell>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cc8ff403</cell>
   </row>
   <row index="97">
     <cell name="directorate">Economics Department</cell>
@@ -1667,6 +1667,23 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9d855</cell>
   </row>
   <row index="98">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/eco_surveys-hun-2019-en</cell>
+    <cell name="title">OECD Economic Surveys: Hungary 2019 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-01-31</cell>
+    <cell name="embargo date">2019-01-31T10:00:00Z</cell>
+    <cell name="launch date/time">2019-01-31T10:00:00Z</cell>
+    <cell name="ilibrary last export date">2019-01-14T23:07:57Z</cell>
+    <cell name="freepreview last export date">2019-01-29T20:41:15Z</cell>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9d89a</cell>
+  </row>
+  <row index="99">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264306585-es</cell>
     <cell name="title">Simplificación Administrativa en el Instituto Mexicano del Seguro Social (es)</cell>
@@ -1683,7 +1700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g95a39</cell>
   </row>
-  <row index="99">
+  <row index="100">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-svk-2019-en</cell>
     <cell name="title">OECD Economic Surveys: Slovak Republic 2019 (en)</cell>
@@ -1700,7 +1717,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9daee</cell>
   </row>
-  <row index="100">
+  <row index="101">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eco_surveys-svk-2019-en</cell>
     <cell name="title">OECD Economic Surveys: Slovak Republic 2019 (en)</cell>
@@ -1717,7 +1734,41 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9daef</cell>
   </row>
-  <row index="101">
+  <row index="102">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/9789264311756-en</cell>
+    <cell name="title">Getting Skills Right: Future-Ready Adult Learning Systems (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2019-02-13</cell>
+    <cell name="embargo date">2019-02-13T10:00:00Z</cell>
+    <cell name="launch date/time">2019-02-13T10:00:00Z</cell>
+    <cell name="ilibrary last export date">2019-01-28T23:02:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0e9</cell>
+  </row>
+  <row index="103">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/9789264311756-en</cell>
+    <cell name="title">Getting Skills Right: Future-Ready Adult Learning Systems (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2019-02-13</cell>
+    <cell name="embargo date">2019-02-13T10:00:00Z</cell>
+    <cell name="launch date/time">2019-02-13T10:00:00Z</cell>
+    <cell name="ilibrary last export date">2019-01-28T23:02:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0e8</cell>
+  </row>
+  <row index="104">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/9789264311053-en</cell>
     <cell name="title">Rethinking Innovation for a Sustainable Ocean Economy (en)</cell>
@@ -1734,7 +1785,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9c465</cell>
   </row>
-  <row index="102">
+  <row index="105">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/9789264311053-en</cell>
     <cell name="title">Rethinking Innovation for a Sustainable Ocean Economy (en)</cell>
@@ -1751,7 +1802,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9c464</cell>
   </row>
-  <row index="103">
+  <row index="106">
     <cell name="directorate">Statistics and Data Directorate</cell>
     <cell name="doi">10.1787/9789264311800-en</cell>
     <cell name="title">How's Life in the Digital Age? (en)</cell>
@@ -1768,7 +1819,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e413</cell>
   </row>
-  <row index="104">
+  <row index="107">
     <cell name="directorate">Statistics and Data Directorate</cell>
     <cell name="doi">10.1787/9789264311800-en</cell>
     <cell name="title">How's Life in the Digital Age? (en)</cell>
@@ -1785,7 +1836,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e412</cell>
   </row>
-  <row index="105">
+  <row index="108">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/9789264312012-en</cell>
     <cell name="title">Going Digital Synthesis Report (en)</cell>
@@ -1802,7 +1853,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3b8</cell>
   </row>
-  <row index="106">
+  <row index="109">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/9789264311992-en</cell>
     <cell name="title">Measuring the Digital Transformation (en)</cell>
@@ -1819,7 +1870,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3bb</cell>
   </row>
-  <row index="107">
+  <row index="110">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/9789264312012-en</cell>
     <cell name="title">Going Digital Synthesis Report (en)</cell>
@@ -1836,7 +1887,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f091</cell>
   </row>
-  <row index="108">
+  <row index="111">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/9789264311992-en</cell>
     <cell name="title">Measuring the Digital Transformation (en)</cell>
@@ -1853,7 +1904,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f08e</cell>
   </row>
-  <row index="109">
+  <row index="112">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/9789264312012-en</cell>
     <cell name="title">Going Digital Synthesis Report (en)</cell>
@@ -1870,7 +1921,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3b9</cell>
   </row>
-  <row index="110">
+  <row index="113">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/9789264311992-en</cell>
     <cell name="title">Measuring the Digital Transformation (en)</cell>
@@ -1887,7 +1938,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3bc</cell>
   </row>
-  <row index="111">
+  <row index="114">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/9789264312012-en</cell>
     <cell name="title">Going Digital Synthesis Report (en)</cell>
@@ -1904,7 +1955,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f090</cell>
   </row>
-  <row index="112">
+  <row index="115">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/9789264311992-en</cell>
     <cell name="title">Measuring the Digital Transformation (en)</cell>
