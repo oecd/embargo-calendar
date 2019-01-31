@@ -2,49 +2,27 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 30 January 2019 at 5:05* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 31 January 2019 at 5:08* | [See embargoes by date](embargoes-by-date.md) |
 
-## [Measuring Innovation in Education 2019 - What Has Changed in the Classroom?](https://doi.org/10.1787/9789264311671-en)
+## [Pratiques Fiscales Dommageables - Rapport d'étape de 2018 sur les régimes préférentiels - Cadre inclusif sur le BEPS : Action 5](https://doi.org/10.1787/9789264311503-fr)
 
 Embargo date | Launch date
 -------------|------------
-Monday 28 January 2019 at 9:00 | Monday 28 January 2019 at 9:00
+Tuesday 29 January 2019 at 10:00 | Tuesday 29 January 2019 at 10:00
 
 ### Status Information
 
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 29 January 2019 at 0:02
-- [x] Exported to Keepeek Monday 28 January 2019 at 21:33
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 25 January 2019 at 0:13
+- [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
-
-------
-
-## [Saving Costs in Chemicals Management - How the OECD Ensures Benefits to Society](https://doi.org/10.1787/9789264311718-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 January 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 29 January 2019 at 0:02
-- [x] Exported to Keepeek Friday 25 January 2019 at 21:45
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -65,28 +43,6 @@ Tuesday 29 January 2019 at 10:00 | Tuesday 29 January 2019 at 10:00
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Pratiques Fiscales Dommageables - Rapport d'étape de 2018 sur les régimes préférentiels - Cadre inclusif sur le BEPS : Action 5](https://doi.org/10.1787/9789264311503-fr)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 29 January 2019 at 10:00 | Tuesday 29 January 2019 at 10:00
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 25 January 2019 at 0:13
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -123,7 +79,7 @@ Thursday 31 January 2019 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 30 January 2019 at 0:03
 - [x] Exported to Keepeek Tuesday 29 January 2019 at 21:41
 
 ### Additional Information
@@ -140,13 +96,13 @@ Thursday 31 January 2019 at 5:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Thursday 31 January 2019 at 10:00 | Thursday 31 January 2019 at 10:00
+Thursday 31 January 2019 at 8:00 | Thursday 31 January 2019 at 8:00
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 January 2019 at 0:07
-- [x] Exported to Keepeek Tuesday 29 January 2019 at 21:41
+- [x] Exported to iLibrary Thursday 31 January 2019 at 0:00
+- [x] Exported to Keepeek Wednesday 30 January 2019 at 21:41
 
 ### Additional Information
 
@@ -155,6 +111,50 @@ Thursday 31 January 2019 at 10:00 | Thursday 31 January 2019 at 10:00
 * Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Strength through diversity’s Spotlight Report for Sweden](https://doi.org/10.1787/059ce467-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 1 February 2019 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 31 January 2019 at 0:00
+- [x] Exported to Keepeek Wednesday 30 January 2019 at 21:41
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Formats: *PDF, PDF*
+
+------
+
+## [Strength through diversity’s Spotlight Report for Sweden](https://doi.org/10.1787/059ce467-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 1 February 2019 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Formats: *PDF, PDF*
 
 ------
 
@@ -167,7 +167,7 @@ Tuesday 5 February 2019 at 10:00 | Tuesday 5 February 2019 at 10:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 22 January 2019 at 0:12
+- [x] Exported to iLibrary Thursday 31 January 2019 at 0:00
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -188,17 +188,17 @@ Wednesday 13 February 2019 at 10:00 | Wednesday 13 February 2019 at 10:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 29 January 2019 at 0:02
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 31 January 2019 at 0:00
+- [x] Exported to Keepeek Wednesday 30 January 2019 at 21:41
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
