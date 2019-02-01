@@ -2,73 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 31 January 2019 at 5:08* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Pratiques Fiscales Dommageables - Rapport d'étape de 2018 sur les régimes préférentiels - Cadre inclusif sur le BEPS : Action 5](https://doi.org/10.1787/9789264311503-fr)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 29 January 2019 at 10:00 | Tuesday 29 January 2019 at 10:00
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 25 January 2019 at 0:13
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Harmful Tax Practices - 2018 Progress Report on Preferential Regimes - Inclusive Framework on BEPS: Action 5](https://doi.org/10.1787/9789264311480-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 29 January 2019 at 10:00 | Tuesday 29 January 2019 at 10:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 26 January 2019 at 0:37
-- [x] Exported to Keepeek Friday 25 January 2019 at 21:45
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Environmental Performance Reviews: Australia 2019](https://doi.org/10.1787/9789264310452-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 30 January 2019 at 2:00 | Wednesday 30 January 2019 at 2:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 29 January 2019 at 0:02
-- [x] Exported to Keepeek Friday 25 January 2019 at 21:45
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Friday 1 February 2019 at 6:07* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [How much would it cost to reduce class size by one student?](https://doi.org/10.1787/d773f268-en)
 
@@ -132,21 +66,21 @@ Friday 1 February 2019 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
-* Formats: *PDF, PDF*
+* Format: *PDF*
 
 ------
 
-## [Strength through diversity’s Spotlight Report for Sweden](https://doi.org/10.1787/059ce467-en)
+## [Impacts of technology use on children - Exploring literature on the brain, cognition and well-being](https://doi.org/10.1787/8296464e-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 1 February 2019 at 8:00 | no launch event
+Monday 4 February 2019 at 10:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 1 February 2019 at 0:39
+- [x] Exported to Keepeek Thursday 31 January 2019 at 21:42
 
 ### Additional Information
 
@@ -154,7 +88,7 @@ Friday 1 February 2019 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
-* Formats: *PDF, PDF*
+* Format: *PDF*
 
 ------
 
@@ -162,12 +96,12 @@ Friday 1 February 2019 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 5 February 2019 at 10:00 | Tuesday 5 February 2019 at 10:00
+Tuesday 5 February 2019 at 9:00 | Tuesday 5 February 2019 at 9:00
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 31 January 2019 at 0:00
+- [x] Exported to iLibrary Friday 1 February 2019 at 0:39
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -189,7 +123,7 @@ Wednesday 13 February 2019 at 10:00 | Wednesday 13 February 2019 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 31 January 2019 at 0:00
+- [x] Exported to iLibrary Friday 1 February 2019 at 0:39
 - [x] Exported to Keepeek Wednesday 30 January 2019 at 21:41
 
 ### Additional Information
