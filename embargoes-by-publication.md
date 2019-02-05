@@ -2,73 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 2 February 2019 at 6:45* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Hungary 2019](https://doi.org/10.1787/eco_surveys-hun-2019-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 31 January 2019 at 8:00 | Thursday 31 January 2019 at 8:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 31 January 2019 at 0:00
-- [x] Exported to Keepeek Wednesday 30 January 2019 at 21:41
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Strength through diversity’s Spotlight Report for Sweden](https://doi.org/10.1787/059ce467-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 1 February 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 1 February 2019 at 11:54
-- [x] Exported to Keepeek Friday 1 February 2019 at 21:40
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Formats: *PDF, PDF*
-
-------
-
-## [Strength through diversity’s Spotlight Report for Sweden](https://doi.org/10.1787/059ce467-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 1 February 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 31 January 2019 at 0:00
-- [x] Exported to Keepeek Wednesday 30 January 2019 at 21:41
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Formats: *PDF, PDF*
-
-------
+| *Tuesday 5 February 2019 at 4:57* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Impacts of technology use on children - Exploring literature on the brain, cognition and well-being](https://doi.org/10.1787/8296464e-en)
 
@@ -132,29 +66,7 @@ Tuesday 5 February 2019 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
-* Formats: *PDF, PDF*
-
-------
-
-## [How education systems respond to cultural diversity in schools - New measures in TALIS 2018](https://doi.org/10.1787/1baa285c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 February 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Formats: *PDF, PDF*
+* Format: *PDF*
 
 ------
 
