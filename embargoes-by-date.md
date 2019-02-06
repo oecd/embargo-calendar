@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 5 February 2019 at 4:57* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 6 February 2019 at 5:00* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [4 February 2019](#4-february-2019)
 * [5 February 2019](#5-february-2019)
@@ -98,7 +98,7 @@ Wednesday 13 February 2019 at 10:00 | Wednesday 13 February 2019 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 1 February 2019 at 0:39
+- [x] Exported to iLibrary Tuesday 5 February 2019 at 23:53
 - [x] Exported to Keepeek Wednesday 30 January 2019 at 21:41
 
 ### Additional Information
