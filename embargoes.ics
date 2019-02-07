@@ -2,50 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/8296464e-end3e53
-SUMMARY:Impacts of technology use on children - 
- Exploring literature on the brain, cogni
- tion and well-being
-DESCRIPTION:*Impacts of technology use on children -
-  Exploring literature on the brain, cogn
- ition and well-being*\n\nDirectorate: Di
- rectorate for Education and Skills\nLang
- uage: English\nDOI: https://doi.org/10.1
- 787/8296464e-en\nPublication type: Worki
- ng paper\nReleased as: PDF\n\nEmbargo da
- te/time: Monday, 4 February 2019, 10:00 
- (GMT)\n\n\niLibrary export: Thursday, 31
-  January 2019, 23:39 (GMT)\nFreepreview 
- export: Thursday, 31 January 2019, 20:42
-  (GMT)\nFTI loaded: ✓\n\nFor more inform
- ation see: https://github.com/oecd/embar
- go-calendar/blob/master/embargoes-by-pub
- lication.md.\n\nPlease note: This inform
- ation was correct as of this morning at 
- 5:00, it is updated each night; therefor
- e any subsequent updates may not yet be 
- visible here. Also, please be aware that
-  the different released media (PDF, HTML
- , etc.) are not necessarily released at 
- the same time. For complete and up-to-da
- te information see here: http://kappa.oe
- cd.org/v3/search?term=8296464e-en.
-DTSTAMP:20190206T050056Z
-DTSTART:20190204T100000Z
-DTEND:20190204T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Impacts of technology use on c
- hildren - Exploring literature on the br
- ain, cognition and well-being
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/eco_surveys-svk-2019-end3e148
+UID:10.1787/eco_surveys-svk-2019-end3e53
 SUMMARY:OECD Economic Surveys: Slovak Republic 2
  019
 DESCRIPTION:*OECD Economic Surveys: Slovak Republic 
@@ -64,7 +21,7 @@ DESCRIPTION:*OECD Economic Surveys: Slovak Republic
  bargo-calendar/blob/master/embargoes-by-
  publication.md.\n\nPlease note: This inf
  ormation was correct as of this morning 
- at 5:00, it is updated each night; there
+ at 5:18, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -73,7 +30,7 @@ DESCRIPTION:*OECD Economic Surveys: Slovak Republic
  -date information see here: http://kappa
  .oecd.org/v3/search?term=eco_surveys-svk
  -2019-en.
-DTSTAMP:20190206T050056Z
+DTSTAMP:20190207T051856Z
 DTSTART:20190205T090000Z
 DTEND:20190205T091500Z
 TRANSP:TRANSPARENT
@@ -87,7 +44,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Slovak
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1baa285c-end3e244
+UID:10.1787/1baa285c-end3e148
 SUMMARY:How education systems respond to cultura
  l diversity in schools - New measures in
   TALIS 2018
@@ -106,7 +63,7 @@ DESCRIPTION:*How education systems respond to cultur
  https://github.com/oecd/embargo-calendar
  /blob/master/embargoes-by-publication.md
  .\n\nPlease note: This information was c
- orrect as of this morning at 5:00, it is
+ orrect as of this morning at 5:18, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -115,7 +72,7 @@ DESCRIPTION:*How education systems respond to cultur
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=1baa285c-en.
-DTSTAMP:20190206T050056Z
+DTSTAMP:20190207T051856Z
 DTSTART:20190205T100000Z
 DTEND:20190205T101500Z
 TRANSP:TRANSPARENT
@@ -130,7 +87,7 @@ DESCRIPTION:Reminder: How education systems respond
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311756-end3e1152
+UID:10.1787/9789264311756-end3e1056
 SUMMARY:Getting Skills Right: Future-Ready Adult
   Learning Systems
 DESCRIPTION:*Getting Skills Right: Future-Ready Adul
@@ -150,7 +107,7 @@ DESCRIPTION:*Getting Skills Right: Future-Ready Adul
  b.com/oecd/embargo-calendar/blob/master/
  embargoes-by-publication.md.\n\nPlease n
  ote: This information was correct as of 
- this morning at 5:00, it is updated each
+ this morning at 5:18, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -159,7 +116,7 @@ DESCRIPTION:*Getting Skills Right: Future-Ready Adul
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=97
  89264311756-en.
-DTSTAMP:20190206T050056Z
+DTSTAMP:20190207T051856Z
 DTSTART:20190213T100000Z
 DTEND:20190213T101500Z
 TRANSP:TRANSPARENT
@@ -173,7 +130,7 @@ DESCRIPTION:Reminder: Getting Skills Right: Future-R
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311053-end3e1818
+UID:10.1787/9789264311053-end3e1723
 SUMMARY:Rethinking Innovation for a Sustainable 
  Ocean Economy
 DESCRIPTION:*Rethinking Innovation for a Sustainable
@@ -193,7 +150,7 @@ DESCRIPTION:*Rethinking Innovation for a Sustainable
  oecd/embargo-calendar/blob/master/embarg
  oes-by-publication.md.\n\nPlease note: T
  his information was correct as of this m
- orning at 5:00, it is updated each night
+ orning at 5:18, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -202,7 +159,7 @@ DESCRIPTION:*Rethinking Innovation for a Sustainable
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=97892643
  11053-en.
-DTSTAMP:20190206T050056Z
+DTSTAMP:20190207T051856Z
 DTSTART:20190214T100000Z
 DTEND:20190214T101500Z
 TRANSP:TRANSPARENT
@@ -216,7 +173,51 @@ DESCRIPTION:Reminder: Rethinking Innovation for a Su
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311800-end3e1913
+UID:10.1787/9789264307674-end3e1818
+SUMMARY:Multi-dimensional Review of Thailand (Vo
+ lume 2) - In-depth Analysis and Recommen
+ dations
+DESCRIPTION:*Multi-dimensional Review of Thailand (V
+ olume 2) - In-depth Analysis and Recomme
+ ndations*\n\nDirectorate: Development Ce
+ ntre\nLanguage: English\nDOI: https://do
+ i.org/10.1787/9789264307674-en\nPublicat
+ ion type: Book\nReleased as: ePub, HTML,
+  Paperback, PDF\n\nEmbargo date/time: Th
+ ursday, 14 February 2019, 17:00 (GMT)\nL
+ aunch date/time: Thursday, 14 February 2
+ 019, 17:00 (GMT)\n\niLibrary export: Wed
+ nesday, 6 February 2019, 22:53 (GMT)\nFr
+ eepreview export: never\nFTI loaded: ✓\n
+ \nFor more information see: https://gith
+ ub.com/oecd/embargo-calendar/blob/master
+ /embargoes-by-publication.md.\n\nPlease 
+ note: This information was correct as of
+  this morning at 5:18, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=9
+ 789264307674-en.
+DTSTAMP:20190207T051856Z
+DTSTART:20190214T170000Z
+DTEND:20190214T171500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Multi-dimensional Review of Th
+ ailand (Volume 2) - In-depth Analysis an
+ d Recommendations
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9789264311800-end3e2014
 SUMMARY:How's Life in the Digital Age? - Opportu
  nities and Risks of the Digital Transfor
  mation for People's Well-being
@@ -230,23 +231,23 @@ DESCRIPTION:*How's Life in the Digital Age? - Opport
  : Paperback, PDF\n\nEmbargo date/time: T
  uesday, 26 February 2019, 10:00 (GMT)\nL
  aunch date/time: Tuesday, 26 February 20
- 19, 10:00 (GMT)\n\niLibrary export: Frid
- ay, 18 January 2019, 1:08 (GMT)\nFreepre
- view export: never\nFTI loaded: ✗\n\nFor
-  more information see: https://github.co
- m/oecd/embargo-calendar/blob/master/emba
- rgoes-by-publication.md.\n\nPlease note:
-  This information was correct as of this
-  morning at 5:00, it is updated each nig
- ht; therefore any subsequent updates may
-  not yet be visible here. Also, please b
- e aware that the different released medi
- a (PDF, HTML, etc.) are not necessarily 
- released at the same time. For complete 
- and up-to-date information see here: htt
- p://kappa.oecd.org/v3/search?term=978926
- 4311800-en.
-DTSTAMP:20190206T050056Z
+ 19, 10:00 (GMT)\n\niLibrary export: Wedn
+ esday, 6 February 2019, 22:53 (GMT)\nFre
+ epreview export: never\nFTI loaded: ✗\n\
+ nFor more information see: https://githu
+ b.com/oecd/embargo-calendar/blob/master/
+ embargoes-by-publication.md.\n\nPlease n
+ ote: This information was correct as of 
+ this morning at 5:18, it is updated each
+  night; therefore any subsequent updates
+  may not yet be visible here. Also, plea
+ se be aware that the different released 
+ media (PDF, HTML, etc.) are not necessar
+ ily released at the same time. For compl
+ ete and up-to-date information see here:
+  http://kappa.oecd.org/v3/search?term=97
+ 89264311800-en.
+DTSTAMP:20190207T051856Z
 DTSTART:20190226T100000Z
 DTEND:20190226T101500Z
 TRANSP:TRANSPARENT
@@ -261,7 +262,7 @@ DESCRIPTION:Reminder: How's Life in the Digital Age?
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264312012-end3e2100
+UID:10.1787/9789264312012-end3e2201
 SUMMARY:Going Digital Synthesis Report - Making 
  Digital Transformation Work for Growth a
  nd Well-being
@@ -282,7 +283,7 @@ DESCRIPTION:*Going Digital Synthesis Report - Making
  .com/oecd/embargo-calendar/blob/master/e
  mbargoes-by-publication.md.\n\nPlease no
  te: This information was correct as of t
- his morning at 5:00, it is updated each 
+ his morning at 5:18, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -291,7 +292,7 @@ DESCRIPTION:*Going Digital Synthesis Report - Making
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=978
  9264312012-en.
-DTSTAMP:20190206T050056Z
+DTSTAMP:20190207T051856Z
 DTSTART:20190311T080000Z
 DTEND:20190311T081500Z
 TRANSP:TRANSPARENT
@@ -306,7 +307,7 @@ DESCRIPTION:Reminder: Going Digital Synthesis Report
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311992-end3e2333
+UID:10.1787/9789264311992-end3e2434
 SUMMARY:Measuring the Digital Transformation
 DESCRIPTION:*Measuring the Digital Transformation*\n
  \nDirectorate: Directorate for Science, 
@@ -324,7 +325,7 @@ DESCRIPTION:*Measuring the Digital Transformation*\n
  o-calendar/blob/master/embargoes-by-publ
  ication.md.\n\nPlease note: This informa
  tion was correct as of this morning at 5
- :00, it is updated each night; therefore
+ :18, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -332,7 +333,7 @@ DESCRIPTION:*Measuring the Digital Transformation*\n
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=9789264311992-en.
-DTSTAMP:20190206T050056Z
+DTSTAMP:20190207T051856Z
 DTSTART:20190311T080000Z
 DTEND:20190311T081500Z
 TRANSP:TRANSPARENT

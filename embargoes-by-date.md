@@ -2,40 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 6 February 2019 at 5:00* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 7 February 2019 at 5:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [4 February 2019](#4-february-2019)
 * [5 February 2019](#5-february-2019)
 * [13 February 2019](#13-february-2019)
 * [14 February 2019](#14-february-2019)
 * [26 February 2019](#26-february-2019)
 * [11 March 2019](#11-march-2019)
-
-------
-
-# 4 February 2019
-
-## [Impacts of technology use on children - Exploring literature on the brain, cognition and well-being](https://doi.org/10.1787/8296464e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 February 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 1 February 2019 at 0:39
-- [x] Exported to Keepeek Thursday 31 January 2019 at 21:42
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -137,6 +110,28 @@ Thursday 14 February 2019 at 10:00 | Thursday 14 February 2019 at 10:00
 
 ------
 
+## [Multi-dimensional Review of Thailand (Volume 2) - In-depth Analysis and Recommendations](https://doi.org/10.1787/9789264307674-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 14 February 2019 at 17:00 | Thursday 14 February 2019 at 17:00
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 6 February 2019 at 23:53
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
 ------
 
 # 26 February 2019
@@ -150,7 +145,7 @@ Tuesday 26 February 2019 at 10:00 | Tuesday 26 February 2019 at 10:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 18 January 2019 at 2:08
+- [x] Exported to iLibrary Wednesday 6 February 2019 at 23:53
 - [ ] Exported to Keepeek
 
 ### Additional Information
