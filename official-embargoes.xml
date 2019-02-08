@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2019-02-07T05:18:52.7154084+01:00">
+<report name="official-embargoes" generated="2019-02-08T05:51:18.8259358+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -18,57 +18,108 @@
     <cell name="kappa link">Kappa Link</cell>
   </row>
   <row index="1">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_surveys-svk-2019-en</cell>
-    <cell name="title">OECD Economic Surveys: Slovak Republic 2019 (en)</cell>
-    <cell name="subtitle"/>
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/ddaa6b25-en</cell>
+    <cell name="title">Evaluating the Impact of Urban Road Pricing on the Use of Green Transport Mode (en)</cell>
+    <cell name="subtitle">The Case of Milan (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-02-05</cell>
-    <cell name="embargo date">2019-02-05T09:00:00Z</cell>
-    <cell name="launch date/time">2019-02-05T09:00:00Z</cell>
-    <cell name="ilibrary last export date">2019-02-01T23:25:24Z</cell>
-    <cell name="freepreview last export date">2019-02-01T20:40:57Z</cell>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9daef</cell>
-  </row>
-  <row index="2">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/eco_surveys-svk-2019-en</cell>
-    <cell name="title">OECD Economic Surveys: Slovak Republic 2019 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2019-02-05</cell>
-    <cell name="embargo date">2019-02-05T09:00:00Z</cell>
-    <cell name="launch date/time">2019-02-05T09:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9daee</cell>
-  </row>
-  <row index="3">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/1baa285c-en</cell>
-    <cell name="title">How education systems respond to cultural diversity in schools (en)</cell>
-    <cell name="subtitle">New measures in TALIS 2018 (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-02-05</cell>
-    <cell name="embargo date">2019-02-05T10:00:00Z</cell>
+    <cell name="date of publication">2019-02-11</cell>
+    <cell name="embargo date">2019-02-11T05:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-02-01T23:25:24Z</cell>
-    <cell name="freepreview last export date">2019-02-01T20:40:57Z</cell>
+    <cell name="ilibrary last export date">2019-02-07T23:00:46Z</cell>
+    <cell name="freepreview last export date">2019-02-07T20:38:34Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/56c876da</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2f463e6d</cell>
+  </row>
+  <row index="2">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/ddaa6b25-en</cell>
+    <cell name="title">Evaluating the Impact of Urban Road Pricing on the Use of Green Transport Mode (en)</cell>
+    <cell name="subtitle">The Case of Milan (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-02-11</cell>
+    <cell name="embargo date">2019-02-11T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2f463e6d</cell>
+  </row>
+  <row index="3">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/273176bc-en</cell>
+    <cell name="title">Digital Dividend: Policies to Harness the Productivity Potential of Digital Technologies (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-02-12</cell>
+    <cell name="embargo date">2019-02-12T12:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c3858ef5</cell>
   </row>
   <row index="4">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/5080f4b6-en</cell>
+    <cell name="title">Digitalisation and productivity: In search of the holy grail – Firm-level empirical evidence from EU countries (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-02-12</cell>
+    <cell name="embargo date">2019-02-12T12:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-02-07T23:00:46Z</cell>
+    <cell name="freepreview last export date">2019-02-07T20:38:34Z</cell>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/26063df3</cell>
+  </row>
+  <row index="5">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/5080f4b6-en</cell>
+    <cell name="title">Digitalisation and productivity: In search of the holy grail – Firm-level empirical evidence from EU countries (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-02-12</cell>
+    <cell name="embargo date">2019-02-12T12:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/26063df3</cell>
+  </row>
+  <row index="6">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/273176bc-en</cell>
+    <cell name="title">Digital Dividend: Policies to Harness the Productivity Potential of Digital Technologies (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-02-12</cell>
+    <cell name="embargo date">2019-02-12T12:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-02-07T23:00:46Z</cell>
+    <cell name="freepreview last export date">2019-02-07T20:38:34Z</cell>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c3858ef5</cell>
+  </row>
+  <row index="7">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-3-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -85,7 +136,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f484</cell>
   </row>
-  <row index="5">
+  <row index="8">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-6-en</cell>
     <cell name="title">Coverage and inclusiveness (en)</cell>
@@ -102,7 +153,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f48a</cell>
   </row>
-  <row index="6">
+  <row index="9">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-11-en</cell>
     <cell name="title">Country responses to the OECD Adult Learning questionnaire (en)</cell>
@@ -119,7 +170,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f493</cell>
   </row>
-  <row index="7">
+  <row index="10">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-en</cell>
     <cell name="title">Getting Skills Right: Future-Ready Adult Learning Systems (en)</cell>
@@ -136,7 +187,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f47c</cell>
   </row>
-  <row index="8">
+  <row index="11">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-7-en</cell>
     <cell name="title">Alignment of adult learning provision with labour market needs (en)</cell>
@@ -153,7 +204,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f48b</cell>
   </row>
-  <row index="9">
+  <row index="12">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-10-en</cell>
     <cell name="title">Building effective co-ordination mechanisms (en)</cell>
@@ -170,7 +221,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f491</cell>
   </row>
-  <row index="10">
+  <row index="13">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-6-en</cell>
     <cell name="title">Coverage and inclusiveness (en)</cell>
@@ -187,7 +238,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f489</cell>
   </row>
-  <row index="11">
+  <row index="14">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-2-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -204,7 +255,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f482</cell>
   </row>
-  <row index="12">
+  <row index="15">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-8-en</cell>
     <cell name="title">Impact of adult learning (en)</cell>
@@ -221,7 +272,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f48d</cell>
   </row>
-  <row index="13">
+  <row index="16">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-13-en</cell>
     <cell name="title">Methodology and data sources (en)</cell>
@@ -238,7 +289,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f497</cell>
   </row>
-  <row index="14">
+  <row index="17">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-5-en</cell>
     <cell name="title">More and better adult learning for a changing world of work (en)</cell>
@@ -255,7 +306,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f487</cell>
   </row>
-  <row index="15">
+  <row index="18">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-1-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -272,7 +323,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f480</cell>
   </row>
-  <row index="16">
+  <row index="19">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-9-en</cell>
     <cell name="title">Financing adult learning (en)</cell>
@@ -289,7 +340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f490</cell>
   </row>
-  <row index="17">
+  <row index="20">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-1-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -306,7 +357,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f47f</cell>
   </row>
-  <row index="18">
+  <row index="21">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-12-en</cell>
     <cell name="title">The PAL dashboard (en)</cell>
@@ -323,7 +374,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f496</cell>
   </row>
-  <row index="19">
+  <row index="22">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-9-en</cell>
     <cell name="title">Financing adult learning (en)</cell>
@@ -340,7 +391,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f48f</cell>
   </row>
-  <row index="20">
+  <row index="23">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-3-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -357,7 +408,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f483</cell>
   </row>
-  <row index="21">
+  <row index="24">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-4-en</cell>
     <cell name="title">Assessment and policy directions (en)</cell>
@@ -374,7 +425,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f486</cell>
   </row>
-  <row index="22">
+  <row index="25">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-en</cell>
     <cell name="title">Getting Skills Right: Future-Ready Adult Learning Systems (en)</cell>
@@ -391,7 +442,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0e9</cell>
   </row>
-  <row index="23">
+  <row index="26">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-11-en</cell>
     <cell name="title">Country responses to the OECD Adult Learning questionnaire (en)</cell>
@@ -408,7 +459,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f494</cell>
   </row>
-  <row index="24">
+  <row index="27">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-en</cell>
     <cell name="title">Getting Skills Right: Future-Ready Adult Learning Systems (en)</cell>
@@ -425,7 +476,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f47d</cell>
   </row>
-  <row index="25">
+  <row index="28">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-7-en</cell>
     <cell name="title">Alignment of adult learning provision with labour market needs (en)</cell>
@@ -442,7 +493,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f48c</cell>
   </row>
-  <row index="26">
+  <row index="29">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-10-en</cell>
     <cell name="title">Building effective co-ordination mechanisms (en)</cell>
@@ -459,7 +510,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f492</cell>
   </row>
-  <row index="27">
+  <row index="30">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-2-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -476,7 +527,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f481</cell>
   </row>
-  <row index="28">
+  <row index="31">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-8-en</cell>
     <cell name="title">Impact of adult learning (en)</cell>
@@ -493,7 +544,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f48e</cell>
   </row>
-  <row index="29">
+  <row index="32">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-13-en</cell>
     <cell name="title">Methodology and data sources (en)</cell>
@@ -510,7 +561,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f498</cell>
   </row>
-  <row index="30">
+  <row index="33">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-5-en</cell>
     <cell name="title">More and better adult learning for a changing world of work (en)</cell>
@@ -527,7 +578,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f488</cell>
   </row>
-  <row index="31">
+  <row index="34">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-14-en</cell>
     <cell name="title">Detailed tables (en)</cell>
@@ -544,7 +595,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f49a</cell>
   </row>
-  <row index="32">
+  <row index="35">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-12-en</cell>
     <cell name="title">The PAL dashboard (en)</cell>
@@ -561,7 +612,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f495</cell>
   </row>
-  <row index="33">
+  <row index="36">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-4-en</cell>
     <cell name="title">Assessment and policy directions (en)</cell>
@@ -578,7 +629,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f485</cell>
   </row>
-  <row index="34">
+  <row index="37">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-14-en</cell>
     <cell name="title">Detailed tables (en)</cell>
@@ -595,7 +646,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f499</cell>
   </row>
-  <row index="35">
+  <row index="38">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9789264311756-en</cell>
     <cell name="title">Getting Skills Right: Future-Ready Adult Learning Systems (en)</cell>
@@ -612,7 +663,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e0e8</cell>
   </row>
-  <row index="36">
+  <row index="39">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/9789264311053-en</cell>
     <cell name="title">Rethinking Innovation for a Sustainable Ocean Economy (en)</cell>
@@ -629,7 +680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9c465</cell>
   </row>
-  <row index="37">
+  <row index="40">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/9789264311053-en</cell>
     <cell name="title">Rethinking Innovation for a Sustainable Ocean Economy (en)</cell>
@@ -646,7 +697,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9c464</cell>
   </row>
-  <row index="38">
+  <row index="41">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/9789264307674-en</cell>
     <cell name="title">Multi-dimensional Review of Thailand (Volume 2) (en)</cell>
@@ -663,7 +714,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g98dff</cell>
   </row>
-  <row index="39">
+  <row index="42">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/9789264307674-en</cell>
     <cell name="title">Multi-dimensional Review of Thailand (Volume 2) (en)</cell>
@@ -680,7 +731,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g98df3</cell>
   </row>
-  <row index="40">
+  <row index="43">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/9789264307674-en</cell>
     <cell name="title">Multi-dimensional Review of Thailand (Volume 2) (en)</cell>
@@ -697,7 +748,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g995e9</cell>
   </row>
-  <row index="41">
+  <row index="44">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/9789264307674-en</cell>
     <cell name="title">Multi-dimensional Review of Thailand (Volume 2) (en)</cell>
@@ -714,7 +765,75 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g995e8</cell>
   </row>
-  <row index="42">
+  <row index="45">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264309753-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: Turkey 2019 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2019-02-19</cell>
+    <cell name="embargo date">2019-02-19T07:00:00Z</cell>
+    <cell name="launch date/time">2019-02-19T07:00:00Z</cell>
+    <cell name="ilibrary last export date">2019-02-07T23:00:46Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9a7ee</cell>
+  </row>
+  <row index="46">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264309753-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: Turkey 2019 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2019-02-19</cell>
+    <cell name="embargo date">2019-02-19T07:00:00Z</cell>
+    <cell name="launch date/time">2019-02-19T07:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9a7f0</cell>
+  </row>
+  <row index="47">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264309753-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: Turkey 2019 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2019-02-19</cell>
+    <cell name="embargo date">2019-02-19T07:00:00Z</cell>
+    <cell name="launch date/time">2019-02-19T07:00:00Z</cell>
+    <cell name="ilibrary last export date">2019-02-07T23:00:46Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9a7ed</cell>
+  </row>
+  <row index="48">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9789264309753-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: Turkey 2019 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2019-02-19</cell>
+    <cell name="embargo date">2019-02-19T07:00:00Z</cell>
+    <cell name="launch date/time">2019-02-19T07:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9a7ef</cell>
+  </row>
+  <row index="49">
     <cell name="directorate">Statistics and Data Directorate</cell>
     <cell name="doi">10.1787/9789264311800-en</cell>
     <cell name="title">How's Life in the Digital Age? (en)</cell>
@@ -731,7 +850,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e413</cell>
   </row>
-  <row index="43">
+  <row index="50">
     <cell name="directorate">Statistics and Data Directorate</cell>
     <cell name="doi">10.1787/9789264311800-en</cell>
     <cell name="title">How's Life in the Digital Age? (en)</cell>
@@ -748,92 +867,24 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9e412</cell>
   </row>
-  <row index="44">
+  <row index="51">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/9789264312012-en</cell>
-    <cell name="title">Going Digital Synthesis Report (en)</cell>
-    <cell name="subtitle">Making Digital Transformation Work for Growth and Well-being (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2019-03-11</cell>
-    <cell name="embargo date">2019-03-11T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3b8</cell>
-  </row>
-  <row index="45">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/9789264311992-en</cell>
-    <cell name="title">Measuring the Digital Transformation (en)</cell>
+    <cell name="title">Going Digital: Shaping Policies, Improving Lives (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2019-03-11</cell>
-    <cell name="embargo date">2019-03-11T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3bb</cell>
-  </row>
-  <row index="46">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/9789264312012-en</cell>
-    <cell name="title">Going Digital Synthesis Report (en)</cell>
-    <cell name="subtitle">Making Digital Transformation Work for Growth and Well-being (en)</cell>
-    <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2019-03-11</cell>
     <cell name="embargo date">2019-03-11T08:00:00Z</cell>
     <cell name="launch date/time">2019-03-11T08:00:00Z</cell>
-    <cell name="ilibrary last export date">2019-01-21T23:12:51Z</cell>
+    <cell name="ilibrary last export date">2019-02-07T23:00:46Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f091</cell>
   </row>
-  <row index="47">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/9789264311992-en</cell>
-    <cell name="title">Measuring the Digital Transformation (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2019-03-11</cell>
-    <cell name="embargo date">2019-03-11T08:00:00Z</cell>
-    <cell name="launch date/time">2019-03-11T08:00:00Z</cell>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f08e</cell>
-  </row>
-  <row index="48">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/9789264312012-en</cell>
-    <cell name="title">Going Digital Synthesis Report (en)</cell>
-    <cell name="subtitle">Making Digital Transformation Work for Growth and Well-being (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2019-03-11</cell>
-    <cell name="embargo date">2019-03-11T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3b9</cell>
-  </row>
-  <row index="49">
+  <row index="52">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/9789264311992-en</cell>
     <cell name="title">Measuring the Digital Transformation (en)</cell>
@@ -850,11 +901,45 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3bc</cell>
   </row>
-  <row index="50">
+  <row index="53">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/9789264311992-en</cell>
+    <cell name="title">Measuring the Digital Transformation (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2019-03-11</cell>
+    <cell name="embargo date">2019-03-11T08:00:00Z</cell>
+    <cell name="launch date/time">2019-03-11T08:00:00Z</cell>
+    <cell name="ilibrary last export date">2019-02-07T23:00:46Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f08f</cell>
+  </row>
+  <row index="54">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/9789264312012-en</cell>
-    <cell name="title">Going Digital Synthesis Report (en)</cell>
-    <cell name="subtitle">Making Digital Transformation Work for Growth and Well-being (en)</cell>
+    <cell name="title">Going Digital: Shaping Policies, Improving Lives (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2019-03-11</cell>
+    <cell name="embargo date">2019-03-11T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3b9</cell>
+  </row>
+  <row index="55">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/9789264312012-en</cell>
+    <cell name="title">Going Digital: Shaping Policies, Improving Lives (en)</cell>
+    <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
@@ -867,21 +952,55 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f090</cell>
   </row>
-  <row index="51">
+  <row index="56">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/9789264311992-en</cell>
     <cell name="title">Measuring the Digital Transformation (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2019-03-11</cell>
     <cell name="embargo date">2019-03-11T08:00:00Z</cell>
-    <cell name="launch date/time">2019-03-11T08:00:00Z</cell>
-    <cell name="ilibrary last export date">2019-01-22T22:56:55Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f08f</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3bb</cell>
+  </row>
+  <row index="57">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/9789264311992-en</cell>
+    <cell name="title">Measuring the Digital Transformation (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2019-03-11</cell>
+    <cell name="embargo date">2019-03-11T08:00:00Z</cell>
+    <cell name="launch date/time">2019-03-11T08:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f08e</cell>
+  </row>
+  <row index="58">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/9789264312012-en</cell>
+    <cell name="title">Going Digital: Shaping Policies, Improving Lives (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2019-03-11</cell>
+    <cell name="embargo date">2019-03-11T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g9f3b8</cell>
   </row>
 </report>

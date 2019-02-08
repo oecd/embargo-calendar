@@ -2,92 +2,260 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/eco_surveys-svk-2019-end3e53
-SUMMARY:OECD Economic Surveys: Slovak Republic 2
- 019
-DESCRIPTION:*OECD Economic Surveys: Slovak Republic 
- 2019*\n\nDirectorate: Economics Departme
- nt\nLanguage: English\nDOI: https://doi.
- org/10.1787/eco_surveys-svk-2019-en\nPub
- lication type: Economic survey\nReleased
-  as: Paperback, PDF\n\nEmbargo date/time
- : Tuesday, 5 February 2019, 9:00 (GMT)\n
- Launch date/time: Tuesday, 5 February 20
- 19, 9:00 (GMT)\n\niLibrary export: Frida
- y, 1 February 2019, 23:25 (GMT)\nFreepre
- view export: Friday, 1 February 2019, 20
- :40 (GMT)\nFTI loaded: ✓\n\nFor more inf
- ormation see: https://github.com/oecd/em
- bargo-calendar/blob/master/embargoes-by-
- publication.md.\n\nPlease note: This inf
- ormation was correct as of this morning 
- at 5:18, it is updated each night; there
- fore any subsequent updates may not yet 
- be visible here. Also, please be aware t
- hat the different released media (PDF, H
- TML, etc.) are not necessarily released 
- at the same time. For complete and up-to
- -date information see here: http://kappa
- .oecd.org/v3/search?term=eco_surveys-svk
- -2019-en.
-DTSTAMP:20190207T051856Z
-DTSTART:20190205T090000Z
-DTEND:20190205T091500Z
+UID:10.1787/ddaa6b25-end3e53
+SUMMARY:Evaluating the Impact of Urban Road Pric
+ ing on the Use of Green Transport Mode -
+  The Case of Milan
+DESCRIPTION:*Evaluating the Impact of Urban Road Pri
+ cing on the Use of Green Transport Mode 
+ - The Case of Milan*\n\nDirectorate: Env
+ ironment Directorate\nLanguage: English\
+ nDOI: https://doi.org/10.1787/ddaa6b25-e
+ n\nPublication type: Working paper\nRele
+ ased as: PDF, PDF\n\nEmbargo date/time: 
+ Monday, 11 February 2019, 5:00 (GMT)\n\n
+ \niLibrary export: Thursday, 7 February 
+ 2019, 23:00 (GMT)\nFreepreview export: T
+ hursday, 7 February 2019, 20:38 (GMT)\nF
+ TI loaded: ✓\n\nFor more information see
+ : https://github.com/oecd/embargo-calend
+ ar/blob/master/embargoes-by-publication.
+ md.\n\nPlease note: This information was
+  correct as of this morning at 5:51, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=ddaa6b25-en.
+DTSTAMP:20190208T055122Z
+DTSTART:20190211T050000Z
+DTEND:20190211T051500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Evaluating the Impact of Urban
+  Road Pricing on the Use of Green Transp
+ ort Mode - The Case of Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ddaa6b25-end3e102
+SUMMARY:Evaluating the Impact of Urban Road Pric
+ ing on the Use of Green Transport Mode -
+  The Case of Milan
+DESCRIPTION:*Evaluating the Impact of Urban Road Pri
+ cing on the Use of Green Transport Mode 
+ - The Case of Milan*\n\nDirectorate: Env
+ ironment Directorate\nLanguage: English\
+ nDOI: https://doi.org/10.1787/ddaa6b25-e
+ n\nPublication type: Working paper\nRele
+ ased as: PDF, PDF\n\nEmbargo date/time: 
+ Monday, 11 February 2019, 5:00 (GMT)\n\n
+ \niLibrary export: never\nFreepreview ex
+ port: never\nFTI loaded: ✓\n\nFor more i
+ nformation see: https://github.com/oecd/
+ embargo-calendar/blob/master/embargoes-b
+ y-publication.md.\n\nPlease note: This i
+ nformation was correct as of this mornin
+ g at 5:51, it is updated each night; the
+ refore any subsequent updates may not ye
+ t be visible here. Also, please be aware
+  that the different released media (PDF,
+  HTML, etc.) are not necessarily release
+ d at the same time. For complete and up-
+ to-date information see here: http://kap
+ pa.oecd.org/v3/search?term=ddaa6b25-en.
+DTSTAMP:20190208T055122Z
+DTSTART:20190211T050000Z
+DTEND:20190211T051500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Evaluating the Impact of Urban
+  Road Pricing on the Use of Green Transp
+ ort Mode - The Case of Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/273176bc-end3e149
+SUMMARY:Digital Dividend: Policies to Harness th
+ e Productivity Potential of Digital Tech
+ nologies
+DESCRIPTION:*Digital Dividend: Policies to Harness t
+ he Productivity Potential of Digital Tec
+ hnologies*\n\nDirectorate: Economics Dep
+ artment\nLanguage: English\nDOI: https:/
+ /doi.org/10.1787/273176bc-en\nPublicatio
+ n type: Working paper\nReleased as: PDF,
+  PDF\n\nEmbargo date/time: Tuesday, 12 F
+ ebruary 2019, 12:00 (GMT)\n\n\niLibrary 
+ export: never\nFreepreview export: never
+ \nFTI loaded: ✓\n\nFor more information 
+ see: https://github.com/oecd/embargo-cal
+ endar/blob/master/embargoes-by-publicati
+ on.md.\n\nPlease note: This information 
+ was correct as of this morning at 5:51, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=273176bc-en.
+DTSTAMP:20190208T055122Z
+DTSTART:20190212T120000Z
+DTEND:20190212T121500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Economic Surveys: Slovak 
- Republic 2019
+DESCRIPTION:Reminder: Digital Dividend: Policies to 
+ Harness the Productivity Potential of Di
+ gital Technologies
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1baa285c-end3e148
-SUMMARY:How education systems respond to cultura
- l diversity in schools - New measures in
-  TALIS 2018
-DESCRIPTION:*How education systems respond to cultur
- al diversity in schools - New measures i
- n TALIS 2018*\n\nDirectorate: Directorat
- e for Education and Skills\nLanguage: En
- glish\nDOI: https://doi.org/10.1787/1baa
- 285c-en\nPublication type: Working paper
- \nReleased as: PDF\n\nEmbargo date/time:
-  Tuesday, 5 February 2019, 10:00 (GMT)\n
- \n\niLibrary export: Friday, 1 February 
- 2019, 23:25 (GMT)\nFreepreview export: F
- riday, 1 February 2019, 20:40 (GMT)\nFTI
-  loaded: ✓\n\nFor more information see: 
- https://github.com/oecd/embargo-calendar
- /blob/master/embargoes-by-publication.md
- .\n\nPlease note: This information was c
- orrect as of this morning at 5:18, it is
-  updated each night; therefore any subse
- quent updates may not yet be visible her
- e. Also, please be aware that the differ
- ent released media (PDF, HTML, etc.) are
-  not necessarily released at the same ti
- me. For complete and up-to-date informat
- ion see here: http://kappa.oecd.org/v3/s
- earch?term=1baa285c-en.
-DTSTAMP:20190207T051856Z
-DTSTART:20190205T100000Z
-DTEND:20190205T101500Z
+UID:10.1787/5080f4b6-end3e195
+SUMMARY:Digitalisation and productivity: In sear
+ ch of the holy grail – Firm-level empiri
+ cal evidence from EU countries
+DESCRIPTION:*Digitalisation and productivity: In sea
+ rch of the holy grail – Firm-level empir
+ ical evidence from EU countries*\n\nDire
+ ctorate: Economics Department\nLanguage:
+  English\nDOI: https://doi.org/10.1787/5
+ 080f4b6-en\nPublication type: Working pa
+ per\nReleased as: PDF, PDF\n\nEmbargo da
+ te/time: Tuesday, 12 February 2019, 12:0
+ 0 (GMT)\n\n\niLibrary export: Thursday, 
+ 7 February 2019, 23:00 (GMT)\nFreeprevie
+ w export: Thursday, 7 February 2019, 20:
+ 38 (GMT)\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://github.com/oecd/emb
+ argo-calendar/blob/master/embargoes-by-p
+ ublication.md.\n\nPlease note: This info
+ rmation was correct as of this morning a
+ t 5:51, it is updated each night; theref
+ ore any subsequent updates may not yet b
+ e visible here. Also, please be aware th
+ at the different released media (PDF, HT
+ ML, etc.) are not necessarily released a
+ t the same time. For complete and up-to-
+ date information see here: http://kappa.
+ oecd.org/v3/search?term=5080f4b6-en.
+DTSTAMP:20190208T055122Z
+DTSTART:20190212T120000Z
+DTEND:20190212T121500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: How education systems respond 
- to cultural diversity in schools - New m
- easures in TALIS 2018
+DESCRIPTION:Reminder: Digitalisation and productivit
+ y: In search of the holy grail – Firm-le
+ vel empirical evidence from EU countries
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311756-end3e1056
+UID:10.1787/5080f4b6-end3e244
+SUMMARY:Digitalisation and productivity: In sear
+ ch of the holy grail – Firm-level empiri
+ cal evidence from EU countries
+DESCRIPTION:*Digitalisation and productivity: In sea
+ rch of the holy grail – Firm-level empir
+ ical evidence from EU countries*\n\nDire
+ ctorate: Economics Department\nLanguage:
+  English\nDOI: https://doi.org/10.1787/5
+ 080f4b6-en\nPublication type: Working pa
+ per\nReleased as: PDF, PDF\n\nEmbargo da
+ te/time: Tuesday, 12 February 2019, 12:0
+ 0 (GMT)\n\n\niLibrary export: never\nFre
+ epreview export: never\nFTI loaded: ✓\n\
+ nFor more information see: https://githu
+ b.com/oecd/embargo-calendar/blob/master/
+ embargoes-by-publication.md.\n\nPlease n
+ ote: This information was correct as of 
+ this morning at 5:51, it is updated each
+  night; therefore any subsequent updates
+  may not yet be visible here. Also, plea
+ se be aware that the different released 
+ media (PDF, HTML, etc.) are not necessar
+ ily released at the same time. For compl
+ ete and up-to-date information see here:
+  http://kappa.oecd.org/v3/search?term=50
+ 80f4b6-en.
+DTSTAMP:20190208T055122Z
+DTSTART:20190212T120000Z
+DTEND:20190212T121500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Digitalisation and productivit
+ y: In search of the holy grail – Firm-le
+ vel empirical evidence from EU countries
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/273176bc-end3e290
+SUMMARY:Digital Dividend: Policies to Harness th
+ e Productivity Potential of Digital Tech
+ nologies
+DESCRIPTION:*Digital Dividend: Policies to Harness t
+ he Productivity Potential of Digital Tec
+ hnologies*\n\nDirectorate: Economics Dep
+ artment\nLanguage: English\nDOI: https:/
+ /doi.org/10.1787/273176bc-en\nPublicatio
+ n type: Working paper\nReleased as: PDF,
+  PDF\n\nEmbargo date/time: Tuesday, 12 F
+ ebruary 2019, 12:00 (GMT)\n\n\niLibrary 
+ export: Thursday, 7 February 2019, 23:00
+  (GMT)\nFreepreview export: Thursday, 7 
+ February 2019, 20:38 (GMT)\nFTI loaded: 
+ ✓\n\nFor more information see: https://g
+ ithub.com/oecd/embargo-calendar/blob/mas
+ ter/embargoes-by-publication.md.\n\nPlea
+ se note: This information was correct as
+  of this morning at 5:51, it is updated 
+ each night; therefore any subsequent upd
+ ates may not yet be visible here. Also, 
+ please be aware that the different relea
+ sed media (PDF, HTML, etc.) are not nece
+ ssarily released at the same time. For c
+ omplete and up-to-date information see h
+ ere: http://kappa.oecd.org/v3/search?ter
+ m=273176bc-en.
+DTSTAMP:20190208T055122Z
+DTSTART:20190212T120000Z
+DTEND:20190212T121500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Digital Dividend: Policies to 
+ Harness the Productivity Potential of Di
+ gital Technologies
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9789264311756-end3e1197
 SUMMARY:Getting Skills Right: Future-Ready Adult
   Learning Systems
 DESCRIPTION:*Getting Skills Right: Future-Ready Adul
@@ -107,7 +275,7 @@ DESCRIPTION:*Getting Skills Right: Future-Ready Adul
  b.com/oecd/embargo-calendar/blob/master/
  embargoes-by-publication.md.\n\nPlease n
  ote: This information was correct as of 
- this morning at 5:18, it is updated each
+ this morning at 5:51, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -116,7 +284,7 @@ DESCRIPTION:*Getting Skills Right: Future-Ready Adul
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=97
  89264311756-en.
-DTSTAMP:20190207T051856Z
+DTSTAMP:20190208T055122Z
 DTSTART:20190213T100000Z
 DTEND:20190213T101500Z
 TRANSP:TRANSPARENT
@@ -130,7 +298,7 @@ DESCRIPTION:Reminder: Getting Skills Right: Future-R
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311053-end3e1723
+UID:10.1787/9789264311053-end3e1863
 SUMMARY:Rethinking Innovation for a Sustainable 
  Ocean Economy
 DESCRIPTION:*Rethinking Innovation for a Sustainable
@@ -150,7 +318,7 @@ DESCRIPTION:*Rethinking Innovation for a Sustainable
  oecd/embargo-calendar/blob/master/embarg
  oes-by-publication.md.\n\nPlease note: T
  his information was correct as of this m
- orning at 5:18, it is updated each night
+ orning at 5:51, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -159,7 +327,7 @@ DESCRIPTION:*Rethinking Innovation for a Sustainable
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=97892643
  11053-en.
-DTSTAMP:20190207T051856Z
+DTSTAMP:20190208T055122Z
 DTSTART:20190214T100000Z
 DTEND:20190214T101500Z
 TRANSP:TRANSPARENT
@@ -173,7 +341,7 @@ DESCRIPTION:Reminder: Rethinking Innovation for a Su
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264307674-end3e1818
+UID:10.1787/9789264307674-end3e1959
 SUMMARY:Multi-dimensional Review of Thailand (Vo
  lume 2) - In-depth Analysis and Recommen
  dations
@@ -193,7 +361,7 @@ DESCRIPTION:*Multi-dimensional Review of Thailand (V
  ub.com/oecd/embargo-calendar/blob/master
  /embargoes-by-publication.md.\n\nPlease 
  note: This information was correct as of
-  this morning at 5:18, it is updated eac
+  this morning at 5:51, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -202,7 +370,7 @@ DESCRIPTION:*Multi-dimensional Review of Thailand (V
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=9
  789264307674-en.
-DTSTAMP:20190207T051856Z
+DTSTAMP:20190208T055122Z
 DTSTART:20190214T170000Z
 DTEND:20190214T171500Z
 TRANSP:TRANSPARENT
@@ -217,7 +385,48 @@ DESCRIPTION:Reminder: Multi-dimensional Review of Th
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311800-end3e2014
+UID:10.1787/9789264309753-end3e2154
+SUMMARY:OECD Environmental Performance Reviews: 
+ Turkey 2019
+DESCRIPTION:*OECD Environmental Performance Reviews:
+  Turkey 2019*\n\nDirectorate: Environmen
+ t Directorate\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/9789264309753-en\
+ nPublication type: Book\nReleased as: eP
+ ub, HTML, Paperback, PDF\n\nEmbargo date
+ /time: Tuesday, 19 February 2019, 7:00 (
+ GMT)\nLaunch date/time: Tuesday, 19 Febr
+ uary 2019, 7:00 (GMT)\n\niLibrary export
+ : Thursday, 7 February 2019, 23:00 (GMT)
+ \nFreepreview export: never\nFTI loaded:
+  ✗\n\nFor more information see: https://
+ github.com/oecd/embargo-calendar/blob/ma
+ ster/embargoes-by-publication.md.\n\nPle
+ ase note: This information was correct a
+ s of this morning at 5:51, it is updated
+  each night; therefore any subsequent up
+ dates may not yet be visible here. Also,
+  please be aware that the different rele
+ ased media (PDF, HTML, etc.) are not nec
+ essarily released at the same time. For 
+ complete and up-to-date information see 
+ here: http://kappa.oecd.org/v3/search?te
+ rm=9789264309753-en.
+DTSTAMP:20190208T055122Z
+DTSTART:20190219T070000Z
+DTEND:20190219T071500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Environmental Performance
+  Reviews: Turkey 2019
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9789264311800-end3e2341
 SUMMARY:How's Life in the Digital Age? - Opportu
  nities and Risks of the Digital Transfor
  mation for People's Well-being
@@ -238,7 +447,7 @@ DESCRIPTION:*How's Life in the Digital Age? - Opport
  b.com/oecd/embargo-calendar/blob/master/
  embargoes-by-publication.md.\n\nPlease n
  ote: This information was correct as of 
- this morning at 5:18, it is updated each
+ this morning at 5:51, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -247,7 +456,7 @@ DESCRIPTION:*How's Life in the Digital Age? - Opport
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=97
  89264311800-en.
-DTSTAMP:20190207T051856Z
+DTSTAMP:20190208T055122Z
 DTSTART:20190226T100000Z
 DTEND:20190226T101500Z
 TRANSP:TRANSPARENT
@@ -262,37 +471,35 @@ DESCRIPTION:Reminder: How's Life in the Digital Age?
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264312012-end3e2201
-SUMMARY:Going Digital Synthesis Report - Making 
- Digital Transformation Work for Growth a
- nd Well-being
-DESCRIPTION:*Going Digital Synthesis Report - Making
-  Digital Transformation Work for Growth 
- and Well-being*\n\nDirectorate: Director
- ate for Science, Technology and Industry
- \nLanguage: English\nDOI: https://doi.or
- g/10.1787/9789264312012-en\nPublication 
- type: Stand-alone monograph\nReleased as
- : ePub, HTML, Paperback, PDF\n\nEmbargo 
- date/time: Monday, 11 March 2019, 8:00 (
- GMT)\nLaunch date/time: Monday, 11 March
-  2019, 8:00 (GMT)\n\niLibrary export: Mo
- nday, 21 January 2019, 23:12 (GMT)\nFree
- preview export: never\nFTI loaded: ✗\n\n
- For more information see: https://github
- .com/oecd/embargo-calendar/blob/master/e
- mbargoes-by-publication.md.\n\nPlease no
- te: This information was correct as of t
- his morning at 5:18, it is updated each 
- night; therefore any subsequent updates 
- may not yet be visible here. Also, pleas
- e be aware that the different released m
- edia (PDF, HTML, etc.) are not necessari
- ly released at the same time. For comple
- te and up-to-date information see here: 
- http://kappa.oecd.org/v3/search?term=978
- 9264312012-en.
-DTSTAMP:20190207T051856Z
+UID:10.1787/9789264312012-end3e2437
+SUMMARY:Going Digital: Shaping Policies, Improvi
+ ng Lives
+DESCRIPTION:*Going Digital: Shaping Policies, Improv
+ ing Lives*\n\nDirectorate: Directorate f
+ or Science, Technology and Industry\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/9789264312012-en\nPublication type:
+  Stand-alone monograph\nReleased as: ePu
+ b, HTML, Paperback, PDF\n\nEmbargo date/
+ time: Monday, 11 March 2019, 8:00 (GMT)\
+ nLaunch date/time: Monday, 11 March 2019
+ , 8:00 (GMT)\n\niLibrary export: Thursda
+ y, 7 February 2019, 23:00 (GMT)\nFreepre
+ view export: never\nFTI loaded: ✗\n\nFor
+  more information see: https://github.co
+ m/oecd/embargo-calendar/blob/master/emba
+ rgoes-by-publication.md.\n\nPlease note:
+  This information was correct as of this
+  morning at 5:51, it is updated each nig
+ ht; therefore any subsequent updates may
+  not yet be visible here. Also, please b
+ e aware that the different released medi
+ a (PDF, HTML, etc.) are not necessarily 
+ released at the same time. For complete 
+ and up-to-date information see here: htt
+ p://kappa.oecd.org/v3/search?term=978926
+ 4312012-en.
+DTSTAMP:20190208T055122Z
 DTSTART:20190311T080000Z
 DTEND:20190311T081500Z
 TRANSP:TRANSPARENT
@@ -301,13 +508,12 @@ TRIGGER:-PT72H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Going Digital Synthesis Report
-  - Making Digital Transformation Work fo
- r Growth and Well-being
+DESCRIPTION:Reminder: Going Digital: Shaping Policie
+ s, Improving Lives
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311992-end3e2434
+UID:10.1787/9789264311992-end3e2530
 SUMMARY:Measuring the Digital Transformation
 DESCRIPTION:*Measuring the Digital Transformation*\n
  \nDirectorate: Directorate for Science, 
@@ -318,22 +524,22 @@ DESCRIPTION:*Measuring the Digital Transformation*\n
  erback, PDF\n\nEmbargo date/time: Monday
  , 11 March 2019, 8:00 (GMT)\nLaunch date
  /time: Monday, 11 March 2019, 8:00 (GMT)
- \n\niLibrary export: Tuesday, 22 January
-  2019, 22:56 (GMT)\nFreepreview export: 
- never\nFTI loaded: ✗\n\nFor more informa
- tion see: https://github.com/oecd/embarg
- o-calendar/blob/master/embargoes-by-publ
- ication.md.\n\nPlease note: This informa
- tion was correct as of this morning at 5
- :18, it is updated each night; therefore
-  any subsequent updates may not yet be v
- isible here. Also, please be aware that 
- the different released media (PDF, HTML,
-  etc.) are not necessarily released at t
- he same time. For complete and up-to-dat
- e information see here: http://kappa.oec
- d.org/v3/search?term=9789264311992-en.
-DTSTAMP:20190207T051856Z
+ \n\niLibrary export: Thursday, 7 Februar
+ y 2019, 23:00 (GMT)\nFreepreview export:
+  never\nFTI loaded: ✗\n\nFor more inform
+ ation see: https://github.com/oecd/embar
+ go-calendar/blob/master/embargoes-by-pub
+ lication.md.\n\nPlease note: This inform
+ ation was correct as of this morning at 
+ 5:51, it is updated each night; therefor
+ e any subsequent updates may not yet be 
+ visible here. Also, please be aware that
+  the different released media (PDF, HTML
+ , etc.) are not necessarily released at 
+ the same time. For complete and up-to-da
+ te information see here: http://kappa.oe
+ cd.org/v3/search?term=9789264311992-en.
+DTSTAMP:20190208T055122Z
 DTSTART:20190311T080000Z
 DTEND:20190311T081500Z
 TRANSP:TRANSPARENT
