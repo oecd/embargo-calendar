@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 13 February 2019 at 13:48* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 13 February 2019 at 15:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Productivity and wage effects of firm-level collective agreements - Evidence from Belgian linked panel data](https://doi.org/10.1787/132aa88e-en)
 
@@ -145,28 +145,6 @@ Thursday 14 February 2019 at 1:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Formats: *PDF, PDF*
-
-------
-
-## [State-owned firms behind China’s corporate debt](https://doi.org/10.1787/7c66570e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 February 2019 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 February 2019 at 0:21
 - [x] Exported to Keepeek Monday 11 February 2019 at 21:47
 
@@ -176,7 +154,7 @@ Thursday 14 February 2019 at 1:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
-* Formats: *PDF, PDF*
+* Format: *PDF*
 
 ------
 
