@@ -2,51 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/132aa88e-end3e53
-SUMMARY:Productivity and wage effects of firm-le
- vel collective agreements - Evidence fro
- m Belgian linked panel data
-DESCRIPTION:*Productivity and wage effects of firm-l
- evel collective agreements - Evidence fr
- om Belgian linked panel data*\n\nDirecto
- rate: Directorate for Employment, Labour
-  and Social Affairs\nLanguage: English\n
- DOI: https://doi.org/10.1787/132aa88e-en
- \nPublication type: Working paper\nRelea
- sed as: PDF\n\nEmbargo date/time: Monday
- , 11 February 2019, 17:00 (GMT)\n\n\niLi
- brary export: Tuesday, 12 February 2019,
-  23:21 (GMT)\nFreepreview export: Friday
- , 8 February 2019, 20:23 (GMT)\nFTI load
- ed: ✓\n\nFor more information see: https
- ://github.com/oecd/embargo-calendar/blob
- /master/embargoes-by-publication.md.\n\n
- Please note: This information was correc
- t as of this afternoon at 15:18, it is u
- pdated each night; therefore any subsequ
- ent updates may not yet be visible here.
-  Also, please be aware that the differen
- t released media (PDF, HTML, etc.) are n
- ot necessarily released at the same time
- . For complete and up-to-date informatio
- n see here: http://kappa.oecd.org/v3/sea
- rch?term=132aa88e-en.
-DTSTAMP:20190213T151831Z
-DTSTART:20190211T170000Z
-DTEND:20190211T171500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Productivity and wage effects 
- of firm-level collective agreements - Ev
- idence from Belgian linked panel data
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/5080f4b6-end3e102
+UID:10.1787/5080f4b6-end3e53
 SUMMARY:Digitalisation and productivity: In sear
  ch of the holy grail – Firm-level empiri
  cal evidence from EU countries
@@ -65,16 +21,16 @@ DESCRIPTION:*Digitalisation and productivity: In sea
  on see: https://github.com/oecd/embargo-
  calendar/blob/master/embargoes-by-public
  ation.md.\n\nPlease note: This informati
- on was correct as of this afternoon at 1
- 5:18, it is updated each night; therefor
- e any subsequent updates may not yet be 
- visible here. Also, please be aware that
-  the different released media (PDF, HTML
- , etc.) are not necessarily released at 
- the same time. For complete and up-to-da
- te information see here: http://kappa.oe
- cd.org/v3/search?term=5080f4b6-en.
-DTSTAMP:20190213T151831Z
+ on was correct as of this morning at 6:0
+ 7, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=5080f4b6-en.
+DTSTAMP:20190214T060720Z
 DTSTART:20190212T120000Z
 DTEND:20190212T121500Z
 TRANSP:TRANSPARENT
@@ -89,7 +45,7 @@ DESCRIPTION:Reminder: Digitalisation and productivit
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/273176bc-end3e150
+UID:10.1787/273176bc-end3e101
 SUMMARY:Digital Dividend: Policies to Harness th
  e Productivity Potential of Digital Tech
  nologies
@@ -108,16 +64,16 @@ DESCRIPTION:*Digital Dividend: Policies to Harness t
  .com/oecd/embargo-calendar/blob/master/e
  mbargoes-by-publication.md.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 15:18, it is updated ea
- ch night; therefore any subsequent updat
- es may not yet be visible here. Also, pl
- ease be aware that the different release
- d media (PDF, HTML, etc.) are not necess
- arily released at the same time. For com
- plete and up-to-date information see her
- e: http://kappa.oecd.org/v3/search?term=
- 273176bc-en.
-DTSTAMP:20190213T151831Z
+ his morning at 6:07, it is updated each 
+ night; therefore any subsequent updates 
+ may not yet be visible here. Also, pleas
+ e be aware that the different released m
+ edia (PDF, HTML, etc.) are not necessari
+ ly released at the same time. For comple
+ te and up-to-date information see here: 
+ http://kappa.oecd.org/v3/search?term=273
+ 176bc-en.
+DTSTAMP:20190214T060720Z
 DTSTART:20190212T120000Z
 DTEND:20190212T121500Z
 TRANSP:TRANSPARENT
@@ -132,7 +88,7 @@ DESCRIPTION:Reminder: Digital Dividend: Policies to
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c73325d9-end3e198
+UID:10.1787/c73325d9-end3e149
 SUMMARY:Making the most of tourism in Indonesia 
  to promote sustainable regional developm
  ent
@@ -150,17 +106,17 @@ DESCRIPTION:*Making the most of tourism in Indonesia
  re information see: https://github.com/o
  ecd/embargo-calendar/blob/master/embargo
  es-by-publication.md.\n\nPlease note: Th
- is information was correct as of this af
- ternoon at 15:18, it is updated each nig
- ht; therefore any subsequent updates may
-  not yet be visible here. Also, please b
- e aware that the different released medi
- a (PDF, HTML, etc.) are not necessarily 
- released at the same time. For complete 
- and up-to-date information see here: htt
- p://kappa.oecd.org/v3/search?term=c73325
- d9-en.
-DTSTAMP:20190213T151831Z
+ is information was correct as of this mo
+ rning at 6:07, it is updated each night;
+  therefore any subsequent updates may no
+ t yet be visible here. Also, please be a
+ ware that the different released media (
+ PDF, HTML, etc.) are not necessarily rel
+ eased at the same time. For complete and
+  up-to-date information see here: http:/
+ /kappa.oecd.org/v3/search?term=c73325d9-
+ en.
+DTSTAMP:20190214T060720Z
 DTSTART:20190213T010000Z
 DTEND:20190213T011500Z
 TRANSP:TRANSPARENT
@@ -175,7 +131,7 @@ DESCRIPTION:Reminder: Making the most of tourism in
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a487771f-end3e247
+UID:10.1787/a487771f-end3e197
 SUMMARY:Raising more public revenue in Indonesia
   in a growth - and equity-friendly way
 DESCRIPTION:*Raising more public revenue in Indonesi
@@ -192,17 +148,16 @@ DESCRIPTION:*Raising more public revenue in Indonesi
  formation see: https://github.com/oecd/e
  mbargo-calendar/blob/master/embargoes-by
  -publication.md.\n\nPlease note: This in
- formation was correct as of this afterno
- on at 15:18, it is updated each night; t
- herefore any subsequent updates may not 
- yet be visible here. Also, please be awa
- re that the different released media (PD
- F, HTML, etc.) are not necessarily relea
- sed at the same time. For complete and u
- p-to-date information see here: http://k
- appa.oecd.org/v3/search?term=a487771f-en
- .
-DTSTAMP:20190213T151831Z
+ formation was correct as of this morning
+  at 6:07, it is updated each night; ther
+ efore any subsequent updates may not yet
+  be visible here. Also, please be aware 
+ that the different released media (PDF, 
+ HTML, etc.) are not necessarily released
+  at the same time. For complete and up-t
+ o-date information see here: http://kapp
+ a.oecd.org/v3/search?term=a487771f-en.
+DTSTAMP:20190214T060720Z
 DTSTART:20190213T010000Z
 DTEND:20190213T011500Z
 TRANSP:TRANSPARENT
@@ -217,7 +172,7 @@ DESCRIPTION:Reminder: Raising more public revenue in
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311756-end3e1771
+UID:10.1787/9789264311756-end3e1723
 SUMMARY:Getting Skills Right: Future-Ready Adult
   Learning Systems
 DESCRIPTION:*Getting Skills Right: Future-Ready Adul
@@ -231,22 +186,22 @@ DESCRIPTION:*Getting Skills Right: Future-Ready Adul
  MT)\nLaunch date/time: Wednesday, 13 Feb
  ruary 2019, 10:00 (GMT)\n\niLibrary expo
  rt: Tuesday, 5 February 2019, 22:53 (GMT
- )\nFreepreview export: Wednesday, 30 Jan
- uary 2019, 20:41 (GMT)\nFTI loaded: ✓\n\
- nFor more information see: https://githu
- b.com/oecd/embargo-calendar/blob/master/
- embargoes-by-publication.md.\n\nPlease n
- ote: This information was correct as of 
- this afternoon at 15:18, it is updated e
- ach night; therefore any subsequent upda
- tes may not yet be visible here. Also, p
- lease be aware that the different releas
- ed media (PDF, HTML, etc.) are not neces
- sarily released at the same time. For co
- mplete and up-to-date information see he
- re: http://kappa.oecd.org/v3/search?term
- =9789264311756-en.
-DTSTAMP:20190213T151831Z
+ )\nFreepreview export: Wednesday, 13 Feb
+ ruary 2019, 20:55 (GMT)\nFTI loaded: ✓\n
+ \nFor more information see: https://gith
+ ub.com/oecd/embargo-calendar/blob/master
+ /embargoes-by-publication.md.\n\nPlease 
+ note: This information was correct as of
+  this morning at 6:07, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=9
+ 789264311756-en.
+DTSTAMP:20190214T060720Z
 DTSTART:20190213T100000Z
 DTEND:20190213T101500Z
 TRANSP:TRANSPARENT
@@ -260,7 +215,7 @@ DESCRIPTION:Reminder: Getting Skills Right: Future-R
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7c66570e-end3e1820
+UID:10.1787/7c66570e-end3e1772
 SUMMARY:State-owned firms behind China’s corpora
  te debt
 DESCRIPTION:*State-owned firms behind China’s corpor
@@ -277,16 +232,16 @@ DESCRIPTION:*State-owned firms behind China’s corpor
  om/oecd/embargo-calendar/blob/master/emb
  argoes-by-publication.md.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 15:18, it is updated each
-  night; therefore any subsequent updates
-  may not yet be visible here. Also, plea
- se be aware that the different released 
- media (PDF, HTML, etc.) are not necessar
- ily released at the same time. For compl
- ete and up-to-date information see here:
-  http://kappa.oecd.org/v3/search?term=7c
- 66570e-en.
-DTSTAMP:20190213T151831Z
+ s morning at 6:07, it is updated each ni
+ ght; therefore any subsequent updates ma
+ y not yet be visible here. Also, please 
+ be aware that the different released med
+ ia (PDF, HTML, etc.) are not necessarily
+  released at the same time. For complete
+  and up-to-date information see here: ht
+ tp://kappa.oecd.org/v3/search?term=7c665
+ 70e-en.
+DTSTAMP:20190214T060720Z
 DTSTART:20190214T010000Z
 DTEND:20190214T011500Z
 TRANSP:TRANSPARENT
@@ -300,55 +255,7 @@ DESCRIPTION:Reminder: State-owned firms behind China
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264309968-end3e1868
-SUMMARY:Making Dispute Resolution More Effective
-  - MAP Peer Review Report, Iceland (Stag
- e 1) - Inclusive Framework on BEPS: Acti
- on 14
-DESCRIPTION:*Making Dispute Resolution More Effectiv
- e - MAP Peer Review Report, Iceland (Sta
- ge 1) - Inclusive Framework on BEPS: Act
- ion 14*\n\nDirectorate: Centre for Tax P
- olicy and Administration\nLanguage: Engl
- ish\nDOI: https://doi.org/10.1787/978926
- 4309968-en\nPublication type: Book\nRele
- ased as: Paperback, PDF\n\nEmbargo date/
- time: Thursday, 14 February 2019, 10:00 
- (GMT)\nLaunch date/time: Thursday, 14 Fe
- bruary 2019, 10:00 (GMT)\n\niLibrary exp
- ort: Tuesday, 12 February 2019, 23:21 (G
- MT)\nFreepreview export: Monday, 11 Febr
- uary 2019, 20:47 (GMT)\nFTI loaded: ✓\n\
- nFor more information see: https://githu
- b.com/oecd/embargo-calendar/blob/master/
- embargoes-by-publication.md.\n\nPlease n
- ote: This information was correct as of 
- this afternoon at 15:18, it is updated e
- ach night; therefore any subsequent upda
- tes may not yet be visible here. Also, p
- lease be aware that the different releas
- ed media (PDF, HTML, etc.) are not neces
- sarily released at the same time. For co
- mplete and up-to-date information see he
- re: http://kappa.oecd.org/v3/search?term
- =9789264309968-en.
-DTSTAMP:20190213T151831Z
-DTSTART:20190214T100000Z
-DTEND:20190214T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Making Dispute Resolution More
-  Effective - MAP Peer Review Report, Ice
- land (Stage 1) - Inclusive Framework on 
- BEPS: Action 14
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/9789264310742-end3e1966
+UID:10.1787/9789264310742-end3e1867
 SUMMARY:Making Dispute Resolution More Effective
   - MAP Peer Review Report, Estonia (Stag
  e 1) - Inclusive Framework on BEPS: Acti
@@ -371,16 +278,16 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  om/oecd/embargo-calendar/blob/master/emb
  argoes-by-publication.md.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 15:18, it is updated each
-  night; therefore any subsequent updates
-  may not yet be visible here. Also, plea
- se be aware that the different released 
- media (PDF, HTML, etc.) are not necessar
- ily released at the same time. For compl
- ete and up-to-date information see here:
-  http://kappa.oecd.org/v3/search?term=97
- 89264310742-en.
-DTSTAMP:20190213T151831Z
+ s morning at 6:07, it is updated each ni
+ ght; therefore any subsequent updates ma
+ y not yet be visible here. Also, please 
+ be aware that the different released med
+ ia (PDF, HTML, etc.) are not necessarily
+  released at the same time. For complete
+  and up-to-date information see here: ht
+ tp://kappa.oecd.org/v3/search?term=97892
+ 64310742-en.
+DTSTAMP:20190214T060720Z
 DTSTART:20190214T100000Z
 DTEND:20190214T101500Z
 TRANSP:TRANSPARENT
@@ -396,7 +303,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264309890-end3e2016
+UID:10.1787/9789264309890-end3e1917
 SUMMARY:Making Dispute Resolution More Effective
   - MAP Peer Review Report, Slovak Republ
  ic (Stage 1) - Inclusive Framework on BE
@@ -412,23 +319,23 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  go date/time: Thursday, 14 February 2019
  , 10:00 (GMT)\nLaunch date/time: Thursda
  y, 14 February 2019, 10:00 (GMT)\n\niLib
- rary export: Tuesday, 12 February 2019, 
- 23:21 (GMT)\nFreepreview export: Friday,
-  8 February 2019, 20:23 (GMT)\nFTI loade
- d: ✓\n\nFor more information see: https:
- //github.com/oecd/embargo-calendar/blob/
- master/embargoes-by-publication.md.\n\nP
- lease note: This information was correct
-  as of this afternoon at 15:18, it is up
- dated each night; therefore any subseque
- nt updates may not yet be visible here. 
- Also, please be aware that the different
-  released media (PDF, HTML, etc.) are no
- t necessarily released at the same time.
-  For complete and up-to-date information
-  see here: http://kappa.oecd.org/v3/sear
- ch?term=9789264309890-en.
-DTSTAMP:20190213T151831Z
+ rary export: Wednesday, 13 February 2019
+ , 23:40 (GMT)\nFreepreview export: Frida
+ y, 8 February 2019, 20:23 (GMT)\nFTI loa
+ ded: ✓\n\nFor more information see: http
+ s://github.com/oecd/embargo-calendar/blo
+ b/master/embargoes-by-publication.md.\n\
+ nPlease note: This information was corre
+ ct as of this morning at 6:07, it is upd
+ ated each night; therefore any subsequen
+ t updates may not yet be visible here. A
+ lso, please be aware that the different 
+ released media (PDF, HTML, etc.) are not
+  necessarily released at the same time. 
+ For complete and up-to-date information 
+ see here: http://kappa.oecd.org/v3/searc
+ h?term=9789264309890-en.
+DTSTAMP:20190214T060720Z
 DTSTART:20190214T100000Z
 DTEND:20190214T101500Z
 TRANSP:TRANSPARENT
@@ -444,7 +351,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264310087-end3e2113
+UID:10.1787/9789264310087-end3e2015
 SUMMARY:Making Dispute Resolution More Effective
   - MAP Peer Review Report, Turkey (Stage
   1) - Inclusive Framework on BEPS: Actio
@@ -460,23 +367,23 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ime: Thursday, 14 February 2019, 10:00 (
  GMT)\nLaunch date/time: Thursday, 14 Feb
  ruary 2019, 10:00 (GMT)\n\niLibrary expo
- rt: Tuesday, 12 February 2019, 23:21 (GM
- T)\nFreepreview export: Friday, 8 Februa
- ry 2019, 20:23 (GMT)\nFTI loaded: ✓\n\nF
- or more information see: https://github.
- com/oecd/embargo-calendar/blob/master/em
- bargoes-by-publication.md.\n\nPlease not
- e: This information was correct as of th
- is afternoon at 15:18, it is updated eac
- h night; therefore any subsequent update
- s may not yet be visible here. Also, ple
- ase be aware that the different released
-  media (PDF, HTML, etc.) are not necessa
- rily released at the same time. For comp
- lete and up-to-date information see here
- : http://kappa.oecd.org/v3/search?term=9
- 789264310087-en.
-DTSTAMP:20190213T151831Z
+ rt: Wednesday, 13 February 2019, 23:40 (
+ GMT)\nFreepreview export: Friday, 8 Febr
+ uary 2019, 20:23 (GMT)\nFTI loaded: ✓\n\
+ nFor more information see: https://githu
+ b.com/oecd/embargo-calendar/blob/master/
+ embargoes-by-publication.md.\n\nPlease n
+ ote: This information was correct as of 
+ this morning at 6:07, it is updated each
+  night; therefore any subsequent updates
+  may not yet be visible here. Also, plea
+ se be aware that the different released 
+ media (PDF, HTML, etc.) are not necessar
+ ily released at the same time. For compl
+ ete and up-to-date information see here:
+  http://kappa.oecd.org/v3/search?term=97
+ 89264310087-en.
+DTSTAMP:20190214T060720Z
 DTSTART:20190214T100000Z
 DTEND:20190214T101500Z
 TRANSP:TRANSPARENT
@@ -492,7 +399,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264309944-end3e2163
+UID:10.1787/9789264309944-end3e2065
 SUMMARY:Making Dispute Resolution More Effective
   - MAP Peer Review Report, Slovenia (Sta
  ge 1) - Inclusive Framework on BEPS: Act
@@ -508,23 +415,23 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  /time: Thursday, 14 February 2019, 10:00
   (GMT)\nLaunch date/time: Thursday, 14 F
  ebruary 2019, 10:00 (GMT)\n\niLibrary ex
- port: Tuesday, 12 February 2019, 23:21 (
- GMT)\nFreepreview export: Friday, 8 Febr
- uary 2019, 20:23 (GMT)\nFTI loaded: ✓\n\
- nFor more information see: https://githu
- b.com/oecd/embargo-calendar/blob/master/
- embargoes-by-publication.md.\n\nPlease n
- ote: This information was correct as of 
- this afternoon at 15:18, it is updated e
- ach night; therefore any subsequent upda
- tes may not yet be visible here. Also, p
- lease be aware that the different releas
- ed media (PDF, HTML, etc.) are not neces
- sarily released at the same time. For co
- mplete and up-to-date information see he
- re: http://kappa.oecd.org/v3/search?term
- =9789264309944-en.
-DTSTAMP:20190213T151831Z
+ port: Wednesday, 13 February 2019, 23:40
+  (GMT)\nFreepreview export: Friday, 8 Fe
+ bruary 2019, 20:23 (GMT)\nFTI loaded: ✓\
+ n\nFor more information see: https://git
+ hub.com/oecd/embargo-calendar/blob/maste
+ r/embargoes-by-publication.md.\n\nPlease
+  note: This information was correct as o
+ f this morning at 6:07, it is updated ea
+ ch night; therefore any subsequent updat
+ es may not yet be visible here. Also, pl
+ ease be aware that the different release
+ d media (PDF, HTML, etc.) are not necess
+ arily released at the same time. For com
+ plete and up-to-date information see her
+ e: http://kappa.oecd.org/v3/search?term=
+ 9789264309944-en.
+DTSTAMP:20190214T060720Z
 DTSTART:20190214T100000Z
 DTEND:20190214T101500Z
 TRANSP:TRANSPARENT
@@ -540,7 +447,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264310001-end3e2306
+UID:10.1787/9789264310001-end3e2302
 SUMMARY:Making Dispute Resolution More Effective
   - MAP Peer Review Report, Greece (Stage
   1) - Inclusive Framework on BEPS: Actio
@@ -556,23 +463,23 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ime: Thursday, 14 February 2019, 10:00 (
  GMT)\nLaunch date/time: Thursday, 14 Feb
  ruary 2019, 10:00 (GMT)\n\niLibrary expo
- rt: Tuesday, 12 February 2019, 23:21 (GM
- T)\nFreepreview export: Friday, 8 Februa
- ry 2019, 20:23 (GMT)\nFTI loaded: ✓\n\nF
- or more information see: https://github.
- com/oecd/embargo-calendar/blob/master/em
- bargoes-by-publication.md.\n\nPlease not
- e: This information was correct as of th
- is afternoon at 15:18, it is updated eac
- h night; therefore any subsequent update
- s may not yet be visible here. Also, ple
- ase be aware that the different released
-  media (PDF, HTML, etc.) are not necessa
- rily released at the same time. For comp
- lete and up-to-date information see here
- : http://kappa.oecd.org/v3/search?term=9
- 789264310001-en.
-DTSTAMP:20190213T151831Z
+ rt: Wednesday, 13 February 2019, 23:40 (
+ GMT)\nFreepreview export: Friday, 8 Febr
+ uary 2019, 20:23 (GMT)\nFTI loaded: ✓\n\
+ nFor more information see: https://githu
+ b.com/oecd/embargo-calendar/blob/master/
+ embargoes-by-publication.md.\n\nPlease n
+ ote: This information was correct as of 
+ this morning at 6:07, it is updated each
+  night; therefore any subsequent updates
+  may not yet be visible here. Also, plea
+ se be aware that the different released 
+ media (PDF, HTML, etc.) are not necessar
+ ily released at the same time. For compl
+ ete and up-to-date information see here:
+  http://kappa.oecd.org/v3/search?term=97
+ 89264310001-en.
+DTSTAMP:20190214T060720Z
 DTSTART:20190214T100000Z
 DTEND:20190214T101500Z
 TRANSP:TRANSPARENT
@@ -588,7 +495,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311053-end3e2356
+UID:10.1787/9789264311053-end3e2352
 SUMMARY:Rethinking Innovation for a Sustainable 
  Ocean Economy
 DESCRIPTION:*Rethinking Innovation for a Sustainable
@@ -607,17 +514,17 @@ DESCRIPTION:*Rethinking Innovation for a Sustainable
  ore information see: https://github.com/
  oecd/embargo-calendar/blob/master/embarg
  oes-by-publication.md.\n\nPlease note: T
- his information was correct as of this a
- fternoon at 15:18, it is updated each ni
- ght; therefore any subsequent updates ma
- y not yet be visible here. Also, please 
- be aware that the different released med
- ia (PDF, HTML, etc.) are not necessarily
-  released at the same time. For complete
-  and up-to-date information see here: ht
- tp://kappa.oecd.org/v3/search?term=97892
- 64311053-en.
-DTSTAMP:20190213T151831Z
+ his information was correct as of this m
+ orning at 6:07, it is updated each night
+ ; therefore any subsequent updates may n
+ ot yet be visible here. Also, please be 
+ aware that the different released media 
+ (PDF, HTML, etc.) are not necessarily re
+ leased at the same time. For complete an
+ d up-to-date information see here: http:
+ //kappa.oecd.org/v3/search?term=97892643
+ 11053-en.
+DTSTAMP:20190214T060720Z
 DTSTART:20190214T100000Z
 DTEND:20190214T101500Z
 TRANSP:TRANSPARENT
@@ -631,7 +538,55 @@ DESCRIPTION:Reminder: Rethinking Innovation for a Su
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264309883-end3e2499
+UID:10.1787/9789264309982-end3e2401
+SUMMARY:Making Dispute Resolution More Effective
+  - MAP Peer Review Report, Hungary (Stag
+ e 1) - Inclusive Framework on BEPS: Acti
+ on 14
+DESCRIPTION:*Making Dispute Resolution More Effectiv
+ e - MAP Peer Review Report, Hungary (Sta
+ ge 1) - Inclusive Framework on BEPS: Act
+ ion 14*\n\nDirectorate: Centre for Tax P
+ olicy and Administration\nLanguage: Engl
+ ish\nDOI: https://doi.org/10.1787/978926
+ 4309982-en\nPublication type: Book\nRele
+ ased as: Paperback, PDF\n\nEmbargo date/
+ time: Thursday, 14 February 2019, 10:00 
+ (GMT)\nLaunch date/time: Thursday, 14 Fe
+ bruary 2019, 10:00 (GMT)\n\niLibrary exp
+ ort: Wednesday, 13 February 2019, 23:40 
+ (GMT)\nFreepreview export: Wednesday, 13
+  February 2019, 20:55 (GMT)\nFTI loaded:
+  ✓\n\nFor more information see: https://
+ github.com/oecd/embargo-calendar/blob/ma
+ ster/embargoes-by-publication.md.\n\nPle
+ ase note: This information was correct a
+ s of this morning at 6:07, it is updated
+  each night; therefore any subsequent up
+ dates may not yet be visible here. Also,
+  please be aware that the different rele
+ ased media (PDF, HTML, etc.) are not nec
+ essarily released at the same time. For 
+ complete and up-to-date information see 
+ here: http://kappa.oecd.org/v3/search?te
+ rm=9789264309982-en.
+DTSTAMP:20190214T060720Z
+DTSTART:20190214T100000Z
+DTEND:20190214T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective - MAP Peer Review Report, Hun
+ gary (Stage 1) - Inclusive Framework on 
+ BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9789264309883-end3e2498
 SUMMARY:Making Dispute Resolution More Effective
   - MAP Peer Review Report, Romania (Stag
  e 1) - Inclusive Framework on BEPS: Acti
@@ -647,23 +602,23 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  time: Thursday, 14 February 2019, 10:00 
  (GMT)\nLaunch date/time: Thursday, 14 Fe
  bruary 2019, 10:00 (GMT)\n\niLibrary exp
- ort: Tuesday, 12 February 2019, 23:21 (G
- MT)\nFreepreview export: Friday, 8 Febru
- ary 2019, 20:23 (GMT)\nFTI loaded: ✓\n\n
- For more information see: https://github
- .com/oecd/embargo-calendar/blob/master/e
- mbargoes-by-publication.md.\n\nPlease no
- te: This information was correct as of t
- his afternoon at 15:18, it is updated ea
- ch night; therefore any subsequent updat
- es may not yet be visible here. Also, pl
- ease be aware that the different release
- d media (PDF, HTML, etc.) are not necess
- arily released at the same time. For com
- plete and up-to-date information see her
- e: http://kappa.oecd.org/v3/search?term=
- 9789264309883-en.
-DTSTAMP:20190213T151831Z
+ ort: Wednesday, 13 February 2019, 23:40 
+ (GMT)\nFreepreview export: Friday, 8 Feb
+ ruary 2019, 20:23 (GMT)\nFTI loaded: ✓\n
+ \nFor more information see: https://gith
+ ub.com/oecd/embargo-calendar/blob/master
+ /embargoes-by-publication.md.\n\nPlease 
+ note: This information was correct as of
+  this morning at 6:07, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=9
+ 789264309883-en.
+DTSTAMP:20190214T060720Z
 DTSTART:20190214T100000Z
 DTEND:20190214T101500Z
 TRANSP:TRANSPARENT
@@ -679,7 +634,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3b63e61c-end3e2644
+UID:10.1787/3b63e61c-end3e2643
 SUMMARY:Income redistribution across OECD countr
  ies - Main findings and policy implicati
  ons
@@ -698,16 +653,16 @@ DESCRIPTION:*Income redistribution across OECD count
  /oecd/embargo-calendar/blob/master/embar
  goes-by-publication.md.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 15:18, it is updated each n
- ight; therefore any subsequent updates m
- ay not yet be visible here. Also, please
-  be aware that the different released me
- dia (PDF, HTML, etc.) are not necessaril
- y released at the same time. For complet
- e and up-to-date information see here: h
- ttp://kappa.oecd.org/v3/search?term=3b63
- e61c-en.
-DTSTAMP:20190213T151831Z
+ morning at 6:07, it is updated each nigh
+ t; therefore any subsequent updates may 
+ not yet be visible here. Also, please be
+  aware that the different released media
+  (PDF, HTML, etc.) are not necessarily r
+ eleased at the same time. For complete a
+ nd up-to-date information see here: http
+ ://kappa.oecd.org/v3/search?term=3b63e61
+ c-en.
+DTSTAMP:20190214T060720Z
 DTSTART:20190214T100000Z
 DTEND:20190214T101500Z
 TRANSP:TRANSPARENT
@@ -722,7 +677,7 @@ DESCRIPTION:Reminder: Income redistribution across O
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264312388-end3e2740
+UID:10.1787/9789264312388-end3e2692
 SUMMARY:Prevention of Treaty Abuse - Peer Review
   Report on Treaty Shopping - Inclusive F
  ramework on BEPS: Action 6
@@ -742,16 +697,16 @@ DESCRIPTION:*Prevention of Treaty Abuse - Peer Revie
  ub.com/oecd/embargo-calendar/blob/master
  /embargoes-by-publication.md.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 15:18, it is updated 
- each night; therefore any subsequent upd
- ates may not yet be visible here. Also, 
- please be aware that the different relea
- sed media (PDF, HTML, etc.) are not nece
- ssarily released at the same time. For c
- omplete and up-to-date information see h
- ere: http://kappa.oecd.org/v3/search?ter
- m=9789264312388-en.
-DTSTAMP:20190213T151831Z
+  this morning at 6:07, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=9
+ 789264312388-en.
+DTSTAMP:20190214T060720Z
 DTSTART:20190214T100000Z
 DTEND:20190214T101500Z
 TRANSP:TRANSPARENT
@@ -766,7 +721,55 @@ DESCRIPTION:Reminder: Prevention of Treaty Abuse - P
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264312401-frd3e2789
+UID:10.1787/9789264309968-end3e2741
+SUMMARY:Making Dispute Resolution More Effective
+  - MAP Peer Review Report, Iceland (Stag
+ e 1) - Inclusive Framework on BEPS: Acti
+ on 14
+DESCRIPTION:*Making Dispute Resolution More Effectiv
+ e - MAP Peer Review Report, Iceland (Sta
+ ge 1) - Inclusive Framework on BEPS: Act
+ ion 14*\n\nDirectorate: Centre for Tax P
+ olicy and Administration\nLanguage: Engl
+ ish\nDOI: https://doi.org/10.1787/978926
+ 4309968-en\nPublication type: Book\nRele
+ ased as: Paperback, PDF\n\nEmbargo date/
+ time: Thursday, 14 February 2019, 10:00 
+ (GMT)\nLaunch date/time: Thursday, 14 Fe
+ bruary 2019, 10:00 (GMT)\n\niLibrary exp
+ ort: Wednesday, 13 February 2019, 23:40 
+ (GMT)\nFreepreview export: Wednesday, 13
+  February 2019, 20:55 (GMT)\nFTI loaded:
+  ✓\n\nFor more information see: https://
+ github.com/oecd/embargo-calendar/blob/ma
+ ster/embargoes-by-publication.md.\n\nPle
+ ase note: This information was correct a
+ s of this morning at 6:07, it is updated
+  each night; therefore any subsequent up
+ dates may not yet be visible here. Also,
+  please be aware that the different rele
+ ased media (PDF, HTML, etc.) are not nec
+ essarily released at the same time. For 
+ complete and up-to-date information see 
+ here: http://kappa.oecd.org/v3/search?te
+ rm=9789264309968-en.
+DTSTAMP:20190214T060720Z
+DTSTART:20190214T100000Z
+DTEND:20190214T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective - MAP Peer Review Report, Ice
+ land (Stage 1) - Inclusive Framework on 
+ BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9789264312401-frd3e2791
 SUMMARY:Prévention de l'utilisation abusive des 
  conventions - Rapport d'examen par les p
  airs sur le chalandage fiscal - Cadre in
@@ -788,16 +791,16 @@ DESCRIPTION:*Prévention de l'utilisation abusive des
  thub.com/oecd/embargo-calendar/blob/mast
  er/embargoes-by-publication.md.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 15:18, it is update
- d each night; therefore any subsequent u
- pdates may not yet be visible here. Also
- , please be aware that the different rel
- eased media (PDF, HTML, etc.) are not ne
- cessarily released at the same time. For
-  complete and up-to-date information see
-  here: http://kappa.oecd.org/v3/search?t
- erm=9789264312401-fr.
-DTSTAMP:20190213T151831Z
+ of this morning at 6:07, it is updated e
+ ach night; therefore any subsequent upda
+ tes may not yet be visible here. Also, p
+ lease be aware that the different releas
+ ed media (PDF, HTML, etc.) are not neces
+ sarily released at the same time. For co
+ mplete and up-to-date information see he
+ re: http://kappa.oecd.org/v3/search?term
+ =9789264312401-fr.
+DTSTAMP:20190214T060720Z
 DTSTART:20190214T100000Z
 DTEND:20190214T101500Z
 TRANSP:TRANSPARENT
@@ -813,55 +816,7 @@ DESCRIPTION:Reminder: Prévention de l'utilisation ab
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264309982-end3e2839
-SUMMARY:Making Dispute Resolution More Effective
-  - MAP Peer Review Report, Hungary (Stag
- e 1) - Inclusive Framework on BEPS: Acti
- on 14
-DESCRIPTION:*Making Dispute Resolution More Effectiv
- e - MAP Peer Review Report, Hungary (Sta
- ge 1) - Inclusive Framework on BEPS: Act
- ion 14*\n\nDirectorate: Centre for Tax P
- olicy and Administration\nLanguage: Engl
- ish\nDOI: https://doi.org/10.1787/978926
- 4309982-en\nPublication type: Book\nRele
- ased as: Paperback, PDF\n\nEmbargo date/
- time: Thursday, 14 February 2019, 10:00 
- (GMT)\nLaunch date/time: Thursday, 14 Fe
- bruary 2019, 10:00 (GMT)\n\niLibrary exp
- ort: Tuesday, 12 February 2019, 23:21 (G
- MT)\nFreepreview export: Monday, 11 Febr
- uary 2019, 20:47 (GMT)\nFTI loaded: ✓\n\
- nFor more information see: https://githu
- b.com/oecd/embargo-calendar/blob/master/
- embargoes-by-publication.md.\n\nPlease n
- ote: This information was correct as of 
- this afternoon at 15:18, it is updated e
- ach night; therefore any subsequent upda
- tes may not yet be visible here. Also, p
- lease be aware that the different releas
- ed media (PDF, HTML, etc.) are not neces
- sarily released at the same time. For co
- mplete and up-to-date information see he
- re: http://kappa.oecd.org/v3/search?term
- =9789264309982-en.
-DTSTAMP:20190213T151831Z
-DTSTART:20190214T100000Z
-DTEND:20190214T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Making Dispute Resolution More
-  Effective - MAP Peer Review Report, Hun
- gary (Stage 1) - Inclusive Framework on 
- BEPS: Action 14
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/9789264307674-end3e3031
+UID:10.1787/9789264307674-end3e3080
 SUMMARY:Multi-dimensional Review of Thailand (Vo
  lume 2) - In-depth Analysis and Recommen
  dations
@@ -875,22 +830,23 @@ DESCRIPTION:*Multi-dimensional Review of Thailand (V
  ursday, 14 February 2019, 17:00 (GMT)\nL
  aunch date/time: Thursday, 14 February 2
  019, 17:00 (GMT)\n\niLibrary export: Wed
- nesday, 6 February 2019, 22:53 (GMT)\nFr
- eepreview export: never\nFTI loaded: ✓\n
- \nFor more information see: https://gith
- ub.com/oecd/embargo-calendar/blob/master
- /embargoes-by-publication.md.\n\nPlease 
- note: This information was correct as of
-  this afternoon at 15:18, it is updated 
- each night; therefore any subsequent upd
- ates may not yet be visible here. Also, 
- please be aware that the different relea
- sed media (PDF, HTML, etc.) are not nece
- ssarily released at the same time. For c
- omplete and up-to-date information see h
- ere: http://kappa.oecd.org/v3/search?ter
- m=9789264307674-en.
-DTSTAMP:20190213T151831Z
+ nesday, 13 February 2019, 23:40 (GMT)\nF
+ reepreview export: Wednesday, 13 Februar
+ y 2019, 20:55 (GMT)\nFTI loaded: ✓\n\nFo
+ r more information see: https://github.c
+ om/oecd/embargo-calendar/blob/master/emb
+ argoes-by-publication.md.\n\nPlease note
+ : This information was correct as of thi
+ s morning at 6:07, it is updated each ni
+ ght; therefore any subsequent updates ma
+ y not yet be visible here. Also, please 
+ be aware that the different released med
+ ia (PDF, HTML, etc.) are not necessarily
+  released at the same time. For complete
+  and up-to-date information see here: ht
+ tp://kappa.oecd.org/v3/search?term=97892
+ 64307674-en.
+DTSTAMP:20190214T060720Z
 DTSTART:20190214T170000Z
 DTEND:20190214T171500Z
 TRANSP:TRANSPARENT
@@ -905,7 +861,7 @@ DESCRIPTION:Reminder: Multi-dimensional Review of Th
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/eco_surveys-prt-2019-end3e3178
+UID:10.1787/eco_surveys-prt-2019-end3e3131
 SUMMARY:OECD Economic Surveys: Portugal 2019
 DESCRIPTION:*OECD Economic Surveys: Portugal 2019*\n
  \nDirectorate: Economics Department\nLan
@@ -921,17 +877,17 @@ DESCRIPTION:*OECD Economic Surveys: Portugal 2019*\n
  re information see: https://github.com/o
  ecd/embargo-calendar/blob/master/embargo
  es-by-publication.md.\n\nPlease note: Th
- is information was correct as of this af
- ternoon at 15:18, it is updated each nig
- ht; therefore any subsequent updates may
-  not yet be visible here. Also, please b
- e aware that the different released medi
- a (PDF, HTML, etc.) are not necessarily 
- released at the same time. For complete 
- and up-to-date information see here: htt
- p://kappa.oecd.org/v3/search?term=eco_su
- rveys-prt-2019-en.
-DTSTAMP:20190213T151831Z
+ is information was correct as of this mo
+ rning at 6:07, it is updated each night;
+  therefore any subsequent updates may no
+ t yet be visible here. Also, please be a
+ ware that the different released media (
+ PDF, HTML, etc.) are not necessarily rel
+ eased at the same time. For complete and
+  up-to-date information see here: http:/
+ /kappa.oecd.org/v3/search?term=eco_surve
+ ys-prt-2019-en.
+DTSTAMP:20190214T060720Z
 DTSTART:20190218T100000Z
 DTEND:20190218T101500Z
 TRANSP:TRANSPARENT
@@ -945,7 +901,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Portuga
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9783763960231-ded3e3271
+UID:10.1787/9783763960231-ded3e3224
 SUMMARY:Weltklasse - Schule für das 21. Jahrhund
  ert gestalten
 DESCRIPTION:*Weltklasse - Schule für das 21. Jahrhun
@@ -962,16 +918,16 @@ DESCRIPTION:*Weltklasse - Schule für das 21. Jahrhun
   https://github.com/oecd/embargo-calenda
  r/blob/master/embargoes-by-publication.m
  d.\n\nPlease note: This information was 
- correct as of this afternoon at 15:18, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=9783763960231-de.
-DTSTAMP:20190213T151831Z
+ correct as of this morning at 6:07, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=9783763960231-de.
+DTSTAMP:20190214T060720Z
 DTSTART:20190218T230000Z
 DTEND:20190218T231500Z
 TRANSP:TRANSPARENT
@@ -985,7 +941,7 @@ DESCRIPTION:Reminder: Weltklasse - Schule für das 21
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264309753-end3e3320
+UID:10.1787/9789264309753-end3e3273
 SUMMARY:OECD Environmental Performance Reviews: 
  Turkey 2019
 DESCRIPTION:*OECD Environmental Performance Reviews:
@@ -1003,16 +959,16 @@ DESCRIPTION:*OECD Environmental Performance Reviews:
  github.com/oecd/embargo-calendar/blob/ma
  ster/embargoes-by-publication.md.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 15:18, it is upda
- ted each night; therefore any subsequent
-  updates may not yet be visible here. Al
- so, please be aware that the different r
- eleased media (PDF, HTML, etc.) are not 
- necessarily released at the same time. F
- or complete and up-to-date information s
- ee here: http://kappa.oecd.org/v3/search
- ?term=9789264309753-en.
-DTSTAMP:20190213T151831Z
+ s of this morning at 6:07, it is updated
+  each night; therefore any subsequent up
+ dates may not yet be visible here. Also,
+  please be aware that the different rele
+ ased media (PDF, HTML, etc.) are not nec
+ essarily released at the same time. For 
+ complete and up-to-date information see 
+ here: http://kappa.oecd.org/v3/search?te
+ rm=9789264309753-en.
+DTSTAMP:20190214T060720Z
 DTSTART:20190219T070000Z
 DTEND:20190219T071500Z
 TRANSP:TRANSPARENT
@@ -1026,7 +982,7 @@ DESCRIPTION:Reminder: OECD Environmental Performance
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311800-end3e3507
+UID:10.1787/9789264311800-end3e3460
 SUMMARY:How's Life in the Digital Age? - Opportu
  nities and Risks of the Digital Transfor
  mation for People's Well-being
@@ -1041,22 +997,22 @@ DESCRIPTION:*How's Life in the Digital Age? - Opport
  uesday, 26 February 2019, 10:00 (GMT)\nL
  aunch date/time: Tuesday, 26 February 20
  19, 10:00 (GMT)\n\niLibrary export: Wedn
- esday, 6 February 2019, 22:53 (GMT)\nFre
- epreview export: never\nFTI loaded: ✗\n\
- nFor more information see: https://githu
- b.com/oecd/embargo-calendar/blob/master/
- embargoes-by-publication.md.\n\nPlease n
- ote: This information was correct as of 
- this afternoon at 15:18, it is updated e
- ach night; therefore any subsequent upda
- tes may not yet be visible here. Also, p
- lease be aware that the different releas
- ed media (PDF, HTML, etc.) are not neces
- sarily released at the same time. For co
- mplete and up-to-date information see he
- re: http://kappa.oecd.org/v3/search?term
- =9789264311800-en.
-DTSTAMP:20190213T151831Z
+ esday, 13 February 2019, 23:40 (GMT)\nFr
+ eepreview export: never\nFTI loaded: ✗\n
+ \nFor more information see: https://gith
+ ub.com/oecd/embargo-calendar/blob/master
+ /embargoes-by-publication.md.\n\nPlease 
+ note: This information was correct as of
+  this morning at 6:07, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=9
+ 789264311800-en.
+DTSTAMP:20190214T060720Z
 DTSTART:20190226T100000Z
 DTEND:20190226T101500Z
 TRANSP:TRANSPARENT
@@ -1071,7 +1027,7 @@ DESCRIPTION:Reminder: How's Life in the Digital Age?
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311992-end3e3740
+UID:10.1787/9789264311992-end3e3693
 SUMMARY:Measuring the Digital Transformation
 DESCRIPTION:*Measuring the Digital Transformation*\n
  \nDirectorate: Directorate for Science, 
@@ -1088,17 +1044,16 @@ DESCRIPTION:*Measuring the Digital Transformation*\n
  ation see: https://github.com/oecd/embar
  go-calendar/blob/master/embargoes-by-pub
  lication.md.\n\nPlease note: This inform
- ation was correct as of this afternoon a
- t 15:18, it is updated each night; there
- fore any subsequent updates may not yet 
- be visible here. Also, please be aware t
- hat the different released media (PDF, H
- TML, etc.) are not necessarily released 
- at the same time. For complete and up-to
- -date information see here: http://kappa
- .oecd.org/v3/search?term=9789264311992-e
- n.
-DTSTAMP:20190213T151831Z
+ ation was correct as of this morning at 
+ 6:07, it is updated each night; therefor
+ e any subsequent updates may not yet be 
+ visible here. Also, please be aware that
+  the different released media (PDF, HTML
+ , etc.) are not necessarily released at 
+ the same time. For complete and up-to-da
+ te information see here: http://kappa.oe
+ cd.org/v3/search?term=9789264311992-en.
+DTSTAMP:20190214T060720Z
 DTSTART:20190311T080000Z
 DTEND:20190311T081500Z
 TRANSP:TRANSPARENT
@@ -1112,7 +1067,7 @@ DESCRIPTION:Reminder: Measuring the Digital Transfor
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264312012-end3e3877
+UID:10.1787/9789264312012-end3e3830
 SUMMARY:Going Digital: Shaping Policies, Improvi
  ng Lives
 DESCRIPTION:*Going Digital: Shaping Policies, Improv
@@ -1131,16 +1086,16 @@ DESCRIPTION:*Going Digital: Shaping Policies, Improv
  m/oecd/embargo-calendar/blob/master/emba
  rgoes-by-publication.md.\n\nPlease note:
   This information was correct as of this
-  afternoon at 15:18, it is updated each 
- night; therefore any subsequent updates 
- may not yet be visible here. Also, pleas
- e be aware that the different released m
- edia (PDF, HTML, etc.) are not necessari
- ly released at the same time. For comple
- te and up-to-date information see here: 
- http://kappa.oecd.org/v3/search?term=978
- 9264312012-en.
-DTSTAMP:20190213T151831Z
+  morning at 6:07, it is updated each nig
+ ht; therefore any subsequent updates may
+  not yet be visible here. Also, please b
+ e aware that the different released medi
+ a (PDF, HTML, etc.) are not necessarily 
+ released at the same time. For complete 
+ and up-to-date information see here: htt
+ p://kappa.oecd.org/v3/search?term=978926
+ 4312012-en.
+DTSTAMP:20190214T060720Z
 DTSTART:20190311T080000Z
 DTEND:20190311T081500Z
 TRANSP:TRANSPARENT
@@ -1154,7 +1109,7 @@ DESCRIPTION:Reminder: Going Digital: Shaping Policie
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311879-esd3e4016
+UID:10.1787/9789264311879-esd3e3970
 SUMMARY:Políticas Agrícolas en Argentina
 DESCRIPTION:*Políticas Agrícolas en Argentina*\n\nDi
  rectorate: Trade and Agriculture Directo
@@ -1163,22 +1118,22 @@ DESCRIPTION:*Políticas Agrícolas en Argentina*\n\nDi
  ion type: Book\nReleased as: Paperback, 
  PDF\n\nEmbargo date/time: Thursday, 14 M
  arch 2019, 18:00 (GMT)\n\n\niLibrary exp
- ort: Thursday, 7 February 2019, 23:00 (G
- MT)\nFreepreview export: never\nFTI load
- ed: ✗\n\nFor more information see: https
- ://github.com/oecd/embargo-calendar/blob
- /master/embargoes-by-publication.md.\n\n
- Please note: This information was correc
- t as of this afternoon at 15:18, it is u
- pdated each night; therefore any subsequ
- ent updates may not yet be visible here.
-  Also, please be aware that the differen
- t released media (PDF, HTML, etc.) are n
- ot necessarily released at the same time
- . For complete and up-to-date informatio
- n see here: http://kappa.oecd.org/v3/sea
- rch?term=9789264311879-es.
-DTSTAMP:20190213T151831Z
+ ort: Wednesday, 13 February 2019, 23:40 
+ (GMT)\nFreepreview export: never\nFTI lo
+ aded: ✗\n\nFor more information see: htt
+ ps://github.com/oecd/embargo-calendar/bl
+ ob/master/embargoes-by-publication.md.\n
+ \nPlease note: This information was corr
+ ect as of this morning at 6:07, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=9789264311879-es.
+DTSTAMP:20190214T060720Z
 DTSTART:20190314T180000Z
 DTEND:20190314T181500Z
 TRANSP:TRANSPARENT
@@ -1192,7 +1147,7 @@ DESCRIPTION:Reminder: Políticas Agrícolas en Argenti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311695-end3e4062
+UID:10.1787/9789264311695-end3e4016
 SUMMARY:Agricultural Policies in Argentina
 DESCRIPTION:*Agricultural Policies in Argentina*\n\n
  Directorate: Trade and Agriculture Direc
@@ -1201,22 +1156,22 @@ DESCRIPTION:*Agricultural Policies in Argentina*\n\n
  ation type: Book\nReleased as: Paperback
  , PDF\n\nEmbargo date/time: Thursday, 14
   March 2019, 18:00 (GMT)\n\n\niLibrary e
- xport: Thursday, 7 February 2019, 23:00 
- (GMT)\nFreepreview export: never\nFTI lo
- aded: ✗\n\nFor more information see: htt
- ps://github.com/oecd/embargo-calendar/bl
- ob/master/embargoes-by-publication.md.\n
- \nPlease note: This information was corr
- ect as of this afternoon at 15:18, it is
-  updated each night; therefore any subse
- quent updates may not yet be visible her
- e. Also, please be aware that the differ
- ent released media (PDF, HTML, etc.) are
-  not necessarily released at the same ti
- me. For complete and up-to-date informat
- ion see here: http://kappa.oecd.org/v3/s
- earch?term=9789264311695-en.
-DTSTAMP:20190213T151831Z
+ xport: Wednesday, 13 February 2019, 23:4
+ 0 (GMT)\nFreepreview export: never\nFTI 
+ loaded: ✗\n\nFor more information see: h
+ ttps://github.com/oecd/embargo-calendar/
+ blob/master/embargoes-by-publication.md.
+ \n\nPlease note: This information was co
+ rrect as of this morning at 6:07, it is 
+ updated each night; therefore any subseq
+ uent updates may not yet be visible here
+ . Also, please be aware that the differe
+ nt released media (PDF, HTML, etc.) are 
+ not necessarily released at the same tim
+ e. For complete and up-to-date informati
+ on see here: http://kappa.oecd.org/v3/se
+ arch?term=9789264311695-en.
+DTSTAMP:20190214T060720Z
 DTSTART:20190314T180000Z
 DTEND:20190314T181500Z
 TRANSP:TRANSPARENT
