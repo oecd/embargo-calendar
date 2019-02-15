@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 14 February 2019 at 6:07* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 15 February 2019 at 5:52* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 February 2019](#12-february-2019)
 * [13 February 2019](#13-february-2019)
 * [14 February 2019](#14-february-2019)
 * [18 February 2019](#18-february-2019)
@@ -15,99 +14,7 @@ Data generated on | |
 
 ------
 
-# 12 February 2019
-
-## [Digitalisation and productivity: In search of the holy grail – Firm-level empirical evidence from EU countries](https://doi.org/10.1787/5080f4b6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 February 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 February 2019 at 0:21
-- [x] Exported to Keepeek Thursday 7 February 2019 at 21:38
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Digital Dividend: Policies to Harness the Productivity Potential of Digital Technologies](https://doi.org/10.1787/273176bc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 February 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 February 2019 at 0:21
-- [x] Exported to Keepeek Thursday 7 February 2019 at 21:38
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-------
-
 # 13 February 2019
-
-## [Making the most of tourism in Indonesia to promote sustainable regional development](https://doi.org/10.1787/c73325d9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 February 2019 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 February 2019 at 0:21
-- [x] Exported to Keepeek Friday 8 February 2019 at 21:23
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Raising more public revenue in Indonesia in a growth - and equity-friendly way](https://doi.org/10.1787/a487771f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 February 2019 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 February 2019 at 0:21
-- [x] Exported to Keepeek Friday 8 February 2019 at 21:23
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ## [Getting Skills Right: Future-Ready Adult Learning Systems](https://doi.org/10.1787/9789264311756-en)
 
@@ -188,7 +95,7 @@ Thursday 14 February 2019 at 10:00 | Thursday 14 February 2019 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 February 2019 at 0:40
+- [x] Exported to iLibrary Thursday 14 February 2019 at 23:50
 - [x] Exported to Keepeek Friday 8 February 2019 at 21:23
 
 ### Additional Information
@@ -210,7 +117,7 @@ Thursday 14 February 2019 at 10:00 | Thursday 14 February 2019 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 February 2019 at 0:40
+- [x] Exported to iLibrary Thursday 14 February 2019 at 23:50
 - [x] Exported to Keepeek Friday 8 February 2019 at 21:23
 
 ### Additional Information
@@ -232,7 +139,7 @@ Thursday 14 February 2019 at 10:00 | Thursday 14 February 2019 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 February 2019 at 0:40
+- [x] Exported to iLibrary Thursday 14 February 2019 at 23:50
 - [x] Exported to Keepeek Friday 8 February 2019 at 21:23
 
 ### Additional Information
@@ -254,7 +161,7 @@ Thursday 14 February 2019 at 10:00 | Thursday 14 February 2019 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 February 2019 at 0:40
+- [x] Exported to iLibrary Thursday 14 February 2019 at 23:50
 - [x] Exported to Keepeek Friday 8 February 2019 at 21:23
 
 ### Additional Information
@@ -298,7 +205,7 @@ Thursday 14 February 2019 at 10:00 | Thursday 14 February 2019 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 February 2019 at 0:40
+- [x] Exported to iLibrary Thursday 14 February 2019 at 23:50
 - [x] Exported to Keepeek Wednesday 13 February 2019 at 21:55
 
 ### Additional Information
@@ -320,7 +227,7 @@ Thursday 14 February 2019 at 10:00 | Thursday 14 February 2019 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 February 2019 at 0:40
+- [x] Exported to iLibrary Thursday 14 February 2019 at 23:50
 - [x] Exported to Keepeek Friday 8 February 2019 at 21:23
 
 ### Additional Information
@@ -386,7 +293,7 @@ Thursday 14 February 2019 at 10:00 | Thursday 14 February 2019 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 February 2019 at 0:40
+- [x] Exported to iLibrary Thursday 14 February 2019 at 23:50
 - [x] Exported to Keepeek Wednesday 13 February 2019 at 21:55
 
 ### Additional Information
@@ -431,7 +338,7 @@ Thursday 14 February 2019 at 17:00 | Thursday 14 February 2019 at 17:00
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 February 2019 at 0:40
-- [x] Exported to Keepeek Wednesday 13 February 2019 at 21:55
+- [x] Exported to Keepeek Thursday 14 February 2019 at 21:31
 
 ### Additional Information
 
@@ -451,12 +358,12 @@ Thursday 14 February 2019 at 17:00 | Thursday 14 February 2019 at 17:00
 
 Embargo date | Launch date
 -------------|------------
-Monday 18 February 2019 at 10:00 | Monday 18 February 2019 at 10:00
+Monday 18 February 2019 at 10:30 | Monday 18 February 2019 at 10:30
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 13 February 2019 at 0:21
+- [x] Exported to iLibrary Thursday 14 February 2019 at 23:50
 - [ ] Exported to Keepeek
 
 ### Additional Information
