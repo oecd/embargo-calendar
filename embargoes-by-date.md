@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 15 February 2019 at 5:52* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Saturday 16 February 2019 at 6:20* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [13 February 2019](#13-february-2019)
 * [14 February 2019](#14-february-2019)
 * [18 February 2019](#18-february-2019)
 * [19 February 2019](#19-february-2019)
@@ -14,55 +13,7 @@ Data generated on | |
 
 ------
 
-# 13 February 2019
-
-## [Getting Skills Right: Future-Ready Adult Learning Systems](https://doi.org/10.1787/9789264311756-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 13 February 2019 at 10:00 | Wednesday 13 February 2019 at 10:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 February 2019 at 23:53
-- [x] Exported to Keepeek Wednesday 13 February 2019 at 21:55
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-------
-
 # 14 February 2019
-
-## [State-owned firms behind China’s corporate debt](https://doi.org/10.1787/7c66570e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 February 2019 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 February 2019 at 0:21
-- [x] Exported to Keepeek Monday 11 February 2019 at 21:47
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ## [Making Dispute Resolution More Effective - MAP Peer Review Report, Estonia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9789264310742-en)
 
@@ -95,7 +46,7 @@ Thursday 14 February 2019 at 10:00 | Thursday 14 February 2019 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 February 2019 at 23:50
+- [x] Exported to iLibrary Friday 15 February 2019 at 23:51
 - [x] Exported to Keepeek Friday 8 February 2019 at 21:23
 
 ### Additional Information
@@ -117,7 +68,7 @@ Thursday 14 February 2019 at 10:00 | Thursday 14 February 2019 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 February 2019 at 23:50
+- [x] Exported to iLibrary Friday 15 February 2019 at 23:51
 - [x] Exported to Keepeek Friday 8 February 2019 at 21:23
 
 ### Additional Information
@@ -161,7 +112,7 @@ Thursday 14 February 2019 at 10:00 | Thursday 14 February 2019 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 February 2019 at 23:50
+- [x] Exported to iLibrary Friday 15 February 2019 at 23:51
 - [x] Exported to Keepeek Friday 8 February 2019 at 21:23
 
 ### Additional Information
@@ -205,7 +156,7 @@ Thursday 14 February 2019 at 10:00 | Thursday 14 February 2019 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 February 2019 at 23:50
+- [x] Exported to iLibrary Friday 15 February 2019 at 23:51
 - [x] Exported to Keepeek Wednesday 13 February 2019 at 21:55
 
 ### Additional Information
@@ -227,7 +178,7 @@ Thursday 14 February 2019 at 10:00 | Thursday 14 February 2019 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 February 2019 at 23:50
+- [x] Exported to iLibrary Friday 15 February 2019 at 23:51
 - [x] Exported to Keepeek Friday 8 February 2019 at 21:23
 
 ### Additional Information
@@ -293,7 +244,7 @@ Thursday 14 February 2019 at 10:00 | Thursday 14 February 2019 at 10:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 February 2019 at 23:50
+- [x] Exported to iLibrary Friday 15 February 2019 at 23:51
 - [x] Exported to Keepeek Wednesday 13 February 2019 at 21:55
 
 ### Additional Information
@@ -362,15 +313,15 @@ Monday 18 February 2019 at 10:30 | Monday 18 February 2019 at 10:30
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 14 February 2019 at 23:50
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 15 February 2019 at 23:51
+- [x] Exported to Keepeek Friday 15 February 2019 at 21:28
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -410,15 +361,15 @@ Tuesday 19 February 2019 at 7:00 | Tuesday 19 February 2019 at 7:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 8 February 2019 at 0:00
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 15 February 2019 at 23:51
+- [x] Exported to Keepeek Friday 15 February 2019 at 21:28
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
