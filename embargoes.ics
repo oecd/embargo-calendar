@@ -20,7 +20,7 @@ DESCRIPTION:*OECD Economic Surveys: Portugal 2019*\n
  go-calendar/blob/master/embargoes-by-pub
  lication.md.\n\nPlease note: This inform
  ation was correct as of this morning at 
- 5:03, it is updated each night; therefor
+ 4:56, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -29,7 +29,7 @@ DESCRIPTION:*OECD Economic Surveys: Portugal 2019*\n
  te information see here: http://kappa.oe
  cd.org/v3/search?term=eco_surveys-prt-20
  19-en.
-DTSTAMP:20190219T050400Z
+DTSTAMP:20190220T045638Z
 DTSTART:20190218T103000Z
 DTEND:20190218T104500Z
 TRANSP:TRANSPARENT
@@ -60,7 +60,7 @@ DESCRIPTION:*Weltklasse: Schule für das 21. Jahrhund
  tps://github.com/oecd/embargo-calendar/b
  lob/master/embargoes-by-publication.md.\
  n\nPlease note: This information was cor
- rect as of this morning at 5:03, it is u
+ rect as of this morning at 4:56, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -69,7 +69,7 @@ DESCRIPTION:*Weltklasse: Schule für das 21. Jahrhund
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=9783763960231-de.
-DTSTAMP:20190219T050400Z
+DTSTAMP:20190220T045638Z
 DTSTART:20190218T230000Z
 DTEND:20190218T231500Z
 TRANSP:TRANSPARENT
@@ -102,7 +102,7 @@ DESCRIPTION:*OECD Environmental Performance Reviews:
  m/oecd/embargo-calendar/blob/master/emba
  rgoes-by-publication.md.\n\nPlease note:
   This information was correct as of this
-  morning at 5:03, it is updated each nig
+  morning at 4:56, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -111,7 +111,7 @@ DESCRIPTION:*OECD Environmental Performance Reviews:
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=978926
  4309753-en.
-DTSTAMP:20190219T050400Z
+DTSTAMP:20190220T045638Z
 DTSTART:20190219T070000Z
 DTEND:20190219T071500Z
 TRANSP:TRANSPARENT
@@ -125,7 +125,411 @@ DESCRIPTION:Reminder: OECD Environmental Performance
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311800-end3e7074
+UID:10.1787/eccc0b28-end3e3799
+SUMMARY:Job displacement in Australia - Evidence
+  from the HILDA survey
+DESCRIPTION:*Job displacement in Australia - Evidenc
+ e from the HILDA survey*\n\nDirectorate:
+  Economics Department\nLanguage: English
+ \nDOI: https://doi.org/10.1787/eccc0b28-
+ en\nPublication type: Working paper\nRel
+ eased as: PDF, PDF\n\nEmbargo date/time:
+  Thursday, 21 February 2019, 1:00 (GMT)\
+ n\n\niLibrary export: never\nFreepreview
+  export: never\nFTI loaded: ✓\n\nFor mor
+ e information see: https://github.com/oe
+ cd/embargo-calendar/blob/master/embargoe
+ s-by-publication.md.\n\nPlease note: Thi
+ s information was correct as of this mor
+ ning at 4:56, it is updated each night; 
+ therefore any subsequent updates may not
+  yet be visible here. Also, please be aw
+ are that the different released media (P
+ DF, HTML, etc.) are not necessarily rele
+ ased at the same time. For complete and 
+ up-to-date information see here: http://
+ kappa.oecd.org/v3/search?term=eccc0b28-e
+ n.
+DTSTAMP:20190220T045638Z
+DTSTART:20190221T010000Z
+DTEND:20190221T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Job displacement in Australia 
+ - Evidence from the HILDA survey
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/cab6789d-end3e3846
+SUMMARY:Income, wealth and earnings inequality i
+ n Australia - Evidence from the HILDA su
+ rvey
+DESCRIPTION:*Income, wealth and earnings inequality 
+ in Australia - Evidence from the HILDA s
+ urvey*\n\nDirectorate: Economics Departm
+ ent\nLanguage: English\nDOI: https://doi
+ .org/10.1787/cab6789d-en\nPublication ty
+ pe: Working paper\nReleased as: PDF, PDF
+ \n\nEmbargo date/time: Thursday, 21 Febr
+ uary 2019, 1:00 (GMT)\n\n\niLibrary expo
+ rt: Tuesday, 19 February 2019, 22:43 (GM
+ T)\nFreepreview export: Tuesday, 19 Febr
+ uary 2019, 20:13 (GMT)\nFTI loaded: ✓\n\
+ nFor more information see: https://githu
+ b.com/oecd/embargo-calendar/blob/master/
+ embargoes-by-publication.md.\n\nPlease n
+ ote: This information was correct as of 
+ this morning at 4:56, it is updated each
+  night; therefore any subsequent updates
+  may not yet be visible here. Also, plea
+ se be aware that the different released 
+ media (PDF, HTML, etc.) are not necessar
+ ily released at the same time. For compl
+ ete and up-to-date information see here:
+  http://kappa.oecd.org/v3/search?term=ca
+ b6789d-en.
+DTSTAMP:20190220T045638Z
+DTSTART:20190221T010000Z
+DTEND:20190221T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income, wealth and earnings in
+ equality in Australia - Evidence from th
+ e HILDA survey
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/eccc0b28-end3e3895
+SUMMARY:Job displacement in Australia - Evidence
+  from the HILDA survey
+DESCRIPTION:*Job displacement in Australia - Evidenc
+ e from the HILDA survey*\n\nDirectorate:
+  Economics Department\nLanguage: English
+ \nDOI: https://doi.org/10.1787/eccc0b28-
+ en\nPublication type: Working paper\nRel
+ eased as: PDF, PDF\n\nEmbargo date/time:
+  Thursday, 21 February 2019, 1:00 (GMT)\
+ n\n\niLibrary export: Tuesday, 19 Februa
+ ry 2019, 22:43 (GMT)\nFreepreview export
+ : Tuesday, 19 February 2019, 20:13 (GMT)
+ \nFTI loaded: ✓\n\nFor more information 
+ see: https://github.com/oecd/embargo-cal
+ endar/blob/master/embargoes-by-publicati
+ on.md.\n\nPlease note: This information 
+ was correct as of this morning at 4:56, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=eccc0b28-en.
+DTSTAMP:20190220T045638Z
+DTSTART:20190221T010000Z
+DTEND:20190221T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Job displacement in Australia 
+ - Evidence from the HILDA survey
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/322390bf-end3e3944
+SUMMARY:Income poverty in Australia - Evidence f
+ rom the HILDA survey
+DESCRIPTION:*Income poverty in Australia - Evidence 
+ from the HILDA survey*\n\nDirectorate: E
+ conomics Department\nLanguage: English\n
+ DOI: https://doi.org/10.1787/322390bf-en
+ \nPublication type: Working paper\nRelea
+ sed as: PDF, PDF\n\nEmbargo date/time: T
+ hursday, 21 February 2019, 1:00 (GMT)\n\
+ n\niLibrary export: never\nFreepreview e
+ xport: never\nFTI loaded: ✓\n\nFor more 
+ information see: https://github.com/oecd
+ /embargo-calendar/blob/master/embargoes-
+ by-publication.md.\n\nPlease note: This 
+ information was correct as of this morni
+ ng at 4:56, it is updated each night; th
+ erefore any subsequent updates may not y
+ et be visible here. Also, please be awar
+ e that the different released media (PDF
+ , HTML, etc.) are not necessarily releas
+ ed at the same time. For complete and up
+ -to-date information see here: http://ka
+ ppa.oecd.org/v3/search?term=322390bf-en.
+DTSTAMP:20190220T045638Z
+DTSTART:20190221T010000Z
+DTEND:20190221T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income poverty in Australia - 
+ Evidence from the HILDA survey
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/b21e518b-end3e3992
+SUMMARY:Labour share developments over the past 
+ two decades - The role of public policie
+ s
+DESCRIPTION:*Labour share developments over the past
+  two decades - The role of public polici
+ es*\n\nDirectorate: Economics Department
+ \nLanguage: English\nDOI: https://doi.or
+ g/10.1787/b21e518b-en\nPublication type:
+  Working paper\nReleased as: PDF, PDF\n\
+ nEmbargo date/time: Thursday, 21 Februar
+ y 2019, 1:00 (GMT)\n\n\niLibrary export:
+  Tuesday, 19 February 2019, 22:43 (GMT)\
+ nFreepreview export: Tuesday, 19 Februar
+ y 2019, 20:13 (GMT)\nFTI loaded: ✓\n\nFo
+ r more information see: https://github.c
+ om/oecd/embargo-calendar/blob/master/emb
+ argoes-by-publication.md.\n\nPlease note
+ : This information was correct as of thi
+ s morning at 4:56, it is updated each ni
+ ght; therefore any subsequent updates ma
+ y not yet be visible here. Also, please 
+ be aware that the different released med
+ ia (PDF, HTML, etc.) are not necessarily
+  released at the same time. For complete
+  and up-to-date information see here: ht
+ tp://kappa.oecd.org/v3/search?term=b21e5
+ 18b-en.
+DTSTAMP:20190220T045638Z
+DTSTART:20190221T010000Z
+DTEND:20190221T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Labour share developments over
+  the past two decades - The role of publ
+ ic policies
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/322390bf-end3e4041
+SUMMARY:Income poverty in Australia - Evidence f
+ rom the HILDA survey
+DESCRIPTION:*Income poverty in Australia - Evidence 
+ from the HILDA survey*\n\nDirectorate: E
+ conomics Department\nLanguage: English\n
+ DOI: https://doi.org/10.1787/322390bf-en
+ \nPublication type: Working paper\nRelea
+ sed as: PDF, PDF\n\nEmbargo date/time: T
+ hursday, 21 February 2019, 1:00 (GMT)\n\
+ n\niLibrary export: Tuesday, 19 February
+  2019, 22:43 (GMT)\nFreepreview export: 
+ Tuesday, 19 February 2019, 20:13 (GMT)\n
+ FTI loaded: ✓\n\nFor more information se
+ e: https://github.com/oecd/embargo-calen
+ dar/blob/master/embargoes-by-publication
+ .md.\n\nPlease note: This information wa
+ s correct as of this morning at 4:56, it
+  is updated each night; therefore any su
+ bsequent updates may not yet be visible 
+ here. Also, please be aware that the dif
+ ferent released media (PDF, HTML, etc.) 
+ are not necessarily released at the same
+  time. For complete and up-to-date infor
+ mation see here: http://kappa.oecd.org/v
+ 3/search?term=322390bf-en.
+DTSTAMP:20190220T045638Z
+DTSTART:20190221T010000Z
+DTEND:20190221T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income poverty in Australia - 
+ Evidence from the HILDA survey
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/b21e518b-end3e4090
+SUMMARY:Labour share developments over the past 
+ two decades - The role of public policie
+ s
+DESCRIPTION:*Labour share developments over the past
+  two decades - The role of public polici
+ es*\n\nDirectorate: Economics Department
+ \nLanguage: English\nDOI: https://doi.or
+ g/10.1787/b21e518b-en\nPublication type:
+  Working paper\nReleased as: PDF, PDF\n\
+ nEmbargo date/time: Thursday, 21 Februar
+ y 2019, 1:00 (GMT)\n\n\niLibrary export:
+  never\nFreepreview export: never\nFTI l
+ oaded: ✓\n\nFor more information see: ht
+ tps://github.com/oecd/embargo-calendar/b
+ lob/master/embargoes-by-publication.md.\
+ n\nPlease note: This information was cor
+ rect as of this morning at 4:56, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=b21e518b-en.
+DTSTAMP:20190220T045638Z
+DTSTART:20190221T010000Z
+DTEND:20190221T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Labour share developments over
+  the past two decades - The role of publ
+ ic policies
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/cab6789d-end3e4137
+SUMMARY:Income, wealth and earnings inequality i
+ n Australia - Evidence from the HILDA su
+ rvey
+DESCRIPTION:*Income, wealth and earnings inequality 
+ in Australia - Evidence from the HILDA s
+ urvey*\n\nDirectorate: Economics Departm
+ ent\nLanguage: English\nDOI: https://doi
+ .org/10.1787/cab6789d-en\nPublication ty
+ pe: Working paper\nReleased as: PDF, PDF
+ \n\nEmbargo date/time: Thursday, 21 Febr
+ uary 2019, 1:00 (GMT)\n\n\niLibrary expo
+ rt: never\nFreepreview export: never\nFT
+ I loaded: ✓\n\nFor more information see:
+  https://github.com/oecd/embargo-calenda
+ r/blob/master/embargoes-by-publication.m
+ d.\n\nPlease note: This information was 
+ correct as of this morning at 4:56, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=cab6789d-en.
+DTSTAMP:20190220T045638Z
+DTSTART:20190221T010000Z
+DTEND:20190221T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Income, wealth and earnings in
+ equality in Australia - Evidence from th
+ e HILDA survey
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/d36cddc4-end3e4184
+SUMMARY:Benefitting from globalisation and techn
+ ological change in Australia
+DESCRIPTION:*Benefitting from globalisation and tech
+ nological change in Australia*\n\nDirect
+ orate: Economics Department\nLanguage: E
+ nglish\nDOI: https://doi.org/10.1787/d36
+ cddc4-en\nPublication type: Working pape
+ r\nReleased as: PDF, PDF\n\nEmbargo date
+ /time: Thursday, 21 February 2019, 1:00 
+ (GMT)\n\n\niLibrary export: Tuesday, 19 
+ February 2019, 22:43 (GMT)\nFreepreview 
+ export: Tuesday, 19 February 2019, 20:13
+  (GMT)\nFTI loaded: ✓\n\nFor more inform
+ ation see: https://github.com/oecd/embar
+ go-calendar/blob/master/embargoes-by-pub
+ lication.md.\n\nPlease note: This inform
+ ation was correct as of this morning at 
+ 4:56, it is updated each night; therefor
+ e any subsequent updates may not yet be 
+ visible here. Also, please be aware that
+  the different released media (PDF, HTML
+ , etc.) are not necessarily released at 
+ the same time. For complete and up-to-da
+ te information see here: http://kappa.oe
+ cd.org/v3/search?term=d36cddc4-en.
+DTSTAMP:20190220T045638Z
+DTSTART:20190221T010000Z
+DTEND:20190221T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Benefitting from globalisation
+  and technological change in Australia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/d36cddc4-end3e4232
+SUMMARY:Benefitting from globalisation and techn
+ ological change in Australia
+DESCRIPTION:*Benefitting from globalisation and tech
+ nological change in Australia*\n\nDirect
+ orate: Economics Department\nLanguage: E
+ nglish\nDOI: https://doi.org/10.1787/d36
+ cddc4-en\nPublication type: Working pape
+ r\nReleased as: PDF, PDF\n\nEmbargo date
+ /time: Thursday, 21 February 2019, 1:00 
+ (GMT)\n\n\niLibrary export: never\nFreep
+ review export: never\nFTI loaded: ✓\n\nF
+ or more information see: https://github.
+ com/oecd/embargo-calendar/blob/master/em
+ bargoes-by-publication.md.\n\nPlease not
+ e: This information was correct as of th
+ is morning at 4:56, it is updated each n
+ ight; therefore any subsequent updates m
+ ay not yet be visible here. Also, please
+  be aware that the different released me
+ dia (PDF, HTML, etc.) are not necessaril
+ y released at the same time. For complet
+ e and up-to-date information see here: h
+ ttp://kappa.oecd.org/v3/search?term=d36c
+ ddc4-en.
+DTSTAMP:20190220T045638Z
+DTSTART:20190221T010000Z
+DTEND:20190221T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Benefitting from globalisation
+  and technological change in Australia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9789264311800-end3e9985
 SUMMARY:How's Life in the Digital Age? - Opportu
  nities and Risks of the Digital Transfor
  mation for People's Well-being
@@ -140,22 +544,23 @@ DESCRIPTION:*How's Life in the Digital Age? - Opport
  date/time: Tuesday, 26 February 2019, 10
  :00 (GMT)\nLaunch date/time: Tuesday, 26
   February 2019, 10:00 (GMT)\n\niLibrary 
- export: Monday, 18 February 2019, 22:54 
- (GMT)\nFreepreview export: never\nFTI lo
- aded: ✗\n\nFor more information see: htt
- ps://github.com/oecd/embargo-calendar/bl
- ob/master/embargoes-by-publication.md.\n
- \nPlease note: This information was corr
- ect as of this morning at 5:03, it is up
- dated each night; therefore any subseque
- nt updates may not yet be visible here. 
- Also, please be aware that the different
-  released media (PDF, HTML, etc.) are no
- t necessarily released at the same time.
-  For complete and up-to-date information
-  see here: http://kappa.oecd.org/v3/sear
- ch?term=9789264311800-en.
-DTSTAMP:20190219T050400Z
+ export: Tuesday, 19 February 2019, 22:43
+  (GMT)\nFreepreview export: Tuesday, 19 
+ February 2019, 20:13 (GMT)\nFTI loaded: 
+ ✓\n\nFor more information see: https://g
+ ithub.com/oecd/embargo-calendar/blob/mas
+ ter/embargoes-by-publication.md.\n\nPlea
+ se note: This information was correct as
+  of this morning at 4:56, it is updated 
+ each night; therefore any subsequent upd
+ ates may not yet be visible here. Also, 
+ please be aware that the different relea
+ sed media (PDF, HTML, etc.) are not nece
+ ssarily released at the same time. For c
+ omplete and up-to-date information see h
+ ere: http://kappa.oecd.org/v3/search?ter
+ m=9789264311800-en.
+DTSTAMP:20190220T045638Z
 DTSTART:20190226T100000Z
 DTEND:20190226T101500Z
 TRANSP:TRANSPARENT
@@ -170,7 +575,7 @@ DESCRIPTION:Reminder: How's Life in the Digital Age?
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264310506-end3e11416
+UID:10.1787/9789264310506-end3e12064
 SUMMARY:Driving Performance at Peru's Telecommun
  ications Regulator
 DESCRIPTION:*Driving Performance at Peru's Telecommu
@@ -188,7 +593,7 @@ DESCRIPTION:*Driving Performance at Peru's Telecommu
  //github.com/oecd/embargo-calendar/blob/
  master/embargoes-by-publication.md.\n\nP
  lease note: This information was correct
-  as of this morning at 5:03, it is updat
+  as of this morning at 4:56, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -197,7 +602,7 @@ DESCRIPTION:*Driving Performance at Peru's Telecommu
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=9789264310506-en.
-DTSTAMP:20190219T050400Z
+DTSTAMP:20190220T045638Z
 DTSTART:20190305T080000Z
 DTEND:20190305T081500Z
 TRANSP:TRANSPARENT
@@ -211,7 +616,7 @@ DESCRIPTION:Reminder: Driving Performance at Peru's
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264310612-esd3e11654
+UID:10.1787/9789264310612-esd3e12302
 SUMMARY:Impulsando el desempeño del Organismo Su
  pervisor de la Inversión Privada en Tele
  comunicaciones de Perú
@@ -231,7 +636,7 @@ DESCRIPTION:*Impulsando el desempeño del Organismo S
  tps://github.com/oecd/embargo-calendar/b
  lob/master/embargoes-by-publication.md.\
  n\nPlease note: This information was cor
- rect as of this morning at 5:03, it is u
+ rect as of this morning at 4:56, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -240,7 +645,7 @@ DESCRIPTION:*Impulsando el desempeño del Organismo S
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=9789264310612-es.
-DTSTAMP:20190219T050400Z
+DTSTAMP:20190220T045638Z
 DTSTART:20190305T080000Z
 DTEND:20190305T081500Z
 TRANSP:TRANSPARENT
@@ -255,7 +660,7 @@ DESCRIPTION:Reminder: Impulsando el desempeño del Or
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264312012-end3e11748
+UID:10.1787/9789264312012-end3e12395
 SUMMARY:Going Digital: Shaping Policies, Improvi
  ng Lives
 DESCRIPTION:*Going Digital: Shaping Policies, Improv
@@ -274,7 +679,7 @@ DESCRIPTION:*Going Digital: Shaping Policies, Improv
  m/oecd/embargo-calendar/blob/master/emba
  rgoes-by-publication.md.\n\nPlease note:
   This information was correct as of this
-  morning at 5:03, it is updated each nig
+  morning at 4:56, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -283,7 +688,7 @@ DESCRIPTION:*Going Digital: Shaping Policies, Improv
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=978926
  4312012-en.
-DTSTAMP:20190219T050400Z
+DTSTAMP:20190220T045638Z
 DTSTART:20190311T080000Z
 DTEND:20190311T081500Z
 TRANSP:TRANSPARENT
@@ -297,7 +702,7 @@ DESCRIPTION:Reminder: Going Digital: Shaping Policie
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311992-end3e11795
+UID:10.1787/9789264311992-end3e12442
 SUMMARY:Measuring the Digital Transformation
 DESCRIPTION:*Measuring the Digital Transformation*\n
  \nDirectorate: Directorate for Science, 
@@ -315,7 +720,7 @@ DESCRIPTION:*Measuring the Digital Transformation*\n
  go-calendar/blob/master/embargoes-by-pub
  lication.md.\n\nPlease note: This inform
  ation was correct as of this morning at 
- 5:03, it is updated each night; therefor
+ 4:56, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -323,7 +728,7 @@ DESCRIPTION:*Measuring the Digital Transformation*\n
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=9789264311992-en.
-DTSTAMP:20190219T050400Z
+DTSTAMP:20190220T045638Z
 DTSTART:20190311T080000Z
 DTEND:20190311T081500Z
 TRANSP:TRANSPARENT
@@ -337,7 +742,7 @@ DESCRIPTION:Reminder: Measuring the Digital Transfor
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311879-esd3e12161
+UID:10.1787/9789264311879-esd3e12809
 SUMMARY:Políticas Agrícolas en Argentina
 DESCRIPTION:*Políticas Agrícolas en Argentina*\n\nDi
  rectorate: Trade and Agriculture Directo
@@ -352,7 +757,7 @@ DESCRIPTION:*Políticas Agrícolas en Argentina*\n\nDi
  ps://github.com/oecd/embargo-calendar/bl
  ob/master/embargoes-by-publication.md.\n
  \nPlease note: This information was corr
- ect as of this morning at 5:03, it is up
+ ect as of this morning at 4:56, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -361,7 +766,7 @@ DESCRIPTION:*Políticas Agrícolas en Argentina*\n\nDi
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=9789264311879-es.
-DTSTAMP:20190219T050400Z
+DTSTAMP:20190220T045638Z
 DTSTART:20190314T180000Z
 DTEND:20190314T181500Z
 TRANSP:TRANSPARENT
@@ -375,7 +780,7 @@ DESCRIPTION:Reminder: Políticas Agrícolas en Argenti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311695-end3e12207
+UID:10.1787/9789264311695-end3e12855
 SUMMARY:Agricultural Policies in Argentina
 DESCRIPTION:*Agricultural Policies in Argentina*\n\n
  Directorate: Trade and Agriculture Direc
@@ -391,7 +796,7 @@ DESCRIPTION:*Agricultural Policies in Argentina*\n\n
  go-calendar/blob/master/embargoes-by-pub
  lication.md.\n\nPlease note: This inform
  ation was correct as of this morning at 
- 5:03, it is updated each night; therefor
+ 4:56, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -399,7 +804,7 @@ DESCRIPTION:*Agricultural Policies in Argentina*\n\n
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=9789264311695-en.
-DTSTAMP:20190219T050400Z
+DTSTAMP:20190220T045638Z
 DTSTART:20190314T180000Z
 DTEND:20190314T181500Z
 TRANSP:TRANSPARENT
@@ -413,7 +818,7 @@ DESCRIPTION:Reminder: Agricultural Policies in Argen
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/soc_aag-2019-end3e12345
+UID:10.1787/soc_aag-2019-end3e12992
 SUMMARY:Society at a Glance: Asia/Pacific 2019
 DESCRIPTION:*Society at a Glance: Asia/Pacific 2019*
  \n\nDirectorate: Directorate for Employm
@@ -430,7 +835,7 @@ DESCRIPTION:*Society at a Glance: Asia/Pacific 2019*
  hub.com/oecd/embargo-calendar/blob/maste
  r/embargoes-by-publication.md.\n\nPlease
   note: This information was correct as o
- f this morning at 5:03, it is updated ea
+ f this morning at 4:56, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -439,7 +844,7 @@ DESCRIPTION:*Society at a Glance: Asia/Pacific 2019*
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  soc_aag-2019-en.
-DTSTAMP:20190219T050400Z
+DTSTAMP:20190220T045638Z
 DTSTART:20190318T230100Z
 DTEND:20190318T231600Z
 TRANSP:TRANSPARENT
@@ -453,7 +858,7 @@ DESCRIPTION:Reminder: Society at a Glance: Asia/Paci
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/eco_surveys-chn-2019-end3e12439
+UID:10.1787/eco_surveys-chn-2019-end3e13087
 SUMMARY:OECD Economic Surveys: China 2019
 DESCRIPTION:*OECD Economic Surveys: China 2019*\n\nD
  irectorate: Economics Department\nLangua
@@ -469,8 +874,8 @@ DESCRIPTION:*OECD Economic Surveys: China 2019*\n\nD
  tion see: https://github.com/oecd/embarg
  o-calendar/blob/master/embargoes-by-publ
  ication.md.\n\nPlease note: This informa
- tion was correct as of this morning at 5
- :03, it is updated each night; therefore
+ tion was correct as of this morning at 4
+ :56, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -479,7 +884,7 @@ DESCRIPTION:*OECD Economic Surveys: China 2019*\n\nD
  e information see here: http://kappa.oec
  d.org/v3/search?term=eco_surveys-chn-201
  9-en.
-DTSTAMP:20190219T050400Z
+DTSTAMP:20190220T045638Z
 DTSTART:20190326T080000Z
 DTEND:20190326T081500Z
 TRANSP:TRANSPARENT
