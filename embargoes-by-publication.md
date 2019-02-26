@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 23 February 2019 at 5:37* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 26 February 2019 at 14:39* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Multilingual Summaries for How's Life in the Digital Age?](https://doi.org/10.1787/338b5ad5-en)
 
@@ -13,14 +13,14 @@ Tuesday 26 February 2019 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 25 February 2019 at 23:11
+- [x] Exported to Keepeek Monday 25 February 2019 at 20:52
 
 ### Additional Information
 
 * Directorate: *Statistics and Data Directorate*
 * 10 Languages: [Italian](https://doi.org/10.1787/699aaba8-it), [Korean](https://doi.org/10.1787/246cac0b-ko), [German](https://doi.org/10.1787/1fff128f-de), [Chinese](https://doi.org/10.1787/d4208748-zh), [English](https://doi.org/10.1787/338b5ad5-en), [Japanese](https://doi.org/10.1787/63ab2bdb-ja), [Russian](https://doi.org/10.1787/ffcf2192-ru), [Spanish](https://doi.org/10.1787/6b9b7823-es), [Portuguese](https://doi.org/10.1787/776a056b-pt), [French](https://doi.org/10.1787/9ae7e081-fr)
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Summary*
 * Formats: *ePub, HTML, PDF*
 
@@ -45,6 +45,50 @@ Tuesday 26 February 2019 at 10:00 | Tuesday 26 February 2019 at 10:00
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Why does the Sustainable Development Goal on Education (SDG 4) matter for OECD countries?](https://doi.org/10.1787/cdc2482b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 February 2019 at 4:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Trends in life expectancy in EU and other OECD countries  - Why are improvements slowing?](https://doi.org/10.1787/223159ab-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 February 2019 at 4:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 26 February 2019 at 11:58
+- [x] Exported to Keepeek Monday 25 February 2019 at 20:52
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -89,6 +133,50 @@ Tuesday 5 March 2019 at 13:00 | Tuesday 5 March 2019 at 13:00
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [SIGI 2019 Global Report - Transforming Challenges into Opportunities](https://doi.org/10.1787/bc56d212-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 8 March 2019 at 8:00 | Friday 8 March 2019 at 8:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Fast Forward to Gender Equality - Mainstreaming, Implementation and Leadership](https://doi.org/10.1787/g2g9faa5-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 8 March 2019 at 8:00 | Friday 8 March 2019 at 8:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
@@ -145,7 +233,7 @@ Thursday 14 March 2019 at 18:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 14 February 2019 at 0:40
+- [x] Exported to iLibrary Monday 25 February 2019 at 23:11
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -167,7 +255,7 @@ Thursday 14 March 2019 at 18:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 February 2019 at 22:51
+- [x] Exported to iLibrary Monday 25 February 2019 at 23:11
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -176,7 +264,7 @@ Thursday 14 March 2019 at 18:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *ePub, ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -334,6 +422,28 @@ Monday 18 March 2019 at 23:01 | Monday 18 March 2019 at 23:01
 
 ------
 
+## [Regulatory Policy in Argentina - Tools and Practices for Regulatory Improvement ](https://doi.org/10.1787/d835e540-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 26 March 2019 at 8:00 | Tuesday 26 March 2019 at 8:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 25 February 2019 at 23:11
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [OECD Economic Surveys: China 2019](https://doi.org/10.1787/eco_surveys-chn-2019-en)
 
 Embargo date | Launch date
@@ -356,6 +466,28 @@ Tuesday 26 March 2019 at 8:00 | Tuesday 26 March 2019 at 8:00
 
 ------
 
+## [Estudio de Política Regulatoria en Argentina - Herramientas y prácticas para la mejora regulatoria](https://doi.org/10.1787/c2e61aaf-es)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 26 March 2019 at 8:00 | Tuesday 26 March 2019 at 8:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Impulsando el desempeño del Organismo Supervisor de la Inversión en Energía y Minería de Perú](https://doi.org/10.1787/9789264310827-es)
 
 Embargo date | Launch date
@@ -374,7 +506,7 @@ Tuesday 2 April 2019 at 12:00 | no launch event
 * Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -394,8 +526,8 @@ Tuesday 2 April 2019 at 12:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
