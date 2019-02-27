@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 26 February 2019 at 14:46* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 27 February 2019 at 3:27* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Multilingual Summaries for How's Life in the Digital Age?](https://doi.org/10.1787/338b5ad5-en)
 
@@ -57,8 +57,8 @@ Thursday 28 February 2019 at 4:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 26 February 2019 at 22:37
+- [x] Exported to Keepeek Tuesday 26 February 2019 at 20:29
 
 ### Additional Information
 
@@ -79,8 +79,8 @@ Thursday 28 February 2019 at 4:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 26 February 2019 at 11:58
-- [x] Exported to Keepeek Monday 25 February 2019 at 20:52
+- [x] Exported to iLibrary Tuesday 26 February 2019 at 22:37
+- [x] Exported to Keepeek Tuesday 26 February 2019 at 20:29
 
 ### Additional Information
 
@@ -140,7 +140,7 @@ Tuesday 5 March 2019 at 13:00 | Tuesday 5 March 2019 at 13:00
 
 Embargo date | Launch date
 -------------|------------
-Friday 8 March 2019 at 8:00 | Friday 8 March 2019 at 8:00
+Friday 8 March 2019 at 9:00 | Friday 8 March 2019 at 9:00
 
 ### Status Information
 
@@ -162,12 +162,12 @@ Friday 8 March 2019 at 8:00 | Friday 8 March 2019 at 8:00
 
 Embargo date | Launch date
 -------------|------------
-Friday 8 March 2019 at 8:00 | Friday 8 March 2019 at 8:00
+Friday 8 March 2019 at 13:00 | Friday 8 March 2019 at 13:00
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 26 February 2019 at 22:37
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -519,7 +519,7 @@ Tuesday 2 April 2019 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 26 February 2019 at 22:37
 - [ ] Exported to Keepeek
 
 ### Additional Information
