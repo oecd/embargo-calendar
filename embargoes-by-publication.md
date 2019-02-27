@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 27 February 2019 at 3:27* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 27 February 2019 at 9:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Multilingual Summaries for How's Life in the Digital Age?](https://doi.org/10.1787/338b5ad5-en)
 
