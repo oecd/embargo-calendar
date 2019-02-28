@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 27 February 2019 at 9:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 28 February 2019 at 3:42* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [26 February 2019](#26-february-2019)
 * [28 February 2019](#28-february-2019)
@@ -193,7 +193,7 @@ Friday 8 March 2019 at 13:00 | Friday 8 March 2019 at 13:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 26 February 2019 at 22:37
+- [x] Exported to iLibrary Wednesday 27 February 2019 at 22:44
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -416,7 +416,7 @@ Monday 18 March 2019 at 10:00 | no launch event
 
 ------
 
-## [  Global Forum on Transparency and Exchange of Information for Tax Purposes: Luxembourg 2019 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/7ba732bf-en)
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Luxembourg 2019 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/7ba732bf-en)
 
 Embargo date | Launch date
 -------------|:------------:
