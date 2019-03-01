@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 28 February 2019 at 3:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 1 March 2019 at 4:39* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [26 February 2019](#26-february-2019)
 * [28 February 2019](#28-february-2019)
 * [5 March 2019](#5-march-2019)
 * [8 March 2019](#8-march-2019)
@@ -13,54 +12,6 @@ Data generated on | |
 * [18 March 2019](#18-march-2019)
 * [26 March 2019](#26-march-2019)
 * [2 April 2019](#2-april-2019)
-
-------
-
-# 26 February 2019
-
-## [Multilingual Summaries for How's Life in the Digital Age?](https://doi.org/10.1787/338b5ad5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 26 February 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 25 February 2019 at 23:11
-- [x] Exported to Keepeek Monday 25 February 2019 at 20:52
-
-### Additional Information
-
-* Directorate: *Statistics and Data Directorate*
-* 10 Languages: [Italian](https://doi.org/10.1787/699aaba8-it), [Korean](https://doi.org/10.1787/246cac0b-ko), [German](https://doi.org/10.1787/1fff128f-de), [Chinese](https://doi.org/10.1787/d4208748-zh), [English](https://doi.org/10.1787/338b5ad5-en), [Japanese](https://doi.org/10.1787/63ab2bdb-ja), [Russian](https://doi.org/10.1787/ffcf2192-ru), [Spanish](https://doi.org/10.1787/6b9b7823-es), [Portuguese](https://doi.org/10.1787/776a056b-pt), [French](https://doi.org/10.1787/9ae7e081-fr)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [How's Life in the Digital Age? - Opportunities and Risks of the Digital Transformation for People's Well-being](https://doi.org/10.1787/9789264311800-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 26 February 2019 at 10:00 | Tuesday 26 February 2019 at 10:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 February 2019 at 23:13
-- [x] Exported to Keepeek Thursday 21 February 2019 at 20:42
-
-### Additional Information
-
-* Directorate: *Statistics and Data Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 

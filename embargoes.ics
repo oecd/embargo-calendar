@@ -2,94 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/338b5ad5-end3e720
-SUMMARY:Multilingual Summaries for How's Life in
-  the Digital Age?
-DESCRIPTION:*Multilingual Summaries for How's Life i
- n the Digital Age?*\n\nDirectorate: Stat
- istics and Data Directorate\n10 Language
- s: Italian, Korean, German, Chinese, Eng
- lish, Japanese, Russian, Spanish, Portug
- uese, French\nPublication type: Summary\
- nReleased as: ePub, HTML, PDF\n\nEmbargo
-  date/time: Tuesday, 26 February 2019, 1
- 0:00 (GMT)\n\niLibrary export: Monday, 2
- 5 February 2019, 22:11 (GMT)\nFreeprevie
- w export: Monday, 25 February 2019, 19:5
- 2 (GMT)\nFTI loaded: ✓\n\nFor more infor
- mation see: https://github.com/oecd/emba
- rgo-calendar/blob/master/embargoes-by-pu
- blication.md.\n\nPlease note: This infor
- mation was correct as of this morning at
-  3:42, it is updated each night; therefo
- re any subsequent updates may not yet be
-  visible here. Also, please be aware tha
- t the different released media (PDF, HTM
- L, etc.) are not necessarily released at
-  the same time. For complete and up-to-d
- ate information see here: http://kappa.o
- ecd.org/v3/search?term=338b5ad5-en.
-DTSTAMP:20190228T034249Z
-DTSTART:20190226T100000Z
-DTEND:20190226T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Multilingual Summaries for How
- 's Life in the Digital Age?
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/9789264311800-end3e7024
-SUMMARY:How's Life in the Digital Age? - Opportu
- nities and Risks of the Digital Transfor
- mation for People's Well-being
-DESCRIPTION:*How's Life in the Digital Age? - Opport
- unities and Risks of the Digital Transfo
- rmation for People's Well-being*\n\nDire
- ctorate: Statistics and Data Directorate
- \nLanguage: English\nDOI: https://doi.or
- g/10.1787/9789264311800-en\nPublication 
- type: Stand-alone monograph\nReleased as
- : ePub, HTML, Paperback, PDF\n\nEmbargo 
- date/time: Tuesday, 26 February 2019, 10
- :00 (GMT)\nLaunch date/time: Tuesday, 26
-  February 2019, 10:00 (GMT)\n\niLibrary 
- export: Thursday, 21 February 2019, 22:1
- 3 (GMT)\nFreepreview export: Thursday, 2
- 1 February 2019, 19:42 (GMT)\nFTI loaded
- : ✓\n\nFor more information see: https:/
- /github.com/oecd/embargo-calendar/blob/m
- aster/embargoes-by-publication.md.\n\nPl
- ease note: This information was correct 
- as of this morning at 3:42, it is update
- d each night; therefore any subsequent u
- pdates may not yet be visible here. Also
- , please be aware that the different rel
- eased media (PDF, HTML, etc.) are not ne
- cessarily released at the same time. For
-  complete and up-to-date information see
-  here: http://kappa.oecd.org/v3/search?t
- erm=9789264311800-en.
-DTSTAMP:20190228T034249Z
-DTSTART:20190226T100000Z
-DTEND:20190226T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: How's Life in the Digital Age?
-  - Opportunities and Risks of the Digita
- l Transformation for People's Well-being
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/cdc2482b-end3e9247
+UID:10.1787/cdc2482b-end3e53
 SUMMARY:Why does the Sustainable Development Goa
  l on Education (SDG 4) matter for OECD c
  ountries?
@@ -108,7 +21,7 @@ DESCRIPTION:*Why does the Sustainable Development Go
  e: https://github.com/oecd/embargo-calen
  dar/blob/master/embargoes-by-publication
  .md.\n\nPlease note: This information wa
- s correct as of this morning at 3:42, it
+ s correct as of this morning at 4:39, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -117,7 +30,7 @@ DESCRIPTION:*Why does the Sustainable Development Go
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=cdc2482b-en.
-DTSTAMP:20190228T034249Z
+DTSTAMP:20190301T043949Z
 DTSTART:20190228T040000Z
 DTEND:20190228T041500Z
 TRANSP:TRANSPARENT
@@ -132,7 +45,7 @@ DESCRIPTION:Reminder: Why does the Sustainable Devel
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/223159ab-end3e9295
+UID:10.1787/223159ab-end3e101
 SUMMARY:Trends in life expectancy in EU and othe
  r OECD countries  - Why are improvements
   slowing?
@@ -152,7 +65,7 @@ DESCRIPTION:*Trends in life expectancy in EU and oth
  cd/embargo-calendar/blob/master/embargoe
  s-by-publication.md.\n\nPlease note: Thi
  s information was correct as of this mor
- ning at 3:42, it is updated each night; 
+ ning at 4:39, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -161,7 +74,7 @@ DESCRIPTION:*Trends in life expectancy in EU and oth
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=223159ab-e
  n.
-DTSTAMP:20190228T034249Z
+DTSTAMP:20190301T043949Z
 DTSTART:20190228T040000Z
 DTEND:20190228T041500Z
 TRANSP:TRANSPARENT
@@ -176,7 +89,7 @@ DESCRIPTION:Reminder: Trends in life expectancy in E
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264310612-esd3e10870
+UID:10.1787/9789264310612-esd3e1676
 SUMMARY:Impulsando el desempeño del Organismo Su
  pervisor de la Inversión Privada en Tele
  comunicaciones de Perú
@@ -197,7 +110,7 @@ DESCRIPTION:*Impulsando el desempeño del Organismo S
  : https://github.com/oecd/embargo-calend
  ar/blob/master/embargoes-by-publication.
  md.\n\nPlease note: This information was
-  correct as of this morning at 3:42, it 
+  correct as of this morning at 4:39, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -206,7 +119,7 @@ DESCRIPTION:*Impulsando el desempeño del Organismo S
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=9789264310612-es.
-DTSTAMP:20190228T034249Z
+DTSTAMP:20190301T043949Z
 DTSTART:20190305T130000Z
 DTEND:20190305T131500Z
 TRANSP:TRANSPARENT
@@ -221,7 +134,7 @@ DESCRIPTION:Reminder: Impulsando el desempeño del Or
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264310506-end3e10919
+UID:10.1787/9789264310506-end3e1725
 SUMMARY:Driving Performance at Peru's Telecommun
  ications Regulator
 DESCRIPTION:*Driving Performance at Peru's Telecommu
@@ -240,7 +153,7 @@ DESCRIPTION:*Driving Performance at Peru's Telecommu
  tps://github.com/oecd/embargo-calendar/b
  lob/master/embargoes-by-publication.md.\
  n\nPlease note: This information was cor
- rect as of this morning at 3:42, it is u
+ rect as of this morning at 4:39, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -249,7 +162,7 @@ DESCRIPTION:*Driving Performance at Peru's Telecommu
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=9789264310506-en.
-DTSTAMP:20190228T034249Z
+DTSTAMP:20190301T043949Z
 DTSTART:20190305T130000Z
 DTEND:20190305T131500Z
 TRANSP:TRANSPARENT
@@ -263,7 +176,7 @@ DESCRIPTION:Reminder: Driving Performance at Peru's
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bc56d212-end3e11063
+UID:10.1787/bc56d212-end3e1868
 SUMMARY:SIGI 2019 Global Report - Transforming C
  hallenges into Opportunities
 DESCRIPTION:*SIGI 2019 Global Report - Transforming 
@@ -280,7 +193,7 @@ DESCRIPTION:*SIGI 2019 Global Report - Transforming
  argo-calendar/blob/master/embargoes-by-p
  ublication.md.\n\nPlease note: This info
  rmation was correct as of this morning a
- t 3:42, it is updated each night; theref
+ t 4:39, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -288,7 +201,7 @@ DESCRIPTION:*SIGI 2019 Global Report - Transforming
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=bc56d212-en.
-DTSTAMP:20190228T034249Z
+DTSTAMP:20190301T043949Z
 DTSTART:20190308T090000Z
 DTEND:20190308T091500Z
 TRANSP:TRANSPARENT
@@ -302,7 +215,7 @@ DESCRIPTION:Reminder: SIGI 2019 Global Report - Tran
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/g2g9faa5-end3e11110
+UID:10.1787/g2g9faa5-end3e1915
 SUMMARY:Fast Forward to Gender Equality - Mainst
  reaming, Implementation and Leadership
 DESCRIPTION:*Fast Forward to Gender Equality - Mains
@@ -321,7 +234,7 @@ DESCRIPTION:*Fast Forward to Gender Equality - Mains
  rgo-calendar/blob/master/embargoes-by-pu
  blication.md.\n\nPlease note: This infor
  mation was correct as of this morning at
-  3:42, it is updated each night; therefo
+  4:39, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -329,7 +242,7 @@ DESCRIPTION:*Fast Forward to Gender Equality - Mains
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=g2g9faa5-en.
-DTSTAMP:20190228T034249Z
+DTSTAMP:20190301T043949Z
 DTSTART:20190308T130000Z
 DTEND:20190308T131500Z
 TRANSP:TRANSPARENT
@@ -344,7 +257,7 @@ DESCRIPTION:Reminder: Fast Forward to Gender Equalit
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311992-end3e11249
+UID:10.1787/9789264311992-end3e2055
 SUMMARY:Measuring the Digital Transformation - A
   Roadmap for the Future
 DESCRIPTION:*Measuring the Digital Transformation - 
@@ -363,7 +276,7 @@ DESCRIPTION:*Measuring the Digital Transformation -
  ttps://github.com/oecd/embargo-calendar/
  blob/master/embargoes-by-publication.md.
  \n\nPlease note: This information was co
- rrect as of this morning at 3:42, it is 
+ rrect as of this morning at 4:39, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -372,7 +285,7 @@ DESCRIPTION:*Measuring the Digital Transformation -
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=9789264311992-en.
-DTSTAMP:20190228T034249Z
+DTSTAMP:20190301T043949Z
 DTSTART:20190311T080000Z
 DTEND:20190311T081500Z
 TRANSP:TRANSPARENT
@@ -386,7 +299,7 @@ DESCRIPTION:Reminder: Measuring the Digital Transfor
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264312012-end3e11389
+UID:10.1787/9789264312012-end3e2194
 SUMMARY:Going Digital: Shaping Policies, Improvi
  ng Lives
 DESCRIPTION:*Going Digital: Shaping Policies, Improv
@@ -405,7 +318,7 @@ DESCRIPTION:*Going Digital: Shaping Policies, Improv
  om/oecd/embargo-calendar/blob/master/emb
  argoes-by-publication.md.\n\nPlease note
  : This information was correct as of thi
- s morning at 3:42, it is updated each ni
+ s morning at 4:39, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -414,7 +327,7 @@ DESCRIPTION:*Going Digital: Shaping Policies, Improv
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=97892
  64312012-en.
-DTSTAMP:20190228T034249Z
+DTSTAMP:20190301T043949Z
 DTSTART:20190311T080000Z
 DTEND:20190311T081500Z
 TRANSP:TRANSPARENT
@@ -428,7 +341,7 @@ DESCRIPTION:Reminder: Going Digital: Shaping Policie
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311879-esd3e11718
+UID:10.1787/9789264311879-esd3e2524
 SUMMARY:Políticas Agrícolas en Argentina
 DESCRIPTION:*Políticas Agrícolas en Argentina*\n\nDi
  rectorate: Trade and Agriculture Directo
@@ -443,7 +356,7 @@ DESCRIPTION:*Políticas Agrícolas en Argentina*\n\nDi
  //github.com/oecd/embargo-calendar/blob/
  master/embargoes-by-publication.md.\n\nP
  lease note: This information was correct
-  as of this morning at 3:42, it is updat
+  as of this morning at 4:39, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -452,7 +365,7 @@ DESCRIPTION:*Políticas Agrícolas en Argentina*\n\nDi
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=9789264311879-es.
-DTSTAMP:20190228T034249Z
+DTSTAMP:20190301T043949Z
 DTSTART:20190314T180000Z
 DTEND:20190314T181500Z
 TRANSP:TRANSPARENT
@@ -466,7 +379,7 @@ DESCRIPTION:Reminder: Políticas Agrícolas en Argenti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264311695-end3e13043
+UID:10.1787/9789264311695-end3e3848
 SUMMARY:Agricultural Policies in Argentina
 DESCRIPTION:*Agricultural Policies in Argentina*\n\n
  Directorate: Trade and Agriculture Direc
@@ -481,8 +394,8 @@ DESCRIPTION:*Agricultural Policies in Argentina*\n\n
  on see: https://github.com/oecd/embargo-
  calendar/blob/master/embargoes-by-public
  ation.md.\n\nPlease note: This informati
- on was correct as of this morning at 3:4
- 2, it is updated each night; therefore a
+ on was correct as of this morning at 4:3
+ 9, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -490,7 +403,7 @@ DESCRIPTION:*Agricultural Policies in Argentina*\n\n
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=9789264311695-en.
-DTSTAMP:20190228T034249Z
+DTSTAMP:20190301T043949Z
 DTSTART:20190314T180000Z
 DTEND:20190314T181500Z
 TRANSP:TRANSPARENT
@@ -504,7 +417,7 @@ DESCRIPTION:Reminder: Agricultural Policies in Argen
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/34f9b9a8-end3e15641
+UID:10.1787/34f9b9a8-end3e6446
 SUMMARY:  Global Forum on Transparency and Excha
  nge of Information for Tax Purposes: Hon
  g Kong (China) 2019 (Second Round)   - P
@@ -526,7 +439,7 @@ DESCRIPTION:* Global Forum on Transparency and Excha
  b.com/oecd/embargo-calendar/blob/master/
  embargoes-by-publication.md.\n\nPlease n
  ote: This information was correct as of 
- this morning at 3:42, it is updated each
+ this morning at 4:39, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -535,7 +448,7 @@ DESCRIPTION:* Global Forum on Transparency and Excha
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=34
  f9b9a8-en.
-DTSTAMP:20190228T034249Z
+DTSTAMP:20190301T043949Z
 DTSTART:20190318T100000Z
 DTEND:20190318T101500Z
 TRANSP:TRANSPARENT
@@ -552,7 +465,7 @@ DESCRIPTION:Reminder:   Global Forum on Transparency
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fdce8e7f-end3e15687
+UID:10.1787/fdce8e7f-end3e6493
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: The N
  etherlands 2019 (Second Round) - Peer Re
@@ -574,7 +487,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  om/oecd/embargo-calendar/blob/master/emb
  argoes-by-publication.md.\n\nPlease note
  : This information was correct as of thi
- s morning at 3:42, it is updated each ni
+ s morning at 4:39, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -583,7 +496,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=fdce8
  e7f-en.
-DTSTAMP:20190228T034249Z
+DTSTAMP:20190301T043949Z
 DTSTART:20190318T100000Z
 DTEND:20190318T101500Z
 TRANSP:TRANSPARENT
@@ -600,7 +513,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c02d85f9-end3e15825
+UID:10.1787/c02d85f9-end3e6631
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: The F
  ormer Yugoslav Republic of Macedonia 201
@@ -622,8 +535,8 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  ion see: https://github.com/oecd/embargo
  -calendar/blob/master/embargoes-by-publi
  cation.md.\n\nPlease note: This informat
- ion was correct as of this morning at 3:
- 42, it is updated each night; therefore 
+ ion was correct as of this morning at 4:
+ 39, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -631,7 +544,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=c02d85f9-en.
-DTSTAMP:20190228T034249Z
+DTSTAMP:20190301T043949Z
 DTSTART:20190318T100000Z
 DTEND:20190318T101500Z
 TRANSP:TRANSPARENT
@@ -649,7 +562,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/997a7b23-end3e16010
+UID:10.1787/997a7b23-end3e6816
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Spain
   and Turks 2019 (Second Round) - Peer Re
@@ -671,7 +584,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  om/oecd/embargo-calendar/blob/master/emb
  argoes-by-publication.md.\n\nPlease note
  : This information was correct as of thi
- s morning at 3:42, it is updated each ni
+ s morning at 4:39, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -680,7 +593,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=997a7
  b23-en.
-DTSTAMP:20190228T034249Z
+DTSTAMP:20190301T043949Z
 DTSTART:20190318T100000Z
 DTEND:20190318T101500Z
 TRANSP:TRANSPARENT
@@ -697,7 +610,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5a837e0a-end3e16056
+UID:10.1787/5a837e0a-end3e6862
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Caico
  s Islands 2019 (Second Round)  -   Peer 
@@ -719,7 +632,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  m/oecd/embargo-calendar/blob/master/emba
  rgoes-by-publication.md.\n\nPlease note:
   This information was correct as of this
-  morning at 3:42, it is updated each nig
+  morning at 4:39, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -728,7 +641,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=5a837e
  0a-en.
-DTSTAMP:20190228T034249Z
+DTSTAMP:20190301T043949Z
 DTSTART:20190318T100000Z
 DTEND:20190318T101500Z
 TRANSP:TRANSPARENT
@@ -745,7 +658,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7ba732bf-end3e16102
+UID:10.1787/7ba732bf-end3e6908
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Luxem
  bourg 2019 (Second Round) - Peer Review 
@@ -767,7 +680,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  d/embargo-calendar/blob/master/embargoes
  -by-publication.md.\n\nPlease note: This
   information was correct as of this morn
- ing at 3:42, it is updated each night; t
+ ing at 4:39, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -776,7 +689,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=7ba732bf-en
  .
-DTSTAMP:20190228T034249Z
+DTSTAMP:20190301T043949Z
 DTSTART:20190318T100000Z
 DTEND:20190318T101500Z
 TRANSP:TRANSPARENT
@@ -793,7 +706,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/soc_aag-2019-end3e16196
+UID:10.1787/soc_aag-2019-end3e7001
 SUMMARY:Society at a Glance: Asia/Pacific 2019
 DESCRIPTION:*Society at a Glance: Asia/Pacific 2019*
  \n\nDirectorate: Directorate for Employm
@@ -810,7 +723,7 @@ DESCRIPTION:*Society at a Glance: Asia/Pacific 2019*
  hub.com/oecd/embargo-calendar/blob/maste
  r/embargoes-by-publication.md.\n\nPlease
   note: This information was correct as o
- f this morning at 3:42, it is updated ea
+ f this morning at 4:39, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -819,7 +732,7 @@ DESCRIPTION:*Society at a Glance: Asia/Pacific 2019*
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  soc_aag-2019-en.
-DTSTAMP:20190228T034249Z
+DTSTAMP:20190301T043949Z
 DTSTART:20190318T230100Z
 DTEND:20190318T231600Z
 TRANSP:TRANSPARENT
@@ -833,7 +746,7 @@ DESCRIPTION:Reminder: Society at a Glance: Asia/Paci
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d835e540-end3e16243
+UID:10.1787/d835e540-end3e7049
 SUMMARY:Regulatory Policy in Argentina - Tools a
  nd Practices for Regulatory Improvement 
 DESCRIPTION:*Regulatory Policy in Argentina - Tools 
@@ -851,7 +764,7 @@ DESCRIPTION:*Regulatory Policy in Argentina - Tools
  n see: https://github.com/oecd/embargo-c
  alendar/blob/master/embargoes-by-publica
  tion.md.\n\nPlease note: This informatio
- n was correct as of this morning at 3:42
+ n was correct as of this morning at 4:39
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -860,7 +773,7 @@ DESCRIPTION:*Regulatory Policy in Argentina - Tools
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=d835e540-en.
-DTSTAMP:20190228T034249Z
+DTSTAMP:20190301T043949Z
 DTSTART:20190326T080000Z
 DTEND:20190326T081500Z
 TRANSP:TRANSPARENT
@@ -875,7 +788,7 @@ DESCRIPTION:Reminder: Regulatory Policy in Argentina
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/eco_surveys-chn-2019-end3e16291
+UID:10.1787/eco_surveys-chn-2019-end3e7097
 SUMMARY:OECD Economic Surveys: China 2019
 DESCRIPTION:*OECD Economic Surveys: China 2019*\n\nD
  irectorate: Economics Department\nLangua
@@ -891,8 +804,8 @@ DESCRIPTION:*OECD Economic Surveys: China 2019*\n\nD
  tion see: https://github.com/oecd/embarg
  o-calendar/blob/master/embargoes-by-publ
  ication.md.\n\nPlease note: This informa
- tion was correct as of this morning at 3
- :42, it is updated each night; therefore
+ tion was correct as of this morning at 4
+ :39, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -901,7 +814,7 @@ DESCRIPTION:*OECD Economic Surveys: China 2019*\n\nD
  e information see here: http://kappa.oec
  d.org/v3/search?term=eco_surveys-chn-201
  9-en.
-DTSTAMP:20190228T034249Z
+DTSTAMP:20190301T043949Z
 DTSTART:20190326T080000Z
 DTEND:20190326T081500Z
 TRANSP:TRANSPARENT
@@ -915,7 +828,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: China 2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c2e61aaf-esd3e16386
+UID:10.1787/c2e61aaf-esd3e7192
 SUMMARY:Estudio de Política Regulatoria en Argen
  tina - Herramientas y prácticas para la 
  mejora regulatoria
@@ -934,7 +847,7 @@ DESCRIPTION:*Estudio de Política Regulatoria en Arge
  /oecd/embargo-calendar/blob/master/embar
  goes-by-publication.md.\n\nPlease note: 
  This information was correct as of this 
- morning at 3:42, it is updated each nigh
+ morning at 4:39, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -943,7 +856,7 @@ DESCRIPTION:*Estudio de Política Regulatoria en Arge
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=c2e61aa
  f-es.
-DTSTAMP:20190228T034249Z
+DTSTAMP:20190301T043949Z
 DTSTART:20190326T080000Z
 DTEND:20190326T081500Z
 TRANSP:TRANSPARENT
@@ -958,7 +871,7 @@ DESCRIPTION:Reminder: Estudio de Política Regulatori
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264310827-esd3e17038
+UID:10.1787/9789264310827-esd3e7843
 SUMMARY:Impulsando el desempeño del Organismo Su
  pervisor de la Inversión en Energía y Mi
  nería de Perú
@@ -976,7 +889,7 @@ DESCRIPTION:*Impulsando el desempeño del Organismo S
  /github.com/oecd/embargo-calendar/blob/m
  aster/embargoes-by-publication.md.\n\nPl
  ease note: This information was correct 
- as of this morning at 3:42, it is update
+ as of this morning at 4:39, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -985,7 +898,7 @@ DESCRIPTION:*Impulsando el desempeño del Organismo S
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=9789264310827-es.
-DTSTAMP:20190228T034249Z
+DTSTAMP:20190301T043949Z
 DTSTART:20190402T120000Z
 DTEND:20190402T121500Z
 TRANSP:TRANSPARENT
@@ -1000,7 +913,7 @@ DESCRIPTION:Reminder: Impulsando el desempeño del Or
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264310865-end3e17363
+UID:10.1787/9789264310865-end3e8169
 SUMMARY:Driving Performance at Peru's Energy and
   Mining Regulator
 DESCRIPTION:*Driving Performance at Peru's Energy an
@@ -1017,7 +930,7 @@ DESCRIPTION:*Driving Performance at Peru's Energy an
  thub.com/oecd/embargo-calendar/blob/mast
  er/embargoes-by-publication.md.\n\nPleas
  e note: This information was correct as 
- of this morning at 3:42, it is updated e
+ of this morning at 4:39, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -1026,7 +939,7 @@ DESCRIPTION:*Driving Performance at Peru's Energy an
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =9789264310865-en.
-DTSTAMP:20190228T034249Z
+DTSTAMP:20190301T043949Z
 DTSTART:20190402T120000Z
 DTEND:20190402T121500Z
 TRANSP:TRANSPARENT
