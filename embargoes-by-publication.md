@@ -2,51 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 1 March 2019 at 4:39* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Why does the Sustainable Development Goal on Education (SDG 4) matter for OECD countries?](https://doi.org/10.1787/cdc2482b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 February 2019 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 26 February 2019 at 22:37
-- [x] Exported to Keepeek Tuesday 26 February 2019 at 20:29
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Trends in life expectancy in EU and other OECD countries  - Why are improvements slowing?](https://doi.org/10.1787/223159ab-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 February 2019 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 26 February 2019 at 22:37
-- [x] Exported to Keepeek Tuesday 26 February 2019 at 20:29
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Saturday 2 March 2019 at 5:52* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Impulsando el desempeño del Organismo Supervisor de la Inversión Privada en Telecomunicaciones de Perú](https://doi.org/10.1787/9789264310612-es)
 
@@ -110,7 +66,7 @@ Friday 8 March 2019 at 9:00 | Friday 8 March 2019 at 9:00
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -145,7 +101,7 @@ Monday 11 March 2019 at 8:00 | Monday 11 March 2019 at 8:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 21 February 2019 at 23:13
+- [x] Exported to iLibrary Friday 1 March 2019 at 23:08
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -167,7 +123,7 @@ Monday 11 March 2019 at 8:00 | Monday 11 March 2019 at 8:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 21 February 2019 at 23:13
+- [x] Exported to iLibrary Friday 1 March 2019 at 23:08
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -440,27 +396,27 @@ Tuesday 26 March 2019 at 8:00 | Tuesday 26 March 2019 at 8:00
 * Language: *Spanish*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
 ## [Impulsando el desempeño del Organismo Supervisor de la Inversión en Energía y Minería de Perú](https://doi.org/10.1787/9789264310827-es)
 
 Embargo date | Launch date
--------------|:------------:
-Tuesday 2 April 2019 at 12:00 | no launch event
+-------------|------------
+Tuesday 2 April 2019 at 12:00 | Tuesday 2 April 2019 at 12:00
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 1 March 2019 at 23:08
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -475,7 +431,7 @@ Tuesday 2 April 2019 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 26 February 2019 at 22:37
+- [x] Exported to iLibrary Friday 1 March 2019 at 23:08
 - [ ] Exported to Keepeek
 
 ### Additional Information
