@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 2 March 2019 at 5:52* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 5 March 2019 at 3:50* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [5 March 2019](#5-march-2019)
 * [8 March 2019](#8-march-2019)
@@ -72,7 +72,7 @@ Friday 8 March 2019 at 9:00 | Friday 8 March 2019 at 9:00
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
@@ -143,7 +143,7 @@ Monday 11 March 2019 at 8:00 | Monday 11 March 2019 at 8:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 1 March 2019 at 23:08
+- [x] Exported to iLibrary Monday 4 March 2019 at 22:56
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -444,15 +444,15 @@ Tuesday 2 April 2019 at 12:00 | Tuesday 2 April 2019 at 12:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 1 March 2019 at 23:08
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 4 March 2019 at 22:56
+- [x] Exported to Keepeek Monday 4 March 2019 at 20:33
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -466,9 +466,9 @@ Tuesday 2 April 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 1 March 2019 at 23:08
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 4 March 2019 at 22:56
+- [x] Exported to Keepeek Monday 4 March 2019 at 20:33
 
 ### Additional Information
 
