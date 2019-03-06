@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 5 March 2019 at 3:50* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 6 March 2019 at 3:51* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [5 March 2019](#5-march-2019)
 * [8 March 2019](#8-march-2019)
@@ -73,14 +73,14 @@ Friday 8 March 2019 at 9:00 | Friday 8 March 2019 at 9:00
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 5 March 2019 at 22:50
+- [x] Exported to Keepeek Tuesday 5 March 2019 at 20:33
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
 
@@ -121,7 +121,7 @@ Monday 11 March 2019 at 8:00 | Monday 11 March 2019 at 8:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 1 March 2019 at 23:08
+- [x] Exported to iLibrary Tuesday 5 March 2019 at 22:50
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -252,7 +252,7 @@ Monday 18 March 2019 at 10:00 | no launch event
 
 ------
 
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: The Former Yugoslav Republic of Macedonia 2019 (Second Round)  - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/c02d85f9-en)
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Republic of North Macedonia 2019 (Second Round)  - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/c02d85f9-en)
 
 Embargo date | Launch date
 -------------|:------------:
