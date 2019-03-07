@@ -2,12 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 6 March 2019 at 3:51* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 7 March 2019 at 4:08* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [5 March 2019](#5-march-2019)
 * [8 March 2019](#8-march-2019)
 * [11 March 2019](#11-march-2019)
 * [14 March 2019](#14-march-2019)
+* [15 March 2019](#15-march-2019)
 * [18 March 2019](#18-march-2019)
 * [26 March 2019](#26-march-2019)
 * [2 April 2019](#2-april-2019)
@@ -86,28 +87,6 @@ Friday 8 March 2019 at 9:00 | Friday 8 March 2019 at 9:00
 
 ------
 
-## [Fast Forward to Gender Equality - Mainstreaming, Implementation and Leadership](https://doi.org/10.1787/g2g9faa5-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 8 March 2019 at 13:00 | Friday 8 March 2019 at 13:00
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 27 February 2019 at 22:44
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
 ------
 
 # 11 March 2019
@@ -121,7 +100,7 @@ Monday 11 March 2019 at 8:00 | Monday 11 March 2019 at 8:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 5 March 2019 at 22:50
+- [x] Exported to iLibrary Wednesday 6 March 2019 at 22:54
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -143,7 +122,7 @@ Monday 11 March 2019 at 8:00 | Monday 11 March 2019 at 8:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 4 March 2019 at 22:56
+- [x] Exported to iLibrary Wednesday 6 March 2019 at 22:54
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -152,6 +131,28 @@ Monday 11 March 2019 at 8:00 | Monday 11 March 2019 at 8:00
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Adult Learning in Italy - What Role for Training Funds ?](https://doi.org/10.1787/9789264311978-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 11 March 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 6 March 2019 at 22:54
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
 ------
@@ -201,6 +202,32 @@ Thursday 14 March 2019 at 18:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 15 March 2019
+
+## [Towards Green Growth in Emerging Market Economies - Evidence from Environmental Performance Reviews](https://doi.org/10.1787/d5e5b5d7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 March 2019 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -296,7 +323,7 @@ Monday 18 March 2019 at 10:00 | no launch event
 
 ------
 
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Caicos Islands 2019 (Second Round)  -   Peer Review Report on the Exchange of Information on Request ](https://doi.org/10.1787/5a837e0a-en)
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Caicos Islands 2019 (Second Round)  - Peer Review Report on the Exchange of Information on Request ](https://doi.org/10.1787/5a837e0a-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -375,7 +402,7 @@ Tuesday 26 March 2019 at 8:00 | Tuesday 26 March 2019 at 8:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 25 February 2019 at 23:11
+- [x] Exported to iLibrary Wednesday 6 March 2019 at 22:54
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -419,7 +446,7 @@ Tuesday 26 March 2019 at 8:00 | Tuesday 26 March 2019 at 8:00
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 6 March 2019 at 22:54
 - [ ] Exported to Keepeek
 
 ### Additional Information
