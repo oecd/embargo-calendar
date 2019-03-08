@@ -2,51 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 7 March 2019 at 4:08* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Impulsando el desempeño del Organismo Supervisor de la Inversión Privada en Telecomunicaciones de Perú](https://doi.org/10.1787/9789264310612-es)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 5 March 2019 at 13:00 | Tuesday 5 March 2019 at 13:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 February 2019 at 23:13
-- [x] Exported to Keepeek Thursday 21 February 2019 at 20:42
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Driving Performance at Peru's Telecommunications Regulator](https://doi.org/10.1787/9789264310506-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 5 March 2019 at 13:00 | Tuesday 5 March 2019 at 13:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 February 2019 at 23:13
-- [x] Exported to Keepeek Thursday 21 February 2019 at 20:42
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Friday 8 March 2019 at 4:46* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [SIGI 2019 Global Report - Transforming Challenges into Opportunities](https://doi.org/10.1787/bc56d212-en)
 
@@ -78,15 +34,15 @@ Monday 11 March 2019 at 8:00 | Monday 11 March 2019 at 8:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 6 March 2019 at 22:54
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
+- [x] Exported to Keepeek Thursday 7 March 2019 at 20:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -100,15 +56,15 @@ Monday 11 March 2019 at 8:00 | Monday 11 March 2019 at 8:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 6 March 2019 at 22:54
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
+- [x] Exported to Keepeek Thursday 7 March 2019 at 20:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -123,14 +79,14 @@ Monday 11 March 2019 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 March 2019 at 22:54
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
+- [x] Exported to Keepeek Thursday 7 March 2019 at 20:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -145,14 +101,14 @@ Thursday 14 March 2019 at 18:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 25 February 2019 at 23:11
+- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -167,14 +123,14 @@ Thursday 14 March 2019 at 18:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 25 February 2019 at 23:11
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
+- [x] Exported to Keepeek Thursday 7 March 2019 at 20:35
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -189,14 +145,14 @@ Friday 15 March 2019 at 1:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
+- [x] Exported to Keepeek Thursday 7 March 2019 at 20:35
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
 
@@ -211,14 +167,14 @@ Monday 18 March 2019 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -233,14 +189,14 @@ Monday 18 March 2019 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -255,14 +211,14 @@ Monday 18 March 2019 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -277,14 +233,14 @@ Monday 18 March 2019 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -299,14 +255,14 @@ Monday 18 March 2019 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -321,14 +277,14 @@ Monday 18 March 2019 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -356,6 +312,72 @@ Monday 18 March 2019 at 23:01 | Monday 18 March 2019 at 23:01
 
 ------
 
+## [OECD Regional Outlook 2019 - Leveraging Megatrends for Cities and Rural Areas](https://doi.org/10.1787/9789264312838-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 19 March 2019 at 9:00 | Tuesday 19 March 2019 at 9:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Latin American Economic Outlook 2019 - Development in Transition](https://doi.org/10.1787/g2g9ff18-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 20 March 2019 at 21:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Revenue Statistics in Latin America and the Caribbean 2019  (en) | Estadísticas tributarias en América Latina y el Caribe 2019](https://doi.org/10.1787/25666b8d-en-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 25 March 2019 at 18:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English | Spanish*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Regulatory Policy in Argentina - Tools and Practices for Regulatory Improvement ](https://doi.org/10.1787/d835e540-en)
 
 Embargo date | Launch date
@@ -364,8 +386,8 @@ Tuesday 26 March 2019 at 8:00 | Tuesday 26 March 2019 at 8:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 6 March 2019 at 22:54
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -374,7 +396,7 @@ Tuesday 26 March 2019 at 8:00 | Tuesday 26 March 2019 at 8:00
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -410,6 +432,50 @@ Tuesday 26 March 2019 at 8:00 | Tuesday 26 March 2019 at 8:00
 
 - [ ] FTI loaded
 - [x] Exported to iLibrary Wednesday 6 March 2019 at 22:54
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Integrity Review of Argentina - Achieving Systemic and Sustained Change](https://doi.org/10.1787/g2g98ec3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 March 2019 at 13:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Estudio de la OCDE sobre Integridad en Argentina - Lograr un cambio sistémico y sostenido](https://doi.org/10.1787/g2g98f15-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 March 2019 at 13:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
 - [ ] Exported to Keepeek
 
 ### Additional Information
