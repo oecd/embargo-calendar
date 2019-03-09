@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 8 March 2019 at 4:46* | [See embargoes by date](embargoes-by-date.md) |
+| *Saturday 9 March 2019 at 5:33* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [SIGI 2019 Global Report - Transforming Challenges into Opportunities](https://doi.org/10.1787/bc56d212-en)
 
@@ -100,9 +100,9 @@ Thursday 14 March 2019 at 18:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 8 March 2019 at 23:05
+- [x] Exported to Keepeek Friday 8 March 2019 at 20:35
 
 ### Additional Information
 
@@ -154,6 +154,28 @@ Friday 15 March 2019 at 1:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Liechtenstein 2019 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/299793c5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 March 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 8 March 2019 at 23:05
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -224,7 +246,7 @@ Monday 18 March 2019 at 10:00 | no launch event
 
 ------
 
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Spain and Turks 2019 (Second Round) - Peer Review Report on the Exchange of Information on Request ](https://doi.org/10.1787/997a7b23-en)
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Spain 2019 (Second Round) - Peer Review Report on the Exchange of Information on Request ](https://doi.org/10.1787/997a7b23-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -233,7 +255,7 @@ Monday 18 March 2019 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
+- [x] Exported to iLibrary Friday 8 March 2019 at 23:05
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -246,7 +268,7 @@ Monday 18 March 2019 at 10:00 | no launch event
 
 ------
 
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Caicos Islands 2019 (Second Round)  - Peer Review Report on the Exchange of Information on Request ](https://doi.org/10.1787/5a837e0a-en)
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Turks and Caicos Islands 2019 (Second Round)  - Peer Review Report on the Exchange of Information on Request ](https://doi.org/10.1787/5a837e0a-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -255,7 +277,7 @@ Monday 18 March 2019 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
+- [x] Exported to iLibrary Friday 8 March 2019 at 23:05
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -308,7 +330,7 @@ Monday 18 March 2019 at 23:01 | Monday 18 March 2019 at 23:01
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -453,7 +475,7 @@ Wednesday 27 March 2019 at 13:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
+- [x] Exported to iLibrary Friday 8 March 2019 at 23:05
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -475,7 +497,7 @@ Wednesday 27 March 2019 at 13:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
+- [x] Exported to iLibrary Friday 8 March 2019 at 23:05
 - [ ] Exported to Keepeek
 
 ### Additional Information
