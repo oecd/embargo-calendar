@@ -2,29 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 9 March 2019 at 5:33* | [See embargoes by date](embargoes-by-date.md) |
-
-## [SIGI 2019 Global Report - Transforming Challenges into Opportunities](https://doi.org/10.1787/bc56d212-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 8 March 2019 at 9:00 | Friday 8 March 2019 at 9:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 March 2019 at 22:50
-- [x] Exported to Keepeek Tuesday 5 March 2019 at 20:33
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
+| *Tuesday 12 March 2019 at 3:55* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Measuring the Digital Transformation - A Roadmap for the Future](https://doi.org/10.1787/9789264311992-en)
 
@@ -79,7 +57,7 @@ Monday 11 March 2019 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
+- [x] Exported to iLibrary Monday 11 March 2019 at 23:06
 - [x] Exported to Keepeek Thursday 7 March 2019 at 20:35
 
 ### Additional Information
@@ -89,6 +67,50 @@ Monday 11 March 2019 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Does attending a rural school make a difference in how and what you learn?](https://doi.org/10.1787/d076ecc3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 March 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 11 March 2019 at 23:06
+- [x] Exported to Keepeek Monday 11 March 2019 at 20:31
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Learning in rural schools - Insights from PISA, TALIS and the literature](https://doi.org/10.1787/8b1a5cb9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 March 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 11 March 2019 at 23:06
+- [x] Exported to Keepeek Monday 11 March 2019 at 20:31
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -167,7 +189,7 @@ Monday 18 March 2019 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 8 March 2019 at 23:05
+- [x] Exported to iLibrary Monday 11 March 2019 at 23:06
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -320,15 +342,15 @@ Monday 18 March 2019 at 23:01 | Monday 18 March 2019 at 23:01
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 18 February 2019 at 23:54
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 11 March 2019 at 23:06
+- [x] Exported to Keepeek Monday 11 March 2019 at 20:31
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -359,8 +381,8 @@ Tuesday 19 March 2019 at 9:00 | Tuesday 19 March 2019 at 9:00
 ## [Latin American Economic Outlook 2019 - Development in Transition](https://doi.org/10.1787/g2g9ff18-en)
 
 Embargo date | Launch date
--------------|:------------:
-Wednesday 20 March 2019 at 21:00 | no launch event
+-------------|------------
+Wednesday 20 March 2019 at 21:00 | Wednesday 20 March 2019 at 21:00
 
 ### Status Information
 
