@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 12 March 2019 at 3:55* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 13 March 2019 at 3:41* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Measuring the Digital Transformation - A Roadmap for the Future](https://doi.org/10.1787/9789264311992-en)
 
@@ -13,8 +13,8 @@ Monday 11 March 2019 at 8:00 | Monday 11 March 2019 at 8:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
-- [x] Exported to Keepeek Thursday 7 March 2019 at 20:35
+- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
+- [x] Exported to Keepeek Tuesday 12 March 2019 at 20:32
 
 ### Additional Information
 
@@ -114,6 +114,50 @@ Tuesday 12 March 2019 at 10:00 | no launch event
 
 ------
 
+## [Starting Strong Teaching and Learning International Survey 2018 Conceptual Framework](https://doi.org/10.1787/106b1c42-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 March 2019 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
+- [x] Exported to Keepeek Tuesday 12 March 2019 at 20:32
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [The lives of teachers in diverse classrooms](https://doi.org/10.1787/8c26fee5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 March 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
+- [x] Exported to Keepeek Tuesday 12 March 2019 at 20:32
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Políticas Agrícolas en Argentina](https://doi.org/10.1787/9789264311879-es)
 
 Embargo date | Launch date
@@ -188,15 +232,15 @@ Monday 18 March 2019 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 11 March 2019 at 23:06
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
+- [x] Exported to Keepeek Tuesday 12 March 2019 at 20:32
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -210,15 +254,15 @@ Monday 18 March 2019 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
+- [x] Exported to Keepeek Tuesday 12 March 2019 at 20:32
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -232,15 +276,15 @@ Monday 18 March 2019 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
+- [x] Exported to Keepeek Tuesday 12 March 2019 at 20:32
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -254,15 +298,15 @@ Monday 18 March 2019 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
+- [x] Exported to Keepeek Tuesday 12 March 2019 at 20:32
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -276,15 +320,15 @@ Monday 18 March 2019 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 8 March 2019 at 23:05
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
+- [x] Exported to Keepeek Tuesday 12 March 2019 at 20:32
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -298,15 +342,15 @@ Monday 18 March 2019 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 8 March 2019 at 23:05
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
+- [x] Exported to Keepeek Tuesday 12 March 2019 at 20:32
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -320,15 +364,15 @@ Monday 18 March 2019 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
+- [x] Exported to Keepeek Tuesday 12 March 2019 at 20:32
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -387,7 +431,7 @@ Wednesday 20 March 2019 at 21:00 | Wednesday 20 March 2019 at 21:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
+- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -409,7 +453,7 @@ Monday 25 March 2019 at 18:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
+- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
 - [ ] Exported to Keepeek
 
 ### Additional Information
