@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 13 March 2019 at 3:41* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 14 March 2019 at 4:05* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [11 March 2019](#11-march-2019)
 * [12 March 2019](#12-march-2019)
 * [13 March 2019](#13-march-2019)
 * [14 March 2019](#14-march-2019)
@@ -15,77 +14,9 @@ Data generated on | |
 * [25 March 2019](#25-march-2019)
 * [26 March 2019](#26-march-2019)
 * [27 March 2019](#27-march-2019)
+* [29 March 2019](#29-march-2019)
+* [1 April 2019](#1-april-2019)
 * [2 April 2019](#2-april-2019)
-
-------
-
-# 11 March 2019
-
-## [Measuring the Digital Transformation - A Roadmap for the Future](https://doi.org/10.1787/9789264311992-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 11 March 2019 at 8:00 | Monday 11 March 2019 at 8:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
-- [x] Exported to Keepeek Tuesday 12 March 2019 at 20:32
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Going Digital: Shaping Policies, Improving Lives](https://doi.org/10.1787/9789264312012-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 11 March 2019 at 8:00 | Monday 11 March 2019 at 8:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
-- [x] Exported to Keepeek Thursday 7 March 2019 at 20:35
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Adult Learning in Italy - What Role for Training Funds ?](https://doi.org/10.1787/9789264311978-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 11 March 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 March 2019 at 23:06
-- [x] Exported to Keepeek Thursday 7 March 2019 at 20:35
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -196,7 +127,7 @@ Thursday 14 March 2019 at 18:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 March 2019 at 23:05
+- [x] Exported to iLibrary Wednesday 13 March 2019 at 22:53
 - [x] Exported to Keepeek Friday 8 March 2019 at 20:35
 
 ### Additional Information
@@ -455,7 +386,7 @@ Tuesday 19 March 2019 at 9:00 | Tuesday 19 March 2019 at 9:00
 
 ### Additional Information
 
-* Directorate: *Centre for Entrepreneurship, SMEs and Local Development*
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
@@ -476,7 +407,7 @@ Wednesday 20 March 2019 at 21:00 | Wednesday 20 March 2019 at 21:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
+- [x] Exported to iLibrary Wednesday 13 March 2019 at 22:53
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -502,7 +433,7 @@ Monday 25 March 2019 at 18:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
+- [x] Exported to iLibrary Wednesday 13 March 2019 at 22:53
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -630,6 +561,102 @@ Wednesday 27 March 2019 at 13:30 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Argentina 2019](https://doi.org/10.1787/0c7f002c-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 27 March 2019 at 21:00 | Wednesday 27 March 2019 at 21:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 13 March 2019 at 22:53
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Estudios Económicos de la OCDE: Argentina 2019](https://doi.org/10.1787/ff5bc522-es)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 27 March 2019 at 21:00 | Wednesday 27 March 2019 at 21:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 13 March 2019 at 22:53
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Spanish*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+------
+
+# 29 March 2019
+
+## [OECD Economic Surveys: Sweden 2019](https://doi.org/10.1787/c510039b-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 29 March 2019 at 10:00 | Friday 29 March 2019 at 10:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 13 March 2019 at 22:53
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+------
+
+# 1 April 2019
+
+## [OECD Economic Surveys: Italy 2019](https://doi.org/10.1787/369ec0f2-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 1 April 2019 at 12:00 | Monday 1 April 2019 at 12:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 13 March 2019 at 22:53
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
