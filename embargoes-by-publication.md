@@ -2,51 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 14 March 2019 at 4:05* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Does attending a rural school make a difference in how and what you learn?](https://doi.org/10.1787/d076ecc3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 March 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 March 2019 at 23:06
-- [x] Exported to Keepeek Monday 11 March 2019 at 20:31
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Learning in rural schools - Insights from PISA, TALIS and the literature](https://doi.org/10.1787/8b1a5cb9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 March 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 March 2019 at 23:06
-- [x] Exported to Keepeek Monday 11 March 2019 at 20:31
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Friday 15 March 2019 at 4:27* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Starting Strong Teaching and Learning International Survey 2018 Conceptual Framework](https://doi.org/10.1787/106b1c42-en)
 
@@ -59,6 +15,28 @@ Wednesday 13 March 2019 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
 - [x] Exported to Keepeek Tuesday 12 March 2019 at 20:32
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Constructive accountability, transparency and trust between government and highly autonomous schools in Flanders](https://doi.org/10.1787/c891abbf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 March 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 March 2019 at 22:55
+- [x] Exported to Keepeek Thursday 14 March 2019 at 20:30
 
 ### Additional Information
 
@@ -342,17 +320,17 @@ Tuesday 19 March 2019 at 9:00 | Tuesday 19 March 2019 at 9:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 March 2019 at 22:55
+- [x] Exported to Keepeek Thursday 14 March 2019 at 20:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -366,6 +344,28 @@ Wednesday 20 March 2019 at 21:00 | Wednesday 20 March 2019 at 21:00
 
 - [ ] FTI loaded
 - [x] Exported to iLibrary Wednesday 13 March 2019 at 22:53
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Multi-dimensional Review of Panama - Volume 3: From Analysis to Action](https://doi.org/10.1787/34075eca-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 22 March 2019 at 10:00 | Friday 22 March 2019 at 10:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 14 March 2019 at 22:55
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -563,7 +563,7 @@ Friday 29 March 2019 at 10:00 | Friday 29 March 2019 at 10:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 13 March 2019 at 22:53
+- [x] Exported to iLibrary Thursday 14 March 2019 at 22:55
 - [ ] Exported to Keepeek
 
 ### Additional Information

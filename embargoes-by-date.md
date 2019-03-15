@@ -2,69 +2,21 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 14 March 2019 at 4:05* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 15 March 2019 at 4:27* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 March 2019](#12-march-2019)
 * [13 March 2019](#13-march-2019)
 * [14 March 2019](#14-march-2019)
 * [15 March 2019](#15-march-2019)
 * [18 March 2019](#18-march-2019)
 * [19 March 2019](#19-march-2019)
 * [20 March 2019](#20-march-2019)
+* [22 March 2019](#22-march-2019)
 * [25 March 2019](#25-march-2019)
 * [26 March 2019](#26-march-2019)
 * [27 March 2019](#27-march-2019)
 * [29 March 2019](#29-march-2019)
 * [1 April 2019](#1-april-2019)
 * [2 April 2019](#2-april-2019)
-
-------
-
-# 12 March 2019
-
-## [Does attending a rural school make a difference in how and what you learn?](https://doi.org/10.1787/d076ecc3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 March 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 March 2019 at 23:06
-- [x] Exported to Keepeek Monday 11 March 2019 at 20:31
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Learning in rural schools - Insights from PISA, TALIS and the literature](https://doi.org/10.1787/8b1a5cb9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 March 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 March 2019 at 23:06
-- [x] Exported to Keepeek Monday 11 March 2019 at 20:31
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -95,6 +47,28 @@ Wednesday 13 March 2019 at 14:00 | no launch event
 ------
 
 # 14 March 2019
+
+## [Constructive accountability, transparency and trust between government and highly autonomous schools in Flanders](https://doi.org/10.1787/c891abbf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 March 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 March 2019 at 22:55
+- [x] Exported to Keepeek Thursday 14 March 2019 at 20:30
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
 
 ## [The lives of teachers in diverse classrooms](https://doi.org/10.1787/8c26fee5-en)
 
@@ -380,17 +354,17 @@ Tuesday 19 March 2019 at 9:00 | Tuesday 19 March 2019 at 9:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 March 2019 at 22:55
+- [x] Exported to Keepeek Thursday 14 March 2019 at 20:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -408,6 +382,32 @@ Wednesday 20 March 2019 at 21:00 | Wednesday 20 March 2019 at 21:00
 
 - [ ] FTI loaded
 - [x] Exported to iLibrary Wednesday 13 March 2019 at 22:53
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 22 March 2019
+
+## [Multi-dimensional Review of Panama - Volume 3: From Analysis to Action](https://doi.org/10.1787/34075eca-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 22 March 2019 at 10:00 | Friday 22 March 2019 at 10:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 14 March 2019 at 22:55
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -621,7 +621,7 @@ Friday 29 March 2019 at 10:00 | Friday 29 March 2019 at 10:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 13 March 2019 at 22:53
+- [x] Exported to iLibrary Thursday 14 March 2019 at 22:55
 - [ ] Exported to Keepeek
 
 ### Additional Information
