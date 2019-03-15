@@ -2,29 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 15 March 2019 at 4:27* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Starting Strong Teaching and Learning International Survey 2018 Conceptual Framework](https://doi.org/10.1787/106b1c42-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 March 2019 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
-- [x] Exported to Keepeek Tuesday 12 March 2019 at 20:32
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Friday 15 March 2019 at 17:37* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Constructive accountability, transparency and trust between government and highly autonomous schools in Flanders](https://doi.org/10.1787/c891abbf-en)
 
@@ -290,6 +268,28 @@ Monday 18 March 2019 at 10:00 | no launch event
 
 ------
 
+## [Trends in Trade in Counterfeit and Pirated Goods](https://doi.org/10.1787/g2g9f533-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 March 2019 at 11:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 March 2019 at 22:55
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
 ## [Society at a Glance: Asia/Pacific 2019](https://doi.org/10.1787/soc_aag-2019-en)
 
 Embargo date | Launch date
@@ -309,6 +309,28 @@ Monday 18 March 2019 at 23:01 | Monday 18 March 2019 at 23:01
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [OECD Çevresel Performans İncelemeleri: Türkiye 2019](https://doi.org/10.1787/653318da-tr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 19 March 2019 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *Turkish*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -360,7 +382,7 @@ Wednesday 20 March 2019 at 21:00 | Wednesday 20 March 2019 at 21:00
 
 Embargo date | Launch date
 -------------|------------
-Friday 22 March 2019 at 10:00 | Friday 22 March 2019 at 10:00
+Friday 22 March 2019 at 8:00 | Friday 22 March 2019 at 8:00
 
 ### Status Information
 
@@ -639,5 +661,49 @@ Tuesday 2 April 2019 at 12:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Les impôts sur les salaires 2019](https://doi.org/10.1787/tax_wages-2019-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 April 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Taxing Wages 2019](https://doi.org/10.1787/tax_wages-2019-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 April 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 25 February 2019 at 23:11
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
