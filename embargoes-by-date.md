@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 15 March 2019 at 17:37* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Saturday 16 March 2019 at 5:51* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [14 March 2019](#14-march-2019)
 * [15 March 2019](#15-march-2019)
@@ -303,8 +303,8 @@ Monday 18 March 2019 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 March 2019 at 22:55
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 15 March 2019 at 22:58
+- [x] Exported to Keepeek Friday 15 March 2019 at 20:39
 
 ### Additional Information
 
@@ -351,8 +351,8 @@ Tuesday 19 March 2019 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 15 March 2019 at 22:58
+- [x] Exported to Keepeek Friday 15 March 2019 at 20:39
 
 ### Additional Information
 
@@ -425,7 +425,7 @@ Friday 22 March 2019 at 8:00 | Friday 22 March 2019 at 8:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 14 March 2019 at 22:55
+- [x] Exported to iLibrary Friday 15 March 2019 at 22:58
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -739,7 +739,7 @@ Thursday 11 April 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
+- [x] Exported to iLibrary Friday 15 March 2019 at 22:58
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -761,7 +761,7 @@ Thursday 11 April 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 25 February 2019 at 23:11
+- [x] Exported to iLibrary Friday 15 March 2019 at 22:58
 - [ ] Exported to Keepeek
 
 ### Additional Information
