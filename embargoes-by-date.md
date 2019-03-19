@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 16 March 2019 at 5:51* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 19 March 2019 at 4:03* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [14 March 2019](#14-march-2019)
-* [15 March 2019](#15-march-2019)
 * [18 March 2019](#18-march-2019)
 * [19 March 2019](#19-march-2019)
 * [20 March 2019](#20-march-2019)
@@ -17,124 +15,6 @@ Data generated on | |
 * [1 April 2019](#1-april-2019)
 * [2 April 2019](#2-april-2019)
 * [11 April 2019](#11-april-2019)
-
-------
-
-# 14 March 2019
-
-## [Constructive accountability, transparency and trust between government and highly autonomous schools in Flanders](https://doi.org/10.1787/c891abbf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 March 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 March 2019 at 22:55
-- [x] Exported to Keepeek Thursday 14 March 2019 at 20:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [The lives of teachers in diverse classrooms](https://doi.org/10.1787/8c26fee5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 March 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
-- [x] Exported to Keepeek Tuesday 12 March 2019 at 20:32
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Políticas Agrícolas en Argentina](https://doi.org/10.1787/9789264311879-es)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 March 2019 at 18:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 March 2019 at 22:53
-- [x] Exported to Keepeek Friday 8 March 2019 at 20:35
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Agricultural Policies in Argentina](https://doi.org/10.1787/9789264311695-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 March 2019 at 18:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
-- [x] Exported to Keepeek Thursday 7 March 2019 at 20:35
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-------
-
-# 15 March 2019
-
-## [Towards Green Growth in Emerging Market Economies - Evidence from Environmental Performance Reviews](https://doi.org/10.1787/d5e5b5d7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 15 March 2019 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
-- [x] Exported to Keepeek Thursday 7 March 2019 at 20:35
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -425,7 +305,7 @@ Friday 22 March 2019 at 8:00 | Friday 22 March 2019 at 8:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 15 March 2019 at 22:58
+- [x] Exported to iLibrary Monday 18 March 2019 at 22:56
 - [ ] Exported to Keepeek
 
 ### Additional Information
