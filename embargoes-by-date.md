@@ -2,199 +2,25 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 19 March 2019 at 4:03* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 20 March 2019 at 17:22* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [18 March 2019](#18-march-2019)
 * [19 March 2019](#19-march-2019)
 * [20 March 2019](#20-march-2019)
+* [21 March 2019](#21-march-2019)
 * [22 March 2019](#22-march-2019)
-* [25 March 2019](#25-march-2019)
 * [26 March 2019](#26-march-2019)
 * [27 March 2019](#27-march-2019)
+* [28 March 2019](#28-march-2019)
 * [29 March 2019](#29-march-2019)
 * [1 April 2019](#1-april-2019)
 * [2 April 2019](#2-april-2019)
 * [11 April 2019](#11-april-2019)
+* [15 April 2019](#15-april-2019)
 
 ------
 
 # 18 March 2019
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Liechtenstein 2019 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/299793c5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 March 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
-- [x] Exported to Keepeek Tuesday 12 March 2019 at 20:32
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [  Global Forum on Transparency and Exchange of Information for Tax Purposes: Hong Kong (China) 2019 (Second Round)   - Peer Review Report on the Exchange of Information on Request ](https://doi.org/10.1787/34f9b9a8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 March 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
-- [x] Exported to Keepeek Tuesday 12 March 2019 at 20:32
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: The Netherlands 2019 (Second Round) - Peer Review Report on the Exchange of Information on Request  ](https://doi.org/10.1787/fdce8e7f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 March 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
-- [x] Exported to Keepeek Tuesday 12 March 2019 at 20:32
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Republic of North Macedonia 2019 (Second Round)  - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/c02d85f9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 March 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
-- [x] Exported to Keepeek Tuesday 12 March 2019 at 20:32
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Spain 2019 (Second Round) - Peer Review Report on the Exchange of Information on Request ](https://doi.org/10.1787/997a7b23-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 March 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
-- [x] Exported to Keepeek Tuesday 12 March 2019 at 20:32
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Turks and Caicos Islands 2019 (Second Round)  - Peer Review Report on the Exchange of Information on Request ](https://doi.org/10.1787/5a837e0a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 March 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
-- [x] Exported to Keepeek Tuesday 12 March 2019 at 20:32
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Luxembourg 2019 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/7ba732bf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 March 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
-- [x] Exported to Keepeek Tuesday 12 March 2019 at 20:32
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Trends in Trade in Counterfeit and Pirated Goods](https://doi.org/10.1787/g2g9f533-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 March 2019 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 March 2019 at 22:58
-- [x] Exported to Keepeek Friday 15 March 2019 at 20:39
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ## [Society at a Glance: Asia/Pacific 2019](https://doi.org/10.1787/soc_aag-2019-en)
 
@@ -270,25 +96,95 @@ Tuesday 19 March 2019 at 9:00 | Tuesday 19 March 2019 at 9:00
 
 # 20 March 2019
 
-## [Latin American Economic Outlook 2019 - Development in Transition](https://doi.org/10.1787/g2g9ff18-en)
+## [OECD Reviews of Pension Systems: Portugal](https://doi.org/10.1787/9789264313736-en)
 
 Embargo date | Launch date
--------------|------------
-Wednesday 20 March 2019 at 21:00 | Wednesday 20 March 2019 at 21:00
+-------------|:------------:
+Wednesday 20 March 2019 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 13 March 2019 at 22:53
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 20 March 2019 at 11:28
+- [x] Exported to Keepeek Wednesday 20 March 2019 at 11:27
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 21 March 2019
+
+## [Annex - Taxation and the Future of Work - How Tax Systems Influence Choice of Employment Form](https://doi.org/10.1787/6b20cce5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 March 2019 at 4:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
-* Directorate: *Development Centre*
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Format: *PDF*
+
+------
+
+## [Taxation and the future of work - How tax systems influence choice of employment form](https://doi.org/10.1787/20f7164a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 March 2019 at 4:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Policy Responses to New Forms of Work ](https://doi.org/10.1787/0763f1b7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 March 2019 at 11:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -300,11 +196,11 @@ Wednesday 20 March 2019 at 21:00 | Wednesday 20 March 2019 at 21:00
 
 Embargo date | Launch date
 -------------|------------
-Friday 22 March 2019 at 8:00 | Friday 22 March 2019 at 8:00
+Friday 22 March 2019 at 16:00 | Friday 22 March 2019 at 16:00
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 18 March 2019 at 22:56
 - [ ] Exported to Keepeek
 
@@ -312,35 +208,9 @@ Friday 22 March 2019 at 8:00 | Friday 22 March 2019 at 8:00
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
-
-------
-
-------
-
-# 25 March 2019
-
-## [Revenue Statistics in Latin America and the Caribbean 2019  (en) | Estadísticas tributarias en América Latina y el Caribe 2019](https://doi.org/10.1787/25666b8d-en-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 25 March 2019 at 18:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 13 March 2019 at 22:53
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English | Spanish*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
 
 ------
 
@@ -364,7 +234,7 @@ Tuesday 26 March 2019 at 8:00 | Tuesday 26 March 2019 at 8:00
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -408,9 +278,9 @@ Tuesday 26 March 2019 at 8:00 | Tuesday 26 March 2019 at 8:00
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -426,7 +296,7 @@ Wednesday 27 March 2019 at 13:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 8 March 2019 at 23:05
 - [ ] Exported to Keepeek
 
@@ -436,7 +306,7 @@ Wednesday 27 March 2019 at 13:30 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -448,7 +318,7 @@ Wednesday 27 March 2019 at 13:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Friday 8 March 2019 at 23:05
 - [ ] Exported to Keepeek
 
@@ -458,7 +328,7 @@ Wednesday 27 March 2019 at 13:30 | no launch event
 * Language: *Spanish*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -503,6 +373,32 @@ Wednesday 27 March 2019 at 21:00 | Wednesday 27 March 2019 at 21:00
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Format: *PDF*
+
+------
+
+------
+
+# 28 March 2019
+
+## [Joint Audit 2019 – Enhancing Tax Co-operation and Improving Tax Certainty - Forum on Tax Administration](https://doi.org/10.1787/17bfa30d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 March 2019 at 17:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -587,8 +483,8 @@ Tuesday 2 April 2019 at 12:00 | Tuesday 2 April 2019 at 12:00
 ## [Driving Performance at Peru's Energy and Mining Regulator](https://doi.org/10.1787/9789264310865-en)
 
 Embargo date | Launch date
--------------|:------------:
-Tuesday 2 April 2019 at 12:00 | no launch event
+-------------|------------
+Tuesday 2 April 2019 at 12:00 | Tuesday 2 April 2019 at 12:00
 
 ### Status Information
 
@@ -647,6 +543,76 @@ Thursday 11 April 2019 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 15 April 2019
+
+## [Gouvernance d’entreprise dans la région MENA - Cadre d’action pour la compétitivité et la croissance](https://doi.org/10.1787/f3d4b47c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 15 April 2019 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [حوكمة الشركات في منطقة الشرق الأوسط وشمال أفريقيا - بناء إطار للقدرة التنافسية والنمو](https://doi.org/10.1787/f8f22be1-ar)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 15 April 2019 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *Arabic*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Corporate Governance in MENA - Building a Framework for Competitiveness and Growth](https://doi.org/10.1787/2a6992c2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 15 April 2019 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 15 March 2019 at 22:58
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
