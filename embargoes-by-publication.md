@@ -2,73 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 20 March 2019 at 17:22* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Society at a Glance: Asia/Pacific 2019](https://doi.org/10.1787/soc_aag-2019-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 18 March 2019 at 23:01 | Monday 18 March 2019 at 23:01
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 March 2019 at 23:06
-- [x] Exported to Keepeek Monday 11 March 2019 at 20:31
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD Çevresel Performans İncelemeleri: Türkiye 2019](https://doi.org/10.1787/653318da-tr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 19 March 2019 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 March 2019 at 22:58
-- [x] Exported to Keepeek Friday 15 March 2019 at 20:39
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *Turkish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [OECD Regional Outlook 2019 - Leveraging Megatrends for Cities and Rural Areas](https://doi.org/10.1787/9789264312838-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 19 March 2019 at 9:00 | Tuesday 19 March 2019 at 9:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 March 2019 at 22:55
-- [x] Exported to Keepeek Thursday 14 March 2019 at 20:30
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
+| *Thursday 21 March 2019 at 11:27* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Reviews of Pension Systems: Portugal](https://doi.org/10.1787/9789264313736-en)
 
@@ -101,8 +35,8 @@ Thursday 21 March 2019 at 4:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 21 March 2019 at 10:10
+- [x] Exported to Keepeek Thursday 21 March 2019 at 10:27
 
 ### Additional Information
 
@@ -123,8 +57,8 @@ Thursday 21 March 2019 at 4:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 21 March 2019 at 10:10
+- [x] Exported to Keepeek Thursday 21 March 2019 at 10:27
 
 ### Additional Information
 
@@ -133,6 +67,28 @@ Thursday 21 March 2019 at 4:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
+
+------
+
+## [Multilingual Summaries for Policy Responses to New Forms of Work](https://doi.org/10.1787/92f469f1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 March 2019 at 11:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 21 March 2019 at 10:54
+- [x] Exported to Keepeek Thursday 21 March 2019 at 10:53
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* 3 Languages: [German](https://doi.org/10.1787/485ee7a1-de), [English](https://doi.org/10.1787/92f469f1-en), [Spanish](https://doi.org/10.1787/ba16d557-es)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -145,8 +101,8 @@ Thursday 21 March 2019 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 March 2019 at 22:51
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 21 March 2019 at 10:54
+- [x] Exported to Keepeek Thursday 21 March 2019 at 10:53
 
 ### Additional Information
 
@@ -331,6 +287,28 @@ Wednesday 27 March 2019 at 21:00 | Wednesday 27 March 2019 at 21:00
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Format: *PDF*
+
+------
+
+## [The Sharing and Gig Economy - Effective Taxation of Platform Sellers   - Forum on Tax Administration  ](https://doi.org/10.1787/574b61f8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 March 2019 at 17:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
