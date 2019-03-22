@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 21 March 2019 at 11:27* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 22 March 2019 at 4:22* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [20 March 2019](#20-march-2019)
 * [21 March 2019](#21-march-2019)
@@ -29,8 +29,8 @@ Wednesday 20 March 2019 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 20 March 2019 at 11:28
-- [x] Exported to Keepeek Wednesday 20 March 2019 at 11:27
+- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
+- [x] Exported to Keepeek Thursday 21 March 2019 at 20:39
 
 ### Additional Information
 
@@ -55,8 +55,8 @@ Thursday 21 March 2019 at 4:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 March 2019 at 10:10
-- [x] Exported to Keepeek Thursday 21 March 2019 at 10:27
+- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
+- [x] Exported to Keepeek Thursday 21 March 2019 at 20:39
 
 ### Additional Information
 
@@ -77,8 +77,8 @@ Thursday 21 March 2019 at 4:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 March 2019 at 10:10
-- [x] Exported to Keepeek Thursday 21 March 2019 at 10:27
+- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
+- [x] Exported to Keepeek Thursday 21 March 2019 at 20:39
 
 ### Additional Information
 
@@ -99,8 +99,8 @@ Thursday 21 March 2019 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 March 2019 at 10:54
-- [x] Exported to Keepeek Thursday 21 March 2019 at 10:53
+- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
+- [x] Exported to Keepeek Thursday 21 March 2019 at 20:39
 
 ### Additional Information
 
@@ -121,8 +121,8 @@ Thursday 21 March 2019 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 March 2019 at 10:54
-- [x] Exported to Keepeek Thursday 21 March 2019 at 10:53
+- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
+- [x] Exported to Keepeek Thursday 21 March 2019 at 20:39
 
 ### Additional Information
 
@@ -147,8 +147,8 @@ Friday 22 March 2019 at 16:00 | Friday 22 March 2019 at 16:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 18 March 2019 at 22:56
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
+- [x] Exported to Keepeek Thursday 21 March 2019 at 20:39
 
 ### Additional Information
 
@@ -173,8 +173,8 @@ Tuesday 26 March 2019 at 8:00 | Tuesday 26 March 2019 at 8:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 March 2019 at 23:05
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
+- [x] Exported to Keepeek Thursday 21 March 2019 at 20:39
 
 ### Additional Information
 
@@ -217,7 +217,7 @@ Tuesday 26 March 2019 at 8:00 | Tuesday 26 March 2019 at 8:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 6 March 2019 at 22:54
+- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -243,14 +243,14 @@ Wednesday 27 March 2019 at 13:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 March 2019 at 23:05
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 21 March 2019 at 23:49
+- [x] Exported to Keepeek Thursday 21 March 2019 at 20:39
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -265,14 +265,14 @@ Wednesday 27 March 2019 at 13:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 March 2019 at 23:05
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 21 March 2019 at 23:49
+- [x] Exported to Keepeek Thursday 21 March 2019 at 20:39
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -286,15 +286,15 @@ Wednesday 27 March 2019 at 21:00 | Wednesday 27 March 2019 at 21:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 13 March 2019 at 22:53
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 21 March 2019 at 23:49
+- [x] Exported to Keepeek Thursday 21 March 2019 at 20:39
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -308,15 +308,15 @@ Wednesday 27 March 2019 at 21:00 | Wednesday 27 March 2019 at 21:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 13 March 2019 at 22:53
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 21 March 2019 at 23:49
+- [x] Exported to Keepeek Thursday 21 March 2019 at 20:39
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -326,7 +326,7 @@ Wednesday 27 March 2019 at 21:00 | Wednesday 27 March 2019 at 21:00
 
 # 28 March 2019
 
-## [The Sharing and Gig Economy - Effective Taxation of Platform Sellers   - Forum on Tax Administration  ](https://doi.org/10.1787/574b61f8-en)
+## [The Sharing and Gig Economy: Effective Taxation of Platform Sellers   - Forum on Tax Administration  ](https://doi.org/10.1787/574b61f8-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -335,7 +335,7 @@ Thursday 28 March 2019 at 17:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -357,7 +357,7 @@ Thursday 28 March 2019 at 17:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 21 March 2019 at 23:49
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -435,7 +435,7 @@ Tuesday 2 April 2019 at 12:00 | Tuesday 2 April 2019 at 12:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 March 2019 at 22:56
+- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
 - [x] Exported to Keepeek Monday 4 March 2019 at 20:33
 
 ### Additional Information
@@ -531,7 +531,7 @@ Monday 15 April 2019 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -553,7 +553,7 @@ Monday 15 April 2019 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -575,7 +575,7 @@ Monday 15 April 2019 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 15 March 2019 at 22:58
+- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
 - [ ] Exported to Keepeek
 
 ### Additional Information
