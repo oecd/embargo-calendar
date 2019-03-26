@@ -2,139 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 22 March 2019 at 4:22* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Reviews of Pension Systems: Portugal](https://doi.org/10.1787/9789264313736-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 20 March 2019 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
-- [x] Exported to Keepeek Thursday 21 March 2019 at 20:39
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Annex - Taxation and the Future of Work - How Tax Systems Influence Choice of Employment Form](https://doi.org/10.1787/6b20cce5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 March 2019 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
-- [x] Exported to Keepeek Thursday 21 March 2019 at 20:39
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Taxation and the future of work - How tax systems influence choice of employment form](https://doi.org/10.1787/20f7164a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 March 2019 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
-- [x] Exported to Keepeek Thursday 21 March 2019 at 20:39
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Multilingual Summaries for Policy Responses to New Forms of Work](https://doi.org/10.1787/92f469f1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 March 2019 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
-- [x] Exported to Keepeek Thursday 21 March 2019 at 20:39
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* 3 Languages: [German](https://doi.org/10.1787/485ee7a1-de), [English](https://doi.org/10.1787/92f469f1-en), [Spanish](https://doi.org/10.1787/ba16d557-es)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Policy Responses to New Forms of Work ](https://doi.org/10.1787/0763f1b7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 March 2019 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
-- [x] Exported to Keepeek Thursday 21 March 2019 at 20:39
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Multi-dimensional Review of Panama - Volume 3: From Analysis to Action](https://doi.org/10.1787/34075eca-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 22 March 2019 at 16:00 | Friday 22 March 2019 at 16:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
-- [x] Exported to Keepeek Thursday 21 March 2019 at 20:39
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Tuesday 26 March 2019 at 10:33* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Regulatory Policy in Argentina - Tools and Practices for Regulatory Improvement ](https://doi.org/10.1787/d835e540-en)
 
@@ -158,28 +26,6 @@ Tuesday 26 March 2019 at 8:00 | Tuesday 26 March 2019 at 8:00
 
 ------
 
-## [OECD Economic Surveys: China 2019](https://doi.org/10.1787/eco_surveys-chn-2019-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 26 March 2019 at 8:00 | Tuesday 26 March 2019 at 8:00
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 18 February 2019 at 23:54
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Estudio de Política Regulatoria en Argentina - Herramientas y prácticas para la mejora regulatoria](https://doi.org/10.1787/c2e61aaf-es)
 
 Embargo date | Launch date
@@ -196,6 +42,28 @@ Tuesday 26 March 2019 at 8:00 | Tuesday 26 March 2019 at 8:00
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Society at a Glance 2019 - OECD Social Indicators](https://doi.org/10.1787/soc_glance-2019-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 March 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 26 March 2019 at 1:11
+- [x] Exported to Keepeek Monday 25 March 2019 at 22:18
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
@@ -298,17 +166,17 @@ Thursday 28 March 2019 at 17:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 23 March 2019 at 2:38
+- [x] Exported to Keepeek Friday 22 March 2019 at 20:45
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -331,6 +199,28 @@ Thursday 28 March 2019 at 17:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [The distributional aspects of environmental quality and environmental policies - Opportunities for individuals and households](https://doi.org/10.1787/e0939b52-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 29 March 2019 at 4:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 26 March 2019 at 1:11
+- [x] Exported to Keepeek Monday 25 March 2019 at 22:18
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -475,7 +365,7 @@ Monday 15 April 2019 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
+- [x] Exported to iLibrary Saturday 23 March 2019 at 2:38
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -497,7 +387,7 @@ Monday 15 April 2019 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
+- [x] Exported to iLibrary Saturday 23 March 2019 at 2:38
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -518,7 +408,7 @@ Monday 15 April 2019 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
 - [ ] Exported to Keepeek
 
@@ -528,6 +418,6 @@ Monday 15 April 2019 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
