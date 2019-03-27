@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 26 March 2019 at 10:33* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 27 March 2019 at 6:30* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [26 March 2019](#26-march-2019)
 * [27 March 2019](#27-march-2019)
@@ -47,9 +47,9 @@ Tuesday 26 March 2019 at 8:00 | Tuesday 26 March 2019 at 8:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 March 2019 at 1:15
+- [x] Exported to Keepeek Tuesday 26 March 2019 at 21:46
 
 ### Additional Information
 
@@ -84,6 +84,28 @@ Wednesday 27 March 2019 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Multilingual Summaries for Society at a Glance 2019](https://doi.org/10.1787/dbbb7a05-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 March 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 March 2019 at 1:15
+- [x] Exported to Keepeek Tuesday 26 March 2019 at 21:46
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* 12 Languages: [Italian](https://doi.org/10.1787/d6bfbd4d-it), [Korean](https://doi.org/10.1787/b9bfc7fe-ko), [Turkish](https://doi.org/10.1787/d456a28e-tr), [German](https://doi.org/10.1787/e60e2ee9-de), [Chinese](https://doi.org/10.1787/9ee3f8dc-zh), [English](https://doi.org/10.1787/dbbb7a05-en), [Polish](https://doi.org/10.1787/6c290120-pl), [Japanese](https://doi.org/10.1787/5788373c-ja), [Russian](https://doi.org/10.1787/cd738655-ru), [Spanish](https://doi.org/10.1787/b4210130-es), [Portuguese](https://doi.org/10.1787/e5ddf37c-pt), [French](https://doi.org/10.1787/3822b1da-fr)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -135,13 +157,13 @@ Wednesday 27 March 2019 at 13:30 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 27 March 2019 at 21:00 | Wednesday 27 March 2019 at 21:00
+Wednesday 27 March 2019 at 19:00 | Wednesday 27 March 2019 at 19:00
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 March 2019 at 23:49
-- [x] Exported to Keepeek Thursday 21 March 2019 at 20:39
+- [x] Exported to iLibrary Wednesday 27 March 2019 at 1:15
+- [x] Exported to Keepeek Tuesday 26 March 2019 at 21:46
 
 ### Additional Information
 
@@ -157,13 +179,13 @@ Wednesday 27 March 2019 at 21:00 | Wednesday 27 March 2019 at 21:00
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 27 March 2019 at 21:00 | Wednesday 27 March 2019 at 21:00
+Wednesday 27 March 2019 at 19:00 | Wednesday 27 March 2019 at 19:00
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 March 2019 at 23:49
-- [x] Exported to Keepeek Thursday 21 March 2019 at 20:39
+- [x] Exported to iLibrary Wednesday 27 March 2019 at 1:15
+- [x] Exported to Keepeek Tuesday 26 March 2019 at 21:46
 
 ### Additional Information
 
@@ -257,15 +279,15 @@ Friday 29 March 2019 at 10:00 | Friday 29 March 2019 at 10:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 14 March 2019 at 22:55
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 March 2019 at 1:15
+- [x] Exported to Keepeek Tuesday 26 March 2019 at 21:46
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -450,14 +472,14 @@ Monday 15 April 2019 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 27 March 2019 at 1:15
+- [x] Exported to Keepeek Tuesday 26 March 2019 at 21:46
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
