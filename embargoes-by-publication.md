@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 27 March 2019 at 6:30* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 28 March 2019 at 2:31* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Regulatory Policy in Argentina - Tools and Practices for Regulatory Improvement ](https://doi.org/10.1787/d835e540-en)
 
@@ -210,15 +210,15 @@ Thursday 28 March 2019 at 17:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 March 2019 at 23:49
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Wednesday 27 March 2019 at 20:34
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -235,6 +235,28 @@ Friday 29 March 2019 at 4:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 26 March 2019 at 1:11
 - [x] Exported to Keepeek Monday 25 March 2019 at 22:18
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [SMEs: Key drivers of green and inclusive growth](https://doi.org/10.1787/8a51fc0c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 29 March 2019 at 4:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Wednesday 27 March 2019 at 20:34
 
 ### Additional Information
 
@@ -276,16 +298,38 @@ Monday 1 April 2019 at 12:00 | Monday 1 April 2019 at 12:00
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 March 2019 at 22:53
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Wednesday 27 March 2019 at 20:34
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [A review of “Transition Management” strategies - Lessons for advancing the green low-carbon transition](https://doi.org/10.1787/4617a02b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 April 2019 at 3:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Wednesday 27 March 2019 at 20:34
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -378,6 +422,28 @@ Thursday 11 April 2019 at 9:00 | no launch event
 
 ------
 
+## [Innovation, Agricultural Productivity and Sustainability in Latvia](https://doi.org/10.1787/9789264312524-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 April 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 March 2019 at 11:31
+- [x] Exported to Keepeek Wednesday 27 March 2019 at 20:34
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
 ## [Gouvernance d’entreprise dans la région MENA - Cadre d’action pour la compétitivité et la croissance](https://doi.org/10.1787/f3d4b47c-fr)
 
 Embargo date | Launch date
@@ -441,5 +507,49 @@ Monday 15 April 2019 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: China 2019](https://doi.org/10.1787/eco_surveys-chn-2019-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 16 April 2019 at 7:00 | Tuesday 16 April 2019 at 7:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 26 March 2019 at 1:11
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Employment Outlook 2019 - The Future of Work](https://doi.org/10.1787/9ee00155-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 April 2019 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 27 March 2019 at 1:15
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
