@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 29 March 2019 at 3:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 29 March 2019 at 9:29* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [27 March 2019](#27-march-2019)
 * [28 March 2019](#28-march-2019)
@@ -256,7 +256,7 @@ Friday 29 March 2019 at 8:00 | Friday 29 March 2019 at 8:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 March 2019 at 1:15
+- [x] Exported to iLibrary Thursday 28 March 2019 at 22:55
 - [x] Exported to Keepeek Thursday 28 March 2019 at 20:34
 
 ### Additional Information
@@ -378,7 +378,7 @@ Wednesday 10 April 2019 at 19:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 18 March 2019 at 22:56
+- [x] Exported to iLibrary Thursday 28 March 2019 at 22:55
 - [ ] Exported to Keepeek
 
 ### Additional Information
