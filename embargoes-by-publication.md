@@ -2,51 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 28 March 2019 at 2:31* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Regulatory Policy in Argentina - Tools and Practices for Regulatory Improvement ](https://doi.org/10.1787/d835e540-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 26 March 2019 at 8:00 | Tuesday 26 March 2019 at 8:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
-- [x] Exported to Keepeek Thursday 21 March 2019 at 20:39
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Estudio de Política Regulatoria en Argentina - Herramientas y prácticas para la mejora regulatoria](https://doi.org/10.1787/c2e61aaf-es)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 26 March 2019 at 8:00 | Tuesday 26 March 2019 at 8:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 March 2019 at 1:15
-- [x] Exported to Keepeek Tuesday 26 March 2019 at 21:46
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Friday 29 March 2019 at 3:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Society at a Glance 2019 - OECD Social Indicators](https://doi.org/10.1787/soc_glance-2019-en)
 
@@ -211,7 +167,7 @@ Thursday 28 March 2019 at 17:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 March 2019 at 23:49
+- [x] Exported to iLibrary Wednesday 27 March 2019 at 23:03
 - [x] Exported to Keepeek Wednesday 27 March 2019 at 20:34
 
 ### Additional Information
@@ -233,7 +189,7 @@ Friday 29 March 2019 at 4:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 26 March 2019 at 1:11
+- [x] Exported to iLibrary Wednesday 27 March 2019 at 23:03
 - [x] Exported to Keepeek Monday 25 March 2019 at 22:18
 
 ### Additional Information
@@ -255,7 +211,7 @@ Friday 29 March 2019 at 4:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 27 March 2019 at 23:03
 - [x] Exported to Keepeek Wednesday 27 March 2019 at 20:34
 
 ### Additional Information
@@ -272,13 +228,13 @@ Friday 29 March 2019 at 4:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Friday 29 March 2019 at 10:00 | Friday 29 March 2019 at 10:00
+Friday 29 March 2019 at 8:00 | Friday 29 March 2019 at 8:00
 
 ### Status Information
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 March 2019 at 1:15
-- [x] Exported to Keepeek Tuesday 26 March 2019 at 21:46
+- [x] Exported to Keepeek Thursday 28 March 2019 at 20:34
 
 ### Additional Information
 
@@ -299,7 +255,7 @@ Monday 1 April 2019 at 12:00 | Monday 1 April 2019 at 12:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 March 2019 at 22:53
+- [x] Exported to iLibrary Wednesday 27 March 2019 at 23:03
 - [x] Exported to Keepeek Wednesday 27 March 2019 at 20:34
 
 ### Additional Information
@@ -321,7 +277,7 @@ Tuesday 2 April 2019 at 3:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 27 March 2019 at 23:03
 - [x] Exported to Keepeek Wednesday 27 March 2019 at 20:34
 
 ### Additional Information
@@ -378,6 +334,28 @@ Tuesday 2 April 2019 at 12:00 | Tuesday 2 April 2019 at 12:00
 
 ------
 
+## [Under Pressure: The Squeezed Middle Class](https://doi.org/10.1787/689afed1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 April 2019 at 19:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 18 March 2019 at 22:56
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Les impôts sur les salaires 2019](https://doi.org/10.1787/tax_wages-2019-fr)
 
 Embargo date | Launch date
@@ -431,7 +409,7 @@ Thursday 11 April 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 March 2019 at 11:31
+- [x] Exported to iLibrary Wednesday 27 March 2019 at 23:03
 - [x] Exported to Keepeek Wednesday 27 March 2019 at 20:34
 
 ### Additional Information
@@ -519,7 +497,7 @@ Tuesday 16 April 2019 at 7:00 | Tuesday 16 April 2019 at 7:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 26 March 2019 at 1:11
+- [x] Exported to iLibrary Wednesday 27 March 2019 at 23:03
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -528,7 +506,7 @@ Tuesday 16 April 2019 at 7:00 | Tuesday 16 April 2019 at 7:00
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -541,7 +519,7 @@ Thursday 25 April 2019 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 27 March 2019 at 1:15
+- [x] Exported to iLibrary Wednesday 27 March 2019 at 23:03
 - [ ] Exported to Keepeek
 
 ### Additional Information
