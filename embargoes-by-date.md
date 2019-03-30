@@ -2,154 +2,18 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 29 March 2019 at 9:29* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Saturday 30 March 2019 at 5:26* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [27 March 2019](#27-march-2019)
 * [28 March 2019](#28-march-2019)
 * [29 March 2019](#29-march-2019)
 * [1 April 2019](#1-april-2019)
 * [2 April 2019](#2-april-2019)
+* [9 April 2019](#9-april-2019)
 * [10 April 2019](#10-april-2019)
 * [11 April 2019](#11-april-2019)
 * [15 April 2019](#15-april-2019)
 * [16 April 2019](#16-april-2019)
 * [25 April 2019](#25-april-2019)
-
-------
-
-# 27 March 2019
-
-## [Society at a Glance 2019 - OECD Social Indicators](https://doi.org/10.1787/soc_glance-2019-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 March 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 26 March 2019 at 1:11
-- [x] Exported to Keepeek Monday 25 March 2019 at 22:18
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Multilingual Summaries for Society at a Glance 2019](https://doi.org/10.1787/dbbb7a05-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 March 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 March 2019 at 1:15
-- [x] Exported to Keepeek Tuesday 26 March 2019 at 21:46
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* 12 Languages: [Italian](https://doi.org/10.1787/d6bfbd4d-it), [Korean](https://doi.org/10.1787/b9bfc7fe-ko), [Turkish](https://doi.org/10.1787/d456a28e-tr), [German](https://doi.org/10.1787/e60e2ee9-de), [Chinese](https://doi.org/10.1787/9ee3f8dc-zh), [English](https://doi.org/10.1787/dbbb7a05-en), [Polish](https://doi.org/10.1787/6c290120-pl), [Japanese](https://doi.org/10.1787/5788373c-ja), [Russian](https://doi.org/10.1787/cd738655-ru), [Spanish](https://doi.org/10.1787/b4210130-es), [Portuguese](https://doi.org/10.1787/e5ddf37c-pt), [French](https://doi.org/10.1787/3822b1da-fr)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [OECD Integrity Review of Argentina - Achieving Systemic and Sustained Change](https://doi.org/10.1787/g2g98ec3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 March 2019 at 13:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 March 2019 at 23:49
-- [x] Exported to Keepeek Thursday 21 March 2019 at 20:39
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Estudio de la OCDE sobre Integridad en Argentina - Lograr un cambio sistémico y sostenido](https://doi.org/10.1787/g2g98f15-es)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 March 2019 at 13:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 March 2019 at 23:49
-- [x] Exported to Keepeek Thursday 21 March 2019 at 20:39
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Argentina 2019](https://doi.org/10.1787/0c7f002c-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 27 March 2019 at 19:00 | Wednesday 27 March 2019 at 19:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 March 2019 at 1:15
-- [x] Exported to Keepeek Tuesday 26 March 2019 at 21:46
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Estudios Económicos de la OCDE: Argentina 2019](https://doi.org/10.1787/ff5bc522-es)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 27 March 2019 at 19:00 | Wednesday 27 March 2019 at 19:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 March 2019 at 1:15
-- [x] Exported to Keepeek Tuesday 26 March 2019 at 21:46
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -164,7 +28,7 @@ Thursday 28 March 2019 at 17:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 23 March 2019 at 2:38
+- [x] Exported to iLibrary Friday 29 March 2019 at 14:09
 - [x] Exported to Keepeek Friday 22 March 2019 at 20:45
 
 ### Additional Information
@@ -283,7 +147,7 @@ Monday 1 April 2019 at 12:00 | Monday 1 April 2019 at 12:00
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 March 2019 at 23:03
-- [x] Exported to Keepeek Wednesday 27 March 2019 at 20:34
+- [x] Exported to Keepeek Friday 29 March 2019 at 20:37
 
 ### Additional Information
 
@@ -362,6 +226,54 @@ Tuesday 2 April 2019 at 12:00 | Tuesday 2 April 2019 at 12:00
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 9 April 2019
+
+## [OECD Economic Surveys: France 2019](https://doi.org/10.1787/a0eee144-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 9 April 2019 at 7:00 | Tuesday 9 April 2019 at 7:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 29 March 2019 at 23:17
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Études économiques de l'OCDE : France 2019](https://doi.org/10.1787/10f0135f-fr)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 9 April 2019 at 7:00 | Tuesday 9 April 2019 at 7:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 29 March 2019 at 23:17
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -448,7 +360,7 @@ Thursday 11 April 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 March 2019 at 23:03
+- [x] Exported to iLibrary Friday 29 March 2019 at 23:17
 - [x] Exported to Keepeek Wednesday 27 March 2019 at 20:34
 
 ### Additional Information
