@@ -2,117 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 30 March 2019 at 5:26* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The Sharing and Gig Economy: Effective Taxation of Platform Sellers   - Forum on Tax Administration  ](https://doi.org/10.1787/574b61f8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 March 2019 at 17:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 March 2019 at 14:09
-- [x] Exported to Keepeek Friday 22 March 2019 at 20:45
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Joint Audit 2019 – Enhancing Tax Co-operation and Improving Tax Certainty - Forum on Tax Administration](https://doi.org/10.1787/17bfa30d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 March 2019 at 17:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 March 2019 at 23:03
-- [x] Exported to Keepeek Wednesday 27 March 2019 at 20:34
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [The distributional aspects of environmental quality and environmental policies - Opportunities for individuals and households](https://doi.org/10.1787/e0939b52-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 29 March 2019 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 March 2019 at 23:03
-- [x] Exported to Keepeek Monday 25 March 2019 at 22:18
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [SMEs: Key drivers of green and inclusive growth](https://doi.org/10.1787/8a51fc0c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 29 March 2019 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 March 2019 at 23:03
-- [x] Exported to Keepeek Wednesday 27 March 2019 at 20:34
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Sweden 2019](https://doi.org/10.1787/c510039b-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 29 March 2019 at 8:00 | Friday 29 March 2019 at 8:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 28 March 2019 at 22:55
-- [x] Exported to Keepeek Thursday 28 March 2019 at 20:34
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
+| *Tuesday 2 April 2019 at 3:55* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Italy 2019](https://doi.org/10.1787/369ec0f2-en)
 
@@ -132,6 +22,28 @@ Monday 1 April 2019 at 12:00 | Monday 1 April 2019 at 12:00
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Adapting business framework conditions to deal with disruptive technologies in Denmark](https://doi.org/10.1787/f7a1fe23-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 April 2019 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 1 April 2019 at 23:20
+- [x] Exported to Keepeek Monday 1 April 2019 at 20:33
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -211,7 +123,7 @@ Tuesday 9 April 2019 at 7:00 | Tuesday 9 April 2019 at 7:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 29 March 2019 at 23:17
+- [x] Exported to iLibrary Monday 1 April 2019 at 23:20
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -233,7 +145,7 @@ Tuesday 9 April 2019 at 7:00 | Tuesday 9 April 2019 at 7:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 29 March 2019 at 23:17
+- [x] Exported to iLibrary Monday 1 April 2019 at 23:20
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -255,7 +167,7 @@ Wednesday 10 April 2019 at 19:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 28 March 2019 at 22:55
+- [x] Exported to iLibrary Monday 1 April 2019 at 23:20
 - [ ] Exported to Keepeek
 
 ### Additional Information
