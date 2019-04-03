@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 2 April 2019 at 3:55* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 3 April 2019 at 3:27* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Italy 2019](https://doi.org/10.1787/369ec0f2-en)
 
@@ -111,6 +111,50 @@ Tuesday 2 April 2019 at 12:00 | Tuesday 2 April 2019 at 12:00
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Moving towards more school autonomy in Austria - Refocusing the role of school supervision](https://doi.org/10.1787/9c49eebe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 3 April 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 2 April 2019 at 22:48
+- [x] Exported to Keepeek Tuesday 2 April 2019 at 20:32
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Report of the Inter-agency Task Force on Financing for Development 2019 - Financing for Sustainable Development Report](https://doi.org/10.18356/9444edd5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 4 April 2019 at 15:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 2 April 2019 at 22:48
+- [x] Exported to Keepeek Tuesday 2 April 2019 at 20:32
+
+### Additional Information
+
+* Directorate: *Non applicable*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -246,6 +290,28 @@ Thursday 11 April 2019 at 9:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Japan 2019](https://doi.org/10.1787/fd63f374-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 15 April 2019 at 1:00 | Monday 15 April 2019 at 1:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 2 April 2019 at 22:48
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
 ## [Gouvernance d’entreprise dans la région MENA - Cadre d’action pour la compétitivité et la croissance](https://doi.org/10.1787/f3d4b47c-fr)
 
 Embargo date | Launch date
@@ -264,7 +330,7 @@ Monday 15 April 2019 at 8:00 | no launch event
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
