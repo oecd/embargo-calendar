@@ -2,73 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 3 April 2019 at 3:27* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Italy 2019](https://doi.org/10.1787/369ec0f2-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 1 April 2019 at 12:00 | Monday 1 April 2019 at 12:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 March 2019 at 23:03
-- [x] Exported to Keepeek Friday 29 March 2019 at 20:37
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Adapting business framework conditions to deal with disruptive technologies in Denmark](https://doi.org/10.1787/f7a1fe23-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 2 April 2019 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 1 April 2019 at 23:20
-- [x] Exported to Keepeek Monday 1 April 2019 at 20:33
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [A review of “Transition Management” strategies - Lessons for advancing the green low-carbon transition](https://doi.org/10.1787/4617a02b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 2 April 2019 at 3:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 March 2019 at 23:03
-- [x] Exported to Keepeek Wednesday 27 March 2019 at 20:34
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Thursday 4 April 2019 at 5:28* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Impulsando el desempeño del Organismo Supervisor de la Inversión en Energía y Minería de Perú](https://doi.org/10.1787/9789264310827-es)
 
@@ -158,16 +92,60 @@ Thursday 4 April 2019 at 15:00 | no launch event
 
 ------
 
+## [OECD Development Co-operation Peer Reviews: Switzerland 2019](https://doi.org/10.1787/9789264312340-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 5 April 2019 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 4 April 2019 at 0:27
+- [x] Exported to Keepeek Wednesday 3 April 2019 at 20:51
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Examens de l'OCDE sur la coopération pour le développement : Suisse 2019](https://doi.org/10.1787/9789264312364-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 5 April 2019 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 4 April 2019 at 0:27
+- [x] Exported to Keepeek Wednesday 3 April 2019 at 20:51
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [OECD Economic Surveys: France 2019](https://doi.org/10.1787/a0eee144-en)
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 9 April 2019 at 7:00 | Tuesday 9 April 2019 at 7:00
+Tuesday 9 April 2019 at 7:30 | Tuesday 9 April 2019 at 7:30
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 1 April 2019 at 23:20
+- [x] Exported to iLibrary Thursday 4 April 2019 at 0:27
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -184,12 +162,12 @@ Tuesday 9 April 2019 at 7:00 | Tuesday 9 April 2019 at 7:00
 
 Embargo date | Launch date
 -------------|------------
-Tuesday 9 April 2019 at 7:00 | Tuesday 9 April 2019 at 7:00
+Tuesday 9 April 2019 at 7:30 | Tuesday 9 April 2019 at 7:30
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 1 April 2019 at 23:20
+- [x] Exported to iLibrary Thursday 4 April 2019 at 0:27
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -220,7 +198,7 @@ Wednesday 10 April 2019 at 19:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF*
 
 ------
 
@@ -290,6 +268,28 @@ Thursday 11 April 2019 at 9:00 | no launch event
 
 ------
 
+## [Multi-dimensional Review of Thailand - Volume 3: From Analysis to Action](https://doi.org/10.1787/7ef9363b-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 12 April 2019 at 7:00 | Friday 12 April 2019 at 7:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 4 April 2019 at 0:27
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Japan 2019](https://doi.org/10.1787/fd63f374-en)
 
 Embargo date | Launch date
@@ -321,7 +321,7 @@ Monday 15 April 2019 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Saturday 23 March 2019 at 2:38
+- [x] Exported to iLibrary Thursday 4 April 2019 at 0:27
 - [ ] Exported to Keepeek
 
 ### Additional Information
