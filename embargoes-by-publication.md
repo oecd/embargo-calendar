@@ -2,51 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 4 April 2019 at 5:28* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Impulsando el desempeño del Organismo Supervisor de la Inversión en Energía y Minería de Perú](https://doi.org/10.1787/9789264310827-es)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 2 April 2019 at 12:00 | Tuesday 2 April 2019 at 12:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 March 2019 at 12:05
-- [x] Exported to Keepeek Monday 4 March 2019 at 20:33
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Driving Performance at Peru's Energy and Mining Regulator](https://doi.org/10.1787/9789264310865-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 2 April 2019 at 12:00 | Tuesday 2 April 2019 at 12:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 March 2019 at 22:56
-- [x] Exported to Keepeek Monday 4 March 2019 at 20:33
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Friday 5 April 2019 at 7:44* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Moving towards more school autonomy in Austria - Refocusing the role of school supervision](https://doi.org/10.1787/9c49eebe-en)
 
@@ -167,7 +123,7 @@ Tuesday 9 April 2019 at 7:30 | Tuesday 9 April 2019 at 7:30
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 4 April 2019 at 0:27
+- [x] Exported to iLibrary Friday 5 April 2019 at 1:35
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -188,7 +144,7 @@ Wednesday 10 April 2019 at 19:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 1 April 2019 at 23:20
 - [ ] Exported to Keepeek
 
@@ -196,7 +152,7 @@ Wednesday 10 April 2019 at 19:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF*
 
@@ -242,7 +198,7 @@ Thursday 11 April 2019 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -277,7 +233,7 @@ Friday 12 April 2019 at 7:00 | Friday 12 April 2019 at 7:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 4 April 2019 at 0:27
+- [x] Exported to iLibrary Friday 5 April 2019 at 1:35
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -342,7 +298,7 @@ Monday 15 April 2019 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Saturday 23 March 2019 at 2:38
 - [ ] Exported to Keepeek
 
@@ -353,6 +309,28 @@ Monday 15 April 2019 at 8:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Open Government in Biscay ](https://doi.org/10.1787/e4e1a40c-en)
+
+Embargo date | Launch date
+-------------|------------
+Monday 15 April 2019 at 8:00 | Monday 15 April 2019 at 8:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 5 April 2019 at 1:35
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
