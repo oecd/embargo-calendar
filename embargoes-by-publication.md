@@ -2,29 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 5 April 2019 at 7:44* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Moving towards more school autonomy in Austria - Refocusing the role of school supervision](https://doi.org/10.1787/9c49eebe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 April 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 2 April 2019 at 22:48
-- [x] Exported to Keepeek Tuesday 2 April 2019 at 20:32
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Saturday 6 April 2019 at 8:04* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Report of the Inter-agency Task Force on Financing for Development 2019 - Financing for Sustainable Development Report](https://doi.org/10.18356/9444edd5-en)
 
@@ -57,8 +35,8 @@ Friday 5 April 2019 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 4 April 2019 at 0:27
-- [x] Exported to Keepeek Wednesday 3 April 2019 at 20:51
+- [x] Exported to iLibrary Saturday 6 April 2019 at 1:11
+- [x] Exported to Keepeek Friday 5 April 2019 at 20:43
 
 ### Additional Information
 
@@ -79,8 +57,8 @@ Friday 5 April 2019 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 4 April 2019 at 0:27
-- [x] Exported to Keepeek Wednesday 3 April 2019 at 20:51
+- [x] Exported to iLibrary Saturday 6 April 2019 at 1:11
+- [x] Exported to Keepeek Friday 5 April 2019 at 20:43
 
 ### Additional Information
 
@@ -122,15 +100,15 @@ Tuesday 9 April 2019 at 7:30 | Tuesday 9 April 2019 at 7:30
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 5 April 2019 at 1:35
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 6 April 2019 at 1:11
+- [x] Exported to Keepeek Friday 5 April 2019 at 20:43
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -145,8 +123,8 @@ Wednesday 10 April 2019 at 19:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 1 April 2019 at 23:20
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Saturday 6 April 2019 at 1:11
+- [x] Exported to Keepeek Friday 5 April 2019 at 20:43
 
 ### Additional Information
 
@@ -189,7 +167,7 @@ Thursday 11 April 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 15 March 2019 at 22:58
+- [x] Exported to iLibrary Saturday 6 April 2019 at 1:11
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -211,8 +189,8 @@ Thursday 11 April 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 March 2019 at 23:17
-- [x] Exported to Keepeek Wednesday 27 March 2019 at 20:34
+- [x] Exported to iLibrary Saturday 6 April 2019 at 1:11
+- [x] Exported to Keepeek Friday 5 April 2019 at 20:43
 
 ### Additional Information
 
@@ -233,7 +211,7 @@ Friday 12 April 2019 at 7:00 | Friday 12 April 2019 at 7:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 5 April 2019 at 1:35
+- [x] Exported to iLibrary Saturday 6 April 2019 at 1:11
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -277,7 +255,7 @@ Monday 15 April 2019 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 4 April 2019 at 0:27
+- [x] Exported to iLibrary Saturday 6 April 2019 at 1:11
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -299,7 +277,7 @@ Monday 15 April 2019 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 23 March 2019 at 2:38
+- [x] Exported to iLibrary Saturday 6 April 2019 at 1:11
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -320,8 +298,8 @@ Monday 15 April 2019 at 8:00 | Monday 15 April 2019 at 8:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 5 April 2019 at 1:35
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 6 April 2019 at 1:11
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -343,8 +321,8 @@ Monday 15 April 2019 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 March 2019 at 1:15
-- [x] Exported to Keepeek Tuesday 26 March 2019 at 21:46
+- [x] Exported to iLibrary Saturday 6 April 2019 at 1:11
+- [x] Exported to Keepeek Friday 5 April 2019 at 20:43
 
 ### Additional Information
 
@@ -387,7 +365,7 @@ Thursday 25 April 2019 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 27 March 2019 at 23:03
+- [x] Exported to iLibrary Saturday 6 April 2019 at 1:11
 - [ ] Exported to Keepeek
 
 ### Additional Information
