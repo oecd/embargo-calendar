@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 6 April 2019 at 8:04* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 9 April 2019 at 7:08* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [4 April 2019](#4-april-2019)
-* [5 April 2019](#5-april-2019)
 * [9 April 2019](#9-april-2019)
 * [10 April 2019](#10-april-2019)
 * [11 April 2019](#11-april-2019)
@@ -13,80 +11,6 @@ Data generated on | |
 * [15 April 2019](#15-april-2019)
 * [16 April 2019](#16-april-2019)
 * [25 April 2019](#25-april-2019)
-
-------
-
-# 4 April 2019
-
-## [Report of the Inter-agency Task Force on Financing for Development 2019 - Financing for Sustainable Development Report](https://doi.org/10.18356/9444edd5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 4 April 2019 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 2 April 2019 at 22:48
-- [x] Exported to Keepeek Tuesday 2 April 2019 at 20:32
-
-### Additional Information
-
-* Directorate: *Non applicable*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-------
-
-# 5 April 2019
-
-## [OECD Development Co-operation Peer Reviews: Switzerland 2019](https://doi.org/10.1787/9789264312340-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 5 April 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 6 April 2019 at 1:11
-- [x] Exported to Keepeek Friday 5 April 2019 at 20:43
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Examens de l'OCDE sur la coopération pour le développement : Suisse 2019](https://doi.org/10.1787/9789264312364-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 5 April 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 6 April 2019 at 1:11
-- [x] Exported to Keepeek Friday 5 April 2019 at 20:43
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -100,15 +24,15 @@ Tuesday 9 April 2019 at 7:30 | Tuesday 9 April 2019 at 7:30
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 4 April 2019 at 0:27
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 9 April 2019 at 0:44
+- [x] Exported to Keepeek Monday 8 April 2019 at 20:42
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -174,8 +98,8 @@ Thursday 11 April 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 15 March 2019 at 22:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 9 April 2019 at 0:44
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -196,8 +120,8 @@ Thursday 11 April 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Saturday 6 April 2019 at 1:11
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 9 April 2019 at 0:44
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -219,7 +143,7 @@ Thursday 11 April 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 6 April 2019 at 1:11
+- [x] Exported to iLibrary Tuesday 9 April 2019 at 0:44
 - [x] Exported to Keepeek Friday 5 April 2019 at 20:43
 
 ### Additional Information
@@ -254,7 +178,29 @@ Friday 12 April 2019 at 7:00 | Friday 12 April 2019 at 7:00
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [Financing SMEs and Entrepreneurs 2019 - An OECD Scoreboard](https://doi.org/10.1787/fin_sme_ent-2019-en)
+
+Embargo date | Launch date
+-------------|------------
+Friday 12 April 2019 at 20:00 | Friday 12 April 2019 at 20:00
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 9 April 2019 at 0:44
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 

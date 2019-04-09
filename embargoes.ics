@@ -2,133 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.18356/9444edd5-end3e101
-SUMMARY:Report of the Inter-agency Task Force on
-  Financing for Development 2019 - Financ
- ing for Sustainable Development Report
-DESCRIPTION:*Report of the Inter-agency Task Force o
- n Financing for Development 2019 - Finan
- cing for Sustainable Development Report*
- \n\nDirectorate: Non applicable\nLanguag
- e: English\nDOI: https://doi.org/10.1835
- 6/9444edd5-en\nPublication type: Book\nR
- eleased as: PDF\n\nEmbargo date/time: Th
- ursday, 4 April 2019, 15:00 (GMT)\n\n\ni
- Library export: Tuesday, 2 April 2019, 2
- 0:48 (GMT)\nFreepreview export: Tuesday,
-  2 April 2019, 18:32 (GMT)\nFTI loaded: 
- ✓\n\nFor more information see: https://g
- ithub.com/oecd/embargo-calendar/blob/mas
- ter/embargoes-by-publication.md.\n\nPlea
- se note: This information was correct as
-  of this morning at 8:04, it is updated 
- each night; therefore any subsequent upd
- ates may not yet be visible here. Also, 
- please be aware that the different relea
- sed media (PDF, HTML, etc.) are not nece
- ssarily released at the same time. For c
- omplete and up-to-date information see h
- ere: http://kappa.oecd.org/v3/search?ter
- m=9444edd5-en.
-DTSTAMP:20190406T080459Z
-DTSTART:20190404T150000Z
-DTEND:20190404T151500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Report of the Inter-agency Tas
- k Force on Financing for Development 201
- 9 - Financing for Sustainable Developmen
- t Report
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/9789264312340-end3e969
-SUMMARY:OECD Development Co-operation Peer Revie
- ws: Switzerland 2019
-DESCRIPTION:*OECD Development Co-operation Peer Revi
- ews: Switzerland 2019*\n\nDirectorate: D
- evelopment Co-operation Directorate\nLan
- guage: English\nDOI: https://doi.org/10.
- 1787/9789264312340-en\nPublication type:
-  Book\nReleased as: Paperback, PDF\n\nEm
- bargo date/time: Friday, 5 April 2019, 8
- :00 (GMT)\n\n\niLibrary export: Friday, 
- 5 April 2019, 23:11 (GMT)\nFreepreview e
- xport: Friday, 5 April 2019, 18:43 (GMT)
- \nFTI loaded: ✓\n\nFor more information 
- see: https://github.com/oecd/embargo-cal
- endar/blob/master/embargoes-by-publicati
- on.md.\n\nPlease note: This information 
- was correct as of this morning at 8:04, 
- it is updated each night; therefore any 
- subsequent updates may not yet be visibl
- e here. Also, please be aware that the d
- ifferent released media (PDF, HTML, etc.
- ) are not necessarily released at the sa
- me time. For complete and up-to-date inf
- ormation see here: http://kappa.oecd.org
- /v3/search?term=9789264312340-en.
-DTSTAMP:20190406T080459Z
-DTSTART:20190405T080000Z
-DTEND:20190405T081500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Development Co-operation 
- Peer Reviews: Switzerland 2019
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/9789264312364-frd3e1114
-SUMMARY:Examens de l'OCDE sur la coopération pou
- r le développement : Suisse 2019
-DESCRIPTION:*Examens de l'OCDE sur la coopération po
- ur le développement : Suisse 2019*\n\nDi
- rectorate: Development Co-operation Dire
- ctorate\nLanguage: French\nDOI: https://
- doi.org/10.1787/9789264312364-fr\nPublic
- ation type: Book\nReleased as: Paperback
- , PDF\n\nEmbargo date/time: Friday, 5 Ap
- ril 2019, 8:00 (GMT)\n\n\niLibrary expor
- t: Friday, 5 April 2019, 23:11 (GMT)\nFr
- eepreview export: Friday, 5 April 2019, 
- 18:43 (GMT)\nFTI loaded: ✓\n\nFor more i
- nformation see: https://github.com/oecd/
- embargo-calendar/blob/master/embargoes-b
- y-publication.md.\n\nPlease note: This i
- nformation was correct as of this mornin
- g at 8:04, it is updated each night; the
- refore any subsequent updates may not ye
- t be visible here. Also, please be aware
-  that the different released media (PDF,
-  HTML, etc.) are not necessarily release
- d at the same time. For complete and up-
- to-date information see here: http://kap
- pa.oecd.org/v3/search?term=9789264312364
- -fr.
-DTSTAMP:20190406T080459Z
-DTSTART:20190405T080000Z
-DTEND:20190405T081500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Examens de l'OCDE sur la coopé
- ration pour le développement : Suisse 20
- 19
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/a0eee144-end3e2167
+UID:10.1787/a0eee144-end3e99
 SUMMARY:OECD Economic Surveys: France 2019
 DESCRIPTION:*OECD Economic Surveys: France 2019*\n\n
  Directorate: Economics Department\nLangu
@@ -137,23 +11,23 @@ DESCRIPTION:*OECD Economic Surveys: France 2019*\n\n
  ic survey\nReleased as: PDF\n\nEmbargo d
  ate/time: Tuesday, 9 April 2019, 7:30 (G
  MT)\nLaunch date/time: Tuesday, 9 April 
- 2019, 7:30 (GMT)\n\niLibrary export: Wed
- nesday, 3 April 2019, 22:27 (GMT)\nFreep
- review export: never\nFTI loaded: ✗\n\nF
- or more information see: https://github.
- com/oecd/embargo-calendar/blob/master/em
- bargoes-by-publication.md.\n\nPlease not
- e: This information was correct as of th
- is morning at 8:04, it is updated each n
- ight; therefore any subsequent updates m
- ay not yet be visible here. Also, please
-  be aware that the different released me
- dia (PDF, HTML, etc.) are not necessaril
- y released at the same time. For complet
- e and up-to-date information see here: h
- ttp://kappa.oecd.org/v3/search?term=a0ee
- e144-en.
-DTSTAMP:20190406T080459Z
+ 2019, 7:30 (GMT)\n\niLibrary export: Mon
+ day, 8 April 2019, 22:44 (GMT)\nFreeprev
+ iew export: Monday, 8 April 2019, 18:42 
+ (GMT)\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://github.com/oecd/embarg
+ o-calendar/blob/master/embargoes-by-publ
+ ication.md.\n\nPlease note: This informa
+ tion was correct as of this morning at 7
+ :08, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=a0eee144-en.
+DTSTAMP:20190409T070900Z
 DTSTART:20190409T073000Z
 DTEND:20190409T074500Z
 TRANSP:TRANSPARENT
@@ -167,7 +41,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: France
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/10f0135f-frd3e2214
+UID:10.1787/10f0135f-frd3e148
 SUMMARY:Études économiques de l'OCDE : France 20
  19
 DESCRIPTION:*Études économiques de l'OCDE : France 2
@@ -185,7 +59,7 @@ DESCRIPTION:*Études économiques de l'OCDE : France 2
  ub.com/oecd/embargo-calendar/blob/master
  /embargoes-by-publication.md.\n\nPlease 
  note: This information was correct as of
-  this morning at 8:04, it is updated eac
+  this morning at 7:08, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -194,7 +68,7 @@ DESCRIPTION:*Études économiques de l'OCDE : France 2
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=1
  0f0135f-fr.
-DTSTAMP:20190406T080459Z
+DTSTAMP:20190409T070900Z
 DTSTART:20190409T073000Z
 DTEND:20190409T074500Z
 TRANSP:TRANSPARENT
@@ -208,7 +82,7 @@ DESCRIPTION:Reminder: Études économiques de l'OCDE :
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/689afed1-end3e2309
+UID:10.1787/689afed1-end3e243
 SUMMARY:Under Pressure: The Squeezed Middle Clas
  s
 DESCRIPTION:*Under Pressure: The Squeezed Middle Cla
@@ -226,7 +100,7 @@ DESCRIPTION:*Under Pressure: The Squeezed Middle Cla
  .com/oecd/embargo-calendar/blob/master/e
  mbargoes-by-publication.md.\n\nPlease no
  te: This information was correct as of t
- his morning at 8:04, it is updated each 
+ his morning at 7:08, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -235,7 +109,7 @@ DESCRIPTION:*Under Pressure: The Squeezed Middle Cla
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=689
  afed1-en.
-DTSTAMP:20190406T080459Z
+DTSTAMP:20190409T070900Z
 DTSTART:20190410T190000Z
 DTEND:20190410T191500Z
 TRANSP:TRANSPARENT
@@ -249,7 +123,7 @@ DESCRIPTION:Reminder: Under Pressure: The Squeezed M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/tax_wages-2019-frd3e2932
+UID:10.1787/tax_wages-2019-frd3e1109
 SUMMARY:Les impôts sur les salaires 2019
 DESCRIPTION:*Les impôts sur les salaires 2019*\n\nDi
  rectorate: Centre for Tax Policy and Adm
@@ -258,22 +132,22 @@ DESCRIPTION:*Les impôts sur les salaires 2019*\n\nDi
  ublication type: Book\nReleased as: Pape
  rback, PDF\n\nEmbargo date/time: Thursda
  y, 11 April 2019, 9:00 (GMT)\n\n\niLibra
- ry export: Friday, 15 March 2019, 21:58 
- (GMT)\nFreepreview export: never\nFTI lo
- aded: ✗\n\nFor more information see: htt
- ps://github.com/oecd/embargo-calendar/bl
- ob/master/embargoes-by-publication.md.\n
- \nPlease note: This information was corr
- ect as of this morning at 8:04, it is up
- dated each night; therefore any subseque
- nt updates may not yet be visible here. 
- Also, please be aware that the different
-  released media (PDF, HTML, etc.) are no
- t necessarily released at the same time.
-  For complete and up-to-date information
-  see here: http://kappa.oecd.org/v3/sear
- ch?term=tax_wages-2019-fr.
-DTSTAMP:20190406T080459Z
+ ry export: Monday, 8 April 2019, 22:44 (
+ GMT)\nFreepreview export: never\nFTI loa
+ ded: ✓\n\nFor more information see: http
+ s://github.com/oecd/embargo-calendar/blo
+ b/master/embargoes-by-publication.md.\n\
+ nPlease note: This information was corre
+ ct as of this morning at 7:08, it is upd
+ ated each night; therefore any subsequen
+ t updates may not yet be visible here. A
+ lso, please be aware that the different 
+ released media (PDF, HTML, etc.) are not
+  necessarily released at the same time. 
+ For complete and up-to-date information 
+ see here: http://kappa.oecd.org/v3/searc
+ h?term=tax_wages-2019-fr.
+DTSTAMP:20190409T070900Z
 DTSTART:20190411T090000Z
 DTEND:20190411T091500Z
 TRANSP:TRANSPARENT
@@ -287,7 +161,7 @@ DESCRIPTION:Reminder: Les impôts sur les salaires 20
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/tax_wages-2019-end3e6022
+UID:10.1787/tax_wages-2019-end3e5454
 SUMMARY:Taxing Wages 2019
 DESCRIPTION:*Taxing Wages 2019*\n\nDirectorate: Cent
  re for Tax Policy and Administration\nLa
@@ -296,13 +170,13 @@ DESCRIPTION:*Taxing Wages 2019*\n\nDirectorate: Cent
  e: Book\nReleased as: ePub, HTML, Paperb
  ack, PDF\n\nEmbargo date/time: Thursday,
   11 April 2019, 9:00 (GMT)\n\n\niLibrary
-  export: Friday, 5 April 2019, 23:11 (GM
+  export: Monday, 8 April 2019, 22:44 (GM
  T)\nFreepreview export: never\nFTI loade
- d: ✗\n\nFor more information see: https:
+ d: ✓\n\nFor more information see: https:
  //github.com/oecd/embargo-calendar/blob/
  master/embargoes-by-publication.md.\n\nP
  lease note: This information was correct
-  as of this morning at 8:04, it is updat
+  as of this morning at 7:08, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -311,7 +185,7 @@ DESCRIPTION:*Taxing Wages 2019*\n\nDirectorate: Cent
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=tax_wages-2019-en.
-DTSTAMP:20190406T080459Z
+DTSTAMP:20190409T070900Z
 DTSTART:20190411T090000Z
 DTEND:20190411T091500Z
 TRANSP:TRANSPARENT
@@ -324,7 +198,7 @@ DESCRIPTION:Reminder: Taxing Wages 2019
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264312524-end3e7036
+UID:10.1787/9789264312524-end3e6710
 SUMMARY:Innovation, Agricultural Productivity an
  d Sustainability in Latvia
 DESCRIPTION:*Innovation, Agricultural Productivity a
@@ -335,14 +209,14 @@ DESCRIPTION:*Innovation, Agricultural Productivity a
  pe: Book\nReleased as: ePub, HTML, Paper
  back, PDF\n\nEmbargo date/time: Thursday
  , 11 April 2019, 9:00 (GMT)\n\n\niLibrar
- y export: Friday, 5 April 2019, 23:11 (G
+ y export: Monday, 8 April 2019, 22:44 (G
  MT)\nFreepreview export: Friday, 5 April
   2019, 18:43 (GMT)\nFTI loaded: ✓\n\nFor
   more information see: https://github.co
  m/oecd/embargo-calendar/blob/master/emba
  rgoes-by-publication.md.\n\nPlease note:
   This information was correct as of this
-  morning at 8:04, it is updated each nig
+  morning at 7:08, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -351,7 +225,7 @@ DESCRIPTION:*Innovation, Agricultural Productivity a
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=978926
  4312524-en.
-DTSTAMP:20190406T080459Z
+DTSTAMP:20190409T070900Z
 DTSTART:20190411T090000Z
 DTEND:20190411T091500Z
 TRANSP:TRANSPARENT
@@ -365,7 +239,7 @@ DESCRIPTION:Reminder: Innovation, Agricultural Produ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7ef9363b-end3e8293
+UID:10.1787/7ef9363b-end3e8881
 SUMMARY:Multi-dimensional Review of Thailand - V
  olume 3: From Analysis to Action
 DESCRIPTION:*Multi-dimensional Review of Thailand - 
@@ -373,25 +247,26 @@ DESCRIPTION:*Multi-dimensional Review of Thailand -
  rectorate: Development Centre\nLanguage:
   English\nDOI: https://doi.org/10.1787/7
  ef9363b-en\nPublication type: Book\nRele
- ased as: PDF\n\nEmbargo date/time: Frida
- y, 12 April 2019, 7:00 (GMT)\nLaunch dat
- e/time: Friday, 12 April 2019, 7:00 (GMT
- )\n\niLibrary export: Friday, 5 April 20
- 19, 23:11 (GMT)\nFreepreview export: nev
- er\nFTI loaded: ✗\n\nFor more informatio
- n see: https://github.com/oecd/embargo-c
- alendar/blob/master/embargoes-by-publica
- tion.md.\n\nPlease note: This informatio
- n was correct as of this morning at 8:04
- , it is updated each night; therefore an
- y subsequent updates may not yet be visi
- ble here. Also, please be aware that the
-  different released media (PDF, HTML, et
- c.) are not necessarily released at the 
- same time. For complete and up-to-date i
- nformation see here: http://kappa.oecd.o
- rg/v3/search?term=7ef9363b-en.
-DTSTAMP:20190406T080459Z
+ ased as: ePub, HTML, PDF\n\nEmbargo date
+ /time: Friday, 12 April 2019, 7:00 (GMT)
+ \nLaunch date/time: Friday, 12 April 201
+ 9, 7:00 (GMT)\n\niLibrary export: Friday
+ , 5 April 2019, 23:11 (GMT)\nFreepreview
+  export: never\nFTI loaded: ✗\n\nFor mor
+ e information see: https://github.com/oe
+ cd/embargo-calendar/blob/master/embargoe
+ s-by-publication.md.\n\nPlease note: Thi
+ s information was correct as of this mor
+ ning at 7:08, it is updated each night; 
+ therefore any subsequent updates may not
+  yet be visible here. Also, please be aw
+ are that the different released media (P
+ DF, HTML, etc.) are not necessarily rele
+ ased at the same time. For complete and 
+ up-to-date information see here: http://
+ kappa.oecd.org/v3/search?term=7ef9363b-e
+ n.
+DTSTAMP:20190409T070900Z
 DTSTART:20190412T070000Z
 DTEND:20190412T071500Z
 TRANSP:TRANSPARENT
@@ -406,7 +281,49 @@ DESCRIPTION:Reminder: Multi-dimensional Review of Th
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fd63f374-end3e8342
+UID:10.1787/fin_sme_ent-2019-end3e8977
+SUMMARY:Financing SMEs and Entrepreneurs 2019 - 
+ An OECD Scoreboard
+DESCRIPTION:*Financing SMEs and Entrepreneurs 2019 -
+  An OECD Scoreboard*\n\nDirectorate: Cen
+ tre for Entrepreneurship, SMEs, Regions 
+ and Cities\nLanguage: English\nDOI: http
+ s://doi.org/10.1787/fin_sme_ent-2019-en\
+ nPublication type: Book\nReleased as: eP
+ ub, HTML, Paperback, PDF\n\nEmbargo date
+ /time: Friday, 12 April 2019, 20:00 (GMT
+ )\nLaunch date/time: Friday, 12 April 20
+ 19, 20:00 (GMT)\n\niLibrary export: Mond
+ ay, 8 April 2019, 22:44 (GMT)\nFreeprevi
+ ew export: never\nFTI loaded: ✓\n\nFor m
+ ore information see: https://github.com/
+ oecd/embargo-calendar/blob/master/embarg
+ oes-by-publication.md.\n\nPlease note: T
+ his information was correct as of this m
+ orning at 7:08, it is updated each night
+ ; therefore any subsequent updates may n
+ ot yet be visible here. Also, please be 
+ aware that the different released media 
+ (PDF, HTML, etc.) are not necessarily re
+ leased at the same time. For complete an
+ d up-to-date information see here: http:
+ //kappa.oecd.org/v3/search?term=fin_sme_
+ ent-2019-en.
+DTSTAMP:20190409T070900Z
+DTSTART:20190412T200000Z
+DTEND:20190412T201500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Financing SMEs and Entrepreneu
+ rs 2019 - An OECD Scoreboard
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/fd63f374-end3e9170
 SUMMARY:OECD Economic Surveys: Japan 2019
 DESCRIPTION:*OECD Economic Surveys: Japan 2019*\n\nD
  irectorate: Economics Department\nLangua
@@ -422,7 +339,7 @@ DESCRIPTION:*OECD Economic Surveys: Japan 2019*\n\nD
  /oecd/embargo-calendar/blob/master/embar
  goes-by-publication.md.\n\nPlease note: 
  This information was correct as of this 
- morning at 8:04, it is updated each nigh
+ morning at 7:08, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -431,7 +348,7 @@ DESCRIPTION:*OECD Economic Surveys: Japan 2019*\n\nD
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=fd63f37
  4-en.
-DTSTAMP:20190406T080459Z
+DTSTAMP:20190409T070900Z
 DTSTART:20190415T010000Z
 DTEND:20190415T011500Z
 TRANSP:TRANSPARENT
@@ -445,7 +362,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Japan 2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f3d4b47c-frd3e8436
+UID:10.1787/f3d4b47c-frd3e9265
 SUMMARY:Gouvernance d’entreprise dans la région 
  MENA - Cadre d’action pour la compétitiv
  ité et la croissance
@@ -464,7 +381,7 @@ DESCRIPTION:*Gouvernance d’entreprise dans la région
  s://github.com/oecd/embargo-calendar/blo
  b/master/embargoes-by-publication.md.\n\
  nPlease note: This information was corre
- ct as of this morning at 8:04, it is upd
+ ct as of this morning at 7:08, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -473,7 +390,7 @@ DESCRIPTION:*Gouvernance d’entreprise dans la région
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=f3d4b47c-fr.
-DTSTAMP:20190406T080459Z
+DTSTAMP:20190409T070900Z
 DTSTART:20190415T080000Z
 DTEND:20190415T081500Z
 TRANSP:TRANSPARENT
@@ -488,7 +405,7 @@ DESCRIPTION:Reminder: Gouvernance d’entreprise dans
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f8f22be1-ard3e8529
+UID:10.1787/f8f22be1-ard3e9358
 SUMMARY:حوكمة الشركات في منطقة الشرق الأوسط وشما
  ل أفريقيا - بناء إطار للقدرة التنافسية و
  النمو
@@ -506,8 +423,8 @@ DESCRIPTION:*حوكمة الشركات في منطقة الشرق الأوسط �
  ion see: https://github.com/oecd/embargo
  -calendar/blob/master/embargoes-by-publi
  cation.md.\n\nPlease note: This informat
- ion was correct as of this morning at 8:
- 04, it is updated each night; therefore 
+ ion was correct as of this morning at 7:
+ 08, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -515,7 +432,7 @@ DESCRIPTION:*حوكمة الشركات في منطقة الشرق الأوسط �
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=f8f22be1-ar.
-DTSTAMP:20190406T080459Z
+DTSTAMP:20190409T070900Z
 DTSTART:20190415T080000Z
 DTEND:20190415T081500Z
 TRANSP:TRANSPARENT
@@ -530,7 +447,7 @@ DESCRIPTION:Reminder: حوكمة الشركات في منطقة الشرق ا
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e4e1a40c-end3e8721
+UID:10.1787/e4e1a40c-end3e9550
 SUMMARY:Open Government in Biscay 
 DESCRIPTION:*Open Government in Biscay *\n\nDirector
  ate: Directorate for Public Governance\n
@@ -546,7 +463,7 @@ DESCRIPTION:*Open Government in Biscay *\n\nDirector
  embargo-calendar/blob/master/embargoes-b
  y-publication.md.\n\nPlease note: This i
  nformation was correct as of this mornin
- g at 8:04, it is updated each night; the
+ g at 7:08, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -554,7 +471,7 @@ DESCRIPTION:*Open Government in Biscay *\n\nDirector
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=e4e1a40c-en.
-DTSTAMP:20190406T080459Z
+DTSTAMP:20190409T070900Z
 DTSTART:20190415T080000Z
 DTEND:20190415T081500Z
 TRANSP:TRANSPARENT
@@ -567,7 +484,7 @@ DESCRIPTION:Reminder: Open Government in Biscay
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2a6992c2-end3e9721
+UID:10.1787/2a6992c2-end3e10550
 SUMMARY:Corporate Governance in MENA - Building 
  a Framework for Competitiveness and Grow
  th
@@ -586,7 +503,7 @@ DESCRIPTION:*Corporate Governance in MENA - Building
  n see: https://github.com/oecd/embargo-c
  alendar/blob/master/embargoes-by-publica
  tion.md.\n\nPlease note: This informatio
- n was correct as of this morning at 8:04
+ n was correct as of this morning at 7:08
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -595,7 +512,7 @@ DESCRIPTION:*Corporate Governance in MENA - Building
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=2a6992c2-en.
-DTSTAMP:20190406T080459Z
+DTSTAMP:20190409T070900Z
 DTSTART:20190415T080000Z
 DTEND:20190415T081500Z
 TRANSP:TRANSPARENT
@@ -610,7 +527,7 @@ DESCRIPTION:Reminder: Corporate Governance in MENA -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/eco_surveys-chn-2019-end3e9771
+UID:10.1787/eco_surveys-chn-2019-end3e10599
 SUMMARY:OECD Economic Surveys: China 2019
 DESCRIPTION:*OECD Economic Surveys: China 2019*\n\nD
  irectorate: Economics Department\nLangua
@@ -626,7 +543,7 @@ DESCRIPTION:*OECD Economic Surveys: China 2019*\n\nD
  ttps://github.com/oecd/embargo-calendar/
  blob/master/embargoes-by-publication.md.
  \n\nPlease note: This information was co
- rrect as of this morning at 8:04, it is 
+ rrect as of this morning at 7:08, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -635,7 +552,7 @@ DESCRIPTION:*OECD Economic Surveys: China 2019*\n\nD
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=eco_surveys-chn-2019-en.
-DTSTAMP:20190406T080459Z
+DTSTAMP:20190409T070900Z
 DTSTART:20190416T070000Z
 DTEND:20190416T071500Z
 TRANSP:TRANSPARENT
@@ -649,7 +566,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: China 2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9ee00155-end3e9818
+UID:10.1787/9ee00155-end3e10647
 SUMMARY:OECD Employment Outlook 2019 - The Futur
  e of Work
 DESCRIPTION:*OECD Employment Outlook 2019 - The Futu
@@ -666,7 +583,7 @@ DESCRIPTION:*OECD Employment Outlook 2019 - The Futu
  oecd/embargo-calendar/blob/master/embarg
  oes-by-publication.md.\n\nPlease note: T
  his information was correct as of this m
- orning at 8:04, it is updated each night
+ orning at 7:08, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -675,7 +592,7 @@ DESCRIPTION:*OECD Employment Outlook 2019 - The Futu
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=9ee00155
  -en.
-DTSTAMP:20190406T080459Z
+DTSTAMP:20190409T070900Z
 DTSTART:20190425T080000Z
 DTEND:20190425T081500Z
 TRANSP:TRANSPARENT
