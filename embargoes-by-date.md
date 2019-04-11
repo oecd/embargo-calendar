@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 10 April 2019 at 11:44* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 11 April 2019 at 9:10* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [9 April 2019](#9-april-2019)
 * [10 April 2019](#10-april-2019)
@@ -12,6 +12,7 @@ Data generated on | |
 * [16 April 2019](#16-april-2019)
 * [25 April 2019](#25-april-2019)
 * [26 April 2019](#26-april-2019)
+* [2 May 2019](#2-may-2019)
 
 ------
 
@@ -57,7 +58,7 @@ Tuesday 9 April 2019 at 7:30 | Tuesday 9 April 2019 at 7:30
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -74,7 +75,7 @@ Wednesday 10 April 2019 at 7:00 | Wednesday 10 April 2019 at 7:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 10 April 2019 at 9:12
+- [x] Exported to iLibrary Wednesday 10 April 2019 at 11:53
 - [x] Exported to Keepeek Tuesday 9 April 2019 at 21:02
 
 ### Additional Information
@@ -96,8 +97,8 @@ Wednesday 10 April 2019 at 19:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 10 April 2019 at 9:57
-- [x] Exported to Keepeek Tuesday 9 April 2019 at 21:02
+- [x] Exported to iLibrary Wednesday 10 April 2019 at 11:53
+- [x] Exported to Keepeek Wednesday 10 April 2019 at 18:28
 
 ### Additional Information
 
@@ -122,8 +123,8 @@ Thursday 11 April 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 April 2019 at 0:44
-- [x] Exported to Keepeek Tuesday 9 April 2019 at 21:02
+- [x] Exported to iLibrary Wednesday 10 April 2019 at 17:44
+- [x] Exported to Keepeek Wednesday 10 April 2019 at 18:28
 
 ### Additional Information
 
@@ -157,7 +158,7 @@ Thursday 11 April 2019 at 9:00 | no launch event
 
 ------
 
-## [Taxing Wages 2019](https://doi.org/10.1787/tax_wages-2019-en)
+## [Inovācijas, lauksaimniecības produktivitāte un ilgtspējība Latvijā](https://doi.org/10.1787/279bde8c-lv)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -167,7 +168,29 @@ Thursday 11 April 2019 at 9:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 9 April 2019 at 0:44
-- [x] Exported to Keepeek Tuesday 9 April 2019 at 21:02
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *Latvian*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Taxing Wages 2019](https://doi.org/10.1787/tax_wages-2019-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 April 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 10 April 2019 at 17:44
+- [x] Exported to Keepeek Wednesday 10 April 2019 at 18:28
 
 ### Additional Information
 
@@ -416,5 +439,53 @@ Friday 26 April 2019 at 7:00 | Friday 26 April 2019 at 7:00
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+------
+
+# 2 May 2019
+
+## [OECD Economic Surveys: Mexico 2019](https://doi.org/10.1787/a536d00e-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 2 May 2019 at 16:00 | Thursday 2 May 2019 at 16:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 1 April 2019 at 23:20
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Estudios Económicos de la OCDE: México 2019](https://doi.org/10.1787/fde7bbbe-es)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 2 May 2019 at 16:00 | Thursday 2 May 2019 at 16:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 9 April 2019 at 0:44
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Spanish*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
