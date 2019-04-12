@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 11 April 2019 at 9:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 12 April 2019 at 5:30* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [9 April 2019](#9-april-2019)
 * [10 April 2019](#10-april-2019)
 * [11 April 2019](#11-april-2019)
 * [12 April 2019](#12-april-2019)
@@ -13,54 +12,6 @@ Data generated on | |
 * [25 April 2019](#25-april-2019)
 * [26 April 2019](#26-april-2019)
 * [2 May 2019](#2-may-2019)
-
-------
-
-# 9 April 2019
-
-## [OECD Economic Surveys: France 2019](https://doi.org/10.1787/a0eee144-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 9 April 2019 at 7:30 | Tuesday 9 April 2019 at 7:30
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 April 2019 at 0:44
-- [x] Exported to Keepeek Monday 8 April 2019 at 20:42
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Études économiques de l'OCDE : France 2019](https://doi.org/10.1787/10f0135f-fr)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 9 April 2019 at 7:30 | Tuesday 9 April 2019 at 7:30
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 6 April 2019 at 1:11
-- [x] Exported to Keepeek Friday 5 April 2019 at 20:43
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -75,7 +26,7 @@ Wednesday 10 April 2019 at 7:00 | Wednesday 10 April 2019 at 7:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 10 April 2019 at 11:53
+- [x] Exported to iLibrary Wednesday 10 April 2019 at 23:38
 - [x] Exported to Keepeek Tuesday 9 April 2019 at 21:02
 
 ### Additional Information
@@ -123,7 +74,7 @@ Thursday 11 April 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 10 April 2019 at 17:44
+- [x] Exported to iLibrary Wednesday 10 April 2019 at 23:38
 - [x] Exported to Keepeek Wednesday 10 April 2019 at 18:28
 
 ### Additional Information
@@ -145,8 +96,8 @@ Thursday 11 April 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 10 April 2019 at 23:38
+- [x] Exported to Keepeek Thursday 11 April 2019 at 9:22
 
 ### Additional Information
 
@@ -167,8 +118,8 @@ Thursday 11 April 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 April 2019 at 0:44
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 10 April 2019 at 23:38
+- [x] Exported to Keepeek Thursday 11 April 2019 at 9:22
 
 ### Additional Information
 
@@ -189,7 +140,7 @@ Thursday 11 April 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 10 April 2019 at 17:44
+- [x] Exported to iLibrary Wednesday 10 April 2019 at 23:38
 - [x] Exported to Keepeek Wednesday 10 April 2019 at 18:28
 
 ### Additional Information
@@ -237,7 +188,7 @@ Friday 12 April 2019 at 20:00 | Friday 12 April 2019 at 20:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 April 2019 at 0:44
+- [x] Exported to iLibrary Wednesday 10 April 2019 at 23:38
 - [x] Exported to Keepeek Tuesday 9 April 2019 at 21:02
 
 ### Additional Information
@@ -263,7 +214,7 @@ Monday 15 April 2019 at 1:00 | Monday 15 April 2019 at 1:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 2 April 2019 at 22:48
+- [x] Exported to iLibrary Wednesday 10 April 2019 at 23:38
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -272,7 +223,7 @@ Monday 15 April 2019 at 1:00 | Monday 15 April 2019 at 1:00
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -284,15 +235,15 @@ Monday 15 April 2019 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Saturday 6 April 2019 at 1:11
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 11 April 2019 at 23:46
+- [x] Exported to Keepeek Thursday 11 April 2019 at 20:49
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -307,14 +258,14 @@ Monday 15 April 2019 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 6 April 2019 at 1:11
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 11 April 2019 at 23:46
+- [x] Exported to Keepeek Thursday 11 April 2019 at 20:49
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *Arabic*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -368,6 +319,28 @@ Monday 15 April 2019 at 8:00 | no launch event
 
 # 16 April 2019
 
+## [Evaluating Latvia's Active Labour Market Policies](https://doi.org/10.1787/6037200a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 April 2019 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 11 April 2019 at 23:46
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Surveys: China 2019](https://doi.org/10.1787/eco_surveys-chn-2019-en)
 
 Embargo date | Launch date
@@ -376,15 +349,15 @@ Tuesday 16 April 2019 at 7:00 | Tuesday 16 April 2019 at 7:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 27 March 2019 at 23:03
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 11 April 2019 at 23:46
+- [x] Exported to Keepeek Thursday 11 April 2019 at 20:49
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -429,8 +402,8 @@ Friday 26 April 2019 at 7:00 | Friday 26 April 2019 at 7:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 10 April 2019 at 8:57
-- [x] Exported to Keepeek Tuesday 9 April 2019 at 21:02
+- [x] Exported to iLibrary Wednesday 10 April 2019 at 23:38
+- [x] Exported to Keepeek Thursday 11 April 2019 at 9:22
 
 ### Additional Information
 
@@ -455,7 +428,7 @@ Thursday 2 May 2019 at 16:00 | Thursday 2 May 2019 at 16:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 1 April 2019 at 23:20
+- [x] Exported to iLibrary Wednesday 10 April 2019 at 23:38
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -477,7 +450,7 @@ Thursday 2 May 2019 at 16:00 | Thursday 2 May 2019 at 16:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 9 April 2019 at 0:44
+- [x] Exported to iLibrary Wednesday 10 April 2019 at 23:38
 - [ ] Exported to Keepeek
 
 ### Additional Information
