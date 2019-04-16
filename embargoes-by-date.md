@@ -2,156 +2,15 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 13 April 2019 at 5:35* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 16 April 2019 at 5:03* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [11 April 2019](#11-april-2019)
-* [12 April 2019](#12-april-2019)
 * [15 April 2019](#15-april-2019)
 * [16 April 2019](#16-april-2019)
 * [18 April 2019](#18-april-2019)
 * [25 April 2019](#25-april-2019)
 * [26 April 2019](#26-april-2019)
 * [2 May 2019](#2-may-2019)
-
-------
-
-# 11 April 2019
-
-## [Les impôts sur les salaires 2019](https://doi.org/10.1787/tax_wages-2019-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 11 April 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 13 April 2019 at 0:02
-- [x] Exported to Keepeek Wednesday 10 April 2019 at 18:28
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Multilingual Summaries for Taxing Wages 2019](https://doi.org/10.1787/35ca9273-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 11 April 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 10 April 2019 at 23:38
-- [x] Exported to Keepeek Thursday 11 April 2019 at 9:22
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* 14 Languages: [Greek](https://doi.org/10.1787/5a1cb1ab-el), [Italian](https://doi.org/10.1787/7b06b08c-it), [Korean](https://doi.org/10.1787/8807e595-ko), [Turkish](https://doi.org/10.1787/53a502d2-tr), [German](https://doi.org/10.1787/9b9efa43-de), [Chinese](https://doi.org/10.1787/059fc1dc-zh), [English](https://doi.org/10.1787/35ca9273-en), [Polish](https://doi.org/10.1787/052333a2-pl), [Japanese](https://doi.org/10.1787/d3d4d992-ja), [Russian](https://doi.org/10.1787/81560a07-ru), [Spanish](https://doi.org/10.1787/f81f826d-es), [Portuguese](https://doi.org/10.1787/0ed24468-pt), [French](https://doi.org/10.1787/d475ba64-fr), [Hungarian](https://doi.org/10.1787/8ae1ae2a-hu)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Inovācijas, lauksaimniecības produktivitāte un ilgtspējība Latvijā](https://doi.org/10.1787/279bde8c-lv)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 11 April 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 10 April 2019 at 23:38
-- [x] Exported to Keepeek Thursday 11 April 2019 at 9:22
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *Latvian*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Taxing Wages 2019](https://doi.org/10.1787/tax_wages-2019-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 11 April 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 13 April 2019 at 0:02
-- [x] Exported to Keepeek Wednesday 10 April 2019 at 18:28
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Innovation, Agricultural Productivity and Sustainability in Latvia](https://doi.org/10.1787/9789264312524-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 11 April 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 13 April 2019 at 0:02
-- [x] Exported to Keepeek Friday 5 April 2019 at 20:43
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-------
-
-# 12 April 2019
-
-## [Financing SMEs and Entrepreneurs 2019 - An OECD Scoreboard](https://doi.org/10.1787/fin_sme_ent-2019-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 12 April 2019 at 19:00 | Friday 12 April 2019 at 19:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 13 April 2019 at 0:02
-- [x] Exported to Keepeek Friday 12 April 2019 at 20:48
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+* [22 May 2019](#22-may-2019)
 
 ------
 
@@ -459,6 +318,32 @@ Thursday 2 May 2019 at 16:00 | Thursday 2 May 2019 at 16:00
 * Language: *Spanish*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+------
+
+# 22 May 2019
+
+## [ITF Transport Outlook 2019](https://doi.org/10.1787/transp_outlook-en-2019-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 22 May 2019 at 8:00 | Wednesday 22 May 2019 at 8:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 15 April 2019 at 23:45
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *International Transport Forum*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
