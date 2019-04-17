@@ -2,29 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 16 April 2019 at 5:03* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Japan 2019](https://doi.org/10.1787/fd63f374-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 15 April 2019 at 1:00 | Monday 15 April 2019 at 1:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 13 April 2019 at 0:02
-- [x] Exported to Keepeek Friday 12 April 2019 at 20:48
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *ePub, HTML, PDF*
-
-------
+| *Wednesday 17 April 2019 at 3:51* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Gouvernance d’entreprise dans la région MENA - Cadre d’action pour la compétitivité et la croissance](https://doi.org/10.1787/f3d4b47c-fr)
 
@@ -180,6 +158,50 @@ Tuesday 16 April 2019 at 7:00 | Tuesday 16 April 2019 at 7:00
 
 ------
 
+## [How teachers and schools innovate - New measures in TALIS 2018](https://doi.org/10.1787/71101b69-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 17 April 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 16 April 2019 at 22:59
+- [x] Exported to Keepeek Tuesday 16 April 2019 at 20:37
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Decentralisation and performance measurement systems in health care](https://doi.org/10.1787/6f34dc12-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 April 2019 at 3:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 16 April 2019 at 22:59
+- [x] Exported to Keepeek Tuesday 16 April 2019 at 20:37
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Beyond Proficiency - Using Log Files to Understand Respondent Behaviour in the Survey of Adult Skills](https://doi.org/10.1787/0b1414ed-en)
 
 Embargo date | Launch date
@@ -199,6 +221,72 @@ Thursday 18 April 2019 at 7:00 | Thursday 18 April 2019 at 7:00
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+## [How much time do adults spend on the PIAAC assessment and why does it matter?](https://doi.org/10.1787/11a4be1d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 April 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 16 April 2019 at 22:59
+- [x] Exported to Keepeek Tuesday 16 April 2019 at 20:37
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Temps consacré par les adultes à l’évaluation PIAAC et importance de cette donnée](https://doi.org/10.1787/4fdeb19b-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 April 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 16 April 2019 at 22:59
+- [x] Exported to Keepeek Tuesday 16 April 2019 at 20:37
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [OECD Sovereign Borrowing Outlook 2019](https://doi.org/10.1787/aa7aad38-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 April 2019 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 16 April 2019 at 22:59
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF*
 
 ------
 
