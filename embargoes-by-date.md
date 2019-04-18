@@ -2,109 +2,18 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 17 April 2019 at 3:51* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 18 April 2019 at 4:09* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [15 April 2019](#15-april-2019)
 * [16 April 2019](#16-april-2019)
 * [17 April 2019](#17-april-2019)
 * [18 April 2019](#18-april-2019)
 * [23 April 2019](#23-april-2019)
+* [24 April 2019](#24-april-2019)
 * [25 April 2019](#25-april-2019)
 * [26 April 2019](#26-april-2019)
 * [2 May 2019](#2-may-2019)
+* [11 May 2019](#11-may-2019)
 * [22 May 2019](#22-may-2019)
-
-------
-
-# 15 April 2019
-
-## [Gouvernance d’entreprise dans la région MENA - Cadre d’action pour la compétitivité et la croissance](https://doi.org/10.1787/f3d4b47c-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 15 April 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 11 April 2019 at 23:46
-- [x] Exported to Keepeek Thursday 11 April 2019 at 20:49
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [حوكمة الشركات في منطقة الشرق الأوسط وشمال أفريقيا - بناء إطار للقدرة التنافسية والنمو](https://doi.org/10.1787/f8f22be1-ar)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 15 April 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 11 April 2019 at 23:46
-- [x] Exported to Keepeek Thursday 11 April 2019 at 20:49
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Arabic*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Open Government in Biscay ](https://doi.org/10.1787/e4e1a40c-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 15 April 2019 at 8:00 | Monday 15 April 2019 at 8:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 13 April 2019 at 0:02
-- [x] Exported to Keepeek Friday 12 April 2019 at 20:48
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Corporate Governance in MENA - Building a Framework for Competitiveness and Growth](https://doi.org/10.1787/2a6992c2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 15 April 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 13 April 2019 at 0:02
-- [x] Exported to Keepeek Friday 5 April 2019 at 20:43
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -306,8 +215,8 @@ Tuesday 23 April 2019 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 16 April 2019 at 22:59
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 17 April 2019 at 23:20
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -317,6 +226,32 @@ Tuesday 23 April 2019 at 8:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF*
+
+------
+
+------
+
+# 24 April 2019
+
+## [Is there a generational divide in environmental optimism?](https://doi.org/10.1787/04677bea-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 April 2019 at 3:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 17 April 2019 at 23:20
+- [x] Exported to Keepeek Wednesday 17 April 2019 at 20:49
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -385,7 +320,7 @@ Thursday 2 May 2019 at 16:00 | Thursday 2 May 2019 at 16:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 10 April 2019 at 23:38
+- [x] Exported to iLibrary Wednesday 17 April 2019 at 23:20
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -417,6 +352,54 @@ Thursday 2 May 2019 at 16:00 | Thursday 2 May 2019 at 16:00
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Format: *PDF*
+
+------
+
+------
+
+# 11 May 2019
+
+## [日本農業のイノベーション、生産性及び持続可能性 ](https://doi.org/10.1787/563f8fbe-ja)
+
+Embargo date | Launch date
+-------------|:------------:
+Saturday 11 May 2019 at 0:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *Japanese*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Innovation, Agricultural Productivity and Sustainability in Japan](https://doi.org/10.1787/92b8dff7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Saturday 11 May 2019 at 0:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 17 April 2019 at 23:20
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
