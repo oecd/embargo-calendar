@@ -2,73 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 18 April 2019 at 4:09* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: China 2019](https://doi.org/10.1787/eco_surveys-chn-2019-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 16 April 2019 at 6:00 | Tuesday 16 April 2019 at 6:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 13 April 2019 at 0:02
-- [x] Exported to Keepeek Friday 12 April 2019 at 20:48
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Evaluating Latvia's Active Labour Market Policies](https://doi.org/10.1787/6037200a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 April 2019 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 13 April 2019 at 0:02
-- [x] Exported to Keepeek Friday 12 April 2019 at 20:48
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Delivering Better Policies Through Behavioural Insights - New Approaches](https://doi.org/10.1787/6c9291e2-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 16 April 2019 at 7:00 | Tuesday 16 April 2019 at 7:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 13 April 2019 at 0:02
-- [x] Exported to Keepeek Friday 12 April 2019 at 20:48
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
+| *Friday 19 April 2019 at 4:01* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [How teachers and schools innovate - New measures in TALIS 2018](https://doi.org/10.1787/71101b69-en)
 
@@ -180,6 +114,28 @@ Thursday 18 April 2019 at 9:00 | no launch event
 
 ------
 
+## [The potential economic impact of Brexit on Denmark](https://doi.org/10.1787/41a95fb3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 April 2019 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 18 April 2019 at 22:52
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [OECD Sovereign Borrowing Outlook 2019](https://doi.org/10.1787/aa7aad38-en)
 
 Embargo date | Launch date
@@ -189,16 +145,16 @@ Tuesday 23 April 2019 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 April 2019 at 23:20
+- [x] Exported to iLibrary Thursday 18 April 2019 at 22:52
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -228,12 +184,12 @@ Wednesday 24 April 2019 at 3:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 25 April 2019 at 8:00 | no launch event
+Thursday 25 April 2019 at 7:45 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Saturday 6 April 2019 at 1:11
+- [x] Exported to iLibrary Thursday 18 April 2019 at 22:52
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -242,7 +198,7 @@ Thursday 25 April 2019 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -342,17 +298,39 @@ Saturday 11 May 2019 at 0:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 17 April 2019 at 23:20
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 18 April 2019 at 22:52
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Measuring Distance to the SDG Targets 2019 - An Assessment of Where OECD Countries Stand](https://doi.org/10.1787/a8caf3fa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 May 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 18 April 2019 at 22:52
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics and Data Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
