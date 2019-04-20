@@ -2,14 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 19 April 2019 at 4:01* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Saturday 20 April 2019 at 5:20* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [17 April 2019](#17-april-2019)
 * [18 April 2019](#18-april-2019)
 * [23 April 2019](#23-april-2019)
 * [24 April 2019](#24-april-2019)
 * [25 April 2019](#25-april-2019)
 * [26 April 2019](#26-april-2019)
+* [29 April 2019](#29-april-2019)
 * [2 May 2019](#2-may-2019)
 * [11 May 2019](#11-may-2019)
 * [20 May 2019](#20-may-2019)
@@ -17,55 +17,7 @@ Data generated on | |
 
 ------
 
-# 17 April 2019
-
-## [How teachers and schools innovate - New measures in TALIS 2018](https://doi.org/10.1787/71101b69-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 17 April 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 16 April 2019 at 22:59
-- [x] Exported to Keepeek Tuesday 16 April 2019 at 20:37
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-------
-
 # 18 April 2019
-
-## [Decentralisation and performance measurement systems in health care](https://doi.org/10.1787/6f34dc12-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 April 2019 at 3:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 16 April 2019 at 22:59
-- [x] Exported to Keepeek Tuesday 16 April 2019 at 20:37
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ## [Beyond Proficiency - Using Log Files to Understand Respondent Behaviour in the Survey of Adult Skills](https://doi.org/10.1787/0b1414ed-en)
 
@@ -147,7 +99,7 @@ Tuesday 23 April 2019 at 0:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 18 April 2019 at 22:52
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Thursday 18 April 2019 at 20:50
 
 ### Additional Information
 
@@ -169,7 +121,7 @@ Tuesday 23 April 2019 at 8:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 18 April 2019 at 22:52
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Thursday 18 April 2019 at 20:50
 
 ### Additional Information
 
@@ -219,15 +171,15 @@ Thursday 25 April 2019 at 7:45 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 18 April 2019 at 22:52
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 19 April 2019 at 23:48
+- [x] Exported to Keepeek Friday 19 April 2019 at 20:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -254,6 +206,32 @@ Friday 26 April 2019 at 7:00 | Friday 26 April 2019 at 7:00
 * Directorate: *Development Centre*
 * Language: *English*
 * Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+------
+
+# 29 April 2019
+
+## [OECD Compendium of Productivity Indicators 2019](https://doi.org/10.1787/b2774f97-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 April 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 19 April 2019 at 23:48
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Statistics and Data Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
 
@@ -320,14 +298,14 @@ Saturday 11 May 2019 at 0:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 19 April 2019 at 23:48
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *Japanese*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -342,8 +320,8 @@ Saturday 11 May 2019 at 0:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 18 April 2019 at 22:52
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 19 April 2019 at 23:48
+- [x] Exported to Keepeek Thursday 18 April 2019 at 20:50
 
 ### Additional Information
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2019-04-19T04:01:33.5672149+02:00">
+<report name="official-embargoes" generated="2019-04-20T05:20:16.2505059+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -19,40 +19,6 @@
   </row>
   <row index="1">
     <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/71101b69-en</cell>
-    <cell name="title">How teachers and schools innovate (en)</cell>
-    <cell name="subtitle">New measures in TALIS 2018 (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-04-17</cell>
-    <cell name="embargo date">2019-04-17T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-04-16T20:59:45Z</cell>
-    <cell name="freepreview last export date">2019-04-16T18:37:38Z</cell>
-    <cell name="catalogue type">Working paper</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7acf3489</cell>
-  </row>
-  <row index="2">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/6f34dc12-en</cell>
-    <cell name="title">Decentralisation and performance measurement systems in health care (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-04-18</cell>
-    <cell name="embargo date">2019-04-18T03:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-04-16T20:59:45Z</cell>
-    <cell name="freepreview last export date">2019-04-16T18:37:38Z</cell>
-    <cell name="catalogue type">Working paper</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8ae7a52b</cell>
-  </row>
-  <row index="3">
-    <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/0201272f-en</cell>
     <cell name="title">Standard deviations of percentile rank, by socio-demographic characteristics (en)</cell>
     <cell name="subtitle"/>
@@ -68,7 +34,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec2645f8</cell>
   </row>
-  <row index="4">
+  <row index="2">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/0722527c-en</cell>
     <cell name="title">Distribution of response modes (en)</cell>
@@ -85,7 +51,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6ec669aa</cell>
   </row>
-  <row index="5">
+  <row index="3">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b83cffbf-en</cell>
     <cell name="title">T-disengagement and literacy proficiency (en)</cell>
@@ -102,7 +68,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fba0aad8</cell>
   </row>
-  <row index="6">
+  <row index="4">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/84c6e6db-en</cell>
     <cell name="title">Variables extracted from log files (en)</cell>
@@ -119,7 +85,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/64b7f588</cell>
   </row>
-  <row index="7">
+  <row index="5">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/4a26c897-en</cell>
     <cell name="title">Time on task and item difficulty (en)</cell>
@@ -136,7 +102,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2e74efd5</cell>
   </row>
-  <row index="8">
+  <row index="6">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/f48fef9c-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -153,7 +119,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5d125db1</cell>
   </row>
-  <row index="9">
+  <row index="7">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/911ee478-en</cell>
     <cell name="title">Median time on task, by item and country (en)</cell>
@@ -170,7 +136,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b1d032ee</cell>
   </row>
-  <row index="10">
+  <row index="8">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/0b1414ed-en</cell>
     <cell name="title">Beyond Proficiency (en)</cell>
@@ -187,7 +153,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/904564ef</cell>
   </row>
-  <row index="11">
+  <row index="9">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/2a9ed8d6-en</cell>
     <cell name="title">Average time spent on items, in seconds (en)</cell>
@@ -204,7 +170,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3447fc58</cell>
   </row>
-  <row index="12">
+  <row index="10">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e0296734-en</cell>
     <cell name="title">Types of stimuli in PIAAC items (en)</cell>
@@ -221,7 +187,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/42b5eef3</cell>
   </row>
-  <row index="13">
+  <row index="11">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ae131e00-en</cell>
     <cell name="title">Overview (en)</cell>
@@ -238,7 +204,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d38ce74</cell>
   </row>
-  <row index="14">
+  <row index="12">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/f25ca0cd-en</cell>
     <cell name="title">The PIAAC LogDataAnalyzer (en)</cell>
@@ -255,7 +221,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/73253cc5</cell>
   </row>
-  <row index="15">
+  <row index="13">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/859ead16-en</cell>
     <cell name="title">Allocation of time to different items in the Survey of Adult Skills (en)</cell>
@@ -272,7 +238,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/af036747</cell>
   </row>
-  <row index="16">
+  <row index="14">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/8dc0e2cf-en</cell>
     <cell name="title">Correlation between time on task and time to first interaction (en)</cell>
@@ -289,7 +255,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c61c4d81</cell>
   </row>
-  <row index="17">
+  <row index="15">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/edd8e0a8-en</cell>
     <cell name="title">Age differences in timing indicators (en)</cell>
@@ -306,7 +272,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3750641a</cell>
   </row>
-  <row index="18">
+  <row index="16">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/3da6613a-en</cell>
     <cell name="title">Variations across countries of some important factors (en)</cell>
@@ -323,7 +289,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/05eab332</cell>
   </row>
-  <row index="19">
+  <row index="17">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d02d1914-en</cell>
     <cell name="title">Comparisons of disengagement indicators across countries (en)</cell>
@@ -340,7 +306,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7cd849d6</cell>
   </row>
-  <row index="20">
+  <row index="18">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/f25ca0cd-en</cell>
     <cell name="title">The PIAAC LogDataAnalyzer (en)</cell>
@@ -357,7 +323,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8fa44e5d</cell>
   </row>
-  <row index="21">
+  <row index="19">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/1c4a86db-en</cell>
     <cell name="title">Item T-disengagement rates and module order (en)</cell>
@@ -374,7 +340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ef78e672</cell>
   </row>
-  <row index="22">
+  <row index="20">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/6925f8e6-en</cell>
     <cell name="title">T-disengagement and response rates, by country (en)</cell>
@@ -391,7 +357,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8860f631</cell>
   </row>
-  <row index="23">
+  <row index="21">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/26b18790-en</cell>
     <cell name="title">Time on task and relative probability of success (en)</cell>
@@ -408,7 +374,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/81ad5e89</cell>
   </row>
-  <row index="24">
+  <row index="22">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/2a777382-en</cell>
     <cell name="title">Timing indicators and literacy proficiency (en)</cell>
@@ -425,7 +391,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/03439290</cell>
   </row>
-  <row index="25">
+  <row index="23">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/642f08da-en</cell>
     <cell name="title">What log files are and why they are useful (en)</cell>
@@ -442,7 +408,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/17db89f5</cell>
   </row>
-  <row index="26">
+  <row index="24">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/630952f0-en</cell>
     <cell name="title">Assessment time and missing answers in different age groups (en)</cell>
@@ -459,7 +425,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e8e20104</cell>
   </row>
-  <row index="27">
+  <row index="25">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a9556348-en</cell>
     <cell name="title">Timing indicators in the Survey of Adult Skills (en)</cell>
@@ -476,7 +442,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/17bc6e28</cell>
   </row>
-  <row index="28">
+  <row index="26">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ff8469d5-en</cell>
     <cell name="title">Differences in timing indicators, by level of education (en)</cell>
@@ -493,7 +459,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/747c4df8</cell>
   </row>
-  <row index="29">
+  <row index="27">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/f8fbf246-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -510,7 +476,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/158b1c32</cell>
   </row>
-  <row index="30">
+  <row index="28">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/7475c717-en</cell>
     <cell name="title">Average time since last action in literacy and numeracy items (en)</cell>
@@ -527,7 +493,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/22c6211c</cell>
   </row>
-  <row index="31">
+  <row index="29">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a4bedf5e-en</cell>
     <cell name="title">Measuring disengagement in the Survey of Adult Skills (en)</cell>
@@ -544,7 +510,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9c6330cf</cell>
   </row>
-  <row index="32">
+  <row index="30">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/8c37def1-en</cell>
     <cell name="title">Average position in the distribution of timing indicators (en)</cell>
@@ -561,7 +527,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ca67efb</cell>
   </row>
-  <row index="33">
+  <row index="31">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a4bedf5e-en</cell>
     <cell name="title">Measuring disengagement in the Survey of Adult Skills (en)</cell>
@@ -578,7 +544,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a647dcbe</cell>
   </row>
-  <row index="34">
+  <row index="32">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/901e4413-en</cell>
     <cell name="title">Individual distribution of time on task (en)</cell>
@@ -595,7 +561,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b810032e</cell>
   </row>
-  <row index="35">
+  <row index="33">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/78a5d8b6-en</cell>
     <cell name="title">Time on task, by answer category (en)</cell>
@@ -612,7 +578,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7e590b0a</cell>
   </row>
-  <row index="36">
+  <row index="34">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a021f5ce-en</cell>
     <cell name="title">Time on task and probability of success, by module (en)</cell>
@@ -629,7 +595,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc8b130e</cell>
   </row>
-  <row index="37">
+  <row index="35">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/36269447-en</cell>
     <cell name="title">Rapid item skipping across countries (en)</cell>
@@ -646,7 +612,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3e7f5646</cell>
   </row>
-  <row index="38">
+  <row index="36">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/f8fbf246-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -663,7 +629,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/45cf0f3b</cell>
   </row>
-  <row index="39">
+  <row index="37">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/13a7e212-en</cell>
     <cell name="title">Time on task and probability of success in Module 1 (en)</cell>
@@ -680,7 +646,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4d88b930</cell>
   </row>
-  <row index="40">
+  <row index="38">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/4556cc5d-en</cell>
     <cell name="title">Time on task and item performance (en)</cell>
@@ -697,7 +663,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/934e9a1b</cell>
   </row>
-  <row index="41">
+  <row index="39">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/cba0cd9a-en</cell>
     <cell name="title">Time on task and probability of success, by type of answer (en)</cell>
@@ -714,7 +680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/141cebfa</cell>
   </row>
-  <row index="42">
+  <row index="40">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/6f583560-en</cell>
     <cell name="title">T-disengagement and sample literacy score (en)</cell>
@@ -731,7 +697,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e5ce2150</cell>
   </row>
-  <row index="43">
+  <row index="41">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a39e2b86-en</cell>
     <cell name="title">Time on task and probability of success, by individual dispositions (en)</cell>
@@ -748,7 +714,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/45c4d367</cell>
   </row>
-  <row index="44">
+  <row index="42">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/bd14632c-en</cell>
     <cell name="title">Time on task, by module (en)</cell>
@@ -765,7 +731,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0921714a</cell>
   </row>
-  <row index="45">
+  <row index="43">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/0b1414ed-en</cell>
     <cell name="title">Beyond Proficiency (en)</cell>
@@ -782,7 +748,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/45f69b67</cell>
   </row>
-  <row index="46">
+  <row index="44">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/8bd02b6b-en</cell>
     <cell name="title">Raw and predicted rates of T-disengagement for the subpopulation least likely to disengage (en)</cell>
@@ -799,7 +765,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0a802aeb</cell>
   </row>
-  <row index="47">
+  <row index="45">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/074ae9de-en</cell>
     <cell name="title">Time spent on the assessment and incidence of missing answers (en)</cell>
@@ -816,7 +782,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f1fc362e</cell>
   </row>
-  <row index="48">
+  <row index="46">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a99316aa-en</cell>
     <cell name="title">Time spent on the background questionnaire and on the direct assessment (en)</cell>
@@ -833,7 +799,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/523690b4</cell>
   </row>
-  <row index="49">
+  <row index="47">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/642f08da-en</cell>
     <cell name="title">What log files are and why they are useful (en)</cell>
@@ -850,7 +816,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0dfd7f6c</cell>
   </row>
-  <row index="50">
+  <row index="48">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/1dd6ee7f-en</cell>
     <cell name="title">T-disengagement across countries (en)</cell>
@@ -867,7 +833,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/22a1bb8f</cell>
   </row>
-  <row index="51">
+  <row index="49">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/815221fc-en</cell>
     <cell name="title">T-disengagement and background characteristics (en)</cell>
@@ -884,7 +850,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/14278bb1</cell>
   </row>
-  <row index="52">
+  <row index="50">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/0058bbb1-en</cell>
     <cell name="title">Interquartile range of time on task, by item and country (en)</cell>
@@ -901,7 +867,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d1fa520c</cell>
   </row>
-  <row index="53">
+  <row index="51">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/859ead16-en</cell>
     <cell name="title">Allocation of time to different items in the Survey of Adult Skills (en)</cell>
@@ -918,7 +884,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d901968e</cell>
   </row>
-  <row index="54">
+  <row index="52">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a9556348-en</cell>
     <cell name="title">Timing indicators in the Survey of Adult Skills (en)</cell>
@@ -935,7 +901,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c00e6690</cell>
   </row>
-  <row index="55">
+  <row index="53">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e48d7390-en</cell>
     <cell name="title">Total time on task in literacy and numeracy (en)</cell>
@@ -952,7 +918,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9a0ef9ba</cell>
   </row>
-  <row index="56">
+  <row index="54">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e2745fe8-en</cell>
     <cell name="title">Gender differences in timing indicators (en)</cell>
@@ -969,7 +935,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f6d21b84</cell>
   </row>
-  <row index="57">
+  <row index="55">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/28a3fbf9-en</cell>
     <cell name="title">Time since last action and performance in numeracy (en)</cell>
@@ -986,7 +952,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b9aef789</cell>
   </row>
-  <row index="58">
+  <row index="56">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/fd648247-en</cell>
     <cell name="title">Time on task and probability of success in Module 2 (en)</cell>
@@ -1003,7 +969,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c524a1a</cell>
   </row>
-  <row index="59">
+  <row index="57">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b25e5d3f-en</cell>
     <cell name="title">Differences related to ICT familiarity (en)</cell>
@@ -1020,7 +986,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5fcc6f2e</cell>
   </row>
-  <row index="60">
+  <row index="58">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/0074c482-en</cell>
     <cell name="title">Proportion of respondents that took the computer-based assessment (en)</cell>
@@ -1037,7 +1003,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc2864d5</cell>
   </row>
-  <row index="61">
+  <row index="59">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/dcc07954-en</cell>
     <cell name="title">Average time to first interaction in literacy and numeracy items (en)</cell>
@@ -1054,7 +1020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d8f7378b</cell>
   </row>
-  <row index="62">
+  <row index="60">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/43fa0724-en</cell>
     <cell name="title">Item T-disengagement rates (en)</cell>
@@ -1071,7 +1037,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5050825</cell>
   </row>
-  <row index="63">
+  <row index="61">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/09d09c63-en</cell>
     <cell name="title">Correct and missing answers, by module (en)</cell>
@@ -1088,7 +1054,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0cdf7fd9</cell>
   </row>
-  <row index="64">
+  <row index="62">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/68c28a5f-en</cell>
     <cell name="title">The distribution of time on task, by item (en)</cell>
@@ -1105,7 +1071,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4de5b366</cell>
   </row>
-  <row index="65">
+  <row index="63">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/f48fef9c-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1122,7 +1088,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3cd9118c</cell>
   </row>
-  <row index="66">
+  <row index="64">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/0b1414ed-en</cell>
     <cell name="title">Beyond Proficiency (en)</cell>
@@ -1139,7 +1105,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1805ef98</cell>
   </row>
-  <row index="67">
+  <row index="65">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ae131e00-en</cell>
     <cell name="title">Overview (en)</cell>
@@ -1156,7 +1122,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/df6de886</cell>
   </row>
-  <row index="68">
+  <row index="66">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/adf5b1cc-en</cell>
     <cell name="title">Correlation between time on task and time since last action (en)</cell>
@@ -1173,7 +1139,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b790b6be</cell>
   </row>
-  <row index="69">
+  <row index="67">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/11a4be1d-en</cell>
     <cell name="title">How much time do adults spend on the PIAAC assessment and why does it matter? (en)</cell>
@@ -1190,7 +1156,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/37d8be07</cell>
   </row>
-  <row index="70">
+  <row index="68">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/4fdeb19b-fr</cell>
     <cell name="title">Temps consacré par les adultes à l’évaluation PIAAC et importance de cette donnée (fr)</cell>
@@ -1207,7 +1173,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db7d032c</cell>
   </row>
-  <row index="71">
+  <row index="69">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/41a95fb3-en</cell>
     <cell name="title">The potential economic impact of Brexit on Denmark (en)</cell>
@@ -1219,12 +1185,12 @@
     <cell name="embargo date">2019-04-23T00:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d762b78b</cell>
   </row>
-  <row index="72">
+  <row index="70">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/c0cbe073-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1241,7 +1207,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/56712469</cell>
   </row>
-  <row index="73">
+  <row index="71">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/aa7aad38-en</cell>
     <cell name="title">OECD Sovereign Borrowing Outlook 2019 (en)</cell>
@@ -1258,7 +1224,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/694ab41e</cell>
   </row>
-  <row index="74">
+  <row index="72">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/a807696a-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1275,7 +1241,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d68797d2</cell>
   </row>
-  <row index="75">
+  <row index="73">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/f56f3e2c-en</cell>
     <cell name="title">Sovereign borrowing outlook for OECD countries (en)</cell>
@@ -1292,7 +1258,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c01fe985</cell>
   </row>
-  <row index="76">
+  <row index="74">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/cbd720a5-en</cell>
     <cell name="title">Editorial (en)</cell>
@@ -1309,7 +1275,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/56808fe1</cell>
   </row>
-  <row index="77">
+  <row index="75">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/a807696a-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1326,7 +1292,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b38dfa81</cell>
   </row>
-  <row index="78">
+  <row index="76">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/873c99d6-en</cell>
     <cell name="title">OECD 2018 Survey on Primary Markets Developments (en)</cell>
@@ -1343,7 +1309,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/95d2055b</cell>
   </row>
-  <row index="79">
+  <row index="77">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/8c2014ed-en</cell>
     <cell name="title">Public debt management under stressed market conditions: A review of the recent experiences of Greece, Iceland, Ireland and Portugal (en)</cell>
@@ -1360,7 +1326,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fa9d268e</cell>
   </row>
-  <row index="80">
+  <row index="78">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/aa7aad38-en</cell>
     <cell name="title">OECD Sovereign Borrowing Outlook 2019 (en)</cell>
@@ -1372,12 +1338,12 @@
     <cell name="embargo date">2019-04-23T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d847079b</cell>
   </row>
-  <row index="81">
+  <row index="79">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/f56f3e2c-en</cell>
     <cell name="title">Sovereign borrowing outlook for OECD countries (en)</cell>
@@ -1394,7 +1360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d2b5945a</cell>
   </row>
-  <row index="82">
+  <row index="80">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/aa7aad38-en</cell>
     <cell name="title">OECD Sovereign Borrowing Outlook 2019 (en)</cell>
@@ -1411,7 +1377,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2e11f539</cell>
   </row>
-  <row index="83">
+  <row index="81">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/873c99d6-en</cell>
     <cell name="title">OECD 2018 Survey on Primary Markets Developments (en)</cell>
@@ -1428,7 +1394,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/99670a1c</cell>
   </row>
-  <row index="84">
+  <row index="82">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/cbd720a5-en</cell>
     <cell name="title">Editorial (en)</cell>
@@ -1445,7 +1411,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f26d07d</cell>
   </row>
-  <row index="85">
+  <row index="83">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/c0cbe073-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1462,7 +1428,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/52e3ecb2</cell>
   </row>
-  <row index="86">
+  <row index="84">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/aa7aad38-en</cell>
     <cell name="title">OECD Sovereign Borrowing Outlook 2019 (en)</cell>
@@ -1479,10 +1445,10 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a924897b</cell>
   </row>
-  <row index="87">
+  <row index="85">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/c875a40b-en</cell>
-    <cell name="title">OECD 2018 Survey on Liquidity in Government Bond Secondary MarketsS (en)</cell>
+    <cell name="title">OECD 2018 Survey on Liquidity in Government Bond Secondary Markets (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
@@ -1490,13 +1456,13 @@
     <cell name="date of publication">2019-04-23</cell>
     <cell name="embargo date">2019-04-23T08:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-04-17T21:20:38Z</cell>
-    <cell name="freepreview last export date">2019-04-17T18:49:01Z</cell>
+    <cell name="ilibrary last export date">2019-04-19T21:48:37Z</cell>
+    <cell name="freepreview last export date">2019-04-19T18:55:11Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/913d9abf</cell>
   </row>
-  <row index="88">
+  <row index="86">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/8c2014ed-en</cell>
     <cell name="title">Public debt management under stressed market conditions: A review of the recent experiences of Greece, Iceland, Ireland and Portugal (en)</cell>
@@ -1513,7 +1479,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/57ddb7fd</cell>
   </row>
-  <row index="89">
+  <row index="87">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/3b268272-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -1530,7 +1496,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c35b306f</cell>
   </row>
-  <row index="90">
+  <row index="88">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/95d8c3ff-en</cell>
     <cell name="title">Understanding investor demand for government securities (en)</cell>
@@ -1547,7 +1513,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5e82436f</cell>
   </row>
-  <row index="91">
+  <row index="89">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/95d8c3ff-en</cell>
     <cell name="title">Understanding investor demand for government securities (en)</cell>
@@ -1564,7 +1530,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/13d66773</cell>
   </row>
-  <row index="92">
+  <row index="90">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/3b268272-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -1581,7 +1547,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4dc2f868</cell>
   </row>
-  <row index="93">
+  <row index="91">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/04677bea-en</cell>
     <cell name="title">Is there a generational divide in environmental optimism? (en)</cell>
@@ -1598,24 +1564,24 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/af7fe495</cell>
   </row>
-  <row index="94">
+  <row index="92">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9ee00155-en</cell>
     <cell name="title">OECD Employment Outlook 2019 (en)</cell>
     <cell name="subtitle">The Future of Work (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2019-04-25</cell>
     <cell name="embargo date">2019-04-25T07:45:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2019-04-19T21:48:37Z</cell>
+    <cell name="freepreview last export date">2019-04-19T18:55:11Z</cell>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d585356f</cell>
   </row>
-  <row index="95">
+  <row index="93">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9ee00155-en</cell>
     <cell name="title">OECD Employment Outlook 2019 (en)</cell>
@@ -1632,24 +1598,24 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aac775d7</cell>
   </row>
-  <row index="96">
+  <row index="94">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9ee00155-en</cell>
     <cell name="title">OECD Employment Outlook 2019 (en)</cell>
     <cell name="subtitle">The Future of Work (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">HTML</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2019-04-25</cell>
     <cell name="embargo date">2019-04-25T07:45:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2019-04-19T21:48:37Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a26d53c3</cell>
   </row>
-  <row index="97">
+  <row index="95">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9ee00155-en</cell>
     <cell name="title">OECD Employment Outlook 2019 (en)</cell>
@@ -1666,7 +1632,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c0a48f94</cell>
   </row>
-  <row index="98">
+  <row index="96">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/6e037161-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -1683,7 +1649,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/94310598</cell>
   </row>
-  <row index="99">
+  <row index="97">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/e07f02c8-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1700,7 +1666,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/833119f0</cell>
   </row>
-  <row index="100">
+  <row index="98">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/7ef9363b-en</cell>
     <cell name="title">Multi-dimensional Review of Thailand (en)</cell>
@@ -1717,7 +1683,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2e9fe376</cell>
   </row>
-  <row index="101">
+  <row index="99">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/4f4d2cc0-en</cell>
     <cell name="title">Global patterns suggest that the large disparities between Thailand’s regions pose a significant challenge to the transition to a high-income economy (en)</cell>
@@ -1734,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/985dfc44</cell>
   </row>
-  <row index="102">
+  <row index="100">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/4ad5bf7e-en</cell>
     <cell name="title">The Bangkok metropolitan region outperforms others in most dimensions of well-being (en)</cell>
@@ -1751,7 +1717,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fb0855f2</cell>
   </row>
-  <row index="103">
+  <row index="101">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/7ef9363b-en</cell>
     <cell name="title">Multi-dimensional Review of Thailand (en)</cell>
@@ -1768,7 +1734,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f6add376</cell>
   </row>
-  <row index="104">
+  <row index="102">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/e07f02c8-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1785,7 +1751,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/037b9cc0</cell>
   </row>
-  <row index="105">
+  <row index="103">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/677f12dc-en</cell>
     <cell name="title">Developing the potential of Thailand’s North: An action plan (en)</cell>
@@ -1802,7 +1768,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fea8d4d7</cell>
   </row>
-  <row index="106">
+  <row index="104">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/016490d3-en</cell>
     <cell name="title">Annual average damage from flood events as a share of GDP (en)</cell>
@@ -1819,7 +1785,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/95796d9a</cell>
   </row>
-  <row index="107">
+  <row index="105">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/1eb7cf83-en</cell>
     <cell name="title">Northern provinces have been growing fast (en)</cell>
@@ -1836,7 +1802,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/168e5345</cell>
   </row>
-  <row index="108">
+  <row index="106">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/4f5dd547-en</cell>
     <cell name="title">The agricultural and manufacturing sectors contribute one-third of regional GDP (en)</cell>
@@ -1853,7 +1819,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ee5e3490</cell>
   </row>
-  <row index="109">
+  <row index="107">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/934766c1-en</cell>
     <cell name="title">Poor regions have grown faster than richer ones, displaying potential for convergence (en)</cell>
@@ -1870,7 +1836,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e0d2c623</cell>
   </row>
-  <row index="110">
+  <row index="108">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/6e037161-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -1887,7 +1853,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/16d1d70a</cell>
   </row>
-  <row index="111">
+  <row index="109">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/54d322a7-en</cell>
     <cell name="title">Intermediary cities are attracting more people (en)</cell>
@@ -1904,7 +1870,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1ef4fcf8</cell>
   </row>
-  <row index="112">
+  <row index="110">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/7ef9363b-en</cell>
     <cell name="title">Multi-dimensional Review of Thailand (en)</cell>
@@ -1921,7 +1887,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/208d4028</cell>
   </row>
-  <row index="113">
+  <row index="111">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/677f12dc-en</cell>
     <cell name="title">Developing the potential of Thailand’s North: An action plan (en)</cell>
@@ -1938,7 +1904,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5804fd5</cell>
   </row>
-  <row index="114">
+  <row index="112">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/bc39e471-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1955,7 +1921,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6a4b39fa</cell>
   </row>
-  <row index="115">
+  <row index="113">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/5c065631-en</cell>
     <cell name="title">Towards better management of water security in Thailand’s Northern Region (en)</cell>
@@ -1972,7 +1938,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/16a906b7</cell>
   </row>
-  <row index="116">
+  <row index="114">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/4e9bd79f-en</cell>
     <cell name="title">Synthesis of multi-dimensional analysis: New capabilities for Thailand (en)</cell>
@@ -1989,7 +1955,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/73ca4bae</cell>
   </row>
-  <row index="117">
+  <row index="115">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/daf35406-en</cell>
     <cell name="title">A scorecard to track sustainable development in the North (en)</cell>
@@ -2006,7 +1972,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5d8a1174</cell>
   </row>
-  <row index="118">
+  <row index="116">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/daf35406-en</cell>
     <cell name="title">A scorecard to track sustainable development in the North (en)</cell>
@@ -2023,7 +1989,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d3a5e61f</cell>
   </row>
-  <row index="119">
+  <row index="117">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/b8a6109a-en</cell>
     <cell name="title">Transfers and tax sharing dominate local administration revenues (en)</cell>
@@ -2040,7 +2006,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6a898551</cell>
   </row>
-  <row index="120">
+  <row index="118">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/c06d1e6b-en</cell>
     <cell name="title">Measuring the performance of the Christian Doppler Labs (en)</cell>
@@ -2057,7 +2023,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e572202b</cell>
   </row>
-  <row index="121">
+  <row index="119">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/4e9bd79f-en</cell>
     <cell name="title">Synthesis of multi-dimensional analysis: New capabilities for Thailand (en)</cell>
@@ -2074,7 +2040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a9a108e8</cell>
   </row>
-  <row index="122">
+  <row index="120">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/5c065631-en</cell>
     <cell name="title">Towards better management of water security in Thailand’s Northern Region (en)</cell>
@@ -2091,7 +2057,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0ba06f7d</cell>
   </row>
-  <row index="123">
+  <row index="121">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/35c469d8-en</cell>
     <cell name="title">There is significant variation in educated workers across regions (en)</cell>
@@ -2108,7 +2074,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3a794383</cell>
   </row>
-  <row index="124">
+  <row index="122">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/bc39e471-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2125,7 +2091,58 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d57023e0</cell>
   </row>
+  <row index="123">
+    <cell name="directorate">Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/b2774f97-en</cell>
+    <cell name="title">OECD Compendium of Productivity Indicators 2019 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2019-04-29</cell>
+    <cell name="embargo date">2019-04-29T09:00:00Z</cell>
+    <cell name="launch date/time">2019-04-29T09:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae16a448</cell>
+  </row>
+  <row index="124">
+    <cell name="directorate">Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/b2774f97-en</cell>
+    <cell name="title">OECD Compendium of Productivity Indicators 2019 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2019-04-29</cell>
+    <cell name="embargo date">2019-04-29T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-04-19T21:48:37Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3a8e396f</cell>
+  </row>
   <row index="125">
+    <cell name="directorate">Statistics and Data Directorate</cell>
+    <cell name="doi">10.1787/b2774f97-en</cell>
+    <cell name="title">OECD Compendium of Productivity Indicators 2019 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2019-04-29</cell>
+    <cell name="embargo date">2019-04-29T09:00:00Z</cell>
+    <cell name="launch date/time">2019-04-29T09:00:00Z</cell>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e4d85e71</cell>
+  </row>
+  <row index="126">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/a536d00e-en</cell>
     <cell name="title">OECD Economic Surveys: Mexico 2019 (en)</cell>
@@ -2142,7 +2159,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10cd72f2</cell>
   </row>
-  <row index="126">
+  <row index="127">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/fde7bbbe-es</cell>
     <cell name="title">Estudios Económicos de la OCDE: México 2019 (es)</cell>
@@ -2159,7 +2176,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/586a97f7</cell>
   </row>
-  <row index="127">
+  <row index="128">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0fda3541-en</cell>
     <cell name="title">Business Expenditures on R&amp;D (BERD) in the agriculture and food and beverage sectors (en)</cell>
@@ -2171,12 +2188,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/60998e9b</cell>
   </row>
-  <row index="128">
+  <row index="129">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0dda4af5-en</cell>
     <cell name="title">Overview of the food and agriculture situation in Japan (en)</cell>
@@ -2193,7 +2210,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4dfcbd42</cell>
   </row>
-  <row index="129">
+  <row index="130">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/d657480f-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2205,12 +2222,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/68ad0dbd</cell>
   </row>
-  <row index="130">
+  <row index="131">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/65b6f438-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -2227,7 +2244,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d57d6275</cell>
   </row>
-  <row index="131">
+  <row index="132">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/2e2afcc0-en</cell>
     <cell name="title">Composition of support to agriculture in Japan, 2015-17 (en)</cell>
@@ -2239,12 +2256,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/19d47d8e</cell>
   </row>
-  <row index="132">
+  <row index="133">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0fa603db-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -2261,7 +2278,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d4ff7b9</cell>
   </row>
-  <row index="133">
+  <row index="134">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e896195f-en</cell>
     <cell name="title">Direct government funding and tax support for business R&amp;D, 2015 (en)</cell>
@@ -2273,12 +2290,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4efda791</cell>
   </row>
-  <row index="134">
+  <row index="135">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/68dcedb2-en</cell>
     <cell name="title">Allocation of spending responsibility by function in Japan, 2016 (en)</cell>
@@ -2290,29 +2307,29 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2d233651</cell>
   </row>
-  <row index="135">
+  <row index="136">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/563f8fbe-ja</cell>
     <cell name="title">日本農業のイノベーション、生産性及び持続可能性  (ja)</cell>
     <cell name="subtitle"/>
     <cell name="language">Japanese</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2019-05-11</cell>
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2019-04-19T21:48:37Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d3bd2d12</cell>
   </row>
-  <row index="136">
+  <row index="137">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/d657480f-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2329,7 +2346,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/be7afc25</cell>
   </row>
-  <row index="137">
+  <row index="138">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/d6539274-en</cell>
     <cell name="title">Comparative performance of Japan’s science and innovation systems, 2016 (en)</cell>
@@ -2341,12 +2358,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1565a734</cell>
   </row>
-  <row index="138">
+  <row index="139">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/93147e53-en</cell>
     <cell name="title">Agricultural areas exceeding recommended drinking water limits for nitrates in groundwater, OECD countries, 2000-10 (en)</cell>
@@ -2358,12 +2375,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5c86bc0a</cell>
   </row>
-  <row index="139">
+  <row index="140">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4f921247-en</cell>
     <cell name="title">Intensity of public agricultural R&amp;D investment (en)</cell>
@@ -2375,12 +2392,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cda4861a</cell>
   </row>
-  <row index="140">
+  <row index="141">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/01035660-en</cell>
     <cell name="title">Global Competitiveness Index: All components, 2017-18 (en)</cell>
@@ -2392,12 +2409,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a5d5a625</cell>
   </row>
-  <row index="141">
+  <row index="142">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/924edd8b-en</cell>
     <cell name="title">General policy environment for food and agriculture in Japan (en)</cell>
@@ -2414,7 +2431,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/67d6f2a9</cell>
   </row>
-  <row index="142">
+  <row index="143">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/65b6f438-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -2426,12 +2443,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ca9bdd8c</cell>
   </row>
-  <row index="143">
+  <row index="144">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/28fe1d47-en</cell>
     <cell name="title">Evolution of farm households and agricultural workers in Japan, 1990 to 2015 (en)</cell>
@@ -2443,12 +2460,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/639333a2</cell>
   </row>
-  <row index="144">
+  <row index="145">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/924edd8b-en</cell>
     <cell name="title">General policy environment for food and agriculture in Japan (en)</cell>
@@ -2460,12 +2477,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/18d9a33f</cell>
   </row>
-  <row index="145">
+  <row index="146">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/945046e5-en</cell>
     <cell name="title">Decomposition of total factor productivity growth in Japan, 1961 to 2015 (en)</cell>
@@ -2477,12 +2494,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9d61f238</cell>
   </row>
-  <row index="146">
+  <row index="147">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e6f792bd-en</cell>
     <cell name="title">Acronyms (en)</cell>
@@ -2494,12 +2511,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e67cd0d</cell>
   </row>
-  <row index="147">
+  <row index="148">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4d5c560d-en</cell>
     <cell name="title">Nitrogen and phosphorus balance in OECD countries, 1993-95, 2003-05 and 2013-15 (en)</cell>
@@ -2511,12 +2528,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec56af2d</cell>
   </row>
-  <row index="148">
+  <row index="149">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c965a64e-en</cell>
     <cell name="title">Support conditioned on adoption of specific production practices, 2015-17 (en)</cell>
@@ -2528,12 +2545,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d4cf0e2</cell>
   </row>
-  <row index="149">
+  <row index="150">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/2a39a94d-en</cell>
     <cell name="title">Agricultural innovation systems in Japan (en)</cell>
@@ -2550,7 +2567,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dd9dcf24</cell>
   </row>
-  <row index="150">
+  <row index="151">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b1ff7786-en</cell>
     <cell name="title">Agricultural policy environment in Japan (en)</cell>
@@ -2562,12 +2579,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4d25a2f1</cell>
   </row>
-  <row index="151">
+  <row index="152">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/92b8dff7-en</cell>
     <cell name="title">Innovation, Agricultural Productivity and Sustainability in Japan (en)</cell>
@@ -2578,13 +2595,13 @@
     <cell name="date of publication">2019-05-11</cell>
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2019-04-19T21:48:37Z</cell>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62434cbe</cell>
   </row>
-  <row index="152">
+  <row index="153">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1825266e-en</cell>
     <cell name="title">Energy use in OECD countries, agriculture and total, 2016 (en)</cell>
@@ -2596,12 +2613,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c0142764</cell>
   </row>
-  <row index="153">
+  <row index="154">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/560633d1-en</cell>
     <cell name="title">Composition of agricultural production value in Japan, 1960 to 2017 (en)</cell>
@@ -2613,12 +2630,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/902ce1d0</cell>
   </row>
-  <row index="154">
+  <row index="155">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/2a39a94d-en</cell>
     <cell name="title">Agricultural innovation systems in Japan (en)</cell>
@@ -2630,12 +2647,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e0f861f2</cell>
   </row>
-  <row index="155">
+  <row index="156">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/da502a05-en</cell>
     <cell name="title">Japan’s demographic structure, 1950 to 2065 (en)</cell>
@@ -2647,12 +2664,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/97a93bf5</cell>
   </row>
-  <row index="156">
+  <row index="157">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/45a19344-en</cell>
     <cell name="title">Mobile broadband subscriptions per 100 inhabitants in OECD countries, 2017 (en)</cell>
@@ -2664,12 +2681,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/68bb73f1</cell>
   </row>
-  <row index="157">
+  <row index="158">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/ac2b04dc-en</cell>
     <cell name="title">Pesticides sales per agricultural land in OECD countries, 2011-15 (en)</cell>
@@ -2681,12 +2698,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c80fd368</cell>
   </row>
-  <row index="158">
+  <row index="159">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/edc83116-en</cell>
     <cell name="title">Japan’s agro-food exports, 2002 to 2017 (en)</cell>
@@ -2698,12 +2715,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3e0239f0</cell>
   </row>
-  <row index="159">
+  <row index="160">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/eec0c7a4-en</cell>
     <cell name="title">Transfer to specific commodities (SCT) in Japan, 2015-17 (en)</cell>
@@ -2715,12 +2732,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5956d0d4</cell>
   </row>
-  <row index="160">
+  <row index="161">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/96649a1c-en</cell>
     <cell name="title">Evolution of Japan’s PSE, 1995 to 2017 (en)</cell>
@@ -2732,12 +2749,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eb67b2d2</cell>
   </row>
-  <row index="161">
+  <row index="162">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/92b8dff7-en</cell>
     <cell name="title">Innovation, Agricultural Productivity and Sustainability in Japan (en)</cell>
@@ -2748,13 +2765,13 @@
     <cell name="date of publication">2019-05-11</cell>
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time">2019-05-11T00:30:00Z</cell>
-    <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
+    <cell name="ilibrary last export date">2019-04-19T21:48:37Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e88e6b4d</cell>
   </row>
-  <row index="162">
+  <row index="163">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/93e84944-en</cell>
     <cell name="title">Human capital development in Japan’s agriculture (en)</cell>
@@ -2766,12 +2783,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1e63a9b4</cell>
   </row>
-  <row index="163">
+  <row index="164">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0337c9f6-en</cell>
     <cell name="title">Age distribution of farm managers by farm size in Japan, 2015 (en)</cell>
@@ -2783,12 +2800,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/627e1b52</cell>
   </row>
-  <row index="164">
+  <row index="165">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1a185acc-en</cell>
     <cell name="title">Credit guarantees for small and medium-sized enterprises in Japan, 2015* (en)</cell>
@@ -2800,12 +2817,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b13fb79</cell>
   </row>
-  <row index="165">
+  <row index="166">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/2ea4d2d2-en</cell>
     <cell name="title">Distribution of output in Japan and EU15 (en)</cell>
@@ -2817,12 +2834,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/88c4d90f</cell>
   </row>
-  <row index="166">
+  <row index="167">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a0017780-en</cell>
     <cell name="title">Composition of General Service Support, 2015-17 (en)</cell>
@@ -2834,12 +2851,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f8540f80</cell>
   </row>
-  <row index="167">
+  <row index="168">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c3f45ecd-en</cell>
     <cell name="title">Annual precipitation and per capita water availability in OECD countries, 2014 (en)</cell>
@@ -2851,12 +2868,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fdce6fdd</cell>
   </row>
-  <row index="168">
+  <row index="169">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/fef20039-en</cell>
     <cell name="title">Agricultural total factor productivity growth, 1991-2000 and 2001-15 (en)</cell>
@@ -2868,12 +2885,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ff026d5d</cell>
   </row>
-  <row index="169">
+  <row index="170">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/dc0eb36f-en</cell>
     <cell name="title">Stringency of environmental policy in selected OECD countries, 1990-95 and 2012 (en)</cell>
@@ -2885,12 +2902,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/443bde93</cell>
   </row>
-  <row index="170">
+  <row index="171">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b4f06689-en</cell>
     <cell name="title">Share of students in upper-secondary vocational programmes in OECD countries, 2015 (en)</cell>
@@ -2902,12 +2919,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a00fe5f0</cell>
   </row>
-  <row index="171">
+  <row index="172">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c9ee1427-en</cell>
     <cell name="title">Number of new entrants to farming in Japan, 2006 to 2017 (en)</cell>
@@ -2919,12 +2936,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/36826f99</cell>
   </row>
-  <row index="172">
+  <row index="173">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/43fde922-en</cell>
     <cell name="title">Revealed comparative advantage of agricultural and food products, 2005-14 (en)</cell>
@@ -2936,12 +2953,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1b9213b1</cell>
   </row>
-  <row index="173">
+  <row index="174">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e6f792bd-en</cell>
     <cell name="title">Acronyms (en)</cell>
@@ -2958,7 +2975,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62ad4779</cell>
   </row>
-  <row index="174">
+  <row index="175">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/841aad98-en</cell>
     <cell name="title">Composition of farm household income in Japan, 2017 (en)</cell>
@@ -2970,12 +2987,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/36f6ef31</cell>
   </row>
-  <row index="175">
+  <row index="176">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/93e84944-en</cell>
     <cell name="title">Human capital development in Japan’s agriculture (en)</cell>
@@ -2992,7 +3009,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c1544cb9</cell>
   </row>
-  <row index="176">
+  <row index="177">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/83f88020-en</cell>
     <cell name="title">OECD FDI Regulatory Restrictiveness Index by sector, 2003 and 2016 (en)</cell>
@@ -3004,12 +3021,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/882ca8d7</cell>
   </row>
-  <row index="177">
+  <row index="178">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c4f41922-en</cell>
     <cell name="title">Evolution of agricultural infrastructure in Japan, 1954 to 2014 (en)</cell>
@@ -3021,12 +3038,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ba6785a3</cell>
   </row>
-  <row index="178">
+  <row index="179">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3645ce6e-en</cell>
     <cell name="title">Distribution of farm size in Japan, 2005, 2010 and 2015 (en)</cell>
@@ -3038,12 +3055,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4cfb217f</cell>
   </row>
-  <row index="179">
+  <row index="180">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/532756ee-en</cell>
     <cell name="title">Japan’s agri-environmental performance compared to the OECD and EU15 averages,1993-95 to 2013-15 (en)</cell>
@@ -3055,12 +3072,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3a092cf7</cell>
   </row>
-  <row index="180">
+  <row index="181">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0dda4af5-en</cell>
     <cell name="title">Overview of the food and agriculture situation in Japan (en)</cell>
@@ -3072,12 +3089,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/25ec5762</cell>
   </row>
-  <row index="181">
+  <row index="182">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8603a7c2-en</cell>
     <cell name="title">Share of single commodity transfer, 1995 to 2017 (en)</cell>
@@ -3089,12 +3106,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c096dc4e</cell>
   </row>
-  <row index="182">
+  <row index="183">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/ce539010-en</cell>
     <cell name="title">Per capita supply of food in Japan, 1960 to 2017 (en)</cell>
@@ -3106,12 +3123,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c4a3a244</cell>
   </row>
-  <row index="183">
+  <row index="184">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0fa603db-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -3123,12 +3140,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aecb30ef</cell>
   </row>
-  <row index="184">
+  <row index="185">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/92b8dff7-en</cell>
     <cell name="title">Innovation, Agricultural Productivity and Sustainability in Japan (en)</cell>
@@ -3139,13 +3156,13 @@
     <cell name="date of publication">2019-05-11</cell>
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time">2019-05-11T00:30:00Z</cell>
-    <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
+    <cell name="ilibrary last export date">2019-04-19T21:48:37Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dbab9e5f</cell>
   </row>
-  <row index="185">
+  <row index="186">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/760276cd-en</cell>
     <cell name="title">Import tariffs for industrial and agricultural goods (en)</cell>
@@ -3157,12 +3174,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c4bb603</cell>
   </row>
-  <row index="186">
+  <row index="187">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/16ab2b47-en</cell>
     <cell name="title">Foreign technical trainees in Japan, by main job category, 2007 to 2016 (en)</cell>
@@ -3174,12 +3191,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8f27ecf8</cell>
   </row>
-  <row index="187">
+  <row index="188">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3c664956-en</cell>
     <cell name="title">Intellectual property protection indicators (en)</cell>
@@ -3191,12 +3208,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ab793e47</cell>
   </row>
-  <row index="188">
+  <row index="189">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/42ed3cba-en</cell>
     <cell name="title">Share of GHG emissions from agriculture in OECD countries, 2015 (en)</cell>
@@ -3208,12 +3225,12 @@
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="freepreview last export date">2019-04-18T18:50:12Z</cell>
     <cell name="catalogue type">Graph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d6a902d4</cell>
   </row>
-  <row index="189">
+  <row index="190">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/92b8dff7-en</cell>
     <cell name="title">Innovation, Agricultural Productivity and Sustainability in Japan (en)</cell>
@@ -3224,13 +3241,13 @@
     <cell name="date of publication">2019-05-11</cell>
     <cell name="embargo date">2019-05-11T00:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-04-18T20:52:39Z</cell>
+    <cell name="ilibrary last export date">2019-04-19T21:48:37Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d2c179c4</cell>
   </row>
-  <row index="190">
+  <row index="191">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b1ff7786-en</cell>
     <cell name="title">Agricultural policy environment in Japan (en)</cell>
@@ -3247,7 +3264,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0709d4c7</cell>
   </row>
-  <row index="191">
+  <row index="192">
     <cell name="directorate">Statistics and Data Directorate</cell>
     <cell name="doi">10.1787/a8caf3fa-en</cell>
     <cell name="title">Measuring Distance to the SDG Targets 2019 (en)</cell>
@@ -3264,7 +3281,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4af86039</cell>
   </row>
-  <row index="192">
+  <row index="193">
     <cell name="directorate">Statistics and Data Directorate</cell>
     <cell name="doi">10.1787/a8caf3fa-en</cell>
     <cell name="title">Measuring Distance to the SDG Targets 2019 (en)</cell>
@@ -3281,7 +3298,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9c288bf1</cell>
   </row>
-  <row index="193">
+  <row index="194">
     <cell name="directorate">Statistics and Data Directorate</cell>
     <cell name="doi">10.1787/a8caf3fa-en</cell>
     <cell name="title">Measuring Distance to the SDG Targets 2019 (en)</cell>
@@ -3298,7 +3315,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d45d494</cell>
   </row>
-  <row index="194">
+  <row index="195">
     <cell name="directorate">Statistics and Data Directorate</cell>
     <cell name="doi">10.1787/a8caf3fa-en</cell>
     <cell name="title">Measuring Distance to the SDG Targets 2019 (en)</cell>
@@ -3315,7 +3332,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b2c7e473</cell>
   </row>
-  <row index="195">
+  <row index="196">
     <cell name="directorate">International Transport Forum</cell>
     <cell name="doi">10.1787/transp_outlook-en-2019-en</cell>
     <cell name="title">ITF Transport Outlook 2019 (en)</cell>
