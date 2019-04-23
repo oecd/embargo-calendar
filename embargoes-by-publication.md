@@ -2,73 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 20 April 2019 at 5:20* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Beyond Proficiency - Using Log Files to Understand Respondent Behaviour in the Survey of Adult Skills](https://doi.org/10.1787/0b1414ed-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 18 April 2019 at 7:00 | Thursday 18 April 2019 at 7:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 13 April 2019 at 0:02
-- [x] Exported to Keepeek Friday 12 April 2019 at 20:48
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [How much time do adults spend on the PIAAC assessment and why does it matter?](https://doi.org/10.1787/11a4be1d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 April 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 16 April 2019 at 22:59
-- [x] Exported to Keepeek Tuesday 16 April 2019 at 20:37
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Temps consacré par les adultes à l’évaluation PIAAC et importance de cette donnée](https://doi.org/10.1787/4fdeb19b-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 April 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 16 April 2019 at 22:59
-- [x] Exported to Keepeek Tuesday 16 April 2019 at 20:37
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Tuesday 23 April 2019 at 5:20* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The potential economic impact of Brexit on Denmark](https://doi.org/10.1787/41a95fb3-en)
 
