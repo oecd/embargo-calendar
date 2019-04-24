@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Tue, 23 Apr 2019 05:20:14 GMT</pubDate>
+      <pubDate>Wed, 24 Apr 2019 05:48:08 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -59,7 +59,22 @@
          <oe:catalogueType>Working paper</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/9ee00155-en-d3e1149</guid>
+         <guid isPermaLink="false">10.1787/fbf42313-en-d3e1343</guid>
+         <pubDate>Thu, 25 Apr 2019 09:45:00 GMT</pubDate>
+         <title>OECD Employment Outlook 2019 (Summary in English) - The Future of Work</title>
+         <link>https://doi.org/10.1787/fbf42313-en</link>
+         <description>OECD Employment Outlook 2019 (Summary in English) - The Future of Work by Directorate for Employment, Labour and Social Affairs has an embargo on Thursday 25 April 2019 at 9:45.</description>
+         <oe:embargoTime>Thu, 25 Apr 2019 09:45:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Tuesday, 23 April 2019, 23:39 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport>Tuesday, 23 April 2019, 20:58 (GMT)</oe:freePreviewExport>
+         <oe:catalogueType>Summary</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9ee00155-en-d3e1393</guid>
          <pubDate>Thu, 25 Apr 2019 09:45:00 GMT</pubDate>
          <title>OECD Employment Outlook 2019 - The Future of Work</title>
          <link>https://doi.org/10.1787/9ee00155-en</link>
@@ -74,7 +89,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/7ef9363b-en-d3e1580</guid>
+         <guid isPermaLink="false">10.1787/7ef9363b-en-d3e3035</guid>
          <pubDate>Fri, 26 Apr 2019 09:00:00 GMT</pubDate>
          <title>Multi-dimensional Review of Thailand - Volume 3: From Analysis to Action</title>
          <link>https://doi.org/10.1787/7ef9363b-en</link>
@@ -89,7 +104,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/b2774f97-en-d3e2689</guid>
+         <guid isPermaLink="false">10.1787/b2774f97-en-d3e11110</guid>
          <pubDate>Mon, 29 Apr 2019 11:00:00 GMT</pubDate>
          <title>OECD Compendium of Productivity Indicators 2019</title>
          <link>https://doi.org/10.1787/b2774f97-en</link>
@@ -98,13 +113,13 @@
          <oe:launchTime/>
          <oe:languages>English</oe:languages>
          <oe:directorate>Statistics and Data Directorate</oe:directorate>
-         <oe:ftiLoaded/>
-         <oe:iLibraryExport>Friday, 19 April 2019, 23:48 (GMT)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Tuesday, 23 April 2019, 23:39 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport>Tuesday, 23 April 2019, 20:58 (GMT)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/a536d00e-en-d3e2781</guid>
+         <guid isPermaLink="false">10.1787/a536d00e-en-d3e11843</guid>
          <pubDate>Thu, 02 May 2019 18:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: Mexico 2019</title>
          <link>https://doi.org/10.1787/a536d00e-en</link>
@@ -119,7 +134,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/fde7bbbe-es-d3e2829</guid>
+         <guid isPermaLink="false">10.1787/fde7bbbe-es-d3e11890</guid>
          <pubDate>Thu, 02 May 2019 18:00:00 GMT</pubDate>
          <title>Estudios Económicos de la OCDE: México 2019</title>
          <link>https://doi.org/10.1787/fde7bbbe-es</link>
@@ -129,12 +144,12 @@
          <oe:languages>Spanish</oe:languages>
          <oe:directorate>Economics Department</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Wednesday, 10 April 2019, 23:38 (GMT)</oe:iLibraryExport>
+         <oe:iLibraryExport>Tuesday, 23 April 2019, 23:39 (GMT)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/563f8fbe-ja-d3e3259</guid>
+         <guid isPermaLink="false">10.1787/563f8fbe-ja-d3e12320</guid>
          <pubDate>Sat, 11 May 2019 02:30:00 GMT</pubDate>
          <title>日本農業のイノベーション、生産性及び持続可能性 </title>
          <link>https://doi.org/10.1787/563f8fbe-ja</link>
@@ -144,12 +159,12 @@
          <oe:languages>Japanese</oe:languages>
          <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Friday, 19 April 2019, 23:48 (GMT)</oe:iLibraryExport>
+         <oe:iLibraryExport>Tuesday, 23 April 2019, 23:39 (GMT)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/92b8dff7-en-d3e4031</guid>
+         <guid isPermaLink="false">10.1787/92b8dff7-en-d3e13092</guid>
          <pubDate>Sat, 11 May 2019 02:30:00 GMT</pubDate>
          <title>Innovation, Agricultural Productivity and Sustainability in Japan</title>
          <link>https://doi.org/10.1787/92b8dff7-en</link>
@@ -164,7 +179,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/a8caf3fa-en-d3e6011</guid>
+         <guid isPermaLink="false">10.1787/a8caf3fa-en-d3e15072</guid>
          <pubDate>Mon, 20 May 2019 11:00:00 GMT</pubDate>
          <title>Measuring Distance to the SDG Targets 2019 - An Assessment of Where OECD Countries Stand</title>
          <link>https://doi.org/10.1787/a8caf3fa-en</link>
@@ -179,7 +194,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/transp_outlook-en-2019-en-d3e6152</guid>
+         <guid isPermaLink="false">10.1787/transp_outlook-en-2019-en-d3e15213</guid>
          <pubDate>Wed, 22 May 2019 10:00:00 GMT</pubDate>
          <title>ITF Transport Outlook 2019</title>
          <link>https://doi.org/10.1787/transp_outlook-en-2019-en</link>
