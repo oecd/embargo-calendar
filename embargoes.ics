@@ -2,47 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/41a95fb3-end3e53
-SUMMARY:The potential economic impact of Brexit 
- on Denmark
-DESCRIPTION:*The potential economic impact of Brexit
-  on Denmark*\n\nDirectorate: Economics D
- epartment\nLanguage: English\nDOI: https
- ://doi.org/10.1787/41a95fb3-en\nPublicat
- ion type: Working paper\nReleased as: PD
- F\n\nEmbargo date/time: Tuesday, 23 Apri
- l 2019, 0:00 (GMT)\n\n\niLibrary export:
-  Thursday, 18 April 2019, 20:52 (GMT)\nF
- reepreview export: Thursday, 18 April 20
- 19, 18:50 (GMT)\nFTI loaded: ✓\n\nFor mo
- re information see: https://github.com/o
- ecd/embargo-calendar/blob/master/embargo
- es-by-publication.md.\n\nPlease note: Th
- is information was correct as of this mo
- rning at 5:47, it is updated each night;
-  therefore any subsequent updates may no
- t yet be visible here. Also, please be a
- ware that the different released media (
- PDF, HTML, etc.) are not necessarily rel
- eased at the same time. For complete and
-  up-to-date information see here: http:/
- /kappa.oecd.org/v3/search?term=41a95fb3-
- en.
-DTSTAMP:20190424T054804Z
-DTSTART:20190423T000000Z
-DTEND:20190423T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: The potential economic impact 
- of Brexit on Denmark
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/aa7aad38-end3e479
+UID:10.1787/aa7aad38-end3e431
 SUMMARY:OECD Sovereign Borrowing Outlook 2019
 DESCRIPTION:*OECD Sovereign Borrowing Outlook 2019*\
  n\nDirectorate: Directorate for Financia
@@ -59,7 +19,7 @@ DESCRIPTION:*OECD Sovereign Borrowing Outlook 2019*\
  -calendar/blob/master/embargoes-by-publi
  cation.md.\n\nPlease note: This informat
  ion was correct as of this morning at 5:
- 47, it is updated each night; therefore 
+ 18, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -67,7 +27,7 @@ DESCRIPTION:*OECD Sovereign Borrowing Outlook 2019*\
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=aa7aad38-en.
-DTSTAMP:20190424T054804Z
+DTSTAMP:20190425T051831Z
 DTSTART:20190423T080000Z
 DTEND:20190423T081500Z
 TRANSP:TRANSPARENT
@@ -81,7 +41,7 @@ DESCRIPTION:Reminder: OECD Sovereign Borrowing Outlo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/04677bea-end3e1101
+UID:10.1787/04677bea-end3e1052
 SUMMARY:Is there a generational divide in enviro
  nmental optimism?
 DESCRIPTION:*Is there a generational divide in envir
@@ -98,7 +58,7 @@ DESCRIPTION:*Is there a generational divide in envir
  n see: https://github.com/oecd/embargo-c
  alendar/blob/master/embargoes-by-publica
  tion.md.\n\nPlease note: This informatio
- n was correct as of this morning at 5:47
+ n was correct as of this morning at 5:18
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -107,7 +67,7 @@ DESCRIPTION:*Is there a generational divide in envir
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=04677bea-en.
-DTSTAMP:20190424T054804Z
+DTSTAMP:20190425T051831Z
 DTSTART:20190424T030000Z
 DTEND:20190424T031500Z
 TRANSP:TRANSPARENT
@@ -121,7 +81,7 @@ DESCRIPTION:Reminder: Is there a generational divide
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fbf42313-end3e1343
+UID:10.1787/fbf42313-end3e1295
 SUMMARY:Multilingual Summaries for OECD Employme
  nt Outlook 2019
 DESCRIPTION:*Multilingual Summaries for OECD Employm
@@ -140,7 +100,7 @@ DESCRIPTION:*Multilingual Summaries for OECD Employm
  com/oecd/embargo-calendar/blob/master/em
  bargoes-by-publication.md.\n\nPlease not
  e: This information was correct as of th
- is morning at 5:47, it is updated each n
+ is morning at 5:18, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -149,7 +109,7 @@ DESCRIPTION:*Multilingual Summaries for OECD Employm
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=fbf4
  2313-en.
-DTSTAMP:20190424T054804Z
+DTSTAMP:20190425T051831Z
 DTSTART:20190425T074500Z
 DTEND:20190425T080000Z
 TRANSP:TRANSPARENT
@@ -163,7 +123,7 @@ DESCRIPTION:Reminder: Multilingual Summaries for OEC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9ee00155-end3e1393
+UID:10.1787/9ee00155-end3e1344
 SUMMARY:OECD Employment Outlook 2019 - The Futur
  e of Work
 DESCRIPTION:*OECD Employment Outlook 2019 - The Futu
@@ -181,7 +141,7 @@ DESCRIPTION:*OECD Employment Outlook 2019 - The Futu
  m/oecd/embargo-calendar/blob/master/emba
  rgoes-by-publication.md.\n\nPlease note:
   This information was correct as of this
-  morning at 5:47, it is updated each nig
+  morning at 5:18, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -190,7 +150,7 @@ DESCRIPTION:*OECD Employment Outlook 2019 - The Futu
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=9ee001
  55-en.
-DTSTAMP:20190424T054804Z
+DTSTAMP:20190425T051831Z
 DTSTART:20190425T074500Z
 DTEND:20190425T080000Z
 TRANSP:TRANSPARENT
@@ -204,7 +164,7 @@ DESCRIPTION:Reminder: OECD Employment Outlook 2019 -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7ef9363b-end3e3035
+UID:10.1787/7ef9363b-end3e2987
 SUMMARY:Multi-dimensional Review of Thailand - V
  olume 3: From Analysis to Action
 DESCRIPTION:*Multi-dimensional Review of Thailand - 
@@ -223,7 +183,7 @@ DESCRIPTION:*Multi-dimensional Review of Thailand -
  argo-calendar/blob/master/embargoes-by-p
  ublication.md.\n\nPlease note: This info
  rmation was correct as of this morning a
- t 5:47, it is updated each night; theref
+ t 5:18, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -231,7 +191,7 @@ DESCRIPTION:*Multi-dimensional Review of Thailand -
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=7ef9363b-en.
-DTSTAMP:20190424T054804Z
+DTSTAMP:20190425T051831Z
 DTSTART:20190426T070000Z
 DTEND:20190426T071500Z
 TRANSP:TRANSPARENT
@@ -246,7 +206,7 @@ DESCRIPTION:Reminder: Multi-dimensional Review of Th
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b2774f97-end3e11110
+UID:10.1787/b2774f97-end3e11062
 SUMMARY:OECD Compendium of Productivity Indicato
  rs 2019
 DESCRIPTION:*OECD Compendium of Productivity Indicat
@@ -263,7 +223,7 @@ DESCRIPTION:*OECD Compendium of Productivity Indicat
  ub.com/oecd/embargo-calendar/blob/master
  /embargoes-by-publication.md.\n\nPlease 
  note: This information was correct as of
-  this morning at 5:47, it is updated eac
+  this morning at 5:18, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -272,7 +232,7 @@ DESCRIPTION:*OECD Compendium of Productivity Indicat
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=b
  2774f97-en.
-DTSTAMP:20190424T054804Z
+DTSTAMP:20190425T051831Z
 DTSTART:20190429T090000Z
 DTEND:20190429T091500Z
 TRANSP:TRANSPARENT
@@ -286,7 +246,7 @@ DESCRIPTION:Reminder: OECD Compendium of Productivit
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a536d00e-end3e11843
+UID:10.1787/a536d00e-end3e11794
 SUMMARY:OECD Economic Surveys: Mexico 2019
 DESCRIPTION:*OECD Economic Surveys: Mexico 2019*\n\n
  Directorate: Economics Department\nLangu
@@ -302,7 +262,7 @@ DESCRIPTION:*OECD Economic Surveys: Mexico 2019*\n\n
  .com/oecd/embargo-calendar/blob/master/e
  mbargoes-by-publication.md.\n\nPlease no
  te: This information was correct as of t
- his morning at 5:47, it is updated each 
+ his morning at 5:18, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -311,7 +271,7 @@ DESCRIPTION:*OECD Economic Surveys: Mexico 2019*\n\n
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=a53
  6d00e-en.
-DTSTAMP:20190424T054804Z
+DTSTAMP:20190425T051831Z
 DTSTART:20190502T160000Z
 DTEND:20190502T161500Z
 TRANSP:TRANSPARENT
@@ -325,7 +285,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Mexico
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fde7bbbe-esd3e11890
+UID:10.1787/fde7bbbe-esd3e11842
 SUMMARY:Estudios Económicos de la OCDE: México 2
  019
 DESCRIPTION:*Estudios Económicos de la OCDE: México 
@@ -342,7 +302,7 @@ DESCRIPTION:*Estudios Económicos de la OCDE: México
  /github.com/oecd/embargo-calendar/blob/m
  aster/embargoes-by-publication.md.\n\nPl
  ease note: This information was correct 
- as of this morning at 5:47, it is update
+ as of this morning at 5:18, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -351,7 +311,7 @@ DESCRIPTION:*Estudios Económicos de la OCDE: México
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=fde7bbbe-es.
-DTSTAMP:20190424T054804Z
+DTSTAMP:20190425T051831Z
 DTSTART:20190502T160000Z
 DTEND:20190502T161500Z
 TRANSP:TRANSPARENT
@@ -365,7 +325,48 @@ DESCRIPTION:Reminder: Estudios Económicos de la OCDE
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/563f8fbe-jad3e12320
+UID:10.1787/9789264310391-end3e12792
+SUMMARY:OECD Territorial Reviews: Hidalgo, Mexic
+ o
+DESCRIPTION:*OECD Territorial Reviews: Hidalgo, Mexi
+ co*\n\nDirectorate: Centre for Entrepren
+ eurship, SMEs, Regions and Cities\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/9789264310391-en\nPublication type: B
+ ook\nReleased as: ePub, HTML, Paperback,
+  PDF\n\nEmbargo date/time: Friday, 3 May
+  2019, 14:00 (GMT)\n\n\niLibrary export:
+  Wednesday, 24 April 2019, 21:30 (GMT)\n
+ Freepreview export: Wednesday, 24 April 
+ 2019, 18:58 (GMT)\nFTI loaded: ✓\n\nFor 
+ more information see: https://github.com
+ /oecd/embargo-calendar/blob/master/embar
+ goes-by-publication.md.\n\nPlease note: 
+ This information was correct as of this 
+ morning at 5:18, it is updated each nigh
+ t; therefore any subsequent updates may 
+ not yet be visible here. Also, please be
+  aware that the different released media
+  (PDF, HTML, etc.) are not necessarily r
+ eleased at the same time. For complete a
+ nd up-to-date information see here: http
+ ://kappa.oecd.org/v3/search?term=9789264
+ 310391-en.
+DTSTAMP:20190425T051831Z
+DTSTART:20190503T140000Z
+DTEND:20190503T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Territorial Reviews: Hida
+ lgo, Mexico
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/563f8fbe-jad3e13223
 SUMMARY:日本農業のイノベーション、生産性及び持続可能性 
 DESCRIPTION:*日本農業のイノベーション、生産性及び持続可能性 *\n\nDirectorat
  e: Trade and Agriculture Directorate\nLa
@@ -379,7 +380,7 @@ DESCRIPTION:*日本農業のイノベーション、生産性及び持続可能�
   see: https://github.com/oecd/embargo-ca
  lendar/blob/master/embargoes-by-publicat
  ion.md.\n\nPlease note: This information
-  was correct as of this morning at 5:47,
+  was correct as of this morning at 5:18,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -388,7 +389,7 @@ DESCRIPTION:*日本農業のイノベーション、生産性及び持続可能�
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=563f8fbe-ja.
-DTSTAMP:20190424T054804Z
+DTSTAMP:20190425T051831Z
 DTSTART:20190511T003000Z
 DTEND:20190511T004500Z
 TRANSP:TRANSPARENT
@@ -401,7 +402,7 @@ DESCRIPTION:Reminder: 日本農業のイノベーション、生産性及び持�
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/92b8dff7-end3e13092
+UID:10.1787/92b8dff7-end3e13995
 SUMMARY:Innovation, Agricultural Productivity an
  d Sustainability in Japan
 DESCRIPTION:*Innovation, Agricultural Productivity a
@@ -419,7 +420,7 @@ DESCRIPTION:*Innovation, Agricultural Productivity a
  cd/embargo-calendar/blob/master/embargoe
  s-by-publication.md.\n\nPlease note: Thi
  s information was correct as of this mor
- ning at 5:47, it is updated each night; 
+ ning at 5:18, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -428,7 +429,7 @@ DESCRIPTION:*Innovation, Agricultural Productivity a
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=92b8dff7-e
  n.
-DTSTAMP:20190424T054804Z
+DTSTAMP:20190425T051831Z
 DTSTART:20190511T003000Z
 DTEND:20190511T004500Z
 TRANSP:TRANSPARENT
@@ -442,7 +443,7 @@ DESCRIPTION:Reminder: Innovation, Agricultural Produ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a8caf3fa-end3e15072
+UID:10.1787/a8caf3fa-end3e16553
 SUMMARY:Measuring Distance to the SDG Targets 20
  19 - An Assessment of Where OECD Countri
  es Stand
@@ -454,23 +455,23 @@ DESCRIPTION:*Measuring Distance to the SDG Targets 2
  nPublication type: Stand-alone monograph
  \nReleased as: ePub, HTML, Paperback, PD
  F\n\nEmbargo date/time: Monday, 20 May 2
- 019, 9:00 (GMT)\n\n\niLibrary export: Th
- ursday, 18 April 2019, 20:52 (GMT)\nFree
- preview export: never\nFTI loaded: ✗\n\n
- For more information see: https://github
- .com/oecd/embargo-calendar/blob/master/e
- mbargoes-by-publication.md.\n\nPlease no
- te: This information was correct as of t
- his morning at 5:47, it is updated each 
- night; therefore any subsequent updates 
- may not yet be visible here. Also, pleas
- e be aware that the different released m
- edia (PDF, HTML, etc.) are not necessari
- ly released at the same time. For comple
- te and up-to-date information see here: 
- http://kappa.oecd.org/v3/search?term=a8c
- af3fa-en.
-DTSTAMP:20190424T054804Z
+ 019, 9:00 (GMT)\n\n\niLibrary export: We
+ dnesday, 24 April 2019, 21:30 (GMT)\nFre
+ epreview export: never\nFTI loaded: ✓\n\
+ nFor more information see: https://githu
+ b.com/oecd/embargo-calendar/blob/master/
+ embargoes-by-publication.md.\n\nPlease n
+ ote: This information was correct as of 
+ this morning at 5:18, it is updated each
+  night; therefore any subsequent updates
+  may not yet be visible here. Also, plea
+ se be aware that the different released 
+ media (PDF, HTML, etc.) are not necessar
+ ily released at the same time. For compl
+ ete and up-to-date information see here:
+  http://kappa.oecd.org/v3/search?term=a8
+ caf3fa-en.
+DTSTAMP:20190425T051831Z
 DTSTART:20190520T090000Z
 DTEND:20190520T091500Z
 TRANSP:TRANSPARENT
@@ -485,7 +486,7 @@ DESCRIPTION:Reminder: Measuring Distance to the SDG
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/transp_outlook-en-2019-end3e15213
+UID:10.1787/transp_outlook-en-2019-end3e18044
 SUMMARY:ITF Transport Outlook 2019
 DESCRIPTION:*ITF Transport Outlook 2019*\n\nDirector
  ate: International Transport Forum\nLang
@@ -501,7 +502,7 @@ DESCRIPTION:*ITF Transport Outlook 2019*\n\nDirector
  hub.com/oecd/embargo-calendar/blob/maste
  r/embargoes-by-publication.md.\n\nPlease
   note: This information was correct as o
- f this morning at 5:47, it is updated ea
+ f this morning at 5:18, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -510,7 +511,7 @@ DESCRIPTION:*ITF Transport Outlook 2019*\n\nDirector
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  transp_outlook-en-2019-en.
-DTSTAMP:20190424T054804Z
+DTSTAMP:20190425T051831Z
 DTSTART:20190522T080000Z
 DTEND:20190522T081500Z
 TRANSP:TRANSPARENT

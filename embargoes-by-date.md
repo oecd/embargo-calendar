@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 24 April 2019 at 5:47* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 25 April 2019 at 5:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [23 April 2019](#23-april-2019)
 * [24 April 2019](#24-april-2019)
@@ -10,6 +10,7 @@ Data generated on | |
 * [26 April 2019](#26-april-2019)
 * [29 April 2019](#29-april-2019)
 * [2 May 2019](#2-may-2019)
+* [3 May 2019](#3-may-2019)
 * [11 May 2019](#11-may-2019)
 * [20 May 2019](#20-may-2019)
 * [22 May 2019](#22-may-2019)
@@ -17,28 +18,6 @@ Data generated on | |
 ------
 
 # 23 April 2019
-
-## [The potential economic impact of Brexit on Denmark](https://doi.org/10.1787/41a95fb3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 23 April 2019 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 18 April 2019 at 22:52
-- [x] Exported to Keepeek Thursday 18 April 2019 at 20:50
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ## [OECD Sovereign Borrowing Outlook 2019](https://doi.org/10.1787/aa7aad38-en)
 
@@ -238,6 +217,32 @@ Thursday 2 May 2019 at 16:00 | Thursday 2 May 2019 at 16:00
 
 ------
 
+# 3 May 2019
+
+## [OECD Territorial Reviews: Hidalgo, Mexico](https://doi.org/10.1787/9789264310391-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 3 May 2019 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 24 April 2019 at 23:30
+- [x] Exported to Keepeek Wednesday 24 April 2019 at 20:58
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
 # 11 May 2019
 
 ## [日本農業のイノベーション、生産性及び持続可能性 ](https://doi.org/10.1787/563f8fbe-ja)
@@ -296,8 +301,8 @@ Monday 20 May 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 18 April 2019 at 22:52
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 24 April 2019 at 23:30
 - [ ] Exported to Keepeek
 
 ### Additional Information
