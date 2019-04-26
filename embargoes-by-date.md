@@ -2,70 +2,15 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 25 April 2019 at 5:18* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 26 April 2019 at 6:23* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [23 April 2019](#23-april-2019)
-* [24 April 2019](#24-april-2019)
 * [25 April 2019](#25-april-2019)
-* [26 April 2019](#26-april-2019)
 * [29 April 2019](#29-april-2019)
 * [2 May 2019](#2-may-2019)
 * [3 May 2019](#3-may-2019)
 * [11 May 2019](#11-may-2019)
 * [20 May 2019](#20-may-2019)
 * [22 May 2019](#22-may-2019)
-
-------
-
-# 23 April 2019
-
-## [OECD Sovereign Borrowing Outlook 2019](https://doi.org/10.1787/aa7aad38-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 23 April 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 18 April 2019 at 22:52
-- [x] Exported to Keepeek Thursday 18 April 2019 at 20:50
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-------
-
-# 24 April 2019
-
-## [Is there a generational divide in environmental optimism?](https://doi.org/10.1787/04677bea-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 24 April 2019 at 3:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 April 2019 at 23:20
-- [x] Exported to Keepeek Wednesday 17 April 2019 at 20:49
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -112,32 +57,6 @@ Thursday 25 April 2019 at 7:45 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-------
-
-# 26 April 2019
-
-## [Multi-dimensional Review of Thailand - Volume 3: From Analysis to Action](https://doi.org/10.1787/7ef9363b-en)
-
-Embargo date | Launch date
--------------|------------
-Friday 26 April 2019 at 7:00 | Friday 26 April 2019 at 7:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 10 April 2019 at 23:38
-- [x] Exported to Keepeek Thursday 11 April 2019 at 9:22
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -303,13 +222,13 @@ Monday 20 May 2019 at 9:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 24 April 2019 at 23:30
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Thursday 25 April 2019 at 20:55
 
 ### Additional Information
 
 * Directorate: *Statistics and Data Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
