@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 26 April 2019 at 6:23* | [See embargoes by date](embargoes-by-date.md) |
+| *Saturday 27 April 2019 at 4:28* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Multilingual Summaries for OECD Employment Outlook 2019](https://doi.org/10.1787/fbf42313-en)
 
@@ -57,8 +57,8 @@ Monday 29 April 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 23 April 2019 at 23:39
-- [x] Exported to Keepeek Tuesday 23 April 2019 at 20:58
+- [x] Exported to iLibrary Thursday 25 April 2019 at 23:55
+- [x] Exported to Keepeek Friday 26 April 2019 at 20:56
 
 ### Additional Information
 
@@ -74,19 +74,19 @@ Monday 29 April 2019 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Thursday 2 May 2019 at 16:00 | Thursday 2 May 2019 at 16:00
+Thursday 2 May 2019 at 15:00 | Thursday 2 May 2019 at 15:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 17 April 2019 at 23:20
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 26 April 2019 at 23:53
+- [x] Exported to Keepeek Friday 26 April 2019 at 20:56
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -96,19 +96,19 @@ Thursday 2 May 2019 at 16:00 | Thursday 2 May 2019 at 16:00
 
 Embargo date | Launch date
 -------------|------------
-Thursday 2 May 2019 at 16:00 | Thursday 2 May 2019 at 16:00
+Thursday 2 May 2019 at 15:00 | Thursday 2 May 2019 at 15:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 23 April 2019 at 23:39
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 26 April 2019 at 23:53
+- [x] Exported to Keepeek Friday 26 April 2019 at 20:56
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -189,7 +189,7 @@ Monday 20 May 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 24 April 2019 at 23:30
+- [x] Exported to iLibrary Thursday 25 April 2019 at 23:55
 - [x] Exported to Keepeek Thursday 25 April 2019 at 20:55
 
 ### Additional Information
