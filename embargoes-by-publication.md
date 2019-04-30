@@ -2,51 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 27 April 2019 at 4:28* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Multilingual Summaries for OECD Employment Outlook 2019](https://doi.org/10.1787/fbf42313-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 April 2019 at 7:45 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 23 April 2019 at 23:39
-- [x] Exported to Keepeek Tuesday 23 April 2019 at 20:58
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* 10 Languages: [Italian](https://doi.org/10.1787/2dbac7aa-it), [Korean](https://doi.org/10.1787/1718f34c-ko), [German](https://doi.org/10.1787/120d6e29-de), [Chinese](https://doi.org/10.1787/2b9312b8-zh), [English](https://doi.org/10.1787/fbf42313-en), [Japanese](https://doi.org/10.1787/8e576f56-ja), [Russian](https://doi.org/10.1787/0d8e9d47-ru), [Spanish](https://doi.org/10.1787/674119d6-es), [Portuguese](https://doi.org/10.1787/bc29bd9a-pt), [French](https://doi.org/10.1787/b03f6edc-fr)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [OECD Employment Outlook 2019 - The Future of Work](https://doi.org/10.1787/9ee00155-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 April 2019 at 7:45 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 19 April 2019 at 23:48
-- [x] Exported to Keepeek Friday 19 April 2019 at 20:55
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Tuesday 30 April 2019 at 4:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Compendium of Productivity Indicators 2019](https://doi.org/10.1787/b2774f97-en)
 
