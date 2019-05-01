@@ -19,7 +19,7 @@ DESCRIPTION:*OECD Compendium of Productivity Indicat
  ub.com/oecd/embargo-calendar/blob/master
  /embargoes-by-publication.md.\n\nPlease 
  note: This information was correct as of
-  this morning at 4:10, it is updated eac
+  this morning at 4:05, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -28,7 +28,7 @@ DESCRIPTION:*OECD Compendium of Productivity Indicat
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=b
  2774f97-en.
-DTSTAMP:20190430T041042Z
+DTSTAMP:20190501T040546Z
 DTSTART:20190429T090000Z
 DTEND:20190429T091500Z
 TRANSP:TRANSPARENT
@@ -59,7 +59,7 @@ DESCRIPTION:*OECD Economic Surveys: Mexico 2019*\n\n
  rgo-calendar/blob/master/embargoes-by-pu
  blication.md.\n\nPlease note: This infor
  mation was correct as of this morning at
-  4:10, it is updated each night; therefo
+  4:05, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -67,7 +67,7 @@ DESCRIPTION:*OECD Economic Surveys: Mexico 2019*\n\n
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=a536d00e-en.
-DTSTAMP:20190430T041042Z
+DTSTAMP:20190501T040546Z
 DTSTART:20190502T150000Z
 DTEND:20190502T151500Z
 TRANSP:TRANSPARENT
@@ -99,7 +99,7 @@ DESCRIPTION:*Estudios Económicos de la OCDE: México
  oecd/embargo-calendar/blob/master/embarg
  oes-by-publication.md.\n\nPlease note: T
  his information was correct as of this m
- orning at 4:10, it is updated each night
+ orning at 4:05, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -108,7 +108,7 @@ DESCRIPTION:*Estudios Económicos de la OCDE: México
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=fde7bbbe
  -es.
-DTSTAMP:20190430T041042Z
+DTSTAMP:20190501T040546Z
 DTSTART:20190502T150000Z
 DTEND:20190502T151500Z
 TRANSP:TRANSPARENT
@@ -122,7 +122,86 @@ DESCRIPTION:Reminder: Estudios Económicos de la OCDE
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264310391-end3e8848
+UID:10.1787/b541bfcd-end3e7945
+SUMMARY:How does socio-economic status influence
+  entry into tertiary education?
+DESCRIPTION:*How does socio-economic status influenc
+ e entry into tertiary education?*\n\nDir
+ ectorate: Directorate for Education and 
+ Skills\nLanguage: English\nDOI: https://
+ doi.org/10.1787/b541bfcd-en\nPublication
+  type: Working paper\nReleased as: PDF\n
+ \nEmbargo date/time: Friday, 3 May 2019,
+  3:00 (GMT)\n\n\niLibrary export: Tuesda
+ y, 30 April 2019, 21:31 (GMT)\nFreeprevi
+ ew export: Tuesday, 30 April 2019, 18:57
+  (GMT)\nFTI loaded: ✓\n\nFor more inform
+ ation see: https://github.com/oecd/embar
+ go-calendar/blob/master/embargoes-by-pub
+ lication.md.\n\nPlease note: This inform
+ ation was correct as of this morning at 
+ 4:05, it is updated each night; therefor
+ e any subsequent updates may not yet be 
+ visible here. Also, please be aware that
+  the different released media (PDF, HTML
+ , etc.) are not necessarily released at 
+ the same time. For complete and up-to-da
+ te information see here: http://kappa.oe
+ cd.org/v3/search?term=b541bfcd-en.
+DTSTAMP:20190501T040546Z
+DTSTART:20190503T030000Z
+DTEND:20190503T031500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How does socio-economic status
+  influence entry into tertiary education
+ ?
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/254738dd-end3e7993
+SUMMARY:Invariance analyses in large-scale studi
+ es
+DESCRIPTION:*Invariance analyses in large-scale stud
+ ies*\n\nDirectorate: Directorate for Edu
+ cation and Skills\nLanguage: English\nDO
+ I: https://doi.org/10.1787/254738dd-en\n
+ Publication type: Working paper\nRelease
+ d as: PDF\n\nEmbargo date/time: Friday, 
+ 3 May 2019, 9:00 (GMT)\n\n\niLibrary exp
+ ort: never\nFreepreview export: never\nF
+ TI loaded: ✓\n\nFor more information see
+ : https://github.com/oecd/embargo-calend
+ ar/blob/master/embargoes-by-publication.
+ md.\n\nPlease note: This information was
+  correct as of this morning at 4:05, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=254738dd-en.
+DTSTAMP:20190501T040546Z
+DTSTART:20190503T090000Z
+DTEND:20190503T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Invariance analyses in large-s
+ cale studies
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9789264310391-end3e8943
 SUMMARY:OECD Territorial Reviews: Hidalgo, Mexic
  o
 DESCRIPTION:*OECD Territorial Reviews: Hidalgo, Mexi
@@ -140,7 +219,7 @@ DESCRIPTION:*OECD Territorial Reviews: Hidalgo, Mexi
  /oecd/embargo-calendar/blob/master/embar
  goes-by-publication.md.\n\nPlease note: 
  This information was correct as of this 
- morning at 4:10, it is updated each nigh
+ morning at 4:05, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -149,7 +228,7 @@ DESCRIPTION:*OECD Territorial Reviews: Hidalgo, Mexi
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=9789264
  310391-en.
-DTSTAMP:20190430T041042Z
+DTSTAMP:20190501T040546Z
 DTSTART:20190503T140000Z
 DTEND:20190503T141500Z
 TRANSP:TRANSPARENT
@@ -163,7 +242,44 @@ DESCRIPTION:Reminder: OECD Territorial Reviews: Hida
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/563f8fbe-jad3e9280
+UID:10.1787/fd193abd-end3e8991
+SUMMARY:The use of revenues from carbon pricing
+DESCRIPTION:*The use of revenues from carbon pricing
+ *\n\nDirectorate: Centre for Tax Policy 
+ and Administration\nLanguage: English\nD
+ OI: https://doi.org/10.1787/fd193abd-en\
+ nPublication type: Working paper\nReleas
+ ed as: PDF\n\nEmbargo date/time: Monday,
+  6 May 2019, 3:00 (GMT)\n\n\niLibrary ex
+ port: never\nFreepreview export: never\n
+ FTI loaded: ✗\n\nFor more information se
+ e: https://github.com/oecd/embargo-calen
+ dar/blob/master/embargoes-by-publication
+ .md.\n\nPlease note: This information wa
+ s correct as of this morning at 4:05, it
+  is updated each night; therefore any su
+ bsequent updates may not yet be visible 
+ here. Also, please be aware that the dif
+ ferent released media (PDF, HTML, etc.) 
+ are not necessarily released at the same
+  time. For complete and up-to-date infor
+ mation see here: http://kappa.oecd.org/v
+ 3/search?term=fd193abd-en.
+DTSTAMP:20190501T040546Z
+DTSTART:20190506T030000Z
+DTEND:20190506T031500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: The use of revenues from carbo
+ n pricing
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/563f8fbe-jad3e9419
 SUMMARY:日本農業のイノベーション、生産性及び持続可能性 
 DESCRIPTION:*日本農業のイノベーション、生産性及び持続可能性 *\n\nDirectorat
  e: Trade and Agriculture Directorate\nLa
@@ -177,7 +293,7 @@ DESCRIPTION:*日本農業のイノベーション、生産性及び持続可能�
   see: https://github.com/oecd/embargo-ca
  lendar/blob/master/embargoes-by-publicat
  ion.md.\n\nPlease note: This information
-  was correct as of this morning at 4:10,
+  was correct as of this morning at 4:05,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -186,7 +302,7 @@ DESCRIPTION:*日本農業のイノベーション、生産性及び持続可能�
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=563f8fbe-ja.
-DTSTAMP:20190430T041042Z
+DTSTAMP:20190501T040546Z
 DTSTART:20190511T003000Z
 DTEND:20190511T004500Z
 TRANSP:TRANSPARENT
@@ -199,7 +315,7 @@ DESCRIPTION:Reminder: 日本農業のイノベーション、生産性及び持�
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/92b8dff7-end3e10051
+UID:10.1787/92b8dff7-end3e10191
 SUMMARY:Innovation, Agricultural Productivity an
  d Sustainability in Japan
 DESCRIPTION:*Innovation, Agricultural Productivity a
@@ -217,7 +333,7 @@ DESCRIPTION:*Innovation, Agricultural Productivity a
  cd/embargo-calendar/blob/master/embargoe
  s-by-publication.md.\n\nPlease note: Thi
  s information was correct as of this mor
- ning at 4:10, it is updated each night; 
+ ning at 4:05, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -226,7 +342,7 @@ DESCRIPTION:*Innovation, Agricultural Productivity a
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=92b8dff7-e
  n.
-DTSTAMP:20190430T041042Z
+DTSTAMP:20190501T040546Z
 DTSTART:20190511T003000Z
 DTEND:20190511T004500Z
 TRANSP:TRANSPARENT
@@ -240,7 +356,7 @@ DESCRIPTION:Reminder: Innovation, Agricultural Produ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a8caf3fa-end3e14093
+UID:10.1787/a8caf3fa-end3e14233
 SUMMARY:Measuring Distance to the SDG Targets 20
  19 - An Assessment of Where OECD Countri
  es Stand
@@ -260,7 +376,7 @@ DESCRIPTION:*Measuring Distance to the SDG Targets 2
  /embargo-calendar/blob/master/embargoes-
  by-publication.md.\n\nPlease note: This 
  information was correct as of this morni
- ng at 4:10, it is updated each night; th
+ ng at 4:05, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -268,7 +384,7 @@ DESCRIPTION:*Measuring Distance to the SDG Targets 2
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=a8caf3fa-en.
-DTSTAMP:20190430T041042Z
+DTSTAMP:20190501T040546Z
 DTSTART:20190520T090000Z
 DTEND:20190520T091500Z
 TRANSP:TRANSPARENT
@@ -283,7 +399,48 @@ DESCRIPTION:Reminder: Measuring Distance to the SDG
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/transp_outlook-en-2019-end3e20236
+UID:10.1787/bb60cc01-end3e20375
+SUMMARY:Taxing vehicles, fuels, and road use - O
+ pportunities for improving transport tax
+  practice
+DESCRIPTION:*Taxing vehicles, fuels, and road use - 
+ Opportunities for improving transport ta
+ x practice*\n\nDirectorate: Centre for T
+ ax Policy and Administration\nLanguage: 
+ English\nDOI: https://doi.org/10.1787/bb
+ 60cc01-en\nPublication type: Working pap
+ er\nReleased as: PDF\n\nEmbargo date/tim
+ e: Wednesday, 22 May 2019, 3:00 (GMT)\n\
+ n\niLibrary export: never\nFreepreview e
+ xport: never\nFTI loaded: ✗\n\nFor more 
+ information see: https://github.com/oecd
+ /embargo-calendar/blob/master/embargoes-
+ by-publication.md.\n\nPlease note: This 
+ information was correct as of this morni
+ ng at 4:05, it is updated each night; th
+ erefore any subsequent updates may not y
+ et be visible here. Also, please be awar
+ e that the different released media (PDF
+ , HTML, etc.) are not necessarily releas
+ ed at the same time. For complete and up
+ -to-date information see here: http://ka
+ ppa.oecd.org/v3/search?term=bb60cc01-en.
+DTSTAMP:20190501T040546Z
+DTSTART:20190522T030000Z
+DTEND:20190522T031500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Taxing vehicles, fuels, and ro
+ ad use - Opportunities for improving tra
+ nsport tax practice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/transp_outlook-en-2019-end3e20421
 SUMMARY:ITF Transport Outlook 2019
 DESCRIPTION:*ITF Transport Outlook 2019*\n\nDirector
  ate: International Transport Forum\nLang
@@ -293,22 +450,22 @@ DESCRIPTION:*ITF Transport Outlook 2019*\n\nDirector
  go date/time: Wednesday, 22 May 2019, 8:
  00 (GMT)\nLaunch date/time: Wednesday, 2
  2 May 2019, 8:00 (GMT)\n\niLibrary expor
- t: Monday, 15 April 2019, 21:45 (GMT)\nF
- reepreview export: never\nFTI loaded: ✗\
- n\nFor more information see: https://git
- hub.com/oecd/embargo-calendar/blob/maste
- r/embargoes-by-publication.md.\n\nPlease
-  note: This information was correct as o
- f this morning at 4:10, it is updated ea
- ch night; therefore any subsequent updat
- es may not yet be visible here. Also, pl
- ease be aware that the different release
- d media (PDF, HTML, etc.) are not necess
- arily released at the same time. For com
- plete and up-to-date information see her
- e: http://kappa.oecd.org/v3/search?term=
- transp_outlook-en-2019-en.
-DTSTAMP:20190430T041042Z
+ t: Tuesday, 30 April 2019, 21:31 (GMT)\n
+ Freepreview export: never\nFTI loaded: ✗
+ \n\nFor more information see: https://gi
+ thub.com/oecd/embargo-calendar/blob/mast
+ er/embargoes-by-publication.md.\n\nPleas
+ e note: This information was correct as 
+ of this morning at 4:05, it is updated e
+ ach night; therefore any subsequent upda
+ tes may not yet be visible here. Also, p
+ lease be aware that the different releas
+ ed media (PDF, HTML, etc.) are not neces
+ sarily released at the same time. For co
+ mplete and up-to-date information see he
+ re: http://kappa.oecd.org/v3/search?term
+ =transp_outlook-en-2019-en.
+DTSTAMP:20190501T040546Z
 DTSTART:20190522T080000Z
 DTEND:20190522T081500Z
 TRANSP:TRANSPARENT

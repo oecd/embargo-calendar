@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 30 April 2019 at 4:10* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 1 May 2019 at 4:05* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Compendium of Productivity Indicators 2019](https://doi.org/10.1787/b2774f97-en)
 
@@ -70,6 +70,50 @@ Thursday 2 May 2019 at 15:00 | Thursday 2 May 2019 at 15:00
 
 ------
 
+## [How does socio-economic status influence entry into tertiary education?](https://doi.org/10.1787/b541bfcd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 3 May 2019 at 3:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 30 April 2019 at 23:31
+- [x] Exported to Keepeek Tuesday 30 April 2019 at 20:57
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Invariance analyses in large-scale studies](https://doi.org/10.1787/254738dd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 3 May 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [OECD Territorial Reviews: Hidalgo, Mexico](https://doi.org/10.1787/9789264310391-en)
 
 Embargo date | Launch date
@@ -89,6 +133,28 @@ Friday 3 May 2019 at 14:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [The use of revenues from carbon pricing](https://doi.org/10.1787/fd193abd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 May 2019 at 3:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -158,6 +224,28 @@ Monday 20 May 2019 at 9:00 | no launch event
 
 ------
 
+## [Taxing vehicles, fuels, and road use - Opportunities for improving transport tax practice](https://doi.org/10.1787/bb60cc01-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 22 May 2019 at 3:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [ITF Transport Outlook 2019](https://doi.org/10.1787/transp_outlook-en-2019-en)
 
 Embargo date | Launch date
@@ -167,7 +255,7 @@ Wednesday 22 May 2019 at 8:00 | Wednesday 22 May 2019 at 8:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 15 April 2019 at 23:45
+- [x] Exported to iLibrary Tuesday 30 April 2019 at 23:31
 - [ ] Exported to Keepeek
 
 ### Additional Information
