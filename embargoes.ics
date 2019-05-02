@@ -2,47 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/b2774f97-end3e7114
-SUMMARY:OECD Compendium of Productivity Indicato
- rs 2019
-DESCRIPTION:*OECD Compendium of Productivity Indicat
- ors 2019*\n\nDirectorate: Statistics and
-  Data Directorate\nLanguage: English\nDO
- I: https://doi.org/10.1787/b2774f97-en\n
- Publication type: Book\nReleased as: ePu
- b, HTML, PDF\n\nEmbargo date/time: Monda
- y, 29 April 2019, 9:00 (GMT)\n\n\niLibra
- ry export: Thursday, 25 April 2019, 21:5
- 5 (GMT)\nFreepreview export: Friday, 26 
- April 2019, 18:56 (GMT)\nFTI loaded: ✓\n
- \nFor more information see: https://gith
- ub.com/oecd/embargo-calendar/blob/master
- /embargoes-by-publication.md.\n\nPlease 
- note: This information was correct as of
-  this morning at 4:05, it is updated eac
- h night; therefore any subsequent update
- s may not yet be visible here. Also, ple
- ase be aware that the different released
-  media (PDF, HTML, etc.) are not necessa
- rily released at the same time. For comp
- lete and up-to-date information see here
- : http://kappa.oecd.org/v3/search?term=b
- 2774f97-en.
-DTSTAMP:20190501T040546Z
-DTSTART:20190429T090000Z
-DTEND:20190429T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Compendium of Productivit
- y Indicators 2019
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/a536d00e-end3e7847
+UID:10.1787/a536d00e-end3e53
 SUMMARY:OECD Economic Surveys: Mexico 2019
 DESCRIPTION:*OECD Economic Surveys: Mexico 2019*\n\n
  Directorate: Economics Department\nLangu
@@ -59,7 +19,7 @@ DESCRIPTION:*OECD Economic Surveys: Mexico 2019*\n\n
  rgo-calendar/blob/master/embargoes-by-pu
  blication.md.\n\nPlease note: This infor
  mation was correct as of this morning at
-  4:05, it is updated each night; therefo
+  4:00, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -67,7 +27,7 @@ DESCRIPTION:*OECD Economic Surveys: Mexico 2019*\n\n
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=a536d00e-en.
-DTSTAMP:20190501T040546Z
+DTSTAMP:20190502T040022Z
 DTSTART:20190502T150000Z
 DTEND:20190502T151500Z
 TRANSP:TRANSPARENT
@@ -81,7 +41,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Mexico
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fde7bbbe-esd3e7896
+UID:10.1787/fde7bbbe-esd3e102
 SUMMARY:Estudios Económicos de la OCDE: México 2
  019
 DESCRIPTION:*Estudios Económicos de la OCDE: México 
@@ -99,7 +59,7 @@ DESCRIPTION:*Estudios Económicos de la OCDE: México
  oecd/embargo-calendar/blob/master/embarg
  oes-by-publication.md.\n\nPlease note: T
  his information was correct as of this m
- orning at 4:05, it is updated each night
+ orning at 4:00, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -108,7 +68,7 @@ DESCRIPTION:*Estudios Económicos de la OCDE: México
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=fde7bbbe
  -es.
-DTSTAMP:20190501T040546Z
+DTSTAMP:20190502T040022Z
 DTSTART:20190502T150000Z
 DTEND:20190502T151500Z
 TRANSP:TRANSPARENT
@@ -122,7 +82,7 @@ DESCRIPTION:Reminder: Estudios Económicos de la OCDE
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b541bfcd-end3e7945
+UID:10.1787/b541bfcd-end3e151
 SUMMARY:How does socio-economic status influence
   entry into tertiary education?
 DESCRIPTION:*How does socio-economic status influenc
@@ -140,7 +100,7 @@ DESCRIPTION:*How does socio-economic status influenc
  go-calendar/blob/master/embargoes-by-pub
  lication.md.\n\nPlease note: This inform
  ation was correct as of this morning at 
- 4:05, it is updated each night; therefor
+ 4:00, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -148,7 +108,7 @@ DESCRIPTION:*How does socio-economic status influenc
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=b541bfcd-en.
-DTSTAMP:20190501T040546Z
+DTSTAMP:20190502T040022Z
 DTSTART:20190503T030000Z
 DTEND:20190503T031500Z
 TRANSP:TRANSPARENT
@@ -163,7 +123,7 @@ DESCRIPTION:Reminder: How does socio-economic status
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/254738dd-end3e7993
+UID:10.1787/254738dd-end3e199
 SUMMARY:Invariance analyses in large-scale studi
  es
 DESCRIPTION:*Invariance analyses in large-scale stud
@@ -178,7 +138,7 @@ DESCRIPTION:*Invariance analyses in large-scale stud
  : https://github.com/oecd/embargo-calend
  ar/blob/master/embargoes-by-publication.
  md.\n\nPlease note: This information was
-  correct as of this morning at 4:05, it 
+  correct as of this morning at 4:00, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -187,7 +147,7 @@ DESCRIPTION:*Invariance analyses in large-scale stud
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=254738dd-en.
-DTSTAMP:20190501T040546Z
+DTSTAMP:20190502T040022Z
 DTSTART:20190503T090000Z
 DTEND:20190503T091500Z
 TRANSP:TRANSPARENT
@@ -201,7 +161,7 @@ DESCRIPTION:Reminder: Invariance analyses in large-s
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264310391-end3e8943
+UID:10.1787/9789264310391-end3e1149
 SUMMARY:OECD Territorial Reviews: Hidalgo, Mexic
  o
 DESCRIPTION:*OECD Territorial Reviews: Hidalgo, Mexi
@@ -219,7 +179,7 @@ DESCRIPTION:*OECD Territorial Reviews: Hidalgo, Mexi
  /oecd/embargo-calendar/blob/master/embar
  goes-by-publication.md.\n\nPlease note: 
  This information was correct as of this 
- morning at 4:05, it is updated each nigh
+ morning at 4:00, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -228,7 +188,7 @@ DESCRIPTION:*OECD Territorial Reviews: Hidalgo, Mexi
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=9789264
  310391-en.
-DTSTAMP:20190501T040546Z
+DTSTAMP:20190502T040022Z
 DTSTART:20190503T140000Z
 DTEND:20190503T141500Z
 TRANSP:TRANSPARENT
@@ -242,7 +202,7 @@ DESCRIPTION:Reminder: OECD Territorial Reviews: Hida
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fd193abd-end3e8991
+UID:10.1787/fd193abd-end3e1197
 SUMMARY:The use of revenues from carbon pricing
 DESCRIPTION:*The use of revenues from carbon pricing
  *\n\nDirectorate: Centre for Tax Policy 
@@ -256,7 +216,7 @@ DESCRIPTION:*The use of revenues from carbon pricing
  e: https://github.com/oecd/embargo-calen
  dar/blob/master/embargoes-by-publication
  .md.\n\nPlease note: This information wa
- s correct as of this morning at 4:05, it
+ s correct as of this morning at 4:00, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -265,7 +225,7 @@ DESCRIPTION:*The use of revenues from carbon pricing
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=fd193abd-en.
-DTSTAMP:20190501T040546Z
+DTSTAMP:20190502T040022Z
 DTSTART:20190506T030000Z
 DTEND:20190506T031500Z
 TRANSP:TRANSPARENT
@@ -279,7 +239,7 @@ DESCRIPTION:Reminder: The use of revenues from carbo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/563f8fbe-jad3e9419
+UID:10.1787/563f8fbe-jad3e1625
 SUMMARY:日本農業のイノベーション、生産性及び持続可能性 
 DESCRIPTION:*日本農業のイノベーション、生産性及び持続可能性 *\n\nDirectorat
  e: Trade and Agriculture Directorate\nLa
@@ -293,7 +253,7 @@ DESCRIPTION:*日本農業のイノベーション、生産性及び持続可能�
   see: https://github.com/oecd/embargo-ca
  lendar/blob/master/embargoes-by-publicat
  ion.md.\n\nPlease note: This information
-  was correct as of this morning at 4:05,
+  was correct as of this morning at 4:00,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -302,7 +262,7 @@ DESCRIPTION:*日本農業のイノベーション、生産性及び持続可能�
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=563f8fbe-ja.
-DTSTAMP:20190501T040546Z
+DTSTAMP:20190502T040022Z
 DTSTART:20190511T003000Z
 DTEND:20190511T004500Z
 TRANSP:TRANSPARENT
@@ -315,7 +275,7 @@ DESCRIPTION:Reminder: 日本農業のイノベーション、生産性及び持�
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/92b8dff7-end3e10191
+UID:10.1787/92b8dff7-end3e2397
 SUMMARY:Innovation, Agricultural Productivity an
  d Sustainability in Japan
 DESCRIPTION:*Innovation, Agricultural Productivity a
@@ -333,7 +293,7 @@ DESCRIPTION:*Innovation, Agricultural Productivity a
  cd/embargo-calendar/blob/master/embargoe
  s-by-publication.md.\n\nPlease note: Thi
  s information was correct as of this mor
- ning at 4:05, it is updated each night; 
+ ning at 4:00, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -342,7 +302,7 @@ DESCRIPTION:*Innovation, Agricultural Productivity a
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=92b8dff7-e
  n.
-DTSTAMP:20190501T040546Z
+DTSTAMP:20190502T040022Z
 DTSTART:20190511T003000Z
 DTEND:20190511T004500Z
 TRANSP:TRANSPARENT
@@ -356,7 +316,7 @@ DESCRIPTION:Reminder: Innovation, Agricultural Produ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a8caf3fa-end3e14233
+UID:10.1787/a8caf3fa-end3e6439
 SUMMARY:Measuring Distance to the SDG Targets 20
  19 - An Assessment of Where OECD Countri
  es Stand
@@ -376,7 +336,7 @@ DESCRIPTION:*Measuring Distance to the SDG Targets 2
  /embargo-calendar/blob/master/embargoes-
  by-publication.md.\n\nPlease note: This 
  information was correct as of this morni
- ng at 4:05, it is updated each night; th
+ ng at 4:00, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -384,7 +344,7 @@ DESCRIPTION:*Measuring Distance to the SDG Targets 2
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=a8caf3fa-en.
-DTSTAMP:20190501T040546Z
+DTSTAMP:20190502T040022Z
 DTSTART:20190520T090000Z
 DTEND:20190520T091500Z
 TRANSP:TRANSPARENT
@@ -399,7 +359,7 @@ DESCRIPTION:Reminder: Measuring Distance to the SDG
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bb60cc01-end3e20375
+UID:10.1787/bb60cc01-end3e12581
 SUMMARY:Taxing vehicles, fuels, and road use - O
  pportunities for improving transport tax
   practice
@@ -417,7 +377,7 @@ DESCRIPTION:*Taxing vehicles, fuels, and road use -
  /embargo-calendar/blob/master/embargoes-
  by-publication.md.\n\nPlease note: This 
  information was correct as of this morni
- ng at 4:05, it is updated each night; th
+ ng at 4:00, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -425,7 +385,7 @@ DESCRIPTION:*Taxing vehicles, fuels, and road use -
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=bb60cc01-en.
-DTSTAMP:20190501T040546Z
+DTSTAMP:20190502T040022Z
 DTSTART:20190522T030000Z
 DTEND:20190522T031500Z
 TRANSP:TRANSPARENT
@@ -440,7 +400,7 @@ DESCRIPTION:Reminder: Taxing vehicles, fuels, and ro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/transp_outlook-en-2019-end3e20421
+UID:10.1787/transp_outlook-en-2019-end3e12628
 SUMMARY:ITF Transport Outlook 2019
 DESCRIPTION:*ITF Transport Outlook 2019*\n\nDirector
  ate: International Transport Forum\nLang
@@ -456,7 +416,7 @@ DESCRIPTION:*ITF Transport Outlook 2019*\n\nDirector
  thub.com/oecd/embargo-calendar/blob/mast
  er/embargoes-by-publication.md.\n\nPleas
  e note: This information was correct as 
- of this morning at 4:05, it is updated e
+ of this morning at 4:00, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -465,7 +425,7 @@ DESCRIPTION:*ITF Transport Outlook 2019*\n\nDirector
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =transp_outlook-en-2019-en.
-DTSTAMP:20190501T040546Z
+DTSTAMP:20190502T040022Z
 DTSTART:20190522T080000Z
 DTEND:20190522T081500Z
 TRANSP:TRANSPARENT

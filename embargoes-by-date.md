@@ -2,41 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 1 May 2019 at 4:05* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 2 May 2019 at 4:00* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [29 April 2019](#29-april-2019)
 * [2 May 2019](#2-may-2019)
 * [3 May 2019](#3-may-2019)
 * [6 May 2019](#6-may-2019)
 * [11 May 2019](#11-may-2019)
 * [20 May 2019](#20-may-2019)
 * [22 May 2019](#22-may-2019)
-
-------
-
-# 29 April 2019
-
-## [OECD Compendium of Productivity Indicators 2019](https://doi.org/10.1787/b2774f97-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 April 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 25 April 2019 at 23:55
-- [x] Exported to Keepeek Friday 26 April 2019 at 20:56
-
-### Additional Information
-
-* Directorate: *Statistics and Data Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
 
 ------
 
