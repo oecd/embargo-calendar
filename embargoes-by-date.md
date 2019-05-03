@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 2 May 2019 at 4:00* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 3 May 2019 at 5:38* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [2 May 2019](#2-may-2019)
 * [3 May 2019](#3-may-2019)
 * [6 May 2019](#6-may-2019)
+* [9 May 2019](#9-may-2019)
 * [11 May 2019](#11-may-2019)
 * [20 May 2019](#20-may-2019)
 * [22 May 2019](#22-may-2019)
@@ -94,14 +95,14 @@ Friday 3 May 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 3 May 2019 at 0:44
+- [x] Exported to Keepeek Thursday 2 May 2019 at 21:05
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
 
@@ -152,6 +153,54 @@ Monday 6 May 2019 at 3:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
 * Format: *PDF*
+
+------
+
+------
+
+# 9 May 2019
+
+## [Perspectives de l'OCDE sur les compétences 2019 - Prospérer dans un monde numérique](https://doi.org/10.1787/a0e29ca9-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 9 May 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Skills*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Skills Outlook 2019  - Thriving in a Digital World](https://doi.org/10.1787/df80bc12-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 9 May 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 3 May 2019 at 0:44
+- [x] Exported to Keepeek Thursday 2 May 2019 at 21:05
+
+### Additional Information
+
+* Directorate: *Centre for Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF*
 
 ------
 
