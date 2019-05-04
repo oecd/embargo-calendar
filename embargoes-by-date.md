@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 3 May 2019 at 5:38* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Saturday 4 May 2019 at 5:13* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [2 May 2019](#2-may-2019)
 * [3 May 2019](#3-may-2019)
@@ -224,7 +224,7 @@ Saturday 11 May 2019 at 0:30 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *Japanese*
-* Availability: *Forthcoming*
+* Availability: *Withdrawn*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -239,7 +239,7 @@ Saturday 11 May 2019 at 0:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 19 April 2019 at 23:48
+- [x] Exported to iLibrary Saturday 4 May 2019 at 0:20
 - [x] Exported to Keepeek Thursday 18 April 2019 at 20:50
 
 ### Additional Information
