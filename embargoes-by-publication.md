@@ -2,117 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 4 May 2019 at 5:13* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Mexico 2019](https://doi.org/10.1787/a536d00e-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 2 May 2019 at 15:00 | Thursday 2 May 2019 at 15:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 26 April 2019 at 23:53
-- [x] Exported to Keepeek Friday 26 April 2019 at 20:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Estudios Económicos de la OCDE: México 2019](https://doi.org/10.1787/fde7bbbe-es)
-
-Embargo date | Launch date
--------------|------------
-Thursday 2 May 2019 at 15:00 | Thursday 2 May 2019 at 15:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 26 April 2019 at 23:53
-- [x] Exported to Keepeek Friday 26 April 2019 at 20:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [How does socio-economic status influence entry into tertiary education?](https://doi.org/10.1787/b541bfcd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 3 May 2019 at 3:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 30 April 2019 at 23:31
-- [x] Exported to Keepeek Tuesday 30 April 2019 at 20:57
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Invariance analyses in large-scale studies](https://doi.org/10.1787/254738dd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 3 May 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 May 2019 at 0:44
-- [x] Exported to Keepeek Thursday 2 May 2019 at 21:05
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [OECD Territorial Reviews: Hidalgo, Mexico](https://doi.org/10.1787/9789264310391-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 3 May 2019 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 24 April 2019 at 23:30
-- [x] Exported to Keepeek Wednesday 24 April 2019 at 20:58
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Tuesday 7 May 2019 at 4:05* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The use of revenues from carbon pricing](https://doi.org/10.1787/fd193abd-en)
 
@@ -177,6 +67,28 @@ Thursday 9 May 2019 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF*
+
+------
+
+## [Going national - Implementing the OECD jobs strategy](https://doi.org/10.1787/b598f530-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 10 May 2019 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 6 May 2019 at 23:34
+- [x] Exported to Keepeek Monday 6 May 2019 at 20:56
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
