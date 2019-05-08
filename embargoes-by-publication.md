@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 7 May 2019 at 4:05* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 8 May 2019 at 4:07* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The use of revenues from carbon pricing](https://doi.org/10.1787/fd193abd-en)
 
@@ -67,6 +67,28 @@ Thursday 9 May 2019 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF*
+
+------
+
+## [Multilingual Summaries for OECD Skills Outlook 2019](https://doi.org/10.1787/e98f82d2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 9 May 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 7 May 2019 at 23:27
+- [x] Exported to Keepeek Tuesday 7 May 2019 at 20:55
+
+### Additional Information
+
+* Directorate: *Centre for Skills*
+* 7 Languages: [Italian](https://doi.org/10.1787/3e4174fd-it), [Korean](https://doi.org/10.1787/130660fc-ko), [German](https://doi.org/10.1787/33d7d35e-de), [English](https://doi.org/10.1787/e98f82d2-en), [Japanese](https://doi.org/10.1787/d88551be-ja), [Spanish](https://doi.org/10.1787/d2a805cf-es), [French](https://doi.org/10.1787/23c2870c-fr)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -140,13 +162,13 @@ Saturday 11 May 2019 at 0:30 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 20 May 2019 at 9:00 | no launch event
+Monday 20 May 2019 at 8:30 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 25 April 2019 at 23:55
-- [x] Exported to Keepeek Thursday 25 April 2019 at 20:55
+- [x] Exported to iLibrary Tuesday 7 May 2019 at 23:27
+- [x] Exported to Keepeek Tuesday 7 May 2019 at 20:55
 
 ### Additional Information
 
@@ -155,6 +177,50 @@ Monday 20 May 2019 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Perspectives économiques de l'OCDE, Volume 2019 Numéro 1 - Version préliminaire](https://doi.org/10.1787/0a0e3904-fr)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 21 May 2019 at 9:00 | Tuesday 21 May 2019 at 9:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 7 May 2019 at 23:27
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Outlook, Volume 2019 Issue 1 - Preliminary version](https://doi.org/10.1787/b2e897b0-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 21 May 2019 at 9:00 | Tuesday 21 May 2019 at 9:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 7 May 2019 at 23:27
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -176,6 +242,28 @@ Wednesday 22 May 2019 at 3:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [OECD Skills Strategy 2019 - Skills to Shape a Better Future](https://doi.org/10.1787/9789264313835-en)
+
+Embargo date | Launch date
+-------------|------------
+Wednesday 22 May 2019 at 8:00 | Wednesday 22 May 2019 at 8:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 7 May 2019 at 23:27
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------

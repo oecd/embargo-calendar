@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Tue, 07 May 2019 04:06:00 GMT</pubDate>
+      <pubDate>Wed, 08 May 2019 04:07:21 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -29,7 +29,7 @@
          <oe:catalogueType>Working paper</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/a0e29ca9-fr-d3e192</guid>
+         <guid isPermaLink="false">10.1787/a0e29ca9-fr-d3e531</guid>
          <pubDate>Thu, 09 May 2019 11:00:00 GMT</pubDate>
          <title>Perspectives de l'OCDE sur les compétences 2019 - Prospérer dans un monde numérique</title>
          <link>https://doi.org/10.1787/a0e29ca9-fr</link>
@@ -44,7 +44,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/df80bc12-en-d3e286</guid>
+         <guid isPermaLink="false">10.1787/df80bc12-en-d3e1060</guid>
          <pubDate>Thu, 09 May 2019 11:00:00 GMT</pubDate>
          <title>OECD Skills Outlook 2019  - Thriving in a Digital World</title>
          <link>https://doi.org/10.1787/df80bc12-en</link>
@@ -59,7 +59,22 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/b598f530-en-d3e335</guid>
+         <guid isPermaLink="false">10.1787/e98f82d2-en-d3e1256</guid>
+         <pubDate>Thu, 09 May 2019 11:00:00 GMT</pubDate>
+         <title>OECD Skills Outlook 2019 (Summary in English) - Thriving in a Digital World</title>
+         <link>https://doi.org/10.1787/e98f82d2-en</link>
+         <description>OECD Skills Outlook 2019 (Summary in English) - Thriving in a Digital World by Centre for Skills has an embargo on Thursday 9 May 2019 at 11:00.</description>
+         <oe:embargoTime>Thu, 09 May 2019 11:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Centre for Skills</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Tuesday, 7 May 2019, 23:27 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport>Tuesday, 7 May 2019, 20:55 (GMT)</oe:freePreviewExport>
+         <oe:catalogueType>Summary</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/b598f530-en-d3e1353</guid>
          <pubDate>Fri, 10 May 2019 02:00:00 GMT</pubDate>
          <title>Going national - Implementing the OECD jobs strategy</title>
          <link>https://doi.org/10.1787/b598f530-en</link>
@@ -74,7 +89,7 @@
          <oe:catalogueType>Working paper</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/563f8fbe-ja-d3e767</guid>
+         <guid isPermaLink="false">10.1787/563f8fbe-ja-d3e1786</guid>
          <pubDate>Sat, 11 May 2019 02:30:00 GMT</pubDate>
          <title>日本農業のイノベーション、生産性及び持続可能性 </title>
          <link>https://doi.org/10.1787/563f8fbe-ja</link>
@@ -89,7 +104,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/92b8dff7-en-d3e1539</guid>
+         <guid isPermaLink="false">10.1787/92b8dff7-en-d3e2558</guid>
          <pubDate>Sat, 11 May 2019 02:30:00 GMT</pubDate>
          <title>Innovation, Agricultural Productivity and Sustainability in Japan</title>
          <link>https://doi.org/10.1787/92b8dff7-en</link>
@@ -104,22 +119,52 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/a8caf3fa-en-d3e5581</guid>
-         <pubDate>Mon, 20 May 2019 11:00:00 GMT</pubDate>
+         <guid isPermaLink="false">10.1787/a8caf3fa-en-d3e6600</guid>
+         <pubDate>Mon, 20 May 2019 10:30:00 GMT</pubDate>
          <title>Measuring Distance to the SDG Targets 2019 - An Assessment of Where OECD Countries Stand</title>
          <link>https://doi.org/10.1787/a8caf3fa-en</link>
-         <description>Measuring Distance to the SDG Targets 2019 - An Assessment of Where OECD Countries Stand by Statistics and Data Directorate has an embargo on Monday 20 May 2019 at 11:00.</description>
-         <oe:embargoTime>Mon, 20 May 2019 11:00:00 GMT</oe:embargoTime>
+         <description>Measuring Distance to the SDG Targets 2019 - An Assessment of Where OECD Countries Stand by Statistics and Data Directorate has an embargo on Monday 20 May 2019 at 10:30.</description>
+         <oe:embargoTime>Mon, 20 May 2019 10:30:00 GMT</oe:embargoTime>
          <oe:launchTime/>
          <oe:languages>English</oe:languages>
          <oe:directorate>Statistics and Data Directorate</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Thursday, 25 April 2019, 23:55 (GMT)</oe:iLibraryExport>
-         <oe:freePreviewExport>Thursday, 25 April 2019, 20:55 (GMT)</oe:freePreviewExport>
+         <oe:iLibraryExport>Tuesday, 7 May 2019, 23:27 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport>Tuesday, 7 May 2019, 20:55 (GMT)</oe:freePreviewExport>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/bb60cc01-en-d3e11723</guid>
+         <guid isPermaLink="false">10.1787/0a0e3904-fr-d3e12743</guid>
+         <pubDate>Tue, 21 May 2019 11:00:00 GMT</pubDate>
+         <title>Perspectives économiques de l'OCDE, Volume 2019 Numéro 1 - Version préliminaire</title>
+         <link>https://doi.org/10.1787/0a0e3904-fr</link>
+         <description>Perspectives économiques de l'OCDE, Volume 2019 Numéro 1 - Version préliminaire by Economics Department has an embargo on Tuesday 21 May 2019 at 11:00 and a launch event planned on Tuesday 21 May 2019 at 11:00.</description>
+         <oe:embargoTime>Tue, 21 May 2019 11:00:00 GMT</oe:embargoTime>
+         <oe:launchTime>Tue, 21 May 2019 11:00:00 GMT</oe:launchTime>
+         <oe:languages>French</oe:languages>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Tuesday, 7 May 2019, 23:27 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/b2e897b0-en-d3e12791</guid>
+         <pubDate>Tue, 21 May 2019 11:00:00 GMT</pubDate>
+         <title>OECD Economic Outlook, Volume 2019 Issue 1 - Preliminary version</title>
+         <link>https://doi.org/10.1787/b2e897b0-en</link>
+         <description>OECD Economic Outlook, Volume 2019 Issue 1 - Preliminary version by Economics Department has an embargo on Tuesday 21 May 2019 at 11:00 and a launch event planned on Tuesday 21 May 2019 at 11:00.</description>
+         <oe:embargoTime>Tue, 21 May 2019 11:00:00 GMT</oe:embargoTime>
+         <oe:launchTime>Tue, 21 May 2019 11:00:00 GMT</oe:launchTime>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Tuesday, 7 May 2019, 23:27 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/bb60cc01-en-d3e12839</guid>
          <pubDate>Wed, 22 May 2019 05:00:00 GMT</pubDate>
          <title>Taxing vehicles, fuels, and road use - Opportunities for improving transport tax practice</title>
          <link>https://doi.org/10.1787/bb60cc01-en</link>
@@ -134,7 +179,22 @@
          <oe:catalogueType>Working paper</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/transp_outlook-en-2019-en-d3e11770</guid>
+         <guid isPermaLink="false">10.1787/9789264313835-en-d3e12885</guid>
+         <pubDate>Wed, 22 May 2019 10:00:00 GMT</pubDate>
+         <title>OECD Skills Strategy 2019 - Skills to Shape a Better Future</title>
+         <link>https://doi.org/10.1787/9789264313835-en</link>
+         <description>OECD Skills Strategy 2019 - Skills to Shape a Better Future by Centre for Skills has an embargo on Wednesday 22 May 2019 at 10:00 and a launch event planned on Wednesday 22 May 2019 at 10:00.</description>
+         <oe:embargoTime>Wed, 22 May 2019 10:00:00 GMT</oe:embargoTime>
+         <oe:launchTime>Wed, 22 May 2019 10:00:00 GMT</oe:launchTime>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Centre for Skills</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Tuesday, 7 May 2019, 23:27 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/transp_outlook-en-2019-en-d3e12934</guid>
          <pubDate>Wed, 22 May 2019 10:00:00 GMT</pubDate>
          <title>ITF Transport Outlook 2019</title>
          <link>https://doi.org/10.1787/transp_outlook-en-2019-en</link>

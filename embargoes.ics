@@ -16,7 +16,7 @@ DESCRIPTION:*The use of revenues from carbon pricing
  e: https://github.com/oecd/embargo-calen
  dar/blob/master/embargoes-by-publication
  .md.\n\nPlease note: This information wa
- s correct as of this morning at 4:05, it
+ s correct as of this morning at 4:07, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -25,7 +25,7 @@ DESCRIPTION:*The use of revenues from carbon pricing
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=fd193abd-en.
-DTSTAMP:20190507T040558Z
+DTSTAMP:20190508T040718Z
 DTSTART:20190506T030000Z
 DTEND:20190506T031500Z
 TRANSP:TRANSPARENT
@@ -39,7 +39,7 @@ DESCRIPTION:Reminder: The use of revenues from carbo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a0e29ca9-frd3e192
+UID:10.1787/a0e29ca9-frd3e531
 SUMMARY:Perspectives de l'OCDE sur les compétenc
  es 2019 - Prospérer dans un monde numéri
  que
@@ -56,7 +56,7 @@ DESCRIPTION:*Perspectives de l'OCDE sur les compéten
  ee: https://github.com/oecd/embargo-cale
  ndar/blob/master/embargoes-by-publicatio
  n.md.\n\nPlease note: This information w
- as correct as of this morning at 4:05, i
+ as correct as of this morning at 4:07, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -65,7 +65,7 @@ DESCRIPTION:*Perspectives de l'OCDE sur les compéten
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=a0e29ca9-fr.
-DTSTAMP:20190507T040558Z
+DTSTAMP:20190508T040718Z
 DTSTART:20190509T090000Z
 DTEND:20190509T091500Z
 TRANSP:TRANSPARENT
@@ -80,7 +80,7 @@ DESCRIPTION:Reminder: Perspectives de l'OCDE sur les
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/df80bc12-end3e286
+UID:10.1787/df80bc12-end3e1060
 SUMMARY:OECD Skills Outlook 2019  - Thriving in 
  a Digital World
 DESCRIPTION:*OECD Skills Outlook 2019 - Thriving in 
@@ -97,7 +97,7 @@ DESCRIPTION:*OECD Skills Outlook 2019 - Thriving in
  tps://github.com/oecd/embargo-calendar/b
  lob/master/embargoes-by-publication.md.\
  n\nPlease note: This information was cor
- rect as of this morning at 4:05, it is u
+ rect as of this morning at 4:07, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -106,7 +106,7 @@ DESCRIPTION:*OECD Skills Outlook 2019 - Thriving in
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=df80bc12-en.
-DTSTAMP:20190507T040558Z
+DTSTAMP:20190508T040718Z
 DTSTART:20190509T090000Z
 DTEND:20190509T091500Z
 TRANSP:TRANSPARENT
@@ -120,7 +120,47 @@ DESCRIPTION:Reminder: OECD Skills Outlook 2019  - Th
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b598f530-end3e335
+UID:10.1787/e98f82d2-end3e1256
+SUMMARY:Multilingual Summaries for OECD Skills O
+ utlook 2019
+DESCRIPTION:*Multilingual Summaries for OECD Skills 
+ Outlook 2019*\n\nDirectorate: Centre for
+  Skills\n7 Languages: Italian, Korean, G
+ erman, English, Japanese, Spanish, Frenc
+ h\nPublication type: Summary\nReleased a
+ s: ePub, HTML, PDF\n\nEmbargo date/time:
+  Thursday, 9 May 2019, 9:00 (GMT)\n\niLi
+ brary export: Tuesday, 7 May 2019, 21:27
+  (GMT)\nFreepreview export: Tuesday, 7 M
+ ay 2019, 18:55 (GMT)\nFTI loaded: ✓\n\nF
+ or more information see: https://github.
+ com/oecd/embargo-calendar/blob/master/em
+ bargoes-by-publication.md.\n\nPlease not
+ e: This information was correct as of th
+ is morning at 4:07, it is updated each n
+ ight; therefore any subsequent updates m
+ ay not yet be visible here. Also, please
+  be aware that the different released me
+ dia (PDF, HTML, etc.) are not necessaril
+ y released at the same time. For complet
+ e and up-to-date information see here: h
+ ttp://kappa.oecd.org/v3/search?term=e98f
+ 82d2-en.
+DTSTAMP:20190508T040718Z
+DTSTART:20190509T090000Z
+DTEND:20190509T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Multilingual Summaries for OEC
+ D Skills Outlook 2019
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/b598f530-end3e1353
 SUMMARY:Going national - Implementing the OECD j
  obs strategy
 DESCRIPTION:*Going national - Implementing the OECD 
@@ -137,7 +177,7 @@ DESCRIPTION:*Going national - Implementing the OECD
  -calendar/blob/master/embargoes-by-publi
  cation.md.\n\nPlease note: This informat
  ion was correct as of this morning at 4:
- 05, it is updated each night; therefore 
+ 07, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -145,7 +185,7 @@ DESCRIPTION:*Going national - Implementing the OECD
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=b598f530-en.
-DTSTAMP:20190507T040558Z
+DTSTAMP:20190508T040718Z
 DTSTART:20190510T000000Z
 DTEND:20190510T001500Z
 TRANSP:TRANSPARENT
@@ -159,7 +199,7 @@ DESCRIPTION:Reminder: Going national - Implementing
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/563f8fbe-jad3e767
+UID:10.1787/563f8fbe-jad3e1786
 SUMMARY:日本農業のイノベーション、生産性及び持続可能性 
 DESCRIPTION:*日本農業のイノベーション、生産性及び持続可能性 *\n\nDirectorat
  e: Trade and Agriculture Directorate\nLa
@@ -173,7 +213,7 @@ DESCRIPTION:*日本農業のイノベーション、生産性及び持続可能�
   see: https://github.com/oecd/embargo-ca
  lendar/blob/master/embargoes-by-publicat
  ion.md.\n\nPlease note: This information
-  was correct as of this morning at 4:05,
+  was correct as of this morning at 4:07,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -182,7 +222,7 @@ DESCRIPTION:*日本農業のイノベーション、生産性及び持続可能�
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=563f8fbe-ja.
-DTSTAMP:20190507T040558Z
+DTSTAMP:20190508T040718Z
 DTSTART:20190511T003000Z
 DTEND:20190511T004500Z
 TRANSP:TRANSPARENT
@@ -195,7 +235,7 @@ DESCRIPTION:Reminder: 日本農業のイノベーション、生産性及び持�
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/92b8dff7-end3e1539
+UID:10.1787/92b8dff7-end3e2558
 SUMMARY:Innovation, Agricultural Productivity an
  d Sustainability in Japan
 DESCRIPTION:*Innovation, Agricultural Productivity a
@@ -213,7 +253,7 @@ DESCRIPTION:*Innovation, Agricultural Productivity a
  embargo-calendar/blob/master/embargoes-b
  y-publication.md.\n\nPlease note: This i
  nformation was correct as of this mornin
- g at 4:05, it is updated each night; the
+ g at 4:07, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -221,7 +261,7 @@ DESCRIPTION:*Innovation, Agricultural Productivity a
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=92b8dff7-en.
-DTSTAMP:20190507T040558Z
+DTSTAMP:20190508T040718Z
 DTSTART:20190511T003000Z
 DTEND:20190511T004500Z
 TRANSP:TRANSPARENT
@@ -235,7 +275,7 @@ DESCRIPTION:Reminder: Innovation, Agricultural Produ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a8caf3fa-end3e5581
+UID:10.1787/a8caf3fa-end3e6600
 SUMMARY:Measuring Distance to the SDG Targets 20
  19 - An Assessment of Where OECD Countri
  es Stand
@@ -247,25 +287,25 @@ DESCRIPTION:*Measuring Distance to the SDG Targets 2
  nPublication type: Stand-alone monograph
  \nReleased as: ePub, HTML, Paperback, PD
  F\n\nEmbargo date/time: Monday, 20 May 2
- 019, 9:00 (GMT)\n\n\niLibrary export: Th
- ursday, 25 April 2019, 21:55 (GMT)\nFree
- preview export: Thursday, 25 April 2019,
-  18:55 (GMT)\nFTI loaded: ✓\n\nFor more 
- information see: https://github.com/oecd
- /embargo-calendar/blob/master/embargoes-
- by-publication.md.\n\nPlease note: This 
- information was correct as of this morni
- ng at 4:05, it is updated each night; th
- erefore any subsequent updates may not y
- et be visible here. Also, please be awar
- e that the different released media (PDF
- , HTML, etc.) are not necessarily releas
- ed at the same time. For complete and up
- -to-date information see here: http://ka
- ppa.oecd.org/v3/search?term=a8caf3fa-en.
-DTSTAMP:20190507T040558Z
-DTSTART:20190520T090000Z
-DTEND:20190520T091500Z
+ 019, 8:30 (GMT)\n\n\niLibrary export: Tu
+ esday, 7 May 2019, 21:27 (GMT)\nFreeprev
+ iew export: Tuesday, 7 May 2019, 18:55 (
+ GMT)\nFTI loaded: ✓\n\nFor more informat
+ ion see: https://github.com/oecd/embargo
+ -calendar/blob/master/embargoes-by-publi
+ cation.md.\n\nPlease note: This informat
+ ion was correct as of this morning at 4:
+ 07, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=a8caf3fa-en.
+DTSTAMP:20190508T040718Z
+DTSTART:20190520T083000Z
+DTEND:20190520T084500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT72H
@@ -278,7 +318,88 @@ DESCRIPTION:Reminder: Measuring Distance to the SDG
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bb60cc01-end3e11723
+UID:10.1787/0a0e3904-frd3e12743
+SUMMARY:Perspectives économiques de l'OCDE, Volu
+ me 2019 Numéro 1 - Version préliminaire
+DESCRIPTION:*Perspectives économiques de l'OCDE, Vol
+ ume 2019 Numéro 1 - Version préliminaire
+ *\n\nDirectorate: Economics Department\n
+ Language: French\nDOI: https://doi.org/1
+ 0.1787/0a0e3904-fr\nPublication type: Bo
+ ok\nReleased as: PDF\n\nEmbargo date/tim
+ e: Tuesday, 21 May 2019, 9:00 (GMT)\nLau
+ nch date/time: Tuesday, 21 May 2019, 9:0
+ 0 (GMT)\n\niLibrary export: Tuesday, 7 M
+ ay 2019, 21:27 (GMT)\nFreepreview export
+ : never\nFTI loaded: ✗\n\nFor more infor
+ mation see: https://github.com/oecd/emba
+ rgo-calendar/blob/master/embargoes-by-pu
+ blication.md.\n\nPlease note: This infor
+ mation was correct as of this morning at
+  4:07, it is updated each night; therefo
+ re any subsequent updates may not yet be
+  visible here. Also, please be aware tha
+ t the different released media (PDF, HTM
+ L, etc.) are not necessarily released at
+  the same time. For complete and up-to-d
+ ate information see here: http://kappa.o
+ ecd.org/v3/search?term=0a0e3904-fr.
+DTSTAMP:20190508T040718Z
+DTSTART:20190521T090000Z
+DTEND:20190521T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Perspectives économiques de l'
+ OCDE, Volume 2019 Numéro 1 - Version pré
+ liminaire
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/b2e897b0-end3e12791
+SUMMARY:OECD Economic Outlook, Volume 2019 Issue
+  1 - Preliminary version
+DESCRIPTION:*OECD Economic Outlook, Volume 2019 Issu
+ e 1 - Preliminary version*\n\nDirectorat
+ e: Economics Department\nLanguage: Engli
+ sh\nDOI: https://doi.org/10.1787/b2e897b
+ 0-en\nPublication type: Book\nReleased a
+ s: PDF\n\nEmbargo date/time: Tuesday, 21
+  May 2019, 9:00 (GMT)\nLaunch date/time:
+  Tuesday, 21 May 2019, 9:00 (GMT)\n\niLi
+ brary export: Tuesday, 7 May 2019, 21:27
+  (GMT)\nFreepreview export: never\nFTI l
+ oaded: ✗\n\nFor more information see: ht
+ tps://github.com/oecd/embargo-calendar/b
+ lob/master/embargoes-by-publication.md.\
+ n\nPlease note: This information was cor
+ rect as of this morning at 4:07, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=b2e897b0-en.
+DTSTAMP:20190508T040718Z
+DTSTART:20190521T090000Z
+DTEND:20190521T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Economic Outlook, Volume 
+ 2019 Issue 1 - Preliminary version
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/bb60cc01-end3e12839
 SUMMARY:Taxing vehicles, fuels, and road use - O
  pportunities for improving transport tax
   practice
@@ -296,7 +417,7 @@ DESCRIPTION:*Taxing vehicles, fuels, and road use -
  /embargo-calendar/blob/master/embargoes-
  by-publication.md.\n\nPlease note: This 
  information was correct as of this morni
- ng at 4:05, it is updated each night; th
+ ng at 4:07, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -304,7 +425,7 @@ DESCRIPTION:*Taxing vehicles, fuels, and road use -
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=bb60cc01-en.
-DTSTAMP:20190507T040558Z
+DTSTAMP:20190508T040718Z
 DTSTART:20190522T030000Z
 DTEND:20190522T031500Z
 TRANSP:TRANSPARENT
@@ -319,7 +440,48 @@ DESCRIPTION:Reminder: Taxing vehicles, fuels, and ro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/transp_outlook-en-2019-end3e11770
+UID:10.1787/9789264313835-end3e12885
+SUMMARY:OECD Skills Strategy 2019 - Skills to Sh
+ ape a Better Future
+DESCRIPTION:*OECD Skills Strategy 2019 - Skills to S
+ hape a Better Future*\n\nDirectorate: Ce
+ ntre for Skills\nLanguage: English\nDOI:
+  https://doi.org/10.1787/9789264313835-e
+ n\nPublication type: Stand-alone monogra
+ ph\nReleased as: PDF\n\nEmbargo date/tim
+ e: Wednesday, 22 May 2019, 8:00 (GMT)\nL
+ aunch date/time: Wednesday, 22 May 2019,
+  8:00 (GMT)\n\niLibrary export: Tuesday,
+  7 May 2019, 21:27 (GMT)\nFreepreview ex
+ port: never\nFTI loaded: ✗\n\nFor more i
+ nformation see: https://github.com/oecd/
+ embargo-calendar/blob/master/embargoes-b
+ y-publication.md.\n\nPlease note: This i
+ nformation was correct as of this mornin
+ g at 4:07, it is updated each night; the
+ refore any subsequent updates may not ye
+ t be visible here. Also, please be aware
+  that the different released media (PDF,
+  HTML, etc.) are not necessarily release
+ d at the same time. For complete and up-
+ to-date information see here: http://kap
+ pa.oecd.org/v3/search?term=9789264313835
+ -en.
+DTSTAMP:20190508T040718Z
+DTSTART:20190522T080000Z
+DTEND:20190522T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Skills Strategy 2019 - Sk
+ ills to Shape a Better Future
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/transp_outlook-en-2019-end3e12934
 SUMMARY:ITF Transport Outlook 2019
 DESCRIPTION:*ITF Transport Outlook 2019*\n\nDirector
  ate: International Transport Forum\nLang
@@ -335,7 +497,7 @@ DESCRIPTION:*ITF Transport Outlook 2019*\n\nDirector
  thub.com/oecd/embargo-calendar/blob/mast
  er/embargoes-by-publication.md.\n\nPleas
  e note: This information was correct as 
- of this morning at 4:05, it is updated e
+ of this morning at 4:07, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -344,7 +506,7 @@ DESCRIPTION:*ITF Transport Outlook 2019*\n\nDirector
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =transp_outlook-en-2019-en.
-DTSTAMP:20190507T040558Z
+DTSTAMP:20190508T040718Z
 DTSTART:20190522T080000Z
 DTEND:20190522T081500Z
 TRANSP:TRANSPARENT
