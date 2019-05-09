@@ -2,41 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 8 May 2019 at 4:07* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 9 May 2019 at 3:45* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [6 May 2019](#6-may-2019)
 * [9 May 2019](#9-may-2019)
 * [10 May 2019](#10-may-2019)
 * [11 May 2019](#11-may-2019)
 * [20 May 2019](#20-may-2019)
 * [21 May 2019](#21-may-2019)
 * [22 May 2019](#22-may-2019)
-
-------
-
-# 6 May 2019
-
-## [The use of revenues from carbon pricing](https://doi.org/10.1787/fd193abd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 May 2019 at 3:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 

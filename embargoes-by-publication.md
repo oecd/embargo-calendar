@@ -2,29 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 8 May 2019 at 4:07* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The use of revenues from carbon pricing](https://doi.org/10.1787/fd193abd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 May 2019 at 3:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Thursday 9 May 2019 at 3:45* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Perspectives de l'OCDE sur les compétences 2019 - Prospérer dans un monde numérique](https://doi.org/10.1787/a0e29ca9-fr)
 
