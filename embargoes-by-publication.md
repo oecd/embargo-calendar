@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 14 May 2019 at 3:28* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 15 May 2019 at 4:26* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [An Introduction to Online Platforms and Their Role in the Digital Transformation](https://doi.org/10.1787/53e5f593-en)
 
@@ -70,6 +70,50 @@ Wednesday 15 May 2019 at 7:30 | no launch event
 
 ------
 
+## [How are school-choice policies related to social diversity in schools?](https://doi.org/10.1787/2d448c77-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 May 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
+- [x] Exported to Keepeek Tuesday 14 May 2019 at 20:52
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Quels liens entre les politiques de libre choix des établissements et la mixité sociale à l’école ?](https://doi.org/10.1787/943456f0-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 May 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
+- [x] Exported to Keepeek Tuesday 14 May 2019 at 20:52
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Balancing School Choice and Equity - An International Perspective Based on Pisa](https://doi.org/10.1787/2592c974-en)
 
 Embargo date | Launch date
@@ -79,14 +123,14 @@ Wednesday 15 May 2019 at 9:00 | Wednesday 15 May 2019 at 9:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 13 May 2019 at 23:00
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
+- [x] Exported to Keepeek Tuesday 14 May 2019 at 20:52
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -114,6 +158,28 @@ Thursday 16 May 2019 at 8:00 | no launch event
 
 ------
 
+## [Refugee education - Integration models and practices in OECD countries](https://doi.org/10.1787/a3251a00-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 17 May 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
+- [x] Exported to Keepeek Tuesday 14 May 2019 at 20:52
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Improving School Quality in Norway - The New Competence Development Model](https://doi.org/10.1787/179d4ded-en)
 
 Embargo date | Launch date
@@ -124,7 +190,7 @@ Monday 20 May 2019 at 7:00 | Monday 20 May 2019 at 7:00
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 13 May 2019 at 23:00
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Monday 13 May 2019 at 20:54
 
 ### Additional Information
 
@@ -255,7 +321,7 @@ Wednesday 22 May 2019 at 8:00 | Wednesday 22 May 2019 at 8:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 9 May 2019 at 23:22
+- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -277,7 +343,7 @@ Wednesday 22 May 2019 at 8:00 | Wednesday 22 May 2019 at 8:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Saturday 11 May 2019 at 0:02
+- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -298,15 +364,15 @@ Wednesday 22 May 2019 at 8:00 | Wednesday 22 May 2019 at 8:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 30 April 2019 at 23:31
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
+- [x] Exported to Keepeek Tuesday 14 May 2019 at 20:52
 
 ### Additional Information
 
 * Directorate: *International Transport Forum*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -331,5 +397,181 @@ Wednesday 22 May 2019 at 11:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, India (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/c66636e8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 June 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Latvia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/b0de32d9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 June 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Chile (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/43add6b6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 June 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, South Africa (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/3f820b8e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 June 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Croatia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9dc5933f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 June 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Lithuania (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/b9018c2d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 June 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Argentina (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/4fed4933-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 June 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Colombia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/7182ca92-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 June 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
