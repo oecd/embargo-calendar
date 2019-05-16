@@ -2,90 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/53e5f593-end3e53
-SUMMARY:An Introduction to Online Platforms and 
- Their Role in the Digital Transformation
-DESCRIPTION:*An Introduction to Online Platforms and
-  Their Role in the Digital Transformatio
- n*\n\nDirectorate: Directorate for Scien
- ce, Technology and Industry\nLanguage: E
- nglish\nDOI: https://doi.org/10.1787/53e
- 5f593-en\nPublication type: Stand-alone 
- monograph\nReleased as: PDF\n\nEmbargo d
- ate/time: Monday, 13 May 2019, 7:00 (GMT
- )\nLaunch date/time: Monday, 13 May 2019
- , 7:00 (GMT)\n\niLibrary export: Friday,
-  10 May 2019, 22:02 (GMT)\nFreepreview e
- xport: Friday, 10 May 2019, 18:53 (GMT)\
- nFTI loaded: ✓\n\nFor more information s
- ee: https://github.com/oecd/embargo-cale
- ndar/blob/master/embargoes-by-publicatio
- n.md.\n\nPlease note: This information w
- as correct as of this morning at 4:26, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=53e5f593-en.
-DTSTAMP:20190515T042632Z
-DTSTART:20190513T070000Z
-DTEND:20190513T071500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: An Introduction to Online Plat
- forms and Their Role in the Digital Tran
- sformation
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/d0f94dc7-end3e584
-SUMMARY:Upgrading the ICT questionnaire items in
-  PISA 2021
-DESCRIPTION:*Upgrading the ICT questionnaire items i
- n PISA 2021*\n\nDirectorate: Directorate
-  for Education and Skills\nLanguage: Eng
- lish\nDOI: https://doi.org/10.1787/d0f94
- dc7-en\nPublication type: Working paper\
- nReleased as: PDF\n\nEmbargo date/time: 
- Monday, 13 May 2019, 9:00 (GMT)\n\n\niLi
- brary export: Thursday, 9 May 2019, 21:2
- 2 (GMT)\nFreepreview export: Thursday, 9
-  May 2019, 18:53 (GMT)\nFTI loaded: ✓\n\
- nFor more information see: https://githu
- b.com/oecd/embargo-calendar/blob/master/
- embargoes-by-publication.md.\n\nPlease n
- ote: This information was correct as of 
- this morning at 4:26, it is updated each
-  night; therefore any subsequent updates
-  may not yet be visible here. Also, plea
- se be aware that the different released 
- media (PDF, HTML, etc.) are not necessar
- ily released at the same time. For compl
- ete and up-to-date information see here:
-  http://kappa.oecd.org/v3/search?term=d0
- f94dc7-en.
-DTSTAMP:20190515T042632Z
-DTSTART:20190513T090000Z
-DTEND:20190513T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Upgrading the ICT questionnair
- e items in PISA 2021
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/160a3c28-end3e871
+UID:10.1787/160a3c28-end3e292
 SUMMARY:Strengthening Active Labour Market Polic
  ies in Italy 
 DESCRIPTION:*Strengthening Active Labour Market Poli
@@ -103,7 +20,7 @@ DESCRIPTION:*Strengthening Active Labour Market Poli
  /oecd/embargo-calendar/blob/master/embar
  goes-by-publication.md.\n\nPlease note: 
  This information was correct as of this 
- morning at 4:26, it is updated each nigh
+ morning at 4:27, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -112,7 +29,7 @@ DESCRIPTION:*Strengthening Active Labour Market Poli
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=160a3c2
  8-en.
-DTSTAMP:20190515T042632Z
+DTSTAMP:20190516T042736Z
 DTSTART:20190515T073000Z
 DTEND:20190515T074500Z
 TRANSP:TRANSPARENT
@@ -126,7 +43,7 @@ DESCRIPTION:Reminder: Strengthening Active Labour Ma
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2d448c77-end3e3141
+UID:10.1787/2d448c77-end3e2562
 SUMMARY:How are school-choice policies related t
  o social diversity in schools?
 DESCRIPTION:*How are school-choice policies related 
@@ -144,7 +61,7 @@ DESCRIPTION:*How are school-choice policies related
  o-calendar/blob/master/embargoes-by-publ
  ication.md.\n\nPlease note: This informa
  tion was correct as of this morning at 4
- :26, it is updated each night; therefore
+ :27, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -152,7 +69,7 @@ DESCRIPTION:*How are school-choice policies related
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=2d448c77-en.
-DTSTAMP:20190515T042632Z
+DTSTAMP:20190516T042736Z
 DTSTART:20190515T090000Z
 DTEND:20190515T091500Z
 TRANSP:TRANSPARENT
@@ -166,7 +83,7 @@ DESCRIPTION:Reminder: How are school-choice policies
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/943456f0-frd3e3189
+UID:10.1787/943456f0-frd3e2610
 SUMMARY:Quels liens entre les politiques de libr
  e choix des établissements et la mixité 
  sociale à l’école ?
@@ -185,7 +102,7 @@ DESCRIPTION:*Quels liens entre les politiques de lib
  tps://github.com/oecd/embargo-calendar/b
  lob/master/embargoes-by-publication.md.\
  n\nPlease note: This information was cor
- rect as of this morning at 4:26, it is u
+ rect as of this morning at 4:27, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -194,7 +111,7 @@ DESCRIPTION:*Quels liens entre les politiques de lib
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=943456f0-fr.
-DTSTAMP:20190515T042632Z
+DTSTAMP:20190516T042736Z
 DTSTART:20190515T090000Z
 DTEND:20190515T091500Z
 TRANSP:TRANSPARENT
@@ -209,7 +126,7 @@ DESCRIPTION:Reminder: Quels liens entre les politiqu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2592c974-end3e3237
+UID:10.1787/2592c974-end3e2658
 SUMMARY:Balancing School Choice and Equity - An 
  International Perspective Based on Pisa
 DESCRIPTION:*Balancing School Choice and Equity - An
@@ -228,7 +145,7 @@ DESCRIPTION:*Balancing School Choice and Equity - An
  /oecd/embargo-calendar/blob/master/embar
  goes-by-publication.md.\n\nPlease note: 
  This information was correct as of this 
- morning at 4:26, it is updated each nigh
+ morning at 4:27, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -237,7 +154,7 @@ DESCRIPTION:*Balancing School Choice and Equity - An
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=2592c97
  4-en.
-DTSTAMP:20190515T042632Z
+DTSTAMP:20190516T042736Z
 DTSTART:20190515T090000Z
 DTEND:20190515T091500Z
 TRANSP:TRANSPARENT
@@ -252,7 +169,7 @@ DESCRIPTION:Reminder: Balancing School Choice and Eq
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a18286f0-end3e3287
+UID:10.1787/a18286f0-end3e2708
 SUMMARY:Addressing Problematic Opioid Use in OEC
  D Countries
 DESCRIPTION:*Addressing Problematic Opioid Use in OE
@@ -262,23 +179,23 @@ DESCRIPTION:*Addressing Problematic Opioid Use in OE
  .org/10.1787/a18286f0-en\nPublication ty
  pe: Book\nReleased as: Paperback, PDF\n\
  nEmbargo date/time: Thursday, 16 May 201
- 9, 8:00 (GMT)\n\n\niLibrary export: Frid
- ay, 10 May 2019, 22:02 (GMT)\nFreeprevie
- w export: never\nFTI loaded: ✓\n\nFor mo
- re information see: https://github.com/o
- ecd/embargo-calendar/blob/master/embargo
- es-by-publication.md.\n\nPlease note: Th
- is information was correct as of this mo
- rning at 4:26, it is updated each night;
-  therefore any subsequent updates may no
- t yet be visible here. Also, please be a
- ware that the different released media (
- PDF, HTML, etc.) are not necessarily rel
- eased at the same time. For complete and
-  up-to-date information see here: http:/
- /kappa.oecd.org/v3/search?term=a18286f0-
- en.
-DTSTAMP:20190515T042632Z
+ 9, 8:00 (GMT)\n\n\niLibrary export: Wedn
+ esday, 15 May 2019, 21:42 (GMT)\nFreepre
+ view export: Wednesday, 15 May 2019, 18:
+ 55 (GMT)\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://github.com/oecd/emb
+ argo-calendar/blob/master/embargoes-by-p
+ ublication.md.\n\nPlease note: This info
+ rmation was correct as of this morning a
+ t 4:27, it is updated each night; theref
+ ore any subsequent updates may not yet b
+ e visible here. Also, please be aware th
+ at the different released media (PDF, HT
+ ML, etc.) are not necessarily released a
+ t the same time. For complete and up-to-
+ date information see here: http://kappa.
+ oecd.org/v3/search?term=a18286f0-en.
+DTSTAMP:20190516T042736Z
 DTSTART:20190516T080000Z
 DTEND:20190516T081500Z
 TRANSP:TRANSPARENT
@@ -292,7 +209,49 @@ DESCRIPTION:Reminder: Addressing Problematic Opioid
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a3251a00-end3e3379
+UID:10.1787/e26cae57-end3e2801
+SUMMARY:Productivity growth and finance: The rol
+ e of intangible assets - a sector level 
+ analysis
+DESCRIPTION:*Productivity growth and finance: The ro
+ le of intangible assets - a sector level
+  analysis*\n\nDirectorate: Economics Dep
+ artment\nLanguage: English\nDOI: https:/
+ /doi.org/10.1787/e26cae57-en\nPublicatio
+ n type: Working paper\nReleased as: PDF\
+ n\nEmbargo date/time: Friday, 17 May 201
+ 9, 0:00 (GMT)\n\n\niLibrary export: Wedn
+ esday, 15 May 2019, 21:42 (GMT)\nFreepre
+ view export: Wednesday, 15 May 2019, 18:
+ 55 (GMT)\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://github.com/oecd/emb
+ argo-calendar/blob/master/embargoes-by-p
+ ublication.md.\n\nPlease note: This info
+ rmation was correct as of this morning a
+ t 4:27, it is updated each night; theref
+ ore any subsequent updates may not yet b
+ e visible here. Also, please be aware th
+ at the different released media (PDF, HT
+ ML, etc.) are not necessarily released a
+ t the same time. For complete and up-to-
+ date information see here: http://kappa.
+ oecd.org/v3/search?term=e26cae57-en.
+DTSTAMP:20190516T042736Z
+DTSTART:20190517T000000Z
+DTEND:20190517T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Productivity growth and financ
+ e: The role of intangible assets - a sec
+ tor level analysis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/a3251a00-end3e2850
 SUMMARY:Refugee education - Integration models a
  nd practices in OECD countries
 DESCRIPTION:*Refugee education - Integration models 
@@ -309,7 +268,7 @@ DESCRIPTION:*Refugee education - Integration models
  n see: https://github.com/oecd/embargo-c
  alendar/blob/master/embargoes-by-publica
  tion.md.\n\nPlease note: This informatio
- n was correct as of this morning at 4:26
+ n was correct as of this morning at 4:27
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -318,7 +277,7 @@ DESCRIPTION:*Refugee education - Integration models
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=a3251a00-en.
-DTSTAMP:20190515T042632Z
+DTSTAMP:20190516T042736Z
 DTSTART:20190517T090000Z
 DTEND:20190517T091500Z
 TRANSP:TRANSPARENT
@@ -332,7 +291,7 @@ DESCRIPTION:Reminder: Refugee education - Integratio
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/179d4ded-end3e3429
+UID:10.1787/179d4ded-end3e2899
 SUMMARY:Improving School Quality in Norway - The
   New Competence Development Model
 DESCRIPTION:*Improving School Quality in Norway - Th
@@ -351,7 +310,7 @@ DESCRIPTION:*Improving School Quality in Norway - Th
  calendar/blob/master/embargoes-by-public
  ation.md.\n\nPlease note: This informati
  on was correct as of this morning at 4:2
- 6, it is updated each night; therefore a
+ 7, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -359,7 +318,7 @@ DESCRIPTION:*Improving School Quality in Norway - Th
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=179d4ded-en.
-DTSTAMP:20190515T042632Z
+DTSTAMP:20190516T042736Z
 DTSTART:20190520T070000Z
 DTEND:20190520T071500Z
 TRANSP:TRANSPARENT
@@ -374,7 +333,7 @@ DESCRIPTION:Reminder: Improving School Quality in No
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a8caf3fa-end3e5588
+UID:10.1787/a8caf3fa-end3e5058
 SUMMARY:Measuring Distance to the SDG Targets 20
  19 - An Assessment of Where OECD Countri
  es Stand
@@ -394,7 +353,7 @@ DESCRIPTION:*Measuring Distance to the SDG Targets 2
  -calendar/blob/master/embargoes-by-publi
  cation.md.\n\nPlease note: This informat
  ion was correct as of this morning at 4:
- 26, it is updated each night; therefore 
+ 27, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -402,7 +361,7 @@ DESCRIPTION:*Measuring Distance to the SDG Targets 2
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=a8caf3fa-en.
-DTSTAMP:20190515T042632Z
+DTSTAMP:20190516T042736Z
 DTSTART:20190520T083000Z
 DTEND:20190520T084500Z
 TRANSP:TRANSPARENT
@@ -417,7 +376,7 @@ DESCRIPTION:Reminder: Measuring Distance to the SDG
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0a0e3904-frd3e11731
+UID:10.1787/0a0e3904-frd3e11202
 SUMMARY:Perspectives économiques de l'OCDE, Volu
  me 2019 Numéro 1 - Version préliminaire
 DESCRIPTION:*Perspectives économiques de l'OCDE, Vol
@@ -435,7 +394,7 @@ DESCRIPTION:*Perspectives économiques de l'OCDE, Vol
  argo-calendar/blob/master/embargoes-by-p
  ublication.md.\n\nPlease note: This info
  rmation was correct as of this morning a
- t 4:26, it is updated each night; theref
+ t 4:27, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -443,7 +402,7 @@ DESCRIPTION:*Perspectives économiques de l'OCDE, Vol
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=0a0e3904-fr.
-DTSTAMP:20190515T042632Z
+DTSTAMP:20190516T042736Z
 DTSTART:20190521T090000Z
 DTEND:20190521T091500Z
 TRANSP:TRANSPARENT
@@ -458,7 +417,7 @@ DESCRIPTION:Reminder: Perspectives économiques de l'
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/43e485a3-ded3e11780
+UID:10.1787/43e485a3-ded3e11250
 SUMMARY:OECD-Wirtschaftsausblick, Ausgabe 2019/1
   - Vorläufige Ausgabe
 DESCRIPTION:*OECD-Wirtschaftsausblick, Ausgabe 2019/
@@ -475,7 +434,7 @@ DESCRIPTION:*OECD-Wirtschaftsausblick, Ausgabe 2019/
  ://github.com/oecd/embargo-calendar/blob
  /master/embargoes-by-publication.md.\n\n
  Please note: This information was correc
- t as of this morning at 4:26, it is upda
+ t as of this morning at 4:27, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -484,7 +443,7 @@ DESCRIPTION:*OECD-Wirtschaftsausblick, Ausgabe 2019/
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=43e485a3-de.
-DTSTAMP:20190515T042632Z
+DTSTAMP:20190516T042736Z
 DTSTART:20190521T090000Z
 DTEND:20190521T091500Z
 TRANSP:TRANSPARENT
@@ -498,7 +457,7 @@ DESCRIPTION:Reminder: OECD-Wirtschaftsausblick, Ausg
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b2e897b0-end3e11828
+UID:10.1787/b2e897b0-end3e11298
 SUMMARY:OECD Economic Outlook, Volume 2019 Issue
   1 - Preliminary version
 DESCRIPTION:*OECD Economic Outlook, Volume 2019 Issu
@@ -515,7 +474,7 @@ DESCRIPTION:*OECD Economic Outlook, Volume 2019 Issu
  ttps://github.com/oecd/embargo-calendar/
  blob/master/embargoes-by-publication.md.
  \n\nPlease note: This information was co
- rrect as of this morning at 4:26, it is 
+ rrect as of this morning at 4:27, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -524,7 +483,7 @@ DESCRIPTION:*OECD Economic Outlook, Volume 2019 Issu
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=b2e897b0-en.
-DTSTAMP:20190515T042632Z
+DTSTAMP:20190516T042736Z
 DTSTART:20190521T090000Z
 DTEND:20190521T091500Z
 TRANSP:TRANSPARENT
@@ -538,7 +497,7 @@ DESCRIPTION:Reminder: OECD Economic Outlook, Volume
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bb60cc01-end3e11876
+UID:10.1787/bb60cc01-end3e11346
 SUMMARY:Taxing vehicles, fuels, and road use - O
  pportunities for improving transport tax
   practice
@@ -556,7 +515,7 @@ DESCRIPTION:*Taxing vehicles, fuels, and road use -
  /embargo-calendar/blob/master/embargoes-
  by-publication.md.\n\nPlease note: This 
  information was correct as of this morni
- ng at 4:26, it is updated each night; th
+ ng at 4:27, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -564,7 +523,7 @@ DESCRIPTION:*Taxing vehicles, fuels, and road use -
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=bb60cc01-en.
-DTSTAMP:20190515T042632Z
+DTSTAMP:20190516T042736Z
 DTSTART:20190522T030000Z
 DTEND:20190522T031500Z
 TRANSP:TRANSPARENT
@@ -579,7 +538,7 @@ DESCRIPTION:Reminder: Taxing vehicles, fuels, and ro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264313835-end3e11922
+UID:10.1787/9789264313835-end3e11584
 SUMMARY:OECD Skills Strategy 2019 - Skills to Sh
  ape a Better Future
 DESCRIPTION:*OECD Skills Strategy 2019 - Skills to S
@@ -587,26 +546,26 @@ DESCRIPTION:*OECD Skills Strategy 2019 - Skills to S
  ntre for Skills\nLanguage: English\nDOI:
   https://doi.org/10.1787/9789264313835-e
  n\nPublication type: Stand-alone monogra
- ph\nReleased as: PDF\n\nEmbargo date/tim
- e: Wednesday, 22 May 2019, 8:00 (GMT)\nL
- aunch date/time: Wednesday, 22 May 2019,
-  8:00 (GMT)\n\niLibrary export: Tuesday,
-  14 May 2019, 21:53 (GMT)\nFreepreview e
- xport: never\nFTI loaded: ✗\n\nFor more 
- information see: https://github.com/oecd
- /embargo-calendar/blob/master/embargoes-
- by-publication.md.\n\nPlease note: This 
- information was correct as of this morni
- ng at 4:26, it is updated each night; th
- erefore any subsequent updates may not y
- et be visible here. Also, please be awar
- e that the different released media (PDF
- , HTML, etc.) are not necessarily releas
- ed at the same time. For complete and up
- -to-date information see here: http://ka
- ppa.oecd.org/v3/search?term=978926431383
- 5-en.
-DTSTAMP:20190515T042632Z
+ ph\nReleased as: ePub, HTML, PDF\n\nEmba
+ rgo date/time: Wednesday, 22 May 2019, 8
+ :00 (GMT)\nLaunch date/time: Wednesday, 
+ 22 May 2019, 8:00 (GMT)\n\niLibrary expo
+ rt: Wednesday, 15 May 2019, 21:42 (GMT)\
+ nFreepreview export: never\nFTI loaded: 
+ ✓\n\nFor more information see: https://g
+ ithub.com/oecd/embargo-calendar/blob/mas
+ ter/embargoes-by-publication.md.\n\nPlea
+ se note: This information was correct as
+  of this morning at 4:27, it is updated 
+ each night; therefore any subsequent upd
+ ates may not yet be visible here. Also, 
+ please be aware that the different relea
+ sed media (PDF, HTML, etc.) are not nece
+ ssarily released at the same time. For c
+ omplete and up-to-date information see h
+ ere: http://kappa.oecd.org/v3/search?ter
+ m=9789264313835-en.
+DTSTAMP:20190516T042736Z
 DTSTART:20190522T080000Z
 DTEND:20190522T081500Z
 TRANSP:TRANSPARENT
@@ -620,7 +579,7 @@ DESCRIPTION:Reminder: OECD Skills Strategy 2019 - Sk
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264313859-frd3e11970
+UID:10.1787/9789264313859-frd3e11681
 SUMMARY:Stratégie 2019 de l'OCDE sur les compéte
  nces - Des compétences pour construire u
  n avenir meilleur
@@ -633,23 +592,23 @@ DESCRIPTION:*Stratégie 2019 de l'OCDE sur les compét
  nReleased as: PDF\n\nEmbargo date/time: 
  Wednesday, 22 May 2019, 8:00 (GMT)\nLaun
  ch date/time: Wednesday, 22 May 2019, 8:
- 00 (GMT)\n\niLibrary export: Tuesday, 14
-  May 2019, 21:53 (GMT)\nFreepreview expo
- rt: never\nFTI loaded: ✗\n\nFor more inf
- ormation see: https://github.com/oecd/em
- bargo-calendar/blob/master/embargoes-by-
- publication.md.\n\nPlease note: This inf
- ormation was correct as of this morning 
- at 4:26, it is updated each night; there
- fore any subsequent updates may not yet 
- be visible here. Also, please be aware t
- hat the different released media (PDF, H
- TML, etc.) are not necessarily released 
- at the same time. For complete and up-to
- -date information see here: http://kappa
- .oecd.org/v3/search?term=9789264313859-f
- r.
-DTSTAMP:20190515T042632Z
+ 00 (GMT)\n\niLibrary export: Wednesday, 
+ 15 May 2019, 21:42 (GMT)\nFreepreview ex
+ port: never\nFTI loaded: ✗\n\nFor more i
+ nformation see: https://github.com/oecd/
+ embargo-calendar/blob/master/embargoes-b
+ y-publication.md.\n\nPlease note: This i
+ nformation was correct as of this mornin
+ g at 4:27, it is updated each night; the
+ refore any subsequent updates may not ye
+ t be visible here. Also, please be aware
+  that the different released media (PDF,
+  HTML, etc.) are not necessarily release
+ d at the same time. For complete and up-
+ to-date information see here: http://kap
+ pa.oecd.org/v3/search?term=9789264313859
+ -fr.
+DTSTAMP:20190516T042736Z
 DTSTART:20190522T080000Z
 DTEND:20190522T081500Z
 TRANSP:TRANSPARENT
@@ -664,7 +623,7 @@ DESCRIPTION:Reminder: Stratégie 2019 de l'OCDE sur l
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/transp_outlook-en-2019-end3e12018
+UID:10.1787/transp_outlook-en-2019-end3e11825
 SUMMARY:ITF Transport Outlook 2019
 DESCRIPTION:*ITF Transport Outlook 2019*\n\nDirector
  ate: International Transport Forum\nLang
@@ -681,7 +640,7 @@ DESCRIPTION:*ITF Transport Outlook 2019*\n\nDirector
  embargo-calendar/blob/master/embargoes-b
  y-publication.md.\n\nPlease note: This i
  nformation was correct as of this mornin
- g at 4:26, it is updated each night; the
+ g at 4:27, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -690,7 +649,7 @@ DESCRIPTION:*ITF Transport Outlook 2019*\n\nDirector
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=transp_outloo
  k-en-2019-en.
-DTSTAMP:20190515T042632Z
+DTSTAMP:20190516T042736Z
 DTSTART:20190522T080000Z
 DTEND:20190522T081500Z
 TRANSP:TRANSPARENT
@@ -703,7 +662,7 @@ DESCRIPTION:Reminder: ITF Transport Outlook 2019
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/87b39a2f-end3e12206
+UID:10.1787/87b39a2f-end3e13320
 SUMMARY:Tax Revenue Implications of Decarbonisin
  g Road Transport - Scenarios for Sloveni
  a
@@ -716,22 +675,23 @@ DESCRIPTION:*Tax Revenue Implications of Decarbonisi
  ph\nReleased as: ePub, HTML, Paperback, 
  PDF\n\nEmbargo date/time: Wednesday, 22 
  May 2019, 11:00 (GMT)\n\n\niLibrary expo
- rt: Monday, 13 May 2019, 21:00 (GMT)\nFr
- eepreview export: never\nFTI loaded: ✗\n
- \nFor more information see: https://gith
- ub.com/oecd/embargo-calendar/blob/master
- /embargoes-by-publication.md.\n\nPlease 
- note: This information was correct as of
-  this morning at 4:26, it is updated eac
- h night; therefore any subsequent update
- s may not yet be visible here. Also, ple
- ase be aware that the different released
-  media (PDF, HTML, etc.) are not necessa
- rily released at the same time. For comp
- lete and up-to-date information see here
- : http://kappa.oecd.org/v3/search?term=8
- 7b39a2f-en.
-DTSTAMP:20190515T042632Z
+ rt: Wednesday, 15 May 2019, 21:42 (GMT)\
+ nFreepreview export: Wednesday, 15 May 2
+ 019, 18:55 (GMT)\nFTI loaded: ✓\n\nFor m
+ ore information see: https://github.com/
+ oecd/embargo-calendar/blob/master/embarg
+ oes-by-publication.md.\n\nPlease note: T
+ his information was correct as of this m
+ orning at 4:27, it is updated each night
+ ; therefore any subsequent updates may n
+ ot yet be visible here. Also, please be 
+ aware that the different released media 
+ (PDF, HTML, etc.) are not necessarily re
+ leased at the same time. For complete an
+ d up-to-date information see here: http:
+ //kappa.oecd.org/v3/search?term=87b39a2f
+ -en.
+DTSTAMP:20190516T042736Z
 DTSTART:20190522T110000Z
 DTEND:20190522T111500Z
 TRANSP:TRANSPARENT
@@ -746,7 +706,46 @@ DESCRIPTION:Reminder: Tax Revenue Implications of De
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c66636e8-end3e12253
+UID:10.1787/75084277-end3e13847
+SUMMARY:OECD Development Co-operation Peer Revie
+ ws: Norway 2019
+DESCRIPTION:*OECD Development Co-operation Peer Revi
+ ews: Norway 2019*\n\nDirectorate: Develo
+ pment Co-operation Directorate\nLanguage
+ : English\nDOI: https://doi.org/10.1787/
+ 75084277-en\nPublication type: Book\nRel
+ eased as: Paperback, PDF\n\nEmbargo date
+ /time: Tuesday, 28 May 2019, 6:00 (GMT)\
+ n\n\niLibrary export: Wednesday, 15 May 
+ 2019, 21:42 (GMT)\nFreepreview export: n
+ ever\nFTI loaded: ✗\n\nFor more informat
+ ion see: https://github.com/oecd/embargo
+ -calendar/blob/master/embargoes-by-publi
+ cation.md.\n\nPlease note: This informat
+ ion was correct as of this morning at 4:
+ 27, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=75084277-en.
+DTSTAMP:20190516T042736Z
+DTSTART:20190528T060000Z
+DTEND:20190528T061500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Development Co-operation 
+ Peer Reviews: Norway 2019
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/c66636e8-end3e13893
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, India (Stage 
  1) - Inclusive Framework on BEPS: Action
@@ -766,7 +765,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   https://github.com/oecd/embargo-calenda
  r/blob/master/embargoes-by-publication.m
  d.\n\nPlease note: This information was 
- correct as of this morning at 4:26, it i
+ correct as of this morning at 4:27, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -775,7 +774,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=c66636e8-en.
-DTSTAMP:20190515T042632Z
+DTSTAMP:20190516T042736Z
 DTSTART:20190627T090000Z
 DTEND:20190627T091500Z
 TRANSP:TRANSPARENT
@@ -791,7 +790,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b0de32d9-end3e12300
+UID:10.1787/b0de32d9-end3e13940
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Latvia (Stage
   1) - Inclusive Framework on BEPS: Actio
@@ -811,7 +810,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  : https://github.com/oecd/embargo-calend
  ar/blob/master/embargoes-by-publication.
  md.\n\nPlease note: This information was
-  correct as of this morning at 4:26, it 
+  correct as of this morning at 4:27, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -820,7 +819,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=b0de32d9-en.
-DTSTAMP:20190515T042632Z
+DTSTAMP:20190516T042736Z
 DTSTART:20190627T090000Z
 DTEND:20190627T091500Z
 TRANSP:TRANSPARENT
@@ -836,7 +835,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/43add6b6-end3e12348
+UID:10.1787/43add6b6-end3e13987
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Chile (Stage 
  1) - Inclusive Framework on BEPS: Action
@@ -856,7 +855,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   https://github.com/oecd/embargo-calenda
  r/blob/master/embargoes-by-publication.m
  d.\n\nPlease note: This information was 
- correct as of this morning at 4:26, it i
+ correct as of this morning at 4:27, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -865,7 +864,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=43add6b6-en.
-DTSTAMP:20190515T042632Z
+DTSTAMP:20190516T042736Z
 DTSTART:20190627T090000Z
 DTEND:20190627T091500Z
 TRANSP:TRANSPARENT
@@ -881,7 +880,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3f820b8e-end3e12395
+UID:10.1787/3f820b8e-end3e14034
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, South Africa 
  (Stage 1) - Inclusive Framework on BEPS:
@@ -902,7 +901,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  calendar/blob/master/embargoes-by-public
  ation.md.\n\nPlease note: This informati
  on was correct as of this morning at 4:2
- 6, it is updated each night; therefore a
+ 7, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -910,7 +909,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=3f820b8e-en.
-DTSTAMP:20190515T042632Z
+DTSTAMP:20190516T042736Z
 DTSTART:20190627T090000Z
 DTEND:20190627T091500Z
 TRANSP:TRANSPARENT
@@ -926,7 +925,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9dc5933f-end3e12442
+UID:10.1787/9dc5933f-end3e14082
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Croatia (Stag
  e 1) - Inclusive Framework on BEPS: Acti
@@ -946,7 +945,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  e: https://github.com/oecd/embargo-calen
  dar/blob/master/embargoes-by-publication
  .md.\n\nPlease note: This information wa
- s correct as of this morning at 4:26, it
+ s correct as of this morning at 4:27, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -955,7 +954,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=9dc5933f-en.
-DTSTAMP:20190515T042632Z
+DTSTAMP:20190516T042736Z
 DTSTART:20190627T090000Z
 DTEND:20190627T091500Z
 TRANSP:TRANSPARENT
@@ -971,7 +970,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b9018c2d-end3e12628
+UID:10.1787/b9018c2d-end3e14267
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Lithuania (St
  age 1) - Inclusive Framework on BEPS: Ac
@@ -991,7 +990,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  see: https://github.com/oecd/embargo-cal
  endar/blob/master/embargoes-by-publicati
  on.md.\n\nPlease note: This information 
- was correct as of this morning at 4:26, 
+ was correct as of this morning at 4:27, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -1000,7 +999,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=b9018c2d-en.
-DTSTAMP:20190515T042632Z
+DTSTAMP:20190516T042736Z
 DTSTART:20190627T090000Z
 DTEND:20190627T091500Z
 TRANSP:TRANSPARENT
@@ -1016,7 +1015,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4fed4933-end3e12859
+UID:10.1787/4fed4933-end3e14499
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Argentina (St
  age 1) - Inclusive Framework on BEPS: Ac
@@ -1036,7 +1035,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  see: https://github.com/oecd/embargo-cal
  endar/blob/master/embargoes-by-publicati
  on.md.\n\nPlease note: This information 
- was correct as of this morning at 4:26, 
+ was correct as of this morning at 4:27, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -1045,7 +1044,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=4fed4933-en.
-DTSTAMP:20190515T042632Z
+DTSTAMP:20190516T042736Z
 DTSTART:20190627T090000Z
 DTEND:20190627T091500Z
 TRANSP:TRANSPARENT
@@ -1061,7 +1060,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7182ca92-end3e12953
+UID:10.1787/7182ca92-end3e14592
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Colombia (Sta
  ge 1) - Inclusive Framework on BEPS: Act
@@ -1081,7 +1080,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ee: https://github.com/oecd/embargo-cale
  ndar/blob/master/embargoes-by-publicatio
  n.md.\n\nPlease note: This information w
- as correct as of this morning at 4:26, i
+ as correct as of this morning at 4:27, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -1090,7 +1089,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=7182ca92-en.
-DTSTAMP:20190515T042632Z
+DTSTAMP:20190516T042736Z
 DTSTART:20190627T090000Z
 DTEND:20190627T091500Z
 TRANSP:TRANSPARENT

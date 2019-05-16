@@ -2,64 +2,16 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 15 May 2019 at 4:26* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 16 May 2019 at 4:27* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [13 May 2019](#13-may-2019)
 * [15 May 2019](#15-may-2019)
 * [16 May 2019](#16-may-2019)
 * [17 May 2019](#17-may-2019)
 * [20 May 2019](#20-may-2019)
 * [21 May 2019](#21-may-2019)
 * [22 May 2019](#22-may-2019)
+* [28 May 2019](#28-may-2019)
 * [27 June 2019](#27-june-2019)
-
-------
-
-# 13 May 2019
-
-## [An Introduction to Online Platforms and Their Role in the Digital Transformation](https://doi.org/10.1787/53e5f593-en)
-
-Embargo date | Launch date
--------------|------------
-Monday 13 May 2019 at 7:00 | Monday 13 May 2019 at 7:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 11 May 2019 at 0:02
-- [x] Exported to Keepeek Friday 10 May 2019 at 20:53
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Upgrading the ICT questionnaire items in PISA 2021](https://doi.org/10.1787/d0f94dc7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 May 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 9 May 2019 at 23:22
-- [x] Exported to Keepeek Thursday 9 May 2019 at 20:53
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -166,14 +118,14 @@ Thursday 16 May 2019 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 11 May 2019 at 0:02
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Wednesday 15 May 2019 at 23:42
+- [x] Exported to Keepeek Wednesday 15 May 2019 at 20:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -182,6 +134,28 @@ Thursday 16 May 2019 at 8:00 | no launch event
 ------
 
 # 17 May 2019
+
+## [Productivity growth and finance: The role of intangible assets - a sector level analysis](https://doi.org/10.1787/e26cae57-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 17 May 2019 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 15 May 2019 at 23:42
+- [x] Exported to Keepeek Wednesday 15 May 2019 at 20:55
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
 
 ## [Refugee education - Integration models and practices in OECD countries](https://doi.org/10.1787/a3251a00-en)
 
@@ -357,8 +331,8 @@ Wednesday 22 May 2019 at 8:00 | Wednesday 22 May 2019 at 8:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 15 May 2019 at 23:42
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -367,7 +341,7 @@ Wednesday 22 May 2019 at 8:00 | Wednesday 22 May 2019 at 8:00
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -380,7 +354,7 @@ Wednesday 22 May 2019 at 8:00 | Wednesday 22 May 2019 at 8:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
+- [x] Exported to iLibrary Wednesday 15 May 2019 at 23:42
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -423,17 +397,43 @@ Wednesday 22 May 2019 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 13 May 2019 at 23:00
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 15 May 2019 at 23:42
+- [x] Exported to Keepeek Wednesday 15 May 2019 at 20:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 28 May 2019
+
+## [OECD Development Co-operation Peer Reviews: Norway 2019](https://doi.org/10.1787/75084277-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 May 2019 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 15 May 2019 at 23:42
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
