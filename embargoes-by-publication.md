@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 16 May 2019 at 4:27* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 17 May 2019 at 3:54* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Strengthening Active Labour Market Policies in Italy ](https://doi.org/10.1787/160a3c28-en)
 
@@ -92,6 +92,28 @@ Wednesday 15 May 2019 at 9:00 | Wednesday 15 May 2019 at 9:00
 
 ------
 
+## [OECD Economic Surveys: China 2019](https://doi.org/10.1787/eco_surveys-chn-2019-en)
+
+Embargo date | Launch date
+-------------|------------
+Thursday 16 May 2019 at 6:00 | Tuesday 16 April 2019 at 6:00
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
+- [x] Exported to Keepeek Thursday 16 May 2019 at 20:50
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Addressing Problematic Opioid Use in OECD Countries](https://doi.org/10.1787/a18286f0-en)
 
 Embargo date | Launch date
@@ -101,7 +123,7 @@ Thursday 16 May 2019 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 May 2019 at 23:42
+- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
 - [x] Exported to Keepeek Wednesday 15 May 2019 at 20:55
 
 ### Additional Information
@@ -110,7 +132,7 @@ Thursday 16 May 2019 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF*
 
 ------
 
@@ -202,6 +224,116 @@ Monday 20 May 2019 at 8:30 | no launch event
 
 ------
 
+## [Multilingual Summaries for Measuring Distance to the SDG Targets 2019](https://doi.org/10.1787/b14af0a7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 May 2019 at 8:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
+- [x] Exported to Keepeek Thursday 16 May 2019 at 20:50
+
+### Additional Information
+
+* Directorate: *Statistics and Data Directorate*
+* 5 Languages: [Chinese](https://doi.org/10.1787/14de311e-zh), [English](https://doi.org/10.1787/b14af0a7-en), [Japanese](https://doi.org/10.1787/f514c095-ja), [Spanish](https://doi.org/10.1787/314526a6-es), [French](https://doi.org/10.1787/c9a5712f-fr)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [OECD SME and Entrepreneurship Outlook 2019](https://doi.org/10.1787/34907e9c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 May 2019 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Gig economy platforms: Boon or Bane?](https://doi.org/10.1787/fdb0570b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 21 May 2019 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
+- [x] Exported to Keepeek Thursday 16 May 2019 at 20:50
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Reducing regional disparities for inclusive growth in Spain](https://doi.org/10.1787/9acff09a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 21 May 2019 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
+- [x] Exported to Keepeek Thursday 16 May 2019 at 20:50
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Like it or not? The impact of online platforms on the productivity of incumbent service](https://doi.org/10.1787/080a17ce-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 21 May 2019 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
+- [x] Exported to Keepeek Thursday 16 May 2019 at 20:50
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Perspectives économiques de l'OCDE, Volume 2019 Numéro 1 - Version préliminaire](https://doi.org/10.1787/0a0e3904-fr)
 
 Embargo date | Launch date
@@ -211,7 +343,7 @@ Tuesday 21 May 2019 at 9:00 | Tuesday 21 May 2019 at 9:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 9 May 2019 at 23:22
+- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -233,7 +365,7 @@ Tuesday 21 May 2019 at 9:00 | Tuesday 21 May 2019 at 9:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 9 May 2019 at 23:22
+- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -255,7 +387,7 @@ Tuesday 21 May 2019 at 9:00 | Tuesday 21 May 2019 at 9:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 9 May 2019 at 23:22
+- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -299,14 +431,14 @@ Wednesday 22 May 2019 at 8:00 | Wednesday 22 May 2019 at 8:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 May 2019 at 23:42
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
+- [x] Exported to Keepeek Thursday 16 May 2019 at 20:50
 
 ### Additional Information
 
 * Directorate: *Centre for Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, PDF*
 
@@ -321,16 +453,16 @@ Wednesday 22 May 2019 at 8:00 | Wednesday 22 May 2019 at 8:00
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 15 May 2019 at 23:42
+- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Centre for Skills*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -396,7 +528,7 @@ Tuesday 28 May 2019 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -409,7 +541,7 @@ Thursday 27 June 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
+- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -431,7 +563,7 @@ Thursday 27 June 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
+- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -453,7 +585,7 @@ Thursday 27 June 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
+- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -475,7 +607,7 @@ Thursday 27 June 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
+- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -497,7 +629,7 @@ Thursday 27 June 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
+- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -519,7 +651,7 @@ Thursday 27 June 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
+- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -541,7 +673,7 @@ Thursday 27 June 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
+- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -563,7 +695,7 @@ Thursday 27 June 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
+- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
 - [ ] Exported to Keepeek
 
 ### Additional Information
