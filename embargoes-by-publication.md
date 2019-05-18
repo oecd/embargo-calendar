@@ -2,95 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 17 May 2019 at 3:54* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Strengthening Active Labour Market Policies in Italy ](https://doi.org/10.1787/160a3c28-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 May 2019 at 7:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 13 May 2019 at 23:00
-- [x] Exported to Keepeek Friday 10 May 2019 at 20:53
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [How are school-choice policies related to social diversity in schools?](https://doi.org/10.1787/2d448c77-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 May 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
-- [x] Exported to Keepeek Tuesday 14 May 2019 at 20:52
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Quels liens entre les politiques de libre choix des établissements et la mixité sociale à l’école ?](https://doi.org/10.1787/943456f0-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 May 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
-- [x] Exported to Keepeek Tuesday 14 May 2019 at 20:52
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Balancing School Choice and Equity - An International Perspective Based on Pisa](https://doi.org/10.1787/2592c974-en)
-
-Embargo date | Launch date
--------------|------------
-Wednesday 15 May 2019 at 9:00 | Wednesday 15 May 2019 at 9:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
-- [x] Exported to Keepeek Tuesday 14 May 2019 at 20:52
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Saturday 18 May 2019 at 4:25* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: China 2019](https://doi.org/10.1787/eco_surveys-chn-2019-en)
 
@@ -255,16 +167,38 @@ Monday 20 May 2019 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 17 May 2019 at 23:29
+- [x] Exported to Keepeek Friday 17 May 2019 at 20:50
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Multilingual Summaries for OECD SME and Entrepreneurship Outlook 2019](https://doi.org/10.1787/8ac063a4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 May 2019 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 May 2019 at 23:29
+- [x] Exported to Keepeek Friday 17 May 2019 at 20:50
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* 7 Languages: [Italian](https://doi.org/10.1787/5794dcd0-it), [German](https://doi.org/10.1787/d231eb40-de), [Chinese](https://doi.org/10.1787/2e04c7a3-zh), [English](https://doi.org/10.1787/8ac063a4-en), [Japanese](https://doi.org/10.1787/decdb00e-ja), [Spanish](https://doi.org/10.1787/65ec5d34-es), [French](https://doi.org/10.1787/8d6d9340-fr)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -452,9 +386,9 @@ Wednesday 22 May 2019 at 8:00 | Wednesday 22 May 2019 at 8:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 May 2019 at 23:29
+- [x] Exported to Keepeek Friday 17 May 2019 at 20:50
 
 ### Additional Information
 
@@ -518,15 +452,15 @@ Tuesday 28 May 2019 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 15 May 2019 at 23:42
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 May 2019 at 23:29
+- [x] Exported to Keepeek Friday 17 May 2019 at 20:50
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
