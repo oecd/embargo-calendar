@@ -2,111 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 18 May 2019 at 4:25* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 21 May 2019 at 3:44* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [16 May 2019](#16-may-2019)
-* [17 May 2019](#17-may-2019)
 * [20 May 2019](#20-may-2019)
 * [21 May 2019](#21-may-2019)
 * [22 May 2019](#22-may-2019)
 * [28 May 2019](#28-may-2019)
 * [27 June 2019](#27-june-2019)
-
-------
-
-# 16 May 2019
-
-## [OECD Economic Surveys: China 2019](https://doi.org/10.1787/eco_surveys-chn-2019-en)
-
-Embargo date | Launch date
--------------|------------
-Thursday 16 May 2019 at 6:00 | Tuesday 16 April 2019 at 6:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
-- [x] Exported to Keepeek Thursday 16 May 2019 at 20:50
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Addressing Problematic Opioid Use in OECD Countries](https://doi.org/10.1787/a18286f0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 May 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
-- [x] Exported to Keepeek Wednesday 15 May 2019 at 20:55
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF*
-
-------
-
-------
-
-# 17 May 2019
-
-## [Productivity growth and finance: The role of intangible assets - a sector level analysis](https://doi.org/10.1787/e26cae57-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 17 May 2019 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 May 2019 at 23:42
-- [x] Exported to Keepeek Wednesday 15 May 2019 at 20:55
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Refugee education - Integration models and practices in OECD countries](https://doi.org/10.1787/a3251a00-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 17 May 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 14 May 2019 at 23:53
-- [x] Exported to Keepeek Tuesday 14 May 2019 at 20:52
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -300,7 +202,7 @@ Tuesday 21 May 2019 at 9:00 | Tuesday 21 May 2019 at 9:00
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
 - [ ] Exported to Keepeek
 
@@ -308,9 +210,31 @@ Tuesday 21 May 2019 at 9:00 | Tuesday 21 May 2019 at 9:00
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Multilingual Summaries for OECD Economic Outlook, Volume 2019 Issue 1](https://doi.org/10.1787/994fa6c6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 21 May 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* 4 Languages: [German](https://doi.org/10.1787/062aef6c-de), [English](https://doi.org/10.1787/994fa6c6-en), [Spanish](https://doi.org/10.1787/5513930a-es), [French](https://doi.org/10.1787/199590b2-fr)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -322,7 +246,7 @@ Tuesday 21 May 2019 at 9:00 | Tuesday 21 May 2019 at 9:00
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
 - [ ] Exported to Keepeek
 
@@ -330,7 +254,7 @@ Tuesday 21 May 2019 at 9:00 | Tuesday 21 May 2019 at 9:00
 
 * Directorate: *Economics Department*
 * Language: *German*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -344,7 +268,7 @@ Tuesday 21 May 2019 at 9:00 | Tuesday 21 May 2019 at 9:00
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
 - [ ] Exported to Keepeek
 
@@ -352,9 +276,9 @@ Tuesday 21 May 2019 at 9:00 | Tuesday 21 May 2019 at 9:00
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, PDF*
 
 ------
 
