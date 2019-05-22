@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 21 May 2019 at 3:44* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 22 May 2019 at 3:56* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Improving School Quality in Norway - The New Competence Development Model](https://doi.org/10.1787/179d4ded-en)
 
@@ -189,8 +189,8 @@ Tuesday 21 May 2019 at 9:00 | Tuesday 21 May 2019 at 9:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 21 May 2019 at 23:22
+- [x] Exported to Keepeek Tuesday 21 May 2019 at 20:53
 
 ### Additional Information
 
@@ -198,7 +198,7 @@ Tuesday 21 May 2019 at 9:00 | Tuesday 21 May 2019 at 9:00
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, PDF*
 
 ------
 
@@ -211,8 +211,8 @@ Tuesday 21 May 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 20 May 2019 at 23:12
+- [x] Exported to Keepeek Monday 20 May 2019 at 20:46
 
 ### Additional Information
 
@@ -233,8 +233,8 @@ Tuesday 21 May 2019 at 9:00 | Tuesday 21 May 2019 at 9:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 21 May 2019 at 23:22
+- [x] Exported to Keepeek Tuesday 21 May 2019 at 20:53
 
 ### Additional Information
 
@@ -255,8 +255,8 @@ Tuesday 21 May 2019 at 9:00 | Tuesday 21 May 2019 at 9:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 21 May 2019 at 23:22
+- [x] Exported to Keepeek Tuesday 21 May 2019 at 20:53
 
 ### Additional Information
 
@@ -287,6 +287,50 @@ Wednesday 22 May 2019 at 3:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
 * Format: *PDF*
+
+------
+
+## [ Secretary-General's Report to Ministers 2019](https://doi.org/10.1787/d4b4a55c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 22 May 2019 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 21 May 2019 at 23:22
+- [x] Exported to Keepeek Tuesday 21 May 2019 at 20:53
+
+### Additional Information
+
+* Directorate: *Public Affairs and Communications Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [ Rapport du Secrétaire général aux ministres 2019](https://doi.org/10.1787/a7f93940-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 22 May 2019 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 21 May 2019 at 23:22
+- [x] Exported to Keepeek Tuesday 21 May 2019 at 20:53
+
+### Additional Information
+
+* Directorate: *Public Affairs and Communications Directorate*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -356,6 +400,28 @@ Wednesday 22 May 2019 at 8:00 | Wednesday 22 May 2019 at 8:00
 
 ------
 
+## [Multilingual Summaries for ITF Transport Outlook 2019](https://doi.org/10.1787/c013afc7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 22 May 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 21 May 2019 at 23:22
+- [x] Exported to Keepeek Tuesday 21 May 2019 at 20:53
+
+### Additional Information
+
+* Directorate: *International Transport Forum*
+* 4 Languages: [German](https://doi.org/10.1787/b81900bb-de), [English](https://doi.org/10.1787/c013afc7-en), [Russian](https://doi.org/10.1787/edd9d55b-ru), [Spanish](https://doi.org/10.1787/24935fa1-es)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Formats: *ePub, HTML, PDF*
+
+------
+
 ## [Tax Revenue Implications of Decarbonising Road Transport - Scenarios for Slovenia](https://doi.org/10.1787/87b39a2f-en)
 
 Embargo date | Launch date
@@ -375,6 +441,72 @@ Wednesday 22 May 2019 at 11:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Objectives and challenges in the implementation of a universal pension system in France](https://doi.org/10.1787/5a476f15-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 24 May 2019 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 21 May 2019 at 23:22
+- [x] Exported to Keepeek Tuesday 21 May 2019 at 20:53
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Increasing the benefits of Slovakia’s integration in global value chains](https://doi.org/10.1787/877b7b28-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 24 May 2019 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 21 May 2019 at 23:22
+- [x] Exported to Keepeek Tuesday 21 May 2019 at 20:53
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Enhancing the social integration of Roma in Slovak Republic](https://doi.org/10.1787/197eb309-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 24 May 2019 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 21 May 2019 at 23:22
+- [x] Exported to Keepeek Tuesday 21 May 2019 at 20:53
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
