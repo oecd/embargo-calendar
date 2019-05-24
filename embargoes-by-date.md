@@ -2,106 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 23 May 2019 at 3:51* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 24 May 2019 at 3:41* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [21 May 2019](#21-may-2019)
 * [22 May 2019](#22-may-2019)
 * [24 May 2019](#24-may-2019)
 * [28 May 2019](#28-may-2019)
 * [29 May 2019](#29-may-2019)
 * [27 June 2019](#27-june-2019)
-
-------
-
-# 21 May 2019
-
-## [Perspectives économiques de l'OCDE, Volume 2019 Numéro 1 - Version préliminaire](https://doi.org/10.1787/0a0e3904-fr)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 May 2019 at 9:00 | Tuesday 21 May 2019 at 9:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 May 2019 at 23:22
-- [x] Exported to Keepeek Tuesday 21 May 2019 at 20:53
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, PDF*
-
-------
-
-## [Multilingual Summaries for OECD Economic Outlook, Volume 2019 Issue 1](https://doi.org/10.1787/994fa6c6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 21 May 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 May 2019 at 23:13
-- [x] Exported to Keepeek Monday 20 May 2019 at 20:46
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* 4 Languages: [German](https://doi.org/10.1787/062aef6c-de), [English](https://doi.org/10.1787/994fa6c6-en), [Spanish](https://doi.org/10.1787/5513930a-es), [French](https://doi.org/10.1787/199590b2-fr)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [OECD-Wirtschaftsausblick, Ausgabe 2019/1 - Vorläufige Ausgabe](https://doi.org/10.1787/43e485a3-de)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 May 2019 at 9:00 | Tuesday 21 May 2019 at 9:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 May 2019 at 23:22
-- [x] Exported to Keepeek Tuesday 21 May 2019 at 20:53
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Outlook, Volume 2019 Issue 1 - Preliminary version](https://doi.org/10.1787/b2e897b0-en)
-
-Embargo date | Launch date
--------------|------------
-Tuesday 21 May 2019 at 9:00 | Tuesday 21 May 2019 at 9:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 May 2019 at 23:22
-- [x] Exported to Keepeek Tuesday 21 May 2019 at 20:53
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, PDF*
-
-------
 
 ------
 
@@ -340,7 +247,7 @@ Friday 24 May 2019 at 0:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 May 2019 at 23:22
+- [x] Exported to iLibrary Thursday 23 May 2019 at 23:13
 - [x] Exported to Keepeek Tuesday 21 May 2019 at 20:53
 
 ### Additional Information
@@ -418,7 +325,7 @@ Thursday 27 June 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
+- [x] Exported to iLibrary Thursday 23 May 2019 at 23:13
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -440,7 +347,7 @@ Thursday 27 June 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
+- [x] Exported to iLibrary Thursday 23 May 2019 at 23:13
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -462,7 +369,7 @@ Thursday 27 June 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
+- [x] Exported to iLibrary Thursday 23 May 2019 at 23:13
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -484,7 +391,7 @@ Thursday 27 June 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
+- [x] Exported to iLibrary Thursday 23 May 2019 at 23:13
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -528,7 +435,7 @@ Thursday 27 June 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
+- [x] Exported to iLibrary Thursday 23 May 2019 at 23:13
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -572,7 +479,7 @@ Thursday 27 June 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
+- [x] Exported to iLibrary Thursday 23 May 2019 at 23:13
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -660,7 +567,7 @@ Thursday 27 June 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
+- [x] Exported to iLibrary Thursday 23 May 2019 at 23:13
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -704,7 +611,7 @@ Thursday 27 June 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 16 May 2019 at 23:22
+- [x] Exported to iLibrary Thursday 23 May 2019 at 23:13
 - [ ] Exported to Keepeek
 
 ### Additional Information
