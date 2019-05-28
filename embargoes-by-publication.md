@@ -2,73 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 25 May 2019 at 4:51* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Objectives and challenges in the implementation of a universal pension system in France](https://doi.org/10.1787/5a476f15-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 24 May 2019 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 May 2019 at 23:22
-- [x] Exported to Keepeek Tuesday 21 May 2019 at 20:53
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Increasing the benefits of Slovakia’s integration in global value chains](https://doi.org/10.1787/877b7b28-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 24 May 2019 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 May 2019 at 23:22
-- [x] Exported to Keepeek Tuesday 21 May 2019 at 20:53
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Enhancing the social integration of Roma in Slovak Republic](https://doi.org/10.1787/197eb309-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 24 May 2019 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 May 2019 at 23:13
-- [x] Exported to Keepeek Tuesday 21 May 2019 at 20:53
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Tuesday 28 May 2019 at 5:07* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Development Co-operation Peer Reviews: Norway 2019](https://doi.org/10.1787/75084277-en)
 
@@ -96,13 +30,13 @@ Tuesday 28 May 2019 at 6:00 | no launch event
 
 Embargo date | Launch date
 -------------|------------
-Wednesday 29 May 2019 at 8:00 | Wednesday 29 May 2019 at 8:00
+Wednesday 29 May 2019 at 7:00 | Wednesday 29 May 2019 at 7:00
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 May 2019 at 23:13
-- [x] Exported to Keepeek Wednesday 22 May 2019 at 20:49
+- [x] Exported to iLibrary Monday 27 May 2019 at 23:58
+- [x] Exported to Keepeek Monday 27 May 2019 at 20:49
 
 ### Additional Information
 
@@ -110,6 +44,28 @@ Wednesday 29 May 2019 at 8:00 | Wednesday 29 May 2019 at 8:00
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Artificial Intelligence in Society](https://doi.org/10.1787/eedfee77-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 June 2019 at 4:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 27 May 2019 at 23:58
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
