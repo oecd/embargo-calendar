@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 28 May 2019 at 5:07* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 29 May 2019 at 5:52* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [28 May 2019](#28-may-2019)
 * [29 May 2019](#29-may-2019)
@@ -100,17 +100,17 @@ Monday 17 June 2019 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 24 May 2019 at 23:51
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 29 May 2019 at 0:34
+- [x] Exported to Keepeek Tuesday 28 May 2019 at 21:04
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
