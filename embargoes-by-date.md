@@ -2,10 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 29 May 2019 at 5:52* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 30 May 2019 at 6:07* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [28 May 2019](#28-may-2019)
 * [29 May 2019](#29-may-2019)
+* [6 June 2019](#6-june-2019)
 * [11 June 2019](#11-june-2019)
 * [17 June 2019](#17-june-2019)
 * [27 June 2019](#27-june-2019)
@@ -58,6 +59,32 @@ Wednesday 29 May 2019 at 7:00 | Wednesday 29 May 2019 at 7:00
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+------
+
+# 6 June 2019
+
+## [Unpacking E-commerce - Business Models, Trends and Policies](https://doi.org/10.1787/23561431-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 6 June 2019 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 20 May 2019 at 23:12
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
