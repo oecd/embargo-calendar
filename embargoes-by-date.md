@@ -2,40 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 30 May 2019 at 6:07* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 31 May 2019 at 5:01* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [28 May 2019](#28-may-2019)
 * [29 May 2019](#29-may-2019)
 * [6 June 2019](#6-june-2019)
 * [11 June 2019](#11-june-2019)
 * [17 June 2019](#17-june-2019)
 * [27 June 2019](#27-june-2019)
-
-------
-
-# 28 May 2019
-
-## [OECD Development Co-operation Peer Reviews: Norway 2019](https://doi.org/10.1787/75084277-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 May 2019 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 May 2019 at 23:29
-- [x] Exported to Keepeek Friday 17 May 2019 at 20:50
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -76,7 +49,7 @@ Thursday 6 June 2019 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 May 2019 at 23:12
+- [x] Exported to iLibrary Thursday 30 May 2019 at 0:51
 - [ ] Exported to Keepeek
 
 ### Additional Information
