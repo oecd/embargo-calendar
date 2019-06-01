@@ -2,27 +2,27 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 31 May 2019 at 5:01* | [See embargoes by date](embargoes-by-date.md) |
+| *Saturday 1 June 2019 at 5:52* | [See embargoes by date](embargoes-by-date.md) |
 
-## [OECD Economic Surveys: Latvia 2019](https://doi.org/10.1787/f8c2f493-en)
+## [OECD Reviews of Evaluation and Assessment in Education: North Macedonia](https://doi.org/10.1787/079fe34c-en)
 
 Embargo date | Launch date
--------------|------------
-Wednesday 29 May 2019 at 7:00 | Wednesday 29 May 2019 at 7:00
+-------------|:------------:
+Tuesday 4 June 2019 at 10:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 May 2019 at 23:58
-- [x] Exported to Keepeek Monday 27 May 2019 at 20:49
+- [x] Exported to iLibrary Saturday 1 June 2019 at 0:28
+- [x] Exported to Keepeek Friday 31 May 2019 at 20:59
 
 ### Additional Information
 
-* Directorate: *Economics Department*
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -35,16 +35,16 @@ Thursday 6 June 2019 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 30 May 2019 at 0:51
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Saturday 1 June 2019 at 0:28
+- [x] Exported to Keepeek Friday 31 May 2019 at 20:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -56,8 +56,8 @@ Tuesday 11 June 2019 at 4:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 27 May 2019 at 23:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 1 June 2019 at 0:28
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -66,7 +66,7 @@ Tuesday 11 June 2019 at 4:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
