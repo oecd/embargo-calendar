@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 1 June 2019 at 5:52* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 4 June 2019 at 6:04* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Reviews of Evaluation and Assessment in Education: North Macedonia](https://doi.org/10.1787/079fe34c-en)
 
@@ -26,6 +26,50 @@ Tuesday 4 June 2019 at 10:00 | no launch event
 
 ------
 
+## [Taxing vehicles, fuels, and road use - Opportunities for improving transport tax practice](https://doi.org/10.1787/e7f1d771-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 5 June 2019 at 3:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 4 June 2019 at 0:23
+- [x] Exported to Keepeek Monday 3 June 2019 at 20:53
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [The use of revenues from carbon pricing](https://doi.org/10.1787/3cb265e4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 5 June 2019 at 3:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 4 June 2019 at 0:23
+- [x] Exported to Keepeek Monday 3 June 2019 at 20:53
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Unpacking E-commerce - Business Models, Trends and Policies](https://doi.org/10.1787/23561431-en)
 
 Embargo date | Launch date
@@ -35,8 +79,8 @@ Thursday 6 June 2019 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 1 June 2019 at 0:28
-- [x] Exported to Keepeek Friday 31 May 2019 at 20:59
+- [x] Exported to iLibrary Tuesday 4 June 2019 at 0:23
+- [x] Exported to Keepeek Monday 3 June 2019 at 20:53
 
 ### Additional Information
 
@@ -57,14 +101,14 @@ Tuesday 11 June 2019 at 4:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 1 June 2019 at 0:28
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Tuesday 4 June 2019 at 0:23
+- [x] Exported to Keepeek Monday 3 June 2019 at 20:53
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, PDF*
 
@@ -189,7 +233,7 @@ Thursday 27 June 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 22 May 2019 at 23:13
+- [x] Exported to iLibrary Tuesday 4 June 2019 at 0:37
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -277,7 +321,7 @@ Thursday 27 June 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 22 May 2019 at 23:13
+- [x] Exported to iLibrary Tuesday 4 June 2019 at 0:37
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -321,7 +365,7 @@ Thursday 27 June 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 22 May 2019 at 23:13
+- [x] Exported to iLibrary Tuesday 4 June 2019 at 0:37
 - [ ] Exported to Keepeek
 
 ### Additional Information
