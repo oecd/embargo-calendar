@@ -2,13 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 4 June 2019 at 6:04* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 5 June 2019 at 6:01* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [4 June 2019](#4-june-2019)
 * [5 June 2019](#5-june-2019)
 * [6 June 2019](#6-june-2019)
 * [11 June 2019](#11-june-2019)
-* [17 June 2019](#17-june-2019)
+* [18 June 2019](#18-june-2019)
 * [27 June 2019](#27-june-2019)
 
 ------
@@ -72,8 +72,8 @@ Wednesday 5 June 2019 at 3:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 4 June 2019 at 0:23
-- [x] Exported to Keepeek Monday 3 June 2019 at 20:53
+- [x] Exported to iLibrary Wednesday 5 June 2019 at 0:34
+- [x] Exported to Keepeek Tuesday 4 June 2019 at 20:58
 
 ### Additional Information
 
@@ -139,19 +139,19 @@ Tuesday 11 June 2019 at 4:00 | no launch event
 
 ------
 
-# 17 June 2019
+# 18 June 2019
 
 ## [OECD Investment Policy Reviews: Croatia 2019](https://doi.org/10.1787/2bf079ba-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 17 June 2019 at 7:00 | no launch event
+Tuesday 18 June 2019 at 7:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 29 May 2019 at 0:34
-- [x] Exported to Keepeek Tuesday 28 May 2019 at 21:04
+- [x] Exported to iLibrary Wednesday 5 June 2019 at 0:34
+- [x] Exported to Keepeek Tuesday 4 June 2019 at 20:58
 
 ### Additional Information
 
