@@ -20,7 +20,7 @@ DESCRIPTION:*Unpacking E-commerce - Business Models,
  ub.com/oecd/embargo-calendar/blob/master
  /embargoes-by-publication.md.\n\nPlease 
  note: This information was correct as of
-  this morning at 5:56, it is updated eac
+  this morning at 6:25, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -29,7 +29,7 @@ DESCRIPTION:*Unpacking E-commerce - Business Models,
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=2
  3561431-en.
-DTSTAMP:20190607T055644Z
+DTSTAMP:20190608T062535Z
 DTSTART:20190606T070000Z
 DTEND:20190606T071500Z
 TRANSP:TRANSPARENT
@@ -43,7 +43,50 @@ DESCRIPTION:Reminder: Unpacking E-commerce - Busines
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/35d2ab24-end3e2189
+UID:10.1787/b9f8d292-end3e2189
+SUMMARY:Labour supply of older people in advance
+  economies: the impact of changes to sta
+ tutory retirement ages
+DESCRIPTION:*Labour supply of older people in advanc
+ e economies: the impact of changes to st
+ atutory retirement ages*\n\nDirectorate:
+  Economics Department\nLanguage: English
+ \nDOI: https://doi.org/10.1787/b9f8d292-
+ en\nPublication type: Working paper\nRel
+ eased as: PDF\n\nEmbargo date/time: Tues
+ day, 11 June 2019, 0:00 (GMT)\n\n\niLibr
+ ary export: Friday, 7 June 2019, 22:37 (
+ GMT)\nFreepreview export: Friday, 7 June
+  2019, 18:58 (GMT)\nFTI loaded: ✓\n\nFor
+  more information see: https://github.co
+ m/oecd/embargo-calendar/blob/master/emba
+ rgoes-by-publication.md.\n\nPlease note:
+  This information was correct as of this
+  morning at 6:25, it is updated each nig
+ ht; therefore any subsequent updates may
+  not yet be visible here. Also, please b
+ e aware that the different released medi
+ a (PDF, HTML, etc.) are not necessarily 
+ released at the same time. For complete 
+ and up-to-date information see here: htt
+ p://kappa.oecd.org/v3/search?term=b9f8d2
+ 92-en.
+DTSTAMP:20190608T062535Z
+DTSTART:20190611T000000Z
+DTEND:20190611T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Labour supply of older people 
+ in advance economies: the impact of chan
+ ges to statutory retirement ages
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/35d2ab24-end3e2237
 SUMMARY:Does greater social diversity in schools
   have an impact on equity in learning ou
  tcomes?
@@ -55,23 +98,23 @@ DESCRIPTION:*Does greater social diversity in school
  -en\nPublication type: Working paper\nRe
  leased as: PDF\n\nEmbargo date/time: Tue
  sday, 11 June 2019, 3:00 (GMT)\n\n\niLib
- rary export: Thursday, 6 June 2019, 22:1
- 7 (GMT)\nFreepreview export: Thursday, 6
-  June 2019, 18:56 (GMT)\nFTI loaded: ✓\n
- \nFor more information see: https://gith
- ub.com/oecd/embargo-calendar/blob/master
- /embargoes-by-publication.md.\n\nPlease 
- note: This information was correct as of
-  this morning at 5:56, it is updated eac
- h night; therefore any subsequent update
- s may not yet be visible here. Also, ple
- ase be aware that the different released
-  media (PDF, HTML, etc.) are not necessa
- rily released at the same time. For comp
- lete and up-to-date information see here
- : http://kappa.oecd.org/v3/search?term=3
- 5d2ab24-en.
-DTSTAMP:20190607T055644Z
+ rary export: Friday, 7 June 2019, 22:37 
+ (GMT)\nFreepreview export: Thursday, 6 J
+ une 2019, 18:56 (GMT)\nFTI loaded: ✓\n\n
+ For more information see: https://github
+ .com/oecd/embargo-calendar/blob/master/e
+ mbargoes-by-publication.md.\n\nPlease no
+ te: This information was correct as of t
+ his morning at 6:25, it is updated each 
+ night; therefore any subsequent updates 
+ may not yet be visible here. Also, pleas
+ e be aware that the different released m
+ edia (PDF, HTML, etc.) are not necessari
+ ly released at the same time. For comple
+ te and up-to-date information see here: 
+ http://kappa.oecd.org/v3/search?term=35d
+ 2ab24-en.
+DTSTAMP:20190608T062535Z
 DTSTART:20190611T030000Z
 DTEND:20190611T031500Z
 TRANSP:TRANSPARENT
@@ -86,7 +129,90 @@ DESCRIPTION:Reminder: Does greater social diversity
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/eedfee77-end3e2765
+UID:10.1787/1ce0ae6a-frd3e2286
+SUMMARY:Le renforcement de la mixité sociale à l
+ ’école a-t-il un impact sur l’équité des
+  résultats d’apprentissage ?
+DESCRIPTION:*Le renforcement de la mixité sociale à 
+ l’école a-t-il un impact sur l’équité de
+ s résultats d’apprentissage ?*\n\nDirect
+ orate: Directorate for Education and Ski
+ lls\nLanguage: French\nDOI: https://doi.
+ org/10.1787/1ce0ae6a-fr\nPublication typ
+ e: Working paper\nReleased as: PDF\n\nEm
+ bargo date/time: Tuesday, 11 June 2019, 
+ 3:00 (GMT)\n\n\niLibrary export: Friday,
+  7 June 2019, 22:37 (GMT)\nFreepreview e
+ xport: Friday, 7 June 2019, 18:58 (GMT)\
+ nFTI loaded: ✓\n\nFor more information s
+ ee: https://github.com/oecd/embargo-cale
+ ndar/blob/master/embargoes-by-publicatio
+ n.md.\n\nPlease note: This information w
+ as correct as of this morning at 6:25, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=1ce0ae6a-fr.
+DTSTAMP:20190608T062535Z
+DTSTART:20190611T030000Z
+DTEND:20190611T031500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Le renforcement de la mixité s
+ ociale à l’école a-t-il un impact sur l’
+ équité des résultats d’apprentissage ?
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9f3159b8-end3e2574
+SUMMARY:Multilingual Summaries for Artificial In
+ telligence in Society
+DESCRIPTION:*Multilingual Summaries for Artificial I
+ ntelligence in Society*\n\nDirectorate: 
+ Directorate for Science, Technology and 
+ Industry\n4 Languages: Italian, German, 
+ English, Spanish\nPublication type: Summ
+ ary\nReleased as: ePub, HTML, PDF\n\nEmb
+ argo date/time: Tuesday, 11 June 2019, 4
+ :00 (GMT)\n\niLibrary export: Friday, 7 
+ June 2019, 22:37 (GMT)\nFreepreview expo
+ rt: Friday, 7 June 2019, 18:58 (GMT)\nFT
+ I loaded: ✓\n\nFor more information see:
+  https://github.com/oecd/embargo-calenda
+ r/blob/master/embargoes-by-publication.m
+ d.\n\nPlease note: This information was 
+ correct as of this morning at 6:25, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=9f3159b8-en.
+DTSTAMP:20190608T062535Z
+DTSTART:20190611T040000Z
+DTEND:20190611T041500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Multilingual Summaries for Art
+ ificial Intelligence in Society
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/eedfee77-end3e3243
 SUMMARY:Artificial Intelligence in Society
 DESCRIPTION:*Artificial Intelligence in Society*\n\n
  Directorate: Directorate for Science, Te
@@ -97,12 +223,12 @@ DESCRIPTION:*Artificial Intelligence in Society*\n\n
  argo date/time: Tuesday, 11 June 2019, 4
  :00 (GMT)\n\n\niLibrary export: Monday, 
  3 June 2019, 22:23 (GMT)\nFreepreview ex
- port: Monday, 3 June 2019, 18:53 (GMT)\n
+ port: Friday, 7 June 2019, 18:58 (GMT)\n
  FTI loaded: ✓\n\nFor more information se
  e: https://github.com/oecd/embargo-calen
  dar/blob/master/embargoes-by-publication
  .md.\n\nPlease note: This information wa
- s correct as of this morning at 5:56, it
+ s correct as of this morning at 6:25, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -111,7 +237,7 @@ DESCRIPTION:*Artificial Intelligence in Society*\n\n
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=eedfee77-en.
-DTSTAMP:20190607T055644Z
+DTSTAMP:20190608T062535Z
 DTSTART:20190611T040000Z
 DTEND:20190611T041500Z
 TRANSP:TRANSPARENT
@@ -125,7 +251,46 @@ DESCRIPTION:Reminder: Artificial Intelligence in Soc
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2bf079ba-end3e3714
+UID:10.1787/be5514d7-end3e3906
+SUMMARY:Benchmarking Higher Education System Per
+ formance
+DESCRIPTION:*Benchmarking Higher Education System Pe
+ rformance*\n\nDirectorate: Directorate f
+ or Education and Skills\nLanguage: Engli
+ sh\nDOI: https://doi.org/10.1787/be5514d
+ 7-en\nPublication type: Book\nReleased a
+ s: PDF\n\nEmbargo date/time: Tuesday, 11
+  June 2019, 7:00 (GMT)\n\n\niLibrary exp
+ ort: Friday, 7 June 2019, 22:37 (GMT)\nF
+ reepreview export: Friday, 7 June 2019, 
+ 18:58 (GMT)\nFTI loaded: ✓\n\nFor more i
+ nformation see: https://github.com/oecd/
+ embargo-calendar/blob/master/embargoes-b
+ y-publication.md.\n\nPlease note: This i
+ nformation was correct as of this mornin
+ g at 6:25, it is updated each night; the
+ refore any subsequent updates may not ye
+ t be visible here. Also, please be aware
+  that the different released media (PDF,
+  HTML, etc.) are not necessarily release
+ d at the same time. For complete and up-
+ to-date information see here: http://kap
+ pa.oecd.org/v3/search?term=be5514d7-en.
+DTSTAMP:20190608T062535Z
+DTSTART:20190611T070000Z
+DTEND:20190611T071500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Benchmarking Higher Education 
+ System Performance
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/2bf079ba-end3e4428
 SUMMARY:OECD Investment Policy Reviews: Croatia 
  2019
 DESCRIPTION:*OECD Investment Policy Reviews: Croatia
@@ -142,8 +307,8 @@ DESCRIPTION:*OECD Investment Policy Reviews: Croatia
  ion see: https://github.com/oecd/embargo
  -calendar/blob/master/embargoes-by-publi
  cation.md.\n\nPlease note: This informat
- ion was correct as of this morning at 5:
- 56, it is updated each night; therefore 
+ ion was correct as of this morning at 6:
+ 25, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -151,7 +316,7 @@ DESCRIPTION:*OECD Investment Policy Reviews: Croatia
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=2bf079ba-en.
-DTSTAMP:20190607T055644Z
+DTSTAMP:20190608T062535Z
 DTSTART:20190618T070000Z
 DTEND:20190618T071500Z
 TRANSP:TRANSPARENT

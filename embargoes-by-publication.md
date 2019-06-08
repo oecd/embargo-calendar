@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 7 June 2019 at 5:56* | [See embargoes by date](embargoes-by-date.md) |
+| *Saturday 8 June 2019 at 6:25* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Unpacking E-commerce - Business Models, Trends and Policies](https://doi.org/10.1787/23561431-en)
 
@@ -26,6 +26,28 @@ Thursday 6 June 2019 at 7:00 | no launch event
 
 ------
 
+## [Labour supply of older people in advance economies: the impact of changes to statutory retirement ages](https://doi.org/10.1787/b9f8d292-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 June 2019 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 8 June 2019 at 0:37
+- [x] Exported to Keepeek Friday 7 June 2019 at 20:58
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Does greater social diversity in schools have an impact on equity in learning outcomes?](https://doi.org/10.1787/35d2ab24-en)
 
 Embargo date | Launch date
@@ -35,7 +57,7 @@ Tuesday 11 June 2019 at 3:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 7 June 2019 at 0:17
+- [x] Exported to iLibrary Saturday 8 June 2019 at 0:37
 - [x] Exported to Keepeek Thursday 6 June 2019 at 20:56
 
 ### Additional Information
@@ -45,6 +67,50 @@ Tuesday 11 June 2019 at 3:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
+
+------
+
+## [Le renforcement de la mixité sociale à l’école a-t-il un impact sur l’équité des résultats d’apprentissage ?](https://doi.org/10.1787/1ce0ae6a-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 June 2019 at 3:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 8 June 2019 at 0:37
+- [x] Exported to Keepeek Friday 7 June 2019 at 20:58
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Multilingual Summaries for Artificial Intelligence in Society](https://doi.org/10.1787/9f3159b8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 June 2019 at 4:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 8 June 2019 at 0:37
+- [x] Exported to Keepeek Friday 7 June 2019 at 20:58
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* 4 Languages: [Italian](https://doi.org/10.1787/b60a092a-it), [German](https://doi.org/10.1787/2a062033-de), [English](https://doi.org/10.1787/9f3159b8-en), [Spanish](https://doi.org/10.1787/603ce8a2-es)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -58,7 +124,7 @@ Tuesday 11 June 2019 at 4:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 4 June 2019 at 0:23
-- [x] Exported to Keepeek Monday 3 June 2019 at 20:53
+- [x] Exported to Keepeek Friday 7 June 2019 at 20:58
 
 ### Additional Information
 
@@ -67,6 +133,28 @@ Tuesday 11 June 2019 at 4:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+## [Benchmarking Higher Education System Performance](https://doi.org/10.1787/be5514d7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 June 2019 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 8 June 2019 at 0:37
+- [x] Exported to Keepeek Friday 7 June 2019 at 20:58
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
