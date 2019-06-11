@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2019-06-08T06:25:30.7805156+02:00">
+<report name="official-embargoes" generated="2019-06-11T05:50:18.0762663+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -18,754 +18,6 @@
     <cell name="kappa link">Kappa Link</cell>
   </row>
   <row index="1">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/a151fab4-en</cell>
-    <cell name="title">Foreword (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/97d32aa7</cell>
-  </row>
-  <row index="2">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/1885800a-en</cell>
-    <cell name="title">Understanding E-Commerce (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bda7da80</cell>
-  </row>
-  <row index="3">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/33a11fcc-en</cell>
-    <cell name="title">Sales channels and B2C sales by sector, 2012-17 (en)</cell>
-    <cell name="subtitle">As a percentage of all e-commerce firms, averages over time, EU28 (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f29b66c6</cell>
-  </row>
-  <row index="4">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/938435c9-en</cell>
-    <cell name="title">Individuals who participated in e-commerce by age and gender, 2018 (en)</cell>
-    <cell name="subtitle">As a percentage of all individuals aged 16 to 74 (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0098684d</cell>
-  </row>
-  <row index="5">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/7c5f52e8-en</cell>
-    <cell name="title">Products that individuals purchased online from sellers abroad, 2017 (en)</cell>
-    <cell name="subtitle">As a percentage of individuals that purchased online from sellers abroad, EU28 (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e430232e</cell>
-  </row>
-  <row index="6">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/9f0da138-en</cell>
-    <cell name="title">Value of e-commerce in the US and EU28 by sector, 2016 (en)</cell>
-    <cell name="subtitle">Absolute values in terms of turnover (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/83073409</cell>
-  </row>
-  <row index="7">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/3044726f-en</cell>
-    <cell name="title">E-commerce intensity, 2017 (en)</cell>
-    <cell name="subtitle">As a percentage of total turnover (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ded6caa1</cell>
-  </row>
-  <row index="8">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/08b9c0b8-en</cell>
-    <cell name="title">Firm participation and e-commerce turnover by size class, 2008-17 (en)</cell>
-    <cell name="subtitle">As a percentage of enterprises with ten or more people employed and as a percentage of total turnover, EU28 (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/135dfb90</cell>
-  </row>
-  <row index="9">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/ab97035e-en</cell>
-    <cell name="title">Reasons for not shopping online, 2017 (en)</cell>
-    <cell name="subtitle">As a percentage of individuals who ordered products online more than a year ago or never did, EU28 (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9498a3ce</cell>
-  </row>
-  <row index="10">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/eb90b3a1-en</cell>
-    <cell name="title">Abbreviations and Acronyms (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6f525965</cell>
-  </row>
-  <row index="11">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/14a18310-en</cell>
-    <cell name="title">2.20. Individuals who purchased online from sellers in other countries, 2018 (en)</cell>
-    <cell name="subtitle">As a percentage of all individuals aged 16 to 74 (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cde02053</cell>
-  </row>
-  <row index="12">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/c3ad967f-en</cell>
-    <cell name="title">Tapping into New Data Sources (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fed3ff5a</cell>
-  </row>
-  <row index="13">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/968ccc02-en</cell>
-    <cell name="title">Difficulties that EU28 firms encountered when selling to other European countries, 2014 (en)</cell>
-    <cell name="subtitle">As a percentage of firms that sold, used to or tried to sell products online in another EU country (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cc63814f</cell>
-  </row>
-  <row index="14">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/4dc47961-en</cell>
-    <cell name="title">Evolving E-Commerce Business Models (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/99c2de2b</cell>
-  </row>
-  <row index="15">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/dcbabb1c-en</cell>
-    <cell name="title">Executive Summary (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7cad3db1</cell>
-  </row>
-  <row index="16">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/f3f638d5-en</cell>
-    <cell name="title">Enterprises that participated in e-commerce sales to other countries, 2016 (en)</cell>
-    <cell name="subtitle">As a percentage of enterprises that received e-commerce orders over the last calendar year, EU28 (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a7376290</cell>
-  </row>
-  <row index="17">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/c3ad967f-en</cell>
-    <cell name="title">Tapping into New Data Sources (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5ce25ee5</cell>
-  </row>
-  <row index="18">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/65621464-en</cell>
-    <cell name="title">Online sellers, 2017-18 (en)</cell>
-    <cell name="subtitle">As percentage of all firms in the sample (i.e. firms with a Facebook page) (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-06-03T18:53:47Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ca6759f7</cell>
-  </row>
-  <row index="19">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/8dc29aca-en</cell>
-    <cell name="title">Online sellers by sector, 2017-18 (en)</cell>
-    <cell name="subtitle">As percentage of all firms in the sample (i.e. firms with a Facebook page, by sector) (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-06-03T18:53:47Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c942109e</cell>
-  </row>
-  <row index="20">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/8c1e2ccc-en</cell>
-    <cell name="title">Online vs. offline sellers: Challenges of selling to foreign markets (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8cbcb59c</cell>
-  </row>
-  <row index="21">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/f92de8be-en</cell>
-    <cell name="title">E-commerce intensity by sector, 2017 (en)</cell>
-    <cell name="subtitle">As a percentage of total turnover (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/15f49c99</cell>
-  </row>
-  <row index="22">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/23561431-en</cell>
-    <cell name="title">Unpacking E-commerce (en)</cell>
-    <cell name="subtitle">Business Models, Trends and Policies (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-06-03T22:23:06Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/07f71ad8</cell>
-  </row>
-  <row index="23">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/bf2b6277-en</cell>
-    <cell name="title">Tracking E-Commerce Trends (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4e749d10</cell>
-  </row>
-  <row index="24">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/526ab747-en</cell>
-    <cell name="title">Growth in EU28 e-commerce − B2C- vs. B2B-intensive sectors, 2010-17 (en)</cell>
-    <cell name="subtitle">Percentage point change (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c9b1a9b9</cell>
-  </row>
-  <row index="25">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/1885800a-en</cell>
-    <cell name="title">Understanding E-Commerce (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9ccc1e08</cell>
-  </row>
-  <row index="26">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/854a1058-en</cell>
-    <cell name="title">Online sellers by firm size, 2017-18 (en)</cell>
-    <cell name="subtitle">As percentage of all firms in the sample (i.e. firms with a Facebook page) (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-06-03T18:53:47Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d4229e97</cell>
-  </row>
-  <row index="27">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/c068ed1a-en</cell>
-    <cell name="title">Consumer preferences for buying groceries, 2017 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ceb4c898</cell>
-  </row>
-  <row index="28">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/68ef15ab-en</cell>
-    <cell name="title">E-commerce engagement in web sales and EDI by firm size, 2010-17 (en)</cell>
-    <cell name="subtitle">As a percentage, averages over time, EU28 (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6bd4477e</cell>
-  </row>
-  <row index="29">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/6069ec27-en</cell>
-    <cell name="title">Obstacles to selling on the web cited by firms, 2015 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4597349b</cell>
-  </row>
-  <row index="30">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/84b6f5cc-en</cell>
-    <cell name="title">Individuals who participated in e-commerce by household income and educational level, 2018 (en)</cell>
-    <cell name="subtitle">As a percentage of all individuals aged 16 to 74 (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/01d64471</cell>
-  </row>
-  <row index="31">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/23561431-en</cell>
-    <cell name="title">Unpacking E-commerce (en)</cell>
-    <cell name="subtitle">Business Models, Trends and Policies (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-06-03T22:23:06Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1a863efe</cell>
-  </row>
-  <row index="32">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/dcbabb1c-en</cell>
-    <cell name="title">Executive Summary (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9064ae68</cell>
-  </row>
-  <row index="33">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/ed1560ad-en</cell>
-    <cell name="title">Firm participation in e-commerce by size, 2017 (en)</cell>
-    <cell name="subtitle">As a percentage of enterprises with ten or more persons employed (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d076f08b</cell>
-  </row>
-  <row index="34">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/eb90b3a1-en</cell>
-    <cell name="title">Abbreviations and Acronyms (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/73dfcf64</cell>
-  </row>
-  <row index="35">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/2f652f9c-en</cell>
-    <cell name="title">Online vs. offline exporters: Export intensity and number of export destinations (en)</cell>
-    <cell name="subtitle">As percentage of all exporters in the sample (i.e. exporters with a Facebook page) (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-06-03T18:53:47Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c177896c</cell>
-  </row>
-  <row index="36">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/bf2b6277-en</cell>
-    <cell name="title">Tracking E-Commerce Trends (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6185b74a</cell>
-  </row>
-  <row index="37">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/4dc47961-en</cell>
-    <cell name="title">Evolving E-Commerce Business Models (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d7d045f</cell>
-  </row>
-  <row index="38">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/65fe051b-en</cell>
-    <cell name="title">Difficulties experienced when making web sales to other EU countries, 2016 (en)</cell>
-    <cell name="subtitle">As a percentage of firms with web sales to other EU countries, EU28 (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/623b827d</cell>
-  </row>
-  <row index="39">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/ef645d9a-en</cell>
-    <cell name="title">Broadband access and participation in e-commerce by rural and urban areas, 2018 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dc4ceae0</cell>
-  </row>
-  <row index="40">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/b00ddf18-en</cell>
-    <cell name="title">Domestic online credit card expenditure in Spain by product category, 2016 (en)</cell>
-    <cell name="subtitle">As a percentage of total domestic online credit card expenditure, BBVA customers (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fa3188d6</cell>
-  </row>
-  <row index="41">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/8b831559-en</cell>
-    <cell name="title">Enterprises that participated in e-commerce sales to other countries by sector, 2016 (en)</cell>
-    <cell name="subtitle">As a percentage of enterprises that received e-commerce orders over the last calendar year, EU28 (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d36ee1f8</cell>
-  </row>
-  <row index="42">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/23561431-en</cell>
-    <cell name="title">Unpacking E-commerce (en)</cell>
-    <cell name="subtitle">Business Models, Trends and Policies (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-06-03T22:23:06Z</cell>
-    <cell name="freepreview last export date">2019-06-03T18:53:47Z</cell>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c6cc6c52</cell>
-  </row>
-  <row index="43">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/a151fab4-en</cell>
-    <cell name="title">Foreword (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f737289a</cell>
-  </row>
-  <row index="44">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/17ad3988-en</cell>
-    <cell name="title">Problems that EU28 firms expect if they were to sell products online, 2015 (en)</cell>
-    <cell name="subtitle">As a percentage of all firms not selling online (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Spreadsheet</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-06</cell>
-    <cell name="embargo date">2019-06-06T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-05-31T22:28:05Z</cell>
-    <cell name="freepreview last export date">2019-05-31T18:59:16Z</cell>
-    <cell name="catalogue type">Graph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/58577f4a</cell>
-  </row>
-  <row index="45">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b9f8d292-en</cell>
     <cell name="title">Labour supply of older people in advance economies: the impact of changes to statutory retirement ages (en)</cell>
@@ -782,7 +34,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e944542</cell>
   </row>
-  <row index="46">
+  <row index="2">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/35d2ab24-en</cell>
     <cell name="title">Does greater social diversity in schools have an impact on equity in learning outcomes? (en)</cell>
@@ -799,7 +51,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4898ca4a</cell>
   </row>
-  <row index="47">
+  <row index="3">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/1ce0ae6a-fr</cell>
     <cell name="title">Le renforcement de la mixité sociale à l’école a-t-il un impact sur l’équité des résultats d’apprentissage ? (fr)</cell>
@@ -816,7 +68,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/149b25bb</cell>
   </row>
-  <row index="48">
+  <row index="4">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/f169ea9d-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -833,7 +85,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53ecbc9b</cell>
   </row>
-  <row index="49">
+  <row index="5">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/79edf9d8-en</cell>
     <cell name="title">AI applications (en)</cell>
@@ -850,7 +102,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/188c0b63</cell>
   </row>
-  <row index="50">
+  <row index="6">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/eee7181e-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -867,7 +119,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/68caf962</cell>
   </row>
-  <row index="51">
+  <row index="7">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/eedfee77-en</cell>
     <cell name="title">Artificial Intelligence in Society (en)</cell>
@@ -884,7 +136,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/83069df9</cell>
   </row>
-  <row index="52">
+  <row index="8">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/89af43d8-en</cell>
     <cell name="title">Preface (en)</cell>
@@ -901,7 +153,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a0696a29</cell>
   </row>
-  <row index="53">
+  <row index="9">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/9f3159b8-en</cell>
     <cell name="title">Artificial Intelligence in Society (Summary in English) (en)</cell>
@@ -918,7 +170,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fc535d63</cell>
   </row>
-  <row index="54">
+  <row index="10">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/2a062033-de</cell>
     <cell name="title">Artificial Intelligence in Society (Summary in German) (en) | Künstliche Intelligenz in der Gesellschaft (de)</cell>
@@ -935,7 +187,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0eb23a05</cell>
   </row>
-  <row index="55">
+  <row index="11">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/9f3159b8-en</cell>
     <cell name="title">Artificial Intelligence in Society (Summary in English) (en)</cell>
@@ -952,7 +204,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ac783d3d</cell>
   </row>
-  <row index="56">
+  <row index="12">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/cf3f3be0-en</cell>
     <cell name="title">AI policies and initiatives (en)</cell>
@@ -969,7 +221,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1b968dc8</cell>
   </row>
-  <row index="57">
+  <row index="13">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/f169ea9d-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -986,7 +238,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/794eeb29</cell>
   </row>
-  <row index="58">
+  <row index="14">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/3abc27f1-en</cell>
     <cell name="title">The economic landscape (en)</cell>
@@ -1003,7 +255,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ef424bdb</cell>
   </row>
-  <row index="59">
+  <row index="15">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/3c7ff2c0-en</cell>
     <cell name="title">Acronyms, abbreviations and currencies (en)</cell>
@@ -1020,7 +272,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9cfcc74b</cell>
   </row>
-  <row index="60">
+  <row index="16">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/b60a092a-it</cell>
     <cell name="title">Artificial Intelligence in Society (Summary in Italian) (en) | L’intelligenza artificiale nella società (it)</cell>
@@ -1037,7 +289,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9e7f3613</cell>
   </row>
-  <row index="61">
+  <row index="17">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/2a062033-de</cell>
     <cell name="title">Artificial Intelligence in Society (Summary in German) (en) | Künstliche Intelligenz in der Gesellschaft (de)</cell>
@@ -1054,7 +306,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/44b66bbe</cell>
   </row>
-  <row index="62">
+  <row index="18">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/2a062033-de</cell>
     <cell name="title">Artificial Intelligence in Society (Summary in German) (en) | Künstliche Intelligenz in der Gesellschaft (de)</cell>
@@ -1071,7 +323,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c446817</cell>
   </row>
-  <row index="63">
+  <row index="19">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/8b303b6f-en</cell>
     <cell name="title">The technical landscape (en)</cell>
@@ -1088,7 +340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7197ca36</cell>
   </row>
-  <row index="64">
+  <row index="20">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/b60a092a-it</cell>
     <cell name="title">Artificial Intelligence in Society (Summary in Italian) (en) | L’intelligenza artificiale nella società (it)</cell>
@@ -1105,7 +357,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d7ba49b6</cell>
   </row>
-  <row index="65">
+  <row index="21">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/603ce8a2-es</cell>
     <cell name="title">Artificial Intelligence in Society (Summary in Spanish) (en) | La inteligencia artificial en la sociedad (es)</cell>
@@ -1122,7 +374,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/00f90bf0</cell>
   </row>
-  <row index="66">
+  <row index="22">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/969ff07f-en</cell>
     <cell name="title">Public policy considerations (en)</cell>
@@ -1139,7 +391,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7e7f1923</cell>
   </row>
-  <row index="67">
+  <row index="23">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/eedfee77-en</cell>
     <cell name="title">Artificial Intelligence in Society (en)</cell>
@@ -1156,7 +408,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec650cb1</cell>
   </row>
-  <row index="68">
+  <row index="24">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/3abc27f1-en</cell>
     <cell name="title">The economic landscape (en)</cell>
@@ -1173,7 +425,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b87402c</cell>
   </row>
-  <row index="69">
+  <row index="25">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/79edf9d8-en</cell>
     <cell name="title">AI applications (en)</cell>
@@ -1190,7 +442,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cda22ecc</cell>
   </row>
-  <row index="70">
+  <row index="26">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/cf3f3be0-en</cell>
     <cell name="title">AI policies and initiatives (en)</cell>
@@ -1207,7 +459,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c40adb52</cell>
   </row>
-  <row index="71">
+  <row index="27">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/89af43d8-en</cell>
     <cell name="title">Preface (en)</cell>
@@ -1224,7 +476,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4c5f74e7</cell>
   </row>
-  <row index="72">
+  <row index="28">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/8b303b6f-en</cell>
     <cell name="title">The technical landscape (en)</cell>
@@ -1241,7 +493,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b38586ca</cell>
   </row>
-  <row index="73">
+  <row index="29">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/eedfee77-en</cell>
     <cell name="title">Artificial Intelligence in Society (en)</cell>
@@ -1258,7 +510,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/91794729</cell>
   </row>
-  <row index="74">
+  <row index="30">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/3c7ff2c0-en</cell>
     <cell name="title">Acronyms, abbreviations and currencies (en)</cell>
@@ -1275,7 +527,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9bd1a353</cell>
   </row>
-  <row index="75">
+  <row index="31">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/603ce8a2-es</cell>
     <cell name="title">Artificial Intelligence in Society (Summary in Spanish) (en) | La inteligencia artificial en la sociedad (es)</cell>
@@ -1292,7 +544,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b9a38b52</cell>
   </row>
-  <row index="76">
+  <row index="32">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/b60a092a-it</cell>
     <cell name="title">Artificial Intelligence in Society (Summary in Italian) (en) | L’intelligenza artificiale nella società (it)</cell>
@@ -1309,7 +561,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fe5b31cc</cell>
   </row>
-  <row index="77">
+  <row index="33">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/969ff07f-en</cell>
     <cell name="title">Public policy considerations (en)</cell>
@@ -1326,7 +578,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/05ae41e6</cell>
   </row>
-  <row index="78">
+  <row index="34">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/9f3159b8-en</cell>
     <cell name="title">Artificial Intelligence in Society (Summary in English) (en)</cell>
@@ -1343,7 +595,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1585b82e</cell>
   </row>
-  <row index="79">
+  <row index="35">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/603ce8a2-es</cell>
     <cell name="title">Artificial Intelligence in Society (Summary in Spanish) (en) | La inteligencia artificial en la sociedad (es)</cell>
@@ -1360,7 +612,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c3934565</cell>
   </row>
-  <row index="80">
+  <row index="36">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/eee7181e-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1377,7 +629,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/160062e5</cell>
   </row>
-  <row index="81">
+  <row index="37">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/be5514d7-en</cell>
     <cell name="title">Benchmarking Higher Education System Performance (en)</cell>
@@ -1394,7 +646,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6e4d2696</cell>
   </row>
-  <row index="82">
+  <row index="38">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/2bf079ba-en</cell>
     <cell name="title">OECD Investment Policy Reviews: Croatia 2019 (en)</cell>
@@ -1411,7 +663,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/adb255c5</cell>
   </row>
-  <row index="83">
+  <row index="39">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/028f1f67-en</cell>
     <cell name="title">Measures reported for transparency by Croatia (en)</cell>
@@ -1428,7 +680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/17ae7b43</cell>
   </row>
-  <row index="84">
+  <row index="40">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/9e7007b4-en</cell>
     <cell name="title">Croatia’s competitiveness: Challenges and opportunities (en)</cell>
@@ -1445,7 +697,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27d0236c</cell>
   </row>
-  <row index="85">
+  <row index="41">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/39e6df56-en</cell>
     <cell name="title">Investment trends and sustainable growth in Croatia (en)</cell>
@@ -1462,7 +714,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d9bf4f82</cell>
   </row>
-  <row index="86">
+  <row index="42">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/e704c4e8-en</cell>
     <cell name="title">Promoting and enabling responsible business conduct as a strategic choice (en)</cell>
@@ -1479,7 +731,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/07fd3f41</cell>
   </row>
-  <row index="87">
+  <row index="43">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/242fd351-en</cell>
     <cell name="title">The protection of investment in Croatia (en)</cell>
@@ -1496,7 +748,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f5cc690</cell>
   </row>
-  <row index="88">
+  <row index="44">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/242fd351-en</cell>
     <cell name="title">The protection of investment in Croatia (en)</cell>
@@ -1513,7 +765,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63241568</cell>
   </row>
-  <row index="89">
+  <row index="45">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/7d6313ce-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1530,7 +782,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/72ddc902</cell>
   </row>
-  <row index="90">
+  <row index="46">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/cd3828dc-en</cell>
     <cell name="title">Additional figures and tables for Chapter 2 (en)</cell>
@@ -1547,7 +799,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/de6c4540</cell>
   </row>
-  <row index="91">
+  <row index="47">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/028f1f67-en</cell>
     <cell name="title">Measures reported for transparency by Croatia (en)</cell>
@@ -1564,7 +816,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5fa8aa85</cell>
   </row>
-  <row index="92">
+  <row index="48">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/2bf079ba-en</cell>
     <cell name="title">OECD Investment Policy Reviews: Croatia 2019 (en)</cell>
@@ -1581,7 +833,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/96b02d97</cell>
   </row>
-  <row index="93">
+  <row index="49">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/2bf079ba-en</cell>
     <cell name="title">OECD Investment Policy Reviews: Croatia 2019 (en)</cell>
@@ -1598,7 +850,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/78c8c186</cell>
   </row>
-  <row index="94">
+  <row index="50">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/d8592403-en</cell>
     <cell name="title">Croatia’s regulatory framework for investment and national treatment (en)</cell>
@@ -1615,7 +867,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da5c8f2d</cell>
   </row>
-  <row index="95">
+  <row index="51">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/7d6313ce-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1632,7 +884,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27538a2b</cell>
   </row>
-  <row index="96">
+  <row index="52">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/ffdd0f5e-en</cell>
     <cell name="title">Investment promotion and facilitation in Croatia (en)</cell>
@@ -1649,7 +901,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/432c65d1</cell>
   </row>
-  <row index="97">
+  <row index="53">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/035af357-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -1666,7 +918,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2405e07d</cell>
   </row>
-  <row index="98">
+  <row index="54">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/e704c4e8-en</cell>
     <cell name="title">Promoting and enabling responsible business conduct as a strategic choice (en)</cell>
@@ -1683,7 +935,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/60b13d83</cell>
   </row>
-  <row index="99">
+  <row index="55">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/6dc86e97-en</cell>
     <cell name="title">Croatia’s exceptions to the National Treatment Instrument (en)</cell>
@@ -1700,7 +952,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f2c41553</cell>
   </row>
-  <row index="100">
+  <row index="56">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/d8592403-en</cell>
     <cell name="title">Croatia’s regulatory framework for investment and national treatment (en)</cell>
@@ -1717,7 +969,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b14de7db</cell>
   </row>
-  <row index="101">
+  <row index="57">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/5e8919b2-en</cell>
     <cell name="title">Public governance (en)</cell>
@@ -1734,7 +986,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e038b31a</cell>
   </row>
-  <row index="102">
+  <row index="58">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/f18d6fe1-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -1751,7 +1003,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5cea43eb</cell>
   </row>
-  <row index="103">
+  <row index="59">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/39e6df56-en</cell>
     <cell name="title">Investment trends and sustainable growth in Croatia (en)</cell>
@@ -1768,7 +1020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9c0568bc</cell>
   </row>
-  <row index="104">
+  <row index="60">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/5e8919b2-en</cell>
     <cell name="title">Public governance (en)</cell>
@@ -1785,7 +1037,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/be93e750</cell>
   </row>
-  <row index="105">
+  <row index="61">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/01f6df6f-en</cell>
     <cell name="title">Preface (en)</cell>
@@ -1802,7 +1054,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2629629b</cell>
   </row>
-  <row index="106">
+  <row index="62">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/01f6df6f-en</cell>
     <cell name="title">Preface (en)</cell>
@@ -1819,7 +1071,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f56ebaa7</cell>
   </row>
-  <row index="107">
+  <row index="63">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/e5efb1cb-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -1836,7 +1088,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bceb535e</cell>
   </row>
-  <row index="108">
+  <row index="64">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/f18d6fe1-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -1853,7 +1105,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d508bd14</cell>
   </row>
-  <row index="109">
+  <row index="65">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/6dc86e97-en</cell>
     <cell name="title">Croatia’s exceptions to the National Treatment Instrument (en)</cell>
@@ -1870,7 +1122,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2d579f8f</cell>
   </row>
-  <row index="110">
+  <row index="66">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/ffdd0f5e-en</cell>
     <cell name="title">Investment promotion and facilitation in Croatia (en)</cell>
@@ -1887,7 +1139,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c17252c8</cell>
   </row>
-  <row index="111">
+  <row index="67">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/e5efb1cb-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -1904,7 +1156,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7e13a125</cell>
   </row>
-  <row index="112">
+  <row index="68">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/9e7007b4-en</cell>
     <cell name="title">Croatia’s competitiveness: Challenges and opportunities (en)</cell>
@@ -1921,7 +1173,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/64e8d221</cell>
   </row>
-  <row index="113">
+  <row index="69">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/cd3828dc-en</cell>
     <cell name="title">Additional figures and tables for Chapter 2 (en)</cell>
@@ -1938,7 +1190,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7b9c0089</cell>
   </row>
-  <row index="114">
+  <row index="70">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/035af357-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -1955,7 +1207,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5efe6b94</cell>
   </row>
-  <row index="115">
+  <row index="71">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/2bf079ba-en</cell>
     <cell name="title">OECD Investment Policy Reviews: Croatia 2019 (en)</cell>
@@ -1972,7 +1224,41 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fc5e5c04</cell>
   </row>
-  <row index="116">
+  <row index="72">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/1d0bc92a-en</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (en)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-10T22:15:01Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3e1dd9b1</cell>
+  </row>
+  <row index="73">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/5bb21b3a-fr</cell>
+    <cell name="title">Résultats de TALIS 2018 (Volume I) (fr)</cell>
+    <cell name="subtitle">Des enseignants et chefs d’établissement en formation à vie (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-10T22:15:01Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/50deccb8</cell>
+  </row>
+  <row index="74">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/67dba2bb-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Canada (Stage 2) (en)</cell>
@@ -1989,7 +1275,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/311e26d1</cell>
   </row>
-  <row index="117">
+  <row index="75">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/4fed4933-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Argentina (Stage 1) (en)</cell>
@@ -2006,7 +1292,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/495ecff0</cell>
   </row>
-  <row index="118">
+  <row index="76">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9dc5933f-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Croatia (Stage 1) (en)</cell>

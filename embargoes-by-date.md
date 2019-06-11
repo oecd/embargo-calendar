@@ -2,37 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 8 June 2019 at 6:25* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 11 June 2019 at 5:50* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [6 June 2019](#6-june-2019)
 * [11 June 2019](#11-june-2019)
 * [18 June 2019](#18-june-2019)
-
-------
-
-# 6 June 2019
-
-## [Unpacking E-commerce - Business Models, Trends and Policies](https://doi.org/10.1787/23561431-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 6 June 2019 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 4 June 2019 at 0:23
-- [x] Exported to Keepeek Monday 3 June 2019 at 20:53
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
+* [19 June 2019](#19-june-2019)
 
 ------
 
@@ -193,5 +167,53 @@ Tuesday 18 June 2019 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 19 June 2019
+
+## [TALIS 2018 Results (Volume I) - Teachers and School Leaders as Lifelong Learners](https://doi.org/10.1787/1d0bc92a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 June 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 11 June 2019 at 0:15
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Résultats de TALIS 2018 (Volume I) - Des enseignants et chefs d’établissement en formation à vie](https://doi.org/10.1787/5bb21b3a-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 June 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 11 June 2019 at 0:15
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
