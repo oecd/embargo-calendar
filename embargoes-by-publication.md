@@ -2,9 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 11 June 2019 at 5:50* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 12 June 2019 at 6:40* | [See embargoes by date](embargoes-by-date.md) |
 
-## [Labour supply of older people in advance economies: the impact of changes to statutory retirement ages](https://doi.org/10.1787/b9f8d292-en)
+## [Labour supply of older people in advanced economies: the impact of changes to statutory retirement ages](https://doi.org/10.1787/b9f8d292-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -13,8 +13,8 @@ Tuesday 11 June 2019 at 0:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 8 June 2019 at 0:37
-- [x] Exported to Keepeek Friday 7 June 2019 at 20:58
+- [x] Exported to iLibrary Wednesday 12 June 2019 at 0:43
+- [x] Exported to Keepeek Tuesday 11 June 2019 at 21:01
 
 ### Additional Information
 
@@ -79,7 +79,7 @@ Tuesday 11 June 2019 at 4:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 8 June 2019 at 0:37
+- [x] Exported to iLibrary Wednesday 12 June 2019 at 0:43
 - [x] Exported to Keepeek Friday 7 June 2019 at 20:58
 
 ### Additional Information
@@ -123,7 +123,7 @@ Tuesday 11 June 2019 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 8 June 2019 at 0:37
+- [x] Exported to iLibrary Wednesday 12 June 2019 at 0:43
 - [x] Exported to Keepeek Friday 7 June 2019 at 20:58
 
 ### Additional Information
@@ -133,6 +133,28 @@ Tuesday 11 June 2019 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Disability and Development Report 2018 - Realizing the Sustainable Development Goals by, for and with Persons with Disabilities](https://doi.org/10.18356/a0b1b1d1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 12 June 2019 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 12 June 2019 at 0:43
+- [x] Exported to Keepeek Tuesday 11 June 2019 at 21:01
+
+### Additional Information
+
+* Directorate: *Non applicable*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, PDF*
 
 ------
 
@@ -167,7 +189,7 @@ Wednesday 19 June 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 11 June 2019 at 0:15
+- [x] Exported to iLibrary Wednesday 12 June 2019 at 0:43
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -189,7 +211,7 @@ Wednesday 19 June 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 11 June 2019 at 0:15
+- [x] Exported to iLibrary Wednesday 12 June 2019 at 0:43
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -198,6 +220,28 @@ Wednesday 19 June 2019 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: New Zealand 2019](https://doi.org/10.1787/b0b94dbd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 June 2019 at 21:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 12 June 2019 at 0:43
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
