@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2019-06-13T06:22:08.4390053+02:00">
+<report name="official-embargoes" generated="2019-06-14T05:50:56.1583566+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -18,23 +18,6 @@
     <cell name="kappa link">Kappa Link</cell>
   </row>
   <row index="1">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/be5514d7-en</cell>
-    <cell name="title">Benchmarking Higher Education System Performance (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-06-11</cell>
-    <cell name="embargo date">2019-06-11T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-06-11T22:43:27Z</cell>
-    <cell name="freepreview last export date">2019-06-07T18:58:27Z</cell>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6e4d2696</cell>
-  </row>
-  <row index="2">
     <cell name="directorate">Non applicable</cell>
     <cell name="doi">10.18356/8571cad5-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -51,7 +34,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/42a25dbb</cell>
   </row>
-  <row index="3">
+  <row index="2">
     <cell name="directorate">Non applicable</cell>
     <cell name="doi">10.18356/661eec85-en</cell>
     <cell name="title">Introduction (en)</cell>
@@ -68,7 +51,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9af7b644</cell>
   </row>
-  <row index="4">
+  <row index="3">
     <cell name="directorate">Non applicable</cell>
     <cell name="doi">10.18356/a0b1b1d1-en</cell>
     <cell name="title">Disability and Development Report 2018 (en)</cell>
@@ -85,7 +68,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b2087c61</cell>
   </row>
-  <row index="5">
+  <row index="4">
     <cell name="directorate">Non applicable</cell>
     <cell name="doi">10.18356/c731a48f-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -102,7 +85,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/101309cd</cell>
   </row>
-  <row index="6">
+  <row index="5">
     <cell name="directorate">Non applicable</cell>
     <cell name="doi">10.18356/11055956-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -119,7 +102,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a103d0c2</cell>
   </row>
-  <row index="7">
+  <row index="6">
     <cell name="directorate">Non applicable</cell>
     <cell name="doi">10.18356/f3ed6f04-en</cell>
     <cell name="title">Overview of the history of the work of the United Nations towards disability-inclusive, accessible and sustainable society and development (en)</cell>
@@ -136,7 +119,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/687eb795</cell>
   </row>
-  <row index="8">
+  <row index="7">
     <cell name="directorate">Non applicable</cell>
     <cell name="doi">10.18356/a0b1b1d1-en</cell>
     <cell name="title">Disability and Development Report 2018 (en)</cell>
@@ -152,6 +135,23 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec471e75</cell>
+  </row>
+  <row index="8">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/7ddddd07-en</cell>
+    <cell name="title">Levelling the playing field (en)</cell>
+    <cell name="subtitle">Dissecting the gender gap in the funding of start-ups (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-18</cell>
+    <cell name="embargo date">2019-06-18T03:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-13T22:27:39Z</cell>
+    <cell name="freepreview last export date">2019-06-13T18:56:26Z</cell>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/020fce10</cell>
   </row>
   <row index="9">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
@@ -2132,14 +2132,14 @@
     <cell name="subtitle">Des enseignants et chefs d’établissement en formation à vie (fr)</cell>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2019-06-19</cell>
     <cell name="embargo date">2019-06-19T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-06-11T22:43:27Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2019-06-13T22:27:39Z</cell>
+    <cell name="freepreview last export date">2019-06-13T18:56:26Z</cell>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/50deccb8</cell>
   </row>
   <row index="126">

@@ -2,39 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 13 June 2019 at 6:22* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 14 June 2019 at 5:50* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [11 June 2019](#11-june-2019)
 * [12 June 2019](#12-june-2019)
 * [18 June 2019](#18-june-2019)
 * [19 June 2019](#19-june-2019)
 * [24 June 2019](#24-june-2019)
-
-------
-
-# 11 June 2019
-
-## [Benchmarking Higher Education System Performance](https://doi.org/10.1787/be5514d7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 June 2019 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 12 June 2019 at 0:43
-- [x] Exported to Keepeek Friday 7 June 2019 at 20:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -65,6 +38,28 @@ Wednesday 12 June 2019 at 12:00 | no launch event
 ------
 
 # 18 June 2019
+
+## [Levelling the playing field - Dissecting the gender gap in the funding of start-ups](https://doi.org/10.1787/7ddddd07-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 June 2019 at 3:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 14 June 2019 at 0:27
+- [x] Exported to Keepeek Thursday 13 June 2019 at 20:56
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
 
 ## [OECD Investment Policy Reviews: Croatia 2019](https://doi.org/10.1787/2bf079ba-en)
 
@@ -122,15 +117,15 @@ Wednesday 19 June 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 12 June 2019 at 0:43
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 14 June 2019 at 0:27
+- [x] Exported to Keepeek Thursday 13 June 2019 at 20:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 

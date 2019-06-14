@@ -2,29 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 13 June 2019 at 6:22* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Benchmarking Higher Education System Performance](https://doi.org/10.1787/be5514d7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 June 2019 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 12 June 2019 at 0:43
-- [x] Exported to Keepeek Friday 7 June 2019 at 20:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Friday 14 June 2019 at 5:50* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Disability and Development Report 2018 - Realizing the Sustainable Development Goals by, for and with Persons with Disabilities](https://doi.org/10.18356/a0b1b1d1-en)
 
@@ -45,6 +23,28 @@ Wednesday 12 June 2019 at 12:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, PDF*
+
+------
+
+## [Levelling the playing field - Dissecting the gender gap in the funding of start-ups](https://doi.org/10.1787/7ddddd07-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 June 2019 at 3:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 14 June 2019 at 0:27
+- [x] Exported to Keepeek Thursday 13 June 2019 at 20:56
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -100,15 +100,15 @@ Wednesday 19 June 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 12 June 2019 at 0:43
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 14 June 2019 at 0:27
+- [x] Exported to Keepeek Thursday 13 June 2019 at 20:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
