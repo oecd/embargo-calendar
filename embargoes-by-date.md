@@ -2,38 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 14 June 2019 at 5:50* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Saturday 15 June 2019 at 6:20* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 June 2019](#12-june-2019)
 * [18 June 2019](#18-june-2019)
 * [19 June 2019](#19-june-2019)
 * [24 June 2019](#24-june-2019)
-
-------
-
-# 12 June 2019
-
-## [Disability and Development Report 2018 - Realizing the Sustainable Development Goals by, for and with Persons with Disabilities](https://doi.org/10.18356/a0b1b1d1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 12 June 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 12 June 2019 at 0:43
-- [x] Exported to Keepeek Tuesday 11 June 2019 at 21:01
-
-### Additional Information
-
-* Directorate: *Non applicable*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, PDF*
-
-------
 
 ------
 

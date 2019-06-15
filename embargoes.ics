@@ -2,53 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.18356/a0b1b1d1-end3e149
-SUMMARY:Disability and Development Report 2018 -
-  Realizing the Sustainable Development G
- oals by, for and with Persons with Disab
- ilities
-DESCRIPTION:*Disability and Development Report 2018 
- - Realizing the Sustainable Development 
- Goals by, for and with Persons with Disa
- bilities*\n\nDirectorate: Non applicable
- \nLanguage: English\nDOI: https://doi.or
- g/10.18356/a0b1b1d1-en\nPublication type
- : Stand-alone monograph\nReleased as: eP
- ub, PDF\n\nEmbargo date/time: Wednesday,
-  12 June 2019, 12:00 (GMT)\n\n\niLibrary
-  export: Tuesday, 11 June 2019, 22:43 (G
- MT)\nFreepreview export: Tuesday, 11 Jun
- e 2019, 19:01 (GMT)\nFTI loaded: ✓\n\nFo
- r more information see: https://github.c
- om/oecd/embargo-calendar/blob/master/emb
- argoes-by-publication.md.\n\nPlease note
- : This information was correct as of thi
- s morning at 5:50, it is updated each ni
- ght; therefore any subsequent updates ma
- y not yet be visible here. Also, please 
- be aware that the different released med
- ia (PDF, HTML, etc.) are not necessarily
-  released at the same time. For complete
-  and up-to-date information see here: ht
- tp://kappa.oecd.org/v3/search?term=a0b1b
- 1d1-en.
-DTSTAMP:20190614T055059Z
-DTSTART:20190612T120000Z
-DTEND:20190612T121500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Disability and Development Rep
- ort 2018 - Realizing the Sustainable Dev
- elopment Goals by, for and with Persons 
- with Disabilities
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/7ddddd07-end3e391
+UID:10.1787/7ddddd07-end3e53
 SUMMARY:Levelling the playing field - Dissecting
   the gender gap in the funding of start-
  ups
@@ -67,7 +21,7 @@ DESCRIPTION:*Levelling the playing field - Dissectin
  tps://github.com/oecd/embargo-calendar/b
  lob/master/embargoes-by-publication.md.\
  n\nPlease note: This information was cor
- rect as of this morning at 5:50, it is u
+ rect as of this morning at 6:20, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -76,7 +30,7 @@ DESCRIPTION:*Levelling the playing field - Dissectin
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=7ddddd07-en.
-DTSTAMP:20190614T055059Z
+DTSTAMP:20190615T062101Z
 DTSTART:20190618T030000Z
 DTEND:20190618T031500Z
 TRANSP:TRANSPARENT
@@ -91,7 +45,7 @@ DESCRIPTION:Reminder: Levelling the playing field -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2bf079ba-end3e868
+UID:10.1787/2bf079ba-end3e530
 SUMMARY:OECD Investment Policy Reviews: Croatia 
  2019
 DESCRIPTION:*OECD Investment Policy Reviews: Croatia
@@ -108,8 +62,8 @@ DESCRIPTION:*OECD Investment Policy Reviews: Croatia
  ion see: https://github.com/oecd/embargo
  -calendar/blob/master/embargoes-by-publi
  cation.md.\n\nPlease note: This informat
- ion was correct as of this morning at 5:
- 50, it is updated each night; therefore 
+ ion was correct as of this morning at 6:
+ 20, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -117,7 +71,7 @@ DESCRIPTION:*OECD Investment Policy Reviews: Croatia
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=2bf079ba-en.
-DTSTAMP:20190614T055059Z
+DTSTAMP:20190615T062101Z
 DTSTART:20190618T070000Z
 DTEND:20190618T071500Z
 TRANSP:TRANSPARENT
@@ -131,7 +85,7 @@ DESCRIPTION:Reminder: OECD Investment Policy Reviews
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1d0bc92a-end3e5556
+UID:10.1787/1d0bc92a-end3e5218
 SUMMARY:TALIS 2018 Results (Volume I) - Teachers
   and School Leaders as Lifelong Learners
 DESCRIPTION:*TALIS 2018 Results (Volume I) - Teacher
@@ -149,7 +103,7 @@ DESCRIPTION:*TALIS 2018 Results (Volume I) - Teacher
  thub.com/oecd/embargo-calendar/blob/mast
  er/embargoes-by-publication.md.\n\nPleas
  e note: This information was correct as 
- of this morning at 5:50, it is updated e
+ of this morning at 6:20, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -158,7 +112,7 @@ DESCRIPTION:*TALIS 2018 Results (Volume I) - Teacher
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =1d0bc92a-en.
-DTSTAMP:20190614T055059Z
+DTSTAMP:20190615T062101Z
 DTSTART:20190619T090000Z
 DTEND:20190619T091500Z
 TRANSP:TRANSPARENT
@@ -173,7 +127,7 @@ DESCRIPTION:Reminder: TALIS 2018 Results (Volume I)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5bb21b3a-frd3e6047
+UID:10.1787/5bb21b3a-frd3e5708
 SUMMARY:Résultats de TALIS 2018 (Volume I) - Des
   enseignants et chefs d’établissement en
   formation à vie
@@ -192,7 +146,7 @@ DESCRIPTION:*Résultats de TALIS 2018 (Volume I) - De
  ithub.com/oecd/embargo-calendar/blob/mas
  ter/embargoes-by-publication.md.\n\nPlea
  se note: This information was correct as
-  of this morning at 5:50, it is updated 
+  of this morning at 6:20, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -201,7 +155,7 @@ DESCRIPTION:*Résultats de TALIS 2018 (Volume I) - De
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=5bb21b3a-fr.
-DTSTAMP:20190614T055059Z
+DTSTAMP:20190615T062101Z
 DTSTART:20190619T090000Z
 DTEND:20190619T091500Z
 TRANSP:TRANSPARENT
@@ -216,7 +170,7 @@ DESCRIPTION:Reminder: Résultats de TALIS 2018 (Volum
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b0b94dbd-end3e6924
+UID:10.1787/b0b94dbd-end3e6585
 SUMMARY:OECD Economic Surveys: New Zealand 2019
 DESCRIPTION:*OECD Economic Surveys: New Zealand 2019
  *\n\nDirectorate: Economics Department\n
@@ -231,7 +185,7 @@ DESCRIPTION:*OECD Economic Surveys: New Zealand 2019
  /embargo-calendar/blob/master/embargoes-
  by-publication.md.\n\nPlease note: This 
  information was correct as of this morni
- ng at 5:50, it is updated each night; th
+ ng at 6:20, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -239,7 +193,7 @@ DESCRIPTION:*OECD Economic Surveys: New Zealand 2019
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=b0b94dbd-en.
-DTSTAMP:20190614T055059Z
+DTSTAMP:20190615T062101Z
 DTSTART:20190624T210000Z
 DTEND:20190624T211500Z
 TRANSP:TRANSPARENT
