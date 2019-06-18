@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 15 June 2019 at 6:20* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 18 June 2019 at 6:09* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [18 June 2019](#18-june-2019)
 * [19 June 2019](#19-june-2019)
 * [24 June 2019](#24-june-2019)
+* [25 June 2019](#25-june-2019)
 
 ------
 
@@ -69,7 +70,7 @@ Wednesday 19 June 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 June 2019 at 0:30
+- [x] Exported to iLibrary Tuesday 18 June 2019 at 0:28
 - [x] Exported to Keepeek Wednesday 12 June 2019 at 20:57
 
 ### Additional Information
@@ -91,7 +92,7 @@ Wednesday 19 June 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 14 June 2019 at 0:27
+- [x] Exported to iLibrary Tuesday 18 June 2019 at 0:28
 - [x] Exported to Keepeek Thursday 13 June 2019 at 20:56
 
 ### Additional Information
@@ -126,6 +127,32 @@ Monday 24 June 2019 at 21:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+------
+
+# 25 June 2019
+
+## [Open Government in Argentina](https://doi.org/10.1787/1988ccef-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 June 2019 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 June 2019 at 0:28
+- [x] Exported to Keepeek Monday 17 June 2019 at 21:03
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
