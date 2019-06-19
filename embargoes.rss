@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Tue, 18 Jun 2019 06:09:27 GMT</pubDate>
+      <pubDate>Wed, 19 Jun 2019 05:56:57 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -44,7 +44,22 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/1d0bc92a-en-d3e5218</guid>
+         <guid isPermaLink="false">10.1787/0d310598-en-d3e2884</guid>
+         <pubDate>Wed, 19 Jun 2019 11:00:00 GMT</pubDate>
+         <title>TALIS 2018 Results (Volume I) (Summary in English) - Teachers and School Leaders as Lifelong Learners</title>
+         <link>https://doi.org/10.1787/0d310598-en</link>
+         <description>TALIS 2018 Results (Volume I) (Summary in English) - Teachers and School Leaders as Lifelong Learners by Directorate for Education and Skills has an embargo on Wednesday 19 June 2019 at 11:00.</description>
+         <oe:embargoTime>Wed, 19 Jun 2019 11:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Directorate for Education and Skills</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Wednesday, 19 June 2019, 0:17 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport>Tuesday, 18 June 2019, 20:59 (GMT)</oe:freePreviewExport>
+         <oe:catalogueType>Summary</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/1d0bc92a-en-d3e6426</guid>
          <pubDate>Wed, 19 Jun 2019 11:00:00 GMT</pubDate>
          <title>TALIS 2018 Results (Volume I) - Teachers and School Leaders as Lifelong Learners</title>
          <link>https://doi.org/10.1787/1d0bc92a-en</link>
@@ -55,11 +70,11 @@
          <oe:directorate>Directorate for Education and Skills</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Tuesday, 18 June 2019, 0:28 (GMT)</oe:iLibraryExport>
-         <oe:freePreviewExport>Wednesday, 12 June 2019, 20:57 (GMT)</oe:freePreviewExport>
+         <oe:freePreviewExport>Tuesday, 18 June 2019, 20:59 (GMT)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/5bb21b3a-fr-d3e5708</guid>
+         <guid isPermaLink="false">10.1787/5bb21b3a-fr-d3e6917</guid>
          <pubDate>Wed, 19 Jun 2019 11:00:00 GMT</pubDate>
          <title>Résultats de TALIS 2018 (Volume I) - Des enseignants et chefs d’établissement en formation à vie</title>
          <link>https://doi.org/10.1787/5bb21b3a-fr</link>
@@ -70,11 +85,11 @@
          <oe:directorate>Directorate for Education and Skills</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Tuesday, 18 June 2019, 0:28 (GMT)</oe:iLibraryExport>
-         <oe:freePreviewExport>Thursday, 13 June 2019, 20:56 (GMT)</oe:freePreviewExport>
+         <oe:freePreviewExport>Tuesday, 18 June 2019, 20:59 (GMT)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/b0b94dbd-en-d3e6585</guid>
+         <guid isPermaLink="false">10.1787/b0b94dbd-en-d3e7891</guid>
          <pubDate>Mon, 24 Jun 2019 23:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: New Zealand 2019</title>
          <link>https://doi.org/10.1787/b0b94dbd-en</link>
@@ -83,13 +98,13 @@
          <oe:launchTime/>
          <oe:languages>English</oe:languages>
          <oe:directorate>Economics Department</oe:directorate>
-         <oe:ftiLoaded/>
-         <oe:iLibraryExport>Wednesday, 12 June 2019, 0:43 (GMT)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Wednesday, 19 June 2019, 0:17 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport>Tuesday, 18 June 2019, 20:59 (GMT)</oe:freePreviewExport>
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/1988ccef-en-d3e6632</guid>
+         <guid isPermaLink="false">10.1787/1988ccef-en-d3e7939</guid>
          <pubDate>Tue, 25 Jun 2019 16:00:00 GMT</pubDate>
          <title>Open Government in Argentina</title>
          <link>https://doi.org/10.1787/1988ccef-en</link>

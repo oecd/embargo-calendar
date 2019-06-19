@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 18 June 2019 at 6:09* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 19 June 2019 at 5:56* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [18 June 2019](#18-june-2019)
 * [19 June 2019](#19-june-2019)
@@ -61,6 +61,28 @@ Tuesday 18 June 2019 at 7:00 | no launch event
 
 # 19 June 2019
 
+## [Multilingual Summaries for TALIS 2018 Results (Volume I)](https://doi.org/10.1787/0d310598-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 June 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 19 June 2019 at 0:17
+- [x] Exported to Keepeek Tuesday 18 June 2019 at 20:59
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* 9 Languages: [German](https://doi.org/10.1787/2391d271-de), [Arabic](https://doi.org/10.1787/c9813405-ar), [Chinese](https://doi.org/10.1787/304a50fa-zh), [English](https://doi.org/10.1787/0d310598-en), [Japanese](https://doi.org/10.1787/2aa63e00-ja), [Russian](https://doi.org/10.1787/5856a9e5-ru), [Spanish](https://doi.org/10.1787/7762a968-es), [Portuguese](https://doi.org/10.1787/59e2d4ae-pt), [French](https://doi.org/10.1787/276bd3d2-fr)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Formats: *ePub, HTML, PDF*
+
+------
+
 ## [TALIS 2018 Results (Volume I) - Teachers and School Leaders as Lifelong Learners](https://doi.org/10.1787/1d0bc92a-en)
 
 Embargo date | Launch date
@@ -71,7 +93,7 @@ Wednesday 19 June 2019 at 9:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 June 2019 at 0:28
-- [x] Exported to Keepeek Wednesday 12 June 2019 at 20:57
+- [x] Exported to Keepeek Tuesday 18 June 2019 at 20:59
 
 ### Additional Information
 
@@ -93,7 +115,7 @@ Wednesday 19 June 2019 at 9:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 June 2019 at 0:28
-- [x] Exported to Keepeek Thursday 13 June 2019 at 20:56
+- [x] Exported to Keepeek Tuesday 18 June 2019 at 20:59
 
 ### Additional Information
 
@@ -117,15 +139,15 @@ Monday 24 June 2019 at 21:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 12 June 2019 at 0:43
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 19 June 2019 at 0:17
+- [x] Exported to Keepeek Tuesday 18 June 2019 at 20:59
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 

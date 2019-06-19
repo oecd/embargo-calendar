@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2019-06-18T06:09:21.8326813+02:00">
+<report name="official-embargoes" generated="2019-06-19T05:56:49.6683485+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -614,6 +614,23 @@
   </row>
   <row index="36">
     <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/59e2d4ae-pt</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in Portuguese) (en) | Resultados TALIS 2018 (Volume I) (pt)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en) | Professores e Dirigentes Escolares enquanto Estudantes ao Longo da Vida (pt)</cell>
+    <cell name="language">Portuguese</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-18T22:17:01Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bf756883</cell>
+  </row>
+  <row index="37">
+    <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e3deff8b-en</cell>
     <cell name="title">Stays abroad during teacher education (en)</cell>
     <cell name="subtitle">Percentage of lower secondary teachers who went abroad as a student, as part of their teacher education (en)</cell>
@@ -629,7 +646,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e418ff79</cell>
   </row>
-  <row index="37">
+  <row index="38">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/1d0bc92a-en</cell>
     <cell name="title">TALIS 2018 Results (Volume I) (en)</cell>
@@ -646,7 +663,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6e93dc23</cell>
   </row>
-  <row index="38">
+  <row index="39">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/6626bd34-en</cell>
     <cell name="title">Relationship between class time spent on actual teaching and learning and class size (en)</cell>
@@ -663,7 +680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4964cc07</cell>
   </row>
-  <row index="39">
+  <row index="40">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9cdce69e-en</cell>
     <cell name="title">Participation in professional development in classroom management, by teachers’ teaching experience (en)</cell>
@@ -680,7 +697,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/300e6666</cell>
   </row>
-  <row index="40">
+  <row index="41">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/48328bd9-en</cell>
     <cell name="title">Chapter 4 Attracting and Effectively Preparing Candidates (en)</cell>
@@ -697,7 +714,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a53050b2</cell>
   </row>
-  <row index="41">
+  <row index="42">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ca047707-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -709,12 +726,12 @@
     <cell name="embargo date">2019-06-19T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-06-12T22:30:28Z</cell>
-    <cell name="freepreview last export date">2019-06-12T18:57:29Z</cell>
+    <cell name="freepreview last export date">2019-06-18T18:59:25Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/48505d92</cell>
   </row>
-  <row index="42">
+  <row index="43">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5e9bd09b-en</cell>
     <cell name="title">What TALIS 2018 implies for policy (en)</cell>
@@ -726,12 +743,12 @@
     <cell name="embargo date">2019-06-19T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-06-12T22:30:28Z</cell>
-    <cell name="freepreview last export date">2019-06-12T18:57:29Z</cell>
+    <cell name="freepreview last export date">2019-06-18T18:59:25Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/83695a36</cell>
   </row>
-  <row index="43">
+  <row index="44">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/db407b26-en</cell>
     <cell name="title">Requirements for teachers’ professional development in public institutions (en)</cell>
@@ -748,7 +765,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/31d9b9a7</cell>
   </row>
-  <row index="44">
+  <row index="45">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/957842dc-en</cell>
     <cell name="title">Participation in professional development and level of support received (en)</cell>
@@ -765,7 +782,24 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/994426a2</cell>
   </row>
-  <row index="45">
+  <row index="46">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/7762a968-es</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in Spanish) (en) | Resultados de TALIS 2018 (Volumen I) (es)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en) | Docentes y Directores de Centros Educativos como Estudiantes de por Vida (es)</cell>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-18T22:17:01Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/124f97ef</cell>
+  </row>
+  <row index="47">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/19775dd9-en</cell>
     <cell name="title">Relationship between teachers’ job satisfaction and self-efficacy and participation in impactful professional development (en)</cell>
@@ -782,7 +816,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6eac7cd5</cell>
   </row>
-  <row index="46">
+  <row index="48">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/c2037a8f-en</cell>
     <cell name="title">Providing opportunities for continuous development (en)</cell>
@@ -794,12 +828,63 @@
     <cell name="embargo date">2019-06-19T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-06-12T22:30:28Z</cell>
-    <cell name="freepreview last export date">2019-06-12T18:57:29Z</cell>
+    <cell name="freepreview last export date">2019-06-18T18:59:25Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2edc540e</cell>
   </row>
-  <row index="47">
+  <row index="49">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/c9813405-ar</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in Arabic) (en) | نتائج المسح الدولي للتدريس والتعلم (TALES) لسنة 2018 (المجلد الأول) (ar)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en) | المعلّمون ومديرو المدارس كمتعلمين مدى الحياة  (ar)</cell>
+    <cell name="language">Arabic</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-18T22:17:01Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8369c686</cell>
+  </row>
+  <row index="50">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/276bd3d2-fr</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in French) (en) | Résultats de TALIS 2018 (fr)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en) | Des enseignants et chefs d'établissement en formation à vie (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-18T22:17:01Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/95b7c0b7</cell>
+  </row>
+  <row index="51">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/304a50fa-zh</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in Chinese) (en) | 2018年教师教学国际调查（TALIS）结果（第一卷） (zh)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en) | 终生学习的教师和学校领导者 (zh)</cell>
+    <cell name="language">Chinese</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-18T22:17:01Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a4d9c3bb</cell>
+  </row>
+  <row index="52">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/c2037a8f-en</cell>
     <cell name="title">Providing opportunities for continuous development (en)</cell>
@@ -816,7 +901,24 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9f8be123</cell>
   </row>
-  <row index="48">
+  <row index="53">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/304a50fa-zh</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in Chinese) (en) | 2018年教师教学国际调查（TALIS）结果（第一卷） (zh)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en) | 终生学习的教师和学校领导者 (zh)</cell>
+    <cell name="language">Chinese</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-18T22:17:01Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/71ffd470</cell>
+  </row>
+  <row index="54">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d2a4bf35-en</cell>
     <cell name="title">Teaching and learning for the future (en)</cell>
@@ -828,12 +930,12 @@
     <cell name="embargo date">2019-06-19T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-06-12T22:30:28Z</cell>
-    <cell name="freepreview last export date">2019-06-12T18:57:29Z</cell>
+    <cell name="freepreview last export date">2019-06-18T18:59:25Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eae5325c</cell>
   </row>
-  <row index="49">
+  <row index="55">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ca047707-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -850,7 +952,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4be56403</cell>
   </row>
-  <row index="50">
+  <row index="56">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5107a81f-en</cell>
     <cell name="title">School practices related to diversity (en)</cell>
@@ -867,7 +969,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2150f1f9</cell>
   </row>
-  <row index="51">
+  <row index="57">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/dd02af8a-en</cell>
     <cell name="title">Importance of mentoring (en)</cell>
@@ -884,7 +986,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bb0a68eb</cell>
   </row>
-  <row index="52">
+  <row index="58">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/2c0d9903-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -896,12 +998,12 @@
     <cell name="embargo date">2019-06-19T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-06-12T22:30:28Z</cell>
-    <cell name="freepreview last export date">2019-06-12T18:57:29Z</cell>
+    <cell name="freepreview last export date">2019-06-18T18:59:25Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2d86b98a</cell>
   </row>
-  <row index="53">
+  <row index="59">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d63b84c7-en</cell>
     <cell name="title">Controlling disruptive behaviour, by teachers’ teaching experience (en)</cell>
@@ -918,7 +1020,24 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5011bb75</cell>
   </row>
-  <row index="54">
+  <row index="60">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/0d310598-en</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in English) (en)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-18T22:17:01Z</cell>
+    <cell name="freepreview last export date">2019-06-18T18:59:25Z</cell>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4d782be8</cell>
+  </row>
+  <row index="61">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/22b300ff-en</cell>
     <cell name="title">Chapter 3 The Changing Landscape of Teaching (en)</cell>
@@ -935,7 +1054,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5690e40f</cell>
   </row>
-  <row index="55">
+  <row index="62">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/1979e193-en</cell>
     <cell name="title">Characteristics of effective professional development, according to teachers (en)</cell>
@@ -952,7 +1071,24 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/796c025b</cell>
   </row>
-  <row index="56">
+  <row index="63">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/5856a9e5-ru</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in Russian) (en) | Результаты TALIS 2018 (Том I) (ru)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en) | Непрерывное обучение учителей и директоров школ (ru)</cell>
+    <cell name="language">Russian</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f4b0134a</cell>
+  </row>
+  <row index="64">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/f774e0bd-en</cell>
     <cell name="title">Chapter 5 Providing Opportunities for Continuous Development (en)</cell>
@@ -969,7 +1105,58 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ef1b9499</cell>
   </row>
-  <row index="57">
+  <row index="65">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/2391d271-de</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in German) (en) | TALIS 2018 Ergebnisse (Band I) (de)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en) | Lehrer/innen und Schulleiter/innen als lebenslang Lernende (de)</cell>
+    <cell name="language">German</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-18T22:17:01Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b92e53f</cell>
+  </row>
+  <row index="66">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/0d310598-en</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in English) (en)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-18T22:17:01Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/36fa7b22</cell>
+  </row>
+  <row index="67">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/59e2d4ae-pt</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in Portuguese) (en) | Resultados TALIS 2018 (Volume I) (pt)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en) | Professores e Dirigentes Escolares enquanto Estudantes ao Longo da Vida (pt)</cell>
+    <cell name="language">Portuguese</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-18T22:17:01Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/188bf483</cell>
+  </row>
+  <row index="68">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/7b2cd7e5-en</cell>
     <cell name="title">Reader’s guide (en)</cell>
@@ -981,12 +1168,12 @@
     <cell name="embargo date">2019-06-19T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-06-12T22:30:28Z</cell>
-    <cell name="freepreview last export date">2019-06-12T18:57:29Z</cell>
+    <cell name="freepreview last export date">2019-06-18T18:59:25Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a574ff40</cell>
   </row>
-  <row index="58">
+  <row index="69">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/93c683a8-en</cell>
     <cell name="title">Principals’ participation in professional development courses or seminars (en)</cell>
@@ -1003,7 +1190,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9f267722</cell>
   </row>
-  <row index="59">
+  <row index="70">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b73e4918-en</cell>
     <cell name="title">School safety (en)</cell>
@@ -1020,7 +1207,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b877c48e</cell>
   </row>
-  <row index="60">
+  <row index="71">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/67859365-en</cell>
     <cell name="title">Teachers’ self-efficacy in teaching multicultural classes (en)</cell>
@@ -1037,7 +1224,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7065762e</cell>
   </row>
-  <row index="61">
+  <row index="72">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d2a4bf35-en</cell>
     <cell name="title">Teaching and learning for the future (en)</cell>
@@ -1054,7 +1241,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/13b2385c</cell>
   </row>
-  <row index="62">
+  <row index="73">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5e576405-en</cell>
     <cell name="title">Time spent by principals on curriculum and teaching (en)</cell>
@@ -1071,7 +1258,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e587d91b</cell>
   </row>
-  <row index="63">
+  <row index="74">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ea30ff81-en</cell>
     <cell name="title">Novice teachers, by school characteristics (en)</cell>
@@ -1088,7 +1275,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f245b38b</cell>
   </row>
-  <row index="64">
+  <row index="75">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/1d4f0a36-en</cell>
     <cell name="title">Content of teacher education and sense of preparedness for teaching (en)</cell>
@@ -1105,7 +1292,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bdfb6ac8</cell>
   </row>
-  <row index="65">
+  <row index="76">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/68642431-en</cell>
     <cell name="title">The changing landscape of teaching (en)</cell>
@@ -1122,7 +1309,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8cdaa5b7</cell>
   </row>
-  <row index="66">
+  <row index="77">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/f854a169-en</cell>
     <cell name="title">Teachers’ self-efficacy (en)</cell>
@@ -1139,7 +1326,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b3f56c24</cell>
   </row>
-  <row index="67">
+  <row index="78">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/42b36c64-en</cell>
     <cell name="title">Technical notes on sampling procedures, response ratesand adjudication for TALIS 2018 (en)</cell>
@@ -1151,12 +1338,46 @@
     <cell name="embargo date">2019-06-19T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-06-12T22:30:28Z</cell>
-    <cell name="freepreview last export date">2019-06-12T18:57:29Z</cell>
+    <cell name="freepreview last export date">2019-06-18T18:59:25Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/303bcdd0</cell>
   </row>
-  <row index="68">
+  <row index="79">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/2aa63e00-ja</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in Japanese) (en) | TALIS 2018結果 報告書（第1巻） (ja)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en) | 生涯学習者としての教員と校長 (ja)</cell>
+    <cell name="language">Japanese</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-18T22:17:01Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d0875f87</cell>
+  </row>
+  <row index="80">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/c9813405-ar</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in Arabic) (en) | نتائج المسح الدولي للتدريس والتعلم (TALES) لسنة 2018 (المجلد الأول) (ar)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en) | المعلّمون ومديرو المدارس كمتعلمين مدى الحياة  (ar)</cell>
+    <cell name="language">Arabic</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-18T22:17:01Z</cell>
+    <cell name="freepreview last export date">2019-06-18T18:59:25Z</cell>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/868e83ed</cell>
+  </row>
+  <row index="81">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/33aa38b9-en</cell>
     <cell name="title">Teachers’ views on their colleagues’ attitudes towards innovation (en)</cell>
@@ -1173,7 +1394,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/80ef5a6d</cell>
   </row>
-  <row index="69">
+  <row index="82">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/77dc7718-en</cell>
     <cell name="title">List of TALIS 2018 contributors (en)</cell>
@@ -1185,12 +1406,46 @@
     <cell name="embargo date">2019-06-19T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-06-12T22:30:28Z</cell>
-    <cell name="freepreview last export date">2019-06-12T18:57:29Z</cell>
+    <cell name="freepreview last export date">2019-06-18T18:59:25Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f464ed02</cell>
   </row>
-  <row index="70">
+  <row index="83">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/5856a9e5-ru</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in Russian) (en) | Результаты TALIS 2018 (Том I) (ru)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en) | Непрерывное обучение учителей и директоров школ (ru)</cell>
+    <cell name="language">Russian</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/75017de1</cell>
+  </row>
+  <row index="84">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/c9813405-ar</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in Arabic) (en) | نتائج المسح الدولي للتدريس والتعلم (TALES) لسنة 2018 (المجلد الأول) (ar)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en) | المعلّمون ومديرو المدارس كمتعلمين مدى الحياة  (ar)</cell>
+    <cell name="language">Arabic</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-18T22:17:01Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/59f20033</cell>
+  </row>
+  <row index="85">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/24007d7b-en</cell>
     <cell name="title">Need for professional development in teaching students with special needs, by teacher characteristics (en)</cell>
@@ -1207,7 +1462,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d0b491ac</cell>
   </row>
-  <row index="71">
+  <row index="86">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5e9bd09b-en</cell>
     <cell name="title">What TALIS 2018 implies for policy (en)</cell>
@@ -1224,7 +1479,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e77014d0</cell>
   </row>
-  <row index="72">
+  <row index="87">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/42b36c64-en</cell>
     <cell name="title">Technical notes on sampling procedures, response ratesand adjudication for TALIS 2018 (en)</cell>
@@ -1241,7 +1496,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/716f26f3</cell>
   </row>
-  <row index="73">
+  <row index="88">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/fa24224d-en</cell>
     <cell name="title">List of tables available on line (en)</cell>
@@ -1253,12 +1508,12 @@
     <cell name="embargo date">2019-06-19T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-06-12T22:30:28Z</cell>
-    <cell name="freepreview last export date">2019-06-12T18:57:29Z</cell>
+    <cell name="freepreview last export date">2019-06-18T18:59:25Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fccd3c3d</cell>
   </row>
-  <row index="74">
+  <row index="89">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e0cbe437-en</cell>
     <cell name="title">Student behaviour and classroom management (en)</cell>
@@ -1275,7 +1530,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/84a3173a</cell>
   </row>
-  <row index="75">
+  <row index="90">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/77dc7718-en</cell>
     <cell name="title">List of TALIS 2018 contributors (en)</cell>
@@ -1292,7 +1547,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/22e280bd</cell>
   </row>
-  <row index="76">
+  <row index="91">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/97338978-en</cell>
     <cell name="title">Participation in professional development for teachers and need for it (en)</cell>
@@ -1309,7 +1564,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7a23f1a5</cell>
   </row>
-  <row index="77">
+  <row index="92">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b708187a-en</cell>
     <cell name="title">Technical notes on analyses in this volume (en)</cell>
@@ -1326,7 +1581,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d8dcd9f3</cell>
   </row>
-  <row index="78">
+  <row index="93">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b708187a-en</cell>
     <cell name="title">Technical notes on analyses in this volume (en)</cell>
@@ -1338,12 +1593,12 @@
     <cell name="embargo date">2019-06-19T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-06-12T22:30:28Z</cell>
-    <cell name="freepreview last export date">2019-06-12T18:57:29Z</cell>
+    <cell name="freepreview last export date">2019-06-18T18:59:25Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d0c1c42f</cell>
   </row>
-  <row index="79">
+  <row index="94">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/6d6b5a2f-en</cell>
     <cell name="title">Change in gender balance among teachers from 2013 to 2018 (en)</cell>
@@ -1360,7 +1615,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b270a7c4</cell>
   </row>
-  <row index="80">
+  <row index="95">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a318c0ca-en</cell>
     <cell name="title">Teachers’ workload, by experience (en)</cell>
@@ -1377,7 +1632,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c4cb0239</cell>
   </row>
-  <row index="81">
+  <row index="96">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b628d7fb-en</cell>
     <cell name="title">School concentration of students whose first language is different from the language(s) of instruction (en)</cell>
@@ -1394,7 +1649,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/50da7122</cell>
   </row>
-  <row index="82">
+  <row index="97">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/621d9134-en</cell>
     <cell name="title">Teachers’ need for professional development in teaching students with special needs, by teachers’ participation in professional development (en)</cell>
@@ -1411,7 +1666,24 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c22e5fe8</cell>
   </row>
-  <row index="83">
+  <row index="98">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/0d310598-en</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in English) (en)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-18T22:17:01Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/306116dd</cell>
+  </row>
+  <row index="99">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d5ffedce-en</cell>
     <cell name="title">School practices related to equity (en)</cell>
@@ -1428,7 +1700,24 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d14829b</cell>
   </row>
-  <row index="84">
+  <row index="100">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/276bd3d2-fr</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in French) (en) | Résultats de TALIS 2018 (fr)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en) | Des enseignants et chefs d'établissement en formation à vie (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-18T22:17:01Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/85406f6a</cell>
+  </row>
+  <row index="101">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/259e4004-en</cell>
     <cell name="title">Induction activities for teachers (en)</cell>
@@ -1445,7 +1734,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4877880f</cell>
   </row>
-  <row index="85">
+  <row index="102">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b08f4bec-en</cell>
     <cell name="title">Change in participation in and need for professional development in teaching students with special needs from 2013 to 2018 (en)</cell>
@@ -1462,7 +1751,24 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a0e3d246</cell>
   </row>
-  <row index="86">
+  <row index="103">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/59e2d4ae-pt</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in Portuguese) (en) | Resultados TALIS 2018 (Volume I) (pt)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en) | Professores e Dirigentes Escolares enquanto Estudantes ao Longo da Vida (pt)</cell>
+    <cell name="language">Portuguese</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-18T22:17:01Z</cell>
+    <cell name="freepreview last export date">2019-06-18T18:59:25Z</cell>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6a90c966</cell>
+  </row>
+  <row index="104">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9288ba5b-en</cell>
     <cell name="title">Change in participation in and need for professional development in ICT skills for teaching from 2013 to 2018 (en)</cell>
@@ -1479,7 +1785,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/51d65e5f</cell>
   </row>
-  <row index="87">
+  <row index="105">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/38b5baa1-en</cell>
     <cell name="title">Change in teachers’ assessment practices from 2013 to 2018 (en)</cell>
@@ -1496,7 +1802,24 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/66b5e7d3</cell>
   </row>
-  <row index="88">
+  <row index="106">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/7762a968-es</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in Spanish) (en) | Resultados de TALIS 2018 (Volumen I) (es)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en) | Docentes y Directores de Centros Educativos como Estudiantes de por Vida (es)</cell>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-18T22:17:01Z</cell>
+    <cell name="freepreview last export date">2019-06-18T18:59:25Z</cell>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8f3fa235</cell>
+  </row>
+  <row index="107">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/dd6dd4bc-en</cell>
     <cell name="title">Attracting and effectively preparing candidates (en)</cell>
@@ -1508,12 +1831,12 @@
     <cell name="embargo date">2019-06-19T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-06-12T22:30:28Z</cell>
-    <cell name="freepreview last export date">2019-06-12T18:57:29Z</cell>
+    <cell name="freepreview last export date">2019-06-18T18:59:25Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d4dd169e</cell>
   </row>
-  <row index="89">
+  <row index="108">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/1952819b-en</cell>
     <cell name="title">Relationship between teaching as a career choice and motivation to become a teacher (en)</cell>
@@ -1530,7 +1853,24 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/94c1edb2</cell>
   </row>
-  <row index="90">
+  <row index="109">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/7762a968-es</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in Spanish) (en) | Resultados de TALIS 2018 (Volumen I) (es)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en) | Docentes y Directores de Centros Educativos como Estudiantes de por Vida (es)</cell>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-18T22:17:01Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ba14b88a</cell>
+  </row>
+  <row index="110">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/3ec33d15-en</cell>
     <cell name="title">Change in classroom discipline from 2013 to 2018 (en)</cell>
@@ -1547,7 +1887,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d012a7ee</cell>
   </row>
-  <row index="91">
+  <row index="111">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/59069890-en</cell>
     <cell name="title">What is TALIS? (en)</cell>
@@ -1559,12 +1899,12 @@
     <cell name="embargo date">2019-06-19T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-06-12T22:30:28Z</cell>
-    <cell name="freepreview last export date">2019-06-12T18:57:29Z</cell>
+    <cell name="freepreview last export date">2019-06-18T18:59:25Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63be6249</cell>
   </row>
-  <row index="92">
+  <row index="112">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/6dd5b21d-en</cell>
     <cell name="title">Change in teachers’ working hours from 2013 to 2018 (en)</cell>
@@ -1581,7 +1921,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d7853502</cell>
   </row>
-  <row index="93">
+  <row index="113">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/7b2cd7e5-en</cell>
     <cell name="title">Reader’s guide (en)</cell>
@@ -1598,7 +1938,24 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/19a73160</cell>
   </row>
-  <row index="94">
+  <row index="114">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/2391d271-de</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in German) (en) | TALIS 2018 Ergebnisse (Band I) (de)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en) | Lehrer/innen und Schulleiter/innen als lebenslang Lernende (de)</cell>
+    <cell name="language">German</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-18T22:17:01Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ace890b7</cell>
+  </row>
+  <row index="115">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/69bfc54e-en</cell>
     <cell name="title">Teacher training in classroom practice (en)</cell>
@@ -1615,7 +1972,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fafb3aaf</cell>
   </row>
-  <row index="95">
+  <row index="116">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/fa24224d-en</cell>
     <cell name="title">List of tables available on line (en)</cell>
@@ -1632,7 +1989,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/47ae3e7b</cell>
   </row>
-  <row index="96">
+  <row index="117">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/68642431-en</cell>
     <cell name="title">The changing landscape of teaching (en)</cell>
@@ -1644,12 +2001,12 @@
     <cell name="embargo date">2019-06-19T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-06-12T22:30:28Z</cell>
-    <cell name="freepreview last export date">2019-06-12T18:57:29Z</cell>
+    <cell name="freepreview last export date">2019-06-18T18:59:25Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1fe354fc</cell>
   </row>
-  <row index="97">
+  <row index="118">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d7c7d68e-en</cell>
     <cell name="title">Shortages of school resources that hinder quality instruction (en)</cell>
@@ -1666,7 +2023,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2e00fc07</cell>
   </row>
-  <row index="98">
+  <row index="119">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e7d1697b-en</cell>
     <cell name="title">School concentration of students with special needs (en)</cell>
@@ -1683,7 +2040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a825a12d</cell>
   </row>
-  <row index="99">
+  <row index="120">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/be44a8e6-en</cell>
     <cell name="title">Improving teacher salaries (en)</cell>
@@ -1700,7 +2057,24 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f1a197b8</cell>
   </row>
-  <row index="100">
+  <row index="121">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/276bd3d2-fr</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in French) (en) | Résultats de TALIS 2018 (fr)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en) | Des enseignants et chefs d'établissement en formation à vie (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-18T22:17:01Z</cell>
+    <cell name="freepreview last export date">2019-06-18T18:59:25Z</cell>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c5d5daa5</cell>
+  </row>
+  <row index="122">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/59069890-en</cell>
     <cell name="title">What is TALIS? (en)</cell>
@@ -1717,7 +2091,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eb06114a</cell>
   </row>
-  <row index="101">
+  <row index="123">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/1d0bc92a-en</cell>
     <cell name="title">TALIS 2018 Results (Volume I) (en)</cell>
@@ -1734,7 +2108,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d58cc02</cell>
   </row>
-  <row index="102">
+  <row index="124">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5bc887b6-en</cell>
     <cell name="title">Relationship between reducing class sizes as a highly-important spending priority and class size (en)</cell>
@@ -1751,7 +2125,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/afd324f7</cell>
   </row>
-  <row index="103">
+  <row index="125">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/6088cb54-en</cell>
     <cell name="title">Principals’ age (en)</cell>
@@ -1768,7 +2142,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d6e1f301</cell>
   </row>
-  <row index="104">
+  <row index="126">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/deb79c39-en</cell>
     <cell name="title">Peer mentoring, by teachers’ teaching experience (en)</cell>
@@ -1785,7 +2159,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b8487564</cell>
   </row>
-  <row index="105">
+  <row index="127">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/716a87df-en</cell>
     <cell name="title">Teaching in multicultural or multilingual settings (en)</cell>
@@ -1802,7 +2176,24 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d495d8d7</cell>
   </row>
-  <row index="106">
+  <row index="128">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/2aa63e00-ja</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in Japanese) (en) | TALIS 2018結果 報告書（第1巻） (ja)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en) | 生涯学習者としての教員と校長 (ja)</cell>
+    <cell name="language">Japanese</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-18T22:17:01Z</cell>
+    <cell name="freepreview last export date">2019-06-18T18:59:25Z</cell>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/66523859</cell>
+  </row>
+  <row index="129">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ba2c06c5-en</cell>
     <cell name="title">Motivations to become a teacher (en)</cell>
@@ -1819,7 +2210,41 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8024b674</cell>
   </row>
-  <row index="107">
+  <row index="130">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/5856a9e5-ru</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in Russian) (en) | Результаты TALIS 2018 (Том I) (ru)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en) | Непрерывное обучение учителей и директоров школ (ru)</cell>
+    <cell name="language">Russian</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3c513d6b</cell>
+  </row>
+  <row index="131">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/2391d271-de</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in German) (en) | TALIS 2018 Ergebnisse (Band I) (de)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en) | Lehrer/innen und Schulleiter/innen als lebenslang Lernende (de)</cell>
+    <cell name="language">German</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-18T22:17:01Z</cell>
+    <cell name="freepreview last export date">2019-06-18T18:59:25Z</cell>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ee8a5772</cell>
+  </row>
+  <row index="132">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d2311324-en</cell>
     <cell name="title">Principals’ formal training before taking up their role as a principal (en)</cell>
@@ -1836,7 +2261,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ca4c538</cell>
   </row>
-  <row index="108">
+  <row index="133">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/1d0bc92a-en</cell>
     <cell name="title">TALIS 2018 Results (Volume I) (en)</cell>
@@ -1848,12 +2273,12 @@
     <cell name="embargo date">2019-06-19T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-06-17T22:28:28Z</cell>
-    <cell name="freepreview last export date">2019-06-12T18:57:29Z</cell>
+    <cell name="freepreview last export date">2019-06-18T18:59:25Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3e1dd9b1</cell>
   </row>
-  <row index="109">
+  <row index="134">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e624c7b0-en</cell>
     <cell name="title">Teaching practices (en)</cell>
@@ -1870,7 +2295,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/56301a95</cell>
   </row>
-  <row index="110">
+  <row index="135">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ac016a7d-en</cell>
     <cell name="title">Participation in professional development activities (en)</cell>
@@ -1887,7 +2312,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1e45c226</cell>
   </row>
-  <row index="111">
+  <row index="136">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/db512843-en</cell>
     <cell name="title">Gender balance among teachers and principals (en)</cell>
@@ -1904,7 +2329,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/523b185a</cell>
   </row>
-  <row index="112">
+  <row index="137">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/c9ceffcb-en</cell>
     <cell name="title">Type of professional development attended by teachers and principals (en)</cell>
@@ -1921,7 +2346,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3c788e6b</cell>
   </row>
-  <row index="113">
+  <row index="138">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/3abd2bee-en</cell>
     <cell name="title">Initial and continuous training (en)</cell>
@@ -1938,7 +2363,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6789a279</cell>
   </row>
-  <row index="114">
+  <row index="139">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/c190b3c6-en</cell>
     <cell name="title">Change in the use of teaching practices pertaining to clarity of instruction from 2013 to 2018 (en)</cell>
@@ -1955,7 +2380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0a44d099</cell>
   </row>
-  <row index="115">
+  <row index="140">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/f91468d8-en</cell>
     <cell name="title">Change in participation in and need for professional development in teaching in multicultural or multilingual settings from 2013 to 2018 (en)</cell>
@@ -1972,7 +2397,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7fc05efc</cell>
   </row>
-  <row index="116">
+  <row index="141">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/cd77a21b-en</cell>
     <cell name="title">Teachers’ age (en)</cell>
@@ -1989,7 +2414,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/815be0b3</cell>
   </row>
-  <row index="117">
+  <row index="142">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/8fc8af76-en</cell>
     <cell name="title">Change in the use of class time from 2008 to 2018 (en)</cell>
@@ -2006,7 +2431,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fcba5140</cell>
   </row>
-  <row index="118">
+  <row index="143">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5bb21b3a-fr</cell>
     <cell name="title">Résultats de TALIS 2018 (Volume I) (fr)</cell>
@@ -2018,12 +2443,12 @@
     <cell name="embargo date">2019-06-19T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-06-17T22:28:28Z</cell>
-    <cell name="freepreview last export date">2019-06-13T18:56:26Z</cell>
+    <cell name="freepreview last export date">2019-06-18T18:59:25Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/50deccb8</cell>
   </row>
-  <row index="119">
+  <row index="144">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/8c7eee88-en</cell>
     <cell name="title">Spending priorities for lower secondary education (en)</cell>
@@ -2040,7 +2465,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e0c79bee</cell>
   </row>
-  <row index="120">
+  <row index="145">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/2c0d9903-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2057,7 +2482,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/938ea8c1</cell>
   </row>
-  <row index="121">
+  <row index="146">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/555fa704-en</cell>
     <cell name="title">Relationship between self-efficacy and participation in induction at current school (en)</cell>
@@ -2074,7 +2499,24 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ab8b4fcb</cell>
   </row>
-  <row index="122">
+  <row index="147">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/2aa63e00-ja</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in Japanese) (en) | TALIS 2018結果 報告書（第1巻） (ja)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en) | 生涯学習者としての教員と校長 (ja)</cell>
+    <cell name="language">Japanese</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-18T22:17:01Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fb53b849</cell>
+  </row>
+  <row index="148">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/3ddd8e5a-en</cell>
     <cell name="title">ICT for teaching (en)</cell>
@@ -2091,7 +2533,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2cd5a21b</cell>
   </row>
-  <row index="123">
+  <row index="149">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/be7e44b6-en</cell>
     <cell name="title">Highest educational attainment of teachers and principals (en)</cell>
@@ -2108,7 +2550,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ba47499</cell>
   </row>
-  <row index="124">
+  <row index="150">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e5fd5250-en</cell>
     <cell name="title">Socio-demographic and experience profiles of teachers and school leaders (en)</cell>
@@ -2125,7 +2567,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bf532147</cell>
   </row>
-  <row index="125">
+  <row index="151">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/0dcc866d-en</cell>
     <cell name="title">Teachers’ assessment practices (en)</cell>
@@ -2142,7 +2584,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1bd5d872</cell>
   </row>
-  <row index="126">
+  <row index="152">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e8a130e7-en</cell>
     <cell name="title">Time spent on actual teaching and learning, by teacher and school characteristics (en)</cell>
@@ -2159,7 +2601,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c7d1da35</cell>
   </row>
-  <row index="127">
+  <row index="153">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/143abc8c-en</cell>
     <cell name="title">Teaching students with diverse ability levels and needs (en)</cell>
@@ -2176,7 +2618,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5fc4f892</cell>
   </row>
-  <row index="128">
+  <row index="154">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/3529beea-en</cell>
     <cell name="title">Types of barriers to teachers’ and principals’ participation in professional development (en)</cell>
@@ -2193,7 +2635,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ab150b40</cell>
   </row>
-  <row index="129">
+  <row index="155">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ff660bf9-en</cell>
     <cell name="title">Change in barriers to teachers’ participation in professional development from 2013 to 2018 (en)</cell>
@@ -2210,7 +2652,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6d925d1f</cell>
   </row>
-  <row index="130">
+  <row index="156">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/00071928-en</cell>
     <cell name="title">Change in school safety from 2013 to 2018 (en)</cell>
@@ -2227,7 +2669,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5e3fd9f8</cell>
   </row>
-  <row index="131">
+  <row index="157">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5b262d2b-en</cell>
     <cell name="title">Change in the share of seniors among teachers and principals from 2013 to 2018 (en)</cell>
@@ -2244,7 +2686,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fba10726</cell>
   </row>
-  <row index="132">
+  <row index="158">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/dd6dd4bc-en</cell>
     <cell name="title">Attracting and effectively preparing candidates (en)</cell>
@@ -2261,7 +2703,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c394f968</cell>
   </row>
-  <row index="133">
+  <row index="159">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b98421f9-en</cell>
     <cell name="title">School composition (en)</cell>
@@ -2278,7 +2720,24 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4ab5213b</cell>
   </row>
-  <row index="134">
+  <row index="160">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/304a50fa-zh</cell>
+    <cell name="title">TALIS 2018 Results (Volume I) (Summary in Chinese) (en) | 2018年教师教学国际调查（TALIS）结果（第一卷） (zh)</cell>
+    <cell name="subtitle">Teachers and School Leaders as Lifelong Learners (en) | 终生学习的教师和学校领导者 (zh)</cell>
+    <cell name="language">Chinese</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-06-19</cell>
+    <cell name="embargo date">2019-06-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-06-18T22:17:01Z</cell>
+    <cell name="freepreview last export date">2019-06-18T18:59:25Z</cell>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/986bdd0a</cell>
+  </row>
+  <row index="161">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/69e60f77-en</cell>
     <cell name="title">Relationship between self-efficacy in classroom management and being trained in classroom management (en)</cell>
@@ -2295,7 +2754,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fb5b50db</cell>
   </row>
-  <row index="135">
+  <row index="162">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ae7b72df-en</cell>
     <cell name="title">Chapter 2 Teaching and Learning for the Future (en)</cell>
@@ -2312,24 +2771,24 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fd75dbd8</cell>
   </row>
-  <row index="136">
+  <row index="163">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b0b94dbd-en</cell>
     <cell name="title">OECD Economic Surveys: New Zealand 2019 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2019-06-25</cell>
     <cell name="embargo date">2019-06-24T21:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-06-11T22:43:27Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2019-06-18T22:17:01Z</cell>
+    <cell name="freepreview last export date">2019-06-18T18:59:25Z</cell>
     <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4e0e7faf</cell>
   </row>
-  <row index="137">
+  <row index="164">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1988ccef-en</cell>
     <cell name="title">Open Government in Argentina (en)</cell>
@@ -2346,7 +2805,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3c4adfef</cell>
   </row>
-  <row index="138">
+  <row index="165">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/67dba2bb-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Canada (Stage 2) (en)</cell>
@@ -2363,7 +2822,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/311e26d1</cell>
   </row>
-  <row index="139">
+  <row index="166">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/4fed4933-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Argentina (Stage 1) (en)</cell>
@@ -2380,7 +2839,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/495ecff0</cell>
   </row>
-  <row index="140">
+  <row index="167">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9dc5933f-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Croatia (Stage 1) (en)</cell>

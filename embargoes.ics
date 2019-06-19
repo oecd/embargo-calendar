@@ -21,7 +21,7 @@ DESCRIPTION:*Levelling the playing field - Dissectin
  tps://github.com/oecd/embargo-calendar/b
  lob/master/embargoes-by-publication.md.\
  n\nPlease note: This information was cor
- rect as of this morning at 6:09, it is u
+ rect as of this morning at 5:56, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -30,7 +30,7 @@ DESCRIPTION:*Levelling the playing field - Dissectin
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=7ddddd07-en.
-DTSTAMP:20190618T060925Z
+DTSTAMP:20190619T055654Z
 DTSTART:20190618T030000Z
 DTEND:20190618T031500Z
 TRANSP:TRANSPARENT
@@ -62,8 +62,8 @@ DESCRIPTION:*OECD Investment Policy Reviews: Croatia
  ion see: https://github.com/oecd/embargo
  -calendar/blob/master/embargoes-by-publi
  cation.md.\n\nPlease note: This informat
- ion was correct as of this morning at 6:
- 09, it is updated each night; therefore 
+ ion was correct as of this morning at 5:
+ 56, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -71,7 +71,7 @@ DESCRIPTION:*OECD Investment Policy Reviews: Croatia
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=2bf079ba-en.
-DTSTAMP:20190618T060925Z
+DTSTAMP:20190619T055654Z
 DTSTART:20190618T070000Z
 DTEND:20190618T071500Z
 TRANSP:TRANSPARENT
@@ -85,7 +85,48 @@ DESCRIPTION:Reminder: OECD Investment Policy Reviews
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1d0bc92a-end3e5218
+UID:10.1787/0d310598-end3e2884
+SUMMARY:Multilingual Summaries for TALIS 2018 Re
+ sults (Volume I)
+DESCRIPTION:*Multilingual Summaries for TALIS 2018 R
+ esults (Volume I)*\n\nDirectorate: Direc
+ torate for Education and Skills\n9 Langu
+ ages: German, Arabic, Chinese, English, 
+ Japanese, Russian, Spanish, Portuguese, 
+ French\nPublication type: Summary\nRelea
+ sed as: ePub, HTML, PDF\n\nEmbargo date/
+ time: Wednesday, 19 June 2019, 9:00 (GMT
+ )\n\niLibrary export: Tuesday, 18 June 2
+ 019, 22:17 (GMT)\nFreepreview export: Tu
+ esday, 18 June 2019, 18:59 (GMT)\nFTI lo
+ aded: ✓\n\nFor more information see: htt
+ ps://github.com/oecd/embargo-calendar/bl
+ ob/master/embargoes-by-publication.md.\n
+ \nPlease note: This information was corr
+ ect as of this morning at 5:56, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=0d310598-en.
+DTSTAMP:20190619T055654Z
+DTSTART:20190619T090000Z
+DTEND:20190619T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Multilingual Summaries for TAL
+ IS 2018 Results (Volume I)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/1d0bc92a-end3e6426
 SUMMARY:TALIS 2018 Results (Volume I) - Teachers
   and School Leaders as Lifelong Learners
 DESCRIPTION:*TALIS 2018 Results (Volume I) - Teacher
@@ -97,22 +138,22 @@ DESCRIPTION:*TALIS 2018 Results (Volume I) - Teacher
   HTML, PDF\n\nEmbargo date/time: Wednesd
  ay, 19 June 2019, 9:00 (GMT)\n\n\niLibra
  ry export: Monday, 17 June 2019, 22:28 (
- GMT)\nFreepreview export: Wednesday, 12 
- June 2019, 18:57 (GMT)\nFTI loaded: ✓\n\
- nFor more information see: https://githu
- b.com/oecd/embargo-calendar/blob/master/
- embargoes-by-publication.md.\n\nPlease n
- ote: This information was correct as of 
- this morning at 6:09, it is updated each
-  night; therefore any subsequent updates
-  may not yet be visible here. Also, plea
- se be aware that the different released 
- media (PDF, HTML, etc.) are not necessar
- ily released at the same time. For compl
- ete and up-to-date information see here:
-  http://kappa.oecd.org/v3/search?term=1d
- 0bc92a-en.
-DTSTAMP:20190618T060925Z
+ GMT)\nFreepreview export: Tuesday, 18 Ju
+ ne 2019, 18:59 (GMT)\nFTI loaded: ✓\n\nF
+ or more information see: https://github.
+ com/oecd/embargo-calendar/blob/master/em
+ bargoes-by-publication.md.\n\nPlease not
+ e: This information was correct as of th
+ is morning at 5:56, it is updated each n
+ ight; therefore any subsequent updates m
+ ay not yet be visible here. Also, please
+  be aware that the different released me
+ dia (PDF, HTML, etc.) are not necessaril
+ y released at the same time. For complet
+ e and up-to-date information see here: h
+ ttp://kappa.oecd.org/v3/search?term=1d0b
+ c92a-en.
+DTSTAMP:20190619T055654Z
 DTSTART:20190619T090000Z
 DTEND:20190619T091500Z
 TRANSP:TRANSPARENT
@@ -127,7 +168,7 @@ DESCRIPTION:Reminder: TALIS 2018 Results (Volume I)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5bb21b3a-frd3e5708
+UID:10.1787/5bb21b3a-frd3e6917
 SUMMARY:Résultats de TALIS 2018 (Volume I) - Des
   enseignants et chefs d’établissement en
   formation à vie
@@ -140,22 +181,22 @@ DESCRIPTION:*Résultats de TALIS 2018 (Volume I) - De
  eased as: PDF\n\nEmbargo date/time: Wedn
  esday, 19 June 2019, 9:00 (GMT)\n\n\niLi
  brary export: Monday, 17 June 2019, 22:2
- 8 (GMT)\nFreepreview export: Thursday, 1
- 3 June 2019, 18:56 (GMT)\nFTI loaded: ✓\
- n\nFor more information see: https://git
- hub.com/oecd/embargo-calendar/blob/maste
- r/embargoes-by-publication.md.\n\nPlease
-  note: This information was correct as o
- f this morning at 6:09, it is updated ea
- ch night; therefore any subsequent updat
- es may not yet be visible here. Also, pl
- ease be aware that the different release
- d media (PDF, HTML, etc.) are not necess
- arily released at the same time. For com
- plete and up-to-date information see her
- e: http://kappa.oecd.org/v3/search?term=
- 5bb21b3a-fr.
-DTSTAMP:20190618T060925Z
+ 8 (GMT)\nFreepreview export: Tuesday, 18
+  June 2019, 18:59 (GMT)\nFTI loaded: ✓\n
+ \nFor more information see: https://gith
+ ub.com/oecd/embargo-calendar/blob/master
+ /embargoes-by-publication.md.\n\nPlease 
+ note: This information was correct as of
+  this morning at 5:56, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=5
+ bb21b3a-fr.
+DTSTAMP:20190619T055654Z
 DTSTART:20190619T090000Z
 DTEND:20190619T091500Z
 TRANSP:TRANSPARENT
@@ -170,7 +211,7 @@ DESCRIPTION:Reminder: Résultats de TALIS 2018 (Volum
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b0b94dbd-end3e6585
+UID:10.1787/b0b94dbd-end3e7891
 SUMMARY:OECD Economic Surveys: New Zealand 2019
 DESCRIPTION:*OECD Economic Surveys: New Zealand 2019
  *\n\nDirectorate: Economics Department\n
@@ -179,21 +220,22 @@ DESCRIPTION:*OECD Economic Surveys: New Zealand 2019
  conomic survey\nReleased as: PDF\n\nEmba
  rgo date/time: Monday, 24 June 2019, 21:
  00 (GMT)\n\n\niLibrary export: Tuesday, 
- 11 June 2019, 22:43 (GMT)\nFreepreview e
- xport: never\nFTI loaded: ✗\n\nFor more 
- information see: https://github.com/oecd
- /embargo-calendar/blob/master/embargoes-
- by-publication.md.\n\nPlease note: This 
- information was correct as of this morni
- ng at 6:09, it is updated each night; th
- erefore any subsequent updates may not y
- et be visible here. Also, please be awar
- e that the different released media (PDF
- , HTML, etc.) are not necessarily releas
- ed at the same time. For complete and up
- -to-date information see here: http://ka
- ppa.oecd.org/v3/search?term=b0b94dbd-en.
-DTSTAMP:20190618T060925Z
+ 18 June 2019, 22:17 (GMT)\nFreepreview e
+ xport: Tuesday, 18 June 2019, 18:59 (GMT
+ )\nFTI loaded: ✓\n\nFor more information
+  see: https://github.com/oecd/embargo-ca
+ lendar/blob/master/embargoes-by-publicat
+ ion.md.\n\nPlease note: This information
+  was correct as of this morning at 5:56,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=b0b94dbd-en.
+DTSTAMP:20190619T055654Z
 DTSTART:20190624T210000Z
 DTEND:20190624T211500Z
 TRANSP:TRANSPARENT
@@ -207,7 +249,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: New Zea
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1988ccef-end3e6632
+UID:10.1787/1988ccef-end3e7939
 SUMMARY:Open Government in Argentina
 DESCRIPTION:*Open Government in Argentina*\n\nDirect
  orate: Directorate for Public Governance
@@ -222,7 +264,7 @@ DESCRIPTION:*Open Government in Argentina*\n\nDirect
  s://github.com/oecd/embargo-calendar/blo
  b/master/embargoes-by-publication.md.\n\
  nPlease note: This information was corre
- ct as of this morning at 6:09, it is upd
+ ct as of this morning at 5:56, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -231,7 +273,7 @@ DESCRIPTION:*Open Government in Argentina*\n\nDirect
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=1988ccef-en.
-DTSTAMP:20190618T060925Z
+DTSTAMP:20190619T055654Z
 DTSTART:20190625T140000Z
 DTEND:20190625T141500Z
 TRANSP:TRANSPARENT
