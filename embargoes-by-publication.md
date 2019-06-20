@@ -2,29 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 19 June 2019 at 5:56* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Levelling the playing field - Dissecting the gender gap in the funding of start-ups](https://doi.org/10.1787/7ddddd07-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 18 June 2019 at 3:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 14 June 2019 at 0:27
-- [x] Exported to Keepeek Thursday 13 June 2019 at 20:56
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Thursday 20 June 2019 at 6:30* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Investment Policy Reviews: Croatia 2019](https://doi.org/10.1787/2bf079ba-en)
 
@@ -153,6 +131,28 @@ Tuesday 25 June 2019 at 14:00 | no launch event
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Agricultural Policy Monitoring and Evaluation 2019](https://doi.org/10.1787/39bfe6f3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 June 2019 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 19 June 2019 at 0:17
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
