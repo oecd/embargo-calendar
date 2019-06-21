@@ -2,133 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/0d310598-end3e1216
-SUMMARY:Multilingual Summaries for TALIS 2018 Re
- sults (Volume I)
-DESCRIPTION:*Multilingual Summaries for TALIS 2018 R
- esults (Volume I)*\n\nDirectorate: Direc
- torate for Education and Skills\n9 Langu
- ages: German, Arabic, Chinese, English, 
- Japanese, Russian, Spanish, Portuguese, 
- French\nPublication type: Summary\nRelea
- sed as: ePub, HTML, PDF\n\nEmbargo date/
- time: Wednesday, 19 June 2019, 9:00 (GMT
- )\n\niLibrary export: Wednesday, 19 June
-  2019, 22:36 (GMT)\nFreepreview export: 
- Tuesday, 18 June 2019, 18:59 (GMT)\nFTI 
- loaded: ✓\n\nFor more information see: h
- ttps://github.com/oecd/embargo-calendar/
- blob/master/embargoes-by-publication.md.
- \n\nPlease note: This information was co
- rrect as of this morning at 8:06, it is 
- updated each night; therefore any subseq
- uent updates may not yet be visible here
- . Also, please be aware that the differe
- nt released media (PDF, HTML, etc.) are 
- not necessarily released at the same tim
- e. For complete and up-to-date informati
- on see here: http://kappa.oecd.org/v3/se
- arch?term=0d310598-en.
-DTSTAMP:20190621T080629Z
-DTSTART:20190619T090000Z
-DTEND:20190619T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Multilingual Summaries for TAL
- IS 2018 Results (Volume I)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/1d0bc92a-end3e4762
-SUMMARY:TALIS 2018 Results (Volume I) - Teachers
-  and School Leaders as Lifelong Learners
-DESCRIPTION:*TALIS 2018 Results (Volume I) - Teacher
- s and School Leaders as Lifelong Learner
- s*\n\nDirectorate: Directorate for Educa
- tion and Skills\nLanguage: English\nDOI:
-  https://doi.org/10.1787/1d0bc92a-en\nPu
- blication type: Book\nReleased as: ePub,
-  HTML, PDF\n\nEmbargo date/time: Wednesd
- ay, 19 June 2019, 9:00 (GMT)\n\n\niLibra
- ry export: Wednesday, 19 June 2019, 22:3
- 6 (GMT)\nFreepreview export: Tuesday, 18
-  June 2019, 18:59 (GMT)\nFTI loaded: ✓\n
- \nFor more information see: https://gith
- ub.com/oecd/embargo-calendar/blob/master
- /embargoes-by-publication.md.\n\nPlease 
- note: This information was correct as of
-  this morning at 8:06, it is updated eac
- h night; therefore any subsequent update
- s may not yet be visible here. Also, ple
- ase be aware that the different released
-  media (PDF, HTML, etc.) are not necessa
- rily released at the same time. For comp
- lete and up-to-date information see here
- : http://kappa.oecd.org/v3/search?term=1
- d0bc92a-en.
-DTSTAMP:20190621T080629Z
-DTSTART:20190619T090000Z
-DTEND:20190619T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: TALIS 2018 Results (Volume I) 
- - Teachers and School Leaders as Lifelon
- g Learners
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/5bb21b3a-frd3e5253
-SUMMARY:Résultats de TALIS 2018 (Volume I) - Des
-  enseignants et chefs d’établissement en
-  formation à vie
-DESCRIPTION:*Résultats de TALIS 2018 (Volume I) - De
- s enseignants et chefs d’établissement e
- n formation à vie*\n\nDirectorate: Direc
- torate for Education and Skills\nLanguag
- e: French\nDOI: https://doi.org/10.1787/
- 5bb21b3a-fr\nPublication type: Book\nRel
- eased as: PDF\n\nEmbargo date/time: Wedn
- esday, 19 June 2019, 9:00 (GMT)\n\n\niLi
- brary export: Monday, 17 June 2019, 22:2
- 8 (GMT)\nFreepreview export: Tuesday, 18
-  June 2019, 18:59 (GMT)\nFTI loaded: ✓\n
- \nFor more information see: https://gith
- ub.com/oecd/embargo-calendar/blob/master
- /embargoes-by-publication.md.\n\nPlease 
- note: This information was correct as of
-  this morning at 8:06, it is updated eac
- h night; therefore any subsequent update
- s may not yet be visible here. Also, ple
- ase be aware that the different released
-  media (PDF, HTML, etc.) are not necessa
- rily released at the same time. For comp
- lete and up-to-date information see here
- : http://kappa.oecd.org/v3/search?term=5
- bb21b3a-fr.
-DTSTAMP:20190621T080629Z
-DTSTART:20190619T090000Z
-DTEND:20190619T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Résultats de TALIS 2018 (Volum
- e I) - Des enseignants et chefs d’établi
- ssement en formation à vie
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/ed3c16ff-end3e6227
+UID:10.1787/ed3c16ff-end3e53
 SUMMARY:Price Setting and Price Regulation in He
  atlh Care
 DESCRIPTION:*Price Setting and Price Regulation in H
@@ -144,7 +18,7 @@ DESCRIPTION:*Price Setting and Price Regulation in H
  s://github.com/oecd/embargo-calendar/blo
  b/master/embargoes-by-publication.md.\n\
  nPlease note: This information was corre
- ct as of this morning at 8:06, it is upd
+ ct as of this morning at 1:08, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -153,7 +27,7 @@ DESCRIPTION:*Price Setting and Price Regulation in H
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=ed3c16ff-en.
-DTSTAMP:20190621T080629Z
+DTSTAMP:20190622T010859Z
 DTSTART:20190621T081000Z
 DTEND:20190621T082500Z
 TRANSP:TRANSPARENT
@@ -167,7 +41,7 @@ DESCRIPTION:Reminder: Price Setting and Price Regula
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b0b94dbd-end3e6272
+UID:10.1787/b0b94dbd-end3e98
 SUMMARY:OECD Economic Surveys: New Zealand 2019
 DESCRIPTION:*OECD Economic Surveys: New Zealand 2019
  *\n\nDirectorate: Economics Department\n
@@ -182,7 +56,7 @@ DESCRIPTION:*OECD Economic Surveys: New Zealand 2019
   see: https://github.com/oecd/embargo-ca
  lendar/blob/master/embargoes-by-publicat
  ion.md.\n\nPlease note: This information
-  was correct as of this morning at 8:06,
+  was correct as of this morning at 1:08,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -191,7 +65,7 @@ DESCRIPTION:*OECD Economic Surveys: New Zealand 2019
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=b0b94dbd-en.
-DTSTAMP:20190621T080629Z
+DTSTAMP:20190622T010859Z
 DTSTART:20190624T210000Z
 DTEND:20190624T211500Z
 TRANSP:TRANSPARENT
@@ -205,7 +79,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: New Zea
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4d416a6b-end3e6320
+UID:10.1787/4d416a6b-end3e146
 SUMMARY:Public policy reforms to further improve
   Portuguese export performance
 DESCRIPTION:*Public policy reforms to further improv
@@ -222,7 +96,7 @@ DESCRIPTION:*Public policy reforms to further improv
  ps://github.com/oecd/embargo-calendar/bl
  ob/master/embargoes-by-publication.md.\n
  \nPlease note: This information was corr
- ect as of this morning at 8:06, it is up
+ ect as of this morning at 1:08, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -231,7 +105,7 @@ DESCRIPTION:*Public policy reforms to further improv
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=4d416a6b-en.
-DTSTAMP:20190621T080629Z
+DTSTAMP:20190622T010859Z
 DTSTART:20190625T000000Z
 DTEND:20190625T001500Z
 TRANSP:TRANSPARENT
@@ -245,7 +119,7 @@ DESCRIPTION:Reminder: Public policy reforms to furth
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/737133d8-end3e6369
+UID:10.1787/737133d8-end3e194
 SUMMARY:Housing markets and macroeconomic risks
 DESCRIPTION:*Housing markets and macroeconomic risks
  *\n\nDirectorate: Economics Department\n
@@ -260,7 +134,7 @@ DESCRIPTION:*Housing markets and macroeconomic risks
   see: https://github.com/oecd/embargo-ca
  lendar/blob/master/embargoes-by-publicat
  ion.md.\n\nPlease note: This information
-  was correct as of this morning at 8:06,
+  was correct as of this morning at 1:08,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -269,7 +143,7 @@ DESCRIPTION:*Housing markets and macroeconomic risks
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=737133d8-en.
-DTSTAMP:20190621T080629Z
+DTSTAMP:20190622T010859Z
 DTSTART:20190625T000000Z
 DTEND:20190625T001500Z
 TRANSP:TRANSPARENT
@@ -283,7 +157,7 @@ DESCRIPTION:Reminder: Housing markets and macroecono
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/354732cc-end3e6417
+UID:10.1787/354732cc-end3e243
 SUMMARY:Digital Government Review of Argentina -
   Accelerating the Digitalisation of the 
  Public Sector
@@ -296,21 +170,22 @@ DESCRIPTION:*Digital Government Review of Argentina
   as: PDF\n\nEmbargo date/time: Tuesday, 
  25 June 2019, 11:00 (GMT)\n\n\niLibrary 
  export: Thursday, 20 June 2019, 22:56 (G
- MT)\nFreepreview export: never\nFTI load
- ed: ✗\n\nFor more information see: https
- ://github.com/oecd/embargo-calendar/blob
- /master/embargoes-by-publication.md.\n\n
- Please note: This information was correc
- t as of this morning at 8:06, it is upda
- ted each night; therefore any subsequent
-  updates may not yet be visible here. Al
- so, please be aware that the different r
- eleased media (PDF, HTML, etc.) are not 
- necessarily released at the same time. F
- or complete and up-to-date information s
- ee here: http://kappa.oecd.org/v3/search
- ?term=354732cc-en.
-DTSTAMP:20190621T080629Z
+ MT)\nFreepreview export: Friday, 21 June
+  2019, 18:58 (GMT)\nFTI loaded: ✓\n\nFor
+  more information see: https://github.co
+ m/oecd/embargo-calendar/blob/master/emba
+ rgoes-by-publication.md.\n\nPlease note:
+  This information was correct as of this
+  morning at 1:08, it is updated each nig
+ ht; therefore any subsequent updates may
+  not yet be visible here. Also, please b
+ e aware that the different released medi
+ a (PDF, HTML, etc.) are not necessarily 
+ released at the same time. For complete 
+ and up-to-date information see here: htt
+ p://kappa.oecd.org/v3/search?term=354732
+ cc-en.
+DTSTAMP:20190622T010859Z
 DTSTART:20190625T110000Z
 DTEND:20190625T111500Z
 TRANSP:TRANSPARENT
@@ -325,7 +200,7 @@ DESCRIPTION:Reminder: Digital Government Review of A
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1988ccef-end3e6464
+UID:10.1787/1988ccef-end3e292
 SUMMARY:Open Government in Argentina
 DESCRIPTION:*Open Government in Argentina*\n\nDirect
  orate: Directorate for Public Governance
@@ -340,7 +215,7 @@ DESCRIPTION:*Open Government in Argentina*\n\nDirect
  s://github.com/oecd/embargo-calendar/blo
  b/master/embargoes-by-publication.md.\n\
  nPlease note: This information was corre
- ct as of this morning at 8:06, it is upd
+ ct as of this morning at 1:08, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -349,7 +224,7 @@ DESCRIPTION:*Open Government in Argentina*\n\nDirect
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=1988ccef-en.
-DTSTAMP:20190621T080629Z
+DTSTAMP:20190622T010859Z
 DTSTART:20190625T140000Z
 DTEND:20190625T141500Z
 TRANSP:TRANSPARENT
@@ -362,7 +237,7 @@ DESCRIPTION:Reminder: Open Government in Argentina
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/39bfe6f3-end3e11153
+UID:10.1787/39bfe6f3-end3e4981
 SUMMARY:Agricultural Policy Monitoring and Evalu
  ation 2019
 DESCRIPTION:*Agricultural Policy Monitoring and Eval
@@ -379,7 +254,7 @@ DESCRIPTION:*Agricultural Policy Monitoring and Eval
  ://github.com/oecd/embargo-calendar/blob
  /master/embargoes-by-publication.md.\n\n
  Please note: This information was correc
- t as of this morning at 8:06, it is upda
+ t as of this morning at 1:08, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -388,7 +263,7 @@ DESCRIPTION:*Agricultural Policy Monitoring and Eval
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=39bfe6f3-en.
-DTSTAMP:20190621T080629Z
+DTSTAMP:20190622T010859Z
 DTSTART:20190627T120000Z
 DTEND:20190627T121500Z
 TRANSP:TRANSPARENT
@@ -402,7 +277,7 @@ DESCRIPTION:Reminder: Agricultural Policy Monitoring
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/agr_outlook-2019-end3e40005
+UID:10.1787/agr_outlook-2019-end3e33832
 SUMMARY:OECD-FAO Agricultural Outlook 2019-2028
 DESCRIPTION:*OECD-FAO Agricultural Outlook 2019-2028
  *\n\nDirectorate: Trade and Agriculture 
@@ -417,7 +292,7 @@ DESCRIPTION:*OECD-FAO Agricultural Outlook 2019-2028
  .com/oecd/embargo-calendar/blob/master/e
  mbargoes-by-publication.md.\n\nPlease no
  te: This information was correct as of t
- his morning at 8:06, it is updated each 
+ his morning at 1:08, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -426,7 +301,7 @@ DESCRIPTION:*OECD-FAO Agricultural Outlook 2019-2028
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=agr
  _outlook-2019-en.
-DTSTAMP:20190621T080629Z
+DTSTAMP:20190622T010859Z
 DTSTART:20190708T090000Z
 DTEND:20190708T091500Z
 TRANSP:TRANSPARENT
@@ -440,7 +315,7 @@ DESCRIPTION:Reminder: OECD-FAO Agricultural Outlook
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/aec5b059-end3e40051
+UID:10.1787/aec5b059-end3e33879
 SUMMARY:Economic Policy Reforms 2019 - Going for
   Growth
 DESCRIPTION:*Economic Policy Reforms 2019 - Going fo
@@ -456,7 +331,7 @@ DESCRIPTION:*Economic Policy Reforms 2019 - Going fo
  bargo-calendar/blob/master/embargoes-by-
  publication.md.\n\nPlease note: This inf
  ormation was correct as of this morning 
- at 8:06, it is updated each night; there
+ at 1:08, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -464,7 +339,7 @@ DESCRIPTION:*Economic Policy Reforms 2019 - Going fo
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=aec5b059-en.
-DTSTAMP:20190621T080629Z
+DTSTAMP:20190622T010859Z
 DTSTART:20190712T080000Z
 DTEND:20190712T081500Z
 TRANSP:TRANSPARENT
