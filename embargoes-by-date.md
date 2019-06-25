@@ -2,40 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 22 June 2019 at 1:08* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 25 June 2019 at 8:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [21 June 2019](#21-june-2019)
 * [24 June 2019](#24-june-2019)
 * [25 June 2019](#25-june-2019)
 * [27 June 2019](#27-june-2019)
 * [8 July 2019](#8-july-2019)
 * [12 July 2019](#12-july-2019)
-
-------
-
-# 21 June 2019
-
-## [Price Setting and Price Regulation in Heatlh Care](https://doi.org/10.1787/ed3c16ff-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 21 June 2019 at 8:10 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -120,7 +93,7 @@ Tuesday 25 June 2019 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 21 June 2019 at 0:56
+- [x] Exported to iLibrary Monday 24 June 2019 at 9:16
 - [x] Exported to Keepeek Friday 21 June 2019 at 20:58
 
 ### Additional Information
@@ -148,6 +121,28 @@ Tuesday 25 June 2019 at 14:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Progress of the World's Women 2019–2020 - Families in a Changing World](https://doi.org/10.18356/696a9392-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 June 2019 at 15:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 25 June 2019 at 1:57
+- [x] Exported to Keepeek Monday 24 June 2019 at 21:25
+
+### Additional Information
+
+* Directorate: *Non applicable*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
@@ -220,7 +215,7 @@ Friday 12 July 2019 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 21 June 2019 at 0:56
+- [x] Exported to iLibrary Monday 24 June 2019 at 9:16
 - [ ] Exported to Keepeek
 
 ### Additional Information
