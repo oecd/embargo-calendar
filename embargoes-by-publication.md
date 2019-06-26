@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 25 June 2019 at 8:11* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 26 June 2019 at 6:51* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: New Zealand 2019](https://doi.org/10.1787/b0b94dbd-en)
 
@@ -136,17 +136,39 @@ Tuesday 25 June 2019 at 15:00 | no launch event
 
 ------
 
-## [Agricultural Policy Monitoring and Evaluation 2019](https://doi.org/10.1787/39bfe6f3-en)
+## [World Drug Report 2019](https://doi.org/10.18356/a4dd519a-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 27 June 2019 at 12:00 | no launch event
+Wednesday 26 June 2019 at 13:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 21 June 2019 at 0:56
-- [x] Exported to Keepeek Thursday 20 June 2019 at 21:09
+- [x] Exported to iLibrary Wednesday 26 June 2019 at 0:55
+- [x] Exported to Keepeek Tuesday 25 June 2019 at 21:06
+
+### Additional Information
+
+* Directorate: *Non applicable*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Agricultural Policy Monitoring and Evaluation 2019](https://doi.org/10.1787/39bfe6f3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 1 July 2019 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 26 June 2019 at 0:55
+- [x] Exported to Keepeek Tuesday 25 June 2019 at 21:06
 
 ### Additional Information
 

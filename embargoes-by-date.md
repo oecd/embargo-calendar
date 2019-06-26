@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 25 June 2019 at 8:11* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 26 June 2019 at 6:51* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [24 June 2019](#24-june-2019)
 * [25 June 2019](#25-june-2019)
-* [27 June 2019](#27-june-2019)
+* [26 June 2019](#26-june-2019)
+* [1 July 2019](#1-july-2019)
 * [8 July 2019](#8-july-2019)
 * [12 July 2019](#12-july-2019)
 
@@ -152,19 +153,45 @@ Tuesday 25 June 2019 at 15:00 | no launch event
 
 ------
 
-# 27 June 2019
+# 26 June 2019
+
+## [World Drug Report 2019](https://doi.org/10.18356/a4dd519a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 June 2019 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 26 June 2019 at 0:55
+- [x] Exported to Keepeek Tuesday 25 June 2019 at 21:06
+
+### Additional Information
+
+* Directorate: *Non applicable*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 1 July 2019
 
 ## [Agricultural Policy Monitoring and Evaluation 2019](https://doi.org/10.1787/39bfe6f3-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 27 June 2019 at 12:00 | no launch event
+Monday 1 July 2019 at 8:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 21 June 2019 at 0:56
-- [x] Exported to Keepeek Thursday 20 June 2019 at 21:09
+- [x] Exported to iLibrary Wednesday 26 June 2019 at 0:55
+- [x] Exported to Keepeek Tuesday 25 June 2019 at 21:06
 
 ### Additional Information
 
