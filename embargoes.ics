@@ -2,123 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/b0b94dbd-end3e53
-SUMMARY:OECD Economic Surveys: New Zealand 2019
-DESCRIPTION:*OECD Economic Surveys: New Zealand 2019
- *\n\nDirectorate: Economics Department\n
- Language: English\nDOI: https://doi.org/
- 10.1787/b0b94dbd-en\nPublication type: E
- conomic survey\nReleased as: PDF\n\nEmba
- rgo date/time: Monday, 24 June 2019, 21:
- 00 (GMT)\n\n\niLibrary export: Tuesday, 
- 18 June 2019, 22:17 (GMT)\nFreepreview e
- xport: Tuesday, 18 June 2019, 18:59 (GMT
- )\nFTI loaded: ✓\n\nFor more information
-  see: https://github.com/oecd/embargo-ca
- lendar/blob/master/embargoes-by-publicat
- ion.md.\n\nPlease note: This information
-  was correct as of this morning at 6:51,
-  it is updated each night; therefore any
-  subsequent updates may not yet be visib
- le here. Also, please be aware that the 
- different released media (PDF, HTML, etc
- .) are not necessarily released at the s
- ame time. For complete and up-to-date in
- formation see here: http://kappa.oecd.or
- g/v3/search?term=b0b94dbd-en.
-DTSTAMP:20190626T065155Z
-DTSTART:20190624T210000Z
-DTEND:20190624T211500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Economic Surveys: New Zea
- land 2019
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/4d416a6b-end3e101
-SUMMARY:Public policy reforms to further improve
-  Portuguese export performance
-DESCRIPTION:*Public policy reforms to further improv
- e Portuguese export performance*\n\nDire
- ctorate: Economics Department\nLanguage:
-  English\nDOI: https://doi.org/10.1787/4
- d416a6b-en\nPublication type: Working pa
- per\nReleased as: PDF\n\nEmbargo date/ti
- me: Tuesday, 25 June 2019, 0:00 (GMT)\n\
- n\niLibrary export: Thursday, 20 June 20
- 19, 22:56 (GMT)\nFreepreview export: Thu
- rsday, 20 June 2019, 19:09 (GMT)\nFTI lo
- aded: ✓\n\nFor more information see: htt
- ps://github.com/oecd/embargo-calendar/bl
- ob/master/embargoes-by-publication.md.\n
- \nPlease note: This information was corr
- ect as of this morning at 6:51, it is up
- dated each night; therefore any subseque
- nt updates may not yet be visible here. 
- Also, please be aware that the different
-  released media (PDF, HTML, etc.) are no
- t necessarily released at the same time.
-  For complete and up-to-date information
-  see here: http://kappa.oecd.org/v3/sear
- ch?term=4d416a6b-en.
-DTSTAMP:20190626T065155Z
-DTSTART:20190625T000000Z
-DTEND:20190625T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Public policy reforms to furth
- er improve Portuguese export performance
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/737133d8-end3e149
-SUMMARY:Housing markets and macroeconomic risks
-DESCRIPTION:*Housing markets and macroeconomic risks
- *\n\nDirectorate: Economics Department\n
- Language: English\nDOI: https://doi.org/
- 10.1787/737133d8-en\nPublication type: W
- orking paper\nReleased as: PDF\n\nEmbarg
- o date/time: Tuesday, 25 June 2019, 0:00
-  (GMT)\n\n\niLibrary export: Thursday, 2
- 0 June 2019, 22:56 (GMT)\nFreepreview ex
- port: Thursday, 20 June 2019, 19:09 (GMT
- )\nFTI loaded: ✓\n\nFor more information
-  see: https://github.com/oecd/embargo-ca
- lendar/blob/master/embargoes-by-publicat
- ion.md.\n\nPlease note: This information
-  was correct as of this morning at 6:51,
-  it is updated each night; therefore any
-  subsequent updates may not yet be visib
- le here. Also, please be aware that the 
- different released media (PDF, HTML, etc
- .) are not necessarily released at the s
- ame time. For complete and up-to-date in
- formation see here: http://kappa.oecd.or
- g/v3/search?term=737133d8-en.
-DTSTAMP:20190626T065155Z
-DTSTART:20190625T000000Z
-DTEND:20190625T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Housing markets and macroecono
- mic risks
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/354732cc-end3e197
+UID:10.1787/354732cc-end3e53
 SUMMARY:Digital Government Review of Argentina -
   Accelerating the Digitalisation of the 
  Public Sector
@@ -137,7 +21,7 @@ DESCRIPTION:*Digital Government Review of Argentina
  ecd/embargo-calendar/blob/master/embargo
  es-by-publication.md.\n\nPlease note: Th
  is information was correct as of this mo
- rning at 6:51, it is updated each night;
+ rning at 2:05, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -146,7 +30,7 @@ DESCRIPTION:*Digital Government Review of Argentina
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=354732cc-
  en.
-DTSTAMP:20190626T065155Z
+DTSTAMP:20190627T020548Z
 DTSTART:20190625T110000Z
 DTEND:20190625T111500Z
 TRANSP:TRANSPARENT
@@ -161,7 +45,7 @@ DESCRIPTION:Reminder: Digital Government Review of A
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1988ccef-end3e247
+UID:10.1787/1988ccef-end3e102
 SUMMARY:Open Government in Argentina
 DESCRIPTION:*Open Government in Argentina*\n\nDirect
  orate: Directorate for Public Governance
@@ -176,7 +60,7 @@ DESCRIPTION:*Open Government in Argentina*\n\nDirect
  s://github.com/oecd/embargo-calendar/blo
  b/master/embargoes-by-publication.md.\n\
  nPlease note: This information was corre
- ct as of this morning at 6:51, it is upd
+ ct as of this morning at 2:05, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -185,7 +69,7 @@ DESCRIPTION:*Open Government in Argentina*\n\nDirect
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=1988ccef-en.
-DTSTAMP:20190626T065155Z
+DTSTAMP:20190627T020548Z
 DTSTART:20190625T140000Z
 DTEND:20190625T141500Z
 TRANSP:TRANSPARENT
@@ -198,7 +82,7 @@ DESCRIPTION:Reminder: Open Government in Argentina
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.18356/696a9392-end3e391
+UID:10.18356/696a9392-end3e247
 SUMMARY:Progress of the World's Women 2019–2020 
  - Families in a Changing World
 DESCRIPTION:*Progress of the World's Women 2019–2020
@@ -215,7 +99,7 @@ DESCRIPTION:*Progress of the World's Women 2019–2020
  ecd/embargo-calendar/blob/master/embargo
  es-by-publication.md.\n\nPlease note: Th
  is information was correct as of this mo
- rning at 6:51, it is updated each night;
+ rning at 2:05, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -224,7 +108,7 @@ DESCRIPTION:*Progress of the World's Women 2019–2020
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=696a9392-
  en.
-DTSTAMP:20190626T065155Z
+DTSTAMP:20190627T020548Z
 DTSTART:20190625T150000Z
 DTEND:20190625T151500Z
 TRANSP:TRANSPARENT
@@ -238,7 +122,7 @@ DESCRIPTION:Reminder: Progress of the World's Women
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.18356/a4dd519a-end3e1163
+UID:10.18356/a4dd519a-end3e1018
 SUMMARY:World Drug Report 2019
 DESCRIPTION:*World Drug Report 2019*\n\nDirectorate:
   Non applicable\nLanguage: English\nDOI:
@@ -253,7 +137,7 @@ DESCRIPTION:*World Drug Report 2019*\n\nDirectorate:
  embargo-calendar/blob/master/embargoes-b
  y-publication.md.\n\nPlease note: This i
  nformation was correct as of this mornin
- g at 6:51, it is updated each night; the
+ g at 2:05, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -261,7 +145,7 @@ DESCRIPTION:*World Drug Report 2019*\n\nDirectorate:
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=a4dd519a-en.
-DTSTAMP:20190626T065155Z
+DTSTAMP:20190627T020548Z
 DTSTART:20190626T130000Z
 DTEND:20190626T131500Z
 TRANSP:TRANSPARENT
@@ -274,7 +158,49 @@ DESCRIPTION:Reminder: World Drug Report 2019
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/39bfe6f3-end3e5852
+UID:10.18356/18ff7087-end3e1441
+SUMMARY:SME Competitiveness Outlook 2019 - Big M
+ oney for Small Business - Financing the 
+ Sustainable Development Goals
+DESCRIPTION:*SME Competitiveness Outlook 2019 - Big 
+ Money for Small Business - Financing the
+  Sustainable Development Goals*\n\nDirec
+ torate: Non applicable\nLanguage: Englis
+ h\nDOI: https://doi.org/10.18356/18ff708
+ 7-en\nPublication type: Book\nReleased a
+ s: PDF\n\nEmbargo date/time: Thursday, 2
+ 7 June 2019, 13:00 (GMT)\n\n\niLibrary e
+ xport: never\nFreepreview export: Wednes
+ day, 26 June 2019, 19:14 (GMT)\nFTI load
+ ed: ✓\n\nFor more information see: https
+ ://github.com/oecd/embargo-calendar/blob
+ /master/embargoes-by-publication.md.\n\n
+ Please note: This information was correc
+ t as of this morning at 2:05, it is upda
+ ted each night; therefore any subsequent
+  updates may not yet be visible here. Al
+ so, please be aware that the different r
+ eleased media (PDF, HTML, etc.) are not 
+ necessarily released at the same time. F
+ or complete and up-to-date information s
+ ee here: http://kappa.oecd.org/v3/search
+ ?term=18ff7087-en.
+DTSTAMP:20190627T020548Z
+DTSTART:20190627T130000Z
+DTEND:20190627T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: SME Competitiveness Outlook 20
+ 19 - Big Money for Small Business - Fina
+ ncing the Sustainable Development Goals
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/39bfe6f3-end3e5992
 SUMMARY:Agricultural Policy Monitoring and Evalu
  ation 2019
 DESCRIPTION:*Agricultural Policy Monitoring and Eval
@@ -282,25 +208,25 @@ DESCRIPTION:*Agricultural Policy Monitoring and Eval
  griculture Directorate\nLanguage: Englis
  h\nDOI: https://doi.org/10.1787/39bfe6f3
  -en\nPublication type: Book\nReleased as
- : ePub, HTML, PDF\n\nEmbargo date/time: 
- Monday, 1 July 2019, 8:00 (GMT)\n\n\niLi
- brary export: Tuesday, 25 June 2019, 22:
- 55 (GMT)\nFreepreview export: Tuesday, 2
- 5 June 2019, 19:06 (GMT)\nFTI loaded: ✓\
- n\nFor more information see: https://git
- hub.com/oecd/embargo-calendar/blob/maste
- r/embargoes-by-publication.md.\n\nPlease
-  note: This information was correct as o
- f this morning at 6:51, it is updated ea
- ch night; therefore any subsequent updat
- es may not yet be visible here. Also, pl
- ease be aware that the different release
- d media (PDF, HTML, etc.) are not necess
- arily released at the same time. For com
- plete and up-to-date information see her
- e: http://kappa.oecd.org/v3/search?term=
- 39bfe6f3-en.
-DTSTAMP:20190626T065155Z
+ : ePub, HTML, Paperback, PDF\n\nEmbargo 
+ date/time: Monday, 1 July 2019, 8:00 (GM
+ T)\n\n\niLibrary export: Tuesday, 25 Jun
+ e 2019, 22:55 (GMT)\nFreepreview export:
+  Tuesday, 25 June 2019, 19:06 (GMT)\nFTI
+  loaded: ✓\n\nFor more information see: 
+ https://github.com/oecd/embargo-calendar
+ /blob/master/embargoes-by-publication.md
+ .\n\nPlease note: This information was c
+ orrect as of this morning at 2:05, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=39bfe6f3-en.
+DTSTAMP:20190627T020548Z
 DTSTART:20190701T080000Z
 DTEND:20190701T081500Z
 TRANSP:TRANSPARENT
@@ -314,31 +240,31 @@ DESCRIPTION:Reminder: Agricultural Policy Monitoring
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/agr_outlook-2019-end3e34703
+UID:10.1787/agr_outlook-2019-end3e34888
 SUMMARY:OECD-FAO Agricultural Outlook 2019-2028
 DESCRIPTION:*OECD-FAO Agricultural Outlook 2019-2028
  *\n\nDirectorate: Trade and Agriculture 
  Directorate\nLanguage: English\nDOI: htt
  ps://doi.org/10.1787/agr_outlook-2019-en
- \nPublication type: Book\nReleased as: P
- DF\n\nEmbargo date/time: Monday, 8 July 
- 2019, 9:00 (GMT)\n\n\niLibrary export: T
- hursday, 20 June 2019, 22:56 (GMT)\nFree
- preview export: never\nFTI loaded: ✗\n\n
- For more information see: https://github
- .com/oecd/embargo-calendar/blob/master/e
- mbargoes-by-publication.md.\n\nPlease no
- te: This information was correct as of t
- his morning at 6:51, it is updated each 
- night; therefore any subsequent updates 
- may not yet be visible here. Also, pleas
- e be aware that the different released m
- edia (PDF, HTML, etc.) are not necessari
- ly released at the same time. For comple
- te and up-to-date information see here: 
- http://kappa.oecd.org/v3/search?term=agr
- _outlook-2019-en.
-DTSTAMP:20190626T065155Z
+ \nPublication type: Book\nReleased as: e
+ Pub, HTML, PDF\n\nEmbargo date/time: Mon
+ day, 8 July 2019, 9:00 (GMT)\n\n\niLibra
+ ry export: Thursday, 20 June 2019, 22:56
+  (GMT)\nFreepreview export: never\nFTI l
+ oaded: ✗\n\nFor more information see: ht
+ tps://github.com/oecd/embargo-calendar/b
+ lob/master/embargoes-by-publication.md.\
+ n\nPlease note: This information was cor
+ rect as of this morning at 2:05, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=agr_outlook-2019-en.
+DTSTAMP:20190627T020548Z
 DTSTART:20190708T090000Z
 DTEND:20190708T091500Z
 TRANSP:TRANSPARENT
@@ -352,7 +278,45 @@ DESCRIPTION:Reminder: OECD-FAO Agricultural Outlook
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/aec5b059-end3e34750
+UID:10.1787/1eee39bc-end3e35025
+SUMMARY:OECD Green Growth Policy Review of Indon
+ esia 2019
+DESCRIPTION:*OECD Green Growth Policy Review of Indo
+ nesia 2019*\n\nDirectorate: Environment 
+ Directorate\nLanguage: English\nDOI: htt
+ ps://doi.org/10.1787/1eee39bc-en\nPublic
+ ation type: Book\nReleased as: PDF\n\nEm
+ bargo date/time: Wednesday, 10 July 2019
+ , 2:00 (GMT)\n\n\niLibrary export: never
+ \nFreepreview export: never\nFTI loaded:
+  ✗\n\nFor more information see: https://
+ github.com/oecd/embargo-calendar/blob/ma
+ ster/embargoes-by-publication.md.\n\nPle
+ ase note: This information was correct a
+ s of this morning at 2:05, it is updated
+  each night; therefore any subsequent up
+ dates may not yet be visible here. Also,
+  please be aware that the different rele
+ ased media (PDF, HTML, etc.) are not nec
+ essarily released at the same time. For 
+ complete and up-to-date information see 
+ here: http://kappa.oecd.org/v3/search?te
+ rm=1eee39bc-en.
+DTSTAMP:20190627T020548Z
+DTSTART:20190710T020000Z
+DTEND:20190710T021500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Green Growth Policy Revie
+ w of Indonesia 2019
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/aec5b059-end3e35070
 SUMMARY:Economic Policy Reforms 2019 - Going for
   Growth
 DESCRIPTION:*Economic Policy Reforms 2019 - Going fo
@@ -368,7 +332,7 @@ DESCRIPTION:*Economic Policy Reforms 2019 - Going fo
  go-calendar/blob/master/embargoes-by-pub
  lication.md.\n\nPlease note: This inform
  ation was correct as of this morning at 
- 6:51, it is updated each night; therefor
+ 2:05, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -376,7 +340,7 @@ DESCRIPTION:*Economic Policy Reforms 2019 - Going fo
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=aec5b059-en.
-DTSTAMP:20190626T065155Z
+DTSTAMP:20190627T020548Z
 DTSTART:20190712T080000Z
 DTEND:20190712T081500Z
 TRANSP:TRANSPARENT

@@ -2,88 +2,19 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 26 June 2019 at 6:51* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 27 June 2019 at 2:05* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [24 June 2019](#24-june-2019)
 * [25 June 2019](#25-june-2019)
 * [26 June 2019](#26-june-2019)
+* [27 June 2019](#27-june-2019)
 * [1 July 2019](#1-july-2019)
 * [8 July 2019](#8-july-2019)
+* [10 July 2019](#10-july-2019)
 * [12 July 2019](#12-july-2019)
 
 ------
 
-# 24 June 2019
-
-## [OECD Economic Surveys: New Zealand 2019](https://doi.org/10.1787/b0b94dbd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 June 2019 at 21:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 June 2019 at 0:17
-- [x] Exported to Keepeek Tuesday 18 June 2019 at 20:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-------
-
 # 25 June 2019
-
-## [Public policy reforms to further improve Portuguese export performance](https://doi.org/10.1787/4d416a6b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 June 2019 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 21 June 2019 at 0:56
-- [x] Exported to Keepeek Thursday 20 June 2019 at 21:09
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Housing markets and macroeconomic risks](https://doi.org/10.1787/737133d8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 June 2019 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 21 June 2019 at 0:56
-- [x] Exported to Keepeek Thursday 20 June 2019 at 21:09
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ## [Digital Government Review of Argentina - Accelerating the Digitalisation of the Public Sector](https://doi.org/10.1787/354732cc-en)
 
@@ -179,6 +110,32 @@ Wednesday 26 June 2019 at 13:00 | no launch event
 
 ------
 
+# 27 June 2019
+
+## [SME Competitiveness Outlook 2019 - Big Money for Small Business - Financing the Sustainable Development Goals](https://doi.org/10.18356/18ff7087-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 June 2019 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Wednesday 26 June 2019 at 21:14
+
+### Additional Information
+
+* Directorate: *Non applicable*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
 # 1 July 2019
 
 ## [Agricultural Policy Monitoring and Evaluation 2019](https://doi.org/10.1787/39bfe6f3-en)
@@ -199,7 +156,7 @@ Monday 1 July 2019 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -222,6 +179,32 @@ Monday 8 July 2019 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+------
+
+# 10 July 2019
+
+## [OECD Green Growth Policy Review of Indonesia 2019](https://doi.org/10.1787/1eee39bc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2019 at 2:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
