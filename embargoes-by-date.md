@@ -2,85 +2,15 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 27 June 2019 at 2:05* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 28 June 2019 at 7:02* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [25 June 2019](#25-june-2019)
 * [26 June 2019](#26-june-2019)
 * [27 June 2019](#27-june-2019)
 * [1 July 2019](#1-july-2019)
+* [3 July 2019](#3-july-2019)
 * [8 July 2019](#8-july-2019)
 * [10 July 2019](#10-july-2019)
 * [12 July 2019](#12-july-2019)
-
-------
-
-# 25 June 2019
-
-## [Digital Government Review of Argentina - Accelerating the Digitalisation of the Public Sector](https://doi.org/10.1787/354732cc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 June 2019 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 24 June 2019 at 9:16
-- [x] Exported to Keepeek Friday 21 June 2019 at 20:58
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Open Government in Argentina](https://doi.org/10.1787/1988ccef-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 June 2019 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 June 2019 at 0:28
-- [x] Exported to Keepeek Monday 17 June 2019 at 21:03
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Progress of the World's Women 2019–2020 - Families in a Changing World](https://doi.org/10.18356/696a9392-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 June 2019 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 June 2019 at 1:57
-- [x] Exported to Keepeek Monday 24 June 2019 at 21:25
-
-### Additional Information
-
-* Directorate: *Non applicable*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -121,7 +51,7 @@ Thursday 27 June 2019 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 27 June 2019 at 10:13
 - [x] Exported to Keepeek Wednesday 26 June 2019 at 21:14
 
 ### Additional Information
@@ -138,6 +68,28 @@ Thursday 27 June 2019 at 13:00 | no launch event
 
 # 1 July 2019
 
+## [Realising regional potentials through better market integration in China](https://doi.org/10.1787/e5cbbaac-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 1 July 2019 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 28 June 2019 at 0:52
+- [x] Exported to Keepeek Thursday 27 June 2019 at 21:14
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Agricultural Policy Monitoring and Evaluation 2019](https://doi.org/10.1787/39bfe6f3-en)
 
 Embargo date | Launch date
@@ -147,7 +99,7 @@ Monday 1 July 2019 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 26 June 2019 at 0:55
+- [x] Exported to iLibrary Thursday 27 June 2019 at 1:13
 - [x] Exported to Keepeek Tuesday 25 June 2019 at 21:06
 
 ### Additional Information
@@ -157,6 +109,32 @@ Monday 1 July 2019 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 3 July 2019
+
+## [Aid for Trade at a Glance 2019 - Economic Diversification and Empowerment](https://doi.org/10.1787/18ea27d8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 3 July 2019 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 28 June 2019 at 0:52
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -172,8 +150,8 @@ Monday 8 July 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 21 June 2019 at 0:56
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 28 June 2019 at 0:52
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -199,7 +177,7 @@ Wednesday 10 July 2019 at 2:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 28 June 2019 at 0:52
 - [ ] Exported to Keepeek
 
 ### Additional Information
