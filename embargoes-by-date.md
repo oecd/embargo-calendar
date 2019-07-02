@@ -2,41 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 29 June 2019 at 7:25* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 2 July 2019 at 6:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [27 June 2019](#27-june-2019)
 * [1 July 2019](#1-july-2019)
 * [3 July 2019](#3-july-2019)
 * [8 July 2019](#8-july-2019)
 * [10 July 2019](#10-july-2019)
 * [12 July 2019](#12-july-2019)
 * [15 July 2019](#15-july-2019)
-
-------
-
-# 27 June 2019
-
-## [SME Competitiveness Outlook 2019 - Big Money for Small Business - Financing the Sustainable Development Goals](https://doi.org/10.18356/18ff7087-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 27 June 2019 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 27 June 2019 at 10:13
-- [x] Exported to Keepeek Wednesday 26 June 2019 at 21:14
-
-### Additional Information
-
-* Directorate: *Non applicable*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -134,6 +107,28 @@ Wednesday 3 July 2019 at 7:00 | no launch event
 
 ------
 
+## [Facilitating Trade through Regulatory Cooperation - The Case of the WTO's TBT/SPS Agreements and Committees](https://doi.org/10.1787/ad3c655f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 3 July 2019 at 9:15 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 2 July 2019 at 0:32
+- [x] Exported to Keepeek Monday 1 July 2019 at 21:04
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ------
 
 # 8 July 2019
@@ -173,7 +168,7 @@ Wednesday 10 July 2019 at 2:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 28 June 2019 at 0:52
+- [x] Exported to iLibrary Tuesday 2 July 2019 at 0:32
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -225,14 +220,14 @@ Monday 15 July 2019 at 22:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 2 July 2019 at 0:32
 - [ ] Exported to Keepeek
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
