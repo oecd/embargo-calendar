@@ -2,29 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 2 July 2019 at 6:11* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Realising regional potentials through better market integration in China](https://doi.org/10.1787/e5cbbaac-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 1 July 2019 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 28 June 2019 at 0:52
-- [x] Exported to Keepeek Thursday 27 June 2019 at 21:14
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Wednesday 3 July 2019 at 5:51* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Agricultural Policy Monitoring and Evaluation 2019](https://doi.org/10.1787/39bfe6f3-en)
 
@@ -64,6 +42,28 @@ Monday 1 July 2019 at 8:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * 3 Languages: [Italian](https://doi.org/10.1787/83f71b76-it), [English](https://doi.org/10.1787/f5a166fb-en), [French](https://doi.org/10.1787/ba95b999-fr)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [Multilingual Summaries for Aid for Trade at a Glance 2019](https://doi.org/10.1787/19c615ef-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 3 July 2019 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 3 July 2019 at 0:20
+- [x] Exported to Keepeek Tuesday 2 July 2019 at 20:59
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* 12 Languages: [Italian](https://doi.org/10.1787/34b07d0f-it), [Korean](https://doi.org/10.1787/893cf94e-ko), [German](https://doi.org/10.1787/cdce374e-de), [Indonesian](https://doi.org/10.1787/82d0b0bc-id), [Arabic](https://doi.org/10.1787/b9261764-ar), [Chinese](https://doi.org/10.1787/4cb8dd32-zh), [English](https://doi.org/10.1787/19c615ef-en), [Japanese](https://doi.org/10.1787/5218c206-ja), [Hindi](https://doi.org/10.1787/2cb2f3d5-hi), [Russian](https://doi.org/10.1787/5ac9798d-ru), [Portuguese](https://doi.org/10.1787/7c2d5aa8-pt), [French](https://doi.org/10.1787/c17e17f1-fr)
 * Availability: *Published*
 * Type of publication: *Summary*
 * Formats: *ePub, HTML, PDF*
@@ -123,7 +123,7 @@ Monday 8 July 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 29 June 2019 at 1:16
+- [x] Exported to iLibrary Wednesday 3 July 2019 at 0:20
 - [x] Exported to Keepeek Friday 28 June 2019 at 21:03
 
 ### Additional Information
@@ -132,7 +132,29 @@ Monday 8 July 2019 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Perspectives agricoles de l'OCDE et de la FAO 2019-2028](https://doi.org/10.1787/agr_outlook-2019-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 8 July 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 3 July 2019 at 0:20
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -144,15 +166,15 @@ Wednesday 10 July 2019 at 2:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 2 July 2019 at 0:32
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 3 July 2019 at 0:20
+- [x] Exported to Keepeek Tuesday 2 July 2019 at 20:59
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
 
@@ -189,7 +211,7 @@ Monday 15 July 2019 at 22:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 2 July 2019 at 0:32
+- [x] Exported to iLibrary Wednesday 3 July 2019 at 0:20
 - [ ] Exported to Keepeek
 
 ### Additional Information
