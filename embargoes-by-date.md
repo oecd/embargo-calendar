@@ -2,62 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 3 July 2019 at 5:51* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 4 July 2019 at 5:51* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [1 July 2019](#1-july-2019)
 * [3 July 2019](#3-july-2019)
 * [8 July 2019](#8-july-2019)
 * [10 July 2019](#10-july-2019)
 * [12 July 2019](#12-july-2019)
 * [15 July 2019](#15-july-2019)
-
-------
-
-# 1 July 2019
-
-## [Agricultural Policy Monitoring and Evaluation 2019](https://doi.org/10.1787/39bfe6f3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 1 July 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 27 June 2019 at 1:13
-- [x] Exported to Keepeek Tuesday 25 June 2019 at 21:06
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Multilingual Summaries for Agricultural Policy Monitoring and Evaluation 2019](https://doi.org/10.1787/f5a166fb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 1 July 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 29 June 2019 at 1:16
-- [x] Exported to Keepeek Friday 28 June 2019 at 21:03
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* 3 Languages: [Italian](https://doi.org/10.1787/83f71b76-it), [English](https://doi.org/10.1787/f5a166fb-en), [French](https://doi.org/10.1787/ba95b999-fr)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Formats: *ePub, HTML, PDF*
-
-------
 
 ------
 
@@ -116,7 +67,7 @@ Wednesday 3 July 2019 at 9:15 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 2 July 2019 at 0:32
+- [x] Exported to iLibrary Thursday 4 July 2019 at 0:16
 - [x] Exported to Keepeek Monday 1 July 2019 at 21:04
 
 ### Additional Information
@@ -143,7 +94,7 @@ Monday 8 July 2019 at 9:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 3 July 2019 at 0:20
-- [x] Exported to Keepeek Friday 28 June 2019 at 21:03
+- [x] Exported to Keepeek Wednesday 3 July 2019 at 20:58
 
 ### Additional Information
 
@@ -164,7 +115,7 @@ Monday 8 July 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 3 July 2019 at 0:20
+- [x] Exported to iLibrary Thursday 4 July 2019 at 0:16
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -173,7 +124,7 @@ Monday 8 July 2019 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
