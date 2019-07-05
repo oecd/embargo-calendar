@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 4 July 2019 at 5:51* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 5 July 2019 at 5:58* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [3 July 2019](#3-july-2019)
 * [8 July 2019](#8-july-2019)
@@ -45,7 +45,7 @@ Wednesday 3 July 2019 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 29 June 2019 at 1:16
+- [x] Exported to iLibrary Friday 5 July 2019 at 0:20
 - [x] Exported to Keepeek Friday 28 June 2019 at 21:03
 
 ### Additional Information
@@ -94,7 +94,7 @@ Monday 8 July 2019 at 9:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 3 July 2019 at 0:20
-- [x] Exported to Keepeek Wednesday 3 July 2019 at 20:58
+- [x] Exported to Keepeek Thursday 4 July 2019 at 20:59
 
 ### Additional Information
 
@@ -114,15 +114,15 @@ Monday 8 July 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 4 July 2019 at 0:16
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 5 July 2019 at 0:20
+- [x] Exported to Keepeek Thursday 4 July 2019 at 20:59
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -142,7 +142,7 @@ Wednesday 10 July 2019 at 2:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 3 July 2019 at 0:20
-- [x] Exported to Keepeek Tuesday 2 July 2019 at 20:59
+- [x] Exported to Keepeek Thursday 4 July 2019 at 20:59
 
 ### Additional Information
 
@@ -151,6 +151,50 @@ Wednesday 10 July 2019 at 2:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+## [OECD Economic Surveys: Luxembourg 2019](https://doi.org/10.1787/424839c1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2019 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 5 July 2019 at 0:20
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Études économiques de l'OCDE : Luxembourg 2019](https://doi.org/10.1787/2a4a718c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2019 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 5 July 2019 at 0:20
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 

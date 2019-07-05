@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Thu, 04 Jul 2019 05:51:47 GMT</pubDate>
+      <pubDate>Fri, 05 Jul 2019 05:58:09 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://raw.githubusercontent.com/oecd/embargo-calendar/master/embargoes.rss"
                  rel="self"
@@ -39,7 +39,7 @@
          <oe:languages>English</oe:languages>
          <oe:directorate>Development Co-operation Directorate</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Saturday, 29 June 2019, 1:16 (GMT)</oe:iLibraryExport>
+         <oe:iLibraryExport>Friday, 5 July 2019, 0:20 (GMT)</oe:iLibraryExport>
          <oe:freePreviewExport>Friday, 28 June 2019, 21:03 (GMT)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
@@ -70,7 +70,7 @@
          <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Wednesday, 3 July 2019, 0:20 (GMT)</oe:iLibraryExport>
-         <oe:freePreviewExport>Wednesday, 3 July 2019, 20:58 (GMT)</oe:freePreviewExport>
+         <oe:freePreviewExport>Thursday, 4 July 2019, 20:59 (GMT)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
@@ -83,13 +83,13 @@
          <oe:launchTime/>
          <oe:languages>French</oe:languages>
          <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
-         <oe:ftiLoaded/>
-         <oe:iLibraryExport>Thursday, 4 July 2019, 0:16 (GMT)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Friday, 5 July 2019, 0:20 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport>Thursday, 4 July 2019, 20:59 (GMT)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/1eee39bc-en-d3e19335</guid>
+         <guid isPermaLink="false">10.1787/1eee39bc-en-d3e19337</guid>
          <pubDate>Wed, 10 Jul 2019 04:00:00 GMT</pubDate>
          <title>OECD Green Growth Policy Review of Indonesia 2019</title>
          <link>https://doi.org/10.1787/1eee39bc-en</link>
@@ -100,11 +100,41 @@
          <oe:directorate>Environment Directorate</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Wednesday, 3 July 2019, 0:20 (GMT)</oe:iLibraryExport>
-         <oe:freePreviewExport>Tuesday, 2 July 2019, 20:59 (GMT)</oe:freePreviewExport>
+         <oe:freePreviewExport>Thursday, 4 July 2019, 20:59 (GMT)</oe:freePreviewExport>
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/aec5b059-en-d3e22838</guid>
+         <guid isPermaLink="false">10.1787/424839c1-en-d3e22840</guid>
+         <pubDate>Wed, 10 Jul 2019 14:00:00 GMT</pubDate>
+         <title>OECD Economic Surveys: Luxembourg 2019</title>
+         <link>https://doi.org/10.1787/424839c1-en</link>
+         <description>OECD Economic Surveys: Luxembourg 2019 by Economics Department has an embargo on Wednesday 10 July 2019 at 14:00.</description>
+         <oe:embargoTime>Wed, 10 Jul 2019 14:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Friday, 5 July 2019, 0:20 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Economic survey</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/2a4a718c-fr-d3e22886</guid>
+         <pubDate>Wed, 10 Jul 2019 14:00:00 GMT</pubDate>
+         <title>Études économiques de l'OCDE : Luxembourg 2019</title>
+         <link>https://doi.org/10.1787/2a4a718c-fr</link>
+         <description>Études économiques de l'OCDE : Luxembourg 2019 by Economics Department has an embargo on Wednesday 10 July 2019 at 14:00.</description>
+         <oe:embargoTime>Wed, 10 Jul 2019 14:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>French</oe:languages>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport>Friday, 5 July 2019, 0:20 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:catalogueType>Economic survey</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/aec5b059-en-d3e22932</guid>
          <pubDate>Fri, 12 Jul 2019 10:00:00 GMT</pubDate>
          <title>Economic Policy Reforms 2019 - Going for Growth</title>
          <link>https://doi.org/10.1787/aec5b059-en</link>
@@ -119,7 +149,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/1c142aae-en-d3e22885</guid>
+         <guid isPermaLink="false">10.1787/1c142aae-en-d3e22980</guid>
          <pubDate>Tue, 16 Jul 2019 00:30:00 GMT</pubDate>
          <title>Blended Finance in the Least Developed Countries 2019</title>
          <link>https://doi.org/10.1787/1c142aae-en</link>
