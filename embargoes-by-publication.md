@@ -2,85 +2,19 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 5 July 2019 at 5:58* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Multilingual Summaries for Aid for Trade at a Glance 2019](https://doi.org/10.1787/19c615ef-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 July 2019 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 3 July 2019 at 0:20
-- [x] Exported to Keepeek Tuesday 2 July 2019 at 20:59
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* 12 Languages: [Italian](https://doi.org/10.1787/34b07d0f-it), [Korean](https://doi.org/10.1787/893cf94e-ko), [German](https://doi.org/10.1787/cdce374e-de), [Indonesian](https://doi.org/10.1787/82d0b0bc-id), [Arabic](https://doi.org/10.1787/b9261764-ar), [Chinese](https://doi.org/10.1787/4cb8dd32-zh), [English](https://doi.org/10.1787/19c615ef-en), [Japanese](https://doi.org/10.1787/5218c206-ja), [Hindi](https://doi.org/10.1787/2cb2f3d5-hi), [Russian](https://doi.org/10.1787/5ac9798d-ru), [Portuguese](https://doi.org/10.1787/7c2d5aa8-pt), [French](https://doi.org/10.1787/c17e17f1-fr)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Aid for Trade at a Glance 2019 - Economic Diversification and Empowerment](https://doi.org/10.1787/18ea27d8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 July 2019 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 5 July 2019 at 0:20
-- [x] Exported to Keepeek Friday 28 June 2019 at 21:03
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Facilitating Trade through Regulatory Cooperation - The Case of the WTO's TBT/SPS Agreements and Committees](https://doi.org/10.1787/ad3c655f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 July 2019 at 9:15 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 4 July 2019 at 0:16
-- [x] Exported to Keepeek Monday 1 July 2019 at 21:04
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
+| *Saturday 6 July 2019 at 1:21* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD-FAO Agricultural Outlook 2019-2028](https://doi.org/10.1787/agr_outlook-2019-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 8 July 2019 at 9:00 | no launch event
+Monday 8 July 2019 at 9:30 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 3 July 2019 at 0:20
-- [x] Exported to Keepeek Thursday 4 July 2019 at 20:59
+- [x] Exported to Keepeek Friday 5 July 2019 at 21:00
 
 ### Additional Information
 
@@ -96,13 +30,13 @@ Monday 8 July 2019 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 8 July 2019 at 9:00 | no launch event
+Monday 8 July 2019 at 9:30 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 July 2019 at 0:20
-- [x] Exported to Keepeek Thursday 4 July 2019 at 20:59
+- [x] Exported to Keepeek Friday 5 July 2019 at 21:00
 
 ### Additional Information
 
@@ -110,7 +44,95 @@ Monday 8 July 2019 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Multilingual Summaries for OECD-FAO Agricultural Outlook 2019-2028](https://doi.org/10.1787/990badf8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 8 July 2019 at 9:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Friday 5 July 2019 at 21:00
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* 8 Languages: [Italian](https://doi.org/10.1787/c315d898-it), [Arabic](https://doi.org/10.1787/14a1a378-ar), [Chinese](https://doi.org/10.1787/414fefc7-zh), [English](https://doi.org/10.1787/990badf8-en), [Russian](https://doi.org/10.1787/77c2cc66-ru), [Spanish](https://doi.org/10.1787/3930e850-es), [Portuguese](https://doi.org/10.1787/fc22ad57-pt), [French](https://doi.org/10.1787/995b86d2-fr)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [ In-Depth Productivity Review of Belgium](https://doi.org/10.1787/88aefcd5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 8 July 2019 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 5 July 2019 at 0:20
+- [x] Exported to Keepeek Friday 5 July 2019 at 21:00
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Améliorer les performances du marché du travail en France: mise en oeuvre de la Stratégie pour l’emploi de l’OCDE](https://doi.org/10.1787/3017068c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2019 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Friday 5 July 2019 at 21:00
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Educational attainment, age and the consequences of job loss: empirical evidence from Germany](https://doi.org/10.1787/6197d3cc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2019 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Friday 5 July 2019 at 21:00
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -220,6 +242,6 @@ Monday 15 July 2019 at 22:30 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
