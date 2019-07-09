@@ -2,12 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 6 July 2019 at 1:21* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 9 July 2019 at 6:19* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [8 July 2019](#8-july-2019)
 * [10 July 2019](#10-july-2019)
+* [11 July 2019](#11-july-2019)
 * [12 July 2019](#12-july-2019)
 * [15 July 2019](#15-july-2019)
+* [24 July 2019](#24-july-2019)
 
 ------
 
@@ -22,7 +24,7 @@ Monday 8 July 2019 at 9:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 3 July 2019 at 0:20
+- [x] Exported to iLibrary Saturday 6 July 2019 at 0:34
 - [x] Exported to Keepeek Friday 5 July 2019 at 21:00
 
 ### Additional Information
@@ -44,7 +46,7 @@ Monday 8 July 2019 at 9:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 5 July 2019 at 0:20
+- [x] Exported to iLibrary Saturday 6 July 2019 at 0:34
 - [x] Exported to Keepeek Friday 5 July 2019 at 21:00
 
 ### Additional Information
@@ -66,7 +68,7 @@ Monday 8 July 2019 at 9:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Saturday 6 July 2019 at 0:34
 - [x] Exported to Keepeek Friday 5 July 2019 at 21:00
 
 ### Additional Information
@@ -88,7 +90,7 @@ Monday 8 July 2019 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 5 July 2019 at 0:20
+- [x] Exported to iLibrary Saturday 6 July 2019 at 0:34
 - [x] Exported to Keepeek Friday 5 July 2019 at 21:00
 
 ### Additional Information
@@ -114,7 +116,7 @@ Wednesday 10 July 2019 at 0:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Saturday 6 July 2019 at 0:34
 - [x] Exported to Keepeek Friday 5 July 2019 at 21:00
 
 ### Additional Information
@@ -136,7 +138,7 @@ Wednesday 10 July 2019 at 0:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Saturday 6 July 2019 at 0:34
 - [x] Exported to Keepeek Friday 5 July 2019 at 21:00
 
 ### Additional Information
@@ -217,6 +219,76 @@ Wednesday 10 July 2019 at 12:00 | no launch event
 
 ------
 
+# 11 July 2019
+
+## [Améliorer l’efficience de l’investissement public en France](https://doi.org/10.1787/9173caba-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 July 2019 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 9 July 2019 at 0:32
+- [x] Exported to Keepeek Monday 8 July 2019 at 21:05
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Who pays the price of folly? The business cycle and income and wealth mobility in Spain](https://doi.org/10.1787/880f797c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 July 2019 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 9 July 2019 at 0:32
+- [x] Exported to Keepeek Monday 8 July 2019 at 21:05
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [The road to 5G networks - Experience to date and future developments](https://doi.org/10.1787/2f880843-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 July 2019 at 3:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 9 July 2019 at 0:32
+- [x] Exported to Keepeek Monday 8 July 2019 at 21:05
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 12 July 2019
 
 ## [Economic Policy Reforms 2019 - Going for Growth](https://doi.org/10.1787/aec5b059-en)
@@ -264,5 +336,31 @@ Monday 15 July 2019 at 22:30 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 24 July 2019
+
+## [OECD Economic Surveys: Malaysia 2019](https://doi.org/10.1787/eaaa4190-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 July 2019 at 6:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 9 July 2019 at 0:32
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
