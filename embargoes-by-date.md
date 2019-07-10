@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 9 July 2019 at 6:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 10 July 2019 at 3:23* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [8 July 2019](#8-july-2019)
 * [10 July 2019](#10-july-2019)
@@ -46,7 +46,7 @@ Monday 8 July 2019 at 9:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 6 July 2019 at 0:34
+- [x] Exported to iLibrary Tuesday 9 July 2019 at 21:37
 - [x] Exported to Keepeek Friday 5 July 2019 at 21:00
 
 ### Additional Information
@@ -160,7 +160,7 @@ Wednesday 10 July 2019 at 2:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 3 July 2019 at 0:20
+- [x] Exported to iLibrary Tuesday 9 July 2019 at 21:37
 - [x] Exported to Keepeek Thursday 4 July 2019 at 20:59
 
 ### Additional Information
@@ -181,15 +181,15 @@ Wednesday 10 July 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 5 July 2019 at 0:20
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 9 July 2019 at 21:37
+- [x] Exported to Keepeek Tuesday 9 July 2019 at 21:05
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -203,15 +203,15 @@ Wednesday 10 July 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 5 July 2019 at 0:20
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 9 July 2019 at 21:37
+- [x] Exported to Keepeek Tuesday 9 July 2019 at 21:05
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -316,6 +316,28 @@ Friday 12 July 2019 at 8:00 | no launch event
 ------
 
 # 15 July 2019
+
+## [The effects of zero rating](https://doi.org/10.1787/6eefc666-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 15 July 2019 at 3:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 9 July 2019 at 21:37
+- [x] Exported to Keepeek Tuesday 9 July 2019 at 21:05
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
 
 ## [Blended Finance in the Least Developed Countries 2019](https://doi.org/10.1787/1c142aae-en)
 
