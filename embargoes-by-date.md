@@ -2,106 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 10 July 2019 at 3:23* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 10 July 2019 at 22:21* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [8 July 2019](#8-july-2019)
 * [10 July 2019](#10-july-2019)
 * [11 July 2019](#11-july-2019)
 * [12 July 2019](#12-july-2019)
 * [15 July 2019](#15-july-2019)
 * [24 July 2019](#24-july-2019)
-
-------
-
-# 8 July 2019
-
-## [OECD-FAO Agricultural Outlook 2019-2028](https://doi.org/10.1787/agr_outlook-2019-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 8 July 2019 at 9:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 6 July 2019 at 0:34
-- [x] Exported to Keepeek Friday 5 July 2019 at 21:00
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Perspectives agricoles de l'OCDE et de la FAO 2019-2028](https://doi.org/10.1787/agr_outlook-2019-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 8 July 2019 at 9:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 July 2019 at 21:37
-- [x] Exported to Keepeek Friday 5 July 2019 at 21:00
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Multilingual Summaries for OECD-FAO Agricultural Outlook 2019-2028](https://doi.org/10.1787/990badf8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 8 July 2019 at 9:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 6 July 2019 at 0:34
-- [x] Exported to Keepeek Friday 5 July 2019 at 21:00
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* 8 Languages: [Italian](https://doi.org/10.1787/c315d898-it), [Arabic](https://doi.org/10.1787/14a1a378-ar), [Chinese](https://doi.org/10.1787/414fefc7-zh), [English](https://doi.org/10.1787/990badf8-en), [Russian](https://doi.org/10.1787/77c2cc66-ru), [Spanish](https://doi.org/10.1787/3930e850-es), [Portuguese](https://doi.org/10.1787/fc22ad57-pt), [French](https://doi.org/10.1787/995b86d2-fr)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [ In-Depth Productivity Review of Belgium](https://doi.org/10.1787/88aefcd5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 8 July 2019 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 6 July 2019 at 0:34
-- [x] Exported to Keepeek Friday 5 July 2019 at 21:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
+* [22 August 2019](#22-august-2019)
 
 ------
 
@@ -383,6 +291,32 @@ Wednesday 24 July 2019 at 6:30 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+------
+
+# 22 August 2019
+
+## [Country-by-Country Reporting – Compilation of Peer Review Reports (Phase 2) - Inclusive Framework on BEPS: Action 13](https://doi.org/10.1787/f9bf1157-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 22 August 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 28 June 2019 at 0:52
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
