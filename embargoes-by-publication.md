@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 10 July 2019 at 22:21* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 11 July 2019 at 22:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Améliorer les performances du marché du travail en France: mise en oeuvre de la Stratégie pour l’emploi de l’OCDE](https://doi.org/10.1787/3017068c-fr)
 
@@ -167,7 +167,7 @@ Thursday 11 July 2019 at 3:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 July 2019 at 0:32
+- [x] Exported to iLibrary Thursday 11 July 2019 at 21:17
 - [x] Exported to Keepeek Monday 8 July 2019 at 21:05
 
 ### Additional Information
@@ -188,15 +188,15 @@ Friday 12 July 2019 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 24 June 2019 at 9:16
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 11 July 2019 at 21:17
+- [x] Exported to Keepeek Thursday 11 July 2019 at 21:00
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -232,15 +232,15 @@ Monday 15 July 2019 at 22:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 3 July 2019 at 0:20
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 11 July 2019 at 21:17
+- [x] Exported to Keepeek Thursday 11 July 2019 at 21:00
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -277,7 +277,7 @@ Thursday 22 August 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 28 June 2019 at 0:52
+- [x] Exported to iLibrary Wednesday 10 July 2019 at 21:28
 - [ ] Exported to Keepeek
 
 ### Additional Information
