@@ -2,117 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 11 July 2019 at 22:10* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Améliorer les performances du marché du travail en France: mise en oeuvre de la Stratégie pour l’emploi de l’OCDE](https://doi.org/10.1787/3017068c-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 10 July 2019 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 6 July 2019 at 0:34
-- [x] Exported to Keepeek Friday 5 July 2019 at 21:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Educational attainment, age and the consequences of job loss: empirical evidence from Germany](https://doi.org/10.1787/6197d3cc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 10 July 2019 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 6 July 2019 at 0:34
-- [x] Exported to Keepeek Friday 5 July 2019 at 21:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [OECD Green Growth Policy Review of Indonesia 2019](https://doi.org/10.1787/1eee39bc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 10 July 2019 at 2:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 July 2019 at 21:37
-- [x] Exported to Keepeek Thursday 4 July 2019 at 20:59
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [OECD Economic Surveys: Luxembourg 2019](https://doi.org/10.1787/424839c1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 10 July 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 July 2019 at 21:37
-- [x] Exported to Keepeek Tuesday 9 July 2019 at 21:05
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Études économiques de l'OCDE : Luxembourg 2019](https://doi.org/10.1787/2a4a718c-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 10 July 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 July 2019 at 21:37
-- [x] Exported to Keepeek Tuesday 9 July 2019 at 21:05
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
+| *Friday 12 July 2019 at 22:05* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Améliorer l’efficience de l’investissement public en France](https://doi.org/10.1787/9173caba-en)
 
@@ -190,7 +80,7 @@ Friday 12 July 2019 at 8:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 11 July 2019 at 21:17
-- [x] Exported to Keepeek Thursday 11 July 2019 at 21:00
+- [x] Exported to Keepeek Friday 12 July 2019 at 1:05
 
 ### Additional Information
 
@@ -234,7 +124,7 @@ Monday 15 July 2019 at 22:30 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 11 July 2019 at 21:17
-- [x] Exported to Keepeek Thursday 11 July 2019 at 21:00
+- [x] Exported to Keepeek Friday 12 July 2019 at 1:05
 
 ### Additional Information
 
