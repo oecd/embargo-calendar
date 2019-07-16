@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 15 July 2019 at 22:33* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 16 July 2019 at 22:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [15 July 2019](#15-july-2019)
 * [24 July 2019](#24-july-2019)
@@ -44,8 +44,8 @@ Monday 15 July 2019 at 22:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 11 July 2019 at 21:17
-- [x] Exported to Keepeek Monday 15 July 2019 at 21:04
+- [x] Exported to iLibrary Tuesday 16 July 2019 at 9:42
+- [x] Exported to Keepeek Tuesday 16 July 2019 at 21:06
 
 ### Additional Information
 

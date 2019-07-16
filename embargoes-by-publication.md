@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 15 July 2019 at 22:33* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 16 July 2019 at 22:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The effects of zero rating](https://doi.org/10.1787/6eefc666-en)
 
@@ -35,8 +35,8 @@ Monday 15 July 2019 at 22:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 11 July 2019 at 21:17
-- [x] Exported to Keepeek Monday 15 July 2019 at 21:04
+- [x] Exported to iLibrary Tuesday 16 July 2019 at 9:42
+- [x] Exported to Keepeek Tuesday 16 July 2019 at 21:06
 
 ### Additional Information
 
