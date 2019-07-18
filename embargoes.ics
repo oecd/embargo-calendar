@@ -2,48 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/1c142aae-end3e531
-SUMMARY:Blended Finance in the Least Developed C
- ountries 2019
-DESCRIPTION:*Blended Finance in the Least Developed 
- Countries 2019*\n\nDirectorate: Developm
- ent Co-operation Directorate\nLanguage: 
- English\nDOI: https://doi.org/10.1787/1c
- 142aae-en\nPublication type: Stand-alone
-  monograph\nReleased as: ePub, HTML, Pap
- erback, PDF\n\nEmbargo date/time: Monday
- , 15 July 2019, 22:30 (GMT)\n\n\niLibrar
- y export: Tuesday, 16 July 2019, 7:42 (G
- MT)\nFreepreview export: Tuesday, 16 Jul
- y 2019, 23:11 (GMT)\nFTI loaded: ✓\n\nFo
- r more information see: https://github.c
- om/oecd/embargo-calendar/blob/master/emb
- argoes-by-publication.md.\n\nPlease note
- : This information was correct as of thi
- s afternoon at 22:18, it is updated each
-  night; therefore any subsequent updates
-  may not yet be visible here. Also, plea
- se be aware that the different released 
- media (PDF, HTML, etc.) are not necessar
- ily released at the same time. For compl
- ete and up-to-date information see here:
-  http://kappa.oecd.org/v3/search?term=1c
- 142aae-en.
-DTSTAMP:20190717T221812Z
-DTSTART:20190715T223000Z
-DTEND:20190715T224500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Blended Finance in the Least D
- eveloped Countries 2019
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/1d516b5c-end3e1823
+UID:10.1787/1d516b5c-end3e53
 SUMMARY:Means, ends and meaning in accountabilit
  y for strategic education governance
 DESCRIPTION:*Means, ends and meaning in accountabili
@@ -61,7 +20,7 @@ DESCRIPTION:*Means, ends and meaning in accountabili
  ecd/embargo-calendar/blob/master/embargo
  es-by-publication.md.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 22:18, it is updated each nig
+ ternoon at 23:00, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -70,7 +29,7 @@ DESCRIPTION:*Means, ends and meaning in accountabili
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=1d516b
  5c-en.
-DTSTAMP:20190717T221812Z
+DTSTAMP:20190718T230034Z
 DTSTART:20190722T090000Z
 DTEND:20190722T091500Z
 TRANSP:TRANSPARENT
@@ -85,7 +44,7 @@ DESCRIPTION:Reminder: Means, ends and meaning in acc
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/eaaa4190-end3e1871
+UID:10.1787/eaaa4190-end3e101
 SUMMARY:OECD Economic Surveys: Malaysia 2019
 DESCRIPTION:*OECD Economic Surveys: Malaysia 2019*\n
  \nDirectorate: Economics Department\nLan
@@ -93,22 +52,23 @@ DESCRIPTION:*OECD Economic Surveys: Malaysia 2019*\n
  1787/eaaa4190-en\nPublication type: Econ
  omic survey\nReleased as: PDF\n\nEmbargo
   date/time: Wednesday, 24 July 2019, 6:3
- 0 (GMT)\n\n\niLibrary export: Monday, 8 
- July 2019, 22:32 (GMT)\nFreepreview expo
- rt: never\nFTI loaded: ✗\n\nFor more inf
- ormation see: https://github.com/oecd/em
- bargo-calendar/blob/master/embargoes-by-
- publication.md.\n\nPlease note: This inf
- ormation was correct as of this afternoo
- n at 22:18, it is updated each night; th
- erefore any subsequent updates may not y
- et be visible here. Also, please be awar
- e that the different released media (PDF
- , HTML, etc.) are not necessarily releas
- ed at the same time. For complete and up
- -to-date information see here: http://ka
- ppa.oecd.org/v3/search?term=eaaa4190-en.
-DTSTAMP:20190717T221812Z
+ 0 (GMT)\n\n\niLibrary export: Thursday, 
+ 18 July 2019, 19:54 (GMT)\nFreepreview e
+ xport: Thursday, 18 July 2019, 19:25 (GM
+ T)\nFTI loaded: ✓\n\nFor more informatio
+ n see: https://github.com/oecd/embargo-c
+ alendar/blob/master/embargoes-by-publica
+ tion.md.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 23
+ :00, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=eaaa4190-en.
+DTSTAMP:20190718T230034Z
 DTSTART:20190724T063000Z
 DTEND:20190724T064500Z
 TRANSP:TRANSPARENT
@@ -122,7 +82,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Malaysi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b614e035-end3e1964
+UID:10.1787/b614e035-end3e195
 SUMMARY:Revenue Statistics in Asian and Pacific 
  Economies 2019
 DESCRIPTION:*Revenue Statistics in Asian and Pacific
@@ -133,22 +93,23 @@ DESCRIPTION:*Revenue Statistics in Asian and Pacific
  Released as: ePub, HTML, Paperback, PDF\
  n\nEmbargo date/time: Wednesday, 24 July
   2019, 8:00 (GMT)\n\n\niLibrary export: 
- Wednesday, 17 July 2019, 19:21 (GMT)\nFr
- eepreview export: never\nFTI loaded: ✗\n
- \nFor more information see: https://gith
- ub.com/oecd/embargo-calendar/blob/master
- /embargoes-by-publication.md.\n\nPlease 
- note: This information was correct as of
-  this afternoon at 22:18, it is updated 
- each night; therefore any subsequent upd
- ates may not yet be visible here. Also, 
- please be aware that the different relea
- sed media (PDF, HTML, etc.) are not nece
- ssarily released at the same time. For c
- omplete and up-to-date information see h
- ere: http://kappa.oecd.org/v3/search?ter
- m=b614e035-en.
-DTSTAMP:20190717T221812Z
+ Thursday, 18 July 2019, 19:54 (GMT)\nFre
+ epreview export: Thursday, 18 July 2019,
+  19:25 (GMT)\nFTI loaded: ✓\n\nFor more 
+ information see: https://github.com/oecd
+ /embargo-calendar/blob/master/embargoes-
+ by-publication.md.\n\nPlease note: This 
+ information was correct as of this after
+ noon at 23:00, it is updated each night;
+  therefore any subsequent updates may no
+ t yet be visible here. Also, please be a
+ ware that the different released media (
+ PDF, HTML, etc.) are not necessarily rel
+ eased at the same time. For complete and
+  up-to-date information see here: http:/
+ /kappa.oecd.org/v3/search?term=b614e035-
+ en.
+DTSTAMP:20190718T230034Z
 DTSTART:20190724T080000Z
 DTEND:20190724T081500Z
 TRANSP:TRANSPARENT
@@ -162,24 +123,226 @@ DESCRIPTION:Reminder: Revenue Statistics in Asian an
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c79badcc-end3e2102
-SUMMARY:Financial Incentives to Promote Adult Le
- arning in Australia
-DESCRIPTION:*Financial Incentives to Promote Adult L
- earning in Australia*\n\nDirectorate: Di
- rectorate for Employment, Labour and Soc
- ial Affairs\nLanguage: English\nDOI: htt
- ps://doi.org/10.1787/c79badcc-en\nPublic
- ation type: Book\nReleased as: Paperback
- , PDF\n\nEmbargo date/time: Thursday, 8 
- August 2019, 8:00 (GMT)\n\n\niLibrary ex
- port: Monday, 15 July 2019, 19:31 (GMT)\
- nFreepreview export: never\nFTI loaded: 
- ✗\n\nFor more information see: https://g
+UID:10.1787/d32b72f9-end3e336
+SUMMARY:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Botsw
+ ana 2019 (Second Round) - Peer Review Re
+ port on the Exchange of Information on R
+ equest
+DESCRIPTION:*Global Forum on Transparency and Exchan
+ ge of Information for Tax Purposes: Bots
+ wana 2019 (Second Round) - Peer Review R
+ eport on the Exchange of Information on 
+ Request*\n\nDirectorate: Centre for Tax 
+ Policy and Administration\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/d32b7
+ 2f9-en\nPublication type: Book\nReleased
+  as: Paperback, PDF\n\nEmbargo date/time
+ : Monday, 29 July 2019, 9:00 (GMT)\n\n\n
+ iLibrary export: Thursday, 18 July 2019,
+  19:54 (GMT)\nFreepreview export: Thursd
+ ay, 18 July 2019, 19:25 (GMT)\nFTI loade
+ d: ✓\n\nFor more information see: https:
+ //github.com/oecd/embargo-calendar/blob/
+ master/embargoes-by-publication.md.\n\nP
+ lease note: This information was correct
+  as of this afternoon at 23:00, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=d32b72f9-en.
+DTSTAMP:20190718T230034Z
+DTSTART:20190729T090000Z
+DTEND:20190729T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Forum on Transparency a
+ nd Exchange of Information for Tax Purpo
+ ses: Botswana 2019 (Second Round) - Peer
+  Review Report on the Exchange of Inform
+ ation on Request
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ccacbca7-end3e385
+SUMMARY:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Croat
+ ia 2019 (Second Round) - Peer Review Rep
+ ort on the Exchange of Information on Re
+ quest
+DESCRIPTION:*Global Forum on Transparency and Exchan
+ ge of Information for Tax Purposes: Croa
+ tia 2019 (Second Round) - Peer Review Re
+ port on the Exchange of Information on R
+ equest*\n\nDirectorate: Centre for Tax P
+ olicy and Administration\nLanguage: Engl
+ ish\nDOI: https://doi.org/10.1787/ccacbc
+ a7-en\nPublication type: Book\nReleased 
+ as: Paperback, PDF\n\nEmbargo date/time:
+  Monday, 29 July 2019, 9:00 (GMT)\n\n\ni
+ Library export: Thursday, 18 July 2019, 
+ 19:54 (GMT)\nFreepreview export: Thursda
+ y, 18 July 2019, 19:25 (GMT)\nFTI loaded
+ : ✓\n\nFor more information see: https:/
+ /github.com/oecd/embargo-calendar/blob/m
+ aster/embargoes-by-publication.md.\n\nPl
+ ease note: This information was correct 
+ as of this afternoon at 23:00, it is upd
+ ated each night; therefore any subsequen
+ t updates may not yet be visible here. A
+ lso, please be aware that the different 
+ released media (PDF, HTML, etc.) are not
+  necessarily released at the same time. 
+ For complete and up-to-date information 
+ see here: http://kappa.oecd.org/v3/searc
+ h?term=ccacbca7-en.
+DTSTAMP:20190718T230034Z
+DTSTART:20190729T090000Z
+DTEND:20190729T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Forum on Transparency a
+ nd Exchange of Information for Tax Purpo
+ ses: Croatia 2019 (Second Round) - Peer 
+ Review Report on the Exchange of Informa
+ tion on Request
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/939f334e-end3e481
+SUMMARY:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Leban
+ on 2019 (Second Round) - Peer Review Rep
+ ort on the Exchange of Information on Re
+ quest
+DESCRIPTION:*Global Forum on Transparency and Exchan
+ ge of Information for Tax Purposes: Leba
+ non 2019 (Second Round) - Peer Review Re
+ port on the Exchange of Information on R
+ equest*\n\nDirectorate: Centre for Tax P
+ olicy and Administration\nLanguage: Engl
+ ish\nDOI: https://doi.org/10.1787/939f33
+ 4e-en\nPublication type: Book\nReleased 
+ as: Paperback, PDF\n\nEmbargo date/time:
+  Monday, 29 July 2019, 9:00 (GMT)\n\n\ni
+ Library export: Thursday, 18 July 2019, 
+ 19:54 (GMT)\nFreepreview export: Thursda
+ y, 18 July 2019, 19:25 (GMT)\nFTI loaded
+ : ✓\n\nFor more information see: https:/
+ /github.com/oecd/embargo-calendar/blob/m
+ aster/embargoes-by-publication.md.\n\nPl
+ ease note: This information was correct 
+ as of this afternoon at 23:00, it is upd
+ ated each night; therefore any subsequen
+ t updates may not yet be visible here. A
+ lso, please be aware that the different 
+ released media (PDF, HTML, etc.) are not
+  necessarily released at the same time. 
+ For complete and up-to-date information 
+ see here: http://kappa.oecd.org/v3/searc
+ h?term=939f334e-en.
+DTSTAMP:20190718T230034Z
+DTSTART:20190729T090000Z
+DTEND:20190729T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Forum on Transparency a
+ nd Exchange of Information for Tax Purpo
+ ses: Lebanon 2019 (Second Round) - Peer 
+ Review Report on the Exchange of Informa
+ tion on Request
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/4d74d8a2-end3e531
+SUMMARY:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Costa
+  Rica 2019 (Second Round) - Peer Review 
+ Report on the Exchange of Information on
+  Request
+DESCRIPTION:*Global Forum on Transparency and Exchan
+ ge of Information for Tax Purposes: Cost
+ a Rica 2019 (Second Round) - Peer Review
+  Report on the Exchange of Information o
+ n Request*\n\nDirectorate: Centre for Ta
+ x Policy and Administration\nLanguage: E
+ nglish\nDOI: https://doi.org/10.1787/4d7
+ 4d8a2-en\nPublication type: Book\nReleas
+ ed as: Paperback, PDF\n\nEmbargo date/ti
+ me: Monday, 29 July 2019, 9:00 (GMT)\n\n
+ \niLibrary export: Thursday, 18 July 201
+ 9, 19:54 (GMT)\nFreepreview export: Thur
+ sday, 18 July 2019, 19:25 (GMT)\nFTI loa
+ ded: ✓\n\nFor more information see: http
+ s://github.com/oecd/embargo-calendar/blo
+ b/master/embargoes-by-publication.md.\n\
+ nPlease note: This information was corre
+ ct as of this afternoon at 23:00, it is 
+ updated each night; therefore any subseq
+ uent updates may not yet be visible here
+ . Also, please be aware that the differe
+ nt released media (PDF, HTML, etc.) are 
+ not necessarily released at the same tim
+ e. For complete and up-to-date informati
+ on see here: http://kappa.oecd.org/v3/se
+ arch?term=4d74d8a2-en.
+DTSTAMP:20190718T230034Z
+DTSTART:20190729T090000Z
+DTEND:20190729T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Forum on Transparency a
+ nd Exchange of Information for Tax Purpo
+ ses: Costa Rica 2019 (Second Round) - Pe
+ er Review Report on the Exchange of Info
+ rmation on Request
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/43120c29-end3e721
+SUMMARY:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Nauru
+  2019 (Second Round) - Peer Review Repor
+ t on the Exchange of Information on Requ
+ est
+DESCRIPTION:*Global Forum on Transparency and Exchan
+ ge of Information for Tax Purposes: Naur
+ u 2019 (Second Round) - Peer Review Repo
+ rt on the Exchange of Information on Req
+ uest*\n\nDirectorate: Centre for Tax Pol
+ icy and Administration\nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/43120c29
+ -en\nPublication type: Book\nReleased as
+ : Paperback, PDF\n\nEmbargo date/time: M
+ onday, 29 July 2019, 9:00 (GMT)\n\n\niLi
+ brary export: Thursday, 18 July 2019, 19
+ :54 (GMT)\nFreepreview export: Thursday,
+  18 July 2019, 19:25 (GMT)\nFTI loaded: 
+ ✓\n\nFor more information see: https://g
  ithub.com/oecd/embargo-calendar/blob/mas
  ter/embargoes-by-publication.md.\n\nPlea
  se note: This information was correct as
-  of this afternoon at 22:18, it is updat
+  of this afternoon at 23:00, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -187,10 +350,248 @@ DESCRIPTION:*Financial Incentives to Promote Adult L
  ecessarily released at the same time. Fo
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
- term=c79badcc-en.
-DTSTAMP:20190717T221812Z
-DTSTART:20190808T080000Z
-DTEND:20190808T081500Z
+ term=43120c29-en.
+DTSTAMP:20190718T230034Z
+DTSTART:20190729T090000Z
+DTEND:20190729T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Forum on Transparency a
+ nd Exchange of Information for Tax Purpo
+ ses: Nauru 2019 (Second Round) - Peer Re
+ view Report on the Exchange of Informati
+ on on Request
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/4bc8ab63-end3e818
+SUMMARY:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Feder
+ ated States of Micronesia 2019 (Second R
+ ound) - Peer Review Report on the Exchan
+ ge of Information on Request
+DESCRIPTION:*Global Forum on Transparency and Exchan
+ ge of Information for Tax Purposes: Fede
+ rated States of Micronesia 2019 (Second 
+ Round) - Peer Review Report on the Excha
+ nge of Information on Request*\n\nDirect
+ orate: Centre for Tax Policy and Adminis
+ tration\nLanguage: English\nDOI: https:/
+ /doi.org/10.1787/4bc8ab63-en\nPublicatio
+ n type: Book\nReleased as: Paperback, PD
+ F\n\nEmbargo date/time: Monday, 29 July 
+ 2019, 9:00 (GMT)\n\n\niLibrary export: T
+ hursday, 18 July 2019, 19:54 (GMT)\nFree
+ preview export: never\nFTI loaded: ✗\n\n
+ For more information see: https://github
+ .com/oecd/embargo-calendar/blob/master/e
+ mbargoes-by-publication.md.\n\nPlease no
+ te: This information was correct as of t
+ his afternoon at 23:00, it is updated ea
+ ch night; therefore any subsequent updat
+ es may not yet be visible here. Also, pl
+ ease be aware that the different release
+ d media (PDF, HTML, etc.) are not necess
+ arily released at the same time. For com
+ plete and up-to-date information see her
+ e: http://kappa.oecd.org/v3/search?term=
+ 4bc8ab63-en.
+DTSTAMP:20190718T230034Z
+DTSTART:20190729T090000Z
+DTEND:20190729T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Forum on Transparency a
+ nd Exchange of Information for Tax Purpo
+ ses: Federated States of Micronesia 2019
+  (Second Round) - Peer Review Report on 
+ the Exchange of Information on Request
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/dd70b774-end3e865
+SUMMARY:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Vanua
+ tu 2019 (Second Round) - Peer Review Rep
+ ort on the Exchange of Information on Re
+ quest
+DESCRIPTION:*Global Forum on Transparency and Exchan
+ ge of Information for Tax Purposes: Vanu
+ atu 2019 (Second Round) - Peer Review Re
+ port on the Exchange of Information on R
+ equest*\n\nDirectorate: Centre for Tax P
+ olicy and Administration\nLanguage: Engl
+ ish\nDOI: https://doi.org/10.1787/dd70b7
+ 74-en\nPublication type: Book\nReleased 
+ as: Paperback, PDF\n\nEmbargo date/time:
+  Monday, 29 July 2019, 9:00 (GMT)\n\n\ni
+ Library export: Thursday, 18 July 2019, 
+ 19:54 (GMT)\nFreepreview export: never\n
+ FTI loaded: ✗\n\nFor more information se
+ e: https://github.com/oecd/embargo-calen
+ dar/blob/master/embargoes-by-publication
+ .md.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:00,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=dd70b774-en.
+DTSTAMP:20190718T230034Z
+DTSTART:20190729T090000Z
+DTEND:20190729T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Forum on Transparency a
+ nd Exchange of Information for Tax Purpo
+ ses: Vanuatu 2019 (Second Round) - Peer 
+ Review Report on the Exchange of Informa
+ tion on Request
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/d422824d-end3e912
+SUMMARY:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Malay
+ sia 2019 (Second Round) - Peer Review Re
+ port on the Exchange of Information on R
+ equest
+DESCRIPTION:*Global Forum on Transparency and Exchan
+ ge of Information for Tax Purposes: Mala
+ ysia 2019 (Second Round) - Peer Review R
+ eport on the Exchange of Information on 
+ Request*\n\nDirectorate: Centre for Tax 
+ Policy and Administration\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/d4228
+ 24d-en\nPublication type: Book\nReleased
+  as: Paperback, PDF\n\nEmbargo date/time
+ : Monday, 29 July 2019, 9:00 (GMT)\n\n\n
+ iLibrary export: Thursday, 18 July 2019,
+  19:54 (GMT)\nFreepreview export: Thursd
+ ay, 18 July 2019, 19:25 (GMT)\nFTI loade
+ d: ✓\n\nFor more information see: https:
+ //github.com/oecd/embargo-calendar/blob/
+ master/embargoes-by-publication.md.\n\nP
+ lease note: This information was correct
+  as of this afternoon at 23:00, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=d422824d-en.
+DTSTAMP:20190718T230034Z
+DTSTART:20190729T090000Z
+DTEND:20190729T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Forum on Transparency a
+ nd Exchange of Information for Tax Purpo
+ ses: Malaysia 2019 (Second Round) - Peer
+  Review Report on the Exchange of Inform
+ ation on Request
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/5ce22634-end3e1055
+SUMMARY:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Guate
+ mala 2019 (Second Round) - Peer Review R
+ eport on the Exchange of Information on 
+ Request
+DESCRIPTION:*Global Forum on Transparency and Exchan
+ ge of Information for Tax Purposes: Guat
+ emala 2019 (Second Round) - Peer Review 
+ Report on the Exchange of Information on
+  Request*\n\nDirectorate: Centre for Tax
+  Policy and Administration\nLanguage: En
+ glish\nDOI: https://doi.org/10.1787/5ce2
+ 2634-en\nPublication type: Book\nRelease
+ d as: Paperback, PDF\n\nEmbargo date/tim
+ e: Monday, 29 July 2019, 9:00 (GMT)\n\n\
+ niLibrary export: Thursday, 18 July 2019
+ , 19:54 (GMT)\nFreepreview export: Thurs
+ day, 18 July 2019, 19:25 (GMT)\nFTI load
+ ed: ✓\n\nFor more information see: https
+ ://github.com/oecd/embargo-calendar/blob
+ /master/embargoes-by-publication.md.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 23:00, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=5ce22634-en.
+DTSTAMP:20190718T230034Z
+DTSTART:20190729T090000Z
+DTEND:20190729T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Forum on Transparency a
+ nd Exchange of Information for Tax Purpo
+ ses: Guatemala 2019 (Second Round) - Pee
+ r Review Report on the Exchange of Infor
+ mation on Request
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/c79badcc-end3e1244
+SUMMARY:Financial Incentives to Promote Adult Le
+ arning in Australia
+DESCRIPTION:*Financial Incentives to Promote Adult L
+ earning in Australia*\n\nDirectorate: Di
+ rectorate for Employment, Labour and Soc
+ ial Affairs\nLanguage: English\nDOI: htt
+ ps://doi.org/10.1787/c79badcc-en\nPublic
+ ation type: Book\nReleased as: ePub, HTM
+ L, Paperback, PDF\n\nEmbargo date/time: 
+ Thursday, 22 August 2019, 8:00 (GMT)\n\n
+ \niLibrary export: Thursday, 18 July 201
+ 9, 19:54 (GMT)\nFreepreview export: neve
+ r\nFTI loaded: ✗\n\nFor more information
+  see: https://github.com/oecd/embargo-ca
+ lendar/blob/master/embargoes-by-publicat
+ ion.md.\n\nPlease note: This information
+  was correct as of this afternoon at 23:
+ 00, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=c79badcc-en.
+DTSTAMP:20190718T230034Z
+DTSTART:20190822T080000Z
+DTEND:20190822T081500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT48H
@@ -202,7 +603,7 @@ DESCRIPTION:Reminder: Financial Incentives to Promot
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f9bf1157-end3e2193
+UID:10.1787/f9bf1157-end3e1382
 SUMMARY:Country-by-Country Reporting – Compilati
  on of Peer Review Reports (Phase 2) - In
  clusive Framework on BEPS: Action 13
@@ -221,7 +622,7 @@ DESCRIPTION:*Country-by-Country Reporting – Compilat
  ub.com/oecd/embargo-calendar/blob/master
  /embargoes-by-publication.md.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 22:18, it is updated 
+  this afternoon at 23:00, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -230,7 +631,7 @@ DESCRIPTION:*Country-by-Country Reporting – Compilat
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=f9bf1157-en.
-DTSTAMP:20190717T221812Z
+DTSTAMP:20190718T230034Z
 DTSTART:20190822T090000Z
 DTEND:20190822T091500Z
 TRANSP:TRANSPARENT
@@ -243,6 +644,46 @@ DESCRIPTION:Reminder: Country-by-Country Reporting –
   Compilation of Peer Review Reports (Pha
  se 2) - Inclusive Framework on BEPS: Act
  ion 13
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9789264305915-end3e1429
+SUMMARY:Government at a Glance Southeast Asia 20
+ 19
+DESCRIPTION:*Government at a Glance Southeast Asia 2
+ 019*\n\nDirectorate: Directorate for Pub
+ lic Governance\nLanguage: English\nDOI: 
+ https://doi.org/10.1787/9789264305915-en
+ \nPublication type: Stand-alone monograp
+ h\nReleased as: ePub, HTML, Paperback, P
+ DF\n\nEmbargo date/time: Tuesday, 10 Sep
+ tember 2019, 2:00 (GMT)\n\n\niLibrary ex
+ port: Thursday, 18 July 2019, 19:54 (GMT
+ )\nFreepreview export: never\nFTI loaded
+ : ✗\n\nFor more information see: https:/
+ /github.com/oecd/embargo-calendar/blob/m
+ aster/embargoes-by-publication.md.\n\nPl
+ ease note: This information was correct 
+ as of this afternoon at 23:00, it is upd
+ ated each night; therefore any subsequen
+ t updates may not yet be visible here. A
+ lso, please be aware that the different 
+ released media (PDF, HTML, etc.) are not
+  necessarily released at the same time. 
+ For complete and up-to-date information 
+ see here: http://kappa.oecd.org/v3/searc
+ h?term=9789264305915-en.
+DTSTAMP:20190718T230034Z
+DTSTART:20190910T020000Z
+DTEND:20190910T021500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Government at a Glance Southea
+ st Asia 2019
 END:VALARM
 END:VEVENT
 END:VCALENDAR
