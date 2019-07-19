@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 18 July 2019 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 19 July 2019 at 22:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Means, ends and meaning in accountability for strategic education governance](https://doi.org/10.1787/1d516b5c-en)
 
@@ -189,7 +189,7 @@ Monday 29 July 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 18 July 2019 at 21:54
+- [x] Exported to iLibrary Friday 19 July 2019 at 21:20
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -211,7 +211,7 @@ Monday 29 July 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 18 July 2019 at 21:54
+- [x] Exported to iLibrary Friday 19 July 2019 at 6:15
 - [ ] Exported to Keepeek
 
 ### Additional Information
