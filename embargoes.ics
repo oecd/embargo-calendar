@@ -13,23 +13,22 @@ DESCRIPTION:*Means, ends and meaning in accountabili
  ation type: Working paper\nReleased as: 
  PDF\n\nEmbargo date/time: Monday, 22 Jul
  y 2019, 9:00 (GMT)\n\n\niLibrary export:
-  Wednesday, 17 July 2019, 19:21 (GMT)\nF
- reepreview export: Wednesday, 17 July 20
- 19, 19:02 (GMT)\nFTI loaded: ✓\n\nFor mo
- re information see: https://github.com/o
- ecd/embargo-calendar/blob/master/embargo
- es-by-publication.md.\n\nPlease note: Th
- is information was correct as of this af
- ternoon at 22:18, it is updated each nig
- ht; therefore any subsequent updates may
-  not yet be visible here. Also, please b
- e aware that the different released medi
- a (PDF, HTML, etc.) are not necessarily 
- released at the same time. For complete 
- and up-to-date information see here: htt
- p://kappa.oecd.org/v3/search?term=1d516b
- 5c-en.
-DTSTAMP:20190719T221807Z
+  Monday, 22 July 2019, 20:45 (GMT)\nFree
+ preview export: Wednesday, 17 July 2019,
+  19:02 (GMT)\nFTI loaded: ✓\n\nFor more 
+ information see: https://github.com/oecd
+ /embargo-calendar/blob/master/embargoes-
+ by-publication.md.\n\nPlease note: This 
+ information was correct as of this morni
+ ng at 0:13, it is updated each night; th
+ erefore any subsequent updates may not y
+ et be visible here. Also, please be awar
+ e that the different released media (PDF
+ , HTML, etc.) are not necessarily releas
+ ed at the same time. For complete and up
+ -to-date information see here: http://ka
+ ppa.oecd.org/v3/search?term=1d516b5c-en.
+DTSTAMP:20190723T001356Z
 DTSTART:20190722T090000Z
 DTEND:20190722T091500Z
 TRANSP:TRANSPARENT
@@ -59,16 +58,16 @@ DESCRIPTION:*OECD Economic Surveys: Malaysia 2019*\n
  n see: https://github.com/oecd/embargo-c
  alendar/blob/master/embargoes-by-publica
  tion.md.\n\nPlease note: This informatio
- n was correct as of this afternoon at 22
- :18, it is updated each night; therefore
-  any subsequent updates may not yet be v
- isible here. Also, please be aware that 
- the different released media (PDF, HTML,
-  etc.) are not necessarily released at t
- he same time. For complete and up-to-dat
- e information see here: http://kappa.oec
- d.org/v3/search?term=eaaa4190-en.
-DTSTAMP:20190719T221807Z
+ n was correct as of this morning at 0:13
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=eaaa4190-en.
+DTSTAMP:20190723T001356Z
 DTSTART:20190724T063000Z
 DTEND:20190724T064500Z
 TRANSP:TRANSPARENT
@@ -99,17 +98,16 @@ DESCRIPTION:*Revenue Statistics in Asian and Pacific
  information see: https://github.com/oecd
  /embargo-calendar/blob/master/embargoes-
  by-publication.md.\n\nPlease note: This 
- information was correct as of this after
- noon at 22:18, it is updated each night;
-  therefore any subsequent updates may no
- t yet be visible here. Also, please be a
- ware that the different released media (
- PDF, HTML, etc.) are not necessarily rel
- eased at the same time. For complete and
-  up-to-date information see here: http:/
- /kappa.oecd.org/v3/search?term=b614e035-
- en.
-DTSTAMP:20190719T221807Z
+ information was correct as of this morni
+ ng at 0:13, it is updated each night; th
+ erefore any subsequent updates may not y
+ et be visible here. Also, please be awar
+ e that the different released media (PDF
+ , HTML, etc.) are not necessarily releas
+ ed at the same time. For complete and up
+ -to-date information see here: http://ka
+ ppa.oecd.org/v3/search?term=b614e035-en.
+DTSTAMP:20190723T001356Z
 DTSTART:20190724T080000Z
 DTEND:20190724T081500Z
 TRANSP:TRANSPARENT
@@ -123,7 +121,47 @@ DESCRIPTION:Reminder: Revenue Statistics in Asian an
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d32b72f9-end3e336
+UID:10.1787/aa029083-end3e336
+SUMMARY:Empirical links between housing markets 
+ and economic resilience
+DESCRIPTION:*Empirical links between housing markets
+  and economic resilience*\n\nDirectorate
+ : Economics Department\nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/aa029083
+ -en\nPublication type: Working paper\nRe
+ leased as: PDF\n\nEmbargo date/time: Fri
+ day, 26 July 2019, 0:00 (GMT)\n\n\niLibr
+ ary export: Monday, 22 July 2019, 20:45 
+ (GMT)\nFreepreview export: Monday, 22 Ju
+ ly 2019, 19:26 (GMT)\nFTI loaded: ✓\n\nF
+ or more information see: https://github.
+ com/oecd/embargo-calendar/blob/master/em
+ bargoes-by-publication.md.\n\nPlease not
+ e: This information was correct as of th
+ is morning at 0:13, it is updated each n
+ ight; therefore any subsequent updates m
+ ay not yet be visible here. Also, please
+  be aware that the different released me
+ dia (PDF, HTML, etc.) are not necessaril
+ y released at the same time. For complet
+ e and up-to-date information see here: h
+ ttp://kappa.oecd.org/v3/search?term=aa02
+ 9083-en.
+DTSTAMP:20190723T001356Z
+DTSTART:20190726T000000Z
+DTEND:20190726T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Empirical links between housin
+ g markets and economic resilience
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/d32b72f9-end3e384
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Botsw
  ana 2019 (Second Round) - Peer Review Re
@@ -146,16 +184,16 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  //github.com/oecd/embargo-calendar/blob/
  master/embargoes-by-publication.md.\n\nP
  lease note: This information was correct
-  as of this afternoon at 22:18, it is up
- dated each night; therefore any subseque
- nt updates may not yet be visible here. 
- Also, please be aware that the different
-  released media (PDF, HTML, etc.) are no
- t necessarily released at the same time.
-  For complete and up-to-date information
-  see here: http://kappa.oecd.org/v3/sear
- ch?term=d32b72f9-en.
-DTSTAMP:20190719T221807Z
+  as of this morning at 0:13, it is updat
+ ed each night; therefore any subsequent 
+ updates may not yet be visible here. Als
+ o, please be aware that the different re
+ leased media (PDF, HTML, etc.) are not n
+ ecessarily released at the same time. Fo
+ r complete and up-to-date information se
+ e here: http://kappa.oecd.org/v3/search?
+ term=d32b72f9-en.
+DTSTAMP:20190723T001356Z
 DTSTART:20190729T090000Z
 DTEND:20190729T091500Z
 TRANSP:TRANSPARENT
@@ -172,7 +210,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ccacbca7-end3e385
+UID:10.1787/ccacbca7-end3e433
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Croat
  ia 2019 (Second Round) - Peer Review Rep
@@ -195,16 +233,16 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  /github.com/oecd/embargo-calendar/blob/m
  aster/embargoes-by-publication.md.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 22:18, it is upd
- ated each night; therefore any subsequen
- t updates may not yet be visible here. A
- lso, please be aware that the different 
- released media (PDF, HTML, etc.) are not
-  necessarily released at the same time. 
- For complete and up-to-date information 
- see here: http://kappa.oecd.org/v3/searc
- h?term=ccacbca7-en.
-DTSTAMP:20190719T221807Z
+ as of this morning at 0:13, it is update
+ d each night; therefore any subsequent u
+ pdates may not yet be visible here. Also
+ , please be aware that the different rel
+ eased media (PDF, HTML, etc.) are not ne
+ cessarily released at the same time. For
+  complete and up-to-date information see
+  here: http://kappa.oecd.org/v3/search?t
+ erm=ccacbca7-en.
+DTSTAMP:20190723T001356Z
 DTSTART:20190729T090000Z
 DTEND:20190729T091500Z
 TRANSP:TRANSPARENT
@@ -221,7 +259,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/939f334e-end3e481
+UID:10.1787/939f334e-end3e530
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Leban
  on 2019 (Second Round) - Peer Review Rep
@@ -244,16 +282,16 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  /github.com/oecd/embargo-calendar/blob/m
  aster/embargoes-by-publication.md.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 22:18, it is upd
- ated each night; therefore any subsequen
- t updates may not yet be visible here. A
- lso, please be aware that the different 
- released media (PDF, HTML, etc.) are not
-  necessarily released at the same time. 
- For complete and up-to-date information 
- see here: http://kappa.oecd.org/v3/searc
- h?term=939f334e-en.
-DTSTAMP:20190719T221807Z
+ as of this morning at 0:13, it is update
+ d each night; therefore any subsequent u
+ pdates may not yet be visible here. Also
+ , please be aware that the different rel
+ eased media (PDF, HTML, etc.) are not ne
+ cessarily released at the same time. For
+  complete and up-to-date information see
+  here: http://kappa.oecd.org/v3/search?t
+ erm=939f334e-en.
+DTSTAMP:20190723T001356Z
 DTSTART:20190729T090000Z
 DTEND:20190729T091500Z
 TRANSP:TRANSPARENT
@@ -270,7 +308,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4d74d8a2-end3e531
+UID:10.1787/4d74d8a2-end3e579
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Costa
   Rica 2019 (Second Round) - Peer Review 
@@ -293,16 +331,16 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  s://github.com/oecd/embargo-calendar/blo
  b/master/embargoes-by-publication.md.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 22:18, it is 
- updated each night; therefore any subseq
- uent updates may not yet be visible here
- . Also, please be aware that the differe
- nt released media (PDF, HTML, etc.) are 
- not necessarily released at the same tim
- e. For complete and up-to-date informati
- on see here: http://kappa.oecd.org/v3/se
- arch?term=4d74d8a2-en.
-DTSTAMP:20190719T221807Z
+ ct as of this morning at 0:13, it is upd
+ ated each night; therefore any subsequen
+ t updates may not yet be visible here. A
+ lso, please be aware that the different 
+ released media (PDF, HTML, etc.) are not
+  necessarily released at the same time. 
+ For complete and up-to-date information 
+ see here: http://kappa.oecd.org/v3/searc
+ h?term=4d74d8a2-en.
+DTSTAMP:20190723T001356Z
 DTSTART:20190729T090000Z
 DTEND:20190729T091500Z
 TRANSP:TRANSPARENT
@@ -319,7 +357,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/43120c29-end3e721
+UID:10.1787/43120c29-end3e769
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Nauru
   2019 (Second Round) - Peer Review Repor
@@ -342,16 +380,16 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  ithub.com/oecd/embargo-calendar/blob/mas
  ter/embargoes-by-publication.md.\n\nPlea
  se note: This information was correct as
-  of this afternoon at 22:18, it is updat
- ed each night; therefore any subsequent 
- updates may not yet be visible here. Als
- o, please be aware that the different re
- leased media (PDF, HTML, etc.) are not n
- ecessarily released at the same time. Fo
- r complete and up-to-date information se
- e here: http://kappa.oecd.org/v3/search?
- term=43120c29-en.
-DTSTAMP:20190719T221807Z
+  of this morning at 0:13, it is updated 
+ each night; therefore any subsequent upd
+ ates may not yet be visible here. Also, 
+ please be aware that the different relea
+ sed media (PDF, HTML, etc.) are not nece
+ ssarily released at the same time. For c
+ omplete and up-to-date information see h
+ ere: http://kappa.oecd.org/v3/search?ter
+ m=43120c29-en.
+DTSTAMP:20190723T001356Z
 DTSTART:20190729T090000Z
 DTEND:20190729T091500Z
 TRANSP:TRANSPARENT
@@ -368,7 +406,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4bc8ab63-end3e818
+UID:10.1787/4bc8ab63-end3e866
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Feder
  ated States of Micronesia 2019 (Second R
@@ -384,23 +422,23 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  /doi.org/10.1787/4bc8ab63-en\nPublicatio
  n type: Book\nReleased as: Paperback, PD
  F\n\nEmbargo date/time: Monday, 29 July 
- 2019, 9:00 (GMT)\n\n\niLibrary export: F
- riday, 19 July 2019, 19:20 (GMT)\nFreepr
- eview export: never\nFTI loaded: ✗\n\nFo
- r more information see: https://github.c
- om/oecd/embargo-calendar/blob/master/emb
- argoes-by-publication.md.\n\nPlease note
- : This information was correct as of thi
- s afternoon at 22:18, it is updated each
-  night; therefore any subsequent updates
-  may not yet be visible here. Also, plea
- se be aware that the different released 
- media (PDF, HTML, etc.) are not necessar
- ily released at the same time. For compl
- ete and up-to-date information see here:
-  http://kappa.oecd.org/v3/search?term=4b
- c8ab63-en.
-DTSTAMP:20190719T221807Z
+ 2019, 9:00 (GMT)\n\n\niLibrary export: M
+ onday, 22 July 2019, 20:45 (GMT)\nFreepr
+ eview export: Monday, 22 July 2019, 19:2
+ 6 (GMT)\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://github.com/oecd/emba
+ rgo-calendar/blob/master/embargoes-by-pu
+ blication.md.\n\nPlease note: This infor
+ mation was correct as of this morning at
+  0:13, it is updated each night; therefo
+ re any subsequent updates may not yet be
+  visible here. Also, please be aware tha
+ t the different released media (PDF, HTM
+ L, etc.) are not necessarily released at
+  the same time. For complete and up-to-d
+ ate information see here: http://kappa.o
+ ecd.org/v3/search?term=4bc8ab63-en.
+DTSTAMP:20190723T001356Z
 DTSTART:20190729T090000Z
 DTEND:20190729T091500Z
 TRANSP:TRANSPARENT
@@ -417,7 +455,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/dd70b774-end3e865
+UID:10.1787/dd70b774-end3e915
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Vanua
  tu 2019 (Second Round) - Peer Review Rep
@@ -433,22 +471,23 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  74-en\nPublication type: Book\nReleased 
  as: Paperback, PDF\n\nEmbargo date/time:
   Monday, 29 July 2019, 9:00 (GMT)\n\n\ni
- Library export: Friday, 19 July 2019, 4:
- 15 (GMT)\nFreepreview export: never\nFTI
-  loaded: ✗\n\nFor more information see: 
- https://github.com/oecd/embargo-calendar
- /blob/master/embargoes-by-publication.md
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 22:18, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=dd70b774-en.
-DTSTAMP:20190719T221807Z
+ Library export: Monday, 22 July 2019, 20
+ :45 (GMT)\nFreepreview export: Monday, 2
+ 2 July 2019, 19:26 (GMT)\nFTI loaded: ✓\
+ n\nFor more information see: https://git
+ hub.com/oecd/embargo-calendar/blob/maste
+ r/embargoes-by-publication.md.\n\nPlease
+  note: This information was correct as o
+ f this morning at 0:13, it is updated ea
+ ch night; therefore any subsequent updat
+ es may not yet be visible here. Also, pl
+ ease be aware that the different release
+ d media (PDF, HTML, etc.) are not necess
+ arily released at the same time. For com
+ plete and up-to-date information see her
+ e: http://kappa.oecd.org/v3/search?term=
+ dd70b774-en.
+DTSTAMP:20190723T001356Z
 DTSTART:20190729T090000Z
 DTEND:20190729T091500Z
 TRANSP:TRANSPARENT
@@ -465,7 +504,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d422824d-end3e912
+UID:10.1787/d422824d-end3e964
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Malay
  sia 2019 (Second Round) - Peer Review Re
@@ -488,16 +527,16 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  //github.com/oecd/embargo-calendar/blob/
  master/embargoes-by-publication.md.\n\nP
  lease note: This information was correct
-  as of this afternoon at 22:18, it is up
- dated each night; therefore any subseque
- nt updates may not yet be visible here. 
- Also, please be aware that the different
-  released media (PDF, HTML, etc.) are no
- t necessarily released at the same time.
-  For complete and up-to-date information
-  see here: http://kappa.oecd.org/v3/sear
- ch?term=d422824d-en.
-DTSTAMP:20190719T221807Z
+  as of this morning at 0:13, it is updat
+ ed each night; therefore any subsequent 
+ updates may not yet be visible here. Als
+ o, please be aware that the different re
+ leased media (PDF, HTML, etc.) are not n
+ ecessarily released at the same time. Fo
+ r complete and up-to-date information se
+ e here: http://kappa.oecd.org/v3/search?
+ term=d422824d-en.
+DTSTAMP:20190723T001356Z
 DTSTART:20190729T090000Z
 DTEND:20190729T091500Z
 TRANSP:TRANSPARENT
@@ -514,7 +553,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5ce22634-end3e1055
+UID:10.1787/5ce22634-end3e1108
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Guate
  mala 2019 (Second Round) - Peer Review R
@@ -537,16 +576,16 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  ://github.com/oecd/embargo-calendar/blob
  /master/embargoes-by-publication.md.\n\n
  Please note: This information was correc
- t as of this afternoon at 22:18, it is u
- pdated each night; therefore any subsequ
- ent updates may not yet be visible here.
-  Also, please be aware that the differen
- t released media (PDF, HTML, etc.) are n
- ot necessarily released at the same time
- . For complete and up-to-date informatio
- n see here: http://kappa.oecd.org/v3/sea
- rch?term=5ce22634-en.
-DTSTAMP:20190719T221807Z
+ t as of this morning at 0:13, it is upda
+ ted each night; therefore any subsequent
+  updates may not yet be visible here. Al
+ so, please be aware that the different r
+ eleased media (PDF, HTML, etc.) are not 
+ necessarily released at the same time. F
+ or complete and up-to-date information s
+ ee here: http://kappa.oecd.org/v3/search
+ ?term=5ce22634-en.
+DTSTAMP:20190723T001356Z
 DTSTART:20190729T090000Z
 DTEND:20190729T091500Z
 TRANSP:TRANSPARENT
@@ -563,7 +602,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c79badcc-end3e1244
+UID:10.1787/c79badcc-end3e1296
 SUMMARY:Financial Incentives to Promote Adult Le
  arning in Australia
 DESCRIPTION:*Financial Incentives to Promote Adult L
@@ -580,16 +619,16 @@ DESCRIPTION:*Financial Incentives to Promote Adult L
   see: https://github.com/oecd/embargo-ca
  lendar/blob/master/embargoes-by-publicat
  ion.md.\n\nPlease note: This information
-  was correct as of this afternoon at 22:
- 18, it is updated each night; therefore 
- any subsequent updates may not yet be vi
- sible here. Also, please be aware that t
- he different released media (PDF, HTML, 
- etc.) are not necessarily released at th
- e same time. For complete and up-to-date
-  information see here: http://kappa.oecd
- .org/v3/search?term=c79badcc-en.
-DTSTAMP:20190719T221807Z
+  was correct as of this morning at 0:13,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=c79badcc-en.
+DTSTAMP:20190723T001356Z
 DTSTART:20190822T080000Z
 DTEND:20190822T081500Z
 TRANSP:TRANSPARENT
@@ -603,7 +642,7 @@ DESCRIPTION:Reminder: Financial Incentives to Promot
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f9bf1157-end3e1382
+UID:10.1787/f9bf1157-end3e1434
 SUMMARY:Country-by-Country Reporting – Compilati
  on of Peer Review Reports (Phase 2) - In
  clusive Framework on BEPS: Action 13
@@ -622,16 +661,16 @@ DESCRIPTION:*Country-by-Country Reporting – Compilat
  ub.com/oecd/embargo-calendar/blob/master
  /embargoes-by-publication.md.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 22:18, it is updated 
- each night; therefore any subsequent upd
- ates may not yet be visible here. Also, 
- please be aware that the different relea
- sed media (PDF, HTML, etc.) are not nece
- ssarily released at the same time. For c
- omplete and up-to-date information see h
- ere: http://kappa.oecd.org/v3/search?ter
- m=f9bf1157-en.
-DTSTAMP:20190719T221807Z
+  this morning at 0:13, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=f
+ 9bf1157-en.
+DTSTAMP:20190723T001356Z
 DTSTART:20190822T090000Z
 DTEND:20190822T091500Z
 TRANSP:TRANSPARENT
@@ -647,7 +686,7 @@ DESCRIPTION:Reminder: Country-by-Country Reporting –
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264305915-end3e1429
+UID:10.1787/9789264305915-end3e1481
 SUMMARY:Government at a Glance Southeast Asia 20
  19
 DESCRIPTION:*Government at a Glance Southeast Asia 2
@@ -664,16 +703,16 @@ DESCRIPTION:*Government at a Glance Southeast Asia 2
  /github.com/oecd/embargo-calendar/blob/m
  aster/embargoes-by-publication.md.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 22:18, it is upd
- ated each night; therefore any subsequen
- t updates may not yet be visible here. A
- lso, please be aware that the different 
- released media (PDF, HTML, etc.) are not
-  necessarily released at the same time. 
- For complete and up-to-date information 
- see here: http://kappa.oecd.org/v3/searc
- h?term=9789264305915-en.
-DTSTAMP:20190719T221807Z
+ as of this morning at 0:13, it is update
+ d each night; therefore any subsequent u
+ pdates may not yet be visible here. Also
+ , please be aware that the different rel
+ eased media (PDF, HTML, etc.) are not ne
+ cessarily released at the same time. For
+  complete and up-to-date information see
+  here: http://kappa.oecd.org/v3/search?t
+ erm=9789264305915-en.
+DTSTAMP:20190723T001356Z
 DTSTART:20190910T020000Z
 DTEND:20190910T021500Z
 TRANSP:TRANSPARENT

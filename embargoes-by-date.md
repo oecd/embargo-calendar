@@ -2,10 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 19 July 2019 at 22:18* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 23 July 2019 at 0:13* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 July 2019](#22-july-2019)
 * [24 July 2019](#24-july-2019)
+* [26 July 2019](#26-july-2019)
 * [29 July 2019](#29-july-2019)
 * [22 August 2019](#22-august-2019)
 * [10 September 2019](#10-september-2019)
@@ -23,7 +24,7 @@ Monday 22 July 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 July 2019 at 21:21
+- [x] Exported to iLibrary Monday 22 July 2019 at 22:45
 - [x] Exported to Keepeek Wednesday 17 July 2019 at 21:02
 
 ### Additional Information
@@ -81,6 +82,32 @@ Wednesday 24 July 2019 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 26 July 2019
+
+## [Empirical links between housing markets and economic resilience](https://doi.org/10.1787/aa029083-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 26 July 2019 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 22 July 2019 at 22:45
+- [x] Exported to Keepeek Monday 22 July 2019 at 21:26
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -206,15 +233,15 @@ Monday 29 July 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 19 July 2019 at 21:20
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 22 July 2019 at 22:45
+- [x] Exported to Keepeek Monday 22 July 2019 at 21:26
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -228,15 +255,15 @@ Monday 29 July 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 19 July 2019 at 6:15
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 22 July 2019 at 22:45
+- [x] Exported to Keepeek Monday 22 July 2019 at 21:26
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 

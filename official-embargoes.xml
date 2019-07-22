@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2019-07-19T22:18:05.0841173+02:00">
+<report name="official-embargoes" generated="2019-07-23T00:13:52.8952282+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -28,7 +28,7 @@
     <cell name="date of publication">2019-07-22</cell>
     <cell name="embargo date">2019-07-22T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-07-17T19:21:36Z</cell>
+    <cell name="ilibrary last export date">2019-07-22T20:45:20Z</cell>
     <cell name="freepreview last export date">2019-07-17T19:02:04Z</cell>
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -120,6 +120,23 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e09bc4bd</cell>
   </row>
   <row index="7">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/aa029083-en</cell>
+    <cell name="title">Empirical links between housing markets and economic resilience (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-07-26</cell>
+    <cell name="embargo date">2019-07-26T00:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-07-22T20:45:20Z</cell>
+    <cell name="freepreview last export date">2019-07-22T19:26:26Z</cell>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/83c83f60</cell>
+  </row>
+  <row index="8">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d32b72f9-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Botswana 2019 (Second Round) (en)</cell>
@@ -136,7 +153,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10e26a90</cell>
   </row>
-  <row index="8">
+  <row index="9">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ccacbca7-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Croatia 2019 (Second Round) (en)</cell>
@@ -153,7 +170,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2c02067e</cell>
   </row>
-  <row index="9">
+  <row index="10">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d422824d-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Malaysia 2019 (Second Round) (en)</cell>
@@ -170,7 +187,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e251839f</cell>
   </row>
-  <row index="10">
+  <row index="11">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/939f334e-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Lebanon 2019 (Second Round) (en)</cell>
@@ -187,7 +204,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc6a6178</cell>
   </row>
-  <row index="11">
+  <row index="12">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/4d74d8a2-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Costa Rica 2019 (Second Round) (en)</cell>
@@ -204,7 +221,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a3e592b5</cell>
   </row>
-  <row index="12">
+  <row index="13">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/939f334e-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Lebanon 2019 (Second Round) (en)</cell>
@@ -221,7 +238,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/44e8ba85</cell>
   </row>
-  <row index="13">
+  <row index="14">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/4d74d8a2-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Costa Rica 2019 (Second Round) (en)</cell>
@@ -238,7 +255,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c1f37826</cell>
   </row>
-  <row index="14">
+  <row index="15">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ccacbca7-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Croatia 2019 (Second Round) (en)</cell>
@@ -255,7 +272,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/081c584d</cell>
   </row>
-  <row index="15">
+  <row index="16">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/43120c29-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Nauru 2019 (Second Round) (en)</cell>
@@ -272,7 +289,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4a26238c</cell>
   </row>
-  <row index="16">
+  <row index="17">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d32b72f9-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Botswana 2019 (Second Round) (en)</cell>
@@ -289,41 +306,41 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f9e33c6c</cell>
   </row>
-  <row index="17">
+  <row index="18">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/4bc8ab63-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Federated States of Micronesia 2019 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2019-07-29</cell>
     <cell name="embargo date">2019-07-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-07-19T19:20:01Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2019-07-22T20:45:20Z</cell>
+    <cell name="freepreview last export date">2019-07-22T19:26:26Z</cell>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d8cb585</cell>
   </row>
-  <row index="18">
+  <row index="19">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/dd70b774-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Vanuatu 2019 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2019-07-29</cell>
     <cell name="embargo date">2019-07-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-07-19T04:15:29Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2019-07-22T20:45:20Z</cell>
+    <cell name="freepreview last export date">2019-07-22T19:26:26Z</cell>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/daead75c</cell>
   </row>
-  <row index="19">
+  <row index="20">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d422824d-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Malaysia 2019 (Second Round) (en)</cell>
@@ -340,7 +357,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f672ffe6</cell>
   </row>
-  <row index="20">
+  <row index="21">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/4bc8ab63-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Federated States of Micronesia 2019 (Second Round) (en)</cell>
@@ -351,13 +368,13 @@
     <cell name="date of publication">2019-07-29</cell>
     <cell name="embargo date">2019-07-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-07-19T19:20:01Z</cell>
+    <cell name="ilibrary last export date">2019-07-22T20:45:20Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86b560d0</cell>
   </row>
-  <row index="21">
+  <row index="22">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/43120c29-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Nauru 2019 (Second Round) (en)</cell>
@@ -374,7 +391,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/37a9e384</cell>
   </row>
-  <row index="22">
+  <row index="23">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5ce22634-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Guatemala 2019 (Second Round) (en)</cell>
@@ -391,7 +408,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b1afa229</cell>
   </row>
-  <row index="23">
+  <row index="24">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/dd70b774-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Vanuatu 2019 (Second Round) (en)</cell>
@@ -402,13 +419,13 @@
     <cell name="date of publication">2019-07-29</cell>
     <cell name="embargo date">2019-07-29T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-07-19T04:15:29Z</cell>
+    <cell name="ilibrary last export date">2019-07-22T20:45:20Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c10f902b</cell>
   </row>
-  <row index="24">
+  <row index="25">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5ce22634-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Guatemala 2019 (Second Round) (en)</cell>
@@ -425,7 +442,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3f9c54a5</cell>
   </row>
-  <row index="25">
+  <row index="26">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c79badcc-en</cell>
     <cell name="title">Financial Incentives to Promote Adult Learning in Australia (en)</cell>
@@ -442,7 +459,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0d21e28c</cell>
   </row>
-  <row index="26">
+  <row index="27">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c79badcc-en</cell>
     <cell name="title">Financial Incentives to Promote Adult Learning in Australia (en)</cell>
@@ -459,7 +476,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/732af9ef</cell>
   </row>
-  <row index="27">
+  <row index="28">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c79badcc-en</cell>
     <cell name="title">Financial Incentives to Promote Adult Learning in Australia (en)</cell>
@@ -476,7 +493,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0cc78fda</cell>
   </row>
-  <row index="28">
+  <row index="29">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c79badcc-en</cell>
     <cell name="title">Financial Incentives to Promote Adult Learning in Australia (en)</cell>
@@ -493,7 +510,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e218fbb4</cell>
   </row>
-  <row index="29">
+  <row index="30">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f9bf1157-en</cell>
     <cell name="title">Country-by-Country Reporting – Compilation of Peer Review Reports (Phase 2) (en)</cell>
@@ -510,7 +527,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d38f6728</cell>
   </row>
-  <row index="30">
+  <row index="31">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305915-en</cell>
     <cell name="title">Government at a Glance Southeast Asia 2019 (en)</cell>
@@ -527,7 +544,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g94fff</cell>
   </row>
-  <row index="31">
+  <row index="32">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305915-en</cell>
     <cell name="title">Government at a Glance Southeast Asia 2019 (en)</cell>
@@ -544,7 +561,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g96de7</cell>
   </row>
-  <row index="32">
+  <row index="33">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305915-en</cell>
     <cell name="title">Government at a Glance Southeast Asia 2019 (en)</cell>
@@ -561,7 +578,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g94ffe</cell>
   </row>
-  <row index="33">
+  <row index="34">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305915-en</cell>
     <cell name="title">Government at a Glance Southeast Asia 2019 (en)</cell>
