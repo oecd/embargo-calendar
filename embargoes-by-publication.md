@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 23 July 2019 at 0:13* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 23 July 2019 at 22:56* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Means, ends and meaning in accountability for strategic education governance](https://doi.org/10.1787/1d516b5c-en)
 
@@ -298,15 +298,15 @@ Thursday 22 August 2019 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 18 July 2019 at 21:54
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 23 July 2019 at 21:23
+- [x] Exported to Keepeek Tuesday 23 July 2019 at 21:09
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 

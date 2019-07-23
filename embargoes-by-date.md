@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 23 July 2019 at 0:13* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 23 July 2019 at 22:56* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 July 2019](#22-july-2019)
 * [24 July 2019](#24-july-2019)
@@ -325,15 +325,15 @@ Thursday 22 August 2019 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 18 July 2019 at 21:54
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 23 July 2019 at 21:23
+- [x] Exported to Keepeek Tuesday 23 July 2019 at 21:09
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
