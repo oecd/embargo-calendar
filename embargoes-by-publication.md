@@ -2,29 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 23 July 2019 at 22:56* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Means, ends and meaning in accountability for strategic education governance](https://doi.org/10.1787/1d516b5c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 July 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 July 2019 at 22:45
-- [x] Exported to Keepeek Wednesday 17 July 2019 at 21:02
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Wednesday 24 July 2019 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Malaysia 2019](https://doi.org/10.1787/eaaa4190-en)
 
@@ -57,8 +35,8 @@ Wednesday 24 July 2019 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 18 July 2019 at 21:54
-- [x] Exported to Keepeek Thursday 18 July 2019 at 21:25
+- [x] Exported to iLibrary Wednesday 24 July 2019 at 7:18
+- [x] Exported to Keepeek Wednesday 24 July 2019 at 21:13
 
 ### Additional Information
 
@@ -96,13 +74,13 @@ Friday 26 July 2019 at 0:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 29 July 2019 at 9:00 | no launch event
+Tuesday 30 July 2019 at 9:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 18 July 2019 at 21:54
-- [x] Exported to Keepeek Thursday 18 July 2019 at 21:25
+- [x] Exported to iLibrary Wednesday 24 July 2019 at 21:50
+- [x] Exported to Keepeek Wednesday 24 July 2019 at 21:13
 
 ### Additional Information
 
@@ -118,13 +96,13 @@ Monday 29 July 2019 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 29 July 2019 at 9:00 | no launch event
+Tuesday 30 July 2019 at 9:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 18 July 2019 at 21:54
-- [x] Exported to Keepeek Thursday 18 July 2019 at 21:25
+- [x] Exported to iLibrary Wednesday 24 July 2019 at 21:50
+- [x] Exported to Keepeek Wednesday 24 July 2019 at 21:13
 
 ### Additional Information
 
@@ -140,13 +118,13 @@ Monday 29 July 2019 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 29 July 2019 at 9:00 | no launch event
+Tuesday 30 July 2019 at 9:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 18 July 2019 at 21:54
-- [x] Exported to Keepeek Thursday 18 July 2019 at 21:25
+- [x] Exported to iLibrary Wednesday 24 July 2019 at 21:50
+- [x] Exported to Keepeek Wednesday 24 July 2019 at 21:13
 
 ### Additional Information
 
@@ -162,13 +140,13 @@ Monday 29 July 2019 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 29 July 2019 at 9:00 | no launch event
+Tuesday 30 July 2019 at 9:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 18 July 2019 at 21:54
-- [x] Exported to Keepeek Thursday 18 July 2019 at 21:25
+- [x] Exported to iLibrary Wednesday 24 July 2019 at 21:50
+- [x] Exported to Keepeek Wednesday 24 July 2019 at 21:13
 
 ### Additional Information
 
@@ -184,13 +162,13 @@ Monday 29 July 2019 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 29 July 2019 at 9:00 | no launch event
+Tuesday 30 July 2019 at 9:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 18 July 2019 at 21:54
-- [x] Exported to Keepeek Thursday 18 July 2019 at 21:25
+- [x] Exported to iLibrary Wednesday 24 July 2019 at 21:50
+- [x] Exported to Keepeek Wednesday 24 July 2019 at 21:13
 
 ### Additional Information
 
@@ -206,13 +184,13 @@ Monday 29 July 2019 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 29 July 2019 at 9:00 | no launch event
+Tuesday 30 July 2019 at 9:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 July 2019 at 22:45
-- [x] Exported to Keepeek Monday 22 July 2019 at 21:26
+- [x] Exported to iLibrary Wednesday 24 July 2019 at 21:50
+- [x] Exported to Keepeek Wednesday 24 July 2019 at 21:13
 
 ### Additional Information
 
@@ -228,13 +206,13 @@ Monday 29 July 2019 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 29 July 2019 at 9:00 | no launch event
+Tuesday 30 July 2019 at 9:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 July 2019 at 22:45
-- [x] Exported to Keepeek Monday 22 July 2019 at 21:26
+- [x] Exported to iLibrary Wednesday 24 July 2019 at 21:50
+- [x] Exported to Keepeek Wednesday 24 July 2019 at 21:13
 
 ### Additional Information
 
@@ -250,13 +228,13 @@ Monday 29 July 2019 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 29 July 2019 at 9:00 | no launch event
+Tuesday 30 July 2019 at 9:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 18 July 2019 at 21:54
-- [x] Exported to Keepeek Thursday 18 July 2019 at 21:25
+- [x] Exported to iLibrary Wednesday 24 July 2019 at 21:50
+- [x] Exported to Keepeek Wednesday 24 July 2019 at 21:13
 
 ### Additional Information
 
@@ -272,13 +250,13 @@ Monday 29 July 2019 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 29 July 2019 at 9:00 | no launch event
+Tuesday 30 July 2019 at 9:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 18 July 2019 at 21:54
-- [x] Exported to Keepeek Thursday 18 July 2019 at 21:25
+- [x] Exported to iLibrary Wednesday 24 July 2019 at 21:50
+- [x] Exported to Keepeek Wednesday 24 July 2019 at 21:13
 
 ### Additional Information
 
@@ -343,7 +321,7 @@ Tuesday 10 September 2019 at 2:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 18 July 2019 at 21:54
+- [x] Exported to iLibrary Wednesday 24 July 2019 at 21:50
 - [ ] Exported to Keepeek
 
 ### Additional Information
