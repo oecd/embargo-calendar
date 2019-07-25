@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 24 July 2019 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 25 July 2019 at 22:57* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [24 July 2019](#24-july-2019)
 * [26 July 2019](#26-july-2019)
@@ -45,8 +45,8 @@ Wednesday 24 July 2019 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 24 July 2019 at 7:18
-- [x] Exported to Keepeek Wednesday 24 July 2019 at 21:13
+- [x] Exported to iLibrary Thursday 25 July 2019 at 5:58
+- [x] Exported to Keepeek Thursday 25 July 2019 at 21:09
 
 ### Additional Information
 
@@ -321,7 +321,7 @@ Thursday 22 August 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 10 July 2019 at 21:28
+- [x] Exported to iLibrary Thursday 25 July 2019 at 21:29
 - [ ] Exported to Keepeek
 
 ### Additional Information
