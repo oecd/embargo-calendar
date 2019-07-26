@@ -2,61 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 25 July 2019 at 22:57* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 26 July 2019 at 22:40* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [24 July 2019](#24-july-2019)
 * [26 July 2019](#26-july-2019)
 * [30 July 2019](#30-july-2019)
 * [22 August 2019](#22-august-2019)
 * [10 September 2019](#10-september-2019)
-
-------
-
-# 24 July 2019
-
-## [OECD Economic Surveys: Malaysia 2019](https://doi.org/10.1787/eaaa4190-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 24 July 2019 at 6:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 18 July 2019 at 21:54
-- [x] Exported to Keepeek Thursday 18 July 2019 at 21:25
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Revenue Statistics in Asian and Pacific Economies 2019](https://doi.org/10.1787/b614e035-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 24 July 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 25 July 2019 at 5:58
-- [x] Exported to Keepeek Thursday 25 July 2019 at 21:09
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 

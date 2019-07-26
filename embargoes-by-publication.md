@@ -2,51 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 25 July 2019 at 22:57* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Malaysia 2019](https://doi.org/10.1787/eaaa4190-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 24 July 2019 at 6:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 18 July 2019 at 21:54
-- [x] Exported to Keepeek Thursday 18 July 2019 at 21:25
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Revenue Statistics in Asian and Pacific Economies 2019](https://doi.org/10.1787/b614e035-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 24 July 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 25 July 2019 at 5:58
-- [x] Exported to Keepeek Thursday 25 July 2019 at 21:09
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Friday 26 July 2019 at 22:40* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Empirical links between housing markets and economic resilience](https://doi.org/10.1787/aa029083-en)
 
