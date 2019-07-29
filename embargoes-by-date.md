@@ -2,38 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 26 July 2019 at 22:40* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 29 July 2019 at 22:37* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [26 July 2019](#26-july-2019)
 * [30 July 2019](#30-july-2019)
 * [22 August 2019](#22-august-2019)
 * [10 September 2019](#10-september-2019)
-
-------
-
-# 26 July 2019
-
-## [Empirical links between housing markets and economic resilience](https://doi.org/10.1787/aa029083-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 26 July 2019 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 July 2019 at 22:45
-- [x] Exported to Keepeek Monday 22 July 2019 at 21:26
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 

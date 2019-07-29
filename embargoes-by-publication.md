@@ -2,29 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 26 July 2019 at 22:40* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Empirical links between housing markets and economic resilience](https://doi.org/10.1787/aa029083-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 26 July 2019 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 July 2019 at 22:45
-- [x] Exported to Keepeek Monday 22 July 2019 at 21:26
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Monday 29 July 2019 at 22:37* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Botswana 2019 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/d32b72f9-en)
 
