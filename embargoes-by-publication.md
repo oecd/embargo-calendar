@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 1 August 2019 at 22:32* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 2 August 2019 at 22:55* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The OECD potential output estimation methodology](https://doi.org/10.1787/4357c723-en)
 
@@ -23,6 +23,138 @@ Monday 5 August 2019 at 0:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
+
+------
+
+## [The 2018 Indicators on the Governance of Sector Regulators - Part of the Product Market Regulation (PMR) Survey](https://doi.org/10.1787/a0a28908-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 August 2019 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Friday 2 August 2019 at 21:15
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Belgium (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/734c25f4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 13 August 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 25 July 2019 at 21:29
+- [x] Exported to Keepeek Friday 2 August 2019 at 21:15
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, United States (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/305147e9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 13 August 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 25 July 2019 at 21:29
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Netherlands (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/cce92832-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 13 August 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 25 July 2019 at 21:29
+- [x] Exported to Keepeek Friday 2 August 2019 at 21:15
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Canada (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/67dba2bb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 13 August 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 25 July 2019 at 21:29
+- [x] Exported to Keepeek Friday 2 August 2019 at 21:15
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Switzerland (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/77ab98a6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 13 August 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 25 July 2019 at 21:29
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
