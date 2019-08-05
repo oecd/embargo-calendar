@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 2 August 2019 at 22:55* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 5 August 2019 at 21:38* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The OECD potential output estimation methodology](https://doi.org/10.1787/4357c723-en)
 
@@ -35,7 +35,7 @@ Thursday 8 August 2019 at 0:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 2 August 2019 at 22:29
 - [x] Exported to Keepeek Friday 2 August 2019 at 21:15
 
 ### Additional Information
@@ -57,7 +57,7 @@ Tuesday 13 August 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 25 July 2019 at 21:29
+- [x] Exported to iLibrary Friday 2 August 2019 at 22:29
 - [x] Exported to Keepeek Friday 2 August 2019 at 21:15
 
 ### Additional Information
@@ -79,7 +79,7 @@ Tuesday 13 August 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 25 July 2019 at 21:29
+- [x] Exported to iLibrary Friday 2 August 2019 at 22:29
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -101,7 +101,7 @@ Tuesday 13 August 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 25 July 2019 at 21:29
+- [x] Exported to iLibrary Friday 2 August 2019 at 22:29
 - [x] Exported to Keepeek Friday 2 August 2019 at 21:15
 
 ### Additional Information
@@ -123,7 +123,7 @@ Tuesday 13 August 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 25 July 2019 at 21:29
+- [x] Exported to iLibrary Friday 2 August 2019 at 22:29
 - [x] Exported to Keepeek Friday 2 August 2019 at 21:15
 
 ### Additional Information
@@ -145,7 +145,7 @@ Tuesday 13 August 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 25 July 2019 at 21:29
+- [x] Exported to iLibrary Friday 2 August 2019 at 22:29
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -189,7 +189,7 @@ Thursday 22 August 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 25 July 2019 at 21:29
+- [x] Exported to iLibrary Friday 2 August 2019 at 22:29
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -233,7 +233,7 @@ Friday 30 August 2019 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 31 July 2019 at 21:20
+- [x] Exported to iLibrary Monday 5 August 2019 at 21:18
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -254,15 +254,15 @@ Tuesday 10 September 2019 at 2:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 24 July 2019 at 21:50
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 5 August 2019 at 21:18
+- [x] Exported to Keepeek Monday 5 August 2019 at 21:02
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
