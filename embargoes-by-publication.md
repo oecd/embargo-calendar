@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 5 August 2019 at 21:38* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 6 August 2019 at 21:27* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The OECD potential output estimation methodology](https://doi.org/10.1787/4357c723-en)
 
@@ -151,6 +151,28 @@ Tuesday 13 August 2019 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Recruiting Immigrant Workers: Canada 2019](https://doi.org/10.1787/4abab00d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 13 August 2019 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 6 August 2019 at 21:09
+- [ ] Exported to Keepeek
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
