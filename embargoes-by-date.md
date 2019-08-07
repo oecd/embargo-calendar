@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 6 August 2019 at 21:27* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 7 August 2019 at 21:52* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [5 August 2019](#5-august-2019)
 * [8 August 2019](#8-august-2019)
 * [13 August 2019](#13-august-2019)
 * [22 August 2019](#22-august-2019)
@@ -13,32 +12,6 @@ Data generated on | |
 * [10 September 2019](#10-september-2019)
 * [11 September 2019](#11-september-2019)
 * [26 September 2019](#26-september-2019)
-
-------
-
-# 5 August 2019
-
-## [The OECD potential output estimation methodology](https://doi.org/10.1787/4357c723-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 August 2019 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 31 July 2019 at 21:20
-- [x] Exported to Keepeek Wednesday 31 July 2019 at 21:06
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -188,8 +161,8 @@ Tuesday 13 August 2019 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 6 August 2019 at 21:09
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 August 2019 at 21:31
 - [ ] Exported to Keepeek
 
 ### Additional Information
@@ -198,7 +171,7 @@ Tuesday 13 August 2019 at 13:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
