@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 7 August 2019 at 21:52* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 8 August 2019 at 23:30* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The 2018 Indicators on the Governance of Sector Regulators - Part of the Product Market Regulation (PMR) Survey](https://doi.org/10.1787/a0a28908-en)
 
