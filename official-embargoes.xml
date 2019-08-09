@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2019-08-08T23:30:38.9929837+02:00">
+<report name="official-embargoes" generated="2019-08-09T21:47:06.2700768+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -215,13 +215,30 @@
     <cell name="date of publication">2019-08-13</cell>
     <cell name="embargo date">2019-08-13T13:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-08-07T19:31:03Z</cell>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e5553b0b</cell>
   </row>
   <row index="13">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/1d2fe08b-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-08-13</cell>
+    <cell name="embargo date">2019-08-13T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3ed7b1d0</cell>
+  </row>
+  <row index="14">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/184a3868-en</cell>
     <cell name="title">Context for labour migration to Canada (en)</cell>
@@ -232,13 +249,13 @@
     <cell name="date of publication">2019-08-13</cell>
     <cell name="embargo date">2019-08-13T13:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-08-07T19:31:03Z</cell>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
     <cell name="freepreview last export date">2019-08-07T19:11:10Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a92c79ae</cell>
   </row>
-  <row index="14">
+  <row index="15">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e5a55d06-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -249,13 +266,30 @@
     <cell name="date of publication">2019-08-13</cell>
     <cell name="embargo date">2019-08-13T13:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-08-07T19:31:03Z</cell>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
     <cell name="freepreview last export date">2019-08-07T19:11:10Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/853fc07b</cell>
   </row>
-  <row index="15">
+  <row index="16">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/184a3868-en</cell>
+    <cell name="title">Context for labour migration to Canada (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-08-13</cell>
+    <cell name="embargo date">2019-08-13T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/43b3ee3b</cell>
+  </row>
+  <row index="17">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/0899642e-en</cell>
     <cell name="title">Summary of main policy recommendations (en)</cell>
@@ -266,30 +300,98 @@
     <cell name="date of publication">2019-08-13</cell>
     <cell name="embargo date">2019-08-13T13:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-08-07T19:31:03Z</cell>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
     <cell name="freepreview last export date">2019-08-07T19:11:10Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/656bd7b4</cell>
   </row>
-  <row index="16">
+  <row index="18">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/a155ab00-en</cell>
+    <cell name="title">Permanent labour migration (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-08-13</cell>
+    <cell name="embargo date">2019-08-13T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2d062894</cell>
+  </row>
+  <row index="19">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4abab00d-en</cell>
     <cell name="title">Recruiting Immigrant Workers: Canada 2019 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2019-08-13</cell>
     <cell name="embargo date">2019-08-13T13:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-08-07T19:31:03Z</cell>
-    <cell name="freepreview last export date"/>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
+    <cell name="freepreview last export date">2019-08-09T19:04:25Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ebcb12ca</cell>
   </row>
-  <row index="17">
+  <row index="20">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/f23388a2-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-08-13</cell>
+    <cell name="embargo date">2019-08-13T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b8737e6e</cell>
+  </row>
+  <row index="21">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/f6010289-en</cell>
+    <cell name="title">Assessment and recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-08-13</cell>
+    <cell name="embargo date">2019-08-13T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b85511e7</cell>
+  </row>
+  <row index="22">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/9fcc5d89-en</cell>
+    <cell name="title">Provincial migration management (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-08-13</cell>
+    <cell name="embargo date">2019-08-13T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/762b70e0</cell>
+  </row>
+  <row index="23">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1d2fe08b-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -300,13 +402,13 @@
     <cell name="date of publication">2019-08-13</cell>
     <cell name="embargo date">2019-08-13T13:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-08-07T19:31:03Z</cell>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
     <cell name="freepreview last export date">2019-08-07T19:11:10Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/43f8cfe0</cell>
   </row>
-  <row index="18">
+  <row index="24">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f23388a2-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -317,13 +419,13 @@
     <cell name="date of publication">2019-08-13</cell>
     <cell name="embargo date">2019-08-13T13:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-08-07T19:31:03Z</cell>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
     <cell name="freepreview last export date">2019-08-07T19:11:10Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/063aeab6</cell>
   </row>
-  <row index="19">
+  <row index="25">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/fc7bc750-en</cell>
     <cell name="title">Temporary labour migration (en)</cell>
@@ -334,13 +436,13 @@
     <cell name="date of publication">2019-08-13</cell>
     <cell name="embargo date">2019-08-13T13:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-08-07T19:31:03Z</cell>
-    <cell name="freepreview last export date">2019-08-07T19:11:10Z</cell>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
+    <cell name="freepreview last export date">2019-08-09T19:04:25Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4ae38416</cell>
   </row>
-  <row index="20">
+  <row index="26">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f6010289-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -351,13 +453,47 @@
     <cell name="date of publication">2019-08-13</cell>
     <cell name="embargo date">2019-08-13T13:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-08-07T19:31:03Z</cell>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
     <cell name="freepreview last export date">2019-08-07T19:11:10Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5a70736b</cell>
   </row>
-  <row index="21">
+  <row index="27">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/fc7bc750-en</cell>
+    <cell name="title">Temporary labour migration (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-08-13</cell>
+    <cell name="embargo date">2019-08-13T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/592312eb</cell>
+  </row>
+  <row index="28">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/0899642e-en</cell>
+    <cell name="title">Summary of main policy recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-08-13</cell>
+    <cell name="embargo date">2019-08-13T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/941fe9b5</cell>
+  </row>
+  <row index="29">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/a155ab00-en</cell>
     <cell name="title">Permanent labour migration (en)</cell>
@@ -368,13 +504,13 @@
     <cell name="date of publication">2019-08-13</cell>
     <cell name="embargo date">2019-08-13T13:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-08-07T19:31:03Z</cell>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
     <cell name="freepreview last export date">2019-08-07T19:11:10Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ac586aab</cell>
   </row>
-  <row index="22">
+  <row index="30">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9fcc5d89-en</cell>
     <cell name="title">Provincial migration management (en)</cell>
@@ -385,47 +521,64 @@
     <cell name="date of publication">2019-08-13</cell>
     <cell name="embargo date">2019-08-13T13:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-08-07T19:31:03Z</cell>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
     <cell name="freepreview last export date">2019-08-07T19:11:10Z</cell>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d4195bf8</cell>
   </row>
-  <row index="23">
+  <row index="31">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4abab00d-en</cell>
     <cell name="title">Recruiting Immigrant Workers: Canada 2019 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">ePub</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2019-08-13</cell>
     <cell name="embargo date">2019-08-13T13:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f073ccc8</cell>
   </row>
-  <row index="24">
+  <row index="32">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4abab00d-en</cell>
     <cell name="title">Recruiting Immigrant Workers: Canada 2019 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">HTML</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2019-08-13</cell>
     <cell name="embargo date">2019-08-13T13:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/68d0e024</cell>
   </row>
-  <row index="25">
+  <row index="33">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/e5a55d06-en</cell>
+    <cell name="title">Acronyms and abbreviations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-08-13</cell>
+    <cell name="embargo date">2019-08-13T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2097cf62</cell>
+  </row>
+  <row index="34">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/d849ec00-en</cell>
     <cell name="title">Feasibility of policy options to promote adult learning in Australia (en)</cell>
@@ -442,7 +595,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5712b78</cell>
   </row>
-  <row index="26">
+  <row index="35">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/468674aa-en</cell>
     <cell name="title">A portrait of adult learning participation in Australia (en)</cell>
@@ -459,7 +612,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7e3a6d99</cell>
   </row>
-  <row index="27">
+  <row index="36">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/d849ec00-en</cell>
     <cell name="title">Feasibility of policy options to promote adult learning in Australia (en)</cell>
@@ -476,7 +629,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e852a5b2</cell>
   </row>
-  <row index="28">
+  <row index="37">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c79badcc-en</cell>
     <cell name="title">Financial Incentives to Promote Adult Learning in Australia (en)</cell>
@@ -493,7 +646,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0d21e28c</cell>
   </row>
-  <row index="29">
+  <row index="38">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e2255051-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -510,7 +663,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/426c8b52</cell>
   </row>
-  <row index="30">
+  <row index="39">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c79badcc-en</cell>
     <cell name="title">Financial Incentives to Promote Adult Learning in Australia (en)</cell>
@@ -527,7 +680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/732af9ef</cell>
   </row>
-  <row index="31">
+  <row index="40">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5ace7ab7-en</cell>
     <cell name="title">Financial incentives to address barriers to adult learning (en)</cell>
@@ -544,7 +697,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d47be60</cell>
   </row>
-  <row index="32">
+  <row index="41">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c79badcc-en</cell>
     <cell name="title">Financial Incentives to Promote Adult Learning in Australia (en)</cell>
@@ -561,7 +714,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0cc78fda</cell>
   </row>
-  <row index="33">
+  <row index="42">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c79badcc-en</cell>
     <cell name="title">Financial Incentives to Promote Adult Learning in Australia (en)</cell>
@@ -578,7 +731,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e218fbb4</cell>
   </row>
-  <row index="34">
+  <row index="43">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f7122e5a-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -595,7 +748,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6d09fc95</cell>
   </row>
-  <row index="35">
+  <row index="44">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9b0b5730-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -612,7 +765,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9d0f8830</cell>
   </row>
-  <row index="36">
+  <row index="45">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/468674aa-en</cell>
     <cell name="title">A portrait of adult learning participation in Australia (en)</cell>
@@ -629,7 +782,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/239a0918</cell>
   </row>
-  <row index="37">
+  <row index="46">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e2255051-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -646,7 +799,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f8ce5d92</cell>
   </row>
-  <row index="38">
+  <row index="47">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9b0b5730-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -663,7 +816,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4c1e877e</cell>
   </row>
-  <row index="39">
+  <row index="48">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5ace7ab7-en</cell>
     <cell name="title">Financial incentives to address barriers to adult learning (en)</cell>
@@ -680,7 +833,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3e72e7e3</cell>
   </row>
-  <row index="40">
+  <row index="49">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f7122e5a-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -697,7 +850,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/57eae606</cell>
   </row>
-  <row index="41">
+  <row index="50">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f9bf1157-en</cell>
     <cell name="title">Country-by-Country Reporting – Compilation of Peer Review Reports (Phase 2) (en)</cell>
@@ -714,7 +867,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d38f6728</cell>
   </row>
-  <row index="42">
+  <row index="51">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/fd5356d0-en</cell>
     <cell name="title">Can academic performance help disadvantaged students to achieve upward educational mobility? (en)</cell>
@@ -731,7 +884,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7b871031</cell>
   </row>
-  <row index="43">
+  <row index="52">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c4d4f66a-en</cell>
     <cell name="title">Working Better With Age (en)</cell>
@@ -748,7 +901,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/30bda8ca</cell>
   </row>
-  <row index="44">
+  <row index="53">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c4d4f66a-en</cell>
     <cell name="title">Working Better With Age (en)</cell>
@@ -765,7 +918,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/32541c30</cell>
   </row>
-  <row index="45">
+  <row index="54">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3ebb8a9a-en</cell>
     <cell name="title">Reader’s guide (en)</cell>
@@ -782,7 +935,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62c027fa</cell>
   </row>
-  <row index="46">
+  <row index="55">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/c6f1ad21-en</cell>
     <cell name="title">Delegation in human resources management (en)</cell>
@@ -799,7 +952,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6f60cb22</cell>
   </row>
-  <row index="47">
+  <row index="56">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a0545b4e-en</cell>
     <cell name="title">General government revenues per capita, 2009, 2016 and 2017 (en)</cell>
@@ -816,7 +969,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3d2ec0c9</cell>
   </row>
-  <row index="48">
+  <row index="57">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ee2acc71-en</cell>
     <cell name="title">Legislative capacity to ensure transparency in the budget process (en)</cell>
@@ -833,7 +986,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a985ddb5</cell>
   </row>
-  <row index="49">
+  <row index="58">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e60c9d0d-en</cell>
     <cell name="title">Extent to which performance-related pay is used in central government, 2018 (en)</cell>
@@ -850,7 +1003,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d944c228</cell>
   </row>
-  <row index="50">
+  <row index="59">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4a6b3301-en</cell>
     <cell name="title">Features of the government services portal and services covered by the recognised digital identification mechanism, 2018 (en)</cell>
@@ -867,7 +1020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/799ee81c</cell>
   </row>
-  <row index="51">
+  <row index="60">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/50be5d79-en</cell>
     <cell name="title">Existence of a standardised model for how to structure and present a business case for an ICT project, 2018 (en)</cell>
@@ -884,7 +1037,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/97f0cf96</cell>
   </row>
-  <row index="52">
+  <row index="61">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/961b3cc7-en</cell>
     <cell name="title">Tax revenues as a share of GDP, 2007, 2009, 2015 (en)</cell>
@@ -901,7 +1054,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9115eb2f</cell>
   </row>
-  <row index="53">
+  <row index="62">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/178ac506-en</cell>
     <cell name="title">Open government strategies (en)</cell>
@@ -918,7 +1071,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a8973a10</cell>
   </row>
-  <row index="54">
+  <row index="63">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6011b636-en</cell>
     <cell name="title">General government tax revenues (en)</cell>
@@ -935,7 +1088,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8774098f</cell>
   </row>
-  <row index="55">
+  <row index="64">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/b4536bd6-en</cell>
     <cell name="title">Government investment spending (en)</cell>
@@ -952,7 +1105,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/05d7b1be</cell>
   </row>
-  <row index="56">
+  <row index="65">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ee2acc71-en</cell>
     <cell name="title">Legislative capacity to ensure transparency in the budget process (en)</cell>
@@ -969,7 +1122,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4a6d4d3d</cell>
   </row>
-  <row index="57">
+  <row index="66">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/63139c02-en</cell>
     <cell name="title">Existence and scope of a procurement strategy covering ICT, 2018 (en)</cell>
@@ -986,7 +1139,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d928e443</cell>
   </row>
-  <row index="58">
+  <row index="67">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/c5421385-en</cell>
     <cell name="title">Reported priority of the ICT procurement approach between outsourcing and insourcing models, 2018 (en)</cell>
@@ -1003,7 +1156,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f5ad9c43</cell>
   </row>
-  <row index="59">
+  <row index="68">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/8f431fe7-en</cell>
     <cell name="title">HRM practices composite indexes (en)</cell>
@@ -1020,7 +1173,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8ae867b4</cell>
   </row>
-  <row index="60">
+  <row index="69">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/600ed5a2-en</cell>
     <cell name="title">Real GDP growth, 2007, 2009, 2016 and 2017 (en)</cell>
@@ -1037,7 +1190,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8de5d234</cell>
   </row>
-  <row index="61">
+  <row index="70">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3fb22c68-en</cell>
     <cell name="title">Measuring the financial benefits of ICT investments (en)</cell>
@@ -1054,7 +1207,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c0e4fc1</cell>
   </row>
-  <row index="62">
+  <row index="71">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3f528418-en</cell>
     <cell name="title">Dedicated PPP units and value for money assessments of PPPs and TIPs, 2018 (en)</cell>
@@ -1071,7 +1224,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3b4cc14f</cell>
   </row>
-  <row index="63">
+  <row index="72">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/2ddf6958-en</cell>
     <cell name="title">Perception of government corruption, 2007 and 2017 (en)</cell>
@@ -1088,7 +1241,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f1a684d1</cell>
   </row>
-  <row index="64">
+  <row index="73">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/5b0d4f77-en</cell>
     <cell name="title">Medium-term expenditure framework (en)</cell>
@@ -1105,7 +1258,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d2237382</cell>
   </row>
-  <row index="65">
+  <row index="74">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/52793ed8-en</cell>
     <cell name="title">Quality of health care (en)</cell>
@@ -1122,7 +1275,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a70bc934</cell>
   </row>
-  <row index="66">
+  <row index="75">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/726ca5d5-en</cell>
     <cell name="title">Access to legal and justice services (en)</cell>
@@ -1139,7 +1292,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b36fa032</cell>
   </row>
-  <row index="67">
+  <row index="76">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/00f1d6f0-en</cell>
     <cell name="title">Location of the CBA, 2018 (en)</cell>
@@ -1156,7 +1309,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/97e89f34</cell>
   </row>
-  <row index="68">
+  <row index="77">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6603dacb-en</cell>
     <cell name="title">Government investment as a percentage of total government expenditures, 2008, 2013 and 2016 (en)</cell>
@@ -1173,7 +1326,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e3c25a72</cell>
   </row>
-  <row index="69">
+  <row index="78">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/5f50145a-en</cell>
     <cell name="title">Collection and availability of administrative human resources (HR) data in central government, 2018 (en)</cell>
@@ -1190,7 +1343,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/31509ea2</cell>
   </row>
-  <row index="70">
+  <row index="79">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/d8797073-en</cell>
     <cell name="title">OURdata Index: Data availability (Pillar 1), 2018 (en)</cell>
@@ -1207,7 +1360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7725493e</cell>
   </row>
-  <row index="71">
+  <row index="80">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/672bd105-en</cell>
     <cell name="title">Open government data (en)</cell>
@@ -1224,7 +1377,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4fe86bbf</cell>
   </row>
-  <row index="72">
+  <row index="81">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6ca28e6e-en</cell>
     <cell name="title">General government expenditures per capita, 2009, 2016, and 2017 (en)</cell>
@@ -1241,7 +1394,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a289f437</cell>
   </row>
-  <row index="73">
+  <row index="82">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/2ca6a8ca-en</cell>
     <cell name="title">Procurement for ICT Projects (en)</cell>
@@ -1258,7 +1411,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a3e0aba2</cell>
   </row>
-  <row index="74">
+  <row index="83">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f9bf77fd-en</cell>
     <cell name="title">Budget transparency (en)</cell>
@@ -1275,7 +1428,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/78ab2b2e</cell>
   </row>
-  <row index="75">
+  <row index="84">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305915-en</cell>
     <cell name="title">Government at a Glance Southeast Asia 2019 (en)</cell>
@@ -1286,13 +1439,13 @@
     <cell name="date of publication">2019-09-10</cell>
     <cell name="embargo date">2019-09-10T02:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-08-05T19:18:28Z</cell>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
     <cell name="freepreview last export date">2019-08-05T19:02:02Z</cell>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g94fff</cell>
   </row>
-  <row index="76">
+  <row index="85">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305915-en</cell>
     <cell name="title">Government at a Glance Southeast Asia 2019 (en)</cell>
@@ -1303,13 +1456,13 @@
     <cell name="date of publication">2019-09-10</cell>
     <cell name="embargo date">2019-09-10T02:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-08-05T19:18:28Z</cell>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g96de7</cell>
   </row>
-  <row index="77">
+  <row index="86">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/c68cb1bc-en</cell>
     <cell name="title">Responsibilities of the CBA, 2018 (en)</cell>
@@ -1326,7 +1479,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/12a28c75</cell>
   </row>
-  <row index="78">
+  <row index="87">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9703fb14-en</cell>
     <cell name="title">General government revenues (en)</cell>
@@ -1343,7 +1496,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4da1b79c</cell>
   </row>
-  <row index="79">
+  <row index="88">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6ea340cf-en</cell>
     <cell name="title">Data informed human resources management (HRM): Employee surveys and use and disclosure of administrative data in central government, 2018 (en)</cell>
@@ -1360,7 +1513,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/400c7b64</cell>
   </row>
-  <row index="80">
+  <row index="89">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/78a7ba98-en</cell>
     <cell name="title">Responsiveness of education systems to student needs (en)</cell>
@@ -1377,7 +1530,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f6d6fd50</cell>
   </row>
-  <row index="81">
+  <row index="90">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/2572513d-en</cell>
     <cell name="title">Central government human resources management practices for SCS, 2018 (en)</cell>
@@ -1394,7 +1547,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c06cb307</cell>
   </row>
-  <row index="82">
+  <row index="91">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ec0971f6-en</cell>
     <cell name="title">Medium-term perspective in the budget process at the central level of government, 2018 (en)</cell>
@@ -1411,7 +1564,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4878daa6</cell>
   </row>
-  <row index="83">
+  <row index="92">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/2558c185-en</cell>
     <cell name="title">Employment in public sector and by gender (en)</cell>
@@ -1428,7 +1581,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b9fdb4af</cell>
   </row>
-  <row index="84">
+  <row index="93">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/84f87f83-en</cell>
     <cell name="title">Age distribution rates of the population, 1995, 2005, 2015, and projected 2025 (en)</cell>
@@ -1445,7 +1598,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9224c0ac</cell>
   </row>
-  <row index="85">
+  <row index="94">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6508061c-en</cell>
     <cell name="title">Open government co-ordination unit: Institutional settings and key functions (en)</cell>
@@ -1462,7 +1615,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f8147fac</cell>
   </row>
-  <row index="86">
+  <row index="95">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/b3c92538-en</cell>
     <cell name="title">Extent to which performance assessments in HR decisions are used in central government, 2018 (en)</cell>
@@ -1479,7 +1632,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f773c345</cell>
   </row>
-  <row index="87">
+  <row index="96">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3c1f80a0-en</cell>
     <cell name="title">Existence of a standardised model for ICT project management at central government level, 2018 (en)</cell>
@@ -1496,7 +1649,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e65ba1f2</cell>
   </row>
-  <row index="88">
+  <row index="97">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/c4c1f5ae-en</cell>
     <cell name="title">Budgetary information made publicly available, 2018 (en)</cell>
@@ -1513,7 +1666,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f3812c28</cell>
   </row>
-  <row index="89">
+  <row index="98">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ce240ac0-en</cell>
     <cell name="title">Fiscal rules (en)</cell>
@@ -1530,7 +1683,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7508ae14</cell>
   </row>
-  <row index="90">
+  <row index="99">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6011b636-en</cell>
     <cell name="title">General government tax revenues (en)</cell>
@@ -1547,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b3233fdd</cell>
   </row>
-  <row index="91">
+  <row index="100">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9dd9972f-en</cell>
     <cell name="title">Existence of an office responsible for horizontal co-ordination of open government initiatives, 2018 (en)</cell>
@@ -1564,7 +1717,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0c093818</cell>
   </row>
-  <row index="92">
+  <row index="101">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6f2ba7c2-en</cell>
     <cell name="title">Percentage of students in schools where study help is provided, 2015 (en)</cell>
@@ -1581,7 +1734,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/307648b8</cell>
   </row>
-  <row index="93">
+  <row index="102">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/b4536bd6-en</cell>
     <cell name="title">Government investment spending (en)</cell>
@@ -1598,7 +1751,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a5fc8a15</cell>
   </row>
-  <row index="94">
+  <row index="103">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/460ed0ab-en</cell>
     <cell name="title">Citizen confidence in the judicial system and courts, 2007 and 2017 (en)</cell>
@@ -1615,7 +1768,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5993b974</cell>
   </row>
-  <row index="95">
+  <row index="104">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ba6dc951-en</cell>
     <cell name="title">Citizen satisfaction with the education system and schools, 2007 and 2017 (en)</cell>
@@ -1632,7 +1785,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8b98fab2</cell>
   </row>
-  <row index="96">
+  <row index="105">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/8a1e6424-en</cell>
     <cell name="title">General government primary balance and net interest spending as a percentage of GDP, 2009 and 2016 (en)</cell>
@@ -1649,7 +1802,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23961f25</cell>
   </row>
-  <row index="97">
+  <row index="106">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/b996d242-en</cell>
     <cell name="title">Share of women parliamentarians, 2008, 2014 and 2018 (en)</cell>
@@ -1666,7 +1819,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a3788f95</cell>
   </row>
-  <row index="98">
+  <row index="107">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ff01e006-en</cell>
     <cell name="title">Publication of citizens’ budget, 2018 (en)</cell>
@@ -1683,7 +1836,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fbdc6136</cell>
   </row>
-  <row index="99">
+  <row index="108">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0a87e4e4-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1700,7 +1853,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/71d6ad38</cell>
   </row>
-  <row index="100">
+  <row index="109">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/7615c93f-en</cell>
     <cell name="title">Estimated cancer mortality rates, 2010 and 2016 (en)</cell>
@@ -1717,7 +1870,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1657e805</cell>
   </row>
-  <row index="101">
+  <row index="110">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e146100b-en</cell>
     <cell name="title">Citizen satisfaction with public services and institutions (en)</cell>
@@ -1734,7 +1887,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1aa25562</cell>
   </row>
-  <row index="102">
+  <row index="111">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f86616e3-en</cell>
     <cell name="title">General government revenues as a percentage of GDP, 2007, 2009, 2016 and 2017 (en)</cell>
@@ -1751,7 +1904,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/21e66199</cell>
   </row>
-  <row index="103">
+  <row index="112">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6ce0a351-en</cell>
     <cell name="title">Head of the CBA, 2018 (en)</cell>
@@ -1768,7 +1921,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/00fa5090</cell>
   </row>
-  <row index="104">
+  <row index="113">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1b320376-en</cell>
     <cell name="title">General government expenditures as a percentage of GDP 2007, 2009, 2016 and 2017 (en)</cell>
@@ -1785,7 +1938,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/203cf596</cell>
   </row>
-  <row index="105">
+  <row index="114">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/63029fcb-en</cell>
     <cell name="title">Digital government strategies and institutional frameworks (en)</cell>
@@ -1802,7 +1955,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c2e007cc</cell>
   </row>
-  <row index="106">
+  <row index="115">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/67a338d3-en</cell>
     <cell name="title">National online portals and digital recognition mechanisms (en)</cell>
@@ -1819,7 +1972,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d2be5603</cell>
   </row>
-  <row index="107">
+  <row index="116">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/178ac506-en</cell>
     <cell name="title">Open government strategies (en)</cell>
@@ -1836,7 +1989,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2c75d5b4</cell>
   </row>
-  <row index="108">
+  <row index="117">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/21cca324-en</cell>
     <cell name="title">General government fiscal balance (en)</cell>
@@ -1853,7 +2006,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/69ab7d40</cell>
   </row>
-  <row index="109">
+  <row index="118">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/672bd105-en</cell>
     <cell name="title">Open government data (en)</cell>
@@ -1870,7 +2023,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e261ab18</cell>
   </row>
-  <row index="110">
+  <row index="119">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/c6f1ad21-en</cell>
     <cell name="title">Delegation in human resources management (en)</cell>
@@ -1887,7 +2040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53914ae1</cell>
   </row>
-  <row index="111">
+  <row index="120">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/c94a471d-en</cell>
     <cell name="title">Central government recruitment system (en)</cell>
@@ -1904,7 +2057,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c5ce923f</cell>
   </row>
-  <row index="112">
+  <row index="121">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/7a50fd56-en</cell>
     <cell name="title">OURdata Index: Government support for data reuse (Pillar 3), 2018 (en)</cell>
@@ -1921,7 +2074,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e2a7fb8d</cell>
   </row>
-  <row index="113">
+  <row index="122">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a2422862-en</cell>
     <cell name="title">Women in politics (en)</cell>
@@ -1938,7 +2091,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b31e256</cell>
   </row>
-  <row index="114">
+  <row index="123">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ff5b5569-en</cell>
     <cell name="title">Civil service competency development, 2018 (en)</cell>
@@ -1955,7 +2108,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/78e94bf6</cell>
   </row>
-  <row index="115">
+  <row index="124">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f51bbf84-en</cell>
     <cell name="title">Annual average growth rate of real government revenues per capita, 2007-16, 2009-16 and 2016-17 (en)</cell>
@@ -1972,7 +2125,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/70dd0f92</cell>
   </row>
-  <row index="116">
+  <row index="125">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3e18fdb1-en</cell>
     <cell name="title">Existence of a main national citizens, portal for government services, 2018 (en)</cell>
@@ -1989,7 +2142,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d60cf306</cell>
   </row>
-  <row index="117">
+  <row index="126">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/87b9bad9-en</cell>
     <cell name="title">General government structural balance (en)</cell>
@@ -2006,7 +2159,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/08dad8b3</cell>
   </row>
-  <row index="118">
+  <row index="127">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0f664ace-en</cell>
     <cell name="title">Towards a citizen-centric civil service (en)</cell>
@@ -2023,7 +2176,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/49a5dbe8</cell>
   </row>
-  <row index="119">
+  <row index="128">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/d4830791-en</cell>
     <cell name="title">Contextual factors (en)</cell>
@@ -2040,7 +2193,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/700dc7a3</cell>
   </row>
-  <row index="120">
+  <row index="129">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/5eca3ecf-en</cell>
     <cell name="title">Main challenges in implementing open government initiatives, 2018 (en)</cell>
@@ -2057,7 +2210,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3fc5b268</cell>
   </row>
-  <row index="121">
+  <row index="130">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/145a4c9a-en</cell>
     <cell name="title">Breakdown of tax revenues as percentage of total taxation, 2007 and 2015 (en)</cell>
@@ -2074,7 +2227,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8cbd7497</cell>
   </row>
-  <row index="122">
+  <row index="131">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a98b027f-en</cell>
     <cell name="title">Staff performance management (en)</cell>
@@ -2091,7 +2244,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b51d501e</cell>
   </row>
-  <row index="123">
+  <row index="132">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ae2ac259-en</cell>
     <cell name="title">General government expenditures (en)</cell>
@@ -2108,7 +2261,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f83b85a3</cell>
   </row>
-  <row index="124">
+  <row index="133">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/78f1d9b4-en</cell>
     <cell name="title">General government gross debt per capita, 2009, 2016 and 2017 (en)</cell>
@@ -2125,7 +2278,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/407d6b2c</cell>
   </row>
-  <row index="125">
+  <row index="134">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6508061c-en</cell>
     <cell name="title">Open government co-ordination unit: Institutional settings and key functions (en)</cell>
@@ -2142,7 +2295,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/66b7536d</cell>
   </row>
-  <row index="126">
+  <row index="135">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/726ca5d5-en</cell>
     <cell name="title">Access to legal and justice services (en)</cell>
@@ -2159,7 +2312,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3e79eecb</cell>
   </row>
-  <row index="127">
+  <row index="136">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/daa8a0ad-en</cell>
     <cell name="title">Existence of a mutual co-ordination process or mechanism formally in place between units responsible for public sector ICT projects, 2018 (en)</cell>
@@ -2176,7 +2329,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e0104e85</cell>
   </row>
-  <row index="128">
+  <row index="137">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1c7aa97d-en</cell>
     <cell name="title">OURdata Index: Data accessibility (Pillar 2), 2018 (en)</cell>
@@ -2193,7 +2346,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9bdd2b7d</cell>
   </row>
-  <row index="129">
+  <row index="138">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a250686c-en</cell>
     <cell name="title">Use of separate human resources management practices for senior civil servants (en)</cell>
@@ -2210,7 +2363,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3fba1e21</cell>
   </row>
-  <row index="130">
+  <row index="139">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/51d6a0b1-en</cell>
     <cell name="title">Government expenditures by economic transaction as a percentage of GDP, 2016 (en)</cell>
@@ -2227,7 +2380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d86b30d0</cell>
   </row>
-  <row index="131">
+  <row index="140">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/acf15e91-en</cell>
     <cell name="title">General government debt (en)</cell>
@@ -2244,7 +2397,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/baef25fa</cell>
   </row>
-  <row index="132">
+  <row index="141">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/52793ed8-en</cell>
     <cell name="title">Quality of health care (en)</cell>
@@ -2261,7 +2414,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d17c456b</cell>
   </row>
-  <row index="133">
+  <row index="142">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1064c284-en</cell>
     <cell name="title">Data-informed human resources management (en)</cell>
@@ -2278,7 +2431,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e4c16445</cell>
   </row>
-  <row index="134">
+  <row index="143">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ce240ac0-en</cell>
     <cell name="title">Fiscal rules (en)</cell>
@@ -2295,7 +2448,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fa8dfcbb</cell>
   </row>
-  <row index="135">
+  <row index="144">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a9f0ca5f-en</cell>
     <cell name="title">Estimated cancer mortality rates by gender, 2010 and 2016 (en)</cell>
@@ -2312,7 +2465,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/70d6c17e</cell>
   </row>
-  <row index="136">
+  <row index="145">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3d5396ed-en</cell>
     <cell name="title">Structure and Responsibilities of the Central Budget Authority (CBA) (en)</cell>
@@ -2329,7 +2482,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/264a4aea</cell>
   </row>
-  <row index="137">
+  <row index="146">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/43ff603c-en</cell>
     <cell name="title">Existence of a single national open government strategy, OECD countries from the region, 2015 (en)</cell>
@@ -2346,7 +2499,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d61a3200</cell>
   </row>
-  <row index="138">
+  <row index="147">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3ef9d282-en</cell>
     <cell name="title">Extent of delegation of human resources management practices in line ministries in central government, 2018 (en)</cell>
@@ -2363,7 +2516,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db01ce16</cell>
   </row>
-  <row index="139">
+  <row index="148">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/67a338d3-en</cell>
     <cell name="title">National online portals and digital recognition mechanisms (en)</cell>
@@ -2380,7 +2533,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/76ecf9cc</cell>
   </row>
-  <row index="140">
+  <row index="149">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0a421b7f-en</cell>
     <cell name="title">General government expenditures by economic transaction (en)</cell>
@@ -2397,7 +2550,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0151c575</cell>
   </row>
-  <row index="141">
+  <row index="150">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/5f0f899d-en</cell>
     <cell name="title">Structure of general government expenditures by economic transaction, 2008, 2013 and 2016 (en)</cell>
@@ -2414,7 +2567,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5f48f7d4</cell>
   </row>
-  <row index="142">
+  <row index="151">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f8251ea1-en</cell>
     <cell name="title">Countries’ assessments of PPPs relative to TIPs along various dimensions, 2018 (en)</cell>
@@ -2431,7 +2584,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b53ea32</cell>
   </row>
-  <row index="143">
+  <row index="152">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/87b9bad9-en</cell>
     <cell name="title">General government structural balance (en)</cell>
@@ -2448,7 +2601,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/22592190</cell>
   </row>
-  <row index="144">
+  <row index="153">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f82b3a84-en</cell>
     <cell name="title">Share of women ministers, 2008, 2014 and 2017 (en)</cell>
@@ -2465,7 +2618,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/93eebebe</cell>
   </row>
-  <row index="145">
+  <row index="154">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/d9b70a01-en</cell>
     <cell name="title">Analytical support available to parliament, 2018 (en)</cell>
@@ -2482,7 +2635,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d35418c0</cell>
   </row>
-  <row index="146">
+  <row index="155">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/c7d05749-en</cell>
     <cell name="title">Identification of SCS, 2018 (en)</cell>
@@ -2499,7 +2652,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b5764f24</cell>
   </row>
-  <row index="147">
+  <row index="156">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/78ca0630-en</cell>
     <cell name="title">Share of employed women and men in total employment, 2009 and 2016 (en)</cell>
@@ -2516,7 +2669,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/456e226b</cell>
   </row>
-  <row index="148">
+  <row index="157">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/acfe0b07-en</cell>
     <cell name="title">Open government challenges (en)</cell>
@@ -2533,7 +2686,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ed737147</cell>
   </row>
-  <row index="149">
+  <row index="158">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f5a2c346-en</cell>
     <cell name="title">Responsibilities of the open government co-ordination office, 2018 (en)</cell>
@@ -2550,7 +2703,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/663f6702</cell>
   </row>
-  <row index="150">
+  <row index="159">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0a87e4e4-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -2567,7 +2720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c43d56e9</cell>
   </row>
-  <row index="151">
+  <row index="160">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1064c284-en</cell>
     <cell name="title">Data-informed human resources management (en)</cell>
@@ -2584,7 +2737,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a477e2fb</cell>
   </row>
-  <row index="152">
+  <row index="161">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/2558c185-en</cell>
     <cell name="title">Employment in public sector and by gender (en)</cell>
@@ -2601,7 +2754,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4abf33af</cell>
   </row>
-  <row index="153">
+  <row index="162">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4b97b39c-en</cell>
     <cell name="title">General government gross debt as a percentage of GDP, 2007, 2009, 2016 and 2017 (en)</cell>
@@ -2618,7 +2771,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f4f8369</cell>
   </row>
-  <row index="154">
+  <row index="163">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3fb22c68-en</cell>
     <cell name="title">Measuring the financial benefits of ICT investments (en)</cell>
@@ -2635,7 +2788,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fb53e6e5</cell>
   </row>
-  <row index="155">
+  <row index="164">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9703fb14-en</cell>
     <cell name="title">General government revenues (en)</cell>
@@ -2652,7 +2805,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/146380f7</cell>
   </row>
-  <row index="156">
+  <row index="165">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/acf15e91-en</cell>
     <cell name="title">General government debt (en)</cell>
@@ -2669,7 +2822,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a1f9164e</cell>
   </row>
-  <row index="157">
+  <row index="166">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/2c9b92dc-en</cell>
     <cell name="title">Delegation of key HRM responsibilities to line ministries in central government, 2018 (en)</cell>
@@ -2686,7 +2839,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e31659c9</cell>
   </row>
-  <row index="158">
+  <row index="167">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3bae7410-en</cell>
     <cell name="title">Digital competencies as a priority for the civil service and employee development as a senior civil service competency, 2018 (en)</cell>
@@ -2703,7 +2856,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1e15503e</cell>
   </row>
-  <row index="159">
+  <row index="168">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4de77848-en</cell>
     <cell name="title">Civil service competencies and training priorities, 2018 (en)</cell>
@@ -2720,7 +2873,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/070e12c6</cell>
   </row>
-  <row index="160">
+  <row index="169">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305915-en</cell>
     <cell name="title">Government at a Glance Southeast Asia 2019 (en)</cell>
@@ -2731,13 +2884,13 @@
     <cell name="date of publication">2019-09-10</cell>
     <cell name="embargo date">2019-09-10T02:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-08-05T19:18:28Z</cell>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g94ffe</cell>
   </row>
-  <row index="161">
+  <row index="170">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9789264305915-en</cell>
     <cell name="title">Government at a Glance Southeast Asia 2019 (en)</cell>
@@ -2748,13 +2901,13 @@
     <cell name="date of publication">2019-09-10</cell>
     <cell name="embargo date">2019-09-10T02:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-08-05T19:18:28Z</cell>
+    <cell name="ilibrary last export date">2019-08-09T19:19:38Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/g3g96de6</cell>
   </row>
-  <row index="162">
+  <row index="171">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/8f431fe7-en</cell>
     <cell name="title">HRM practices composite indexes (en)</cell>
@@ -2771,7 +2924,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23917a87</cell>
   </row>
-  <row index="163">
+  <row index="172">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/807873ff-en</cell>
     <cell name="title">Introduction (en)</cell>
@@ -2788,7 +2941,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fec6522f</cell>
   </row>
-  <row index="164">
+  <row index="173">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/62e56cf0-en</cell>
     <cell name="title">Types and legal foundation of fiscal rules, 2018 (en)</cell>
@@ -2805,7 +2958,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/181c28fd</cell>
   </row>
-  <row index="165">
+  <row index="174">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/15cb126c-en</cell>
     <cell name="title">Public-private partnerships (en)</cell>
@@ -2822,7 +2975,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e05956a0</cell>
   </row>
-  <row index="166">
+  <row index="175">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/d9bf5bac-en</cell>
     <cell name="title">General government fiscal balance as a percentage of GDP, 2007, 2009, 2016 and 2017 (en)</cell>
@@ -2839,7 +2992,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/533046f9</cell>
   </row>
-  <row index="167">
+  <row index="176">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/5b0d4f77-en</cell>
     <cell name="title">Medium-term expenditure framework (en)</cell>
@@ -2856,7 +3009,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8b5d5fef</cell>
   </row>
-  <row index="168">
+  <row index="177">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/765f887b-en</cell>
     <cell name="title">Main challenges in co-ordinating open government policies and initiatives, 2018 (en)</cell>
@@ -2873,7 +3026,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e010251</cell>
   </row>
-  <row index="169">
+  <row index="178">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a98b027f-en</cell>
     <cell name="title">Staff performance management (en)</cell>
@@ -2890,7 +3043,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fd507972</cell>
   </row>
-  <row index="170">
+  <row index="179">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/23600503-en</cell>
     <cell name="title">Index of shortage of educational material, 2015 (en)</cell>
@@ -2907,7 +3060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5d3b9116</cell>
   </row>
-  <row index="171">
+  <row index="180">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/c94a471d-en</cell>
     <cell name="title">Central government recruitment system (en)</cell>
@@ -2924,7 +3077,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6e33381b</cell>
   </row>
-  <row index="172">
+  <row index="181">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/807873ff-en</cell>
     <cell name="title">Introduction (en)</cell>
@@ -2941,7 +3094,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/04227db2</cell>
   </row>
-  <row index="173">
+  <row index="182">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ae2ac259-en</cell>
     <cell name="title">General government expenditures (en)</cell>
@@ -2958,7 +3111,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b3b3ea9d</cell>
   </row>
-  <row index="174">
+  <row index="183">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/fd61a268-en</cell>
     <cell name="title">Competency management and development (en)</cell>
@@ -2975,7 +3128,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/757fe9d2</cell>
   </row>
-  <row index="175">
+  <row index="184">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e976959e-en</cell>
     <cell name="title">Collection and aggregation of employee performance data, 2018 (en)</cell>
@@ -2992,7 +3145,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e8375203</cell>
   </row>
-  <row index="176">
+  <row index="185">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a01bf4ce-en</cell>
     <cell name="title">Existence of a single national open government strategy, 2018 (en)</cell>
@@ -3009,7 +3162,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/991cebe0</cell>
   </row>
-  <row index="177">
+  <row index="186">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e146100b-en</cell>
     <cell name="title">Citizen satisfaction with public services and institutions (en)</cell>
@@ -3026,7 +3179,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b2ff134d</cell>
   </row>
-  <row index="178">
+  <row index="187">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3497bbb6-en</cell>
     <cell name="title">General government projected structural balance as a percentage of potential GDP in 2018 and 2019 and change since 2017 (en)</cell>
@@ -3043,7 +3196,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eb855e1d</cell>
   </row>
-  <row index="179">
+  <row index="188">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/c162c345-en</cell>
     <cell name="title">Employment in public sector as a percentage of total employment, 2009 and 2016 (en)</cell>
@@ -3060,7 +3213,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ce036c9</cell>
   </row>
-  <row index="180">
+  <row index="189">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/2fdbc097-en</cell>
     <cell name="title">Extent to which separate human resources management practices are used for senior civil servants in central government, 2018 (en)</cell>
@@ -3077,7 +3230,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9843bc33</cell>
   </row>
-  <row index="181">
+  <row index="190">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/21cca324-en</cell>
     <cell name="title">General government fiscal balance (en)</cell>
@@ -3094,7 +3247,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ce0bbbcb</cell>
   </row>
-  <row index="182">
+  <row index="191">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f9bf77fd-en</cell>
     <cell name="title">Budget transparency (en)</cell>
@@ -3111,7 +3264,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/16d53d31</cell>
   </row>
-  <row index="183">
+  <row index="192">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f6951e99-en</cell>
     <cell name="title">Top national policy objectives of open government initiatives, 2018 (en)</cell>
@@ -3128,7 +3281,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d1e83eb0</cell>
   </row>
-  <row index="184">
+  <row index="193">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/d4830791-en</cell>
     <cell name="title">Contextual factors (en)</cell>
@@ -3145,7 +3298,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f7fce130</cell>
   </row>
-  <row index="185">
+  <row index="194">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/63029fcb-en</cell>
     <cell name="title">Digital government strategies and institutional frameworks (en)</cell>
@@ -3162,7 +3315,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/940337df</cell>
   </row>
-  <row index="186">
+  <row index="195">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3d5396ed-en</cell>
     <cell name="title">Structure and Responsibilities of the Central Budget Authority (CBA) (en)</cell>
@@ -3179,7 +3332,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/faa36b4e</cell>
   </row>
-  <row index="187">
+  <row index="196">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/dbef9ac2-en</cell>
     <cell name="title">Measurement of direct financial benefits of ICT projects for businesses and citizens, 2018 (en)</cell>
@@ -3196,7 +3349,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6299f795</cell>
   </row>
-  <row index="188">
+  <row index="197">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4585fd96-en</cell>
     <cell name="title">Open-Useful-Reusable Government Data (OURdata) Index, 2018 (en)</cell>
@@ -3213,7 +3366,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/66b47cc2</cell>
   </row>
-  <row index="189">
+  <row index="198">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/cacff37c-en</cell>
     <cell name="title">Type of recruitment system used in central government, 2018 (en)</cell>
@@ -3230,7 +3383,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1217acaa</cell>
   </row>
-  <row index="190">
+  <row index="199">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0f664ace-en</cell>
     <cell name="title">Towards a citizen-centric civil service (en)</cell>
@@ -3247,7 +3400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/19a978fb</cell>
   </row>
-  <row index="191">
+  <row index="200">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/22b7daa6-en</cell>
     <cell name="title">Citizens can access and afford civil justice, 2017 (en)</cell>
@@ -3264,7 +3417,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fbdbd46a</cell>
   </row>
-  <row index="192">
+  <row index="201">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/010919fa-en</cell>
     <cell name="title">Annual average growth rate of real government expenditures per capita, 2007-16, 2009-16 and 2016-17 (en)</cell>
@@ -3281,7 +3434,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a897ace1</cell>
   </row>
-  <row index="193">
+  <row index="202">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/42301c0c-en</cell>
     <cell name="title">Economies of scale vs Market competition: ICT procurement priorities, 2018 (en)</cell>
@@ -3298,7 +3451,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/648f235d</cell>
   </row>
-  <row index="194">
+  <row index="203">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0fc0d72e-en</cell>
     <cell name="title">Government investment as a percentage of GDP, 2008, 2013 and 2016 (en)</cell>
@@ -3315,7 +3468,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e91a5879</cell>
   </row>
-  <row index="195">
+  <row index="204">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3ebb8a9a-en</cell>
     <cell name="title">Reader’s guide (en)</cell>
@@ -3332,7 +3485,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f601aae</cell>
   </row>
-  <row index="196">
+  <row index="205">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/15cb126c-en</cell>
     <cell name="title">Public-private partnerships (en)</cell>
@@ -3349,7 +3502,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4e7cbc4f</cell>
   </row>
-  <row index="197">
+  <row index="206">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/bc1592cf-en</cell>
     <cell name="title">General government structural balance as a percentage of potential GDP, 2007, 2009 2016 and 2017 (en)</cell>
@@ -3366,7 +3519,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3019ad32</cell>
   </row>
-  <row index="198">
+  <row index="207">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/acfe0b07-en</cell>
     <cell name="title">Open government challenges (en)</cell>
@@ -3383,7 +3536,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/645f29c4</cell>
   </row>
-  <row index="199">
+  <row index="208">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/78a7ba98-en</cell>
     <cell name="title">Responsiveness of education systems to student needs (en)</cell>
@@ -3400,7 +3553,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1a7dfabe</cell>
   </row>
-  <row index="200">
+  <row index="209">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/489ed645-en</cell>
     <cell name="title">Existence of a legally recognised digital identification (e.g. digital signature) mechanism, 2018 (en)</cell>
@@ -3417,7 +3570,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/feebdcac</cell>
   </row>
-  <row index="201">
+  <row index="210">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/c0d5f457-en</cell>
     <cell name="title">Employee surveys in central government, 2018 (en)</cell>
@@ -3434,7 +3587,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f0be4c2b</cell>
   </row>
-  <row index="202">
+  <row index="211">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/d9e78914-en</cell>
     <cell name="title">Share of public sector employment filled by women and men, 2009 and 2016 (en)</cell>
@@ -3451,7 +3604,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/97f61086</cell>
   </row>
-  <row index="203">
+  <row index="212">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9c2a08e7-en</cell>
     <cell name="title">OECD methodology for constructing the OURdata Index (en)</cell>
@@ -3468,7 +3621,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c4485fd9</cell>
   </row>
-  <row index="204">
+  <row index="213">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/533b718b-en</cell>
     <cell name="title">Main features of digital government strategies, 2018 (en)</cell>
@@ -3485,7 +3638,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5d15eb16</cell>
   </row>
-  <row index="205">
+  <row index="214">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ee8b8bbd-en</cell>
     <cell name="title">Enforcement mechanisms for fiscal rules, 2018 (en)</cell>
@@ -3502,7 +3655,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/634816b6</cell>
   </row>
-  <row index="206">
+  <row index="215">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1491c99d-en</cell>
     <cell name="title">Civil justice: Alternative dispute resolution mechanisms are accessible, impartial and effective, 2017 (en)</cell>
@@ -3519,7 +3672,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d61eb279</cell>
   </row>
-  <row index="207">
+  <row index="216">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a2422862-en</cell>
     <cell name="title">Women in politics (en)</cell>
@@ -3536,7 +3689,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5af3e665</cell>
   </row>
-  <row index="208">
+  <row index="217">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/537b7879-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -3553,7 +3706,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bf2916c2</cell>
   </row>
-  <row index="209">
+  <row index="218">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/2ca6a8ca-en</cell>
     <cell name="title">Procurement for ICT Projects (en)</cell>
@@ -3570,7 +3723,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/16c9c6ec</cell>
   </row>
-  <row index="210">
+  <row index="219">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a250686c-en</cell>
     <cell name="title">Use of separate human resources management practices for senior civil servants (en)</cell>
@@ -3587,7 +3740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7206139c</cell>
   </row>
-  <row index="211">
+  <row index="220">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/fd61a268-en</cell>
     <cell name="title">Competency management and development (en)</cell>
@@ -3604,7 +3757,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5ca872b8</cell>
   </row>
-  <row index="212">
+  <row index="221">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/537b7879-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -3621,7 +3774,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b5ca0d64</cell>
   </row>
-  <row index="213">
+  <row index="222">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/05bae000-en</cell>
     <cell name="title">Challenges in attracting particular groups of applicants to the civil service, 2018 (en)</cell>
@@ -3638,7 +3791,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d57dd9d</cell>
   </row>
-  <row index="214">
+  <row index="223">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0a421b7f-en</cell>
     <cell name="title">General government expenditures by economic transaction (en)</cell>
@@ -3655,7 +3808,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e26cd25f</cell>
   </row>
-  <row index="215">
+  <row index="224">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/8bab0cc3-en</cell>
     <cell name="title">Citizen satisfaction with the health care system, 2007 and 2017 (en)</cell>
@@ -3672,7 +3825,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2182bc88</cell>
   </row>
-  <row index="216">
+  <row index="225">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9c2a08e7-en</cell>
     <cell name="title">OECD methodology for constructing the OURdata Index (en)</cell>
@@ -3689,7 +3842,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e2ddfaa4</cell>
   </row>
-  <row index="217">
+  <row index="226">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f3d8ea10-en</cell>
     <cell name="title">Tax Morale (en)</cell>
@@ -3706,7 +3859,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6bfb9490</cell>
   </row>
-  <row index="218">
+  <row index="227">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f3d8ea10-en</cell>
     <cell name="title">Tax Morale (en)</cell>
@@ -3723,7 +3876,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/76be069c</cell>
   </row>
-  <row index="219">
+  <row index="228">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c9c4ec1d-en</cell>
     <cell name="title">Innovation, Productivity and Sustainability in Food and Agriculture (en)</cell>
@@ -3740,7 +3893,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2d1ba40b</cell>
   </row>
-  <row index="220">
+  <row index="229">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c9c4ec1d-en</cell>
     <cell name="title">Innovation, Productivity and Sustainability in Food and Agriculture (en)</cell>
@@ -3757,7 +3910,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0f341b96</cell>
   </row>
-  <row index="221">
+  <row index="230">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/830128c5-fr</cell>
     <cell name="title">Innovation, productivité et durabilité dans le secteur agricole et alimentaire (fr)</cell>
@@ -3774,7 +3927,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc960bbd</cell>
   </row>
-  <row index="222">
+  <row index="231">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/830128c5-fr</cell>
     <cell name="title">Innovation, productivité et durabilité dans le secteur agricole et alimentaire (fr)</cell>
