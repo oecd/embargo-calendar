@@ -2,29 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 9 August 2019 at 21:47* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The 2018 Indicators on the Governance of Sector Regulators - Part of the Product Market Regulation (PMR) Survey](https://doi.org/10.1787/a0a28908-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 August 2019 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 2 August 2019 at 22:29
-- [x] Exported to Keepeek Friday 2 August 2019 at 21:15
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Monday 12 August 2019 at 21:26* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Making Dispute Resolution More Effective – MAP Peer Review Report, Belgium (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/734c25f4-en)
 
@@ -37,6 +15,7 @@ Tuesday 13 August 2019 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 August 2019 at 22:29
 - [x] Exported to Keepeek Friday 2 August 2019 at 21:15
+- [x] Exported to OECD.org Sunday 11 August 2019 at 13:46
 
 ### Additional Information
 
@@ -57,14 +36,15 @@ Tuesday 13 August 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 2 August 2019 at 22:29
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 12 August 2019 at 21:07
+- [x] Exported to Keepeek Monday 12 August 2019 at 20:55
+- [x] Exported to OECD.org Monday 12 August 2019 at 20:17
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -81,6 +61,7 @@ Tuesday 13 August 2019 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 August 2019 at 22:29
 - [x] Exported to Keepeek Friday 2 August 2019 at 21:15
+- [x] Exported to OECD.org Sunday 11 August 2019 at 13:46
 
 ### Additional Information
 
@@ -103,6 +84,7 @@ Tuesday 13 August 2019 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 August 2019 at 22:29
 - [x] Exported to Keepeek Friday 2 August 2019 at 21:15
+- [x] Exported to OECD.org Sunday 11 August 2019 at 13:46
 
 ### Additional Information
 
@@ -123,14 +105,15 @@ Tuesday 13 August 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 2 August 2019 at 22:29
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 12 August 2019 at 21:07
+- [x] Exported to Keepeek Monday 12 August 2019 at 20:55
+- [x] Exported to OECD.org Monday 12 August 2019 at 20:17
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -147,6 +130,7 @@ Tuesday 13 August 2019 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 9 August 2019 at 21:19
 - [x] Exported to Keepeek Friday 9 August 2019 at 21:04
+- [x] Exported to OECD.org Sunday 11 August 2019 at 13:46
 
 ### Additional Information
 
@@ -169,6 +153,7 @@ Thursday 22 August 2019 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 23 July 2019 at 21:23
 - [x] Exported to Keepeek Tuesday 23 July 2019 at 21:09
+- [x] Exported to OECD.org Tuesday 23 July 2019 at 20:22
 
 ### Additional Information
 
@@ -191,6 +176,7 @@ Thursday 22 August 2019 at 9:00 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Friday 2 August 2019 at 22:29
 - [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 10 July 2019 at 20:20
 
 ### Additional Information
 
@@ -213,6 +199,7 @@ Tuesday 27 August 2019 at 3:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 31 July 2019 at 21:20
 - [x] Exported to Keepeek Wednesday 31 July 2019 at 21:06
+- [ ] Exported to OECD.org
 
 ### Additional Information
 
@@ -235,6 +222,7 @@ Friday 30 August 2019 at 7:00 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Monday 5 August 2019 at 21:18
 - [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 5 August 2019 at 20:22
 
 ### Additional Information
 
@@ -257,6 +245,7 @@ Tuesday 10 September 2019 at 2:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 9 August 2019 at 21:19
 - [x] Exported to Keepeek Monday 5 August 2019 at 21:02
+- [x] Exported to OECD.org Friday 9 August 2019 at 20:23
 
 ### Additional Information
 
@@ -279,6 +268,7 @@ Wednesday 11 September 2019 at 9:00 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Wednesday 31 July 2019 at 21:20
 - [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 31 July 2019 at 20:21
 
 ### Additional Information
 
@@ -301,6 +291,7 @@ Thursday 26 September 2019 at 8:00 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Wednesday 31 July 2019 at 21:20
 - [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 31 July 2019 at 20:21
 
 ### Additional Information
 
@@ -323,6 +314,7 @@ Thursday 26 September 2019 at 8:00 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Wednesday 31 July 2019 at 21:20
 - [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 31 July 2019 at 20:21
 
 ### Additional Information
 
