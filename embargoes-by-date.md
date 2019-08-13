@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 12 August 2019 at 21:26* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 13 August 2019 at 22:39* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [13 August 2019](#13-august-2019)
 * [22 August 2019](#22-august-2019)
@@ -15,121 +15,6 @@ Data generated on | |
 ------
 
 # 13 August 2019
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Belgium (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/734c25f4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 13 August 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 2 August 2019 at 22:29
-- [x] Exported to Keepeek Friday 2 August 2019 at 21:15
-- [x] Exported to OECD.org Sunday 11 August 2019 at 13:46
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, United States (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/305147e9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 13 August 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 12 August 2019 at 21:07
-- [x] Exported to Keepeek Monday 12 August 2019 at 20:55
-- [x] Exported to OECD.org Monday 12 August 2019 at 20:17
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Netherlands (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/cce92832-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 13 August 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 2 August 2019 at 22:29
-- [x] Exported to Keepeek Friday 2 August 2019 at 21:15
-- [x] Exported to OECD.org Sunday 11 August 2019 at 13:46
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Canada (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/67dba2bb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 13 August 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 2 August 2019 at 22:29
-- [x] Exported to Keepeek Friday 2 August 2019 at 21:15
-- [x] Exported to OECD.org Sunday 11 August 2019 at 13:46
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Switzerland (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/77ab98a6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 13 August 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 12 August 2019 at 21:07
-- [x] Exported to Keepeek Monday 12 August 2019 at 20:55
-- [x] Exported to OECD.org Monday 12 August 2019 at 20:17
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
 
 ## [Recruiting Immigrant Workers: Canada 2019](https://doi.org/10.1787/4abab00d-en)
 
