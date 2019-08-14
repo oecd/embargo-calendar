@@ -2,12 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 13 August 2019 at 22:39* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 14 August 2019 at 21:39* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [13 August 2019](#13-august-2019)
 * [22 August 2019](#22-august-2019)
 * [27 August 2019](#27-august-2019)
 * [30 August 2019](#30-august-2019)
+* [3 September 2019](#3-september-2019)
 * [10 September 2019](#10-september-2019)
 * [11 September 2019](#11-september-2019)
 * [26 September 2019](#26-september-2019)
@@ -27,7 +28,7 @@ Tuesday 13 August 2019 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 9 August 2019 at 21:19
 - [x] Exported to Keepeek Friday 9 August 2019 at 21:04
-- [x] Exported to OECD.org Sunday 11 August 2019 at 13:46
+- [x] Exported to OECD.org Wednesday 14 August 2019 at 20:22
 
 ### Additional Information
 
@@ -63,29 +64,6 @@ Thursday 22 August 2019 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Country-by-Country Reporting – Compilation of Peer Review Reports (Phase 2) - Inclusive Framework on BEPS: Action 13](https://doi.org/10.1787/f9bf1157-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 22 August 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 2 August 2019 at 22:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 July 2019 at 20:20
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
 
 ------
 
@@ -140,6 +118,33 @@ Friday 30 August 2019 at 7:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 3 September 2019
+
+## [Country-by-Country Reporting – Compilation of Peer Review Reports (Phase 2) - Inclusive Framework on BEPS: Action 13](https://doi.org/10.1787/f9bf1157-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 3 September 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 14 August 2019 at 21:14
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 14 August 2019 at 20:22
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
