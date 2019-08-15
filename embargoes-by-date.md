@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 14 August 2019 at 21:39* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 15 August 2019 at 21:28* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [13 August 2019](#13-august-2019)
 * [22 August 2019](#22-august-2019)
 * [27 August 2019](#27-august-2019)
 * [30 August 2019](#30-august-2019)
@@ -12,33 +11,6 @@ Data generated on | |
 * [10 September 2019](#10-september-2019)
 * [11 September 2019](#11-september-2019)
 * [26 September 2019](#26-september-2019)
-
-------
-
-# 13 August 2019
-
-## [Recruiting Immigrant Workers: Canada 2019](https://doi.org/10.1787/4abab00d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 13 August 2019 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 9 August 2019 at 21:19
-- [x] Exported to Keepeek Friday 9 August 2019 at 21:04
-- [x] Exported to OECD.org Wednesday 14 August 2019 at 20:22
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
