@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 15 August 2019 at 21:28* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 16 August 2019 at 16:27* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Financial Incentives to Promote Adult Learning in Australia](https://doi.org/10.1787/c79badcc-en)
 
