@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 22 August 2019 at 21:35* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 23 August 2019 at 22:33* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Financial Incentives to Promote Adult Learning in Australia](https://doi.org/10.1787/c79badcc-en)
 
@@ -15,7 +15,7 @@ Thursday 22 August 2019 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 23 July 2019 at 21:23
 - [x] Exported to Keepeek Tuesday 23 July 2019 at 21:09
-- [x] Exported to OECD.org Tuesday 20 August 2019 at 20:23
+- [x] Exported to OECD.org Friday 23 August 2019 at 20:36
 
 ### Additional Information
 
