@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 23 August 2019 at 22:33* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Financial Incentives to Promote Adult Learning in Australia](https://doi.org/10.1787/c79badcc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 22 August 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 23 July 2019 at 21:23
-- [x] Exported to Keepeek Tuesday 23 July 2019 at 21:09
-- [x] Exported to OECD.org Friday 23 August 2019 at 20:36
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Monday 26 August 2019 at 21:50* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Can academic performance help disadvantaged students to achieve upward educational mobility?](https://doi.org/10.1787/fd5356d0-en)
 
