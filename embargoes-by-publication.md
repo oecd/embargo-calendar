@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 27 August 2019 at 23:48* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 28 August 2019 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Can academic performance help disadvantaged students to achieve upward educational mobility?](https://doi.org/10.1787/fd5356d0-en)
 
@@ -31,14 +31,14 @@ Tuesday 27 August 2019 at 3:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 30 August 2019 at 7:00 | no launch event
+Friday 30 August 2019 at 5:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 21 August 2019 at 21:21
-- [x] Exported to Keepeek Tuesday 27 August 2019 at 21:14
-- [x] Exported to OECD.org Tuesday 27 August 2019 at 20:31
+- [x] Exported to iLibrary Wednesday 28 August 2019 at 22:30
+- [x] Exported to Keepeek Wednesday 28 August 2019 at 21:05
+- [x] Exported to OECD.org Wednesday 28 August 2019 at 20:23
 
 ### Additional Information
 
@@ -58,16 +58,16 @@ Tuesday 3 September 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 14 August 2019 at 21:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 August 2019 at 20:22
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 28 August 2019 at 22:30
+- [x] Exported to Keepeek Wednesday 28 August 2019 at 21:05
+- [x] Exported to OECD.org Wednesday 28 August 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -81,18 +81,18 @@ Thursday 5 September 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 1 August 2019 at 21:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 27 August 2019 at 20:31
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 28 August 2019 at 22:30
+- [x] Exported to Keepeek Wednesday 28 August 2019 at 21:05
+- [x] Exported to OECD.org Wednesday 28 August 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -128,9 +128,9 @@ Wednesday 11 September 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 31 July 2019 at 21:20
+- [x] Exported to iLibrary Wednesday 28 August 2019 at 22:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 31 July 2019 at 20:21
+- [x] Exported to OECD.org Wednesday 28 August 2019 at 20:23
 
 ### Additional Information
 
