@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 28 August 2019 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Can academic performance help disadvantaged students to achieve upward educational mobility?](https://doi.org/10.1787/fd5356d0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 27 August 2019 at 3:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 31 July 2019 at 21:20
-- [x] Exported to Keepeek Wednesday 31 July 2019 at 21:06
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Thursday 29 August 2019 at 21:44* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Working Better With Age](https://doi.org/10.1787/c4d4f66a-en)
 
@@ -115,7 +92,30 @@ Tuesday 10 September 2019 at 2:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [Multi-dimensional Review of Peru - Volume 3. From Analysis to Action](https://doi.org/10.1787/c6c23d2c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 September 2019 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 29 August 2019 at 21:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 29 August 2019 at 20:24
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -135,6 +135,29 @@ Wednesday 11 September 2019 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Education Policy Outlook 2019 - Working Together to Help Students Achieve their Potential](https://doi.org/10.1787/2b8ad56e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 September 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 29 August 2019 at 21:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 29 August 2019 at 20:24
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
