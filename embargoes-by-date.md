@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 29 August 2019 at 21:44* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 30 August 2019 at 21:41* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [30 August 2019](#30-august-2019)
 * [3 September 2019](#3-september-2019)
 * [5 September 2019](#5-september-2019)
+* [9 September 2019](#9-september-2019)
 * [10 September 2019](#10-september-2019)
 * [11 September 2019](#11-september-2019)
 * [16 September 2019](#16-september-2019)
@@ -95,6 +96,33 @@ Thursday 5 September 2019 at 9:00 | no launch event
 
 ------
 
+# 9 September 2019
+
+## [The potential of tax microdata for tax policy](https://doi.org/10.1787/d2283b8e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 September 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 30 August 2019 at 21:20
+- [x] Exported to Keepeek Friday 30 August 2019 at 21:05
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 10 September 2019
 
 ## [Government at a Glance Southeast Asia 2019](https://doi.org/10.1787/9789264305915-en)
@@ -158,7 +186,7 @@ Wednesday 11 September 2019 at 9:00 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Wednesday 28 August 2019 at 22:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 28 August 2019 at 20:23
+- [x] Exported to OECD.org Friday 30 August 2019 at 20:22
 
 ### Additional Information
 

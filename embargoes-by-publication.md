@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 29 August 2019 at 21:44* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 30 August 2019 at 21:41* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Working Better With Age](https://doi.org/10.1787/c4d4f66a-en)
 
@@ -73,6 +73,29 @@ Thursday 5 September 2019 at 9:00 | no launch event
 
 ------
 
+## [The potential of tax microdata for tax policy](https://doi.org/10.1787/d2283b8e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 September 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 30 August 2019 at 21:20
+- [x] Exported to Keepeek Friday 30 August 2019 at 21:05
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Government at a Glance Southeast Asia 2019](https://doi.org/10.1787/9789264305915-en)
 
 Embargo date | Launch date
@@ -130,7 +153,7 @@ Wednesday 11 September 2019 at 9:00 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Wednesday 28 August 2019 at 22:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 28 August 2019 at 20:23
+- [x] Exported to OECD.org Friday 30 August 2019 at 20:22
 
 ### Additional Information
 
