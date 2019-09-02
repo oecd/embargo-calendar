@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 30 August 2019 at 21:41* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Working Better With Age](https://doi.org/10.1787/c4d4f66a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 30 August 2019 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 28 August 2019 at 22:30
-- [x] Exported to Keepeek Wednesday 28 August 2019 at 21:05
-- [x] Exported to OECD.org Wednesday 28 August 2019 at 20:23
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
+| *Monday 2 September 2019 at 22:28* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Country-by-Country Reporting – Compilation of Peer Review Reports (Phase 2) - Inclusive Framework on BEPS: Action 13](https://doi.org/10.1787/f9bf1157-en)
 
@@ -38,7 +15,7 @@ Tuesday 3 September 2019 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 28 August 2019 at 22:30
 - [x] Exported to Keepeek Wednesday 28 August 2019 at 21:05
-- [x] Exported to OECD.org Wednesday 28 August 2019 at 20:23
+- [x] Exported to OECD.org Sunday 1 September 2019 at 13:45
 
 ### Additional Information
 
@@ -61,7 +38,7 @@ Thursday 5 September 2019 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 28 August 2019 at 22:30
 - [x] Exported to Keepeek Wednesday 28 August 2019 at 21:05
-- [x] Exported to OECD.org Wednesday 28 August 2019 at 20:23
+- [x] Exported to OECD.org Monday 2 September 2019 at 20:25
 
 ### Additional Information
 

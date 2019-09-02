@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 30 August 2019 at 21:41* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 2 September 2019 at 22:28* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [30 August 2019](#30-august-2019)
 * [3 September 2019](#3-september-2019)
 * [5 September 2019](#5-september-2019)
 * [9 September 2019](#9-september-2019)
@@ -12,33 +11,6 @@ Data generated on | |
 * [11 September 2019](#11-september-2019)
 * [16 September 2019](#16-september-2019)
 * [26 September 2019](#26-september-2019)
-
-------
-
-# 30 August 2019
-
-## [Working Better With Age](https://doi.org/10.1787/c4d4f66a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 30 August 2019 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 28 August 2019 at 22:30
-- [x] Exported to Keepeek Wednesday 28 August 2019 at 21:05
-- [x] Exported to OECD.org Wednesday 28 August 2019 at 20:23
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -55,7 +27,7 @@ Tuesday 3 September 2019 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 28 August 2019 at 22:30
 - [x] Exported to Keepeek Wednesday 28 August 2019 at 21:05
-- [x] Exported to OECD.org Wednesday 28 August 2019 at 20:23
+- [x] Exported to OECD.org Sunday 1 September 2019 at 13:45
 
 ### Additional Information
 
@@ -82,7 +54,7 @@ Thursday 5 September 2019 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 28 August 2019 at 22:30
 - [x] Exported to Keepeek Wednesday 28 August 2019 at 21:05
-- [x] Exported to OECD.org Wednesday 28 August 2019 at 20:23
+- [x] Exported to OECD.org Monday 2 September 2019 at 20:25
 
 ### Additional Information
 
