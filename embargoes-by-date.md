@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 2 September 2019 at 22:28* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 3 September 2019 at 21:42* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [3 September 2019](#3-september-2019)
 * [5 September 2019](#5-september-2019)
@@ -43,6 +43,29 @@ Tuesday 3 September 2019 at 9:00 | no launch event
 
 # 5 September 2019
 
+## [Blockchain technologies as a digital enabler for sustainable infrastructure](https://doi.org/10.1787/0ec26947-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 September 2019 at 4:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 3 September 2019 at 21:22
+- [x] Exported to Keepeek Tuesday 3 September 2019 at 21:09
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Tax Policy Reforms 2019 - OECD and Selected Partner Economies](https://doi.org/10.1787/da56c295-en)
 
 Embargo date | Launch date
@@ -54,7 +77,7 @@ Thursday 5 September 2019 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 28 August 2019 at 22:30
 - [x] Exported to Keepeek Wednesday 28 August 2019 at 21:05
-- [x] Exported to OECD.org Monday 2 September 2019 at 20:25
+- [x] Exported to OECD.org Tuesday 3 September 2019 at 20:23
 
 ### Additional Information
 
@@ -117,6 +140,29 @@ Tuesday 10 September 2019 at 2:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+## [Bildung auf einen Blick 2019 - OECD-Indikatoren](https://doi.org/10.1787/ae29148c-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 September 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *German*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -183,7 +229,7 @@ Monday 16 September 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 29 August 2019 at 21:23
+- [x] Exported to iLibrary Monday 2 September 2019 at 22:07
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 29 August 2019 at 20:24
 
