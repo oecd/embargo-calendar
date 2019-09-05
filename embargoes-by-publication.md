@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 4 September 2019 at 21:54* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Country-by-Country Reporting – Compilation of Peer Review Reports (Phase 2) - Inclusive Framework on BEPS: Action 13](https://doi.org/10.1787/f9bf1157-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 September 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 28 August 2019 at 22:30
-- [x] Exported to Keepeek Wednesday 28 August 2019 at 21:05
-- [x] Exported to OECD.org Wednesday 4 September 2019 at 20:22
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Thursday 5 September 2019 at 21:58* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Blockchain technologies as a digital enabler for sustainable infrastructure](https://doi.org/10.1787/0ec26947-en)
 
@@ -150,16 +127,16 @@ Tuesday 10 September 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 4 September 2019 at 21:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 4 September 2019 at 20:22
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 5 September 2019 at 21:33
+- [x] Exported to Keepeek Thursday 5 September 2019 at 21:09
+- [x] Exported to OECD.org Thursday 5 September 2019 at 20:24
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
 
@@ -219,10 +196,10 @@ Tuesday 10 September 2019 at 15:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 29 August 2019 at 21:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 5 September 2019 at 21:33
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 29 August 2019 at 20:24
+- [x] Exported to OECD.org Thursday 5 September 2019 at 20:24
 
 ### Additional Information
 
