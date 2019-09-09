@@ -2,134 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/0ec26947-end3e63
-SUMMARY:Blockchain technologies as a digital ena
- bler for sustainable infrastructure
-DESCRIPTION:*Blockchain technologies as a digital en
- abler for sustainable infrastructure*\n\
- nDirectorate: Environment Directorate\nL
- anguage: English\nDOI: https://doi.org/1
- 0.1787/0ec26947-en\nPublication type: Wo
- rking paper\nReleased as: PDF\n\nEmbargo
-  date/time: Thursday, 5 September 2019, 
- 4:00 (GMT)\n\n\niLibrary export: Tuesday
- , 3 September 2019, 19:22 (GMT)\nFreepre
- view export: Tuesday, 3 September 2019, 
- 19:09 (GMT)\nOECD.org export: never\nFTI
-  loaded: ✓\n\nFor more information see: 
- https://oecd.github.io/embargo-calendar/
- embargoes-by-publication.html.\n\nPlease
-  note: This information was correct as o
- f this afternoon at 22:26, it is updated
-  each night; therefore any subsequent up
- dates may not yet be visible here. Also,
-  please be aware that the different rele
- ased media (PDF, HTML, etc.) are not nec
- essarily released at the same time. For 
- complete and up-to-date information see 
- here: http://kappa.oecd.org/v3/search?te
- rm=0ec26947-en.
-DTSTAMP:20190906T222702Z
-DTSTART:20190905T040000Z
-DTEND:20190905T041500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Blockchain technologies as a d
- igital enabler for sustainable infrastru
- cture
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/da56c295-end3e339
-SUMMARY:Tax Policy Reforms 2019 - OECD and Selec
- ted Partner Economies
-DESCRIPTION:*Tax Policy Reforms 2019 - OECD and Sele
- cted Partner Economies*\n\nDirectorate: 
- Centre for Tax Policy and Administration
- \nLanguage: English\nDOI: https://doi.or
- g/10.1787/da56c295-en\nPublication type:
-  Book\nReleased as: ePub, HTML, PDF\n\nE
- mbargo date/time: Thursday, 5 September 
- 2019, 9:00 (GMT)\n\n\niLibrary export: W
- ednesday, 28 August 2019, 20:30 (GMT)\nF
- reepreview export: Wednesday, 28 August 
- 2019, 19:05 (GMT)\nOECD.org export: Frid
- ay, 6 September 2019, 18:26 (GMT)\nFTI l
- oaded: ✓\n\nFor more information see: ht
- tps://oecd.github.io/embargo-calendar/em
- bargoes-by-publication.html.\n\nPlease n
- ote: This information was correct as of 
- this afternoon at 22:26, it is updated e
- ach night; therefore any subsequent upda
- tes may not yet be visible here. Also, p
- lease be aware that the different releas
- ed media (PDF, HTML, etc.) are not neces
- sarily released at the same time. For co
- mplete and up-to-date information see he
- re: http://kappa.oecd.org/v3/search?term
- =da56c295-en.
-DTSTAMP:20190906T222702Z
-DTSTART:20190905T090000Z
-DTEND:20190905T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Tax Policy Reforms 2019 - OECD
-  and Selected Partner Economies
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/282b9edd-end3e671
-SUMMARY:How teachers update their teaching skill
- s to cope with the rapidly changing worl
- d
-DESCRIPTION:*How teachers update their teaching skil
- ls to cope with the rapidly changing wor
- ld*\n\nDirectorate: Directorate for Educ
- ation and Skills\nLanguage: English\nDOI
- : https://doi.org/10.1787/282b9edd-en\nP
- ublication type: Working paper\nReleased
-  as: PDF\n\nEmbargo date/time: Thursday,
-  5 September 2019, 9:00 (GMT)\n\n\niLibr
- ary export: Wednesday, 4 September 2019,
-  19:29 (GMT)\nFreepreview export: Wednes
- day, 4 September 2019, 19:07 (GMT)\nOECD
- .org export: never\nFTI loaded: ✓\n\nFor
-  more information see: https://oecd.gith
- ub.io/embargo-calendar/embargoes-by-publ
- ication.html.\n\nPlease note: This infor
- mation was correct as of this afternoon 
- at 22:26, it is updated each night; ther
- efore any subsequent updates may not yet
-  be visible here. Also, please be aware 
- that the different released media (PDF, 
- HTML, etc.) are not necessarily released
-  at the same time. For complete and up-t
- o-date information see here: http://kapp
- a.oecd.org/v3/search?term=282b9edd-en.
-DTSTAMP:20190906T222702Z
-DTSTART:20190905T090000Z
-DTEND:20190905T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: How teachers update their teac
- hing skills to cope with the rapidly cha
- nging world
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/d2283b8e-end3e892
+UID:10.1787/d2283b8e-end3e63
 SUMMARY:The potential of tax microdata for tax p
  olicy
 DESCRIPTION:*The potential of tax microdata for tax 
@@ -147,7 +20,7 @@ DESCRIPTION:*The potential of tax microdata for tax
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 2:26, it is updated each night; therefor
+ 1:49, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -155,7 +28,7 @@ DESCRIPTION:*The potential of tax microdata for tax
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=d2283b8e-en.
-DTSTAMP:20190906T222702Z
+DTSTAMP:20190909T214920Z
 DTSTART:20190909T090000Z
 DTEND:20190909T091500Z
 TRANSP:TRANSPARENT
@@ -169,7 +42,7 @@ DESCRIPTION:Reminder: The potential of tax microdata
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264305915-end3e2596
+UID:10.1787/9789264305915-end3e1766
 SUMMARY:Government at a Glance Southeast Asia 20
  19
 DESCRIPTION:*Government at a Glance Southeast Asia 2
@@ -182,22 +55,22 @@ DESCRIPTION:*Government at a Glance Southeast Asia 2
  , 2:00 (GMT)\n\n\niLibrary export: Frida
  y, 9 August 2019, 19:19 (GMT)\nFreeprevi
  ew export: Tuesday, 27 August 2019, 19:1
- 4 (GMT)\nOECD.org export: Friday, 9 Augu
- st 2019, 18:23 (GMT)\nFTI loaded: ✓\n\nF
- or more information see: https://oecd.gi
- thub.io/embargo-calendar/embargoes-by-pu
- blication.html.\n\nPlease note: This inf
- ormation was correct as of this afternoo
- n at 22:26, it is updated each night; th
- erefore any subsequent updates may not y
- et be visible here. Also, please be awar
- e that the different released media (PDF
- , HTML, etc.) are not necessarily releas
- ed at the same time. For complete and up
- -to-date information see here: http://ka
- ppa.oecd.org/v3/search?term=978926430591
- 5-en.
-DTSTAMP:20190906T222702Z
+ 4 (GMT)\nOECD.org export: Sunday, 8 Sept
+ ember 2019, 11:43 (GMT)\nFTI loaded: ✓\n
+ \nFor more information see: https://oecd
+ .github.io/embargo-calendar/embargoes-by
+ -publication.html.\n\nPlease note: This 
+ information was correct as of this after
+ noon at 21:49, it is updated each night;
+  therefore any subsequent updates may no
+ t yet be visible here. Also, please be a
+ ware that the different released media (
+ PDF, HTML, etc.) are not necessarily rel
+ eased at the same time. For complete and
+  up-to-date information see here: http:/
+ /kappa.oecd.org/v3/search?term=978926430
+ 5915-en.
+DTSTAMP:20190909T214920Z
 DTSTART:20190910T020000Z
 DTEND:20190910T021500Z
 TRANSP:TRANSPARENT
@@ -211,7 +84,7 @@ DESCRIPTION:Reminder: Government at a Glance Southea
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c553d8d2-end3e10341
+UID:10.1787/c553d8d2-end3e9512
 SUMMARY:Fiscal challenges and inclusive growth i
  n ageing societies
 DESCRIPTION:*Fiscal challenges and inclusive growth 
@@ -228,8 +101,8 @@ DESCRIPTION:*Fiscal challenges and inclusive growth
   information see: https://oecd.github.io
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
- n was correct as of this afternoon at 22
- :26, it is updated each night; therefore
+ n was correct as of this afternoon at 21
+ :49, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -237,7 +110,7 @@ DESCRIPTION:*Fiscal challenges and inclusive growth
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=c553d8d2-en.
-DTSTAMP:20190906T222702Z
+DTSTAMP:20190909T214920Z
 DTSTART:20190910T070000Z
 DTEND:20190910T071500Z
 TRANSP:TRANSPARENT
@@ -251,7 +124,7 @@ DESCRIPTION:Reminder: Fiscal challenges and inclusiv
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f8d7880d-end3e23774
+UID:10.1787/f8d7880d-end3e25054
 SUMMARY:Education at a Glance 2019 - OECD Indica
  tors
 DESCRIPTION:*Education at a Glance 2019 - OECD Indic
@@ -261,24 +134,24 @@ DESCRIPTION:*Education at a Glance 2019 - OECD Indic
  \nPublication type: Book\nReleased as: e
  Pub, HTML, PDF\n\nEmbargo date/time: Tue
  sday, 10 September 2019, 9:00 (GMT)\n\n\
- niLibrary export: Thursday, 5 September 
- 2019, 19:33 (GMT)\nFreepreview export: T
- hursday, 5 September 2019, 19:09 (GMT)\n
- OECD.org export: Thursday, 5 September 2
- 019, 18:24 (GMT)\nFTI loaded: ✓\n\nFor m
- ore information see: https://oecd.github
- .io/embargo-calendar/embargoes-by-public
- ation.html.\n\nPlease note: This informa
- tion was correct as of this afternoon at
-  22:26, it is updated each night; theref
- ore any subsequent updates may not yet b
- e visible here. Also, please be aware th
- at the different released media (PDF, HT
- ML, etc.) are not necessarily released a
- t the same time. For complete and up-to-
- date information see here: http://kappa.
- oecd.org/v3/search?term=f8d7880d-en.
-DTSTAMP:20190906T222702Z
+ niLibrary export: Monday, 9 September 20
+ 19, 19:22 (GMT)\nFreepreview export: Thu
+ rsday, 5 September 2019, 19:09 (GMT)\nOE
+ CD.org export: Monday, 9 September 2019,
+  18:22 (GMT)\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 21:
+ 49, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=f8d7880d-en.
+DTSTAMP:20190909T214920Z
 DTSTART:20190910T090000Z
 DTEND:20190910T091500Z
 TRANSP:TRANSPARENT
@@ -292,7 +165,51 @@ DESCRIPTION:Reminder: Education at a Glance 2019 - O
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6bcf6dc9-frd3e25048
+UID:10.1787/cf3c1241-end3e25222
+SUMMARY:Multilingual Summaries for Education at 
+ a Glance 2019
+DESCRIPTION:*Multilingual Summaries for Education at
+  a Glance 2019*\n\nDirectorate: Director
+ ate for Education and Skills\n18 Languag
+ es: Greek, Italian, Korean, Turkish, Ger
+ man, Dutch, Indonesian, Arabic, Chinese,
+  English, Estonian, Polish, Japanese, Ru
+ ssian, Spanish, Portuguese, French, Finn
+ ish\nPublication type: Summary\nReleased
+  as: ePub, HTML, PDF\n\nEmbargo date/tim
+ e: Tuesday, 10 September 2019, 9:00 (GMT
+ )\n\niLibrary export: Monday, 9 Septembe
+ r 2019, 19:22 (GMT)\nFreepreview export:
+  Monday, 9 September 2019, 19:04 (GMT)\n
+ OECD.org export: never\nFTI loaded: ✓\n\
+ nFor more information see: https://oecd.
+ github.io/embargo-calendar/embargoes-by-
+ publication.html.\n\nPlease note: This i
+ nformation was correct as of this aftern
+ oon at 21:49, it is updated each night; 
+ therefore any subsequent updates may not
+  yet be visible here. Also, please be aw
+ are that the different released media (P
+ DF, HTML, etc.) are not necessarily rele
+ ased at the same time. For complete and 
+ up-to-date information see here: http://
+ kappa.oecd.org/v3/search?term=cf3c1241-e
+ n.
+DTSTAMP:20190909T214920Z
+DTSTART:20190910T090000Z
+DTEND:20190910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Multilingual Summaries for Edu
+ cation at a Glance 2019
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/6bcf6dc9-frd3e26552
 SUMMARY:Regards sur l'éducation 2019 - Les indic
  ateurs de l'OCDE
 DESCRIPTION:*Regards sur l'éducation 2019 - Les indi
@@ -302,23 +219,24 @@ DESCRIPTION:*Regards sur l'éducation 2019 - Les indi
  6bcf6dc9-fr\nPublication type: Book\nRel
  eased as: PDF\n\nEmbargo date/time: Tues
  day, 10 September 2019, 9:00 (GMT)\n\n\n
- iLibrary export: Friday, 6 September 201
- 9, 19:48 (GMT)\nFreepreview export: neve
- r\nOECD.org export: Friday, 6 September 
- 2019, 18:26 (GMT)\nFTI loaded: ✗\n\nFor 
- more information see: https://oecd.githu
- b.io/embargo-calendar/embargoes-by-publi
- cation.html.\n\nPlease note: This inform
- ation was correct as of this afternoon a
- t 22:26, it is updated each night; there
- fore any subsequent updates may not yet 
- be visible here. Also, please be aware t
- hat the different released media (PDF, H
- TML, etc.) are not necessarily released 
- at the same time. For complete and up-to
- -date information see here: http://kappa
- .oecd.org/v3/search?term=6bcf6dc9-fr.
-DTSTAMP:20190906T222702Z
+ iLibrary export: Monday, 9 September 201
+ 9, 19:22 (GMT)\nFreepreview export: Mond
+ ay, 9 September 2019, 19:04 (GMT)\nOECD.
+ org export: Monday, 9 September 2019, 18
+ :22 (GMT)\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 21:49,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=6bcf6dc9-fr.
+DTSTAMP:20190909T214920Z
 DTSTART:20190910T090000Z
 DTEND:20190910T091500Z
 TRANSP:TRANSPARENT
@@ -332,34 +250,34 @@ DESCRIPTION:Reminder: Regards sur l'éducation 2019 -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ae29148c-ded3e26994
+UID:10.3278/6001821mwd3e28721
 SUMMARY:Bildung auf einen Blick 2019 - OECD-Indi
  katoren
 DESCRIPTION:*Bildung auf einen Blick 2019 - OECD-Ind
  ikatoren*\n\nDirectorate: Directorate fo
  r Education and Skills\nLanguage: German
- \nDOI: https://doi.org/10.1787/ae29148c-
- de\nPublication type: Book\nReleased as:
-  PDF\n\nEmbargo date/time: Tuesday, 10 S
- eptember 2019, 9:00 (GMT)\n\n\niLibrary 
- export: Friday, 6 September 2019, 19:48 
- (GMT)\nFreepreview export: Friday, 6 Sep
- tember 2019, 19:11 (GMT)\nOECD.org expor
- t: Friday, 6 September 2019, 18:26 (GMT)
- \nFTI loaded: ✓\n\nFor more information 
- see: https://oecd.github.io/embargo-cale
- ndar/embargoes-by-publication.html.\n\nP
- lease note: This information was correct
-  as of this afternoon at 22:26, it is up
- dated each night; therefore any subseque
- nt updates may not yet be visible here. 
- Also, please be aware that the different
-  released media (PDF, HTML, etc.) are no
- t necessarily released at the same time.
-  For complete and up-to-date information
-  see here: http://kappa.oecd.org/v3/sear
- ch?term=ae29148c-de.
-DTSTAMP:20190906T222702Z
+ \nDOI: https://doi.org/10.3278/6001821mw
+ \nPublication type: Book\nReleased as: P
+ DF\n\nEmbargo date/time: Tuesday, 10 Sep
+ tember 2019, 9:00 (GMT)\n\n\niLibrary ex
+ port: Monday, 9 September 2019, 19:22 (G
+ MT)\nFreepreview export: Monday, 9 Septe
+ mber 2019, 19:04 (GMT)\nOECD.org export:
+  Monday, 9 September 2019, 18:22 (GMT)\n
+ FTI loaded: ✓\n\nFor more information se
+ e: https://oecd.github.io/embargo-calend
+ ar/embargoes-by-publication.html.\n\nPle
+ ase note: This information was correct a
+ s of this afternoon at 21:49, it is upda
+ ted each night; therefore any subsequent
+  updates may not yet be visible here. Al
+ so, please be aware that the different r
+ eleased media (PDF, HTML, etc.) are not 
+ necessarily released at the same time. F
+ or complete and up-to-date information s
+ ee here: http://kappa.oecd.org/v3/search
+ ?term=6001821mw.
+DTSTAMP:20190909T214920Z
 DTSTART:20190910T090000Z
 DTEND:20190910T091500Z
 TRANSP:TRANSPARENT
@@ -373,7 +291,7 @@ DESCRIPTION:Reminder: Bildung auf einen Blick 2019 -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c6c23d2c-end3e30492
+UID:10.1787/c6c23d2c-end3e32882
 SUMMARY:Multi-dimensional Review of Peru - Volum
  e 3. From Analysis to Action
 DESCRIPTION:*Multi-dimensional Review of Peru - Volu
@@ -381,17 +299,18 @@ DESCRIPTION:*Multi-dimensional Review of Peru - Volu
  orate: Development Centre\nLanguage: Eng
  lish\nDOI: https://doi.org/10.1787/c6c23
  d2c-en\nPublication type: Book\nReleased
-  as: PDF\n\nEmbargo date/time: Tuesday, 
- 10 September 2019, 15:00 (GMT)\n\n\niLib
- rary export: Thursday, 5 September 2019,
-  19:33 (GMT)\nFreepreview export: never\
- nOECD.org export: Thursday, 5 September 
- 2019, 18:24 (GMT)\nFTI loaded: ✓\n\nFor 
+  as: ePub, HTML, PDF\n\nEmbargo date/tim
+ e: Tuesday, 10 September 2019, 15:00 (GM
+ T)\n\n\niLibrary export: Monday, 9 Septe
+ mber 2019, 19:22 (GMT)\nFreepreview expo
+ rt: Monday, 9 September 2019, 19:04 (GMT
+ )\nOECD.org export: Monday, 9 September 
+ 2019, 18:22 (GMT)\nFTI loaded: ✓\n\nFor 
  more information see: https://oecd.githu
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 22:26, it is updated each night; there
+ t 21:49, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -399,7 +318,7 @@ DESCRIPTION:*Multi-dimensional Review of Peru - Volu
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=c6c23d2c-en.
-DTSTAMP:20190906T222702Z
+DTSTAMP:20190909T214920Z
 DTSTART:20190910T150000Z
 DTEND:20190910T151500Z
 TRANSP:TRANSPARENT
@@ -413,7 +332,129 @@ DESCRIPTION:Reminder: Multi-dimensional Review of Pe
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f3d8ea10-end3e30819
+UID:10.1787/f80dd3e3-end3e34377
+SUMMARY:Improving well-being in New Zealand thro
+ ugh migration
+DESCRIPTION:*Improving well-being in New Zealand thr
+ ough migration*\n\nDirectorate: Economic
+ s Department\nLanguage: English\nDOI: ht
+ tps://doi.org/10.1787/f80dd3e3-en\nPubli
+ cation type: Working paper\nReleased as:
+  PDF\n\nEmbargo date/time: Wednesday, 11
+  September 2019, 0:00 (GMT)\n\n\niLibrar
+ y export: Monday, 9 September 2019, 19:2
+ 2 (GMT)\nFreepreview export: Monday, 9 S
+ eptember 2019, 19:04 (GMT)\nOECD.org exp
+ ort: never\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 21:49
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=f80dd3e3-en.
+DTSTAMP:20190909T214920Z
+DTSTART:20190911T000000Z
+DTEND:20190911T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Improving well-being in New Ze
+ aland through migration
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/b82d856b-end3e34432
+SUMMARY:Improving well-being through better hous
+ ing policy in New Zealand
+DESCRIPTION:*Improving well-being through better hou
+ sing policy in New Zealand*\n\nDirectora
+ te: Economics Department\nLanguage: Engl
+ ish\nDOI: https://doi.org/10.1787/b82d85
+ 6b-en\nPublication type: Working paper\n
+ Released as: PDF\n\nEmbargo date/time: W
+ ednesday, 11 September 2019, 0:00 (GMT)\
+ n\n\niLibrary export: Monday, 9 Septembe
+ r 2019, 19:22 (GMT)\nFreepreview export:
+  Monday, 9 September 2019, 19:04 (GMT)\n
+ OECD.org export: never\nFTI loaded: ✓\n\
+ nFor more information see: https://oecd.
+ github.io/embargo-calendar/embargoes-by-
+ publication.html.\n\nPlease note: This i
+ nformation was correct as of this aftern
+ oon at 21:49, it is updated each night; 
+ therefore any subsequent updates may not
+  yet be visible here. Also, please be aw
+ are that the different released media (P
+ DF, HTML, etc.) are not necessarily rele
+ ased at the same time. For complete and 
+ up-to-date information see here: http://
+ kappa.oecd.org/v3/search?term=b82d856b-e
+ n.
+DTSTAMP:20190909T214920Z
+DTSTART:20190911T000000Z
+DTEND:20190911T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Improving well-being through b
+ etter housing policy in New Zealand
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/e8d8f103-end3e34488
+SUMMARY:Enhancing judicial efficiency to foster 
+ economic activity in Portugal
+DESCRIPTION:*Enhancing judicial efficiency to foster
+  economic activity in Portugal*\n\nDirec
+ torate: Economics Department\nLanguage: 
+ English\nDOI: https://doi.org/10.1787/e8
+ d8f103-en\nPublication type: Working pap
+ er\nReleased as: PDF\n\nEmbargo date/tim
+ e: Wednesday, 11 September 2019, 0:00 (G
+ MT)\n\n\niLibrary export: Monday, 9 Sept
+ ember 2019, 19:22 (GMT)\nFreepreview exp
+ ort: Monday, 9 September 2019, 19:04 (GM
+ T)\nOECD.org export: never\nFTI loaded: 
+ ✓\n\nFor more information see: https://o
+ ecd.github.io/embargo-calendar/embargoes
+ -by-publication.html.\n\nPlease note: Th
+ is information was correct as of this af
+ ternoon at 21:49, it is updated each nig
+ ht; therefore any subsequent updates may
+  not yet be visible here. Also, please b
+ e aware that the different released medi
+ a (PDF, HTML, etc.) are not necessarily 
+ released at the same time. For complete 
+ and up-to-date information see here: htt
+ p://kappa.oecd.org/v3/search?term=e8d8f1
+ 03-en.
+DTSTAMP:20190909T214920Z
+DTSTART:20190911T000000Z
+DTEND:20190911T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Enhancing judicial efficiency 
+ to foster economic activity in Portugal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/f3d8ea10-end3e34543
 SUMMARY:Tax Morale - What Drives People and Busi
  nesses to Pay Tax?
 DESCRIPTION:*Tax Morale - What Drives People and Bus
@@ -421,26 +462,27 @@ DESCRIPTION:*Tax Morale - What Drives People and Bus
  tre for Tax Policy and Administration\nL
  anguage: English\nDOI: https://doi.org/1
  0.1787/f3d8ea10-en\nPublication type: St
- and-alone monograph\nReleased as: Paperb
- ack, PDF\n\nEmbargo date/time: Wednesday
- , 11 September 2019, 9:00 (GMT)\n\n\niLi
- brary export: Wednesday, 28 August 2019,
-  20:30 (GMT)\nFreepreview export: never\
- nOECD.org export: Friday, 30 August 2019
- , 18:22 (GMT)\nFTI loaded: ✗\n\nFor more
-  information see: https://oecd.github.io
- /embargo-calendar/embargoes-by-publicati
- on.html.\n\nPlease note: This informatio
- n was correct as of this afternoon at 22
- :26, it is updated each night; therefore
-  any subsequent updates may not yet be v
- isible here. Also, please be aware that 
- the different released media (PDF, HTML,
-  etc.) are not necessarily released at t
- he same time. For complete and up-to-dat
- e information see here: http://kappa.oec
- d.org/v3/search?term=f3d8ea10-en.
-DTSTAMP:20190906T222702Z
+ and-alone monograph\nReleased as: ePub, 
+ HTML, Paperback, PDF\n\nEmbargo date/tim
+ e: Wednesday, 11 September 2019, 9:00 (G
+ MT)\n\n\niLibrary export: Monday, 9 Sept
+ ember 2019, 19:22 (GMT)\nFreepreview exp
+ ort: never\nOECD.org export: Friday, 30 
+ August 2019, 18:22 (GMT)\nFTI loaded: ✓\
+ n\nFor more information see: https://oec
+ d.github.io/embargo-calendar/embargoes-b
+ y-publication.html.\n\nPlease note: This
+  information was correct as of this afte
+ rnoon at 21:49, it is updated each night
+ ; therefore any subsequent updates may n
+ ot yet be visible here. Also, please be 
+ aware that the different released media 
+ (PDF, HTML, etc.) are not necessarily re
+ leased at the same time. For complete an
+ d up-to-date information see here: http:
+ //kappa.oecd.org/v3/search?term=f3d8ea10
+ -en.
+DTSTAMP:20190909T214920Z
 DTSTART:20190911T090000Z
 DTEND:20190911T091500Z
 TRANSP:TRANSPARENT
@@ -454,7 +496,7 @@ DESCRIPTION:Reminder: Tax Morale - What Drives Peopl
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2b8ad56e-end3e30980
+UID:10.1787/2b8ad56e-end3e35200
 SUMMARY:Education Policy Outlook 2019 - Working 
  Together to Help Students Achieve their 
  Potential
@@ -474,7 +516,7 @@ DESCRIPTION:*Education Policy Outlook 2019 - Working
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 22:26, it is upda
+ s of this afternoon at 21:49, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -483,7 +525,7 @@ DESCRIPTION:*Education Policy Outlook 2019 - Working
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=2b8ad56e-en.
-DTSTAMP:20190906T222702Z
+DTSTAMP:20190909T214920Z
 DTSTART:20190916T090000Z
 DTEND:20190916T091500Z
 TRANSP:TRANSPARENT
@@ -498,7 +540,7 @@ DESCRIPTION:Reminder: Education Policy Outlook 2019
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c9c4ec1d-end3e31035
+UID:10.1787/c9c4ec1d-end3e35255
 SUMMARY:Innovation, Productivity and Sustainabil
  ity in Food and Agriculture - Main Findi
  ngs from Country Reviews and Policy Less
@@ -520,7 +562,7 @@ DESCRIPTION:*Innovation, Productivity and Sustainabi
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  22:26, it is updated each night; theref
+  21:49, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -528,7 +570,7 @@ DESCRIPTION:*Innovation, Productivity and Sustainabi
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=c9c4ec1d-en.
-DTSTAMP:20190906T222702Z
+DTSTAMP:20190909T214920Z
 DTSTART:20190926T080000Z
 DTEND:20190926T081500Z
 TRANSP:TRANSPARENT
@@ -544,7 +586,7 @@ DESCRIPTION:Reminder: Innovation, Productivity and S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/830128c5-frd3e31197
+UID:10.1787/830128c5-frd3e35416
 SUMMARY:Innovation, productivité et durabilité d
  ans le secteur agricole et alimentaire -
   Principales conclusions des examens par
@@ -566,7 +608,7 @@ DESCRIPTION:*Innovation, productivité et durabilité
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 22:26, it
+ orrect as of this afternoon at 21:49, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -575,7 +617,7 @@ DESCRIPTION:*Innovation, productivité et durabilité
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=830128c5-fr.
-DTSTAMP:20190906T222702Z
+DTSTAMP:20190909T214920Z
 DTSTART:20190926T080000Z
 DTEND:20190926T081500Z
 TRANSP:TRANSPARENT

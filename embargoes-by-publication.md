@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 6 September 2019 at 22:26* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Blockchain technologies as a digital enabler for sustainable infrastructure](https://doi.org/10.1787/0ec26947-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 5 September 2019 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 3 September 2019 at 21:22
-- [x] Exported to Keepeek Tuesday 3 September 2019 at 21:09
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Tax Policy Reforms 2019 - OECD and Selected Partner Economies](https://doi.org/10.1787/da56c295-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 5 September 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 28 August 2019 at 22:30
-- [x] Exported to Keepeek Wednesday 28 August 2019 at 21:05
-- [x] Exported to OECD.org Friday 6 September 2019 at 20:26
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [How teachers update their teaching skills to cope with the rapidly changing world](https://doi.org/10.1787/282b9edd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 5 September 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 4 September 2019 at 21:29
-- [x] Exported to Keepeek Wednesday 4 September 2019 at 21:07
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Monday 9 September 2019 at 21:49* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The potential of tax microdata for tax policy](https://doi.org/10.1787/d2283b8e-en)
 
@@ -107,7 +38,7 @@ Tuesday 10 September 2019 at 2:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 9 August 2019 at 21:19
 - [x] Exported to Keepeek Tuesday 27 August 2019 at 21:14
-- [x] Exported to OECD.org Friday 9 August 2019 at 20:23
+- [x] Exported to OECD.org Sunday 8 September 2019 at 13:43
 
 ### Additional Information
 
@@ -151,9 +82,9 @@ Tuesday 10 September 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 5 September 2019 at 21:33
+- [x] Exported to iLibrary Monday 9 September 2019 at 21:22
 - [x] Exported to Keepeek Thursday 5 September 2019 at 21:09
-- [x] Exported to OECD.org Thursday 5 September 2019 at 20:24
+- [x] Exported to OECD.org Monday 9 September 2019 at 20:22
 
 ### Additional Information
 
@@ -161,6 +92,29 @@ Tuesday 10 September 2019 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [Multilingual Summaries for Education at a Glance 2019](https://doi.org/10.1787/cf3c1241-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 September 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 9 September 2019 at 21:22
+- [x] Exported to Keepeek Monday 9 September 2019 at 21:04
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* 18 Languages: [Greek](https://doi.org/10.1787/7dee64f0-el), [Italian](https://doi.org/10.1787/6e0337ba-it), [Korean](https://doi.org/10.1787/a52432eb-ko), [Turkish](https://doi.org/10.1787/5c8f1ec8-tr), [German](https://doi.org/10.1787/ea3a663e-de), [Dutch](https://doi.org/10.1787/0763bea6-nl), [Indonesian](https://doi.org/10.1787/361a8b72-id), [Arabic](https://doi.org/10.1787/23309018-ar), [Chinese](https://doi.org/10.1787/d85aa8cf-zh), [English](https://doi.org/10.1787/cf3c1241-en), [Estonian](https://doi.org/10.1787/a730ef30-et), [Polish](https://doi.org/10.1787/28a24103-pl), [Japanese](https://doi.org/10.1787/0f590ab1-ja), [Russian](https://doi.org/10.1787/594fed61-ru), [Spanish](https://doi.org/10.1787/f6dc8198-es), [Portuguese](https://doi.org/10.1787/8f3702b5-pt), [French](https://doi.org/10.1787/6a983560-fr), [Finnish](https://doi.org/10.1787/962c9094-fi)
+* Availability: *Published*
+* Type of publication: *Summary*
 * Formats: *ePub, HTML, PDF*
 
 ------
@@ -173,22 +127,22 @@ Tuesday 10 September 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 6 September 2019 at 21:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 6 September 2019 at 20:26
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 9 September 2019 at 21:22
+- [x] Exported to Keepeek Monday 9 September 2019 at 21:04
+- [x] Exported to OECD.org Monday 9 September 2019 at 20:22
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
 ------
 
-## [Bildung auf einen Blick 2019 - OECD-Indikatoren](https://doi.org/10.1787/ae29148c-de)
+## [Bildung auf einen Blick 2019 - OECD-Indikatoren](https://doi.org/10.3278/6001821mw)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -197,9 +151,9 @@ Tuesday 10 September 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 6 September 2019 at 21:48
-- [x] Exported to Keepeek Friday 6 September 2019 at 21:11
-- [x] Exported to OECD.org Friday 6 September 2019 at 20:26
+- [x] Exported to iLibrary Monday 9 September 2019 at 21:22
+- [x] Exported to Keepeek Monday 9 September 2019 at 21:04
+- [x] Exported to OECD.org Monday 9 September 2019 at 20:22
 
 ### Additional Information
 
@@ -220,16 +174,85 @@ Tuesday 10 September 2019 at 15:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 5 September 2019 at 21:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 5 September 2019 at 20:24
+- [x] Exported to iLibrary Monday 9 September 2019 at 21:22
+- [x] Exported to Keepeek Monday 9 September 2019 at 21:04
+- [x] Exported to OECD.org Monday 9 September 2019 at 20:22
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [Improving well-being in New Zealand through migration](https://doi.org/10.1787/f80dd3e3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 11 September 2019 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 9 September 2019 at 21:22
+- [x] Exported to Keepeek Monday 9 September 2019 at 21:04
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Improving well-being through better housing policy in New Zealand](https://doi.org/10.1787/b82d856b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 11 September 2019 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 9 September 2019 at 21:22
+- [x] Exported to Keepeek Monday 9 September 2019 at 21:04
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Enhancing judicial efficiency to foster economic activity in Portugal](https://doi.org/10.1787/e8d8f103-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 11 September 2019 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 9 September 2019 at 21:22
+- [x] Exported to Keepeek Monday 9 September 2019 at 21:04
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -242,8 +265,8 @@ Wednesday 11 September 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 28 August 2019 at 22:30
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 9 September 2019 at 21:22
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 30 August 2019 at 20:22
 
@@ -253,7 +276,7 @@ Wednesday 11 September 2019 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
