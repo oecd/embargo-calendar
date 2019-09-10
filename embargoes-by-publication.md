@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 9 September 2019 at 21:49* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 10 September 2019 at 21:46* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The potential of tax microdata for tax policy](https://doi.org/10.1787/d2283b8e-en)
 
@@ -82,7 +82,7 @@ Tuesday 10 September 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 September 2019 at 21:22
+- [x] Exported to iLibrary Tuesday 10 September 2019 at 12:06
 - [x] Exported to Keepeek Thursday 5 September 2019 at 21:09
 - [x] Exported to OECD.org Monday 9 September 2019 at 20:22
 
@@ -128,9 +128,9 @@ Tuesday 10 September 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 September 2019 at 21:22
+- [x] Exported to iLibrary Tuesday 10 September 2019 at 12:06
 - [x] Exported to Keepeek Monday 9 September 2019 at 21:04
-- [x] Exported to OECD.org Monday 9 September 2019 at 20:22
+- [x] Exported to OECD.org Tuesday 10 September 2019 at 20:23
 
 ### Additional Information
 
@@ -151,7 +151,7 @@ Tuesday 10 September 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 September 2019 at 21:22
+- [x] Exported to iLibrary Tuesday 10 September 2019 at 12:06
 - [x] Exported to Keepeek Monday 9 September 2019 at 21:04
 - [x] Exported to OECD.org Monday 9 September 2019 at 20:22
 
@@ -198,7 +198,7 @@ Wednesday 11 September 2019 at 0:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 9 September 2019 at 21:22
-- [x] Exported to Keepeek Monday 9 September 2019 at 21:04
+- [x] Exported to Keepeek Tuesday 10 September 2019 at 21:06
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -221,7 +221,7 @@ Wednesday 11 September 2019 at 0:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 9 September 2019 at 21:22
-- [x] Exported to Keepeek Monday 9 September 2019 at 21:04
+- [x] Exported to Keepeek Tuesday 10 September 2019 at 21:06
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -244,7 +244,7 @@ Wednesday 11 September 2019 at 0:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 9 September 2019 at 21:22
-- [x] Exported to Keepeek Monday 9 September 2019 at 21:04
+- [x] Exported to Keepeek Tuesday 10 September 2019 at 21:06
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -266,17 +266,40 @@ Wednesday 11 September 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 September 2019 at 21:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 30 August 2019 at 20:22
+- [x] Exported to iLibrary Tuesday 10 September 2019 at 21:22
+- [x] Exported to Keepeek Tuesday 10 September 2019 at 21:06
+- [x] Exported to OECD.org Tuesday 10 September 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Climate Finance Provided and Mobilised by Developed Countries in 2013-17](https://doi.org/10.1787/39faf4a7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 13 September 2019 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 10 September 2019 at 21:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 10 September 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
@@ -284,14 +307,14 @@ Wednesday 11 September 2019 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 16 September 2019 at 9:00 | no launch event
+Monday 16 September 2019 at 7:30 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 6 September 2019 at 21:48
+- [x] Exported to iLibrary Tuesday 10 September 2019 at 21:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 6 September 2019 at 20:26
+- [x] Exported to OECD.org Tuesday 10 September 2019 at 20:23
 
 ### Additional Information
 
@@ -300,6 +323,29 @@ Monday 16 September 2019 at 9:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Iceland 2019](https://doi.org/10.1787/c362e536-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 September 2019 at 13:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 10 September 2019 at 21:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 10 September 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
