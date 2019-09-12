@@ -2,179 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 11 September 2019 at 22:02* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 12 September 2019 at 21:40* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [10 September 2019](#10-september-2019)
 * [11 September 2019](#11-september-2019)
 * [13 September 2019](#13-september-2019)
 * [16 September 2019](#16-september-2019)
 * [18 September 2019](#18-september-2019)
+* [23 September 2019](#23-september-2019)
 * [26 September 2019](#26-september-2019)
-
-------
-
-# 10 September 2019
-
-## [Government at a Glance Southeast Asia 2019](https://doi.org/10.1787/9789264305915-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 10 September 2019 at 2:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 9 August 2019 at 21:19
-- [x] Exported to Keepeek Tuesday 27 August 2019 at 21:14
-- [x] Exported to OECD.org Wednesday 11 September 2019 at 20:26
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Fiscal challenges and inclusive growth in ageing societies](https://doi.org/10.1787/c553d8d2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 10 September 2019 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 6 September 2019 at 21:48
-- [x] Exported to Keepeek Friday 6 September 2019 at 21:11
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Education at a Glance 2019 - OECD Indicators](https://doi.org/10.1787/f8d7880d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 10 September 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 September 2019 at 12:06
-- [x] Exported to Keepeek Thursday 5 September 2019 at 21:09
-- [x] Exported to OECD.org Wednesday 11 September 2019 at 20:26
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Multilingual Summaries for Education at a Glance 2019](https://doi.org/10.1787/cf3c1241-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 10 September 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 September 2019 at 21:22
-- [x] Exported to Keepeek Monday 9 September 2019 at 21:04
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* 18 Languages: [Greek](https://doi.org/10.1787/7dee64f0-el), [Italian](https://doi.org/10.1787/6e0337ba-it), [Korean](https://doi.org/10.1787/a52432eb-ko), [Turkish](https://doi.org/10.1787/5c8f1ec8-tr), [German](https://doi.org/10.1787/ea3a663e-de), [Dutch](https://doi.org/10.1787/0763bea6-nl), [Indonesian](https://doi.org/10.1787/361a8b72-id), [Arabic](https://doi.org/10.1787/23309018-ar), [Chinese](https://doi.org/10.1787/d85aa8cf-zh), [English](https://doi.org/10.1787/cf3c1241-en), [Estonian](https://doi.org/10.1787/a730ef30-et), [Polish](https://doi.org/10.1787/28a24103-pl), [Japanese](https://doi.org/10.1787/0f590ab1-ja), [Russian](https://doi.org/10.1787/594fed61-ru), [Spanish](https://doi.org/10.1787/f6dc8198-es), [Portuguese](https://doi.org/10.1787/8f3702b5-pt), [French](https://doi.org/10.1787/6a983560-fr), [Finnish](https://doi.org/10.1787/962c9094-fi)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Regards sur l'éducation 2019 - Les indicateurs de l'OCDE](https://doi.org/10.1787/6bcf6dc9-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 10 September 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 September 2019 at 12:06
-- [x] Exported to Keepeek Monday 9 September 2019 at 21:04
-- [x] Exported to OECD.org Wednesday 11 September 2019 at 20:26
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Bildung auf einen Blick 2019 - OECD-Indikatoren](https://doi.org/10.3278/6001821mw)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 10 September 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 September 2019 at 12:06
-- [x] Exported to Keepeek Monday 9 September 2019 at 21:04
-- [x] Exported to OECD.org Wednesday 11 September 2019 at 20:26
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Multi-dimensional Review of Peru - Volume 3. From Analysis to Action](https://doi.org/10.1787/c6c23d2c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 10 September 2019 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 September 2019 at 21:22
-- [x] Exported to Keepeek Monday 9 September 2019 at 21:04
-- [x] Exported to OECD.org Wednesday 11 September 2019 at 20:26
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
 
 ------
 
@@ -258,9 +93,9 @@ Wednesday 11 September 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 September 2019 at 21:22
+- [x] Exported to iLibrary Thursday 12 September 2019 at 21:19
 - [x] Exported to Keepeek Tuesday 10 September 2019 at 21:06
-- [x] Exported to OECD.org Tuesday 10 September 2019 at 20:23
+- [x] Exported to OECD.org Thursday 12 September 2019 at 20:21
 
 ### Additional Information
 
@@ -284,16 +119,16 @@ Friday 13 September 2019 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 11 September 2019 at 21:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 11 September 2019 at 20:26
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 12 September 2019 at 21:19
+- [x] Exported to Keepeek Thursday 12 September 2019 at 21:06
+- [x] Exported to OECD.org Thursday 12 September 2019 at 20:21
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -393,6 +228,33 @@ Wednesday 18 September 2019 at 9:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 23 September 2019
+
+## [Tax Administration 2019 - Comparative Information on OECD and other Advanced and Emerging Economies](https://doi.org/10.1787/74d162b6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 September 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 12 September 2019 at 21:19
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
