@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 12 September 2019 at 21:40* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Improving well-being in New Zealand through migration](https://doi.org/10.1787/f80dd3e3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 11 September 2019 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 September 2019 at 21:22
-- [x] Exported to Keepeek Tuesday 10 September 2019 at 21:06
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Improving well-being through better housing policy in New Zealand](https://doi.org/10.1787/b82d856b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 11 September 2019 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 September 2019 at 21:22
-- [x] Exported to Keepeek Tuesday 10 September 2019 at 21:06
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Enhancing judicial efficiency to foster economic activity in Portugal](https://doi.org/10.1787/e8d8f103-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 11 September 2019 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 September 2019 at 21:22
-- [x] Exported to Keepeek Tuesday 10 September 2019 at 21:06
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Tax Morale - What Drives People and Businesses to Pay Tax?](https://doi.org/10.1787/f3d8ea10-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 11 September 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 September 2019 at 21:19
-- [x] Exported to Keepeek Tuesday 10 September 2019 at 21:06
-- [x] Exported to OECD.org Thursday 12 September 2019 at 20:21
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Friday 13 September 2019 at 21:45* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Climate Finance Provided and Mobilised by Developed Countries in 2013-17](https://doi.org/10.1787/39faf4a7-en)
 
@@ -173,18 +81,18 @@ Wednesday 18 September 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 11 September 2019 at 21:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 11 September 2019 at 20:26
+- [x] Exported to Keepeek Friday 13 September 2019 at 21:10
+- [x] Exported to OECD.org Friday 13 September 2019 at 20:25
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF*
 
 ------
 
