@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 13 September 2019 at 21:45* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Climate Finance Provided and Mobilised by Developed Countries in 2013-17](https://doi.org/10.1787/39faf4a7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 13 September 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 September 2019 at 21:19
-- [x] Exported to Keepeek Thursday 12 September 2019 at 21:06
-- [x] Exported to OECD.org Thursday 12 September 2019 at 20:21
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
+| *Monday 16 September 2019 at 22:44* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Education Policy Outlook 2019 - Working Together to Help Students Achieve their Potential](https://doi.org/10.1787/2b8ad56e-en)
 
@@ -38,7 +15,7 @@ Monday 16 September 2019 at 7:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 11 September 2019 at 21:34
 - [x] Exported to Keepeek Wednesday 11 September 2019 at 21:10
-- [x] Exported to OECD.org Wednesday 11 September 2019 at 20:26
+- [x] Exported to OECD.org Saturday 14 September 2019 at 13:45
 
 ### Additional Information
 
@@ -61,7 +38,7 @@ Monday 16 September 2019 at 13:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 11 September 2019 at 21:34
 - [x] Exported to Keepeek Wednesday 11 September 2019 at 21:10
-- [x] Exported to OECD.org Wednesday 11 September 2019 at 20:26
+- [x] Exported to OECD.org Saturday 14 September 2019 at 13:45
 
 ### Additional Information
 
@@ -82,9 +59,9 @@ Wednesday 18 September 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 11 September 2019 at 21:34
+- [x] Exported to iLibrary Friday 13 September 2019 at 21:28
 - [x] Exported to Keepeek Friday 13 September 2019 at 21:10
-- [x] Exported to OECD.org Friday 13 September 2019 at 20:25
+- [x] Exported to OECD.org Monday 16 September 2019 at 20:26
 
 ### Additional Information
 
@@ -93,6 +70,29 @@ Wednesday 18 September 2019 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF*
+
+------
+
+## [Multilingual Summaries for International Migration Outlook 2019](https://doi.org/10.1787/fa150dba-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 18 September 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 16 September 2019 at 22:11
+- [x] Exported to Keepeek Monday 16 September 2019 at 21:14
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* 13 Languages: [Italian](https://doi.org/10.1787/f0e7a835-it), [Korean](https://doi.org/10.1787/c09130b3-ko), [German](https://doi.org/10.1787/410eff3d-de), [Indonesian](https://doi.org/10.1787/cb9d24e5-id), [Arabic](https://doi.org/10.1787/28966e65-ar), [Chinese](https://doi.org/10.1787/8fab1e11-zh), [English](https://doi.org/10.1787/fa150dba-en), [Japanese](https://doi.org/10.1787/475772d3-ja), [Russian](https://doi.org/10.1787/28d4ab7f-ru), [Spanish](https://doi.org/10.1787/dfebd6a0-es), [Portuguese](https://doi.org/10.1787/aeba9a13-pt), [French](https://doi.org/10.1787/0262a434-fr), [Latvian](https://doi.org/10.1787/bcca2796-lv)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -128,7 +128,7 @@ Monday 23 September 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 12 September 2019 at 21:19
+- [x] Exported to iLibrary Friday 13 September 2019 at 21:28
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
