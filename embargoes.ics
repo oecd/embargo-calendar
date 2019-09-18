@@ -2,92 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/2b8ad56e-end3e116
-SUMMARY:Education Policy Outlook 2019 - Working 
- Together to Help Students Achieve their 
- Potential
-DESCRIPTION:*Education Policy Outlook 2019 - Working
-  Together to Help Students Achieve their
-  Potential*\n\nDirectorate: Directorate 
- for Education and Skills\nLanguage: Engl
- ish\nDOI: https://doi.org/10.1787/2b8ad5
- 6e-en\nPublication type: Stand-alone mon
- ograph\nReleased as: Paperback, PDF\n\nE
- mbargo date/time: Monday, 16 September 2
- 019, 7:30 (GMT)\n\n\niLibrary export: We
- dnesday, 11 September 2019, 19:34 (GMT)\
- nFreepreview export: Wednesday, 11 Septe
- mber 2019, 19:10 (GMT)\nOECD.org export:
-  Tuesday, 17 September 2019, 18:30 (GMT)
- \nFTI loaded: ✓\n\nFor more information 
- see: https://oecd.github.io/embargo-cale
- ndar/embargoes-by-publication.html.\n\nP
- lease note: This information was correct
-  as of this afternoon at 22:48, it is up
- dated each night; therefore any subseque
- nt updates may not yet be visible here. 
- Also, please be aware that the different
-  released media (PDF, HTML, etc.) are no
- t necessarily released at the same time.
-  For complete and up-to-date information
-  see here: http://kappa.oecd.org/v3/sear
- ch?term=2b8ad56e-en.
-DTSTAMP:20190917T224811Z
-DTSTART:20190916T073000Z
-DTEND:20190916T074500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Education Policy Outlook 2019 
- - Working Together to Help Students Achi
- eve their Potential
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/c362e536-end3e174
-SUMMARY:OECD Economic Surveys: Iceland 2019
-DESCRIPTION:*OECD Economic Surveys: Iceland 2019*\n\
- nDirectorate: Economics Department\nLang
- uage: English\nDOI: https://doi.org/10.1
- 787/c362e536-en\nPublication type: Econo
- mic survey\nReleased as: PDF\n\nEmbargo 
- date/time: Monday, 16 September 2019, 13
- :30 (GMT)\n\n\niLibrary export: Wednesda
- y, 11 September 2019, 19:34 (GMT)\nFreep
- review export: Wednesday, 11 September 2
- 019, 19:10 (GMT)\nOECD.org export: Tuesd
- ay, 17 September 2019, 18:30 (GMT)\nFTI 
- loaded: ✓\n\nFor more information see: h
- ttps://oecd.github.io/embargo-calendar/e
- mbargoes-by-publication.html.\n\nPlease 
- note: This information was correct as of
-  this afternoon at 22:48, it is updated 
- each night; therefore any subsequent upd
- ates may not yet be visible here. Also, 
- please be aware that the different relea
- sed media (PDF, HTML, etc.) are not nece
- ssarily released at the same time. For c
- omplete and up-to-date information see h
- ere: http://kappa.oecd.org/v3/search?ter
- m=c362e536-en.
-DTSTAMP:20190917T224811Z
-DTSTART:20190916T133000Z
-DTEND:20190916T134500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Economic Surveys: Iceland
-  2019
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/73665992-end3e231
+UID:10.1787/73665992-end3e63
 SUMMARY:Labour market reform in Japan to cope wi
  th a shrinking and ageing population
 DESCRIPTION:*Labour market reform in Japan to cope w
@@ -97,24 +12,24 @@ DESCRIPTION:*Labour market reform in Japan to cope w
  1787/73665992-en\nPublication type: Work
  ing paper\nReleased as: PDF\n\nEmbargo d
  ate/time: Wednesday, 18 September 2019, 
- 0:00 (GMT)\n\n\niLibrary export: Tuesday
- , 17 September 2019, 20:06 (GMT)\nFreepr
- eview export: Tuesday, 17 September 2019
- , 19:15 (GMT)\nOECD.org export: never\nF
- TI loaded: ✓\n\nFor more information see
- : https://oecd.github.io/embargo-calenda
- r/embargoes-by-publication.html.\n\nPlea
- se note: This information was correct as
-  of this afternoon at 22:48, it is updat
- ed each night; therefore any subsequent 
- updates may not yet be visible here. Als
- o, please be aware that the different re
- leased media (PDF, HTML, etc.) are not n
- ecessarily released at the same time. Fo
- r complete and up-to-date information se
- e here: http://kappa.oecd.org/v3/search?
- term=73665992-en.
-DTSTAMP:20190917T224811Z
+ 0:00 (GMT)\n\n\niLibrary export: Wednesd
+ ay, 18 September 2019, 19:31 (GMT)\nFree
+ preview export: Tuesday, 17 September 20
+ 19, 19:15 (GMT)\nOECD.org export: never\
+ nFTI loaded: ✓\n\nFor more information s
+ ee: https://oecd.github.io/embargo-calen
+ dar/embargoes-by-publication.html.\n\nPl
+ ease note: This information was correct 
+ as of this afternoon at 21:58, it is upd
+ ated each night; therefore any subsequen
+ t updates may not yet be visible here. A
+ lso, please be aware that the different 
+ released media (PDF, HTML, etc.) are not
+  necessarily released at the same time. 
+ For complete and up-to-date information 
+ see here: http://kappa.oecd.org/v3/searc
+ h?term=73665992-en.
+DTSTAMP:20190918T215815Z
 DTSTART:20190918T000000Z
 DTEND:20190918T001500Z
 TRANSP:TRANSPARENT
@@ -129,7 +44,7 @@ DESCRIPTION:Reminder: Labour market reform in Japan
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7a7f4973-end3e287
+UID:10.1787/7a7f4973-end3e118
 SUMMARY:Meeting fiscal challenges in Japan’s rap
  idly ageing society
 DESCRIPTION:*Meeting fiscal challenges in Japan’s ra
@@ -139,23 +54,24 @@ DESCRIPTION:*Meeting fiscal challenges in Japan’s ra
  nPublication type: Working paper\nReleas
  ed as: PDF\n\nEmbargo date/time: Wednesd
  ay, 18 September 2019, 0:00 (GMT)\n\n\ni
- Library export: Tuesday, 17 September 20
- 19, 20:06 (GMT)\nFreepreview export: Tue
- sday, 17 September 2019, 19:15 (GMT)\nOE
- CD.org export: never\nFTI loaded: ✓\n\nF
- or more information see: https://oecd.gi
- thub.io/embargo-calendar/embargoes-by-pu
- blication.html.\n\nPlease note: This inf
- ormation was correct as of this afternoo
- n at 22:48, it is updated each night; th
- erefore any subsequent updates may not y
- et be visible here. Also, please be awar
- e that the different released media (PDF
- , HTML, etc.) are not necessarily releas
- ed at the same time. For complete and up
- -to-date information see here: http://ka
- ppa.oecd.org/v3/search?term=7a7f4973-en.
-DTSTAMP:20190917T224811Z
+ Library export: Wednesday, 18 September 
+ 2019, 19:31 (GMT)\nFreepreview export: T
+ uesday, 17 September 2019, 19:15 (GMT)\n
+ OECD.org export: never\nFTI loaded: ✓\n\
+ nFor more information see: https://oecd.
+ github.io/embargo-calendar/embargoes-by-
+ publication.html.\n\nPlease note: This i
+ nformation was correct as of this aftern
+ oon at 21:58, it is updated each night; 
+ therefore any subsequent updates may not
+  yet be visible here. Also, please be aw
+ are that the different released media (P
+ DF, HTML, etc.) are not necessarily rele
+ ased at the same time. For complete and 
+ up-to-date information see here: http://
+ kappa.oecd.org/v3/search?term=7a7f4973-e
+ n.
+DTSTAMP:20190918T215815Z
 DTSTART:20190918T000000Z
 DTEND:20190918T001500Z
 TRANSP:TRANSPARENT
@@ -169,7 +85,7 @@ DESCRIPTION:Reminder: Meeting fiscal challenges in J
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c3e35eec-end3e452
+UID:10.1787/c3e35eec-end3e228
 SUMMARY:International Migration Outlook 2019
 DESCRIPTION:*International Migration Outlook 2019*\n
  \nDirectorate: Directorate for Employmen
@@ -187,7 +103,7 @@ DESCRIPTION:*International Migration Outlook 2019*\n
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 22:48, it is updated each 
+  afternoon at 21:58, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -196,7 +112,7 @@ DESCRIPTION:*International Migration Outlook 2019*\n
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=c3e
  35eec-en.
-DTSTAMP:20190917T224811Z
+DTSTAMP:20190918T215815Z
 DTSTART:20190918T090000Z
 DTEND:20190918T091500Z
 TRANSP:TRANSPARENT
@@ -210,7 +126,7 @@ DESCRIPTION:Reminder: International Migration Outloo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fa150dba-end3e1986
+UID:10.1787/fa150dba-end3e1158
 SUMMARY:Multilingual Summaries for International
   Migration Outlook 2019
 DESCRIPTION:*Multilingual Summaries for Internationa
@@ -230,8 +146,8 @@ DESCRIPTION:*Multilingual Summaries for Internationa
  information see: https://oecd.github.io/
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
-  was correct as of this afternoon at 22:
- 48, it is updated each night; therefore 
+  was correct as of this afternoon at 21:
+ 58, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -239,7 +155,7 @@ DESCRIPTION:*Multilingual Summaries for Internationa
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=fa150dba-en.
-DTSTAMP:20190917T224811Z
+DTSTAMP:20190918T215815Z
 DTSTART:20190918T090000Z
 DTEND:20190918T091500Z
 TRANSP:TRANSPARENT
@@ -253,7 +169,7 @@ DESCRIPTION:Reminder: Multilingual Summaries for Int
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/60811ed3-frd3e2261
+UID:10.1787/60811ed3-frd3e1323
 SUMMARY:Perspectives des migrations internationa
  les 2019
 DESCRIPTION:*Perspectives des migrations internation
@@ -272,7 +188,7 @@ DESCRIPTION:*Perspectives des migrations internation
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 22:48, it is
+ ect as of this afternoon at 21:58, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -281,7 +197,7 @@ DESCRIPTION:*Perspectives des migrations internation
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=60811ed3-fr.
-DTSTAMP:20190917T224811Z
+DTSTAMP:20190918T215815Z
 DTSTART:20190918T090000Z
 DTEND:20190918T091500Z
 TRANSP:TRANSPARENT
@@ -295,49 +211,7 @@ DESCRIPTION:Reminder: Perspectives des migrations in
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2f4c8c9a-end3e2805
-SUMMARY:Accelerating Climate Action - Refocusing
-  Policies through a Well-being Lens
-DESCRIPTION:*Accelerating Climate Action - Refocusin
- g Policies through a Well-being Lens*\n\
- nDirectorate: Environment Directorate\nL
- anguage: English\nDOI: https://doi.org/1
- 0.1787/2f4c8c9a-en\nPublication type: St
- and-alone monograph\nReleased as: HTML, 
- PDF\n\nEmbargo date/time: Wednesday, 18 
- September 2019, 9:00 (GMT)\n\n\niLibrary
-  export: Tuesday, 17 September 2019, 20:
- 06 (GMT)\nFreepreview export: never\nOEC
- D.org export: Tuesday, 17 September 2019
- , 18:30 (GMT)\nFTI loaded: ✗\n\nFor more
-  information see: https://oecd.github.io
- /embargo-calendar/embargoes-by-publicati
- on.html.\n\nPlease note: This informatio
- n was correct as of this afternoon at 22
- :48, it is updated each night; therefore
-  any subsequent updates may not yet be v
- isible here. Also, please be aware that 
- the different released media (PDF, HTML,
-  etc.) are not necessarily released at t
- he same time. For complete and up-to-dat
- e information see here: http://kappa.oec
- d.org/v3/search?term=2f4c8c9a-en.
-DTSTAMP:20190917T224811Z
-DTSTART:20190918T090000Z
-DTEND:20190918T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Accelerating Climate Action - 
- Refocusing Policies through a Well-being
-  Lens
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/74d162b6-end3e4492
+UID:10.1787/74d162b6-end3e2626
 SUMMARY:Tax Administration 2019 - Comparative In
  formation on OECD and other Advanced and
   Emerging Economies
@@ -357,7 +231,7 @@ DESCRIPTION:*Tax Administration 2019 - Comparative I
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 22:48, it is upd
+ as of this afternoon at 21:58, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -366,7 +240,7 @@ DESCRIPTION:*Tax Administration 2019 - Comparative I
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=74d162b6-en.
-DTSTAMP:20190917T224811Z
+DTSTAMP:20190918T215815Z
 DTSTART:20190923T090000Z
 DTEND:20190923T091500Z
 TRANSP:TRANSPARENT
@@ -381,49 +255,7 @@ DESCRIPTION:Reminder: Tax Administration 2019 - Comp
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/781185b1-end3e4601
-SUMMARY:OECD Reviews of Digital Transformation: 
- Going Digital in Colombia
-DESCRIPTION:*OECD Reviews of Digital Transformation:
-  Going Digital in Colombia*\n\nDirectora
- te: Directorate for Science, Technology 
- and Industry\nLanguage: English\nDOI: ht
- tps://doi.org/10.1787/781185b1-en\nPubli
- cation type: Stand-alone monograph\nRele
- ased as: PDF\n\nEmbargo date/time: Wedne
- sday, 25 September 2019, 14:00 (GMT)\n\n
- \niLibrary export: Tuesday, 17 September
-  2019, 20:06 (GMT)\nFreepreview export: 
- never\nOECD.org export: Tuesday, 17 Sept
- ember 2019, 18:30 (GMT)\nFTI loaded: ✗\n
- \nFor more information see: https://oecd
- .github.io/embargo-calendar/embargoes-by
- -publication.html.\n\nPlease note: This 
- information was correct as of this after
- noon at 22:48, it is updated each night;
-  therefore any subsequent updates may no
- t yet be visible here. Also, please be a
- ware that the different released media (
- PDF, HTML, etc.) are not necessarily rel
- eased at the same time. For complete and
-  up-to-date information see here: http:/
- /kappa.oecd.org/v3/search?term=781185b1-
- en.
-DTSTAMP:20190917T224811Z
-DTSTART:20190925T140000Z
-DTEND:20190925T141500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Reviews of Digital Transf
- ormation: Going Digital in Colombia
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/c9c4ec1d-end3e4655
+UID:10.1787/c9c4ec1d-end3e4322
 SUMMARY:Innovation, Productivity and Sustainabil
  ity in Food and Agriculture - Main Findi
  ngs from Country Reviews and Policy Less
@@ -445,7 +277,7 @@ DESCRIPTION:*Innovation, Productivity and Sustainabi
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  22:48, it is updated each night; theref
+  21:58, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -453,7 +285,7 @@ DESCRIPTION:*Innovation, Productivity and Sustainabi
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=c9c4ec1d-en.
-DTSTAMP:20190917T224811Z
+DTSTAMP:20190918T215815Z
 DTSTART:20190926T080000Z
 DTEND:20190926T081500Z
 TRANSP:TRANSPARENT
@@ -469,7 +301,7 @@ DESCRIPTION:Reminder: Innovation, Productivity and S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/830128c5-frd3e4816
+UID:10.1787/830128c5-frd3e4483
 SUMMARY:Innovation, productivité et durabilité d
  ans le secteur agricole et alimentaire -
   Principales conclusions des examens par
@@ -486,21 +318,21 @@ DESCRIPTION:*Innovation, productivité et durabilité
  eptember 2019, 8:00 (GMT)\n\n\niLibrary 
  export: Wednesday, 31 July 2019, 19:20 (
  GMT)\nFreepreview export: never\nOECD.or
- g export: Wednesday, 31 July 2019, 18:21
-  (GMT)\nFTI loaded: ✗\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 22:48, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=830128c5-fr.
-DTSTAMP:20190917T224811Z
+ g export: Wednesday, 18 September 2019, 
+ 18:22 (GMT)\nFTI loaded: ✗\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 21:5
+ 8, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=830128c5-fr.
+DTSTAMP:20190918T215815Z
 DTSTART:20190926T080000Z
 DTEND:20190926T081500Z
 TRANSP:TRANSPARENT
@@ -517,7 +349,7 @@ DESCRIPTION:Reminder: Innovation, productivité et du
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/24095010-esd3e4872
+UID:10.1787/24095010-esd3e4539
 SUMMARY:Estudio multidimensional de Paraguay - V
  olumen 3. Del Análisis a la Acción
 DESCRIPTION:*Estudio multidimensional de Paraguay - 
@@ -535,7 +367,7 @@ DESCRIPTION:*Estudio multidimensional de Paraguay -
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 22:48, it is updated each night; th
+ n at 21:58, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -543,7 +375,7 @@ DESCRIPTION:*Estudio multidimensional de Paraguay -
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=24095010-es.
-DTSTAMP:20190917T224811Z
+DTSTAMP:20190918T215815Z
 DTSTART:20191001T130000Z
 DTEND:20191001T131500Z
 TRANSP:TRANSPARENT
@@ -558,7 +390,7 @@ DESCRIPTION:Reminder: Estudio multidimensional de Pa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5e722f8e-end3e4928
+UID:10.1787/5e722f8e-end3e4595
 SUMMARY:Multi-dimensional Review of Paraguay - V
  olume 3. From Analysis to Action
 DESCRIPTION:*Multi-dimensional Review of Paraguay - 
@@ -576,7 +408,7 @@ DESCRIPTION:*Multi-dimensional Review of Paraguay -
  ub.io/embargo-calendar/embargoes-by-publ
  ication.html.\n\nPlease note: This infor
  mation was correct as of this afternoon 
- at 22:48, it is updated each night; ther
+ at 21:58, it is updated each night; ther
  efore any subsequent updates may not yet
   be visible here. Also, please be aware 
  that the different released media (PDF, 
@@ -584,7 +416,7 @@ DESCRIPTION:*Multi-dimensional Review of Paraguay -
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=5e722f8e-en.
-DTSTAMP:20190917T224811Z
+DTSTAMP:20190918T215815Z
 DTSTART:20191001T130000Z
 DTEND:20191001T131500Z
 TRANSP:TRANSPARENT
@@ -599,7 +431,88 @@ DESCRIPTION:Reminder: Multi-dimensional Review of Pa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c5eed747-end3e4984
+UID:10.1787/530e7ce0-end3e4651
+SUMMARY:OECD Economic Surveys: South Africa 2019
+DESCRIPTION:*OECD Economic Surveys: South Africa 201
+ 9*\n\nDirectorate: Economics Department\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/530e7ce0-en\nPublication type: 
+ Economic survey\nReleased as: PDF\n\nEmb
+ argo date/time: Monday, 7 October 2019, 
+ 12:00 (GMT)\n\n\niLibrary export: Wednes
+ day, 18 September 2019, 19:31 (GMT)\nFre
+ epreview export: never\nOECD.org export:
+  Wednesday, 18 September 2019, 18:22 (GM
+ T)\nFTI loaded: ✗\n\nFor more informatio
+ n see: https://oecd.github.io/embargo-ca
+ lendar/embargoes-by-publication.html.\n\
+ nPlease note: This information was corre
+ ct as of this afternoon at 21:58, it is 
+ updated each night; therefore any subseq
+ uent updates may not yet be visible here
+ . Also, please be aware that the differe
+ nt released media (PDF, HTML, etc.) are 
+ not necessarily released at the same tim
+ e. For complete and up-to-date informati
+ on see here: http://kappa.oecd.org/v3/se
+ arch?term=530e7ce0-en.
+DTSTAMP:20190918T215815Z
+DTSTART:20191007T120000Z
+DTEND:20191007T121500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Economic Surveys: South A
+ frica 2019
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/781185b1-end3e4705
+SUMMARY:OECD Reviews of Digital Transformation: 
+ Going Digital in Colombia
+DESCRIPTION:*OECD Reviews of Digital Transformation:
+  Going Digital in Colombia*\n\nDirectora
+ te: Directorate for Science, Technology 
+ and Industry\nLanguage: English\nDOI: ht
+ tps://doi.org/10.1787/781185b1-en\nPubli
+ cation type: Stand-alone monograph\nRele
+ ased as: PDF\n\nEmbargo date/time: Frida
+ y, 25 October 2019, 14:00 (GMT)\n\n\niLi
+ brary export: Wednesday, 18 September 20
+ 19, 19:31 (GMT)\nFreepreview export: nev
+ er\nOECD.org export: Wednesday, 18 Septe
+ mber 2019, 18:22 (GMT)\nFTI loaded: ✗\n\
+ nFor more information see: https://oecd.
+ github.io/embargo-calendar/embargoes-by-
+ publication.html.\n\nPlease note: This i
+ nformation was correct as of this aftern
+ oon at 21:58, it is updated each night; 
+ therefore any subsequent updates may not
+  yet be visible here. Also, please be aw
+ are that the different released media (P
+ DF, HTML, etc.) are not necessarily rele
+ ased at the same time. For complete and 
+ up-to-date information see here: http://
+ kappa.oecd.org/v3/search?term=781185b1-e
+ n.
+DTSTAMP:20190918T215815Z
+DTSTART:20191025T140000Z
+DTEND:20191025T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Reviews of Digital Transf
+ ormation: Going Digital in Colombia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/c5eed747-end3e4759
 SUMMARY:Rejuvenating Korea: Policies for a Chang
  ing Society
 DESCRIPTION:*Rejuvenating Korea: Policies for a Chan
@@ -616,7 +529,7 @@ DESCRIPTION:*Rejuvenating Korea: Policies for a Chan
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 22:48, it is updated eac
+ is afternoon at 21:58, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -625,7 +538,7 @@ DESCRIPTION:*Rejuvenating Korea: Policies for a Chan
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=c
  5eed747-en.
-DTSTAMP:20190917T224811Z
+DTSTAMP:20190918T215815Z
 DTSTART:20191028T020000Z
 DTEND:20191028T021500Z
 TRANSP:TRANSPARENT
