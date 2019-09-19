@@ -2,15 +2,17 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 18 September 2019 at 21:58* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 20 September 2019 at 1:16* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [18 September 2019](#18-september-2019)
+* [20 September 2019](#20-september-2019)
 * [23 September 2019](#23-september-2019)
 * [26 September 2019](#26-september-2019)
 * [1 October 2019](#1-october-2019)
 * [7 October 2019](#7-october-2019)
 * [25 October 2019](#25-october-2019)
 * [28 October 2019](#28-october-2019)
+* [4 November 2019](#4-november-2019)
 
 ------
 
@@ -73,7 +75,7 @@ Wednesday 18 September 2019 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 13 September 2019 at 21:28
 - [x] Exported to Keepeek Friday 13 September 2019 at 21:10
-- [x] Exported to OECD.org Monday 16 September 2019 at 20:26
+- [x] Exported to OECD.org Thursday 19 September 2019 at 20:48
 
 ### Additional Information
 
@@ -119,7 +121,7 @@ Wednesday 18 September 2019 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 17 September 2019 at 22:06
 - [x] Exported to Keepeek Tuesday 17 September 2019 at 21:15
-- [x] Exported to OECD.org Tuesday 17 September 2019 at 20:30
+- [x] Exported to OECD.org Thursday 19 September 2019 at 20:48
 
 ### Additional Information
 
@@ -128,6 +130,33 @@ Wednesday 18 September 2019 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF*
+
+------
+
+------
+
+# 20 September 2019
+
+## [Using process data to understand adults’ problem-solving behaviour in the Programme for the International Assessment of Adult Competencies (PIAAC) - Identifying generalised patterns across multiple tasks with sequence mining](https://doi.org/10.1787/650918f2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 20 September 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 20 September 2019 at 0:14
+- [x] Exported to Keepeek Thursday 19 September 2019 at 21:43
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -143,16 +172,16 @@ Monday 23 September 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 17 September 2019 at 22:06
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 17 September 2019 at 20:30
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 20 September 2019 at 0:14
+- [x] Exported to Keepeek Thursday 19 September 2019 at 21:43
+- [x] Exported to OECD.org Thursday 19 September 2019 at 20:48
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -325,16 +354,181 @@ Monday 28 October 2019 at 2:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 September 2019 at 0:14
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 19 September 2019 at 20:48
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 4 November 2019
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Dominican Republic 2019 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/7f68d3cf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 November 2019 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 20 September 2019 at 0:14
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 19 September 2019 at 20:48
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Marshall Islands 2019 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/89b5f984-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 November 2019 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 20 September 2019 at 0:14
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 19 September 2019 at 20:48
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Samoa 2019 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/d8954bf5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 November 2019 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 20 September 2019 at 0:14
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 19 September 2019 at 20:48
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Panama 2019 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/5f2584a0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 November 2019 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 20 September 2019 at 0:14
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 19 September 2019 at 20:48
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Saudi Arabia 2019 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/186f45ba-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 November 2019 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 20 September 2019 at 0:14
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 19 September 2019 at 20:48
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: United Arab Emirates 2019 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/78bb1919-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 November 2019 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 20 September 2019 at 0:14
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 19 September 2019 at 20:48
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Andorra 2019 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/7f57533b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 November 2019 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 20 September 2019 at 0:14
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 19 September 2019 at 20:48
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
