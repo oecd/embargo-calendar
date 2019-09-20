@@ -2,134 +2,44 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 20 September 2019 at 1:16* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 20 September 2019 at 22:12* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [18 September 2019](#18-september-2019)
+* [19 September 2019](#19-september-2019)
 * [20 September 2019](#20-september-2019)
 * [23 September 2019](#23-september-2019)
+* [25 September 2019](#25-september-2019)
 * [26 September 2019](#26-september-2019)
 * [1 October 2019](#1-october-2019)
 * [7 October 2019](#7-october-2019)
+* [24 October 2019](#24-october-2019)
 * [25 October 2019](#25-october-2019)
 * [28 October 2019](#28-october-2019)
 * [4 November 2019](#4-november-2019)
 
 ------
 
-# 18 September 2019
+# 19 September 2019
 
-## [Labour market reform in Japan to cope with a shrinking and ageing population](https://doi.org/10.1787/73665992-en)
+## [Accelerating Climate Action - Refocusing Policies through a Well-being Lens](https://doi.org/10.1787/2f4c8c9a-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 18 September 2019 at 0:00 | no launch event
+Thursday 19 September 2019 at 6:24 | no launch event
 
 ### Status Information
 
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 18 September 2019 at 21:31
-- [x] Exported to Keepeek Tuesday 17 September 2019 at 21:15
-- [ ] Exported to OECD.org
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 20 September 2019 at 21:42
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 20 September 2019 at 20:26
 
 ### Additional Information
 
-* Directorate: *Economics Department*
+* Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Meeting fiscal challenges in Japan’s rapidly ageing society](https://doi.org/10.1787/7a7f4973-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 18 September 2019 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 18 September 2019 at 21:31
-- [x] Exported to Keepeek Tuesday 17 September 2019 at 21:15
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [International Migration Outlook 2019](https://doi.org/10.1787/c3e35eec-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 18 September 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 13 September 2019 at 21:28
-- [x] Exported to Keepeek Friday 13 September 2019 at 21:10
-- [x] Exported to OECD.org Thursday 19 September 2019 at 20:48
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF*
-
-------
-
-## [Multilingual Summaries for International Migration Outlook 2019](https://doi.org/10.1787/fa150dba-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 18 September 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 September 2019 at 22:11
-- [x] Exported to Keepeek Monday 16 September 2019 at 21:14
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* 13 Languages: [Italian](https://doi.org/10.1787/f0e7a835-it), [Korean](https://doi.org/10.1787/c09130b3-ko), [German](https://doi.org/10.1787/410eff3d-de), [Indonesian](https://doi.org/10.1787/cb9d24e5-id), [Arabic](https://doi.org/10.1787/28966e65-ar), [Chinese](https://doi.org/10.1787/8fab1e11-zh), [English](https://doi.org/10.1787/fa150dba-en), [Japanese](https://doi.org/10.1787/475772d3-ja), [Russian](https://doi.org/10.1787/28d4ab7f-ru), [Spanish](https://doi.org/10.1787/dfebd6a0-es), [Portuguese](https://doi.org/10.1787/aeba9a13-pt), [French](https://doi.org/10.1787/0262a434-fr), [Latvian](https://doi.org/10.1787/bcca2796-lv)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Perspectives des migrations internationales 2019](https://doi.org/10.1787/60811ed3-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 18 September 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 17 September 2019 at 22:06
-- [x] Exported to Keepeek Tuesday 17 September 2019 at 21:15
-- [x] Exported to OECD.org Thursday 19 September 2019 at 20:48
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, PDF*
 
 ------
 
@@ -173,7 +83,7 @@ Monday 23 September 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 September 2019 at 0:14
+- [x] Exported to iLibrary Friday 20 September 2019 at 21:42
 - [x] Exported to Keepeek Thursday 19 September 2019 at 21:43
 - [x] Exported to OECD.org Thursday 19 September 2019 at 20:48
 
@@ -183,7 +93,34 @@ Monday 23 September 2019 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
+
+------
+
+------
+
+# 25 September 2019
+
+## [Policy approaches to integration of newly arrived immigrant children in schools - The case of the Netherlands](https://doi.org/10.1787/f19de900-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 25 September 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 20 September 2019 at 21:42
+- [x] Exported to Keepeek Friday 20 September 2019 at 21:21
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -303,6 +240,56 @@ Monday 7 October 2019 at 12:00 | no launch event
 - [x] Exported to iLibrary Wednesday 18 September 2019 at 21:31
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 18 September 2019 at 20:22
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+------
+
+# 24 October 2019
+
+## [Estudios Económicos de la OCDE: Colombia 2019](https://doi.org/10.1787/805f2a79-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 October 2019 at 8:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 20 September 2019 at 21:42
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 20 September 2019 at 20:26
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Spanish*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Colombia 2019](https://doi.org/10.1787/e4c64889-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 October 2019 at 8:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 20 September 2019 at 21:42
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 20 September 2019 at 20:26
 
 ### Additional Information
 
