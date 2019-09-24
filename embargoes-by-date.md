@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 23 September 2019 at 21:58* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 24 September 2019 at 21:49* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [23 September 2019](#23-september-2019)
 * [25 September 2019](#25-september-2019)
@@ -29,7 +29,7 @@ Monday 23 September 2019 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 September 2019 at 21:42
 - [x] Exported to Keepeek Thursday 19 September 2019 at 21:43
-- [x] Exported to OECD.org Saturday 21 September 2019 at 14:22
+- [x] Exported to OECD.org Tuesday 24 September 2019 at 20:22
 
 ### Additional Information
 
@@ -319,9 +319,9 @@ Monday 7 October 2019 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 23 September 2019 at 21:33
+- [x] Exported to iLibrary Tuesday 24 September 2019 at 21:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 23 September 2019 at 20:24
+- [x] Exported to OECD.org Tuesday 24 September 2019 at 20:22
 
 ### Additional Information
 
@@ -342,9 +342,9 @@ Monday 7 October 2019 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 23 September 2019 at 21:33
+- [x] Exported to iLibrary Tuesday 24 September 2019 at 21:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 23 September 2019 at 20:24
+- [x] Exported to OECD.org Tuesday 24 September 2019 at 20:22
 
 ### Additional Information
 
@@ -394,7 +394,7 @@ Thursday 24 October 2019 at 8:30 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Monday 23 September 2019 at 21:33
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 20 September 2019 at 20:26
+- [x] Exported to OECD.org Tuesday 24 September 2019 at 20:22
 
 ### Additional Information
 
