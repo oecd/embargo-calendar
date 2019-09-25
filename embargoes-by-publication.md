@@ -2,168 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 24 September 2019 at 21:49* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Tax Administration 2019 - Comparative Information on OECD and other Advanced and Emerging Economies](https://doi.org/10.1787/74d162b6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 September 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 September 2019 at 21:42
-- [x] Exported to Keepeek Thursday 19 September 2019 at 21:43
-- [x] Exported to OECD.org Tuesday 24 September 2019 at 20:22
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [تقرير الأمين العام عن أعمال المنظمة](https://doi.org/10.18356/bb5916fb-ar)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 September 2019 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 23 September 2019 at 21:33
-- [x] Exported to Keepeek Monday 23 September 2019 at 21:13
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Non applicable*
-* Language: *Arabic*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [秘书长关于 联合国工作的 报告](https://doi.org/10.18356/4a293973-zh)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 September 2019 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 23 September 2019 at 21:33
-- [x] Exported to Keepeek Monday 23 September 2019 at 21:13
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Non applicable*
-* Language: *Chinese*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Rapport du secrétaire général sur l'activité de l'Organisation](https://doi.org/10.18356/c1089385-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 September 2019 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 23 September 2019 at 21:33
-- [x] Exported to Keepeek Monday 23 September 2019 at 21:13
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Non applicable*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Memoria del secretario general sobre la labor de la Organización](https://doi.org/10.18356/edcdcdaf-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 September 2019 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 23 September 2019 at 21:33
-- [x] Exported to Keepeek Monday 23 September 2019 at 21:13
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Non applicable*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Report of the Secretary-General on the Work of the Organization](https://doi.org/10.18356/867f5438-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 September 2019 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 23 September 2019 at 21:33
-- [x] Exported to Keepeek Monday 23 September 2019 at 21:13
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Non applicable*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [ДОКЛАД ГЕНЕРАЛЬНОГО СЕКРЕТАРЯ О РАБОТЕ ОРГАНИЗАЦИИ](https://doi.org/10.18356/6a14424f-ru)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 September 2019 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 23 September 2019 at 21:33
-- [x] Exported to Keepeek Monday 23 September 2019 at 21:13
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Non applicable*
-* Language: *Russian*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Wednesday 25 September 2019 at 22:16* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Policy approaches to integration of newly arrived immigrant children in schools - The case of the Netherlands](https://doi.org/10.1787/f19de900-en)
 
@@ -188,6 +27,29 @@ Wednesday 25 September 2019 at 9:00 | no launch event
 
 ------
 
+## [Improving work-based learning in schools](https://doi.org/10.1787/918caba5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 September 2019 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 25 September 2019 at 21:44
+- [x] Exported to Keepeek Wednesday 25 September 2019 at 21:10
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Estudio multidimensional de Paraguay - Volumen 3. Del Análisis a la Acción](https://doi.org/10.1787/24095010-es)
 
 Embargo date | Launch date
@@ -197,7 +59,7 @@ Tuesday 1 October 2019 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 17 September 2019 at 22:06
+- [x] Exported to iLibrary Wednesday 25 September 2019 at 21:44
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 17 September 2019 at 20:30
 
@@ -220,7 +82,7 @@ Tuesday 1 October 2019 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 17 September 2019 at 22:06
+- [x] Exported to iLibrary Wednesday 25 September 2019 at 21:44
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 17 September 2019 at 20:30
 
@@ -243,7 +105,7 @@ Thursday 3 October 2019 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 23 September 2019 at 21:33
+- [x] Exported to iLibrary Wednesday 25 September 2019 at 21:44
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 23 September 2019 at 20:24
 
@@ -253,7 +115,7 @@ Thursday 3 October 2019 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -266,7 +128,7 @@ Thursday 3 October 2019 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 23 September 2019 at 21:33
+- [x] Exported to iLibrary Wednesday 25 September 2019 at 21:44
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 23 September 2019 at 20:24
 
@@ -289,9 +151,9 @@ Monday 7 October 2019 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 24 September 2019 at 21:27
+- [x] Exported to iLibrary Wednesday 25 September 2019 at 21:44
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 24 September 2019 at 20:22
+- [x] Exported to OECD.org Wednesday 25 September 2019 at 20:24
 
 ### Additional Information
 
@@ -312,9 +174,9 @@ Monday 7 October 2019 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 24 September 2019 at 21:27
+- [x] Exported to iLibrary Wednesday 25 September 2019 at 21:44
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 24 September 2019 at 20:22
+- [x] Exported to OECD.org Wednesday 25 September 2019 at 20:24
 
 ### Additional Information
 
@@ -380,18 +242,18 @@ Friday 25 October 2019 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 18 September 2019 at 21:31
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 18 September 2019 at 20:22
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 25 September 2019 at 21:44
+- [x] Exported to Keepeek Wednesday 25 September 2019 at 21:10
+- [x] Exported to OECD.org Wednesday 25 September 2019 at 20:24
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
