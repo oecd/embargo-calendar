@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 25 September 2019 at 22:16* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 26 September 2019 at 21:56* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Policy approaches to integration of newly arrived immigrant children in schools - The case of the Netherlands](https://doi.org/10.1787/f19de900-en)
 
@@ -59,17 +59,17 @@ Tuesday 1 October 2019 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 25 September 2019 at 21:44
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 17 September 2019 at 20:30
+- [x] Exported to iLibrary Thursday 26 September 2019 at 21:31
+- [x] Exported to Keepeek Thursday 26 September 2019 at 21:07
+- [x] Exported to OECD.org Thursday 26 September 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -82,17 +82,17 @@ Tuesday 1 October 2019 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 25 September 2019 at 21:44
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 17 September 2019 at 20:30
+- [x] Exported to iLibrary Thursday 26 September 2019 at 21:31
+- [x] Exported to Keepeek Thursday 26 September 2019 at 21:07
+- [x] Exported to OECD.org Thursday 26 September 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -104,16 +104,16 @@ Thursday 3 October 2019 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 25 September 2019 at 21:44
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 23 September 2019 at 20:24
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 26 September 2019 at 21:31
+- [x] Exported to Keepeek Thursday 26 September 2019 at 21:07
+- [x] Exported to OECD.org Thursday 26 September 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -127,18 +127,18 @@ Thursday 3 October 2019 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 25 September 2019 at 21:44
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 23 September 2019 at 20:24
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 26 September 2019 at 21:31
+- [x] Exported to Keepeek Thursday 26 September 2019 at 21:07
+- [x] Exported to OECD.org Thursday 26 September 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
