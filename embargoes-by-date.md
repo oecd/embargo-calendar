@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 26 September 2019 at 21:56* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 27 September 2019 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [25 September 2019](#25-september-2019)
 * [30 September 2019](#30-september-2019)
 * [1 October 2019](#1-october-2019)
 * [3 October 2019](#3-october-2019)
@@ -13,33 +12,6 @@ Data generated on | |
 * [25 October 2019](#25-october-2019)
 * [28 October 2019](#28-october-2019)
 * [4 November 2019](#4-november-2019)
-
-------
-
-# 25 September 2019
-
-## [Policy approaches to integration of newly arrived immigrant children in schools - The case of the Netherlands](https://doi.org/10.1787/f19de900-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 25 September 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 September 2019 at 21:42
-- [x] Exported to Keepeek Monday 23 September 2019 at 21:13
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -55,7 +27,7 @@ Monday 30 September 2019 at 5:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 25 September 2019 at 21:44
-- [x] Exported to Keepeek Wednesday 25 September 2019 at 21:10
+- [x] Exported to Keepeek Friday 27 September 2019 at 21:07
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -82,7 +54,7 @@ Tuesday 1 October 2019 at 13:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 26 September 2019 at 21:31
-- [x] Exported to Keepeek Thursday 26 September 2019 at 21:07
+- [x] Exported to Keepeek Friday 27 September 2019 at 21:07
 - [x] Exported to OECD.org Thursday 26 September 2019 at 20:23
 
 ### Additional Information
@@ -335,9 +307,9 @@ Monday 4 November 2019 at 13:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 20 September 2019 at 0:14
+- [x] Exported to iLibrary Friday 27 September 2019 at 22:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 19 September 2019 at 20:48
+- [x] Exported to OECD.org Friday 27 September 2019 at 20:23
 
 ### Additional Information
 
@@ -358,9 +330,9 @@ Monday 4 November 2019 at 13:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 20 September 2019 at 0:14
+- [x] Exported to iLibrary Friday 27 September 2019 at 22:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 19 September 2019 at 20:48
+- [x] Exported to OECD.org Friday 27 September 2019 at 20:23
 
 ### Additional Information
 
@@ -381,9 +353,9 @@ Monday 4 November 2019 at 13:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 20 September 2019 at 0:14
+- [x] Exported to iLibrary Friday 27 September 2019 at 22:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 19 September 2019 at 20:48
+- [x] Exported to OECD.org Friday 27 September 2019 at 20:23
 
 ### Additional Information
 
@@ -404,9 +376,9 @@ Monday 4 November 2019 at 13:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 20 September 2019 at 0:14
+- [x] Exported to iLibrary Friday 27 September 2019 at 22:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 19 September 2019 at 20:48
+- [x] Exported to OECD.org Friday 27 September 2019 at 20:23
 
 ### Additional Information
 
@@ -427,9 +399,9 @@ Monday 4 November 2019 at 13:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 20 September 2019 at 0:14
+- [x] Exported to iLibrary Friday 27 September 2019 at 22:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 19 September 2019 at 20:48
+- [x] Exported to OECD.org Friday 27 September 2019 at 20:23
 
 ### Additional Information
 
@@ -450,9 +422,9 @@ Monday 4 November 2019 at 13:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 20 September 2019 at 0:14
+- [x] Exported to iLibrary Friday 27 September 2019 at 22:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 19 September 2019 at 20:48
+- [x] Exported to OECD.org Friday 27 September 2019 at 20:23
 
 ### Additional Information
 
@@ -473,9 +445,9 @@ Monday 4 November 2019 at 13:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 20 September 2019 at 0:14
+- [x] Exported to iLibrary Friday 27 September 2019 at 22:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 19 September 2019 at 20:48
+- [x] Exported to OECD.org Friday 27 September 2019 at 20:23
 
 ### Additional Information
 
