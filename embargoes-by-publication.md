@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 27 September 2019 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 30 September 2019 at 21:43* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Improving work-based learning in schools](https://doi.org/10.1787/918caba5-en)
 
@@ -38,7 +38,7 @@ Tuesday 1 October 2019 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 26 September 2019 at 21:31
 - [x] Exported to Keepeek Friday 27 September 2019 at 21:07
-- [x] Exported to OECD.org Thursday 26 September 2019 at 20:23
+- [x] Exported to OECD.org Sunday 29 September 2019 at 13:43
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Tuesday 1 October 2019 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 26 September 2019 at 21:31
 - [x] Exported to Keepeek Thursday 26 September 2019 at 21:07
-- [x] Exported to OECD.org Thursday 26 September 2019 at 20:23
+- [x] Exported to OECD.org Sunday 29 September 2019 at 13:43
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Thursday 3 October 2019 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 26 September 2019 at 21:31
 - [x] Exported to Keepeek Thursday 26 September 2019 at 21:07
-- [x] Exported to OECD.org Thursday 26 September 2019 at 20:23
+- [x] Exported to OECD.org Monday 30 September 2019 at 20:21
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Thursday 3 October 2019 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 26 September 2019 at 21:31
 - [x] Exported to Keepeek Thursday 26 September 2019 at 21:07
-- [x] Exported to OECD.org Thursday 26 September 2019 at 20:23
+- [x] Exported to OECD.org Monday 30 September 2019 at 20:21
 
 ### Additional Information
 
@@ -254,6 +254,52 @@ Monday 28 October 2019 at 2:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Reforming ISSSTESON’s Public Procurement for Sustainability](https://doi.org/10.1787/a6ee30a8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 29 October 2019 at 23:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 30 September 2019 at 21:20
+- [x] Exported to Keepeek Monday 30 September 2019 at 10:39
+- [x] Exported to OECD.org Monday 30 September 2019 at 20:21
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [Reforma a la Contratación Pública del ISSSTESON para la Sostenibilidad](https://doi.org/10.1787/8b650806-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 29 October 2019 at 23:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 30 September 2019 at 21:20
+- [x] Exported to Keepeek Monday 30 September 2019 at 10:39
+- [x] Exported to OECD.org Monday 30 September 2019 at 20:21
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
