@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 30 September 2019 at 21:43* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 1 October 2019 at 21:38* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Improving work-based learning in schools](https://doi.org/10.1787/918caba5-en)
 
@@ -84,7 +84,7 @@ Thursday 3 October 2019 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 26 September 2019 at 21:31
 - [x] Exported to Keepeek Thursday 26 September 2019 at 21:07
-- [x] Exported to OECD.org Monday 30 September 2019 at 20:21
+- [x] Exported to OECD.org Tuesday 1 October 2019 at 20:21
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Thursday 3 October 2019 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 26 September 2019 at 21:31
 - [x] Exported to Keepeek Thursday 26 September 2019 at 21:07
-- [x] Exported to OECD.org Monday 30 September 2019 at 20:21
+- [x] Exported to OECD.org Tuesday 1 October 2019 at 20:21
 
 ### Additional Information
 
@@ -116,6 +116,29 @@ Thursday 3 October 2019 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Energy Policies of IEA Countries: Estonia 2019](https://doi.org/10.1787/2b39ebd1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 4 October 2019 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 1 October 2019 at 21:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 1 October 2019 at 20:21
+
+### Additional Information
+
+* Directorate: *International Energy Agency*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -151,7 +174,7 @@ Monday 7 October 2019 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 25 September 2019 at 21:44
+- [x] Exported to iLibrary Tuesday 1 October 2019 at 21:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 25 September 2019 at 20:24
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2019-09-30T21:43:38.8230262+02:00">
+<report name="official-embargoes" generated="2019-10-01T21:38:23.8672045+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -1553,7 +1553,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-09-26T19:31:43Z</cell>
     <cell name="freepreview last export date">2019-09-26T19:07:39Z</cell>
-    <cell name="oecd.org last export date">2019-09-30T18:21:09Z</cell>
+    <cell name="oecd.org last export date">2019-10-01T18:21:00Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -2013,7 +2013,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-09-26T19:31:43Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2019-09-30T18:21:09Z</cell>
+    <cell name="oecd.org last export date">2019-10-01T18:21:00Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -2093,7 +2093,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-09-26T19:31:43Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2019-09-30T18:21:09Z</cell>
+    <cell name="oecd.org last export date">2019-10-01T18:21:00Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -2233,7 +2233,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-09-26T19:31:43Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2019-09-30T18:21:09Z</cell>
+    <cell name="oecd.org last export date">2019-10-01T18:21:00Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -2673,7 +2673,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-09-26T19:31:43Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2019-09-30T18:21:09Z</cell>
+    <cell name="oecd.org last export date">2019-10-01T18:21:00Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -3073,7 +3073,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-09-26T19:31:43Z</cell>
     <cell name="freepreview last export date">2019-09-26T19:07:39Z</cell>
-    <cell name="oecd.org last export date">2019-09-30T18:21:09Z</cell>
+    <cell name="oecd.org last export date">2019-10-01T18:21:00Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -3401,6 +3401,26 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b4aaefc</cell>
   </row>
   <row index="170">
+    <cell name="directorate">International Energy Agency</cell>
+    <cell name="doi">10.1787/2b39ebd1-en</cell>
+    <cell name="title">Energy Policies of IEA Countries: Estonia 2019 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-10-04</cell>
+    <cell name="embargo date">2019-10-04T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-10-01T19:19:46Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2019-10-01T18:21:00Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3ab8e669</cell>
+  </row>
+  <row index="171">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/9230b350-fr</cell>
     <cell name="title">Études économiques de l'OCDE : Afrique du Sud 2019  (version abrégée) (fr)</cell>
@@ -3420,7 +3440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/89a9f6f2</cell>
   </row>
-  <row index="171">
+  <row index="172">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/530e7ce0-en</cell>
     <cell name="title">OECD Economic Surveys: South Africa 2019 (en)</cell>
@@ -3431,7 +3451,7 @@
     <cell name="date of publication">2019-10-07</cell>
     <cell name="embargo date">2019-10-07T12:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-09-25T19:44:59Z</cell>
+    <cell name="ilibrary last export date">2019-10-01T19:19:46Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2019-09-25T18:24:17Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -3440,7 +3460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/299c131a</cell>
   </row>
-  <row index="172">
+  <row index="173">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/805f2a79-es</cell>
     <cell name="title">Estudios Económicos de la OCDE: Colombia 2019 (es)</cell>
@@ -3460,7 +3480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/df8c206e</cell>
   </row>
-  <row index="173">
+  <row index="174">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/e4c64889-en</cell>
     <cell name="title">OECD Economic Surveys: Colombia 2019 (en)</cell>
@@ -3480,7 +3500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/408e11a6</cell>
   </row>
-  <row index="174">
+  <row index="175">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/5b895408-en</cell>
     <cell name="title">Colombia in the digital transformation: Opportunities and challenges (en)</cell>
@@ -3500,7 +3520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1b79cf98</cell>
   </row>
-  <row index="175">
+  <row index="176">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/781185b1-en</cell>
     <cell name="title">OECD Reviews of Digital Transformation: Going Digital in Colombia (en)</cell>
@@ -3520,7 +3540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3d2b39ae</cell>
   </row>
-  <row index="176">
+  <row index="177">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/781185b1-en</cell>
     <cell name="title">OECD Reviews of Digital Transformation: Going Digital in Colombia (en)</cell>
@@ -3540,7 +3560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5a396ce0</cell>
   </row>
-  <row index="177">
+  <row index="178">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/a706c144-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -3560,7 +3580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eae2621f</cell>
   </row>
-  <row index="178">
+  <row index="179">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/2f193e7f-en</cell>
     <cell name="title">Seizing the opportunities from the digital transformation for jobs and innovation (en)</cell>
@@ -3580,7 +3600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/26a33202</cell>
   </row>
-  <row index="179">
+  <row index="180">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/5786e2c8-en</cell>
     <cell name="title">Fostering the digital transformation among individuals, firms and in the government (en)</cell>
@@ -3600,7 +3620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5f6ea6ea</cell>
   </row>
-  <row index="180">
+  <row index="181">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/a849a812-en</cell>
     <cell name="title">Acronyms, abbreviations and units of measure (en)</cell>
@@ -3620,7 +3640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dbf6aa93</cell>
   </row>
-  <row index="181">
+  <row index="182">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/3241e97f-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -3640,7 +3660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/70030550</cell>
   </row>
-  <row index="182">
+  <row index="183">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/3241e97f-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -3660,7 +3680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f8d8f9c4</cell>
   </row>
-  <row index="183">
+  <row index="184">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/a849a812-en</cell>
     <cell name="title">Acronyms, abbreviations and units of measure (en)</cell>
@@ -3680,7 +3700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/08658748</cell>
   </row>
-  <row index="184">
+  <row index="185">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/781185b1-en</cell>
     <cell name="title">OECD Reviews of Digital Transformation: Going Digital in Colombia (en)</cell>
@@ -3700,7 +3720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc805272</cell>
   </row>
-  <row index="185">
+  <row index="186">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/5b895408-en</cell>
     <cell name="title">Colombia in the digital transformation: Opportunities and challenges (en)</cell>
@@ -3720,7 +3740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f032d9e</cell>
   </row>
-  <row index="186">
+  <row index="187">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/2f193e7f-en</cell>
     <cell name="title">Seizing the opportunities from the digital transformation for jobs and innovation (en)</cell>
@@ -3740,7 +3760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d92e73f5</cell>
   </row>
-  <row index="187">
+  <row index="188">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/e54d709f-en</cell>
     <cell name="title">Access to communication services (en)</cell>
@@ -3760,7 +3780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2fc95cdc</cell>
   </row>
-  <row index="188">
+  <row index="189">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/6fb3beee-en</cell>
     <cell name="title">Policy recommendations (en)</cell>
@@ -3780,7 +3800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e5adc72c</cell>
   </row>
-  <row index="189">
+  <row index="190">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/a706c144-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -3800,7 +3820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5682502f</cell>
   </row>
-  <row index="190">
+  <row index="191">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/5786e2c8-en</cell>
     <cell name="title">Fostering the digital transformation among individuals, firms and in the government (en)</cell>
@@ -3820,7 +3840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a94cecf0</cell>
   </row>
-  <row index="191">
+  <row index="192">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/89a7542c-en</cell>
     <cell name="title">Digital pathways to growth and competitiveness (en)</cell>
@@ -3840,7 +3860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6a7c8824</cell>
   </row>
-  <row index="192">
+  <row index="193">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/6fb3beee-en</cell>
     <cell name="title">Policy recommendations (en)</cell>
@@ -3860,7 +3880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4870b112</cell>
   </row>
-  <row index="193">
+  <row index="194">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/e54d709f-en</cell>
     <cell name="title">Access to communication services (en)</cell>
@@ -3880,7 +3900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e40f34bc</cell>
   </row>
-  <row index="194">
+  <row index="195">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/89a7542c-en</cell>
     <cell name="title">Digital pathways to growth and competitiveness (en)</cell>
@@ -3900,7 +3920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b78b28db</cell>
   </row>
-  <row index="195">
+  <row index="196">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c5eed747-en</cell>
     <cell name="title">Rejuvenating Korea: Policies for a Changing Society (en)</cell>
@@ -3920,7 +3940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c6f0f61</cell>
   </row>
-  <row index="196">
+  <row index="197">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c5eed747-en</cell>
     <cell name="title">Rejuvenating Korea: Policies for a Changing Society (en)</cell>
@@ -3940,7 +3960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/abaae832</cell>
   </row>
-  <row index="197">
+  <row index="198">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1d62244f-es</cell>
     <cell name="title">Resumen ejecutivo (es)</cell>
@@ -3960,7 +3980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d3fd5d7a</cell>
   </row>
-  <row index="198">
+  <row index="199">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a51707cb-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -3980,7 +4000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fbcbcd0c</cell>
   </row>
-  <row index="199">
+  <row index="200">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/cc13f141-es</cell>
     <cell name="title">Hacia una contratación pública estratégica y la mejora del marco de competencias del personal de contratación pública del ISSSTESON (es)</cell>
@@ -4000,7 +4020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/47772c02</cell>
   </row>
-  <row index="200">
+  <row index="201">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ffc176b0-en</cell>
     <cell name="title">Increasing the Transparency and Performance Evaluation of the ISSSTESON Procurement System (en)</cell>
@@ -4020,7 +4040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eba82f25</cell>
   </row>
-  <row index="201">
+  <row index="202">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/361417d7-en</cell>
     <cell name="title">Managing Risks and Supporting Accountability throughout the Public Procurement Cycle (en)</cell>
@@ -4040,7 +4060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ba8abcde</cell>
   </row>
-  <row index="202">
+  <row index="203">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/36d08c92-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -4060,7 +4080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f1c41e9c</cell>
   </row>
-  <row index="203">
+  <row index="204">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a51707cb-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -4080,7 +4100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7b5ddb28</cell>
   </row>
-  <row index="204">
+  <row index="205">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/b73aa6dd-es</cell>
     <cell name="title">Fortalecer la transparencia y la evaluación del desempeño del sistema de contratación pública del ISSSTESON (es)</cell>
@@ -4100,7 +4120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/56c66550</cell>
   </row>
-  <row index="205">
+  <row index="206">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/2a307ee2-es</cell>
     <cell name="title">Abreviaturas y acrónimos (es)</cell>
@@ -4120,7 +4140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/000e3be7</cell>
   </row>
-  <row index="206">
+  <row index="207">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/555c3059-es</cell>
     <cell name="title">Prólogo (es)</cell>
@@ -4140,7 +4160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5451cc3</cell>
   </row>
-  <row index="207">
+  <row index="208">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/208f6435-es</cell>
     <cell name="title">Hacia una contratación pública sostenible y eficiente en el ISSSTESON (es)</cell>
@@ -4160,7 +4180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2e6da309</cell>
   </row>
-  <row index="208">
+  <row index="209">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a6ee30a8-en</cell>
     <cell name="title">Reforming ISSSTESON’s Public Procurement for Sustainability (en)</cell>
@@ -4180,7 +4200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6c46bff8</cell>
   </row>
-  <row index="209">
+  <row index="210">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/00a6ea67-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -4200,7 +4220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/72375f15</cell>
   </row>
-  <row index="210">
+  <row index="211">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/8b650806-es</cell>
     <cell name="title">Reforma a la Contratación Pública del ISSSTESON para la Sostenibilidad (es)</cell>
@@ -4220,7 +4240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7933df0d</cell>
   </row>
-  <row index="211">
+  <row index="212">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/361417d7-en</cell>
     <cell name="title">Managing Risks and Supporting Accountability throughout the Public Procurement Cycle (en)</cell>
@@ -4240,7 +4260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a45b89fb</cell>
   </row>
-  <row index="212">
+  <row index="213">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6f5e704d-es</cell>
     <cell name="title">La estructura de ingresos del ISSSTESON (es)</cell>
@@ -4260,7 +4280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/97fe74f3</cell>
   </row>
-  <row index="213">
+  <row index="214">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/00a6ea67-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -4280,7 +4300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/741cefa2</cell>
   </row>
-  <row index="214">
+  <row index="215">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/8b650806-es</cell>
     <cell name="title">Reforma a la Contratación Pública del ISSSTESON para la Sostenibilidad (es)</cell>
@@ -4300,7 +4320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/679a0b53</cell>
   </row>
-  <row index="215">
+  <row index="216">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/2a307ee2-es</cell>
     <cell name="title">Abreviaturas y acrónimos (es)</cell>
@@ -4320,7 +4340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4d2c0fad</cell>
   </row>
-  <row index="216">
+  <row index="217">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1d62244f-es</cell>
     <cell name="title">Resumen ejecutivo (es)</cell>
@@ -4340,7 +4360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/581d3129</cell>
   </row>
-  <row index="217">
+  <row index="218">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3aea6e69-en</cell>
     <cell name="title">The Revenue Structure of ISSSTESON (en)</cell>
@@ -4360,7 +4380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ca9973e5</cell>
   </row>
-  <row index="218">
+  <row index="219">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/8b650806-es</cell>
     <cell name="title">Reforma a la Contratación Pública del ISSSTESON para la Sostenibilidad (es)</cell>
@@ -4380,7 +4400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4adf18bc</cell>
   </row>
-  <row index="219">
+  <row index="220">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/cc13f141-es</cell>
     <cell name="title">Hacia una contratación pública estratégica y la mejora del marco de competencias del personal de contratación pública del ISSSTESON (es)</cell>
@@ -4400,7 +4420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/97301465</cell>
   </row>
-  <row index="220">
+  <row index="221">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/555c3059-es</cell>
     <cell name="title">Prólogo (es)</cell>
@@ -4420,7 +4440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f4e1c310</cell>
   </row>
-  <row index="221">
+  <row index="222">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a9f9853d-es</cell>
     <cell name="title">Gestión de riesgos y apoyo a la rendición de cuentas en el ciclo completo de contratación pública (es)</cell>
@@ -4440,7 +4460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1b5ebe03</cell>
   </row>
-  <row index="222">
+  <row index="223">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3aea6e69-en</cell>
     <cell name="title">The Revenue Structure of ISSSTESON (en)</cell>
@@ -4460,7 +4480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c434789a</cell>
   </row>
-  <row index="223">
+  <row index="224">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/36d08c92-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -4480,7 +4500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/20967d60</cell>
   </row>
-  <row index="224">
+  <row index="225">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a9f9853d-es</cell>
     <cell name="title">Gestión de riesgos y apoyo a la rendición de cuentas en el ciclo completo de contratación pública (es)</cell>
@@ -4500,7 +4520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/11821258</cell>
   </row>
-  <row index="225">
+  <row index="226">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/208f6435-es</cell>
     <cell name="title">Hacia una contratación pública sostenible y eficiente en el ISSSTESON (es)</cell>
@@ -4520,7 +4540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6cc86a91</cell>
   </row>
-  <row index="226">
+  <row index="227">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/99114c38-en</cell>
     <cell name="title">Towards Strategic Public Procurement and Enhancing the Competency Framework of ISSSTESON’s Public Procurement Workforce (en)</cell>
@@ -4540,7 +4560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/213f6435</cell>
   </row>
-  <row index="227">
+  <row index="228">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6f5e704d-es</cell>
     <cell name="title">La estructura de ingresos del ISSSTESON (es)</cell>
@@ -4560,7 +4580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63ffde9c</cell>
   </row>
-  <row index="228">
+  <row index="229">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a6ee30a8-en</cell>
     <cell name="title">Reforming ISSSTESON’s Public Procurement for Sustainability (en)</cell>
@@ -4580,7 +4600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4998bfb9</cell>
   </row>
-  <row index="229">
+  <row index="230">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ffc176b0-en</cell>
     <cell name="title">Increasing the Transparency and Performance Evaluation of the ISSSTESON Procurement System (en)</cell>
@@ -4600,7 +4620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/910f08f7</cell>
   </row>
-  <row index="230">
+  <row index="231">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a6ee30a8-en</cell>
     <cell name="title">Reforming ISSSTESON’s Public Procurement for Sustainability (en)</cell>
@@ -4620,7 +4640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f93cb91a</cell>
   </row>
-  <row index="231">
+  <row index="232">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/553e1f20-en</cell>
     <cell name="title">Towards Sustainable and Efficient Public Procurement in ISSSTESON (en)</cell>
@@ -4640,7 +4660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c4eb819b</cell>
   </row>
-  <row index="232">
+  <row index="233">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/553e1f20-en</cell>
     <cell name="title">Towards Sustainable and Efficient Public Procurement in ISSSTESON (en)</cell>
@@ -4660,7 +4680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c3747378</cell>
   </row>
-  <row index="233">
+  <row index="234">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/99114c38-en</cell>
     <cell name="title">Towards Strategic Public Procurement and Enhancing the Competency Framework of ISSSTESON’s Public Procurement Workforce (en)</cell>
@@ -4680,7 +4700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b12684b6</cell>
   </row>
-  <row index="234">
+  <row index="235">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/b73aa6dd-es</cell>
     <cell name="title">Fortalecer la transparencia y la evaluación del desempeño del sistema de contratación pública del ISSSTESON (es)</cell>
@@ -4700,7 +4720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8a260a74</cell>
   </row>
-  <row index="235">
+  <row index="236">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7f57533b-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Andorra 2019 (Second Round) (en)</cell>
@@ -4720,7 +4740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7b68bf29</cell>
   </row>
-  <row index="236">
+  <row index="237">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7f68d3cf-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Dominican Republic 2019 (Second Round) (en)</cell>
@@ -4740,7 +4760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/54d2e8b2</cell>
   </row>
-  <row index="237">
+  <row index="238">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7f68d3cf-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Dominican Republic 2019 (Second Round) (en)</cell>
@@ -4760,7 +4780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b3a49bfc</cell>
   </row>
-  <row index="238">
+  <row index="239">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/89b5f984-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Marshall Islands 2019 (Second Round) (en)</cell>
@@ -4780,7 +4800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/46ed243f</cell>
   </row>
-  <row index="239">
+  <row index="240">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/186f45ba-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Saudi Arabia 2019 (Second Round) (en)</cell>
@@ -4800,7 +4820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/52b74637</cell>
   </row>
-  <row index="240">
+  <row index="241">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d8954bf5-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Samoa 2019 (Second Round) (en)</cell>
@@ -4820,7 +4840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e251572c</cell>
   </row>
-  <row index="241">
+  <row index="242">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5f2584a0-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Panama 2019 (Second Round) (en)</cell>
@@ -4840,7 +4860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5a2a8726</cell>
   </row>
-  <row index="242">
+  <row index="243">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/186f45ba-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Saudi Arabia 2019 (Second Round) (en)</cell>
@@ -4860,7 +4880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a54f2c1b</cell>
   </row>
-  <row index="243">
+  <row index="244">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/89b5f984-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Marshall Islands 2019 (Second Round) (en)</cell>
@@ -4880,7 +4900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62ebd39f</cell>
   </row>
-  <row index="244">
+  <row index="245">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5f2584a0-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Panama 2019 (Second Round) (en)</cell>
@@ -4900,7 +4920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5ea41c3e</cell>
   </row>
-  <row index="245">
+  <row index="246">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/78bb1919-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: United Arab Emirates 2019 (Second Round) (en)</cell>
@@ -4920,7 +4940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/81972c01</cell>
   </row>
-  <row index="246">
+  <row index="247">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/78bb1919-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: United Arab Emirates 2019 (Second Round) (en)</cell>
@@ -4940,7 +4960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dbd0ffd2</cell>
   </row>
-  <row index="247">
+  <row index="248">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d8954bf5-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Samoa 2019 (Second Round) (en)</cell>
@@ -4960,7 +4980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/338f7767</cell>
   </row>
-  <row index="248">
+  <row index="249">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7f57533b-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Andorra 2019 (Second Round) (en)</cell>

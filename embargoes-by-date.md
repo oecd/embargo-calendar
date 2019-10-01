@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 30 September 2019 at 21:43* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 1 October 2019 at 21:38* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [30 September 2019](#30-september-2019)
 * [1 October 2019](#1-october-2019)
 * [3 October 2019](#3-october-2019)
+* [4 October 2019](#4-october-2019)
 * [7 October 2019](#7-october-2019)
 * [24 October 2019](#24-october-2019)
 * [25 October 2019](#25-october-2019)
@@ -106,7 +107,7 @@ Thursday 3 October 2019 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 26 September 2019 at 21:31
 - [x] Exported to Keepeek Thursday 26 September 2019 at 21:07
-- [x] Exported to OECD.org Monday 30 September 2019 at 20:21
+- [x] Exported to OECD.org Tuesday 1 October 2019 at 20:21
 
 ### Additional Information
 
@@ -129,7 +130,7 @@ Thursday 3 October 2019 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 26 September 2019 at 21:31
 - [x] Exported to Keepeek Thursday 26 September 2019 at 21:07
-- [x] Exported to OECD.org Monday 30 September 2019 at 20:21
+- [x] Exported to OECD.org Tuesday 1 October 2019 at 20:21
 
 ### Additional Information
 
@@ -138,6 +139,33 @@ Thursday 3 October 2019 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 4 October 2019
+
+## [Energy Policies of IEA Countries: Estonia 2019](https://doi.org/10.1787/2b39ebd1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 4 October 2019 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 1 October 2019 at 21:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 1 October 2019 at 20:21
+
+### Additional Information
+
+* Directorate: *International Energy Agency*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -177,7 +205,7 @@ Monday 7 October 2019 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 25 September 2019 at 21:44
+- [x] Exported to iLibrary Tuesday 1 October 2019 at 21:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 25 September 2019 at 20:24
 
