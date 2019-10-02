@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 1 October 2019 at 21:38* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Improving work-based learning in schools](https://doi.org/10.1787/918caba5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 30 September 2019 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 25 September 2019 at 21:44
-- [x] Exported to Keepeek Friday 27 September 2019 at 21:07
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Wednesday 2 October 2019 at 21:48* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Estudio multidimensional de Paraguay - Volumen 3. Del Análisis a la Acción](https://doi.org/10.1787/24095010-es)
 
@@ -38,7 +15,7 @@ Tuesday 1 October 2019 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 26 September 2019 at 21:31
 - [x] Exported to Keepeek Friday 27 September 2019 at 21:07
-- [x] Exported to OECD.org Sunday 29 September 2019 at 13:43
+- [x] Exported to OECD.org Wednesday 2 October 2019 at 20:22
 
 ### Additional Information
 
@@ -61,7 +38,7 @@ Tuesday 1 October 2019 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 26 September 2019 at 21:31
 - [x] Exported to Keepeek Thursday 26 September 2019 at 21:07
-- [x] Exported to OECD.org Sunday 29 September 2019 at 13:43
+- [x] Exported to OECD.org Wednesday 2 October 2019 at 20:22
 
 ### Additional Information
 
@@ -130,7 +107,7 @@ Friday 4 October 2019 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 1 October 2019 at 21:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 October 2019 at 20:21
+- [x] Exported to OECD.org Wednesday 2 October 2019 at 20:22
 
 ### Additional Information
 
@@ -173,8 +150,8 @@ Monday 7 October 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 1 October 2019 at 21:19
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 2 October 2019 at 21:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 25 September 2019 at 20:24
 
@@ -185,6 +162,29 @@ Monday 7 October 2019 at 12:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Format: *PDF*
+
+------
+
+## [The Heavy Burden of Obesity - The Economics of Prevention](https://doi.org/10.1787/67450d67-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 10 October 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 2 October 2019 at 21:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 2 October 2019 at 20:22
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -482,6 +482,75 @@ Monday 4 November 2019 at 13:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [PISA 2018 Results (Volume II) - Where All Students Can Succeed](https://doi.org/10.1787/b5fd1b8f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 3 December 2019 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [PISA 2018 Results (Volume I) - What Students Know and Can Do](https://doi.org/10.1787/5f07c754-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 3 December 2019 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [PISA 2018 Results (Volume III) - What School Life Means for Students’ Lives](https://doi.org/10.1787/acd78851-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 3 December 2019 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
