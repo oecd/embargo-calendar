@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 2 October 2019 at 21:48* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Estudio multidimensional de Paraguay - Volumen 3. Del Análisis a la Acción](https://doi.org/10.1787/24095010-es)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 October 2019 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 26 September 2019 at 21:31
-- [x] Exported to Keepeek Friday 27 September 2019 at 21:07
-- [x] Exported to OECD.org Wednesday 2 October 2019 at 20:22
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Multi-dimensional Review of Paraguay - Volume 3. From Analysis to Action](https://doi.org/10.1787/5e722f8e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 October 2019 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 26 September 2019 at 21:31
-- [x] Exported to Keepeek Thursday 26 September 2019 at 21:07
-- [x] Exported to OECD.org Wednesday 2 October 2019 at 20:22
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
+| *Thursday 3 October 2019 at 21:50* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Innovation, Productivity and Sustainability in Food and Agriculture - Main Findings from Country Reviews and Policy Lessons](https://doi.org/10.1787/c9c4ec1d-en)
 
@@ -119,52 +73,6 @@ Friday 4 October 2019 at 7:00 | no launch event
 
 ------
 
-## [Études économiques de l'OCDE : Afrique du Sud 2019  (version abrégée)](https://doi.org/10.1787/9230b350-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 October 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 25 September 2019 at 21:44
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 25 September 2019 at 20:24
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: South Africa 2019](https://doi.org/10.1787/530e7ce0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 October 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 2 October 2019 at 21:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 25 September 2019 at 20:24
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
 ## [The Heavy Burden of Obesity - The Economics of Prevention](https://doi.org/10.1787/67450d67-en)
 
 Embargo date | Launch date
@@ -174,15 +82,15 @@ Thursday 10 October 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 2 October 2019 at 21:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 2 October 2019 at 20:22
+- [x] Exported to iLibrary Thursday 3 October 2019 at 21:21
+- [x] Exported to Keepeek Thursday 3 October 2019 at 21:05
+- [x] Exported to OECD.org Thursday 3 October 2019 at 20:21
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
