@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 3 October 2019 at 21:50* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 4 October 2019 at 21:44* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [3 October 2019](#3-october-2019)
 * [4 October 2019](#4-october-2019)
 * [10 October 2019](#10-october-2019)
+* [15 October 2019](#15-october-2019)
 * [24 October 2019](#24-october-2019)
 * [25 October 2019](#25-october-2019)
 * [28 October 2019](#28-october-2019)
@@ -29,7 +30,7 @@ Thursday 3 October 2019 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 26 September 2019 at 21:31
 - [x] Exported to Keepeek Thursday 26 September 2019 at 21:07
-- [x] Exported to OECD.org Tuesday 1 October 2019 at 20:21
+- [x] Exported to OECD.org Friday 4 October 2019 at 20:23
 
 ### Additional Information
 
@@ -52,7 +53,7 @@ Thursday 3 October 2019 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 26 September 2019 at 21:31
 - [x] Exported to Keepeek Thursday 26 September 2019 at 21:07
-- [x] Exported to OECD.org Tuesday 1 October 2019 at 20:21
+- [x] Exported to OECD.org Friday 4 October 2019 at 20:23
 
 ### Additional Information
 
@@ -105,7 +106,7 @@ Thursday 10 October 2019 at 9:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 3 October 2019 at 21:21
-- [x] Exported to Keepeek Thursday 3 October 2019 at 21:05
+- [x] Exported to Keepeek Friday 4 October 2019 at 21:07
 - [x] Exported to OECD.org Thursday 3 October 2019 at 20:21
 
 ### Additional Information
@@ -115,6 +116,56 @@ Thursday 10 October 2019 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 15 October 2019
+
+## [OECD Mining Regions and Cities Case Study - Outokumpu and North Karelia, Finland](https://doi.org/10.1787/cd72611b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 October 2019 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 4 October 2019 at 21:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 4 October 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [Taxing Energy Use 2019 - Using Taxes for Climate Action](https://doi.org/10.1787/058ca239-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 October 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 4 October 2019 at 21:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 4 October 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -154,7 +205,7 @@ Thursday 24 October 2019 at 8:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 23 September 2019 at 21:33
+- [x] Exported to iLibrary Friday 4 October 2019 at 21:23
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 24 September 2019 at 20:22
 
@@ -165,6 +216,190 @@ Thursday 24 October 2019 at 8:30 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, India (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/c66636e8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 October 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 4 October 2019 at 21:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 4 October 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Latvia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/b0de32d9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 October 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 4 October 2019 at 21:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 4 October 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Chile (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/43add6b6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 October 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 4 October 2019 at 21:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 4 October 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, South Africa (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/3f820b8e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 October 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 4 October 2019 at 21:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 4 October 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Croatia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9dc5933f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 October 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 4 October 2019 at 21:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 4 October 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Lithuania (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/b9018c2d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 October 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 4 October 2019 at 21:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 4 October 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Argentina (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/4fed4933-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 October 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 4 October 2019 at 21:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 4 October 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Colombia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/7182ca92-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 October 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 4 October 2019 at 21:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 4 October 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
