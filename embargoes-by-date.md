@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 4 October 2019 at 21:44* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 7 October 2019 at 21:52* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [3 October 2019](#3-october-2019)
-* [4 October 2019](#4-october-2019)
 * [10 October 2019](#10-october-2019)
 * [15 October 2019](#15-october-2019)
 * [24 October 2019](#24-october-2019)
@@ -14,83 +12,6 @@ Data generated on | |
 * [29 October 2019](#29-october-2019)
 * [4 November 2019](#4-november-2019)
 * [3 December 2019](#3-december-2019)
-
-------
-
-# 3 October 2019
-
-## [Innovation, Productivity and Sustainability in Food and Agriculture - Main Findings from Country Reviews and Policy Lessons](https://doi.org/10.1787/c9c4ec1d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 3 October 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 26 September 2019 at 21:31
-- [x] Exported to Keepeek Thursday 26 September 2019 at 21:07
-- [x] Exported to OECD.org Friday 4 October 2019 at 20:23
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Innovation, productivité et durabilité dans le secteur agricole et alimentaire - Principales conclusions des examens par pays et leçons pour l’action publique](https://doi.org/10.1787/830128c5-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 3 October 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 26 September 2019 at 21:31
-- [x] Exported to Keepeek Thursday 26 September 2019 at 21:07
-- [x] Exported to OECD.org Friday 4 October 2019 at 20:23
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-------
-
-# 4 October 2019
-
-## [Energy Policies of IEA Countries: Estonia 2019](https://doi.org/10.1787/2b39ebd1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 4 October 2019 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 1 October 2019 at 21:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 2 October 2019 at 20:22
-
-### Additional Information
-
-* Directorate: *International Energy Agency*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -107,7 +28,7 @@ Thursday 10 October 2019 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 3 October 2019 at 21:21
 - [x] Exported to Keepeek Friday 4 October 2019 at 21:07
-- [x] Exported to OECD.org Thursday 3 October 2019 at 20:21
+- [x] Exported to OECD.org Monday 7 October 2019 at 20:19
 
 ### Additional Information
 
