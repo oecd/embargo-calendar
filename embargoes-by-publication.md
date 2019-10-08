@@ -2,7 +2,30 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 7 October 2019 at 21:52* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 8 October 2019 at 21:49* | [See embargoes by date](embargoes-by-date.md) |
+
+## [Policies for stronger productivity growth in Latvia](https://doi.org/10.1787/fe4ffc2b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 10 October 2019 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 8 October 2019 at 21:26
+- [x] Exported to Keepeek Tuesday 8 October 2019 at 21:10
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
 
 ## [The Heavy Burden of Obesity - The Economics of Prevention](https://doi.org/10.1787/67450d67-en)
 
@@ -15,7 +38,7 @@ Thursday 10 October 2019 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 3 October 2019 at 21:21
 - [x] Exported to Keepeek Friday 4 October 2019 at 21:07
-- [x] Exported to OECD.org Monday 7 October 2019 at 20:19
+- [x] Exported to OECD.org Tuesday 8 October 2019 at 20:23
 
 ### Additional Information
 
@@ -35,8 +58,8 @@ Tuesday 15 October 2019 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 4 October 2019 at 21:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 8 October 2019 at 21:26
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 4 October 2019 at 20:23
 
