@@ -12,23 +12,23 @@ DESCRIPTION:*Policies for stronger productivity grow
  tion type: Working paper\nReleased as: P
  DF\n\nEmbargo date/time: Thursday, 10 Oc
  tober 2019, 0:00 (GMT)\n\n\niLibrary exp
- ort: Tuesday, 8 October 2019, 19:26 (GMT
- )\nFreepreview export: Tuesday, 8 Octobe
- r 2019, 19:10 (GMT)\nOECD.org export: ne
- ver\nFTI loaded: ✓\n\nFor more informati
- on see: https://oecd.github.io/embargo-c
- alendar/embargoes-by-publication.html.\n
- \nPlease note: This information was corr
- ect as of this afternoon at 21:49, it is
-  updated each night; therefore any subse
- quent updates may not yet be visible her
- e. Also, please be aware that the differ
- ent released media (PDF, HTML, etc.) are
-  not necessarily released at the same ti
- me. For complete and up-to-date informat
- ion see here: http://kappa.oecd.org/v3/s
- earch?term=fe4ffc2b-en.
-DTSTAMP:20191008T214956Z
+ ort: Wednesday, 9 October 2019, 19:39 (G
+ MT)\nFreepreview export: Tuesday, 8 Octo
+ ber 2019, 19:10 (GMT)\nOECD.org export: 
+ never\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 22:06, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=fe4ffc2b-en.
+DTSTAMP:20191009T220617Z
 DTSTART:20191010T000000Z
 DTEND:20191010T001500Z
 TRANSP:TRANSPARENT
@@ -42,7 +42,7 @@ DESCRIPTION:Reminder: Policies for stronger producti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/67450d67-end3e171
+UID:10.1787/67450d67-end3e504
 SUMMARY:The Heavy Burden of Obesity - The Econom
  ics of Prevention
 DESCRIPTION:*The Heavy Burden of Obesity - The Econo
@@ -55,22 +55,22 @@ DESCRIPTION:*The Heavy Burden of Obesity - The Econo
  ctober 2019, 9:00 (GMT)\n\n\niLibrary ex
  port: Thursday, 3 October 2019, 19:21 (G
  MT)\nFreepreview export: Friday, 4 Octob
- er 2019, 19:07 (GMT)\nOECD.org export: T
- uesday, 8 October 2019, 18:23 (GMT)\nFTI
-  loaded: ✓\n\nFor more information see: 
- https://oecd.github.io/embargo-calendar/
- embargoes-by-publication.html.\n\nPlease
-  note: This information was correct as o
- f this afternoon at 21:49, it is updated
-  each night; therefore any subsequent up
- dates may not yet be visible here. Also,
-  please be aware that the different rele
- ased media (PDF, HTML, etc.) are not nec
- essarily released at the same time. For 
- complete and up-to-date information see 
- here: http://kappa.oecd.org/v3/search?te
- rm=67450d67-en.
-DTSTAMP:20191008T214956Z
+ er 2019, 19:07 (GMT)\nOECD.org export: W
+ ednesday, 9 October 2019, 18:24 (GMT)\nF
+ TI loaded: ✓\n\nFor more information see
+ : https://oecd.github.io/embargo-calenda
+ r/embargoes-by-publication.html.\n\nPlea
+ se note: This information was correct as
+  of this afternoon at 22:06, it is updat
+ ed each night; therefore any subsequent 
+ updates may not yet be visible here. Als
+ o, please be aware that the different re
+ leased media (PDF, HTML, etc.) are not n
+ ecessarily released at the same time. Fo
+ r complete and up-to-date information se
+ e here: http://kappa.oecd.org/v3/search?
+ term=67450d67-en.
+DTSTAMP:20191009T220617Z
 DTSTART:20191010T090000Z
 DTEND:20191010T091500Z
 TRANSP:TRANSPARENT
@@ -84,7 +84,48 @@ DESCRIPTION:Reminder: The Heavy Burden of Obesity -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cd72611b-end3e506
+UID:10.1787/f563de08-end3e561
+SUMMARY:Multilingual Summaries for The Heavy Bur
+ den of Obesity
+DESCRIPTION:*Multilingual Summaries for The Heavy Bu
+ rden of Obesity*\n\nDirectorate: Directo
+ rate for Employment, Labour and Social A
+ ffairs\n5 Languages: Italian, German, En
+ glish, Japanese, Spanish\nPublication ty
+ pe: Summary\nReleased as: ePub, HTML, PD
+ F\n\nEmbargo date/time: Thursday, 10 Oct
+ ober 2019, 9:00 (GMT)\n\niLibrary export
+ : Wednesday, 9 October 2019, 19:39 (GMT)
+ \nFreepreview export: Wednesday, 9 Octob
+ er 2019, 19:10 (GMT)\nOECD.org export: n
+ ever\nFTI loaded: ✓\n\nFor more informat
+ ion see: https://oecd.github.io/embargo-
+ calendar/embargoes-by-publication.html.\
+ n\nPlease note: This information was cor
+ rect as of this afternoon at 22:06, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=f563de08-en.
+DTSTAMP:20191009T220617Z
+DTSTART:20191010T090000Z
+DTEND:20191010T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Multilingual Summaries for The
+  Heavy Burden of Obesity
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/cd72611b-end3e1339
 SUMMARY:OECD Mining Regions and Cities Case Stud
  y - Outokumpu and North Karelia, Finland
 DESCRIPTION:*OECD Mining Regions and Cities Case Stu
@@ -103,7 +144,7 @@ DESCRIPTION:*OECD Mining Regions and Cities Case Stu
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 21:49, it is updated each nig
+ ternoon at 22:06, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -112,7 +153,7 @@ DESCRIPTION:*OECD Mining Regions and Cities Case Stu
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=cd7261
  1b-en.
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191015T080000Z
 DTEND:20191015T081500Z
 TRANSP:TRANSPARENT
@@ -127,7 +168,7 @@ DESCRIPTION:Reminder: OECD Mining Regions and Cities
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/058ca239-end3e783
+UID:10.1787/058ca239-end3e1616
 SUMMARY:Taxing Energy Use 2019 - Using Taxes for
   Climate Action
 DESCRIPTION:*Taxing Energy Use 2019 - Using Taxes fo
@@ -145,7 +186,7 @@ DESCRIPTION:*Taxing Energy Use 2019 - Using Taxes fo
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 21:49, it is updated each night; therefo
+ 22:06, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -153,7 +194,7 @@ DESCRIPTION:*Taxing Energy Use 2019 - Using Taxes fo
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=058ca239-en.
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191015T090000Z
 DTEND:20191015T091500Z
 TRANSP:TRANSPARENT
@@ -167,7 +208,7 @@ DESCRIPTION:Reminder: Taxing Energy Use 2019 - Using
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/805f2a79-esd3e838
+UID:10.1787/805f2a79-esd3e1671
 SUMMARY:Estudios Económicos de la OCDE: Colombia
   2019
 DESCRIPTION:*Estudios Económicos de la OCDE: Colombi
@@ -184,7 +225,7 @@ DESCRIPTION:*Estudios Económicos de la OCDE: Colombi
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 21:49, it is
+ ect as of this afternoon at 22:06, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -193,7 +234,7 @@ DESCRIPTION:*Estudios Económicos de la OCDE: Colombi
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=805f2a79-es.
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191024T083000Z
 DTEND:20191024T084500Z
 TRANSP:TRANSPARENT
@@ -207,7 +248,7 @@ DESCRIPTION:Reminder: Estudios Económicos de la OCDE
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e4c64889-end3e892
+UID:10.1787/e4c64889-end3e1725
 SUMMARY:OECD Economic Surveys: Colombia 2019
 DESCRIPTION:*OECD Economic Surveys: Colombia 2019*\n
  \nDirectorate: Economics Department\nLan
@@ -223,7 +264,7 @@ DESCRIPTION:*OECD Economic Surveys: Colombia 2019*\n
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 21:49, it is updated ea
+ his afternoon at 22:06, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -232,7 +273,7 @@ DESCRIPTION:*OECD Economic Surveys: Colombia 2019*\n
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  e4c64889-en.
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191024T083000Z
 DTEND:20191024T084500Z
 TRANSP:TRANSPARENT
@@ -246,7 +287,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Colombi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c66636e8-end3e947
+UID:10.1787/c66636e8-end3e1779
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, India (Stage 
  1) - Inclusive Framework on BEPS: Action
@@ -268,7 +309,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 21:49, it is updated each night; therefo
+ 22:06, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -276,7 +317,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=c66636e8-en.
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191024T090000Z
 DTEND:20191024T091500Z
 TRANSP:TRANSPARENT
@@ -292,7 +333,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b0de32d9-end3e1002
+UID:10.1787/b0de32d9-end3e1834
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Latvia (Stage
   1) - Inclusive Framework on BEPS: Actio
@@ -314,7 +355,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  21:49, it is updated each night; theref
+  22:06, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -322,7 +363,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=b0de32d9-en.
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191024T090000Z
 DTEND:20191024T091500Z
 TRANSP:TRANSPARENT
@@ -338,7 +379,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/43add6b6-end3e1057
+UID:10.1787/43add6b6-end3e1889
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Chile (Stage 
  1) - Inclusive Framework on BEPS: Action
@@ -360,7 +401,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 21:49, it is updated each night; therefo
+ 22:06, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -368,7 +409,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=43add6b6-en.
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191024T090000Z
 DTEND:20191024T091500Z
 TRANSP:TRANSPARENT
@@ -384,7 +425,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3f820b8e-end3e1112
+UID:10.1787/3f820b8e-end3e1945
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, South Africa 
  (Stage 1) - Inclusive Framework on BEPS:
@@ -406,7 +447,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 21:49, it is updated each night; 
+ oon at 22:06, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -415,7 +456,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=3f820b8e-e
  n.
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191024T090000Z
 DTEND:20191024T091500Z
 TRANSP:TRANSPARENT
@@ -431,7 +472,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9dc5933f-end3e1167
+UID:10.1787/9dc5933f-end3e2000
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Croatia (Stag
  e 1) - Inclusive Framework on BEPS: Acti
@@ -453,7 +494,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 21:49, it is updated each night; there
+ t 22:06, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -461,7 +502,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=9dc5933f-en.
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191024T090000Z
 DTEND:20191024T091500Z
 TRANSP:TRANSPARENT
@@ -477,7 +518,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b9018c2d-end3e1382
+UID:10.1787/b9018c2d-end3e2214
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Lithuania (St
  age 1) - Inclusive Framework on BEPS: Ac
@@ -499,7 +540,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 21:49, it is updated each night; the
+  at 22:06, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -507,7 +548,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=b9018c2d-en.
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191024T090000Z
 DTEND:20191024T091500Z
 TRANSP:TRANSPARENT
@@ -523,7 +564,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4fed4933-end3e1650
+UID:10.1787/4fed4933-end3e2482
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Argentina (St
  age 1) - Inclusive Framework on BEPS: Ac
@@ -545,7 +586,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 21:49, it is updated each night; the
+  at 22:06, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -553,7 +594,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=4fed4933-en.
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191024T090000Z
 DTEND:20191024T091500Z
 TRANSP:TRANSPARENT
@@ -569,7 +610,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7182ca92-end3e1758
+UID:10.1787/7182ca92-end3e2591
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Colombia (Sta
  ge 1) - Inclusive Framework on BEPS: Act
@@ -591,7 +632,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ub.io/embargo-calendar/embargoes-by-publ
  ication.html.\n\nPlease note: This infor
  mation was correct as of this afternoon 
- at 21:49, it is updated each night; ther
+ at 22:06, it is updated each night; ther
  efore any subsequent updates may not yet
   be visible here. Also, please be aware 
  that the different released media (PDF, 
@@ -599,7 +640,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=7182ca92-en.
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191024T090000Z
 DTEND:20191024T091500Z
 TRANSP:TRANSPARENT
@@ -615,7 +656,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/781185b1-end3e1924
+UID:10.1787/781185b1-end3e2756
 SUMMARY:OECD Reviews of Digital Transformation: 
  Going Digital in Colombia
 DESCRIPTION:*OECD Reviews of Digital Transformation:
@@ -635,7 +676,7 @@ DESCRIPTION:*OECD Reviews of Digital Transformation:
  ://oecd.github.io/embargo-calendar/embar
  goes-by-publication.html.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 21:49, it is updated each
+ s afternoon at 22:06, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -644,7 +685,7 @@ DESCRIPTION:*OECD Reviews of Digital Transformation:
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=78
  1185b1-en.
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191025T140000Z
 DTEND:20191025T141500Z
 TRANSP:TRANSPARENT
@@ -658,7 +699,7 @@ DESCRIPTION:Reminder: OECD Reviews of Digital Transf
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c5eed747-end3e2964
+UID:10.1787/c5eed747-end3e3796
 SUMMARY:Rejuvenating Korea: Policies for a Chang
  ing Society
 DESCRIPTION:*Rejuvenating Korea: Policies for a Chan
@@ -677,7 +718,7 @@ DESCRIPTION:*Rejuvenating Korea: Policies for a Chan
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 21:49, it is updated each night; t
+ on at 22:06, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -686,7 +727,7 @@ DESCRIPTION:*Rejuvenating Korea: Policies for a Chan
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=c5eed747-en
  .
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191028T020000Z
 DTEND:20191028T021500Z
 TRANSP:TRANSPARENT
@@ -700,7 +741,7 @@ DESCRIPTION:Reminder: Rejuvenating Korea: Policies f
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a6ee30a8-end3e3671
+UID:10.1787/a6ee30a8-end3e4503
 SUMMARY:Reforming ISSSTESON’s Public Procurement
   for Sustainability
 DESCRIPTION:*Reforming ISSSTESON’s Public Procuremen
@@ -719,7 +760,7 @@ DESCRIPTION:*Reforming ISSSTESON’s Public Procuremen
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 21:49, it is updated each night;
+ noon at 22:06, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -728,7 +769,7 @@ DESCRIPTION:*Reforming ISSSTESON’s Public Procuremen
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=a6ee30a8-
  en.
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191029T230000Z
 DTEND:20191029T231500Z
 TRANSP:TRANSPARENT
@@ -742,7 +783,7 @@ DESCRIPTION:Reminder: Reforming ISSSTESON’s Public P
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8b650806-esd3e4225
+UID:10.1787/8b650806-esd3e5057
 SUMMARY:Reforma a la Contratación Pública del IS
  SSTESON para la Sostenibilidad
 DESCRIPTION:*Reforma a la Contratación Pública del I
@@ -761,7 +802,7 @@ DESCRIPTION:*Reforma a la Contratación Pública del I
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 21:49, it is updated 
+  this afternoon at 22:06, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -770,7 +811,7 @@ DESCRIPTION:*Reforma a la Contratación Pública del I
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=8b650806-es.
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191029T230000Z
 DTEND:20191029T231500Z
 TRANSP:TRANSPARENT
@@ -784,7 +825,7 @@ DESCRIPTION:Reminder: Reforma a la Contratación Públ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7f68d3cf-end3e5212
+UID:10.1787/7f68d3cf-end3e6044
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Domin
  ican Republic 2019 (Second Round) - Peer
@@ -808,7 +849,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 21:49, it is updated e
+ this afternoon at 22:06, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -817,7 +858,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =7f68d3cf-en.
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191104T130000Z
 DTEND:20191104T131500Z
 TRANSP:TRANSPARENT
@@ -834,7 +875,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/89b5f984-end3e5320
+UID:10.1787/89b5f984-end3e6152
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Marsh
  all Islands 2019 (Second Round) - Peer R
@@ -858,7 +899,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 21:49, it is updated eac
+ is afternoon at 22:06, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -867,7 +908,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=8
  9b5f984-en.
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191104T130000Z
 DTEND:20191104T131500Z
 TRANSP:TRANSPARENT
@@ -884,7 +925,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d8954bf5-end3e5428
+UID:10.1787/d8954bf5-end3e6261
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Samoa
   2019 (Second Round) - Peer Review Repor
@@ -908,7 +949,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 21:49, it is updated each night; th
+ n at 22:06, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -916,7 +957,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=d8954bf5-en.
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191104T130000Z
 DTEND:20191104T131500Z
 TRANSP:TRANSPARENT
@@ -933,7 +974,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5f2584a0-end3e5483
+UID:10.1787/5f2584a0-end3e6316
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Panam
  a 2019 (Second Round) - Peer Review Repo
@@ -957,7 +998,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 21:49, it is updated each night; t
+ on at 22:06, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -966,7 +1007,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=5f2584a0-en
  .
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191104T130000Z
 DTEND:20191104T131500Z
 TRANSP:TRANSPARENT
@@ -983,7 +1024,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/186f45ba-end3e5539
+UID:10.1787/186f45ba-end3e6371
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Saudi
   Arabia 2019 (Second Round) - Peer Revie
@@ -1007,7 +1048,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  oecd.github.io/embargo-calendar/embargoe
  s-by-publication.html.\n\nPlease note: T
  his information was correct as of this a
- fternoon at 21:49, it is updated each ni
+ fternoon at 22:06, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -1016,7 +1057,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=186f4
  5ba-en.
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191104T130000Z
 DTEND:20191104T131500Z
 TRANSP:TRANSPARENT
@@ -1033,7 +1074,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/78bb1919-end3e5753
+UID:10.1787/78bb1919-end3e6586
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Unite
  d Arab Emirates 2019 (Second Round) - Pe
@@ -1057,7 +1098,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 21:49, it is updated
+ f this afternoon at 22:06, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -1066,7 +1107,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=78bb1919-en.
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191104T130000Z
 DTEND:20191104T131500Z
 TRANSP:TRANSPARENT
@@ -1083,7 +1124,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7f57533b-end3e5862
+UID:10.1787/7f57533b-end3e6694
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Andor
  ra 2019 (Second Round) - Peer Review Rep
@@ -1107,7 +1148,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 21:49, it is updated each night; 
+ oon at 22:06, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -1116,7 +1157,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=7f57533b-e
  n.
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191104T130000Z
 DTEND:20191104T131500Z
 TRANSP:TRANSPARENT
@@ -1133,7 +1174,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b5fd1b8f-end3e5917
+UID:10.1787/b5fd1b8f-end3e6749
 SUMMARY:PISA 2018 Results (Volume II) - Where Al
  l Students Can Succeed
 DESCRIPTION:*PISA 2018 Results (Volume II) - Where A
@@ -1149,7 +1190,7 @@ DESCRIPTION:*PISA 2018 Results (Volume II) - Where A
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 21:49,
+ s correct as of this afternoon at 22:06,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -1158,7 +1199,7 @@ DESCRIPTION:*PISA 2018 Results (Volume II) - Where A
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=b5fd1b8f-en.
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191203T080000Z
 DTEND:20191203T081500Z
 TRANSP:TRANSPARENT
@@ -1172,7 +1213,7 @@ DESCRIPTION:Reminder: PISA 2018 Results (Volume II)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5f07c754-end3e5969
+UID:10.1787/5f07c754-end3e6801
 SUMMARY:PISA 2018 Results (Volume I) - What Stud
  ents Know and Can Do
 DESCRIPTION:*PISA 2018 Results (Volume I) - What Stu
@@ -1188,7 +1229,7 @@ DESCRIPTION:*PISA 2018 Results (Volume I) - What Stu
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 21:49, it is update
+ of this afternoon at 22:06, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -1197,7 +1238,7 @@ DESCRIPTION:*PISA 2018 Results (Volume I) - What Stu
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=5f07c754-en.
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191203T080000Z
 DTEND:20191203T081500Z
 TRANSP:TRANSPARENT
@@ -1211,7 +1252,7 @@ DESCRIPTION:Reminder: PISA 2018 Results (Volume I) -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/acd78851-end3e6021
+UID:10.1787/acd78851-end3e6854
 SUMMARY:PISA 2018 Results (Volume III) - What Sc
  hool Life Means for Students’ Lives
 DESCRIPTION:*PISA 2018 Results (Volume III) - What S
@@ -1228,7 +1269,7 @@ DESCRIPTION:*PISA 2018 Results (Volume III) - What S
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 21:49, it is updated each night; 
+ oon at 22:06, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -1237,7 +1278,7 @@ DESCRIPTION:*PISA 2018 Results (Volume III) - What S
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=acd78851-e
  n.
-DTSTAMP:20191008T214956Z
+DTSTAMP:20191009T220617Z
 DTSTART:20191203T080000Z
 DTEND:20191203T081500Z
 TRANSP:TRANSPARENT
