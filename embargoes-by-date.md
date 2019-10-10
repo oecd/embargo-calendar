@@ -2,9 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 9 October 2019 at 22:06* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 10 October 2019 at 22:36* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [10 October 2019](#10-october-2019)
+* [14 October 2019](#14-october-2019)
 * [15 October 2019](#15-october-2019)
 * [24 October 2019](#24-october-2019)
 * [25 October 2019](#25-october-2019)
@@ -83,6 +84,33 @@ Thursday 10 October 2019 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Summary*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+------
+
+# 14 October 2019
+
+## [The State of Food and Agriculture 2019 - Moving Forward on Food Loss and Waste Reduction](https://doi.org/10.18356/32f21f8c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 October 2019 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 10 October 2019 at 22:00
+- [x] Exported to Keepeek Thursday 10 October 2019 at 21:10
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Non applicable*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
