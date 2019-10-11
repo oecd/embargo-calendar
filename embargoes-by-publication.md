@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 10 October 2019 at 22:36* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 11 October 2019 at 22:07* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Policies for stronger productivity growth in Latvia](https://doi.org/10.1787/fe4ffc2b-en)
 
@@ -38,7 +38,7 @@ Thursday 10 October 2019 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 3 October 2019 at 21:21
 - [x] Exported to Keepeek Friday 4 October 2019 at 21:07
-- [x] Exported to OECD.org Wednesday 9 October 2019 at 20:24
+- [x] Exported to OECD.org Friday 11 October 2019 at 20:25
 
 ### Additional Information
 
@@ -59,7 +59,7 @@ Thursday 10 October 2019 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 9 October 2019 at 21:39
+- [x] Exported to iLibrary Friday 11 October 2019 at 21:29
 - [x] Exported to Keepeek Wednesday 9 October 2019 at 21:10
 - [ ] Exported to OECD.org
 
@@ -105,15 +105,15 @@ Tuesday 15 October 2019 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 8 October 2019 at 21:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 October 2019 at 20:23
+- [x] Exported to iLibrary Friday 11 October 2019 at 21:29
+- [x] Exported to Keepeek Friday 11 October 2019 at 21:10
+- [x] Exported to OECD.org Friday 11 October 2019 at 20:25
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
 
@@ -127,64 +127,41 @@ Tuesday 15 October 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 4 October 2019 at 21:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 October 2019 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 October 2019 at 21:29
+- [x] Exported to Keepeek Friday 11 October 2019 at 21:10
+- [x] Exported to OECD.org Friday 11 October 2019 at 20:25
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
 ------
 
-## [Estudios Económicos de la OCDE: Colombia 2019](https://doi.org/10.1787/805f2a79-es)
+## [Multilingual Summaries for Taxing Energy Use 2019](https://doi.org/10.1787/046f0e8f-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 24 October 2019 at 8:30 | no launch event
+Tuesday 15 October 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 20 September 2019 at 21:42
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 20 September 2019 at 20:26
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 October 2019 at 21:29
+- [x] Exported to Keepeek Friday 11 October 2019 at 21:10
+- [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Economics Department*
-* Language: *Spanish*
-* Availability: *Forthcoming*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Colombia 2019](https://doi.org/10.1787/e4c64889-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 24 October 2019 at 8:30 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 4 October 2019 at 21:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 24 September 2019 at 20:22
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Economic survey*
-* Format: *PDF*
+* Directorate: *Centre for Tax Policy and Administration*
+* 6 Languages: [Korean](https://doi.org/10.1787/df8ac0a2-ko), [English](https://doi.org/10.1787/046f0e8f-en), [Japanese](https://doi.org/10.1787/1d07fbbb-ja), [Spanish](https://doi.org/10.1787/17f9adde-es), [Portuguese](https://doi.org/10.1787/47972b1d-pt), [French](https://doi.org/10.1787/ea855fb5-fr)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -372,6 +349,52 @@ Thursday 24 October 2019 at 9:00 | no launch event
 
 ------
 
+## [Estudios Económicos de la OCDE: Colombia 2019](https://doi.org/10.1787/805f2a79-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 October 2019 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 11 October 2019 at 21:29
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 20 September 2019 at 20:26
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Spanish*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Colombia 2019](https://doi.org/10.1787/e4c64889-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 October 2019 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 11 October 2019 at 21:29
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 11 October 2019 at 20:25
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
 ## [OECD Reviews of Digital Transformation: Going Digital in Colombia](https://doi.org/10.1787/781185b1-en)
 
 Embargo date | Launch date
@@ -414,6 +437,29 @@ Monday 28 October 2019 at 2:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Investing in Youth: Korea  ](https://doi.org/10.1787/4bf4a6d2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 29 October 2019 at 2:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 11 October 2019 at 21:29
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 11 October 2019 at 20:25
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
