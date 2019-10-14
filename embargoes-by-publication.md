@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 11 October 2019 at 22:07* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Policies for stronger productivity growth in Latvia](https://doi.org/10.1787/fe4ffc2b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 10 October 2019 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 9 October 2019 at 21:39
-- [x] Exported to Keepeek Tuesday 8 October 2019 at 21:10
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [The Heavy Burden of Obesity - The Economics of Prevention](https://doi.org/10.1787/67450d67-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 10 October 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 October 2019 at 21:21
-- [x] Exported to Keepeek Friday 4 October 2019 at 21:07
-- [x] Exported to OECD.org Friday 11 October 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Multilingual Summaries for The Heavy Burden of Obesity](https://doi.org/10.1787/f563de08-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 10 October 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 October 2019 at 21:29
-- [x] Exported to Keepeek Wednesday 9 October 2019 at 21:10
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* 5 Languages: [Italian](https://doi.org/10.1787/ebe5e97e-it), [German](https://doi.org/10.1787/356dee6d-de), [English](https://doi.org/10.1787/f563de08-en), [Japanese](https://doi.org/10.1787/69eb163d-ja), [Spanish](https://doi.org/10.1787/2c4847ef-es)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Formats: *ePub, HTML, PDF*
-
-------
+| *Monday 14 October 2019 at 22:27* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The State of Food and Agriculture 2019 - Moving Forward on Food Loss and Waste Reduction](https://doi.org/10.18356/32f21f8c-en)
 
@@ -107,7 +38,7 @@ Tuesday 15 October 2019 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 October 2019 at 21:29
 - [x] Exported to Keepeek Friday 11 October 2019 at 21:10
-- [x] Exported to OECD.org Friday 11 October 2019 at 20:25
+- [x] Exported to OECD.org Sunday 13 October 2019 at 15:13
 
 ### Additional Information
 
@@ -130,7 +61,7 @@ Tuesday 15 October 2019 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 October 2019 at 21:29
 - [x] Exported to Keepeek Friday 11 October 2019 at 21:10
-- [x] Exported to OECD.org Friday 11 October 2019 at 20:25
+- [x] Exported to OECD.org Sunday 13 October 2019 at 15:13
 
 ### Additional Information
 
@@ -162,6 +93,29 @@ Tuesday 15 October 2019 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Summary*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+## [The State of the World's Children 2019 - Children, Food and Nutrition - Growing Well in a Changing World](https://doi.org/10.18356/a4da4811-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 October 2019 at 12:01 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 14 October 2019 at 21:58
+- [x] Exported to Keepeek Monday 14 October 2019 at 21:10
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Non applicable*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -473,7 +427,7 @@ Tuesday 29 October 2019 at 23:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 30 September 2019 at 21:20
+- [x] Exported to iLibrary Monday 14 October 2019 at 21:58
 - [x] Exported to Keepeek Monday 30 September 2019 at 10:39
 - [x] Exported to OECD.org Monday 30 September 2019 at 20:21
 
@@ -496,7 +450,7 @@ Tuesday 29 October 2019 at 23:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 30 September 2019 at 21:20
+- [x] Exported to iLibrary Monday 14 October 2019 at 21:58
 - [x] Exported to Keepeek Monday 30 September 2019 at 10:39
 - [x] Exported to OECD.org Monday 30 September 2019 at 20:21
 
