@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 14 October 2019 at 22:27* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 15 October 2019 at 21:51* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The State of Food and Agriculture 2019 - Moving Forward on Food Loss and Waste Reduction](https://doi.org/10.18356/32f21f8c-en)
 
@@ -116,6 +116,167 @@ Tuesday 15 October 2019 at 12:01 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Innovation policies for sustainable development - Low-carbon energy and smart-city initiatives](https://doi.org/10.1787/6287ddb2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 October 2019 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 15 October 2019 at 21:25
+- [x] Exported to Keepeek Tuesday 15 October 2019 at 21:07
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Review of national policy initiatives in support of digital and AI-driven innovation](https://doi.org/10.1787/15491174-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 October 2019 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 15 October 2019 at 21:25
+- [x] Exported to Keepeek Tuesday 15 October 2019 at 21:07
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Innovation support in the enterprise sector - Industry and SMEs](https://doi.org/10.1787/4ffb2cbc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 October 2019 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 15 October 2019 at 21:25
+- [x] Exported to Keepeek Tuesday 15 October 2019 at 21:07
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Policy initiatives for health and the bioeconomy](https://doi.org/10.1787/9d98177b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 October 2019 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 15 October 2019 at 21:25
+- [x] Exported to Keepeek Tuesday 15 October 2019 at 21:07
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Governance of science and technology policies](https://doi.org/10.1787/2b3bc558-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 October 2019 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 15 October 2019 at 21:25
+- [x] Exported to Keepeek Tuesday 15 October 2019 at 21:07
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Policy initiatives to enhance the impact of public research - Promoting excellence, transfer and co-creation](https://doi.org/10.1787/a4c9197a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 October 2019 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 15 October 2019 at 21:25
+- [x] Exported to Keepeek Tuesday 15 October 2019 at 21:07
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [OECD Environmental Performance Reviews: Latvia 2019](https://doi.org/10.1787/2cb03cdd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 October 2019 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 15 October 2019 at 21:25
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 15 October 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -381,9 +542,9 @@ Monday 28 October 2019 at 2:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 20 September 2019 at 0:14
+- [x] Exported to iLibrary Tuesday 15 October 2019 at 21:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 19 September 2019 at 20:48
+- [x] Exported to OECD.org Tuesday 15 October 2019 at 20:23
 
 ### Additional Information
 
@@ -620,6 +781,98 @@ Monday 4 November 2019 at 13:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Africa's Development Dynamics 2019 - Achieving Productive Transformation](https://doi.org/10.1787/c1cd7de0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 November 2019 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 15 October 2019 at 21:25
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 15 October 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Dynamiques du développement en Afrique 2019 - Réussir la transformation productive](https://doi.org/10.1787/291046f7-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 November 2019 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 15 October 2019 at 21:25
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 15 October 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [The Survey of Adult Skills  - Reader’s Companion, Third Edition](https://doi.org/10.1787/f70238c7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 November 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Skills Matter - Additional Results from the Survey of Adult Skills](https://doi.org/10.1787/1f029d8f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 November 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
