@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 15 October 2019 at 21:51* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 16 October 2019 at 21:54* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [14 October 2019](#14-october-2019)
 * [15 October 2019](#15-october-2019)
 * [17 October 2019](#17-october-2019)
 * [24 October 2019](#24-october-2019)
@@ -13,35 +12,9 @@ Data generated on | |
 * [29 October 2019](#29-october-2019)
 * [4 November 2019](#4-november-2019)
 * [5 November 2019](#5-november-2019)
+* [7 November 2019](#7-november-2019)
 * [15 November 2019](#15-november-2019)
 * [3 December 2019](#3-december-2019)
-
-------
-
-# 14 October 2019
-
-## [The State of Food and Agriculture 2019 - Moving Forward on Food Loss and Waste Reduction](https://doi.org/10.18356/32f21f8c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 October 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 10 October 2019 at 22:00
-- [x] Exported to Keepeek Thursday 10 October 2019 at 21:10
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Non applicable*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -58,7 +31,7 @@ Tuesday 15 October 2019 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 October 2019 at 21:29
 - [x] Exported to Keepeek Friday 11 October 2019 at 21:10
-- [x] Exported to OECD.org Sunday 13 October 2019 at 15:13
+- [x] Exported to OECD.org Wednesday 16 October 2019 at 20:24
 
 ### Additional Information
 
@@ -81,7 +54,7 @@ Tuesday 15 October 2019 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 October 2019 at 21:29
 - [x] Exported to Keepeek Friday 11 October 2019 at 21:10
-- [x] Exported to OECD.org Sunday 13 October 2019 at 15:13
+- [x] Exported to OECD.org Wednesday 16 October 2019 at 20:24
 
 ### Additional Information
 
@@ -281,6 +254,29 @@ Thursday 17 October 2019 at 5:00 | no launch event
 
 ------
 
+## [ESAO Vides raksturlielumu pārskats par Latviju 2019.gads](https://doi.org/10.1787/f42e7030-lv)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 October 2019 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 16 October 2019 at 21:29
+- [x] Exported to Keepeek Wednesday 16 October 2019 at 21:05
+- [x] Exported to OECD.org Wednesday 16 October 2019 at 20:24
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *Latvian*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Environmental Performance Reviews: Latvia 2019](https://doi.org/10.1787/2cb03cdd-en)
 
 Embargo date | Launch date
@@ -290,15 +286,15 @@ Thursday 17 October 2019 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 October 2019 at 21:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 October 2019 at 20:23
+- [x] Exported to iLibrary Wednesday 16 October 2019 at 21:29
+- [x] Exported to Keepeek Wednesday 16 October 2019 at 21:05
+- [x] Exported to OECD.org Wednesday 16 October 2019 at 20:24
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
 
@@ -317,7 +313,7 @@ Thursday 24 October 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 4 October 2019 at 21:23
+- [x] Exported to iLibrary Wednesday 16 October 2019 at 21:29
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 4 October 2019 at 20:23
 
@@ -385,16 +381,16 @@ Thursday 24 October 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 4 October 2019 at 21:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 October 2019 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 16 October 2019 at 21:29
+- [x] Exported to Keepeek Wednesday 16 October 2019 at 21:05
+- [x] Exported to OECD.org Wednesday 16 October 2019 at 20:24
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -431,16 +427,16 @@ Thursday 24 October 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 4 October 2019 at 21:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 October 2019 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 16 October 2019 at 21:29
+- [x] Exported to Keepeek Wednesday 16 October 2019 at 21:05
+- [x] Exported to OECD.org Wednesday 16 October 2019 at 20:24
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -454,16 +450,16 @@ Thursday 24 October 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 4 October 2019 at 21:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 October 2019 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 16 October 2019 at 21:29
+- [x] Exported to Keepeek Wednesday 16 October 2019 at 21:05
+- [x] Exported to OECD.org Wednesday 16 October 2019 at 20:24
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -477,16 +473,16 @@ Thursday 24 October 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 4 October 2019 at 21:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 October 2019 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 16 October 2019 at 21:29
+- [x] Exported to Keepeek Wednesday 16 October 2019 at 21:05
+- [x] Exported to OECD.org Wednesday 16 October 2019 at 20:24
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -534,6 +530,29 @@ Thursday 24 October 2019 at 14:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Water Governance in Argentina](https://doi.org/10.1787/bc9ccbf6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 October 2019 at 20:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 16 October 2019 at 21:29
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 16 October 2019 at 20:24
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -843,7 +862,7 @@ Tuesday 5 November 2019 at 6:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 15 October 2019 at 21:25
+- [x] Exported to iLibrary Wednesday 16 October 2019 at 21:29
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 15 October 2019 at 20:23
 
@@ -866,7 +885,7 @@ Tuesday 5 November 2019 at 6:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 15 October 2019 at 21:25
+- [x] Exported to iLibrary Wednesday 16 October 2019 at 21:29
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 15 October 2019 at 20:23
 
@@ -877,6 +896,56 @@ Tuesday 5 November 2019 at 6:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 7 November 2019
+
+## [Health at a Glance 2019 - OECD Indicators](https://doi.org/10.1787/4dd50c09-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 7 November 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 16 October 2019 at 21:29
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 16 October 2019 at 20:24
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Panorama de la santé 2019 - Les indicateurs de l'OCDE](https://doi.org/10.1787/5f5b6833-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 7 November 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 16 October 2019 at 21:29
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 16 October 2019 at 20:24
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
