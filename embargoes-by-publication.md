@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 16 October 2019 at 21:54* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Mining Regions and Cities Case Study - Outokumpu and North Karelia, Finland](https://doi.org/10.1787/cd72611b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 October 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 October 2019 at 21:29
-- [x] Exported to Keepeek Friday 11 October 2019 at 21:10
-- [x] Exported to OECD.org Wednesday 16 October 2019 at 20:24
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Taxing Energy Use 2019 - Using Taxes for Climate Action](https://doi.org/10.1787/058ca239-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 October 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 October 2019 at 21:29
-- [x] Exported to Keepeek Friday 11 October 2019 at 21:10
-- [x] Exported to OECD.org Wednesday 16 October 2019 at 20:24
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Multilingual Summaries for Taxing Energy Use 2019](https://doi.org/10.1787/046f0e8f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 October 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 October 2019 at 21:29
-- [x] Exported to Keepeek Friday 11 October 2019 at 21:10
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* 6 Languages: [Korean](https://doi.org/10.1787/df8ac0a2-ko), [English](https://doi.org/10.1787/046f0e8f-en), [Japanese](https://doi.org/10.1787/1d07fbbb-ja), [Spanish](https://doi.org/10.1787/17f9adde-es), [Portuguese](https://doi.org/10.1787/47972b1d-pt), [French](https://doi.org/10.1787/ea855fb5-fr)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [The State of the World's Children 2019 - Children, Food and Nutrition - Growing Well in a Changing World](https://doi.org/10.18356/a4da4811-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 October 2019 at 12:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 14 October 2019 at 21:58
-- [x] Exported to Keepeek Monday 14 October 2019 at 21:10
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Non applicable*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Thursday 17 October 2019 at 23:40* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Innovation policies for sustainable development - Low-carbon energy and smart-city initiatives](https://doi.org/10.1787/6287ddb2-en)
 
@@ -288,16 +196,16 @@ Thursday 24 October 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 16 October 2019 at 21:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 October 2019 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 17 October 2019 at 22:49
+- [x] Exported to Keepeek Thursday 17 October 2019 at 21:26
+- [x] Exported to OECD.org Thursday 17 October 2019 at 20:39
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -311,16 +219,16 @@ Thursday 24 October 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 4 October 2019 at 21:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 October 2019 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 17 October 2019 at 22:49
+- [x] Exported to Keepeek Thursday 17 October 2019 at 21:26
+- [x] Exported to OECD.org Thursday 17 October 2019 at 20:39
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -334,16 +242,16 @@ Thursday 24 October 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 4 October 2019 at 21:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 October 2019 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 17 October 2019 at 22:49
+- [x] Exported to Keepeek Thursday 17 October 2019 at 21:26
+- [x] Exported to OECD.org Thursday 17 October 2019 at 20:39
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -380,16 +288,16 @@ Thursday 24 October 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 4 October 2019 at 21:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 October 2019 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 17 October 2019 at 22:49
+- [x] Exported to Keepeek Thursday 17 October 2019 at 21:26
+- [x] Exported to OECD.org Thursday 17 October 2019 at 20:39
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -519,9 +427,9 @@ Thursday 24 October 2019 at 20:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 16 October 2019 at 21:29
+- [x] Exported to iLibrary Thursday 17 October 2019 at 22:49
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 16 October 2019 at 20:24
+- [x] Exported to OECD.org Thursday 17 October 2019 at 20:39
 
 ### Additional Information
 
@@ -565,9 +473,9 @@ Monday 28 October 2019 at 2:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 15 October 2019 at 21:25
+- [x] Exported to iLibrary Thursday 17 October 2019 at 22:49
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 October 2019 at 20:23
+- [x] Exported to OECD.org Thursday 17 October 2019 at 20:39
 
 ### Additional Information
 
@@ -817,16 +725,16 @@ Tuesday 5 November 2019 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 16 October 2019 at 21:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 October 2019 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 17 October 2019 at 22:49
+- [x] Exported to Keepeek Thursday 17 October 2019 at 21:26
+- [x] Exported to OECD.org Thursday 17 October 2019 at 20:39
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -840,16 +748,16 @@ Tuesday 5 November 2019 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 16 October 2019 at 21:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 October 2019 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 17 October 2019 at 22:49
+- [x] Exported to Keepeek Thursday 17 October 2019 at 21:26
+- [x] Exported to OECD.org Thursday 17 October 2019 at 20:39
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
