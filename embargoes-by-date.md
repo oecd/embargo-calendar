@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 17 October 2019 at 23:40* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 18 October 2019 at 21:10* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [17 October 2019](#17-october-2019)
 * [24 October 2019](#24-october-2019)
@@ -168,7 +168,7 @@ Thursday 17 October 2019 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 16 October 2019 at 21:29
 - [x] Exported to Keepeek Wednesday 16 October 2019 at 21:05
-- [x] Exported to OECD.org Wednesday 16 October 2019 at 20:24
+- [x] Exported to OECD.org Friday 18 October 2019 at 20:23
 
 ### Additional Information
 
@@ -191,7 +191,7 @@ Thursday 17 October 2019 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 16 October 2019 at 21:29
 - [x] Exported to Keepeek Wednesday 16 October 2019 at 21:05
-- [x] Exported to OECD.org Wednesday 16 October 2019 at 20:24
+- [x] Exported to OECD.org Friday 18 October 2019 at 20:23
 
 ### Additional Information
 
@@ -286,7 +286,7 @@ Thursday 24 October 2019 at 9:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 16 October 2019 at 21:29
-- [x] Exported to Keepeek Wednesday 16 October 2019 at 21:05
+- [x] Exported to Keepeek Friday 18 October 2019 at 20:34
 - [x] Exported to OECD.org Wednesday 16 October 2019 at 20:24
 
 ### Additional Information
@@ -309,7 +309,7 @@ Thursday 24 October 2019 at 9:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 17 October 2019 at 22:49
-- [x] Exported to Keepeek Thursday 17 October 2019 at 21:26
+- [x] Exported to Keepeek Friday 18 October 2019 at 20:34
 - [x] Exported to OECD.org Thursday 17 October 2019 at 20:39
 
 ### Additional Information
@@ -332,7 +332,7 @@ Thursday 24 October 2019 at 9:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 16 October 2019 at 21:29
-- [x] Exported to Keepeek Wednesday 16 October 2019 at 21:05
+- [x] Exported to Keepeek Friday 18 October 2019 at 20:34
 - [x] Exported to OECD.org Wednesday 16 October 2019 at 20:24
 
 ### Additional Information
@@ -355,7 +355,7 @@ Thursday 24 October 2019 at 9:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 16 October 2019 at 21:29
-- [x] Exported to Keepeek Wednesday 16 October 2019 at 21:05
+- [x] Exported to Keepeek Friday 18 October 2019 at 20:34
 - [x] Exported to OECD.org Wednesday 16 October 2019 at 20:24
 
 ### Additional Information
@@ -378,7 +378,7 @@ Thursday 24 October 2019 at 9:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 16 October 2019 at 21:29
-- [x] Exported to Keepeek Wednesday 16 October 2019 at 21:05
+- [x] Exported to Keepeek Friday 18 October 2019 at 20:34
 - [x] Exported to OECD.org Wednesday 16 October 2019 at 20:24
 
 ### Additional Information
@@ -446,9 +446,9 @@ Thursday 24 October 2019 at 20:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 17 October 2019 at 22:49
+- [x] Exported to iLibrary Friday 18 October 2019 at 20:49
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 October 2019 at 20:39
+- [x] Exported to OECD.org Friday 18 October 2019 at 20:23
 
 ### Additional Information
 
