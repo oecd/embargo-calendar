@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 23 October 2019 at 21:16* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 24 October 2019 at 21:02* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Making Dispute Resolution More Effective – MAP Peer Review Report, India (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/c66636e8-en)
 
@@ -266,17 +266,17 @@ Thursday 24 October 2019 at 22:01 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 23 October 2019 at 20:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 23 October 2019 at 20:23
+- [x] Exported to iLibrary Thursday 24 October 2019 at 20:45
+- [x] Exported to Keepeek Thursday 24 October 2019 at 20:32
+- [x] Exported to OECD.org Thursday 24 October 2019 at 20:22
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -334,16 +334,16 @@ Friday 25 October 2019 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 23 October 2019 at 20:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 23 October 2019 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 24 October 2019 at 20:45
+- [x] Exported to Keepeek Thursday 24 October 2019 at 20:32
+- [x] Exported to OECD.org Thursday 24 October 2019 at 20:22
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
