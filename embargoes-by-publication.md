@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 30 October 2019 at 21:13* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Investing in Youth: Korea](https://doi.org/10.1787/4bf4a6d2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 29 October 2019 at 2:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 23 October 2019 at 20:51
-- [x] Exported to Keepeek Tuesday 22 October 2019 at 20:40
-- [x] Exported to OECD.org Wednesday 30 October 2019 at 20:23
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Thursday 31 October 2019 at 21:17* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Switzerland 2019](https://doi.org/10.1787/7e6fd372-en)
 
@@ -173,16 +150,16 @@ Thursday 7 November 2019 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 30 October 2019 at 20:49
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 29 October 2019 at 20:24
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 31 October 2019 at 20:51
+- [x] Exported to Keepeek Thursday 31 October 2019 at 20:35
+- [x] Exported to OECD.org Thursday 31 October 2019 at 20:22
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
 
@@ -197,7 +174,7 @@ Thursday 7 November 2019 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 30 October 2019 at 20:49
+- [x] Exported to iLibrary Thursday 31 October 2019 at 20:51
 - [x] Exported to Keepeek Tuesday 29 October 2019 at 20:36
 - [x] Exported to OECD.org Tuesday 29 October 2019 at 20:24
 
@@ -381,9 +358,9 @@ Thursday 14 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 29 October 2019 at 21:06
+- [x] Exported to iLibrary Thursday 31 October 2019 at 20:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 29 October 2019 at 20:24
+- [x] Exported to OECD.org Thursday 31 October 2019 at 20:22
 
 ### Additional Information
 
