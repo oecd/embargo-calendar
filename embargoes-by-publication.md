@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 31 October 2019 at 21:17* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 1 November 2019 at 20:58* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Switzerland 2019](https://doi.org/10.1787/7e6fd372-en)
 
