@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 1 November 2019 at 20:58* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 4 November 2019 at 20:52* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [4 November 2019](#4-november-2019)
 * [5 November 2019](#5-november-2019)
@@ -29,7 +29,7 @@ Monday 4 November 2019 at 13:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 29 October 2019 at 21:06
 - [x] Exported to Keepeek Tuesday 29 October 2019 at 20:36
-- [x] Exported to OECD.org Tuesday 29 October 2019 at 20:24
+- [x] Exported to OECD.org Saturday 2 November 2019 at 15:50
 
 ### Additional Information
 
@@ -52,7 +52,7 @@ Monday 4 November 2019 at 13:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 29 October 2019 at 21:06
 - [x] Exported to Keepeek Tuesday 29 October 2019 at 20:36
-- [x] Exported to OECD.org Tuesday 29 October 2019 at 20:24
+- [x] Exported to OECD.org Saturday 2 November 2019 at 15:50
 
 ### Additional Information
 
@@ -79,7 +79,7 @@ Tuesday 5 November 2019 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 22 October 2019 at 20:50
 - [x] Exported to Keepeek Thursday 17 October 2019 at 21:26
-- [x] Exported to OECD.org Thursday 17 October 2019 at 20:39
+- [x] Exported to OECD.org Saturday 2 November 2019 at 15:50
 
 ### Additional Information
 
@@ -102,7 +102,7 @@ Tuesday 5 November 2019 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 22 October 2019 at 20:50
 - [x] Exported to Keepeek Thursday 17 October 2019 at 21:26
-- [x] Exported to OECD.org Thursday 17 October 2019 at 20:39
+- [x] Exported to OECD.org Saturday 2 November 2019 at 15:50
 
 ### Additional Information
 
@@ -141,29 +141,6 @@ Thursday 7 November 2019 at 10:00 | no launch event
 
 ------
 
-## [Panorama de la santé 2019 - Les indicateurs de l'OCDE](https://doi.org/10.1787/5f5b6833-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 7 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 16 October 2019 at 21:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 16 October 2019 at 20:24
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [The Innovation System of the Public Service of Brazil - An Exploration of its Past, Present and Future Journey](https://doi.org/10.1787/a1b203de-en)
 
 Embargo date | Launch date
@@ -173,7 +150,7 @@ Thursday 7 November 2019 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 31 October 2019 at 20:51
+- [x] Exported to iLibrary Monday 4 November 2019 at 20:29
 - [x] Exported to Keepeek Thursday 31 October 2019 at 20:35
 - [x] Exported to OECD.org Thursday 31 October 2019 at 20:22
 
@@ -196,7 +173,7 @@ Thursday 7 November 2019 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 31 October 2019 at 20:51
+- [x] Exported to iLibrary Monday 4 November 2019 at 20:29
 - [x] Exported to Keepeek Tuesday 29 October 2019 at 20:36
 - [x] Exported to OECD.org Tuesday 29 October 2019 at 20:24
 
@@ -388,9 +365,9 @@ Thursday 14 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 31 October 2019 at 20:51
+- [x] Exported to iLibrary Monday 4 November 2019 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 31 October 2019 at 20:22
+- [x] Exported to OECD.org Monday 4 November 2019 at 20:04
 
 ### Additional Information
 
@@ -1725,7 +1702,7 @@ Tuesday 3 December 2019 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
