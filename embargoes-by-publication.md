@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 4 November 2019 at 20:52* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 5 November 2019 at 21:42* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Switzerland 2019](https://doi.org/10.1787/7e6fd372-en)
 
@@ -15,7 +15,7 @@ Monday 4 November 2019 at 13:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 29 October 2019 at 21:06
 - [x] Exported to Keepeek Tuesday 29 October 2019 at 20:36
-- [x] Exported to OECD.org Saturday 2 November 2019 at 15:50
+- [x] Exported to OECD.org Tuesday 5 November 2019 at 20:24
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 4 November 2019 at 13:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 29 October 2019 at 21:06
 - [x] Exported to Keepeek Tuesday 29 October 2019 at 20:36
-- [x] Exported to OECD.org Saturday 2 November 2019 at 15:50
+- [x] Exported to OECD.org Tuesday 5 November 2019 at 20:24
 
 ### Additional Information
 
@@ -104,8 +104,8 @@ Thursday 7 November 2019 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 28 October 2019 at 20:45
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 5 November 2019 at 21:04
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 28 October 2019 at 20:20
 
@@ -130,7 +130,7 @@ Thursday 7 November 2019 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 4 November 2019 at 20:29
 - [x] Exported to Keepeek Thursday 31 October 2019 at 20:35
-- [x] Exported to OECD.org Thursday 31 October 2019 at 20:22
+- [x] Exported to OECD.org Tuesday 5 November 2019 at 20:24
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Thursday 7 November 2019 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 4 November 2019 at 20:29
 - [x] Exported to Keepeek Tuesday 29 October 2019 at 20:36
-- [x] Exported to OECD.org Tuesday 29 October 2019 at 20:24
+- [x] Exported to OECD.org Tuesday 5 November 2019 at 20:24
 
 ### Additional Information
 
@@ -334,16 +334,16 @@ Thursday 14 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 4 November 2019 at 20:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 November 2019 at 20:04
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 5 November 2019 at 21:04
+- [x] Exported to Keepeek Tuesday 5 November 2019 at 20:37
+- [x] Exported to OECD.org Tuesday 5 November 2019 at 20:24
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -358,7 +358,7 @@ Friday 15 November 2019 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 23 October 2019 at 20:51
+- [x] Exported to iLibrary Tuesday 5 November 2019 at 21:04
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 23 October 2019 at 20:23
 
@@ -368,7 +368,7 @@ Friday 15 November 2019 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -381,7 +381,7 @@ Friday 15 November 2019 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 23 October 2019 at 20:51
+- [x] Exported to iLibrary Tuesday 5 November 2019 at 21:04
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 23 October 2019 at 20:23
 
@@ -391,7 +391,7 @@ Friday 15 November 2019 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -1623,17 +1623,17 @@ Tuesday 3 December 2019 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 5 November 2019 at 21:04
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 5 November 2019 at 20:24
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -1646,15 +1646,15 @@ Tuesday 3 December 2019 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 5 November 2019 at 21:04
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 5 November 2019 at 20:24
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
 
@@ -1669,13 +1669,36 @@ Tuesday 3 December 2019 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 5 November 2019 at 21:04
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 5 November 2019 at 20:24
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [OECD Skills Strategy Poland - Assessment and Recommendations](https://doi.org/10.1787/b377fbcc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 11 December 2019 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills*
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
