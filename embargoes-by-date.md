@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 5 November 2019 at 21:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 6 November 2019 at 22:39* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [4 November 2019](#4-november-2019)
 * [5 November 2019](#5-november-2019)
 * [7 November 2019](#7-november-2019)
 * [12 November 2019](#12-november-2019)
@@ -14,56 +13,6 @@ Data generated on | |
 * [28 November 2019](#28-november-2019)
 * [3 December 2019](#3-december-2019)
 * [11 December 2019](#11-december-2019)
-
-------
-
-# 4 November 2019
-
-## [OECD Economic Surveys: Switzerland 2019](https://doi.org/10.1787/7e6fd372-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 November 2019 at 13:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 29 October 2019 at 21:06
-- [x] Exported to Keepeek Tuesday 29 October 2019 at 20:36
-- [x] Exported to OECD.org Tuesday 5 November 2019 at 20:24
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Études économiques de l'OCDE : Suisse 2019](https://doi.org/10.1787/1848adb9-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 November 2019 at 13:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 29 October 2019 at 21:06
-- [x] Exported to Keepeek Tuesday 29 October 2019 at 20:36
-- [x] Exported to OECD.org Tuesday 5 November 2019 at 20:24
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -80,7 +29,7 @@ Tuesday 5 November 2019 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 22 October 2019 at 20:50
 - [x] Exported to Keepeek Thursday 17 October 2019 at 21:26
-- [x] Exported to OECD.org Saturday 2 November 2019 at 15:50
+- [x] Exported to OECD.org Wednesday 6 November 2019 at 20:30
 
 ### Additional Information
 
@@ -103,7 +52,7 @@ Tuesday 5 November 2019 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 22 October 2019 at 20:50
 - [x] Exported to Keepeek Thursday 17 October 2019 at 21:26
-- [x] Exported to OECD.org Saturday 2 November 2019 at 15:50
+- [x] Exported to OECD.org Wednesday 6 November 2019 at 20:30
 
 ### Additional Information
 
@@ -128,16 +77,39 @@ Thursday 7 November 2019 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 November 2019 at 21:04
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 28 October 2019 at 20:20
+- [x] Exported to iLibrary Wednesday 6 November 2019 at 21:51
+- [x] Exported to Keepeek Wednesday 6 November 2019 at 20:46
+- [x] Exported to OECD.org Wednesday 6 November 2019 at 20:30
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [Multilingual Summaries for Health at a Glance 2019](https://doi.org/10.1787/e88a7402-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 7 November 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 6 November 2019 at 21:51
+- [x] Exported to Keepeek Wednesday 6 November 2019 at 20:46
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* 10 Languages: [Italian](https://doi.org/10.1787/f7e7763b-it), [Korean](https://doi.org/10.1787/d8978c33-ko), [German](https://doi.org/10.1787/378fd012-de), [Chinese](https://doi.org/10.1787/0f09aa5c-zh), [English](https://doi.org/10.1787/e88a7402-en), [Japanese](https://doi.org/10.1787/018f1e04-ja), [Russian](https://doi.org/10.1787/c232afec-ru), [Spanish](https://doi.org/10.1787/23389dc8-es), [Portuguese](https://doi.org/10.1787/0387d76f-pt), [French](https://doi.org/10.1787/5056bb47-fr)
+* Availability: *Published*
+* Type of publication: *Summary*
 * Formats: *ePub, HTML, PDF*
 
 ------
@@ -225,7 +197,7 @@ Tuesday 12 November 2019 at 10:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 October 2019 at 20:49
-- [x] Exported to Keepeek Wednesday 30 October 2019 at 20:35
+- [x] Exported to Keepeek Wednesday 6 November 2019 at 20:46
 - [x] Exported to OECD.org Wednesday 30 October 2019 at 20:23
 
 ### Additional Information
@@ -357,6 +329,29 @@ Tuesday 12 November 2019 at 10:00 | no launch event
 
 # 14 November 2019
 
+## [Government at a Glance 2019](https://doi.org/10.1787/8ccf5c38-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 November 2019 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 6 November 2019 at 21:51
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 6 November 2019 at 20:30
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
 ## [OECD Environmental Performance Reviews: Denmark 2019](https://doi.org/10.1787/1eeec492-en)
 
 Embargo date | Launch date
@@ -373,6 +368,29 @@ Thursday 14 November 2019 at 12:00 | no launch event
 ### Additional Information
 
 * Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Working and Learning Together - Rethinking Human Resource Policies for Schools](https://doi.org/10.1787/b7aaf050-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 November 2019 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 6 November 2019 at 21:51
+- [x] Exported to Keepeek Wednesday 6 November 2019 at 20:46
+- [x] Exported to OECD.org Wednesday 6 November 2019 at 20:30
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
@@ -415,18 +433,18 @@ Friday 15 November 2019 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 5 November 2019 at 21:04
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 23 October 2019 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 6 November 2019 at 21:51
+- [x] Exported to Keepeek Wednesday 6 November 2019 at 20:46
+- [x] Exported to OECD.org Wednesday 6 November 2019 at 20:30
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
