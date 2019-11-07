@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 6 November 2019 at 22:39* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Africa's Development Dynamics 2019 - Achieving Productive Transformation](https://doi.org/10.1787/c1cd7de0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2019 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 22 October 2019 at 20:50
-- [x] Exported to Keepeek Thursday 17 October 2019 at 21:26
-- [x] Exported to OECD.org Wednesday 6 November 2019 at 20:30
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Dynamiques du développement en Afrique 2019 - Réussir la transformation productive](https://doi.org/10.1787/291046f7-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2019 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 22 October 2019 at 20:50
-- [x] Exported to Keepeek Thursday 17 October 2019 at 21:26
-- [x] Exported to OECD.org Wednesday 6 November 2019 at 20:30
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
+| *Thursday 7 November 2019 at 21:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Health at a Glance 2019 - OECD Indicators](https://doi.org/10.1787/4dd50c09-en)
 
@@ -139,6 +93,29 @@ Thursday 7 November 2019 at 13:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+## [How are PISA results related to adult life outcomes?](https://doi.org/10.1787/7b60595e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 November 2019 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 November 2019 at 20:55
+- [x] Exported to Keepeek Thursday 7 November 2019 at 20:37
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -303,6 +280,29 @@ Tuesday 12 November 2019 at 10:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Austria 2019](https://doi.org/10.1787/22f8383a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 November 2019 at 9:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 November 2019 at 20:55
+- [x] Exported to Keepeek Thursday 7 November 2019 at 20:37
+- [x] Exported to OECD.org Thursday 7 November 2019 at 20:24
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
 ## [Government at a Glance 2019](https://doi.org/10.1787/8ccf5c38-en)
 
 Embargo date | Launch date
@@ -312,9 +312,9 @@ Thursday 14 November 2019 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 6 November 2019 at 21:51
+- [x] Exported to iLibrary Thursday 7 November 2019 at 20:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 November 2019 at 20:30
+- [x] Exported to OECD.org Thursday 7 November 2019 at 20:24
 
 ### Additional Information
 
@@ -336,7 +336,7 @@ Thursday 14 November 2019 at 12:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 5 November 2019 at 21:04
-- [x] Exported to Keepeek Tuesday 5 November 2019 at 20:37
+- [x] Exported to Keepeek Thursday 7 November 2019 at 20:37
 - [x] Exported to OECD.org Tuesday 5 November 2019 at 20:24
 
 ### Additional Information
@@ -380,18 +380,18 @@ Friday 15 November 2019 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 5 November 2019 at 21:04
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 23 October 2019 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 November 2019 at 20:55
+- [x] Exported to Keepeek Thursday 7 November 2019 at 20:37
+- [x] Exported to OECD.org Thursday 7 November 2019 at 20:24
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -1721,7 +1721,7 @@ Wednesday 11 December 2019 at 8:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Directorate: *Centre for Skills*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
