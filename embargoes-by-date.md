@@ -2,13 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 7 November 2019 at 21:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 8 November 2019 at 21:20* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [7 November 2019](#7-november-2019)
 * [12 November 2019](#12-november-2019)
 * [13 November 2019](#13-november-2019)
 * [14 November 2019](#14-november-2019)
 * [15 November 2019](#15-november-2019)
+* [18 November 2019](#18-november-2019)
 * [26 November 2019](#26-november-2019)
 * [28 November 2019](#28-november-2019)
 * [3 December 2019](#3-december-2019)
@@ -29,7 +30,7 @@ Thursday 7 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 6 November 2019 at 21:51
 - [x] Exported to Keepeek Wednesday 6 November 2019 at 20:46
-- [x] Exported to OECD.org Wednesday 6 November 2019 at 20:30
+- [x] Exported to OECD.org Friday 8 November 2019 at 20:26
 
 ### Additional Information
 
@@ -73,9 +74,9 @@ Thursday 7 November 2019 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 November 2019 at 20:29
+- [x] Exported to iLibrary Friday 8 November 2019 at 20:56
 - [x] Exported to Keepeek Thursday 31 October 2019 at 20:35
-- [x] Exported to OECD.org Tuesday 5 November 2019 at 20:24
+- [x] Exported to OECD.org Friday 8 November 2019 at 20:26
 
 ### Additional Information
 
@@ -96,9 +97,9 @@ Thursday 7 November 2019 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 November 2019 at 20:29
+- [x] Exported to iLibrary Friday 8 November 2019 at 20:56
 - [x] Exported to Keepeek Tuesday 29 October 2019 at 20:36
-- [x] Exported to OECD.org Tuesday 5 November 2019 at 20:24
+- [x] Exported to OECD.org Friday 8 November 2019 at 20:26
 
 ### Additional Information
 
@@ -302,6 +303,98 @@ Tuesday 12 November 2019 at 10:00 | no launch event
 
 # 13 November 2019
 
+## [World Energy Outlook 2019](https://doi.org/10.1787/caf32f3b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 November 2019 at 0:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 8 November 2019 at 20:56
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 8 November 2019 at 20:26
+
+### Additional Information
+
+* Directorate: *International Energy Agency*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Educational outcomes: A literature review of policy drivers from a macroeconomic perspective](https://doi.org/10.1787/990801aa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 November 2019 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 8 November 2019 at 20:56
+- [x] Exported to Keepeek Friday 8 November 2019 at 20:38
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Policy drivers of human capital in the OECD’s quantification of structural reforms](https://doi.org/10.1787/b8fe3b7b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 November 2019 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 8 November 2019 at 20:56
+- [x] Exported to Keepeek Friday 8 November 2019 at 20:38
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [A new macroeconomic measure of human capital with strong empirical links to productivity](https://doi.org/10.1787/d12d7305-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 November 2019 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 8 November 2019 at 20:56
+- [x] Exported to Keepeek Friday 8 November 2019 at 20:38
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Austria 2019](https://doi.org/10.1787/22f8383a-en)
 
 Embargo date | Launch date
@@ -338,7 +431,7 @@ Thursday 14 November 2019 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 7 November 2019 at 20:55
+- [x] Exported to iLibrary Friday 8 November 2019 at 20:56
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 7 November 2019 at 20:24
 
@@ -450,6 +543,33 @@ Friday 15 November 2019 at 10:00 | no launch event
 
 ------
 
+# 18 November 2019
+
+## [Negotiating Our Way Up - Collective Bargaining in a Changing World of Work](https://doi.org/10.1787/1fd2da34-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 November 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 8 November 2019 at 20:56
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 8 November 2019 at 20:26
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
 # 26 November 2019
 
 ## [Revue du système de passation des marchés publics en Algérie - Vers un système efficient, ouvert et inclusif](https://doi.org/10.1787/49802cd0-fr)
@@ -461,15 +581,15 @@ Tuesday 26 November 2019 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 8 November 2019 at 20:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 8 November 2019 at 20:26
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
