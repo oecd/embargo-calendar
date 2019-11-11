@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 8 November 2019 at 21:20* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 11 November 2019 at 20:59* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [7 November 2019](#7-november-2019)
 * [12 November 2019](#12-november-2019)
 * [13 November 2019](#13-november-2019)
 * [14 November 2019](#14-november-2019)
@@ -14,102 +13,6 @@ Data generated on | |
 * [28 November 2019](#28-november-2019)
 * [3 December 2019](#3-december-2019)
 * [11 December 2019](#11-december-2019)
-
-------
-
-# 7 November 2019
-
-## [Health at a Glance 2019 - OECD Indicators](https://doi.org/10.1787/4dd50c09-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 7 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 November 2019 at 21:51
-- [x] Exported to Keepeek Wednesday 6 November 2019 at 20:46
-- [x] Exported to OECD.org Friday 8 November 2019 at 20:26
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Multilingual Summaries for Health at a Glance 2019](https://doi.org/10.1787/e88a7402-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 7 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 November 2019 at 21:51
-- [x] Exported to Keepeek Wednesday 6 November 2019 at 20:46
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* 10 Languages: [Italian](https://doi.org/10.1787/f7e7763b-it), [Korean](https://doi.org/10.1787/d8978c33-ko), [German](https://doi.org/10.1787/378fd012-de), [Chinese](https://doi.org/10.1787/0f09aa5c-zh), [English](https://doi.org/10.1787/e88a7402-en), [Japanese](https://doi.org/10.1787/018f1e04-ja), [Russian](https://doi.org/10.1787/c232afec-ru), [Spanish](https://doi.org/10.1787/23389dc8-es), [Portuguese](https://doi.org/10.1787/0387d76f-pt), [French](https://doi.org/10.1787/5056bb47-fr)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [The Innovation System of the Public Service of Brazil - An Exploration of its Past, Present and Future Journey](https://doi.org/10.1787/a1b203de-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 7 November 2019 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 November 2019 at 20:56
-- [x] Exported to Keepeek Thursday 31 October 2019 at 20:35
-- [x] Exported to OECD.org Friday 8 November 2019 at 20:26
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Innovation Skills and Leadership in Brazil's Public Sector - Towards a Senior Civil Service System](https://doi.org/10.1787/ef660e75-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 7 November 2019 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 November 2019 at 20:56
-- [x] Exported to Keepeek Tuesday 29 October 2019 at 20:36
-- [x] Exported to OECD.org Friday 8 November 2019 at 20:26
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
 
 ------
 
@@ -149,7 +52,7 @@ Tuesday 12 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 October 2019 at 20:49
 - [x] Exported to Keepeek Wednesday 30 October 2019 at 20:35
-- [x] Exported to OECD.org Wednesday 30 October 2019 at 20:23
+- [x] Exported to OECD.org Saturday 9 November 2019 at 15:49
 
 ### Additional Information
 
@@ -172,7 +75,7 @@ Tuesday 12 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 October 2019 at 20:49
 - [x] Exported to Keepeek Wednesday 6 November 2019 at 20:46
-- [x] Exported to OECD.org Wednesday 30 October 2019 at 20:23
+- [x] Exported to OECD.org Saturday 9 November 2019 at 15:49
 
 ### Additional Information
 
@@ -195,7 +98,7 @@ Tuesday 12 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 October 2019 at 20:49
 - [x] Exported to Keepeek Wednesday 30 October 2019 at 20:35
-- [x] Exported to OECD.org Wednesday 30 October 2019 at 20:23
+- [x] Exported to OECD.org Saturday 9 November 2019 at 15:49
 
 ### Additional Information
 
@@ -218,7 +121,7 @@ Tuesday 12 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 October 2019 at 20:49
 - [x] Exported to Keepeek Wednesday 30 October 2019 at 20:35
-- [x] Exported to OECD.org Wednesday 30 October 2019 at 20:23
+- [x] Exported to OECD.org Saturday 9 November 2019 at 15:49
 
 ### Additional Information
 
@@ -241,7 +144,7 @@ Tuesday 12 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 October 2019 at 20:49
 - [x] Exported to Keepeek Wednesday 30 October 2019 at 20:35
-- [x] Exported to OECD.org Wednesday 30 October 2019 at 20:23
+- [x] Exported to OECD.org Saturday 9 November 2019 at 15:49
 
 ### Additional Information
 
@@ -264,7 +167,7 @@ Tuesday 12 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 October 2019 at 20:49
 - [x] Exported to Keepeek Wednesday 30 October 2019 at 20:35
-- [x] Exported to OECD.org Wednesday 30 October 2019 at 20:23
+- [x] Exported to OECD.org Saturday 9 November 2019 at 15:49
 
 ### Additional Information
 
@@ -287,7 +190,7 @@ Tuesday 12 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 October 2019 at 20:49
 - [x] Exported to Keepeek Wednesday 30 October 2019 at 20:35
-- [x] Exported to OECD.org Wednesday 30 October 2019 at 20:23
+- [x] Exported to OECD.org Saturday 9 November 2019 at 15:49
 
 ### Additional Information
 
@@ -406,7 +309,7 @@ Wednesday 13 November 2019 at 9:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 November 2019 at 20:55
 - [x] Exported to Keepeek Thursday 7 November 2019 at 20:37
-- [x] Exported to OECD.org Thursday 7 November 2019 at 20:24
+- [x] Exported to OECD.org Monday 11 November 2019 at 20:19
 
 ### Additional Information
 
