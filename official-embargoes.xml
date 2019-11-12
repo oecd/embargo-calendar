@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2019-11-11T20:59:07.7368544+01:00">
+<report name="official-embargoes" generated="2019-11-12T21:30:11.8865283+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -327,17 +327,17 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2019-11-13</cell>
     <cell name="embargo date">2019-11-13T00:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-11-08T19:56:21Z</cell>
+    <cell name="ilibrary last export date">2019-11-12T20:05:07Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2019-11-08T19:26:09Z</cell>
+    <cell name="oecd.org last export date">2019-11-12T19:26:03Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a6165f84</cell>
   </row>
   <row index="17">
@@ -493,7 +493,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-11-05T20:04:57Z</cell>
     <cell name="freepreview last export date">2019-11-07T19:37:52Z</cell>
-    <cell name="oecd.org last export date">2019-11-05T19:24:58Z</cell>
+    <cell name="oecd.org last export date">2019-11-12T19:26:03Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -513,7 +513,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-11-06T20:51:24Z</cell>
     <cell name="freepreview last export date">2019-11-06T19:46:26Z</cell>
-    <cell name="oecd.org last export date">2019-11-06T19:30:10Z</cell>
+    <cell name="oecd.org last export date">2019-11-12T19:26:03Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -2751,9 +2751,9 @@
     <cell name="date of publication">2019-11-18</cell>
     <cell name="embargo date">2019-11-18T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-11-08T19:56:21Z</cell>
+    <cell name="ilibrary last export date">2019-11-12T20:05:07Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2019-11-08T19:26:09Z</cell>
+    <cell name="oecd.org last export date">2019-11-12T19:26:03Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -2761,6 +2761,106 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f846d965</cell>
   </row>
   <row index="138">
+    <cell name="directorate">Non applicable</cell>
+    <cell name="doi">10.18356/f65bafb2-en</cell>
+    <cell name="title">The Convention on the Rights of the Child (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-11-20</cell>
+    <cell name="embargo date">2019-11-20T12:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-11-12T20:05:07Z</cell>
+    <cell name="freepreview last export date">2019-11-12T19:39:43Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c08f3fee</cell>
+  </row>
+  <row index="139">
+    <cell name="directorate">Non applicable</cell>
+    <cell name="doi">10.18356/d2e9a3a6-en</cell>
+    <cell name="title">Optional protocols to The Convention on the Rights of the Child (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-11-20</cell>
+    <cell name="embargo date">2019-11-20T12:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-11-12T20:05:07Z</cell>
+    <cell name="freepreview last export date">2019-11-12T19:39:43Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e602cf1d</cell>
+  </row>
+  <row index="140">
+    <cell name="directorate">Non applicable</cell>
+    <cell name="doi">10.18356/f65bafb2-en</cell>
+    <cell name="title">The Convention on the Rights of the Child (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-11-20</cell>
+    <cell name="embargo date">2019-11-20T12:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-11-12T20:05:07Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b32ca0a9</cell>
+  </row>
+  <row index="141">
+    <cell name="directorate">Non applicable</cell>
+    <cell name="doi">10.18356/fc8600c8-en</cell>
+    <cell name="title">The Convention on the Rights of the Child, Overview (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-11-20</cell>
+    <cell name="embargo date">2019-11-20T12:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-11-12T20:05:07Z</cell>
+    <cell name="freepreview last export date">2019-11-12T19:39:43Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f3ce343d</cell>
+  </row>
+  <row index="142">
+    <cell name="directorate">Non applicable</cell>
+    <cell name="doi">10.18356/b588432f-en</cell>
+    <cell name="title">Convention on the Rights of the Child (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-11-20</cell>
+    <cell name="embargo date">2019-11-20T12:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-11-12T20:05:07Z</cell>
+    <cell name="freepreview last export date">2019-11-12T19:39:43Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f852f9df</cell>
+  </row>
+  <row index="143">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/49802cd0-fr</cell>
     <cell name="title">Revue du système de passation des marchés publics en Algérie (fr)</cell>
@@ -2771,16 +2871,16 @@
     <cell name="date of publication">2019-11-26</cell>
     <cell name="embargo date">2019-11-26T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-11-08T19:56:21Z</cell>
+    <cell name="ilibrary last export date">2019-11-12T20:05:07Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2019-11-08T19:26:09Z</cell>
+    <cell name="oecd.org last export date">2019-11-12T19:26:03Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/09fa8065</cell>
   </row>
-  <row index="139">
+  <row index="144">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/49802cd0-fr</cell>
     <cell name="title">Revue du système de passation des marchés publics en Algérie (fr)</cell>
@@ -2800,7 +2900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c3362aec</cell>
   </row>
-  <row index="140">
+  <row index="145">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/36e21650-en</cell>
     <cell name="title">Germany: Country Health Profile 2019 (en)</cell>
@@ -2820,7 +2920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/20c97216</cell>
   </row>
-  <row index="141">
+  <row index="146">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/3bcb6b04-en</cell>
     <cell name="title">Belgium: Country Health Profile 2019 (en)</cell>
@@ -2840,7 +2940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ef84c59f</cell>
   </row>
-  <row index="142">
+  <row index="147">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2247f4e0-hu</cell>
     <cell name="title">Magyarország: Egészségügyi országprofil 2019 (hu)</cell>
@@ -2860,7 +2960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/46f00e7f</cell>
   </row>
-  <row index="143">
+  <row index="148">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b9e65517-en</cell>
     <cell name="title">Latvia: Country Health Profile 2019 (en)</cell>
@@ -2880,7 +2980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ac8b6643</cell>
   </row>
-  <row index="144">
+  <row index="149">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9ca28133-sv</cell>
     <cell name="title">Sverige: Landprofil hälsa 2019 (sv)</cell>
@@ -2900,7 +3000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7e0897e9</cell>
   </row>
-  <row index="145">
+  <row index="150">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/75b2eac0-pt</cell>
     <cell name="title">Portugal: Perfil de Saúde do País 2019 (pt)</cell>
@@ -2920,7 +3020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/26d8cf5e</cell>
   </row>
-  <row index="146">
+  <row index="151">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4b7ba48c-en</cell>
     <cell name="title">Hungary: Country Health Profile 2019 (en)</cell>
@@ -2940,7 +3040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da1ed7b3</cell>
   </row>
-  <row index="147">
+  <row index="152">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e5559793-nl</cell>
     <cell name="title">België: Landenprofiel Gezondheid 2019 (nl)</cell>
@@ -2960,7 +3060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a2cc5717</cell>
   </row>
-  <row index="148">
+  <row index="153">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/df8b2178-hr</cell>
     <cell name="title">Hrvatska: pregled stanja zdravlja i zdravstvene zaštite 2019 (hr)</cell>
@@ -2980,7 +3080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/508b0dc6</cell>
   </row>
-  <row index="149">
+  <row index="154">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/8afdaf86-da</cell>
     <cell name="title">Danmark: National sundhedsprofil 2019 (da)</cell>
@@ -3000,7 +3100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ca5c572f</cell>
   </row>
-  <row index="150">
+  <row index="155">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/25ec21bd-bg</cell>
     <cell name="title">България: Здравен профил за страната 2019 (bg)</cell>
@@ -3020,7 +3120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/72d9ba88</cell>
   </row>
-  <row index="151">
+  <row index="156">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2e821540-en</cell>
     <cell name="title">Norway: Country Health Profile 2019 (en)</cell>
@@ -3040,7 +3140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53f1ed22</cell>
   </row>
-  <row index="152">
+  <row index="157">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/85ed94fc-en</cell>
     <cell name="title">Portugal: Country Health Profile 2019 (en)</cell>
@@ -3060,7 +3160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/69df9f36</cell>
   </row>
-  <row index="153">
+  <row index="158">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9ac45ee0-en</cell>
     <cell name="title">Netherlands: Country Health Profile 2019 (en)</cell>
@@ -3080,7 +3180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3fb8f8f6</cell>
   </row>
-  <row index="154">
+  <row index="159">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b2362588-sk</cell>
     <cell name="title">Slovensko: Zdravotný Profil Krajiny 2019 (sk)</cell>
@@ -3100,7 +3200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1b5dd938</cell>
   </row>
-  <row index="155">
+  <row index="160">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/297e4b92-en</cell>
     <cell name="title">Poland: Country Health Profile 2019 (en)</cell>
@@ -3120,7 +3220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53da3b39</cell>
   </row>
-  <row index="156">
+  <row index="161">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9552c910-el</cell>
     <cell name="title">Ελλάδα: Προφίλ Υγείας 2019 (el)</cell>
@@ -3140,7 +3240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4a3cd0a4</cell>
   </row>
-  <row index="157">
+  <row index="162">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/20656739-en</cell>
     <cell name="title">Finland: Country Health Profile 2019 (en)</cell>
@@ -3160,7 +3260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/97287bbb</cell>
   </row>
-  <row index="158">
+  <row index="163">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/62a79a00-sl</cell>
     <cell name="title">Slovenija: Zdravstveni profil leta 2019 (sl)</cell>
@@ -3180,7 +3280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6beea4c4</cell>
   </row>
-  <row index="159">
+  <row index="164">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/8f834636-en</cell>
     <cell name="title">Spain: Country Health Profile 2019 (en)</cell>
@@ -3200,7 +3300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/67f2d7c0</cell>
   </row>
-  <row index="160">
+  <row index="165">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6e557457-cs</cell>
     <cell name="title">Česká republika: zdravotní profil země 2019 (cs)</cell>
@@ -3220,7 +3320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23f8c426</cell>
   </row>
-  <row index="161">
+  <row index="166">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1860d1c0-fr</cell>
     <cell name="title">Belgique : Profils de santé par pays 2019 (fr)</cell>
@@ -3240,7 +3340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4cd39365</cell>
   </row>
-  <row index="162">
+  <row index="167">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5eede1c6-en</cell>
     <cell name="title">Denmark: Country Health Profile 2019 (en)</cell>
@@ -3260,7 +3360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c2d1ceb5</cell>
   </row>
-  <row index="163">
+  <row index="168">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/342765e3-fi</cell>
     <cell name="title">Suomi: Maan terveysprofiili 2019 (fi)</cell>
@@ -3280,7 +3380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/be2c68c4</cell>
   </row>
-  <row index="164">
+  <row index="169">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b7613c74-en</cell>
     <cell name="title">Iceland: Country Health Profile 2019 (en)</cell>
@@ -3300,7 +3400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a54d8878</cell>
   </row>
-  <row index="165">
+  <row index="170">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e6aa37af-lv</cell>
     <cell name="title">Latvija: Valsts veselības pārskats 2019 (lv)</cell>
@@ -3320,7 +3420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dcba87ae</cell>
   </row>
-  <row index="166">
+  <row index="171">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ca3beae6-ro</cell>
     <cell name="title">Romania: Profilul Sănătății în 2019 (ro)</cell>
@@ -3340,7 +3440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc103320</cell>
   </row>
-  <row index="167">
+  <row index="172">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/8b96aa03-fr</cell>
     <cell name="title">Luxembourg : Profils de santé par pays 2019 (fr)</cell>
@@ -3360,7 +3460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/50cbc366</cell>
   </row>
-  <row index="168">
+  <row index="173">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2393fd0a-en</cell>
     <cell name="title">Ireland: Country Health Profile 2019 (en)</cell>
@@ -3380,7 +3480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7fdde13c</cell>
   </row>
-  <row index="169">
+  <row index="174">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/cb3b543e-el</cell>
     <cell name="title">Κύπρος: Προφίλ Υγείας 2019 (el)</cell>
@@ -3400,7 +3500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ffcea64d</cell>
   </row>
-  <row index="170">
+  <row index="175">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2a8a83c8-es</cell>
     <cell name="title">España: Perfil Sanitario del país 2019 (es)</cell>
@@ -3420,7 +3520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4c347355</cell>
   </row>
-  <row index="171">
+  <row index="176">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c7cfb688-pl</cell>
     <cell name="title">Polska: Profil systemu ochrony zdrowia 2019 (pl)</cell>
@@ -3440,7 +3540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a07dee9e</cell>
   </row>
-  <row index="172">
+  <row index="177">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b941695b-nl</cell>
     <cell name="title">Nederland: Landenprofiel Gezondheid 2019 (nl)</cell>
@@ -3460,7 +3560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f1f3b516</cell>
   </row>
-  <row index="173">
+  <row index="178">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2b82810f-en</cell>
     <cell name="title">Luxembourg: Country Health Profile 2019 (en)</cell>
@@ -3480,7 +3580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5310af06</cell>
   </row>
-  <row index="174">
+  <row index="179">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1efa7683-et</cell>
     <cell name="title">Eesti: riigi terviseprofiil 2019 (et)</cell>
@@ -3500,7 +3600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4ad8bd98</cell>
   </row>
-  <row index="175">
+  <row index="180">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b63e8c9f-en</cell>
     <cell name="title">Croatia: Country Health Profile 2019 (en)</cell>
@@ -3520,7 +3620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/66de17b7</cell>
   </row>
-  <row index="176">
+  <row index="181">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4ecf193f-de</cell>
     <cell name="title">Deutschland: Länderprofil Gesundheit 2019 (de)</cell>
@@ -3540,7 +3640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6d6b0d2</cell>
   </row>
-  <row index="177">
+  <row index="182">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c1ae6f4b-en</cell>
     <cell name="title">Slovak Republic: Country Health Profile 2019 (en)</cell>
@@ -3560,7 +3660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/94df46c8</cell>
   </row>
-  <row index="178">
+  <row index="183">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2dcb7ca6-en</cell>
     <cell name="title">Sweden: Country Health Profile 2019 (en)</cell>
@@ -3580,7 +3680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/439241ca</cell>
   </row>
-  <row index="179">
+  <row index="184">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/d87da56a-en</cell>
     <cell name="title">Greece: Country Health Profile 2019 (en)</cell>
@@ -3600,7 +3700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/877799ae</cell>
   </row>
-  <row index="180">
+  <row index="185">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/571dd841-it</cell>
     <cell name="title">Italia: Profilo della sanità 2019 (it)</cell>
@@ -3620,7 +3720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b8c2bf3c</cell>
   </row>
-  <row index="181">
+  <row index="186">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/cef1e5cb-en</cell>
     <cell name="title">Italy: Country Health Profile 2019 (en)</cell>
@@ -3640,7 +3740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/13aec6af</cell>
   </row>
-  <row index="182">
+  <row index="187">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f345b1db-en</cell>
     <cell name="title">Romania: Country Health Profile 2019 (en)</cell>
@@ -3660,7 +3760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27b0ef92</cell>
   </row>
-  <row index="183">
+  <row index="188">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/616bb134-de</cell>
     <cell name="title">Österreich: Länderprofil Gesundheit 2019 (de)</cell>
@@ -3680,7 +3780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d28b2831</cell>
   </row>
-  <row index="184">
+  <row index="189">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/058290e9-en</cell>
     <cell name="title">Czech Republic: Country Health Profile 2019 (en)</cell>
@@ -3700,7 +3800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5dd1b52e</cell>
   </row>
-  <row index="185">
+  <row index="190">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2078ba2a-en</cell>
     <cell name="title">Cyprus: Country Health Profile 2019 (en)</cell>
@@ -3720,7 +3820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/450a933a</cell>
   </row>
-  <row index="186">
+  <row index="191">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/744df2e3-en</cell>
     <cell name="title">United Kingdom: Country Health Profile 2019 (en)</cell>
@@ -3740,7 +3840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da380498</cell>
   </row>
-  <row index="187">
+  <row index="192">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/0b94102e-en</cell>
     <cell name="title">Estonia: Country Health Profile 2019 (en)</cell>
@@ -3760,7 +3860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ea22f7e2</cell>
   </row>
-  <row index="188">
+  <row index="193">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/fe6121d2-en</cell>
     <cell name="title">Austria: Country Health Profile 2019 (en)</cell>
@@ -3780,7 +3880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b5de26c6</cell>
   </row>
-  <row index="189">
+  <row index="194">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/34781ac1-en</cell>
     <cell name="title">Bulgaria: Country Health Profile 2019 (en)</cell>
@@ -3800,7 +3900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9f399e7c</cell>
   </row>
-  <row index="190">
+  <row index="195">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/79ba70a2-en</cell>
     <cell name="title">Slovenia: Country Health Profile 2019 (en)</cell>
@@ -3820,7 +3920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6b21aeca</cell>
   </row>
-  <row index="191">
+  <row index="196">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/05db1284-en</cell>
     <cell name="title">Malta: Country Health Profile 2019 (en)</cell>
@@ -3840,7 +3940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/deb7050b</cell>
   </row>
-  <row index="192">
+  <row index="197">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/1c142aae-en</cell>
     <cell name="title">Blended Finance in the Least Developed Countries 2019 (en)</cell>
@@ -3860,7 +3960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/af6eab43</cell>
   </row>
-  <row index="193">
+  <row index="198">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b5fd1b8f-en</cell>
     <cell name="title">PISA 2018 Results (Volume II) (en)</cell>
@@ -3880,7 +3980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5e8f2cb</cell>
   </row>
-  <row index="194">
+  <row index="199">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b5fd1b8f-en</cell>
     <cell name="title">PISA 2018 Results (Volume II) (en)</cell>
@@ -3900,7 +4000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9e9472a5</cell>
   </row>
-  <row index="195">
+  <row index="200">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/acd78851-en</cell>
     <cell name="title">PISA 2018 Results (Volume III) (en)</cell>
@@ -3920,7 +4020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/adb30e6f</cell>
   </row>
-  <row index="196">
+  <row index="201">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5f07c754-en</cell>
     <cell name="title">PISA 2018 Results (Volume I) (en)</cell>
@@ -3931,7 +4031,7 @@
     <cell name="date of publication">2019-12-03</cell>
     <cell name="embargo date">2019-12-03T08:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-11-05T20:04:57Z</cell>
+    <cell name="ilibrary last export date">2019-11-12T20:05:07Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2019-11-05T19:24:58Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -3940,7 +4040,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b135c27f</cell>
   </row>
-  <row index="197">
+  <row index="202">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/ec30bc50-fr</cell>
+    <cell name="title">Résultats du PISA 2018 (Volume I) (fr)</cell>
+    <cell name="subtitle">Savoirs et savoir-faire des élèves (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2019-12-03T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0dba1997</cell>
+  </row>
+  <row index="203">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/acd78851-en</cell>
     <cell name="title">PISA 2018 Results (Volume III) (en)</cell>
@@ -3960,7 +4080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5b284864</cell>
   </row>
-  <row index="198">
+  <row index="204">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b5fd1b8f-en</cell>
     <cell name="title">PISA 2018 Results (Volume II) (en)</cell>
@@ -3980,7 +4100,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bb8e50af</cell>
   </row>
-  <row index="199">
+  <row index="205">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/ec30bc50-fr</cell>
+    <cell name="title">Résultats du PISA 2018 (Volume I) (fr)</cell>
+    <cell name="subtitle">Savoirs et savoir-faire des élèves (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2019-12-03T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2577548c</cell>
+  </row>
+  <row index="206">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5f07c754-en</cell>
     <cell name="title">PISA 2018 Results (Volume I) (en)</cell>
@@ -3991,7 +4131,7 @@
     <cell name="date of publication">2019-12-03</cell>
     <cell name="embargo date">2019-12-03T08:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-11-05T20:04:57Z</cell>
+    <cell name="ilibrary last export date">2019-11-12T20:05:07Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2019-11-05T19:24:58Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -4000,7 +4140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/14d83738</cell>
   </row>
-  <row index="200">
+  <row index="207">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/acd78851-en</cell>
     <cell name="title">PISA 2018 Results (Volume III) (en)</cell>
@@ -4020,7 +4160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5490b354</cell>
   </row>
-  <row index="201">
+  <row index="208">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5f07c754-en</cell>
     <cell name="title">PISA 2018 Results (Volume I) (en)</cell>
@@ -4031,7 +4171,7 @@
     <cell name="date of publication">2019-12-03</cell>
     <cell name="embargo date">2019-12-03T08:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-11-05T20:04:57Z</cell>
+    <cell name="ilibrary last export date">2019-11-12T20:05:07Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2019-11-05T19:24:58Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -4040,7 +4180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e5334041</cell>
   </row>
-  <row index="202">
+  <row index="209">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b5fd1b8f-en</cell>
     <cell name="title">PISA 2018 Results (Volume II) (en)</cell>
@@ -4060,7 +4200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b2eb761c</cell>
   </row>
-  <row index="203">
+  <row index="210">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/acd78851-en</cell>
     <cell name="title">PISA 2018 Results (Volume III) (en)</cell>
@@ -4080,7 +4220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fad4d68d</cell>
   </row>
-  <row index="204">
+  <row index="211">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/b377fbcc-en</cell>
     <cell name="title">OECD Skills Strategy Poland (en)</cell>
@@ -4100,7 +4240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f826660</cell>
   </row>
-  <row index="205">
+  <row index="212">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/b377fbcc-en</cell>
     <cell name="title">OECD Skills Strategy Poland (en)</cell>

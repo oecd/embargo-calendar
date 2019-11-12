@@ -2,13 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 11 November 2019 at 20:59* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 12 November 2019 at 21:30* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 November 2019](#12-november-2019)
 * [13 November 2019](#13-november-2019)
 * [14 November 2019](#14-november-2019)
 * [15 November 2019](#15-november-2019)
 * [18 November 2019](#18-november-2019)
+* [20 November 2019](#20-november-2019)
 * [26 November 2019](#26-november-2019)
 * [28 November 2019](#28-november-2019)
 * [3 December 2019](#3-december-2019)
@@ -214,16 +215,16 @@ Wednesday 13 November 2019 at 0:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 8 November 2019 at 20:56
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 November 2019 at 21:05
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 November 2019 at 20:26
+- [x] Exported to OECD.org Tuesday 12 November 2019 at 20:26
 
 ### Additional Information
 
 * Directorate: *International Energy Agency*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -359,7 +360,7 @@ Thursday 14 November 2019 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 5 November 2019 at 21:04
 - [x] Exported to Keepeek Thursday 7 November 2019 at 20:37
-- [x] Exported to OECD.org Tuesday 5 November 2019 at 20:24
+- [x] Exported to OECD.org Tuesday 12 November 2019 at 20:26
 
 ### Additional Information
 
@@ -382,7 +383,7 @@ Thursday 14 November 2019 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 6 November 2019 at 21:51
 - [x] Exported to Keepeek Wednesday 6 November 2019 at 20:46
-- [x] Exported to OECD.org Wednesday 6 November 2019 at 20:30
+- [x] Exported to OECD.org Tuesday 12 November 2019 at 20:26
 
 ### Additional Information
 
@@ -457,9 +458,9 @@ Monday 18 November 2019 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 8 November 2019 at 20:56
+- [x] Exported to iLibrary Tuesday 12 November 2019 at 21:05
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 November 2019 at 20:26
+- [x] Exported to OECD.org Tuesday 12 November 2019 at 20:26
 
 ### Additional Information
 
@@ -468,6 +469,33 @@ Monday 18 November 2019 at 10:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+------
+
+# 20 November 2019
+
+## [The Convention on the Rights of the Child](https://doi.org/10.18356/f65bafb2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 20 November 2019 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 November 2019 at 21:05
+- [x] Exported to Keepeek Tuesday 12 November 2019 at 20:39
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Non applicable*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, PDF*
 
 ------
 
@@ -484,9 +512,9 @@ Tuesday 26 November 2019 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 8 November 2019 at 20:56
+- [x] Exported to iLibrary Tuesday 12 November 2019 at 21:05
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 November 2019 at 20:26
+- [x] Exported to OECD.org Tuesday 12 November 2019 at 20:26
 
 ### Additional Information
 
@@ -1734,7 +1762,7 @@ Tuesday 3 December 2019 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 5 November 2019 at 21:04
+- [x] Exported to iLibrary Tuesday 12 November 2019 at 21:05
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 5 November 2019 at 20:24
 
@@ -1768,6 +1796,29 @@ Tuesday 3 December 2019 at 8:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Résultats du PISA 2018 (Volume I) - Savoirs et savoir-faire des élèves](https://doi.org/10.1787/ec30bc50-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 3 December 2019 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
