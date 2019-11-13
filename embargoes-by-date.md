@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 12 November 2019 at 21:30* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 13 November 2019 at 21:14* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 November 2019](#12-november-2019)
 * [13 November 2019](#13-november-2019)
@@ -53,7 +53,7 @@ Tuesday 12 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 October 2019 at 20:49
 - [x] Exported to Keepeek Wednesday 30 October 2019 at 20:35
-- [x] Exported to OECD.org Saturday 9 November 2019 at 15:49
+- [x] Exported to OECD.org Wednesday 13 November 2019 at 20:24
 
 ### Additional Information
 
@@ -76,7 +76,7 @@ Tuesday 12 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 October 2019 at 20:49
 - [x] Exported to Keepeek Wednesday 6 November 2019 at 20:46
-- [x] Exported to OECD.org Saturday 9 November 2019 at 15:49
+- [x] Exported to OECD.org Wednesday 13 November 2019 at 20:24
 
 ### Additional Information
 
@@ -99,7 +99,7 @@ Tuesday 12 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 October 2019 at 20:49
 - [x] Exported to Keepeek Wednesday 30 October 2019 at 20:35
-- [x] Exported to OECD.org Saturday 9 November 2019 at 15:49
+- [x] Exported to OECD.org Wednesday 13 November 2019 at 20:24
 
 ### Additional Information
 
@@ -122,7 +122,7 @@ Tuesday 12 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 October 2019 at 20:49
 - [x] Exported to Keepeek Wednesday 30 October 2019 at 20:35
-- [x] Exported to OECD.org Saturday 9 November 2019 at 15:49
+- [x] Exported to OECD.org Wednesday 13 November 2019 at 20:24
 
 ### Additional Information
 
@@ -145,7 +145,7 @@ Tuesday 12 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 October 2019 at 20:49
 - [x] Exported to Keepeek Wednesday 30 October 2019 at 20:35
-- [x] Exported to OECD.org Saturday 9 November 2019 at 15:49
+- [x] Exported to OECD.org Wednesday 13 November 2019 at 20:24
 
 ### Additional Information
 
@@ -168,7 +168,7 @@ Tuesday 12 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 October 2019 at 20:49
 - [x] Exported to Keepeek Wednesday 30 October 2019 at 20:35
-- [x] Exported to OECD.org Saturday 9 November 2019 at 15:49
+- [x] Exported to OECD.org Wednesday 13 November 2019 at 20:24
 
 ### Additional Information
 
@@ -191,7 +191,7 @@ Tuesday 12 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 October 2019 at 20:49
 - [x] Exported to Keepeek Wednesday 30 October 2019 at 20:35
-- [x] Exported to OECD.org Saturday 9 November 2019 at 15:49
+- [x] Exported to OECD.org Wednesday 13 November 2019 at 20:24
 
 ### Additional Information
 
@@ -308,9 +308,9 @@ Wednesday 13 November 2019 at 9:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 November 2019 at 20:55
+- [x] Exported to iLibrary Wednesday 13 November 2019 at 20:51
 - [x] Exported to Keepeek Thursday 7 November 2019 at 20:37
-- [x] Exported to OECD.org Monday 11 November 2019 at 20:19
+- [x] Exported to OECD.org Wednesday 13 November 2019 at 20:24
 
 ### Additional Information
 
@@ -334,17 +334,40 @@ Thursday 14 November 2019 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 8 November 2019 at 20:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 November 2019 at 20:24
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 13 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 13 November 2019 at 20:36
+- [x] Exported to OECD.org Wednesday 13 November 2019 at 20:24
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [Multilingual Summaries for Government at a Glance 2019](https://doi.org/10.1787/93a2269c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 November 2019 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 13 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 13 November 2019 at 20:36
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* 9 Languages: [Italian](https://doi.org/10.1787/d7c73918-it), [Korean](https://doi.org/10.1787/39b7a975-ko), [German](https://doi.org/10.1787/d264cd09-de), [English](https://doi.org/10.1787/93a2269c-en), [Japanese](https://doi.org/10.1787/c98beafe-ja), [Russian](https://doi.org/10.1787/3c661a8b-ru), [Spanish](https://doi.org/10.1787/3fc4c63c-es), [Portuguese](https://doi.org/10.1787/1e8790af-pt), [French](https://doi.org/10.1787/30ba37c4-fr)
+* Availability: *Published*
+* Type of publication: *Summary*
 * Formats: *ePub, HTML, PDF*
 
 ------
@@ -410,7 +433,7 @@ Friday 15 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 November 2019 at 20:55
 - [x] Exported to Keepeek Thursday 7 November 2019 at 20:37
-- [x] Exported to OECD.org Thursday 7 November 2019 at 20:24
+- [x] Exported to OECD.org Wednesday 13 November 2019 at 20:24
 
 ### Additional Information
 
@@ -433,7 +456,7 @@ Friday 15 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 6 November 2019 at 21:51
 - [x] Exported to Keepeek Wednesday 6 November 2019 at 20:46
-- [x] Exported to OECD.org Wednesday 6 November 2019 at 20:30
+- [x] Exported to OECD.org Wednesday 13 November 2019 at 20:24
 
 ### Additional Information
 
@@ -457,16 +480,16 @@ Monday 18 November 2019 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 12 November 2019 at 21:05
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 November 2019 at 20:26
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 13 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 13 November 2019 at 20:36
+- [x] Exported to OECD.org Wednesday 13 November 2019 at 20:24
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
