@@ -2,206 +2,18 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 13 November 2019 at 21:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 14 November 2019 at 21:48* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 November 2019](#12-november-2019)
 * [13 November 2019](#13-november-2019)
 * [14 November 2019](#14-november-2019)
 * [15 November 2019](#15-november-2019)
 * [18 November 2019](#18-november-2019)
 * [20 November 2019](#20-november-2019)
+* [21 November 2019](#21-november-2019)
 * [26 November 2019](#26-november-2019)
 * [28 November 2019](#28-november-2019)
 * [3 December 2019](#3-december-2019)
 * [11 December 2019](#11-december-2019)
-
-------
-
-# 12 November 2019
-
-## [How are PISA results related to adult life outcomes?](https://doi.org/10.1787/7b60595e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 November 2019 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 November 2019 at 20:55
-- [x] Exported to Keepeek Thursday 7 November 2019 at 20:37
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Dominican Republic 2019 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/7f68d3cf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 30 October 2019 at 20:49
-- [x] Exported to Keepeek Wednesday 30 October 2019 at 20:35
-- [x] Exported to OECD.org Wednesday 13 November 2019 at 20:24
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Marshall Islands 2019 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/89b5f984-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 30 October 2019 at 20:49
-- [x] Exported to Keepeek Wednesday 6 November 2019 at 20:46
-- [x] Exported to OECD.org Wednesday 13 November 2019 at 20:24
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Samoa 2019 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/d8954bf5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 30 October 2019 at 20:49
-- [x] Exported to Keepeek Wednesday 30 October 2019 at 20:35
-- [x] Exported to OECD.org Wednesday 13 November 2019 at 20:24
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Panama 2019 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/5f2584a0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 30 October 2019 at 20:49
-- [x] Exported to Keepeek Wednesday 30 October 2019 at 20:35
-- [x] Exported to OECD.org Wednesday 13 November 2019 at 20:24
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Saudi Arabia 2019 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/186f45ba-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 30 October 2019 at 20:49
-- [x] Exported to Keepeek Wednesday 30 October 2019 at 20:35
-- [x] Exported to OECD.org Wednesday 13 November 2019 at 20:24
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: United Arab Emirates 2019 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/78bb1919-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 30 October 2019 at 20:49
-- [x] Exported to Keepeek Wednesday 30 October 2019 at 20:35
-- [x] Exported to OECD.org Wednesday 13 November 2019 at 20:24
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Andorra 2019 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/7f57533b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 30 October 2019 at 20:49
-- [x] Exported to Keepeek Wednesday 30 October 2019 at 20:35
-- [x] Exported to OECD.org Wednesday 13 November 2019 at 20:24
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -218,7 +30,7 @@ Wednesday 13 November 2019 at 0:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 November 2019 at 21:05
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 November 2019 at 20:26
+- [x] Exported to OECD.org Thursday 14 November 2019 at 20:25
 
 ### Additional Information
 
@@ -310,7 +122,7 @@ Wednesday 13 November 2019 at 9:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 November 2019 at 20:51
 - [x] Exported to Keepeek Thursday 7 November 2019 at 20:37
-- [x] Exported to OECD.org Wednesday 13 November 2019 at 20:24
+- [x] Exported to OECD.org Thursday 14 November 2019 at 20:25
 
 ### Additional Information
 
@@ -359,7 +171,7 @@ Thursday 14 November 2019 at 8:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 13 November 2019 at 20:36
+- [x] Exported to Keepeek Thursday 14 November 2019 at 20:38
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -383,7 +195,7 @@ Thursday 14 November 2019 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 5 November 2019 at 21:04
 - [x] Exported to Keepeek Thursday 7 November 2019 at 20:37
-- [x] Exported to OECD.org Tuesday 12 November 2019 at 20:26
+- [x] Exported to OECD.org Thursday 14 November 2019 at 20:25
 
 ### Additional Information
 
@@ -519,6 +331,33 @@ Wednesday 20 November 2019 at 12:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, PDF*
+
+------
+
+------
+
+# 21 November 2019
+
+## [Insights from OECD Phillips curve equations on recent inflation outcomes](https://doi.org/10.1787/d1e97b18-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 November 2019 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 November 2019 at 21:21
+- [x] Exported to Keepeek Thursday 14 November 2019 at 20:38
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
