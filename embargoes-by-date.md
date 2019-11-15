@@ -2,137 +2,19 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 14 November 2019 at 21:48* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 15 November 2019 at 21:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [13 November 2019](#13-november-2019)
 * [14 November 2019](#14-november-2019)
 * [15 November 2019](#15-november-2019)
 * [18 November 2019](#18-november-2019)
+* [19 November 2019](#19-november-2019)
 * [20 November 2019](#20-november-2019)
 * [21 November 2019](#21-november-2019)
 * [26 November 2019](#26-november-2019)
 * [28 November 2019](#28-november-2019)
 * [3 December 2019](#3-december-2019)
+* [5 December 2019](#5-december-2019)
 * [11 December 2019](#11-december-2019)
-
-------
-
-# 13 November 2019
-
-## [World Energy Outlook 2019](https://doi.org/10.1787/caf32f3b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 November 2019 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 November 2019 at 21:05
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *International Energy Agency*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Educational outcomes: A literature review of policy drivers from a macroeconomic perspective](https://doi.org/10.1787/990801aa-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 November 2019 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 November 2019 at 20:56
-- [x] Exported to Keepeek Friday 8 November 2019 at 20:38
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Policy drivers of human capital in the OECD’s quantification of structural reforms](https://doi.org/10.1787/b8fe3b7b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 November 2019 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 November 2019 at 20:56
-- [x] Exported to Keepeek Friday 8 November 2019 at 20:38
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [A new macroeconomic measure of human capital with strong empirical links to productivity](https://doi.org/10.1787/d12d7305-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 November 2019 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 November 2019 at 20:56
-- [x] Exported to Keepeek Friday 8 November 2019 at 20:38
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Austria 2019](https://doi.org/10.1787/22f8383a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 November 2019 at 9:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 November 2019 at 20:51
-- [x] Exported to Keepeek Thursday 7 November 2019 at 20:37
-- [x] Exported to OECD.org Thursday 14 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -149,7 +31,7 @@ Thursday 14 November 2019 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 November 2019 at 20:51
 - [x] Exported to Keepeek Wednesday 13 November 2019 at 20:36
-- [x] Exported to OECD.org Wednesday 13 November 2019 at 20:24
+- [x] Exported to OECD.org Friday 15 November 2019 at 20:23
 
 ### Additional Information
 
@@ -195,7 +77,7 @@ Thursday 14 November 2019 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 5 November 2019 at 21:04
 - [x] Exported to Keepeek Thursday 7 November 2019 at 20:37
-- [x] Exported to OECD.org Thursday 14 November 2019 at 20:25
+- [x] Exported to OECD.org Friday 15 November 2019 at 20:23
 
 ### Additional Information
 
@@ -218,7 +100,7 @@ Thursday 14 November 2019 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 6 November 2019 at 21:51
 - [x] Exported to Keepeek Wednesday 6 November 2019 at 20:46
-- [x] Exported to OECD.org Tuesday 12 November 2019 at 20:26
+- [x] Exported to OECD.org Friday 15 November 2019 at 20:23
 
 ### Additional Information
 
@@ -243,7 +125,7 @@ Friday 15 November 2019 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 November 2019 at 20:55
+- [x] Exported to iLibrary Friday 15 November 2019 at 11:55
 - [x] Exported to Keepeek Thursday 7 November 2019 at 20:37
 - [x] Exported to OECD.org Wednesday 13 November 2019 at 20:24
 
@@ -303,6 +185,56 @@ Monday 18 November 2019 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 19 November 2019
+
+## [Changing the Odds for Vulnerable Children - Building Opportunities and Resilience](https://doi.org/10.1787/a2e8796c-en)
+
+Embargo date | Launch date
+-------------|------------
+Tuesday 19 November 2019 at 9:00 | Tuesday 19 November 2019 at 9:00
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 15 November 2019 at 20:50
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 15 November 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *General Secretariat*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Revenue Statistics in Africa 2019 (en) | Statistiques des recettes publiques en Afrique 2019 - 1990-2017 (en) | 1990-2017](https://doi.org/10.1787/5daa24c1-en-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 19 November 2019 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 15 November 2019 at 20:50
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 15 November 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English | French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -385,6 +317,29 @@ Tuesday 26 November 2019 at 7:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Enhancing Access to and Sharing of Data - Reconciling Risks and Benefits for Data Re-use across Societies](https://doi.org/10.1787/276aaca8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 26 November 2019 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 15 November 2019 at 20:50
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 15 November 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
@@ -1681,6 +1636,56 @@ Tuesday 3 December 2019 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 5 December 2019
+
+## [Statistiques de recettes publiques 2019](https://doi.org/10.1787/df3c3b17-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 December 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 15 November 2019 at 20:50
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 15 November 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Revenue Statistics 2019](https://doi.org/10.1787/0bbc27da-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 December 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 15 November 2019 at 20:50
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 15 November 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
