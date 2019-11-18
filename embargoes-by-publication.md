@@ -2,145 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 15 November 2019 at 21:11* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Government at a Glance 2019](https://doi.org/10.1787/8ccf5c38-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 November 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 13 November 2019 at 20:36
-- [x] Exported to OECD.org Friday 15 November 2019 at 20:23
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Multilingual Summaries for Government at a Glance 2019](https://doi.org/10.1787/93a2269c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 November 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 November 2019 at 20:51
-- [x] Exported to Keepeek Thursday 14 November 2019 at 20:38
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* 9 Languages: [Italian](https://doi.org/10.1787/d7c73918-it), [Korean](https://doi.org/10.1787/39b7a975-ko), [German](https://doi.org/10.1787/d264cd09-de), [English](https://doi.org/10.1787/93a2269c-en), [Japanese](https://doi.org/10.1787/c98beafe-ja), [Russian](https://doi.org/10.1787/3c661a8b-ru), [Spanish](https://doi.org/10.1787/3fc4c63c-es), [Portuguese](https://doi.org/10.1787/1e8790af-pt), [French](https://doi.org/10.1787/30ba37c4-fr)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [OECD Environmental Performance Reviews: Denmark 2019](https://doi.org/10.1787/1eeec492-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 November 2019 at 21:04
-- [x] Exported to Keepeek Thursday 7 November 2019 at 20:37
-- [x] Exported to OECD.org Friday 15 November 2019 at 20:23
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Working and Learning Together - Rethinking Human Resource Policies for Schools](https://doi.org/10.1787/b7aaf050-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 November 2019 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 November 2019 at 21:51
-- [x] Exported to Keepeek Wednesday 6 November 2019 at 20:46
-- [x] Exported to OECD.org Friday 15 November 2019 at 20:23
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [The Survey of Adult Skills  - Reader’s Companion, Third Edition](https://doi.org/10.1787/f70238c7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 15 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 November 2019 at 11:55
-- [x] Exported to Keepeek Thursday 7 November 2019 at 20:37
-- [x] Exported to OECD.org Wednesday 13 November 2019 at 20:24
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Skills Matter - Additional Results from the Survey of Adult Skills](https://doi.org/10.1787/1f029d8f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 15 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 November 2019 at 21:51
-- [x] Exported to Keepeek Wednesday 6 November 2019 at 20:46
-- [x] Exported to OECD.org Wednesday 13 November 2019 at 20:24
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Monday 18 November 2019 at 21:20* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Negotiating Our Way Up - Collective Bargaining in a Changing World of Work](https://doi.org/10.1787/1fd2da34-en)
 
@@ -152,8 +14,8 @@ Monday 18 November 2019 at 10:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 13 November 2019 at 20:36
-- [x] Exported to OECD.org Wednesday 13 November 2019 at 20:24
+- [x] Exported to Keepeek Monday 18 November 2019 at 20:36
+- [x] Exported to OECD.org Saturday 16 November 2019 at 15:51
 
 ### Additional Information
 
@@ -173,18 +35,18 @@ Tuesday 19 November 2019 at 9:00 | Tuesday 19 November 2019 at 9:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 15 November 2019 at 20:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 November 2019 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 18 November 2019 at 20:53
+- [x] Exported to Keepeek Monday 18 November 2019 at 20:36
+- [x] Exported to OECD.org Monday 18 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *General Secretariat*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -196,17 +58,63 @@ Tuesday 19 November 2019 at 15:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 15 November 2019 at 20:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 November 2019 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 18 November 2019 at 20:53
+- [x] Exported to Keepeek Monday 18 November 2019 at 20:36
+- [x] Exported to OECD.org Monday 18 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English | French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [The Least Developed Countries Report 2019 - The Present and Future of External Development Finance - Old Dependence, New Challenges](https://doi.org/10.18356/2164068b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 19 November 2019 at 17:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 18 November 2019 at 20:53
+- [x] Exported to Keepeek Monday 18 November 2019 at 20:36
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Non applicable*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Assessing students’ social and emotional skills through triangulation of assessment methods](https://doi.org/10.1787/717ad7f2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 20 November 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 18 November 2019 at 20:53
+- [x] Exported to Keepeek Monday 18 November 2019 at 20:36
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -265,18 +173,18 @@ Tuesday 26 November 2019 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 12 November 2019 at 21:05
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 November 2019 at 20:26
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 18 November 2019 at 20:53
+- [x] Exported to Keepeek Monday 18 November 2019 at 20:36
+- [x] Exported to OECD.org Monday 18 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -299,6 +207,167 @@ Tuesday 26 November 2019 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Hong Kong, China (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/46034be3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 November 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 18 November 2019 at 20:53
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 18 November 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, China (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/85e69082-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 November 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 18 November 2019 at 20:53
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 18 November 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Russian Federation (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/4599c8b2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 November 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 18 November 2019 at 20:53
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 18 November 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Saudi Arabia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/322136b0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 November 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 18 November 2019 at 20:53
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 18 November 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Bulgaria (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/30ffa4a6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 November 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 18 November 2019 at 20:53
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 18 November 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Indonesia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/deb42398-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 November 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 18 November 2019 at 20:53
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 18 November 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Brazil (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/12acb5ea-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 November 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 18 November 2019 at 20:53
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 18 November 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
