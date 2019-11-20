@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 19 November 2019 at 21:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 20 November 2019 at 21:20* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [18 November 2019](#18-november-2019)
 * [19 November 2019](#19-november-2019)
 * [20 November 2019](#20-november-2019)
 * [21 November 2019](#21-november-2019)
@@ -13,33 +12,6 @@ Data generated on | |
 * [3 December 2019](#3-december-2019)
 * [5 December 2019](#5-december-2019)
 * [11 December 2019](#11-december-2019)
-
-------
-
-# 18 November 2019
-
-## [Negotiating Our Way Up - Collective Bargaining in a Changing World of Work](https://doi.org/10.1787/1fd2da34-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 19 November 2019 at 20:51
-- [x] Exported to Keepeek Monday 18 November 2019 at 20:36
-- [x] Exported to OECD.org Tuesday 19 November 2019 at 20:22
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -56,7 +28,7 @@ Tuesday 19 November 2019 at 9:00 | Tuesday 19 November 2019 at 9:00
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 18 November 2019 at 20:53
 - [x] Exported to Keepeek Monday 18 November 2019 at 20:36
-- [x] Exported to OECD.org Monday 18 November 2019 at 20:23
+- [x] Exported to OECD.org Wednesday 20 November 2019 at 20:25
 
 ### Additional Information
 
@@ -79,7 +51,7 @@ Tuesday 19 November 2019 at 15:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 18 November 2019 at 20:53
 - [x] Exported to Keepeek Monday 18 November 2019 at 20:36
-- [x] Exported to OECD.org Monday 18 November 2019 at 20:23
+- [x] Exported to OECD.org Wednesday 20 November 2019 at 20:25
 
 ### Additional Information
 
@@ -214,6 +186,29 @@ Thursday 21 November 2019 at 10:00 | no launch event
 
 ------
 
+## [Multilingual Summaries for OECD Economic Outlook, Volume 2019 Issue 2](https://doi.org/10.1787/4c90c873-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 November 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 20 November 2019 at 20:59
+- [x] Exported to Keepeek Wednesday 20 November 2019 at 20:40
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* 4 Languages: [German](https://doi.org/10.1787/e503b1dc-de), [Slovenian](https://doi.org/10.1787/d4e4ed09-sl), [Norwegian](https://doi.org/10.1787/3655d313-no), [English](https://doi.org/10.1787/4c90c873-en)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Formats: *ePub, HTML, PDF*
+
+------
+
 ## [OECD Economic Outlook, Volume 2019 Issue 2 - Preliminary version](https://doi.org/10.1787/9b89401b-en)
 
 Embargo date | Launch date
@@ -222,18 +217,18 @@ Thursday 21 November 2019 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 19 November 2019 at 20:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 November 2019 at 20:22
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 20 November 2019 at 20:59
+- [x] Exported to Keepeek Wednesday 20 November 2019 at 20:40
+- [x] Exported to OECD.org Wednesday 20 November 2019 at 20:25
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, PDF*
 
 ------
 
@@ -245,18 +240,18 @@ Thursday 21 November 2019 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 19 November 2019 at 20:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 November 2019 at 20:22
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 20 November 2019 at 20:59
+- [x] Exported to Keepeek Wednesday 20 November 2019 at 20:40
+- [x] Exported to OECD.org Wednesday 20 November 2019 at 20:25
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *German*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -346,9 +341,9 @@ Thursday 28 November 2019 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 19 November 2019 at 20:51
+- [x] Exported to iLibrary Wednesday 20 November 2019 at 20:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 November 2019 at 20:22
+- [x] Exported to OECD.org Wednesday 20 November 2019 at 20:25
 
 ### Additional Information
 
@@ -369,9 +364,9 @@ Thursday 28 November 2019 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 19 November 2019 at 20:51
+- [x] Exported to iLibrary Wednesday 20 November 2019 at 20:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 November 2019 at 20:22
+- [x] Exported to OECD.org Wednesday 20 November 2019 at 20:25
 
 ### Additional Information
 
@@ -392,9 +387,9 @@ Thursday 28 November 2019 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 19 November 2019 at 20:51
+- [x] Exported to iLibrary Wednesday 20 November 2019 at 20:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 November 2019 at 20:22
+- [x] Exported to OECD.org Wednesday 20 November 2019 at 20:25
 
 ### Additional Information
 
@@ -415,9 +410,9 @@ Thursday 28 November 2019 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 19 November 2019 at 20:51
+- [x] Exported to iLibrary Wednesday 20 November 2019 at 20:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 November 2019 at 20:22
+- [x] Exported to OECD.org Wednesday 20 November 2019 at 20:25
 
 ### Additional Information
 
@@ -438,9 +433,9 @@ Thursday 28 November 2019 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 19 November 2019 at 20:51
+- [x] Exported to iLibrary Wednesday 20 November 2019 at 20:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 November 2019 at 20:22
+- [x] Exported to OECD.org Wednesday 20 November 2019 at 20:25
 
 ### Additional Information
 
@@ -461,9 +456,9 @@ Thursday 28 November 2019 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 19 November 2019 at 20:51
+- [x] Exported to iLibrary Wednesday 20 November 2019 at 20:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 November 2019 at 20:22
+- [x] Exported to OECD.org Wednesday 20 November 2019 at 20:25
 
 ### Additional Information
 
@@ -1826,9 +1821,9 @@ Thursday 5 December 2019 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 15 November 2019 at 20:50
+- [x] Exported to iLibrary Wednesday 20 November 2019 at 20:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 November 2019 at 20:23
+- [x] Exported to OECD.org Wednesday 20 November 2019 at 20:25
 
 ### Additional Information
 
