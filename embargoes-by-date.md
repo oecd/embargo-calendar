@@ -2,65 +2,15 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 21 November 2019 at 21:16* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 22 November 2019 at 21:03* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [20 November 2019](#20-november-2019)
 * [21 November 2019](#21-november-2019)
 * [26 November 2019](#26-november-2019)
+* [27 November 2019](#27-november-2019)
 * [28 November 2019](#28-november-2019)
 * [3 December 2019](#3-december-2019)
 * [5 December 2019](#5-december-2019)
 * [11 December 2019](#11-december-2019)
-
-------
-
-# 20 November 2019
-
-## [Assessing students’ social and emotional skills through triangulation of assessment methods](https://doi.org/10.1787/717ad7f2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 20 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 18 November 2019 at 20:53
-- [x] Exported to Keepeek Monday 18 November 2019 at 20:36
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [The Convention on the Rights of the Child](https://doi.org/10.18356/f65bafb2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 20 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 November 2019 at 21:05
-- [x] Exported to Keepeek Tuesday 12 November 2019 at 20:39
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Non applicable*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, PDF*
-
-------
 
 ------
 
@@ -75,8 +25,8 @@ Thursday 21 November 2019 at 1:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 November 2019 at 21:21
-- [x] Exported to Keepeek Thursday 14 November 2019 at 20:38
+- [x] Exported to iLibrary Friday 22 November 2019 at 20:41
+- [x] Exported to Keepeek Friday 22 November 2019 at 20:34
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -169,7 +119,7 @@ Thursday 21 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
 - [x] Exported to Keepeek Thursday 21 November 2019 at 10:36
-- [x] Exported to OECD.org Thursday 21 November 2019 at 20:21
+- [x] Exported to OECD.org Friday 22 November 2019 at 20:24
 
 ### Additional Information
 
@@ -240,7 +190,7 @@ Tuesday 26 November 2019 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
+- [x] Exported to iLibrary Friday 22 November 2019 at 20:41
 - [x] Exported to Keepeek Thursday 21 November 2019 at 20:35
 - [x] Exported to OECD.org Thursday 21 November 2019 at 20:21
 
@@ -274,6 +224,33 @@ Tuesday 26 November 2019 at 9:30 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
 * Format: *PDF*
+
+------
+
+------
+
+# 27 November 2019
+
+## [Pensions at a Glance 2019](https://doi.org/10.1787/b6d3dcfc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 November 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 22 November 2019 at 20:41
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 22 November 2019 at 20:24
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
