@@ -2,145 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 22 November 2019 at 21:03* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Insights from OECD Phillips curve equations on recent inflation outcomes](https://doi.org/10.1787/d1e97b18-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 November 2019 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 November 2019 at 20:41
-- [x] Exported to Keepeek Friday 22 November 2019 at 20:34
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Perspectives économiques de l'OCDE, Volume 2019 Numéro 1](https://doi.org/10.1787/0a0e3904-fr)
-
-Embargo date | Launch date
--------------|------------
-Thursday 21 November 2019 at 10:00 | Tuesday 21 May 2019 at 9:00
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
-- [x] Exported to Keepeek Thursday 21 November 2019 at 20:35
-- [x] Exported to OECD.org Thursday 27 June 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, PDF*
-
-------
-
-## [Perspectives économiques de l'OCDE, Volume 2019 Numéro 2 - Version préliminaire](https://doi.org/10.1787/77c8f557-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
-- [x] Exported to Keepeek Thursday 21 November 2019 at 20:35
-- [x] Exported to OECD.org Thursday 21 November 2019 at 20:21
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Multilingual Summaries for OECD Economic Outlook, Volume 2019 Issue 2](https://doi.org/10.1787/4c90c873-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
-- [x] Exported to Keepeek Wednesday 20 November 2019 at 20:40
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* 4 Languages: [German](https://doi.org/10.1787/e503b1dc-de), [Slovenian](https://doi.org/10.1787/d4e4ed09-sl), [Norwegian](https://doi.org/10.1787/3655d313-no), [English](https://doi.org/10.1787/4c90c873-en)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [OECD Economic Outlook, Volume 2019 Issue 2 - Preliminary version](https://doi.org/10.1787/9b89401b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
-- [x] Exported to Keepeek Thursday 21 November 2019 at 10:36
-- [x] Exported to OECD.org Friday 22 November 2019 at 20:24
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [OECD-Wirtschaftsausblick, Ausgabe 2019/2 - Vorläufige Ausgabe](https://doi.org/10.1787/31045866-de)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 November 2019 at 10:39
-- [x] Exported to Keepeek Thursday 21 November 2019 at 10:36
-- [x] Exported to OECD.org Thursday 21 November 2019 at 20:21
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
+| *Monday 25 November 2019 at 21:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Revue du système de passation des marchés publics en Algérie - Vers un système efficient, ouvert et inclusif](https://doi.org/10.1787/49802cd0-fr)
 
@@ -151,9 +13,9 @@ Tuesday 26 November 2019 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
-- [x] Exported to Keepeek Monday 18 November 2019 at 20:36
-- [x] Exported to OECD.org Monday 18 November 2019 at 20:23
+- [x] Exported to iLibrary Monday 25 November 2019 at 20:55
+- [x] Exported to Keepeek Saturday 23 November 2019 at 18:24
+- [x] Exported to OECD.org Saturday 23 November 2019 at 15:36
 
 ### Additional Information
 
@@ -175,8 +37,8 @@ Tuesday 26 November 2019 at 8:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 22 November 2019 at 20:41
-- [x] Exported to Keepeek Thursday 21 November 2019 at 20:35
-- [x] Exported to OECD.org Thursday 21 November 2019 at 20:21
+- [x] Exported to Keepeek Saturday 23 November 2019 at 18:24
+- [x] Exported to OECD.org Saturday 23 November 2019 at 15:36
 
 ### Additional Information
 
@@ -188,30 +50,7 @@ Tuesday 26 November 2019 at 8:00 | no launch event
 
 ------
 
-## [Exchange of information and bank deposits in international financial centres](https://doi.org/10.1787/025bfebe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 26 November 2019 at 9:30 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Pensions at a Glance 2019](https://doi.org/10.1787/b6d3dcfc-en)
+## [Multilingual Summaries for Pensions at a Glance 2019](https://doi.org/10.1787/491ba6a3-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -219,10 +58,33 @@ Wednesday 27 November 2019 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 22 November 2019 at 20:41
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 25 November 2019 at 20:55
+- [x] Exported to Keepeek Monday 25 November 2019 at 20:38
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* 15 Languages: [Greek](https://doi.org/10.1787/43e29a07-el), [Korean](https://doi.org/10.1787/8c29a6b2-ko), [Turkish](https://doi.org/10.1787/462a828d-tr), [German](https://doi.org/10.1787/f89df6b4-de), [Indonesian](https://doi.org/10.1787/e34d0e94-id), [Arabic](https://doi.org/10.1787/c7bd9784-ar), [Chinese](https://doi.org/10.1787/93894e2b-zh), [Norwegian](https://doi.org/10.1787/28c726ec-no), [English](https://doi.org/10.1787/491ba6a3-en), [Polish](https://doi.org/10.1787/19a25fc9-pl), [Japanese](https://doi.org/10.1787/b726c05f-ja), [Russian](https://doi.org/10.1787/fb157eec-ru), [Spanish](https://doi.org/10.1787/0bbfea22-es), [Portuguese](https://doi.org/10.1787/bb6ef523-pt), [French](https://doi.org/10.1787/0d4e3a7b-fr)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [Pensions at a Glance 2019 - OECD and G20 Indicators](https://doi.org/10.1787/b6d3dcfc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 November 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 25 November 2019 at 20:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 November 2019 at 20:24
+- [x] Exported to OECD.org Monday 25 November 2019 at 20:24
 
 ### Additional Information
 
@@ -253,6 +115,29 @@ Thursday 28 November 2019 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Introduction of multistage adaptive testing design in PISA 2018](https://doi.org/10.1787/b9435d4b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 November 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 25 November 2019 at 20:55
+- [x] Exported to Keepeek Monday 25 November 2019 at 20:38
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -1683,7 +1568,30 @@ Tuesday 3 December 2019 at 8:00 | no launch event
 
 ------
 
-## [Statistiques de recettes publiques 2019](https://doi.org/10.1787/df3c3b17-fr)
+## [OECD Economic Surveys: India 2019](https://doi.org/10.1787/554c1c22-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 December 2019 at 4:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 25 November 2019 at 20:55
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 25 November 2019 at 20:24
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Statistiques des recettes publiques 2019](https://doi.org/10.1787/df3c3b17-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -1692,9 +1600,9 @@ Thursday 5 December 2019 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 19 November 2019 at 20:51
+- [x] Exported to iLibrary Monday 25 November 2019 at 20:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 November 2019 at 20:22
+- [x] Exported to OECD.org Monday 25 November 2019 at 20:24
 
 ### Additional Information
 
@@ -1748,6 +1656,29 @@ Wednesday 11 December 2019 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Améliorer les statistiques régionales pour un développement territorial inclusif et durable en Tunisie](https://doi.org/10.1787/283fefef-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 December 2019 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
