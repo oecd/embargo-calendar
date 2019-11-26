@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 25 November 2019 at 21:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 26 November 2019 at 21:39* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [26 November 2019](#26-november-2019)
 * [27 November 2019](#27-november-2019)
@@ -26,7 +26,7 @@ Tuesday 26 November 2019 at 7:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 25 November 2019 at 20:55
-- [x] Exported to Keepeek Saturday 23 November 2019 at 18:24
+- [x] Exported to Keepeek Tuesday 26 November 2019 at 20:41
 - [x] Exported to OECD.org Saturday 23 November 2019 at 15:36
 
 ### Additional Information
@@ -66,6 +66,29 @@ Tuesday 26 November 2019 at 8:00 | no launch event
 
 # 27 November 2019
 
+## [Aligning Development Co-operation and Climate Action - The Only Way Forward](https://doi.org/10.1787/5099ad91-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 November 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 26 November 2019 at 21:02
+- [x] Exported to Keepeek Tuesday 26 November 2019 at 20:41
+- [x] Exported to OECD.org Tuesday 26 November 2019 at 20:25
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
 ## [Multilingual Summaries for Pensions at a Glance 2019](https://doi.org/10.1787/491ba6a3-en)
 
 Embargo date | Launch date
@@ -98,15 +121,15 @@ Wednesday 27 November 2019 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 25 November 2019 at 20:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 November 2019 at 20:24
+- [x] Exported to iLibrary Tuesday 26 November 2019 at 21:02
+- [x] Exported to Keepeek Tuesday 26 November 2019 at 20:41
+- [x] Exported to OECD.org Tuesday 26 November 2019 at 20:25
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
 
@@ -127,7 +150,7 @@ Thursday 28 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
 - [x] Exported to Keepeek Thursday 21 November 2019 at 20:35
-- [x] Exported to OECD.org Thursday 21 November 2019 at 20:21
+- [x] Exported to OECD.org Tuesday 26 November 2019 at 20:25
 
 ### Additional Information
 
@@ -173,7 +196,7 @@ Thursday 28 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
 - [x] Exported to Keepeek Thursday 21 November 2019 at 20:35
-- [x] Exported to OECD.org Thursday 21 November 2019 at 20:21
+- [x] Exported to OECD.org Tuesday 26 November 2019 at 20:25
 
 ### Additional Information
 
@@ -196,7 +219,7 @@ Thursday 28 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
 - [x] Exported to Keepeek Thursday 21 November 2019 at 20:35
-- [x] Exported to OECD.org Thursday 21 November 2019 at 20:21
+- [x] Exported to OECD.org Tuesday 26 November 2019 at 20:25
 
 ### Additional Information
 
@@ -219,7 +242,7 @@ Thursday 28 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
 - [x] Exported to Keepeek Thursday 21 November 2019 at 20:35
-- [x] Exported to OECD.org Thursday 21 November 2019 at 20:21
+- [x] Exported to OECD.org Tuesday 26 November 2019 at 20:25
 
 ### Additional Information
 
@@ -242,7 +265,7 @@ Thursday 28 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
 - [x] Exported to Keepeek Thursday 21 November 2019 at 20:35
-- [x] Exported to OECD.org Thursday 21 November 2019 at 20:21
+- [x] Exported to OECD.org Tuesday 26 November 2019 at 20:25
 
 ### Additional Information
 
@@ -265,7 +288,7 @@ Thursday 28 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
 - [x] Exported to Keepeek Thursday 21 November 2019 at 20:35
-- [x] Exported to OECD.org Thursday 21 November 2019 at 20:21
+- [x] Exported to OECD.org Tuesday 26 November 2019 at 20:25
 
 ### Additional Information
 
@@ -288,7 +311,7 @@ Thursday 28 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
 - [x] Exported to Keepeek Thursday 21 November 2019 at 20:35
-- [x] Exported to OECD.org Thursday 21 November 2019 at 20:21
+- [x] Exported to OECD.org Tuesday 26 November 2019 at 20:25
 
 ### Additional Information
 
