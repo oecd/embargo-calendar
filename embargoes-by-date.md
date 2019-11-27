@@ -2,13 +2,15 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 26 November 2019 at 21:39* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 27 November 2019 at 21:12* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [26 November 2019](#26-november-2019)
 * [27 November 2019](#27-november-2019)
 * [28 November 2019](#28-november-2019)
+* [2 December 2019](#2-december-2019)
 * [3 December 2019](#3-december-2019)
 * [5 December 2019](#5-december-2019)
+* [9 December 2019](#9-december-2019)
 * [11 December 2019](#11-december-2019)
 * [16 December 2019](#16-december-2019)
 
@@ -27,7 +29,7 @@ Tuesday 26 November 2019 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 25 November 2019 at 20:55
 - [x] Exported to Keepeek Tuesday 26 November 2019 at 20:41
-- [x] Exported to OECD.org Saturday 23 November 2019 at 15:36
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
@@ -50,7 +52,7 @@ Tuesday 26 November 2019 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 22 November 2019 at 20:41
 - [x] Exported to Keepeek Saturday 23 November 2019 at 18:24
-- [x] Exported to OECD.org Saturday 23 November 2019 at 15:36
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
@@ -98,7 +100,7 @@ Wednesday 27 November 2019 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 25 November 2019 at 20:55
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
 - [x] Exported to Keepeek Monday 25 November 2019 at 20:38
 - [ ] Exported to OECD.org
 
@@ -123,7 +125,7 @@ Wednesday 27 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 26 November 2019 at 21:02
 - [x] Exported to Keepeek Tuesday 26 November 2019 at 20:41
-- [x] Exported to OECD.org Tuesday 26 November 2019 at 20:25
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
@@ -132,6 +134,29 @@ Wednesday 27 November 2019 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+## [World Migration Report 2020](https://doi.org/10.18356/b1710e30-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 November 2019 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Non applicable*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -331,16 +356,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -354,16 +379,39 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Norge: Landprofil 2019](https://doi.org/10.1787/f922a4d1-no)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 November 2019 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Norwegian*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -377,16 +425,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Hungarian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -400,16 +448,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -423,16 +471,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Swedish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -446,16 +494,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Portuguese*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -469,16 +517,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -492,16 +540,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Dutch*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -515,16 +563,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Croatian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -538,16 +586,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Danish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -561,16 +609,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Bulgarian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -584,16 +632,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -607,16 +655,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -630,16 +678,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -654,15 +702,15 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Slovak*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -676,16 +724,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -699,16 +747,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Greek*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -722,16 +770,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -745,16 +793,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Slovenian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -768,16 +816,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -791,16 +839,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Czech*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -814,16 +862,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -837,16 +885,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -860,16 +908,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Finnish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -883,16 +931,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -906,16 +954,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Latvian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -929,16 +977,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Romanian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -952,16 +1000,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -975,16 +1023,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -998,16 +1046,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Greek*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1021,16 +1069,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1044,16 +1092,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Polish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1067,16 +1115,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Dutch*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1090,16 +1138,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1113,16 +1161,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Estonian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1136,16 +1184,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1159,16 +1207,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *German*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1182,16 +1230,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1205,16 +1253,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1228,16 +1276,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1251,16 +1299,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Italian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1274,16 +1322,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1297,16 +1345,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1320,16 +1368,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *German*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1343,16 +1391,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1366,16 +1414,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1389,16 +1437,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1412,16 +1460,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1435,16 +1483,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1458,16 +1506,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1481,16 +1529,16 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1504,17 +1552,67 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 2 December 2019
+
+## [Medición y aplicaciones del IoT](https://doi.org/10.1787/656e87dd-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 December 2019 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Seguridad de productos de consumo en el Internet de las Cosas](https://doi.org/10.1787/6ad205c6-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 December 2019 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -1627,16 +1725,16 @@ Thursday 5 December 2019 at 4:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 25 November 2019 at 20:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 November 2019 at 20:24
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -1684,6 +1782,33 @@ Thursday 5 December 2019 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 9 December 2019
+
+## [OECD Economic Surveys: Norway 2019](https://doi.org/10.1787/c217a266-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 December 2019 at 9:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
