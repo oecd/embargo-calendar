@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 27 November 2019 at 21:12* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Revue du système de passation des marchés publics en Algérie - Vers un système efficient, ouvert et inclusif](https://doi.org/10.1787/49802cd0-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 26 November 2019 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 25 November 2019 at 20:55
-- [x] Exported to Keepeek Tuesday 26 November 2019 at 20:41
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Enhancing Access to and Sharing of Data - Reconciling Risks and Benefits for Data Re-use across Societies](https://doi.org/10.1787/276aaca8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 26 November 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 November 2019 at 20:41
-- [x] Exported to Keepeek Saturday 23 November 2019 at 18:24
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
+| *Thursday 28 November 2019 at 21:25* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Aligning Development Co-operation and Climate Action - The Only Way Forward](https://doi.org/10.1787/5099ad91-en)
 
@@ -61,7 +15,7 @@ Wednesday 27 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 26 November 2019 at 21:02
 - [x] Exported to Keepeek Tuesday 26 November 2019 at 20:41
-- [x] Exported to OECD.org Tuesday 26 November 2019 at 20:25
+- [x] Exported to OECD.org Thursday 28 November 2019 at 20:26
 
 ### Additional Information
 
@@ -107,7 +61,7 @@ Wednesday 27 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 26 November 2019 at 21:02
 - [x] Exported to Keepeek Tuesday 26 November 2019 at 20:41
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Thursday 28 November 2019 at 20:26
 
 ### Additional Information
 
@@ -359,7 +313,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
 - [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
@@ -367,29 +321,6 @@ Thursday 28 November 2019 at 12:00 | no launch event
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Norge: Landprofil 2019](https://doi.org/10.1787/f922a4d1-no)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Norwegian*
-* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -405,7 +336,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
 - [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
@@ -451,7 +382,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
 - [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
@@ -520,7 +451,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
 - [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
@@ -543,7 +474,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
 - [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
@@ -566,7 +497,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
 - [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
@@ -589,7 +520,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
 - [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
@@ -671,29 +602,6 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 ------
 
-## [Slovensko: Zdravotný Profil Krajiny 2019](https://doi.org/10.1787/b2362588-sk)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Slovak*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [Poland: Country Health Profile 2019](https://doi.org/10.1787/297e4b92-en)
 
 Embargo date | Launch date
@@ -727,7 +635,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
 - [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
@@ -773,7 +681,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
 - [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
@@ -819,7 +727,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
 - [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
@@ -842,7 +750,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
 - [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
@@ -957,7 +865,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
 - [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
@@ -980,7 +888,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
 - [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
@@ -1026,7 +934,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
 - [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
@@ -1095,7 +1003,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
 - [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
@@ -1141,7 +1049,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
 - [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
@@ -1279,7 +1187,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
 - [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
@@ -1348,7 +1256,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
 - [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
@@ -1440,7 +1348,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
+- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
 - [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
 
 ### Additional Information
@@ -1600,9 +1508,9 @@ Tuesday 3 December 2019 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 5 November 2019 at 21:04
+- [x] Exported to iLibrary Thursday 28 November 2019 at 21:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 November 2019 at 20:24
+- [x] Exported to OECD.org Thursday 28 November 2019 at 20:26
 
 ### Additional Information
 
@@ -1623,9 +1531,9 @@ Tuesday 3 December 2019 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 12 November 2019 at 21:05
+- [x] Exported to iLibrary Thursday 28 November 2019 at 21:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 November 2019 at 20:24
+- [x] Exported to OECD.org Thursday 28 November 2019 at 20:26
 
 ### Additional Information
 
@@ -1646,9 +1554,9 @@ Tuesday 3 December 2019 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 5 November 2019 at 21:04
+- [x] Exported to iLibrary Thursday 28 November 2019 at 21:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 November 2019 at 20:24
+- [x] Exported to OECD.org Thursday 28 November 2019 at 20:26
 
 ### Additional Information
 
