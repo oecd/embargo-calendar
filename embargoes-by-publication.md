@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 28 November 2019 at 21:25* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Aligning Development Co-operation and Climate Action - The Only Way Forward](https://doi.org/10.1787/5099ad91-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 26 November 2019 at 21:02
-- [x] Exported to Keepeek Tuesday 26 November 2019 at 20:41
-- [x] Exported to OECD.org Thursday 28 November 2019 at 20:26
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Multilingual Summaries for Pensions at a Glance 2019](https://doi.org/10.1787/491ba6a3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Monday 25 November 2019 at 20:38
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* 15 Languages: [Greek](https://doi.org/10.1787/43e29a07-el), [Korean](https://doi.org/10.1787/8c29a6b2-ko), [Turkish](https://doi.org/10.1787/462a828d-tr), [German](https://doi.org/10.1787/f89df6b4-de), [Indonesian](https://doi.org/10.1787/e34d0e94-id), [Arabic](https://doi.org/10.1787/c7bd9784-ar), [Chinese](https://doi.org/10.1787/93894e2b-zh), [Norwegian](https://doi.org/10.1787/28c726ec-no), [English](https://doi.org/10.1787/491ba6a3-en), [Polish](https://doi.org/10.1787/19a25fc9-pl), [Japanese](https://doi.org/10.1787/b726c05f-ja), [Russian](https://doi.org/10.1787/fb157eec-ru), [Spanish](https://doi.org/10.1787/0bbfea22-es), [Portuguese](https://doi.org/10.1787/bb6ef523-pt), [French](https://doi.org/10.1787/0d4e3a7b-fr)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Pensions at a Glance 2019 - OECD and G20 Indicators](https://doi.org/10.1787/b6d3dcfc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 26 November 2019 at 21:02
-- [x] Exported to Keepeek Tuesday 26 November 2019 at 20:41
-- [x] Exported to OECD.org Thursday 28 November 2019 at 20:26
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [World Migration Report 2020](https://doi.org/10.18356/b1710e30-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Non applicable*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Friday 29 November 2019 at 21:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Making Dispute Resolution More Effective – MAP Peer Review Report, Hong Kong, China (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/46034be3-en)
 
@@ -107,7 +15,7 @@ Thursday 28 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
 - [x] Exported to Keepeek Thursday 21 November 2019 at 20:35
-- [x] Exported to OECD.org Tuesday 26 November 2019 at 20:25
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -153,7 +61,7 @@ Thursday 28 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
 - [x] Exported to Keepeek Thursday 21 November 2019 at 20:35
-- [x] Exported to OECD.org Tuesday 26 November 2019 at 20:25
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -176,7 +84,7 @@ Thursday 28 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
 - [x] Exported to Keepeek Thursday 21 November 2019 at 20:35
-- [x] Exported to OECD.org Tuesday 26 November 2019 at 20:25
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -199,7 +107,7 @@ Thursday 28 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
 - [x] Exported to Keepeek Thursday 21 November 2019 at 20:35
-- [x] Exported to OECD.org Tuesday 26 November 2019 at 20:25
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -222,7 +130,7 @@ Thursday 28 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
 - [x] Exported to Keepeek Thursday 21 November 2019 at 20:35
-- [x] Exported to OECD.org Tuesday 26 November 2019 at 20:25
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -245,7 +153,7 @@ Thursday 28 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
 - [x] Exported to Keepeek Thursday 21 November 2019 at 20:35
-- [x] Exported to OECD.org Tuesday 26 November 2019 at 20:25
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -268,7 +176,7 @@ Thursday 28 November 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
 - [x] Exported to Keepeek Thursday 21 November 2019 at 20:35
-- [x] Exported to OECD.org Tuesday 26 November 2019 at 20:25
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -291,7 +199,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -312,9 +220,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
+- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -335,9 +243,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
+- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -360,7 +268,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -381,9 +289,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
+- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -406,7 +314,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -427,9 +335,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -450,9 +358,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
+- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -473,9 +381,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
+- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -496,9 +404,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
+- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -519,9 +427,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
+- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -544,7 +452,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -567,7 +475,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -588,9 +496,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -613,7 +521,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -634,9 +542,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
+- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -659,7 +567,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -680,9 +588,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
+- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -705,7 +613,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -726,9 +634,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
+- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -749,9 +657,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
+- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -772,9 +680,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -797,7 +705,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -820,7 +728,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -843,7 +751,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -864,9 +772,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
+- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -887,9 +795,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
+- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -912,7 +820,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -933,9 +841,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
+- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -958,7 +866,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -981,7 +889,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -1002,9 +910,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
+- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -1025,9 +933,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -1048,9 +956,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
+- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -1071,9 +979,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -1096,7 +1004,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -1119,7 +1027,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -1140,9 +1048,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -1163,9 +1071,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -1186,9 +1094,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
+- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -1209,9 +1117,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -1232,9 +1140,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -1255,9 +1163,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
+- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -1278,9 +1186,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -1301,9 +1209,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -1326,7 +1234,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -1347,9 +1255,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Thursday 28 November 2019 at 20:39
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
+- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -1370,9 +1278,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -1393,9 +1301,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -1416,9 +1324,9 @@ Thursday 28 November 2019 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
+- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -1441,7 +1349,7 @@ Thursday 28 November 2019 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -1449,6 +1357,29 @@ Thursday 28 November 2019 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Tax and benefit reforms to support employment and inclusiveness and address poverty in Italy](https://doi.org/10.1787/2a2a5978-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 December 2019 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 29 November 2019 at 20:48
+- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -1522,6 +1453,29 @@ Tuesday 3 December 2019 at 8:00 | no launch event
 
 ------
 
+## [PISA 2018 Ergebnisse (Band I) - Was Schülerinnen und Schüler wissen und können](https://doi.org/10.1787/1da50379-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 3 December 2019 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 29 November 2019 at 20:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *German*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [PISA 2018 Results (Volume I) - What Students Know and Can Do](https://doi.org/10.1787/5f07c754-en)
 
 Embargo date | Launch date
@@ -1531,9 +1485,9 @@ Tuesday 3 December 2019 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 28 November 2019 at 21:00
+- [x] Exported to iLibrary Friday 29 November 2019 at 20:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 28 November 2019 at 20:26
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
@@ -1577,15 +1531,15 @@ Tuesday 3 December 2019 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 29 November 2019 at 20:48
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
