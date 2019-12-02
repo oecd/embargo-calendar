@@ -2,1364 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 29 November 2019 at 21:10* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Hong Kong, China (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/46034be3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
-- [x] Exported to Keepeek Thursday 21 November 2019 at 20:35
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Introduction of multistage adaptive testing design in PISA 2018](https://doi.org/10.1787/b9435d4b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 25 November 2019 at 20:55
-- [x] Exported to Keepeek Monday 25 November 2019 at 20:38
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, China (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/85e69082-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
-- [x] Exported to Keepeek Thursday 21 November 2019 at 20:35
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Russian Federation (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/4599c8b2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
-- [x] Exported to Keepeek Thursday 21 November 2019 at 20:35
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Saudi Arabia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/322136b0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
-- [x] Exported to Keepeek Thursday 21 November 2019 at 20:35
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Bulgaria (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/30ffa4a6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
-- [x] Exported to Keepeek Thursday 21 November 2019 at 20:35
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Indonesia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/deb42398-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
-- [x] Exported to Keepeek Thursday 21 November 2019 at 20:35
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Brazil (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/12acb5ea-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 November 2019 at 20:52
-- [x] Exported to Keepeek Thursday 21 November 2019 at 20:35
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Germany: Country Health Profile 2019](https://doi.org/10.1787/36e21650-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Belgium: Country Health Profile 2019](https://doi.org/10.1787/3bcb6b04-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Magyarország: Egészségügyi országprofil 2019](https://doi.org/10.1787/2247f4e0-hu)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Hungarian*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Latvia: Country Health Profile 2019](https://doi.org/10.1787/b9e65517-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Sverige: Landprofil hälsa 2019](https://doi.org/10.1787/9ca28133-sv)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Swedish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Portugal: Perfil de Saúde do País 2019](https://doi.org/10.1787/75b2eac0-pt)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Portuguese*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Hungary: Country Health Profile 2019](https://doi.org/10.1787/4b7ba48c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [België: Landenprofiel Gezondheid 2019](https://doi.org/10.1787/e5559793-nl)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Dutch*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Hrvatska: pregled stanja zdravlja i zdravstvene zaštite 2019](https://doi.org/10.1787/df8b2178-hr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Croatian*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Danmark: National sundhedsprofil 2019](https://doi.org/10.1787/8afdaf86-da)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Danish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [България: Здравен профил за страната 2019](https://doi.org/10.1787/25ec21bd-bg)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Bulgarian*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Norway: Country Health Profile 2019](https://doi.org/10.1787/2e821540-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Portugal: Country Health Profile 2019](https://doi.org/10.1787/85ed94fc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Netherlands: Country Health Profile 2019](https://doi.org/10.1787/9ac45ee0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Poland: Country Health Profile 2019](https://doi.org/10.1787/297e4b92-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Ελλάδα: Προφίλ Υγείας 2019](https://doi.org/10.1787/9552c910-el)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Greek*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Finland: Country Health Profile 2019](https://doi.org/10.1787/20656739-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Slovenija: Zdravstveni profil leta 2019](https://doi.org/10.1787/62a79a00-sl)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Slovenian*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Spain: Country Health Profile 2019](https://doi.org/10.1787/8f834636-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Česká republika: zdravotní profil země 2019](https://doi.org/10.1787/6e557457-cs)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Czech*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Belgique : Profils de santé par pays 2019](https://doi.org/10.1787/1860d1c0-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Denmark: Country Health Profile 2019](https://doi.org/10.1787/5eede1c6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Suomi: Maan terveysprofiili 2019](https://doi.org/10.1787/342765e3-fi)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Finnish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Iceland: Country Health Profile 2019](https://doi.org/10.1787/b7613c74-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Latvija: Valsts veselības pārskats 2019](https://doi.org/10.1787/e6aa37af-lv)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Latvian*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Romania: Profilul Sănătății în 2019](https://doi.org/10.1787/ca3beae6-ro)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Romanian*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Luxembourg : Profils de santé par pays 2019](https://doi.org/10.1787/8b96aa03-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Ireland: Country Health Profile 2019](https://doi.org/10.1787/2393fd0a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Κύπρος: Προφίλ Υγείας 2019](https://doi.org/10.1787/cb3b543e-el)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Greek*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [España: Perfil Sanitario del país 2019](https://doi.org/10.1787/2a8a83c8-es)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Polska: Profil systemu ochrony zdrowia 2019](https://doi.org/10.1787/c7cfb688-pl)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Polish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Nederland: Landenprofiel Gezondheid 2019](https://doi.org/10.1787/b941695b-nl)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Dutch*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Luxembourg: Country Health Profile 2019](https://doi.org/10.1787/2b82810f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Eesti: riigi terviseprofiil 2019](https://doi.org/10.1787/1efa7683-et)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Estonian*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Croatia: Country Health Profile 2019](https://doi.org/10.1787/b63e8c9f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Deutschland: Länderprofil Gesundheit 2019](https://doi.org/10.1787/4ecf193f-de)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Slovak Republic: Country Health Profile 2019](https://doi.org/10.1787/c1ae6f4b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Sweden: Country Health Profile 2019](https://doi.org/10.1787/2dcb7ca6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Greece: Country Health Profile 2019](https://doi.org/10.1787/d87da56a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Italia: Profilo della sanità 2019](https://doi.org/10.1787/571dd841-it)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Italian*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Italy: Country Health Profile 2019](https://doi.org/10.1787/cef1e5cb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Romania: Country Health Profile 2019](https://doi.org/10.1787/f345b1db-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Österreich: Länderprofil Gesundheit 2019](https://doi.org/10.1787/616bb134-de)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Czech Republic: Country Health Profile 2019](https://doi.org/10.1787/058290e9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Cyprus: Country Health Profile 2019](https://doi.org/10.1787/2078ba2a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [United Kingdom: Country Health Profile 2019](https://doi.org/10.1787/744df2e3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Estonia: Country Health Profile 2019](https://doi.org/10.1787/0b94102e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Austria: Country Health Profile 2019](https://doi.org/10.1787/fe6121d2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Bulgaria: Country Health Profile 2019](https://doi.org/10.1787/34781ac1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Slovenia: Country Health Profile 2019](https://doi.org/10.1787/79ba70a2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 12:01
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Malta: Country Health Profile 2019](https://doi.org/10.1787/05db1284-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2019 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Monday 2 December 2019 at 21:22* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Tax and benefit reforms to support employment and inclusiveness and address poverty in Italy](https://doi.org/10.1787/2a2a5978-en)
 
@@ -1438,16 +81,16 @@ Tuesday 3 December 2019 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 28 November 2019 at 21:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 28 November 2019 at 20:26
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 2 December 2019 at 20:58
+- [x] Exported to Keepeek Monday 2 December 2019 at 20:40
+- [x] Exported to OECD.org Monday 2 December 2019 at 20:26
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -1461,16 +104,16 @@ Tuesday 3 December 2019 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 29 November 2019 at 20:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 2 December 2019 at 20:58
+- [x] Exported to Keepeek Monday 2 December 2019 at 20:40
+- [x] Exported to OECD.org Monday 2 December 2019 at 20:26
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *German*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1484,16 +127,16 @@ Tuesday 3 December 2019 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 29 November 2019 at 20:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 2 December 2019 at 20:58
+- [x] Exported to Keepeek Monday 2 December 2019 at 20:40
+- [x] Exported to OECD.org Monday 2 December 2019 at 20:26
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
 
@@ -1507,16 +150,16 @@ Tuesday 3 December 2019 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 28 November 2019 at 21:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 28 November 2019 at 20:26
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 2 December 2019 at 20:58
+- [x] Exported to Keepeek Monday 2 December 2019 at 20:40
+- [x] Exported to OECD.org Monday 2 December 2019 at 20:26
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -1530,18 +173,87 @@ Tuesday 3 December 2019 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 29 November 2019 at 20:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 29 November 2019 at 20:25
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 2 December 2019 at 20:58
+- [x] Exported to Keepeek Monday 2 December 2019 at 20:40
+- [x] Exported to OECD.org Monday 2 December 2019 at 20:26
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Multilingual Summaries for PISA 2018 Results (Volume I)](https://doi.org/10.1787/a9b5930a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 3 December 2019 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 2 December 2019 at 20:58
+- [x] Exported to Keepeek Monday 2 December 2019 at 20:40
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* 13 Languages: [Greek](https://doi.org/10.1787/6cf98650-el), [Korean](https://doi.org/10.1787/3ec875c8-ko), [Turkish](https://doi.org/10.1787/da36ccc9-tr), [German](https://doi.org/10.1787/95e99688-de), [Indonesian](https://doi.org/10.1787/694c168b-id), [Arabic](https://doi.org/10.1787/409d57fd-ar), [Chinese](https://doi.org/10.1787/73674eb3-zh), [English](https://doi.org/10.1787/a9b5930a-en), [Polish](https://doi.org/10.1787/2cb2ed9c-pl), [Japanese](https://doi.org/10.1787/9affaf61-ja), [Spanish](https://doi.org/10.1787/a89c90e1-es), [Portuguese](https://doi.org/10.1787/3b6307aa-pt), [French](https://doi.org/10.1787/35e1cd9d-fr)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [Recent improvements to the public finance block of the OECD’s long-term global model](https://doi.org/10.1787/4f07fb8d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 4 December 2019 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 2 December 2019 at 20:58
+- [x] Exported to Keepeek Monday 2 December 2019 at 20:40
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Fostering strong and relevant skills in Iceland](https://doi.org/10.1787/a38cdd39-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 4 December 2019 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 2 December 2019 at 20:58
+- [x] Exported to Keepeek Monday 2 December 2019 at 20:40
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -1646,15 +358,15 @@ Wednesday 11 December 2019 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 2 December 2019 at 20:58
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 2 December 2019 at 20:26
 
 ### Additional Information
 
 * Directorate: *Centre for Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
