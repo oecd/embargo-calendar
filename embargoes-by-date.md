@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 3 December 2019 at 21:56* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 4 December 2019 at 21:16* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [2 December 2019](#2-december-2019)
 * [3 December 2019](#3-december-2019)
 * [4 December 2019](#4-december-2019)
 * [5 December 2019](#5-december-2019)
@@ -12,79 +11,6 @@ Data generated on | |
 * [11 December 2019](#11-december-2019)
 * [16 December 2019](#16-december-2019)
 * [17 December 2019](#17-december-2019)
-
-------
-
-# 2 December 2019
-
-## [Tax and benefit reforms to support employment and inclusiveness and address poverty in Italy](https://doi.org/10.1787/2a2a5978-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 December 2019 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 November 2019 at 20:48
-- [x] Exported to Keepeek Friday 29 November 2019 at 20:37
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Medición y aplicaciones del IoT](https://doi.org/10.1787/656e87dd-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 December 2019 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Seguridad de productos de consumo en el Internet de las Cosas](https://doi.org/10.1787/6ad205c6-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 December 2019 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -101,7 +27,7 @@ Tuesday 3 December 2019 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 2 December 2019 at 20:58
 - [x] Exported to Keepeek Monday 2 December 2019 at 20:40
-- [x] Exported to OECD.org Monday 2 December 2019 at 20:26
+- [x] Exported to OECD.org Wednesday 4 December 2019 at 20:25
 
 ### Additional Information
 
@@ -122,9 +48,9 @@ Tuesday 3 December 2019 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 2 December 2019 at 20:58
-- [x] Exported to Keepeek Monday 2 December 2019 at 20:40
-- [x] Exported to OECD.org Tuesday 3 December 2019 at 20:27
+- [x] Exported to iLibrary Wednesday 4 December 2019 at 8:59
+- [x] Exported to Keepeek Wednesday 4 December 2019 at 9:02
+- [x] Exported to OECD.org Wednesday 4 December 2019 at 20:25
 
 ### Additional Information
 
@@ -145,9 +71,9 @@ Tuesday 3 December 2019 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 2 December 2019 at 20:58
-- [x] Exported to Keepeek Monday 2 December 2019 at 20:40
-- [x] Exported to OECD.org Tuesday 3 December 2019 at 20:27
+- [x] Exported to iLibrary Wednesday 4 December 2019 at 20:54
+- [x] Exported to Keepeek Wednesday 4 December 2019 at 9:02
+- [x] Exported to OECD.org Wednesday 4 December 2019 at 20:25
 
 ### Additional Information
 
@@ -170,7 +96,7 @@ Tuesday 3 December 2019 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 2 December 2019 at 20:58
 - [x] Exported to Keepeek Monday 2 December 2019 at 20:40
-- [x] Exported to OECD.org Monday 2 December 2019 at 20:26
+- [x] Exported to OECD.org Wednesday 4 December 2019 at 20:25
 
 ### Additional Information
 
@@ -191,9 +117,9 @@ Tuesday 3 December 2019 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 2 December 2019 at 20:58
-- [x] Exported to Keepeek Monday 2 December 2019 at 20:40
-- [x] Exported to OECD.org Tuesday 3 December 2019 at 20:27
+- [x] Exported to iLibrary Wednesday 4 December 2019 at 8:59
+- [x] Exported to Keepeek Wednesday 4 December 2019 at 9:02
+- [x] Exported to OECD.org Wednesday 4 December 2019 at 20:25
 
 ### Additional Information
 
@@ -305,6 +231,29 @@ Thursday 5 December 2019 at 4:30 | no launch event
 
 ------
 
+## [Multilingual Summaries for Revenue Statistics 2019](https://doi.org/10.1787/9a97fdbf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 December 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* 11 Languages: [Italian](https://doi.org/10.1787/0156b82a-it), [Korean](https://doi.org/10.1787/972e707f-ko), [Turkish](https://doi.org/10.1787/e432890e-tr), [German](https://doi.org/10.1787/34175379-de), [Chinese](https://doi.org/10.1787/d2115634-zh), [English](https://doi.org/10.1787/9a97fdbf-en), [Polish](https://doi.org/10.1787/39929ae4-pl), [Japanese](https://doi.org/10.1787/5dc4661a-ja), [Spanish](https://doi.org/10.1787/2918b794-es), [Portuguese](https://doi.org/10.1787/269c315e-pt), [French](https://doi.org/10.1787/02d60e45-fr)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Formats: *ePub, HTML, PDF*
+
+------
+
 ## [Statistiques des recettes publiques 2019](https://doi.org/10.1787/df3c3b17-fr)
 
 Embargo date | Launch date
@@ -313,16 +262,16 @@ Thursday 5 December 2019 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 25 November 2019 at 20:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 November 2019 at 20:24
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 4 December 2019 at 20:54
+- [x] Exported to Keepeek Wednesday 4 December 2019 at 20:39
+- [x] Exported to OECD.org Wednesday 4 December 2019 at 20:25
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -336,18 +285,18 @@ Thursday 5 December 2019 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 20 November 2019 at 20:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 November 2019 at 20:25
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 4 December 2019 at 20:54
+- [x] Exported to Keepeek Wednesday 4 December 2019 at 20:39
+- [x] Exported to OECD.org Wednesday 4 December 2019 at 20:25
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, PDF*
 
 ------
 
@@ -418,15 +367,15 @@ Monday 16 December 2019 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 4 December 2019 at 20:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 4 December 2019 at 20:25
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
