@@ -2,145 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 4 December 2019 at 21:16* | [See embargoes by date](embargoes-by-date.md) |
-
-## [PISA 2018 Results (Volume II) - Where All Students Can Succeed](https://doi.org/10.1787/b5fd1b8f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 December 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 2 December 2019 at 20:58
-- [x] Exported to Keepeek Monday 2 December 2019 at 20:40
-- [x] Exported to OECD.org Wednesday 4 December 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [PISA 2018 Ergebnisse (Band I) - Was Schülerinnen und Schüler wissen und können](https://doi.org/10.1787/1da50379-de)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 December 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 4 December 2019 at 8:59
-- [x] Exported to Keepeek Wednesday 4 December 2019 at 9:02
-- [x] Exported to OECD.org Wednesday 4 December 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [PISA 2018 Results (Volume I) - What Students Know and Can Do](https://doi.org/10.1787/5f07c754-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 December 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 4 December 2019 at 20:54
-- [x] Exported to Keepeek Wednesday 4 December 2019 at 9:02
-- [x] Exported to OECD.org Wednesday 4 December 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [PISA 2018 Results (Volume III) - What School Life Means for Students’ Lives](https://doi.org/10.1787/acd78851-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 December 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 2 December 2019 at 20:58
-- [x] Exported to Keepeek Monday 2 December 2019 at 20:40
-- [x] Exported to OECD.org Wednesday 4 December 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Résultats du PISA 2018 (Volume I) - Savoirs et savoir-faire des élèves](https://doi.org/10.1787/ec30bc50-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 December 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 4 December 2019 at 8:59
-- [x] Exported to Keepeek Wednesday 4 December 2019 at 9:02
-- [x] Exported to OECD.org Wednesday 4 December 2019 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Multilingual Summaries for PISA 2018 Results (Volume I)](https://doi.org/10.1787/a9b5930a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 December 2019 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 3 December 2019 at 21:11
-- [x] Exported to Keepeek Monday 2 December 2019 at 20:40
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* 14 Languages: [Greek](https://doi.org/10.1787/6cf98650-el), [Korean](https://doi.org/10.1787/3ec875c8-ko), [Turkish](https://doi.org/10.1787/da36ccc9-tr), [German](https://doi.org/10.1787/95e99688-de), [Indonesian](https://doi.org/10.1787/694c168b-id), [Arabic](https://doi.org/10.1787/409d57fd-ar), [Chinese](https://doi.org/10.1787/73674eb3-zh), [English](https://doi.org/10.1787/a9b5930a-en), [Polish](https://doi.org/10.1787/2cb2ed9c-pl), [Japanese](https://doi.org/10.1787/9affaf61-ja), [Russian](https://doi.org/10.1787/a179bb1a-ru), [Spanish](https://doi.org/10.1787/a89c90e1-es), [Portuguese](https://doi.org/10.1787/3b6307aa-pt), [French](https://doi.org/10.1787/35e1cd9d-fr)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Formats: *ePub, HTML, PDF*
-
-------
+| *Thursday 5 December 2019 at 21:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Recent improvements to the public finance block of the OECD’s long-term global model](https://doi.org/10.1787/4f07fb8d-en)
 
@@ -220,14 +82,14 @@ Thursday 5 December 2019 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 5 December 2019 at 20:55
+- [x] Exported to Keepeek Thursday 5 December 2019 at 20:38
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* 11 Languages: [Italian](https://doi.org/10.1787/0156b82a-it), [Korean](https://doi.org/10.1787/972e707f-ko), [Turkish](https://doi.org/10.1787/e432890e-tr), [German](https://doi.org/10.1787/34175379-de), [Chinese](https://doi.org/10.1787/d2115634-zh), [English](https://doi.org/10.1787/9a97fdbf-en), [Polish](https://doi.org/10.1787/39929ae4-pl), [Japanese](https://doi.org/10.1787/5dc4661a-ja), [Spanish](https://doi.org/10.1787/2918b794-es), [Portuguese](https://doi.org/10.1787/269c315e-pt), [French](https://doi.org/10.1787/02d60e45-fr)
+* 12 Languages: [Italian](https://doi.org/10.1787/0156b82a-it), [Korean](https://doi.org/10.1787/972e707f-ko), [Turkish](https://doi.org/10.1787/e432890e-tr), [German](https://doi.org/10.1787/34175379-de), [Chinese](https://doi.org/10.1787/d2115634-zh), [English](https://doi.org/10.1787/9a97fdbf-en), [Polish](https://doi.org/10.1787/39929ae4-pl), [Japanese](https://doi.org/10.1787/5dc4661a-ja), [Russian](https://doi.org/10.1787/27bc1515-ru), [Spanish](https://doi.org/10.1787/2918b794-es), [Portuguese](https://doi.org/10.1787/269c315e-pt), [French](https://doi.org/10.1787/02d60e45-fr)
 * Availability: *Published*
 * Type of publication: *Summary*
 * Formats: *ePub, HTML, PDF*
@@ -243,9 +105,9 @@ Thursday 5 December 2019 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 4 December 2019 at 20:54
+- [x] Exported to iLibrary Thursday 5 December 2019 at 9:22
 - [x] Exported to Keepeek Wednesday 4 December 2019 at 20:39
-- [x] Exported to OECD.org Wednesday 4 December 2019 at 20:25
+- [x] Exported to OECD.org Thursday 5 December 2019 at 20:23
 
 ### Additional Information
 
@@ -266,9 +128,9 @@ Thursday 5 December 2019 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 4 December 2019 at 20:54
+- [x] Exported to iLibrary Thursday 5 December 2019 at 9:22
 - [x] Exported to Keepeek Wednesday 4 December 2019 at 20:39
-- [x] Exported to OECD.org Wednesday 4 December 2019 at 20:25
+- [x] Exported to OECD.org Thursday 5 December 2019 at 20:23
 
 ### Additional Information
 
@@ -280,6 +142,29 @@ Thursday 5 December 2019 at 10:00 | no launch event
 
 ------
 
+## [Decentralised development co-operation - Unlocking the potential of cities and regions](https://doi.org/10.1787/e9703003-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 December 2019 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 5 December 2019 at 20:55
+- [x] Exported to Keepeek Thursday 5 December 2019 at 20:38
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Norway 2019](https://doi.org/10.1787/c217a266-en)
 
 Embargo date | Launch date
@@ -288,16 +173,16 @@ Monday 9 December 2019 at 9:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 27 November 2019 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 5 December 2019 at 20:55
+- [x] Exported to Keepeek Thursday 5 December 2019 at 20:38
+- [x] Exported to OECD.org Thursday 5 December 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -312,7 +197,7 @@ Wednesday 11 December 2019 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 2 December 2019 at 20:58
+- [x] Exported to iLibrary Thursday 5 December 2019 at 20:55
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 2 December 2019 at 20:26
 
@@ -335,9 +220,9 @@ Monday 16 December 2019 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 4 December 2019 at 20:54
+- [x] Exported to iLibrary Thursday 5 December 2019 at 20:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 4 December 2019 at 20:25
+- [x] Exported to OECD.org Thursday 5 December 2019 at 20:23
 
 ### Additional Information
 
