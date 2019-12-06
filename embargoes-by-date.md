@@ -2,64 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 5 December 2019 at 21:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 6 December 2019 at 21:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [4 December 2019](#4-december-2019)
 * [5 December 2019](#5-december-2019)
 * [9 December 2019](#9-december-2019)
+* [10 December 2019](#10-december-2019)
 * [11 December 2019](#11-december-2019)
 * [16 December 2019](#16-december-2019)
 * [17 December 2019](#17-december-2019)
-
-------
-
-# 4 December 2019
-
-## [Recent improvements to the public finance block of the OECD’s long-term global model](https://doi.org/10.1787/4f07fb8d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 4 December 2019 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 2 December 2019 at 20:58
-- [x] Exported to Keepeek Monday 2 December 2019 at 20:40
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Fostering strong and relevant skills in Iceland](https://doi.org/10.1787/a38cdd39-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 4 December 2019 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 2 December 2019 at 20:58
-- [x] Exported to Keepeek Monday 2 December 2019 at 20:40
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -76,7 +26,7 @@ Thursday 5 December 2019 at 4:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
 - [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Tuesday 3 December 2019 at 20:27
+- [x] Exported to OECD.org Friday 6 December 2019 at 20:27
 
 ### Additional Information
 
@@ -122,7 +72,7 @@ Thursday 5 December 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 5 December 2019 at 9:22
 - [x] Exported to Keepeek Wednesday 4 December 2019 at 20:39
-- [x] Exported to OECD.org Thursday 5 December 2019 at 20:23
+- [x] Exported to OECD.org Friday 6 December 2019 at 20:27
 
 ### Additional Information
 
@@ -145,7 +95,7 @@ Thursday 5 December 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 5 December 2019 at 9:22
 - [x] Exported to Keepeek Wednesday 4 December 2019 at 20:39
-- [x] Exported to OECD.org Thursday 5 December 2019 at 20:23
+- [x] Exported to OECD.org Friday 6 December 2019 at 20:27
 
 ### Additional Information
 
@@ -203,6 +153,56 @@ Monday 9 December 2019 at 9:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+------
+
+# 10 December 2019
+
+## [Who patents, how much is real invention and how relevant? A snapshot of firms and their inventions based on the 2016 SIPO China Patent Survey](https://doi.org/10.1787/9a4dd70c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 December 2019 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 6 December 2019 at 20:53
+- [x] Exported to Keepeek Friday 6 December 2019 at 20:40
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Strength through diversity - Country spotlight report for Chile](https://doi.org/10.1787/058bc849-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 December 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 6 December 2019 at 20:53
+- [x] Exported to Keepeek Friday 6 December 2019 at 20:40
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------

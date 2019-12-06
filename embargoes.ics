@@ -2,90 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/4f07fb8d-end3e63
-SUMMARY:Recent improvements to the public financ
- e block of the OECD’s long-term global m
- odel
-DESCRIPTION:*Recent improvements to the public finan
- ce block of the OECD’s long-term global 
- model*\n\nDirectorate: Economics Departm
- ent\nLanguage: English\nDOI: https://doi
- .org/10.1787/4f07fb8d-en\nPublication ty
- pe: Working paper\nReleased as: PDF\n\nE
- mbargo date/time: Wednesday, 4 December 
- 2019, 1:00 (GMT)\n\n\niLibrary export: M
- onday, 2 December 2019, 19:58 (GMT)\nFre
- epreview export: Monday, 2 December 2019
- , 19:40 (GMT)\nOECD.org export: never\nF
- TI loaded: ✓\n\nFor more information see
- : https://oecd.github.io/embargo-calenda
- r/embargoes-by-publication.html.\n\nPlea
- se note: This information was correct as
-  of this afternoon at 21:19, it is updat
- ed each night; therefore any subsequent 
- updates may not yet be visible here. Als
- o, please be aware that the different re
- leased media (PDF, HTML, etc.) are not n
- ecessarily released at the same time. Fo
- r complete and up-to-date information se
- e here: http://kappa.oecd.org/v3/search?
- term=4f07fb8d-en.
-DTSTAMP:20191205T211922Z
-DTSTART:20191204T010000Z
-DTEND:20191204T011500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Recent improvements to the pub
- lic finance block of the OECD’s long-ter
- m global model
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/a38cdd39-end3e118
-SUMMARY:Fostering strong and relevant skills in 
- Iceland
-DESCRIPTION:*Fostering strong and relevant skills in
-  Iceland*\n\nDirectorate: Economics Depa
- rtment\nLanguage: English\nDOI: https://
- doi.org/10.1787/a38cdd39-en\nPublication
-  type: Working paper\nReleased as: PDF\n
- \nEmbargo date/time: Wednesday, 4 Decemb
- er 2019, 1:00 (GMT)\n\n\niLibrary export
- : Monday, 2 December 2019, 19:58 (GMT)\n
- Freepreview export: Monday, 2 December 2
- 019, 19:40 (GMT)\nOECD.org export: never
- \nFTI loaded: ✓\n\nFor more information 
- see: https://oecd.github.io/embargo-cale
- ndar/embargoes-by-publication.html.\n\nP
- lease note: This information was correct
-  as of this afternoon at 21:19, it is up
- dated each night; therefore any subseque
- nt updates may not yet be visible here. 
- Also, please be aware that the different
-  released media (PDF, HTML, etc.) are no
- t necessarily released at the same time.
-  For complete and up-to-date information
-  see here: http://kappa.oecd.org/v3/sear
- ch?term=a38cdd39-en.
-DTSTAMP:20191205T211922Z
-DTSTART:20191204T010000Z
-DTEND:20191204T011500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Fostering strong and relevant 
- skills in Iceland
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/554c1c22-end3e173
+UID:10.1787/554c1c22-end3e63
 SUMMARY:OECD Economic Surveys: India 2019
 DESCRIPTION:*OECD Economic Surveys: India 2019*\n\nD
  irectorate: Economics Department\nLangua
@@ -96,22 +13,22 @@ DESCRIPTION:*OECD Economic Surveys: India 2019*\n\nD
   (GMT)\n\n\niLibrary export: Wednesday, 
  27 November 2019, 19:51 (GMT)\nFreeprevi
  ew export: Wednesday, 27 November 2019, 
- 19:34 (GMT)\nOECD.org export: Tuesday, 3
-  December 2019, 19:27 (GMT)\nFTI loaded:
-  ✓\n\nFor more information see: https://
- oecd.github.io/embargo-calendar/embargoe
- s-by-publication.html.\n\nPlease note: T
- his information was correct as of this a
- fternoon at 21:19, it is updated each ni
- ght; therefore any subsequent updates ma
- y not yet be visible here. Also, please 
- be aware that the different released med
- ia (PDF, HTML, etc.) are not necessarily
-  released at the same time. For complete
-  and up-to-date information see here: ht
- tp://kappa.oecd.org/v3/search?term=554c1
- c22-en.
-DTSTAMP:20191205T211922Z
+ 19:34 (GMT)\nOECD.org export: Friday, 6 
+ December 2019, 19:27 (GMT)\nFTI loaded: 
+ ✓\n\nFor more information see: https://o
+ ecd.github.io/embargo-calendar/embargoes
+ -by-publication.html.\n\nPlease note: Th
+ is information was correct as of this af
+ ternoon at 21:17, it is updated each nig
+ ht; therefore any subsequent updates may
+  not yet be visible here. Also, please b
+ e aware that the different released medi
+ a (PDF, HTML, etc.) are not necessarily 
+ released at the same time. For complete 
+ and up-to-date information see here: htt
+ p://kappa.oecd.org/v3/search?term=554c1c
+ 22-en.
+DTSTAMP:20191206T211713Z
 DTSTART:20191205T043000Z
 DTEND:20191205T044500Z
 TRANSP:TRANSPARENT
@@ -125,7 +42,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: India 2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9a97fdbf-end3e666
+UID:10.1787/9a97fdbf-end3e556
 SUMMARY:Multilingual Summaries for Revenue Stati
  stics 2019
 DESCRIPTION:*Multilingual Summaries for Revenue Stat
@@ -145,7 +62,7 @@ DESCRIPTION:*Multilingual Summaries for Revenue Stat
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 21:
- 19, it is updated each night; therefore 
+ 17, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -153,7 +70,7 @@ DESCRIPTION:*Multilingual Summaries for Revenue Stat
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=9a97fdbf-en.
-DTSTAMP:20191205T211922Z
+DTSTAMP:20191206T211713Z
 DTSTART:20191205T100000Z
 DTEND:20191205T101500Z
 TRANSP:TRANSPARENT
@@ -167,7 +84,7 @@ DESCRIPTION:Reminder: Multilingual Summaries for Rev
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/df3c3b17-frd3e1211
+UID:10.1787/df3c3b17-frd3e1103
 SUMMARY:Statistiques des recettes publiques 2019
 DESCRIPTION:*Statistiques des recettes publiques 201
  9*\n\nDirectorate: Centre for Tax Policy
@@ -179,21 +96,21 @@ DESCRIPTION:*Statistiques des recettes publiques 201
  ort: Thursday, 5 December 2019, 8:22 (GM
  T)\nFreepreview export: Wednesday, 4 Dec
  ember 2019, 19:39 (GMT)\nOECD.org export
- : Thursday, 5 December 2019, 19:23 (GMT)
- \nFTI loaded: ✓\n\nFor more information 
- see: https://oecd.github.io/embargo-cale
- ndar/embargoes-by-publication.html.\n\nP
- lease note: This information was correct
-  as of this afternoon at 21:19, it is up
- dated each night; therefore any subseque
- nt updates may not yet be visible here. 
- Also, please be aware that the different
-  released media (PDF, HTML, etc.) are no
- t necessarily released at the same time.
-  For complete and up-to-date information
-  see here: http://kappa.oecd.org/v3/sear
- ch?term=df3c3b17-fr.
-DTSTAMP:20191205T211922Z
+ : Friday, 6 December 2019, 19:27 (GMT)\n
+ FTI loaded: ✓\n\nFor more information se
+ e: https://oecd.github.io/embargo-calend
+ ar/embargoes-by-publication.html.\n\nPle
+ ase note: This information was correct a
+ s of this afternoon at 21:17, it is upda
+ ted each night; therefore any subsequent
+  updates may not yet be visible here. Al
+ so, please be aware that the different r
+ eleased media (PDF, HTML, etc.) are not 
+ necessarily released at the same time. F
+ or complete and up-to-date information s
+ ee here: http://kappa.oecd.org/v3/search
+ ?term=df3c3b17-fr.
+DTSTAMP:20191206T211713Z
 DTSTART:20191205T100000Z
 DTEND:20191205T101500Z
 TRANSP:TRANSPARENT
@@ -207,7 +124,7 @@ DESCRIPTION:Reminder: Statistiques des recettes publ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0bbc27da-end3e2085
+UID:10.1787/0bbc27da-end3e1978
 SUMMARY:Revenue Statistics 2019
 DESCRIPTION:*Revenue Statistics 2019*\n\nDirectorate
  : Centre for Tax Policy and Administrati
@@ -218,22 +135,22 @@ DESCRIPTION:*Revenue Statistics 2019*\n\nDirectorate
   10:00 (GMT)\n\n\niLibrary export: Thurs
  day, 5 December 2019, 8:22 (GMT)\nFreepr
  eview export: Wednesday, 4 December 2019
- , 19:39 (GMT)\nOECD.org export: Thursday
- , 5 December 2019, 19:23 (GMT)\nFTI load
- ed: ✓\n\nFor more information see: https
- ://oecd.github.io/embargo-calendar/embar
- goes-by-publication.html.\n\nPlease note
- : This information was correct as of thi
- s afternoon at 21:19, it is updated each
-  night; therefore any subsequent updates
-  may not yet be visible here. Also, plea
- se be aware that the different released 
- media (PDF, HTML, etc.) are not necessar
- ily released at the same time. For compl
- ete and up-to-date information see here:
-  http://kappa.oecd.org/v3/search?term=0b
- bc27da-en.
-DTSTAMP:20191205T211922Z
+ , 19:39 (GMT)\nOECD.org export: Friday, 
+ 6 December 2019, 19:27 (GMT)\nFTI loaded
+ : ✓\n\nFor more information see: https:/
+ /oecd.github.io/embargo-calendar/embargo
+ es-by-publication.html.\n\nPlease note: 
+ This information was correct as of this 
+ afternoon at 21:17, it is updated each n
+ ight; therefore any subsequent updates m
+ ay not yet be visible here. Also, please
+  be aware that the different released me
+ dia (PDF, HTML, etc.) are not necessaril
+ y released at the same time. For complet
+ e and up-to-date information see here: h
+ ttp://kappa.oecd.org/v3/search?term=0bbc
+ 27da-en.
+DTSTAMP:20191206T211713Z
 DTSTART:20191205T100000Z
 DTEND:20191205T101500Z
 TRANSP:TRANSPARENT
@@ -246,7 +163,7 @@ DESCRIPTION:Reminder: Revenue Statistics 2019
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e9703003-end3e2359
+UID:10.1787/e9703003-end3e2253
 SUMMARY:Decentralised development co-operation -
   Unlocking the potential of cities and r
  egions
@@ -266,7 +183,7 @@ DESCRIPTION:*Decentralised development co-operation
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  21:19, it is updated each night; theref
+  21:17, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -274,7 +191,7 @@ DESCRIPTION:*Decentralised development co-operation
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=e9703003-en.
-DTSTAMP:20191205T211922Z
+DTSTAMP:20191206T211713Z
 DTSTART:20191209T060000Z
 DTEND:20191209T061500Z
 TRANSP:TRANSPARENT
@@ -289,7 +206,7 @@ DESCRIPTION:Reminder: Decentralised development co-o
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c217a266-end3e2415
+UID:10.1787/c217a266-end3e2309
 SUMMARY:OECD Economic Surveys: Norway 2019
 DESCRIPTION:*OECD Economic Surveys: Norway 2019*\n\n
  Directorate: Economics Department\nLangu
@@ -306,7 +223,7 @@ DESCRIPTION:*OECD Economic Surveys: Norway 2019*\n\n
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 21:19, it is updated each night;
+ noon at 21:17, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -315,7 +232,7 @@ DESCRIPTION:*OECD Economic Surveys: Norway 2019*\n\n
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=c217a266-
  en.
-DTSTAMP:20191205T211922Z
+DTSTAMP:20191206T211713Z
 DTSTART:20191209T093000Z
 DTEND:20191209T094500Z
 TRANSP:TRANSPARENT
@@ -329,7 +246,94 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Norway
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b377fbcc-end3e2525
+UID:10.1787/9a4dd70c-end3e2365
+SUMMARY:Who patents, how much is real invention 
+ and how relevant? A snapshot of firms an
+ d their inventions based on the 2016 SIP
+ O China Patent Survey
+DESCRIPTION:*Who patents, how much is real invention
+  and how relevant? A snapshot of firms a
+ nd their inventions based on the 2016 SI
+ PO China Patent Survey*\n\nDirectorate: 
+ Economics Department\nLanguage: English\
+ nDOI: https://doi.org/10.1787/9a4dd70c-e
+ n\nPublication type: Working paper\nRele
+ ased as: PDF\n\nEmbargo date/time: Tuesd
+ ay, 10 December 2019, 1:00 (GMT)\n\n\niL
+ ibrary export: Friday, 6 December 2019, 
+ 19:53 (GMT)\nFreepreview export: Friday,
+  6 December 2019, 19:40 (GMT)\nOECD.org 
+ export: never\nFTI loaded: ✓\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 21
+ :17, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=9a4dd70c-en.
+DTSTAMP:20191206T211713Z
+DTSTART:20191210T010000Z
+DTEND:20191210T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Who patents, how much is real 
+ invention and how relevant? A snapshot o
+ f firms and their inventions based on th
+ e 2016 SIPO China Patent Survey
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/058bc849-end3e2420
+SUMMARY:Strength through diversity - Country spo
+ tlight report for Chile
+DESCRIPTION:*Strength through diversity - Country sp
+ otlight report for Chile*\n\nDirectorate
+ : Directorate for Education and Skills\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/058bc849-en\nPublication type: W
+ orking paper\nReleased as: PDF\n\nEmbarg
+ o date/time: Tuesday, 10 December 2019, 
+ 10:00 (GMT)\n\n\niLibrary export: Friday
+ , 6 December 2019, 19:53 (GMT)\nFreeprev
+ iew export: Friday, 6 December 2019, 19:
+ 40 (GMT)\nOECD.org export: never\nFTI lo
+ aded: ✓\n\nFor more information see: htt
+ ps://oecd.github.io/embargo-calendar/emb
+ argoes-by-publication.html.\n\nPlease no
+ te: This information was correct as of t
+ his afternoon at 21:17, it is updated ea
+ ch night; therefore any subsequent updat
+ es may not yet be visible here. Also, pl
+ ease be aware that the different release
+ d media (PDF, HTML, etc.) are not necess
+ arily released at the same time. For com
+ plete and up-to-date information see her
+ e: http://kappa.oecd.org/v3/search?term=
+ 058bc849-en.
+DTSTAMP:20191206T211713Z
+DTSTART:20191210T100000Z
+DTEND:20191210T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Strength through diversity - C
+ ountry spotlight report for Chile
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/b377fbcc-end3e2530
 SUMMARY:OECD Skills Strategy Poland - Assessment
   and Recommendations
 DESCRIPTION:*OECD Skills Strategy Poland - Assessmen
@@ -347,7 +351,7 @@ DESCRIPTION:*OECD Skills Strategy Poland - Assessmen
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 21:19, it is updated each night; therefo
+ 21:17, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -355,7 +359,7 @@ DESCRIPTION:*OECD Skills Strategy Poland - Assessmen
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=b377fbcc-en.
-DTSTAMP:20191205T211922Z
+DTSTAMP:20191206T211713Z
 DTSTART:20191211T080000Z
 DTEND:20191211T081500Z
 TRANSP:TRANSPARENT
@@ -369,7 +373,7 @@ DESCRIPTION:Reminder: OECD Skills Strategy Poland -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/283fefef-frd3e2634
+UID:10.1787/283fefef-frd3e2639
 SUMMARY:Améliorer les statistiques régionales po
  ur un développement territorial inclusif
   et durable en Tunisie
@@ -390,7 +394,7 @@ DESCRIPTION:*Améliorer les statistiques régionales p
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 21:19, it is updated each n
+ afternoon at 21:17, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -399,7 +403,7 @@ DESCRIPTION:*Améliorer les statistiques régionales p
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=283f
  efef-fr.
-DTSTAMP:20191205T211922Z
+DTSTAMP:20191206T211713Z
 DTSTART:20191216T070000Z
 DTEND:20191216T071500Z
 TRANSP:TRANSPARENT
@@ -414,7 +418,7 @@ DESCRIPTION:Reminder: Améliorer les statistiques rég
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f221b253-end3e2688
+UID:10.1787/f221b253-end3e2693
 SUMMARY:OECD Economic Surveys: Estonia 2019
 DESCRIPTION:*OECD Economic Surveys: Estonia 2019*\n\
  nDirectorate: Economics Department\nLang
@@ -430,7 +434,7 @@ DESCRIPTION:*OECD Economic Surveys: Estonia 2019*\n\
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 21:19, it is updated eac
+ is afternoon at 21:17, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -439,7 +443,7 @@ DESCRIPTION:*OECD Economic Surveys: Estonia 2019*\n\
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=f
  221b253-en.
-DTSTAMP:20191205T211922Z
+DTSTAMP:20191206T211713Z
 DTSTART:20191217T090000Z
 DTEND:20191217T091500Z
 TRANSP:TRANSPARENT
