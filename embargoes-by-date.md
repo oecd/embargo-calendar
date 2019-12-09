@@ -2,110 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 6 December 2019 at 21:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 9 December 2019 at 22:12* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [5 December 2019](#5-december-2019)
 * [9 December 2019](#9-december-2019)
 * [10 December 2019](#10-december-2019)
 * [11 December 2019](#11-december-2019)
 * [16 December 2019](#16-december-2019)
 * [17 December 2019](#17-december-2019)
-
-------
-
-# 5 December 2019
-
-## [OECD Economic Surveys: India 2019](https://doi.org/10.1787/554c1c22-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 5 December 2019 at 4:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2019 at 20:51
-- [x] Exported to Keepeek Wednesday 27 November 2019 at 20:34
-- [x] Exported to OECD.org Friday 6 December 2019 at 20:27
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Multilingual Summaries for Revenue Statistics 2019](https://doi.org/10.1787/9a97fdbf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 5 December 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 5 December 2019 at 20:55
-- [x] Exported to Keepeek Thursday 5 December 2019 at 20:38
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* 12 Languages: [Italian](https://doi.org/10.1787/0156b82a-it), [Korean](https://doi.org/10.1787/972e707f-ko), [Turkish](https://doi.org/10.1787/e432890e-tr), [German](https://doi.org/10.1787/34175379-de), [Chinese](https://doi.org/10.1787/d2115634-zh), [English](https://doi.org/10.1787/9a97fdbf-en), [Polish](https://doi.org/10.1787/39929ae4-pl), [Japanese](https://doi.org/10.1787/5dc4661a-ja), [Russian](https://doi.org/10.1787/27bc1515-ru), [Spanish](https://doi.org/10.1787/2918b794-es), [Portuguese](https://doi.org/10.1787/269c315e-pt), [French](https://doi.org/10.1787/02d60e45-fr)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Statistiques des recettes publiques 2019](https://doi.org/10.1787/df3c3b17-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 5 December 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 5 December 2019 at 9:22
-- [x] Exported to Keepeek Wednesday 4 December 2019 at 20:39
-- [x] Exported to OECD.org Friday 6 December 2019 at 20:27
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Revenue Statistics 2019](https://doi.org/10.1787/0bbc27da-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 5 December 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 5 December 2019 at 9:22
-- [x] Exported to Keepeek Wednesday 4 December 2019 at 20:39
-- [x] Exported to OECD.org Friday 6 December 2019 at 20:27
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, PDF*
-
-------
 
 ------
 
@@ -121,7 +24,7 @@ Monday 9 December 2019 at 6:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 5 December 2019 at 20:55
-- [x] Exported to Keepeek Thursday 5 December 2019 at 20:38
+- [x] Exported to Keepeek Monday 9 December 2019 at 20:43
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -145,7 +48,7 @@ Monday 9 December 2019 at 9:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 5 December 2019 at 20:55
 - [x] Exported to Keepeek Thursday 5 December 2019 at 20:38
-- [x] Exported to OECD.org Thursday 5 December 2019 at 20:23
+- [x] Exported to OECD.org Monday 9 December 2019 at 20:26
 
 ### Additional Information
 
@@ -154,6 +57,29 @@ Monday 9 December 2019 at 9:30 | no launch event
 * Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
+
+------
+
+## [Human Development Report 2019 - Beyond Income, Beyond Averages, Beyond Today - Inequalities in Human Development in the 21st Century](https://doi.org/10.18356/838f78fd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 December 2019 at 19:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 9 December 2019 at 21:21
+- [x] Exported to Keepeek Monday 9 December 2019 at 20:43
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Non applicable*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, PDF*
 
 ------
 
@@ -219,24 +145,47 @@ Wednesday 11 December 2019 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 5 December 2019 at 20:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 2 December 2019 at 20:26
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 9 December 2019 at 21:21
+- [x] Exported to Keepeek Monday 9 December 2019 at 20:43
+- [x] Exported to OECD.org Monday 9 December 2019 at 20:26
 
 ### Additional Information
 
 * Directorate: *Centre for Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
 ------
 
 # 16 December 2019
+
+## [On the concentration of innovation in top cities in the digital age](https://doi.org/10.1787/f184732a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 December 2019 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 9 December 2019 at 21:21
+- [x] Exported to Keepeek Monday 9 December 2019 at 20:43
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
 
 ## [Améliorer les statistiques régionales pour un développement territorial inclusif et durable en Tunisie](https://doi.org/10.1787/283fefef-fr)
 
@@ -274,9 +223,9 @@ Tuesday 17 December 2019 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 3 December 2019 at 21:11
+- [x] Exported to iLibrary Monday 9 December 2019 at 21:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 3 December 2019 at 20:27
+- [x] Exported to OECD.org Monday 9 December 2019 at 20:26
 
 ### Additional Information
 
