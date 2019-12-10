@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 9 December 2019 at 22:12* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 10 December 2019 at 21:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Decentralised development co-operation - Unlocking the potential of cities and regions](https://doi.org/10.1787/e9703003-en)
 
@@ -38,7 +38,7 @@ Monday 9 December 2019 at 9:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 5 December 2019 at 20:55
 - [x] Exported to Keepeek Thursday 5 December 2019 at 20:38
-- [x] Exported to OECD.org Monday 9 December 2019 at 20:26
+- [x] Exported to OECD.org Tuesday 10 December 2019 at 20:25
 
 ### Additional Information
 
@@ -173,10 +173,10 @@ Monday 16 December 2019 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 5 December 2019 at 20:55
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 10 December 2019 at 20:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 5 December 2019 at 20:23
+- [x] Exported to OECD.org Tuesday 10 December 2019 at 20:25
 
 ### Additional Information
 
