@@ -2,136 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/e9703003-end3e63
-SUMMARY:Decentralised development co-operation -
-  Unlocking the potential of cities and r
- egions
-DESCRIPTION:*Decentralised development co-operation 
- - Unlocking the potential of cities and 
- regions*\n\nDirectorate: Development Co-
- operation Directorate\nLanguage: English
- \nDOI: https://doi.org/10.1787/e9703003-
- en\nPublication type: Working paper\nRel
- eased as: PDF\n\nEmbargo date/time: Mond
- ay, 9 December 2019, 6:00 (GMT)\n\n\niLi
- brary export: Thursday, 5 December 2019,
-  19:55 (GMT)\nFreepreview export: Monday
- , 9 December 2019, 19:43 (GMT)\nOECD.org
-  export: never\nFTI loaded: ✓\n\nFor mor
- e information see: https://oecd.github.i
- o/embargo-calendar/embargoes-by-publicat
- ion.html.\n\nPlease note: This informati
- on was correct as of this afternoon at 2
- 1:19, it is updated each night; therefor
- e any subsequent updates may not yet be 
- visible here. Also, please be aware that
-  the different released media (PDF, HTML
- , etc.) are not necessarily released at 
- the same time. For complete and up-to-da
- te information see here: http://kappa.oe
- cd.org/v3/search?term=e9703003-en.
-DTSTAMP:20191210T211907Z
-DTSTART:20191209T060000Z
-DTEND:20191209T061500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Decentralised development co-o
- peration - Unlocking the potential of ci
- ties and regions
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/c217a266-end3e119
-SUMMARY:OECD Economic Surveys: Norway 2019
-DESCRIPTION:*OECD Economic Surveys: Norway 2019*\n\n
- Directorate: Economics Department\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/c217a266-en\nPublication type: Econom
- ic survey\nReleased as: PDF\n\nEmbargo d
- ate/time: Monday, 9 December 2019, 9:30 
- (GMT)\n\n\niLibrary export: Thursday, 5 
- December 2019, 19:55 (GMT)\nFreepreview 
- export: Thursday, 5 December 2019, 19:38
-  (GMT)\nOECD.org export: Tuesday, 10 Dec
- ember 2019, 19:25 (GMT)\nFTI loaded: ✓\n
- \nFor more information see: https://oecd
- .github.io/embargo-calendar/embargoes-by
- -publication.html.\n\nPlease note: This 
- information was correct as of this after
- noon at 21:19, it is updated each night;
-  therefore any subsequent updates may no
- t yet be visible here. Also, please be a
- ware that the different released media (
- PDF, HTML, etc.) are not necessarily rel
- eased at the same time. For complete and
-  up-to-date information see here: http:/
- /kappa.oecd.org/v3/search?term=c217a266-
- en.
-DTSTAMP:20191210T211907Z
-DTSTART:20191209T093000Z
-DTEND:20191209T094500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Economic Surveys: Norway 
- 2019
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.18356/838f78fd-end3e617
-SUMMARY:Human Development Report 2019 - Beyond I
- ncome, Beyond Averages, Beyond Today - I
- nequalities in Human Development in the 
- 21st Century
-DESCRIPTION:*Human Development Report 2019 - Beyond 
- Income, Beyond Averages, Beyond Today - 
- Inequalities in Human Development in the
-  21st Century*\n\nDirectorate: Non appli
- cable\nLanguage: English\nDOI: https://d
- oi.org/10.18356/838f78fd-en\nPublication
-  type: Book\nReleased as: ePub, PDF\n\nE
- mbargo date/time: Monday, 9 December 201
- 9, 19:00 (GMT)\n\n\niLibrary export: Mon
- day, 9 December 2019, 20:21 (GMT)\nFreep
- review export: Monday, 9 December 2019, 
- 19:43 (GMT)\nOECD.org export: never\nFTI
-  loaded: ✓\n\nFor more information see: 
- https://oecd.github.io/embargo-calendar/
- embargoes-by-publication.html.\n\nPlease
-  note: This information was correct as o
- f this afternoon at 21:19, it is updated
-  each night; therefore any subsequent up
- dates may not yet be visible here. Also,
-  please be aware that the different rele
- ased media (PDF, HTML, etc.) are not nec
- essarily released at the same time. For 
- complete and up-to-date information see 
- here: http://kappa.oecd.org/v3/search?te
- rm=838f78fd-en.
-DTSTAMP:20191210T211907Z
-DTSTART:20191209T190000Z
-DTEND:20191209T191500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Development Report 2019 
- - Beyond Income, Beyond Averages, Beyond
-  Today - Inequalities in Human Developme
- nt in the 21st Century
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/9a4dd70c-end3e1004
+UID:10.1787/9a4dd70c-end3e63
 SUMMARY:Who patents, how much is real invention 
  and how relevant? A snapshot of firms an
  d their inventions based on the 2016 SIP
@@ -153,7 +24,7 @@ DESCRIPTION:*Who patents, how much is real invention
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 21
- :19, it is updated each night; therefore
+ :22, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -161,7 +32,7 @@ DESCRIPTION:*Who patents, how much is real invention
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=9a4dd70c-en.
-DTSTAMP:20191210T211907Z
+DTSTAMP:20191211T212236Z
 DTSTART:20191210T010000Z
 DTEND:20191210T011500Z
 TRANSP:TRANSPARENT
@@ -177,7 +48,7 @@ DESCRIPTION:Reminder: Who patents, how much is real
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/058bc849-end3e1059
+UID:10.1787/058bc849-end3e118
 SUMMARY:Strength through diversity - Country spo
  tlight report for Chile
 DESCRIPTION:*Strength through diversity - Country sp
@@ -187,24 +58,24 @@ DESCRIPTION:*Strength through diversity - Country sp
  10.1787/058bc849-en\nPublication type: W
  orking paper\nReleased as: PDF\n\nEmbarg
  o date/time: Tuesday, 10 December 2019, 
- 10:00 (GMT)\n\n\niLibrary export: Friday
- , 6 December 2019, 19:53 (GMT)\nFreeprev
- iew export: Friday, 6 December 2019, 19:
- 40 (GMT)\nOECD.org export: never\nFTI lo
- aded: ✓\n\nFor more information see: htt
- ps://oecd.github.io/embargo-calendar/emb
- argoes-by-publication.html.\n\nPlease no
- te: This information was correct as of t
- his afternoon at 21:19, it is updated ea
- ch night; therefore any subsequent updat
- es may not yet be visible here. Also, pl
- ease be aware that the different release
- d media (PDF, HTML, etc.) are not necess
- arily released at the same time. For com
- plete and up-to-date information see her
- e: http://kappa.oecd.org/v3/search?term=
- 058bc849-en.
-DTSTAMP:20191210T211907Z
+ 10:00 (GMT)\n\n\niLibrary export: Wednes
+ day, 11 December 2019, 19:56 (GMT)\nFree
+ preview export: Friday, 6 December 2019,
+  19:40 (GMT)\nOECD.org export: never\nFT
+ I loaded: ✓\n\nFor more information see:
+  https://oecd.github.io/embargo-calendar
+ /embargoes-by-publication.html.\n\nPleas
+ e note: This information was correct as 
+ of this afternoon at 21:22, it is update
+ d each night; therefore any subsequent u
+ pdates may not yet be visible here. Also
+ , please be aware that the different rel
+ eased media (PDF, HTML, etc.) are not ne
+ cessarily released at the same time. For
+  complete and up-to-date information see
+  here: http://kappa.oecd.org/v3/search?t
+ erm=058bc849-en.
+DTSTAMP:20191211T212236Z
 DTSTART:20191210T100000Z
 DTEND:20191210T101500Z
 TRANSP:TRANSPARENT
@@ -218,7 +89,7 @@ DESCRIPTION:Reminder: Strength through diversity - C
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b377fbcc-end3e3216
+UID:10.1787/b377fbcc-end3e2276
 SUMMARY:OECD Skills Strategy Poland - Assessment
   and Recommendations
 DESCRIPTION:*OECD Skills Strategy Poland - Assessmen
@@ -237,7 +108,7 @@ DESCRIPTION:*OECD Skills Strategy Poland - Assessmen
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  21:19, it is updated each night; theref
+  21:22, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -245,7 +116,7 @@ DESCRIPTION:*OECD Skills Strategy Poland - Assessmen
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=b377fbcc-en.
-DTSTAMP:20191210T211907Z
+DTSTAMP:20191211T212236Z
 DTSTART:20191211T080000Z
 DTEND:20191211T081500Z
 TRANSP:TRANSPARENT
@@ -259,7 +130,47 @@ DESCRIPTION:Reminder: OECD Skills Strategy Poland -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f184732a-end3e3934
+UID:10.1787/56119490-end3e2993
+SUMMARY:The economic cost of air pollution: Evid
+ ence from Europe
+DESCRIPTION:*The economic cost of air pollution: Evi
+ dence from Europe*\n\nDirectorate: Econo
+ mics Department\nLanguage: English\nDOI:
+  https://doi.org/10.1787/56119490-en\nPu
+ blication type: Working paper\nReleased 
+ as: PDF\n\nEmbargo date/time: Thursday, 
+ 12 December 2019, 1:00 (GMT)\n\n\niLibra
+ ry export: Wednesday, 11 December 2019, 
+ 19:56 (GMT)\nFreepreview export: Wednesd
+ ay, 11 December 2019, 19:40 (GMT)\nOECD.
+ org export: never\nFTI loaded: ✓\n\nFor 
+ more information see: https://oecd.githu
+ b.io/embargo-calendar/embargoes-by-publi
+ cation.html.\n\nPlease note: This inform
+ ation was correct as of this afternoon a
+ t 21:22, it is updated each night; there
+ fore any subsequent updates may not yet 
+ be visible here. Also, please be aware t
+ hat the different released media (PDF, H
+ TML, etc.) are not necessarily released 
+ at the same time. For complete and up-to
+ -date information see here: http://kappa
+ .oecd.org/v3/search?term=56119490-en.
+DTSTAMP:20191211T212236Z
+DTSTART:20191212T010000Z
+DTEND:20191212T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: The economic cost of air pollu
+ tion: Evidence from Europe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/f184732a-end3e3048
 SUMMARY:On the concentration of innovation in to
  p cities in the digital age
 DESCRIPTION:*On the concentration of innovation in t
@@ -277,7 +188,7 @@ DESCRIPTION:*On the concentration of innovation in t
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 21:19, it
+ orrect as of this afternoon at 21:22, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -286,7 +197,7 @@ DESCRIPTION:*On the concentration of innovation in t
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=f184732a-en.
-DTSTAMP:20191210T211907Z
+DTSTAMP:20191211T212236Z
 DTSTART:20191216T060000Z
 DTEND:20191216T061500Z
 TRANSP:TRANSPARENT
@@ -300,7 +211,7 @@ DESCRIPTION:Reminder: On the concentration of innova
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/283fefef-frd3e4313
+UID:10.1787/283fefef-frd3e3427
 SUMMARY:Améliorer les statistiques régionales po
  ur un développement territorial inclusif
   et durable en Tunisie
@@ -321,7 +232,7 @@ DESCRIPTION:*Améliorer les statistiques régionales p
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 21:19, it is updated each n
+ afternoon at 21:22, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -330,7 +241,7 @@ DESCRIPTION:*Améliorer les statistiques régionales p
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=283f
  efef-fr.
-DTSTAMP:20191210T211907Z
+DTSTAMP:20191211T212236Z
 DTSTART:20191216T070000Z
 DTEND:20191216T071500Z
 TRANSP:TRANSPARENT
@@ -345,7 +256,7 @@ DESCRIPTION:Reminder: Améliorer les statistiques rég
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f221b253-end3e4476
+UID:10.1787/f221b253-end3e3591
 SUMMARY:OECD Economic Surveys: Estonia 2019
 DESCRIPTION:*OECD Economic Surveys: Estonia 2019*\n\
  nDirectorate: Economics Department\nLang
@@ -353,24 +264,24 @@ DESCRIPTION:*OECD Economic Surveys: Estonia 2019*\n\
  787/f221b253-en\nPublication type: Econo
  mic survey\nReleased as: PDF\n\nEmbargo 
  date/time: Tuesday, 17 December 2019, 9:
- 00 (GMT)\n\n\niLibrary export: Monday, 9
-  December 2019, 20:21 (GMT)\nFreepreview
-  export: never\nOECD.org export: Monday,
-  9 December 2019, 19:26 (GMT)\nFTI loade
- d: ✗\n\nFor more information see: https:
- //oecd.github.io/embargo-calendar/embarg
- oes-by-publication.html.\n\nPlease note:
-  This information was correct as of this
-  afternoon at 21:19, it is updated each 
- night; therefore any subsequent updates 
- may not yet be visible here. Also, pleas
- e be aware that the different released m
- edia (PDF, HTML, etc.) are not necessari
- ly released at the same time. For comple
- te and up-to-date information see here: 
- http://kappa.oecd.org/v3/search?term=f22
- 1b253-en.
-DTSTAMP:20191210T211907Z
+ 00 (GMT)\n\n\niLibrary export: Wednesday
+ , 11 December 2019, 19:56 (GMT)\nFreepre
+ view export: never\nOECD.org export: Wed
+ nesday, 11 December 2019, 19:25 (GMT)\nF
+ TI loaded: ✗\n\nFor more information see
+ : https://oecd.github.io/embargo-calenda
+ r/embargoes-by-publication.html.\n\nPlea
+ se note: This information was correct as
+  of this afternoon at 21:22, it is updat
+ ed each night; therefore any subsequent 
+ updates may not yet be visible here. Als
+ o, please be aware that the different re
+ leased media (PDF, HTML, etc.) are not n
+ ecessarily released at the same time. Fo
+ r complete and up-to-date information se
+ e here: http://kappa.oecd.org/v3/search?
+ term=f221b253-en.
+DTSTAMP:20191211T212236Z
 DTSTART:20191217T090000Z
 DTEND:20191217T091500Z
 TRANSP:TRANSPARENT
@@ -381,6 +292,91 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Economic Surveys: Estonia
   2019
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/a93ed2b7-esd3e3698
+SUMMARY:Educación superior en México - Resultado
+ s y relevancia para el mercado laboral
+DESCRIPTION:*Educación superior en México - Resultad
+ os y relevancia para el mercado laboral*
+ \n\nDirectorate: Directorate for Educati
+ on and Skills\nLanguage: Spanish\nDOI: h
+ ttps://doi.org/10.1787/a93ed2b7-es\nPubl
+ ication type: Book\nReleased as: PDF\n\n
+ Embargo date/time: Thursday, 9 January 2
+ 020, 23:01 (GMT)\n\n\niLibrary export: W
+ ednesday, 11 December 2019, 19:56 (GMT)\
+ nFreepreview export: never\nOECD.org exp
+ ort: Wednesday, 11 December 2019, 19:25 
+ (GMT)\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 21:22, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=a93ed2b7-es.
+DTSTAMP:20191211T212236Z
+DTSTART:20200109T230100Z
+DTEND:20200109T231600Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Educación superior en México -
+  Resultados y relevancia para el mercado
+  laboral
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/005689e0-esd3e3754
+SUMMARY:El futuro de la educación superior en Mé
+ xico - Fortalecimiento de la calidad y l
+ a equidad
+DESCRIPTION:*El futuro de la educación superior en M
+ éxico - Fortalecimiento de la calidad y 
+ la equidad*\n\nDirectorate: Directorate 
+ for Education and Skills\nLanguage: Span
+ ish\nDOI: https://doi.org/10.1787/005689
+ e0-es\nPublication type: Book\nReleased 
+ as: PDF\n\nEmbargo date/time: Thursday, 
+ 9 January 2020, 23:01 (GMT)\n\n\niLibrar
+ y export: Wednesday, 11 December 2019, 1
+ 9:56 (GMT)\nFreepreview export: never\nO
+ ECD.org export: Wednesday, 11 December 2
+ 019, 19:25 (GMT)\nFTI loaded: ✗\n\nFor m
+ ore information see: https://oecd.github
+ .io/embargo-calendar/embargoes-by-public
+ ation.html.\n\nPlease note: This informa
+ tion was correct as of this afternoon at
+  21:22, it is updated each night; theref
+ ore any subsequent updates may not yet b
+ e visible here. Also, please be aware th
+ at the different released media (PDF, HT
+ ML, etc.) are not necessarily released a
+ t the same time. For complete and up-to-
+ date information see here: http://kappa.
+ oecd.org/v3/search?term=005689e0-es.
+DTSTAMP:20191211T212236Z
+DTSTART:20200109T230100Z
+DTEND:20200109T231600Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: El futuro de la educación supe
+ rior en México - Fortalecimiento de la c
+ alidad y la equidad
 END:VALARM
 END:VEVENT
 END:VCALENDAR
