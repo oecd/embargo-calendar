@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 11 December 2019 at 21:22* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Who patents, how much is real invention and how relevant? A snapshot of firms and their inventions based on the 2016 SIPO China Patent Survey](https://doi.org/10.1787/9a4dd70c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 10 December 2019 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 6 December 2019 at 20:53
-- [x] Exported to Keepeek Friday 6 December 2019 at 20:40
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Strength through diversity - Country spotlight report for Chile](https://doi.org/10.1787/058bc849-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 10 December 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 11 December 2019 at 20:56
-- [x] Exported to Keepeek Friday 6 December 2019 at 20:40
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Thursday 12 December 2019 at 21:12* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Skills Strategy Poland - Assessment and Recommendations](https://doi.org/10.1787/b377fbcc-en)
 
@@ -61,7 +15,7 @@ Wednesday 11 December 2019 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 9 December 2019 at 21:21
 - [x] Exported to Keepeek Monday 9 December 2019 at 20:43
-- [x] Exported to OECD.org Monday 9 December 2019 at 20:26
+- [x] Exported to OECD.org Thursday 12 December 2019 at 20:24
 
 ### Additional Information
 
@@ -89,6 +43,29 @@ Thursday 12 December 2019 at 1:00 | no launch event
 ### Additional Information
 
 * Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Financing refugee situations](https://doi.org/10.1787/02d6b022-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 December 2019 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 12 December 2019 at 20:49
+- [x] Exported to Keepeek Thursday 12 December 2019 at 20:36
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
@@ -174,17 +151,17 @@ Thursday 9 January 2020 at 23:01 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 11 December 2019 at 20:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 11 December 2019 at 20:25
+- [x] Exported to iLibrary Thursday 12 December 2019 at 20:49
+- [x] Exported to Keepeek Thursday 12 December 2019 at 20:36
+- [x] Exported to OECD.org Thursday 12 December 2019 at 20:24
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
