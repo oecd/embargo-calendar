@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2019-12-13T21:18:59.8478259+01:00">
+<report name="official-embargoes" generated="2019-12-16T21:26:27.2460302+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -21,29 +21,9 @@
     <cell name="kappa link">Kappa Link</cell>
   </row>
   <row index="1">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/56119490-en</cell>
-    <cell name="title">The economic cost of air pollution: Evidence from Europe (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-12-12</cell>
-    <cell name="embargo date">2019-12-12T01:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-12-11T19:56:03Z</cell>
-    <cell name="freepreview last export date">2019-12-11T19:40:24Z</cell>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Working paper</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/deb3c51e</cell>
-  </row>
-  <row index="2">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/02d6b022-en</cell>
-    <cell name="title">Financing refugee situations (en)</cell>
+    <cell name="title">Financing for refugee situations (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
@@ -51,8 +31,8 @@
     <cell name="date of publication">2019-12-16</cell>
     <cell name="embargo date">2019-12-16T06:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-12-12T19:49:40Z</cell>
-    <cell name="freepreview last export date">2019-12-12T19:36:20Z</cell>
+    <cell name="ilibrary last export date">2019-12-16T19:54:26Z</cell>
+    <cell name="freepreview last export date">2019-12-16T19:41:16Z</cell>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
@@ -60,7 +40,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e26d09a2</cell>
   </row>
-  <row index="3">
+  <row index="2">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/f184732a-en</cell>
     <cell name="title">On the concentration of innovation in top cities in the digital age (en)</cell>
@@ -80,7 +60,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/43957269</cell>
   </row>
-  <row index="4">
+  <row index="3">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/cf3ec1a7-fr</cell>
     <cell name="title">Conclusion et recommandations (fr)</cell>
@@ -100,7 +80,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9f6870c5</cell>
   </row>
-  <row index="5">
+  <row index="4">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/172a4062-fr</cell>
     <cell name="title">Gouvernance des statistiques régionales en Tunisie (fr)</cell>
@@ -120,7 +100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b2c910c3</cell>
   </row>
-  <row index="6">
+  <row index="5">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/283fefef-fr</cell>
     <cell name="title">Améliorer les statistiques régionales pour un développement territorial inclusif et durable en Tunisie (fr)</cell>
@@ -140,7 +120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6c3ff3c</cell>
   </row>
-  <row index="7">
+  <row index="6">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/7ff388e3-fr</cell>
     <cell name="title">Avant-propos (fr)</cell>
@@ -160,7 +140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/38ee7e92</cell>
   </row>
-  <row index="8">
+  <row index="7">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/b9bf3afe-fr</cell>
     <cell name="title">Guide de lecture (fr)</cell>
@@ -180,7 +160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/535075f9</cell>
   </row>
-  <row index="9">
+  <row index="8">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/8b6103e3-fr</cell>
     <cell name="title">Une nouvelle classification territoriale pour la Tunisie (fr)</cell>
@@ -200,7 +180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fc77235d</cell>
   </row>
-  <row index="10">
+  <row index="9">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/283fefef-fr</cell>
     <cell name="title">Améliorer les statistiques régionales pour un développement territorial inclusif et durable en Tunisie (fr)</cell>
@@ -213,14 +193,14 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-12-13T19:53:33Z</cell>
     <cell name="freepreview last export date">2019-12-13T19:38:37Z</cell>
-    <cell name="oecd.org last export date">2019-12-13T19:25:11Z</cell>
+    <cell name="oecd.org last export date">2019-12-14T14:59:30Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/55cffc80</cell>
   </row>
-  <row index="11">
+  <row index="10">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/503b8cd2-fr</cell>
     <cell name="title">Résumé (fr)</cell>
@@ -240,7 +220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b3d37d20</cell>
   </row>
-  <row index="12">
+  <row index="11">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/0546677b-fr</cell>
     <cell name="title">Utilisation des indicateurs territoriaux pour soutenir le développement régional (fr)</cell>
@@ -260,7 +240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a6810a2a</cell>
   </row>
-  <row index="13">
+  <row index="12">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/4cc19056-en</cell>
     <cell name="title">Occupational licensing and job mobility in the United States (en)</cell>
@@ -280,27 +260,107 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/80c851e2</cell>
   </row>
+  <row index="13">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/685e68ad-fr</cell>
+    <cell name="title">OECD Economic Surveys: Estonia 2019 (Summary in French) (en) | Examen économique de l'Estonie 2019  (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-12-17</cell>
+    <cell name="embargo date">2019-12-17T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-12-16T19:54:26Z</cell>
+    <cell name="freepreview last export date">2019-12-16T19:41:16Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0f303538</cell>
+  </row>
   <row index="14">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/acd0c192-en</cell>
+    <cell name="title">OECD Economic Surveys: Estonia 2019 (Summary in English) (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-12-17</cell>
+    <cell name="embargo date">2019-12-17T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-12-16T19:54:26Z</cell>
+    <cell name="freepreview last export date">2019-12-16T19:41:16Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/60a168fd</cell>
+  </row>
+  <row index="15">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/f221b253-en</cell>
     <cell name="title">OECD Economic Surveys: Estonia 2019 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2019-12-17</cell>
     <cell name="embargo date">2019-12-17T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-12-11T19:56:03Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2019-12-11T19:25:28Z</cell>
+    <cell name="ilibrary last export date">2019-12-16T19:54:26Z</cell>
+    <cell name="freepreview last export date">2019-12-16T19:41:16Z</cell>
+    <cell name="oecd.org last export date">2019-12-16T19:27:35Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/07075f43</cell>
   </row>
-  <row index="15">
+  <row index="16">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/be928fd7-hu</cell>
+    <cell name="title">OECD Economic Surveys: Estonia 2019 (Summary in Hungarian) (en) | OECD Economic Surveys: Estonia 2019 (hu)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Hungarian</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-12-17</cell>
+    <cell name="embargo date">2019-12-17T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-12-16T19:54:26Z</cell>
+    <cell name="freepreview last export date">2019-12-16T19:41:16Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5fe95864</cell>
+  </row>
+  <row index="17">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/cb563e75-et</cell>
+    <cell name="title">OECD Economic Surveys: Estonia 2019 (Summary in Estonian) (en) | OECD Economic Surveys: Estonia 2019 (et)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Estonian</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-12-17</cell>
+    <cell name="embargo date">2019-12-17T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-12-16T19:54:26Z</cell>
+    <cell name="freepreview last export date">2019-12-16T19:41:16Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Summary</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0cb97367</cell>
+  </row>
+  <row index="18">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/89b5f984-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Marshall Islands 2019 (Second Round) (en)</cell>
@@ -319,5 +379,45 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62ebd39f</cell>
+  </row>
+  <row index="19">
+    <cell name="directorate">Centre for Skills</cell>
+    <cell name="doi">10.1787/bb688e68-en</cell>
+    <cell name="title">OECD Skills Strategy Slovak Republic (en)</cell>
+    <cell name="subtitle">Assessment and Recommendations (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-01-27T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/697e2c8f</cell>
+  </row>
+  <row index="20">
+    <cell name="directorate">Centre for Skills</cell>
+    <cell name="doi">10.1787/bb688e68-en</cell>
+    <cell name="title">OECD Skills Strategy Slovak Republic (en)</cell>
+    <cell name="subtitle">Assessment and Recommendations (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-01-27T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9f53804a</cell>
   </row>
 </report>

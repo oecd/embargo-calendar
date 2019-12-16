@@ -2,32 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 13 December 2019 at 21:18* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 16 December 2019 at 21:26* | [See embargoes by date](embargoes-by-date.md) |
 
-## [The economic cost of air pollution: Evidence from Europe](https://doi.org/10.1787/56119490-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 December 2019 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 11 December 2019 at 20:56
-- [x] Exported to Keepeek Wednesday 11 December 2019 at 20:40
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Financing refugee situations](https://doi.org/10.1787/02d6b022-en)
+## [Financing for refugee situations](https://doi.org/10.1787/02d6b022-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -36,8 +13,8 @@ Monday 16 December 2019 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 December 2019 at 20:49
-- [x] Exported to Keepeek Thursday 12 December 2019 at 20:36
+- [x] Exported to iLibrary Monday 16 December 2019 at 20:54
+- [x] Exported to Keepeek Monday 16 December 2019 at 20:41
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -84,7 +61,7 @@ Monday 16 December 2019 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 13 December 2019 at 20:53
 - [x] Exported to Keepeek Friday 13 December 2019 at 20:38
-- [x] Exported to OECD.org Friday 13 December 2019 at 20:25
+- [x] Exported to OECD.org Saturday 14 December 2019 at 15:59
 
 ### Additional Information
 
@@ -119,6 +96,29 @@ Tuesday 17 December 2019 at 1:00 | no launch event
 
 ------
 
+## [Multilingual Summaries for OECD Economic Surveys: Estonia 2019](https://doi.org/10.1787/acd0c192-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 17 December 2019 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 16 December 2019 at 20:54
+- [x] Exported to Keepeek Monday 16 December 2019 at 20:41
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* 4 Languages: [English](https://doi.org/10.1787/acd0c192-en), [Estonian](https://doi.org/10.1787/cb563e75-et), [French](https://doi.org/10.1787/685e68ad-fr), [Hungarian](https://doi.org/10.1787/be928fd7-hu)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Estonia 2019](https://doi.org/10.1787/f221b253-en)
 
 Embargo date | Launch date
@@ -127,17 +127,40 @@ Tuesday 17 December 2019 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 11 December 2019 at 20:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 11 December 2019 at 20:25
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 16 December 2019 at 20:54
+- [x] Exported to Keepeek Monday 16 December 2019 at 20:41
+- [x] Exported to OECD.org Monday 16 December 2019 at 20:27
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
+
+------
+
+## [OECD Skills Strategy Slovak Republic - Assessment and Recommendations](https://doi.org/10.1787/bb688e68-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 January 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
