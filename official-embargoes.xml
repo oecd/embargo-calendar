@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2019-12-16T21:26:27.2460302+01:00">
+<report name="official-embargoes" generated="2019-12-18T00:10:19.3876175+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -193,9 +193,9 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2019-12-13T19:53:33Z</cell>
     <cell name="freepreview last export date">2019-12-13T19:38:37Z</cell>
-    <cell name="oecd.org last export date">2019-12-14T14:59:30Z</cell>
+    <cell name="oecd.org last export date">2019-12-17T21:59:29Z</cell>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2019-12-16T20:42:44Z</cell>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/55cffc80</cell>
@@ -361,6 +361,86 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0cb97367</cell>
   </row>
   <row index="18">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/99a20fbe-en</cell>
+    <cell name="title">Improving school results and equity in compulsory education in Sweden (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-12-19</cell>
+    <cell name="embargo date">2019-12-19T01:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/806c6b20</cell>
+  </row>
+  <row index="19">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/ca7145f3-en</cell>
+    <cell name="title">What drives the performance of Swedish lower secondary schools? (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-12-19</cell>
+    <cell name="embargo date">2019-12-19T01:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3777b62f</cell>
+  </row>
+  <row index="20">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/86954c10-en</cell>
+    <cell name="title">Housing, wealth accumulation and wealth distribution: Evidence and stylized facts (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-12-19</cell>
+    <cell name="embargo date">2019-12-19T01:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c971866</cell>
+  </row>
+  <row index="21">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/6e563bae-en</cell>
+    <cell name="title">Leadership for quality early childhood education and care (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2019-12-19</cell>
+    <cell name="embargo date">2019-12-19T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c091a7c4</cell>
+  </row>
+  <row index="22">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/89b5f984-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Marshall Islands 2019 (Second Round) (en)</cell>
@@ -380,7 +460,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62ebd39f</cell>
   </row>
-  <row index="19">
+  <row index="23">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/7cc5b1a2-en</cell>
+    <cell name="title">Harmful Tax Practices – 2018 Peer Review Reports on the Exchange of Information on Tax Rulings (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 5 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2019-12-23</cell>
+    <cell name="embargo date">2019-12-23T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2019-12-17T22:25:49Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2019-12-17T21:59:29Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ef1e71a1</cell>
+  </row>
+  <row index="24">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/bb688e68-en</cell>
     <cell name="title">OECD Skills Strategy Slovak Republic (en)</cell>
@@ -400,7 +500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/697e2c8f</cell>
   </row>
-  <row index="20">
+  <row index="25">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/bb688e68-en</cell>
     <cell name="title">OECD Skills Strategy Slovak Republic (en)</cell>

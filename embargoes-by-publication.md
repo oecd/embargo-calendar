@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 16 December 2019 at 21:26* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 18 December 2019 at 0:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Financing for refugee situations](https://doi.org/10.1787/02d6b022-en)
 
@@ -61,7 +61,7 @@ Monday 16 December 2019 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 13 December 2019 at 20:53
 - [x] Exported to Keepeek Friday 13 December 2019 at 20:38
-- [x] Exported to OECD.org Saturday 14 December 2019 at 15:59
+- [x] Exported to OECD.org Tuesday 17 December 2019 at 22:59
 
 ### Additional Information
 
@@ -138,6 +138,121 @@ Tuesday 17 December 2019 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Improving school results and equity in compulsory education in Sweden](https://doi.org/10.1787/99a20fbe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 December 2019 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [What drives the performance of Swedish lower secondary schools?](https://doi.org/10.1787/ca7145f3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 December 2019 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Housing, wealth accumulation and wealth distribution: Evidence and stylized facts](https://doi.org/10.1787/86954c10-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 December 2019 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Leadership for quality early childhood education and care](https://doi.org/10.1787/6e563bae-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 December 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Harmful Tax Practices – 2018 Peer Review Reports on the Exchange of Information on Tax Rulings - Inclusive Framework on BEPS: Action 5](https://doi.org/10.1787/7cc5b1a2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 December 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 17 December 2019 at 23:25
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 17 December 2019 at 22:59
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
