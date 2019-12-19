@@ -2,64 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 19 December 2019 at 9:09* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 19 December 2019 at 20:29* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [17 December 2019](#17-december-2019)
 * [19 December 2019](#19-december-2019)
 * [20 December 2019](#20-december-2019)
 * [23 December 2019](#23-december-2019)
 * [27 January 2020](#27-january-2020)
 * [4 March 2020](#4-march-2020)
-
-------
-
-# 17 December 2019
-
-## [Multilingual Summaries for OECD Economic Surveys: Estonia 2019](https://doi.org/10.1787/acd0c192-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 December 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 December 2019 at 20:54
-- [x] Exported to Keepeek Monday 16 December 2019 at 20:41
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* 4 Languages: [English](https://doi.org/10.1787/acd0c192-en), [Estonian](https://doi.org/10.1787/cb563e75-et), [French](https://doi.org/10.1787/685e68ad-fr), [Hungarian](https://doi.org/10.1787/be928fd7-hu)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Estonia 2019](https://doi.org/10.1787/f221b253-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 December 2019 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 December 2019 at 20:54
-- [x] Exported to Keepeek Monday 16 December 2019 at 20:41
-- [x] Exported to OECD.org Wednesday 18 December 2019 at 20:22
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -74,7 +23,7 @@ Thursday 19 December 2019 at 1:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 18 December 2019 at 21:15
 - [x] Exported to Keepeek Wednesday 18 December 2019 at 20:40
 - [ ] Exported to OECD.org
 
@@ -97,7 +46,7 @@ Thursday 19 December 2019 at 1:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 18 December 2019 at 21:15
 - [x] Exported to Keepeek Wednesday 18 December 2019 at 20:40
 - [ ] Exported to OECD.org
 
@@ -120,7 +69,7 @@ Thursday 19 December 2019 at 1:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 18 December 2019 at 21:15
 - [x] Exported to Keepeek Wednesday 18 December 2019 at 20:40
 - [ ] Exported to OECD.org
 
@@ -143,7 +92,7 @@ Thursday 19 December 2019 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 19 December 2019 at 14:28
 - [x] Exported to Keepeek Wednesday 18 December 2019 at 20:40
 - [ ] Exported to OECD.org
 
@@ -170,7 +119,7 @@ Friday 20 December 2019 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 18 December 2019 at 21:15
 - [x] Exported to Keepeek Wednesday 18 December 2019 at 20:40
 - [ ] Exported to OECD.org
 
@@ -187,6 +136,52 @@ Friday 20 December 2019 at 10:00 | no launch event
 ------
 
 # 23 December 2019
+
+## [Reducing skills imbalances to foster productivity growth of Malaysia](https://doi.org/10.1787/ad344b44-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 December 2019 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [What makes a productive Russian firm? A comparative analysis using firm-level data](https://doi.org/10.1787/8590f752-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 December 2019 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
 
 ## [Harmful Tax Practices – 2018 Peer Review Reports on the Exchange of Information on Tax Rulings - Inclusive Framework on BEPS: Action 5](https://doi.org/10.1787/7cc5b1a2-en)
 

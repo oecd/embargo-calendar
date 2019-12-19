@@ -2,87 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/acd0c192-end3e118
-SUMMARY:Multilingual Summaries for OECD Economic
-  Surveys: Estonia 2019
-DESCRIPTION:*Multilingual Summaries for OECD Economi
- c Surveys: Estonia 2019*\n\nDirectorate:
-  Economics Department\n4 Languages: Engl
- ish, Estonian, French, Hungarian\nPublic
- ation type: Summary\nReleased as: PDF\n\
- nEmbargo date/time: Tuesday, 17 December
-  2019, 9:00 (GMT)\n\niLibrary export: Mo
- nday, 16 December 2019, 19:54 (GMT)\nFre
- epreview export: Monday, 16 December 201
- 9, 19:41 (GMT)\nOECD.org export: never\n
- FTI loaded: ✓\n\nFor more information se
- e: https://oecd.github.io/embargo-calend
- ar/embargoes-by-publication.html.\n\nPle
- ase note: This information was correct a
- s of this morning at 9:09, it is updated
-  each night; therefore any subsequent up
- dates may not yet be visible here. Also,
-  please be aware that the different rele
- ased media (PDF, HTML, etc.) are not nec
- essarily released at the same time. For 
- complete and up-to-date information see 
- here: http://kappa.oecd.org/v3/search?te
- rm=acd0c192-en.
-DTSTAMP:20191219T090945Z
-DTSTART:20191217T090000Z
-DTEND:20191217T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Multilingual Summaries for OEC
- D Economic Surveys: Estonia 2019
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/f221b253-end3e173
-SUMMARY:OECD Economic Surveys: Estonia 2019
-DESCRIPTION:*OECD Economic Surveys: Estonia 2019*\n\
- nDirectorate: Economics Department\nLang
- uage: English\nDOI: https://doi.org/10.1
- 787/f221b253-en\nPublication type: Econo
- mic survey\nReleased as: PDF\n\nEmbargo 
- date/time: Tuesday, 17 December 2019, 9:
- 00 (GMT)\n\n\niLibrary export: Monday, 1
- 6 December 2019, 19:54 (GMT)\nFreeprevie
- w export: Monday, 16 December 2019, 19:4
- 1 (GMT)\nOECD.org export: Wednesday, 18 
- December 2019, 19:22 (GMT)\nFTI loaded: 
- ✓\n\nFor more information see: https://o
- ecd.github.io/embargo-calendar/embargoes
- -by-publication.html.\n\nPlease note: Th
- is information was correct as of this mo
- rning at 9:09, it is updated each night;
-  therefore any subsequent updates may no
- t yet be visible here. Also, please be a
- ware that the different released media (
- PDF, HTML, etc.) are not necessarily rel
- eased at the same time. For complete and
-  up-to-date information see here: http:/
- /kappa.oecd.org/v3/search?term=f221b253-
- en.
-DTSTAMP:20191219T090945Z
-DTSTART:20191217T090000Z
-DTEND:20191217T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Economic Surveys: Estonia
-  2019
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/99a20fbe-end3e340
+UID:10.1787/99a20fbe-end3e63
 SUMMARY:Improving school results and equity in c
  ompulsory education in Sweden
 DESCRIPTION:*Improving school results and equity in 
@@ -92,23 +12,24 @@ DESCRIPTION:*Improving school results and equity in
  a20fbe-en\nPublication type: Working pap
  er\nReleased as: PDF\n\nEmbargo date/tim
  e: Thursday, 19 December 2019, 1:00 (GMT
- )\n\n\niLibrary export: never\nFreeprevi
- ew export: Wednesday, 18 December 2019, 
- 19:40 (GMT)\nOECD.org export: never\nFTI
-  loaded: ✓\n\nFor more information see: 
- https://oecd.github.io/embargo-calendar/
- embargoes-by-publication.html.\n\nPlease
-  note: This information was correct as o
- f this morning at 9:09, it is updated ea
- ch night; therefore any subsequent updat
- es may not yet be visible here. Also, pl
- ease be aware that the different release
- d media (PDF, HTML, etc.) are not necess
- arily released at the same time. For com
- plete and up-to-date information see her
- e: http://kappa.oecd.org/v3/search?term=
- 99a20fbe-en.
-DTSTAMP:20191219T090945Z
+ )\n\n\niLibrary export: Wednesday, 18 De
+ cember 2019, 20:15 (GMT)\nFreepreview ex
+ port: Wednesday, 18 December 2019, 19:40
+  (GMT)\nOECD.org export: never\nFTI load
+ ed: ✓\n\nFor more information see: https
+ ://oecd.github.io/embargo-calendar/embar
+ goes-by-publication.html.\n\nPlease note
+ : This information was correct as of thi
+ s afternoon at 20:29, it is updated each
+  night; therefore any subsequent updates
+  may not yet be visible here. Also, plea
+ se be aware that the different released 
+ media (PDF, HTML, etc.) are not necessar
+ ily released at the same time. For compl
+ ete and up-to-date information see here:
+  http://kappa.oecd.org/v3/search?term=99
+ a20fbe-en.
+DTSTAMP:20191219T203002Z
 DTSTART:20191219T010000Z
 DTEND:20191219T011500Z
 TRANSP:TRANSPARENT
@@ -122,7 +43,7 @@ DESCRIPTION:Reminder: Improving school results and e
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ca7145f3-end3e394
+UID:10.1787/ca7145f3-end3e118
 SUMMARY:What drives the performance of Swedish l
  ower secondary schools?
 DESCRIPTION:*What drives the performance of Swedish 
@@ -132,23 +53,24 @@ DESCRIPTION:*What drives the performance of Swedish
  -en\nPublication type: Working paper\nRe
  leased as: PDF\n\nEmbargo date/time: Thu
  rsday, 19 December 2019, 1:00 (GMT)\n\n\
- niLibrary export: never\nFreepreview exp
- ort: Wednesday, 18 December 2019, 19:40 
- (GMT)\nOECD.org export: never\nFTI loade
- d: ✓\n\nFor more information see: https:
- //oecd.github.io/embargo-calendar/embarg
- oes-by-publication.html.\n\nPlease note:
-  This information was correct as of this
-  morning at 9:09, it is updated each nig
- ht; therefore any subsequent updates may
-  not yet be visible here. Also, please b
- e aware that the different released medi
- a (PDF, HTML, etc.) are not necessarily 
- released at the same time. For complete 
- and up-to-date information see here: htt
- p://kappa.oecd.org/v3/search?term=ca7145
- f3-en.
-DTSTAMP:20191219T090945Z
+ niLibrary export: Wednesday, 18 December
+  2019, 20:15 (GMT)\nFreepreview export: 
+ Wednesday, 18 December 2019, 19:40 (GMT)
+ \nOECD.org export: never\nFTI loaded: ✓\
+ n\nFor more information see: https://oec
+ d.github.io/embargo-calendar/embargoes-b
+ y-publication.html.\n\nPlease note: This
+  information was correct as of this afte
+ rnoon at 20:29, it is updated each night
+ ; therefore any subsequent updates may n
+ ot yet be visible here. Also, please be 
+ aware that the different released media 
+ (PDF, HTML, etc.) are not necessarily re
+ leased at the same time. For complete an
+ d up-to-date information see here: http:
+ //kappa.oecd.org/v3/search?term=ca7145f3
+ -en.
+DTSTAMP:20191219T203002Z
 DTSTART:20191219T010000Z
 DTEND:20191219T011500Z
 TRANSP:TRANSPARENT
@@ -162,7 +84,7 @@ DESCRIPTION:Reminder: What drives the performance of
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/86954c10-end3e448
+UID:10.1787/86954c10-end3e173
 SUMMARY:Housing, wealth accumulation and wealth 
  distribution: Evidence and stylized fact
  s
@@ -173,23 +95,24 @@ DESCRIPTION:*Housing, wealth accumulation and wealth
  g/10.1787/86954c10-en\nPublication type:
   Working paper\nReleased as: PDF\n\nEmba
  rgo date/time: Thursday, 19 December 201
- 9, 1:00 (GMT)\n\n\niLibrary export: neve
- r\nFreepreview export: Wednesday, 18 Dec
- ember 2019, 19:40 (GMT)\nOECD.org export
- : never\nFTI loaded: ✓\n\nFor more infor
- mation see: https://oecd.github.io/embar
- go-calendar/embargoes-by-publication.htm
- l.\n\nPlease note: This information was 
- correct as of this morning at 9:09, it i
- s updated each night; therefore any subs
- equent updates may not yet be visible he
- re. Also, please be aware that the diffe
- rent released media (PDF, HTML, etc.) ar
- e not necessarily released at the same t
- ime. For complete and up-to-date informa
- tion see here: http://kappa.oecd.org/v3/
- search?term=86954c10-en.
-DTSTAMP:20191219T090945Z
+ 9, 1:00 (GMT)\n\n\niLibrary export: Wedn
+ esday, 18 December 2019, 20:15 (GMT)\nFr
+ eepreview export: Wednesday, 18 December
+  2019, 19:40 (GMT)\nOECD.org export: nev
+ er\nFTI loaded: ✓\n\nFor more informatio
+ n see: https://oecd.github.io/embargo-ca
+ lendar/embargoes-by-publication.html.\n\
+ nPlease note: This information was corre
+ ct as of this afternoon at 20:29, it is 
+ updated each night; therefore any subseq
+ uent updates may not yet be visible here
+ . Also, please be aware that the differe
+ nt released media (PDF, HTML, etc.) are 
+ not necessarily released at the same tim
+ e. For complete and up-to-date informati
+ on see here: http://kappa.oecd.org/v3/se
+ arch?term=86954c10-en.
+DTSTAMP:20191219T203002Z
 DTSTART:20191219T010000Z
 DTEND:20191219T011500Z
 TRANSP:TRANSPARENT
@@ -204,7 +127,7 @@ DESCRIPTION:Reminder: Housing, wealth accumulation a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6e563bae-end3e502
+UID:10.1787/6e563bae-end3e228
 SUMMARY:Leadership for quality early childhood e
  ducation and care
 DESCRIPTION:*Leadership for quality early childhood 
@@ -214,23 +137,24 @@ DESCRIPTION:*Leadership for quality early childhood
  7/6e563bae-en\nPublication type: Working
   paper\nReleased as: PDF\n\nEmbargo date
  /time: Thursday, 19 December 2019, 10:00
-  (GMT)\n\n\niLibrary export: never\nFree
- preview export: Wednesday, 18 December 2
- 019, 19:40 (GMT)\nOECD.org export: never
- \nFTI loaded: ✓\n\nFor more information 
- see: https://oecd.github.io/embargo-cale
- ndar/embargoes-by-publication.html.\n\nP
- lease note: This information was correct
-  as of this morning at 9:09, it is updat
- ed each night; therefore any subsequent 
- updates may not yet be visible here. Als
- o, please be aware that the different re
- leased media (PDF, HTML, etc.) are not n
- ecessarily released at the same time. Fo
- r complete and up-to-date information se
- e here: http://kappa.oecd.org/v3/search?
- term=6e563bae-en.
-DTSTAMP:20191219T090945Z
+  (GMT)\n\n\niLibrary export: Thursday, 1
+ 9 December 2019, 13:28 (GMT)\nFreeprevie
+ w export: Wednesday, 18 December 2019, 1
+ 9:40 (GMT)\nOECD.org export: never\nFTI 
+ loaded: ✓\n\nFor more information see: h
+ ttps://oecd.github.io/embargo-calendar/e
+ mbargoes-by-publication.html.\n\nPlease 
+ note: This information was correct as of
+  this afternoon at 20:29, it is updated 
+ each night; therefore any subsequent upd
+ ates may not yet be visible here. Also, 
+ please be aware that the different relea
+ sed media (PDF, HTML, etc.) are not nece
+ ssarily released at the same time. For c
+ omplete and up-to-date information see h
+ ere: http://kappa.oecd.org/v3/search?ter
+ m=6e563bae-en.
+DTSTAMP:20191219T203002Z
 DTSTART:20191219T100000Z
 DTEND:20191219T101500Z
 TRANSP:TRANSPARENT
@@ -244,7 +168,7 @@ DESCRIPTION:Reminder: Leadership for quality early c
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ede8feb6-end3e610
+UID:10.1787/ede8feb6-end3e337
 SUMMARY:The relevance of general pedagogical kno
  wledge for successful teaching - Systema
  tic review and meta-analysis of the inte
@@ -260,23 +184,24 @@ DESCRIPTION:*The relevance of general pedagogical kn
  e8feb6-en\nPublication type: Working pap
  er\nReleased as: PDF\n\nEmbargo date/tim
  e: Friday, 20 December 2019, 10:00 (GMT)
- \n\n\niLibrary export: never\nFreeprevie
- w export: Wednesday, 18 December 2019, 1
- 9:40 (GMT)\nOECD.org export: never\nFTI 
- loaded: ✓\n\nFor more information see: h
- ttps://oecd.github.io/embargo-calendar/e
- mbargoes-by-publication.html.\n\nPlease 
- note: This information was correct as of
-  this morning at 9:09, it is updated eac
- h night; therefore any subsequent update
- s may not yet be visible here. Also, ple
- ase be aware that the different released
-  media (PDF, HTML, etc.) are not necessa
- rily released at the same time. For comp
- lete and up-to-date information see here
- : http://kappa.oecd.org/v3/search?term=e
- de8feb6-en.
-DTSTAMP:20191219T090945Z
+ \n\n\niLibrary export: Wednesday, 18 Dec
+ ember 2019, 20:15 (GMT)\nFreepreview exp
+ ort: Wednesday, 18 December 2019, 19:40 
+ (GMT)\nOECD.org export: never\nFTI loade
+ d: ✓\n\nFor more information see: https:
+ //oecd.github.io/embargo-calendar/embarg
+ oes-by-publication.html.\n\nPlease note:
+  This information was correct as of this
+  afternoon at 20:29, it is updated each 
+ night; therefore any subsequent updates 
+ may not yet be visible here. Also, pleas
+ e be aware that the different released m
+ edia (PDF, HTML, etc.) are not necessari
+ ly released at the same time. For comple
+ te and up-to-date information see here: 
+ http://kappa.oecd.org/v3/search?term=ede
+ 8feb6-en.
+DTSTAMP:20191219T203002Z
 DTSTART:20191220T100000Z
 DTEND:20191220T101500Z
 TRANSP:TRANSPARENT
@@ -293,7 +218,87 @@ DESCRIPTION:Reminder: The relevance of general pedag
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7cc5b1a2-end3e665
+UID:10.1787/ad344b44-end3e393
+SUMMARY:Reducing skills imbalances to foster pro
+ ductivity growth of Malaysia
+DESCRIPTION:*Reducing skills imbalances to foster pr
+ oductivity growth of Malaysia*\n\nDirect
+ orate: Economics Department\nLanguage: E
+ nglish\nDOI: https://doi.org/10.1787/ad3
+ 44b44-en\nPublication type: Working pape
+ r\nReleased as: PDF\n\nEmbargo date/time
+ : Monday, 23 December 2019, 1:00 (GMT)\n
+ \n\niLibrary export: never\nFreepreview 
+ export: never\nOECD.org export: never\nF
+ TI loaded: ✓\n\nFor more information see
+ : https://oecd.github.io/embargo-calenda
+ r/embargoes-by-publication.html.\n\nPlea
+ se note: This information was correct as
+  of this afternoon at 20:29, it is updat
+ ed each night; therefore any subsequent 
+ updates may not yet be visible here. Als
+ o, please be aware that the different re
+ leased media (PDF, HTML, etc.) are not n
+ ecessarily released at the same time. Fo
+ r complete and up-to-date information se
+ e here: http://kappa.oecd.org/v3/search?
+ term=ad344b44-en.
+DTSTAMP:20191219T203002Z
+DTSTART:20191223T010000Z
+DTEND:20191223T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Reducing skills imbalances to 
+ foster productivity growth of Malaysia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/8590f752-end3e446
+SUMMARY:What makes a productive Russian firm? A 
+ comparative analysis using firm-level da
+ ta
+DESCRIPTION:*What makes a productive Russian firm? A
+  comparative analysis using firm-level d
+ ata*\n\nDirectorate: Economics Departmen
+ t\nLanguage: English\nDOI: https://doi.o
+ rg/10.1787/8590f752-en\nPublication type
+ : Working paper\nReleased as: PDF\n\nEmb
+ argo date/time: Monday, 23 December 2019
+ , 1:00 (GMT)\n\n\niLibrary export: never
+ \nFreepreview export: never\nOECD.org ex
+ port: never\nFTI loaded: ✓\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 20:2
+ 9, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=8590f752-en.
+DTSTAMP:20191219T203002Z
+DTSTART:20191223T010000Z
+DTEND:20191223T011500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: What makes a productive Russia
+ n firm? A comparative analysis using fir
+ m-level data
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/7cc5b1a2-end3e499
 SUMMARY:Harmful Tax Practices – 2018 Peer Review
   Reports on the Exchange of Information 
  on Tax Rulings - Inclusive Framework on 
@@ -314,16 +319,17 @@ DESCRIPTION:*Harmful Tax Practices – 2018 Peer Revie
  For more information see: https://oecd.g
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
- formation was correct as of this morning
-  at 9:09, it is updated each night; ther
- efore any subsequent updates may not yet
-  be visible here. Also, please be aware 
- that the different released media (PDF, 
- HTML, etc.) are not necessarily released
-  at the same time. For complete and up-t
- o-date information see here: http://kapp
- a.oecd.org/v3/search?term=7cc5b1a2-en.
-DTSTAMP:20191219T090945Z
+ formation was correct as of this afterno
+ on at 20:29, it is updated each night; t
+ herefore any subsequent updates may not 
+ yet be visible here. Also, please be awa
+ re that the different released media (PD
+ F, HTML, etc.) are not necessarily relea
+ sed at the same time. For complete and u
+ p-to-date information see here: http://k
+ appa.oecd.org/v3/search?term=7cc5b1a2-en
+ .
+DTSTAMP:20191219T203002Z
 DTSTART:20191223T100000Z
 DTEND:20191223T101500Z
 TRANSP:TRANSPARENT
@@ -339,7 +345,7 @@ DESCRIPTION:Reminder: Harmful Tax Practices – 2018 P
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bb688e68-end3e772
+UID:10.1787/bb688e68-end3e607
 SUMMARY:OECD Skills Strategy Slovak Republic - A
  ssessment and Recommendations
 DESCRIPTION:*OECD Skills Strategy Slovak Republic - 
@@ -355,16 +361,16 @@ DESCRIPTION:*OECD Skills Strategy Slovak Republic -
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this morning at 9:09, it is updated e
- ach night; therefore any subsequent upda
- tes may not yet be visible here. Also, p
- lease be aware that the different releas
- ed media (PDF, HTML, etc.) are not neces
- sarily released at the same time. For co
- mplete and up-to-date information see he
- re: http://kappa.oecd.org/v3/search?term
- =bb688e68-en.
-DTSTAMP:20191219T090945Z
+ of this afternoon at 20:29, it is update
+ d each night; therefore any subsequent u
+ pdates may not yet be visible here. Also
+ , please be aware that the different rel
+ eased media (PDF, HTML, etc.) are not ne
+ cessarily released at the same time. For
+  complete and up-to-date information see
+  here: http://kappa.oecd.org/v3/search?t
+ erm=bb688e68-en.
+DTSTAMP:20191219T203002Z
 DTSTART:20200127T070000Z
 DTEND:20200127T071500Z
 TRANSP:TRANSPARENT
@@ -378,7 +384,7 @@ DESCRIPTION:Reminder: OECD Skills Strategy Slovak Re
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9ef55ff7-end3e824
+UID:10.1787/9ef55ff7-end3e659
 SUMMARY:Enhancing Productivity in UK Core Cities
 DESCRIPTION:*Enhancing Productivity in UK Core Citie
  s*\n\nDirectorate: Centre for Entreprene
@@ -393,16 +399,16 @@ DESCRIPTION:*Enhancing Productivity in UK Core Citie
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this morning at 9:09, it is up
- dated each night; therefore any subseque
- nt updates may not yet be visible here. 
- Also, please be aware that the different
-  released media (PDF, HTML, etc.) are no
- t necessarily released at the same time.
-  For complete and up-to-date information
-  see here: http://kappa.oecd.org/v3/sear
- ch?term=9ef55ff7-en.
-DTSTAMP:20191219T090945Z
+ ect as of this afternoon at 20:29, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=9ef55ff7-en.
+DTSTAMP:20191219T203002Z
 DTSTART:20200304T070000Z
 DTEND:20200304T071500Z
 TRANSP:TRANSPARENT
