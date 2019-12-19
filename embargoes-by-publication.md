@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 18 December 2019 at 0:10* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Financing for refugee situations](https://doi.org/10.1787/02d6b022-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 December 2019 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 December 2019 at 20:54
-- [x] Exported to Keepeek Monday 16 December 2019 at 20:41
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [On the concentration of innovation in top cities in the digital age](https://doi.org/10.1787/f184732a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 December 2019 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 December 2019 at 21:21
-- [x] Exported to Keepeek Monday 9 December 2019 at 20:43
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Améliorer les statistiques régionales pour un développement territorial inclusif et durable en Tunisie](https://doi.org/10.1787/283fefef-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 December 2019 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 13 December 2019 at 20:53
-- [x] Exported to Keepeek Friday 13 December 2019 at 20:38
-- [x] Exported to OECD.org Tuesday 17 December 2019 at 22:59
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Occupational licensing and job mobility in the United States](https://doi.org/10.1787/4cc19056-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 December 2019 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 13 December 2019 at 20:53
-- [x] Exported to Keepeek Friday 13 December 2019 at 20:38
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Thursday 19 December 2019 at 9:09* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Multilingual Summaries for OECD Economic Surveys: Estonia 2019](https://doi.org/10.1787/acd0c192-en)
 
@@ -130,7 +38,7 @@ Tuesday 17 December 2019 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 16 December 2019 at 20:54
 - [x] Exported to Keepeek Monday 16 December 2019 at 20:41
-- [x] Exported to OECD.org Monday 16 December 2019 at 20:27
+- [x] Exported to OECD.org Wednesday 18 December 2019 at 20:22
 
 ### Additional Information
 
@@ -152,7 +60,7 @@ Thursday 19 December 2019 at 1:00 | no launch event
 
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Wednesday 18 December 2019 at 20:40
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -175,7 +83,7 @@ Thursday 19 December 2019 at 1:00 | no launch event
 
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Wednesday 18 December 2019 at 20:40
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -198,7 +106,7 @@ Thursday 19 December 2019 at 1:00 | no launch event
 
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Wednesday 18 December 2019 at 20:40
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -221,7 +129,30 @@ Thursday 19 December 2019 at 10:00 | no launch event
 
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Wednesday 18 December 2019 at 20:40
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [The relevance of general pedagogical knowledge for successful teaching - Systematic review and meta-analysis of the international evidence from primary to tertiary education](https://doi.org/10.1787/ede8feb6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 20 December 2019 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [x] Exported to Keepeek Wednesday 18 December 2019 at 20:40
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -273,6 +204,29 @@ Monday 27 January 2020 at 7:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Enhancing Productivity in UK Core Cities](https://doi.org/10.1787/9ef55ff7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 4 March 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
