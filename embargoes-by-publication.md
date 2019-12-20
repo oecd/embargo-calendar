@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 19 December 2019 at 20:29* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 20 December 2019 at 21:26* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Improving school results and equity in compulsory education in Sweden](https://doi.org/10.1787/99a20fbe-en)
 
@@ -128,8 +128,8 @@ Monday 23 December 2019 at 1:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 20 December 2019 at 9:19
+- [x] Exported to Keepeek Friday 20 December 2019 at 9:12
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -151,8 +151,8 @@ Monday 23 December 2019 at 1:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Friday 20 December 2019 at 9:19
+- [x] Exported to Keepeek Friday 20 December 2019 at 9:12
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -173,16 +173,16 @@ Monday 23 December 2019 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 17 December 2019 at 23:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 17 December 2019 at 22:59
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 20 December 2019 at 21:01
+- [x] Exported to Keepeek Friday 20 December 2019 at 20:45
+- [x] Exported to OECD.org Friday 20 December 2019 at 20:31
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
