@@ -2,136 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 20 December 2019 at 21:26* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 23 December 2019 at 21:12* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [19 December 2019](#19-december-2019)
-* [20 December 2019](#20-december-2019)
 * [23 December 2019](#23-december-2019)
 * [27 January 2020](#27-january-2020)
 * [4 March 2020](#4-march-2020)
-
-------
-
-# 19 December 2019
-
-## [Improving school results and equity in compulsory education in Sweden](https://doi.org/10.1787/99a20fbe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 19 December 2019 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 18 December 2019 at 21:15
-- [x] Exported to Keepeek Wednesday 18 December 2019 at 20:40
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [What drives the performance of Swedish lower secondary schools?](https://doi.org/10.1787/ca7145f3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 19 December 2019 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 18 December 2019 at 21:15
-- [x] Exported to Keepeek Wednesday 18 December 2019 at 20:40
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Housing, wealth accumulation and wealth distribution: Evidence and stylized facts](https://doi.org/10.1787/86954c10-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 19 December 2019 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 18 December 2019 at 21:15
-- [x] Exported to Keepeek Wednesday 18 December 2019 at 20:40
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Leadership for quality early childhood education and care](https://doi.org/10.1787/6e563bae-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 19 December 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 19 December 2019 at 14:28
-- [x] Exported to Keepeek Wednesday 18 December 2019 at 20:40
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 20 December 2019
-
-## [The relevance of general pedagogical knowledge for successful teaching - Systematic review and meta-analysis of the international evidence from primary to tertiary education](https://doi.org/10.1787/ede8feb6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 20 December 2019 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 18 December 2019 at 21:15
-- [x] Exported to Keepeek Wednesday 18 December 2019 at 20:40
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -194,7 +69,7 @@ Monday 23 December 2019 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 December 2019 at 21:01
 - [x] Exported to Keepeek Friday 20 December 2019 at 20:45
-- [x] Exported to OECD.org Friday 20 December 2019 at 20:31
+- [x] Exported to OECD.org Saturday 21 December 2019 at 15:58
 
 ### Additional Information
 
@@ -219,15 +94,15 @@ Monday 27 January 2020 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 23 December 2019 at 20:50
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 23 December 2019 at 20:23
 
 ### Additional Information
 
 * Directorate: *Centre for Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
