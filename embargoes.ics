@@ -2,137 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/ad344b44-end3e63
-SUMMARY:Reducing skills imbalances to foster pro
- ductivity growth of Malaysia
-DESCRIPTION:*Reducing skills imbalances to foster pr
- oductivity growth of Malaysia*\n\nDirect
- orate: Economics Department\nLanguage: E
- nglish\nDOI: https://doi.org/10.1787/ad3
- 44b44-en\nPublication type: Working pape
- r\nReleased as: PDF\n\nEmbargo date/time
- : Monday, 23 December 2019, 1:00 (GMT)\n
- \n\niLibrary export: Friday, 20 December
-  2019, 8:19 (GMT)\nFreepreview export: F
- riday, 20 December 2019, 8:12 (GMT)\nOEC
- D.org export: never\nFTI loaded: ✓\n\nFo
- r more information see: https://oecd.git
- hub.io/embargo-calendar/embargoes-by-pub
- lication.html.\n\nPlease note: This info
- rmation was correct as of this afternoon
-  at 21:05, it is updated each night; the
- refore any subsequent updates may not ye
- t be visible here. Also, please be aware
-  that the different released media (PDF,
-  HTML, etc.) are not necessarily release
- d at the same time. For complete and up-
- to-date information see here: http://kap
- pa.oecd.org/v3/search?term=ad344b44-en.
-DTSTAMP:20191224T210517Z
-DTSTART:20191223T010000Z
-DTEND:20191223T011500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Reducing skills imbalances to 
- foster productivity growth of Malaysia
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/8590f752-end3e118
-SUMMARY:What makes a productive Russian firm? A 
- comparative analysis using firm-level da
- ta
-DESCRIPTION:*What makes a productive Russian firm? A
-  comparative analysis using firm-level d
- ata*\n\nDirectorate: Economics Departmen
- t\nLanguage: English\nDOI: https://doi.o
- rg/10.1787/8590f752-en\nPublication type
- : Working paper\nReleased as: PDF\n\nEmb
- argo date/time: Monday, 23 December 2019
- , 1:00 (GMT)\n\n\niLibrary export: Frida
- y, 20 December 2019, 8:19 (GMT)\nFreepre
- view export: Friday, 20 December 2019, 8
- :12 (GMT)\nOECD.org export: never\nFTI l
- oaded: ✓\n\nFor more information see: ht
- tps://oecd.github.io/embargo-calendar/em
- bargoes-by-publication.html.\n\nPlease n
- ote: This information was correct as of 
- this afternoon at 21:05, it is updated e
- ach night; therefore any subsequent upda
- tes may not yet be visible here. Also, p
- lease be aware that the different releas
- ed media (PDF, HTML, etc.) are not neces
- sarily released at the same time. For co
- mplete and up-to-date information see he
- re: http://kappa.oecd.org/v3/search?term
- =8590f752-en.
-DTSTAMP:20191224T210517Z
-DTSTART:20191223T010000Z
-DTEND:20191223T011500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: What makes a productive Russia
- n firm? A comparative analysis using fir
- m-level data
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/7cc5b1a2-end3e173
-SUMMARY:Harmful Tax Practices – 2018 Peer Review
-  Reports on the Exchange of Information 
- on Tax Rulings - Inclusive Framework on 
- BEPS: Action 5
-DESCRIPTION:*Harmful Tax Practices – 2018 Peer Revie
- w Reports on the Exchange of Information
-  on Tax Rulings - Inclusive Framework on
-  BEPS: Action 5*\n\nDirectorate: Centre 
- for Tax Policy and Administration\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/7cc5b1a2-en\nPublication type: Book\n
- Released as: PDF\n\nEmbargo date/time: M
- onday, 23 December 2019, 10:00 (GMT)\n\n
- \niLibrary export: Friday, 20 December 2
- 019, 20:01 (GMT)\nFreepreview export: Fr
- iday, 20 December 2019, 19:45 (GMT)\nOEC
- D.org export: Tuesday, 24 December 2019,
-  19:23 (GMT)\nFTI loaded: ✓\n\nFor more 
- information see: https://oecd.github.io/
- embargo-calendar/embargoes-by-publicatio
- n.html.\n\nPlease note: This information
-  was correct as of this afternoon at 21:
- 05, it is updated each night; therefore 
- any subsequent updates may not yet be vi
- sible here. Also, please be aware that t
- he different released media (PDF, HTML, 
- etc.) are not necessarily released at th
- e same time. For complete and up-to-date
-  information see here: http://kappa.oecd
- .org/v3/search?term=7cc5b1a2-en.
-DTSTAMP:20191224T210517Z
-DTSTART:20191223T100000Z
-DTEND:20191223T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Harmful Tax Practices – 2018 P
- eer Review Reports on the Exchange of In
- formation on Tax Rulings - Inclusive Fra
- mework on BEPS: Action 5
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/bb688e68-end3e285
+UID:10.1787/bb688e68-end3e116
 SUMMARY:OECD Skills Strategy Slovak Republic - A
  ssessment and Recommendations
 DESCRIPTION:*OECD Skills Strategy Slovak Republic - 
@@ -158,7 +28,7 @@ DESCRIPTION:*OECD Skills Strategy Slovak Republic -
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=bb688e68-en.
-DTSTAMP:20191224T210517Z
+DTSTAMP:20191225T210532Z
 DTSTART:20200127T070000Z
 DTEND:20200127T071500Z
 TRANSP:TRANSPARENT
@@ -172,7 +42,7 @@ DESCRIPTION:Reminder: OECD Skills Strategy Slovak Re
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9ef55ff7-end3e340
+UID:10.1787/9ef55ff7-end3e171
 SUMMARY:Enhancing Productivity in UK Core Cities
 DESCRIPTION:*Enhancing Productivity in UK Core Citie
  s*\n\nDirectorate: Centre for Entreprene
@@ -196,7 +66,7 @@ DESCRIPTION:*Enhancing Productivity in UK Core Citie
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=9ef55ff7-en.
-DTSTAMP:20191224T210517Z
+DTSTAMP:20191225T210532Z
 DTSTART:20200304T070000Z
 DTEND:20200304T071500Z
 TRANSP:TRANSPARENT

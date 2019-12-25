@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2019-12-24T21:05:15.1781296+01:00">
+<report name="official-embargoes" generated="2019-12-25T21:05:29.507844+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -21,66 +21,6 @@
     <cell name="kappa link">Kappa Link</cell>
   </row>
   <row index="1">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/ad344b44-en</cell>
-    <cell name="title">Reducing skills imbalances to foster productivity growth of Malaysia (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-12-23</cell>
-    <cell name="embargo date">2019-12-23T01:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-12-20T08:19:30Z</cell>
-    <cell name="freepreview last export date">2019-12-20T08:12:55Z</cell>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Working paper</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/72597de7</cell>
-  </row>
-  <row index="2">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/8590f752-en</cell>
-    <cell name="title">What makes a productive Russian firm? A comparative analysis using firm-level data (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-12-23</cell>
-    <cell name="embargo date">2019-12-23T01:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-12-20T08:19:30Z</cell>
-    <cell name="freepreview last export date">2019-12-20T08:12:55Z</cell>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Working paper</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/de59a0be</cell>
-  </row>
-  <row index="3">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/7cc5b1a2-en</cell>
-    <cell name="title">Harmful Tax Practices – 2018 Peer Review Reports on the Exchange of Information on Tax Rulings (en)</cell>
-    <cell name="subtitle">Inclusive Framework on BEPS: Action 5 (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2019-12-23</cell>
-    <cell name="embargo date">2019-12-23T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2019-12-20T20:01:37Z</cell>
-    <cell name="freepreview last export date">2019-12-20T19:45:18Z</cell>
-    <cell name="oecd.org last export date">2019-12-24T19:23:28Z</cell>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date">2019-12-23T20:27:51Z</cell>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ef1e71a1</cell>
-  </row>
-  <row index="4">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/bb688e68-en</cell>
     <cell name="title">OECD Skills Strategy Slovak Republic (en)</cell>
@@ -100,7 +40,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/697e2c8f</cell>
   </row>
-  <row index="5">
+  <row index="2">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/bb688e68-en</cell>
     <cell name="title">OECD Skills Strategy Slovak Republic (en)</cell>
@@ -120,7 +60,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9f53804a</cell>
   </row>
-  <row index="6">
+  <row index="3">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9ef55ff7-en</cell>
     <cell name="title">Enhancing Productivity in UK Core Cities (en)</cell>
@@ -140,7 +80,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/241fb0fd</cell>
   </row>
-  <row index="7">
+  <row index="4">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9ef55ff7-en</cell>
     <cell name="title">Enhancing Productivity in UK Core Cities (en)</cell>
