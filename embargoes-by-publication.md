@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 26 December 2019 at 21:00* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 27 December 2019 at 21:02* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Skills Strategy Slovak Republic - Assessment and Recommendations](https://doi.org/10.1787/bb688e68-en)
 
