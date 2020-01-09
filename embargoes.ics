@@ -2,7 +2,46 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/bb688e68-end3e116
+UID:10.1787/9faa9816-end3e63
+SUMMARY:India 2020 - Energy Policy Review
+DESCRIPTION:*India 2020 - Energy Policy Review*\n\nD
+ irectorate: International Energy Agency\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/9faa9816-en\nPublication type: 
+ Stand-alone monograph\nReleased as: PDF\
+ n\nEmbargo date/time: Friday, 10 January
+  2020, 4:30 (GMT)\n\n\niLibrary export: 
+ Thursday, 9 January 2020, 19:48 (GMT)\nF
+ reepreview export: never\nOECD.org expor
+ t: Thursday, 9 January 2020, 19:24 (GMT)
+ \nFTI loaded: ✓\n\nFor more information 
+ see: https://oecd.github.io/embargo-cale
+ ndar/embargoes-by-publication.html.\n\nP
+ lease note: This information was correct
+  as of this afternoon at 21:09, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=9faa9816-en.
+DTSTAMP:20200109T210906Z
+DTSTART:20200110T043000Z
+DTEND:20200110T044500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: India 2020 - Energy Policy Rev
+ iew
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/bb688e68-end3e172
 SUMMARY:OECD Skills Strategy Slovak Republic - A
  ssessment and Recommendations
 DESCRIPTION:*OECD Skills Strategy Slovak Republic - 
@@ -20,7 +59,7 @@ DESCRIPTION:*OECD Skills Strategy Slovak Republic -
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 21:12, it is updated each night; th
+ n at 21:09, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -28,7 +67,7 @@ DESCRIPTION:*OECD Skills Strategy Slovak Republic -
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=bb688e68-en.
-DTSTAMP:20200108T211221Z
+DTSTAMP:20200109T210906Z
 DTSTART:20200127T070000Z
 DTEND:20200127T071500Z
 TRANSP:TRANSPARENT
@@ -42,7 +81,7 @@ DESCRIPTION:Reminder: OECD Skills Strategy Slovak Re
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9ef55ff7-end3e171
+UID:10.1787/9ef55ff7-end3e227
 SUMMARY:Enhancing Productivity in UK Core Cities
 DESCRIPTION:*Enhancing Productivity in UK Core Citie
  s*\n\nDirectorate: Centre for Entreprene
@@ -57,7 +96,7 @@ DESCRIPTION:*Enhancing Productivity in UK Core Citie
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 21:12, it is
+ ect as of this afternoon at 21:09, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -66,7 +105,7 @@ DESCRIPTION:*Enhancing Productivity in UK Core Citie
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=9ef55ff7-en.
-DTSTAMP:20200108T211221Z
+DTSTAMP:20200109T210906Z
 DTSTART:20200304T070000Z
 DTEND:20200304T071500Z
 TRANSP:TRANSPARENT

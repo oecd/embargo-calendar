@@ -8,13 +8,29 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Wed, 08 Jan 2020 21:12:23 GMT</pubDate>
+      <pubDate>Thu, 09 Jan 2020 21:09:09 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://oecd.github.io/embargo-calendar/embargoes.rss"
                  rel="self"
                  type="application/rss+xml"/>
       <item>
-         <guid isPermaLink="false">10.1787/bb688e68-en-d3e116</guid>
+         <guid isPermaLink="false">10.1787/9faa9816-en-d3e63</guid>
+         <pubDate>Fri, 10 Jan 2020 05:30:00 GMT</pubDate>
+         <title>India 2020 - Energy Policy Review</title>
+         <link>https://doi.org/10.1787/9faa9816-en</link>
+         <description>India 2020 - Energy Policy Review by International Energy Agency has an embargo on Friday 10 January 2020 at 5:30.</description>
+         <oe:embargoTime>Fri, 10 Jan 2020 05:30:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>International Energy Agency</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Thursday, 9 January 2020, 20:48 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport>Thursday, 9 January 2020, 20:24 (GMT)</oe:oecdOrgExport>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/bb688e68-en-d3e172</guid>
          <pubDate>Mon, 27 Jan 2020 08:00:00 GMT</pubDate>
          <title>OECD Skills Strategy Slovak Republic - Assessment and Recommendations</title>
          <link>https://doi.org/10.1787/bb688e68-en</link>
@@ -30,7 +46,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/9ef55ff7-en-d3e171</guid>
+         <guid isPermaLink="false">10.1787/9ef55ff7-en-d3e227</guid>
          <pubDate>Wed, 04 Mar 2020 08:00:00 GMT</pubDate>
          <title>Enhancing Productivity in UK Core Cities</title>
          <link>https://doi.org/10.1787/9ef55ff7-en</link>

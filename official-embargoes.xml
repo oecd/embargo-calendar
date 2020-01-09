@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2020-01-08T21:12:18.623741+01:00">
+<report name="official-embargoes" generated="2020-01-09T21:09:04.2308355+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -21,6 +21,26 @@
     <cell name="kappa link">Kappa Link</cell>
   </row>
   <row index="1">
+    <cell name="directorate">International Energy Agency</cell>
+    <cell name="doi">10.1787/9faa9816-en</cell>
+    <cell name="title">India 2020 (en)</cell>
+    <cell name="subtitle">Energy Policy Review (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-01-10</cell>
+    <cell name="embargo date">2020-01-10T04:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-01-09T19:48:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2020-01-09T19:24:40Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23040a26</cell>
+  </row>
+  <row index="2">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/bb688e68-en</cell>
     <cell name="title">OECD Skills Strategy Slovak Republic (en)</cell>
@@ -40,7 +60,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/697e2c8f</cell>
   </row>
-  <row index="2">
+  <row index="3">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/bb688e68-en</cell>
     <cell name="title">OECD Skills Strategy Slovak Republic (en)</cell>
@@ -60,7 +80,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9f53804a</cell>
   </row>
-  <row index="3">
+  <row index="4">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9ef55ff7-en</cell>
     <cell name="title">Enhancing Productivity in UK Core Cities (en)</cell>
@@ -80,7 +100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/241fb0fd</cell>
   </row>
-  <row index="4">
+  <row index="5">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9ef55ff7-en</cell>
     <cell name="title">Enhancing Productivity in UK Core Cities (en)</cell>
