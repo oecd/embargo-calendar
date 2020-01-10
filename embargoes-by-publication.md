@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 9 January 2020 at 21:09* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 10 January 2020 at 21:09* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [India 2020 - Energy Policy Review](https://doi.org/10.1787/9faa9816-en)
 
