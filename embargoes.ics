@@ -2,46 +2,47 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/9faa9816-end3e63
-SUMMARY:India 2020 - Energy Policy Review
-DESCRIPTION:*India 2020 - Energy Policy Review*\n\nD
- irectorate: International Energy Agency\
- nLanguage: English\nDOI: https://doi.org
- /10.1787/9faa9816-en\nPublication type: 
- Stand-alone monograph\nReleased as: PDF\
- n\nEmbargo date/time: Friday, 10 January
-  2020, 4:30 (GMT)\n\n\niLibrary export: 
- Thursday, 9 January 2020, 19:48 (GMT)\nF
- reepreview export: never\nOECD.org expor
- t: Thursday, 9 January 2020, 19:24 (GMT)
- \nFTI loaded: ✓\n\nFor more information 
- see: https://oecd.github.io/embargo-cale
- ndar/embargoes-by-publication.html.\n\nP
- lease note: This information was correct
-  as of this afternoon at 21:09, it is up
- dated each night; therefore any subseque
- nt updates may not yet be visible here. 
- Also, please be aware that the different
-  released media (PDF, HTML, etc.) are no
- t necessarily released at the same time.
-  For complete and up-to-date information
-  see here: http://kappa.oecd.org/v3/sear
- ch?term=9faa9816-en.
-DTSTAMP:20200110T210915Z
-DTSTART:20200110T043000Z
-DTEND:20200110T044500Z
+UID:10.1787/5569a0aa-end3e63
+SUMMARY:Adaptive Trees: a new approach to econom
+ ic forecasting
+DESCRIPTION:*Adaptive Trees: a new approach to econo
+ mic forecasting*\n\nDirectorate: Economi
+ cs Department\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/5569a0aa-en\nPubl
+ ication type: Working paper\nReleased as
+ : PDF\n\nEmbargo date/time: Thursday, 16
+  January 2020, 1:00 (GMT)\n\n\niLibrary 
+ export: Monday, 13 January 2020, 19:57 (
+ GMT)\nFreepreview export: Monday, 13 Jan
+ uary 2020, 19:40 (GMT)\nOECD.org export:
+  never\nFTI loaded: ✓\n\nFor more inform
+ ation see: https://oecd.github.io/embarg
+ o-calendar/embargoes-by-publication.html
+ .\n\nPlease note: This information was c
+ orrect as of this afternoon at 21:24, it
+  is updated each night; therefore any su
+ bsequent updates may not yet be visible 
+ here. Also, please be aware that the dif
+ ferent released media (PDF, HTML, etc.) 
+ are not necessarily released at the same
+  time. For complete and up-to-date infor
+ mation see here: http://kappa.oecd.org/v
+ 3/search?term=5569a0aa-en.
+DTSTAMP:20200113T212431Z
+DTSTART:20200116T010000Z
+DTEND:20200116T011500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: India 2020 - Energy Policy Rev
- iew
+DESCRIPTION:Reminder: Adaptive Trees: a new approach
+  to economic forecasting
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bb688e68-end3e172
+UID:10.1787/bb688e68-end3e171
 SUMMARY:OECD Skills Strategy Slovak Republic - A
  ssessment and Recommendations
 DESCRIPTION:*OECD Skills Strategy Slovak Republic - 
@@ -51,23 +52,23 @@ DESCRIPTION:*OECD Skills Strategy Slovak Republic -
  e68-en\nPublication type: Book\nReleased
   as: Paperback, PDF\n\nEmbargo date/time
  : Monday, 27 January 2020, 7:00 (GMT)\n\
- n\niLibrary export: Monday, 23 December 
- 2019, 19:50 (GMT)\nFreepreview export: n
- ever\nOECD.org export: Monday, 23 Decemb
- er 2019, 19:23 (GMT)\nFTI loaded: ✗\n\nF
- or more information see: https://oecd.gi
- thub.io/embargo-calendar/embargoes-by-pu
- blication.html.\n\nPlease note: This inf
- ormation was correct as of this afternoo
- n at 21:09, it is updated each night; th
- erefore any subsequent updates may not y
- et be visible here. Also, please be awar
- e that the different released media (PDF
- , HTML, etc.) are not necessarily releas
- ed at the same time. For complete and up
- -to-date information see here: http://ka
- ppa.oecd.org/v3/search?term=bb688e68-en.
-DTSTAMP:20200110T210915Z
+ n\niLibrary export: Monday, 13 January 2
+ 020, 19:57 (GMT)\nFreepreview export: ne
+ ver\nOECD.org export: Monday, 13 January
+  2020, 19:25 (GMT)\nFTI loaded: ✗\n\nFor
+  more information see: https://oecd.gith
+ ub.io/embargo-calendar/embargoes-by-publ
+ ication.html.\n\nPlease note: This infor
+ mation was correct as of this afternoon 
+ at 21:24, it is updated each night; ther
+ efore any subsequent updates may not yet
+  be visible here. Also, please be aware 
+ that the different released media (PDF, 
+ HTML, etc.) are not necessarily released
+  at the same time. For complete and up-t
+ o-date information see here: http://kapp
+ a.oecd.org/v3/search?term=bb688e68-en.
+DTSTAMP:20200113T212431Z
 DTSTART:20200127T070000Z
 DTEND:20200127T071500Z
 TRANSP:TRANSPARENT
@@ -81,7 +82,7 @@ DESCRIPTION:Reminder: OECD Skills Strategy Slovak Re
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9ef55ff7-end3e227
+UID:10.1787/9ef55ff7-end3e226
 SUMMARY:Enhancing Productivity in UK Core Cities
 DESCRIPTION:*Enhancing Productivity in UK Core Citie
  s*\n\nDirectorate: Centre for Entreprene
@@ -96,7 +97,7 @@ DESCRIPTION:*Enhancing Productivity in UK Core Citie
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 21:09, it is
+ ect as of this afternoon at 21:24, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -105,7 +106,7 @@ DESCRIPTION:*Enhancing Productivity in UK Core Citie
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=9ef55ff7-en.
-DTSTAMP:20200110T210915Z
+DTSTAMP:20200113T212431Z
 DTSTART:20200304T070000Z
 DTEND:20200304T071500Z
 TRANSP:TRANSPARENT

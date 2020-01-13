@@ -2,27 +2,27 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 10 January 2020 at 21:09* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 13 January 2020 at 21:24* | [See embargoes by date](embargoes-by-date.md) |
 
-## [India 2020 - Energy Policy Review](https://doi.org/10.1787/9faa9816-en)
+## [Adaptive Trees: a new approach to economic forecasting](https://doi.org/10.1787/5569a0aa-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 10 January 2020 at 4:30 | no launch event
+Thursday 16 January 2020 at 1:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 9 January 2020 at 20:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 January 2020 at 20:24
+- [x] Exported to iLibrary Monday 13 January 2020 at 20:57
+- [x] Exported to Keepeek Monday 13 January 2020 at 20:40
+- [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *International Energy Agency*
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -36,9 +36,9 @@ Monday 27 January 2020 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 23 December 2019 at 20:50
+- [x] Exported to iLibrary Monday 13 January 2020 at 20:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 23 December 2019 at 20:23
+- [x] Exported to OECD.org Monday 13 January 2020 at 20:25
 
 ### Additional Information
 
