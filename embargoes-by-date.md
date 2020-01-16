@@ -2,10 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 15 January 2020 at 21:20* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 16 January 2020 at 21:22* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [16 January 2020](#16-january-2020)
+* [20 January 2020](#20-january-2020)
 * [27 January 2020](#27-january-2020)
+* [27 February 2020](#27-february-2020)
 * [4 March 2020](#4-march-2020)
 
 ------
@@ -37,6 +39,33 @@ Thursday 16 January 2020 at 1:00 | no launch event
 
 ------
 
+# 20 January 2020
+
+## [Strengthening Governance of EU Funds under Cohesion Policy - Administrative Capacity Building Roadmaps](https://doi.org/10.1787/9b71c8d8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 January 2020 at 11:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 January 2020 at 20:57
+- [x] Exported to Keepeek Thursday 16 January 2020 at 20:39
+- [x] Exported to OECD.org Thursday 16 January 2020 at 20:28
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+------
+
 # 27 January 2020
 
 ## [OECD Skills Strategy Slovak Republic - Assessment and Recommendations](https://doi.org/10.1787/bb688e68-en)
@@ -47,8 +76,8 @@ Monday 27 January 2020 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 13 January 2020 at 20:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 January 2020 at 20:57
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 13 January 2020 at 20:25
 
@@ -57,6 +86,33 @@ Monday 27 January 2020 at 7:00 | no launch event
 * Directorate: *Centre for Skills*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 27 February 2020
+
+## [Driving Performance at Peru’s Transport Infrastructure Regulator](https://doi.org/10.1787/d4ddab52-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 February 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
