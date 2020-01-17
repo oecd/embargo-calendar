@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 16 January 2020 at 21:22* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 17 January 2020 at 21:07* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Adaptive Trees: a new approach to economic forecasting](https://doi.org/10.1787/5569a0aa-en)
 
