@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2020-01-20T21:09:43.90047+01:00">
+<report name="official-embargoes" generated="2020-01-21T21:14:55.6012983+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -93,9 +93,9 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-01-16T19:57:20Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-01-18T14:53:38Z</cell>
+    <cell name="oecd.org last export date">2020-01-21T19:23:34Z</cell>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2020-01-20T20:25:33Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/058c7ccc</cell>
@@ -213,9 +213,9 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-01-16T19:57:20Z</cell>
     <cell name="freepreview last export date">2020-01-16T19:39:50Z</cell>
-    <cell name="oecd.org last export date">2020-01-18T14:53:38Z</cell>
+    <cell name="oecd.org last export date">2020-01-21T19:23:34Z</cell>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2020-01-20T20:25:33Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c20cc54</cell>
@@ -353,9 +353,9 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-01-16T19:57:20Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-01-18T14:53:38Z</cell>
+    <cell name="oecd.org last export date">2020-01-21T19:23:34Z</cell>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2020-01-20T20:25:33Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/462fdf0c</cell>
@@ -481,6 +481,26 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/71bb4629</cell>
   </row>
   <row index="24">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/6b7ded53-en</cell>
+    <cell name="title">How has private expenditure on tertiary education evolved over time and how does it affect participation in education? (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-01-24</cell>
+    <cell name="embargo date">2020-01-24T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-01-21T19:50:56Z</cell>
+    <cell name="freepreview last export date">2020-01-21T19:36:26Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9259af21</cell>
+  </row>
+  <row index="25">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/bb688e68-en</cell>
     <cell name="title">OECD Skills Strategy Slovak Republic (en)</cell>
@@ -500,7 +520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/697e2c8f</cell>
   </row>
-  <row index="25">
+  <row index="26">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/bb688e68-en</cell>
     <cell name="title">OECD Skills Strategy Slovak Republic (en)</cell>
@@ -520,7 +540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9f53804a</cell>
   </row>
-  <row index="26">
+  <row index="27">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6b95ee9b-es</cell>
     <cell name="title">Impulsando el desempeño del regulador de infraestructura de transporte de Perú (es)</cell>
@@ -529,7 +549,7 @@
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication"/>
-    <cell name="embargo date">2020-02-17T08:00:00Z</cell>
+    <cell name="embargo date">2020-02-27T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
@@ -539,26 +559,6 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9d0926e7</cell>
-  </row>
-  <row index="27">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/6b95ee9b-es</cell>
-    <cell name="title">Impulsando el desempeño del regulador de infraestructura de transporte de Perú (es)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
-    <cell name="embargo date">2020-02-17T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a0814504</cell>
   </row>
   <row index="28">
     <cell name="directorate">Directorate for Public Governance</cell>
@@ -582,6 +582,26 @@
   </row>
   <row index="29">
     <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/6b95ee9b-es</cell>
+    <cell name="title">Impulsando el desempeño del regulador de infraestructura de transporte de Perú (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-02-27T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a0814504</cell>
+  </row>
+  <row index="30">
+    <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/d4ddab52-en</cell>
     <cell name="title">Driving Performance at Peru’s Transport Infrastructure Regulator (en)</cell>
     <cell name="subtitle"/>
@@ -600,7 +620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c6ebaaef</cell>
   </row>
-  <row index="30">
+  <row index="31">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9ef55ff7-en</cell>
     <cell name="title">Enhancing Productivity in UK Core Cities (en)</cell>
@@ -620,7 +640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/241fb0fd</cell>
   </row>
-  <row index="31">
+  <row index="32">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9ef55ff7-en</cell>
     <cell name="title">Enhancing Productivity in UK Core Cities (en)</cell>
@@ -640,7 +660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/155daf29</cell>
   </row>
-  <row index="32">
+  <row index="33">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/009a0785-en</cell>
     <cell name="title">Driving Performance at Ireland’s Environmental Protection Agency (en)</cell>
@@ -660,7 +680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e3465ec5</cell>
   </row>
-  <row index="33">
+  <row index="34">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/009a0785-en</cell>
     <cell name="title">Driving Performance at Ireland’s Environmental Protection Agency (en)</cell>

@@ -2,11 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 20 January 2020 at 21:09* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 21 January 2020 at 21:14* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [20 January 2020](#20-january-2020)
+* [24 January 2020](#24-january-2020)
 * [27 January 2020](#27-january-2020)
-* [17 February 2020](#17-february-2020)
 * [27 February 2020](#27-february-2020)
 * [4 March 2020](#4-march-2020)
 * [20 March 2020](#20-march-2020)
@@ -26,7 +26,7 @@ Monday 20 January 2020 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 January 2020 at 20:57
 - [x] Exported to Keepeek Thursday 16 January 2020 at 20:39
-- [x] Exported to OECD.org Saturday 18 January 2020 at 15:53
+- [x] Exported to OECD.org Tuesday 21 January 2020 at 20:23
 
 ### Additional Information
 
@@ -35,6 +35,33 @@ Monday 20 January 2020 at 11:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+------
+
+# 24 January 2020
+
+## [How has private expenditure on tertiary education evolved over time and how does it affect participation in education?](https://doi.org/10.1787/6b7ded53-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 24 January 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 21 January 2020 at 20:50
+- [x] Exported to Keepeek Tuesday 21 January 2020 at 20:36
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -67,13 +94,13 @@ Monday 27 January 2020 at 7:00 | no launch event
 
 ------
 
-# 17 February 2020
+# 27 February 2020
 
 ## [Impulsando el desempeño del regulador de infraestructura de transporte de Perú](https://doi.org/10.1787/6b95ee9b-es)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 17 February 2020 at 8:00 | no launch event
+Thursday 27 February 2020 at 8:00 | no launch event
 
 ### Status Information
 
@@ -91,10 +118,6 @@ Monday 17 February 2020 at 8:00 | no launch event
 * Formats: *Paperback, PDF*
 
 ------
-
-------
-
-# 27 February 2020
 
 ## [Driving Performance at Peru’s Transport Infrastructure Regulator](https://doi.org/10.1787/d4ddab52-en)
 
