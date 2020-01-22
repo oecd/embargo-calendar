@@ -2,41 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 21 January 2020 at 21:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 22 January 2020 at 21:10* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [20 January 2020](#20-january-2020)
 * [24 January 2020](#24-january-2020)
 * [27 January 2020](#27-january-2020)
 * [27 February 2020](#27-february-2020)
 * [4 March 2020](#4-march-2020)
 * [20 March 2020](#20-march-2020)
-
-------
-
-# 20 January 2020
-
-## [Strengthening Governance of EU Funds under Cohesion Policy - Administrative Capacity Building Roadmaps](https://doi.org/10.1787/9b71c8d8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 January 2020 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 January 2020 at 20:57
-- [x] Exported to Keepeek Thursday 16 January 2020 at 20:39
-- [x] Exported to OECD.org Tuesday 21 January 2020 at 20:23
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
 
 ------
 
