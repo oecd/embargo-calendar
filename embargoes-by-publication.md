@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 22 January 2020 at 21:10* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 23 January 2020 at 21:12* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [How has private expenditure on tertiary education evolved over time and how does it affect participation in education?](https://doi.org/10.1787/6b7ded53-en)
 
@@ -36,17 +36,40 @@ Monday 27 January 2020 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 January 2020 at 20:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 January 2020 at 20:25
+- [x] Exported to iLibrary Thursday 23 January 2020 at 20:49
+- [x] Exported to Keepeek Thursday 23 January 2020 at 20:36
+- [x] Exported to OECD.org Thursday 23 January 2020 at 20:23
 
 ### Additional Information
 
 * Directorate: *Centre for Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Where did reading proficiency improve over time?](https://doi.org/10.1787/e54d62dc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 January 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 23 January 2020 at 20:49
+- [x] Exported to Keepeek Thursday 23 January 2020 at 20:36
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 

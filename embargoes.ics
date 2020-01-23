@@ -22,7 +22,7 @@ DESCRIPTION:*How has private expenditure on tertiary
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 21:10, it
+ orrect as of this afternoon at 21:12, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -31,7 +31,7 @@ DESCRIPTION:*How has private expenditure on tertiary
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=6b7ded53-en.
-DTSTAMP:20200122T211055Z
+DTSTAMP:20200123T211231Z
 DTSTART:20200124T060000Z
 DTEND:20200124T061500Z
 TRANSP:TRANSPARENT
@@ -57,23 +57,24 @@ DESCRIPTION:*OECD Skills Strategy Slovak Republic -
  e68-en\nPublication type: Book\nReleased
   as: Paperback, PDF\n\nEmbargo date/time
  : Monday, 27 January 2020, 7:00 (GMT)\n\
- n\niLibrary export: Thursday, 16 January
-  2020, 19:57 (GMT)\nFreepreview export: 
- never\nOECD.org export: Monday, 13 Janua
- ry 2020, 19:25 (GMT)\nFTI loaded: ✓\n\nF
- or more information see: https://oecd.gi
- thub.io/embargo-calendar/embargoes-by-pu
- blication.html.\n\nPlease note: This inf
- ormation was correct as of this afternoo
- n at 21:10, it is updated each night; th
- erefore any subsequent updates may not y
- et be visible here. Also, please be awar
- e that the different released media (PDF
- , HTML, etc.) are not necessarily releas
- ed at the same time. For complete and up
- -to-date information see here: http://ka
- ppa.oecd.org/v3/search?term=bb688e68-en.
-DTSTAMP:20200122T211055Z
+ n\niLibrary export: Thursday, 23 January
+  2020, 19:49 (GMT)\nFreepreview export: 
+ Thursday, 23 January 2020, 19:36 (GMT)\n
+ OECD.org export: Thursday, 23 January 20
+ 20, 19:23 (GMT)\nFTI loaded: ✓\n\nFor mo
+ re information see: https://oecd.github.
+ io/embargo-calendar/embargoes-by-publica
+ tion.html.\n\nPlease note: This informat
+ ion was correct as of this afternoon at 
+ 21:12, it is updated each night; therefo
+ re any subsequent updates may not yet be
+  visible here. Also, please be aware tha
+ t the different released media (PDF, HTM
+ L, etc.) are not necessarily released at
+  the same time. For complete and up-to-d
+ ate information see here: http://kappa.o
+ ecd.org/v3/search?term=bb688e68-en.
+DTSTAMP:20200123T211231Z
 DTSTART:20200127T070000Z
 DTEND:20200127T071500Z
 TRANSP:TRANSPARENT
@@ -87,7 +88,47 @@ DESCRIPTION:Reminder: OECD Skills Strategy Slovak Re
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6b95ee9b-esd3e330
+UID:10.1787/e54d62dc-end3e228
+SUMMARY:Where did reading proficiency improve ov
+ er time?
+DESCRIPTION:*Where did reading proficiency improve o
+ ver time?*\n\nDirectorate: Directorate f
+ or Education and Skills\nLanguage: Engli
+ sh\nDOI: https://doi.org/10.1787/e54d62d
+ c-en\nPublication type: Working paper\nR
+ eleased as: PDF\n\nEmbargo date/time: Tu
+ esday, 28 January 2020, 6:00 (GMT)\n\n\n
+ iLibrary export: Thursday, 23 January 20
+ 20, 19:49 (GMT)\nFreepreview export: Thu
+ rsday, 23 January 2020, 19:36 (GMT)\nOEC
+ D.org export: never\nFTI loaded: ✓\n\nFo
+ r more information see: https://oecd.git
+ hub.io/embargo-calendar/embargoes-by-pub
+ lication.html.\n\nPlease note: This info
+ rmation was correct as of this afternoon
+  at 21:12, it is updated each night; the
+ refore any subsequent updates may not ye
+ t be visible here. Also, please be aware
+  that the different released media (PDF,
+  HTML, etc.) are not necessarily release
+ d at the same time. For complete and up-
+ to-date information see here: http://kap
+ pa.oecd.org/v3/search?term=e54d62dc-en.
+DTSTAMP:20200123T211231Z
+DTSTART:20200128T060000Z
+DTEND:20200128T061500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Where did reading proficiency 
+ improve over time?
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/6b95ee9b-esd3e386
 SUMMARY:Impulsando el desempeño del regulador de
   infraestructura de transporte de Perú
 DESCRIPTION:*Impulsando el desempeño del regulador d
@@ -104,7 +145,7 @@ DESCRIPTION:*Impulsando el desempeño del regulador d
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 21:10, it is updated each night
+ rnoon at 21:12, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -113,7 +154,7 @@ DESCRIPTION:*Impulsando el desempeño del regulador d
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=6b95ee9b
  -es.
-DTSTAMP:20200122T211055Z
+DTSTAMP:20200123T211231Z
 DTSTART:20200227T080000Z
 DTEND:20200227T081500Z
 TRANSP:TRANSPARENT
@@ -128,7 +169,7 @@ DESCRIPTION:Reminder: Impulsando el desempeño del re
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d4ddab52-end3e381
+UID:10.1787/d4ddab52-end3e437
 SUMMARY:Driving Performance at Peru’s Transport 
  Infrastructure Regulator
 DESCRIPTION:*Driving Performance at Peru’s Transport
@@ -144,7 +185,7 @@ DESCRIPTION:*Driving Performance at Peru’s Transport
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 21:10
+ as correct as of this afternoon at 21:12
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -153,7 +194,7 @@ DESCRIPTION:*Driving Performance at Peru’s Transport
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=d4ddab52-en.
-DTSTAMP:20200122T211055Z
+DTSTAMP:20200123T211231Z
 DTSTART:20200227T080000Z
 DTEND:20200227T081500Z
 TRANSP:TRANSPARENT
@@ -167,7 +208,7 @@ DESCRIPTION:Reminder: Driving Performance at Peru’s
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9ef55ff7-end3e432
+UID:10.1787/9ef55ff7-end3e488
 SUMMARY:Enhancing Productivity in UK Core Cities
 DESCRIPTION:*Enhancing Productivity in UK Core Citie
  s*\n\nDirectorate: Centre for Entreprene
@@ -182,7 +223,7 @@ DESCRIPTION:*Enhancing Productivity in UK Core Citie
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 21:10, it is
+ ect as of this afternoon at 21:12, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -191,7 +232,7 @@ DESCRIPTION:*Enhancing Productivity in UK Core Citie
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=9ef55ff7-en.
-DTSTAMP:20200122T211055Z
+DTSTAMP:20200123T211231Z
 DTSTART:20200304T070000Z
 DTEND:20200304T071500Z
 TRANSP:TRANSPARENT
@@ -205,7 +246,7 @@ DESCRIPTION:Reminder: Enhancing Productivity in UK C
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/009a0785-end3e534
+UID:10.1787/009a0785-end3e591
 SUMMARY:Driving Performance at Ireland’s Environ
  mental Protection Agency
 DESCRIPTION:*Driving Performance at Ireland’s Enviro
@@ -221,7 +262,7 @@ DESCRIPTION:*Driving Performance at Ireland’s Enviro
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 21:10, it
+ orrect as of this afternoon at 21:12, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -230,7 +271,7 @@ DESCRIPTION:*Driving Performance at Ireland’s Enviro
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=009a0785-en.
-DTSTAMP:20200122T211055Z
+DTSTAMP:20200123T211231Z
 DTSTART:20200320T100000Z
 DTEND:20200320T101500Z
 TRANSP:TRANSPARENT
