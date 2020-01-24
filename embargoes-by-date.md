@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 23 January 2020 at 21:12* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 24 January 2020 at 21:24* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [24 January 2020](#24-january-2020)
 * [27 January 2020](#27-january-2020)
@@ -105,15 +105,15 @@ Thursday 27 February 2020 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 24 January 2020 at 20:52
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 24 January 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -128,15 +128,15 @@ Thursday 27 February 2020 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 24 January 2020 at 20:52
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 24 January 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
