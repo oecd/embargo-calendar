@@ -2,41 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 24 January 2020 at 21:24* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 27 January 2020 at 21:08* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [24 January 2020](#24-january-2020)
 * [27 January 2020](#27-january-2020)
 * [28 January 2020](#28-january-2020)
 * [27 February 2020](#27-february-2020)
 * [4 March 2020](#4-march-2020)
 * [20 March 2020](#20-march-2020)
-
-------
-
-# 24 January 2020
-
-## [How has private expenditure on tertiary education evolved over time and how does it affect participation in education?](https://doi.org/10.1787/6b7ded53-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 24 January 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 January 2020 at 20:50
-- [x] Exported to Keepeek Tuesday 21 January 2020 at 20:36
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -53,7 +25,7 @@ Monday 27 January 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 January 2020 at 20:49
 - [x] Exported to Keepeek Thursday 23 January 2020 at 20:36
-- [x] Exported to OECD.org Thursday 23 January 2020 at 20:23
+- [x] Exported to OECD.org Saturday 25 January 2020 at 15:51
 
 ### Additional Information
 
@@ -105,7 +77,7 @@ Thursday 27 February 2020 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 24 January 2020 at 20:52
+- [x] Exported to iLibrary Monday 27 January 2020 at 20:48
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 24 January 2020 at 20:27
 
@@ -128,9 +100,9 @@ Thursday 27 February 2020 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 24 January 2020 at 20:52
+- [x] Exported to iLibrary Monday 27 January 2020 at 20:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 January 2020 at 20:27
+- [x] Exported to OECD.org Monday 27 January 2020 at 20:23
 
 ### Additional Information
 
@@ -182,15 +154,15 @@ Friday 20 March 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 27 January 2020 at 20:48
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 27 January 2020 at 20:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
