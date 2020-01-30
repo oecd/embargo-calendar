@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 29 January 2020 at 21:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 30 January 2020 at 21:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [28 January 2020](#28-january-2020)
 * [29 January 2020](#29-january-2020)
 * [30 January 2020](#30-january-2020)
 * [31 January 2020](#31-january-2020)
@@ -15,33 +14,7 @@ Data generated on | |
 * [4 March 2020](#4-march-2020)
 * [10 March 2020](#10-march-2020)
 * [20 March 2020](#20-march-2020)
-
-------
-
-# 28 January 2020
-
-## [Where did reading proficiency improve over time?](https://doi.org/10.1787/e54d62dc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 January 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 January 2020 at 20:49
-- [x] Exported to Keepeek Thursday 23 January 2020 at 20:36
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+* [27 April 2020](#27-april-2020)
 
 ------
 
@@ -746,18 +719,18 @@ Thursday 27 February 2020 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 29 January 2020 at 20:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 January 2020 at 20:27
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 30 January 2020 at 20:54
+- [x] Exported to Keepeek Thursday 30 January 2020 at 20:40
+- [x] Exported to OECD.org Thursday 30 January 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -769,16 +742,16 @@ Thursday 27 February 2020 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 27 January 2020 at 20:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 January 2020 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 30 January 2020 at 20:54
+- [x] Exported to Keepeek Thursday 30 January 2020 at 20:40
+- [x] Exported to OECD.org Thursday 30 January 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -860,6 +833,33 @@ Friday 20 March 2020 at 10:00 | no launch event
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 27 April 2020
+
+## [ SME and Entrepreneurship Policy in Brazil 2020](https://doi.org/10.1787/cc5feb81-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 April 2020 at 6:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
