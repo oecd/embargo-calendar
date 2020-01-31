@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 30 January 2020 at 21:17* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Improving access to quality early education in Romania ](https://doi.org/10.1787/f398e488-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 January 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 January 2020 at 21:17
-- [x] Exported to Keepeek Tuesday 28 January 2020 at 21:04
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Improving educational equity in Romania](https://doi.org/10.1787/f4a8c506-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 January 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 January 2020 at 21:17
-- [x] Exported to Keepeek Tuesday 28 January 2020 at 21:04
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Improving the teaching profession in Romania](https://doi.org/10.1787/3b23e2c9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 January 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 January 2020 at 21:17
-- [x] Exported to Keepeek Tuesday 28 January 2020 at 21:04
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Improving professional leadership in Romania’s school system](https://doi.org/10.1787/e2fe224f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 January 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 January 2020 at 21:17
-- [x] Exported to Keepeek Tuesday 28 January 2020 at 21:04
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Friday 31 January 2020 at 21:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Teachers’ well-being - A framework for data collection and analysis](https://doi.org/10.1787/c36fc9d3-en)
 
@@ -211,6 +119,144 @@ Friday 31 January 2020 at 10:00 | no launch event
 
 ------
 
+## [Firming up the capital base of the Austrian business sector - Consolidating Austria’s business sector strengths and its social role in the face of new challenges](https://doi.org/10.1787/d132d949-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 3 February 2020 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 31 January 2020 at 20:55
+- [x] Exported to Keepeek Friday 31 January 2020 at 20:42
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Productivity and finance: the intangible assets channel - a firm level analysis](https://doi.org/10.1787/d13a21b0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 3 February 2020 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 31 January 2020 at 20:55
+- [x] Exported to Keepeek Friday 31 January 2020 at 20:42
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Policies for a more efficient and inclusive housing market in Luxembourg](https://doi.org/10.1787/85ae6967-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 3 February 2020 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 31 January 2020 at 20:55
+- [x] Exported to Keepeek Friday 31 January 2020 at 20:42
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Designing fair and work-oriented unemployment benefits - The case of Belgium](https://doi.org/10.1787/ac17d171-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 3 February 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 31 January 2020 at 20:55
+- [x] Exported to Keepeek Friday 31 January 2020 at 20:42
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Belgium 2020](https://doi.org/10.1787/1327040c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 3 February 2020 at 10:40 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 31 January 2020 at 20:55
+- [x] Exported to Keepeek Friday 31 January 2020 at 20:42
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Études économiques de l'OCDE : Belgique 2020](https://doi.org/10.1787/454a0763-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 3 February 2020 at 10:40 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 31 January 2020 at 20:55
+- [x] Exported to Keepeek Friday 31 January 2020 at 20:42
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
 ## [Les effets conjugués des prix de l’énergie et de la taxe carbone sur la performance économique et environnementale des entreprises françaises du secteur manufacturier](https://doi.org/10.1787/b8ca827a-fr)
 
 Embargo date | Launch date
@@ -220,8 +266,8 @@ Tuesday 4 February 2020 at 11:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 29 January 2020 at 20:53
-- [x] Exported to Keepeek Wednesday 29 January 2020 at 20:39
+- [x] Exported to iLibrary Friday 31 January 2020 at 20:55
+- [x] Exported to Keepeek Friday 31 January 2020 at 20:42
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -234,7 +280,7 @@ Tuesday 4 February 2020 at 11:30 | no launch event
 
 ------
 
-## [The joint effects of energy prices and carbon taxes on environmental and economic performance: Evidence from the French sector](https://doi.org/10.1787/b84b1b7d-en)
+## [The joint effects of energy prices and carbon taxes on environmental and economic performance: Evidence from the French manufacturing sector](https://doi.org/10.1787/b84b1b7d-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -243,8 +289,8 @@ Tuesday 4 February 2020 at 11:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 29 January 2020 at 20:53
-- [x] Exported to Keepeek Wednesday 29 January 2020 at 20:39
+- [x] Exported to iLibrary Friday 31 January 2020 at 20:55
+- [x] Exported to Keepeek Friday 31 January 2020 at 20:42
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -253,6 +299,52 @@ Tuesday 4 February 2020 at 11:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Africa's Urbanisation Dynamics 2020 - Africapolis, Mapping a New Urban Geography](https://doi.org/10.1787/b6bccb81-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 7 February 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 31 January 2020 at 20:55
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 31 January 2020 at 20:29
+
+### Additional Information
+
+* Directorate: *Sahel and West Africa Club*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Dynamiques de l’urbanisation africaine 2020 - Africapolis, une nouvelle géographie urbaine](https://doi.org/10.1787/481c7f49-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 7 February 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 31 January 2020 at 20:55
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 31 January 2020 at 20:29
+
+### Additional Information
+
+* Directorate: *Sahel and West Africa Club*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -681,8 +773,8 @@ Thursday 27 February 2020 at 8:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 30 January 2020 at 20:54
-- [x] Exported to Keepeek Thursday 30 January 2020 at 20:40
-- [x] Exported to OECD.org Thursday 30 January 2020 at 20:27
+- [x] Exported to Keepeek Friday 31 January 2020 at 20:42
+- [x] Exported to OECD.org Friday 31 January 2020 at 20:29
 
 ### Additional Information
 
@@ -744,22 +836,22 @@ Wednesday 4 March 2020 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 10 March 2020 at 10:00 | no launch event
+Monday 9 March 2020 at 10:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 31 January 2020 at 20:55
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 31 January 2020 at 20:29
 
 ### Additional Information
 
 * Directorate: *Statistics and Data Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Issue*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -771,18 +863,18 @@ Friday 20 March 2020 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 27 January 2020 at 20:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 January 2020 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 31 January 2020 at 20:55
+- [x] Exported to Keepeek Friday 31 January 2020 at 20:42
+- [x] Exported to OECD.org Friday 31 January 2020 at 20:29
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
