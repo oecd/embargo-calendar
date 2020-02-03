@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 31 January 2020 at 21:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 3 February 2020 at 21:12* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [30 January 2020](#30-january-2020)
-* [31 January 2020](#31-january-2020)
 * [3 February 2020](#3-february-2020)
 * [4 February 2020](#4-february-2020)
 * [7 February 2020](#7-february-2020)
@@ -16,129 +14,6 @@ Data generated on | |
 * [9 March 2020](#9-march-2020)
 * [20 March 2020](#20-march-2020)
 * [27 April 2020](#27-april-2020)
-
-------
-
-# 30 January 2020
-
-## [Teachers’ well-being - A framework for data collection and analysis](https://doi.org/10.1787/c36fc9d3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 30 January 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 January 2020 at 21:17
-- [x] Exported to Keepeek Tuesday 28 January 2020 at 21:04
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 31 January 2020
-
-## [Low and zero emissions in the steel and cement industries - Barriers, technologies and policies](https://doi.org/10.1787/5ccf8e33-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 31 January 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 January 2020 at 21:17
-- [x] Exported to Keepeek Tuesday 28 January 2020 at 21:04
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [The fiscal implications of the low-carbon transition](https://doi.org/10.1787/6cea13aa-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 31 January 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 January 2020 at 21:17
-- [x] Exported to Keepeek Tuesday 28 January 2020 at 21:04
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Reducing the health risks of the copper, rare earth and cobalt industries - Transition to a circular low-carbon economy](https://doi.org/10.1787/88ce1db4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 31 January 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 January 2020 at 21:17
-- [x] Exported to Keepeek Tuesday 28 January 2020 at 21:04
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Attendance in early childhood education and care programmes and academic proficiencies at age 15](https://doi.org/10.1787/f16c7ae5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 31 January 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 29 January 2020 at 20:53
-- [x] Exported to Keepeek Wednesday 29 January 2020 at 20:39
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -240,13 +115,13 @@ Monday 3 February 2020 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 3 February 2020 at 10:40 | no launch event
+Monday 3 February 2020 at 11:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 31 January 2020 at 20:55
-- [x] Exported to Keepeek Friday 31 January 2020 at 20:42
+- [x] Exported to iLibrary Monday 3 February 2020 at 20:53
+- [x] Exported to Keepeek Monday 3 February 2020 at 20:40
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -255,7 +130,7 @@ Monday 3 February 2020 at 10:40 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *HTML, PDF*
 
 ------
 
@@ -263,13 +138,13 @@ Monday 3 February 2020 at 10:40 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 3 February 2020 at 10:40 | no launch event
+Monday 3 February 2020 at 11:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 31 January 2020 at 20:55
-- [x] Exported to Keepeek Friday 31 January 2020 at 20:42
+- [x] Exported to iLibrary Monday 3 February 2020 at 20:53
+- [x] Exported to Keepeek Monday 3 February 2020 at 20:40
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -344,16 +219,16 @@ Friday 7 February 2020 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 31 January 2020 at 20:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 31 January 2020 at 20:29
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 3 February 2020 at 20:53
+- [x] Exported to Keepeek Monday 3 February 2020 at 20:40
+- [x] Exported to OECD.org Monday 3 February 2020 at 20:25
 
 ### Additional Information
 
 * Directorate: *Sahel and West Africa Club*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -367,16 +242,16 @@ Friday 7 February 2020 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 31 January 2020 at 20:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 31 January 2020 at 20:29
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 3 February 2020 at 20:53
+- [x] Exported to Keepeek Monday 3 February 2020 at 20:40
+- [x] Exported to OECD.org Monday 3 February 2020 at 20:25
 
 ### Additional Information
 
 * Directorate: *Sahel and West Africa Club*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
