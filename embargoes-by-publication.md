@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 3 February 2020 at 21:12* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 4 February 2020 at 21:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Firming up the capital base of the Austrian business sector - Consolidating Austria’s business sector strengths and its social role in the face of new challenges](https://doi.org/10.1787/d132d949-en)
 
@@ -188,6 +188,29 @@ Tuesday 4 February 2020 at 11:30 | no launch event
 
 ------
 
+## [Challenges and opportunities of India’s enhanced participation in the global economy](https://doi.org/10.1787/a6facd16-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 7 February 2020 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 4 February 2020 at 20:56
+- [x] Exported to Keepeek Tuesday 4 February 2020 at 20:43
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Africa's Urbanisation Dynamics 2020 - Africapolis, Mapping a New Urban Geography](https://doi.org/10.1787/b6bccb81-en)
 
 Embargo date | Launch date
@@ -266,9 +289,9 @@ Thursday 13 February 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 29 January 2020 at 20:53
+- [x] Exported to iLibrary Tuesday 4 February 2020 at 20:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 January 2020 at 20:27
+- [x] Exported to OECD.org Tuesday 4 February 2020 at 20:29
 
 ### Additional Information
 
@@ -441,6 +464,29 @@ Thursday 13 February 2020 at 10:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Ireland 2020](https://doi.org/10.1787/dec600f3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 February 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 4 February 2020 at 20:56
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 4 February 2020 at 20:29
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Accroître l'efficacité des mécanismes de règlement des différends – Rapport par les pairs de PA, Luxembourg (Phase 2) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/d0f9b5b7-fr)
 
 Embargo date | Launch date
@@ -450,7 +496,7 @@ Monday 17 February 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 29 January 2020 at 20:53
+- [x] Exported to iLibrary Tuesday 4 February 2020 at 20:56
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 29 January 2020 at 20:27
 
@@ -473,7 +519,7 @@ Monday 17 February 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 29 January 2020 at 20:53
+- [x] Exported to iLibrary Tuesday 4 February 2020 at 20:56
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 29 January 2020 at 20:27
 
@@ -496,7 +542,7 @@ Monday 17 February 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 29 January 2020 at 20:53
+- [x] Exported to iLibrary Tuesday 4 February 2020 at 20:56
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 29 January 2020 at 20:27
 
@@ -519,7 +565,7 @@ Monday 17 February 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 29 January 2020 at 20:53
+- [x] Exported to iLibrary Tuesday 4 February 2020 at 20:56
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 29 January 2020 at 20:27
 
@@ -542,7 +588,7 @@ Monday 17 February 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 29 January 2020 at 20:53
+- [x] Exported to iLibrary Tuesday 4 February 2020 at 20:56
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 29 January 2020 at 20:27
 
@@ -565,7 +611,7 @@ Monday 17 February 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 29 January 2020 at 20:53
+- [x] Exported to iLibrary Tuesday 4 February 2020 at 20:56
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 29 January 2020 at 20:27
 
@@ -588,7 +634,7 @@ Monday 17 February 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 29 January 2020 at 20:53
+- [x] Exported to iLibrary Tuesday 4 February 2020 at 20:56
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 29 January 2020 at 20:27
 
@@ -611,7 +657,7 @@ Monday 17 February 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 29 January 2020 at 20:53
+- [x] Exported to iLibrary Tuesday 4 February 2020 at 20:56
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 29 January 2020 at 20:27
 
@@ -634,7 +680,7 @@ Monday 17 February 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 29 January 2020 at 20:53
+- [x] Exported to iLibrary Tuesday 4 February 2020 at 20:56
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 29 January 2020 at 20:27
 
@@ -726,9 +772,9 @@ Monday 9 March 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 31 January 2020 at 20:55
+- [x] Exported to iLibrary Tuesday 4 February 2020 at 20:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 31 January 2020 at 20:29
+- [x] Exported to OECD.org Tuesday 4 February 2020 at 20:29
 
 ### Additional Information
 
