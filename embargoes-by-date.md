@@ -2,68 +2,19 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 5 February 2020 at 21:24* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 6 February 2020 at 21:19* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [4 February 2020](#4-february-2020)
 * [7 February 2020](#7-february-2020)
+* [10 February 2020](#10-february-2020)
 * [13 February 2020](#13-february-2020)
 * [19 February 2020](#19-february-2020)
 * [24 February 2020](#24-february-2020)
 * [27 February 2020](#27-february-2020)
+* [2 March 2020](#2-march-2020)
 * [4 March 2020](#4-march-2020)
 * [9 March 2020](#9-march-2020)
 * [20 March 2020](#20-march-2020)
 * [27 April 2020](#27-april-2020)
-
-------
-
-# 4 February 2020
-
-## [Les effets conjugués des prix de l’énergie et de la taxe carbone sur la performance économique et environnementale des entreprises françaises du secteur manufacturier](https://doi.org/10.1787/b8ca827a-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 February 2020 at 11:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 31 January 2020 at 20:55
-- [x] Exported to Keepeek Friday 31 January 2020 at 20:42
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [The joint effects of energy prices and carbon taxes on environmental and economic performance: Evidence from the French manufacturing sector](https://doi.org/10.1787/b84b1b7d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 February 2020 at 11:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 31 January 2020 at 20:55
-- [x] Exported to Keepeek Friday 31 January 2020 at 20:42
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -101,7 +52,7 @@ Friday 7 February 2020 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 5 February 2020 at 21:00
+- [x] Exported to iLibrary Thursday 6 February 2020 at 20:56
 - [x] Exported to Keepeek Monday 3 February 2020 at 20:40
 - [x] Exported to OECD.org Monday 3 February 2020 at 20:25
 
@@ -111,7 +62,7 @@ Friday 7 February 2020 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -124,7 +75,7 @@ Friday 7 February 2020 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 5 February 2020 at 21:00
+- [x] Exported to iLibrary Thursday 6 February 2020 at 20:56
 - [x] Exported to Keepeek Monday 3 February 2020 at 20:40
 - [x] Exported to OECD.org Monday 3 February 2020 at 20:25
 
@@ -134,6 +85,102 @@ Friday 7 February 2020 at 7:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 10 February 2020
+
+## [Maintaining high employment in Norway](https://doi.org/10.1787/7e1993a1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 February 2020 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 6 February 2020 at 20:56
+- [x] Exported to Keepeek Thursday 6 February 2020 at 20:44
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Policies for Switzerland’s ageing society](https://doi.org/10.1787/3f8a12c6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 February 2020 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 6 February 2020 at 20:56
+- [x] Exported to Keepeek Thursday 6 February 2020 at 20:44
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Sickness and disability systems: comparing outcomes and policies in Norway with those in Sweden, the Netherlands and Switzerland](https://doi.org/10.1787/c768699b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 February 2020 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 6 February 2020 at 20:56
+- [x] Exported to Keepeek Thursday 6 February 2020 at 20:44
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [The drivers of Norway's house prices](https://doi.org/10.1787/cb065dca-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 February 2020 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 6 February 2020 at 20:56
+- [x] Exported to Keepeek Thursday 6 February 2020 at 20:44
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -657,6 +704,33 @@ Thursday 27 February 2020 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 2 March 2020
+
+## [The Irish Government Economic and Evaluation Service - Using Evidence-Informed Policy Making to Improve Performance](https://doi.org/10.1787/cdda3cb0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 March 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 6 February 2020 at 20:56
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 6 February 2020 at 20:29
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
