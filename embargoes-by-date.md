@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 6 February 2020 at 21:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 7 February 2020 at 21:30* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [7 February 2020](#7-february-2020)
 * [10 February 2020](#10-february-2020)
@@ -86,6 +86,29 @@ Friday 7 February 2020 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Multilingual Summaries for OECD Skills Strategy Latvia](https://doi.org/10.1787/aed6b500-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 7 February 2020 at 14:43 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 7 February 2020 at 21:04
+- [x] Exported to Keepeek Friday 7 February 2020 at 20:48
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Skills*
+* 2 Languages: [English](https://doi.org/10.1787/aed6b500-en), [Latvian](https://doi.org/10.1787/62ef36a8-lv)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Format: *PDF*
 
 ------
 
@@ -720,9 +743,9 @@ Monday 2 March 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 6 February 2020 at 20:56
+- [x] Exported to iLibrary Friday 7 February 2020 at 21:04
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 6 February 2020 at 20:29
+- [x] Exported to OECD.org Friday 7 February 2020 at 20:32
 
 ### Additional Information
 
