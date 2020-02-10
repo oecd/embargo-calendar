@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 7 February 2020 at 21:30* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Challenges and opportunities of India’s enhanced participation in the global economy](https://doi.org/10.1787/a6facd16-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 7 February 2020 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 4 February 2020 at 20:56
-- [x] Exported to Keepeek Tuesday 4 February 2020 at 20:43
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Africa's Urbanisation Dynamics 2020 - Africapolis, Mapping a New Urban Geography](https://doi.org/10.1787/b6bccb81-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 7 February 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 February 2020 at 20:56
-- [x] Exported to Keepeek Monday 3 February 2020 at 20:40
-- [x] Exported to OECD.org Monday 3 February 2020 at 20:25
-
-### Additional Information
-
-* Directorate: *Sahel and West Africa Club*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Dynamiques de l’urbanisation africaine 2020 - Africapolis, une nouvelle géographie urbaine](https://doi.org/10.1787/481c7f49-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 7 February 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 February 2020 at 20:56
-- [x] Exported to Keepeek Monday 3 February 2020 at 20:40
-- [x] Exported to OECD.org Monday 3 February 2020 at 20:25
-
-### Additional Information
-
-* Directorate: *Sahel and West Africa Club*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Multilingual Summaries for OECD Skills Strategy Latvia](https://doi.org/10.1787/aed6b500-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 7 February 2020 at 14:43 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 7 February 2020 at 21:04
-- [x] Exported to Keepeek Friday 7 February 2020 at 20:48
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Skills*
-* 2 Languages: [English](https://doi.org/10.1787/aed6b500-en), [Latvian](https://doi.org/10.1787/62ef36a8-lv)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Format: *PDF*
-
-------
+| *Monday 10 February 2020 at 21:30* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Maintaining high employment in Norway](https://doi.org/10.1787/7e1993a1-en)
 
@@ -188,213 +96,6 @@ Monday 10 February 2020 at 1:00 | no launch event
 
 ------
 
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Curaçao (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/7f84d697-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 13 February 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 29 January 2020 at 20:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 January 2020 at 20:27
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Isle of Man (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/26d15793-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 13 February 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 4 February 2020 at 20:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 4 February 2020 at 20:29
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Monaco (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/fe9a7529-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 13 February 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 29 January 2020 at 20:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 January 2020 at 20:27
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Jersey (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/5c130270-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 13 February 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 29 January 2020 at 20:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 January 2020 at 20:27
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Accroître l'efficacité des mécanismes de règlement des différends – Rapport par les pairs de PA, Monaco (Phase 1) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/c96c3919-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 13 February 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 29 January 2020 at 20:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 January 2020 at 20:27
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Serbia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/c65f36fb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 13 February 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 29 January 2020 at 20:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 January 2020 at 20:27
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, San Marino (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/34ec90e0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 13 February 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 29 January 2020 at 20:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 January 2020 at 20:27
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Brunei Darussalam (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/87e2abc5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 13 February 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 29 January 2020 at 20:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 January 2020 at 20:27
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Guernsey (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/49037fba-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 13 February 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 29 January 2020 at 20:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 January 2020 at 20:27
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [OECD Economic Surveys: Ireland 2020](https://doi.org/10.1787/dec600f3-en)
 
 Embargo date | Launch date
@@ -441,7 +142,7 @@ Wednesday 19 February 2020 at 7:00 | no launch event
 
 ------
 
-## [Accroître l'efficacité des mécanismes de règlement des différends – Rapport par les pairs de PA, Luxembourg (Phase 2) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/d0f9b5b7-fr)
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Curaçao (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/7f84d697-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -450,9 +151,101 @@ Monday 24 February 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 5 February 2020 at 21:00
+- [x] Exported to iLibrary Monday 10 February 2020 at 21:04
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 February 2020 at 20:30
+- [x] Exported to OECD.org Monday 10 February 2020 at 20:27
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Isle of Man (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/26d15793-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 February 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 10 February 2020 at 21:04
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 10 February 2020 at 20:27
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Monaco (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/fe9a7529-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 February 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 10 February 2020 at 21:04
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 10 February 2020 at 20:27
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Jersey (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/5c130270-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 February 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 10 February 2020 at 21:04
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 10 February 2020 at 20:27
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Accroître l'efficacité des mécanismes de règlement des différends – Rapport par les pairs de PA, Monaco (Phase 1) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/c96c3919-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 February 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 10 February 2020 at 21:04
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 10 February 2020 at 20:27
 
 ### Additional Information
 
@@ -464,7 +257,7 @@ Monday 24 February 2020 at 10:00 | no launch event
 
 ------
 
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Luxembourg (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/ffdb81cc-en)
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Serbia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/c65f36fb-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -473,9 +266,9 @@ Monday 24 February 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 5 February 2020 at 21:00
+- [x] Exported to iLibrary Monday 10 February 2020 at 21:04
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 February 2020 at 20:30
+- [x] Exported to OECD.org Monday 10 February 2020 at 20:27
 
 ### Additional Information
 
@@ -487,7 +280,7 @@ Monday 24 February 2020 at 10:00 | no launch event
 
 ------
 
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Germany (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9d6c280c-en)
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, San Marino (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/34ec90e0-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -496,9 +289,9 @@ Monday 24 February 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 5 February 2020 at 21:00
+- [x] Exported to iLibrary Monday 10 February 2020 at 21:04
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 February 2020 at 20:30
+- [x] Exported to OECD.org Monday 10 February 2020 at 20:27
 
 ### Additional Information
 
@@ -510,7 +303,7 @@ Monday 24 February 2020 at 10:00 | no launch event
 
 ------
 
-## [Accroître l'efficacité des mécanismes de règlement des différends – Rapport par les pairs de PA, France (Phase 2) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/92af1e93-fr)
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Brunei Darussalam (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/87e2abc5-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -519,32 +312,9 @@ Monday 24 February 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 5 February 2020 at 21:00
+- [x] Exported to iLibrary Monday 10 February 2020 at 21:04
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 February 2020 at 20:30
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Italy (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/08a4369e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 February 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 5 February 2020 at 21:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 February 2020 at 20:30
+- [x] Exported to OECD.org Monday 10 February 2020 at 20:27
 
 ### Additional Information
 
@@ -556,7 +326,7 @@ Monday 24 February 2020 at 10:00 | no launch event
 
 ------
 
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Sweden (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/7b3b1492-en)
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Guernsey (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/49037fba-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -565,78 +335,9 @@ Monday 24 February 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 5 February 2020 at 21:00
+- [x] Exported to iLibrary Monday 10 February 2020 at 21:04
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 February 2020 at 20:30
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Liechtenstein (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/b41a9f75-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 February 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 5 February 2020 at 21:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 February 2020 at 20:30
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, France (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/a5d1cab8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 February 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 5 February 2020 at 21:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 February 2020 at 20:30
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Austria (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/40c9f1b5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 February 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 5 February 2020 at 21:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 February 2020 at 20:30
+- [x] Exported to OECD.org Monday 10 February 2020 at 20:27
 
 ### Additional Information
 
@@ -703,16 +404,16 @@ Monday 2 March 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 7 February 2020 at 21:04
+- [x] Exported to iLibrary Monday 10 February 2020 at 21:04
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 7 February 2020 at 20:32
+- [x] Exported to OECD.org Monday 10 February 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -760,6 +461,236 @@ Monday 9 March 2020 at 10:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Issue*
 * Format: *PDF*
+
+------
+
+## [Accroître l'efficacité des mécanismes de règlement des différends – Rapport par les pairs de PA, Luxembourg (Phase 2) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/d0f9b5b7-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 March 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 10 February 2020 at 21:04
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 10 February 2020 at 20:27
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Luxembourg (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/ffdb81cc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 March 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 10 February 2020 at 21:04
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 10 February 2020 at 20:27
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Germany (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9d6c280c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 March 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 10 February 2020 at 21:04
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 10 February 2020 at 20:27
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Accroître l'efficacité des mécanismes de règlement des différends – Rapport par les pairs de PA, France (Phase 2) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/92af1e93-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 March 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 10 February 2020 at 21:04
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 10 February 2020 at 20:27
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Italy (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/08a4369e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 March 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 10 February 2020 at 21:04
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 10 February 2020 at 20:27
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Sweden (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/7b3b1492-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 March 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 10 February 2020 at 21:04
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 10 February 2020 at 20:27
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Liechtenstein (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/b41a9f75-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 March 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 10 February 2020 at 21:04
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 10 February 2020 at 20:27
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, France (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/a5d1cab8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 March 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 10 February 2020 at 21:04
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 10 February 2020 at 20:27
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Austria (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/40c9f1b5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 March 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 10 February 2020 at 21:04
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 10 February 2020 at 20:27
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [SME Policy Index: Eastern Partner Countries 2020 - Assessing the Implementation of the Small Business Act for Europe](https://doi.org/10.1787/8b45614b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 March 2020 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations Secretariat*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
