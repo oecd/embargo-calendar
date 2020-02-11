@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 10 February 2020 at 21:30* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 11 February 2020 at 21:25* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Maintaining high employment in Norway](https://doi.org/10.1787/7e1993a1-en)
 
@@ -13,8 +13,8 @@ Monday 10 February 2020 at 1:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 February 2020 at 20:56
-- [x] Exported to Keepeek Thursday 6 February 2020 at 20:44
+- [x] Exported to iLibrary Tuesday 11 February 2020 at 20:56
+- [x] Exported to Keepeek Tuesday 11 February 2020 at 20:40
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -36,8 +36,8 @@ Monday 10 February 2020 at 1:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 February 2020 at 20:56
-- [x] Exported to Keepeek Thursday 6 February 2020 at 20:44
+- [x] Exported to iLibrary Tuesday 11 February 2020 at 20:56
+- [x] Exported to Keepeek Tuesday 11 February 2020 at 20:40
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -59,8 +59,8 @@ Monday 10 February 2020 at 1:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 February 2020 at 20:56
-- [x] Exported to Keepeek Thursday 6 February 2020 at 20:44
+- [x] Exported to iLibrary Tuesday 11 February 2020 at 20:56
+- [x] Exported to Keepeek Tuesday 11 February 2020 at 20:40
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -82,8 +82,8 @@ Monday 10 February 2020 at 1:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 February 2020 at 20:56
-- [x] Exported to Keepeek Thursday 6 February 2020 at 20:44
+- [x] Exported to iLibrary Tuesday 11 February 2020 at 20:56
+- [x] Exported to Keepeek Tuesday 11 February 2020 at 20:40
 - [ ] Exported to OECD.org
 
 ### Additional Information
