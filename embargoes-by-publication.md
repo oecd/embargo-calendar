@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 11 February 2020 at 21:25* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Maintaining high employment in Norway](https://doi.org/10.1787/7e1993a1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 February 2020 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 February 2020 at 20:56
-- [x] Exported to Keepeek Tuesday 11 February 2020 at 20:40
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Policies for Switzerland’s ageing society](https://doi.org/10.1787/3f8a12c6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 February 2020 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 February 2020 at 20:56
-- [x] Exported to Keepeek Tuesday 11 February 2020 at 20:40
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Sickness and disability systems: comparing outcomes and policies in Norway with those in Sweden, the Netherlands and Switzerland](https://doi.org/10.1787/c768699b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 February 2020 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 February 2020 at 20:56
-- [x] Exported to Keepeek Tuesday 11 February 2020 at 20:40
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [The drivers of Norway's house prices](https://doi.org/10.1787/cb065dca-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 February 2020 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 February 2020 at 20:56
-- [x] Exported to Keepeek Tuesday 11 February 2020 at 20:40
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Wednesday 12 February 2020 at 21:28* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Ireland 2020](https://doi.org/10.1787/dec600f3-en)
 
@@ -104,18 +12,18 @@ Thursday 13 February 2020 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 5 February 2020 at 21:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 February 2020 at 20:30
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 12 February 2020 at 21:02
+- [x] Exported to Keepeek Wednesday 12 February 2020 at 20:43
+- [x] Exported to OECD.org Wednesday 12 February 2020 at 20:29
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF*
 
 ------
 
@@ -622,6 +530,29 @@ Thursday 12 March 2020 at 10:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Early Learning and Child Well-being in the United States](https://doi.org/10.1787/198d8c99-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 March 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
