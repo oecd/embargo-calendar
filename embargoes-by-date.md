@@ -2,14 +2,16 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 12 February 2020 at 21:28* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 13 February 2020 at 21:14* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [13 February 2020](#13-february-2020)
+* [14 February 2020](#14-february-2020)
+* [18 February 2020](#18-february-2020)
 * [19 February 2020](#19-february-2020)
 * [24 February 2020](#24-february-2020)
 * [27 February 2020](#27-february-2020)
 * [2 March 2020](#2-march-2020)
-* [4 March 2020](#4-march-2020)
+* [3 March 2020](#3-march-2020)
 * [9 March 2020](#9-march-2020)
 * [12 March 2020](#12-march-2020)
 * [16 March 2020](#16-march-2020)
@@ -40,6 +42,60 @@ Thursday 13 February 2020 at 12:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *HTML, Paperback, PDF*
+
+------
+
+------
+
+# 14 February 2020
+
+## [The Geography of Conflict in North and West Africa](https://doi.org/10.1787/02181039-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 14 February 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 February 2020 at 20:52
+- [x] Exported to Keepeek Thursday 13 February 2020 at 20:38
+- [x] Exported to OECD.org Thursday 13 February 2020 at 20:26
+
+### Additional Information
+
+* Directorate: *Sahel and West Africa Club*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 18 February 2020
+
+## [The teachers’ well-being conceptual framework - Contributions from TALIS 2018](https://doi.org/10.1787/86d1635c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 February 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 February 2020 at 20:52
+- [x] Exported to Keepeek Thursday 13 February 2020 at 20:38
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -360,26 +416,26 @@ Monday 2 March 2020 at 9:00 | no launch event
 
 ------
 
-# 4 March 2020
+# 3 March 2020
 
 ## [Enhancing Productivity in UK Core Cities](https://doi.org/10.1787/9ef55ff7-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 4 March 2020 at 7:00 | no launch event
+Tuesday 3 March 2020 at 7:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 13 February 2020 at 20:52
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 13 February 2020 at 20:26
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -649,6 +705,29 @@ Thursday 12 March 2020 at 10:00 | no launch event
 ------
 
 # 16 March 2020
+
+## [Education in Ireland - An OECD Assessment of the Senior Cycle Review](https://doi.org/10.1787/636bc6c1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 March 2020 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [SME Policy Index: Eastern Partner Countries 2020 - Assessing the Implementation of the Small Business Act for Europe](https://doi.org/10.1787/8b45614b-en)
 
