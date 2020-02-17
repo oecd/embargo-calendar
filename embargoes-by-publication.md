@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 14 February 2020 at 21:18* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Ireland 2020](https://doi.org/10.1787/dec600f3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 13 February 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 12 February 2020 at 21:02
-- [x] Exported to Keepeek Wednesday 12 February 2020 at 20:43
-- [x] Exported to OECD.org Friday 14 February 2020 at 20:29
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *HTML, Paperback, PDF*
-
-------
-
-## [The Geography of Conflict in North and West Africa](https://doi.org/10.1787/02181039-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 14 February 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 February 2020 at 20:52
-- [x] Exported to Keepeek Thursday 13 February 2020 at 20:38
-- [x] Exported to OECD.org Thursday 13 February 2020 at 20:26
-
-### Additional Information
-
-* Directorate: *Sahel and West Africa Club*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Monday 17 February 2020 at 21:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The teachers’ well-being conceptual framework - Contributions from TALIS 2018](https://doi.org/10.1787/86d1635c-en)
 
