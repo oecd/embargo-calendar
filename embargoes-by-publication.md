@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 17 February 2020 at 21:10* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 18 February 2020 at 21:11* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The teachers’ well-being conceptual framework - Contributions from TALIS 2018](https://doi.org/10.1787/86d1635c-en)
 
@@ -50,6 +50,29 @@ Wednesday 19 February 2020 at 7:00 | no launch event
 
 ------
 
+## [What are Europeans’ views on migrant integration? - An in-depth analysis of 2017 Special Eurobarometer “Integration of immigrants in the European Union” ](https://doi.org/10.1787/f74bf2f5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 February 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 February 2020 at 20:51
+- [x] Exported to Keepeek Tuesday 18 February 2020 at 20:38
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [What difference do networks make to teachers’ knowledge? - Literature review and case descriptions](https://doi.org/10.1787/75f11091-en)
 
 Embargo date | Launch date
@@ -61,6 +84,29 @@ Wednesday 19 February 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 14 February 2020 at 20:57
 - [x] Exported to Keepeek Friday 14 February 2020 at 20:42
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [What are the choices facing first-time entrants to tertiary education?](https://doi.org/10.1787/487f588e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 February 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 February 2020 at 20:51
+- [x] Exported to Keepeek Tuesday 18 February 2020 at 20:38
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -391,7 +437,7 @@ Monday 9 March 2020 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
