@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 18 February 2020 at 21:11* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 19 February 2020 at 21:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The teachers’ well-being conceptual framework - Contributions from TALIS 2018](https://doi.org/10.1787/86d1635c-en)
 
@@ -381,7 +381,7 @@ Monday 2 March 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 10 February 2020 at 21:04
+- [x] Exported to iLibrary Wednesday 19 February 2020 at 20:55
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 10 February 2020 at 20:27
 
