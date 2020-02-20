@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 19 February 2020 at 21:18* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The teachers’ well-being conceptual framework - Contributions from TALIS 2018](https://doi.org/10.1787/86d1635c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 18 February 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 February 2020 at 20:52
-- [x] Exported to Keepeek Thursday 13 February 2020 at 20:38
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Thursday 20 February 2020 at 21:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Continuous Learning in Working Life in Finland](https://doi.org/10.1787/2ffcffe6-en)
 
@@ -38,7 +15,7 @@ Wednesday 19 February 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 5 February 2020 at 21:00
 - [x] Exported to Keepeek Wednesday 5 February 2020 at 20:45
-- [x] Exported to OECD.org Wednesday 5 February 2020 at 20:30
+- [x] Exported to OECD.org Thursday 20 February 2020 at 20:26
 
 ### Additional Information
 
@@ -323,6 +300,29 @@ Monday 24 February 2020 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Are students’ career expectations aligned with their skills?](https://doi.org/10.1787/ed790c76-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 February 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 20 February 2020 at 20:50
+- [x] Exported to Keepeek Thursday 20 February 2020 at 20:39
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
