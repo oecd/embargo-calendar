@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 20 February 2020 at 21:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 21 February 2020 at 21:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [19 February 2020](#19-february-2020)
 * [20 February 2020](#20-february-2020)
 * [24 February 2020](#24-february-2020)
 * [25 February 2020](#25-february-2020)
@@ -16,79 +15,6 @@ Data generated on | |
 * [16 March 2020](#16-march-2020)
 * [20 March 2020](#20-march-2020)
 * [27 April 2020](#27-april-2020)
-
-------
-
-# 19 February 2020
-
-## [Continuous Learning in Working Life in Finland](https://doi.org/10.1787/2ffcffe6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 February 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 5 February 2020 at 21:00
-- [x] Exported to Keepeek Wednesday 5 February 2020 at 20:45
-- [x] Exported to OECD.org Thursday 20 February 2020 at 20:26
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [What are Europeans’ views on migrant integration? - An in-depth analysis of 2017 Special Eurobarometer “Integration of immigrants in the European Union” ](https://doi.org/10.1787/f74bf2f5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 February 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 February 2020 at 20:51
-- [x] Exported to Keepeek Tuesday 18 February 2020 at 20:38
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [What difference do networks make to teachers’ knowledge? - Literature review and case descriptions](https://doi.org/10.1787/75f11091-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 February 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 14 February 2020 at 20:57
-- [x] Exported to Keepeek Friday 14 February 2020 at 20:42
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -756,15 +682,15 @@ Monday 16 March 2020 at 23:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 21 February 2020 at 20:55
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 21 February 2020 at 20:31
 
 ### Additional Information
 
 * Directorate: *Global Relations Secretariat*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
