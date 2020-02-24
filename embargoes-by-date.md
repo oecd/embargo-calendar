@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 21 February 2020 at 21:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 24 February 2020 at 21:04* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [20 February 2020](#20-february-2020)
 * [24 February 2020](#24-february-2020)
 * [25 February 2020](#25-february-2020)
 * [27 February 2020](#27-february-2020)
@@ -12,36 +11,10 @@ Data generated on | |
 * [3 March 2020](#3-march-2020)
 * [9 March 2020](#9-march-2020)
 * [12 March 2020](#12-march-2020)
+* [15 March 2020](#15-march-2020)
 * [16 March 2020](#16-march-2020)
 * [20 March 2020](#20-march-2020)
 * [27 April 2020](#27-april-2020)
-
-------
-
-# 20 February 2020
-
-## [What are the choices facing first-time entrants to tertiary education?](https://doi.org/10.1787/487f588e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 February 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 February 2020 at 20:51
-- [x] Exported to Keepeek Tuesday 18 February 2020 at 20:38
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -254,6 +227,29 @@ Monday 24 February 2020 at 10:00 | no launch event
 
 ------
 
+## [Environment at a Glance 2020](https://doi.org/10.1787/4ea7d35f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 February 2020 at 23:01 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 February 2020 at 20:44
+- [x] Exported to Keepeek Monday 24 February 2020 at 20:34
+- [x] Exported to OECD.org Monday 24 February 2020 at 20:24
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
 ------
 
 # 25 February 2020
@@ -398,16 +394,16 @@ Monday 9 March 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 4 February 2020 at 20:56
+- [x] Exported to iLibrary Monday 24 February 2020 at 20:44
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 4 February 2020 at 20:29
+- [x] Exported to OECD.org Monday 24 February 2020 at 20:24
 
 ### Additional Information
 
 * Directorate: *Statistics and Data Directorate*
 * Language: *English*
 * Availability: *Forthcoming*
-* Type of publication: *Issue*
+* Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
 
 ------
@@ -648,6 +644,33 @@ Thursday 12 March 2020 at 10:00 | no launch event
 
 ------
 
+# 15 March 2020
+
+## [OECD Economic Surveys: Slovenia 2020](https://doi.org/10.1787/a4209041-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 15 March 2020 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 16 March 2020
 
 ## [Education in Ireland - An OECD Assessment of the Senior Cycle Review](https://doi.org/10.1787/636bc6c1-en)
@@ -682,9 +705,9 @@ Monday 16 March 2020 at 23:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 21 February 2020 at 20:55
+- [x] Exported to iLibrary Monday 24 February 2020 at 20:44
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 February 2020 at 20:31
+- [x] Exported to OECD.org Monday 24 February 2020 at 20:24
 
 ### Additional Information
 

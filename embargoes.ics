@@ -2,48 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/487f588e-end3e63
-SUMMARY:What are the choices facing first-time e
- ntrants to tertiary education?
-DESCRIPTION:*What are the choices facing first-time 
- entrants to tertiary education?*\n\nDire
- ctorate: Directorate for Education and S
- kills\nLanguage: English\nDOI: https://d
- oi.org/10.1787/487f588e-en\nPublication 
- type: Working paper\nReleased as: PDF\n\
- nEmbargo date/time: Thursday, 20 Februar
- y 2020, 6:00 (GMT)\n\n\niLibrary export:
-  Tuesday, 18 February 2020, 19:51 (GMT)\
- nFreepreview export: Tuesday, 18 Februar
- y 2020, 19:38 (GMT)\nOECD.org export: ne
- ver\nFTI loaded: ✓\n\nFor more informati
- on see: https://oecd.github.io/embargo-c
- alendar/embargoes-by-publication.html.\n
- \nPlease note: This information was corr
- ect as of this afternoon at 21:17, it is
-  updated each night; therefore any subse
- quent updates may not yet be visible her
- e. Also, please be aware that the differ
- ent released media (PDF, HTML, etc.) are
-  not necessarily released at the same ti
- me. For complete and up-to-date informat
- ion see here: http://kappa.oecd.org/v3/s
- earch?term=487f588e-en.
-DTSTAMP:20200221T211714Z
-DTSTART:20200220T060000Z
-DTEND:20200220T061500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: What are the choices facing fi
- rst-time entrants to tertiary education?
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/7f84d697-end3e118
+UID:10.1787/7f84d697-end3e63
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Curaçao (Stag
  e 1) - Inclusive Framework on BEPS: Acti
@@ -66,7 +25,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 21
- :17, it is updated each night; therefore
+ :04, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -74,7 +33,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=7f84d697-en.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200224T100000Z
 DTEND:20200224T101500Z
 TRANSP:TRANSPARENT
@@ -90,7 +49,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/26d15793-end3e175
+UID:10.1787/26d15793-end3e120
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Isle of Man (
  Stage 1) - Inclusive Framework on BEPS: 
@@ -113,7 +72,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 21:17, it is updated each night; there
+ t 21:04, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -121,7 +80,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=26d15793-en.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200224T100000Z
 DTEND:20200224T101500Z
 TRANSP:TRANSPARENT
@@ -137,7 +96,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fe9a7529-end3e395
+UID:10.1787/fe9a7529-end3e340
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Monaco (Stage
   1) - Inclusive Framework on BEPS: Actio
@@ -160,7 +119,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 21:
- 17, it is updated each night; therefore 
+ 04, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -168,7 +127,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=fe9a7529-en.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200224T100000Z
 DTEND:20200224T101500Z
 TRANSP:TRANSPARENT
@@ -184,7 +143,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5c130270-end3e560
+UID:10.1787/5c130270-end3e505
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Jersey (Stage
   1) - Inclusive Framework on BEPS: Actio
@@ -207,7 +166,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 21:
- 17, it is updated each night; therefore 
+ 04, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -215,7 +174,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=5c130270-en.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200224T100000Z
 DTEND:20200224T101500Z
 TRANSP:TRANSPARENT
@@ -231,7 +190,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c96c3919-frd3e618
+UID:10.1787/c96c3919-frd3e562
 SUMMARY:Accroître l'efficacité des mécanismes de
   règlement des différends – Rapport par 
  les pairs de PA, Monaco (Phase 1) - Cadr
@@ -254,7 +213,7 @@ DESCRIPTION:*Accroître l'efficacité des mécanismes d
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 21:17, it is u
+ t as of this afternoon at 21:04, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -263,7 +222,7 @@ DESCRIPTION:*Accroître l'efficacité des mécanismes d
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=c96c3919-fr.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200224T100000Z
 DTEND:20200224T101500Z
 TRANSP:TRANSPARENT
@@ -280,7 +239,7 @@ DESCRIPTION:Reminder: Accroître l'efficacité des méc
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c65f36fb-end3e729
+UID:10.1787/c65f36fb-end3e674
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Serbia (Stage
   1) - Inclusive Framework on BEPS: Actio
@@ -303,7 +262,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 21:
- 17, it is updated each night; therefore 
+ 04, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -311,7 +270,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=c65f36fb-en.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200224T100000Z
 DTEND:20200224T101500Z
 TRANSP:TRANSPARENT
@@ -327,7 +286,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/34ec90e0-end3e894
+UID:10.1787/34ec90e0-end3e839
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, San Marino (S
  tage 1) - Inclusive Framework on BEPS: A
@@ -350,7 +309,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  21:17, it is updated each night; theref
+  21:04, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -358,7 +317,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=34ec90e0-en.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200224T100000Z
 DTEND:20200224T101500Z
 TRANSP:TRANSPARENT
@@ -374,7 +333,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/87e2abc5-end3e952
+UID:10.1787/87e2abc5-end3e896
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Brunei Daruss
  alam (Stage 1) - Inclusive Framework on 
@@ -397,7 +356,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 21:
- 17, it is updated each night; therefore 
+ 04, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -405,7 +364,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=87e2abc5-en.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200224T100000Z
 DTEND:20200224T101500Z
 TRANSP:TRANSPARENT
@@ -421,7 +380,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/49037fba-end3e1009
+UID:10.1787/49037fba-end3e954
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Guernsey (Sta
  ge 1) - Inclusive Framework on BEPS: Act
@@ -444,7 +403,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 1:17, it is updated each night; therefor
+ 1:04, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -452,7 +411,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=49037fba-en.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200224T100000Z
 DTEND:20200224T101500Z
 TRANSP:TRANSPARENT
@@ -468,7 +427,45 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ed790c76-end3e1066
+UID:10.1787/4ea7d35f-end3e1011
+SUMMARY:Environment at a Glance 2020
+DESCRIPTION:*Environment at a Glance 2020*\n\nDirect
+ orate: Environment Directorate\nLanguage
+ : English\nDOI: https://doi.org/10.1787/
+ 4ea7d35f-en\nPublication type: Issue\nRe
+ leased as: PDF\n\nEmbargo date/time: Mon
+ day, 24 February 2020, 23:01 (GMT)\n\n\n
+ iLibrary export: Monday, 24 February 202
+ 0, 19:44 (GMT)\nFreepreview export: Mond
+ ay, 24 February 2020, 19:34 (GMT)\nOECD.
+ org export: Monday, 24 February 2020, 19
+ :24 (GMT)\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 21:04,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=4ea7d35f-en.
+DTSTAMP:20200224T210435Z
+DTSTART:20200224T230100Z
+DTEND:20200224T231600Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Environment at a Glance 2020
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ed790c76-end3e1067
 SUMMARY:Are students’ career expectations aligne
  d with their skills?
 DESCRIPTION:*Are students’ career expectations align
@@ -486,7 +483,7 @@ DESCRIPTION:*Are students’ career expectations align
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 21:17, it is updated 
+  this afternoon at 21:04, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -495,7 +492,7 @@ DESCRIPTION:*Are students’ career expectations align
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=ed790c76-en.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200225T080000Z
 DTEND:20200225T081500Z
 TRANSP:TRANSPARENT
@@ -509,7 +506,7 @@ DESCRIPTION:Reminder: Are students’ career expectati
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6b95ee9b-esd3e1882
+UID:10.1787/6b95ee9b-esd3e1883
 SUMMARY:Impulsando el desempeño del Regulador de
   Infraestructura de Transporte de Perú
 DESCRIPTION:*Impulsando el desempeño del Regulador d
@@ -528,8 +525,8 @@ DESCRIPTION:*Impulsando el desempeño del Regulador d
  nformation see: https://oecd.github.io/e
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
- was correct as of this afternoon at 21:1
- 7, it is updated each night; therefore a
+ was correct as of this afternoon at 21:0
+ 4, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -537,7 +534,7 @@ DESCRIPTION:*Impulsando el desempeño del Regulador d
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=6b95ee9b-es.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200227T080000Z
 DTEND:20200227T081500Z
 TRANSP:TRANSPARENT
@@ -552,7 +549,7 @@ DESCRIPTION:Reminder: Impulsando el desempeño del Re
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d4ddab52-end3e2866
+UID:10.1787/d4ddab52-end3e2867
 SUMMARY:Driving Performance at Peru’s Transport 
  Infrastructure Regulator
 DESCRIPTION:*Driving Performance at Peru’s Transport
@@ -571,7 +568,7 @@ DESCRIPTION:*Driving Performance at Peru’s Transport
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 21:17, it is u
+ t as of this afternoon at 21:04, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -580,7 +577,7 @@ DESCRIPTION:*Driving Performance at Peru’s Transport
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=d4ddab52-en.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200227T080000Z
 DTEND:20200227T081500Z
 TRANSP:TRANSPARENT
@@ -594,7 +591,7 @@ DESCRIPTION:Reminder: Driving Performance at Peru’s
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cdda3cb0-end3e3087
+UID:10.1787/cdda3cb0-end3e3088
 SUMMARY:The Irish Government Economic and Evalua
  tion Service - Using Evidence-Informed P
  olicy Making to Improve Performance
@@ -614,7 +611,7 @@ DESCRIPTION:*The Irish Government Economic and Evalu
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 21:17, it is updated eac
+ is afternoon at 21:04, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -623,7 +620,7 @@ DESCRIPTION:*The Irish Government Economic and Evalu
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=c
  dda3cb0-en.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200302T090000Z
 DTEND:20200302T091500Z
 TRANSP:TRANSPARENT
@@ -639,7 +636,7 @@ DESCRIPTION:Reminder: The Irish Government Economic
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9ef55ff7-end3e3142
+UID:10.1787/9ef55ff7-end3e3143
 SUMMARY:Enhancing Productivity in UK Core Cities
 DESCRIPTION:*Enhancing Productivity in UK Core Citie
  s*\n\nDirectorate: Centre for Entreprene
@@ -656,7 +653,7 @@ DESCRIPTION:*Enhancing Productivity in UK Core Citie
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 21:17, it is updated each 
+  afternoon at 21:04, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -665,7 +662,7 @@ DESCRIPTION:*Enhancing Productivity in UK Core Citie
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=9ef
  55ff7-en.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200303T070000Z
 DTEND:20200303T071500Z
 TRANSP:TRANSPARENT
@@ -679,32 +676,32 @@ DESCRIPTION:Reminder: Enhancing Productivity in UK C
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9870c393-end3e3250
+UID:10.1787/9870c393-end3e3251
 SUMMARY:How's Life? 2020 - Measuring Well-being
 DESCRIPTION:*How's Life? 2020 - Measuring Well-being
  *\n\nDirectorate: Statistics and Data Di
  rectorate\nLanguage: English\nDOI: https
  ://doi.org/10.1787/9870c393-en\nPublicat
- ion type: Issue\nReleased as: ePub, HTML
- , PDF\n\nEmbargo date/time: Monday, 9 Ma
- rch 2020, 10:00 (GMT)\n\n\niLibrary expo
- rt: Tuesday, 4 February 2020, 19:56 (GMT
- )\nFreepreview export: never\nOECD.org e
- xport: Tuesday, 4 February 2020, 19:29 (
- GMT)\nFTI loaded: ✗\n\nFor more informat
- ion see: https://oecd.github.io/embargo-
- calendar/embargoes-by-publication.html.\
- n\nPlease note: This information was cor
- rect as of this afternoon at 21:17, it i
- s updated each night; therefore any subs
- equent updates may not yet be visible he
- re. Also, please be aware that the diffe
- rent released media (PDF, HTML, etc.) ar
- e not necessarily released at the same t
- ime. For complete and up-to-date informa
- tion see here: http://kappa.oecd.org/v3/
- search?term=9870c393-en.
-DTSTAMP:20200221T211714Z
+ ion type: Book\nReleased as: ePub, HTML,
+  PDF\n\nEmbargo date/time: Monday, 9 Mar
+ ch 2020, 10:00 (GMT)\n\n\niLibrary expor
+ t: Monday, 24 February 2020, 19:44 (GMT)
+ \nFreepreview export: never\nOECD.org ex
+ port: Monday, 24 February 2020, 19:24 (G
+ MT)\nFTI loaded: ✗\n\nFor more informati
+ on see: https://oecd.github.io/embargo-c
+ alendar/embargoes-by-publication.html.\n
+ \nPlease note: This information was corr
+ ect as of this afternoon at 21:04, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=9870c393-en.
+DTSTAMP:20200224T210435Z
 DTSTART:20200309T100000Z
 DTEND:20200309T101500Z
 TRANSP:TRANSPARENT
@@ -718,7 +715,7 @@ DESCRIPTION:Reminder: How's Life? 2020 - Measuring W
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d0f9b5b7-frd3e3411
+UID:10.1787/d0f9b5b7-frd3e3412
 SUMMARY:Accroître l'efficacité des mécanismes de
   règlement des différends – Rapport par 
  les pairs de PA, Luxembourg (Phase 2) - 
@@ -740,7 +737,7 @@ DESCRIPTION:*Accroître l'efficacité des mécanismes d
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 21:17, it is u
+ t as of this afternoon at 21:04, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -749,7 +746,7 @@ DESCRIPTION:*Accroître l'efficacité des mécanismes d
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=d0f9b5b7-fr.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200312T100000Z
 DTEND:20200312T101500Z
 TRANSP:TRANSPARENT
@@ -766,7 +763,7 @@ DESCRIPTION:Reminder: Accroître l'efficacité des méc
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ffdb81cc-end3e3466
+UID:10.1787/ffdb81cc-end3e3467
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Luxembourg (S
  tage 2) - Inclusive Framework on BEPS: A
@@ -788,7 +785,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 21:
- 17, it is updated each night; therefore 
+ 04, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -796,7 +793,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=ffdb81cc-en.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200312T100000Z
 DTEND:20200312T101500Z
 TRANSP:TRANSPARENT
@@ -812,7 +809,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9d6c280c-end3e3521
+UID:10.1787/9d6c280c-end3e3522
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Germany (Stag
  e 2) - Inclusive Framework on BEPS: Acti
@@ -833,7 +830,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 21:17,
+ s correct as of this afternoon at 21:04,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -842,7 +839,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=9d6c280c-en.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200312T100000Z
 DTEND:20200312T101500Z
 TRANSP:TRANSPARENT
@@ -858,7 +855,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/92af1e93-frd3e3577
+UID:10.1787/92af1e93-frd3e3578
 SUMMARY:Accroître l'efficacité des mécanismes de
   règlement des différends – Rapport par 
  les pairs de PA, France (Phase 2) - Cadr
@@ -880,7 +877,7 @@ DESCRIPTION:*Accroître l'efficacité des mécanismes d
  : https://oecd.github.io/embargo-calenda
  r/embargoes-by-publication.html.\n\nPlea
  se note: This information was correct as
-  of this afternoon at 21:17, it is updat
+  of this afternoon at 21:04, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -889,7 +886,7 @@ DESCRIPTION:*Accroître l'efficacité des mécanismes d
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=92af1e93-fr.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200312T100000Z
 DTEND:20200312T101500Z
 TRANSP:TRANSPARENT
@@ -906,7 +903,7 @@ DESCRIPTION:Reminder: Accroître l'efficacité des méc
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/08a4369e-end3e3632
+UID:10.1787/08a4369e-end3e3633
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Italy (Stage 
  2) - Inclusive Framework on BEPS: Action
@@ -927,7 +924,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 21:17, i
+ correct as of this afternoon at 21:04, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -936,7 +933,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=08a4369e-en.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200312T100000Z
 DTEND:20200312T101500Z
 TRANSP:TRANSPARENT
@@ -952,7 +949,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7b3b1492-end3e3738
+UID:10.1787/7b3b1492-end3e3739
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Sweden (Stage
   2) - Inclusive Framework on BEPS: Actio
@@ -973,7 +970,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 21:17, 
+  correct as of this afternoon at 21:04, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -982,7 +979,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=7b3b1492-en.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200312T100000Z
 DTEND:20200312T101500Z
 TRANSP:TRANSPARENT
@@ -998,7 +995,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b41a9f75-end3e3793
+UID:10.1787/b41a9f75-end3e3794
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Liechtenstein
   (Stage 2) - Inclusive Framework on BEPS
@@ -1020,7 +1017,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 21:17, it is updated each night; therefo
+ 21:04, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -1028,7 +1025,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=b41a9f75-en.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200312T100000Z
 DTEND:20200312T101500Z
 TRANSP:TRANSPARENT
@@ -1044,7 +1041,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/198d8c99-end3e3848
+UID:10.1787/198d8c99-end3e3849
 SUMMARY:Early Learning and Child Well-being in t
  he United States
 DESCRIPTION:*Early Learning and Child Well-being in 
@@ -1061,7 +1058,7 @@ DESCRIPTION:*Early Learning and Child Well-being in
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 21:17, it is updated each night; th
+ n at 21:04, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -1069,7 +1066,7 @@ DESCRIPTION:*Early Learning and Child Well-being in
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=198d8c99-en.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200312T100000Z
 DTEND:20200312T101500Z
 TRANSP:TRANSPARENT
@@ -1083,7 +1080,7 @@ DESCRIPTION:Reminder: Early Learning and Child Well-
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a5d1cab8-end3e3900
+UID:10.1787/a5d1cab8-end3e3901
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, France (Stage
   2) - Inclusive Framework on BEPS: Actio
@@ -1104,7 +1101,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 21:17, 
+  correct as of this afternoon at 21:04, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -1113,7 +1110,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=a5d1cab8-en.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200312T100000Z
 DTEND:20200312T101500Z
 TRANSP:TRANSPARENT
@@ -1129,7 +1126,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/40c9f1b5-end3e3955
+UID:10.1787/40c9f1b5-end3e3956
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Austria (Stag
  e 2) - Inclusive Framework on BEPS: Acti
@@ -1150,7 +1147,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 21:17,
+ s correct as of this afternoon at 21:04,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -1159,7 +1156,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=40c9f1b5-en.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200312T100000Z
 DTEND:20200312T101500Z
 TRANSP:TRANSPARENT
@@ -1175,7 +1172,44 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/636bc6c1-end3e4010
+UID:10.1787/a4209041-end3e4011
+SUMMARY:OECD Economic Surveys: Slovenia 2020
+DESCRIPTION:*OECD Economic Surveys: Slovenia 2020*\n
+ \nDirectorate: Economics Department\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/a4209041-en\nPublication type: Book
+ \nReleased as: Paperback, PDF\n\nEmbargo
+  date/time: Sunday, 15 March 2020, 23:00
+  (GMT)\n\n\niLibrary export: never\nFree
+ preview export: never\nOECD.org export: 
+ never\nFTI loaded: ✗\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 21:04, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=a4209041-en.
+DTSTAMP:20200224T210435Z
+DTSTART:20200315T230000Z
+DTEND:20200315T231500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Economic Surveys: Sloveni
+ a 2020
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/636bc6c1-end3e4113
 SUMMARY:Education in Ireland - An OECD Assessmen
  t of the Senior Cycle Review
 DESCRIPTION:*Education in Ireland - An OECD Assessme
@@ -1192,7 +1226,7 @@ DESCRIPTION:*Education in Ireland - An OECD Assessme
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 21
- :17, it is updated each night; therefore
+ :04, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -1200,7 +1234,7 @@ DESCRIPTION:*Education in Ireland - An OECD Assessme
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=636bc6c1-en.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200316T110000Z
 DTEND:20200316T111500Z
 TRANSP:TRANSPARENT
@@ -1214,7 +1248,7 @@ DESCRIPTION:Reminder: Education in Ireland - An OECD
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8b45614b-end3e4114
+UID:10.1787/8b45614b-end3e4218
 SUMMARY:SME Policy Index: Eastern Partner Countr
  ies 2020 - Assessing the Implementation 
  of the Small Business Act for Europe
@@ -1226,15 +1260,15 @@ DESCRIPTION:*SME Policy Index: Eastern Partner Count
  .org/10.1787/8b45614b-en\nPublication ty
  pe: Book\nReleased as: Paperback, PDF\n\
  nEmbargo date/time: Monday, 16 March 202
- 0, 23:00 (GMT)\n\n\niLibrary export: Fri
- day, 21 February 2020, 19:55 (GMT)\nFree
+ 0, 23:00 (GMT)\n\n\niLibrary export: Mon
+ day, 24 February 2020, 19:44 (GMT)\nFree
  preview export: never\nOECD.org export: 
- Friday, 21 February 2020, 19:31 (GMT)\nF
+ Monday, 24 February 2020, 19:24 (GMT)\nF
  TI loaded: ✗\n\nFor more information see
  : https://oecd.github.io/embargo-calenda
  r/embargoes-by-publication.html.\n\nPlea
  se note: This information was correct as
-  of this afternoon at 21:17, it is updat
+  of this afternoon at 21:04, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -1243,7 +1277,7 @@ DESCRIPTION:*SME Policy Index: Eastern Partner Count
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=8b45614b-en.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200316T230000Z
 DTEND:20200316T231500Z
 TRANSP:TRANSPARENT
@@ -1259,7 +1293,7 @@ DESCRIPTION:Reminder: SME Policy Index: Eastern Part
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/009a0785-end3e4879
+UID:10.1787/009a0785-end3e4982
 SUMMARY:Driving Performance at Ireland’s Environ
  mental Protection Agency
 DESCRIPTION:*Driving Performance at Ireland’s Enviro
@@ -1278,7 +1312,7 @@ DESCRIPTION:*Driving Performance at Ireland’s Enviro
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 21:17, it is updated eac
+ is afternoon at 21:04, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -1287,7 +1321,7 @@ DESCRIPTION:*Driving Performance at Ireland’s Enviro
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=0
  09a0785-en.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200320T100000Z
 DTEND:20200320T101500Z
 TRANSP:TRANSPARENT
@@ -1301,7 +1335,7 @@ DESCRIPTION:Reminder: Driving Performance at Ireland
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cc5feb81-end3e5206
+UID:10.1787/cc5feb81-end3e5309
 SUMMARY: SME and Entrepreneurship Policy in Braz
  il 2020
 DESCRIPTION:* SME and Entrepreneurship Policy in Bra
@@ -1317,7 +1351,7 @@ DESCRIPTION:* SME and Entrepreneurship Policy in Bra
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 21:17, 
+  correct as of this afternoon at 21:04, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -1326,7 +1360,7 @@ DESCRIPTION:* SME and Entrepreneurship Policy in Bra
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=cc5feb81-en.
-DTSTAMP:20200221T211714Z
+DTSTAMP:20200224T210435Z
 DTSTART:20200427T063000Z
 DTEND:20200427T064500Z
 TRANSP:TRANSPARENT
