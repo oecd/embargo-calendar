@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 24 February 2020 at 21:04* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 25 February 2020 at 21:21* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Making Dispute Resolution More Effective – MAP Peer Review Report, Curaçao (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/7f84d697-en)
 
@@ -15,7 +15,7 @@ Monday 24 February 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 14 February 2020 at 20:57
 - [x] Exported to Keepeek Friday 14 February 2020 at 20:42
-- [x] Exported to OECD.org Friday 14 February 2020 at 20:29
+- [x] Exported to OECD.org Tuesday 25 February 2020 at 20:27
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 24 February 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 14 February 2020 at 20:57
 - [x] Exported to Keepeek Friday 14 February 2020 at 20:42
-- [x] Exported to OECD.org Friday 14 February 2020 at 20:29
+- [x] Exported to OECD.org Tuesday 25 February 2020 at 20:27
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Monday 24 February 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 14 February 2020 at 20:57
 - [x] Exported to Keepeek Friday 14 February 2020 at 20:42
-- [x] Exported to OECD.org Friday 14 February 2020 at 20:29
+- [x] Exported to OECD.org Tuesday 25 February 2020 at 20:27
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Monday 24 February 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 14 February 2020 at 20:57
 - [x] Exported to Keepeek Friday 14 February 2020 at 20:42
-- [x] Exported to OECD.org Friday 14 February 2020 at 20:29
+- [x] Exported to OECD.org Tuesday 25 February 2020 at 20:27
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Monday 24 February 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 14 February 2020 at 20:57
 - [x] Exported to Keepeek Friday 14 February 2020 at 20:42
-- [x] Exported to OECD.org Friday 14 February 2020 at 20:29
+- [x] Exported to OECD.org Tuesday 25 February 2020 at 20:27
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Monday 24 February 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 14 February 2020 at 20:57
 - [x] Exported to Keepeek Friday 14 February 2020 at 20:42
-- [x] Exported to OECD.org Friday 14 February 2020 at 20:29
+- [x] Exported to OECD.org Tuesday 25 February 2020 at 20:27
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Monday 24 February 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 14 February 2020 at 20:57
 - [x] Exported to Keepeek Friday 14 February 2020 at 20:42
-- [x] Exported to OECD.org Friday 14 February 2020 at 20:29
+- [x] Exported to OECD.org Tuesday 25 February 2020 at 20:27
 
 ### Additional Information
 
@@ -176,7 +176,7 @@ Monday 24 February 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 14 February 2020 at 20:57
 - [x] Exported to Keepeek Friday 14 February 2020 at 20:42
-- [x] Exported to OECD.org Friday 14 February 2020 at 20:29
+- [x] Exported to OECD.org Tuesday 25 February 2020 at 20:27
 
 ### Additional Information
 
@@ -199,7 +199,7 @@ Monday 24 February 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 14 February 2020 at 20:57
 - [x] Exported to Keepeek Friday 14 February 2020 at 20:42
-- [x] Exported to OECD.org Friday 14 February 2020 at 20:29
+- [x] Exported to OECD.org Tuesday 25 February 2020 at 20:27
 
 ### Additional Information
 
@@ -220,16 +220,16 @@ Monday 24 February 2020 at 23:01 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 24 February 2020 at 20:44
+- [x] Exported to iLibrary Tuesday 25 February 2020 at 20:51
 - [x] Exported to Keepeek Monday 24 February 2020 at 20:34
-- [x] Exported to OECD.org Monday 24 February 2020 at 20:24
+- [x] Exported to OECD.org Tuesday 25 February 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Issue*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -326,7 +326,7 @@ Monday 2 March 2020 at 9:00 | no launch event
 
 ------
 
-## [Enhancing Productivity in UK Core Cities](https://doi.org/10.1787/9ef55ff7-en)
+## [Enhancing Productivity in UK Core Cities - Connecting Local and Regional Growth](https://doi.org/10.1787/9ef55ff7-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -335,9 +335,9 @@ Tuesday 3 March 2020 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 13 February 2020 at 20:52
+- [x] Exported to iLibrary Tuesday 25 February 2020 at 20:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 February 2020 at 20:26
+- [x] Exported to OECD.org Tuesday 25 February 2020 at 20:27
 
 ### Additional Information
 
@@ -533,6 +533,29 @@ Thursday 12 March 2020 at 10:00 | no launch event
 
 ------
 
+## [International Early Learning and Child Well-being Study  - Assessment Framework](https://doi.org/10.1787/305d399f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 March 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Early Learning and Child Well-being in the United States](https://doi.org/10.1787/198d8c99-en)
 
 Embargo date | Launch date
@@ -611,16 +634,16 @@ Sunday 15 March 2020 at 23:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 25 February 2020 at 20:51
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 25 February 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
@@ -691,6 +714,190 @@ Friday 20 March 2020 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Tunisia 2020 (Second Round)](https://doi.org/10.1787/fdeb6766-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 April 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Peru 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/f155434a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 April 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Brunei Darussalam 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/7dac6e50-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 April 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Seychelles 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/688fc4f9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 April 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Switzerland 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/fcfce6d7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 April 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Macau, China 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/28be6ec6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 April 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Barbados 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/fbb6ecef-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 April 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes:  Liberia 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/e8ecd632-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 April 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
