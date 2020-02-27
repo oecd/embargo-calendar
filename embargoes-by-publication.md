@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 26 February 2020 at 21:01* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Environment at a Glance 2020](https://doi.org/10.1787/4ea7d35f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 February 2020 at 23:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 February 2020 at 20:51
-- [x] Exported to Keepeek Wednesday 26 February 2020 at 20:38
-- [x] Exported to OECD.org Wednesday 26 February 2020 at 20:26
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Are students’ career expectations aligned with their skills?](https://doi.org/10.1787/ed790c76-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 February 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 20 February 2020 at 20:50
-- [x] Exported to Keepeek Thursday 20 February 2020 at 20:39
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Thursday 27 February 2020 at 21:15* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Report of the International Narcotics Control Board for 2019](https://doi.org/10.18356/130ee5d7-en)
 
@@ -59,7 +13,7 @@ Thursday 27 February 2020 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 26 February 2020 at 20:50
 - [x] Exported to Keepeek Wednesday 26 February 2020 at 20:38
 - [ ] Exported to OECD.org
 
@@ -128,7 +82,7 @@ Monday 2 March 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 February 2020 at 20:55
+- [x] Exported to iLibrary Wednesday 26 February 2020 at 20:50
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 10 February 2020 at 20:27
 
@@ -142,6 +96,52 @@ Monday 2 March 2020 at 9:00 | no launch event
 
 ------
 
+## [Perspectives économiques de l'OCDE, Rapport intermédiaire mars 2020 ](https://doi.org/10.1787/0262bc62-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 March 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 27 February 2020 at 20:52
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 27 February 2020 at 20:27
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Issue*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Outlook, Interim Report March 2020](https://doi.org/10.1787/7969896b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 March 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 27 February 2020 at 20:52
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 27 February 2020 at 20:27
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
 ## [Enhancing Productivity in UK Core Cities - Connecting Local and Regional Growth](https://doi.org/10.1787/9ef55ff7-en)
 
 Embargo date | Launch date
@@ -150,18 +150,18 @@ Tuesday 3 March 2020 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 25 February 2020 at 20:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 February 2020 at 20:26
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 27 February 2020 at 20:52
+- [x] Exported to Keepeek Thursday 27 February 2020 at 20:39
+- [x] Exported to OECD.org Thursday 27 February 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -530,6 +530,29 @@ Friday 20 March 2020 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Greece 2020](https://doi.org/10.1787/b04b25de-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 March 2020 at 22:31 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
