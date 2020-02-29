@@ -2,17 +2,17 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 27 February 2020 at 21:15* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Saturday 29 February 2020 at 2:43* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [27 February 2020](#27-february-2020)
 * [2 March 2020](#2-march-2020)
-* [3 March 2020](#3-march-2020)
 * [9 March 2020](#9-march-2020)
 * [12 March 2020](#12-march-2020)
 * [15 March 2020](#15-march-2020)
 * [16 March 2020](#16-march-2020)
 * [20 March 2020](#20-march-2020)
 * [30 March 2020](#30-march-2020)
+* [31 March 2020](#31-march-2020)
 * [6 April 2020](#6-april-2020)
 * [27 April 2020](#27-april-2020)
 
@@ -29,8 +29,8 @@ Thursday 27 February 2020 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 26 February 2020 at 20:50
-- [x] Exported to Keepeek Wednesday 26 February 2020 at 20:38
+- [x] Exported to iLibrary Saturday 29 February 2020 at 2:12
+- [x] Exported to Keepeek Saturday 29 February 2020 at 0:59
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -38,7 +38,7 @@ Thursday 27 February 2020 at 5:00 | no launch event
 * Directorate: *Non applicable*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Issue*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -54,7 +54,7 @@ Thursday 27 February 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 30 January 2020 at 20:54
 - [x] Exported to Keepeek Friday 31 January 2020 at 20:42
-- [x] Exported to OECD.org Friday 31 January 2020 at 20:29
+- [x] Exported to OECD.org Saturday 29 February 2020 at 0:47
 
 ### Additional Information
 
@@ -77,7 +77,7 @@ Thursday 27 February 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 30 January 2020 at 20:54
 - [x] Exported to Keepeek Thursday 30 January 2020 at 20:40
-- [x] Exported to OECD.org Thursday 30 January 2020 at 20:27
+- [x] Exported to OECD.org Saturday 29 February 2020 at 0:47
 
 ### Additional Information
 
@@ -102,15 +102,15 @@ Monday 2 March 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 26 February 2020 at 20:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 February 2020 at 20:27
+- [x] Exported to iLibrary Saturday 29 February 2020 at 2:12
+- [x] Exported to Keepeek Saturday 29 February 2020 at 0:59
+- [x] Exported to OECD.org Saturday 29 February 2020 at 0:47
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -162,21 +162,17 @@ Monday 2 March 2020 at 10:00 | no launch event
 
 ------
 
-------
-
-# 3 March 2020
-
 ## [Enhancing Productivity in UK Core Cities - Connecting Local and Regional Growth](https://doi.org/10.1787/9ef55ff7-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 3 March 2020 at 7:00 | no launch event
+Monday 2 March 2020 at 22:50 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 27 February 2020 at 20:52
-- [x] Exported to Keepeek Thursday 27 February 2020 at 20:39
+- [x] Exported to Keepeek Saturday 29 February 2020 at 0:59
 - [x] Exported to OECD.org Thursday 27 February 2020 at 20:27
 
 ### Additional Information
@@ -289,6 +285,29 @@ Thursday 12 March 2020 at 10:00 | no launch event
 
 ------
 
+## [Early Learning and Child Well-being in Estonia](https://doi.org/10.1787/15009dbe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 March 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Accroître l'efficacité des mécanismes de règlement des différends – Rapport par les pairs de PA, France (Phase 2) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/92af1e93-fr)
 
 Embargo date | Launch date
@@ -309,6 +328,29 @@ Thursday 12 March 2020 at 10:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Early Learning and Child Well-being in England ](https://doi.org/10.1787/c235abf9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 March 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -423,6 +465,29 @@ Thursday 12 March 2020 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Tax Policy Reviews: Seychelles 2020](https://doi.org/10.1787/cba38d19-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 March 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Saturday 29 February 2020 at 2:12
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Saturday 29 February 2020 at 0:47
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -586,6 +651,33 @@ Friday 20 March 2020 at 10:00 | no launch event
 Embargo date | Launch date
 -------------|:------------:
 Monday 30 March 2020 at 22:31 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 31 March 2020
+
+## [OECD Economic Surveys: Israel 2020](https://doi.org/10.1787/d6a7d907-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 31 March 2020 at 22:00 | no launch event
 
 ### Status Information
 
