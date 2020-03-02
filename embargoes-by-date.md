@@ -2,10 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 29 February 2020 at 2:43* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 2 March 2020 at 21:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [27 February 2020](#27-february-2020)
 * [2 March 2020](#2-march-2020)
+* [3 March 2020](#3-march-2020)
 * [9 March 2020](#9-march-2020)
 * [12 March 2020](#12-march-2020)
 * [15 March 2020](#15-march-2020)
@@ -15,79 +15,6 @@ Data generated on | |
 * [31 March 2020](#31-march-2020)
 * [6 April 2020](#6-april-2020)
 * [27 April 2020](#27-april-2020)
-
-------
-
-# 27 February 2020
-
-## [Report of the International Narcotics Control Board for 2019](https://doi.org/10.18356/130ee5d7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 27 February 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 29 February 2020 at 2:12
-- [x] Exported to Keepeek Saturday 29 February 2020 at 0:59
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Non applicable*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Impulsando el desempeño del Regulador de Infraestructura de Transporte de Perú](https://doi.org/10.1787/6b95ee9b-es)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 27 February 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 30 January 2020 at 20:54
-- [x] Exported to Keepeek Friday 31 January 2020 at 20:42
-- [x] Exported to OECD.org Saturday 29 February 2020 at 0:47
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Driving Performance at Peru’s Transport Infrastructure Regulator](https://doi.org/10.1787/d4ddab52-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 27 February 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 30 January 2020 at 20:54
-- [x] Exported to Keepeek Thursday 30 January 2020 at 20:40
-- [x] Exported to OECD.org Saturday 29 February 2020 at 0:47
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -124,17 +51,17 @@ Monday 2 March 2020 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 27 February 2020 at 20:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 February 2020 at 20:27
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 2 March 2020 at 20:56
+- [x] Exported to Keepeek Monday 2 March 2020 at 20:42
+- [x] Exported to OECD.org Monday 2 March 2020 at 20:31
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Issue*
+* Availability: *Published*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -147,17 +74,17 @@ Monday 2 March 2020 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 27 February 2020 at 20:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 February 2020 at 20:27
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 2 March 2020 at 20:56
+- [x] Exported to Keepeek Monday 2 March 2020 at 20:42
+- [x] Exported to OECD.org Monday 2 March 2020 at 20:31
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Issue*
+* Availability: *Published*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -171,9 +98,9 @@ Monday 2 March 2020 at 22:50 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 27 February 2020 at 20:52
-- [x] Exported to Keepeek Saturday 29 February 2020 at 0:59
-- [x] Exported to OECD.org Thursday 27 February 2020 at 20:27
+- [x] Exported to iLibrary Monday 2 March 2020 at 20:56
+- [x] Exported to Keepeek Monday 2 March 2020 at 20:42
+- [x] Exported to OECD.org Monday 2 March 2020 at 20:31
 
 ### Additional Information
 
@@ -187,7 +114,57 @@ Monday 2 March 2020 at 22:50 | no launch event
 
 ------
 
+# 3 March 2020
+
+## [Better using skills in the workplace in the Leeds City Region, United Kingdom](https://doi.org/10.1787/a0e899a0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 3 March 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 2 March 2020 at 20:56
+- [x] Exported to Keepeek Monday 2 March 2020 at 20:42
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 9 March 2020
+
+## [How have women’s participation and fields of study choice in higher education evolved over time?](https://doi.org/10.1787/731d5f4a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 March 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 2 March 2020 at 20:56
+- [x] Exported to Keepeek Monday 2 March 2020 at 20:42
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
 
 ## [How's Life? 2020 - Measuring Well-being](https://doi.org/10.1787/9870c393-en)
 
@@ -331,7 +308,7 @@ Thursday 12 March 2020 at 10:00 | no launch event
 
 ------
 
-## [Early Learning and Child Well-being in England ](https://doi.org/10.1787/c235abf9-en)
+## [Early Learning and Child Well-being in England](https://doi.org/10.1787/c235abf9-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -420,29 +397,6 @@ Thursday 12 March 2020 at 10:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
-
-------
-
-## [International Early Learning and Child Well-being Study  - Assessment Framework](https://doi.org/10.1787/305d399f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 March 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
 
 ------
 
