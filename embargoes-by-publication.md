@@ -2,48 +2,25 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 4 March 2020 at 21:19* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 5 March 2020 at 21:38* | [See embargoes by date](embargoes-by-date.md) |
 
-## [Enhancing Productivity in UK Core Cities - Connecting Local and Regional Growth](https://doi.org/10.1787/9ef55ff7-en)
+## [Les écarts de niveau de compétences entre les sexes en compréhension de l’écrit et en mathématiques évoluent-ils entre l’enfance et l’âge adulte ?](https://doi.org/10.1787/49321c55-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 2 March 2020 at 22:50 | no launch event
+Monday 9 March 2020 at 6:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 4 March 2020 at 20:55
-- [x] Exported to Keepeek Monday 2 March 2020 at 20:42
-- [x] Exported to OECD.org Wednesday 4 March 2020 at 20:29
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Better using skills in the workplace in the Leeds City Region, United Kingdom](https://doi.org/10.1787/a0e899a0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 March 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 2 March 2020 at 20:56
-- [x] Exported to Keepeek Monday 2 March 2020 at 20:42
+- [x] Exported to iLibrary Thursday 5 March 2020 at 21:08
+- [x] Exported to Keepeek Thursday 5 March 2020 at 20:45
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
 * Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
@@ -61,6 +38,29 @@ Monday 9 March 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 2 March 2020 at 20:56
 - [x] Exported to Keepeek Monday 2 March 2020 at 20:42
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Do gender gaps in reading and mathematics evolve between childhood and adulthood?](https://doi.org/10.1787/6db40c8d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 March 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 5 March 2020 at 21:08
+- [x] Exported to Keepeek Thursday 5 March 2020 at 20:45
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -104,16 +104,16 @@ Monday 9 March 2020 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 5 March 2020 at 21:08
+- [x] Exported to Keepeek Thursday 5 March 2020 at 20:45
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Sahel and West Africa Club*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
 
@@ -127,16 +127,16 @@ Monday 9 March 2020 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 5 March 2020 at 21:08
+- [x] Exported to Keepeek Thursday 5 March 2020 at 20:45
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Sahel and West Africa Club*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
 
@@ -265,18 +265,18 @@ Thursday 12 March 2020 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Saturday 29 February 2020 at 2:12
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Saturday 29 February 2020 at 0:47
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 5 March 2020 at 21:08
+- [x] Exported to Keepeek Thursday 5 March 2020 at 20:45
+- [x] Exported to OECD.org Thursday 5 March 2020 at 20:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -326,26 +326,49 @@ Monday 16 March 2020 at 11:00 | no launch event
 
 ------
 
-## [SME Policy Index: Eastern Partner Countries 2020 - Assessing the Implementation of the Small Business Act for Europe](https://doi.org/10.1787/8b45614b-en)
+## [Government at a Glance: Latin America and the Caribbean 2020](https://doi.org/10.1787/13130fbb-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 16 March 2020 at 23:00 | no launch event
+Wednesday 18 March 2020 at 11:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 24 February 2020 at 20:44
+- [x] Exported to iLibrary Thursday 5 March 2020 at 21:08
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 24 February 2020 at 20:24
+- [x] Exported to OECD.org Thursday 5 March 2020 at 20:30
 
 ### Additional Information
 
-* Directorate: *Global Relations Secretariat*
+* Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Panorama de las Administraciones Públicas América Latina y el Caribe 2020](https://doi.org/10.1787/1256b68d-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 18 March 2020 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 5 March 2020 at 21:08
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 5 March 2020 at 20:30
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
@@ -872,6 +895,29 @@ Monday 27 April 2020 at 6:30 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Revenue Statistics in Latin America and the Caribbean 2020 (en) | Estadísticas tributarias en América Latina y el Caribe 2020](https://doi.org/10.1787/68739b9b-en-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 March 2021 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English | Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
