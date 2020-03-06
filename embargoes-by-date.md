@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 5 March 2020 at 21:38* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 6 March 2020 at 21:22* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [9 March 2020](#9-march-2020)
 * [12 March 2020](#12-march-2020)
@@ -198,7 +198,7 @@ Thursday 12 March 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 4 March 2020 at 20:55
+- [x] Exported to iLibrary Friday 6 March 2020 at 20:58
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 4 March 2020 at 20:29
 
@@ -221,7 +221,7 @@ Thursday 12 March 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 4 March 2020 at 20:55
+- [x] Exported to iLibrary Friday 6 March 2020 at 20:58
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 4 March 2020 at 20:29
 
@@ -244,7 +244,7 @@ Thursday 12 March 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 4 March 2020 at 20:55
+- [x] Exported to iLibrary Friday 6 March 2020 at 20:58
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 4 March 2020 at 20:29
 
@@ -267,7 +267,7 @@ Thursday 12 March 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 4 March 2020 at 20:55
+- [x] Exported to iLibrary Friday 6 March 2020 at 20:58
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 4 March 2020 at 20:29
 
@@ -448,15 +448,15 @@ Thursday 26 March 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 6 March 2020 at 20:58
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 6 March 2020 at 20:31
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
