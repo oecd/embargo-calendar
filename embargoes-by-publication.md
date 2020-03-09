@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 6 March 2020 at 21:22* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 9 March 2020 at 21:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Les écarts de niveau de compétences entre les sexes en compréhension de l’écrit et en mathématiques évoluent-ils entre l’enfance et l’âge adulte ?](https://doi.org/10.1787/49321c55-fr)
 
@@ -174,9 +174,9 @@ Thursday 12 March 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 6 March 2020 at 20:58
+- [x] Exported to iLibrary Monday 9 March 2020 at 20:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 4 March 2020 at 20:29
+- [x] Exported to OECD.org Monday 9 March 2020 at 20:29
 
 ### Additional Information
 
@@ -196,10 +196,10 @@ Thursday 12 March 2020 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 6 March 2020 at 20:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 9 March 2020 at 20:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 4 March 2020 at 20:29
+- [x] Exported to OECD.org Monday 9 March 2020 at 20:29
 
 ### Additional Information
 
@@ -220,9 +220,9 @@ Thursday 12 March 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 6 March 2020 at 20:58
+- [x] Exported to iLibrary Monday 9 March 2020 at 20:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 4 March 2020 at 20:29
+- [x] Exported to OECD.org Monday 9 March 2020 at 20:29
 
 ### Additional Information
 
@@ -243,9 +243,9 @@ Thursday 12 March 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 6 March 2020 at 20:58
+- [x] Exported to iLibrary Monday 9 March 2020 at 20:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 4 March 2020 at 20:29
+- [x] Exported to OECD.org Monday 9 March 2020 at 20:29
 
 ### Additional Information
 
@@ -404,9 +404,9 @@ Thursday 26 March 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 6 March 2020 at 20:58
+- [x] Exported to iLibrary Monday 9 March 2020 at 20:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 6 March 2020 at 20:31
+- [x] Exported to OECD.org Monday 9 March 2020 at 20:29
 
 ### Additional Information
 
@@ -878,6 +878,29 @@ Wednesday 15 April 2020 at 9:00 | no launch event
 
 ------
 
+## [Revenue Statistics in Latin America and the Caribbean 2020 (en) | Estadísticas tributarias en América Latina y el Caribe 2020](https://doi.org/10.1787/68739b9b-en-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 23 April 2020 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English | Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [ SME and Entrepreneurship Policy in Brazil 2020](https://doi.org/10.1787/cc5feb81-en)
 
 Embargo date | Launch date
@@ -895,29 +918,6 @@ Monday 27 April 2020 at 6:30 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Revenue Statistics in Latin America and the Caribbean 2020 (en) | Estadísticas tributarias en América Latina y el Caribe 2020](https://doi.org/10.1787/68739b9b-en-es)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 23 March 2021 at 15:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English | Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
