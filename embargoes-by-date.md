@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 9 March 2020 at 21:18* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 10 March 2020 at 21:23* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [9 March 2020](#9-march-2020)
 * [12 March 2020](#12-march-2020)
@@ -171,9 +171,9 @@ Monday 9 March 2020 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 3 March 2020 at 21:05
+- [x] Exported to iLibrary Tuesday 10 March 2020 at 20:59
 - [x] Exported to Keepeek Tuesday 3 March 2020 at 20:46
-- [x] Exported to OECD.org Wednesday 4 March 2020 at 20:29
+- [x] Exported to OECD.org Tuesday 10 March 2020 at 20:28
 
 ### Additional Information
 
@@ -189,6 +189,29 @@ Monday 9 March 2020 at 10:00 | no launch event
 
 # 12 March 2020
 
+## [OECD Tax Policy Reviews: Seychelles 2020](https://doi.org/10.1787/cba38d19-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 March 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 5 March 2020 at 21:08
+- [x] Exported to Keepeek Tuesday 10 March 2020 at 20:42
+- [x] Exported to OECD.org Thursday 5 March 2020 at 20:30
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
 ## [Early Learning and Child Well-being in Estonia](https://doi.org/10.1787/15009dbe-en)
 
 Embargo date | Launch date
@@ -197,8 +220,8 @@ Thursday 12 March 2020 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 9 March 2020 at 20:55
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 10 March 2020 at 20:59
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 9 March 2020 at 20:29
 
@@ -266,41 +289,18 @@ Thursday 12 March 2020 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 9 March 2020 at 20:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 9 March 2020 at 20:29
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 10 March 2020 at 20:59
+- [x] Exported to Keepeek Tuesday 10 March 2020 at 20:42
+- [x] Exported to OECD.org Tuesday 10 March 2020 at 20:28
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
-
-------
-
-## [OECD Tax Policy Reviews: Seychelles 2020](https://doi.org/10.1787/cba38d19-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 March 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 5 March 2020 at 21:08
-- [x] Exported to Keepeek Thursday 5 March 2020 at 20:45
-- [x] Exported to OECD.org Thursday 5 March 2020 at 20:30
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -394,7 +394,7 @@ Wednesday 18 March 2020 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 5 March 2020 at 21:08
+- [x] Exported to iLibrary Tuesday 10 March 2020 at 20:59
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 5 March 2020 at 20:30
 
