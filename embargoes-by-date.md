@@ -2,14 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 10 March 2020 at 21:23* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 11 March 2020 at 21:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [9 March 2020](#9-march-2020)
 * [12 March 2020](#12-march-2020)
 * [15 March 2020](#15-march-2020)
 * [16 March 2020](#16-march-2020)
 * [18 March 2020](#18-march-2020)
 * [20 March 2020](#20-march-2020)
+* [22 March 2020](#22-march-2020)
 * [26 March 2020](#26-march-2020)
 * [30 March 2020](#30-march-2020)
 * [31 March 2020](#31-march-2020)
@@ -19,171 +19,6 @@ Data generated on | |
 * [23 April 2020](#23-april-2020)
 * [27 April 2020](#27-april-2020)
 * [9 April 2021](#9-april-2021)
-
-------
-
-# 9 March 2020
-
-## [Les écarts de niveau de compétences entre les sexes en compréhension de l’écrit et en mathématiques évoluent-ils entre l’enfance et l’âge adulte ?](https://doi.org/10.1787/49321c55-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 March 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 5 March 2020 at 21:08
-- [x] Exported to Keepeek Thursday 5 March 2020 at 20:45
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [How have women’s participation and fields of study choice in higher education evolved over time?](https://doi.org/10.1787/731d5f4a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 March 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 2 March 2020 at 20:56
-- [x] Exported to Keepeek Monday 2 March 2020 at 20:42
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Do gender gaps in reading and mathematics evolve between childhood and adulthood?](https://doi.org/10.1787/6db40c8d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 March 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 5 March 2020 at 21:08
-- [x] Exported to Keepeek Thursday 5 March 2020 at 20:45
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Do boys and girls have similar attitudes towards competition and failure?](https://doi.org/10.1787/a8898906-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 March 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 4 March 2020 at 20:55
-- [x] Exported to Keepeek Wednesday 4 March 2020 at 20:43
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Women and climate change in the Sahel](https://doi.org/10.1787/e31c77ad-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 March 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 5 March 2020 at 21:08
-- [x] Exported to Keepeek Thursday 5 March 2020 at 20:45
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Sahel and West Africa Club*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Femmes et conflits en Afrique de l'Ouest](https://doi.org/10.1787/d5004dd3-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 March 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 5 March 2020 at 21:08
-- [x] Exported to Keepeek Thursday 5 March 2020 at 20:45
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Sahel and West Africa Club*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [How's Life? 2020 - Measuring Well-being](https://doi.org/10.1787/9870c393-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 March 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 March 2020 at 20:59
-- [x] Exported to Keepeek Tuesday 3 March 2020 at 20:46
-- [x] Exported to OECD.org Tuesday 10 March 2020 at 20:28
-
-### Additional Information
-
-* Directorate: *Statistics and Data Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
 
 ------
 
@@ -221,15 +56,15 @@ Thursday 12 March 2020 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 March 2020 at 20:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 9 March 2020 at 20:29
+- [x] Exported to iLibrary Wednesday 11 March 2020 at 20:56
+- [x] Exported to Keepeek Wednesday 11 March 2020 at 20:40
+- [x] Exported to OECD.org Wednesday 11 March 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -244,38 +79,15 @@ Thursday 12 March 2020 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 March 2020 at 20:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 9 March 2020 at 20:29
+- [x] Exported to iLibrary Wednesday 11 March 2020 at 20:56
+- [x] Exported to Keepeek Wednesday 11 March 2020 at 20:40
+- [x] Exported to OECD.org Wednesday 11 March 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Early Learning and Child Well-being - A Study of Five-year-Olds in England, Estonia, and the United States](https://doi.org/10.1787/3990407f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 March 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 9 March 2020 at 20:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 9 March 2020 at 20:29
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -432,6 +244,33 @@ Friday 20 March 2020 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 22 March 2020
+
+## [Achieving the New Curriculum for Wales](https://doi.org/10.1787/4b483953-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 22 March 2020 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 11 March 2020 at 20:56
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 11 March 2020 at 20:27
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -982,15 +821,15 @@ Monday 27 April 2020 at 6:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 11 March 2020 at 20:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 11 March 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
