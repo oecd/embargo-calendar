@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 11 March 2020 at 21:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 12 March 2020 at 21:32* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 March 2020](#12-march-2020)
 * [15 March 2020](#15-march-2020)
 * [16 March 2020](#16-march-2020)
+* [17 March 2020](#17-march-2020)
 * [18 March 2020](#18-march-2020)
 * [20 March 2020](#20-march-2020)
 * [22 March 2020](#22-march-2020)
@@ -147,6 +148,29 @@ Sunday 15 March 2020 at 23:00 | no launch event
 
 # 16 March 2020
 
+## [The emergence of alternative credentials](https://doi.org/10.1787/b741f39e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 March 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 12 March 2020 at 21:01
+- [x] Exported to Keepeek Thursday 12 March 2020 at 20:46
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Education in Ireland - An OECD Assessment of the Senior Cycle Review](https://doi.org/10.1787/636bc6c1-en)
 
 Embargo date | Launch date
@@ -167,6 +191,33 @@ Monday 16 March 2020 at 11:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 17 March 2020
+
+## [Measuring process quality in early childhood education and care through Situational Judgement Questions - Findings from TALIS Starting Strong 2018 Field Trial](https://doi.org/10.1787/852602c5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 17 March 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 12 March 2020 at 21:01
+- [x] Exported to Keepeek Thursday 12 March 2020 at 20:46
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -286,18 +337,18 @@ Thursday 26 March 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 9 March 2020 at 20:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 9 March 2020 at 20:29
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 12 March 2020 at 21:01
+- [x] Exported to Keepeek Thursday 12 March 2020 at 20:46
+- [x] Exported to OECD.org Thursday 12 March 2020 at 20:33
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
