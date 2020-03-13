@@ -2,10 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 12 March 2020 at 21:32* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 13 March 2020 at 22:04* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 March 2020](#12-march-2020)
-* [15 March 2020](#15-march-2020)
 * [16 March 2020](#16-march-2020)
 * [17 March 2020](#17-march-2020)
 * [18 March 2020](#18-march-2020)
@@ -19,6 +18,7 @@ Data generated on | |
 * [15 April 2020](#15-april-2020)
 * [23 April 2020](#23-april-2020)
 * [27 April 2020](#27-april-2020)
+* [29 April 2020](#29-april-2020)
 * [9 April 2021](#9-april-2021)
 
 ------
@@ -36,7 +36,7 @@ Thursday 12 March 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 5 March 2020 at 21:08
 - [x] Exported to Keepeek Tuesday 10 March 2020 at 20:42
-- [x] Exported to OECD.org Thursday 5 March 2020 at 20:30
+- [x] Exported to OECD.org Friday 13 March 2020 at 20:32
 
 ### Additional Information
 
@@ -59,7 +59,7 @@ Thursday 12 March 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 11 March 2020 at 20:56
 - [x] Exported to Keepeek Wednesday 11 March 2020 at 20:40
-- [x] Exported to OECD.org Wednesday 11 March 2020 at 20:27
+- [x] Exported to OECD.org Friday 13 March 2020 at 20:32
 
 ### Additional Information
 
@@ -82,7 +82,7 @@ Thursday 12 March 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 11 March 2020 at 20:56
 - [x] Exported to Keepeek Wednesday 11 March 2020 at 20:40
-- [x] Exported to OECD.org Wednesday 11 March 2020 at 20:27
+- [x] Exported to OECD.org Friday 13 March 2020 at 20:32
 
 ### Additional Information
 
@@ -105,7 +105,7 @@ Thursday 12 March 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 10 March 2020 at 20:59
 - [x] Exported to Keepeek Tuesday 10 March 2020 at 20:42
-- [x] Exported to OECD.org Tuesday 10 March 2020 at 20:28
+- [x] Exported to OECD.org Friday 13 March 2020 at 20:32
 
 ### Additional Information
 
@@ -113,33 +113,6 @@ Thursday 12 March 2020 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 15 March 2020
-
-## [OECD Economic Surveys: Slovenia 2020](https://doi.org/10.1787/a4209041-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 15 March 2020 at 23:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 25 February 2020 at 20:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 February 2020 at 20:27
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
@@ -197,6 +170,29 @@ Monday 16 March 2020 at 11:00 | no launch event
 ------
 
 # 17 March 2020
+
+## [Exploring options to measure the climate consistency of real economy investments  - The manufacturing industries of Norway](https://doi.org/10.1787/1012bd81-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 17 March 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
 
 ## [Measuring process quality in early childhood education and care through Situational Judgement Questions - Findings from TALIS Starting Strong 2018 Field Trial](https://doi.org/10.1787/852602c5-en)
 
@@ -311,9 +307,9 @@ Sunday 22 March 2020 at 23:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 11 March 2020 at 20:56
+- [x] Exported to iLibrary Friday 13 March 2020 at 21:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 11 March 2020 at 20:27
+- [x] Exported to OECD.org Friday 13 March 2020 at 20:32
 
 ### Additional Information
 
@@ -882,6 +878,33 @@ Monday 27 April 2020 at 6:30 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 29 April 2020
+
+## [OECD Economic Surveys: Slovenia 2020](https://doi.org/10.1787/a4209041-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 April 2020 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 13 March 2020 at 21:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 13 March 2020 at 20:32
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------

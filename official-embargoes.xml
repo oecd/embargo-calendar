@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2020-03-12T21:32:34.8578921+01:00">
+<report name="official-embargoes" generated="2020-03-13T22:04:04.0872284+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -33,9 +33,9 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-03-05T20:08:06Z</cell>
     <cell name="freepreview last export date">2020-03-10T19:42:05Z</cell>
-    <cell name="oecd.org last export date">2020-03-05T19:30:45Z</cell>
+    <cell name="oecd.org last export date">2020-03-13T19:32:22Z</cell>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2020-03-12T21:39:28Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e85eeb63</cell>
@@ -55,7 +55,7 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2020-03-12T21:39:28Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9d7236ff</cell>
@@ -133,7 +133,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-03-11T19:56:12Z</cell>
     <cell name="freepreview last export date">2020-03-11T19:40:46Z</cell>
-    <cell name="oecd.org last export date">2020-03-11T19:27:53Z</cell>
+    <cell name="oecd.org last export date">2020-03-13T19:32:22Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -213,7 +213,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-03-11T19:56:12Z</cell>
     <cell name="freepreview last export date">2020-03-11T19:40:46Z</cell>
-    <cell name="oecd.org last export date">2020-03-11T19:27:53Z</cell>
+    <cell name="oecd.org last export date">2020-03-13T19:32:22Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -351,7 +351,7 @@
     <cell name="date of publication">2020-03-12</cell>
     <cell name="embargo date">2020-03-12T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-03-11T19:56:12Z</cell>
+    <cell name="ilibrary last export date">2020-03-13T20:21:00Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -393,9 +393,9 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-03-10T19:59:37Z</cell>
     <cell name="freepreview last export date">2020-03-10T19:42:05Z</cell>
-    <cell name="oecd.org last export date">2020-03-10T19:28:03Z</cell>
+    <cell name="oecd.org last export date">2020-03-13T19:32:22Z</cell>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2020-03-12T21:39:28Z</cell>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/60280514</cell>
@@ -473,9 +473,9 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-03-05T20:08:06Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-03-05T19:30:45Z</cell>
+    <cell name="oecd.org last export date">2020-03-13T19:32:22Z</cell>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2020-03-12T21:39:28Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ff33eae1</cell>
@@ -541,46 +541,6 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dd5e3323</cell>
   </row>
   <row index="27">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/a4209041-en</cell>
-    <cell name="title">OECD Economic Surveys: Slovenia 2020 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2020-03-16</cell>
-    <cell name="embargo date">2020-03-15T23:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-02-25T19:51:58Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-02-25T19:27:02Z</cell>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/97ff5ebc</cell>
-  </row>
-  <row index="28">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/a4209041-en</cell>
-    <cell name="title">OECD Economic Surveys: Slovenia 2020 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2020-03-16</cell>
-    <cell name="embargo date">2020-03-15T23:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62a2727b</cell>
-  </row>
-  <row index="29">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b741f39e-en</cell>
     <cell name="title">The emergence of alternative credentials (en)</cell>
@@ -600,7 +560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/55fa8f27</cell>
   </row>
-  <row index="30">
+  <row index="28">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/636bc6c1-en</cell>
     <cell name="title">Education in Ireland (en)</cell>
@@ -620,7 +580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/20db26ed</cell>
   </row>
-  <row index="31">
+  <row index="29">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/636bc6c1-en</cell>
     <cell name="title">Education in Ireland (en)</cell>
@@ -640,7 +600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/88cf5171</cell>
   </row>
-  <row index="32">
+  <row index="30">
     <cell name="directorate">Global Relations Secretariat</cell>
     <cell name="doi">10.1787/ac6d45ca-en</cell>
     <cell name="title">Overview: 2020 SME Policy Index scores and key findings (en)</cell>
@@ -660,7 +620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/11245aec</cell>
   </row>
-  <row index="33">
+  <row index="31">
     <cell name="directorate">Global Relations Secretariat</cell>
     <cell name="doi">10.1787/a0596eb4-en</cell>
     <cell name="title">Pillar C – Access to finance (en)</cell>
@@ -680,7 +640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c02229b3</cell>
   </row>
-  <row index="34">
+  <row index="32">
     <cell name="directorate">Global Relations Secretariat</cell>
     <cell name="doi">10.1787/2097c6e3-en</cell>
     <cell name="title">Pillar D – Access to markets (en)</cell>
@@ -700,7 +660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dd18c080</cell>
   </row>
-  <row index="35">
+  <row index="33">
     <cell name="directorate">Global Relations Secretariat</cell>
     <cell name="doi">10.1787/d1afa5b8-en</cell>
     <cell name="title">Republic of Moldova: Small Business Act country profile (en)</cell>
@@ -720,7 +680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ef6b0a2f</cell>
   </row>
-  <row index="36">
+  <row index="34">
     <cell name="directorate">Global Relations Secretariat</cell>
     <cell name="doi">10.1787/76f01272-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -740,7 +700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2d509cf6</cell>
   </row>
-  <row index="37">
+  <row index="35">
     <cell name="directorate">Global Relations Secretariat</cell>
     <cell name="doi">10.1787/3c75d4d1-en</cell>
     <cell name="title">Preface (en)</cell>
@@ -760,7 +720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/66595d4c</cell>
   </row>
-  <row index="38">
+  <row index="36">
     <cell name="directorate">Global Relations Secretariat</cell>
     <cell name="doi">10.1787/8597c13a-en</cell>
     <cell name="title">Economic context (en)</cell>
@@ -780,7 +740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7bce9bef</cell>
   </row>
-  <row index="39">
+  <row index="37">
     <cell name="directorate">Global Relations Secretariat</cell>
     <cell name="doi">10.1787/d57d396f-en</cell>
     <cell name="title">Pillar A – Responsive government (en)</cell>
@@ -800,7 +760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7bc2ac19</cell>
   </row>
-  <row index="40">
+  <row index="38">
     <cell name="directorate">Global Relations Secretariat</cell>
     <cell name="doi">10.1787/62b733cc-en</cell>
     <cell name="title">Methodology for the Small Business Act assessment (en)</cell>
@@ -820,7 +780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/88f67808</cell>
   </row>
-  <row index="41">
+  <row index="39">
     <cell name="directorate">Global Relations Secretariat</cell>
     <cell name="doi">10.1787/7d78eecc-en</cell>
     <cell name="title">Pillar E – Innovation and Business Support (en)</cell>
@@ -840,7 +800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8f30565e</cell>
   </row>
-  <row index="42">
+  <row index="40">
     <cell name="directorate">Global Relations Secretariat</cell>
     <cell name="doi">10.1787/8f0e6eef-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -860,7 +820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/65a7d928</cell>
   </row>
-  <row index="43">
+  <row index="41">
     <cell name="directorate">Global Relations Secretariat</cell>
     <cell name="doi">10.1787/8b45614b-en</cell>
     <cell name="title">SME Policy Index: Eastern Partner Countries 2020 (en)</cell>
@@ -880,7 +840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e70932af</cell>
   </row>
-  <row index="44">
+  <row index="42">
     <cell name="directorate">Global Relations Secretariat</cell>
     <cell name="doi">10.1787/fcc42977-en</cell>
     <cell name="title">Georgia: Small Business Act country profile (en)</cell>
@@ -900,7 +860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8be477d2</cell>
   </row>
-  <row index="45">
+  <row index="43">
     <cell name="directorate">Global Relations Secretariat</cell>
     <cell name="doi">10.1787/7e35965b-en</cell>
     <cell name="title">Organisation profiles (en)</cell>
@@ -920,7 +880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f8e24a1a</cell>
   </row>
-  <row index="46">
+  <row index="44">
     <cell name="directorate">Global Relations Secretariat</cell>
     <cell name="doi">10.1787/3fc8f07b-en</cell>
     <cell name="title">Policy framework, structure of the report and assessment process (en)</cell>
@@ -940,7 +900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7fdaeebd</cell>
   </row>
-  <row index="47">
+  <row index="45">
     <cell name="directorate">Global Relations Secretariat</cell>
     <cell name="doi">10.1787/95f303db-en</cell>
     <cell name="title">Armenia: Small Business Act country profile (en)</cell>
@@ -960,7 +920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/88ba757c</cell>
   </row>
-  <row index="48">
+  <row index="46">
     <cell name="directorate">Global Relations Secretariat</cell>
     <cell name="doi">10.1787/8d96138d-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -980,7 +940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0319503a</cell>
   </row>
-  <row index="49">
+  <row index="47">
     <cell name="directorate">Global Relations Secretariat</cell>
     <cell name="doi">10.1787/d5c2705e-en</cell>
     <cell name="title">Ukraine: Small Business Act country profile (en)</cell>
@@ -1000,7 +960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7f734f57</cell>
   </row>
-  <row index="50">
+  <row index="48">
     <cell name="directorate">Global Relations Secretariat</cell>
     <cell name="doi">10.1787/67adad61-en</cell>
     <cell name="title">Belarus: Small Business Act country profile (en)</cell>
@@ -1020,7 +980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/846ff3b0</cell>
   </row>
-  <row index="51">
+  <row index="49">
     <cell name="directorate">Global Relations Secretariat</cell>
     <cell name="doi">10.1787/a97ad930-en</cell>
     <cell name="title">Pillar B – Entrepreneurial human capital (en)</cell>
@@ -1040,7 +1000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/79a53507</cell>
   </row>
-  <row index="52">
+  <row index="50">
     <cell name="directorate">Global Relations Secretariat</cell>
     <cell name="doi">10.1787/42efd1f2-en</cell>
     <cell name="title">Azerbaijan: Small Business Act country profile (en)</cell>
@@ -1060,7 +1020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/89f60e55</cell>
   </row>
-  <row index="53">
+  <row index="51">
     <cell name="directorate">Global Relations Secretariat</cell>
     <cell name="doi">10.1787/53d6f037-en</cell>
     <cell name="title">Level playing field in the Eastern Partner countries (en)</cell>
@@ -1080,7 +1040,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/678dc9e4</cell>
   </row>
-  <row index="54">
+  <row index="52">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/1012bd81-en</cell>
+    <cell name="title">Exploring options to measure the climate consistency of real economy investments  (en)</cell>
+    <cell name="subtitle">The manufacturing industries of Norway (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2020-03-17</cell>
+    <cell name="embargo date">2020-03-17T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/571714a9</cell>
+  </row>
+  <row index="53">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/852602c5-en</cell>
     <cell name="title">Measuring process quality in early childhood education and care through Situational Judgement Questions (en)</cell>
@@ -1100,7 +1080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/551bd9b9</cell>
   </row>
-  <row index="55">
+  <row index="54">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/13130fbb-en</cell>
     <cell name="title">Government at a Glance: Latin America and the Caribbean 2020 (en)</cell>
@@ -1120,7 +1100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ff596734</cell>
   </row>
-  <row index="56">
+  <row index="55">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1256b68d-es</cell>
     <cell name="title">Panorama de las Administraciones Públicas América Latina y el Caribe 2020 (es)</cell>
@@ -1140,7 +1120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ad5dfa93</cell>
   </row>
-  <row index="57">
+  <row index="56">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/10b9fc73-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1160,7 +1140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b946ab90</cell>
   </row>
-  <row index="58">
+  <row index="57">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9d120293-en</cell>
     <cell name="title">Regulatory and sector context (en)</cell>
@@ -1180,7 +1160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aa2ab0c5</cell>
   </row>
-  <row index="59">
+  <row index="58">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/10b9fc73-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1200,7 +1180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e78f7ff3</cell>
   </row>
-  <row index="60">
+  <row index="59">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e807adf3-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -1220,7 +1200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4ae20e55</cell>
   </row>
-  <row index="61">
+  <row index="60">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/94cf01a2-en</cell>
     <cell name="title">Governance of Ireland’s Environmental Protection Agency (en)</cell>
@@ -1240,7 +1220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6bd03c2c</cell>
   </row>
-  <row index="62">
+  <row index="61">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/c4f97003-en</cell>
     <cell name="title">Methodology (en)</cell>
@@ -1260,7 +1240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/76a10a5d</cell>
   </row>
-  <row index="63">
+  <row index="62">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6a5ad2fe-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1280,7 +1260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/87e11771</cell>
   </row>
-  <row index="64">
+  <row index="63">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/009a0785-en</cell>
     <cell name="title">Driving Performance at Ireland’s Environmental Protection Agency (en)</cell>
@@ -1300,7 +1280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/995ee62f</cell>
   </row>
-  <row index="65">
+  <row index="64">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6a5ad2fe-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1320,7 +1300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c792e25</cell>
   </row>
-  <row index="66">
+  <row index="65">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/94cf01a2-en</cell>
     <cell name="title">Governance of Ireland’s Environmental Protection Agency (en)</cell>
@@ -1340,7 +1320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6221dacc</cell>
   </row>
-  <row index="67">
+  <row index="66">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e807adf3-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -1360,7 +1340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1afc0f03</cell>
   </row>
-  <row index="68">
+  <row index="67">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/009a0785-en</cell>
     <cell name="title">Driving Performance at Ireland’s Environmental Protection Agency (en)</cell>
@@ -1380,7 +1360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6107c145</cell>
   </row>
-  <row index="69">
+  <row index="68">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/009a0785-en</cell>
     <cell name="title">Driving Performance at Ireland’s Environmental Protection Agency (en)</cell>
@@ -1400,7 +1380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e3465ec5</cell>
   </row>
-  <row index="70">
+  <row index="69">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6974ca7c-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -1420,7 +1400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c2bba7dc</cell>
   </row>
-  <row index="71">
+  <row index="70">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6974ca7c-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -1440,7 +1420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cc549df9</cell>
   </row>
-  <row index="72">
+  <row index="71">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9d120293-en</cell>
     <cell name="title">Regulatory and sector context (en)</cell>
@@ -1460,7 +1440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e9f9cd78</cell>
   </row>
-  <row index="73">
+  <row index="72">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/c4f97003-en</cell>
     <cell name="title">Methodology (en)</cell>
@@ -1480,7 +1460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fe927bb1</cell>
   </row>
-  <row index="74">
+  <row index="73">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/009a0785-en</cell>
     <cell name="title">Driving Performance at Ireland’s Environmental Protection Agency (en)</cell>
@@ -1500,7 +1480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b5970ea6</cell>
   </row>
-  <row index="75">
+  <row index="74">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/4b483953-en</cell>
     <cell name="title">Achieving the New Curriculum for Wales (en)</cell>
@@ -1511,16 +1491,16 @@
     <cell name="date of publication">2020-03-23</cell>
     <cell name="embargo date">2020-03-22T23:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-03-11T19:56:12Z</cell>
+    <cell name="ilibrary last export date">2020-03-13T20:21:00Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-03-11T19:27:53Z</cell>
+    <cell name="oecd.org last export date">2020-03-13T19:32:22Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7ebf0b49</cell>
   </row>
-  <row index="76">
+  <row index="75">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/88b71d3a-en</cell>
     <cell name="title">Regulatory co-operation practices and tools (en)</cell>
@@ -1540,7 +1520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/105d9b3a</cell>
   </row>
-  <row index="77">
+  <row index="76">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/09be52f0-en</cell>
     <cell name="title">Review of International Regulatory Co-operation of the United Kingdom (en)</cell>
@@ -1560,7 +1540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/682e8823</cell>
   </row>
-  <row index="78">
+  <row index="77">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3f9da7d1-en</cell>
     <cell name="title">Key terms used in the report (en)</cell>
@@ -1580,7 +1560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/31fe333b</cell>
   </row>
-  <row index="79">
+  <row index="78">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/09be52f0-en</cell>
     <cell name="title">Review of International Regulatory Co-operation of the United Kingdom (en)</cell>
@@ -1600,7 +1580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3102e45d</cell>
   </row>
-  <row index="80">
+  <row index="79">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/b2ba43da-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1620,7 +1600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/323cddd5</cell>
   </row>
-  <row index="81">
+  <row index="80">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ba2732f4-en</cell>
     <cell name="title">What is international regulatory co‑operation (IRC)? (en)</cell>
@@ -1640,7 +1620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/016f66fe</cell>
   </row>
-  <row index="82">
+  <row index="81">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/09be52f0-en</cell>
     <cell name="title">Review of International Regulatory Co-operation of the United Kingdom (en)</cell>
@@ -1660,7 +1640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7fca6703</cell>
   </row>
-  <row index="83">
+  <row index="82">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/fdb9572d-en</cell>
     <cell name="title">Sectoral coverage of mutual recognition agreements of EU (en)</cell>
@@ -1680,7 +1660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9f1c8dbf</cell>
   </row>
-  <row index="84">
+  <row index="83">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/8367867d-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -1700,7 +1680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/983db7ee</cell>
   </row>
-  <row index="85">
+  <row index="84">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/45a8dd12-en</cell>
     <cell name="title">Embedding the international environment in the rule-making machinery (en)</cell>
@@ -1720,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4d3ec113</cell>
   </row>
-  <row index="86">
+  <row index="85">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/47397602-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -1740,7 +1720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aa766d0e</cell>
   </row>
-  <row index="87">
+  <row index="86">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f96f6e2e-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1760,7 +1740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b4e0aded</cell>
   </row>
-  <row index="88">
+  <row index="87">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f0bdbf0a-en</cell>
     <cell name="title">Context of IRC policies and practices (en)</cell>
@@ -1780,7 +1760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/59665673</cell>
   </row>
-  <row index="89">
+  <row index="88">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/09be52f0-en</cell>
     <cell name="title">Review of International Regulatory Co-operation of the United Kingdom (en)</cell>
@@ -1800,7 +1780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/47ac46ed</cell>
   </row>
-  <row index="90">
+  <row index="89">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1270e76c-en</cell>
     <cell name="title">Sectoral case studies (en)</cell>
@@ -1820,7 +1800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/64618694</cell>
   </row>
-  <row index="91">
+  <row index="90">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b04b25de-en</cell>
     <cell name="title">OECD Economic Surveys: Greece 2020 (en)</cell>
@@ -1840,7 +1820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/13b08a3f</cell>
   </row>
-  <row index="92">
+  <row index="91">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b04b25de-en</cell>
     <cell name="title">OECD Economic Surveys: Greece 2020 (en)</cell>
@@ -1860,7 +1840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/78ac727b</cell>
   </row>
-  <row index="93">
+  <row index="92">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/d6a7d907-en</cell>
     <cell name="title">OECD Economic Surveys: Israel 2020 (en)</cell>
@@ -1880,7 +1860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aa59d840</cell>
   </row>
-  <row index="94">
+  <row index="93">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/d6a7d907-en</cell>
     <cell name="title">OECD Economic Surveys: Israel 2020 (en)</cell>
@@ -1900,7 +1880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/acbb1715</cell>
   </row>
-  <row index="95">
+  <row index="94">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fdeb6766-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Tunisia 2020 (Second Round) (en)</cell>
@@ -1920,7 +1900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b6eae7c9</cell>
   </row>
-  <row index="96">
+  <row index="95">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f155434a-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Peru 2020 (Second Round) (en)</cell>
@@ -1940,7 +1920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7e9c1bd5</cell>
   </row>
-  <row index="97">
+  <row index="96">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fbb6ecef-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Barbados 2020 (Second Round) (en)</cell>
@@ -1960,7 +1940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5fbb9ab4</cell>
   </row>
-  <row index="98">
+  <row index="97">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/688fc4f9-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Seychelles 2020 (Second Round) (en)</cell>
@@ -1980,7 +1960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ec6d9e4</cell>
   </row>
-  <row index="99">
+  <row index="98">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f155434a-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Peru 2020 (Second Round) (en)</cell>
@@ -2000,7 +1980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d23054a</cell>
   </row>
-  <row index="100">
+  <row index="99">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7dac6e50-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Brunei Darussalam 2020 (Second Round) (en)</cell>
@@ -2020,7 +2000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b6c52536</cell>
   </row>
-  <row index="101">
+  <row index="100">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7dac6e50-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Brunei Darussalam 2020 (Second Round) (en)</cell>
@@ -2040,7 +2020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/37cff0c7</cell>
   </row>
-  <row index="102">
+  <row index="101">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e8ecd632-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes:  Liberia 2020 (Second Round) (en)</cell>
@@ -2060,7 +2040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a0df771b</cell>
   </row>
-  <row index="103">
+  <row index="102">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/688fc4f9-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Seychelles 2020 (Second Round) (en)</cell>
@@ -2080,7 +2060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/93fa97de</cell>
   </row>
-  <row index="104">
+  <row index="103">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fcfce6d7-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Switzerland 2020 (Second Round) (en)</cell>
@@ -2100,7 +2080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6b052e62</cell>
   </row>
-  <row index="105">
+  <row index="104">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fcfce6d7-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Switzerland 2020 (Second Round) (en)</cell>
@@ -2120,7 +2100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/43c897b2</cell>
   </row>
-  <row index="106">
+  <row index="105">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/28be6ec6-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Macau, China 2020 (Second Round) (en)</cell>
@@ -2140,7 +2120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c223cebe</cell>
   </row>
-  <row index="107">
+  <row index="106">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fdeb6766-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Tunisia 2020 (Second Round) (en)</cell>
@@ -2160,7 +2140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0ea6f509</cell>
   </row>
-  <row index="108">
+  <row index="107">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fbb6ecef-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Barbados 2020 (Second Round) (en)</cell>
@@ -2180,7 +2160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aa1726ae</cell>
   </row>
-  <row index="109">
+  <row index="108">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/28be6ec6-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Macau, China 2020 (Second Round) (en)</cell>
@@ -2200,7 +2180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6dac7103</cell>
   </row>
-  <row index="110">
+  <row index="109">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e8ecd632-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes:  Liberia 2020 (Second Round) (en)</cell>
@@ -2220,7 +2200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/28827d22</cell>
   </row>
-  <row index="111">
+  <row index="110">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d0f9b5b7-fr</cell>
     <cell name="title">Accroître l'efficacité des mécanismes de règlement des différends – Rapport par les pairs de PA, Luxembourg (Phase 2) (fr)</cell>
@@ -2240,7 +2220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6085b130</cell>
   </row>
-  <row index="112">
+  <row index="111">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ffdb81cc-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Luxembourg (Stage 2) (en)</cell>
@@ -2260,7 +2240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ce437c7e</cell>
   </row>
-  <row index="113">
+  <row index="112">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9d6c280c-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Germany (Stage 2) (en)</cell>
@@ -2280,7 +2260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/08abe869</cell>
   </row>
-  <row index="114">
+  <row index="113">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/92af1e93-fr</cell>
     <cell name="title">Accroître l'efficacité des mécanismes de règlement des différends – Rapport par les pairs de PA, France (Phase 2) (fr)</cell>
@@ -2300,7 +2280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e207e36d</cell>
   </row>
-  <row index="115">
+  <row index="114">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/08a4369e-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Italy (Stage 2) (en)</cell>
@@ -2320,7 +2300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9828f7a1</cell>
   </row>
-  <row index="116">
+  <row index="115">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7b3b1492-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Sweden (Stage 2) (en)</cell>
@@ -2340,7 +2320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e729d36f</cell>
   </row>
-  <row index="117">
+  <row index="116">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a5d1cab8-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, France (Stage 2) (en)</cell>
@@ -2360,7 +2340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/55764256</cell>
   </row>
-  <row index="118">
+  <row index="117">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/40c9f1b5-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Austria (Stage 2) (en)</cell>
@@ -2380,7 +2360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e4b5a8d4</cell>
   </row>
-  <row index="119">
+  <row index="118">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/44e00867-fr</cell>
     <cell name="title">Les impôts sur les salaires 2020 (fr)</cell>
@@ -2400,7 +2380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/843b994f</cell>
   </row>
-  <row index="120">
+  <row index="119">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/047072cd-en</cell>
     <cell name="title">Taxing Wages 2020 (en)</cell>
@@ -2420,7 +2400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c90c677b</cell>
   </row>
-  <row index="121">
+  <row index="120">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/047072cd-en</cell>
     <cell name="title">Taxing Wages 2020 (en)</cell>
@@ -2440,7 +2420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b2f59b72</cell>
   </row>
-  <row index="122">
+  <row index="121">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/44e00867-fr</cell>
     <cell name="title">Les impôts sur les salaires 2020 (fr)</cell>
@@ -2460,7 +2440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5edeac4c</cell>
   </row>
-  <row index="123">
+  <row index="122">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/68739b9b-en-es</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2020 (en) | Estadísticas tributarias en América Latina y el Caribe 2020 (es)</cell>
@@ -2480,7 +2460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ecce09aa</cell>
   </row>
-  <row index="124">
+  <row index="123">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/68739b9b-en-es</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2020 (en) | Estadísticas tributarias en América Latina y el Caribe 2020 (es)</cell>
@@ -2500,7 +2480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d3370903</cell>
   </row>
-  <row index="125">
+  <row index="124">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/cc5feb81-en</cell>
     <cell name="title"> SME and Entrepreneurship Policy in Brazil 2020 (en)</cell>
@@ -2520,7 +2500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f5d497b2</cell>
   </row>
-  <row index="126">
+  <row index="125">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/cc5feb81-en</cell>
     <cell name="title"> SME and Entrepreneurship Policy in Brazil 2020 (en)</cell>
@@ -2540,7 +2520,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b209f7e</cell>
   </row>
+  <row index="126">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/a4209041-en</cell>
+    <cell name="title">OECD Economic Surveys: Slovenia 2020 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2020-04-30</cell>
+    <cell name="embargo date">2020-04-29T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-03-13T20:21:00Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2020-03-13T19:32:22Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/97ff5ebc</cell>
+  </row>
   <row index="127">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/a4209041-en</cell>
+    <cell name="title">OECD Economic Surveys: Slovenia 2020 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2020-04-30</cell>
+    <cell name="embargo date">2020-04-29T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62a2727b</cell>
+  </row>
+  <row index="128">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b41a9f75-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Liechtenstein (Stage 2) (en)</cell>
