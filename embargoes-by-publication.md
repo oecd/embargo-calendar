@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 13 March 2020 at 22:04* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Tax Policy Reviews: Seychelles 2020](https://doi.org/10.1787/cba38d19-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 March 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 5 March 2020 at 21:08
-- [x] Exported to Keepeek Tuesday 10 March 2020 at 20:42
-- [x] Exported to OECD.org Friday 13 March 2020 at 20:32
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Early Learning and Child Well-being in Estonia](https://doi.org/10.1787/15009dbe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 March 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 11 March 2020 at 20:56
-- [x] Exported to Keepeek Wednesday 11 March 2020 at 20:40
-- [x] Exported to OECD.org Friday 13 March 2020 at 20:32
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Early Learning and Child Well-being in England](https://doi.org/10.1787/c235abf9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 March 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 11 March 2020 at 20:56
-- [x] Exported to Keepeek Wednesday 11 March 2020 at 20:40
-- [x] Exported to OECD.org Friday 13 March 2020 at 20:32
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Early Learning and Child Well-being in the United States](https://doi.org/10.1787/198d8c99-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 March 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 March 2020 at 20:59
-- [x] Exported to Keepeek Tuesday 10 March 2020 at 20:42
-- [x] Exported to OECD.org Friday 13 March 2020 at 20:32
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
+| *Monday 16 March 2020 at 21:33* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The emergence of alternative credentials](https://doi.org/10.1787/b741f39e-en)
 
@@ -119,29 +27,6 @@ Monday 16 March 2020 at 10:00 | no launch event
 
 ------
 
-## [Education in Ireland - An OECD Assessment of the Senior Cycle Review](https://doi.org/10.1787/636bc6c1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 March 2020 at 11:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Exploring options to measure the climate consistency of real economy investments  - The manufacturing industries of Norway](https://doi.org/10.1787/1012bd81-en)
 
 Embargo date | Launch date
@@ -151,15 +36,15 @@ Tuesday 17 March 2020 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 16 March 2020 at 21:06
+- [x] Exported to Keepeek Monday 16 March 2020 at 20:44
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
 
@@ -207,7 +92,7 @@ Wednesday 18 March 2020 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -280,26 +165,49 @@ Sunday 22 March 2020 at 23:00 | no launch event
 
 ------
 
-## [Review of International Regulatory Co-operation of the United Kingdom](https://doi.org/10.1787/09be52f0-en)
+## [TALIS 2018 Results (Volume II) - Teachers and School Leaders as Valued Professionals](https://doi.org/10.1787/19cf08df-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 26 March 2020 at 9:00 | no launch event
+Monday 23 March 2020 at 10:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 March 2020 at 21:01
-- [x] Exported to Keepeek Thursday 12 March 2020 at 20:46
-- [x] Exported to OECD.org Thursday 12 March 2020 at 20:33
+- [x] Exported to iLibrary Monday 16 March 2020 at 21:06
+- [x] Exported to Keepeek Monday 16 March 2020 at 20:44
+- [x] Exported to OECD.org Monday 16 March 2020 at 20:30
 
 ### Additional Information
 
-* Directorate: *Directorate for Public Governance*
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [Résultats de TALIS 2018 (Volume II) - Des enseignants et chefs d'établissement comme professionnels valorisés](https://doi.org/10.1787/69e92fca-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 March 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 16 March 2020 at 21:06
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 16 March 2020 at 20:30
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -783,6 +691,29 @@ Thursday 23 April 2020 at 14:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Review of International Regulatory Co-operation of the United Kingdom](https://doi.org/10.1787/09be52f0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 24 April 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 16 March 2020 at 21:06
+- [x] Exported to Keepeek Thursday 12 March 2020 at 20:46
+- [x] Exported to OECD.org Monday 16 March 2020 at 20:30
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
