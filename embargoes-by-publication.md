@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 16 March 2020 at 21:33* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 17 March 2020 at 22:02* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The emergence of alternative credentials](https://doi.org/10.1787/b741f39e-en)
 
@@ -81,16 +81,16 @@ Wednesday 18 March 2020 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 5 March 2020 at 21:08
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 5 March 2020 at 20:30
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 17 March 2020 at 21:26
+- [x] Exported to Keepeek Tuesday 17 March 2020 at 20:55
+- [x] Exported to OECD.org Tuesday 17 March 2020 at 20:38
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, PDF*
 
@@ -104,16 +104,16 @@ Wednesday 18 March 2020 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 10 March 2020 at 20:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 5 March 2020 at 20:30
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 17 March 2020 at 21:26
+- [x] Exported to Keepeek Tuesday 17 March 2020 at 20:55
+- [x] Exported to OECD.org Tuesday 17 March 2020 at 20:38
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -150,16 +150,16 @@ Sunday 22 March 2020 at 23:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 13 March 2020 at 21:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 13 March 2020 at 20:32
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 17 March 2020 at 21:26
+- [x] Exported to Keepeek Tuesday 17 March 2020 at 20:55
+- [x] Exported to OECD.org Tuesday 17 March 2020 at 20:38
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -703,15 +703,15 @@ Friday 24 April 2020 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 March 2020 at 21:06
-- [x] Exported to Keepeek Thursday 12 March 2020 at 20:46
-- [x] Exported to OECD.org Monday 16 March 2020 at 20:30
+- [x] Exported to iLibrary Tuesday 17 March 2020 at 21:26
+- [x] Exported to Keepeek Tuesday 17 March 2020 at 20:55
+- [x] Exported to OECD.org Tuesday 17 March 2020 at 20:38
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
