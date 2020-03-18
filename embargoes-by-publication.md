@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 17 March 2020 at 22:02* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The emergence of alternative credentials](https://doi.org/10.1787/b741f39e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 March 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 March 2020 at 21:01
-- [x] Exported to Keepeek Thursday 12 March 2020 at 20:46
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Wednesday 18 March 2020 at 21:35* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Exploring options to measure the climate consistency of real economy investments  - The manufacturing industries of Norway](https://doi.org/10.1787/1012bd81-en)
 
@@ -45,7 +22,7 @@ Tuesday 17 March 2020 at 6:00 | no launch event
 * Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Working paper*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -68,7 +45,7 @@ Tuesday 17 March 2020 at 10:00 | no launch event
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Working paper*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -105,9 +82,9 @@ Wednesday 18 March 2020 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 17 March 2020 at 21:26
-- [x] Exported to Keepeek Tuesday 17 March 2020 at 20:55
-- [x] Exported to OECD.org Tuesday 17 March 2020 at 20:38
+- [x] Exported to iLibrary Wednesday 18 March 2020 at 21:09
+- [x] Exported to Keepeek Wednesday 18 March 2020 at 20:50
+- [x] Exported to OECD.org Wednesday 18 March 2020 at 20:35
 
 ### Additional Information
 
@@ -115,6 +92,52 @@ Wednesday 18 March 2020 at 11:00 | no launch event
 * Language: *Spanish*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Addressing labour market challenges in Belgium](https://doi.org/10.1787/8a542d68-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 20 March 2020 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 18 March 2020 at 21:09
+- [x] Exported to Keepeek Wednesday 18 March 2020 at 20:50
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Répondre aux défis du marché du travail en Belgique](https://doi.org/10.1787/cd98d0d9-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 20 March 2020 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 18 March 2020 at 21:09
+- [x] Exported to Keepeek Wednesday 18 March 2020 at 20:50
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -142,25 +165,25 @@ Friday 20 March 2020 at 10:00 | no launch event
 
 ------
 
-## [Achieving the New Curriculum for Wales](https://doi.org/10.1787/4b483953-en)
+## [The 2018 edition of the OECD PMR indicators and database: Methodological improvements and policy insights](https://doi.org/10.1787/2cfb622f-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Sunday 22 March 2020 at 23:00 | no launch event
+Monday 23 March 2020 at 1:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 17 March 2020 at 21:26
-- [x] Exported to Keepeek Tuesday 17 March 2020 at 20:55
-- [x] Exported to OECD.org Tuesday 17 March 2020 at 20:38
+- [x] Exported to iLibrary Wednesday 18 March 2020 at 21:09
+- [x] Exported to Keepeek Wednesday 18 March 2020 at 20:50
+- [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills*
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Book*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -208,6 +231,29 @@ Monday 23 March 2020 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+## [Workforce composition, productivity and pay: the role of firms in wage inequality](https://doi.org/10.1787/52ab4e26-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2020 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 18 March 2020 at 21:09
+- [x] Exported to Keepeek Wednesday 18 March 2020 at 20:50
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -726,9 +772,9 @@ Monday 27 April 2020 at 6:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 11 March 2020 at 20:56
+- [x] Exported to iLibrary Wednesday 18 March 2020 at 21:09
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 11 March 2020 at 20:27
+- [x] Exported to OECD.org Wednesday 18 March 2020 at 20:35
 
 ### Additional Information
 
