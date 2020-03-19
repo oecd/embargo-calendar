@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 18 March 2020 at 21:35* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Exploring options to measure the climate consistency of real economy investments  - The manufacturing industries of Norway](https://doi.org/10.1787/1012bd81-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 March 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 March 2020 at 21:06
-- [x] Exported to Keepeek Monday 16 March 2020 at 20:44
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Measuring process quality in early childhood education and care through Situational Judgement Questions - Findings from TALIS Starting Strong 2018 Field Trial](https://doi.org/10.1787/852602c5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 March 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 March 2020 at 21:01
-- [x] Exported to Keepeek Thursday 12 March 2020 at 20:46
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Thursday 19 March 2020 at 21:57* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Government at a Glance: Latin America and the Caribbean 2020](https://doi.org/10.1787/13130fbb-en)
 
@@ -61,7 +15,7 @@ Wednesday 18 March 2020 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 17 March 2020 at 21:26
 - [x] Exported to Keepeek Tuesday 17 March 2020 at 20:55
-- [x] Exported to OECD.org Tuesday 17 March 2020 at 20:38
+- [x] Exported to OECD.org Thursday 19 March 2020 at 20:34
 
 ### Additional Information
 
@@ -83,8 +37,8 @@ Wednesday 18 March 2020 at 11:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 18 March 2020 at 21:09
-- [x] Exported to Keepeek Wednesday 18 March 2020 at 20:50
-- [x] Exported to OECD.org Wednesday 18 March 2020 at 20:35
+- [x] Exported to Keepeek Thursday 19 March 2020 at 20:52
+- [x] Exported to OECD.org Thursday 19 March 2020 at 20:34
 
 ### Additional Information
 
