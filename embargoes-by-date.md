@@ -2,14 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 19 March 2020 at 21:57* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 20 March 2020 at 21:28* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [18 March 2020](#18-march-2020)
 * [20 March 2020](#20-march-2020)
 * [23 March 2020](#23-march-2020)
 * [24 March 2020](#24-march-2020)
 * [30 March 2020](#30-march-2020)
 * [31 March 2020](#31-march-2020)
+* [3 April 2020](#3-april-2020)
 * [6 April 2020](#6-april-2020)
 * [9 April 2020](#9-april-2020)
 * [15 April 2020](#15-april-2020)
@@ -18,56 +18,6 @@ Data generated on | |
 * [27 April 2020](#27-april-2020)
 * [29 April 2020](#29-april-2020)
 * [9 April 2021](#9-april-2021)
-
-------
-
-# 18 March 2020
-
-## [Government at a Glance: Latin America and the Caribbean 2020](https://doi.org/10.1787/13130fbb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 18 March 2020 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 17 March 2020 at 21:26
-- [x] Exported to Keepeek Tuesday 17 March 2020 at 20:55
-- [x] Exported to OECD.org Thursday 19 March 2020 at 20:34
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Panorama de las Administraciones Públicas América Latina y el Caribe 2020](https://doi.org/10.1787/1256b68d-es)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 18 March 2020 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 18 March 2020 at 21:09
-- [x] Exported to Keepeek Thursday 19 March 2020 at 20:52
-- [x] Exported to OECD.org Thursday 19 March 2020 at 20:34
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -119,29 +69,6 @@ Friday 20 March 2020 at 1:00 | no launch event
 
 ------
 
-## [Driving Performance at Ireland’s Environmental Protection Agency](https://doi.org/10.1787/009a0785-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 20 March 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 3 March 2020 at 21:05
-- [x] Exported to Keepeek Tuesday 3 March 2020 at 20:46
-- [x] Exported to OECD.org Friday 31 January 2020 at 20:29
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
 ------
 
 # 23 March 2020
@@ -169,6 +96,29 @@ Monday 23 March 2020 at 1:00 | no launch event
 
 ------
 
+## [Multilingual Summaries for TALIS 2018 Results (Volume II)](https://doi.org/10.1787/9df37303-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 March 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 20 March 2020 at 18:45
+- [x] Exported to Keepeek Friday 20 March 2020 at 20:41
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* 5 Languages: [German](https://doi.org/10.1787/663cd378-de), [English](https://doi.org/10.1787/9df37303-en), [Japanese](https://doi.org/10.1787/4deb700f-ja), [Spanish](https://doi.org/10.1787/721d4ab9-es), [French](https://doi.org/10.1787/c85e2f39-fr)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Formats: *ePub, HTML, PDF*
+
+------
+
 ## [TALIS 2018 Results (Volume II) - Teachers and School Leaders as Valued Professionals](https://doi.org/10.1787/19cf08df-en)
 
 Embargo date | Launch date
@@ -178,9 +128,9 @@ Monday 23 March 2020 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 March 2020 at 21:06
+- [x] Exported to iLibrary Friday 20 March 2020 at 18:45
 - [x] Exported to Keepeek Monday 16 March 2020 at 20:44
-- [x] Exported to OECD.org Monday 16 March 2020 at 20:30
+- [x] Exported to OECD.org Friday 20 March 2020 at 20:28
 
 ### Additional Information
 
@@ -200,10 +150,10 @@ Monday 23 March 2020 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 16 March 2020 at 21:06
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 16 March 2020 at 20:30
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 20 March 2020 at 18:45
+- [x] Exported to Keepeek Friday 20 March 2020 at 20:41
+- [x] Exported to OECD.org Friday 20 March 2020 at 20:28
 
 ### Additional Information
 
@@ -211,7 +161,7 @@ Monday 23 March 2020 at 10:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
+* Format: *PDF*
 
 ------
 
@@ -292,6 +242,33 @@ Tuesday 31 March 2020 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 3 April 2020
+
+## [Behavioural Insights and Organisations -  Fostering Safety Culture](https://doi.org/10.1787/e6ef217d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 3 April 2020 at 7:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
@@ -799,7 +776,7 @@ Monday 27 April 2020 at 6:30 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
