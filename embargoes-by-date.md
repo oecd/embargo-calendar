@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 20 March 2020 at 21:28* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 23 March 2020 at 22:04* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [20 March 2020](#20-march-2020)
 * [23 March 2020](#23-march-2020)
 * [24 March 2020](#24-march-2020)
 * [30 March 2020](#30-march-2020)
@@ -18,56 +17,6 @@ Data generated on | |
 * [27 April 2020](#27-april-2020)
 * [29 April 2020](#29-april-2020)
 * [9 April 2021](#9-april-2021)
-
-------
-
-# 20 March 2020
-
-## [Addressing labour market challenges in Belgium](https://doi.org/10.1787/8a542d68-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 20 March 2020 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 18 March 2020 at 21:09
-- [x] Exported to Keepeek Wednesday 18 March 2020 at 20:50
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Répondre aux défis du marché du travail en Belgique](https://doi.org/10.1787/cd98d0d9-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 20 March 2020 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 18 March 2020 at 21:09
-- [x] Exported to Keepeek Wednesday 18 March 2020 at 20:50
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -128,8 +77,8 @@ Monday 23 March 2020 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 March 2020 at 18:45
-- [x] Exported to Keepeek Monday 16 March 2020 at 20:44
+- [x] Exported to iLibrary Monday 23 March 2020 at 21:29
+- [x] Exported to Keepeek Monday 23 March 2020 at 9:47
 - [x] Exported to OECD.org Friday 20 March 2020 at 20:28
 
 ### Additional Information
@@ -151,8 +100,8 @@ Monday 23 March 2020 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 March 2020 at 18:45
-- [x] Exported to Keepeek Friday 20 March 2020 at 20:41
+- [x] Exported to iLibrary Monday 23 March 2020 at 21:29
+- [x] Exported to Keepeek Monday 23 March 2020 at 20:56
 - [x] Exported to OECD.org Friday 20 March 2020 at 20:28
 
 ### Additional Information
@@ -259,15 +208,15 @@ Friday 3 April 2020 at 7:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 23 March 2020 at 21:29
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 23 March 2020 at 20:39
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
