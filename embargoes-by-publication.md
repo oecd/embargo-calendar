@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 23 March 2020 at 22:04* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 24 March 2020 at 21:25* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The 2018 edition of the OECD PMR indicators and database: Methodological improvements and policy insights](https://doi.org/10.1787/2cfb622f-en)
 
@@ -61,7 +61,7 @@ Monday 23 March 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 23 March 2020 at 21:29
 - [x] Exported to Keepeek Monday 23 March 2020 at 9:47
-- [x] Exported to OECD.org Friday 20 March 2020 at 20:28
+- [x] Exported to OECD.org Tuesday 24 March 2020 at 20:28
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Monday 23 March 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 23 March 2020 at 21:29
 - [x] Exported to Keepeek Monday 23 March 2020 at 20:56
-- [x] Exported to OECD.org Friday 20 March 2020 at 20:28
+- [x] Exported to OECD.org Tuesday 24 March 2020 at 20:28
 
 ### Additional Information
 
@@ -174,9 +174,9 @@ Friday 3 April 2020 at 7:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 23 March 2020 at 21:29
+- [x] Exported to iLibrary Tuesday 24 March 2020 at 20:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 23 March 2020 at 20:39
+- [x] Exported to OECD.org Tuesday 24 March 2020 at 20:28
 
 ### Additional Information
 
