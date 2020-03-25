@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 24 March 2020 at 21:25* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The 2018 edition of the OECD PMR indicators and database: Methodological improvements and policy insights](https://doi.org/10.1787/2cfb622f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 March 2020 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 18 March 2020 at 21:09
-- [x] Exported to Keepeek Wednesday 18 March 2020 at 20:50
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Multilingual Summaries for TALIS 2018 Results (Volume II)](https://doi.org/10.1787/9df37303-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 March 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 March 2020 at 18:45
-- [x] Exported to Keepeek Friday 20 March 2020 at 20:41
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* 5 Languages: [German](https://doi.org/10.1787/663cd378-de), [English](https://doi.org/10.1787/9df37303-en), [Japanese](https://doi.org/10.1787/4deb700f-ja), [Spanish](https://doi.org/10.1787/721d4ab9-es), [French](https://doi.org/10.1787/c85e2f39-fr)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [TALIS 2018 Results (Volume II) - Teachers and School Leaders as Valued Professionals](https://doi.org/10.1787/19cf08df-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 March 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 23 March 2020 at 21:29
-- [x] Exported to Keepeek Monday 23 March 2020 at 9:47
-- [x] Exported to OECD.org Tuesday 24 March 2020 at 20:28
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Résultats de TALIS 2018 (Volume II) - Des enseignants et chefs d'établissement comme professionnels valorisés](https://doi.org/10.1787/69e92fca-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 March 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 23 March 2020 at 21:29
-- [x] Exported to Keepeek Monday 23 March 2020 at 20:56
-- [x] Exported to OECD.org Tuesday 24 March 2020 at 20:28
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Wednesday 25 March 2020 at 21:32* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Workforce composition, productivity and pay: the role of firms in wage inequality](https://doi.org/10.1787/52ab4e26-en)
 
@@ -142,6 +50,52 @@ Monday 30 March 2020 at 22:31 | no launch event
 
 ------
 
+## [Measuring occupational entry regulations: A new OECD approach](https://doi.org/10.1787/296dae6b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 31 March 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 25 March 2020 at 21:05
+- [x] Exported to Keepeek Wednesday 25 March 2020 at 20:50
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Occupational entry regulations and their effects on productivity in services: Firm-level evidence](https://doi.org/10.1787/c8b88d8b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 31 March 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 25 March 2020 at 21:05
+- [x] Exported to Keepeek Wednesday 25 March 2020 at 20:50
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Israel 2020](https://doi.org/10.1787/d6a7d907-en)
 
 Embargo date | Launch date
@@ -173,8 +127,8 @@ Friday 3 April 2020 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 24 March 2020 at 20:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 25 March 2020 at 21:05
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 24 March 2020 at 20:28
 
@@ -184,11 +138,11 @@ Friday 3 April 2020 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Tunisia 2020 (Second Round)](https://doi.org/10.1787/fdeb6766-en)
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Tunisia 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/fdeb6766-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -197,15 +151,15 @@ Monday 6 April 2020 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 25 March 2020 at 21:05
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 25 March 2020 at 20:36
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -220,21 +174,44 @@ Monday 6 April 2020 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 25 March 2020 at 21:05
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 25 March 2020 at 20:36
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
 
 ## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Brunei Darussalam 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/7dac6e50-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 April 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 25 March 2020 at 21:05
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 25 March 2020 at 20:36
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : Suisse 2020 (Deuxième cycle) - Rapport d'examen par les pairs sur la demande d'échange de renseignements](https://doi.org/10.1787/95b93f09-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -250,7 +227,7 @@ Monday 6 April 2020 at 12:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
@@ -266,15 +243,15 @@ Monday 6 April 2020 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 25 March 2020 at 21:05
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 25 March 2020 at 20:36
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -312,15 +289,38 @@ Monday 6 April 2020 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 25 March 2020 at 21:05
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 25 March 2020 at 20:36
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : Tunisie 2020 (Deuxième cycle) - Rapport d'examen par les pairs sur la demande d'échange de renseignements](https://doi.org/10.1787/e90e6387-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 April 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 25 March 2020 at 21:05
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 25 March 2020 at 20:36
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -335,15 +335,15 @@ Monday 6 April 2020 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 25 March 2020 at 21:05
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 25 March 2020 at 20:36
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -358,15 +358,15 @@ Monday 6 April 2020 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 25 March 2020 at 21:05
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 25 March 2020 at 20:36
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
