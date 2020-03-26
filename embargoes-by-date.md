@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 25 March 2020 at 21:32* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 26 March 2020 at 21:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [24 March 2020](#24-march-2020)
 * [30 March 2020](#30-march-2020)
 * [31 March 2020](#31-march-2020)
 * [3 April 2020](#3-april-2020)
@@ -15,34 +14,8 @@ Data generated on | |
 * [24 April 2020](#24-april-2020)
 * [27 April 2020](#27-april-2020)
 * [29 April 2020](#29-april-2020)
+* [7 June 2020](#7-june-2020)
 * [9 April 2021](#9-april-2021)
-
-------
-
-# 24 March 2020
-
-## [Workforce composition, productivity and pay: the role of firms in wage inequality](https://doi.org/10.1787/52ab4e26-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 24 March 2020 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 18 March 2020 at 21:09
-- [x] Exported to Keepeek Wednesday 18 March 2020 at 20:50
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -121,29 +94,6 @@ Tuesday 31 March 2020 at 10:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Israel 2020](https://doi.org/10.1787/d6a7d907-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 31 March 2020 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
 ------
 
 # 3 April 2020
@@ -157,15 +107,15 @@ Friday 3 April 2020 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 25 March 2020 at 21:05
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 24 March 2020 at 20:28
+- [x] Exported to iLibrary Thursday 26 March 2020 at 20:56
+- [x] Exported to Keepeek Thursday 26 March 2020 at 20:41
+- [x] Exported to OECD.org Thursday 26 March 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -244,7 +194,7 @@ Monday 6 April 2020 at 12:00 | no launch event
 
 ------
 
-## [Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : Suisse 2020 (Deuxième cycle) - Rapport d'examen par les pairs sur la demande d'échange de renseignements](https://doi.org/10.1787/95b93f09-fr)
+## [Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : Suisse 2020 (Deuxième cycle) - Rapport d'examen par les pairs sur l'échange de renseignements sur demande](https://doi.org/10.1787/95b93f09-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -336,7 +286,7 @@ Monday 6 April 2020 at 12:00 | no launch event
 
 ------
 
-## [Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : Tunisie 2020 (Deuxième cycle) - Rapport d'examen par les pairs sur la demande d'échange de renseignements](https://doi.org/10.1787/e90e6387-fr)
+## [Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : Tunisie 2020 (Deuxième cycle) - Rapport d'examen par les pairs sur l'échange de renseignements sur demande](https://doi.org/10.1787/e90e6387-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -345,9 +295,9 @@ Monday 6 April 2020 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 25 March 2020 at 21:05
+- [x] Exported to iLibrary Thursday 26 March 2020 at 20:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 25 March 2020 at 20:36
+- [x] Exported to OECD.org Thursday 26 March 2020 at 20:27
 
 ### Additional Information
 
@@ -709,8 +659,8 @@ Monday 27 April 2020 at 6:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 18 March 2020 at 21:09
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 26 March 2020 at 20:56
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 18 March 2020 at 20:35
 
@@ -746,6 +696,33 @@ Wednesday 29 April 2020 at 22:00 | no launch event
 * Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 7 June 2020
+
+## [OECD Economic Surveys: Israel 2020](https://doi.org/10.1787/d6a7d907-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 7 June 2020 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
