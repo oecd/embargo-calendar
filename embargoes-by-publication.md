@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 26 March 2020 at 21:18* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 27 March 2020 at 21:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Greece 2020](https://doi.org/10.1787/b04b25de-en)
 
@@ -519,16 +519,16 @@ Wednesday 15 April 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 4 March 2020 at 20:55
+- [x] Exported to iLibrary Friday 27 March 2020 at 20:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 4 March 2020 at 20:29
+- [x] Exported to OECD.org Friday 27 March 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Forthcoming*
-* Type of publication: *Issue*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -542,16 +542,16 @@ Wednesday 15 April 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 4 March 2020 at 20:55
+- [x] Exported to iLibrary Friday 27 March 2020 at 20:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 4 March 2020 at 20:29
+- [x] Exported to OECD.org Friday 27 March 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
 * Availability: *Forthcoming*
-* Type of publication: *Issue*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
