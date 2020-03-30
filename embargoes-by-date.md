@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 27 March 2020 at 21:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 30 March 2020 at 21:24* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [30 March 2020](#30-march-2020)
 * [31 March 2020](#31-march-2020)
 * [3 April 2020](#3-april-2020)
 * [6 April 2020](#6-april-2020)
@@ -16,33 +15,6 @@ Data generated on | |
 * [29 April 2020](#29-april-2020)
 * [7 June 2020](#7-june-2020)
 * [9 April 2021](#9-april-2021)
-
-------
-
-# 30 March 2020
-
-## [OECD Economic Surveys: Greece 2020](https://doi.org/10.1787/b04b25de-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 30 March 2020 at 22:31 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -80,8 +52,8 @@ Tuesday 31 March 2020 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 25 March 2020 at 21:05
-- [x] Exported to Keepeek Wednesday 25 March 2020 at 20:50
+- [x] Exported to iLibrary Monday 30 March 2020 at 21:00
+- [x] Exported to Keepeek Monday 30 March 2020 at 20:42
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -107,7 +79,7 @@ Friday 3 April 2020 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 26 March 2020 at 20:56
+- [x] Exported to iLibrary Monday 30 March 2020 at 21:00
 - [x] Exported to Keepeek Thursday 26 March 2020 at 20:41
 - [x] Exported to OECD.org Thursday 26 March 2020 at 20:27
 
@@ -134,7 +106,7 @@ Monday 6 April 2020 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 25 March 2020 at 21:05
+- [x] Exported to iLibrary Monday 30 March 2020 at 21:00
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 25 March 2020 at 20:36
 
@@ -157,7 +129,7 @@ Monday 6 April 2020 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 25 March 2020 at 21:05
+- [x] Exported to iLibrary Monday 30 March 2020 at 21:00
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 25 March 2020 at 20:36
 
@@ -180,7 +152,7 @@ Monday 6 April 2020 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 25 March 2020 at 21:05
+- [x] Exported to iLibrary Monday 30 March 2020 at 21:00
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 25 March 2020 at 20:36
 
@@ -226,7 +198,7 @@ Monday 6 April 2020 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 25 March 2020 at 21:05
+- [x] Exported to iLibrary Monday 30 March 2020 at 21:00
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 25 March 2020 at 20:36
 
@@ -249,15 +221,15 @@ Monday 6 April 2020 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 30 March 2020 at 21:00
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 30 March 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -272,7 +244,7 @@ Monday 6 April 2020 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 25 March 2020 at 21:05
+- [x] Exported to iLibrary Monday 30 March 2020 at 21:00
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 25 March 2020 at 20:36
 
@@ -295,7 +267,7 @@ Monday 6 April 2020 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 26 March 2020 at 20:56
+- [x] Exported to iLibrary Monday 30 March 2020 at 21:00
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 26 March 2020 at 20:27
 
@@ -318,7 +290,7 @@ Monday 6 April 2020 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 25 March 2020 at 21:05
+- [x] Exported to iLibrary Monday 30 March 2020 at 21:00
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 25 March 2020 at 20:36
 
@@ -341,7 +313,7 @@ Monday 6 April 2020 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 25 March 2020 at 21:05
+- [x] Exported to iLibrary Monday 30 March 2020 at 21:00
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 25 March 2020 at 20:36
 
@@ -634,7 +606,7 @@ Friday 24 April 2020 at 8:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 17 March 2020 at 21:26
-- [x] Exported to Keepeek Tuesday 17 March 2020 at 20:55
+- [x] Exported to Keepeek Monday 30 March 2020 at 20:42
 - [x] Exported to OECD.org Tuesday 17 March 2020 at 20:38
 
 ### Additional Information
@@ -696,6 +668,29 @@ Wednesday 29 April 2020 at 22:00 | no launch event
 * Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Greece 2020](https://doi.org/10.1787/b04b25de-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 April 2020 at 22:31 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
