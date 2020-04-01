@@ -2,9 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 31 March 2020 at 21:26* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 1 April 2020 at 21:33* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [31 March 2020](#31-march-2020)
+* [2 April 2020](#2-april-2020)
 * [3 April 2020](#3-april-2020)
 * [6 April 2020](#6-april-2020)
 * [9 April 2020](#9-april-2020)
@@ -58,6 +59,33 @@ Tuesday 31 March 2020 at 10:00 | no launch event
 ### Additional Information
 
 * Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 2 April 2020
+
+## [What drives consumption tax revenues?  - Disentangling policy and macroeconomic drivers](https://doi.org/10.1787/94ed8187-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 April 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 1 April 2020 at 21:06
+- [x] Exported to Keepeek Wednesday 1 April 2020 at 20:49
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2020-03-31T21:26:06.8911255+02:00">
+<report name="official-embargoes" generated="2020-04-01T21:33:38.8495742+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -21,26 +21,6 @@
     <cell name="kappa link">Kappa Link</cell>
   </row>
   <row index="1">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/15009dbe-en</cell>
-    <cell name="title">Early Learning and Child Well-being in Estonia (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2020-03-21</cell>
-    <cell name="embargo date">2020-03-30T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-03-23T08:46:48Z</cell>
-    <cell name="freepreview last export date">2020-03-30T18:42:07Z</cell>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d6581e10</cell>
-  </row>
-  <row index="2">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/296dae6b-en</cell>
     <cell name="title">Measuring occupational entry regulations: A new OECD approach (en)</cell>
@@ -60,7 +40,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/614f3113</cell>
   </row>
-  <row index="3">
+  <row index="2">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/c8b88d8b-en</cell>
     <cell name="title">Occupational entry regulations and their effects on productivity in services: Firm-level evidence (en)</cell>
@@ -80,7 +60,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41c41712</cell>
   </row>
-  <row index="4">
+  <row index="3">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/d6a7d907-en</cell>
     <cell name="title">OECD Economic Surveys: Israel 2020 (en)</cell>
@@ -99,6 +79,26 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/acbb1715</cell>
+  </row>
+  <row index="4">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/94ed8187-en</cell>
+    <cell name="title">What drives consumption tax revenues?  (en)</cell>
+    <cell name="subtitle">Disentangling policy and macroeconomic drivers (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-04-02</cell>
+    <cell name="embargo date">2020-04-02T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-04-01T19:06:29Z</cell>
+    <cell name="freepreview last export date">2020-04-01T18:49:35Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/83d4958d</cell>
   </row>
   <row index="5">
     <cell name="directorate">Directorate for Public Governance</cell>
@@ -1857,7 +1857,7 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2330bd75</cell>
   </row>
   <row index="93">
@@ -1877,7 +1877,7 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da26edf7</cell>
   </row>
   <row index="94">
