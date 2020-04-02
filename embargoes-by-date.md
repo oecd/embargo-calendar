@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 1 April 2020 at 21:33* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 2 April 2020 at 21:44* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [31 March 2020](#31-march-2020)
 * [2 April 2020](#2-april-2020)
 * [3 April 2020](#3-april-2020)
 * [6 April 2020](#6-april-2020)
@@ -15,56 +14,6 @@ Data generated on | |
 * [29 April 2020](#29-april-2020)
 * [30 April 2020](#30-april-2020)
 * [7 June 2020](#7-june-2020)
-
-------
-
-# 31 March 2020
-
-## [Measuring occupational entry regulations: A new OECD approach](https://doi.org/10.1787/296dae6b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 31 March 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 25 March 2020 at 21:05
-- [x] Exported to Keepeek Wednesday 25 March 2020 at 20:50
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Occupational entry regulations and their effects on productivity in services: Firm-level evidence](https://doi.org/10.1787/c8b88d8b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 31 March 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 30 March 2020 at 21:00
-- [x] Exported to Keepeek Monday 30 March 2020 at 20:42
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -132,16 +81,16 @@ Monday 6 April 2020 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 30 March 2020 at 21:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 25 March 2020 at 20:36
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 2 April 2020 at 21:19
+- [x] Exported to Keepeek Thursday 2 April 2020 at 21:04
+- [x] Exported to OECD.org Thursday 2 April 2020 at 20:48
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -155,16 +104,16 @@ Monday 6 April 2020 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 31 March 2020 at 21:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 31 March 2020 at 20:32
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 2 April 2020 at 21:19
+- [x] Exported to Keepeek Thursday 2 April 2020 at 21:04
+- [x] Exported to OECD.org Thursday 2 April 2020 at 20:48
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -225,9 +174,9 @@ Monday 6 April 2020 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 30 March 2020 at 21:00
+- [x] Exported to iLibrary Thursday 2 April 2020 at 21:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 25 March 2020 at 20:36
+- [x] Exported to OECD.org Thursday 2 April 2020 at 20:48
 
 ### Additional Information
 
@@ -248,9 +197,9 @@ Monday 6 April 2020 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 30 March 2020 at 21:00
+- [x] Exported to iLibrary Thursday 2 April 2020 at 21:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 30 March 2020 at 20:27
+- [x] Exported to OECD.org Thursday 2 April 2020 at 20:48
 
 ### Additional Information
 
@@ -271,9 +220,9 @@ Monday 6 April 2020 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 30 March 2020 at 21:00
+- [x] Exported to iLibrary Thursday 2 April 2020 at 21:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 25 March 2020 at 20:36
+- [x] Exported to OECD.org Thursday 2 April 2020 at 20:48
 
 ### Additional Information
 
@@ -293,16 +242,16 @@ Monday 6 April 2020 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 30 March 2020 at 21:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 26 March 2020 at 20:27
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 2 April 2020 at 21:19
+- [x] Exported to Keepeek Thursday 2 April 2020 at 21:04
+- [x] Exported to OECD.org Thursday 2 April 2020 at 20:48
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -316,16 +265,16 @@ Monday 6 April 2020 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 30 March 2020 at 21:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 25 March 2020 at 20:36
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 2 April 2020 at 21:19
+- [x] Exported to Keepeek Thursday 2 April 2020 at 21:04
+- [x] Exported to OECD.org Thursday 2 April 2020 at 20:48
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -340,9 +289,9 @@ Monday 6 April 2020 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 30 March 2020 at 21:00
+- [x] Exported to iLibrary Thursday 2 April 2020 at 21:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 25 March 2020 at 20:36
+- [x] Exported to OECD.org Thursday 2 April 2020 at 20:48
 
 ### Additional Information
 
