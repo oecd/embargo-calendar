@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 2 April 2020 at 21:44* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 3 April 2020 at 21:16* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [2 April 2020](#2-april-2020)
 * [3 April 2020](#3-april-2020)
@@ -127,16 +127,16 @@ Monday 6 April 2020 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 31 March 2020 at 21:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 31 March 2020 at 20:32
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
+- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
+- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -150,16 +150,16 @@ Monday 6 April 2020 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
+- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
+- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -173,16 +173,16 @@ Monday 6 April 2020 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 April 2020 at 21:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 April 2020 at 20:48
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
+- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
+- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -196,16 +196,16 @@ Monday 6 April 2020 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 April 2020 at 21:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 April 2020 at 20:48
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
+- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
+- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -219,16 +219,16 @@ Monday 6 April 2020 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 April 2020 at 21:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 April 2020 at 20:48
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
+- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
+- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -288,16 +288,16 @@ Monday 6 April 2020 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 April 2020 at 21:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 April 2020 at 20:48
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
+- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
+- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -315,16 +315,16 @@ Thursday 9 April 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 4 March 2020 at 20:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 4 March 2020 at 20:29
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
+- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
+- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -338,16 +338,16 @@ Thursday 9 April 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 4 March 2020 at 20:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 4 March 2020 at 20:29
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
+- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
+- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -361,16 +361,16 @@ Thursday 9 April 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 4 March 2020 at 20:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 4 March 2020 at 20:29
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
+- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
+- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -384,16 +384,16 @@ Thursday 9 April 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 3 March 2020 at 21:05
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 3 March 2020 at 20:31
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
+- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
+- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -407,16 +407,16 @@ Thursday 9 April 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 4 March 2020 at 20:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 4 March 2020 at 20:29
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
+- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
+- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -430,16 +430,16 @@ Thursday 9 April 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 4 March 2020 at 20:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 4 March 2020 at 20:29
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
+- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
+- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -453,16 +453,16 @@ Thursday 9 April 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 31 March 2020 at 21:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 31 March 2020 at 20:32
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
+- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
+- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -476,16 +476,16 @@ Thursday 9 April 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 3 March 2020 at 21:05
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 3 March 2020 at 20:31
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
+- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
+- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -499,16 +499,16 @@ Thursday 9 April 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 4 March 2020 at 20:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 4 March 2020 at 20:29
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
+- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
+- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -527,15 +527,15 @@ Thursday 23 April 2020 at 14:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English | Spanish*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -718,6 +718,6 @@ Sunday 7 June 2020 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
