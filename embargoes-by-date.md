@@ -2,11 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 3 April 2020 at 21:16* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 6 April 2020 at 21:19* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [2 April 2020](#2-april-2020)
-* [3 April 2020](#3-april-2020)
 * [6 April 2020](#6-april-2020)
+* [8 April 2020](#8-april-2020)
 * [9 April 2020](#9-april-2020)
 * [23 April 2020](#23-april-2020)
 * [24 April 2020](#24-april-2020)
@@ -14,60 +13,6 @@ Data generated on | |
 * [29 April 2020](#29-april-2020)
 * [30 April 2020](#30-april-2020)
 * [7 June 2020](#7-june-2020)
-
-------
-
-# 2 April 2020
-
-## [What drives consumption tax revenues?  - Disentangling policy and macroeconomic drivers](https://doi.org/10.1787/94ed8187-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 2 April 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 1 April 2020 at 21:06
-- [x] Exported to Keepeek Wednesday 1 April 2020 at 20:49
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 3 April 2020
-
-## [Behavioural Insights and Organisations -  Fostering Safety Culture](https://doi.org/10.1787/e6ef217d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 3 April 2020 at 7:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 31 March 2020 at 21:01
-- [x] Exported to Keepeek Thursday 26 March 2020 at 20:41
-- [x] Exported to OECD.org Thursday 26 March 2020 at 20:27
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -300,6 +245,33 @@ Monday 6 April 2020 at 12:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 8 April 2020
+
+## [North Korea: The last transition economy?](https://doi.org/10.1787/82dee315-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 8 April 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 6 April 2020 at 20:55
+- [x] Exported to Keepeek Monday 6 April 2020 at 20:40
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 

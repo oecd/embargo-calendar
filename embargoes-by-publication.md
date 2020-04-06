@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 3 April 2020 at 21:16* | [See embargoes by date](embargoes-by-date.md) |
-
-## [What drives consumption tax revenues?  - Disentangling policy and macroeconomic drivers](https://doi.org/10.1787/94ed8187-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 2 April 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 1 April 2020 at 21:06
-- [x] Exported to Keepeek Wednesday 1 April 2020 at 20:49
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Behavioural Insights and Organisations -  Fostering Safety Culture](https://doi.org/10.1787/e6ef217d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 3 April 2020 at 7:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 31 March 2020 at 21:01
-- [x] Exported to Keepeek Thursday 26 March 2020 at 20:41
-- [x] Exported to OECD.org Thursday 26 March 2020 at 20:27
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Monday 6 April 2020 at 21:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Tunisia 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/fdeb6766-en)
 
@@ -277,6 +231,29 @@ Monday 6 April 2020 at 12:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [North Korea: The last transition economy?](https://doi.org/10.1787/82dee315-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 8 April 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 6 April 2020 at 20:55
+- [x] Exported to Keepeek Monday 6 April 2020 at 20:40
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
