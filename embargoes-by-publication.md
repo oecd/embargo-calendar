@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 6 April 2020 at 21:19* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 7 April 2020 at 21:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Tunisia 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/fdeb6766-en)
 
@@ -15,7 +15,7 @@ Monday 6 April 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 2 April 2020 at 21:19
 - [x] Exported to Keepeek Thursday 2 April 2020 at 21:04
-- [x] Exported to OECD.org Thursday 2 April 2020 at 20:48
+- [x] Exported to OECD.org Tuesday 7 April 2020 at 20:30
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 6 April 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 2 April 2020 at 21:19
 - [x] Exported to Keepeek Thursday 2 April 2020 at 21:04
-- [x] Exported to OECD.org Thursday 2 April 2020 at 20:48
+- [x] Exported to OECD.org Tuesday 7 April 2020 at 20:30
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Monday 6 April 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 April 2020 at 20:51
 - [x] Exported to Keepeek Friday 3 April 2020 at 20:38
-- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
+- [x] Exported to OECD.org Tuesday 7 April 2020 at 20:30
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Monday 6 April 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 April 2020 at 20:51
 - [x] Exported to Keepeek Friday 3 April 2020 at 20:38
-- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
+- [x] Exported to OECD.org Tuesday 7 April 2020 at 20:30
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Monday 6 April 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 April 2020 at 20:51
 - [x] Exported to Keepeek Friday 3 April 2020 at 20:38
-- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
+- [x] Exported to OECD.org Tuesday 7 April 2020 at 20:30
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Monday 6 April 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 April 2020 at 20:51
 - [x] Exported to Keepeek Friday 3 April 2020 at 20:38
-- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
+- [x] Exported to OECD.org Tuesday 7 April 2020 at 20:30
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Monday 6 April 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 April 2020 at 20:51
 - [x] Exported to Keepeek Friday 3 April 2020 at 20:38
-- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
+- [x] Exported to OECD.org Tuesday 7 April 2020 at 20:30
 
 ### Additional Information
 
@@ -176,7 +176,7 @@ Monday 6 April 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 2 April 2020 at 21:19
 - [x] Exported to Keepeek Thursday 2 April 2020 at 21:04
-- [x] Exported to OECD.org Thursday 2 April 2020 at 20:48
+- [x] Exported to OECD.org Tuesday 7 April 2020 at 20:30
 
 ### Additional Information
 
@@ -199,7 +199,7 @@ Monday 6 April 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 2 April 2020 at 21:19
 - [x] Exported to Keepeek Thursday 2 April 2020 at 21:04
-- [x] Exported to OECD.org Thursday 2 April 2020 at 20:48
+- [x] Exported to OECD.org Tuesday 7 April 2020 at 20:30
 
 ### Additional Information
 
@@ -222,7 +222,7 @@ Monday 6 April 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 April 2020 at 20:51
 - [x] Exported to Keepeek Friday 3 April 2020 at 20:38
-- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
+- [x] Exported to OECD.org Tuesday 7 April 2020 at 20:30
 
 ### Additional Information
 
@@ -254,6 +254,52 @@ Wednesday 8 April 2020 at 5:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
+
+------
+
+## [Trustworthy artificial intelligence (AI) in education - Promises and challenges](https://doi.org/10.1787/a6c90fa9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 8 April 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 7 April 2020 at 20:59
+- [x] Exported to Keepeek Tuesday 7 April 2020 at 20:44
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Report of the Inter-agency Task Force on Financing for Development 2020 - Financing for Sustainable Development Report](https://doi.org/10.18356/6fab9229-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 9 April 2020 at 4:05 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 7 April 2020 at 20:59
+- [x] Exported to Keepeek Tuesday 7 April 2020 at 20:44
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Non applicable*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, PDF*
 
 ------
 
