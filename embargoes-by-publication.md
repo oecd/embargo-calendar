@@ -2,237 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 7 April 2020 at 21:19* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Tunisia 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/fdeb6766-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 April 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 2 April 2020 at 21:19
-- [x] Exported to Keepeek Thursday 2 April 2020 at 21:04
-- [x] Exported to OECD.org Tuesday 7 April 2020 at 20:30
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Peru 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/f155434a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 April 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 2 April 2020 at 21:19
-- [x] Exported to Keepeek Thursday 2 April 2020 at 21:04
-- [x] Exported to OECD.org Tuesday 7 April 2020 at 20:30
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Brunei Darussalam 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/7dac6e50-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 April 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
-- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
-- [x] Exported to OECD.org Tuesday 7 April 2020 at 20:30
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : Suisse 2020 (Deuxième cycle) - Rapport d'examen par les pairs sur l'échange de renseignements sur demande](https://doi.org/10.1787/95b93f09-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 April 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
-- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
-- [x] Exported to OECD.org Tuesday 7 April 2020 at 20:30
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Seychelles 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/688fc4f9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 April 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
-- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
-- [x] Exported to OECD.org Tuesday 7 April 2020 at 20:30
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Switzerland 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/fcfce6d7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 April 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
-- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
-- [x] Exported to OECD.org Tuesday 7 April 2020 at 20:30
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Macau, China 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/28be6ec6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 April 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
-- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
-- [x] Exported to OECD.org Tuesday 7 April 2020 at 20:30
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Forum mondial sur la transparence et l'échange de renseignements à des fins fiscales : Tunisie 2020 (Deuxième cycle) - Rapport d'examen par les pairs sur l'échange de renseignements sur demande](https://doi.org/10.1787/e90e6387-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 April 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 2 April 2020 at 21:19
-- [x] Exported to Keepeek Thursday 2 April 2020 at 21:04
-- [x] Exported to OECD.org Tuesday 7 April 2020 at 20:30
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Barbados 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/fbb6ecef-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 April 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 2 April 2020 at 21:19
-- [x] Exported to Keepeek Thursday 2 April 2020 at 21:04
-- [x] Exported to OECD.org Tuesday 7 April 2020 at 20:30
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes:  Liberia 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/e8ecd632-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 April 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
-- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
-- [x] Exported to OECD.org Tuesday 7 April 2020 at 20:30
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
+| *Wednesday 8 April 2020 at 21:23* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [North Korea: The last transition economy?](https://doi.org/10.1787/82dee315-en)
 
@@ -280,41 +50,18 @@ Wednesday 8 April 2020 at 9:00 | no launch event
 
 ------
 
-## [Report of the Inter-agency Task Force on Financing for Development 2020 - Financing for Sustainable Development Report](https://doi.org/10.18356/6fab9229-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 9 April 2020 at 4:05 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 7 April 2020 at 20:59
-- [x] Exported to Keepeek Tuesday 7 April 2020 at 20:44
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Non applicable*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, PDF*
-
-------
-
 ## [Accroître l'efficacité des mécanismes de règlement des différends – Rapport par les pairs de PA, Luxembourg (Phase 2) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/d0f9b5b7-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 9 April 2020 at 9:00 | no launch event
+Thursday 9 April 2020 at 7:30 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
-- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
-- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
+- [x] Exported to iLibrary Wednesday 8 April 2020 at 20:55
+- [x] Exported to Keepeek Wednesday 8 April 2020 at 20:41
+- [x] Exported to OECD.org Wednesday 8 April 2020 at 20:27
 
 ### Additional Information
 
@@ -330,14 +77,14 @@ Thursday 9 April 2020 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 9 April 2020 at 9:00 | no launch event
+Thursday 9 April 2020 at 7:30 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
-- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
-- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
+- [x] Exported to iLibrary Wednesday 8 April 2020 at 20:55
+- [x] Exported to Keepeek Wednesday 8 April 2020 at 20:41
+- [x] Exported to OECD.org Wednesday 8 April 2020 at 20:27
 
 ### Additional Information
 
@@ -353,14 +100,14 @@ Thursday 9 April 2020 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 9 April 2020 at 9:00 | no launch event
+Thursday 9 April 2020 at 7:30 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
-- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
-- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
+- [x] Exported to iLibrary Wednesday 8 April 2020 at 20:55
+- [x] Exported to Keepeek Wednesday 8 April 2020 at 20:41
+- [x] Exported to OECD.org Wednesday 8 April 2020 at 20:27
 
 ### Additional Information
 
@@ -376,14 +123,14 @@ Thursday 9 April 2020 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 9 April 2020 at 9:00 | no launch event
+Thursday 9 April 2020 at 7:30 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
-- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
-- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
+- [x] Exported to iLibrary Wednesday 8 April 2020 at 20:55
+- [x] Exported to Keepeek Wednesday 8 April 2020 at 20:41
+- [x] Exported to OECD.org Wednesday 8 April 2020 at 20:27
 
 ### Additional Information
 
@@ -399,14 +146,14 @@ Thursday 9 April 2020 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 9 April 2020 at 9:00 | no launch event
+Thursday 9 April 2020 at 7:30 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
-- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
-- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
+- [x] Exported to iLibrary Wednesday 8 April 2020 at 20:55
+- [x] Exported to Keepeek Wednesday 8 April 2020 at 20:41
+- [x] Exported to OECD.org Wednesday 8 April 2020 at 20:27
 
 ### Additional Information
 
@@ -422,14 +169,14 @@ Thursday 9 April 2020 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 9 April 2020 at 9:00 | no launch event
+Thursday 9 April 2020 at 7:30 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
-- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
-- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
+- [x] Exported to iLibrary Wednesday 8 April 2020 at 20:55
+- [x] Exported to Keepeek Wednesday 8 April 2020 at 20:41
+- [x] Exported to OECD.org Wednesday 8 April 2020 at 20:27
 
 ### Additional Information
 
@@ -445,14 +192,14 @@ Thursday 9 April 2020 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 9 April 2020 at 9:00 | no launch event
+Thursday 9 April 2020 at 7:30 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
-- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
-- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
+- [x] Exported to iLibrary Wednesday 8 April 2020 at 20:55
+- [x] Exported to Keepeek Wednesday 8 April 2020 at 20:41
+- [x] Exported to OECD.org Wednesday 8 April 2020 at 20:27
 
 ### Additional Information
 
@@ -468,14 +215,14 @@ Thursday 9 April 2020 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 9 April 2020 at 9:00 | no launch event
+Thursday 9 April 2020 at 7:30 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
-- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
-- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
+- [x] Exported to iLibrary Wednesday 8 April 2020 at 20:55
+- [x] Exported to Keepeek Wednesday 8 April 2020 at 20:41
+- [x] Exported to OECD.org Wednesday 8 April 2020 at 20:27
 
 ### Additional Information
 
@@ -491,14 +238,14 @@ Thursday 9 April 2020 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 9 April 2020 at 9:00 | no launch event
+Thursday 9 April 2020 at 7:30 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
-- [x] Exported to Keepeek Friday 3 April 2020 at 20:38
-- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
+- [x] Exported to iLibrary Wednesday 8 April 2020 at 20:55
+- [x] Exported to Keepeek Wednesday 8 April 2020 at 20:41
+- [x] Exported to OECD.org Wednesday 8 April 2020 at 20:27
 
 ### Additional Information
 
@@ -507,6 +254,29 @@ Thursday 9 April 2020 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Report of the Inter-agency Task Force on Financing for Development 2020 - Financing for Sustainable Development Report](https://doi.org/10.18356/6fab9229-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 9 April 2020 at 15:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 8 April 2020 at 20:55
+- [x] Exported to Keepeek Wednesday 8 April 2020 at 20:41
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Non applicable*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, PDF*
 
 ------
 
