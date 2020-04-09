@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 8 April 2020 at 21:23* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 9 April 2020 at 21:13* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [North Korea: The last transition economy?](https://doi.org/10.1787/82dee315-en)
 
@@ -15,7 +15,7 @@ Wednesday 8 April 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 6 April 2020 at 20:55
 - [x] Exported to Keepeek Monday 6 April 2020 at 20:40
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Wednesday 8 April 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 7 April 2020 at 20:59
 - [x] Exported to Keepeek Tuesday 7 April 2020 at 20:44
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Thursday 9 April 2020 at 7:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 8 April 2020 at 20:55
 - [x] Exported to Keepeek Wednesday 8 April 2020 at 20:41
-- [x] Exported to OECD.org Wednesday 8 April 2020 at 20:27
+- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Thursday 9 April 2020 at 7:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 8 April 2020 at 20:55
 - [x] Exported to Keepeek Wednesday 8 April 2020 at 20:41
-- [x] Exported to OECD.org Wednesday 8 April 2020 at 20:27
+- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Thursday 9 April 2020 at 7:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 8 April 2020 at 20:55
 - [x] Exported to Keepeek Wednesday 8 April 2020 at 20:41
-- [x] Exported to OECD.org Wednesday 8 April 2020 at 20:27
+- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Thursday 9 April 2020 at 7:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 8 April 2020 at 20:55
 - [x] Exported to Keepeek Wednesday 8 April 2020 at 20:41
-- [x] Exported to OECD.org Wednesday 8 April 2020 at 20:27
+- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Thursday 9 April 2020 at 7:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 8 April 2020 at 20:55
 - [x] Exported to Keepeek Wednesday 8 April 2020 at 20:41
-- [x] Exported to OECD.org Wednesday 8 April 2020 at 20:27
+- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
 
 ### Additional Information
 
@@ -176,7 +176,7 @@ Thursday 9 April 2020 at 7:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 8 April 2020 at 20:55
 - [x] Exported to Keepeek Wednesday 8 April 2020 at 20:41
-- [x] Exported to OECD.org Wednesday 8 April 2020 at 20:27
+- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
 
 ### Additional Information
 
@@ -199,7 +199,7 @@ Thursday 9 April 2020 at 7:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 8 April 2020 at 20:55
 - [x] Exported to Keepeek Wednesday 8 April 2020 at 20:41
-- [x] Exported to OECD.org Wednesday 8 April 2020 at 20:27
+- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
 
 ### Additional Information
 
@@ -222,7 +222,7 @@ Thursday 9 April 2020 at 7:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 8 April 2020 at 20:55
 - [x] Exported to Keepeek Wednesday 8 April 2020 at 20:41
-- [x] Exported to OECD.org Wednesday 8 April 2020 at 20:27
+- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
 
 ### Additional Information
 
@@ -245,7 +245,7 @@ Thursday 9 April 2020 at 7:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 8 April 2020 at 20:55
 - [x] Exported to Keepeek Wednesday 8 April 2020 at 20:41
-- [x] Exported to OECD.org Wednesday 8 April 2020 at 20:27
+- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
 
 ### Additional Information
 
@@ -280,6 +280,29 @@ Thursday 9 April 2020 at 15:00 | no launch event
 
 ------
 
+## [Synthesising good practices in fiscal federalism - Key recommendations from 15 years of country surveys](https://doi.org/10.1787/89cd0319-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 April 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 9 April 2020 at 20:49
+- [x] Exported to Keepeek Thursday 9 April 2020 at 20:34
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Revenue Statistics in Latin America and the Caribbean 2020 (en) | Estadísticas tributarias en América Latina y el Caribe 2020](https://doi.org/10.1787/68739b9b-en-es)
 
 Embargo date | Launch date
@@ -291,7 +314,7 @@ Thursday 23 April 2020 at 14:00 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Friday 3 April 2020 at 20:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 April 2020 at 20:27
+- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
 
 ### Additional Information
 
@@ -314,7 +337,7 @@ Friday 24 April 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 17 March 2020 at 21:26
 - [x] Exported to Keepeek Monday 30 March 2020 at 20:42
-- [x] Exported to OECD.org Tuesday 17 March 2020 at 20:38
+- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
 
 ### Additional Information
 
@@ -337,7 +360,7 @@ Monday 27 April 2020 at 6:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 26 March 2020 at 20:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 18 March 2020 at 20:35
+- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
 
 ### Additional Information
 
@@ -360,7 +383,7 @@ Wednesday 29 April 2020 at 22:00 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Friday 13 March 2020 at 21:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 13 March 2020 at 20:32
+- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
 
 ### Additional Information
 
@@ -406,7 +429,7 @@ Thursday 30 April 2020 at 9:00 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Tuesday 31 March 2020 at 21:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 31 March 2020 at 20:32
+- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
 
 ### Additional Information
 
@@ -429,7 +452,7 @@ Thursday 30 April 2020 at 9:00 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Tuesday 31 March 2020 at 21:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 31 March 2020 at 20:32
+- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
 
 ### Additional Information
 
