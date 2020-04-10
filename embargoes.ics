@@ -2,90 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/82dee315-end3e63
-SUMMARY:North Korea: The last transition economy
- ?
-DESCRIPTION:*North Korea: The last transition econom
- y?*\n\nDirectorate: Economics Department
- \nLanguage: English\nDOI: https://doi.or
- g/10.1787/82dee315-en\nPublication type:
-  Paper\nReleased as: PDF\n\nEmbargo date
- /time: Wednesday, 8 April 2020, 5:00 (GM
- T)\n\n\niLibrary export: Monday, 6 April
-  2020, 18:55 (GMT)\nFreepreview export: 
- Monday, 6 April 2020, 18:40 (GMT)\nOECD.
- org export: Thursday, 9 April 2020, 7:34
-  (GMT)\nFTI loaded: ✓\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 21:13, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=82dee315-en.
-DTSTAMP:20200409T211356Z
-DTSTART:20200408T050000Z
-DTEND:20200408T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: North Korea: The last transiti
- on economy?
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/a6c90fa9-end3e119
-SUMMARY:Trustworthy artificial intelligence (AI)
-  in education - Promises and challenges
-DESCRIPTION:*Trustworthy artificial intelligence (AI
- ) in education - Promises and challenges
- *\n\nDirectorate: Directorate for Educat
- ion and Skills\nLanguage: English\nDOI: 
- https://doi.org/10.1787/a6c90fa9-en\nPub
- lication type: Paper\nReleased as: PDF\n
- \nEmbargo date/time: Wednesday, 8 April 
- 2020, 9:00 (GMT)\n\n\niLibrary export: T
- uesday, 7 April 2020, 18:59 (GMT)\nFreep
- review export: Tuesday, 7 April 2020, 18
- :44 (GMT)\nOECD.org export: Thursday, 9 
- April 2020, 7:34 (GMT)\nFTI loaded: ✓\n\
- nFor more information see: https://oecd.
- github.io/embargo-calendar/embargoes-by-
- publication.html.\n\nPlease note: This i
- nformation was correct as of this aftern
- oon at 21:13, it is updated each night; 
- therefore any subsequent updates may not
-  yet be visible here. Also, please be aw
- are that the different released media (P
- DF, HTML, etc.) are not necessarily rele
- ased at the same time. For complete and 
- up-to-date information see here: http://
- kappa.oecd.org/v3/search?term=a6c90fa9-e
- n.
-DTSTAMP:20200409T211356Z
-DTSTART:20200408T090000Z
-DTEND:20200408T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Trustworthy artificial intelli
- gence (AI) in education - Promises and c
- hallenges
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/d0f9b5b7-frd3e176
+UID:10.1787/d0f9b5b7-frd3e63
 SUMMARY:Accroître l'efficacité des mécanismes de
   règlement des différends – Rapport par 
  les pairs de PA, Luxembourg (Phase 2) - 
@@ -108,7 +25,7 @@ DESCRIPTION:*Accroître l'efficacité des mécanismes d
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 21:13, it is updated each nig
+ ternoon at 21:45, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -117,7 +34,7 @@ DESCRIPTION:*Accroître l'efficacité des mécanismes d
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=d0f9b5
  b7-fr.
-DTSTAMP:20200409T211356Z
+DTSTAMP:20200410T214520Z
 DTSTART:20200409T073000Z
 DTEND:20200409T074500Z
 TRANSP:TRANSPARENT
@@ -134,7 +51,7 @@ DESCRIPTION:Reminder: Accroître l'efficacité des méc
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ffdb81cc-end3e233
+UID:10.1787/ffdb81cc-end3e121
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Luxembourg (S
  tage 2) - Inclusive Framework on BEPS: A
@@ -156,7 +73,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  : https://oecd.github.io/embargo-calenda
  r/embargoes-by-publication.html.\n\nPlea
  se note: This information was correct as
-  of this afternoon at 21:13, it is updat
+  of this afternoon at 21:45, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -165,7 +82,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=ffdb81cc-en.
-DTSTAMP:20200409T211356Z
+DTSTAMP:20200410T214520Z
 DTSTART:20200409T073000Z
 DTEND:20200409T074500Z
 TRANSP:TRANSPARENT
@@ -181,7 +98,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9d6c280c-end3e291
+UID:10.1787/9d6c280c-end3e179
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Germany (Stag
  e 2) - Inclusive Framework on BEPS: Acti
@@ -203,7 +120,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 21:13, it is updated 
+  this afternoon at 21:45, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -212,7 +129,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=9d6c280c-en.
-DTSTAMP:20200409T211356Z
+DTSTAMP:20200410T214520Z
 DTSTART:20200409T073000Z
 DTEND:20200409T074500Z
 TRANSP:TRANSPARENT
@@ -228,7 +145,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/92af1e93-frd3e348
+UID:10.1787/92af1e93-frd3e237
 SUMMARY:Accroître l'efficacité des mécanismes de
   règlement des différends – Rapport par 
  les pairs de PA, France (Phase 2) - Cadr
@@ -251,7 +168,7 @@ DESCRIPTION:*Accroître l'efficacité des mécanismes d
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 21:13, it is updated each night; 
+ oon at 21:45, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -260,7 +177,7 @@ DESCRIPTION:*Accroître l'efficacité des mécanismes d
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=92af1e93-f
  r.
-DTSTAMP:20200409T211356Z
+DTSTAMP:20200410T214520Z
 DTSTART:20200409T073000Z
 DTEND:20200409T074500Z
 TRANSP:TRANSPARENT
@@ -277,7 +194,7 @@ DESCRIPTION:Reminder: Accroître l'efficacité des méc
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/08a4369e-end3e405
+UID:10.1787/08a4369e-end3e296
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Italy (Stage 
  2) - Inclusive Framework on BEPS: Action
@@ -299,7 +216,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 21:13, it is updated ea
+ his afternoon at 21:45, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -308,7 +225,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  08a4369e-en.
-DTSTAMP:20200409T211356Z
+DTSTAMP:20200410T214520Z
 DTSTART:20200409T073000Z
 DTEND:20200409T074500Z
 TRANSP:TRANSPARENT
@@ -324,7 +241,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7b3b1492-end3e462
+UID:10.1787/7b3b1492-end3e354
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Sweden (Stage
   2) - Inclusive Framework on BEPS: Actio
@@ -346,7 +263,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 21:13, it is updated e
+ this afternoon at 21:45, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -355,7 +272,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =7b3b1492-en.
-DTSTAMP:20200409T211356Z
+DTSTAMP:20200410T214520Z
 DTSTART:20200409T073000Z
 DTEND:20200409T074500Z
 TRANSP:TRANSPARENT
@@ -371,7 +288,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b41a9f75-end3e519
+UID:10.1787/b41a9f75-end3e412
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Liechtenstein
   (Stage 2) - Inclusive Framework on BEPS
@@ -393,7 +310,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 21:13, it is up
+  as of this afternoon at 21:45, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -402,7 +319,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=b41a9f75-en.
-DTSTAMP:20200409T211356Z
+DTSTAMP:20200410T214520Z
 DTSTART:20200409T073000Z
 DTEND:20200409T074500Z
 TRANSP:TRANSPARENT
@@ -418,7 +335,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a5d1cab8-end3e576
+UID:10.1787/a5d1cab8-end3e470
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, France (Stage
   2) - Inclusive Framework on BEPS: Actio
@@ -440,7 +357,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 21:13, it is updated e
+ this afternoon at 21:45, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -449,7 +366,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =a5d1cab8-en.
-DTSTAMP:20200409T211356Z
+DTSTAMP:20200410T214520Z
 DTSTART:20200409T073000Z
 DTEND:20200409T074500Z
 TRANSP:TRANSPARENT
@@ -465,7 +382,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/40c9f1b5-end3e634
+UID:10.1787/40c9f1b5-end3e528
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Austria (Stag
  e 2) - Inclusive Framework on BEPS: Acti
@@ -487,7 +404,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 21:13, it is updated 
+  this afternoon at 21:45, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -496,7 +413,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=40c9f1b5-en.
-DTSTAMP:20200409T211356Z
+DTSTAMP:20200410T214520Z
 DTSTART:20200409T073000Z
 DTEND:20200409T074500Z
 TRANSP:TRANSPARENT
@@ -512,7 +429,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.18356/6fab9229-end3e1186
+UID:10.18356/6fab9229-end3e1082
 SUMMARY:Report of the Inter-agency Task Force on
   Financing for Development 2020 - Financ
  ing for Sustainable Development Report
@@ -532,7 +449,7 @@ DESCRIPTION:*Report of the Inter-agency Task Force o
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 21:13, it is updated each night; th
+ n at 21:45, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -540,7 +457,7 @@ DESCRIPTION:*Report of the Inter-agency Task Force o
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=6fab9229-en.
-DTSTAMP:20200409T211356Z
+DTSTAMP:20200410T214520Z
 DTSTART:20200409T150000Z
 DTEND:20200409T151500Z
 TRANSP:TRANSPARENT
@@ -556,7 +473,7 @@ DESCRIPTION:Reminder: Report of the Inter-agency Tas
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/89cd0319-end3e1573
+UID:10.1787/89cd0319-end3e1469
 SUMMARY:Synthesising good practices in fiscal fe
  deralism - Key recommendations from 15 y
  ears of country surveys
@@ -575,7 +492,7 @@ DESCRIPTION:*Synthesising good practices in fiscal f
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 21:13, it is 
+ ct as of this afternoon at 21:45, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -584,7 +501,7 @@ DESCRIPTION:*Synthesising good practices in fiscal f
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=89cd0319-en.
-DTSTAMP:20200409T211356Z
+DTSTAMP:20200410T214520Z
 DTSTART:20200414T050000Z
 DTEND:20200414T051500Z
 TRANSP:TRANSPARENT
@@ -599,7 +516,7 @@ DESCRIPTION:Reminder: Synthesising good practices in
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/68739b9b-en-esd3e1630
+UID:10.1787/68739b9b-en-esd3e1525
 SUMMARY:Revenue Statistics in Latin America and 
  the Caribbean 2020 (en) | Estadísticas t
  ributarias en América Latina y el Caribe
@@ -621,7 +538,7 @@ DESCRIPTION:*Revenue Statistics in Latin America and
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 21:13, it is updated each nig
+ ternoon at 21:45, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -630,7 +547,7 @@ DESCRIPTION:*Revenue Statistics in Latin America and
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=68739b
  9b-en-es.
-DTSTAMP:20200409T211356Z
+DTSTAMP:20200410T214520Z
 DTSTART:20200423T140000Z
 DTEND:20200423T141500Z
 TRANSP:TRANSPARENT
@@ -646,7 +563,7 @@ DESCRIPTION:Reminder: Revenue Statistics in Latin Am
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/09be52f0-end3e2064
+UID:10.1787/09be52f0-end3e1960
 SUMMARY:Review of International Regulatory Co-op
  eration of the United Kingdom
 DESCRIPTION:*Review of International Regulatory Co-o
@@ -665,7 +582,7 @@ DESCRIPTION:*Review of International Regulatory Co-o
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 21:13, i
+ correct as of this afternoon at 21:45, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -674,7 +591,7 @@ DESCRIPTION:*Review of International Regulatory Co-o
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=09be52f0-en.
-DTSTAMP:20200409T211356Z
+DTSTAMP:20200410T214520Z
 DTSTART:20200424T080000Z
 DTEND:20200424T081500Z
 TRANSP:TRANSPARENT
@@ -688,7 +605,7 @@ DESCRIPTION:Reminder: Review of International Regula
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cc5feb81-end3e3433
+UID:10.1787/cc5feb81-end3e3329
 SUMMARY: SME and Entrepreneurship Policy in Braz
  il 2020
 DESCRIPTION:* SME and Entrepreneurship Policy in Bra
@@ -706,7 +623,7 @@ DESCRIPTION:* SME and Entrepreneurship Policy in Bra
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 21:13, it is up
+  as of this afternoon at 21:45, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -715,7 +632,7 @@ DESCRIPTION:* SME and Entrepreneurship Policy in Bra
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=cc5feb81-en.
-DTSTAMP:20200409T211356Z
+DTSTAMP:20200410T214520Z
 DTSTART:20200427T063000Z
 DTEND:20200427T064500Z
 TRANSP:TRANSPARENT
@@ -729,7 +646,7 @@ DESCRIPTION:Reminder:  SME and Entrepreneurship Poli
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a4209041-end3e4034
+UID:10.1787/a4209041-end3e3930
 SUMMARY:OECD Economic Surveys: Slovenia 2020
 DESCRIPTION:*OECD Economic Surveys: Slovenia 2020*\n
  \nDirectorate: Economics Department\nLan
@@ -745,7 +662,7 @@ DESCRIPTION:*OECD Economic Surveys: Slovenia 2020*\n
  : https://oecd.github.io/embargo-calenda
  r/embargoes-by-publication.html.\n\nPlea
  se note: This information was correct as
-  of this afternoon at 21:13, it is updat
+  of this afternoon at 21:45, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -754,7 +671,7 @@ DESCRIPTION:*OECD Economic Surveys: Slovenia 2020*\n
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=a4209041-en.
-DTSTAMP:20200409T211356Z
+DTSTAMP:20200410T214520Z
 DTSTART:20200429T220000Z
 DTEND:20200429T221500Z
 TRANSP:TRANSPARENT
@@ -768,7 +685,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Sloveni
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b04b25de-end3e4192
+UID:10.1787/b04b25de-end3e4088
 SUMMARY:OECD Economic Surveys: Greece 2020
 DESCRIPTION:*OECD Economic Surveys: Greece 2020*\n\n
  Directorate: Economics Department\nLangu
@@ -783,7 +700,7 @@ DESCRIPTION:*OECD Economic Surveys: Greece 2020*\n\n
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 21:13, it is updated each night; there
+ t 21:45, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -791,7 +708,7 @@ DESCRIPTION:*OECD Economic Surveys: Greece 2020*\n\n
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=b04b25de-en.
-DTSTAMP:20200409T211356Z
+DTSTAMP:20200410T214520Z
 DTSTART:20200429T223100Z
 DTEND:20200429T224600Z
 TRANSP:TRANSPARENT
@@ -805,7 +722,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Greece
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/047072cd-end3e5467
+UID:10.1787/047072cd-end3e5363
 SUMMARY:Taxing Wages 2020 - How Tax Systems Infl
  uence Choice of Employment Form
 DESCRIPTION:*Taxing Wages 2020 - How Tax Systems Inf
@@ -823,7 +740,7 @@ DESCRIPTION:*Taxing Wages 2020 - How Tax Systems Inf
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 21:13, it is up
+  as of this afternoon at 21:45, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -832,7 +749,7 @@ DESCRIPTION:*Taxing Wages 2020 - How Tax Systems Inf
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=047072cd-en.
-DTSTAMP:20200409T211356Z
+DTSTAMP:20200410T214520Z
 DTSTART:20200430T090000Z
 DTEND:20200430T091500Z
 TRANSP:TRANSPARENT
@@ -847,7 +764,7 @@ DESCRIPTION:Reminder: Taxing Wages 2020 - How Tax Sy
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/44e00867-frd3e6692
+UID:10.1787/44e00867-frd3e6588
 SUMMARY:Les impôts sur les salaires 2020 - L’inf
  luence des systèmes fiscaux sur le choix
   de la forme d’emploi
@@ -867,7 +784,7 @@ DESCRIPTION:*Les impôts sur les salaires 2020 - L’in
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 21:13, it is updated each 
+  afternoon at 21:45, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -876,7 +793,7 @@ DESCRIPTION:*Les impôts sur les salaires 2020 - L’in
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=44e
  00867-fr.
-DTSTAMP:20200409T211356Z
+DTSTAMP:20200410T214520Z
 DTSTART:20200430T090000Z
 DTEND:20200430T091500Z
 TRANSP:TRANSPARENT
@@ -891,7 +808,7 @@ DESCRIPTION:Reminder: Les impôts sur les salaires 20
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d6a7d907-end3e6854
+UID:10.1787/d6a7d907-end3e6749
 SUMMARY:OECD Economic Surveys: Israel 2020
 DESCRIPTION:*OECD Economic Surveys: Israel 2020*\n\n
  Directorate: Economics Department\nLangu
@@ -905,7 +822,7 @@ DESCRIPTION:*OECD Economic Surveys: Israel 2020*\n\n
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 21:13, it is u
+ t as of this afternoon at 21:45, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -914,7 +831,7 @@ DESCRIPTION:*OECD Economic Surveys: Israel 2020*\n\n
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=d6a7d907-en.
-DTSTAMP:20200409T211356Z
+DTSTAMP:20200410T214520Z
 DTSTART:20200607T220000Z
 DTEND:20200607T221500Z
 TRANSP:TRANSPARENT

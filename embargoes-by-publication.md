@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 9 April 2020 at 21:13* | [See embargoes by date](embargoes-by-date.md) |
-
-## [North Korea: The last transition economy?](https://doi.org/10.1787/82dee315-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 April 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 6 April 2020 at 20:55
-- [x] Exported to Keepeek Monday 6 April 2020 at 20:40
-- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Trustworthy artificial intelligence (AI) in education - Promises and challenges](https://doi.org/10.1787/a6c90fa9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 April 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 7 April 2020 at 20:59
-- [x] Exported to Keepeek Tuesday 7 April 2020 at 20:44
-- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Friday 10 April 2020 at 21:45* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Accroître l'efficacité des mécanismes de règlement des différends – Rapport par les pairs de PA, Luxembourg (Phase 2) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/d0f9b5b7-fr)
 

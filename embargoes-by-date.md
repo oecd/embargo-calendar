@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 9 April 2020 at 21:13* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 10 April 2020 at 21:45* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [8 April 2020](#8-april-2020)
 * [9 April 2020](#9-april-2020)
 * [14 April 2020](#14-april-2020)
 * [23 April 2020](#23-april-2020)
@@ -13,56 +12,6 @@ Data generated on | |
 * [29 April 2020](#29-april-2020)
 * [30 April 2020](#30-april-2020)
 * [7 June 2020](#7-june-2020)
-
-------
-
-# 8 April 2020
-
-## [North Korea: The last transition economy?](https://doi.org/10.1787/82dee315-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 April 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 6 April 2020 at 20:55
-- [x] Exported to Keepeek Monday 6 April 2020 at 20:40
-- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Trustworthy artificial intelligence (AI) in education - Promises and challenges](https://doi.org/10.1787/a6c90fa9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 April 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 7 April 2020 at 20:59
-- [x] Exported to Keepeek Tuesday 7 April 2020 at 20:44
-- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
