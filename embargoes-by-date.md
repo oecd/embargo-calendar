@@ -2,9 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 13 April 2020 at 21:00* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 14 April 2020 at 21:28* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [14 April 2020](#14-april-2020)
+* [21 April 2020](#21-april-2020)
 * [23 April 2020](#23-april-2020)
 * [24 April 2020](#24-april-2020)
 * [27 April 2020](#27-april-2020)
@@ -27,7 +28,7 @@ Tuesday 14 April 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 9 April 2020 at 20:49
 - [x] Exported to Keepeek Thursday 9 April 2020 at 20:34
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 14 April 2020 at 20:29
 
 ### Additional Information
 
@@ -36,6 +37,33 @@ Tuesday 14 April 2020 at 5:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
+
+------
+
+------
+
+# 21 April 2020
+
+## [Financing SMEs and Entrepreneurs 2020 - An OECD Scoreboard](https://doi.org/10.1787/061fe03d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 21 April 2020 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 14 April 2020 at 21:03
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 14 April 2020 at 20:29
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -106,15 +134,15 @@ Monday 27 April 2020 at 6:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 26 March 2020 at 20:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
+- [x] Exported to iLibrary Tuesday 14 April 2020 at 21:03
+- [x] Exported to Keepeek Tuesday 14 April 2020 at 20:46
+- [x] Exported to OECD.org Tuesday 14 April 2020 at 20:29
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -183,9 +211,9 @@ Thursday 30 April 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 31 March 2020 at 21:01
+- [x] Exported to iLibrary Tuesday 14 April 2020 at 21:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
+- [x] Exported to OECD.org Tuesday 14 April 2020 at 20:29
 
 ### Additional Information
 
@@ -206,9 +234,9 @@ Thursday 30 April 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 31 March 2020 at 21:01
+- [x] Exported to iLibrary Tuesday 14 April 2020 at 21:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
+- [x] Exported to OECD.org Tuesday 14 April 2020 at 20:29
 
 ### Additional Information
 
