@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 14 April 2020 at 21:28* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 15 April 2020 at 21:17* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Synthesising good practices in fiscal federalism - Key recommendations from 15 years of country surveys](https://doi.org/10.1787/89cd0319-en)
 
@@ -15,7 +15,7 @@ Tuesday 14 April 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 9 April 2020 at 20:49
 - [x] Exported to Keepeek Thursday 9 April 2020 at 20:34
-- [x] Exported to OECD.org Tuesday 14 April 2020 at 20:29
+- [x] Exported to OECD.org Wednesday 15 April 2020 at 20:20
 
 ### Additional Information
 
@@ -31,42 +31,19 @@ Tuesday 14 April 2020 at 5:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 21 April 2020 at 22:00 | no launch event
+Wednesday 22 April 2020 at 12:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 April 2020 at 21:03
+- [x] Exported to iLibrary Wednesday 15 April 2020 at 20:49
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 April 2020 at 20:29
+- [x] Exported to OECD.org Wednesday 15 April 2020 at 20:20
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Revenue Statistics in Latin America and the Caribbean 2020 (en) | Estadísticas tributarias en América Latina y el Caribe 2020](https://doi.org/10.1787/68739b9b-en-es)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 April 2020 at 14:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 3 April 2020 at 20:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English | Spanish*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
@@ -174,9 +151,9 @@ Thursday 30 April 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 April 2020 at 21:03
+- [x] Exported to iLibrary Wednesday 15 April 2020 at 20:49
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 April 2020 at 20:29
+- [x] Exported to OECD.org Wednesday 15 April 2020 at 20:20
 
 ### Additional Information
 
@@ -184,7 +161,7 @@ Thursday 30 April 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -205,6 +182,29 @@ Thursday 30 April 2020 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Revenue Statistics in Latin America and the Caribbean 2020 (en) | Estadísticas tributarias en América Latina y el Caribe 2020](https://doi.org/10.1787/68739b9b-en-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 15 April 2020 at 20:49
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 15 April 2020 at 20:20
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English | Spanish*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
