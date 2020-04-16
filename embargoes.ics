@@ -2,51 +2,95 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/89cd0319-end3e63
-SUMMARY:Synthesising good practices in fiscal fe
- deralism - Key recommendations from 15 y
- ears of country surveys
-DESCRIPTION:*Synthesising good practices in fiscal f
- ederalism - Key recommendations from 15 
- years of country surveys*\n\nDirectorate
- : Economics Department\nLanguage: Englis
- h\nDOI: https://doi.org/10.1787/89cd0319
- -en\nPublication type: Paper\nReleased a
- s: PDF\n\nEmbargo date/time: Tuesday, 14
-  April 2020, 5:00 (GMT)\n\n\niLibrary ex
- port: Thursday, 9 April 2020, 18:49 (GMT
- )\nFreepreview export: Thursday, 9 April
-  2020, 18:34 (GMT)\nOECD.org export: Wed
- nesday, 15 April 2020, 18:20 (GMT)\nFTI 
- loaded: ✓\n\nFor more information see: h
- ttps://oecd.github.io/embargo-calendar/e
- mbargoes-by-publication.html.\n\nPlease 
- note: This information was correct as of
-  this afternoon at 21:17, it is updated 
- each night; therefore any subsequent upd
- ates may not yet be visible here. Also, 
- please be aware that the different relea
- sed media (PDF, HTML, etc.) are not nece
- ssarily released at the same time. For c
- omplete and up-to-date information see h
- ere: http://kappa.oecd.org/v3/search?ter
- m=89cd0319-en.
-DTSTAMP:20200415T211732Z
-DTSTART:20200414T050000Z
-DTEND:20200414T051500Z
+UID:10.1787/9582594a-end3e63
+SUMMARY:Digitalisation challenges and opportunit
+ ies for subnational governments
+DESCRIPTION:*Digitalisation challenges and opportuni
+ ties for subnational governments*\n\nDir
+ ectorate: Directorate for Public Governa
+ nce\nLanguage: English\nDOI: https://doi
+ .org/10.1787/9582594a-en\nPublication ty
+ pe: Paper\nReleased as: PDF\n\nEmbargo d
+ ate/time: Monday, 20 April 2020, 9:00 (G
+ MT)\n\n\niLibrary export: Thursday, 16 A
+ pril 2020, 18:55 (GMT)\nFreepreview expo
+ rt: Thursday, 16 April 2020, 18:40 (GMT)
+ \nOECD.org export: Thursday, 16 April 20
+ 20, 18:23 (GMT)\nFTI loaded: ✓\n\nFor mo
+ re information see: https://oecd.github.
+ io/embargo-calendar/embargoes-by-publica
+ tion.html.\n\nPlease note: This informat
+ ion was correct as of this afternoon at 
+ 21:22, it is updated each night; therefo
+ re any subsequent updates may not yet be
+  visible here. Also, please be aware tha
+ t the different released media (PDF, HTM
+ L, etc.) are not necessarily released at
+  the same time. For complete and up-to-d
+ ate information see here: http://kappa.o
+ ecd.org/v3/search?term=9582594a-en.
+DTSTAMP:20200416T212217Z
+DTSTART:20200420T090000Z
+DTEND:20200420T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT24H
+TRIGGER:-PT72H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Synthesising good practices in
-  fiscal federalism - Key recommendations
-  from 15 years of country surveys
+DESCRIPTION:Reminder: Digitalisation challenges and 
+ opportunities for subnational government
+ s
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/061fe03d-end3e173
+UID:10.1787/c963073b-end3e119
+SUMMARY:Examining a congruency-typology model of
+  leadership for learning using two-level
+  latent class analysis with TALIS 2018
+DESCRIPTION:*Examining a congruency-typology model o
+ f leadership for learning using two-leve
+ l latent class analysis with TALIS 2018*
+ \n\nDirectorate: Directorate for Educati
+ on and Skills\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/c963073b-en\nPubl
+ ication type: Paper\nReleased as: PDF\n\
+ nEmbargo date/time: Wednesday, 22 April 
+ 2020, 9:00 (GMT)\n\n\niLibrary export: T
+ hursday, 16 April 2020, 18:55 (GMT)\nFre
+ epreview export: Thursday, 16 April 2020
+ , 18:40 (GMT)\nOECD.org export: Thursday
+ , 16 April 2020, 18:23 (GMT)\nFTI loaded
+ : ✓\n\nFor more information see: https:/
+ /oecd.github.io/embargo-calendar/embargo
+ es-by-publication.html.\n\nPlease note: 
+ This information was correct as of this 
+ afternoon at 21:22, it is updated each n
+ ight; therefore any subsequent updates m
+ ay not yet be visible here. Also, please
+  be aware that the different released me
+ dia (PDF, HTML, etc.) are not necessaril
+ y released at the same time. For complet
+ e and up-to-date information see here: h
+ ttp://kappa.oecd.org/v3/search?term=c963
+ 073b-en.
+DTSTAMP:20200416T212217Z
+DTSTART:20200422T090000Z
+DTEND:20200422T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Examining a congruency-typolog
+ y model of leadership for learning using
+  two-level latent class analysis with TA
+ LIS 2018
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/061fe03d-end3e2303
 SUMMARY:Financing SMEs and Entrepreneurs 2020 - 
  An OECD Scoreboard
 DESCRIPTION:*Financing SMEs and Entrepreneurs 2020 -
@@ -57,23 +101,23 @@ DESCRIPTION:*Financing SMEs and Entrepreneurs 2020 -
  tion type: Book\nReleased as: Paperback,
   PDF\n\nEmbargo date/time: Wednesday, 22
   April 2020, 12:00 (GMT)\n\n\niLibrary e
- xport: Wednesday, 15 April 2020, 18:49 (
- GMT)\nFreepreview export: never\nOECD.or
- g export: Wednesday, 15 April 2020, 18:2
- 0 (GMT)\nFTI loaded: ✗\n\nFor more infor
- mation see: https://oecd.github.io/embar
- go-calendar/embargoes-by-publication.htm
- l.\n\nPlease note: This information was 
- correct as of this afternoon at 21:17, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=061fe03d-en.
-DTSTAMP:20200415T211732Z
+ xport: Thursday, 16 April 2020, 18:55 (G
+ MT)\nFreepreview export: never\nOECD.org
+  export: Thursday, 16 April 2020, 18:23 
+ (GMT)\nFTI loaded: ✗\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 21:22, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=061fe03d-en.
+DTSTAMP:20200416T212217Z
 DTSTART:20200422T120000Z
 DTEND:20200422T121500Z
 TRANSP:TRANSPARENT
@@ -87,7 +131,7 @@ DESCRIPTION:Reminder: Financing SMEs and Entrepreneu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/09be52f0-end3e556
+UID:10.1787/09be52f0-end3e3643
 SUMMARY:Review of International Regulatory Co-op
  eration of the United Kingdom
 DESCRIPTION:*Review of International Regulatory Co-o
@@ -106,7 +150,7 @@ DESCRIPTION:*Review of International Regulatory Co-o
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 21:17, i
+ correct as of this afternoon at 21:22, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -115,7 +159,7 @@ DESCRIPTION:*Review of International Regulatory Co-o
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=09be52f0-en.
-DTSTAMP:20200415T211732Z
+DTSTAMP:20200416T212217Z
 DTSTART:20200424T080000Z
 DTEND:20200424T081500Z
 TRANSP:TRANSPARENT
@@ -129,7 +173,7 @@ DESCRIPTION:Reminder: Review of International Regula
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cc5feb81-end3e2813
+UID:10.1787/cc5feb81-end3e5900
 SUMMARY: SME and Entrepreneurship Policy in Braz
  il 2020
 DESCRIPTION:* SME and Entrepreneurship Policy in Bra
@@ -148,7 +192,7 @@ DESCRIPTION:* SME and Entrepreneurship Policy in Bra
  ://oecd.github.io/embargo-calendar/embar
  goes-by-publication.html.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 21:17, it is updated each
+ s afternoon at 21:22, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -157,7 +201,7 @@ DESCRIPTION:* SME and Entrepreneurship Policy in Bra
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=cc
  5feb81-en.
-DTSTAMP:20200415T211732Z
+DTSTAMP:20200416T212217Z
 DTSTART:20200427T063000Z
 DTEND:20200427T064500Z
 TRANSP:TRANSPARENT
@@ -171,7 +215,7 @@ DESCRIPTION:Reminder:  SME and Entrepreneurship Poli
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a4209041-end3e6153
+UID:10.1787/a4209041-end3e9240
 SUMMARY:OECD Economic Surveys: Slovenia 2020
 DESCRIPTION:*OECD Economic Surveys: Slovenia 2020*\n
  \nDirectorate: Economics Department\nLan
@@ -187,7 +231,7 @@ DESCRIPTION:*OECD Economic Surveys: Slovenia 2020*\n
  : https://oecd.github.io/embargo-calenda
  r/embargoes-by-publication.html.\n\nPlea
  se note: This information was correct as
-  of this afternoon at 21:17, it is updat
+  of this afternoon at 21:22, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -196,7 +240,7 @@ DESCRIPTION:*OECD Economic Surveys: Slovenia 2020*\n
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=a4209041-en.
-DTSTAMP:20200415T211732Z
+DTSTAMP:20200416T212217Z
 DTSTART:20200429T220000Z
 DTEND:20200429T221500Z
 TRANSP:TRANSPARENT
@@ -210,71 +254,32 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Sloveni
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b04b25de-end3e6312
-SUMMARY:OECD Economic Surveys: Greece 2020
-DESCRIPTION:*OECD Economic Surveys: Greece 2020*\n\n
- Directorate: Economics Department\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/b04b25de-en\nPublication type: Econom
- ic survey\nReleased as: Paperback, PDF\n
- \nEmbargo date/time: Wednesday, 29 April
-  2020, 22:31 (GMT)\n\n\niLibrary export:
-  never\nFreepreview export: never\nOECD.
- org export: never\nFTI loaded: ✗\n\nFor 
- more information see: https://oecd.githu
- b.io/embargo-calendar/embargoes-by-publi
- cation.html.\n\nPlease note: This inform
- ation was correct as of this afternoon a
- t 21:17, it is updated each night; there
- fore any subsequent updates may not yet 
- be visible here. Also, please be aware t
- hat the different released media (PDF, H
- TML, etc.) are not necessarily released 
- at the same time. For complete and up-to
- -date information see here: http://kappa
- .oecd.org/v3/search?term=b04b25de-en.
-DTSTAMP:20200415T211732Z
-DTSTART:20200429T223100Z
-DTEND:20200429T224600Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Economic Surveys: Greece 
- 2020
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/047072cd-end3e8740
-SUMMARY:Taxing Wages 2020 - How Tax Systems Infl
- uence Choice of Employment Form
-DESCRIPTION:*Taxing Wages 2020 - How Tax Systems Inf
- luence Choice of Employment Form*\n\nDir
- ectorate: Centre for Tax Policy and Admi
- nistration\nLanguage: English\nDOI: http
- s://doi.org/10.1787/047072cd-en\nPublica
- tion type: Book\nReleased as: ePub, HTML
- , Paperback, PDF\n\nEmbargo date/time: T
- hursday, 30 April 2020, 9:00 (GMT)\n\n\n
- iLibrary export: Wednesday, 15 April 202
- 0, 18:49 (GMT)\nFreepreview export: neve
- r\nOECD.org export: Wednesday, 15 April 
- 2020, 18:20 (GMT)\nFTI loaded: ✗\n\nFor 
- more information see: https://oecd.githu
- b.io/embargo-calendar/embargoes-by-publi
- cation.html.\n\nPlease note: This inform
- ation was correct as of this afternoon a
- t 21:17, it is updated each night; there
- fore any subsequent updates may not yet 
- be visible here. Also, please be aware t
- hat the different released media (PDF, H
- TML, etc.) are not necessarily released 
- at the same time. For complete and up-to
- -date information see here: http://kappa
- .oecd.org/v3/search?term=047072cd-en.
-DTSTAMP:20200415T211732Z
+UID:10.1787/047072cd-end3e18051
+SUMMARY:Taxing Wages 2020
+DESCRIPTION:*Taxing Wages 2020*\n\nDirectorate: Cent
+ re for Tax Policy and Administration\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/047072cd-en\nPublication type: Boo
+ k\nReleased as: ePub, HTML, Paperback, P
+ DF\n\nEmbargo date/time: Thursday, 30 Ap
+ ril 2020, 9:00 (GMT)\n\n\niLibrary expor
+ t: Thursday, 16 April 2020, 18:55 (GMT)\
+ nFreepreview export: never\nOECD.org exp
+ ort: Thursday, 16 April 2020, 18:23 (GMT
+ )\nFTI loaded: ✗\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 21:22, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=047072cd-en.
+DTSTAMP:20200416T212217Z
 DTSTART:20200430T090000Z
 DTEND:20200430T091500Z
 TRANSP:TRANSPARENT
@@ -283,42 +288,36 @@ TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Taxing Wages 2020 - How Tax Sy
- stems Influence Choice of Employment For
- m
+DESCRIPTION:Reminder: Taxing Wages 2020
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/44e00867-frd3e11217
-SUMMARY:Les impôts sur les salaires 2020 - L’inf
- luence des systèmes fiscaux sur le choix
-  de la forme d’emploi
-DESCRIPTION:*Les impôts sur les salaires 2020 - L’in
- fluence des systèmes fiscaux sur le choi
- x de la forme d’emploi*\n\nDirectorate: 
- Centre for Tax Policy and Administration
- \nLanguage: French\nDOI: https://doi.org
- /10.1787/44e00867-fr\nPublication type: 
- Book\nReleased as: Paperback, PDF\n\nEmb
- argo date/time: Thursday, 30 April 2020,
-  9:00 (GMT)\n\n\niLibrary export: Tuesda
- y, 14 April 2020, 19:03 (GMT)\nFreeprevi
- ew export: never\nOECD.org export: Tuesd
- ay, 14 April 2020, 18:29 (GMT)\nFTI load
- ed: ✗\n\nFor more information see: https
- ://oecd.github.io/embargo-calendar/embar
- goes-by-publication.html.\n\nPlease note
- : This information was correct as of thi
- s afternoon at 21:17, it is updated each
-  night; therefore any subsequent updates
-  may not yet be visible here. Also, plea
- se be aware that the different released 
- media (PDF, HTML, etc.) are not necessar
- ily released at the same time. For compl
- ete and up-to-date information see here:
-  http://kappa.oecd.org/v3/search?term=44
- e00867-fr.
-DTSTAMP:20200415T211732Z
+UID:10.1787/44e00867-frd3e27744
+SUMMARY:Les impôts sur les salaires 2020
+DESCRIPTION:*Les impôts sur les salaires 2020*\n\nDi
+ rectorate: Centre for Tax Policy and Adm
+ inistration\nLanguage: French\nDOI: http
+ s://doi.org/10.1787/44e00867-fr\nPublica
+ tion type: Book\nReleased as: ePub, HTML
+ , Paperback, PDF\n\nEmbargo date/time: T
+ hursday, 30 April 2020, 9:00 (GMT)\n\n\n
+ iLibrary export: Thursday, 16 April 2020
+ , 18:55 (GMT)\nFreepreview export: never
+ \nOECD.org export: Thursday, 16 April 20
+ 20, 18:23 (GMT)\nFTI loaded: ✗\n\nFor mo
+ re information see: https://oecd.github.
+ io/embargo-calendar/embargoes-by-publica
+ tion.html.\n\nPlease note: This informat
+ ion was correct as of this afternoon at 
+ 21:22, it is updated each night; therefo
+ re any subsequent updates may not yet be
+  visible here. Also, please be aware tha
+ t the different released media (PDF, HTM
+ L, etc.) are not necessarily released at
+  the same time. For complete and up-to-d
+ ate information see here: http://kappa.o
+ ecd.org/v3/search?term=44e00867-fr.
+DTSTAMP:20200416T212217Z
 DTSTART:20200430T090000Z
 DTEND:20200430T091500Z
 TRANSP:TRANSPARENT
@@ -328,12 +327,11 @@ REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Les impôts sur les salaires 20
- 20 - L’influence des systèmes fiscaux su
- r le choix de la forme d’emploi
+ 20
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/68739b9b-en-esd3e11431
+UID:10.1787/68739b9b-en-esd3e28177
 SUMMARY:Revenue Statistics in Latin America and 
  the Caribbean 2020 (en) | Estadísticas t
  ributarias en América Latina y el Caribe
@@ -355,7 +353,7 @@ DESCRIPTION:*Revenue Statistics in Latin America and
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 21:17, it is updated each 
+  afternoon at 21:22, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -364,7 +362,7 @@ DESCRIPTION:*Revenue Statistics in Latin America and
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=687
  39b9b-en-es.
-DTSTAMP:20200415T211732Z
+DTSTAMP:20200416T212217Z
 DTSTART:20200505T120000Z
 DTEND:20200505T121500Z
 TRANSP:TRANSPARENT
@@ -380,7 +378,7 @@ DESCRIPTION:Reminder: Revenue Statistics in Latin Am
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d6a7d907-end3e11537
+UID:10.1787/d6a7d907-end3e28283
 SUMMARY:OECD Economic Surveys: Israel 2020
 DESCRIPTION:*OECD Economic Surveys: Israel 2020*\n\n
  Directorate: Economics Department\nLangu
@@ -394,7 +392,7 @@ DESCRIPTION:*OECD Economic Surveys: Israel 2020*\n\n
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 21:17, it is u
+ t as of this afternoon at 21:22, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -403,7 +401,7 @@ DESCRIPTION:*OECD Economic Surveys: Israel 2020*\n\n
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=d6a7d907-en.
-DTSTAMP:20200415T211732Z
+DTSTAMP:20200416T212217Z
 DTSTART:20200607T220000Z
 DTEND:20200607T221500Z
 TRANSP:TRANSPARENT
@@ -413,6 +411,43 @@ REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Economic Surveys: Israel 
+ 2020
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/b04b25de-end3e28334
+SUMMARY:OECD Economic Surveys: Greece 2020
+DESCRIPTION:*OECD Economic Surveys: Greece 2020*\n\n
+ Directorate: Economics Department\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/b04b25de-en\nPublication type: Econom
+ ic survey\nReleased as: Paperback, PDF\n
+ \nEmbargo date/time: Thursday, 11 June 2
+ 020, 22:31 (GMT)\n\n\niLibrary export: n
+ ever\nFreepreview export: never\nOECD.or
+ g export: never\nFTI loaded: ✗\n\nFor mo
+ re information see: https://oecd.github.
+ io/embargo-calendar/embargoes-by-publica
+ tion.html.\n\nPlease note: This informat
+ ion was correct as of this afternoon at 
+ 21:22, it is updated each night; therefo
+ re any subsequent updates may not yet be
+  visible here. Also, please be aware tha
+ t the different released media (PDF, HTM
+ L, etc.) are not necessarily released at
+  the same time. For complete and up-to-d
+ ate information see here: http://kappa.o
+ ecd.org/v3/search?term=b04b25de-en.
+DTSTAMP:20200416T212217Z
+DTSTART:20200611T223100Z
+DTEND:20200611T224600Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Economic Surveys: Greece 
  2020
 END:VALARM
 END:VEVENT
