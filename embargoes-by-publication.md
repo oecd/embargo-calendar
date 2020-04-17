@@ -2,7 +2,30 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 16 April 2020 at 21:22* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 17 April 2020 at 21:27* | [See embargoes by date](embargoes-by-date.md) |
+
+## [Common Ground Between the Paris Agreement and the Sendai Framework  - Climate Change Adaptation and Disaster Risk Reduction](https://doi.org/10.1787/3edc8d09-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 April 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 April 2020 at 20:58
+- [x] Exported to Keepeek Friday 17 April 2020 at 20:37
+- [x] Exported to OECD.org Friday 17 April 2020 at 20:23
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
 
 ## [Digitalisation challenges and opportunities for subnational governments](https://doi.org/10.1787/9582594a-en)
 
@@ -58,18 +81,18 @@ Wednesday 22 April 2020 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 16 April 2020 at 20:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 April 2020 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 April 2020 at 20:58
+- [x] Exported to Keepeek Friday 17 April 2020 at 20:37
+- [x] Exported to OECD.org Friday 17 April 2020 at 20:23
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -150,10 +173,10 @@ Thursday 30 April 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 16 April 2020 at 20:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 April 2020 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 April 2020 at 20:58
+- [x] Exported to Keepeek Friday 17 April 2020 at 20:37
+- [x] Exported to OECD.org Friday 17 April 2020 at 20:23
 
 ### Additional Information
 
