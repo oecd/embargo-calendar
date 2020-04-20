@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 17 April 2020 at 21:27* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 20 April 2020 at 21:17* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Common Ground Between the Paris Agreement and the Sendai Framework  - Climate Change Adaptation and Disaster Risk Reduction](https://doi.org/10.1787/3edc8d09-en)
 
@@ -96,29 +96,6 @@ Wednesday 22 April 2020 at 12:00 | no launch event
 
 ------
 
-## [Review of International Regulatory Co-operation of the United Kingdom](https://doi.org/10.1787/09be52f0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 24 April 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 17 March 2020 at 21:26
-- [x] Exported to Keepeek Monday 30 March 2020 at 20:42
-- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
 ## [ SME and Entrepreneurship Policy in Brazil 2020](https://doi.org/10.1787/cc5feb81-en)
 
 Embargo date | Launch date
@@ -196,17 +173,40 @@ Thursday 30 April 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 16 April 2020 at 20:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 April 2020 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 20 April 2020 at 20:52
+- [x] Exported to Keepeek Monday 20 April 2020 at 20:35
+- [x] Exported to OECD.org Monday 20 April 2020 at 20:22
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Review of International Regulatory Co-operation of the United Kingdom](https://doi.org/10.1787/09be52f0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 May 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 20 April 2020 at 20:52
+- [x] Exported to Keepeek Monday 30 March 2020 at 20:42
+- [x] Exported to OECD.org Monday 20 April 2020 at 20:22
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
 ------
