@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2020-04-20T21:17:50.0571492+02:00">
+<report name="official-embargoes" generated="2020-04-21T21:59:10.5851161+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -53,9 +53,9 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-04-17T18:58:06Z</cell>
     <cell name="freepreview last export date">2020-04-17T18:37:51Z</cell>
-    <cell name="oecd.org last export date">2020-04-17T18:23:02Z</cell>
+    <cell name="oecd.org last export date">2020-04-21T18:24:41Z</cell>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2020-04-20T20:25:58Z</cell>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ceb59317</cell>
@@ -75,7 +75,7 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2020-04-20T20:25:58Z</cell>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/49c6495c</cell>
@@ -193,9 +193,9 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-04-17T18:58:06Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-04-17T18:23:02Z</cell>
+    <cell name="oecd.org last export date">2020-04-21T18:24:41Z</cell>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2020-04-20T20:25:58Z</cell>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2bf6df96</cell>
@@ -513,7 +513,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-04-16T18:55:40Z</cell>
     <cell name="freepreview last export date">2020-04-16T18:40:58Z</cell>
-    <cell name="oecd.org last export date">2020-04-16T18:23:27Z</cell>
+    <cell name="oecd.org last export date">2020-04-21T18:24:41Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -521,6 +521,26 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/034fc384</cell>
   </row>
   <row index="26">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/83880b97-en</cell>
+    <cell name="title">How teachers differ in their perceptions of leadership for learning (en)</cell>
+    <cell name="subtitle">Clustering teacher data from TALIS 2018 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-04-22</cell>
+    <cell name="embargo date">2020-04-22T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-04-21T18:52:12Z</cell>
+    <cell name="freepreview last export date">2020-04-21T18:37:52Z</cell>
+    <cell name="oecd.org last export date">2020-04-21T18:24:41Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f8e9d9ed</cell>
+  </row>
+  <row index="27">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/c963073b-en</cell>
     <cell name="title">Examining a congruency-typology model of leadership for learning using two-level latent class analysis with TALIS 2018 (en)</cell>
@@ -540,7 +560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/85db6e37</cell>
   </row>
-  <row index="27">
+  <row index="28">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/b6c31164-en</cell>
     <cell name="title">Malaysia (en)</cell>
@@ -560,7 +580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/af01da0d</cell>
   </row>
-  <row index="28">
+  <row index="29">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4b4e52a6-en</cell>
     <cell name="title">Trends in SMEs and entrepreneurship finance in Indonesia (en)</cell>
@@ -580,7 +600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/400bfcf7</cell>
   </row>
-  <row index="29">
+  <row index="30">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/608d8a73-en</cell>
     <cell name="title">Interest rates on lending to SMEs and non-financial private corporations in the United Kingdom (en)</cell>
@@ -600,7 +620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/abe69979</cell>
   </row>
-  <row index="30">
+  <row index="31">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f6df1850-en</cell>
     <cell name="title">Global private debt fundraising (en)</cell>
@@ -620,7 +640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/21f79a46</cell>
   </row>
-  <row index="31">
+  <row index="32">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/5b47a79b-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Poland (en)</cell>
@@ -640,7 +660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/68bc93c8</cell>
   </row>
-  <row index="32">
+  <row index="33">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f639657b-en</cell>
     <cell name="title">Canada (en)</cell>
@@ -660,7 +680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ea9638d1</cell>
   </row>
-  <row index="33">
+  <row index="34">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/21ea1a61-en</cell>
     <cell name="title">The Netherlands (en)</cell>
@@ -680,7 +700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e826e858</cell>
   </row>
-  <row index="34">
+  <row index="35">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/3eb571c4-en</cell>
     <cell name="title">Preface (en)</cell>
@@ -700,7 +720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e46cf741</cell>
   </row>
-  <row index="35">
+  <row index="36">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/061fe03d-en</cell>
     <cell name="title">Financing SMEs and Entrepreneurs 2020 (en)</cell>
@@ -720,7 +740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f9bb872c</cell>
   </row>
-  <row index="36">
+  <row index="37">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ec8a8fef-en</cell>
     <cell name="title">Repo rate in Sweden (en)</cell>
@@ -740,7 +760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d28c6e9f</cell>
   </row>
-  <row index="37">
+  <row index="38">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/6eebb497-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Ireland (en)</cell>
@@ -760,7 +780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3e65bc9c</cell>
   </row>
-  <row index="38">
+  <row index="39">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/b974cfd4-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Lithuania (en)</cell>
@@ -780,7 +800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/420de994</cell>
   </row>
-  <row index="39">
+  <row index="40">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4361d744-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Canada (en)</cell>
@@ -800,7 +820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3631f13b</cell>
   </row>
-  <row index="40">
+  <row index="41">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/1ad7297d-en</cell>
     <cell name="title">Leasing and hire purchases, growth rate (en)</cell>
@@ -820,7 +840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/60d302bc</cell>
   </row>
-  <row index="41">
+  <row index="42">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/3a878caa-en</cell>
     <cell name="title">SME Loan applications (en)</cell>
@@ -840,7 +860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d3e58623</cell>
   </row>
-  <row index="42">
+  <row index="43">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f1890aaa-en</cell>
     <cell name="title">Italy (en)</cell>
@@ -860,7 +880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e63d2750</cell>
   </row>
-  <row index="43">
+  <row index="44">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/40146c8f-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in France (en)</cell>
@@ -880,7 +900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6426308d</cell>
   </row>
-  <row index="44">
+  <row index="45">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/80e743f8-en</cell>
     <cell name="title">Lending in Italy, 2007-19 (en)</cell>
@@ -900,7 +920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/20bfdc36</cell>
   </row>
-  <row index="45">
+  <row index="46">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4317b6d8-en</cell>
     <cell name="title">Bank interest rates for small and large loans in Sweden (en)</cell>
@@ -920,7 +940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f7d91714</cell>
   </row>
-  <row index="46">
+  <row index="47">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f0ea4efc-en</cell>
     <cell name="title">Methodology for producing the national scoreboards (en)</cell>
@@ -940,7 +960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/472e577b</cell>
   </row>
-  <row index="47">
+  <row index="48">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/8e358ec5-en</cell>
     <cell name="title">SME Bankruptcies, growth rate (en)</cell>
@@ -960,7 +980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c0bf0885</cell>
   </row>
-  <row index="48">
+  <row index="49">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/61213d89-en</cell>
     <cell name="title">The online alternative finance market for businesses by region, 2018 (en)</cell>
@@ -980,7 +1000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/12ba472e</cell>
   </row>
-  <row index="49">
+  <row index="50">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c250ad4d-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1000,7 +1020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3f6e093e</cell>
   </row>
-  <row index="50">
+  <row index="51">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/6d53fda5-en</cell>
     <cell name="title">Slovak Republic (en)</cell>
@@ -1020,7 +1040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/820ea36a</cell>
   </row>
-  <row index="51">
+  <row index="52">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/a819a8fe-en</cell>
     <cell name="title">New Zealand (en)</cell>
@@ -1040,7 +1060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4d3d1780</cell>
   </row>
-  <row index="52">
+  <row index="53">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/2bf6bc72-en</cell>
     <cell name="title">Australia (en)</cell>
@@ -1060,7 +1080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/edeea177</cell>
   </row>
-  <row index="53">
+  <row index="54">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/a74c3547-en</cell>
     <cell name="title">Firms, turnover and value added in Italy, 2017 (en)</cell>
@@ -1080,7 +1100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/90bbfaf0</cell>
   </row>
-  <row index="54">
+  <row index="55">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/8d33927c-en</cell>
     <cell name="title">Turkey (en)</cell>
@@ -1100,7 +1120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/22004f77</cell>
   </row>
-  <row index="55">
+  <row index="56">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/a819a8fe-en</cell>
     <cell name="title">New Zealand (en)</cell>
@@ -1120,7 +1140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6cbbbb5</cell>
   </row>
-  <row index="56">
+  <row index="57">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/5e128fd3-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in the Czech Republic (en)</cell>
@@ -1140,7 +1160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b1f46a28</cell>
   </row>
-  <row index="57">
+  <row index="58">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f420f997-en</cell>
     <cell name="title">Estonia (en)</cell>
@@ -1160,7 +1180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7b67cf59</cell>
   </row>
-  <row index="58">
+  <row index="59">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/7bc52404-en</cell>
     <cell name="title">Trends in SMEs and Entrepreneurship finance in Turkey (en)</cell>
@@ -1180,7 +1200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aa1a61ac</cell>
   </row>
-  <row index="59">
+  <row index="60">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4034a9a8-en</cell>
     <cell name="title">Russian Federation (en)</cell>
@@ -1200,7 +1220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/02656cdb</cell>
   </row>
-  <row index="60">
+  <row index="61">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/cf411172-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Finland (en)</cell>
@@ -1220,7 +1240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/de228ff4</cell>
   </row>
-  <row index="61">
+  <row index="62">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/6ac5aefb-en</cell>
     <cell name="title">Venture and growth capital investments in Swedish companies (en)</cell>
@@ -1240,7 +1260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7e56f164</cell>
   </row>
-  <row index="62">
+  <row index="63">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/37b75ad0-en</cell>
     <cell name="title">South Africa (en)</cell>
@@ -1260,7 +1280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/14ddeceb</cell>
   </row>
-  <row index="63">
+  <row index="64">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/1a9d4035-en</cell>
     <cell name="title">Georgia (en)</cell>
@@ -1280,7 +1300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b974e42a</cell>
   </row>
-  <row index="64">
+  <row index="65">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/b597539d-en</cell>
     <cell name="title">Reader’s Guide (en)</cell>
@@ -1300,7 +1320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5b9dbe47</cell>
   </row>
-  <row index="65">
+  <row index="66">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/5e6ce462-en</cell>
     <cell name="title">Changes in the demand for business loans in the Czech Republic (en)</cell>
@@ -1320,7 +1340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/60aa648e</cell>
   </row>
-  <row index="66">
+  <row index="67">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/5bfd9a4a-en</cell>
     <cell name="title">Changes in credit conditions in the corporate segments (en)</cell>
@@ -1340,7 +1360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4696dded</cell>
   </row>
-  <row index="67">
+  <row index="68">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c2314a63-en</cell>
     <cell name="title">Mexico (en)</cell>
@@ -1360,7 +1380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ebfb1b96</cell>
   </row>
-  <row index="68">
+  <row index="69">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/3eb571c4-en</cell>
     <cell name="title">Preface (en)</cell>
@@ -1380,7 +1400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f1edf44</cell>
   </row>
-  <row index="69">
+  <row index="70">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/a1b26a2b-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Portugal (en)</cell>
@@ -1400,7 +1420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4c94fba4</cell>
   </row>
-  <row index="70">
+  <row index="71">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c0ca6e1e-en</cell>
     <cell name="title">Peru (en)</cell>
@@ -1420,7 +1440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/21296eaf</cell>
   </row>
-  <row index="71">
+  <row index="72">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/de901e55-en</cell>
     <cell name="title">Finland (en)</cell>
@@ -1440,7 +1460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6e2525dd</cell>
   </row>
-  <row index="72">
+  <row index="73">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/20ee7990-en</cell>
     <cell name="title">Kazakhstan (en)</cell>
@@ -1460,7 +1480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9c2144ed</cell>
   </row>
-  <row index="73">
+  <row index="74">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c1756cb7-en</cell>
     <cell name="title">Growth in SME interest rates (en)</cell>
@@ -1480,7 +1500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4dae0441</cell>
   </row>
-  <row index="74">
+  <row index="75">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/fae6cf56-en</cell>
     <cell name="title">Trends in the number of SMEs in Japan (en)</cell>
@@ -1500,7 +1520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0db2a87a</cell>
   </row>
-  <row index="75">
+  <row index="76">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/055d0022-en</cell>
     <cell name="title">Access to finance as a pressing problem for European SMEs (en)</cell>
@@ -1520,7 +1540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/92b33bf1</cell>
   </row>
-  <row index="76">
+  <row index="77">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9cef5ce3-en</cell>
     <cell name="title">Bankruptcies in Italy (en)</cell>
@@ -1540,7 +1560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/12c990d7</cell>
   </row>
-  <row index="77">
+  <row index="78">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ad33bbff-en</cell>
     <cell name="title">New SME loans, growth rates (en)</cell>
@@ -1560,7 +1580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d440e2c8</cell>
   </row>
-  <row index="78">
+  <row index="79">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/7adf3153-en</cell>
     <cell name="title">Austria (en)</cell>
@@ -1580,7 +1600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/80d45730</cell>
   </row>
-  <row index="79">
+  <row index="80">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/98927ee2-en</cell>
     <cell name="title">Sweden (en)</cell>
@@ -1600,7 +1620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/af93419b</cell>
   </row>
-  <row index="80">
+  <row index="81">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/41e2fcb2-en</cell>
     <cell name="title">Recent Trends in SME and Entrepreneurship Finance (en)</cell>
@@ -1612,7 +1632,7 @@
     <cell name="embargo date">2020-04-22T12:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-04-17T18:58:06Z</cell>
-    <cell name="freepreview last export date">2020-04-17T18:37:51Z</cell>
+    <cell name="freepreview last export date">2020-04-21T18:37:52Z</cell>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
@@ -1620,7 +1640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a1b7c955</cell>
   </row>
-  <row index="81">
+  <row index="82">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/31f5c0a1-en</cell>
     <cell name="title">People’s Republic of China (en)</cell>
@@ -1640,7 +1660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8bd6ea14</cell>
   </row>
-  <row index="82">
+  <row index="83">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/3f896cc5-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in the Russian Federation (en)</cell>
@@ -1660,7 +1680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d6e51e4</cell>
   </row>
-  <row index="83">
+  <row index="84">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f6c64fc8-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Colombia (en)</cell>
@@ -1680,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e8f04e2</cell>
   </row>
-  <row index="84">
+  <row index="85">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/20ee7990-en</cell>
     <cell name="title">Kazakhstan (en)</cell>
@@ -1700,7 +1720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0bea8fe0</cell>
   </row>
-  <row index="85">
+  <row index="86">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/285de8ad-en</cell>
     <cell name="title">Growth in outstanding SME business loans (en)</cell>
@@ -1720,7 +1740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6b5720b2</cell>
   </row>
-  <row index="86">
+  <row index="87">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/bca80c72-en</cell>
     <cell name="title">SMEs seeking bank finance in the past 6 months (en)</cell>
@@ -1740,7 +1760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4e9c3301</cell>
   </row>
-  <row index="87">
+  <row index="88">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/31f5c0a1-en</cell>
     <cell name="title">People’s Republic of China (en)</cell>
@@ -1760,7 +1780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/80d46745</cell>
   </row>
-  <row index="88">
+  <row index="89">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/1a9d4035-en</cell>
     <cell name="title">Georgia (en)</cell>
@@ -1780,7 +1800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f526f267</cell>
   </row>
-  <row index="89">
+  <row index="90">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/a923e2fa-en</cell>
     <cell name="title">Commercial credit portfolio behaviour (en)</cell>
@@ -1800,7 +1820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0bcc8018</cell>
   </row>
-  <row index="90">
+  <row index="91">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/de65963c-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in the United Kingdom (en)</cell>
@@ -1820,7 +1840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/392f29db</cell>
   </row>
-  <row index="91">
+  <row index="92">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/6a6a47fc-en</cell>
     <cell name="title">Venture capital investments (en)</cell>
@@ -1840,7 +1860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f26b7f0a</cell>
   </row>
-  <row index="92">
+  <row index="93">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/76ff2ee0-en</cell>
     <cell name="title">Belarus (en)</cell>
@@ -1860,7 +1880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/933ba29d</cell>
   </row>
-  <row index="93">
+  <row index="94">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/0f244ff7-en</cell>
     <cell name="title">Latvia (en)</cell>
@@ -1880,7 +1900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ce9f41b5</cell>
   </row>
-  <row index="94">
+  <row index="95">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/54da3754-en</cell>
     <cell name="title">Serbia (en)</cell>
@@ -1900,7 +1920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/96c153d3</cell>
   </row>
-  <row index="95">
+  <row index="96">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/cbcf56e7-en</cell>
     <cell name="title">United Kingdom (en)</cell>
@@ -1920,7 +1940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d09b9486</cell>
   </row>
-  <row index="96">
+  <row index="97">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4034a9a8-en</cell>
     <cell name="title">Russian Federation (en)</cell>
@@ -1940,7 +1960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/efc4d17c</cell>
   </row>
-  <row index="97">
+  <row index="98">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/8d33927c-en</cell>
     <cell name="title">Turkey (en)</cell>
@@ -1960,7 +1980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/22dd40a7</cell>
   </row>
-  <row index="98">
+  <row index="99">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/7adf3153-en</cell>
     <cell name="title">Austria (en)</cell>
@@ -1980,7 +2000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9c9c22e2</cell>
   </row>
-  <row index="99">
+  <row index="100">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4883c7cb-en</cell>
     <cell name="title">Czech Republic (en)</cell>
@@ -2000,7 +2020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3a86d97f</cell>
   </row>
-  <row index="100">
+  <row index="101">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/41e2fcb2-en</cell>
     <cell name="title">Recent Trends in SME and Entrepreneurship Finance (en)</cell>
@@ -2020,7 +2040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/889566eb</cell>
   </row>
-  <row index="101">
+  <row index="102">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/67ce6854-en</cell>
     <cell name="title">Indonesia (en)</cell>
@@ -2040,7 +2060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/234afd94</cell>
   </row>
-  <row index="102">
+  <row index="103">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/54da3754-en</cell>
     <cell name="title">Serbia (en)</cell>
@@ -2060,7 +2080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0717dc01</cell>
   </row>
-  <row index="103">
+  <row index="104">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/dc4777c9-en</cell>
     <cell name="title">High-tech capital raising in Israel (en)</cell>
@@ -2080,7 +2100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/05fc2ab7</cell>
   </row>
-  <row index="104">
+  <row index="105">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ae8c3c25-en</cell>
     <cell name="title">Ukraine (en)</cell>
@@ -2100,7 +2120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9c55da6a</cell>
   </row>
-  <row index="105">
+  <row index="106">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/1c313e80-en</cell>
     <cell name="title">Loan interest rate on loans for SMEs and large firms in Korea, 2007-18 (en)</cell>
@@ -2120,7 +2140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/91323ecb</cell>
   </row>
-  <row index="106">
+  <row index="107">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/0f244ff7-en</cell>
     <cell name="title">Latvia (en)</cell>
@@ -2140,7 +2160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d430b555</cell>
   </row>
-  <row index="107">
+  <row index="108">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/5989eb3a-en</cell>
     <cell name="title">Japan (en)</cell>
@@ -2160,7 +2180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0fad7373</cell>
   </row>
-  <row index="108">
+  <row index="109">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/1be68755-en</cell>
     <cell name="title">Principal problems faced by SMEs (percentage of responses) (en)</cell>
@@ -2180,7 +2200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e8ff9052</cell>
   </row>
-  <row index="109">
+  <row index="110">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/6bdd4eb7-en</cell>
     <cell name="title">Policy developments in SME finance a decade after the global financial and economic crisis (en)</cell>
@@ -2200,7 +2220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ed948621</cell>
   </row>
-  <row index="110">
+  <row index="111">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/cec08f11-en</cell>
     <cell name="title">Business investment in Australia as a share of GDP (en)</cell>
@@ -2220,7 +2240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/40fca631</cell>
   </row>
-  <row index="111">
+  <row index="112">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/d82883a4-en</cell>
     <cell name="title">SMEs credit ratio and NPL rate (en)</cell>
@@ -2240,7 +2260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bcb067aa</cell>
   </row>
-  <row index="112">
+  <row index="113">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/199dc16e-en</cell>
     <cell name="title">Monetary policy is accommodative (en)</cell>
@@ -2260,7 +2280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/155ca3be</cell>
   </row>
-  <row index="113">
+  <row index="114">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/2bc5fd4d-en</cell>
     <cell name="title">Chile (en)</cell>
@@ -2280,7 +2300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bf2529ca</cell>
   </row>
-  <row index="114">
+  <row index="115">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/2bf6bc72-en</cell>
     <cell name="title">Australia (en)</cell>
@@ -2300,7 +2320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/39348f97</cell>
   </row>
-  <row index="115">
+  <row index="116">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/b597539d-en</cell>
     <cell name="title">Reader’s Guide (en)</cell>
@@ -2320,7 +2340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f3e0f247</cell>
   </row>
-  <row index="116">
+  <row index="117">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/d9cdc84f-en</cell>
     <cell name="title">SME loan shares (en)</cell>
@@ -2340,7 +2360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/77d25cd6</cell>
   </row>
-  <row index="117">
+  <row index="118">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/dd2390a8-en</cell>
     <cell name="title">Belgium (en)</cell>
@@ -2360,7 +2380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/09f39959</cell>
   </row>
-  <row index="118">
+  <row index="119">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/12569a87-en</cell>
     <cell name="title">Business debt outstanding in Canada (en)</cell>
@@ -2380,7 +2400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/19f026a1</cell>
   </row>
-  <row index="119">
+  <row index="120">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/49864d23-en</cell>
     <cell name="title">Trends in SME and Entrepreneurship finance in Ukraine (en)</cell>
@@ -2400,7 +2420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae3312cc</cell>
   </row>
-  <row index="120">
+  <row index="121">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/427307df-en</cell>
     <cell name="title">Interest rates by enterprise size (%) (en)</cell>
@@ -2420,7 +2440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fe7aa6b7</cell>
   </row>
-  <row index="121">
+  <row index="122">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9630c7d1-en</cell>
     <cell name="title">Denmark (en)</cell>
@@ -2440,7 +2460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a4c729fb</cell>
   </row>
-  <row index="122">
+  <row index="123">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/a60bb027-en</cell>
     <cell name="title">Outstanding KUR loans, 2007-2018 (en)</cell>
@@ -2460,7 +2480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5d017eb1</cell>
   </row>
-  <row index="123">
+  <row index="124">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/bae028c6-en</cell>
     <cell name="title">Credit conditions for SMEs and large firms in Italy, 2007-19 (en)</cell>
@@ -2480,7 +2500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/61347add</cell>
   </row>
-  <row index="124">
+  <row index="125">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/62ab7561-en</cell>
     <cell name="title">Country snapshots (en)</cell>
@@ -2500,7 +2520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/de6377c0</cell>
   </row>
-  <row index="125">
+  <row index="126">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/812ea7b5-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Australia (en)</cell>
@@ -2520,7 +2540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0937adc7</cell>
   </row>
-  <row index="126">
+  <row index="127">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4e7fd73f-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Korea (en)</cell>
@@ -2540,7 +2560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5ca3673a</cell>
   </row>
-  <row index="127">
+  <row index="128">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/131f6db7-en</cell>
     <cell name="title">Hungary (en)</cell>
@@ -2560,7 +2580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0f45ebc1</cell>
   </row>
-  <row index="128">
+  <row index="129">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ec08c04c-en</cell>
     <cell name="title">Gross New Lending to Non-Financial SMEs (en)</cell>
@@ -2580,7 +2600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6f75816</cell>
   </row>
-  <row index="129">
+  <row index="130">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/94bcfd5d-en</cell>
     <cell name="title">Credits conditions approval index in Chile (en)</cell>
@@ -2600,7 +2620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/81b39332</cell>
   </row>
-  <row index="130">
+  <row index="131">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/81c277a4-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Denmark (en)</cell>
@@ -2620,7 +2640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c62f4bb2</cell>
   </row>
-  <row index="131">
+  <row index="132">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/d4450edd-en</cell>
     <cell name="title">Trends in interest rate in Luxembourg (en)</cell>
@@ -2640,7 +2660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/842781c2</cell>
   </row>
-  <row index="132">
+  <row index="133">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/b6c31164-en</cell>
     <cell name="title">Malaysia (en)</cell>
@@ -2660,7 +2680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5621f247</cell>
   </row>
-  <row index="133">
+  <row index="134">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/84d8a52f-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in the United States (en)</cell>
@@ -2680,7 +2700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cfbd66d9</cell>
   </row>
-  <row index="134">
+  <row index="135">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/45687576-en</cell>
     <cell name="title">Gross lending, gross repayments and net lending to SMEs in the United Kingdom (en)</cell>
@@ -2700,7 +2720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e85732de</cell>
   </row>
-  <row index="135">
+  <row index="136">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/e93fe6b8-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Switzerland (en)</cell>
@@ -2720,7 +2740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5fe1a8ca</cell>
   </row>
-  <row index="136">
+  <row index="137">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/6181b595-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Thailand (en)</cell>
@@ -2740,7 +2760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/397873ab</cell>
   </row>
-  <row index="137">
+  <row index="138">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/bdc76bbd-en</cell>
     <cell name="title">Payment delays by country and evolution in number of days (median value) (en)</cell>
@@ -2760,7 +2780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/91c39d85</cell>
   </row>
-  <row index="138">
+  <row index="139">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/8782a523-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Mexico (en)</cell>
@@ -2780,7 +2800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/88694797</cell>
   </row>
-  <row index="139">
+  <row index="140">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/5b5c56c4-en</cell>
     <cell name="title">Median rate of NPLs by firm type, 2007-18 (en)</cell>
@@ -2800,7 +2820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fd16a624</cell>
   </row>
-  <row index="140">
+  <row index="141">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f1890aaa-en</cell>
     <cell name="title">Italy (en)</cell>
@@ -2820,7 +2840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fd69a4bc</cell>
   </row>
-  <row index="141">
+  <row index="142">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/5a1c7ae0-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in China (en)</cell>
@@ -2840,7 +2860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/19204936</cell>
   </row>
-  <row index="142">
+  <row index="143">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c0ca6e1e-en</cell>
     <cell name="title">Peru (en)</cell>
@@ -2860,7 +2880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9a115860</cell>
   </row>
-  <row index="143">
+  <row index="144">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/125d8a89-en</cell>
     <cell name="title">Sectoral breakdown of venture capital and all private equity in Belgium (en)</cell>
@@ -2880,7 +2900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f93ec2ad</cell>
   </row>
-  <row index="144">
+  <row index="145">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/8854b7c8-en</cell>
     <cell name="title">SME and large enterprise debt in Sweden (en)</cell>
@@ -2900,7 +2920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4ad35a45</cell>
   </row>
-  <row index="145">
+  <row index="146">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/8153da8d-en</cell>
     <cell name="title">Brazil (en)</cell>
@@ -2920,7 +2940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c490dbf4</cell>
   </row>
-  <row index="146">
+  <row index="147">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f0ea4efc-en</cell>
     <cell name="title">Methodology for producing the national scoreboards (en)</cell>
@@ -2940,7 +2960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/47acafd4</cell>
   </row>
-  <row index="147">
+  <row index="148">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/32948c9c-en</cell>
     <cell name="title">Outcome of applications for bank loans by SMEs in France (en)</cell>
@@ -2960,7 +2980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/903fd3cb</cell>
   </row>
-  <row index="148">
+  <row index="149">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/06ca7464-en</cell>
     <cell name="title">United States (en)</cell>
@@ -2980,7 +3000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e48aa43e</cell>
   </row>
-  <row index="149">
+  <row index="150">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/a29c53ee-en</cell>
     <cell name="title">Rejection rates (en)</cell>
@@ -3000,7 +3020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6b7411dc</cell>
   </row>
-  <row index="150">
+  <row index="151">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/1d30ab2c-en</cell>
     <cell name="title">SME interest rates, 2018 (en)</cell>
@@ -3020,7 +3040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/57cb60f0</cell>
   </row>
-  <row index="151">
+  <row index="152">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/79bc1840-en</cell>
     <cell name="title">Evolution of Government-backed guarantees in Chile (en)</cell>
@@ -3040,7 +3060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/13867bd4</cell>
   </row>
-  <row index="152">
+  <row index="153">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/71ac829a-en</cell>
     <cell name="title">Participation by number of operations by SME clients (en)</cell>
@@ -3060,7 +3080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e34d01ed</cell>
   </row>
-  <row index="153">
+  <row index="154">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/8153da8d-en</cell>
     <cell name="title">Brazil (en)</cell>
@@ -3080,7 +3100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/15871b80</cell>
   </row>
-  <row index="154">
+  <row index="155">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/a118db82-en</cell>
     <cell name="title">Profitability ratios for European SMEs, 2013-17 (en)</cell>
@@ -3100,7 +3120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27566a2f</cell>
   </row>
-  <row index="155">
+  <row index="156">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/1c0d3378-en</cell>
     <cell name="title">Lending attitudes in Japan (en)</cell>
@@ -3120,7 +3140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/005184af</cell>
   </row>
-  <row index="156">
+  <row index="157">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/dd2390a8-en</cell>
     <cell name="title">Belgium (en)</cell>
@@ -3140,7 +3160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1649cf34</cell>
   </row>
-  <row index="157">
+  <row index="158">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/986e4c82-en</cell>
     <cell name="title">Slovenia (en)</cell>
@@ -3160,7 +3180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2221890e</cell>
   </row>
-  <row index="158">
+  <row index="159">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/5673c2aa-en</cell>
     <cell name="title">Spain (en)</cell>
@@ -3180,7 +3200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/02990b22</cell>
   </row>
-  <row index="159">
+  <row index="160">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/0f52ae26-en</cell>
     <cell name="title">Greece (en)</cell>
@@ -3200,7 +3220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/149d9e8b</cell>
   </row>
-  <row index="160">
+  <row index="161">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/03a47c03-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Chile (en)</cell>
@@ -3220,7 +3240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f5380e36</cell>
   </row>
-  <row index="161">
+  <row index="162">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/89141a68-en</cell>
     <cell name="title">Lending to SMEs and large enterprises, 2001-2018 (en)</cell>
@@ -3240,7 +3260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eb5cced3</cell>
   </row>
-  <row index="162">
+  <row index="163">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/5673c2aa-en</cell>
     <cell name="title">Spain (en)</cell>
@@ -3260,7 +3280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/21a453d7</cell>
   </row>
-  <row index="163">
+  <row index="164">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/6707606e-en</cell>
     <cell name="title">Portugal (en)</cell>
@@ -3280,7 +3300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9d7786ff</cell>
   </row>
-  <row index="164">
+  <row index="165">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/a55b75d4-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Luxembourg (en)</cell>
@@ -3300,7 +3320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/34f92c25</cell>
   </row>
-  <row index="165">
+  <row index="166">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/fc5f780e-en</cell>
     <cell name="title">Share of SME outstanding loans to total business outstanding loans (en)</cell>
@@ -3320,7 +3340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c933e6a1</cell>
   </row>
-  <row index="166">
+  <row index="167">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4883c7cb-en</cell>
     <cell name="title">Czech Republic (en)</cell>
@@ -3340,7 +3360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7893feae</cell>
   </row>
-  <row index="167">
+  <row index="168">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/562a77ad-en</cell>
     <cell name="title">Ratio of new NPLs to outstanding loans in Italy, 2007-19 (en)</cell>
@@ -3360,7 +3380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ce43b963</cell>
   </row>
-  <row index="168">
+  <row index="169">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/6d53fda5-en</cell>
     <cell name="title">Slovak Republic (en)</cell>
@@ -3380,7 +3400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2614c279</cell>
   </row>
-  <row index="169">
+  <row index="170">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4f9253ab-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Japan (en)</cell>
@@ -3400,7 +3420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d4969d13</cell>
   </row>
-  <row index="170">
+  <row index="171">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4a25a6fb-en</cell>
     <cell name="title">Luxembourg (en)</cell>
@@ -3420,7 +3440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cba2d00f</cell>
   </row>
-  <row index="171">
+  <row index="172">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/10b3c996-en</cell>
     <cell name="title">Poland (en)</cell>
@@ -3440,7 +3460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dfcfb74e</cell>
   </row>
-  <row index="172">
+  <row index="173">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/e099ded2-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -3460,7 +3480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6130cfe1</cell>
   </row>
-  <row index="173">
+  <row index="174">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ae8c3c25-en</cell>
     <cell name="title">Ukraine (en)</cell>
@@ -3480,7 +3500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b7d09d79</cell>
   </row>
-  <row index="174">
+  <row index="175">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/7ca67f5e-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Belarus (en)</cell>
@@ -3500,7 +3520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b9f22eb5</cell>
   </row>
-  <row index="175">
+  <row index="176">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c2314a63-en</cell>
     <cell name="title">Mexico (en)</cell>
@@ -3520,7 +3540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4ae499d4</cell>
   </row>
-  <row index="176">
+  <row index="177">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/3bc24472-en</cell>
     <cell name="title">Trends in SME and Entrepreneurship Finance in Estonia (en)</cell>
@@ -3540,7 +3560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f39566d4</cell>
   </row>
-  <row index="177">
+  <row index="178">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c6ea7324-en</cell>
     <cell name="title">Self-reported payment delays from SME customers in Israel (en)</cell>
@@ -3560,7 +3580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/78e0f399</cell>
   </row>
-  <row index="178">
+  <row index="179">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/06c748ec-en</cell>
     <cell name="title">France (en)</cell>
@@ -3580,7 +3600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0fcb308</cell>
   </row>
-  <row index="179">
+  <row index="180">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/95dfdf1e-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -3600,7 +3620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/872701bf</cell>
   </row>
-  <row index="180">
+  <row index="181">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/6707606e-en</cell>
     <cell name="title">Portugal (en)</cell>
@@ -3620,7 +3640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a9c18591</cell>
   </row>
-  <row index="181">
+  <row index="182">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9d40b4f4-en</cell>
     <cell name="title">Venture and Growth Capital (en)</cell>
@@ -3640,7 +3660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6deff48b</cell>
   </row>
-  <row index="182">
+  <row index="183">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/2ff629f1-en</cell>
     <cell name="title">Alternative sources of SME financing (en)</cell>
@@ -3660,7 +3680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4a08ec89</cell>
   </row>
-  <row index="183">
+  <row index="184">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/0f52ae26-en</cell>
     <cell name="title">Greece (en)</cell>
@@ -3680,7 +3700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/398c6aec</cell>
   </row>
-  <row index="184">
+  <row index="185">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/bced6549-en</cell>
     <cell name="title">Non-performing loans by firm size (en)</cell>
@@ -3700,7 +3720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e2dbf3ea</cell>
   </row>
-  <row index="185">
+  <row index="186">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/06c748ec-en</cell>
     <cell name="title">France (en)</cell>
@@ -3720,7 +3740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c7417b6b</cell>
   </row>
-  <row index="186">
+  <row index="187">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/930d79a5-en</cell>
     <cell name="title">ECB Survey on SME access to finance (en)</cell>
@@ -3740,7 +3760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aa7d0ebc</cell>
   </row>
-  <row index="187">
+  <row index="188">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/cade6f29-en</cell>
     <cell name="title">Business deposits held, and business overdrafts used, by SMEs in the United Kingdom (en)</cell>
@@ -3760,7 +3780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db009e66</cell>
   </row>
-  <row index="188">
+  <row index="189">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/cc308c20-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Hungary (en)</cell>
@@ -3780,7 +3800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/faae2597</cell>
   </row>
-  <row index="189">
+  <row index="190">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f639657b-en</cell>
     <cell name="title">Canada (en)</cell>
@@ -3800,7 +3820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ddcdcbe7</cell>
   </row>
-  <row index="190">
+  <row index="191">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/fe86b176-en</cell>
     <cell name="title">Annual growth rates of outstanding business loans to non-financial corporations in Austria and the Euro area, 2010-18 (en)</cell>
@@ -3820,7 +3840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7583070e</cell>
   </row>
-  <row index="191">
+  <row index="192">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/a0ea25cf-en</cell>
     <cell name="title">Debt financing by source of financing in Canada, 2018 (en)</cell>
@@ -3840,7 +3860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f80ba182</cell>
   </row>
-  <row index="192">
+  <row index="193">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/7234fca7-en</cell>
     <cell name="title">Distribution of financing sources used in Chile, 2017 (en)</cell>
@@ -3860,7 +3880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/af8aa912</cell>
   </row>
-  <row index="193">
+  <row index="194">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f86225a5-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Austria (en)</cell>
@@ -3880,7 +3900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1af082df</cell>
   </row>
-  <row index="194">
+  <row index="195">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ebdc749d-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Serbia (en)</cell>
@@ -3900,7 +3920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f6f89c95</cell>
   </row>
-  <row index="195">
+  <row index="196">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/8b709f75-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Italy, 2007-18 (en)</cell>
@@ -3920,7 +3940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e7f2645f</cell>
   </row>
-  <row index="196">
+  <row index="197">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/061fe03d-en</cell>
     <cell name="title">Financing SMEs and Entrepreneurs 2020 (en)</cell>
@@ -3940,7 +3960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9a50c46e</cell>
   </row>
-  <row index="197">
+  <row index="198">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/16e3cdd6-en</cell>
     <cell name="title">Progress of interest rates (en)</cell>
@@ -3960,7 +3980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2cca0117</cell>
   </row>
-  <row index="198">
+  <row index="199">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9fd590e7-en</cell>
     <cell name="title">Korea (en)</cell>
@@ -3980,7 +4000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a0616ca1</cell>
   </row>
-  <row index="199">
+  <row index="200">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/e099ded2-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -4000,7 +4020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5246dd04</cell>
   </row>
-  <row index="200">
+  <row index="201">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/3424587e-en</cell>
     <cell name="title">Percentage share of firms, employment and turnover amongst SME employers in the United Kingdom (en)</cell>
@@ -4020,7 +4040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/96820086</cell>
   </row>
-  <row index="201">
+  <row index="202">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/218a2bc1-en</cell>
     <cell name="title">Growth in new SME lending, 2008-18 (en)</cell>
@@ -4040,7 +4060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8b0c8562</cell>
   </row>
-  <row index="202">
+  <row index="203">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/5e810455-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Israel (en)</cell>
@@ -4060,7 +4080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62304e39</cell>
   </row>
-  <row index="203">
+  <row index="204">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/8526d33a-en</cell>
     <cell name="title">Online alternative finance business volumes, 2018 (en)</cell>
@@ -4080,7 +4100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eb72f8a9</cell>
   </row>
-  <row index="204">
+  <row index="205">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/3304f42d-en</cell>
     <cell name="title">Gross lending flows to SMEs and large businesses, and percentage SME share, in the United Kingdom (en)</cell>
@@ -4100,7 +4120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/445b1ef7</cell>
   </row>
-  <row index="205">
+  <row index="206">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/e87a72bc-en</cell>
     <cell name="title">Growth in the online alternative finance market for businesses (en)</cell>
@@ -4120,7 +4140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0bacab6</cell>
   </row>
-  <row index="206">
+  <row index="207">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/2bc5fd4d-en</cell>
     <cell name="title">Chile (en)</cell>
@@ -4140,7 +4160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53bd3afe</cell>
   </row>
-  <row index="207">
+  <row index="208">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/34f314d3-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Belgium (en)</cell>
@@ -4160,7 +4180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7578ede9</cell>
   </row>
-  <row index="208">
+  <row index="209">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/fdd421c0-en</cell>
     <cell name="title">Alternative funding options for SMEs (en)</cell>
@@ -4180,7 +4200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1ff68589</cell>
   </row>
-  <row index="209">
+  <row index="210">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/98003c7e-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Latvia (en)</cell>
@@ -4200,7 +4220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/06acf4ac</cell>
   </row>
-  <row index="210">
+  <row index="211">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/fa58cf3e-en</cell>
     <cell name="title">Distribution of financing sources used by enterprises, 2018 (en)</cell>
@@ -4220,7 +4240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0c01b5d</cell>
   </row>
-  <row index="211">
+  <row index="212">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/3f13cdbc-en</cell>
     <cell name="title">Interest rates on credit to firms in France (en)</cell>
@@ -4240,7 +4260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/76ad7f5c</cell>
   </row>
-  <row index="212">
+  <row index="213">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/d81872a8-en</cell>
     <cell name="title">Share of high-tech companies in Israel (en)</cell>
@@ -4260,7 +4280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6e74a808</cell>
   </row>
-  <row index="213">
+  <row index="214">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/d5770b9e-en</cell>
     <cell name="title">Firms, turnover and value added in Italy, 2007-2017 (en)</cell>
@@ -4280,7 +4300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/34aa779e</cell>
   </row>
-  <row index="214">
+  <row index="215">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/2960938f-en</cell>
     <cell name="title">Colombia (en)</cell>
@@ -4300,7 +4320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e97e7c27</cell>
   </row>
-  <row index="215">
+  <row index="216">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/061fe03d-en</cell>
     <cell name="title">Financing SMEs and Entrepreneurs 2020 (en)</cell>
@@ -4312,7 +4332,7 @@
     <cell name="embargo date">2020-04-22T12:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-04-17T18:58:06Z</cell>
-    <cell name="freepreview last export date">2020-04-17T18:37:51Z</cell>
+    <cell name="freepreview last export date">2020-04-21T18:37:52Z</cell>
     <cell name="oecd.org last export date">2020-04-17T18:23:02Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
@@ -4320,7 +4340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cf4e97b6</cell>
   </row>
-  <row index="216">
+  <row index="217">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/30d9abe1-en</cell>
     <cell name="title">SME interest rates, growth rate (en)</cell>
@@ -4340,7 +4360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2919b08c</cell>
   </row>
-  <row index="217">
+  <row index="218">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ad047aef-en</cell>
     <cell name="title">Bank interest rates and index of loan volumes in Sweden (en)</cell>
@@ -4360,7 +4380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/40d7881a</cell>
   </row>
-  <row index="218">
+  <row index="219">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/2070ce3d-en</cell>
     <cell name="title">SMEs by number of lenders, 2018 (en)</cell>
@@ -4380,7 +4400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0fbb6c46</cell>
   </row>
-  <row index="219">
+  <row index="220">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4a247de9-en</cell>
     <cell name="title">Israel (en)</cell>
@@ -4400,7 +4420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9ae0b8c0</cell>
   </row>
-  <row index="220">
+  <row index="221">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/0f41a384-en</cell>
     <cell name="title">NPL rates for SMEs, 2017-18 (en)</cell>
@@ -4420,7 +4440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dbc457b6</cell>
   </row>
-  <row index="221">
+  <row index="222">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/e5c09abc-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Kazakhstan (en)</cell>
@@ -4440,7 +4460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d0a7e516</cell>
   </row>
-  <row index="222">
+  <row index="223">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/62ab7561-en</cell>
     <cell name="title">Country snapshots (en)</cell>
@@ -4460,7 +4480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b34a6f4</cell>
   </row>
-  <row index="223">
+  <row index="224">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/21ea1a61-en</cell>
     <cell name="title">The Netherlands (en)</cell>
@@ -4480,7 +4500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8ef11933</cell>
   </row>
-  <row index="224">
+  <row index="225">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/061fe03d-en</cell>
     <cell name="title">Financing SMEs and Entrepreneurs 2020 (en)</cell>
@@ -4500,7 +4520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e7143607</cell>
   </row>
-  <row index="225">
+  <row index="226">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/397af470-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in South Africa (en)</cell>
@@ -4520,7 +4540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23cff0d7</cell>
   </row>
-  <row index="226">
+  <row index="227">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/46f1edd2-en</cell>
     <cell name="title">NPL rate for KUR, 2007-2018 (en)</cell>
@@ -4540,7 +4560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7ab9b68d</cell>
   </row>
-  <row index="227">
+  <row index="228">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/e3595442-en</cell>
     <cell name="title">Credit standards for non-financial corporations in the Czech Republic (en)</cell>
@@ -4560,7 +4580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/11f53f93</cell>
   </row>
-  <row index="228">
+  <row index="229">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/95dfdf1e-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -4580,7 +4600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/58c6bdd9</cell>
   </row>
-  <row index="229">
+  <row index="230">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/67ce6854-en</cell>
     <cell name="title">Indonesia (en)</cell>
@@ -4600,7 +4620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/093b9a74</cell>
   </row>
-  <row index="230">
+  <row index="231">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/06ca7464-en</cell>
     <cell name="title">United States (en)</cell>
@@ -4620,7 +4640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/004aec56</cell>
   </row>
-  <row index="231">
+  <row index="232">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4a25a6fb-en</cell>
     <cell name="title">Luxembourg (en)</cell>
@@ -4640,7 +4660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f35359a9</cell>
   </row>
-  <row index="232">
+  <row index="233">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/7da59324-en</cell>
     <cell name="title">Share of long-term SME loans (en)</cell>
@@ -4660,7 +4680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f20dee8b</cell>
   </row>
-  <row index="233">
+  <row index="234">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/5b4fff10-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in the Netherlands (en)</cell>
@@ -4680,7 +4700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ffa2e43a</cell>
   </row>
-  <row index="234">
+  <row index="235">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/131f6db7-en</cell>
     <cell name="title">Hungary (en)</cell>
@@ -4700,7 +4720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2c2f31b8</cell>
   </row>
-  <row index="235">
+  <row index="236">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/986e4c82-en</cell>
     <cell name="title">Slovenia (en)</cell>
@@ -4720,7 +4740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8752945b</cell>
   </row>
-  <row index="236">
+  <row index="237">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/5bb40c7b-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Georgia (en)</cell>
@@ -4740,7 +4760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bb1ac3c4</cell>
   </row>
-  <row index="237">
+  <row index="238">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/98927ee2-en</cell>
     <cell name="title">Sweden (en)</cell>
@@ -4760,7 +4780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/40365adb</cell>
   </row>
-  <row index="238">
+  <row index="239">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/95908f40-en</cell>
     <cell name="title">Ireland (en)</cell>
@@ -4780,7 +4800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c4d3820</cell>
   </row>
-  <row index="239">
+  <row index="240">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/146f6146-en</cell>
     <cell name="title">Germany (en)</cell>
@@ -4800,7 +4820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/87dcbb26</cell>
   </row>
-  <row index="240">
+  <row index="241">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4a247de9-en</cell>
     <cell name="title">Israel (en)</cell>
@@ -4820,7 +4840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5d892296</cell>
   </row>
-  <row index="241">
+  <row index="242">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/6bdd4eb7-en</cell>
     <cell name="title">Policy developments in SME finance a decade after the global financial and economic crisis (en)</cell>
@@ -4840,7 +4860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7b9cc452</cell>
   </row>
-  <row index="242">
+  <row index="243">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/0f135278-en</cell>
     <cell name="title">Government guaranteed loan volumes as share of SME loan stock (en)</cell>
@@ -4860,7 +4880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c116fb9c</cell>
   </row>
-  <row index="243">
+  <row index="244">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/fef6e8f3-en</cell>
     <cell name="title">Loans granted by Almi in Sweden (en)</cell>
@@ -4880,7 +4900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b28dd6c1</cell>
   </row>
-  <row index="244">
+  <row index="245">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/5842fa73-en</cell>
     <cell name="title">Stock of lending to SMEs and large businesses, and percentage SME share, in the United Kingdom (en)</cell>
@@ -4900,7 +4920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41b39a51</cell>
   </row>
-  <row index="245">
+  <row index="246">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/11cfce2d-en</cell>
     <cell name="title">Changes in credit standards for SMEs in Belgium and the Euro zone (en)</cell>
@@ -4920,7 +4940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fcdc2e00</cell>
   </row>
-  <row index="246">
+  <row index="247">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f420f997-en</cell>
     <cell name="title">Estonia (en)</cell>
@@ -4940,7 +4960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e4046dd1</cell>
   </row>
-  <row index="247">
+  <row index="248">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/1d001a2a-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Peru (en)</cell>
@@ -4960,7 +4980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5424a212</cell>
   </row>
-  <row index="248">
+  <row index="249">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/cbcf56e7-en</cell>
     <cell name="title">United Kingdom (en)</cell>
@@ -4980,7 +5000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ed06daff</cell>
   </row>
-  <row index="249">
+  <row index="250">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/2c7b8253-en</cell>
     <cell name="title">Thailand (en)</cell>
@@ -5000,7 +5020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e3fb291</cell>
   </row>
-  <row index="250">
+  <row index="251">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/1ff23575-en</cell>
     <cell name="title">Factoring growth rates by country and Scoreboard median (en)</cell>
@@ -5020,7 +5040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/91e0afa5</cell>
   </row>
-  <row index="251">
+  <row index="252">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/40733e54-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Malaysia (en)</cell>
@@ -5040,7 +5060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f35c504</cell>
   </row>
-  <row index="252">
+  <row index="253">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/92452f06-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Sweden (en)</cell>
@@ -5060,7 +5080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bed891a6</cell>
   </row>
-  <row index="253">
+  <row index="254">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/84f42c7b-en</cell>
     <cell name="title">Interest rate spreads between loans to SMEs and to large firms (en)</cell>
@@ -5080,7 +5100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/18ebfcca</cell>
   </row>
-  <row index="254">
+  <row index="255">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f064d75d-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in the Slovak Republic (en)</cell>
@@ -5100,7 +5120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/90059779</cell>
   </row>
-  <row index="255">
+  <row index="256">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/359215d6-en</cell>
     <cell name="title">90-day delinquency rate (%) and GDP in Canada, 2007-18 (en)</cell>
@@ -5120,7 +5140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5a0e8a32</cell>
   </row>
-  <row index="256">
+  <row index="257">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c250ad4d-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -5140,7 +5160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a63ab434</cell>
   </row>
-  <row index="257">
+  <row index="258">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/679aee19-en</cell>
     <cell name="title">Growth capital and venture capital, 2008-2018 (en)</cell>
@@ -5160,7 +5180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6f843721</cell>
   </row>
-  <row index="258">
+  <row index="259">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/37b75ad0-en</cell>
     <cell name="title">South Africa (en)</cell>
@@ -5180,7 +5200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8af480eb</cell>
   </row>
-  <row index="259">
+  <row index="260">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/10b3c996-en</cell>
     <cell name="title">Poland (en)</cell>
@@ -5200,7 +5220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8fa503d6</cell>
   </row>
-  <row index="260">
+  <row index="261">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/95908f40-en</cell>
     <cell name="title">Ireland (en)</cell>
@@ -5220,7 +5240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/32b98d18</cell>
   </row>
-  <row index="261">
+  <row index="262">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/de901e55-en</cell>
     <cell name="title">Finland (en)</cell>
@@ -5240,7 +5260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f31065ad</cell>
   </row>
-  <row index="262">
+  <row index="263">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/8dc4ae68-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Brazil (en)</cell>
@@ -5260,7 +5280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c0f2f5b1</cell>
   </row>
-  <row index="263">
+  <row index="264">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4390f519-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Greece (en)</cell>
@@ -5280,7 +5300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/896436db</cell>
   </row>
-  <row index="264">
+  <row index="265">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/674b0b97-en</cell>
     <cell name="title">Lithuania (en)</cell>
@@ -5300,7 +5320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4626e305</cell>
   </row>
-  <row index="265">
+  <row index="266">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/977e22e6-en</cell>
     <cell name="title">The activity of the Central Guarantee Fund for SMEs in Italy, 2007-18 (en)</cell>
@@ -5320,7 +5340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3dd08b3e</cell>
   </row>
-  <row index="266">
+  <row index="267">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/776426f4-en</cell>
     <cell name="title">Number and percentage annual increase in SME employers by size of firm (headcount) in the United Kingdom (en)</cell>
@@ -5340,7 +5360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8b951856</cell>
   </row>
-  <row index="267">
+  <row index="268">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c9e7d321-en</cell>
     <cell name="title">Growth rate of bank loans outstanding of the total corporate sector and the SME sector (en)</cell>
@@ -5360,7 +5380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f02e1e56</cell>
   </row>
-  <row index="268">
+  <row index="269">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/a00461dd-en</cell>
     <cell name="title">SME Bankruptcies (en)</cell>
@@ -5380,7 +5400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d1f3834d</cell>
   </row>
-  <row index="269">
+  <row index="270">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/645579b0-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in Slovenia (en)</cell>
@@ -5400,7 +5420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b1a41134</cell>
   </row>
-  <row index="270">
+  <row index="271">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/692b7d6a-en</cell>
     <cell name="title">Median growth rates for SME lending and SME NPLs (en)</cell>
@@ -5420,7 +5440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ce368db1</cell>
   </row>
-  <row index="271">
+  <row index="272">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/76ff2ee0-en</cell>
     <cell name="title">Belarus (en)</cell>
@@ -5440,7 +5460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a3cf7c51</cell>
   </row>
-  <row index="272">
+  <row index="273">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/cdaa0a1c-en</cell>
     <cell name="title">Average term of payment in Chile (en)</cell>
@@ -5460,7 +5480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1aa3263b</cell>
   </row>
-  <row index="273">
+  <row index="274">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/66264f61-en</cell>
     <cell name="title">Trends in guaranteed loans and direct government loans for SMEs after the crisis (en)</cell>
@@ -5480,7 +5500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d72e2387</cell>
   </row>
-  <row index="274">
+  <row index="275">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/d762c7d7-en</cell>
     <cell name="title">Trends in SME and entrepreneurship finance in New Zealand (en)</cell>
@@ -5500,7 +5520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/15bd5b77</cell>
   </row>
-  <row index="275">
+  <row index="276">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/7f826e1b-en</cell>
     <cell name="title">Switzerland (en)</cell>
@@ -5520,7 +5540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/09857b7c</cell>
   </row>
-  <row index="276">
+  <row index="277">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/2960938f-en</cell>
     <cell name="title">Colombia (en)</cell>
@@ -5540,7 +5560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0cf80f0f</cell>
   </row>
-  <row index="277">
+  <row index="278">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9630c7d1-en</cell>
     <cell name="title">Denmark (en)</cell>
@@ -5560,7 +5580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/237a5470</cell>
   </row>
-  <row index="278">
+  <row index="279">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/7f826e1b-en</cell>
     <cell name="title">Switzerland (en)</cell>
@@ -5580,7 +5600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3809ce81</cell>
   </row>
-  <row index="279">
+  <row index="280">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/2c7b8253-en</cell>
     <cell name="title">Thailand (en)</cell>
@@ -5600,7 +5620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d262188c</cell>
   </row>
-  <row index="280">
+  <row index="281">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/7cb3e39f-en</cell>
     <cell name="title">Collateral requirements (en)</cell>
@@ -5620,7 +5640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/363bb093</cell>
   </row>
-  <row index="281">
+  <row index="282">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/cdf6c701-en</cell>
     <cell name="title">Number of days in which Business pays Suppliers (en)</cell>
@@ -5640,7 +5660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/880a9917</cell>
   </row>
-  <row index="282">
+  <row index="283">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/674b0b97-en</cell>
     <cell name="title">Lithuania (en)</cell>
@@ -5660,7 +5680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ef4e52e9</cell>
   </row>
-  <row index="283">
+  <row index="284">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/5989eb3a-en</cell>
     <cell name="title">Japan (en)</cell>
@@ -5680,7 +5700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/78da07cf</cell>
   </row>
-  <row index="284">
+  <row index="285">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/146f6146-en</cell>
     <cell name="title">Germany (en)</cell>
@@ -5700,7 +5720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1ab8b461</cell>
   </row>
-  <row index="285">
+  <row index="286">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9fd590e7-en</cell>
     <cell name="title">Korea (en)</cell>
@@ -5720,7 +5740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/453e59b6</cell>
   </row>
-  <row index="286">
+  <row index="287">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/39ec44e2-en</cell>
     <cell name="title">Employment protection legislation (EPL) in Brazil and other selected countries, 2014 (en)</cell>
@@ -5740,7 +5760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9cd0ca87</cell>
   </row>
-  <row index="287">
+  <row index="288">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c7a51b3c-en</cell>
     <cell name="title">Nonwage costs in relation to total labour costs, 2016 (en)</cell>
@@ -5760,7 +5780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9a626731</cell>
   </row>
-  <row index="288">
+  <row index="289">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/62f8acc7-en</cell>
     <cell name="title">Federal programmes for SMEs and entrepreneurship in Brazil (en)</cell>
@@ -5780,7 +5800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a002aaa6</cell>
   </row>
-  <row index="289">
+  <row index="290">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/647fa270-en</cell>
     <cell name="title">The governance of SME and entrepreneurship policy in Brazil (en)</cell>
@@ -5800,7 +5820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eceddad4</cell>
   </row>
-  <row index="290">
+  <row index="291">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/5b16cf2c-en</cell>
     <cell name="title">SME performance and entrepreneurial dynamics in Brazil (en)</cell>
@@ -5820,7 +5840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/030c218e</cell>
   </row>
-  <row index="291">
+  <row index="292">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/b2056cb0-en</cell>
     <cell name="title">SMEs participating in international markets by innovation status, 2012-14 (en)</cell>
@@ -5840,7 +5860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/15af1f90</cell>
   </row>
-  <row index="292">
+  <row index="293">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9526e2d7-en</cell>
     <cell name="title">Business density across Brazil’s regions, 2017 (en)</cell>
@@ -5860,7 +5880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e0f4d82d</cell>
   </row>
-  <row index="293">
+  <row index="294">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9d5dca80-en</cell>
     <cell name="title">The local dimension of SME and entrepreneurship policy in Brazil (en)</cell>
@@ -5880,7 +5900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/754431fb</cell>
   </row>
-  <row index="294">
+  <row index="295">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/6f62e5a9-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -5900,7 +5920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d0eef9ab</cell>
   </row>
-  <row index="295">
+  <row index="296">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/aefc907f-en</cell>
     <cell name="title">Sector specialisation and firm size by region, 2016 (en)</cell>
@@ -5920,7 +5940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2df53658</cell>
   </row>
-  <row index="296">
+  <row index="297">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/71d7882c-en</cell>
     <cell name="title">Basic statistics of Brazil (en)</cell>
@@ -5940,7 +5960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27472703</cell>
   </row>
-  <row index="297">
+  <row index="298">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/6bd587f4-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -5960,7 +5980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3a73a992</cell>
   </row>
-  <row index="298">
+  <row index="299">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/6bd587f4-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -5980,7 +6000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4fa7c5ae</cell>
   </row>
-  <row index="299">
+  <row index="300">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/d523d265-en</cell>
     <cell name="title">Share of innovative manufacturing companies receiving government support by state, 2012-14 (en)</cell>
@@ -6000,7 +6020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/293efbea</cell>
   </row>
-  <row index="300">
+  <row index="301">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/e9153e91-en</cell>
     <cell name="title">Performance of 15-year-olds in science, reading and mathematics in Brazil and selected Latin American countries, 2015 (en)</cell>
@@ -6020,7 +6040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/239d2873</cell>
   </row>
-  <row index="301">
+  <row index="302">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/e5923e01-en</cell>
     <cell name="title">Gross government debt in Brazil, 2008-19 (en)</cell>
@@ -6040,7 +6060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d191956a</cell>
   </row>
-  <row index="302">
+  <row index="303">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/84613146-en</cell>
     <cell name="title">Recovery rate and time of insolvency procedures in Brazil and selected countries, 2017 (en)</cell>
@@ -6060,7 +6080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5cb0cea</cell>
   </row>
-  <row index="303">
+  <row index="304">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/a2f8a64c-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -6080,7 +6100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9ad91fc0</cell>
   </row>
-  <row index="304">
+  <row index="305">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4ee36872-en</cell>
     <cell name="title">Brazil and OECD sector composition of the business economy, 2016 (en)</cell>
@@ -6100,7 +6120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db7e38a7</cell>
   </row>
-  <row index="305">
+  <row index="306">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/256c578b-en</cell>
     <cell name="title">Business distribution by firm size (employment) across Brazil’s regions, 2016 (en)</cell>
@@ -6120,7 +6140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/419dd1d0</cell>
   </row>
-  <row index="306">
+  <row index="307">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/2eecb1b7-en</cell>
     <cell name="title">The business environment for SMEs and entrepreneurship in Brazil (en)</cell>
@@ -6140,7 +6160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c2fe21cb</cell>
   </row>
-  <row index="307">
+  <row index="308">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/cc5feb81-en</cell>
     <cell name="title"> SME and Entrepreneurship Policy in Brazil 2020 (en)</cell>
@@ -6153,14 +6173,14 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-04-14T19:03:53Z</cell>
     <cell name="freepreview last export date">2020-04-14T18:46:58Z</cell>
-    <cell name="oecd.org last export date">2020-04-14T18:29:42Z</cell>
+    <cell name="oecd.org last export date">2020-04-21T18:24:41Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f5d497b2</cell>
   </row>
-  <row index="308">
+  <row index="309">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/16133b44-en</cell>
     <cell name="title">Total early-stage entrepreneurial activity (TEA) and high job creation expectations, 2018 (en)</cell>
@@ -6180,7 +6200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6f025dbc</cell>
   </row>
-  <row index="309">
+  <row index="310">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/3b736839-en</cell>
     <cell name="title">SME export policies in Brazil (en)</cell>
@@ -6200,7 +6220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/df7538a3</cell>
   </row>
-  <row index="310">
+  <row index="311">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/7e1ac501-en</cell>
     <cell name="title">Venture capital availability in Latin American countries, 2007-17 (en)</cell>
@@ -6220,7 +6240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2e7ccc99</cell>
   </row>
-  <row index="311">
+  <row index="312">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/34c096ee-en</cell>
     <cell name="title">Plano Inova Empresa’s spending by sector, 2013-18 (en)</cell>
@@ -6240,7 +6260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/43c27977</cell>
   </row>
-  <row index="312">
+  <row index="313">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/6f62e5a9-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -6260,7 +6280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/906fc594</cell>
   </row>
-  <row index="313">
+  <row index="314">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/b4b5778b-en</cell>
     <cell name="title">SMEs introducing product/process and marketing/organisational innovation, 2012-14 (en)</cell>
@@ -6280,7 +6300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3edc06b0</cell>
   </row>
-  <row index="314">
+  <row index="315">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/2afc82b7-en</cell>
     <cell name="title">Formal and informal employment in Brazil, 2012-18 (en)</cell>
@@ -6300,7 +6320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/78b89850</cell>
   </row>
-  <row index="315">
+  <row index="316">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/8c10749c-en</cell>
     <cell name="title">Young small firms in ICT and other sectors, 2013-15 (en)</cell>
@@ -6320,7 +6340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/342ea3f3</cell>
   </row>
-  <row index="316">
+  <row index="317">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/d8b14646-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -6340,7 +6360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f1c241b</cell>
   </row>
-  <row index="317">
+  <row index="318">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/d8b14646-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -6360,7 +6380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/52b7ba98</cell>
   </row>
-  <row index="318">
+  <row index="319">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9d5dca80-en</cell>
     <cell name="title">The local dimension of SME and entrepreneurship policy in Brazil (en)</cell>
@@ -6380,7 +6400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/605119e4</cell>
   </row>
-  <row index="319">
+  <row index="320">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/5fe2ad3a-en</cell>
     <cell name="title">Employer enterprise birth rate and death rate, 2016 (en)</cell>
@@ -6400,7 +6420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a39cc310</cell>
   </row>
-  <row index="320">
+  <row index="321">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c356d020-en</cell>
     <cell name="title">The long-term relation between the size of the informal economy and income per capita, 1991-2015 (en)</cell>
@@ -6420,7 +6440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c583131a</cell>
   </row>
-  <row index="321">
+  <row index="322">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/b63e1df6-en</cell>
     <cell name="title">Relation between net business churning and its employment contribution, 2015 (en)</cell>
@@ -6440,7 +6460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6e9172ff</cell>
   </row>
-  <row index="322">
+  <row index="323">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4cf8a702-en</cell>
     <cell name="title">Distribution of employment by state and firm size, 2016 (en)</cell>
@@ -6460,7 +6480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d0c9e8d7</cell>
   </row>
-  <row index="323">
+  <row index="324">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/1098e719-en</cell>
     <cell name="title">Average labour productivity by firm size across sectors in Brazil, 2014 (en)</cell>
@@ -6480,7 +6500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c554457</cell>
   </row>
-  <row index="324">
+  <row index="325">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4fc61a77-en</cell>
     <cell name="title">The innovative start-up ecosystem in Brazil (en)</cell>
@@ -6500,7 +6520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/19cec71b</cell>
   </row>
-  <row index="325">
+  <row index="326">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/62f8acc7-en</cell>
     <cell name="title">Federal programmes for SMEs and entrepreneurship in Brazil (en)</cell>
@@ -6520,7 +6540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8bd4ad8f</cell>
   </row>
-  <row index="326">
+  <row index="327">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/d3a12f91-en</cell>
     <cell name="title">Small enterprises with a company website, 2018 (en)</cell>
@@ -6540,7 +6560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/530572fc</cell>
   </row>
-  <row index="327">
+  <row index="328">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f57ecf4b-en</cell>
     <cell name="title">SME contributions to employment and value added across sectors, Brazil and the OECD area, 2016 (en)</cell>
@@ -6560,7 +6580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6bd2a363</cell>
   </row>
-  <row index="328">
+  <row index="329">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/5c8d7389-en</cell>
     <cell name="title">Outstanding stock of credit to SMEs in Brazil and selected countries, 2017 and 2016 (en)</cell>
@@ -6580,7 +6600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cfe49752</cell>
   </row>
-  <row index="329">
+  <row index="330">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/b666974c-en</cell>
     <cell name="title">Number of hours required to prepare taxes, 2017 (en)</cell>
@@ -6600,7 +6620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5536b701</cell>
   </row>
-  <row index="330">
+  <row index="331">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/3b570679-en</cell>
     <cell name="title">Governance indicators in Brazil and selected countries, 2017 (en)</cell>
@@ -6620,7 +6640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da2e03b9</cell>
   </row>
-  <row index="331">
+  <row index="332">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/8911595f-en</cell>
     <cell name="title">Employment by firm size across the five macro-regions of Brazil, 2016 (en)</cell>
@@ -6640,7 +6660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/22f153d1</cell>
   </row>
-  <row index="332">
+  <row index="333">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/831e19e3-en</cell>
     <cell name="title">Small enterprises receiving orders over computer networks, 2018 (en)</cell>
@@ -6660,7 +6680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/97c858ba</cell>
   </row>
-  <row index="333">
+  <row index="334">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/35bdfe95-en</cell>
     <cell name="title">Venture capital investments in selected countries, 2017 (en)</cell>
@@ -6680,7 +6700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eba3ab44</cell>
   </row>
-  <row index="334">
+  <row index="335">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/17b0f0bc-en</cell>
     <cell name="title">The share of SME loans in total business loans in Brazil, 2007-17 (en)</cell>
@@ -6700,7 +6720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d4f14f2a</cell>
   </row>
-  <row index="335">
+  <row index="336">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/eb52b367-en</cell>
     <cell name="title">Two-year enterprise survival rate, 2015 (en)</cell>
@@ -6720,7 +6740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/49b51102</cell>
   </row>
-  <row index="336">
+  <row index="337">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/e4a8568a-en</cell>
     <cell name="title">Average labour productivity in Brazil and the OECD area across sectors, 2016 (en)</cell>
@@ -6740,7 +6760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/82583f4b</cell>
   </row>
-  <row index="337">
+  <row index="338">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/0e8c821f-en</cell>
     <cell name="title">Financial Development Index, 2017-18 (en)</cell>
@@ -6760,7 +6780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c560943</cell>
   </row>
-  <row index="338">
+  <row index="339">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/53bf35b4-en</cell>
     <cell name="title">Self-employment rates, 2017 (en)</cell>
@@ -6780,7 +6800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8b2a6fa3</cell>
   </row>
-  <row index="339">
+  <row index="340">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4fc61a77-en</cell>
     <cell name="title">The innovative start-up ecosystem in Brazil (en)</cell>
@@ -6800,7 +6820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/560b55e6</cell>
   </row>
-  <row index="340">
+  <row index="341">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c2a422aa-en</cell>
     <cell name="title">Public spending on education in Brazil and selected Latin American countries, 2016 (en)</cell>
@@ -6820,7 +6840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/21b62031</cell>
   </row>
-  <row index="341">
+  <row index="342">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/cfce3f9b-en</cell>
     <cell name="title">GDP per person employed, 2016 (en)</cell>
@@ -6840,7 +6860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d525c095</cell>
   </row>
-  <row index="342">
+  <row index="343">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/2ad35e76-en</cell>
     <cell name="title">Evaluation of the quality of the Brazilian tax system, 2015 (en)</cell>
@@ -6860,7 +6880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4bdb0c75</cell>
   </row>
-  <row index="343">
+  <row index="344">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/cc5586e8-en</cell>
     <cell name="title">Number of exporting MPEs and MPE export volume by Brazilian state, 2017 (en)</cell>
@@ -6880,7 +6900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0acbc5d2</cell>
   </row>
-  <row index="344">
+  <row index="345">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/57ecb4ef-en</cell>
     <cell name="title">SMEs introducing new-to-market products, 2012-14 (en)</cell>
@@ -6900,7 +6920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fe7086b9</cell>
   </row>
-  <row index="345">
+  <row index="346">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/5e64c10e-en</cell>
     <cell name="title">Perceived opportunities and fear of failure, 2018 (en)</cell>
@@ -6920,7 +6940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ebf6bcb2</cell>
   </row>
-  <row index="346">
+  <row index="347">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/647fa270-en</cell>
     <cell name="title">The governance of SME and entrepreneurship policy in Brazil (en)</cell>
@@ -6940,7 +6960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/13009384</cell>
   </row>
-  <row index="347">
+  <row index="348">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/3b736839-en</cell>
     <cell name="title">SME export policies in Brazil (en)</cell>
@@ -6960,7 +6980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/18fee06f</cell>
   </row>
-  <row index="348">
+  <row index="349">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/cc5feb81-en</cell>
     <cell name="title"> SME and Entrepreneurship Policy in Brazil 2020 (en)</cell>
@@ -6980,7 +7000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2330bd75</cell>
   </row>
-  <row index="349">
+  <row index="350">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/eb0fc465-en</cell>
     <cell name="title">Growth in GDP per person employed, 2001-16 (en)</cell>
@@ -7000,7 +7020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a598db5b</cell>
   </row>
-  <row index="350">
+  <row index="351">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4aa96364-en</cell>
     <cell name="title">Credit conditions in Brazil, 2016 (en)</cell>
@@ -7020,7 +7040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5e87d7e0</cell>
   </row>
-  <row index="351">
+  <row index="352">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/cc5feb81-en</cell>
     <cell name="title"> SME and Entrepreneurship Policy in Brazil 2020 (en)</cell>
@@ -7033,14 +7053,14 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-04-14T19:03:53Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-04-14T18:29:42Z</cell>
+    <cell name="oecd.org last export date">2020-04-21T18:24:41Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da26edf7</cell>
   </row>
-  <row index="352">
+  <row index="353">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/7cdcc312-en</cell>
     <cell name="title">Proportion of innovative companies at the state level, 2012-14 (en)</cell>
@@ -7060,7 +7080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/747fe51e</cell>
   </row>
-  <row index="353">
+  <row index="354">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/a0007ff8-en</cell>
     <cell name="title">Figure 3.1. Annual GDP growth in Brazil and OECD countries, 2008-20 (en)</cell>
@@ -7080,7 +7100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2d6c9cff</cell>
   </row>
-  <row index="354">
+  <row index="355">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/a2f8a64c-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -7100,7 +7120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aedf6d31</cell>
   </row>
-  <row index="355">
+  <row index="356">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/cc5feb81-en</cell>
     <cell name="title"> SME and Entrepreneurship Policy in Brazil 2020 (en)</cell>
@@ -7120,7 +7140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b209f7e</cell>
   </row>
-  <row index="356">
+  <row index="357">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/71d7882c-en</cell>
     <cell name="title">Basic statistics of Brazil (en)</cell>
@@ -7140,7 +7160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/750f1664</cell>
   </row>
-  <row index="357">
+  <row index="358">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/b286ee86-en</cell>
     <cell name="title">Share of expenditure on ALMPs by type of programme in Brazil and selected countries, 2013 (en)</cell>
@@ -7160,7 +7180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23724920</cell>
   </row>
-  <row index="358">
+  <row index="359">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c92fd7a0-en</cell>
     <cell name="title">OECD Product Market Regulations (PMR) indicators, 2018 (en)</cell>
@@ -7180,7 +7200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b935b25f</cell>
   </row>
-  <row index="359">
+  <row index="360">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/2a15b310-en</cell>
     <cell name="title">Companies facing difficulties in hiring personnel in Brazil and selected countries, 2018 and 2015 (en)</cell>
@@ -7200,7 +7220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/681b19ab</cell>
   </row>
-  <row index="360">
+  <row index="361">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/3b5ce76e-en</cell>
     <cell name="title">Educational attainment of people aged 25-64 in Brazil and selected Latin American countries, 2017 (en)</cell>
@@ -7220,7 +7240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dcbe97fe</cell>
   </row>
-  <row index="361">
+  <row index="362">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/3c4d32ff-en</cell>
     <cell name="title">Distribution of APLs across Brazil, 2015 (en)</cell>
@@ -7240,7 +7260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f3b3bced</cell>
   </row>
-  <row index="362">
+  <row index="363">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/5b16cf2c-en</cell>
     <cell name="title">SME performance and entrepreneurial dynamics in Brazil (en)</cell>
@@ -7260,7 +7280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1a75942b</cell>
   </row>
-  <row index="363">
+  <row index="364">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/981cfcf9-en</cell>
     <cell name="title">Share of Brazilian micro and small enterprises (MPEs) in total exporters and total export volume, 2009-17 (en)</cell>
@@ -7280,7 +7300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5c07c9d9</cell>
   </row>
-  <row index="364">
+  <row index="365">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/6654abca-en</cell>
     <cell name="title">Share of MPEs in public procurement (en)</cell>
@@ -7300,7 +7320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/39363c81</cell>
   </row>
-  <row index="365">
+  <row index="366">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/b2e15d70-en</cell>
     <cell name="title">Average market interest rates and BNDES interest rates for micro and small enterprises, 2012-18 (en)</cell>
@@ -7320,7 +7340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6a27c9cf</cell>
   </row>
-  <row index="366">
+  <row index="367">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/2eecb1b7-en</cell>
     <cell name="title">The business environment for SMEs and entrepreneurship in Brazil (en)</cell>
@@ -7340,7 +7360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3df10390</cell>
   </row>
-  <row index="367">
+  <row index="368">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/a4209041-en</cell>
     <cell name="title">OECD Economic Surveys: Slovenia 2020 (en)</cell>
@@ -7351,7 +7371,7 @@
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-29T22:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-03-13T20:21:00Z</cell>
+    <cell name="ilibrary last export date">2020-04-21T18:52:12Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2020-04-09T07:34:36Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -7360,18 +7380,18 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/97ff5ebc</cell>
   </row>
-  <row index="368">
+  <row index="369">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/a4209041-en</cell>
     <cell name="title">OECD Economic Surveys: Slovenia 2020 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-29T22:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2020-04-21T18:52:12Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -7379,26 +7399,6 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62a2727b</cell>
-  </row>
-  <row index="369">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/b04b25de-en</cell>
-    <cell name="title">OECD Economic Surveys: Greece 2020 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2020-06-12</cell>
-    <cell name="embargo date">2020-04-29T22:31:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/13b08a3f</cell>
   </row>
   <row index="370">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
@@ -8107,7 +8107,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -8127,7 +8127,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -8291,7 +8291,7 @@
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-04-20T18:52:52Z</cell>
+    <cell name="ilibrary last export date">2020-04-21T18:52:12Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -8507,7 +8507,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -8551,7 +8551,7 @@
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-04-20T18:52:52Z</cell>
+    <cell name="ilibrary last export date">2020-04-21T18:52:12Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -9367,7 +9367,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -9687,7 +9687,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -9731,9 +9731,9 @@
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-04-17T18:58:06Z</cell>
+    <cell name="ilibrary last export date">2020-04-21T18:52:12Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-04-17T18:23:02Z</cell>
+    <cell name="oecd.org last export date">2020-04-21T18:24:41Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -9967,7 +9967,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -10131,7 +10131,7 @@
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-04-20T18:52:52Z</cell>
+    <cell name="ilibrary last export date">2020-04-21T18:52:12Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -10307,7 +10307,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -10367,7 +10367,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -10527,7 +10527,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -10651,7 +10651,7 @@
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-04-20T18:52:52Z</cell>
+    <cell name="ilibrary last export date">2020-04-21T18:52:12Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -10767,7 +10767,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -10971,7 +10971,7 @@
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-04-20T18:52:52Z</cell>
+    <cell name="ilibrary last export date">2020-04-21T18:52:12Z</cell>
     <cell name="freepreview last export date">2020-04-17T18:37:51Z</cell>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -11567,7 +11567,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -11727,7 +11727,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -11791,9 +11791,9 @@
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-04-20T18:52:52Z</cell>
+    <cell name="ilibrary last export date">2020-04-21T18:52:12Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-04-20T18:22:14Z</cell>
+    <cell name="oecd.org last export date">2020-04-21T18:24:41Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -12131,9 +12131,9 @@
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-04-17T18:58:06Z</cell>
+    <cell name="ilibrary last export date">2020-04-21T18:52:12Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-04-17T18:23:02Z</cell>
+    <cell name="oecd.org last export date">2020-04-21T18:24:41Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -12607,7 +12607,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -12847,7 +12847,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -12947,7 +12947,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -13187,11 +13187,11 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2020-04-21T18:52:12Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -13491,9 +13491,9 @@
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-04-17T18:58:06Z</cell>
+    <cell name="ilibrary last export date">2020-04-21T18:52:12Z</cell>
     <cell name="freepreview last export date">2020-04-17T18:37:51Z</cell>
-    <cell name="oecd.org last export date">2020-04-17T18:23:02Z</cell>
+    <cell name="oecd.org last export date">2020-04-21T18:24:41Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -13731,7 +13731,7 @@
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-04-20T18:52:52Z</cell>
+    <cell name="ilibrary last export date">2020-04-21T18:52:12Z</cell>
     <cell name="freepreview last export date">2020-04-17T18:37:51Z</cell>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -14231,7 +14231,7 @@
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-04-20T18:52:52Z</cell>
+    <cell name="ilibrary last export date">2020-04-21T18:52:12Z</cell>
     <cell name="freepreview last export date">2020-04-17T18:37:51Z</cell>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -14347,7 +14347,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -14427,7 +14427,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -14567,7 +14567,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -15087,7 +15087,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -15327,7 +15327,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -15471,7 +15471,7 @@
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-04-20T18:52:52Z</cell>
+    <cell name="ilibrary last export date">2020-04-21T18:52:12Z</cell>
     <cell name="freepreview last export date">2020-04-17T18:37:51Z</cell>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -15867,7 +15867,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -16067,7 +16067,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -16087,7 +16087,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -16107,7 +16107,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -16387,7 +16387,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -16727,7 +16727,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -16767,11 +16767,11 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2020-04-21T18:52:12Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -17087,7 +17087,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -17211,9 +17211,9 @@
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-04-20T18:52:52Z</cell>
+    <cell name="ilibrary last export date">2020-04-21T18:52:12Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-04-20T18:22:14Z</cell>
+    <cell name="oecd.org last export date">2020-04-21T18:24:41Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -17287,7 +17287,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -17607,7 +17607,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -17967,7 +17967,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -18107,7 +18107,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -18207,7 +18207,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -18767,7 +18767,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -19067,7 +19067,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -19107,7 +19107,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -19587,7 +19587,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
+    <cell name="availability">Withdrawn</cell>
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -20011,9 +20011,9 @@
     <cell name="date of publication">2020-04-30</cell>
     <cell name="embargo date">2020-04-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-04-20T18:52:52Z</cell>
+    <cell name="ilibrary last export date">2020-04-21T18:52:12Z</cell>
     <cell name="freepreview last export date">2020-04-20T18:35:40Z</cell>
-    <cell name="oecd.org last export date">2020-04-20T18:22:14Z</cell>
+    <cell name="oecd.org last export date">2020-04-21T18:24:41Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -20791,7 +20791,7 @@
     <cell name="date of publication">2020-05-05</cell>
     <cell name="embargo date">2020-05-05T12:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-04-15T18:49:47Z</cell>
+    <cell name="ilibrary last export date">2020-04-21T18:52:12Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2020-04-15T18:20:29Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -20807,11 +20807,11 @@
     <cell name="subtitle"/>
     <cell name="language">English | Spanish</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2020-05-05</cell>
     <cell name="embargo date">2020-05-05T14:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2020-04-21T18:52:12Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -20841,6 +20841,26 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aa59d840</cell>
   </row>
   <row index="1042">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/b04b25de-en</cell>
+    <cell name="title">OECD Economic Surveys: Greece 2020 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2020-06-12</cell>
+    <cell name="embargo date">2020-06-11T22:31:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/13b08a3f</cell>
+  </row>
+  <row index="1043">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b04b25de-en</cell>
     <cell name="title">OECD Economic Surveys: Greece 2020 (en)</cell>
