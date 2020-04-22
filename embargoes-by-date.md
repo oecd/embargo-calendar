@@ -2,67 +2,16 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 21 April 2020 at 21:59* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 22 April 2020 at 21:44* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [20 April 2020](#20-april-2020)
 * [22 April 2020](#22-april-2020)
 * [27 April 2020](#27-april-2020)
 * [29 April 2020](#29-april-2020)
 * [30 April 2020](#30-april-2020)
 * [4 May 2020](#4-may-2020)
-* [5 May 2020](#5-may-2020)
+* [7 May 2020](#7-may-2020)
 * [7 June 2020](#7-june-2020)
 * [11 June 2020](#11-june-2020)
-
-------
-
-# 20 April 2020
-
-## [Common Ground Between the Paris Agreement and the Sendai Framework  - Climate Change Adaptation and Disaster Risk Reduction](https://doi.org/10.1787/3edc8d09-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 April 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 April 2020 at 20:58
-- [x] Exported to Keepeek Friday 17 April 2020 at 20:37
-- [x] Exported to OECD.org Tuesday 21 April 2020 at 20:24
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Digitalisation challenges and opportunities for subnational governments](https://doi.org/10.1787/9582594a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 April 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 April 2020 at 20:55
-- [x] Exported to Keepeek Thursday 16 April 2020 at 20:40
-- [x] Exported to OECD.org Tuesday 21 April 2020 at 20:24
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -151,7 +100,7 @@ Monday 27 April 2020 at 6:30 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 14 April 2020 at 21:03
-- [x] Exported to Keepeek Tuesday 14 April 2020 at 20:46
+- [x] Exported to Keepeek Wednesday 22 April 2020 at 20:35
 - [x] Exported to OECD.org Tuesday 21 April 2020 at 20:24
 
 ### Additional Information
@@ -270,20 +219,20 @@ Monday 4 May 2020 at 8:00 | no launch event
 
 ------
 
-# 5 May 2020
+# 7 May 2020
 
 ## [Revenue Statistics in Latin America and the Caribbean 2020 (en) | Estadísticas tributarias en América Latina y el Caribe 2020](https://doi.org/10.1787/68739b9b-en-es)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 5 May 2020 at 12:00 | no launch event
+Thursday 7 May 2020 at 15:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 21 April 2020 at 20:52
+- [x] Exported to iLibrary Wednesday 22 April 2020 at 20:49
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 April 2020 at 20:20
+- [x] Exported to OECD.org Wednesday 22 April 2020 at 20:24
 
 ### Additional Information
 
