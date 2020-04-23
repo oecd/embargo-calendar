@@ -2,14 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 22 April 2020 at 21:44* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 23 April 2020 at 21:46* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 April 2020](#22-april-2020)
 * [27 April 2020](#27-april-2020)
-* [29 April 2020](#29-april-2020)
 * [30 April 2020](#30-april-2020)
 * [4 May 2020](#4-may-2020)
 * [7 May 2020](#7-may-2020)
+* [28 May 2020](#28-may-2020)
 * [7 June 2020](#7-june-2020)
 * [11 June 2020](#11-june-2020)
 
@@ -28,7 +28,7 @@ Wednesday 22 April 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 21 April 2020 at 20:52
 - [x] Exported to Keepeek Tuesday 21 April 2020 at 20:37
-- [x] Exported to OECD.org Tuesday 21 April 2020 at 20:24
+- [x] Exported to OECD.org Thursday 23 April 2020 at 20:24
 
 ### Additional Information
 
@@ -51,7 +51,7 @@ Wednesday 22 April 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 April 2020 at 20:55
 - [x] Exported to Keepeek Thursday 16 April 2020 at 20:40
-- [x] Exported to OECD.org Thursday 16 April 2020 at 20:23
+- [x] Exported to OECD.org Thursday 23 April 2020 at 20:24
 
 ### Additional Information
 
@@ -74,7 +74,7 @@ Wednesday 22 April 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 April 2020 at 20:58
 - [x] Exported to Keepeek Tuesday 21 April 2020 at 20:37
-- [x] Exported to OECD.org Friday 17 April 2020 at 20:23
+- [x] Exported to OECD.org Thursday 23 April 2020 at 20:24
 
 ### Additional Information
 
@@ -110,33 +110,6 @@ Monday 27 April 2020 at 6:30 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-------
-
-# 29 April 2020
-
-## [OECD Economic Surveys: Slovenia 2020](https://doi.org/10.1787/a4209041-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 April 2020 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 21 April 2020 at 20:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
 
 ------
 
@@ -198,20 +171,20 @@ Thursday 30 April 2020 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 4 May 2020 at 8:00 | no launch event
+Monday 4 May 2020 at 10:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 April 2020 at 20:52
-- [x] Exported to Keepeek Monday 30 March 2020 at 20:42
-- [x] Exported to OECD.org Monday 20 April 2020 at 20:22
+- [x] Exported to iLibrary Thursday 23 April 2020 at 20:55
+- [x] Exported to Keepeek Thursday 23 April 2020 at 20:40
+- [x] Exported to OECD.org Thursday 23 April 2020 at 20:24
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -240,6 +213,33 @@ Thursday 7 May 2020 at 15:00 | no launch event
 * Language: *English | Spanish*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 28 May 2020
+
+## [OECD Economic Surveys: Slovenia 2020](https://doi.org/10.1787/a4209041-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 May 2020 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 23 April 2020 at 20:55
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 23 April 2020 at 20:24
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
