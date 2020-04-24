@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 23 April 2020 at 21:46* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 24 April 2020 at 21:33* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [22 April 2020](#22-april-2020)
 * [27 April 2020](#27-april-2020)
 * [30 April 2020](#30-april-2020)
 * [4 May 2020](#4-may-2020)
@@ -12,79 +11,6 @@ Data generated on | |
 * [28 May 2020](#28-may-2020)
 * [7 June 2020](#7-june-2020)
 * [11 June 2020](#11-june-2020)
-
-------
-
-# 22 April 2020
-
-## [How teachers differ in their perceptions of leadership for learning - Clustering teacher data from TALIS 2018](https://doi.org/10.1787/83880b97-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 22 April 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 April 2020 at 20:52
-- [x] Exported to Keepeek Tuesday 21 April 2020 at 20:37
-- [x] Exported to OECD.org Thursday 23 April 2020 at 20:24
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Examining a congruency-typology model of leadership for learning using two-level latent class analysis with TALIS 2018](https://doi.org/10.1787/c963073b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 22 April 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 April 2020 at 20:55
-- [x] Exported to Keepeek Thursday 16 April 2020 at 20:40
-- [x] Exported to OECD.org Thursday 23 April 2020 at 20:24
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Financing SMEs and Entrepreneurs 2020 - An OECD Scoreboard](https://doi.org/10.1787/061fe03d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 22 April 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 April 2020 at 20:58
-- [x] Exported to Keepeek Tuesday 21 April 2020 at 20:37
-- [x] Exported to OECD.org Thursday 23 April 2020 at 20:24
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -101,7 +27,7 @@ Monday 27 April 2020 at 6:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 14 April 2020 at 21:03
 - [x] Exported to Keepeek Wednesday 22 April 2020 at 20:35
-- [x] Exported to OECD.org Tuesday 21 April 2020 at 20:24
+- [x] Exported to OECD.org Friday 24 April 2020 at 20:24
 
 ### Additional Information
 
