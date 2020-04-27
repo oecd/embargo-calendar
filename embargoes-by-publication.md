@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 24 April 2020 at 21:33* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 27 April 2020 at 21:40* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [ SME and Entrepreneurship Policy in Brazil 2020](https://doi.org/10.1787/cc5feb81-en)
 
@@ -24,6 +24,29 @@ Monday 27 April 2020 at 6:30 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Teaching and Learning International Survey (TALIS) 2018 analysis plan](https://doi.org/10.1787/7b8f4779-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 April 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 27 April 2020 at 20:52
+- [x] Exported to Keepeek Monday 27 April 2020 at 20:37
+- [x] Exported to OECD.org Monday 27 April 2020 at 20:23
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -93,6 +116,29 @@ Monday 4 May 2020 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [PISA 2018 Results (Volume IV) - Are Students Smart about Money?](https://doi.org/10.1787/48ebd1ba-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 7 May 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
