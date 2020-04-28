@@ -15,22 +15,22 @@ DESCRIPTION:* SME and Entrepreneurship Policy in Bra
  pril 2020, 6:30 (GMT)\n\n\niLibrary expo
  rt: Tuesday, 14 April 2020, 19:03 (GMT)\
  nFreepreview export: Wednesday, 22 April
-  2020, 18:35 (GMT)\nOECD.org export: Fri
- day, 24 April 2020, 18:24 (GMT)\nFTI loa
- ded: ✓\n\nFor more information see: http
- s://oecd.github.io/embargo-calendar/emba
- rgoes-by-publication.html.\n\nPlease not
- e: This information was correct as of th
- is afternoon at 21:40, it is updated eac
- h night; therefore any subsequent update
- s may not yet be visible here. Also, ple
- ase be aware that the different released
-  media (PDF, HTML, etc.) are not necessa
- rily released at the same time. For comp
- lete and up-to-date information see here
- : http://kappa.oecd.org/v3/search?term=c
- c5feb81-en.
-DTSTAMP:20200427T214009Z
+  2020, 18:35 (GMT)\nOECD.org export: Tue
+ sday, 28 April 2020, 18:32 (GMT)\nFTI lo
+ aded: ✓\n\nFor more information see: htt
+ ps://oecd.github.io/embargo-calendar/emb
+ argoes-by-publication.html.\n\nPlease no
+ te: This information was correct as of t
+ his afternoon at 21:52, it is updated ea
+ ch night; therefore any subsequent updat
+ es may not yet be visible here. Also, pl
+ ease be aware that the different release
+ d media (PDF, HTML, etc.) are not necess
+ arily released at the same time. For com
+ plete and up-to-date information see her
+ e: http://kappa.oecd.org/v3/search?term=
+ cc5feb81-en.
+DTSTAMP:20200428T215235Z
 DTSTART:20200427T063000Z
 DTEND:20200427T064500Z
 TRANSP:TRANSPARENT
@@ -44,7 +44,7 @@ DESCRIPTION:Reminder:  SME and Entrepreneurship Poli
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7b8f4779-end3e4567
+UID:10.1787/7b8f4779-end3e4570
 SUMMARY:Teaching and Learning International Surv
  ey (TALIS) 2018 analysis plan
 DESCRIPTION:*Teaching and Learning International Sur
@@ -57,21 +57,21 @@ DESCRIPTION:*Teaching and Learning International Sur
  0 (GMT)\n\n\niLibrary export: Monday, 27
   April 2020, 18:52 (GMT)\nFreepreview ex
  port: Monday, 27 April 2020, 18:37 (GMT)
- \nOECD.org export: Monday, 27 April 2020
- , 18:23 (GMT)\nFTI loaded: ✓\n\nFor more
-  information see: https://oecd.github.io
- /embargo-calendar/embargoes-by-publicati
- on.html.\n\nPlease note: This informatio
- n was correct as of this afternoon at 21
- :40, it is updated each night; therefore
-  any subsequent updates may not yet be v
- isible here. Also, please be aware that 
- the different released media (PDF, HTML,
-  etc.) are not necessarily released at t
- he same time. For complete and up-to-dat
- e information see here: http://kappa.oec
- d.org/v3/search?term=7b8f4779-en.
-DTSTAMP:20200427T214009Z
+ \nOECD.org export: Tuesday, 28 April 202
+ 0, 18:32 (GMT)\nFTI loaded: ✓\n\nFor mor
+ e information see: https://oecd.github.i
+ o/embargo-calendar/embargoes-by-publicat
+ ion.html.\n\nPlease note: This informati
+ on was correct as of this afternoon at 2
+ 1:52, it is updated each night; therefor
+ e any subsequent updates may not yet be 
+ visible here. Also, please be aware that
+  the different released media (PDF, HTML
+ , etc.) are not necessarily released at 
+ the same time. For complete and up-to-da
+ te information see here: http://kappa.oe
+ cd.org/v3/search?term=7b8f4779-en.
+DTSTAMP:20200428T215235Z
 DTSTART:20200429T090000Z
 DTEND:20200429T091500Z
 TRANSP:TRANSPARENT
@@ -85,7 +85,48 @@ DESCRIPTION:Reminder: Teaching and Learning Internat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/047072cd-end3e21517
+UID:10.1787/b3fc8581-end3e8061
+SUMMARY:Multilingual Summaries for Taxing Wages 
+ 2020
+DESCRIPTION:*Multilingual Summaries for Taxing Wages
+  2020*\n\nDirectorate: Centre for Tax Po
+ licy and Administration\n6 Languages: It
+ alian, German, English, Japanese, Spanis
+ h, French\nPublication type: Summary\nRe
+ leased as: ePub, HTML, PDF\n\nEmbargo da
+ te/time: Thursday, 30 April 2020, 9:00 (
+ GMT)\n\niLibrary export: Tuesday, 28 Apr
+ il 2020, 19:02 (GMT)\nFreepreview export
+ : Tuesday, 28 April 2020, 18:46 (GMT)\nO
+ ECD.org export: never\nFTI loaded: ✓\n\n
+ For more information see: https://oecd.g
+ ithub.io/embargo-calendar/embargoes-by-p
+ ublication.html.\n\nPlease note: This in
+ formation was correct as of this afterno
+ on at 21:52, it is updated each night; t
+ herefore any subsequent updates may not 
+ yet be visible here. Also, please be awa
+ re that the different released media (PD
+ F, HTML, etc.) are not necessarily relea
+ sed at the same time. For complete and u
+ p-to-date information see here: http://k
+ appa.oecd.org/v3/search?term=b3fc8581-en
+ .
+DTSTAMP:20200428T215235Z
+DTSTART:20200430T090000Z
+DTEND:20200430T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Multilingual Summaries for Tax
+ ing Wages 2020
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/047072cd-end3e22126
 SUMMARY:Taxing Wages 2020
 DESCRIPTION:*Taxing Wages 2020*\n\nDirectorate: Cent
  re for Tax Policy and Administration\nLa
@@ -102,7 +143,7 @@ DESCRIPTION:*Taxing Wages 2020*\n\nDirectorate: Cent
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 21:40, it is updated each n
+ afternoon at 21:52, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -111,7 +152,7 @@ DESCRIPTION:*Taxing Wages 2020*\n\nDirectorate: Cent
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=0470
  72cd-en.
-DTSTAMP:20200427T214009Z
+DTSTAMP:20200428T215235Z
 DTSTART:20200430T090000Z
 DTEND:20200430T091500Z
 TRANSP:TRANSPARENT
@@ -124,7 +165,7 @@ DESCRIPTION:Reminder: Taxing Wages 2020
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/44e00867-frd3e39617
+UID:10.1787/44e00867-frd3e40616
 SUMMARY:Les impôts sur les salaires 2020
 DESCRIPTION:*Les impôts sur les salaires 2020*\n\nDi
  rectorate: Centre for Tax Policy and Adm
@@ -141,7 +182,7 @@ DESCRIPTION:*Les impôts sur les salaires 2020*\n\nDi
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 21:40, it is 
+ ct as of this afternoon at 21:52, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -150,7 +191,7 @@ DESCRIPTION:*Les impôts sur les salaires 2020*\n\nDi
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=44e00867-fr.
-DTSTAMP:20200427T214009Z
+DTSTAMP:20200428T215235Z
 DTSTART:20200430T090000Z
 DTEND:20200430T091500Z
 TRANSP:TRANSPARENT
@@ -164,7 +205,7 @@ DESCRIPTION:Reminder: Les impôts sur les salaires 20
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/09be52f0-end3e40668
+UID:10.1787/09be52f0-end3e41667
 SUMMARY:Review of International Regulatory Co-op
  eration of the United Kingdom
 DESCRIPTION:*Review of International Regulatory Co-o
@@ -183,7 +224,7 @@ DESCRIPTION:*Review of International Regulatory Co-o
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 21:40
+ as correct as of this afternoon at 21:52
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -192,7 +233,7 @@ DESCRIPTION:*Review of International Regulatory Co-o
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=09be52f0-en.
-DTSTAMP:20200427T214009Z
+DTSTAMP:20200428T215235Z
 DTSTART:20200504T100000Z
 DTEND:20200504T101500Z
 TRANSP:TRANSPARENT
@@ -206,7 +247,7 @@ DESCRIPTION:Reminder: Review of International Regula
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/48ebd1ba-end3e41813
+UID:10.1787/48ebd1ba-end3e42812
 SUMMARY:PISA 2018 Results (Volume IV) - Are Stud
  ents Smart about Money?
 DESCRIPTION:*PISA 2018 Results (Volume IV) - Are Stu
@@ -222,7 +263,7 @@ DESCRIPTION:*PISA 2018 Results (Volume IV) - Are Stu
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 21:40, it
+ orrect as of this afternoon at 21:52, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -231,7 +272,7 @@ DESCRIPTION:*PISA 2018 Results (Volume IV) - Are Stu
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=48ebd1ba-en.
-DTSTAMP:20200427T214009Z
+DTSTAMP:20200428T215235Z
 DTSTART:20200507T090000Z
 DTEND:20200507T091500Z
 TRANSP:TRANSPARENT
@@ -245,7 +286,7 @@ DESCRIPTION:Reminder: PISA 2018 Results (Volume IV)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/68739b9b-en-esd3e41865
+UID:10.1787/68739b9b-en-esd3e42919
 SUMMARY:Revenue Statistics in Latin America and 
  the Caribbean 2020 (en) | Estadísticas t
  ributarias en América Latina y el Caribe
@@ -259,24 +300,24 @@ DESCRIPTION:*Revenue Statistics in Latin America and
  787/68739b9b-en-es\nPublication type: Bo
  ok\nReleased as: Paperback, PDF\n\nEmbar
  go date/time: Thursday, 7 May 2020, 15:0
- 0 (GMT)\n\n\niLibrary export: Wednesday,
-  22 April 2020, 18:49 (GMT)\nFreepreview
-  export: never\nOECD.org export: Wednesd
- ay, 22 April 2020, 18:24 (GMT)\nFTI load
- ed: ✗\n\nFor more information see: https
- ://oecd.github.io/embargo-calendar/embar
- goes-by-publication.html.\n\nPlease note
- : This information was correct as of thi
- s afternoon at 21:40, it is updated each
-  night; therefore any subsequent updates
-  may not yet be visible here. Also, plea
- se be aware that the different released 
- media (PDF, HTML, etc.) are not necessar
- ily released at the same time. For compl
- ete and up-to-date information see here:
-  http://kappa.oecd.org/v3/search?term=68
- 739b9b-en-es.
-DTSTAMP:20200427T214009Z
+ 0 (GMT)\n\n\niLibrary export: Tuesday, 2
+ 8 April 2020, 19:02 (GMT)\nFreepreview e
+ xport: never\nOECD.org export: Wednesday
+ , 22 April 2020, 18:24 (GMT)\nFTI loaded
+ : ✓\n\nFor more information see: https:/
+ /oecd.github.io/embargo-calendar/embargo
+ es-by-publication.html.\n\nPlease note: 
+ This information was correct as of this 
+ afternoon at 21:52, it is updated each n
+ ight; therefore any subsequent updates m
+ ay not yet be visible here. Also, please
+  be aware that the different released me
+ dia (PDF, HTML, etc.) are not necessaril
+ y released at the same time. For complet
+ e and up-to-date information see here: h
+ ttp://kappa.oecd.org/v3/search?term=6873
+ 9b9b-en-es.
+DTSTAMP:20200428T215235Z
 DTSTART:20200507T150000Z
 DTEND:20200507T151500Z
 TRANSP:TRANSPARENT
@@ -292,7 +333,7 @@ DESCRIPTION:Reminder: Revenue Statistics in Latin Am
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a4209041-end3e41973
+UID:10.1787/a4209041-end3e43460
 SUMMARY:OECD Economic Surveys: Slovenia 2020
 DESCRIPTION:*OECD Economic Surveys: Slovenia 2020*\n
  \nDirectorate: Economics Department\nLan
@@ -308,7 +349,7 @@ DESCRIPTION:*OECD Economic Surveys: Slovenia 2020*\n
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 21:40, it is upda
+ s of this afternoon at 21:52, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -317,7 +358,7 @@ DESCRIPTION:*OECD Economic Surveys: Slovenia 2020*\n
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=a4209041-en.
-DTSTAMP:20200427T214009Z
+DTSTAMP:20200428T215235Z
 DTSTART:20200528T220000Z
 DTEND:20200528T221500Z
 TRANSP:TRANSPARENT
@@ -331,7 +372,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Sloveni
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d6a7d907-end3e42080
+UID:10.1787/d6a7d907-end3e43568
 SUMMARY:OECD Economic Surveys: Israel 2020
 DESCRIPTION:*OECD Economic Surveys: Israel 2020*\n\n
  Directorate: Economics Department\nLangu
@@ -345,7 +386,7 @@ DESCRIPTION:*OECD Economic Surveys: Israel 2020*\n\n
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 21:40, it is u
+ t as of this afternoon at 21:52, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -354,7 +395,7 @@ DESCRIPTION:*OECD Economic Surveys: Israel 2020*\n\n
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=d6a7d907-en.
-DTSTAMP:20200427T214009Z
+DTSTAMP:20200428T215235Z
 DTSTART:20200607T220000Z
 DTEND:20200607T221500Z
 TRANSP:TRANSPARENT
@@ -368,7 +409,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Israel
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b04b25de-end3e42183
+UID:10.1787/b04b25de-end3e43671
 SUMMARY:OECD Economic Surveys: Greece 2020
 DESCRIPTION:*OECD Economic Surveys: Greece 2020*\n\n
  Directorate: Economics Department\nLangu
@@ -383,7 +424,7 @@ DESCRIPTION:*OECD Economic Surveys: Greece 2020*\n\n
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 21:40, it is updated each night; therefo
+ 21:52, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -391,7 +432,7 @@ DESCRIPTION:*OECD Economic Surveys: Greece 2020*\n\n
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=b04b25de-en.
-DTSTAMP:20200427T214009Z
+DTSTAMP:20200428T215235Z
 DTSTART:20200611T223100Z
 DTEND:20200611T224600Z
 TRANSP:TRANSPARENT

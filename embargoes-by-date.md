@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 27 April 2020 at 21:40* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 28 April 2020 at 21:52* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [27 April 2020](#27-april-2020)
 * [29 April 2020](#29-april-2020)
@@ -28,7 +28,7 @@ Monday 27 April 2020 at 6:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 14 April 2020 at 21:03
 - [x] Exported to Keepeek Wednesday 22 April 2020 at 20:35
-- [x] Exported to OECD.org Friday 24 April 2020 at 20:24
+- [x] Exported to OECD.org Tuesday 28 April 2020 at 20:32
 
 ### Additional Information
 
@@ -55,7 +55,7 @@ Wednesday 29 April 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 April 2020 at 20:52
 - [x] Exported to Keepeek Monday 27 April 2020 at 20:37
-- [x] Exported to OECD.org Monday 27 April 2020 at 20:23
+- [x] Exported to OECD.org Tuesday 28 April 2020 at 20:32
 
 ### Additional Information
 
@@ -70,6 +70,29 @@ Wednesday 29 April 2020 at 9:00 | no launch event
 ------
 
 # 30 April 2020
+
+## [Multilingual Summaries for Taxing Wages 2020](https://doi.org/10.1787/b3fc8581-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 30 April 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 28 April 2020 at 21:02
+- [x] Exported to Keepeek Tuesday 28 April 2020 at 20:46
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* 6 Languages: [Italian](https://doi.org/10.1787/ed406d18-it), [German](https://doi.org/10.1787/e8abeb79-de), [English](https://doi.org/10.1787/b3fc8581-en), [Japanese](https://doi.org/10.1787/9b9cf47a-ja), [Spanish](https://doi.org/10.1787/d14a488a-es), [French](https://doi.org/10.1787/86940fef-fr)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Formats: *ePub, HTML, PDF*
+
+------
 
 ## [Taxing Wages 2020](https://doi.org/10.1787/047072cd-en)
 
@@ -179,8 +202,8 @@ Thursday 7 May 2020 at 15:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 22 April 2020 at 20:49
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 28 April 2020 at 21:02
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 22 April 2020 at 20:24
 
