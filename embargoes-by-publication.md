@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 29 April 2020 at 21:43* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 30 April 2020 at 22:17* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Teaching and Learning International Survey (TALIS) 2018 analysis plan](https://doi.org/10.1787/7b8f4779-en)
 
@@ -15,7 +15,7 @@ Wednesday 29 April 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 April 2020 at 20:52
 - [x] Exported to Keepeek Monday 27 April 2020 at 20:37
-- [x] Exported to OECD.org Tuesday 28 April 2020 at 20:32
+- [x] Exported to OECD.org Thursday 30 April 2020 at 20:33
 
 ### Additional Information
 
