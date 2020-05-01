@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 30 April 2020 at 22:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 1 May 2020 at 21:40* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [29 April 2020](#29-april-2020)
 * [30 April 2020](#30-april-2020)
 * [4 May 2020](#4-may-2020)
 * [7 May 2020](#7-may-2020)
@@ -12,33 +11,6 @@ Data generated on | |
 * [7 June 2020](#7-june-2020)
 * [11 June 2020](#11-june-2020)
 * [6 July 2020](#6-july-2020)
-
-------
-
-# 29 April 2020
-
-## [Teaching and Learning International Survey (TALIS) 2018 analysis plan](https://doi.org/10.1787/7b8f4779-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 April 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 April 2020 at 20:52
-- [x] Exported to Keepeek Monday 27 April 2020 at 20:37
-- [x] Exported to OECD.org Thursday 30 April 2020 at 20:33
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -78,7 +50,7 @@ Thursday 30 April 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 21 April 2020 at 20:52
 - [x] Exported to Keepeek Friday 17 April 2020 at 20:37
-- [x] Exported to OECD.org Wednesday 29 April 2020 at 20:24
+- [x] Exported to OECD.org Friday 1 May 2020 at 20:27
 
 ### Additional Information
 
@@ -101,7 +73,7 @@ Thursday 30 April 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 29 April 2020 at 20:52
 - [x] Exported to Keepeek Monday 20 April 2020 at 20:35
-- [x] Exported to OECD.org Wednesday 29 April 2020 at 20:24
+- [x] Exported to OECD.org Friday 1 May 2020 at 20:27
 
 ### Additional Information
 
@@ -128,7 +100,7 @@ Monday 4 May 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 29 April 2020 at 20:52
 - [x] Exported to Keepeek Thursday 23 April 2020 at 20:40
-- [x] Exported to OECD.org Thursday 23 April 2020 at 20:24
+- [x] Exported to OECD.org Friday 1 May 2020 at 20:27
 
 ### Additional Information
 
