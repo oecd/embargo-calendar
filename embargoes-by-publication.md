@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 4 May 2020 at 21:37* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 5 May 2020 at 21:45* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Review of International Regulatory Co-operation of the United Kingdom](https://doi.org/10.1787/09be52f0-en)
 
@@ -15,7 +15,7 @@ Monday 4 May 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 29 April 2020 at 20:52
 - [x] Exported to Keepeek Thursday 23 April 2020 at 20:40
-- [x] Exported to OECD.org Friday 1 May 2020 at 20:27
+- [x] Exported to OECD.org Tuesday 5 May 2020 at 20:27
 
 ### Additional Information
 
@@ -59,15 +59,15 @@ Thursday 7 May 2020 at 15:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 April 2020 at 21:02
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 April 2020 at 20:24
+- [x] Exported to iLibrary Tuesday 5 May 2020 at 20:56
+- [x] Exported to Keepeek Tuesday 5 May 2020 at 20:42
+- [x] Exported to OECD.org Tuesday 5 May 2020 at 20:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English | Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
