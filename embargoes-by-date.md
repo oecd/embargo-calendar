@@ -2,41 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 5 May 2020 at 21:45* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 6 May 2020 at 21:36* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [4 May 2020](#4-may-2020)
 * [7 May 2020](#7-may-2020)
 * [28 May 2020](#28-may-2020)
 * [7 June 2020](#7-june-2020)
 * [11 June 2020](#11-june-2020)
 * [6 July 2020](#6-july-2020)
-
-------
-
-# 4 May 2020
-
-## [Review of International Regulatory Co-operation of the United Kingdom](https://doi.org/10.1787/09be52f0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 May 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 29 April 2020 at 20:52
-- [x] Exported to Keepeek Thursday 23 April 2020 at 20:40
-- [x] Exported to OECD.org Tuesday 5 May 2020 at 20:27
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -51,9 +23,9 @@ Thursday 7 May 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 May 2020 at 20:50
+- [x] Exported to iLibrary Wednesday 6 May 2020 at 20:49
 - [x] Exported to Keepeek Monday 4 May 2020 at 20:35
-- [x] Exported to OECD.org Monday 4 May 2020 at 20:21
+- [x] Exported to OECD.org Wednesday 6 May 2020 at 20:25
 
 ### Additional Information
 
@@ -62,6 +34,29 @@ Thursday 7 May 2020 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [PISA 2018 results: Are students smart about money?](https://doi.org/10.1787/d540d9e9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 7 May 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 6 May 2020 at 20:49
+- [x] Exported to Keepeek Wednesday 6 May 2020 at 20:35
+- [x] Exported to OECD.org Wednesday 6 May 2020 at 20:25
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -76,7 +71,7 @@ Thursday 7 May 2020 at 15:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 5 May 2020 at 20:56
 - [x] Exported to Keepeek Tuesday 5 May 2020 at 20:42
-- [x] Exported to OECD.org Tuesday 5 May 2020 at 20:27
+- [x] Exported to OECD.org Wednesday 6 May 2020 at 20:25
 
 ### Additional Information
 
