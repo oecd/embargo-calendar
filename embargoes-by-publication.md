@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 7 May 2020 at 21:48* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 8 May 2020 at 21:26* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [PISA 2018 Results (Volume IV) - Are Students Smart about Money?](https://doi.org/10.1787/48ebd1ba-en)
 
