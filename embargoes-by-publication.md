@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 8 May 2020 at 21:26* | [See embargoes by date](embargoes-by-date.md) |
-
-## [PISA 2018 Results (Volume IV) - Are Students Smart about Money?](https://doi.org/10.1787/48ebd1ba-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 7 May 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 May 2020 at 20:49
-- [x] Exported to Keepeek Monday 4 May 2020 at 20:35
-- [x] Exported to OECD.org Wednesday 6 May 2020 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [PISA 2018 results: Are students smart about money?](https://doi.org/10.1787/d540d9e9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 7 May 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 May 2020 at 20:49
-- [x] Exported to Keepeek Wednesday 6 May 2020 at 20:35
-- [x] Exported to OECD.org Wednesday 6 May 2020 at 20:25
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Revenue Statistics in Latin America and the Caribbean 2020 (en) | Estadísticas tributarias en América Latina y el Caribe 2020](https://doi.org/10.1787/68739b9b-en-es)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 7 May 2020 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 May 2020 at 20:56
-- [x] Exported to Keepeek Tuesday 5 May 2020 at 20:42
-- [x] Exported to OECD.org Wednesday 6 May 2020 at 20:25
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English | Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
+| *Monday 11 May 2020 at 21:38* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Slovenia 2020](https://doi.org/10.1787/a4209041-en)
 
