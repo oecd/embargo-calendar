@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 11 May 2020 at 21:38* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 12 May 2020 at 21:08* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [28 May 2020](#28-may-2020)
 * [7 June 2020](#7-june-2020)
