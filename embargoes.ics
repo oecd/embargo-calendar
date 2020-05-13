@@ -18,7 +18,7 @@ DESCRIPTION:*OECD Economic Surveys: Slovenia 2020*\n
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 21:08, it is upda
+ s of this afternoon at 21:22, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -27,7 +27,7 @@ DESCRIPTION:*OECD Economic Surveys: Slovenia 2020*\n
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=a4209041-en.
-DTSTAMP:20200512T210803Z
+DTSTAMP:20200513T212213Z
 DTSTART:20200528T220000Z
 DTEND:20200528T221500Z
 TRANSP:TRANSPARENT
@@ -55,7 +55,7 @@ DESCRIPTION:*OECD Economic Surveys: Israel 2020*\n\n
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 21:08, it is u
+ t as of this afternoon at 21:22, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -64,7 +64,7 @@ DESCRIPTION:*OECD Economic Surveys: Israel 2020*\n\n
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=d6a7d907-en.
-DTSTAMP:20200512T210803Z
+DTSTAMP:20200513T212213Z
 DTSTART:20200607T220000Z
 DTEND:20200607T221500Z
 TRANSP:TRANSPARENT
@@ -93,7 +93,7 @@ DESCRIPTION:*OECD Economic Surveys: Greece 2020*\n\n
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 21:08, it is updated each night; therefo
+ 21:22, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -101,7 +101,7 @@ DESCRIPTION:*OECD Economic Surveys: Greece 2020*\n\n
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=b04b25de-en.
-DTSTAMP:20200512T210803Z
+DTSTAMP:20200513T212213Z
 DTSTART:20200611T223100Z
 DTEND:20200611T224600Z
 TRANSP:TRANSPARENT
@@ -115,7 +115,46 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Greece
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1112c23b-end3e377
+UID:10.1787/ca768d40-end3e378
+SUMMARY:PISA 2018 Results (Volume V) - Effective
+  Policies, Successful Schools
+DESCRIPTION:*PISA 2018 Results (Volume V) - Effectiv
+ e Policies, Successful Schools*\n\nDirec
+ torate: Directorate for Education and Sk
+ ills\nLanguage: English\nDOI: https://do
+ i.org/10.1787/ca768d40-en\nPublication t
+ ype: Book\nReleased as: Paperback, PDF\n
+ \nEmbargo date/time: Tuesday, 23 June 20
+ 20, 9:00 (GMT)\n\n\niLibrary export: nev
+ er\nFreepreview export: never\nOECD.org 
+ export: never\nFTI loaded: ✗\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 21
+ :22, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=ca768d40-en.
+DTSTAMP:20200513T212213Z
+DTSTART:20200623T090000Z
+DTEND:20200623T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: PISA 2018 Results (Volume V) -
+  Effective Policies, Successful Schools
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/1112c23b-end3e481
 SUMMARY:OECD-FAO Agricultural Outlook 2020-2029
 DESCRIPTION:*OECD-FAO Agricultural Outlook 2020-2029
  *\n\nDirectorate: Trade and Agriculture 
@@ -130,7 +169,7 @@ DESCRIPTION:*OECD-FAO Agricultural Outlook 2020-2029
  ub.io/embargo-calendar/embargoes-by-publ
  ication.html.\n\nPlease note: This infor
  mation was correct as of this afternoon 
- at 21:08, it is updated each night; ther
+ at 21:22, it is updated each night; ther
  efore any subsequent updates may not yet
   be visible here. Also, please be aware 
  that the different released media (PDF, 
@@ -138,7 +177,7 @@ DESCRIPTION:*OECD-FAO Agricultural Outlook 2020-2029
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=1112c23b-en.
-DTSTAMP:20200512T210803Z
+DTSTAMP:20200513T212213Z
 DTSTART:20200706T080000Z
 DTEND:20200706T081500Z
 TRANSP:TRANSPARENT

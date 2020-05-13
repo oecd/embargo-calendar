@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Tue, 12 May 2020 21:08:07 GMT</pubDate>
+      <pubDate>Wed, 13 May 2020 21:22:16 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://oecd.github.io/embargo-calendar/embargoes.rss"
                  rel="self"
@@ -62,7 +62,23 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/1112c23b-en-d3e377</guid>
+         <guid isPermaLink="false">10.1787/ca768d40-en-d3e378</guid>
+         <pubDate>Tue, 23 Jun 2020 11:00:00 GMT</pubDate>
+         <title>PISA 2018 Results (Volume V) - Effective Policies, Successful Schools</title>
+         <link>https://doi.org/10.1787/ca768d40-en</link>
+         <description>PISA 2018 Results (Volume V) - Effective Policies, Successful Schools by Directorate for Education and Skills has an embargo on Tuesday 23 June 2020 at 11:00.</description>
+         <oe:embargoTime>Tue, 23 Jun 2020 11:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Directorate for Education and Skills</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/1112c23b-en-d3e481</guid>
          <pubDate>Mon, 06 Jul 2020 10:00:00 GMT</pubDate>
          <title>OECD-FAO Agricultural Outlook 2020-2029</title>
          <link>https://doi.org/10.1787/1112c23b-en</link>

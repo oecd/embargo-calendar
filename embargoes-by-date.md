@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 12 May 2020 at 21:08* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 13 May 2020 at 21:22* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [28 May 2020](#28-may-2020)
 * [7 June 2020](#7-june-2020)
 * [11 June 2020](#11-june-2020)
+* [23 June 2020](#23-june-2020)
 * [6 July 2020](#6-july-2020)
 
 ------
@@ -86,6 +87,33 @@ Thursday 11 June 2020 at 22:31 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 23 June 2020
+
+## [PISA 2018 Results (Volume V) - Effective Policies, Successful Schools](https://doi.org/10.1787/ca768d40-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 June 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------

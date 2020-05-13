@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 12 May 2020 at 21:08* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 13 May 2020 at 21:22* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Slovenia 2020](https://doi.org/10.1787/a4209041-en)
 
@@ -69,6 +69,29 @@ Thursday 11 June 2020 at 22:31 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [PISA 2018 Results (Volume V) - Effective Policies, Successful Schools](https://doi.org/10.1787/ca768d40-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 June 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
