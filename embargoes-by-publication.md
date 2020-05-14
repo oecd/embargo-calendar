@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 13 May 2020 at 21:22* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 14 May 2020 at 21:07* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Slovenia 2020](https://doi.org/10.1787/a4209041-en)
 
@@ -90,6 +90,29 @@ Tuesday 23 June 2020 at 9:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Perspectives agricoles de l'OCDE et de la FAO 2020-2029](https://doi.org/10.1787/ccc6f09c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 July 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*

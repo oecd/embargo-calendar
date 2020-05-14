@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 13 May 2020 at 21:22* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 14 May 2020 at 21:07* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [28 May 2020](#28-may-2020)
 * [7 June 2020](#7-june-2020)
@@ -121,6 +121,29 @@ Tuesday 23 June 2020 at 9:00 | no launch event
 ------
 
 # 6 July 2020
+
+## [Perspectives agricoles de l'OCDE et de la FAO 2020-2029](https://doi.org/10.1787/ccc6f09c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 July 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [OECD-FAO Agricultural Outlook 2020-2029](https://doi.org/10.1787/1112c23b-en)
 
