@@ -2,13 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 15 May 2020 at 21:01* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 18 May 2020 at 20:43* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [28 May 2020](#28-may-2020)
 * [7 June 2020](#7-june-2020)
 * [11 June 2020](#11-june-2020)
 * [23 June 2020](#23-june-2020)
 * [6 July 2020](#6-july-2020)
+* [15 September 2020](#15-september-2020)
 
 ------
 
@@ -161,6 +162,33 @@ Monday 6 July 2020 at 8:00 | no launch event
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 15 September 2020
+
+## [Linking Indigenous Communities with Regional Development in Australia](https://doi.org/10.1787/ab4d8d52-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 September 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
