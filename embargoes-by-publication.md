@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 18 May 2020 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 19 May 2020 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Slovenia 2020](https://doi.org/10.1787/a4209041-en)
 
