@@ -2,83 +2,49 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/a4209041-end3e63
-SUMMARY:OECD Economic Surveys: Slovenia 2020
-DESCRIPTION:*OECD Economic Surveys: Slovenia 2020*\n
- \nDirectorate: Economics Department\nLan
- guage: English\nDOI: https://doi.org/10.
- 1787/a4209041-en\nPublication type: Econ
- omic survey\nReleased as: Paperback, PDF
- \n\nEmbargo date/time: Thursday, 28 May 
- 2020, 22:00 (GMT)\n\n\niLibrary export: 
- Thursday, 23 April 2020, 18:55 (GMT)\nFr
- eepreview export: never\nOECD.org export
- : Thursday, 23 April 2020, 18:24 (GMT)\n
- FTI loaded: ✗\n\nFor more information se
- e: https://oecd.github.io/embargo-calend
- ar/embargoes-by-publication.html.\n\nPle
- ase note: This information was correct a
- s of this afternoon at 20:43, it is upda
- ted each night; therefore any subsequent
-  updates may not yet be visible here. Al
- so, please be aware that the different r
- eleased media (PDF, HTML, etc.) are not 
- necessarily released at the same time. F
- or complete and up-to-date information s
- ee here: http://kappa.oecd.org/v3/search
- ?term=a4209041-en.
-DTSTAMP:20200519T204324Z
-DTSTART:20200528T220000Z
-DTEND:20200528T221500Z
+UID:10.1787/2d3c3241-end3e63
+SUMMARY:Decentralisation and inter-governmental 
+ relations in the housing sector
+DESCRIPTION:*Decentralisation and inter-governmental
+  relations in the housing sector*\n\nDir
+ ectorate: Centre for Tax Policy and Admi
+ nistration\nLanguage: English\nDOI: http
+ s://doi.org/10.1787/2d3c3241-en\nPublica
+ tion type: Paper\nReleased as: PDF\n\nEm
+ bargo date/time: Monday, 25 May 2020, 9:
+ 00 (GMT)\n\n\niLibrary export: Wednesday
+ , 20 May 2020, 18:21 (GMT)\nFreepreview 
+ export: Wednesday, 20 May 2020, 18:03 (G
+ MT)\nOECD.org export: Wednesday, 20 May 
+ 2020, 17:52 (GMT)\nFTI loaded: ✓\n\nFor 
+ more information see: https://oecd.githu
+ b.io/embargo-calendar/embargoes-by-publi
+ cation.html.\n\nPlease note: This inform
+ ation was correct as of this afternoon a
+ t 20:46, it is updated each night; there
+ fore any subsequent updates may not yet 
+ be visible here. Also, please be aware t
+ hat the different released media (PDF, H
+ TML, etc.) are not necessarily released 
+ at the same time. For complete and up-to
+ -date information see here: http://kappa
+ .oecd.org/v3/search?term=2d3c3241-en.
+DTSTAMP:20200520T204631Z
+DTSTART:20200525T090000Z
+DTEND:20200525T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT72H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Economic Surveys: Sloveni
- a 2020
+DESCRIPTION:Reminder: Decentralisation and inter-gov
+ ernmental relations in the housing secto
+ r
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d6a7d907-end3e170
-SUMMARY:OECD Economic Surveys: Israel 2020
-DESCRIPTION:*OECD Economic Surveys: Israel 2020*\n\n
- Directorate: Economics Department\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/d6a7d907-en\nPublication type: Econom
- ic survey\nReleased as: PDF\n\nEmbargo d
- ate/time: Sunday, 7 June 2020, 22:00 (GM
- T)\n\n\niLibrary export: never\nFreeprev
- iew export: never\nOECD.org export: neve
- r\nFTI loaded: ✗\n\nFor more information
-  see: https://oecd.github.io/embargo-cal
- endar/embargoes-by-publication.html.\n\n
- Please note: This information was correc
- t as of this afternoon at 20:43, it is u
- pdated each night; therefore any subsequ
- ent updates may not yet be visible here.
-  Also, please be aware that the differen
- t released media (PDF, HTML, etc.) are n
- ot necessarily released at the same time
- . For complete and up-to-date informatio
- n see here: http://kappa.oecd.org/v3/sea
- rch?term=d6a7d907-en.
-DTSTAMP:20200519T204324Z
-DTSTART:20200607T220000Z
-DTEND:20200607T221500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Economic Surveys: Israel 
- 2020
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/b04b25de-end3e274
+UID:10.1787/b04b25de-end3e171
 SUMMARY:OECD Economic Surveys: Greece 2020
 DESCRIPTION:*OECD Economic Surveys: Greece 2020*\n\n
  Directorate: Economics Department\nLangu
@@ -93,7 +59,7 @@ DESCRIPTION:*OECD Economic Surveys: Greece 2020*\n\n
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 20:43, it is updated each night; therefo
+ 20:46, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -101,7 +67,7 @@ DESCRIPTION:*OECD Economic Surveys: Greece 2020*\n\n
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=b04b25de-en.
-DTSTAMP:20200519T204324Z
+DTSTAMP:20200520T204631Z
 DTSTART:20200611T223100Z
 DTEND:20200611T224600Z
 TRANSP:TRANSPARENT
@@ -115,7 +81,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Greece
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ca768d40-end3e378
+UID:10.1787/ca768d40-end3e276
 SUMMARY:PISA 2018 Results (Volume V) - Effective
   Policies, Successful Schools
 DESCRIPTION:*PISA 2018 Results (Volume V) - Effectiv
@@ -132,7 +98,7 @@ DESCRIPTION:*PISA 2018 Results (Volume V) - Effectiv
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 20
- :43, it is updated each night; therefore
+ :46, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -140,7 +106,7 @@ DESCRIPTION:*PISA 2018 Results (Volume V) - Effectiv
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=ca768d40-en.
-DTSTAMP:20200519T204324Z
+DTSTAMP:20200520T204631Z
 DTSTART:20200623T090000Z
 DTEND:20200623T091500Z
 TRANSP:TRANSPARENT
@@ -154,7 +120,46 @@ DESCRIPTION:Reminder: PISA 2018 Results (Volume V) -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ccc6f09c-frd3e481
+UID:10.1787/a4209041-end3e328
+SUMMARY:OECD Economic Surveys: Slovenia 2020
+DESCRIPTION:*OECD Economic Surveys: Slovenia 2020*\n
+ \nDirectorate: Economics Department\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/a4209041-en\nPublication type: Econ
+ omic survey\nReleased as: Paperback, PDF
+ \n\nEmbargo date/time: Monday, 29 June 2
+ 020, 22:00 (GMT)\n\n\niLibrary export: W
+ ednesday, 20 May 2020, 18:21 (GMT)\nFree
+ preview export: never\nOECD.org export: 
+ Wednesday, 20 May 2020, 17:52 (GMT)\nFTI
+  loaded: ✗\n\nFor more information see: 
+ https://oecd.github.io/embargo-calendar/
+ embargoes-by-publication.html.\n\nPlease
+  note: This information was correct as o
+ f this afternoon at 20:46, it is updated
+  each night; therefore any subsequent up
+ dates may not yet be visible here. Also,
+  please be aware that the different rele
+ ased media (PDF, HTML, etc.) are not nec
+ essarily released at the same time. For 
+ complete and up-to-date information see 
+ here: http://kappa.oecd.org/v3/search?te
+ rm=a4209041-en.
+DTSTAMP:20200520T204631Z
+DTSTART:20200629T220000Z
+DTEND:20200629T221500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Economic Surveys: Sloveni
+ a 2020
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ccc6f09c-frd3e486
 SUMMARY:Perspectives agricoles de l'OCDE et de l
  a FAO 2020-2029
 DESCRIPTION:*Perspectives agricoles de l'OCDE et de 
@@ -170,7 +175,7 @@ DESCRIPTION:*Perspectives agricoles de l'OCDE et de
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 20:43, it is updated e
+ this afternoon at 20:46, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -179,7 +184,7 @@ DESCRIPTION:*Perspectives agricoles de l'OCDE et de
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =ccc6f09c-fr.
-DTSTAMP:20200519T204324Z
+DTSTAMP:20200520T204631Z
 DTSTART:20200706T080000Z
 DTEND:20200706T081500Z
 TRANSP:TRANSPARENT
@@ -193,7 +198,7 @@ DESCRIPTION:Reminder: Perspectives agricoles de l'OC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1112c23b-end3e584
+UID:10.1787/1112c23b-end3e589
 SUMMARY:OECD-FAO Agricultural Outlook 2020-2029
 DESCRIPTION:*OECD-FAO Agricultural Outlook 2020-2029
  *\n\nDirectorate: Trade and Agriculture 
@@ -208,7 +213,7 @@ DESCRIPTION:*OECD-FAO Agricultural Outlook 2020-2029
  ub.io/embargo-calendar/embargoes-by-publ
  ication.html.\n\nPlease note: This infor
  mation was correct as of this afternoon 
- at 20:43, it is updated each night; ther
+ at 20:46, it is updated each night; ther
  efore any subsequent updates may not yet
   be visible here. Also, please be aware 
  that the different released media (PDF, 
@@ -216,7 +221,7 @@ DESCRIPTION:*OECD-FAO Agricultural Outlook 2020-2029
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=1112c23b-en.
-DTSTAMP:20200519T204324Z
+DTSTAMP:20200520T204631Z
 DTSTART:20200706T080000Z
 DTEND:20200706T081500Z
 TRANSP:TRANSPARENT
@@ -230,7 +235,44 @@ DESCRIPTION:Reminder: OECD-FAO Agricultural Outlook
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ab4d8d52-end3e635
+UID:10.1787/d6a7d907-end3e640
+SUMMARY:OECD Economic Surveys: Israel 2020
+DESCRIPTION:*OECD Economic Surveys: Israel 2020*\n\n
+ Directorate: Economics Department\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/d6a7d907-en\nPublication type: Econom
+ ic survey\nReleased as: Paperback, PDF\n
+ \nEmbargo date/time: Thursday, 30 July 2
+ 020, 22:00 (GMT)\n\n\niLibrary export: n
+ ever\nFreepreview export: never\nOECD.or
+ g export: never\nFTI loaded: ✗\n\nFor mo
+ re information see: https://oecd.github.
+ io/embargo-calendar/embargoes-by-publica
+ tion.html.\n\nPlease note: This informat
+ ion was correct as of this afternoon at 
+ 20:46, it is updated each night; therefo
+ re any subsequent updates may not yet be
+  visible here. Also, please be aware tha
+ t the different released media (PDF, HTM
+ L, etc.) are not necessarily released at
+  the same time. For complete and up-to-d
+ ate information see here: http://kappa.o
+ ecd.org/v3/search?term=d6a7d907-en.
+DTSTAMP:20200520T204631Z
+DTSTART:20200730T220000Z
+DTEND:20200730T221500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Economic Surveys: Israel 
+ 2020
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ab4d8d52-end3e744
 SUMMARY:Linking Indigenous Communities with Regi
  onal Development in Australia
 DESCRIPTION:*Linking Indigenous Communities with Reg
@@ -247,7 +289,7 @@ DESCRIPTION:*Linking Indigenous Communities with Reg
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 20:43, it is updated
+ f this afternoon at 20:46, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -256,7 +298,7 @@ DESCRIPTION:*Linking Indigenous Communities with Reg
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=ab4d8d52-en.
-DTSTAMP:20200519T204324Z
+DTSTAMP:20200520T204631Z
 DTSTART:20200915T060000Z
 DTEND:20200915T061500Z
 TRANSP:TRANSPARENT

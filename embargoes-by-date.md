@@ -2,65 +2,39 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 19 May 2020 at 20:43* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 20 May 2020 at 20:46* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [28 May 2020](#28-may-2020)
-* [7 June 2020](#7-june-2020)
+* [25 May 2020](#25-may-2020)
 * [11 June 2020](#11-june-2020)
 * [23 June 2020](#23-june-2020)
+* [29 June 2020](#29-june-2020)
 * [6 July 2020](#6-july-2020)
+* [30 July 2020](#30-july-2020)
 * [15 September 2020](#15-september-2020)
 
 ------
 
-# 28 May 2020
+# 25 May 2020
 
-## [OECD Economic Surveys: Slovenia 2020](https://doi.org/10.1787/a4209041-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 May 2020 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 23 April 2020 at 20:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 April 2020 at 20:24
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 7 June 2020
-
-## [OECD Economic Surveys: Israel 2020](https://doi.org/10.1787/d6a7d907-en)
+## [Decentralisation and inter-governmental relations in the housing sector](https://doi.org/10.1787/2d3c3241-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Sunday 7 June 2020 at 22:00 | no launch event
+Monday 25 May 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 20 May 2020 at 20:21
+- [x] Exported to Keepeek Wednesday 20 May 2020 at 20:03
+- [x] Exported to OECD.org Wednesday 20 May 2020 at 19:52
 
 ### Additional Information
 
-* Directorate: *Economics Department*
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -121,6 +95,33 @@ Tuesday 23 June 2020 at 9:00 | no launch event
 
 ------
 
+# 29 June 2020
+
+## [OECD Economic Surveys: Slovenia 2020](https://doi.org/10.1787/a4209041-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 June 2020 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 20 May 2020 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 20 May 2020 at 19:52
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 6 July 2020
 
 ## [Perspectives agricoles de l'OCDE et de la FAO 2020-2029](https://doi.org/10.1787/ccc6f09c-fr)
@@ -165,6 +166,33 @@ Monday 6 July 2020 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 30 July 2020
+
+## [OECD Economic Surveys: Israel 2020](https://doi.org/10.1787/d6a7d907-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 30 July 2020 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
