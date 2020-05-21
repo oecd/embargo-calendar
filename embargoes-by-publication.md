@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 20 May 2020 at 20:46* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 21 May 2020 at 20:34* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Decentralisation and inter-governmental relations in the housing sector](https://doi.org/10.1787/2d3c3241-en)
 
