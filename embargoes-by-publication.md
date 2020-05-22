@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 21 May 2020 at 20:34* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 22 May 2020 at 20:34* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Decentralisation and inter-governmental relations in the housing sector](https://doi.org/10.1787/2d3c3241-en)
 
@@ -15,7 +15,7 @@ Monday 25 May 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 20 May 2020 at 20:21
 - [x] Exported to Keepeek Wednesday 20 May 2020 at 20:03
-- [x] Exported to OECD.org Wednesday 20 May 2020 at 19:52
+- [x] Exported to OECD.org Friday 22 May 2020 at 19:52
 
 ### Additional Information
 

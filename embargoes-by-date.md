@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 21 May 2020 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 22 May 2020 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [25 May 2020](#25-may-2020)
 * [11 June 2020](#11-june-2020)
@@ -27,7 +27,7 @@ Monday 25 May 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 20 May 2020 at 20:21
 - [x] Exported to Keepeek Wednesday 20 May 2020 at 20:03
-- [x] Exported to OECD.org Wednesday 20 May 2020 at 19:52
+- [x] Exported to OECD.org Friday 22 May 2020 at 19:52
 
 ### Additional Information
 
