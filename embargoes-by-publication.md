@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 22 May 2020 at 20:34* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 25 May 2020 at 20:40* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Decentralisation and inter-governmental relations in the housing sector](https://doi.org/10.1787/2d3c3241-en)
 
@@ -66,6 +66,29 @@ Tuesday 23 June 2020 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [SIGI 2020 Regional Report for Latin America and the Caribbean](https://doi.org/10.1787/cb7d45d1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 28 June 2020 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
