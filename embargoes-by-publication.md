@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 25 May 2020 at 20:40* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 26 May 2020 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Decentralisation and inter-governmental relations in the housing sector](https://doi.org/10.1787/2d3c3241-en)
 
@@ -15,7 +15,7 @@ Monday 25 May 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 20 May 2020 at 20:21
 - [x] Exported to Keepeek Wednesday 20 May 2020 at 20:03
-- [x] Exported to OECD.org Friday 22 May 2020 at 19:52
+- [x] Exported to OECD.org Tuesday 26 May 2020 at 19:52
 
 ### Additional Information
 
@@ -24,6 +24,29 @@ Monday 25 May 2020 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
+
+------
+
+## [OECD Economic Outlook, Volume 2020 Issue 1 - Preliminary version](https://doi.org/10.1787/0d1d1e2e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 June 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 26 May 2020 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 26 May 2020 at 19:52
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Issue*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -46,6 +69,52 @@ Thursday 11 June 2020 at 22:31 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Implementing Technical Regulations in Mexico](https://doi.org/10.1787/4e919492-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 15 June 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 26 May 2020 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 26 May 2020 at 19:52
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Implementando las Regulaciones Técnicas en México](https://doi.org/10.1787/1286593b-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 15 June 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 26 May 2020 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 26 May 2020 at 19:52
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
