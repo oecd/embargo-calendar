@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 26 May 2020 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Decentralisation and inter-governmental relations in the housing sector](https://doi.org/10.1787/2d3c3241-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 25 May 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 20 May 2020 at 20:21
-- [x] Exported to Keepeek Wednesday 20 May 2020 at 20:03
-- [x] Exported to OECD.org Tuesday 26 May 2020 at 19:52
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Wednesday 27 May 2020 at 20:39* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Outlook, Volume 2020 Issue 1 - Preliminary version](https://doi.org/10.1787/0d1d1e2e-en)
 
@@ -82,15 +59,15 @@ Monday 15 June 2020 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 26 May 2020 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 May 2020 at 19:52
+- [x] Exported to iLibrary Wednesday 27 May 2020 at 20:15
+- [x] Exported to Keepeek Wednesday 27 May 2020 at 20:03
+- [x] Exported to OECD.org Wednesday 27 May 2020 at 19:51
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 

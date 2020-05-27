@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 26 May 2020 at 20:43* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 27 May 2020 at 20:39* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [25 May 2020](#25-may-2020)
 * [10 June 2020](#10-june-2020)
 * [11 June 2020](#11-june-2020)
 * [15 June 2020](#15-june-2020)
@@ -14,33 +13,6 @@ Data generated on | |
 * [6 July 2020](#6-july-2020)
 * [30 July 2020](#30-july-2020)
 * [15 September 2020](#15-september-2020)
-
-------
-
-# 25 May 2020
-
-## [Decentralisation and inter-governmental relations in the housing sector](https://doi.org/10.1787/2d3c3241-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 25 May 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 20 May 2020 at 20:21
-- [x] Exported to Keepeek Wednesday 20 May 2020 at 20:03
-- [x] Exported to OECD.org Tuesday 26 May 2020 at 19:52
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -109,15 +81,15 @@ Monday 15 June 2020 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 26 May 2020 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 May 2020 at 19:52
+- [x] Exported to iLibrary Wednesday 27 May 2020 at 20:15
+- [x] Exported to Keepeek Wednesday 27 May 2020 at 20:03
+- [x] Exported to OECD.org Wednesday 27 May 2020 at 19:51
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
