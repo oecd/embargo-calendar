@@ -2,8 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 27 May 2020 at 20:39* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 28 May 2020 at 20:36* | [See embargoes by publication](embargoes-by-publication.md) |
 
+* [29 May 2020](#29-may-2020)
 * [10 June 2020](#10-june-2020)
 * [11 June 2020](#11-june-2020)
 * [15 June 2020](#15-june-2020)
@@ -11,8 +12,36 @@ Data generated on | |
 * [28 June 2020](#28-june-2020)
 * [29 June 2020](#29-june-2020)
 * [6 July 2020](#6-july-2020)
+* [8 July 2020](#8-july-2020)
 * [30 July 2020](#30-july-2020)
 * [15 September 2020](#15-september-2020)
+
+------
+
+# 29 May 2020
+
+## [How prepared are teachers and schools to face the changes to learning caused by the coronavirus pandemic?](https://doi.org/10.1787/2fe27ad7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 29 May 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 28 May 2020 at 20:13
+- [x] Exported to Keepeek Thursday 28 May 2020 at 20:02
+- [x] Exported to OECD.org Thursday 28 May 2020 at 19:52
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ------
 
@@ -104,9 +133,9 @@ Monday 15 June 2020 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 26 May 2020 at 20:17
+- [x] Exported to iLibrary Thursday 28 May 2020 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 May 2020 at 19:52
+- [x] Exported to OECD.org Thursday 28 May 2020 at 19:52
 
 ### Additional Information
 
@@ -114,7 +143,7 @@ Monday 15 June 2020 at 7:00 | no launch event
 * Language: *Spanish*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -245,6 +274,33 @@ Monday 6 July 2020 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 8 July 2020
+
+## [OECD Economic Surveys: Costa Rica 2020](https://doi.org/10.1787/2e0fea6c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 8 July 2020 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
