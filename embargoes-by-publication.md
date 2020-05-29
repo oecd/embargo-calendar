@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 28 May 2020 at 20:36* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 29 May 2020 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [How prepared are teachers and schools to face the changes to learning caused by the coronavirus pandemic?](https://doi.org/10.1787/2fe27ad7-en)
 
@@ -20,6 +20,29 @@ Friday 29 May 2020 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Culture as a cure - Assessments of patient safety culture in OECD countries](https://doi.org/10.1787/6ee1aeae-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 June 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 29 May 2020 at 20:19
+- [x] Exported to Keepeek Friday 29 May 2020 at 20:05
+- [x] Exported to OECD.org Friday 29 May 2020 at 19:52
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -104,16 +127,16 @@ Monday 15 June 2020 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 28 May 2020 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 28 May 2020 at 19:52
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 29 May 2020 at 20:19
+- [x] Exported to Keepeek Friday 29 May 2020 at 20:05
+- [x] Exported to OECD.org Friday 29 May 2020 at 19:52
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
