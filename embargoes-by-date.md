@@ -2,17 +2,17 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 1 June 2020 at 20:22* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 2 June 2020 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [2 June 2020](#2-june-2020)
 * [10 June 2020](#10-june-2020)
-* [11 June 2020](#11-june-2020)
 * [15 June 2020](#15-june-2020)
 * [23 June 2020](#23-june-2020)
 * [28 June 2020](#28-june-2020)
 * [29 June 2020](#29-june-2020)
 * [6 July 2020](#6-july-2020)
 * [8 July 2020](#8-july-2020)
+* [12 July 2020](#12-july-2020)
 * [30 July 2020](#30-july-2020)
 * [15 September 2020](#15-september-2020)
 
@@ -66,33 +66,6 @@ Wednesday 10 June 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Issue*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 11 June 2020
-
-## [OECD Economic Surveys: Greece 2020](https://doi.org/10.1787/b04b25de-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 11 June 2020 at 22:31 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
@@ -287,6 +260,33 @@ Monday 6 July 2020 at 8:00 | no launch event
 Embargo date | Launch date
 -------------|:------------:
 Wednesday 8 July 2020 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 12 July 2020
+
+## [OECD Economic Surveys: Greece 2020](https://doi.org/10.1787/b04b25de-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 12 July 2020 at 22:00 | no launch event
 
 ### Status Information
 

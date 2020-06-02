@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 1 June 2020 at 20:22* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 2 June 2020 at 20:40* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Culture as a cure - Assessments of patient safety culture in OECD countries](https://doi.org/10.1787/6ee1aeae-en)
 
@@ -46,29 +46,6 @@ Wednesday 10 June 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Issue*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Greece 2020](https://doi.org/10.1787/b04b25de-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 11 June 2020 at 22:31 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
@@ -239,6 +216,29 @@ Monday 6 July 2020 at 8:00 | no launch event
 Embargo date | Launch date
 -------------|:------------:
 Wednesday 8 July 2020 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Greece 2020](https://doi.org/10.1787/b04b25de-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 12 July 2020 at 22:00 | no launch event
 
 ### Status Information
 
