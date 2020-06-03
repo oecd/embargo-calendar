@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Tue, 02 Jun 2020 20:40:19 GMT</pubDate>
+      <pubDate>Wed, 03 Jun 2020 20:39:43 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://oecd.github.io/embargo-calendar/embargoes.rss"
                  rel="self"
@@ -26,7 +26,7 @@
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Friday, 29 May 2020, 20:19 (GMT)</oe:iLibraryExport>
          <oe:freePreviewExport>Friday, 29 May 2020, 20:05 (GMT)</oe:freePreviewExport>
-         <oe:oecdOrgExport>Monday, 1 June 2020, 19:51 (GMT)</oe:oecdOrgExport>
+         <oe:oecdOrgExport>Wednesday, 3 June 2020, 19:51 (GMT)</oe:oecdOrgExport>
          <oe:catalogueType>Paper</oe:catalogueType>
       </item>
       <item>
@@ -158,7 +158,23 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/2e0fea6c-en-d3e3047</guid>
+         <guid isPermaLink="false">10.1787/1686c758-en-d3e2995</guid>
+         <pubDate>Wed, 08 Jul 2020 11:00:00 GMT</pubDate>
+         <title>OECD Employment Outlook 2020 - Worker Security and the COVID-19 Crisis</title>
+         <link>https://doi.org/10.1787/1686c758-en</link>
+         <description>OECD Employment Outlook 2020 - Worker Security and the COVID-19 Crisis by Directorate for Employment, Labour and Social Affairs has an embargo on Wednesday 8 July 2020 at 11:00.</description>
+         <oe:embargoTime>Wed, 08 Jul 2020 11:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/2e0fea6c-en-d3e3151</guid>
          <pubDate>Wed, 08 Jul 2020 17:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: Costa Rica 2020</title>
          <link>https://doi.org/10.1787/2e0fea6c-en</link>
@@ -174,7 +190,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/b04b25de-en-d3e3151</guid>
+         <guid isPermaLink="false">10.1787/b04b25de-en-d3e3256</guid>
          <pubDate>Mon, 13 Jul 2020 00:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: Greece 2020</title>
          <link>https://doi.org/10.1787/b04b25de-en</link>
@@ -190,7 +206,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/d6a7d907-en-d3e3204</guid>
+         <guid isPermaLink="false">10.1787/d6a7d907-en-d3e3308</guid>
          <pubDate>Fri, 31 Jul 2020 00:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: Israel 2020</title>
          <link>https://doi.org/10.1787/d6a7d907-en</link>
@@ -206,7 +222,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/ab4d8d52-en-d3e3308</guid>
+         <guid isPermaLink="false">10.1787/ab4d8d52-en-d3e3412</guid>
          <pubDate>Tue, 15 Sep 2020 08:00:00 GMT</pubDate>
          <title>Linking Indigenous Communities with Regional Development in Australia</title>
          <link>https://doi.org/10.1787/ab4d8d52-en</link>

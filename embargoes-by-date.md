@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 2 June 2020 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 3 June 2020 at 20:39* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [2 June 2020](#2-june-2020)
 * [10 June 2020](#10-june-2020)
@@ -31,7 +31,7 @@ Tuesday 2 June 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 29 May 2020 at 20:19
 - [x] Exported to Keepeek Friday 29 May 2020 at 20:05
-- [x] Exported to OECD.org Monday 1 June 2020 at 19:51
+- [x] Exported to OECD.org Wednesday 3 June 2020 at 19:51
 
 ### Additional Information
 
@@ -254,6 +254,29 @@ Monday 6 July 2020 at 8:00 | no launch event
 ------
 
 # 8 July 2020
+
+## [OECD Employment Outlook 2020 - Worker Security and the COVID-19 Crisis](https://doi.org/10.1787/1686c758-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 8 July 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [OECD Economic Surveys: Costa Rica 2020](https://doi.org/10.1787/2e0fea6c-en)
 

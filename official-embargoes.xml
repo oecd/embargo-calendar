@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2020-06-02T20:40:13.1146044+02:00">
+<report name="official-embargoes" generated="2020-06-03T20:39:38.1309619+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -33,7 +33,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-05-29T18:19:18Z</cell>
     <cell name="freepreview last export date">2020-05-29T18:05:39Z</cell>
-    <cell name="oecd.org last export date">2020-06-01T17:51:30Z</cell>
+    <cell name="oecd.org last export date">2020-06-03T17:51:15Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -1101,6 +1101,46 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/322e4239</cell>
   </row>
   <row index="55">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/1686c758-en</cell>
+    <cell name="title">OECD Employment Outlook 2020 (en)</cell>
+    <cell name="subtitle">Worker Security and the COVID-19 Crisis (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-07-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d6b6f65</cell>
+  </row>
+  <row index="56">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/1686c758-en</cell>
+    <cell name="title">OECD Employment Outlook 2020 (en)</cell>
+    <cell name="subtitle">Worker Security and the COVID-19 Crisis (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-07-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b8151d8</cell>
+  </row>
+  <row index="57">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/2e0fea6c-en</cell>
     <cell name="title">OECD Economic Surveys: Costa Rica 2020 (en)</cell>
@@ -1120,7 +1160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/93df991f</cell>
   </row>
-  <row index="56">
+  <row index="58">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/2e0fea6c-en</cell>
     <cell name="title">OECD Economic Surveys: Costa Rica 2020 (en)</cell>
@@ -1140,7 +1180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f0b481b0</cell>
   </row>
-  <row index="57">
+  <row index="59">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b04b25de-en</cell>
     <cell name="title">OECD Economic Surveys: Greece 2020 (en)</cell>
@@ -1160,7 +1200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/13b08a3f</cell>
   </row>
-  <row index="58">
+  <row index="60">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b04b25de-en</cell>
     <cell name="title">OECD Economic Surveys: Greece 2020 (en)</cell>
@@ -1180,7 +1220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/78ac727b</cell>
   </row>
-  <row index="59">
+  <row index="61">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/d6a7d907-en</cell>
     <cell name="title">OECD Economic Surveys: Israel 2020 (en)</cell>
@@ -1200,7 +1240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aa59d840</cell>
   </row>
-  <row index="60">
+  <row index="62">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/d6a7d907-en</cell>
     <cell name="title">OECD Economic Surveys: Israel 2020 (en)</cell>
@@ -1220,7 +1260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/acbb1715</cell>
   </row>
-  <row index="61">
+  <row index="63">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ab4d8d52-en</cell>
     <cell name="title">Linking Indigenous Communities with Regional Development in Australia (en)</cell>
@@ -1240,7 +1280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/949cce0c</cell>
   </row>
-  <row index="62">
+  <row index="64">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ab4d8d52-en</cell>
     <cell name="title">Linking Indigenous Communities with Regional Development in Australia (en)</cell>
