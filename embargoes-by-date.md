@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 3 June 2020 at 20:39* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 4 June 2020 at 20:30* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [2 June 2020](#2-june-2020)
 * [10 June 2020](#10-june-2020)
 * [15 June 2020](#15-june-2020)
+* [18 June 2020](#18-june-2020)
+* [22 June 2020](#22-june-2020)
 * [23 June 2020](#23-june-2020)
 * [28 June 2020](#28-june-2020)
 * [29 June 2020](#29-june-2020)
@@ -15,33 +16,6 @@ Data generated on | |
 * [12 July 2020](#12-july-2020)
 * [30 July 2020](#30-july-2020)
 * [15 September 2020](#15-september-2020)
-
-------
-
-# 2 June 2020
-
-## [Culture as a cure - Assessments of patient safety culture in OECD countries](https://doi.org/10.1787/6ee1aeae-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 2 June 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 May 2020 at 20:19
-- [x] Exported to Keepeek Friday 29 May 2020 at 20:05
-- [x] Exported to OECD.org Wednesday 3 June 2020 at 19:51
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -117,6 +91,60 @@ Monday 15 June 2020 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 18 June 2020
+
+## [Production Transformation Policy Review of the Dominican Republic - Preserving Growth, Achieving Resilience](https://doi.org/10.1787/1201cfea-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 June 2020 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 4 June 2020 at 19:51
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 22 June 2020
+
+## [Regulatory Policy in the Slovak Republic - Towards Future-Proof Regulation](https://doi.org/10.1787/ce95a880-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 June 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 3 June 2020 at 20:15
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 4 June 2020 at 19:51
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
