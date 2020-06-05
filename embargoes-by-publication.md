@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 4 June 2020 at 20:30* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 5 June 2020 at 20:40* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Outlook, Volume 2020 Issue 1 - Preliminary version](https://doi.org/10.1787/0d1d1e2e-en)
 
@@ -24,6 +24,29 @@ Wednesday 10 June 2020 at 9:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Issue*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Intégrer les immigrants pour stimuler l’innovation au Québec, Canada](https://doi.org/10.1787/2b41b9e8-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 June 2020 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 5 June 2020 at 20:18
+- [x] Exported to Keepeek Friday 5 June 2020 at 20:05
+- [x] Exported to OECD.org Friday 5 June 2020 at 19:51
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -82,7 +105,7 @@ Thursday 18 June 2020 at 15:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 4 June 2020 at 20:13
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 4 June 2020 at 19:51
 
@@ -104,16 +127,16 @@ Monday 22 June 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 3 June 2020 at 20:15
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 4 June 2020 at 19:51
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 5 June 2020 at 20:18
+- [x] Exported to Keepeek Friday 5 June 2020 at 20:05
+- [x] Exported to OECD.org Friday 5 June 2020 at 19:51
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
 

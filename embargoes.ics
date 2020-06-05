@@ -19,7 +19,7 @@ DESCRIPTION:*OECD Economic Outlook, Volume 2020 Issu
  nformation see: https://oecd.github.io/e
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
- was correct as of this afternoon at 20:3
+ was correct as of this afternoon at 20:4
  0, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
@@ -28,7 +28,7 @@ DESCRIPTION:*OECD Economic Outlook, Volume 2020 Issu
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=0d1d1e2e-en.
-DTSTAMP:20200604T203013Z
+DTSTAMP:20200605T204034Z
 DTSTART:20200610T090000Z
 DTEND:20200610T091500Z
 TRANSP:TRANSPARENT
@@ -42,7 +42,49 @@ DESCRIPTION:Reminder: OECD Economic Outlook, Volume
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4e919492-end3e1538
+UID:10.1787/2b41b9e8-frd3e554
+SUMMARY:Intégrer les immigrants pour stimuler l’
+ innovation au Québec, Canada
+DESCRIPTION:*Intégrer les immigrants pour stimuler l
+ ’innovation au Québec, Canada*\n\nDirect
+ orate: Centre for Entrepreneurship, SMEs
+ , Regions and Cities\nLanguage: French\n
+ DOI: https://doi.org/10.1787/2b41b9e8-fr
+ \nPublication type: Book\nReleased as: e
+ Pub, HTML, PDF\n\nEmbargo date/time: Wed
+ nesday, 10 June 2020, 13:00 (GMT)\n\n\ni
+ Library export: Friday, 5 June 2020, 18:
+ 18 (GMT)\nFreepreview export: Friday, 5 
+ June 2020, 18:05 (GMT)\nOECD.org export:
+  Friday, 5 June 2020, 17:51 (GMT)\nFTI l
+ oaded: ✓\n\nFor more information see: ht
+ tps://oecd.github.io/embargo-calendar/em
+ bargoes-by-publication.html.\n\nPlease n
+ ote: This information was correct as of 
+ this afternoon at 20:40, it is updated e
+ ach night; therefore any subsequent upda
+ tes may not yet be visible here. Also, p
+ lease be aware that the different releas
+ ed media (PDF, HTML, etc.) are not neces
+ sarily released at the same time. For co
+ mplete and up-to-date information see he
+ re: http://kappa.oecd.org/v3/search?term
+ =2b41b9e8-fr.
+DTSTAMP:20200605T204034Z
+DTSTART:20200610T130000Z
+DTEND:20200610T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Intégrer les immigrants pour s
+ timuler l’innovation au Québec, Canada
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/4e919492-end3e2360
 SUMMARY:Implementing Technical Regulations in Me
  xico
 DESCRIPTION:*Implementing Technical Regulations in M
@@ -61,7 +103,7 @@ DESCRIPTION:*Implementing Technical Regulations in M
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 20:30, it is updated each night;
+ noon at 20:40, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -70,7 +112,7 @@ DESCRIPTION:*Implementing Technical Regulations in M
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=4e919492-
  en.
-DTSTAMP:20200604T203013Z
+DTSTAMP:20200605T204034Z
 DTSTART:20200615T070000Z
 DTEND:20200615T071500Z
 TRANSP:TRANSPARENT
@@ -84,7 +126,7 @@ DESCRIPTION:Reminder: Implementing Technical Regulat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1286593b-esd3e1811
+UID:10.1787/1286593b-esd3e2633
 SUMMARY:Implementando las Regulaciones Técnicas 
  en México
 DESCRIPTION:*Implementando las Regulaciones Técnicas
@@ -103,7 +145,7 @@ DESCRIPTION:*Implementando las Regulaciones Técnicas
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 20:30, it is updated each night; the
+  at 20:40, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -111,7 +153,7 @@ DESCRIPTION:*Implementando las Regulaciones Técnicas
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=1286593b-es.
-DTSTAMP:20200604T203013Z
+DTSTAMP:20200605T204034Z
 DTSTART:20200615T070000Z
 DTEND:20200615T071500Z
 TRANSP:TRANSPARENT
@@ -125,7 +167,7 @@ DESCRIPTION:Reminder: Implementando las Regulaciones
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1201cfea-end3e2417
+UID:10.1787/1201cfea-end3e3239
 SUMMARY:Production Transformation Policy Review 
  of the Dominican Republic - Preserving G
  rowth, Achieving Resilience
@@ -137,22 +179,23 @@ DESCRIPTION:*Production Transformation Policy Review
  ea-en\nPublication type: Book\nReleased 
  as: PDF\n\nEmbargo date/time: Thursday, 
  18 June 2020, 15:00 (GMT)\n\n\niLibrary 
- export: never\nFreepreview export: never
- \nOECD.org export: Thursday, 4 June 2020
- , 17:51 (GMT)\nFTI loaded: ✗\n\nFor more
-  information see: https://oecd.github.io
- /embargo-calendar/embargoes-by-publicati
- on.html.\n\nPlease note: This informatio
- n was correct as of this afternoon at 20
- :30, it is updated each night; therefore
-  any subsequent updates may not yet be v
- isible here. Also, please be aware that 
- the different released media (PDF, HTML,
-  etc.) are not necessarily released at t
- he same time. For complete and up-to-dat
- e information see here: http://kappa.oec
- d.org/v3/search?term=1201cfea-en.
-DTSTAMP:20200604T203013Z
+ export: Thursday, 4 June 2020, 18:13 (GM
+ T)\nFreepreview export: never\nOECD.org 
+ export: Thursday, 4 June 2020, 17:51 (GM
+ T)\nFTI loaded: ✗\n\nFor more informatio
+ n see: https://oecd.github.io/embargo-ca
+ lendar/embargoes-by-publication.html.\n\
+ nPlease note: This information was corre
+ ct as of this afternoon at 20:40, it is 
+ updated each night; therefore any subseq
+ uent updates may not yet be visible here
+ . Also, please be aware that the differe
+ nt released media (PDF, HTML, etc.) are 
+ not necessarily released at the same tim
+ e. For complete and up-to-date informati
+ on see here: http://kappa.oecd.org/v3/se
+ arch?term=1201cfea-en.
+DTSTAMP:20200605T204034Z
 DTSTART:20200618T150000Z
 DTEND:20200618T151500Z
 TRANSP:TRANSPARENT
@@ -167,7 +210,7 @@ DESCRIPTION:Reminder: Production Transformation Poli
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ce95a880-end3e2579
+UID:10.1787/ce95a880-end3e4060
 SUMMARY:Regulatory Policy in the Slovak Republic
   - Towards Future-Proof Regulation
 DESCRIPTION:*Regulatory Policy in the Slovak Republi
@@ -177,24 +220,24 @@ DESCRIPTION:*Regulatory Policy in the Slovak Republi
  doi.org/10.1787/ce95a880-en\nPublication
   type: Book\nReleased as: ePub, HTML, PD
  F\n\nEmbargo date/time: Monday, 22 June 
- 2020, 9:00 (GMT)\n\n\niLibrary export: W
- ednesday, 3 June 2020, 18:15 (GMT)\nFree
- preview export: never\nOECD.org export: 
- Thursday, 4 June 2020, 17:51 (GMT)\nFTI 
- loaded: ✗\n\nFor more information see: h
- ttps://oecd.github.io/embargo-calendar/e
- mbargoes-by-publication.html.\n\nPlease 
- note: This information was correct as of
-  this afternoon at 20:30, it is updated 
- each night; therefore any subsequent upd
- ates may not yet be visible here. Also, 
- please be aware that the different relea
- sed media (PDF, HTML, etc.) are not nece
- ssarily released at the same time. For c
- omplete and up-to-date information see h
- ere: http://kappa.oecd.org/v3/search?ter
- m=ce95a880-en.
-DTSTAMP:20200604T203013Z
+ 2020, 9:00 (GMT)\n\n\niLibrary export: F
+ riday, 5 June 2020, 18:18 (GMT)\nFreepre
+ view export: Friday, 5 June 2020, 18:05 
+ (GMT)\nOECD.org export: Friday, 5 June 2
+ 020, 17:51 (GMT)\nFTI loaded: ✓\n\nFor m
+ ore information see: https://oecd.github
+ .io/embargo-calendar/embargoes-by-public
+ ation.html.\n\nPlease note: This informa
+ tion was correct as of this afternoon at
+  20:40, it is updated each night; theref
+ ore any subsequent updates may not yet b
+ e visible here. Also, please be aware th
+ at the different released media (PDF, HT
+ ML, etc.) are not necessarily released a
+ t the same time. For complete and up-to-
+ date information see here: http://kappa.
+ oecd.org/v3/search?term=ce95a880-en.
+DTSTAMP:20200605T204034Z
 DTSTART:20200622T090000Z
 DTEND:20200622T091500Z
 TRANSP:TRANSPARENT
@@ -209,7 +252,7 @@ DESCRIPTION:Reminder: Regulatory Policy in the Slova
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ca768d40-end3e2686
+UID:10.1787/ca768d40-end3e4826
 SUMMARY:PISA 2018 Results (Volume V) - Effective
   Policies, Successful Schools
 DESCRIPTION:*PISA 2018 Results (Volume V) - Effectiv
@@ -226,7 +269,7 @@ DESCRIPTION:*PISA 2018 Results (Volume V) - Effectiv
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 20
- :30, it is updated each night; therefore
+ :40, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -234,7 +277,7 @@ DESCRIPTION:*PISA 2018 Results (Volume V) - Effectiv
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=ca768d40-en.
-DTSTAMP:20200604T203013Z
+DTSTAMP:20200605T204034Z
 DTSTART:20200623T090000Z
 DTEND:20200623T091500Z
 TRANSP:TRANSPARENT
@@ -248,7 +291,7 @@ DESCRIPTION:Reminder: PISA 2018 Results (Volume V) -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cb7d45d1-end3e2790
+UID:10.1787/cb7d45d1-end3e4931
 SUMMARY:SIGI 2020 Regional Report for Latin Amer
  ica and the Caribbean
 DESCRIPTION:*SIGI 2020 Regional Report for Latin Ame
@@ -264,7 +307,7 @@ DESCRIPTION:*SIGI 2020 Regional Report for Latin Ame
  oecd.github.io/embargo-calendar/embargoe
  s-by-publication.html.\n\nPlease note: T
  his information was correct as of this a
- fternoon at 20:30, it is updated each ni
+ fternoon at 20:40, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -273,7 +316,7 @@ DESCRIPTION:*SIGI 2020 Regional Report for Latin Ame
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=cb7d4
  5d1-en.
-DTSTAMP:20200604T203013Z
+DTSTAMP:20200605T204034Z
 DTSTART:20200628T220000Z
 DTEND:20200628T221500Z
 TRANSP:TRANSPARENT
@@ -287,7 +330,7 @@ DESCRIPTION:Reminder: SIGI 2020 Regional Report for
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a4209041-end3e2842
+UID:10.1787/a4209041-end3e4983
 SUMMARY:OECD Economic Surveys: Slovenia 2020
 DESCRIPTION:*OECD Economic Surveys: Slovenia 2020*\n
  \nDirectorate: Economics Department\nLan
@@ -303,7 +346,7 @@ DESCRIPTION:*OECD Economic Surveys: Slovenia 2020*\n
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 20:30, it is updated
+ f this afternoon at 20:40, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -312,7 +355,7 @@ DESCRIPTION:*OECD Economic Surveys: Slovenia 2020*\n
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=a4209041-en.
-DTSTAMP:20200604T203013Z
+DTSTAMP:20200605T204034Z
 DTSTART:20200629T220000Z
 DTEND:20200629T221500Z
 TRANSP:TRANSPARENT
@@ -326,7 +369,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Sloveni
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ccc6f09c-frd3e3001
+UID:10.1787/ccc6f09c-frd3e5141
 SUMMARY:Perspectives agricoles de l'OCDE et de l
  a FAO 2020-2029
 DESCRIPTION:*Perspectives agricoles de l'OCDE et de 
@@ -342,7 +385,7 @@ DESCRIPTION:*Perspectives agricoles de l'OCDE et de
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 20:30, it is updated e
+ this afternoon at 20:40, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -351,7 +394,7 @@ DESCRIPTION:*Perspectives agricoles de l'OCDE et de
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =ccc6f09c-fr.
-DTSTAMP:20200604T203013Z
+DTSTAMP:20200605T204034Z
 DTSTART:20200706T080000Z
 DTEND:20200706T081500Z
 TRANSP:TRANSPARENT
@@ -365,7 +408,7 @@ DESCRIPTION:Reminder: Perspectives agricoles de l'OC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1112c23b-end3e3103
+UID:10.1787/1112c23b-end3e5244
 SUMMARY:OECD-FAO Agricultural Outlook 2020-2029
 DESCRIPTION:*OECD-FAO Agricultural Outlook 2020-2029
  *\n\nDirectorate: Trade and Agriculture 
@@ -380,7 +423,7 @@ DESCRIPTION:*OECD-FAO Agricultural Outlook 2020-2029
  ub.io/embargo-calendar/embargoes-by-publ
  ication.html.\n\nPlease note: This infor
  mation was correct as of this afternoon 
- at 20:30, it is updated each night; ther
+ at 20:40, it is updated each night; ther
  efore any subsequent updates may not yet
   be visible here. Also, please be aware 
  that the different released media (PDF, 
@@ -388,7 +431,7 @@ DESCRIPTION:*OECD-FAO Agricultural Outlook 2020-2029
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=1112c23b-en.
-DTSTAMP:20200604T203013Z
+DTSTAMP:20200605T204034Z
 DTSTART:20200706T080000Z
 DTEND:20200706T081500Z
 TRANSP:TRANSPARENT
@@ -402,7 +445,7 @@ DESCRIPTION:Reminder: OECD-FAO Agricultural Outlook
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1686c758-end3e3154
+UID:10.1787/1686c758-end3e5295
 SUMMARY:OECD Employment Outlook 2020 - Worker Se
  curity and the COVID-19 Crisis
 DESCRIPTION:*OECD Employment Outlook 2020 - Worker S
@@ -419,7 +462,7 @@ DESCRIPTION:*OECD Employment Outlook 2020 - Worker S
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 20:30, it is updated ea
+ his afternoon at 20:40, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -428,7 +471,7 @@ DESCRIPTION:*OECD Employment Outlook 2020 - Worker S
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  1686c758-en.
-DTSTAMP:20200604T203013Z
+DTSTAMP:20200605T204034Z
 DTSTART:20200708T090000Z
 DTEND:20200708T091500Z
 TRANSP:TRANSPARENT
@@ -442,7 +485,7 @@ DESCRIPTION:Reminder: OECD Employment Outlook 2020 -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2e0fea6c-end3e3311
+UID:10.1787/2e0fea6c-end3e5451
 SUMMARY:OECD Economic Surveys: Costa Rica 2020
 DESCRIPTION:*OECD Economic Surveys: Costa Rica 2020*
  \n\nDirectorate: Economics Department\nL
@@ -457,7 +500,7 @@ DESCRIPTION:*OECD Economic Surveys: Costa Rica 2020*
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 20:30, it is updated each night; the
+  at 20:40, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -465,7 +508,7 @@ DESCRIPTION:*OECD Economic Surveys: Costa Rica 2020*
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=2e0fea6c-en.
-DTSTAMP:20200604T203013Z
+DTSTAMP:20200605T204034Z
 DTSTART:20200708T150000Z
 DTEND:20200708T151500Z
 TRANSP:TRANSPARENT
@@ -479,7 +522,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Costa R
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b04b25de-end3e3415
+UID:10.1787/b04b25de-end3e5556
 SUMMARY:OECD Economic Surveys: Greece 2020
 DESCRIPTION:*OECD Economic Surveys: Greece 2020*\n\n
  Directorate: Economics Department\nLangu
@@ -494,7 +537,7 @@ DESCRIPTION:*OECD Economic Surveys: Greece 2020*\n\n
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 20
- :30, it is updated each night; therefore
+ :40, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -502,7 +545,7 @@ DESCRIPTION:*OECD Economic Surveys: Greece 2020*\n\n
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=b04b25de-en.
-DTSTAMP:20200604T203013Z
+DTSTAMP:20200605T204034Z
 DTSTART:20200712T220000Z
 DTEND:20200712T221500Z
 TRANSP:TRANSPARENT
@@ -516,7 +559,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Greece
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d6a7d907-end3e3467
+UID:10.1787/d6a7d907-end3e5608
 SUMMARY:OECD Economic Surveys: Israel 2020
 DESCRIPTION:*OECD Economic Surveys: Israel 2020*\n\n
  Directorate: Economics Department\nLangu
@@ -531,7 +574,7 @@ DESCRIPTION:*OECD Economic Surveys: Israel 2020*\n\n
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 20:30, it is updated each night; therefo
+ 20:40, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -539,7 +582,7 @@ DESCRIPTION:*OECD Economic Surveys: Israel 2020*\n\n
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=d6a7d907-en.
-DTSTAMP:20200604T203013Z
+DTSTAMP:20200605T204034Z
 DTSTART:20200730T220000Z
 DTEND:20200730T221500Z
 TRANSP:TRANSPARENT
@@ -553,7 +596,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Israel
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ab4d8d52-end3e3572
+UID:10.1787/ab4d8d52-end3e5712
 SUMMARY:Linking Indigenous Communities with Regi
  onal Development in Australia
 DESCRIPTION:*Linking Indigenous Communities with Reg
@@ -570,7 +613,7 @@ DESCRIPTION:*Linking Indigenous Communities with Reg
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 20:30, it is updated
+ f this afternoon at 20:40, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -579,7 +622,7 @@ DESCRIPTION:*Linking Indigenous Communities with Reg
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=ab4d8d52-en.
-DTSTAMP:20200604T203013Z
+DTSTAMP:20200605T204034Z
 DTSTART:20200915T060000Z
 DTEND:20200915T061500Z
 TRANSP:TRANSPARENT
