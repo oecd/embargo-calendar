@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 5 June 2020 at 20:40* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 8 June 2020 at 20:37* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Outlook, Volume 2020 Issue 1 - Preliminary version](https://doi.org/10.1787/0d1d1e2e-en)
 
@@ -13,9 +13,9 @@ Wednesday 10 June 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 26 May 2020 at 20:17
+- [x] Exported to iLibrary Monday 8 June 2020 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 May 2020 at 19:52
+- [x] Exported to OECD.org Monday 8 June 2020 at 19:52
 
 ### Additional Information
 
@@ -60,7 +60,7 @@ Monday 15 June 2020 at 7:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 May 2020 at 20:15
-- [x] Exported to Keepeek Wednesday 27 May 2020 at 20:03
+- [x] Exported to Keepeek Monday 8 June 2020 at 20:05
 - [x] Exported to OECD.org Wednesday 27 May 2020 at 19:51
 
 ### Additional Information
