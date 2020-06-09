@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 8 June 2020 at 20:37* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 9 June 2020 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [10 June 2020](#10-june-2020)
 * [15 June 2020](#15-june-2020)
@@ -13,7 +13,7 @@ Data generated on | |
 * [29 June 2020](#29-june-2020)
 * [6 July 2020](#6-july-2020)
 * [8 July 2020](#8-july-2020)
-* [12 July 2020](#12-july-2020)
+* [16 July 2020](#16-july-2020)
 * [30 July 2020](#30-july-2020)
 * [15 September 2020](#15-september-2020)
 
@@ -25,22 +25,22 @@ Data generated on | |
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 10 June 2020 at 9:00 | no launch event
+Wednesday 10 June 2020 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 8 June 2020 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 June 2020 at 19:52
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 9 June 2020 at 20:24
+- [x] Exported to Keepeek Tuesday 9 June 2020 at 20:12
+- [x] Exported to OECD.org Tuesday 9 June 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF*
 
 ------
 
@@ -48,14 +48,14 @@ Wednesday 10 June 2020 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 10 June 2020 at 13:00 | no launch event
+Wednesday 10 June 2020 at 9:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 5 June 2020 at 20:18
-- [x] Exported to Keepeek Friday 5 June 2020 at 20:05
-- [x] Exported to OECD.org Friday 5 June 2020 at 19:51
+- [x] Exported to iLibrary Tuesday 9 June 2020 at 20:24
+- [x] Exported to Keepeek Tuesday 9 June 2020 at 20:12
+- [x] Exported to OECD.org Tuesday 9 June 2020 at 19:59
 
 ### Additional Information
 
@@ -354,13 +354,13 @@ Wednesday 8 July 2020 at 15:00 | no launch event
 
 ------
 
-# 12 July 2020
+# 16 July 2020
 
 ## [OECD Economic Surveys: Greece 2020](https://doi.org/10.1787/b04b25de-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Sunday 12 July 2020 at 22:00 | no launch event
+Thursday 16 July 2020 at 22:00 | no launch event
 
 ### Status Information
 
