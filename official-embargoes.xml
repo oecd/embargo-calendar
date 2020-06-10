@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2020-06-09T20:47:47.6726763+02:00">
+<report name="official-embargoes" generated="2020-06-10T21:24:09.356259+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -51,8 +51,8 @@
     <cell name="date of publication">2020-06-10</cell>
     <cell name="embargo date">2020-06-10T08:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-06-09T18:24:32Z</cell>
-    <cell name="freepreview last export date">2020-06-09T18:12:01Z</cell>
+    <cell name="ilibrary last export date">2020-06-10T18:43:51Z</cell>
+    <cell name="freepreview last export date">2020-06-10T18:16:51Z</cell>
     <cell name="oecd.org last export date">2020-06-09T17:59:29Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
@@ -71,7 +71,7 @@
     <cell name="date of publication">2020-06-10</cell>
     <cell name="embargo date">2020-06-10T08:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-06-09T18:24:32Z</cell>
+    <cell name="ilibrary last export date">2020-06-10T18:43:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2020-06-09T17:59:29Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -381,6 +381,66 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9eb4b009</cell>
   </row>
   <row index="19">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/a23de32d-en</cell>
+    <cell name="title">Reporting progress towards Nationally Determined Contributions (en)</cell>
+    <cell name="subtitle">Exploring possible common tabular formats for the structured summary (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-06-12</cell>
+    <cell name="embargo date">2020-06-12T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-06-10T18:43:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2020-06-10T18:05:23Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c305c4f9</cell>
+  </row>
+  <row index="20">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/7c980fce-en</cell>
+    <cell name="title">Aligning short-term climate action with long-term climate goals (en)</cell>
+    <cell name="subtitle">Opportunities and options for enhancing alignment between NDCs and long-term strategies (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-06-12</cell>
+    <cell name="embargo date">2020-06-12T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-06-10T18:43:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2020-06-10T18:05:23Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/16fbbeb9</cell>
+  </row>
+  <row index="21">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/fa01b672-en</cell>
+    <cell name="title">The Consequences of a more resource efficient and circular economy for international trade patterns (en)</cell>
+    <cell name="subtitle">A modelling assessment (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-06-12</cell>
+    <cell name="embargo date">2020-06-12T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-06-10T18:43:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2020-06-10T18:05:23Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/75d77ac5</cell>
+  </row>
+  <row index="22">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/bbe874c5-en</cell>
     <cell name="title">Introduction (en)</cell>
@@ -400,7 +460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9ee99b53</cell>
   </row>
-  <row index="20">
+  <row index="23">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/bbe874c5-en</cell>
     <cell name="title">Introduction (en)</cell>
@@ -420,7 +480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9271c0e5</cell>
   </row>
-  <row index="21">
+  <row index="24">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e8b2552a-en</cell>
     <cell name="title">Overview of conformity assessment modules in the EU New Legislative Framework (en)</cell>
@@ -440,7 +500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/80c2d668</cell>
   </row>
-  <row index="22">
+  <row index="25">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/7629a970-es</cell>
     <cell name="title">Prólogo (es)</cell>
@@ -460,7 +520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9e3b495b</cell>
   </row>
-  <row index="23">
+  <row index="26">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f3e1fdbc-es</cell>
     <cell name="title">Descripción general de los módulos de evaluación de la conformidad en el nuevo Marco legislativo de la UE (es)</cell>
@@ -480,7 +540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/95a4396b</cell>
   </row>
-  <row index="24">
+  <row index="27">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3e607cab-en</cell>
     <cell name="title">The process for developing NOMs in Mexico (en)</cell>
@@ -500,7 +560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ac3627b2</cell>
   </row>
-  <row index="25">
+  <row index="28">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e8b2552a-en</cell>
     <cell name="title">Overview of conformity assessment modules in the EU New Legislative Framework (en)</cell>
@@ -520,7 +580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c9f57459</cell>
   </row>
-  <row index="26">
+  <row index="29">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/46aeb18f-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -540,7 +600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d25b8a63</cell>
   </row>
-  <row index="27">
+  <row index="30">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3d7a70b6-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -560,7 +620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/04008464</cell>
   </row>
-  <row index="28">
+  <row index="31">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/54e8b975-es</cell>
     <cell name="title">Prefacio (es)</cell>
@@ -580,7 +640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5de084ef</cell>
   </row>
-  <row index="29">
+  <row index="32">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/5adf5e48-en</cell>
     <cell name="title">Conformity assessment in Mexico (en)</cell>
@@ -600,7 +660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/58dde3b4</cell>
   </row>
-  <row index="30">
+  <row index="33">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1286593b-es</cell>
     <cell name="title">Implementando las Regulaciones Técnicas en México (es)</cell>
@@ -620,7 +680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/02f972c8</cell>
   </row>
-  <row index="31">
+  <row index="34">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1ad664d9-en</cell>
     <cell name="title">Regulatory inspections and market surveillance (en)</cell>
@@ -640,7 +700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b31ace7f</cell>
   </row>
-  <row index="32">
+  <row index="35">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6e579625-es</cell>
     <cell name="title">Resumen ejecutivo (es)</cell>
@@ -660,7 +720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/902bd704</cell>
   </row>
-  <row index="33">
+  <row index="36">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1286593b-es</cell>
     <cell name="title">Implementando las Regulaciones Técnicas en México (es)</cell>
@@ -680,7 +740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/162e5ec4</cell>
   </row>
-  <row index="34">
+  <row index="37">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/59a17a35-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -700,7 +760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5e93c15</cell>
   </row>
-  <row index="35">
+  <row index="38">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/5adf5e48-en</cell>
     <cell name="title">Conformity assessment in Mexico (en)</cell>
@@ -720,7 +780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b80d53b9</cell>
   </row>
-  <row index="36">
+  <row index="39">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1ad664d9-en</cell>
     <cell name="title">Regulatory inspections and market surveillance (en)</cell>
@@ -740,7 +800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/208a858b</cell>
   </row>
-  <row index="37">
+  <row index="40">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e6d81052-es</cell>
     <cell name="title">El proceso para desarrollar NOMs en México (es)</cell>
@@ -760,7 +820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/07821d59</cell>
   </row>
-  <row index="38">
+  <row index="41">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/26af3702-es</cell>
     <cell name="title">Inspecciones regulatorias y vigilancia del mercado (es)</cell>
@@ -780,7 +840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/328df420</cell>
   </row>
-  <row index="39">
+  <row index="42">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3513a09c-en</cell>
     <cell name="title">The organisation of the implementation and enforcement of technical regulations in Mexico: framework and actors (en)</cell>
@@ -800,7 +860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4a3515d8</cell>
   </row>
-  <row index="40">
+  <row index="43">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/2403d85a-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -820,7 +880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/16bffd9f</cell>
   </row>
-  <row index="41">
+  <row index="44">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/407d471c-es</cell>
     <cell name="title">La organización de la implementación y el cumplimiento de las regulaciones técnicas en México: marco y actores (es)</cell>
@@ -840,7 +900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bccd756f</cell>
   </row>
-  <row index="42">
+  <row index="45">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/2403d85a-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -860,7 +920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/608135f1</cell>
   </row>
-  <row index="43">
+  <row index="46">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/d2d59313-en</cell>
     <cell name="title">Preface (en)</cell>
@@ -880,7 +940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9972aaa6</cell>
   </row>
-  <row index="44">
+  <row index="47">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4e919492-en</cell>
     <cell name="title">Implementing Technical Regulations in Mexico (en)</cell>
@@ -900,7 +960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5e5adb78</cell>
   </row>
-  <row index="45">
+  <row index="48">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4e919492-en</cell>
     <cell name="title">Implementing Technical Regulations in Mexico (en)</cell>
@@ -920,7 +980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6f3951c6</cell>
   </row>
-  <row index="46">
+  <row index="49">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4e919492-en</cell>
     <cell name="title">Implementing Technical Regulations in Mexico (en)</cell>
@@ -940,7 +1000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41885888</cell>
   </row>
-  <row index="47">
+  <row index="50">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4176f77a-es</cell>
     <cell name="title">Evaluación y recomendaciones (es)</cell>
@@ -960,7 +1020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3ae70796</cell>
   </row>
-  <row index="48">
+  <row index="51">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/46aeb18f-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -980,7 +1040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a03871f4</cell>
   </row>
-  <row index="49">
+  <row index="52">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1286593b-es</cell>
     <cell name="title">Implementando las Regulaciones Técnicas en México (es)</cell>
@@ -1000,7 +1060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/75eaabdb</cell>
   </row>
-  <row index="50">
+  <row index="53">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3d7a70b6-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1020,7 +1080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/225767b6</cell>
   </row>
-  <row index="51">
+  <row index="54">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1286593b-es</cell>
     <cell name="title">Implementando las Regulaciones Técnicas en México (es)</cell>
@@ -1040,7 +1100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/78b5f1e0</cell>
   </row>
-  <row index="52">
+  <row index="55">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3513a09c-en</cell>
     <cell name="title">The organisation of the implementation and enforcement of technical regulations in Mexico: framework and actors (en)</cell>
@@ -1060,7 +1120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3005e3ec</cell>
   </row>
-  <row index="53">
+  <row index="56">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/59a17a35-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -1080,7 +1140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9cd544a4</cell>
   </row>
-  <row index="54">
+  <row index="57">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/d2d59313-en</cell>
     <cell name="title">Preface (en)</cell>
@@ -1100,7 +1160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b02139b1</cell>
   </row>
-  <row index="55">
+  <row index="58">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/bdf1238c-es</cell>
     <cell name="title">Evaluación de la conformidad en México (es)</cell>
@@ -1120,7 +1180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9de18e54</cell>
   </row>
-  <row index="56">
+  <row index="59">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3e607cab-en</cell>
     <cell name="title">The process for developing NOMs in Mexico (en)</cell>
@@ -1140,7 +1200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/29c2dac6</cell>
   </row>
-  <row index="57">
+  <row index="60">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e09bcda9-es</cell>
     <cell name="title">Introducción (es)</cell>
@@ -1160,7 +1220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cb645996</cell>
   </row>
-  <row index="58">
+  <row index="61">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4e919492-en</cell>
     <cell name="title">Implementing Technical Regulations in Mexico (en)</cell>
@@ -1180,7 +1240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ea558510</cell>
   </row>
-  <row index="59">
+  <row index="62">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/d27c1135-es</cell>
     <cell name="title">Acrónimos y abreviaciones (es)</cell>
@@ -1200,27 +1260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f762f086</cell>
   </row>
-  <row index="60">
-    <cell name="directorate">Development Centre</cell>
-    <cell name="doi">10.1787/1201cfea-en</cell>
-    <cell name="title">Production Transformation Policy Review of the Dominican Republic (en)</cell>
-    <cell name="subtitle">Preserving Growth, Achieving Resilience (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2020-06-18</cell>
-    <cell name="embargo date">2020-06-18T15:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-06-04T18:13:50Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-06-04T17:51:51Z</cell>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0a65c0de</cell>
-  </row>
-  <row index="61">
+  <row index="63">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6cc52f34-en</cell>
     <cell name="title">The development of new regulations in the Slovak Republic (en)</cell>
@@ -1240,7 +1280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9410e026</cell>
   </row>
-  <row index="62">
+  <row index="64">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/52bc3c91-en</cell>
     <cell name="title">Stakeholder engagement and public consultations (en)</cell>
@@ -1260,7 +1300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/12ab1922</cell>
   </row>
-  <row index="63">
+  <row index="65">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/81f53416-en</cell>
     <cell name="title">Regulatory compliance, enforcement and inspections (en)</cell>
@@ -1280,7 +1320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e472eac4</cell>
   </row>
-  <row index="64">
+  <row index="66">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a630ff0f-en</cell>
     <cell name="title">Multilevel governance (en)</cell>
@@ -1300,7 +1340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ebc6a296</cell>
   </row>
-  <row index="65">
+  <row index="67">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/81f53416-en</cell>
     <cell name="title">Regulatory compliance, enforcement and inspections (en)</cell>
@@ -1320,7 +1360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/749094d0</cell>
   </row>
-  <row index="66">
+  <row index="68">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f513dedd-en</cell>
     <cell name="title">Macroeconomic and political context (en)</cell>
@@ -1340,7 +1380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1de58b8e</cell>
   </row>
-  <row index="67">
+  <row index="69">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ce95a880-en</cell>
     <cell name="title">Regulatory Policy in the Slovak Republic (en)</cell>
@@ -1360,7 +1400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/93d7c1c7</cell>
   </row>
-  <row index="68">
+  <row index="70">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ce95a880-en</cell>
     <cell name="title">Regulatory Policy in the Slovak Republic (en)</cell>
@@ -1380,7 +1420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c2f95471</cell>
   </row>
-  <row index="69">
+  <row index="71">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/824ea57e-en</cell>
     <cell name="title">The context for Better Regulation in the Slovak Republic (en)</cell>
@@ -1400,7 +1440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/594a9c3c</cell>
   </row>
-  <row index="70">
+  <row index="72">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/d014e0e6-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -1420,7 +1460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d9eb7e9</cell>
   </row>
-  <row index="71">
+  <row index="73">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/b013dff3-en</cell>
     <cell name="title">Ex post evaluation of regulation in the Slovak Republic (en)</cell>
@@ -1440,7 +1480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9230ab5a</cell>
   </row>
-  <row index="72">
+  <row index="74">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a630ff0f-en</cell>
     <cell name="title">Multilevel governance (en)</cell>
@@ -1460,7 +1500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e73fced6</cell>
   </row>
-  <row index="73">
+  <row index="75">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6236ae32-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1480,7 +1520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f46e77c3</cell>
   </row>
-  <row index="74">
+  <row index="76">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/94d061e5-en</cell>
     <cell name="title">Innovative approaches to support future-proofing regulation (en)</cell>
@@ -1500,7 +1540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cdd7191e</cell>
   </row>
-  <row index="75">
+  <row index="77">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ce95a880-en</cell>
     <cell name="title">Regulatory Policy in the Slovak Republic (en)</cell>
@@ -1520,7 +1560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1b7d827f</cell>
   </row>
-  <row index="76">
+  <row index="78">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9a1ab45b-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1540,7 +1580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7cfd9521</cell>
   </row>
-  <row index="77">
+  <row index="79">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6cc52f34-en</cell>
     <cell name="title">The development of new regulations in the Slovak Republic (en)</cell>
@@ -1560,7 +1600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e18dbba6</cell>
   </row>
-  <row index="78">
+  <row index="80">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/b7311141-en</cell>
     <cell name="title">Institutional framework and capacities for regulatory policy (en)</cell>
@@ -1580,7 +1620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a58e454b</cell>
   </row>
-  <row index="79">
+  <row index="81">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/b013dff3-en</cell>
     <cell name="title">Ex post evaluation of regulation in the Slovak Republic (en)</cell>
@@ -1600,7 +1640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5747c61</cell>
   </row>
-  <row index="80">
+  <row index="82">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9a1ab45b-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1620,7 +1660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27dd3d43</cell>
   </row>
-  <row index="81">
+  <row index="83">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/824ea57e-en</cell>
     <cell name="title">The context for Better Regulation in the Slovak Republic (en)</cell>
@@ -1640,7 +1680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a798b2f0</cell>
   </row>
-  <row index="82">
+  <row index="84">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/d014e0e6-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -1660,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86f0c500</cell>
   </row>
-  <row index="83">
+  <row index="85">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/52bc3c91-en</cell>
     <cell name="title">Stakeholder engagement and public consultations (en)</cell>
@@ -1680,7 +1720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/65d92f40</cell>
   </row>
-  <row index="84">
+  <row index="86">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/b7311141-en</cell>
     <cell name="title">Institutional framework and capacities for regulatory policy (en)</cell>
@@ -1700,7 +1740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/beccd9cf</cell>
   </row>
-  <row index="85">
+  <row index="87">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6236ae32-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1720,7 +1760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/50ad5142</cell>
   </row>
-  <row index="86">
+  <row index="88">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/94d061e5-en</cell>
     <cell name="title">Innovative approaches to support future-proofing regulation (en)</cell>
@@ -1740,7 +1780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8128d356</cell>
   </row>
-  <row index="87">
+  <row index="89">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f513dedd-en</cell>
     <cell name="title">Macroeconomic and political context (en)</cell>
@@ -1760,7 +1800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/576e9226</cell>
   </row>
-  <row index="88">
+  <row index="90">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ca768d40-en</cell>
     <cell name="title">PISA 2018 Results (Volume V) (en)</cell>
@@ -1780,7 +1820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e116ac0c</cell>
   </row>
-  <row index="89">
+  <row index="91">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ca768d40-en</cell>
     <cell name="title">PISA 2018 Results (Volume V) (en)</cell>
@@ -1800,7 +1840,327 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5e7be0de</cell>
   </row>
-  <row index="90">
+  <row index="92">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/3b65b08d-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, the Faroe Islands (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2020-06-24</cell>
+    <cell name="embargo date">2020-06-24T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-06-10T18:43:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2020-06-10T18:05:23Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/31d6bfa2</cell>
+  </row>
+  <row index="93">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/a8e3b149-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Tunisia (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2020-06-24</cell>
+    <cell name="embargo date">2020-06-24T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-06-10T18:43:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2020-06-10T18:05:23Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0f5c022e</cell>
+  </row>
+  <row index="94">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/e6458e06-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, The Bahamas (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2020-06-24</cell>
+    <cell name="embargo date">2020-06-24T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/19fa1980</cell>
+  </row>
+  <row index="95">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/127cb9d7-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Morocco (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2020-06-24</cell>
+    <cell name="embargo date">2020-06-24T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-06-10T18:43:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2020-06-10T18:05:23Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1df10cd7</cell>
+  </row>
+  <row index="96">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/56ff8271-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, the Cayman Islands (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2020-06-24</cell>
+    <cell name="embargo date">2020-06-24T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-06-10T18:43:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2020-06-10T18:05:23Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7bff4212</cell>
+  </row>
+  <row index="97">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/dd78e294-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, the British Virgin Islands (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2020-06-24</cell>
+    <cell name="embargo date">2020-06-24T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d0c7b1f</cell>
+  </row>
+  <row index="98">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/6f11fc95-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Bermuda (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2020-06-24</cell>
+    <cell name="embargo date">2020-06-24T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-06-10T18:43:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2020-06-10T18:05:23Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6092c9a9</cell>
+  </row>
+  <row index="99">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/127cb9d7-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Morocco (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2020-06-24</cell>
+    <cell name="embargo date">2020-06-24T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fccda0af</cell>
+  </row>
+  <row index="100">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/dd78e294-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, the British Virgin Islands (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2020-06-24</cell>
+    <cell name="embargo date">2020-06-24T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-06-10T18:43:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2020-06-10T18:05:23Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1293ca46</cell>
+  </row>
+  <row index="101">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/6f11fc95-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Bermuda (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2020-06-24</cell>
+    <cell name="embargo date">2020-06-24T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a74457dc</cell>
+  </row>
+  <row index="102">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/56ff8271-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, the Cayman Islands (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2020-06-24</cell>
+    <cell name="embargo date">2020-06-24T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1cd816c8</cell>
+  </row>
+  <row index="103">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9845ee12-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Andorra (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2020-06-24</cell>
+    <cell name="embargo date">2020-06-24T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ada828bf</cell>
+  </row>
+  <row index="104">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/e6458e06-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, The Bahamas (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2020-06-24</cell>
+    <cell name="embargo date">2020-06-24T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-06-10T18:43:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2020-06-10T18:05:23Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5dbc0fe3</cell>
+  </row>
+  <row index="105">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/a8e3b149-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Tunisia (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2020-06-24</cell>
+    <cell name="embargo date">2020-06-24T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3d44f295</cell>
+  </row>
+  <row index="106">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9845ee12-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Andorra (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2020-06-24</cell>
+    <cell name="embargo date">2020-06-24T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-06-10T18:43:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2020-06-10T18:05:23Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/89f76e90</cell>
+  </row>
+  <row index="107">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/3b65b08d-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, the Faroe Islands (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2020-06-24</cell>
+    <cell name="embargo date">2020-06-24T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0f62354</cell>
+  </row>
+  <row index="108">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/cb7d45d1-en</cell>
     <cell name="title">SIGI 2020 Regional Report for Latin America and the Caribbean (en)</cell>
@@ -1820,7 +2180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/302a3821</cell>
   </row>
-  <row index="91">
+  <row index="109">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/cb7d45d1-en</cell>
     <cell name="title">SIGI 2020 Regional Report for Latin America and the Caribbean (en)</cell>
@@ -1840,7 +2200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/35ca845f</cell>
   </row>
-  <row index="92">
+  <row index="110">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/a4209041-en</cell>
     <cell name="title">OECD Economic Surveys: Slovenia 2020 (en)</cell>
@@ -1860,7 +2220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/97ff5ebc</cell>
   </row>
-  <row index="93">
+  <row index="111">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/a4209041-en</cell>
     <cell name="title">OECD Economic Surveys: Slovenia 2020 (en)</cell>
@@ -1880,7 +2240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62a2727b</cell>
   </row>
-  <row index="94">
+  <row index="112">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/ccc6f09c-fr</cell>
     <cell name="title">Perspectives agricoles de l'OCDE et de la FAO 2020-2029 (fr)</cell>
@@ -1900,7 +2260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec8c3b5f</cell>
   </row>
-  <row index="95">
+  <row index="113">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/ccc6f09c-fr</cell>
     <cell name="title">Perspectives agricoles de l'OCDE et de la FAO 2020-2029 (fr)</cell>
@@ -1920,7 +2280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5c8c928a</cell>
   </row>
-  <row index="96">
+  <row index="114">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1112c23b-en</cell>
     <cell name="title">OECD-FAO Agricultural Outlook 2020-2029 (en)</cell>
@@ -1940,7 +2300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8a074c65</cell>
   </row>
-  <row index="97">
+  <row index="115">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1112c23b-en</cell>
     <cell name="title">OECD-FAO Agricultural Outlook 2020-2029 (en)</cell>
@@ -1960,7 +2320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/322e4239</cell>
   </row>
-  <row index="98">
+  <row index="116">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1686c758-en</cell>
     <cell name="title">OECD Employment Outlook 2020 (en)</cell>
@@ -1980,7 +2340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d6b6f65</cell>
   </row>
-  <row index="99">
+  <row index="117">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1686c758-en</cell>
     <cell name="title">OECD Employment Outlook 2020 (en)</cell>
@@ -2000,7 +2360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b8151d8</cell>
   </row>
-  <row index="100">
+  <row index="118">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/2e0fea6c-en</cell>
     <cell name="title">OECD Economic Surveys: Costa Rica 2020 (en)</cell>
@@ -2020,7 +2380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/93df991f</cell>
   </row>
-  <row index="101">
+  <row index="119">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/2e0fea6c-en</cell>
     <cell name="title">OECD Economic Surveys: Costa Rica 2020 (en)</cell>
@@ -2040,7 +2400,287 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f0b481b0</cell>
   </row>
-  <row index="102">
+  <row index="120">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/b8ee5001-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Czech Republic (Stage 2) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-07-15T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d8d3d2e8</cell>
+  </row>
+  <row index="121">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/a06e58db-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Korea (Stage 2) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-07-15T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d6a1ea3e</cell>
+  </row>
+  <row index="122">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/64a87e14-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Finland (Stage 2) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-07-15T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/69521a16</cell>
+  </row>
+  <row index="123">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/3d152880-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Singapore (Stage 2) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-07-15T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cab4761d</cell>
+  </row>
+  <row index="124">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/a06e58db-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Korea (Stage 2) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-07-15T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1bcefe55</cell>
+  </row>
+  <row index="125">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/8f4792bc-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Spain (Stage 2) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-07-15T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9d6f2e1e</cell>
+  </row>
+  <row index="126">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/b8ee5001-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Czech Republic (Stage 2) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-07-15T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b671c75</cell>
+  </row>
+  <row index="127">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/bd0276f1-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Denmark (Stage 2) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-07-15T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e4bab233</cell>
+  </row>
+  <row index="128">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/64a87e14-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Finland (Stage 2) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-07-15T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d9fe010</cell>
+  </row>
+  <row index="129">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/48127451-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Norway (Stage 2) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-07-15T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8ba4cf34</cell>
+  </row>
+  <row index="130">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/bd0276f1-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Denmark (Stage 2) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-07-15T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d7e8785f</cell>
+  </row>
+  <row index="131">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/48127451-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Norway (Stage 2) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-07-15T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6c322d41</cell>
+  </row>
+  <row index="132">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/8f4792bc-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Spain (Stage 2) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-07-15T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f47fea7c</cell>
+  </row>
+  <row index="133">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/3d152880-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Singapore (Stage 2) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-07-15T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fbac44b7</cell>
+  </row>
+  <row index="134">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b04b25de-en</cell>
     <cell name="title">OECD Economic Surveys: Greece 2020 (en)</cell>
@@ -2060,7 +2700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/13b08a3f</cell>
   </row>
-  <row index="103">
+  <row index="135">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b04b25de-en</cell>
     <cell name="title">OECD Economic Surveys: Greece 2020 (en)</cell>
@@ -2080,7 +2720,107 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/78ac727b</cell>
   </row>
-  <row index="104">
+  <row index="136">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/fb32aabd-en</cell>
+    <cell name="title">Accelerating Climate Action in Israel (en)</cell>
+    <cell name="subtitle">Refocusing Mitigation Policies for the Electricity, Residential and Transport Sectors (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-07-20T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ed688fde</cell>
+  </row>
+  <row index="137">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/fb32aabd-en</cell>
+    <cell name="title">Accelerating Climate Action in Israel (en)</cell>
+    <cell name="subtitle">Refocusing Mitigation Policies for the Electricity, Residential and Transport Sectors (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-07-20T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/682ee5fb</cell>
+  </row>
+  <row index="138">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/ae3f9995-en</cell>
+    <cell name="title">Accelerating Climate Action in Israel (en)</cell>
+    <cell name="subtitle">Refocusing Mitigation Policies for the Electricity, Residential and Transport Sectors (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-07-20T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3bd17faf</cell>
+  </row>
+  <row index="139">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/ae3f9995-en</cell>
+    <cell name="title">Accelerating Climate Action in Israel (en)</cell>
+    <cell name="subtitle">Refocusing Mitigation Policies for the Electricity, Residential and Transport Sectors (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-07-20T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cb0cc39d</cell>
+  </row>
+  <row index="140">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/1201cfea-en</cell>
+    <cell name="title">Production Transformation Policy Review of the Dominican Republic (en)</cell>
+    <cell name="subtitle">Preserving Growth, Achieving Resilience (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2020-07-22</cell>
+    <cell name="embargo date">2020-07-22T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-06-10T18:43:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2020-06-10T18:05:23Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0a65c0de</cell>
+  </row>
+  <row index="141">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/d6a7d907-en</cell>
     <cell name="title">OECD Economic Surveys: Israel 2020 (en)</cell>
@@ -2100,7 +2840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aa59d840</cell>
   </row>
-  <row index="105">
+  <row index="142">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/d6a7d907-en</cell>
     <cell name="title">OECD Economic Surveys: Israel 2020 (en)</cell>
@@ -2120,7 +2860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/acbb1715</cell>
   </row>
-  <row index="106">
+  <row index="143">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ab4d8d52-en</cell>
     <cell name="title">Linking Indigenous Communities with Regional Development in Australia (en)</cell>
@@ -2140,7 +2880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/949cce0c</cell>
   </row>
-  <row index="107">
+  <row index="144">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ab4d8d52-en</cell>
     <cell name="title">Linking Indigenous Communities with Regional Development in Australia (en)</cell>

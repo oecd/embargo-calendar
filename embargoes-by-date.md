@@ -2,18 +2,22 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 9 June 2020 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 10 June 2020 at 21:24* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [10 June 2020](#10-june-2020)
+* [12 June 2020](#12-june-2020)
 * [15 June 2020](#15-june-2020)
-* [18 June 2020](#18-june-2020)
 * [22 June 2020](#22-june-2020)
 * [23 June 2020](#23-june-2020)
+* [24 June 2020](#24-june-2020)
 * [28 June 2020](#28-june-2020)
 * [29 June 2020](#29-june-2020)
 * [6 July 2020](#6-july-2020)
 * [8 July 2020](#8-july-2020)
+* [15 July 2020](#15-july-2020)
 * [16 July 2020](#16-july-2020)
+* [20 July 2020](#20-july-2020)
+* [22 July 2020](#22-july-2020)
 * [30 July 2020](#30-july-2020)
 * [15 September 2020](#15-september-2020)
 
@@ -30,8 +34,8 @@ Wednesday 10 June 2020 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 June 2020 at 20:24
-- [x] Exported to Keepeek Tuesday 9 June 2020 at 20:12
+- [x] Exported to iLibrary Wednesday 10 June 2020 at 20:43
+- [x] Exported to Keepeek Wednesday 10 June 2020 at 20:16
 - [x] Exported to OECD.org Tuesday 9 June 2020 at 19:59
 
 ### Additional Information
@@ -64,6 +68,79 @@ Wednesday 10 June 2020 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+------
+
+# 12 June 2020
+
+## [Reporting progress towards Nationally Determined Contributions - Exploring possible common tabular formats for the structured summary](https://doi.org/10.1787/a23de32d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 12 June 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 10 June 2020 at 20:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 10 June 2020 at 20:05
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Aligning short-term climate action with long-term climate goals - Opportunities and options for enhancing alignment between NDCs and long-term strategies](https://doi.org/10.1787/7c980fce-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 12 June 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 10 June 2020 at 20:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 10 June 2020 at 20:05
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [The Consequences of a more resource efficient and circular economy for international trade patterns - A modelling assessment](https://doi.org/10.1787/fa01b672-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 12 June 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 10 June 2020 at 20:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 10 June 2020 at 20:05
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -119,33 +196,6 @@ Monday 15 June 2020 at 7:00 | no launch event
 
 ------
 
-# 18 June 2020
-
-## [Production Transformation Policy Review of the Dominican Republic - Preserving Growth, Achieving Resilience](https://doi.org/10.1787/1201cfea-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 June 2020 at 15:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 4 June 2020 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 4 June 2020 at 19:51
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-------
-
 # 22 June 2020
 
 ## [Regulatory Policy in the Slovak Republic - Towards Future-Proof Regulation](https://doi.org/10.1787/ce95a880-en)
@@ -193,6 +243,194 @@ Tuesday 23 June 2020 at 9:00 | no launch event
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 24 June 2020
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, the Faroe Islands (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/3b65b08d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 June 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 10 June 2020 at 20:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 10 June 2020 at 20:05
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Tunisia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/a8e3b149-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 June 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 10 June 2020 at 20:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 10 June 2020 at 20:05
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Morocco (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/127cb9d7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 June 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 10 June 2020 at 20:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 10 June 2020 at 20:05
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, the Cayman Islands (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/56ff8271-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 June 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 10 June 2020 at 20:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 10 June 2020 at 20:05
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Bermuda (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/6f11fc95-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 June 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 10 June 2020 at 20:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 10 June 2020 at 20:05
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, the British Virgin Islands (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/dd78e294-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 June 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 10 June 2020 at 20:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 10 June 2020 at 20:05
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, The Bahamas (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/e6458e06-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 June 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 10 June 2020 at 20:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 10 June 2020 at 20:05
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Andorra (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9845ee12-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 June 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 10 June 2020 at 20:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 10 June 2020 at 20:05
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -354,6 +592,171 @@ Wednesday 8 July 2020 at 15:00 | no launch event
 
 ------
 
+# 15 July 2020
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Singapore (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/3d152880-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 July 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Korea (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/a06e58db-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 July 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Spain (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/8f4792bc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 July 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Czech Republic (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/b8ee5001-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 July 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Denmark (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/bd0276f1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 July 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Finland (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/64a87e14-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 July 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Norway (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/48127451-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 July 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 16 July 2020
 
 ## [OECD Economic Surveys: Greece 2020](https://doi.org/10.1787/b04b25de-en)
@@ -376,6 +779,83 @@ Thursday 16 July 2020 at 22:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 20 July 2020
+
+## [Accelerating Climate Action in Israel - Refocusing Mitigation Policies for the Electricity, Residential and Transport Sectors](https://doi.org/10.1787/fb32aabd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 July 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Accelerating Climate Action in Israel - Refocusing Mitigation Policies for the Electricity, Residential and Transport Sectors](https://doi.org/10.1787/ae3f9995-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 July 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 22 July 2020
+
+## [Production Transformation Policy Review of the Dominican Republic - Preserving Growth, Achieving Resilience](https://doi.org/10.1787/1201cfea-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 22 July 2020 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 10 June 2020 at 20:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 10 June 2020 at 20:05
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
