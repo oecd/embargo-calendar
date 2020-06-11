@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 10 June 2020 at 21:24* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 11 June 2020 at 20:58* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Outlook, Volume 2020 Issue 1 - Preliminary version](https://doi.org/10.1787/0d1d1e2e-en)
 
@@ -13,9 +13,9 @@ Wednesday 10 June 2020 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 10 June 2020 at 20:43
+- [x] Exported to iLibrary Thursday 11 June 2020 at 20:26
 - [x] Exported to Keepeek Wednesday 10 June 2020 at 20:16
-- [x] Exported to OECD.org Tuesday 9 June 2020 at 19:59
+- [x] Exported to OECD.org Thursday 11 June 2020 at 20:00
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Wednesday 10 June 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 9 June 2020 at 20:24
 - [x] Exported to Keepeek Tuesday 9 June 2020 at 20:12
-- [x] Exported to OECD.org Tuesday 9 June 2020 at 19:59
+- [x] Exported to OECD.org Thursday 11 June 2020 at 20:00
 
 ### Additional Information
 
@@ -165,6 +165,29 @@ Monday 15 June 2020 at 7:00 | no launch event
 
 ------
 
+## [Carbon pricing design: Effectiveness, efficiency and feasibility - An investment perspective](https://doi.org/10.1787/91ad6a1e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 June 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 11 June 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 11 June 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Regulatory Policy in the Slovak Republic - Towards Future-Proof Regulation](https://doi.org/10.1787/ce95a880-en)
 
 Embargo date | Launch date
@@ -220,9 +243,9 @@ Wednesday 24 June 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 10 June 2020 at 20:43
+- [x] Exported to iLibrary Thursday 11 June 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 June 2020 at 20:05
+- [x] Exported to OECD.org Thursday 11 June 2020 at 20:00
 
 ### Additional Information
 
@@ -243,9 +266,9 @@ Wednesday 24 June 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 10 June 2020 at 20:43
+- [x] Exported to iLibrary Thursday 11 June 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 June 2020 at 20:05
+- [x] Exported to OECD.org Thursday 11 June 2020 at 20:00
 
 ### Additional Information
 
@@ -266,9 +289,9 @@ Wednesday 24 June 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 10 June 2020 at 20:43
+- [x] Exported to iLibrary Thursday 11 June 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 June 2020 at 20:05
+- [x] Exported to OECD.org Thursday 11 June 2020 at 20:00
 
 ### Additional Information
 
@@ -289,9 +312,9 @@ Wednesday 24 June 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 10 June 2020 at 20:43
+- [x] Exported to iLibrary Thursday 11 June 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 June 2020 at 20:05
+- [x] Exported to OECD.org Thursday 11 June 2020 at 20:00
 
 ### Additional Information
 
@@ -312,9 +335,9 @@ Wednesday 24 June 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 10 June 2020 at 20:43
+- [x] Exported to iLibrary Thursday 11 June 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 June 2020 at 20:05
+- [x] Exported to OECD.org Thursday 11 June 2020 at 20:00
 
 ### Additional Information
 
@@ -335,14 +358,37 @@ Wednesday 24 June 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 10 June 2020 at 20:43
+- [x] Exported to iLibrary Thursday 11 June 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 June 2020 at 20:05
+- [x] Exported to OECD.org Thursday 11 June 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Accroître l'efficacité des mécanismes de règlement des différends - Rapport par les pairs de PA, Maroc (Phase 1) - Cadre inclusif sur le BEPS : action 14](https://doi.org/10.1787/486647f9-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 June 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 11 June 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 11 June 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
@@ -358,9 +404,55 @@ Wednesday 24 June 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 10 June 2020 at 20:43
+- [x] Exported to iLibrary Thursday 11 June 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 June 2020 at 20:05
+- [x] Exported to OECD.org Thursday 11 June 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Accroître l'efficacité des mécanismes de règlement des différends - Rapport par les pairs de PA, Tunisie (Phase 1) - Cadre inclusif sur le BEPS: action 14](https://doi.org/10.1787/a887c53c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 June 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 11 June 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 11 June 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Macau, China (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/c5d34f2c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 June 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 11 June 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 11 June 2020 at 20:00
 
 ### Additional Information
 
@@ -381,9 +473,9 @@ Wednesday 24 June 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 10 June 2020 at 20:43
+- [x] Exported to iLibrary Thursday 11 June 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 June 2020 at 20:05
+- [x] Exported to OECD.org Thursday 11 June 2020 at 20:00
 
 ### Additional Information
 
@@ -414,29 +506,6 @@ Sunday 28 June 2020 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Slovenia 2020](https://doi.org/10.1787/a4209041-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2020 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 20 May 2020 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 May 2020 at 19:52
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
@@ -703,15 +772,15 @@ Thursday 16 July 2020 at 22:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 11 June 2020 at 20:26
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 11 June 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -740,25 +809,25 @@ Monday 20 July 2020 at 8:00 | no launch event
 
 ------
 
-## [Accelerating Climate Action in Israel - Refocusing Mitigation Policies for the Electricity, Residential and Transport Sectors](https://doi.org/10.1787/ae3f9995-en)
+## [OECD Economic Surveys: Slovenia 2020](https://doi.org/10.1787/a4209041-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 20 July 2020 at 8:00 | no launch event
+Tuesday 21 July 2020 at 22:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 11 June 2020 at 20:26
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 11 June 2020 at 20:00
 
 ### Additional Information
 
-* Directorate: *Environment Directorate*
+* Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
