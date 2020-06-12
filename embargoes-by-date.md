@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 11 June 2020 at 20:58* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 12 June 2020 at 20:41* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [10 June 2020](#10-june-2020)
 * [12 June 2020](#12-june-2020)
 * [15 June 2020](#15-june-2020)
 * [22 June 2020](#22-june-2020)
@@ -20,56 +19,6 @@ Data generated on | |
 * [22 July 2020](#22-july-2020)
 * [30 July 2020](#30-july-2020)
 * [15 September 2020](#15-september-2020)
-
-------
-
-# 10 June 2020
-
-## [OECD Economic Outlook, Volume 2020 Issue 1 - Preliminary version](https://doi.org/10.1787/0d1d1e2e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 10 June 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 11 June 2020 at 20:26
-- [x] Exported to Keepeek Wednesday 10 June 2020 at 20:16
-- [x] Exported to OECD.org Thursday 11 June 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *HTML, Paperback, PDF*
-
-------
-
-## [Intégrer les immigrants pour stimuler l’innovation au Québec, Canada](https://doi.org/10.1787/2b41b9e8-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 10 June 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 June 2020 at 20:24
-- [x] Exported to Keepeek Tuesday 9 June 2020 at 20:12
-- [x] Exported to OECD.org Thursday 11 June 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
 
 ------
 
@@ -159,7 +108,7 @@ Monday 15 June 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 May 2020 at 20:15
 - [x] Exported to Keepeek Monday 8 June 2020 at 20:05
-- [x] Exported to OECD.org Wednesday 27 May 2020 at 19:51
+- [x] Exported to OECD.org Friday 12 June 2020 at 19:50
 
 ### Additional Information
 
@@ -182,7 +131,7 @@ Monday 15 June 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 29 May 2020 at 20:19
 - [x] Exported to Keepeek Friday 29 May 2020 at 20:05
-- [x] Exported to OECD.org Friday 29 May 2020 at 19:52
+- [x] Exported to OECD.org Friday 12 June 2020 at 19:50
 
 ### Additional Information
 
@@ -413,7 +362,7 @@ Wednesday 24 June 2020 at 9:00 | no launch event
 
 ------
 
-## [Accroître l'efficacité des mécanismes de règlement des différends - Rapport par les pairs de PA, Maroc (Phase 1) - Cadre inclusif sur le BEPS : action 14](https://doi.org/10.1787/486647f9-fr)
+## [Accroître l'efficacité des mécanismes de règlement des différends - Rapport par les pairs de PA, Maroc (Phase 1) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/486647f9-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -422,9 +371,9 @@ Wednesday 24 June 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 11 June 2020 at 20:26
+- [x] Exported to iLibrary Friday 12 June 2020 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 11 June 2020 at 20:00
+- [x] Exported to OECD.org Friday 12 June 2020 at 19:50
 
 ### Additional Information
 
@@ -459,7 +408,7 @@ Wednesday 24 June 2020 at 9:00 | no launch event
 
 ------
 
-## [Accroître l'efficacité des mécanismes de règlement des différends - Rapport par les pairs de PA, Tunisie (Phase 1) - Cadre inclusif sur le BEPS: action 14](https://doi.org/10.1787/a887c53c-fr)
+## [Accroître l'efficacité des mécanismes de règlement des différends - Rapport par les pairs de PA, Tunisie (Phase 1) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/a887c53c-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -468,9 +417,9 @@ Wednesday 24 June 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 11 June 2020 at 20:26
+- [x] Exported to iLibrary Friday 12 June 2020 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 11 June 2020 at 20:00
+- [x] Exported to OECD.org Friday 12 June 2020 at 19:50
 
 ### Additional Information
 
