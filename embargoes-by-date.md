@@ -2,13 +2,16 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 15 June 2020 at 20:55* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 16 June 2020 at 21:03* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [15 June 2020](#15-june-2020)
 * [22 June 2020](#22-june-2020)
 * [23 June 2020](#23-june-2020)
 * [28 June 2020](#28-june-2020)
+* [30 June 2020](#30-june-2020)
+* [2 July 2020](#2-july-2020)
 * [6 July 2020](#6-july-2020)
+* [7 July 2020](#7-july-2020)
 * [8 July 2020](#8-july-2020)
 * [15 July 2020](#15-july-2020)
 * [16 July 2020](#16-july-2020)
@@ -34,7 +37,7 @@ Monday 15 June 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 May 2020 at 20:15
 - [x] Exported to Keepeek Monday 8 June 2020 at 20:05
-- [x] Exported to OECD.org Friday 12 June 2020 at 19:50
+- [x] Exported to OECD.org Tuesday 16 June 2020 at 19:58
 
 ### Additional Information
 
@@ -57,7 +60,7 @@ Monday 15 June 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 15 June 2020 at 20:25
 - [x] Exported to Keepeek Monday 15 June 2020 at 20:11
-- [x] Exported to OECD.org Friday 12 June 2020 at 19:50
+- [x] Exported to OECD.org Tuesday 16 June 2020 at 19:58
 
 ### Additional Information
 
@@ -175,6 +178,60 @@ Sunday 28 June 2020 at 22:00 | no launch event
 
 ------
 
+# 30 June 2020
+
+## [Agricultural Policy Monitoring and Evaluation 2020](https://doi.org/10.1787/928181a8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 16 June 2020 at 20:31
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 16 June 2020 at 19:58
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 2 July 2020
+
+## [Quality Early Childhood Education and Care for Children Under Age 3 - Results from the Starting Strong Survey 2018](https://doi.org/10.1787/99f8bc95-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 6 July 2020
 
 ## [Perspectives agricoles de l'OCDE et de la FAO 2020-2029](https://doi.org/10.1787/ccc6f09c-fr)
@@ -225,30 +282,34 @@ Monday 6 July 2020 at 8:00 | no launch event
 
 ------
 
-# 8 July 2020
+# 7 July 2020
 
 ## [OECD Employment Outlook 2020 - Worker Security and the COVID-19 Crisis](https://doi.org/10.1787/1686c758-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 8 July 2020 at 9:00 | no launch event
+Tuesday 7 July 2020 at 9:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 16 June 2020 at 20:31
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 16 June 2020 at 19:58
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
+
+------
+
+# 8 July 2020
 
 ## [OECD Economic Surveys: Costa Rica 2020](https://doi.org/10.1787/2e0fea6c-en)
 
@@ -286,9 +347,9 @@ Wednesday 15 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 15 June 2020 at 20:25
+- [x] Exported to iLibrary Tuesday 16 June 2020 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 June 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 16 June 2020 at 19:58
 
 ### Additional Information
 
@@ -309,9 +370,9 @@ Wednesday 15 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 15 June 2020 at 20:25
+- [x] Exported to iLibrary Tuesday 16 June 2020 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 June 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 16 June 2020 at 19:58
 
 ### Additional Information
 
@@ -332,9 +393,9 @@ Wednesday 15 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 15 June 2020 at 20:25
+- [x] Exported to iLibrary Tuesday 16 June 2020 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 June 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 16 June 2020 at 19:58
 
 ### Additional Information
 
@@ -355,9 +416,9 @@ Wednesday 15 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 15 June 2020 at 20:25
+- [x] Exported to iLibrary Tuesday 16 June 2020 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 June 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 16 June 2020 at 19:58
 
 ### Additional Information
 
@@ -378,9 +439,9 @@ Wednesday 15 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 15 June 2020 at 20:25
+- [x] Exported to iLibrary Tuesday 16 June 2020 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 June 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 16 June 2020 at 19:58
 
 ### Additional Information
 
@@ -401,9 +462,9 @@ Wednesday 15 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 15 June 2020 at 20:25
+- [x] Exported to iLibrary Tuesday 16 June 2020 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 June 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 16 June 2020 at 19:58
 
 ### Additional Information
 
@@ -424,9 +485,9 @@ Wednesday 15 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 15 June 2020 at 20:25
+- [x] Exported to iLibrary Tuesday 16 June 2020 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 June 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 16 June 2020 at 19:58
 
 ### Additional Information
 
@@ -447,9 +508,9 @@ Wednesday 15 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 15 June 2020 at 20:25
+- [x] Exported to iLibrary Tuesday 16 June 2020 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 June 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 16 June 2020 at 19:58
 
 ### Additional Information
 
@@ -470,9 +531,9 @@ Wednesday 15 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 15 June 2020 at 20:25
+- [x] Exported to iLibrary Tuesday 16 June 2020 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 June 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 16 June 2020 at 19:58
 
 ### Additional Information
 
@@ -493,9 +554,9 @@ Wednesday 15 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 15 June 2020 at 20:25
+- [x] Exported to iLibrary Tuesday 16 June 2020 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 June 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 16 June 2020 at 19:58
 
 ### Additional Information
 
@@ -516,9 +577,9 @@ Wednesday 15 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 15 June 2020 at 20:25
+- [x] Exported to iLibrary Tuesday 16 June 2020 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 June 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 16 June 2020 at 19:58
 
 ### Additional Information
 
@@ -662,6 +723,29 @@ Thursday 30 July 2020 at 22:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: South Africa 2020](https://doi.org/10.1787/530e7ce0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 30 July 2020 at 22:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 16 June 2020 at 20:31
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 16 June 2020 at 19:58
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
