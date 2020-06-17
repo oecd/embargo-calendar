@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 16 June 2020 at 21:03* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 17 June 2020 at 20:49* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [15 June 2020](#15-june-2020)
+* [19 June 2020](#19-june-2020)
 * [22 June 2020](#22-june-2020)
 * [23 June 2020](#23-june-2020)
+* [25 June 2020](#25-june-2020)
 * [28 June 2020](#28-june-2020)
 * [30 June 2020](#30-june-2020)
 * [2 July 2020](#2-july-2020)
@@ -19,56 +20,34 @@ Data generated on | |
 * [21 July 2020](#21-july-2020)
 * [22 July 2020](#22-july-2020)
 * [30 July 2020](#30-july-2020)
+* [31 July 2020](#31-july-2020)
 * [1 September 2020](#1-september-2020)
 * [15 September 2020](#15-september-2020)
 
 ------
 
-# 15 June 2020
+# 19 June 2020
 
-## [Implementing Technical Regulations in Mexico](https://doi.org/10.1787/4e919492-en)
+## [Housing and inequality - The case of Luxembourg and its cross-border workers](https://doi.org/10.1787/666babc1-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 15 June 2020 at 7:00 | no launch event
+Friday 19 June 2020 at 5:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 May 2020 at 20:15
-- [x] Exported to Keepeek Monday 8 June 2020 at 20:05
-- [x] Exported to OECD.org Tuesday 16 June 2020 at 19:58
+- [x] Exported to iLibrary Wednesday 17 June 2020 at 20:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 17 June 2020 at 19:58
 
 ### Additional Information
 
-* Directorate: *Directorate for Public Governance*
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Implementando las Regulaciones Técnicas en México](https://doi.org/10.1787/1286593b-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 15 June 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 15 June 2020 at 20:25
-- [x] Exported to Keepeek Monday 15 June 2020 at 20:11
-- [x] Exported to OECD.org Tuesday 16 June 2020 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -99,29 +78,6 @@ Monday 22 June 2020 at 9:00 | no launch event
 
 ------
 
-## [Regulatory Policy in the Slovak Republic - Towards Future-Proof Regulation](https://doi.org/10.1787/ce95a880-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 June 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 5 June 2020 at 20:18
-- [x] Exported to Keepeek Friday 5 June 2020 at 20:05
-- [x] Exported to OECD.org Friday 5 June 2020 at 19:51
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
 ------
 
 # 23 June 2020
@@ -146,6 +102,33 @@ Tuesday 23 June 2020 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 25 June 2020
+
+## [Regulatory Policy in the Slovak Republic - Towards Future-Proof Regulation](https://doi.org/10.1787/ce95a880-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 June 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 17 June 2020 at 20:22
+- [x] Exported to Keepeek Wednesday 17 June 2020 at 20:10
+- [x] Exported to OECD.org Wednesday 17 June 2020 at 19:58
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -189,9 +172,9 @@ Tuesday 30 June 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 16 June 2020 at 20:31
+- [x] Exported to iLibrary Wednesday 17 June 2020 at 14:05
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 June 2020 at 19:58
+- [x] Exported to OECD.org Wednesday 17 June 2020 at 19:58
 
 ### Additional Information
 
@@ -746,6 +729,33 @@ Thursday 30 July 2020 at 22:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Format: *PDF*
+
+------
+
+------
+
+# 31 July 2020
+
+## [Improving School Quality in Norway 2020 - Progress with the Competence Development Model](https://doi.org/10.1787/16af18a0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 31 July 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
