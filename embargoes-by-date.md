@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 17 June 2020 at 20:49* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 18 June 2020 at 20:48* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [19 June 2020](#19-june-2020)
 * [22 June 2020](#22-june-2020)
@@ -22,7 +22,6 @@ Data generated on | |
 * [30 July 2020](#30-july-2020)
 * [31 July 2020](#31-july-2020)
 * [1 September 2020](#1-september-2020)
-* [15 September 2020](#15-september-2020)
 
 ------
 
@@ -763,6 +762,29 @@ Friday 31 July 2020 at 10:00 | no launch event
 
 # 1 September 2020
 
+## [Linking Indigenous Communities with Regional Development in Australia](https://doi.org/10.1787/ab4d8d52-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 1 September 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Making Dispute Resolution More Effective - MAP Peer Review Report, Singapore (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/3d152880-en)
 
 Embargo date | Launch date
@@ -940,33 +962,6 @@ Tuesday 1 September 2020 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 15 September 2020
-
-## [Linking Indigenous Communities with Regional Development in Australia](https://doi.org/10.1787/ab4d8d52-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 September 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
