@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 18 June 2020 at 20:48* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 19 June 2020 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [19 June 2020](#19-june-2020)
 * [22 June 2020](#22-june-2020)
@@ -65,7 +65,7 @@ Monday 22 June 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 11 June 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 11 June 2020 at 20:00
+- [x] Exported to OECD.org Friday 19 June 2020 at 19:58
 
 ### Additional Information
 
@@ -162,6 +162,29 @@ Sunday 28 June 2020 at 22:00 | no launch event
 
 # 30 June 2020
 
+## [Politiques agricoles : suivi et évaluation 2020](https://doi.org/10.1787/10578a8d-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 19 June 2020 at 20:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 19 June 2020 at 19:58
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Agricultural Policy Monitoring and Evaluation 2020](https://doi.org/10.1787/928181a8-en)
 
 Embargo date | Launch date
@@ -171,9 +194,9 @@ Tuesday 30 June 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 17 June 2020 at 14:05
+- [x] Exported to iLibrary Friday 19 June 2020 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 June 2020 at 19:58
+- [x] Exported to OECD.org Friday 19 June 2020 at 19:58
 
 ### Additional Information
 
