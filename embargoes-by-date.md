@@ -2,18 +2,15 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 19 June 2020 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 22 June 2020 at 20:44* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [19 June 2020](#19-june-2020)
 * [22 June 2020](#22-june-2020)
 * [23 June 2020](#23-june-2020)
 * [25 June 2020](#25-june-2020)
-* [28 June 2020](#28-june-2020)
+* [29 June 2020](#29-june-2020)
 * [30 June 2020](#30-june-2020)
 * [2 July 2020](#2-july-2020)
-* [6 July 2020](#6-july-2020)
 * [7 July 2020](#7-july-2020)
-* [8 July 2020](#8-july-2020)
 * [15 July 2020](#15-july-2020)
 * [16 July 2020](#16-july-2020)
 * [20 July 2020](#20-july-2020)
@@ -22,33 +19,6 @@ Data generated on | |
 * [30 July 2020](#30-july-2020)
 * [31 July 2020](#31-july-2020)
 * [1 September 2020](#1-september-2020)
-
-------
-
-# 19 June 2020
-
-## [Housing and inequality - The case of Luxembourg and its cross-border workers](https://doi.org/10.1787/666babc1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 19 June 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 June 2020 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 June 2020 at 19:58
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -117,8 +87,8 @@ Thursday 25 June 2020 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 June 2020 at 20:22
-- [x] Exported to Keepeek Wednesday 17 June 2020 at 20:10
+- [x] Exported to iLibrary Monday 22 June 2020 at 20:20
+- [x] Exported to Keepeek Monday 22 June 2020 at 20:09
 - [x] Exported to OECD.org Wednesday 17 June 2020 at 19:58
 
 ### Additional Information
@@ -133,13 +103,13 @@ Thursday 25 June 2020 at 8:00 | no launch event
 
 ------
 
-# 28 June 2020
+# 29 June 2020
 
 ## [SIGI 2020 Regional Report for Latin America and the Caribbean](https://doi.org/10.1787/cb7d45d1-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Sunday 28 June 2020 at 22:00 | no launch event
+Monday 29 June 2020 at 22:00 | no launch event
 
 ### Status Information
 
@@ -237,56 +207,6 @@ Thursday 2 July 2020 at 9:00 | no launch event
 
 ------
 
-# 6 July 2020
-
-## [Perspectives agricoles de l'OCDE et de la FAO 2020-2029](https://doi.org/10.1787/ccc6f09c-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 July 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD-FAO Agricultural Outlook 2020-2029](https://doi.org/10.1787/1112c23b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 July 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
 # 7 July 2020
 
 ## [OECD Employment Outlook 2020 - Worker Security and the COVID-19 Crisis](https://doi.org/10.1787/1686c758-en)
@@ -308,33 +228,6 @@ Tuesday 7 July 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 8 July 2020
-
-## [OECD Economic Surveys: Costa Rica 2020](https://doi.org/10.1787/2e0fea6c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 July 2020 at 15:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
@@ -596,9 +489,78 @@ Wednesday 15 July 2020 at 9:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Costa Rica 2020](https://doi.org/10.1787/2e0fea6c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 July 2020 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
 ------
 
 # 16 July 2020
+
+## [Perspectives agricoles de l'OCDE et de la FAO 2020-2029](https://doi.org/10.1787/ccc6f09c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 July 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD-FAO Agricultural Outlook 2020-2029](https://doi.org/10.1787/1112c23b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 July 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [OECD Economic Surveys: Greece 2020](https://doi.org/10.1787/b04b25de-en)
 
