@@ -2,14 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 23 June 2020 at 20:46* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 24 June 2020 at 20:49* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [22 June 2020](#22-june-2020)
 * [23 June 2020](#23-june-2020)
 * [25 June 2020](#25-june-2020)
 * [29 June 2020](#29-june-2020)
 * [30 June 2020](#30-june-2020)
 * [2 July 2020](#2-july-2020)
+* [6 July 2020](#6-july-2020)
 * [7 July 2020](#7-july-2020)
 * [15 July 2020](#15-july-2020)
 * [16 July 2020](#16-july-2020)
@@ -20,33 +20,6 @@ Data generated on | |
 * [31 July 2020](#31-july-2020)
 * [1 September 2020](#1-september-2020)
 * [6 June 2021](#6-june-2021)
-
-------
-
-# 22 June 2020
-
-## [Carbon pricing design: Effectiveness, efficiency and feasibility - An investment perspective](https://doi.org/10.1787/91ad6a1e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 June 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 11 June 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 June 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -79,24 +52,24 @@ Tuesday 23 June 2020 at 9:00 | no launch event
 
 # 25 June 2020
 
-## [Do sound infrastructure governance and regulation affect productivity growth? New insights from firm level data](https://doi.org/10.1787/410535403555)
+## [Technological diffusion and managing the associated economic transitions in Ireland](https://doi.org/10.1787/ca48dd68-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 25 June 2020 at 5:00 | no launch event
+Thursday 25 June 2020 at 0:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 June 2020 at 20:22
-- [x] Exported to Keepeek Friday 27 September 2019 at 21:07
-- [ ] Exported to OECD.org
+- [x] Exported to iLibrary Wednesday 24 June 2020 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 24 June 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
 
@@ -122,29 +95,6 @@ Thursday 25 June 2020 at 5:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
-
-------
-
-## [Regulatory Policy in the Slovak Republic - Towards Future-Proof Regulation](https://doi.org/10.1787/ce95a880-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 June 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 June 2020 at 20:20
-- [x] Exported to Keepeek Monday 22 June 2020 at 20:09
-- [x] Exported to OECD.org Wednesday 17 June 2020 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -211,7 +161,7 @@ Tuesday 30 June 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 23 June 2020 at 20:21
+- [x] Exported to iLibrary Wednesday 24 June 2020 at 20:21
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 23 June 2020 at 19:59
 
@@ -249,6 +199,33 @@ Thursday 2 July 2020 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 6 July 2020
+
+## [Regulatory Policy in the Slovak Republic - Towards Future-Proof Regulation](https://doi.org/10.1787/ce95a880-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 July 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 24 June 2020 at 20:21
+- [x] Exported to Keepeek Wednesday 24 June 2020 at 20:09
+- [x] Exported to OECD.org Wednesday 24 June 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -590,20 +567,20 @@ Thursday 16 July 2020 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 16 July 2020 at 8:00 | no launch event
+Thursday 16 July 2020 at 9:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 24 June 2020 at 20:21
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 24 June 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -1037,9 +1014,9 @@ Sunday 6 June 2021 at 7:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 23 June 2020 at 20:21
+- [x] Exported to iLibrary Wednesday 24 June 2020 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 June 2020 at 19:59
+- [x] Exported to OECD.org Wednesday 24 June 2020 at 19:59
 
 ### Additional Information
 
