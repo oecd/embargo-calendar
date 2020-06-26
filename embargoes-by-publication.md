@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 26 June 2020 at 2:45* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 26 June 2020 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Technological diffusion and managing the associated economic transitions in Ireland](https://doi.org/10.1787/ca48dd68-en)
 
@@ -15,7 +15,7 @@ Thursday 25 June 2020 at 0:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 24 June 2020 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 June 2020 at 19:59
+- [x] Exported to OECD.org Friday 26 June 2020 at 19:59
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Thursday 25 June 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 23 June 2020 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 June 2020 at 19:59
+- [x] Exported to OECD.org Friday 26 June 2020 at 19:59
 
 ### Additional Information
 
@@ -73,29 +73,6 @@ Friday 26 June 2020 at 9:00 | no launch event
 
 ------
 
-## [SIGI 2020 Regional Report for Latin America and the Caribbean](https://doi.org/10.1787/cb7d45d1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2020 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Politiques agricoles : suivi et évaluation 2020 (version abrégée)](https://doi.org/10.1787/10578a8d-fr)
 
 Embargo date | Launch date
@@ -105,17 +82,17 @@ Tuesday 30 June 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 23 June 2020 at 20:21
+- [x] Exported to iLibrary Friday 26 June 2020 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 June 2020 at 19:59
+- [x] Exported to OECD.org Friday 26 June 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -129,7 +106,7 @@ Tuesday 30 June 2020 at 9:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 26 June 2020 at 2:19
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Thursday 25 June 2020 at 20:10
 - [x] Exported to OECD.org Thursday 25 June 2020 at 20:00
 
 ### Additional Information
@@ -176,7 +153,7 @@ Monday 6 July 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 24 June 2020 at 20:21
 - [x] Exported to Keepeek Wednesday 24 June 2020 at 20:09
-- [x] Exported to OECD.org Wednesday 24 June 2020 at 19:59
+- [x] Exported to OECD.org Friday 26 June 2020 at 19:59
 
 ### Additional Information
 
@@ -276,7 +253,7 @@ Wednesday 15 July 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -345,7 +322,7 @@ Wednesday 15 July 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -556,6 +533,29 @@ Thursday 16 July 2020 at 22:00 | no launch event
 
 ------
 
+## [SIGI 2020 Regional Report for Latin America and the Caribbean](https://doi.org/10.1787/cb7d45d1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 19 July 2020 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 26 June 2020 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 26 June 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [OECD Economic Surveys: Slovenia 2020](https://doi.org/10.1787/a4209041-en)
 
 Embargo date | Launch date
@@ -657,15 +657,15 @@ Thursday 30 July 2020 at 22:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 26 June 2020 at 20:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 26 June 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
