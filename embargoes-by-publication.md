@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 24 June 2020 at 20:49* | [See embargoes by date](embargoes-by-date.md) |
-
-## [PISA 2018 Results (Volume V) - Effective Policies, Successful Schools](https://doi.org/10.1787/ca768d40-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 23 June 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
+| *Friday 26 June 2020 at 2:45* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Technological diffusion and managing the associated economic transitions in Ireland](https://doi.org/10.1787/ca48dd68-en)
 
@@ -66,6 +43,29 @@ Thursday 25 June 2020 at 5:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Foreign language teachers as ambassadors of multilingualism and international exchange - Evidence from TALIS 2018](https://doi.org/10.1787/808f11a4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 26 June 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 26 June 2020 at 2:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 25 June 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -127,16 +127,16 @@ Tuesday 30 June 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 24 June 2020 at 20:21
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 26 June 2020 at 2:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 June 2020 at 19:59
+- [x] Exported to OECD.org Thursday 25 June 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -151,15 +151,15 @@ Thursday 2 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 26 June 2020 at 2:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 25 June 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -556,29 +556,6 @@ Thursday 16 July 2020 at 22:00 | no launch event
 
 ------
 
-## [Accelerating Climate Action in Israel - Refocusing Mitigation Policies for the Electricity, Residential and Transport Sectors](https://doi.org/10.1787/fb32aabd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 July 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [OECD Economic Surveys: Slovenia 2020](https://doi.org/10.1787/a4209041-en)
 
 Embargo date | Launch date
@@ -645,6 +622,29 @@ Wednesday 22 July 2020 at 15:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Accelerating Climate Action in Israel - Refocusing Mitigation Policies for the Electricity, Residential and Transport Sectors](https://doi.org/10.1787/fb32aabd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 July 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 26 June 2020 at 2:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 25 June 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
