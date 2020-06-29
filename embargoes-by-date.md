@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 26 June 2020 at 20:41* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 29 June 2020 at 21:04* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [25 June 2020](#25-june-2020)
-* [26 June 2020](#26-june-2020)
 * [30 June 2020](#30-june-2020)
 * [2 July 2020](#2-july-2020)
 * [6 July 2020](#6-july-2020)
@@ -23,83 +21,6 @@ Data generated on | |
 
 ------
 
-# 25 June 2020
-
-## [Technological diffusion and managing the associated economic transitions in Ireland](https://doi.org/10.1787/ca48dd68-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 June 2020 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 24 June 2020 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 June 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Who can log in? The importance of skills for the feasibility of teleworking arrangements across OECD countries](https://doi.org/10.1787/3f115a10-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 June 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 23 June 2020 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 June 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Centre for Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 26 June 2020
-
-## [Foreign language teachers as ambassadors of multilingualism and international exchange - Evidence from TALIS 2018](https://doi.org/10.1787/808f11a4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 26 June 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 26 June 2020 at 2:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 25 June 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-------
-
 # 30 June 2020
 
 ## [Politiques agricoles : suivi et évaluation 2020 (version abrégée)](https://doi.org/10.1787/10578a8d-fr)
@@ -110,10 +31,10 @@ Tuesday 30 June 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 26 June 2020 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 June 2020 at 19:59
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 29 June 2020 at 20:35
+- [x] Exported to Keepeek Monday 29 June 2020 at 20:20
+- [x] Exported to OECD.org Monday 29 June 2020 at 20:06
 
 ### Additional Information
 
@@ -136,7 +57,7 @@ Tuesday 30 June 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 26 June 2020 at 2:19
 - [x] Exported to Keepeek Thursday 25 June 2020 at 20:10
-- [x] Exported to OECD.org Thursday 25 June 2020 at 20:00
+- [x] Exported to OECD.org Monday 29 June 2020 at 20:06
 
 ### Additional Information
 
@@ -189,7 +110,7 @@ Monday 6 July 2020 at 8:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 24 June 2020 at 20:21
-- [x] Exported to Keepeek Wednesday 24 June 2020 at 20:09
+- [x] Exported to Keepeek Friday 26 June 2020 at 23:06
 - [x] Exported to OECD.org Friday 26 June 2020 at 19:59
 
 ### Additional Information
@@ -215,9 +136,9 @@ Tuesday 7 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 16 June 2020 at 20:31
+- [x] Exported to iLibrary Monday 29 June 2020 at 20:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 June 2020 at 19:58
+- [x] Exported to OECD.org Monday 29 June 2020 at 20:06
 
 ### Additional Information
 
@@ -522,15 +443,15 @@ Thursday 16 July 2020 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 29 June 2020 at 20:35
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 29 June 2020 at 20:06
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -545,9 +466,9 @@ Thursday 16 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 24 June 2020 at 20:21
+- [x] Exported to iLibrary Monday 29 June 2020 at 20:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 June 2020 at 19:59
+- [x] Exported to OECD.org Monday 29 June 2020 at 20:06
 
 ### Additional Information
 
@@ -649,15 +570,15 @@ Wednesday 22 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 29 June 2020 at 20:35
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 29 June 2020 at 20:06
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
