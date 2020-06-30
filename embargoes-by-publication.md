@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 29 June 2020 at 21:04* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 30 June 2020 at 21:06* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Politiques agricoles : suivi et évaluation 2020 (version abrégée)](https://doi.org/10.1787/10578a8d-fr)
 
@@ -13,7 +13,7 @@ Tuesday 30 June 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 29 June 2020 at 20:35
+- [x] Exported to iLibrary Tuesday 30 June 2020 at 14:07
 - [x] Exported to Keepeek Monday 29 June 2020 at 20:20
 - [x] Exported to OECD.org Monday 29 June 2020 at 20:06
 
@@ -36,9 +36,9 @@ Tuesday 30 June 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 26 June 2020 at 2:19
+- [x] Exported to iLibrary Tuesday 30 June 2020 at 20:31
 - [x] Exported to Keepeek Thursday 25 June 2020 at 20:10
-- [x] Exported to OECD.org Monday 29 June 2020 at 20:06
+- [x] Exported to OECD.org Tuesday 30 June 2020 at 20:01
 
 ### Additional Information
 
@@ -58,41 +58,87 @@ Thursday 2 July 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 26 June 2020 at 2:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 25 June 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 30 June 2020 at 20:31
+- [x] Exported to Keepeek Tuesday 30 June 2020 at 20:13
+- [x] Exported to OECD.org Tuesday 30 June 2020 at 20:01
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
 
-## [Regulatory Policy in the Slovak Republic - Towards Future-Proof Regulation](https://doi.org/10.1787/ce95a880-en)
+## [Assessing the efficiency of environmental policy design and evaluation: Results from a 2018 cross-country survey](https://doi.org/10.1787/482f8fbe-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 6 July 2020 at 8:00 | no launch event
+Friday 3 July 2020 at 0:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 24 June 2020 at 20:21
-- [x] Exported to Keepeek Friday 26 June 2020 at 23:06
-- [x] Exported to OECD.org Friday 26 June 2020 at 19:59
+- [x] Exported to iLibrary Tuesday 30 June 2020 at 20:31
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 30 June 2020 at 20:01
 
 ### Additional Information
 
-* Directorate: *Directorate for Public Governance*
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Education in Saudi Arabia](https://doi.org/10.1787/76df15a2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 July 2020 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 30 June 2020 at 20:31
+- [x] Exported to Keepeek Tuesday 30 June 2020 at 20:13
+- [x] Exported to OECD.org Tuesday 30 June 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Format: *PDF*
+
+------
+
+## [Do students learn in co-operative or competitive environments](https://doi.org/10.1787/e7a5f3e4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 July 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 30 June 2020 at 20:31
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 30 June 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -116,6 +162,29 @@ Tuesday 7 July 2020 at 9:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Regulatory Policy in the Slovak Republic - Towards Future-Proof Regulation](https://doi.org/10.1787/ce95a880-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 July 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 30 June 2020 at 20:31
+- [x] Exported to Keepeek Tuesday 30 June 2020 at 20:13
+- [x] Exported to OECD.org Tuesday 30 June 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -404,7 +473,7 @@ Thursday 16 July 2020 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 29 June 2020 at 20:35
+- [x] Exported to iLibrary Tuesday 30 June 2020 at 20:31
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 29 June 2020 at 20:06
 
@@ -852,28 +921,5 @@ Tuesday 1 September 2020 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
-
-------
-
-## [Education in Saudi Arabia](https://doi.org/10.1787/76df15a2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 6 June 2021 at 7:30 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 24 June 2020 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 June 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
 
 ------
