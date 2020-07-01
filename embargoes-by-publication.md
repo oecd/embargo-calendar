@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 30 June 2020 at 21:06* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 1 July 2020 at 20:53* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Politiques agricoles : suivi et évaluation 2020 (version abrégée)](https://doi.org/10.1787/10578a8d-fr)
 
@@ -15,7 +15,7 @@ Tuesday 30 June 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 30 June 2020 at 14:07
 - [x] Exported to Keepeek Monday 29 June 2020 at 20:20
-- [x] Exported to OECD.org Monday 29 June 2020 at 20:06
+- [x] Exported to OECD.org Wednesday 1 July 2020 at 19:59
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Tuesday 30 June 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 30 June 2020 at 20:31
 - [x] Exported to Keepeek Thursday 25 June 2020 at 20:10
-- [x] Exported to OECD.org Tuesday 30 June 2020 at 20:01
+- [x] Exported to OECD.org Wednesday 1 July 2020 at 19:59
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Thursday 2 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 30 June 2020 at 20:31
 - [x] Exported to Keepeek Tuesday 30 June 2020 at 20:13
-- [x] Exported to OECD.org Tuesday 30 June 2020 at 20:01
+- [x] Exported to OECD.org Wednesday 1 July 2020 at 19:59
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Friday 3 July 2020 at 0:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 30 June 2020 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 30 June 2020 at 20:01
+- [x] Exported to OECD.org Wednesday 1 July 2020 at 19:59
 
 ### Additional Information
 
@@ -441,6 +441,29 @@ Wednesday 15 July 2020 at 9:00 | no launch event
 
 ------
 
+## [Estudios Económicos de la OCDE: Costa Rica 2020](https://doi.org/10.1787/84cbb575-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 July 2020 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 1 July 2020 at 20:25
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 1 July 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Spanish*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Costa Rica 2020](https://doi.org/10.1787/2e0fea6c-en)
 
 Embargo date | Launch date
@@ -450,15 +473,15 @@ Wednesday 15 July 2020 at 15:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 1 July 2020 at 20:25
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 1 July 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -495,18 +518,18 @@ Thursday 16 July 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 29 June 2020 at 20:35
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 29 June 2020 at 20:06
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 1 July 2020 at 20:25
+- [x] Exported to Keepeek Wednesday 1 July 2020 at 20:11
+- [x] Exported to OECD.org Wednesday 1 July 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -519,9 +542,9 @@ Thursday 16 July 2020 at 22:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 11 June 2020 at 20:26
+- [x] Exported to iLibrary Wednesday 1 July 2020 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 11 June 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 1 July 2020 at 19:59
 
 ### Additional Information
 
