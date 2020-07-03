@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 2 July 2020 at 21:05* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 3 July 2020 at 20:52* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [2 July 2020](#2-july-2020)
 * [3 July 2020](#3-july-2020)
@@ -36,7 +36,7 @@ Thursday 2 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 30 June 2020 at 20:31
 - [x] Exported to Keepeek Tuesday 30 June 2020 at 20:13
-- [x] Exported to OECD.org Wednesday 1 July 2020 at 19:59
+- [x] Exported to OECD.org Friday 3 July 2020 at 19:58
 
 ### Additional Information
 
@@ -90,7 +90,7 @@ Monday 6 July 2020 at 7:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 30 June 2020 at 20:31
 - [x] Exported to Keepeek Tuesday 30 June 2020 at 20:13
-- [x] Exported to OECD.org Tuesday 30 June 2020 at 20:01
+- [x] Exported to OECD.org Friday 3 July 2020 at 19:58
 
 ### Additional Information
 
@@ -113,7 +113,7 @@ Monday 6 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 30 June 2020 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 30 June 2020 at 20:01
+- [x] Exported to OECD.org Friday 3 July 2020 at 19:58
 
 ### Additional Information
 
@@ -149,6 +149,29 @@ Tuesday 7 July 2020 at 9:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Multilingual Summaries for OECD Employment Outlook 2020](https://doi.org/10.1787/76810020-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 7 July 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 3 July 2020 at 20:26
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* 5 Languages: [German](https://doi.org/10.1787/9435c9b1-de), [English](https://doi.org/10.1787/76810020-en), [Japanese](https://doi.org/10.1787/f38f2941-ja), [Spanish](https://doi.org/10.1787/a1ba8eae-es), [French](https://doi.org/10.1787/da705b26-fr)
+* Availability: *Published*
+* Type of publication: *Summary*
+* Format: *PDF*
 
 ------
 
@@ -194,7 +217,7 @@ Wednesday 15 July 2020 at 15:00 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Wednesday 1 July 2020 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 1 July 2020 at 19:59
+- [x] Exported to OECD.org Friday 3 July 2020 at 19:58
 
 ### Additional Information
 
@@ -279,29 +302,6 @@ Thursday 16 July 2020 at 9:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Greece 2020](https://doi.org/10.1787/b04b25de-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 July 2020 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 1 July 2020 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 1 July 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
 ------
 
 # 19 July 2020
@@ -379,6 +379,29 @@ Wednesday 22 July 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Greece 2020](https://doi.org/10.1787/b04b25de-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 22 July 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 3 July 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 3 July 2020 at 19:58
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
