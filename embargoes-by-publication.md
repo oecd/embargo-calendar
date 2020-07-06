@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 3 July 2020 at 20:52* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Quality Early Childhood Education and Care for Children Under Age 3 - Results from the Starting Strong Survey 2018](https://doi.org/10.1787/99f8bc95-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 2 July 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 30 June 2020 at 20:31
-- [x] Exported to Keepeek Tuesday 30 June 2020 at 20:13
-- [x] Exported to OECD.org Friday 3 July 2020 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Assessing the efficiency of environmental policy design and evaluation: Results from a 2018 cross-country survey](https://doi.org/10.1787/482f8fbe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 3 July 2020 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 30 June 2020 at 20:31
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 1 July 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Monday 6 July 2020 at 20:44* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Education in Saudi Arabia](https://doi.org/10.1787/76df15a2-en)
 
@@ -104,18 +58,18 @@ Tuesday 7 July 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 July 2020 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 29 June 2020 at 20:06
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 6 July 2020 at 20:21
+- [x] Exported to Keepeek Monday 6 July 2020 at 20:08
+- [x] Exported to OECD.org Monday 6 July 2020 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF*
 
 ------
 
@@ -128,14 +82,14 @@ Tuesday 7 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 July 2020 at 20:26
+- [x] Exported to iLibrary Monday 6 July 2020 at 20:21
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
-* 5 Languages: [German](https://doi.org/10.1787/9435c9b1-de), [English](https://doi.org/10.1787/76810020-en), [Japanese](https://doi.org/10.1787/f38f2941-ja), [Spanish](https://doi.org/10.1787/a1ba8eae-es), [French](https://doi.org/10.1787/da705b26-fr)
+* 6 Languages: [German](https://doi.org/10.1787/9435c9b1-de), [English](https://doi.org/10.1787/76810020-en), [Japanese](https://doi.org/10.1787/f38f2941-ja), [Spanish](https://doi.org/10.1787/a1ba8eae-es), [Portuguese](https://doi.org/10.1787/4e8e43c2-pt), [French](https://doi.org/10.1787/da705b26-fr)
 * Availability: *Published*
 * Type of publication: *Summary*
 * Format: *PDF*
@@ -162,6 +116,29 @@ Monday 13 July 2020 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Blockchain for SMEs and entrepreneurs in Italy](https://doi.org/10.1787/f241e9cc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 July 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 6 July 2020 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 6 July 2020 at 19:56
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -245,7 +222,7 @@ Thursday 16 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 2 July 2020 at 20:33
 - [x] Exported to Keepeek Wednesday 1 July 2020 at 20:11
-- [x] Exported to OECD.org Wednesday 1 July 2020 at 19:59
+- [x] Exported to OECD.org Saturday 4 July 2020 at 15:17
 
 ### Additional Information
 
@@ -312,9 +289,9 @@ Wednesday 22 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 29 June 2020 at 20:35
+- [x] Exported to iLibrary Monday 6 July 2020 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 29 June 2020 at 20:06
+- [x] Exported to OECD.org Monday 6 July 2020 at 19:56
 
 ### Additional Information
 
