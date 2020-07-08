@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 7 July 2020 at 21:09* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Education in Saudi Arabia](https://doi.org/10.1787/76df15a2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 July 2020 at 7:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 30 June 2020 at 20:31
-- [x] Exported to Keepeek Tuesday 30 June 2020 at 20:13
-- [x] Exported to OECD.org Tuesday 7 July 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Do students learn in co-operative or competitive environments](https://doi.org/10.1787/e7a5f3e4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 July 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 30 June 2020 at 20:31
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 July 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Wednesday 8 July 2020 at 21:01* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Employment Outlook 2020 - Worker Security and the COVID-19 Crisis](https://doi.org/10.1787/1686c758-en)
 
@@ -61,7 +15,7 @@ Tuesday 7 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 6 July 2020 at 20:21
 - [x] Exported to Keepeek Monday 6 July 2020 at 20:08
-- [x] Exported to OECD.org Monday 6 July 2020 at 19:56
+- [x] Exported to OECD.org Wednesday 8 July 2020 at 20:03
 
 ### Additional Information
 
@@ -119,6 +73,29 @@ Thursday 9 July 2020 at 5:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: United States 2020](https://doi.org/10.1787/12323be9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 9 July 2020 at 16:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 8 July 2020 at 20:32
+- [x] Exported to Keepeek Wednesday 8 July 2020 at 20:15
+- [x] Exported to OECD.org Wednesday 8 July 2020 at 20:03
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Regulatory Policy in the Slovak Republic - Towards Future-Proof Regulation](https://doi.org/10.1787/ce95a880-en)
 
 Embargo date | Launch date
@@ -173,16 +150,16 @@ Wednesday 15 July 2020 at 15:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 1 July 2020 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 July 2020 at 19:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 8 July 2020 at 20:32
+- [x] Exported to Keepeek Wednesday 8 July 2020 at 20:15
+- [x] Exported to OECD.org Wednesday 8 July 2020 at 20:03
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -196,16 +173,16 @@ Wednesday 15 July 2020 at 15:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 July 2020 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 1 July 2020 at 19:59
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 8 July 2020 at 20:32
+- [x] Exported to Keepeek Wednesday 8 July 2020 at 20:15
+- [x] Exported to OECD.org Wednesday 8 July 2020 at 20:03
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -219,16 +196,16 @@ Thursday 16 July 2020 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 7 July 2020 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 July 2020 at 20:01
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 8 July 2020 at 20:32
+- [x] Exported to Keepeek Wednesday 8 July 2020 at 20:15
+- [x] Exported to OECD.org Wednesday 8 July 2020 at 20:03
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -238,14 +215,14 @@ Thursday 16 July 2020 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 16 July 2020 at 9:00 | no launch event
+Thursday 16 July 2020 at 8:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 2 July 2020 at 20:33
-- [x] Exported to Keepeek Wednesday 1 July 2020 at 20:11
-- [x] Exported to OECD.org Saturday 4 July 2020 at 15:17
+- [x] Exported to iLibrary Wednesday 8 July 2020 at 20:32
+- [x] Exported to Keepeek Wednesday 8 July 2020 at 20:15
+- [x] Exported to OECD.org Wednesday 8 July 2020 at 20:03
 
 ### Additional Information
 
@@ -694,29 +671,6 @@ Thursday 30 July 2020 at 22:00 | no launch event
 
 ------
 
-## [Improving School Quality in Norway 2020 - Progress with the Competence Development Model](https://doi.org/10.1787/16af18a0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 31 July 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Anguilla 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/ac228609-en)
 
 Embargo date | Launch date
@@ -917,6 +871,29 @@ Wednesday 12 August 2020 at 12:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Improving School Quality in Norway 2020 - Progress with the Competence Development Model](https://doi.org/10.1787/16af18a0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 31 August 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
