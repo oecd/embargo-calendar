@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 8 July 2020 at 21:01* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 9 July 2020 at 21:12* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [7 July 2020](#7-july-2020)
 * [9 July 2020](#9-july-2020)
 * [13 July 2020](#13-july-2020)
 * [15 July 2020](#15-july-2020)
@@ -12,6 +11,7 @@ Data generated on | |
 * [19 July 2020](#19-july-2020)
 * [21 July 2020](#21-july-2020)
 * [22 July 2020](#22-july-2020)
+* [23 July 2020](#23-july-2020)
 * [27 July 2020](#27-july-2020)
 * [29 July 2020](#29-july-2020)
 * [30 July 2020](#30-july-2020)
@@ -19,56 +19,7 @@ Data generated on | |
 * [31 August 2020](#31-august-2020)
 * [1 September 2020](#1-september-2020)
 * [8 September 2020](#8-september-2020)
-
-------
-
-# 7 July 2020
-
-## [OECD Employment Outlook 2020 - Worker Security and the COVID-19 Crisis](https://doi.org/10.1787/1686c758-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 7 July 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 6 July 2020 at 20:21
-- [x] Exported to Keepeek Monday 6 July 2020 at 20:08
-- [x] Exported to OECD.org Wednesday 8 July 2020 at 20:03
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF*
-
-------
-
-## [Multilingual Summaries for OECD Employment Outlook 2020](https://doi.org/10.1787/76810020-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 7 July 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 6 July 2020 at 20:21
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* 6 Languages: [German](https://doi.org/10.1787/9435c9b1-de), [English](https://doi.org/10.1787/76810020-en), [Japanese](https://doi.org/10.1787/f38f2941-ja), [Spanish](https://doi.org/10.1787/a1ba8eae-es), [Portuguese](https://doi.org/10.1787/4e8e43c2-pt), [French](https://doi.org/10.1787/da705b26-fr)
-* Availability: *Published*
-* Type of publication: *Summary*
-* Format: *PDF*
-
-------
+* [5 October 2020](#5-october-2020)
 
 ------
 
@@ -83,15 +34,15 @@ Thursday 9 July 2020 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 9 July 2020 at 20:34
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 9 July 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
 
@@ -106,7 +57,7 @@ Thursday 9 July 2020 at 16:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 8 July 2020 at 20:32
+- [x] Exported to iLibrary Thursday 9 July 2020 at 20:34
 - [x] Exported to Keepeek Wednesday 8 July 2020 at 20:15
 - [x] Exported to OECD.org Wednesday 8 July 2020 at 20:03
 
@@ -234,7 +185,7 @@ Thursday 16 July 2020 at 8:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 8 July 2020 at 20:32
-- [x] Exported to Keepeek Wednesday 8 July 2020 at 20:15
+- [x] Exported to Keepeek Thursday 9 July 2020 at 20:13
 - [x] Exported to OECD.org Wednesday 8 July 2020 at 20:03
 
 ### Additional Information
@@ -328,29 +279,6 @@ Tuesday 21 July 2020 at 22:00 | no launch event
 
 # 22 July 2020
 
-## [Revenue Statistics in Asian and Pacific Economies 2020](https://doi.org/10.1787/d47d0ae3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 22 July 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 6 July 2020 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 July 2020 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [OECD Economic Surveys: Greece 2020](https://doi.org/10.1787/b04b25de-en)
 
 Embargo date | Launch date
@@ -393,6 +321,33 @@ Wednesday 22 July 2020 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 23 July 2020
+
+## [Revenue Statistics in Asian and Pacific Economies 2020](https://doi.org/10.1787/d47d0ae3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 23 July 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 9 July 2020 at 20:34
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 9 July 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -1200,6 +1155,33 @@ Tuesday 8 September 2020 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 5 October 2020
+
+## [OECD Environmental Performance Reviews: Greece 2020](https://doi.org/10.1787/cec20289-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 5 October 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
