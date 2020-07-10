@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 9 July 2020 at 21:12* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 10 July 2020 at 21:02* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [9 July 2020](#9-july-2020)
 * [13 July 2020](#13-july-2020)
@@ -36,7 +36,7 @@ Thursday 9 July 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 9 July 2020 at 20:34
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 July 2020 at 20:00
+- [x] Exported to OECD.org Friday 10 July 2020 at 20:00
 
 ### Additional Information
 
@@ -58,8 +58,8 @@ Thursday 9 July 2020 at 16:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 9 July 2020 at 20:34
-- [x] Exported to Keepeek Wednesday 8 July 2020 at 20:15
-- [x] Exported to OECD.org Wednesday 8 July 2020 at 20:03
+- [x] Exported to Keepeek Friday 10 July 2020 at 20:15
+- [x] Exported to OECD.org Friday 10 July 2020 at 20:00
 
 ### Additional Information
 
@@ -86,7 +86,7 @@ Monday 13 July 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 30 June 2020 at 20:31
 - [x] Exported to Keepeek Tuesday 30 June 2020 at 20:13
-- [x] Exported to OECD.org Tuesday 30 June 2020 at 20:01
+- [x] Exported to OECD.org Friday 10 July 2020 at 20:00
 
 ### Additional Information
 
@@ -101,6 +101,29 @@ Monday 13 July 2020 at 8:00 | no launch event
 ------
 
 # 15 July 2020
+
+## [How far are OECD countries from achieving SDG targets for women and girls?  - Applying a gender lens to measuring distance to SDG targets](https://doi.org/10.1787/17a25070-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 July 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 10 July 2020 at 20:32
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 10 July 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Statistics and Data Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Blockchain for SMEs and entrepreneurs in Italy](https://doi.org/10.1787/f241e9cc-en)
 
