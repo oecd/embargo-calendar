@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 10 July 2020 at 21:02* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Agriculture and water policy changes - Stocktaking and alignment with OECD and G20 recommendations](https://doi.org/10.1787/f35e64af-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 9 July 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 9 July 2020 at 20:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 July 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: United States 2020](https://doi.org/10.1787/12323be9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 9 July 2020 at 16:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 9 July 2020 at 20:34
-- [x] Exported to Keepeek Friday 10 July 2020 at 20:15
-- [x] Exported to OECD.org Friday 10 July 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
+| *Monday 13 July 2020 at 20:33* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Regulatory Policy in the Slovak Republic - Towards Future-Proof Regulation](https://doi.org/10.1787/ce95a880-en)
 
