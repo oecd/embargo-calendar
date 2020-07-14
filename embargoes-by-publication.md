@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 13 July 2020 at 20:33* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 14 July 2020 at 20:31* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Regulatory Policy in the Slovak Republic - Towards Future-Proof Regulation](https://doi.org/10.1787/ce95a880-en)
 
