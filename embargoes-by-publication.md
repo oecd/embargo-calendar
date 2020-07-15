@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 14 July 2020 at 20:31* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Regulatory Policy in the Slovak Republic - Towards Future-Proof Regulation](https://doi.org/10.1787/ce95a880-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 July 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 30 June 2020 at 20:31
-- [x] Exported to Keepeek Tuesday 30 June 2020 at 20:13
-- [x] Exported to OECD.org Friday 10 July 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Wednesday 15 July 2020 at 20:51* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [How far are OECD countries from achieving SDG targets for women and girls?  - Applying a gender lens to measuring distance to SDG targets](https://doi.org/10.1787/17a25070-en)
 
@@ -50,40 +27,17 @@ Wednesday 15 July 2020 at 5:00 | no launch event
 
 ------
 
-## [Blockchain for SMEs and entrepreneurs in Italy](https://doi.org/10.1787/f241e9cc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 July 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 6 July 2020 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 July 2020 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
 ## [Estudios Económicos de la OCDE: Costa Rica 2020](https://doi.org/10.1787/84cbb575-es)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 15 July 2020 at 15:00 | no launch event
+Wednesday 15 July 2020 at 14:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 8 July 2020 at 20:32
-- [x] Exported to Keepeek Wednesday 8 July 2020 at 20:15
+- [x] Exported to iLibrary Wednesday 15 July 2020 at 20:22
+- [x] Exported to Keepeek Wednesday 15 July 2020 at 20:05
 - [x] Exported to OECD.org Wednesday 8 July 2020 at 20:03
 
 ### Additional Information
@@ -100,13 +54,13 @@ Wednesday 15 July 2020 at 15:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 15 July 2020 at 15:00 | no launch event
+Wednesday 15 July 2020 at 14:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 8 July 2020 at 20:32
-- [x] Exported to Keepeek Wednesday 8 July 2020 at 20:15
+- [x] Exported to iLibrary Wednesday 15 July 2020 at 20:22
+- [x] Exported to Keepeek Wednesday 15 July 2020 at 20:05
 - [x] Exported to OECD.org Wednesday 8 July 2020 at 20:03
 
 ### Additional Information
@@ -174,7 +128,7 @@ Sunday 19 July 2020 at 22:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 26 June 2020 at 20:19
+- [x] Exported to iLibrary Wednesday 15 July 2020 at 20:22
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 26 June 2020 at 19:59
 
@@ -184,7 +138,7 @@ Sunday 19 July 2020 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -192,12 +146,12 @@ Sunday 19 July 2020 at 22:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 21 July 2020 at 22:00 | no launch event
+Monday 20 July 2020 at 10:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 11 June 2020 at 20:26
+- [x] Exported to iLibrary Wednesday 15 July 2020 at 20:22
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 11 June 2020 at 20:00
 
@@ -207,7 +161,7 @@ Tuesday 21 July 2020 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -223,29 +177,6 @@ Wednesday 22 July 2020 at 9:00 | no launch event
 - [x] Exported to iLibrary Friday 3 July 2020 at 20:26
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 3 July 2020 at 19:58
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Israel 2020](https://doi.org/10.1787/d6a7d907-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 22 July 2020 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 July 2020 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 July 2020 at 20:01
 
 ### Additional Information
 
@@ -1036,6 +967,29 @@ Tuesday 1 September 2020 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Blockchain for SMEs and entrepreneurs in Italy](https://doi.org/10.1787/f241e9cc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 4 September 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 15 July 2020 at 20:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 6 July 2020 at 19:56
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
