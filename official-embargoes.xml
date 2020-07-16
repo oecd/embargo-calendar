@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2020-07-15T20:51:20.0212986+02:00">
+<report name="official-embargoes" generated="2020-07-16T20:49:02.53198+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -33,7 +33,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-07-10T18:32:37Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-07-10T18:00:58Z</cell>
+    <cell name="oecd.org last export date">2020-07-16T06:58:46Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -373,9 +373,9 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-07-15T18:22:24Z</cell>
     <cell name="freepreview last export date">2020-07-15T18:05:40Z</cell>
-    <cell name="oecd.org last export date">2020-07-08T18:03:46Z</cell>
+    <cell name="oecd.org last export date">2020-07-16T17:58:48Z</cell>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2020-07-15T19:09:50Z</cell>
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b21a18ff</cell>
@@ -393,9 +393,9 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-07-15T18:22:24Z</cell>
     <cell name="freepreview last export date">2020-07-15T18:05:40Z</cell>
-    <cell name="oecd.org last export date">2020-07-08T18:03:46Z</cell>
+    <cell name="oecd.org last export date">2020-07-16T17:58:48Z</cell>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2020-07-15T19:09:50Z</cell>
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f0b481b0</cell>
@@ -4933,7 +4933,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-07-08T18:32:52Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-07-08T18:03:46Z</cell>
+    <cell name="oecd.org last export date">2020-07-16T17:58:48Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -5073,7 +5073,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-07-08T18:32:52Z</cell>
     <cell name="freepreview last export date">2020-07-09T18:13:46Z</cell>
-    <cell name="oecd.org last export date">2020-07-08T18:03:46Z</cell>
+    <cell name="oecd.org last export date">2020-07-16T17:58:48Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -6113,7 +6113,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-07-08T18:32:52Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-07-08T18:03:46Z</cell>
+    <cell name="oecd.org last export date">2020-07-16T17:58:48Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -7751,9 +7751,9 @@
     <cell name="date of publication">2020-07-16</cell>
     <cell name="embargo date">2020-07-16T08:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-07-08T18:32:52Z</cell>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-07-08T18:03:46Z</cell>
+    <cell name="oecd.org last export date">2020-07-16T17:58:48Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -8471,9 +8471,9 @@
     <cell name="date of publication">2020-07-16</cell>
     <cell name="embargo date">2020-07-16T08:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-07-08T18:32:52Z</cell>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-07-08T18:03:46Z</cell>
+    <cell name="oecd.org last export date">2020-07-16T17:58:48Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -9862,26 +9862,6 @@
   </row>
   <row index="493">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/c8e0a1c0-en</cell>
-    <cell name="title">Statistical annex (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2020-07-16</cell>
-    <cell name="embargo date">2020-07-16T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-07-08T18:32:52Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/37d4dac4</cell>
-  </row>
-  <row index="494">
-    <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1c83bfb0-en</cell>
     <cell name="title">World cereal prices (en)</cell>
     <cell name="subtitle"/>
@@ -9900,7 +9880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6fcd64a8</cell>
   </row>
-  <row index="495">
+  <row index="494">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4777cb60-en</cell>
     <cell name="title">Overview (en)</cell>
@@ -9920,7 +9900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/df5681dd</cell>
   </row>
-  <row index="496">
+  <row index="495">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c6ff7761-en</cell>
     <cell name="title">World biofuel projections (en)</cell>
@@ -9940,7 +9920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/25882cf4</cell>
   </row>
-  <row index="497">
+  <row index="496">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/d023798c-en</cell>
     <cell name="title">Butter projections: Production and trade (en)</cell>
@@ -9960,7 +9940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/256edbd9</cell>
   </row>
-  <row index="498">
+  <row index="497">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1112c23b-en</cell>
     <cell name="title">OECD-FAO Agricultural Outlook 2020-2029 (en)</cell>
@@ -9971,7 +9951,7 @@
     <cell name="date of publication">2020-07-16</cell>
     <cell name="embargo date">2020-07-16T08:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-07-08T18:32:52Z</cell>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -9980,7 +9960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8a074c65</cell>
   </row>
-  <row index="499">
+  <row index="498">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b62e023c-en</cell>
     <cell name="title">World sugar projections (en)</cell>
@@ -10000,7 +9980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2d050ec0</cell>
   </row>
-  <row index="500">
+  <row index="499">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/38394e7c-en</cell>
     <cell name="title">Fresh dairy products projections: Production and food consumption (en)</cell>
@@ -10020,7 +10000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/59863fbf</cell>
   </row>
-  <row index="501">
+  <row index="500">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/cca4d490-fr</cell>
     <cell name="title">Projections du soja : Consommation, trituration domestique (fr)</cell>
@@ -10040,7 +10020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d410b9d</cell>
   </row>
-  <row index="502">
+  <row index="501">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/341aca46-fr</cell>
     <cell name="title">Projections de la viande : Production et échanges (fr)</cell>
@@ -10060,7 +10040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ff28f938</cell>
   </row>
-  <row index="503">
+  <row index="502">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/29ae4c26-en</cell>
     <cell name="title">World consumption of major tropical fruits (en)</cell>
@@ -10080,7 +10060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c3f9e063</cell>
   </row>
-  <row index="504">
+  <row index="503">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/7d1ba08b-en</cell>
     <cell name="title">Sugar projections: Production and trade (en)</cell>
@@ -10100,7 +10080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7ac6bd6e</cell>
   </row>
-  <row index="505">
+  <row index="504">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/71871011-en</cell>
     <cell name="title">Evolution of world sugar prices (en)</cell>
@@ -10120,7 +10100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ea4b8c85</cell>
   </row>
-  <row index="506">
+  <row index="505">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/510173a4-fr</cell>
     <cell name="title">Sucre (fr)</cell>
@@ -10140,7 +10120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ceb181c7</cell>
   </row>
-  <row index="507">
+  <row index="506">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/560d8238-fr</cell>
     <cell name="title">Hypothèses concernant le marché du bétail (fr)</cell>
@@ -10160,7 +10140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/16a7ef3b</cell>
   </row>
-  <row index="508">
+  <row index="507">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3d2802e0-fr</cell>
     <cell name="title">Projections des tourteaux protéiques : Consommation (fr)</cell>
@@ -10180,7 +10160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2f48523b</cell>
   </row>
-  <row index="509">
+  <row index="508">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/72fefe8b-fr</cell>
     <cell name="title">Oléagineux et produits oléagineux (fr)</cell>
@@ -10200,7 +10180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/311930fd</cell>
   </row>
-  <row index="510">
+  <row index="509">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/04c6b533-fr</cell>
     <cell name="title">Vue d’ensemble (fr)</cell>
@@ -10220,7 +10200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2c9a1db7</cell>
   </row>
-  <row index="511">
+  <row index="510">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/bf1620e5-fr</cell>
     <cell name="title">Méthodologie (fr)</cell>
@@ -10240,7 +10220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0bc8f10e</cell>
   </row>
-  <row index="512">
+  <row index="511">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3d2802e0-fr</cell>
     <cell name="title">Projections des tourteaux protéiques : Consommation (fr)</cell>
@@ -10260,7 +10240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7f37a26e</cell>
   </row>
-  <row index="513">
+  <row index="512">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/54ea1b09-fr</cell>
     <cell name="title">Projections des produits laitiers frais : Production et consommation humaine (fr)</cell>
@@ -10280,7 +10260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1df1a8e1</cell>
   </row>
-  <row index="514">
+  <row index="513">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/d415fe82-fr</cell>
     <cell name="title">Projections de la viande porcine : Consommation, humaine (fr)</cell>
@@ -10300,7 +10280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/094371a8</cell>
   </row>
-  <row index="515">
+  <row index="514">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/ec38dcea-fr</cell>
     <cell name="title">Projections de la viande de volaille : Consommation, humaine (fr)</cell>
@@ -10320,7 +10300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2b42620b</cell>
   </row>
-  <row index="516">
+  <row index="515">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a822bd91-fr</cell>
     <cell name="title">Projections des autres oléagineux : Consommation, trituration domestique (fr)</cell>
@@ -10340,7 +10320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1739653a</cell>
   </row>
-  <row index="517">
+  <row index="516">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8e7bda44-en</cell>
     <cell name="title">Main policy assumptions for dairy markets (en)</cell>
@@ -10360,7 +10340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4cfce596</cell>
   </row>
-  <row index="518">
+  <row index="517">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/5c65a20d-fr</cell>
     <cell name="title">Projections du riz : Production et échanges (fr)</cell>
@@ -10380,7 +10360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8a0a0dcb</cell>
   </row>
-  <row index="519">
+  <row index="518">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b62e023c-en</cell>
     <cell name="title">World sugar projections (en)</cell>
@@ -10400,7 +10380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dfdf060c</cell>
   </row>
-  <row index="520">
+  <row index="519">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/85f7900e-en</cell>
     <cell name="title">Cotton projections: Production and trade (en)</cell>
@@ -10420,7 +10400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/50b87b07</cell>
   </row>
-  <row index="521">
+  <row index="520">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/cce3edd7-en</cell>
     <cell name="title">Maize projections: Consumption, feed, food (en)</cell>
@@ -10440,7 +10420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6311dcce</cell>
   </row>
-  <row index="522">
+  <row index="521">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/7fad0285-en</cell>
     <cell name="title">Self-sufficiency rates for selected commodities in Near East and North Africa (en)</cell>
@@ -10460,7 +10440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6d2086e3</cell>
   </row>
-  <row index="523">
+  <row index="522">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/45ea1665-en</cell>
     <cell name="title">Share of production traded, by commodity (en)</cell>
@@ -10480,7 +10460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41bdb7e1</cell>
   </row>
-  <row index="524">
+  <row index="523">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a822bd91-fr</cell>
     <cell name="title">Projections des autres oléagineux : Consommation, trituration domestique (fr)</cell>
@@ -10500,7 +10480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9c616041</cell>
   </row>
-  <row index="525">
+  <row index="524">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/369768fa-en</cell>
     <cell name="title">Fish and seafood projections: Reduction, food consumption (en)</cell>
@@ -10520,7 +10500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/98e009c0</cell>
   </row>
-  <row index="526">
+  <row index="525">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8f66b2eb-en</cell>
     <cell name="title">Share of per capita HFCS in sweetener consumption for major consuming countries (en)</cell>
@@ -10540,7 +10520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d6fcab40</cell>
   </row>
-  <row index="527">
+  <row index="526">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1112c23b-en</cell>
     <cell name="title">OECD-FAO Agricultural Outlook 2020-2029 (en)</cell>
@@ -10551,16 +10531,16 @@
     <cell name="date of publication">2020-07-16</cell>
     <cell name="embargo date">2020-07-16T08:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-07-08T18:32:52Z</cell>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
     <cell name="freepreview last export date">2020-07-08T18:15:50Z</cell>
-    <cell name="oecd.org last export date">2020-07-08T18:03:46Z</cell>
+    <cell name="oecd.org last export date">2020-07-16T17:58:48Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/322e4239</cell>
   </row>
-  <row index="528">
+  <row index="527">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/90225e47-fr</cell>
     <cell name="title">Hypothèses concernant les marchés du coton (fr)</cell>
@@ -10580,7 +10560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e2c193d1</cell>
   </row>
-  <row index="529">
+  <row index="528">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3736a600-en</cell>
     <cell name="title">Sugar (en)</cell>
@@ -10600,7 +10580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6b1e03ac</cell>
   </row>
-  <row index="530">
+  <row index="529">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a0022944-en</cell>
     <cell name="title">Share of vegetable oil used for biodiesel production (en)</cell>
@@ -10620,7 +10600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9406adea</cell>
   </row>
-  <row index="531">
+  <row index="530">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/d38c67e1-fr</cell>
     <cell name="title">Projections des légumineuses : Production et consommation humaine (fr)</cell>
@@ -10640,7 +10620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6d379410</cell>
   </row>
-  <row index="532">
+  <row index="531">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1d5f47c9-fr</cell>
     <cell name="title">Projections des autres céréales secondaires : Production et échanges (fr)</cell>
@@ -10660,7 +10640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/142bafba</cell>
   </row>
-  <row index="533">
+  <row index="532">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/10bb36bc-fr</cell>
     <cell name="title">Projections des autres oléagineux : Production et échanges (fr)</cell>
@@ -10680,7 +10660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/77b71106</cell>
   </row>
-  <row index="534">
+  <row index="533">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/519a0995-fr</cell>
     <cell name="title">Projections du maïs : Production et échanges (fr)</cell>
@@ -10700,7 +10680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/79bd02ea</cell>
   </row>
-  <row index="535">
+  <row index="534">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4eb8d84c-fr</cell>
     <cell name="title">Projections mondiales des biocarburants (fr)</cell>
@@ -10720,7 +10700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dd41f300</cell>
   </row>
-  <row index="536">
+  <row index="535">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/ce1d6f24-en</cell>
     <cell name="title">Skim milk powder projections: Production and trade (en)</cell>
@@ -10740,7 +10720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/899f9fe1</cell>
   </row>
-  <row index="537">
+  <row index="536">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/6ec9f4b9-en</cell>
     <cell name="title">Value of agriculture and fish exports relative to production by region (en)</cell>
@@ -10760,7 +10740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/42f281fd</cell>
   </row>
-  <row index="538">
+  <row index="537">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/134c730f-en</cell>
     <cell name="title">Biodiesel projections: Production and use (en)</cell>
@@ -10780,7 +10760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c51ba470</cell>
   </row>
-  <row index="539">
+  <row index="538">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/dc3062e1-en</cell>
     <cell name="title">World dairy projections: Milk, butter and cheese (en)</cell>
@@ -10800,7 +10780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/562258d5</cell>
   </row>
-  <row index="540">
+  <row index="539">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/451e0f4f-fr</cell>
     <cell name="title">Projections de la viande : Consommation, humaine (fr)</cell>
@@ -10820,7 +10800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6e09bda4</cell>
   </row>
-  <row index="541">
+  <row index="540">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e3bc21e4-en</cell>
     <cell name="title">Agricultural trade balances in Asia Pacific (en)</cell>
@@ -10840,7 +10820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/15ccc3d5</cell>
   </row>
-  <row index="542">
+  <row index="541">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/42309e31-en</cell>
     <cell name="title">Wheat projections: Production and trade (en)</cell>
@@ -10860,7 +10840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1a000960</cell>
   </row>
-  <row index="543">
+  <row index="542">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1717d3c0-en</cell>
     <cell name="title">Imports of dairy products by region (en)</cell>
@@ -10880,7 +10860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/32c984f7</cell>
   </row>
-  <row index="544">
+  <row index="543">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/41f24eb5-fr</cell>
     <cell name="title">Projections du coton : Consommation (fr)</cell>
@@ -10900,7 +10880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e84b8d7</cell>
   </row>
-  <row index="545">
+  <row index="544">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/014eb438-en</cell>
     <cell name="title">Milk projections: Production, inventories, yield (en)</cell>
@@ -10920,7 +10900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c4c6668</cell>
   </row>
-  <row index="546">
+  <row index="545">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4ff1f1b7-en</cell>
     <cell name="title">Other oilseed projections: Production and trade (en)</cell>
@@ -10940,7 +10920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/05e5dfe1</cell>
   </row>
-  <row index="547">
+  <row index="546">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/560d8238-fr</cell>
     <cell name="title">Hypothèses concernant le marché du bétail (fr)</cell>
@@ -10960,7 +10940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d6d89d42</cell>
   </row>
-  <row index="548">
+  <row index="547">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f3162464-en</cell>
     <cell name="title">Rice projections: Consumption, food (en)</cell>
@@ -10980,7 +10960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/70663900</cell>
   </row>
-  <row index="549">
+  <row index="548">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1554b573-en</cell>
     <cell name="title">Protein meal projections: Production and trade (en)</cell>
@@ -11000,7 +10980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3c064789</cell>
   </row>
-  <row index="550">
+  <row index="549">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4dd9b3d0-en</cell>
     <cell name="title">Fish (en)</cell>
@@ -11020,7 +11000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8718e39d</cell>
   </row>
-  <row index="551">
+  <row index="550">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/25e3d10f-en</cell>
     <cell name="title">Meat projections: Consumption, food (en)</cell>
@@ -11040,7 +11020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/85735c25</cell>
   </row>
-  <row index="552">
+  <row index="551">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b0904820-en</cell>
     <cell name="title">Other use in absolute value and as share of total consumption (en)</cell>
@@ -11060,7 +11040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0fb52a32</cell>
   </row>
-  <row index="553">
+  <row index="552">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/27340bd2-en</cell>
     <cell name="title">Roots and tubers projections: Production and food consumption (en)</cell>
@@ -11080,7 +11060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10ddf08c</cell>
   </row>
-  <row index="554">
+  <row index="553">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/d023798c-en</cell>
     <cell name="title">Butter projections: Production and trade (en)</cell>
@@ -11100,7 +11080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2dec1aaf</cell>
   </row>
-  <row index="555">
+  <row index="554">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/cce3edd7-en</cell>
     <cell name="title">Maize projections: Consumption, feed, food (en)</cell>
@@ -11120,7 +11100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b89f41db</cell>
   </row>
-  <row index="556">
+  <row index="555">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/5d450aab-en</cell>
     <cell name="title">Per capita food availability of vegetable oil in selected countries (en)</cell>
@@ -11140,7 +11120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/24f63cd9</cell>
   </row>
-  <row index="557">
+  <row index="556">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/217c0794-en</cell>
     <cell name="title">Other products (en)</cell>
@@ -11160,7 +11140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c6544f10</cell>
   </row>
-  <row index="558">
+  <row index="557">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/7a79c8b9-fr</cell>
     <cell name="title">Projections du fromage : Production et échanges (fr)</cell>
@@ -11180,7 +11160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/71e1edbb</cell>
   </row>
-  <row index="559">
+  <row index="558">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/d07b1c60-en</cell>
     <cell name="title">Main policy assumptions for meat markets (en)</cell>
@@ -11200,7 +11180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62566b53</cell>
   </row>
-  <row index="560">
+  <row index="559">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9d374d98-en</cell>
     <cell name="title">Sugar projections: Consumption, food (en)</cell>
@@ -11220,7 +11200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4dbc208b</cell>
   </row>
-  <row index="561">
+  <row index="560">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f265bb71-en</cell>
     <cell name="title">World trade projections, imports (en)</cell>
@@ -11240,7 +11220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/42dd8860</cell>
   </row>
-  <row index="562">
+  <row index="561">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/73abcd57-fr</cell>
     <cell name="title">Projections du biodiesel : Production et utilisation (fr)</cell>
@@ -11260,7 +11240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b804fb0c</cell>
   </row>
-  <row index="563">
+  <row index="562">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/ddef4fd7-en</cell>
     <cell name="title">Main policy assumptions for oilseed markets (en)</cell>
@@ -11280,7 +11260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/513abb05</cell>
   </row>
-  <row index="564">
+  <row index="563">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a87a8325-fr</cell>
     <cell name="title">Projections du sucre : Production et échanges (fr)</cell>
@@ -11300,7 +11280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c705661</cell>
   </row>
-  <row index="565">
+  <row index="564">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/5c65a20d-fr</cell>
     <cell name="title">Projections du riz : Production et échanges (fr)</cell>
@@ -11320,7 +11300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b122df66</cell>
   </row>
-  <row index="566">
+  <row index="565">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e885beef-en</cell>
     <cell name="title">Economic assumptions (en)</cell>
@@ -11340,7 +11320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/84acd4bf</cell>
   </row>
-  <row index="567">
+  <row index="566">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e31b3c1e-en</cell>
     <cell name="title">Information on food price changes (en)</cell>
@@ -11360,7 +11340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ddf76067</cell>
   </row>
-  <row index="568">
+  <row index="567">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c4dd0468-fr</cell>
     <cell name="title">Hypothèses concernant les marchés du sucre (fr)</cell>
@@ -11380,7 +11360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c4e965cf</cell>
   </row>
-  <row index="569">
+  <row index="568">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/ec38dcea-fr</cell>
     <cell name="title">Projections de la viande de volaille : Consommation, humaine (fr)</cell>
@@ -11400,7 +11380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7dd377a2</cell>
   </row>
-  <row index="570">
+  <row index="569">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/29248f46-en</cell>
     <cell name="title">Meat (en)</cell>
@@ -11420,7 +11400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c1350076</cell>
   </row>
-  <row index="571">
+  <row index="570">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/90225e47-fr</cell>
     <cell name="title">Hypothèses concernant les marchés du coton (fr)</cell>
@@ -11440,7 +11420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aedb88ce</cell>
   </row>
-  <row index="572">
+  <row index="571">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1d5f47c9-fr</cell>
     <cell name="title">Projections des autres céréales secondaires : Production et échanges (fr)</cell>
@@ -11460,7 +11440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c05ff19b</cell>
   </row>
-  <row index="573">
+  <row index="572">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9a7f1e30-en</cell>
     <cell name="title">Pigmeat projections: Production and trade (en)</cell>
@@ -11480,7 +11460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/625355c2</cell>
   </row>
-  <row index="574">
+  <row index="573">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0a5aaa4f-fr</cell>
     <cell name="title">Projections du beurre : Consommation, humaine (fr)</cell>
@@ -11500,7 +11480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a10ef423</cell>
   </row>
-  <row index="575">
+  <row index="574">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/25e3d10f-en</cell>
     <cell name="title">Meat projections: Consumption, food (en)</cell>
@@ -11520,7 +11500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bec8d615</cell>
   </row>
-  <row index="576">
+  <row index="575">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9dfa564d-fr</cell>
     <cell name="title">Autres produits (fr)</cell>
@@ -11540,7 +11520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cccca35d</cell>
   </row>
-  <row index="577">
+  <row index="576">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e764e65d-en</cell>
     <cell name="title">Share of aquaculture and capture in total fish available for human consumption, 2017-19 vs 2029 (en)</cell>
@@ -11560,7 +11540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/70e258e8</cell>
   </row>
-  <row index="578">
+  <row index="577">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4ff1f1b7-en</cell>
     <cell name="title">Other oilseed projections: Production and trade (en)</cell>
@@ -11580,7 +11560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/20548ff4</cell>
   </row>
-  <row index="579">
+  <row index="578">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/59a2adad-en</cell>
     <cell name="title">Projected evolution of FAO FOOD Price Index (en)</cell>
@@ -11600,7 +11580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1e251ae8</cell>
   </row>
-  <row index="580">
+  <row index="579">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e885beef-en</cell>
     <cell name="title">Economic assumptions (en)</cell>
@@ -11620,7 +11600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f0cd0c1</cell>
   </row>
-  <row index="581">
+  <row index="580">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a8ee745e-en</cell>
     <cell name="title">Glossary (en)</cell>
@@ -11640,7 +11620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a8f9b539</cell>
   </row>
-  <row index="582">
+  <row index="581">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/bf1620e5-fr</cell>
     <cell name="title">Méthodologie (fr)</cell>
@@ -11660,7 +11640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/88e83393</cell>
   </row>
-  <row index="583">
+  <row index="582">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1eddd347-en</cell>
     <cell name="title">Cheese projections: Consumption, food (en)</cell>
@@ -11680,7 +11660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/90189827</cell>
   </row>
-  <row index="584">
+  <row index="583">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/6e43c6dc-fr</cell>
     <cell name="title">Projections de l'éthanol : Production et utilisation (fr)</cell>
@@ -11700,7 +11680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/454b3768</cell>
   </row>
-  <row index="585">
+  <row index="584">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/7d1ba08b-en</cell>
     <cell name="title">Sugar projections: Production and trade (en)</cell>
@@ -11720,7 +11700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dad4c726</cell>
   </row>
-  <row index="586">
+  <row index="585">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/11fa2859-en</cell>
     <cell name="title">High price spreads for maize across the region indicate low market integration (en)</cell>
@@ -11740,7 +11720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3baf6757</cell>
   </row>
-  <row index="587">
+  <row index="586">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/22f6e5c5-fr</cell>
     <cell name="title">Projections de la viande bovine : Consommation, humaine (fr)</cell>
@@ -11760,7 +11740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c66e0a1</cell>
   </row>
-  <row index="588">
+  <row index="587">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4249ed19-fr</cell>
     <cell name="title">Coton (fr)</cell>
@@ -11780,7 +11760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63b0b468</cell>
   </row>
-  <row index="589">
+  <row index="588">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/6c6fda19-en</cell>
     <cell name="title">Agricultural trade balances in Latin America and the Caribbean (en)</cell>
@@ -11800,7 +11780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f5bb756e</cell>
   </row>
-  <row index="590">
+  <row index="589">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/22f6e5c5-fr</cell>
     <cell name="title">Projections de la viande bovine : Consommation, humaine (fr)</cell>
@@ -11820,7 +11800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d718c99</cell>
   </row>
-  <row index="591">
+  <row index="590">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/10bb36bc-fr</cell>
     <cell name="title">Projections des autres oléagineux : Production et échanges (fr)</cell>
@@ -11840,7 +11820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c0679311</cell>
   </row>
-  <row index="592">
+  <row index="591">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f95eeaba-fr</cell>
     <cell name="title">Projections mondiales du coton (fr)</cell>
@@ -11860,7 +11840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/700f3b85</cell>
   </row>
-  <row index="593">
+  <row index="592">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/02618842-en</cell>
     <cell name="title">Soybean projections: Consumption, domestic crush (en)</cell>
@@ -11880,7 +11860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3b438111</cell>
   </row>
-  <row index="594">
+  <row index="593">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/57b3d9b9-fr</cell>
     <cell name="title">Céréales (fr)</cell>
@@ -11900,7 +11880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c17f6440</cell>
   </row>
-  <row index="595">
+  <row index="594">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0cc36a49-en</cell>
     <cell name="title">Global growth in crop production (en)</cell>
@@ -11920,7 +11900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9f3e4ebe</cell>
   </row>
-  <row index="596">
+  <row index="595">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/7e71ffe1-fr</cell>
     <cell name="title">Hypothèses concernant les marchés des oléagineux (fr)</cell>
@@ -11940,7 +11920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/78cff734</cell>
   </row>
-  <row index="597">
+  <row index="596">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/51cd0d6d-fr</cell>
     <cell name="title">Hypothèses concernant le marché des produits laitiers (fr)</cell>
@@ -11960,7 +11940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2a2e75cd</cell>
   </row>
-  <row index="598">
+  <row index="597">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/743f0fca-en</cell>
     <cell name="title">Methodology (en)</cell>
@@ -11980,7 +11960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d1ed0a02</cell>
   </row>
-  <row index="599">
+  <row index="598">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a63fab59-fr</cell>
     <cell name="title">Avant-propos (fr)</cell>
@@ -12000,7 +11980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3dc962f5</cell>
   </row>
-  <row index="600">
+  <row index="599">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/14f00d8b-fr</cell>
     <cell name="title">Projections mondiales du secteur laitier : Lait, beurre et fromage (fr)</cell>
@@ -12020,7 +12000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4a26ef63</cell>
   </row>
-  <row index="601">
+  <row index="600">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9346073a-en</cell>
     <cell name="title">Skim milk powder projections: Consumption, food (en)</cell>
@@ -12040,7 +12020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3494b5b8</cell>
   </row>
-  <row index="602">
+  <row index="601">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/dcb5d9ed-en</cell>
     <cell name="title">Structure of feed use, by income group (en)</cell>
@@ -12060,7 +12040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a988eff3</cell>
   </row>
-  <row index="603">
+  <row index="602">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1f8af898-en</cell>
     <cell name="title">Main policy assumptions for biofuel markets (en)</cell>
@@ -12080,7 +12060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4dec176d</cell>
   </row>
-  <row index="604">
+  <row index="603">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9f78ef6f-fr</cell>
     <cell name="title">Projections du lait entier en poudre : Consommation, humaine (fr)</cell>
@@ -12100,7 +12080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a08335df</cell>
   </row>
-  <row index="605">
+  <row index="604">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/d77367b1-fr</cell>
     <cell name="title">Projections du riz : Consommation, humaine (fr)</cell>
@@ -12120,7 +12100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f8e7f330</cell>
   </row>
-  <row index="606">
+  <row index="605">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/51cd0d6d-fr</cell>
     <cell name="title">Hypothèses concernant le marché des produits laitiers (fr)</cell>
@@ -12140,7 +12120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6dc3ee32</cell>
   </row>
-  <row index="607">
+  <row index="606">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/82246665-en</cell>
     <cell name="title">Protein meal projections: Consumption (en)</cell>
@@ -12160,7 +12140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d61a8ff5</cell>
   </row>
-  <row index="608">
+  <row index="607">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b976a117-en</cell>
     <cell name="title">Biodiesel projections: Share in volume terms and trade (en)</cell>
@@ -12180,7 +12160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d5e8871</cell>
   </row>
-  <row index="609">
+  <row index="608">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/d45a7727-en</cell>
     <cell name="title">World prices (en)</cell>
@@ -12200,7 +12180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b5e038f6</cell>
   </row>
-  <row index="610">
+  <row index="609">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8c9e3c5a-en</cell>
     <cell name="title">Sugar production by crop (en)</cell>
@@ -12220,7 +12200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/50d14dcb</cell>
   </row>
-  <row index="611">
+  <row index="610">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/25e3d10f-en</cell>
     <cell name="title">Meat projections: Consumption, food (en)</cell>
@@ -12240,7 +12220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d54fbdcb</cell>
   </row>
-  <row index="612">
+  <row index="611">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e8402c3e-en</cell>
     <cell name="title">Value of net food imports per capita in Near East and North Africa (en)</cell>
@@ -12260,7 +12240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c57a49d</cell>
   </row>
-  <row index="613">
+  <row index="612">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4e721e2d-en</cell>
     <cell name="title">World cereal projections (en)</cell>
@@ -12280,7 +12260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d17628c6</cell>
   </row>
-  <row index="614">
+  <row index="613">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/71bf1848-fr</cell>
     <cell name="title">Projections de la pêche et l'aquaculture : Transformation, consommation humaine (fr)</cell>
@@ -12300,7 +12280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eadfb3c9</cell>
   </row>
-  <row index="615">
+  <row index="614">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/68d20565-en</cell>
     <cell name="title">Growth in global livestock production (en)</cell>
@@ -12320,7 +12300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d9b85d0a</cell>
   </row>
-  <row index="616">
+  <row index="615">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1eddd347-en</cell>
     <cell name="title">Cheese projections: Consumption, food (en)</cell>
@@ -12340,7 +12320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5a79a954</cell>
   </row>
-  <row index="617">
+  <row index="616">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/519a0995-fr</cell>
     <cell name="title">Projections du maïs : Production et échanges (fr)</cell>
@@ -12360,7 +12340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4d7436a9</cell>
   </row>
-  <row index="618">
+  <row index="617">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9f40760f-en</cell>
     <cell name="title">World fish prices (en)</cell>
@@ -12380,7 +12360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/baaaafff</cell>
   </row>
-  <row index="619">
+  <row index="618">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e31b3c1e-en</cell>
     <cell name="title">Information on food price changes (en)</cell>
@@ -12400,7 +12380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6f3ec670</cell>
   </row>
-  <row index="620">
+  <row index="619">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4e721e2d-en</cell>
     <cell name="title">World cereal projections (en)</cell>
@@ -12420,7 +12400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c1559a82</cell>
   </row>
-  <row index="621">
+  <row index="620">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/62e7e7ac-en</cell>
     <cell name="title">Whole milk powder projections: Consumption, food (en)</cell>
@@ -12440,7 +12420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c942900c</cell>
   </row>
-  <row index="622">
+  <row index="621">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/d77367b1-fr</cell>
     <cell name="title">Projections du riz : Consommation, humaine (fr)</cell>
@@ -12460,7 +12440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aaa400fd</cell>
   </row>
-  <row index="623">
+  <row index="622">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/62e7e7ac-en</cell>
     <cell name="title">Whole milk powder projections: Consumption, food (en)</cell>
@@ -12480,7 +12460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6a36e958</cell>
   </row>
-  <row index="624">
+  <row index="623">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/43bdb44d-fr</cell>
     <cell name="title">Projections des échanges mondiaux, importations (fr)</cell>
@@ -12500,7 +12480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc599178</cell>
   </row>
-  <row index="625">
+  <row index="624">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/27df7412-en</cell>
     <cell name="title">Other coarse grain projections: Production and trade (en)</cell>
@@ -12520,7 +12500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5062899d</cell>
   </row>
-  <row index="626">
+  <row index="625">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/507f530a-en</cell>
     <cell name="title">Sheep meat projections: Production and trade (en)</cell>
@@ -12540,87 +12520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41a36acd</cell>
   </row>
-  <row index="627">
-    <cell name="directorate">Development Centre</cell>
-    <cell name="doi">10.1787/cb7d45d1-en</cell>
-    <cell name="title">SIGI 2020 Regional Report for Latin America and the Caribbean (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2020-07-20</cell>
-    <cell name="embargo date">2020-07-19T22:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/302a3821</cell>
-  </row>
-  <row index="628">
-    <cell name="directorate">Development Centre</cell>
-    <cell name="doi">10.1787/cb7d45d1-en</cell>
-    <cell name="title">SIGI 2020 Regional Report for Latin America and the Caribbean (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2020-07-20</cell>
-    <cell name="embargo date">2020-07-19T22:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-07-15T18:22:24Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ea82c611</cell>
-  </row>
-  <row index="629">
-    <cell name="directorate">Development Centre</cell>
-    <cell name="doi">10.1787/cb7d45d1-en</cell>
-    <cell name="title">SIGI 2020 Regional Report for Latin America and the Caribbean (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2020-07-20</cell>
-    <cell name="embargo date">2020-07-19T22:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-07-15T18:22:24Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6f036eae</cell>
-  </row>
-  <row index="630">
-    <cell name="directorate">Development Centre</cell>
-    <cell name="doi">10.1787/cb7d45d1-en</cell>
-    <cell name="title">SIGI 2020 Regional Report for Latin America and the Caribbean (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2020-07-20</cell>
-    <cell name="embargo date">2020-07-19T22:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-07-15T18:22:24Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-06-26T17:59:15Z</cell>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/35ca845f</cell>
-  </row>
-  <row index="631">
+  <row index="626">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/fb32aabd-en</cell>
     <cell name="title">Accelerating Climate Action in Israel (en)</cell>
@@ -12640,27 +12540,1647 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ed688fde</cell>
   </row>
-  <row index="632">
+  <row index="627">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/a4209041-en</cell>
     <cell name="title">OECD Economic Surveys: Slovenia 2020 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2020-07-20</cell>
     <cell name="embargo date">2020-07-20T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-07-15T18:22:24Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-06-11T18:00:13Z</cell>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date">2020-07-16T18:10:59Z</cell>
+    <cell name="oecd.org last export date">2020-07-16T17:58:48Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/97ff5ebc</cell>
   </row>
+  <row index="628">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/276aac6f-en</cell>
+    <cell name="title">Women are underrepresented in national parliaments in LAC countries, 2018 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fded8d2e</cell>
+  </row>
+  <row index="629">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/6512cd7f-en</cell>
+    <cell name="title">Women are underrepresented in managerial positions compared to men (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/06a3888d</cell>
+  </row>
+  <row index="630">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/a9ca3292-en</cell>
+    <cell name="title">Scoring methodology for legal variables (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Table</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7eb04a5a</cell>
+  </row>
+  <row index="631">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/8784322f-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date">2020-07-16T18:10:59Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8f452da0</cell>
+  </row>
+  <row index="632">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/e9718bc3-en</cell>
+    <cell name="title">SIGI scores for the legal framework of “Violence against women” (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/158cc246</cell>
+  </row>
   <row index="633">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/29b98913-en</cell>
+    <cell name="title">Restricted civil liberties (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0e4e0581</cell>
+  </row>
+  <row index="634">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/7186081c-en</cell>
+    <cell name="title">Number of SIGI variables available, by country (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Table</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c751a9d9</cell>
+  </row>
+  <row index="635">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/6e729f01-en</cell>
+    <cell name="title">Special section: The impact of the coronavirus (Covid-19) crisis on LAC women (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date">2020-07-16T18:10:59Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fb27be31</cell>
+  </row>
+  <row index="636">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/e9a86b54-en</cell>
+    <cell name="title">Scores of LAC countries in the SIGI and in each dimension (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Table</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c2eb3ea9</cell>
+  </row>
+  <row index="637">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/7c3fb49c-en</cell>
+    <cell name="title">Economic gains for the LAC region and its sub-regions from a reduction in gender-based discrimination, 2018‑30 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5004bdf6</cell>
+  </row>
+  <row index="638">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/ae6cdee2-en</cell>
+    <cell name="title">SIGI scores for the legal framework of “Workplace rights” (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db86d0fd</cell>
+  </row>
+  <row index="639">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/d08c3a2e-en</cell>
+    <cell name="title">Restricted physical integrity (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date">2020-07-16T18:10:59Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aab23a4b</cell>
+  </row>
+  <row index="640">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/d08c3a2e-en</cell>
+    <cell name="title">Restricted physical integrity (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fef43016</cell>
+  </row>
+  <row index="641">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/cbd213b5-en</cell>
+    <cell name="title">Negative attitudes towards women’s political leadership contribute to women’s lower political representation (en)</cell>
+    <cell name="subtitle">Correlation between attitudes towards women’s political leadership and women’s political representation (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f9500ff9</cell>
+  </row>
+  <row index="642">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/7d01a752-en</cell>
+    <cell name="title">SIGI scores in the “Restricted access to productive and financial resources” dimension and its indicators for the LAC region and sub-regions (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/47f36f5f</cell>
+  </row>
+  <row index="643">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/e650b0fe-en</cell>
+    <cell name="title">Child marriage among girls is associated with higher adolescent pregnancy rates (en)</cell>
+    <cell name="subtitle">Correlation between prevalence of child marriage among girls and adolescent fertility rate (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4ac60952</cell>
+  </row>
+  <row index="644">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/29b98913-en</cell>
+    <cell name="title">Restricted civil liberties (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date">2020-07-16T18:10:59Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db613cc1</cell>
+  </row>
+  <row index="645">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/b9629627-en</cell>
+    <cell name="title">SIGI scores in the “Restricted physical integrity” dimension and its indicators for the LAC region and sub-regions (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6e8f32a8</cell>
+  </row>
+  <row index="646">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/2f221b88-en</cell>
+    <cell name="title">The Social Institutions and Gender Index in the Latin America and the Caribbean region (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/87854d57</cell>
+  </row>
+  <row index="647">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/2e03046c-en</cell>
+    <cell name="title">Women’s access to bank account is high but gender gaps remain important (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a553b35e</cell>
+  </row>
+  <row index="648">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/9e7ce58f-en</cell>
+    <cell name="title">SIGI scores for the “Restricted physical integrity” dimension (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9baab4e8</cell>
+  </row>
+  <row index="649">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/b58384a8-en</cell>
+    <cell name="title">Length of paid maternity leave and salary coverage (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/801522db</cell>
+  </row>
+  <row index="650">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/18e73c7b-en</cell>
+    <cell name="title">International and regional standards on women’s rights (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date">2020-07-16T18:10:59Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/29dd7e77</cell>
+  </row>
+  <row index="651">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/b7448115-en</cell>
+    <cell name="title">Regional and sub-regional economic losses associated with gender-based discrimination, 2017 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Table</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2909f471</cell>
+  </row>
+  <row index="652">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/1c2c6c89-en</cell>
+    <cell name="title">Social Institutions and Gender Index methodology (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date">2020-07-16T18:10:59Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d3184048</cell>
+  </row>
+  <row index="653">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/f60d97ad-en</cell>
+    <cell name="title">Discrimination in the family (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dbbe609e</cell>
+  </row>
+  <row index="654">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/021e2dea-en</cell>
+    <cell name="title">SIGI scores in the “Discrimination in the family” dimension and its indicators for the LAC region and sub-regions (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/29824bdf</cell>
+  </row>
+  <row index="655">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/e470c945-en</cell>
+    <cell name="title">Number of SIGI dimensions and indicators computed, by country (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ce57502</cell>
+  </row>
+  <row index="656">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/6e729f01-en</cell>
+    <cell name="title">Special section: The impact of the coronavirus (Covid-19) crisis on LAC women (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1ed86f43</cell>
+  </row>
+  <row index="657">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/9700430a-en</cell>
+    <cell name="title">Reader’s guide (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2a78e772</cell>
+  </row>
+  <row index="658">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/cb7d45d1-en</cell>
+    <cell name="title">SIGI 2020 Regional Report for Latin America and the Caribbean (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2020-07-16T17:58:48Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ea82c611</cell>
+  </row>
+  <row index="659">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/12526cf5-en</cell>
+    <cell name="title">SIGI scores in the “Restricted civil liberties” dimension and its indicators for the LAC region and sub-regions (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5297002a</cell>
+  </row>
+  <row index="660">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/f215b62f-en</cell>
+    <cell name="title">Classification of countries based on SIGI scores and dimension/indicator scores (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Table</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b429f6e</cell>
+  </row>
+  <row index="661">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/f60d97ad-en</cell>
+    <cell name="title">Discrimination in the family (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date">2020-07-16T18:10:59Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/14fce05b</cell>
+  </row>
+  <row index="662">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/133a96c9-en</cell>
+    <cell name="title">SIGI scores for the “Restricted access to productive and financial resources” dimension (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/67f40608</cell>
+  </row>
+  <row index="663">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/b1e47d0c-en</cell>
+    <cell name="title">About half of the population consider that being a housewife is just as fulfilling as working for pay (en)</cell>
+    <cell name="subtitle">Statement: “Being a housewife is just as fulfilling as working for pay” (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8b9ed3ca</cell>
+  </row>
+  <row index="664">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/cfab8a74-en</cell>
+    <cell name="title">Preface (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date">2020-07-16T18:10:59Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/90c04c6a</cell>
+  </row>
+  <row index="665">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/fe417261-en</cell>
+    <cell name="title">Share of women in the emigrant stock, 2019 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fbcf2c11</cell>
+  </row>
+  <row index="666">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/08cb6d07-en</cell>
+    <cell name="title">Abbreviations and acronyms (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a29d47f9</cell>
+  </row>
+  <row index="667">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/72966c1e-en</cell>
+    <cell name="title">Unmet need for family planning across LAC countries (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/92d61694</cell>
+  </row>
+  <row index="668">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/3b233f14-en</cell>
+    <cell name="title">Part of the population continues to think that women should not have a paid job outside the home (en)</cell>
+    <cell name="subtitle">Statement: “It is perfectly acceptable for any woman in your family to have a paid job outside the home if she wants to” (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b9b3fdf6</cell>
+  </row>
+  <row index="669">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/0b04dad1-en</cell>
+    <cell name="title">SIGI dimensions’ scores in the LAC region and its sub-regions (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86cbf760</cell>
+  </row>
+  <row index="670">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/1c2c6c89-en</cell>
+    <cell name="title">Social Institutions and Gender Index methodology (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4d4d4a3c</cell>
+  </row>
+  <row index="671">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/cfab8a74-en</cell>
+    <cell name="title">Preface (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1441c89f</cell>
+  </row>
+  <row index="672">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/af32e3e6-en</cell>
+    <cell name="title">Negative attitudes towards working mothers prevail in the LAC region (en)</cell>
+    <cell name="subtitle">Statement: “When a mother works for pay, the children suffer” (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6d840afa</cell>
+  </row>
+  <row index="673">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/9700430a-en</cell>
+    <cell name="title">Reader’s guide (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date">2020-07-16T18:10:59Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/391e7b01</cell>
+  </row>
+  <row index="674">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/bb6ecf1f-en</cell>
+    <cell name="title">Women work as much as men while spending more time on unpaid work (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/57fe22b0</cell>
+  </row>
+  <row index="675">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/a0803992-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c8b7e3b1</cell>
+  </row>
+  <row index="676">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/78516f9a-en</cell>
+    <cell name="title">Women’s attitudes justifying domestic violence are associated with a higher prevalence of domestic violence (en)</cell>
+    <cell name="subtitle">Correlation between attitude towards domestic violence and the lifetime prevalence of domestic violence (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aae526ac</cell>
+  </row>
+  <row index="677">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/166d0654-en</cell>
+    <cell name="title">Gender biases still underlie child custody decisions (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Table</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/af1cecff</cell>
+  </row>
+  <row index="678">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/8704122d-en</cell>
+    <cell name="title">Restricted access to productive and financial resources (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date">2020-07-16T18:10:59Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/20e900ab</cell>
+  </row>
+  <row index="679">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/a56f04fe-en</cell>
+    <cell name="title">Legal frameworks on “Reproductive autonomy” vary in the LAC region (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Table</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fcdbd1f1</cell>
+  </row>
+  <row index="680">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/17da909a-en</cell>
+    <cell name="title">SIGI scores for the “Discrimination in the family” dimension (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/11723078</cell>
+  </row>
+  <row index="681">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/08cb6d07-en</cell>
+    <cell name="title">Abbreviations and acronyms (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date">2020-07-16T18:10:59Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/661040fd</cell>
+  </row>
+  <row index="682">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/667b0dda-en</cell>
+    <cell name="title">SIGI scores for the legal framework of “Secure access to non-land assets” (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e764f11d</cell>
+  </row>
+  <row index="683">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/3b2a8dc8-en</cell>
+    <cell name="title">The prevalence of child marriage among girls remains high in some LAC countries (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2e564c9d</cell>
+  </row>
+  <row index="684">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/be246de4-en</cell>
+    <cell name="title">Women feel less safe walking alone at night than men do (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ad590c81</cell>
+  </row>
+  <row index="685">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/49ad20d5-en</cell>
+    <cell name="title">Women account for the vast majority of the LAC region’s nurse workforce (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f50f012</cell>
+  </row>
+  <row index="686">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/e75f3236-en</cell>
+    <cell name="title">Child marriage is associated with the prevalence of domestic violence in LAC countries (en)</cell>
+    <cell name="subtitle">Correlation between the prevalence of child marriage among girls and the lifetime prevalence of domestic violence (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/33765342</cell>
+  </row>
+  <row index="687">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/92df37ae-en</cell>
+    <cell name="title">SIGI scores for the legal framework of “Secure access to land assets” (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f2e76501</cell>
+  </row>
+  <row index="688">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/a0803992-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date">2020-07-16T18:10:59Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/704d078b</cell>
+  </row>
+  <row index="689">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/8704122d-en</cell>
+    <cell name="title">Restricted access to productive and financial resources (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/353878f2</cell>
+  </row>
+  <row index="690">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/8784322f-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ebc79658</cell>
+  </row>
+  <row index="691">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/cb7d45d1-en</cell>
+    <cell name="title">SIGI 2020 Regional Report for Latin America and the Caribbean (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6f036eae</cell>
+  </row>
+  <row index="692">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/f98bc1a7-en</cell>
+    <cell name="title">Laws addressing femicide by year of enactment (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6dfac1d</cell>
+  </row>
+  <row index="693">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/b339a180-en</cell>
+    <cell name="title">Distribution of the employed population aged 15 years old and over by productivity level, 2017 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5a3f7bd</cell>
+  </row>
+  <row index="694">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/a8350a82-en</cell>
+    <cell name="title">LAC women continue to fulfil a greater share of unpaid care and domestic responsibilities (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/55c3ede3</cell>
+  </row>
+  <row index="695">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/3bff1344-en</cell>
+    <cell name="title">Discriminatory social institutions: A development perspective (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date">2020-07-16T18:10:59Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c1d8534</cell>
+  </row>
+  <row index="696">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/eb7b0f21-en</cell>
+    <cell name="title">Higher levels of discrimination against women in social institutions in the country of origin restrict female emigration (en)</cell>
+    <cell name="subtitle">Correlation between the SIGI score in the country of origin and the share of women in the emigrant stock (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b1d5646a</cell>
+  </row>
+  <row index="697">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/cb7d45d1-en</cell>
+    <cell name="title">SIGI 2020 Regional Report for Latin America and the Caribbean (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date">2020-07-16T18:10:59Z</cell>
+    <cell name="oecd.org last export date">2020-07-16T17:58:48Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/35ca845f</cell>
+  </row>
+  <row index="698">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/2f221b88-en</cell>
+    <cell name="title">The Social Institutions and Gender Index in the Latin America and the Caribbean region (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date">2020-07-16T18:10:59Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a8be548f</cell>
+  </row>
+  <row index="699">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/64721f4b-en</cell>
+    <cell name="title">Women’s ownership of agricultural land is usually lower than their agricultural employment share (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d762273</cell>
+  </row>
+  <row index="700">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/3bff1344-en</cell>
+    <cell name="title">Discriminatory social institutions: A development perspective (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9a7c4db2</cell>
+  </row>
+  <row index="701">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/58a7e297-en</cell>
+    <cell name="title">Women are overrepresented and concentrated in economic activities highly exposed to general lockdown measures (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b190d597</cell>
+  </row>
+  <row index="702">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/cf858fab-en</cell>
+    <cell name="title">Economic cost per capita of gender-based discrimination, 2017 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b763a6b4</cell>
+  </row>
+  <row index="703">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/ee9f60ea-en</cell>
+    <cell name="title">Countries included in the SIGI analysis, by LAC sub-regions (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Table</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/173f358f</cell>
+  </row>
+  <row index="704">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/6bd4d074-en</cell>
+    <cell name="title">SIGI scores for the “Restricted civil liberties” dimension (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/39e67c46</cell>
+  </row>
+  <row index="705">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/84b8deca-en</cell>
+    <cell name="title">Labour force participation rates in the LAC region, by gender (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0460e0d0</cell>
+  </row>
+  <row index="706">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/18e73c7b-en</cell>
+    <cell name="title">International and regional standards on women’s rights (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/812faa0e</cell>
+  </row>
+  <row index="707">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/f14c7e17-en</cell>
+    <cell name="title">Women and men have similar levels of distrust in the judicial system (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/030901fd</cell>
+  </row>
+  <row index="708">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/749aea58-en</cell>
+    <cell name="title">Negative attitudes towards working women contribute to lower female labour force participation (en)</cell>
+    <cell name="subtitle">Correlation between attitudes towards working women and the female-to-male labour force participation ratio (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-07-20</cell>
+    <cell name="embargo date">2020-07-20T13:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-07-16T18:23:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d585d6f1</cell>
+  </row>
+  <row index="709">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b04b25de-en</cell>
     <cell name="title">OECD Economic Surveys: Greece 2020 (en)</cell>
@@ -12680,7 +14200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/13b08a3f</cell>
   </row>
-  <row index="634">
+  <row index="710">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d47d0ae3-en</cell>
     <cell name="title">Revenue Statistics in Asian and Pacific Economies 2020 (en)</cell>
@@ -12700,7 +14220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3a7c620e</cell>
   </row>
-  <row index="635">
+  <row index="711">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b04b25de-en</cell>
     <cell name="title">OECD Economic Surveys: Greece 2020 (en)</cell>
@@ -12720,7 +14240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/78ac727b</cell>
   </row>
-  <row index="636">
+  <row index="712">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d47d0ae3-en</cell>
     <cell name="title">Revenue Statistics in Asian and Pacific Economies 2020 (en)</cell>
@@ -12740,7 +14260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0c65705f</cell>
   </row>
-  <row index="637">
+  <row index="713">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3b65b08d-en</cell>
     <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, the Faroe Islands (Stage 1) (en)</cell>
@@ -12760,7 +14280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/31d6bfa2</cell>
   </row>
-  <row index="638">
+  <row index="714">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a8e3b149-en</cell>
     <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Tunisia (Stage 1) (en)</cell>
@@ -12780,7 +14300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0f5c022e</cell>
   </row>
-  <row index="639">
+  <row index="715">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/127cb9d7-en</cell>
     <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Morocco (Stage 1) (en)</cell>
@@ -12800,7 +14320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1df10cd7</cell>
   </row>
-  <row index="640">
+  <row index="716">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/56ff8271-en</cell>
     <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, the Cayman Islands (Stage 1) (en)</cell>
@@ -12820,7 +14340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7bff4212</cell>
   </row>
-  <row index="641">
+  <row index="717">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6f11fc95-en</cell>
     <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Bermuda (Stage 1) (en)</cell>
@@ -12840,7 +14360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6092c9a9</cell>
   </row>
-  <row index="642">
+  <row index="718">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/dd78e294-en</cell>
     <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, the British Virgin Islands (Stage 1) (en)</cell>
@@ -12860,7 +14380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1293ca46</cell>
   </row>
-  <row index="643">
+  <row index="719">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/486647f9-fr</cell>
     <cell name="title">Accroître l'efficacité des mécanismes de règlement des différends - Rapport par les pairs de PA, Maroc (Phase 1) (fr)</cell>
@@ -12880,7 +14400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2afbbba7</cell>
   </row>
-  <row index="644">
+  <row index="720">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e6458e06-en</cell>
     <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, The Bahamas (Stage 1) (en)</cell>
@@ -12900,7 +14420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5dbc0fe3</cell>
   </row>
-  <row index="645">
+  <row index="721">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a887c53c-fr</cell>
     <cell name="title">Accroître l'efficacité des mécanismes de règlement des différends - Rapport par les pairs de PA, Tunisie (Phase 1) (fr)</cell>
@@ -12920,7 +14440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5c973c1e</cell>
   </row>
-  <row index="646">
+  <row index="722">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c5d34f2c-en</cell>
     <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Macau, China (Stage 1) (en)</cell>
@@ -12940,7 +14460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7887e106</cell>
   </row>
-  <row index="647">
+  <row index="723">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9845ee12-en</cell>
     <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Andorra (Stage 1) (en)</cell>
@@ -12960,7 +14480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/89f76e90</cell>
   </row>
-  <row index="648">
+  <row index="724">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/fb32aabd-en</cell>
     <cell name="title">Accelerating Climate Action in Israel (en)</cell>
@@ -12980,7 +14500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/682ee5fb</cell>
   </row>
-  <row index="649">
+  <row index="725">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/1201cfea-en</cell>
     <cell name="title">Production Transformation Policy Review of the Dominican Republic (en)</cell>
@@ -13000,7 +14520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0a65c0de</cell>
   </row>
-  <row index="650">
+  <row index="726">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/530e7ce0-en</cell>
     <cell name="title">OECD Economic Surveys: South Africa 2020 (en)</cell>
@@ -13020,7 +14540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/299c131a</cell>
   </row>
-  <row index="651">
+  <row index="727">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/16af18a0-en</cell>
     <cell name="title">Improving School Quality in Norway 2020 (en)</cell>
@@ -13040,7 +14560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/98defc49</cell>
   </row>
-  <row index="652">
+  <row index="728">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ac228609-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Anguilla 2020 (Second Round) (en)</cell>
@@ -13060,7 +14580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a579c969</cell>
   </row>
-  <row index="653">
+  <row index="729">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/72fe35f0-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Papua New Guinea 2020 (Second Round) (en)</cell>
@@ -13080,7 +14600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/565ef1d5</cell>
   </row>
-  <row index="654">
+  <row index="730">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8279749f-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Greece 2020 (Second Round) (en)</cell>
@@ -13100,7 +14620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e643514e</cell>
   </row>
-  <row index="655">
+  <row index="731">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8279749f-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Greece 2020 (Second Round) (en)</cell>
@@ -13120,7 +14640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/37106176</cell>
   </row>
-  <row index="656">
+  <row index="732">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/97daef15-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Korea 2020 (Second Round) (en)</cell>
@@ -13140,7 +14660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/72e02bfb</cell>
   </row>
-  <row index="657">
+  <row index="733">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/22fe7fbc-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Uruguay 2020 (Second Round) (en)</cell>
@@ -13160,7 +14680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/47a51a9a</cell>
   </row>
-  <row index="658">
+  <row index="734">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ec2b5c7b-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Chile 2020 (Second Round) (en)</cell>
@@ -13180,7 +14700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/51d341eb</cell>
   </row>
-  <row index="659">
+  <row index="735">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8b4242db-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Gibraltar 2020 (Second Round) (en)</cell>
@@ -13200,7 +14720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b394c4fc</cell>
   </row>
-  <row index="660">
+  <row index="736">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/72fe35f0-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Papua New Guinea 2020 (Second Round) (en)</cell>
@@ -13220,7 +14740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f467cfbe</cell>
   </row>
-  <row index="661">
+  <row index="737">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/1069fca1-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: People's Republic of China 2020 (Second Round) (en)</cell>
@@ -13240,7 +14760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c583a11f</cell>
   </row>
-  <row index="662">
+  <row index="738">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d92a4f90-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Malta 2020 (Second Round) (en)</cell>
@@ -13260,7 +14780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6710927</cell>
   </row>
-  <row index="663">
+  <row index="739">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8b4242db-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Gibraltar 2020 (Second Round) (en)</cell>
@@ -13280,7 +14800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/87865915</cell>
   </row>
-  <row index="664">
+  <row index="740">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/97daef15-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Korea 2020 (Second Round) (en)</cell>
@@ -13300,7 +14820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f4a2b307</cell>
   </row>
-  <row index="665">
+  <row index="741">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ac228609-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Anguilla 2020 (Second Round) (en)</cell>
@@ -13320,7 +14840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b4077355</cell>
   </row>
-  <row index="666">
+  <row index="742">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/22fe7fbc-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Uruguay 2020 (Second Round) (en)</cell>
@@ -13340,7 +14860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b39c7494</cell>
   </row>
-  <row index="667">
+  <row index="743">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ec2b5c7b-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Chile 2020 (Second Round) (en)</cell>
@@ -13360,7 +14880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e5ba3d9c</cell>
   </row>
-  <row index="668">
+  <row index="744">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d92a4f90-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Malta 2020 (Second Round) (en)</cell>
@@ -13380,7 +14900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/442c1bbd</cell>
   </row>
-  <row index="669">
+  <row index="745">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/1069fca1-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: People's Republic of China 2020 (Second Round) (en)</cell>
@@ -13400,7 +14920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f8cff7f5</cell>
   </row>
-  <row index="670">
+  <row index="746">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/16af18a0-en</cell>
     <cell name="title">Improving School Quality in Norway 2020 (en)</cell>
@@ -13420,7 +14940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/69c14337</cell>
   </row>
-  <row index="671">
+  <row index="747">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ab4d8d52-en</cell>
     <cell name="title">Linking Indigenous Communities with Regional Development in Australia (en)</cell>
@@ -13440,7 +14960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/949cce0c</cell>
   </row>
-  <row index="672">
+  <row index="748">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3d152880-en</cell>
     <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Singapore (Stage 2) (en)</cell>
@@ -13460,7 +14980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cab4761d</cell>
   </row>
-  <row index="673">
+  <row index="749">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a06e58db-en</cell>
     <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Korea (Stage 2) (en)</cell>
@@ -13480,7 +15000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1bcefe55</cell>
   </row>
-  <row index="674">
+  <row index="750">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8f4792bc-en</cell>
     <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Spain (Stage 2) (en)</cell>
@@ -13500,7 +15020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9d6f2e1e</cell>
   </row>
-  <row index="675">
+  <row index="751">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b8ee5001-en</cell>
     <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Czech Republic (Stage 2) (en)</cell>
@@ -13520,7 +15040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b671c75</cell>
   </row>
-  <row index="676">
+  <row index="752">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ea220bff-en</cell>
     <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Poland (Stage 2) (en)</cell>
@@ -13540,7 +15060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/66f1226b</cell>
   </row>
-  <row index="677">
+  <row index="753">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/bd0276f1-en</cell>
     <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Denmark (Stage 2) (en)</cell>
@@ -13560,7 +15080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e4bab233</cell>
   </row>
-  <row index="678">
+  <row index="754">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/64a87e14-en</cell>
     <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Finland (Stage 2) (en)</cell>
@@ -13580,7 +15100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d9fe010</cell>
   </row>
-  <row index="679">
+  <row index="755">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/48127451-en</cell>
     <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Norway (Stage 2) (en)</cell>
@@ -13600,7 +15120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8ba4cf34</cell>
   </row>
-  <row index="680">
+  <row index="756">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f241e9cc-en</cell>
     <cell name="title">Blockchain for SMEs and entrepreneurs in Italy (en)</cell>
@@ -13613,14 +15133,14 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-07-15T18:22:24Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-07-06T17:56:10Z</cell>
+    <cell name="oecd.org last export date">2020-07-16T06:58:46Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/96c99db8</cell>
   </row>
-  <row index="681">
+  <row index="757">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/69096873-en</cell>
     <cell name="title">Education at a Glance 2020 (en)</cell>
@@ -13640,7 +15160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/783a1e70</cell>
   </row>
-  <row index="682">
+  <row index="758">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/69096873-en</cell>
     <cell name="title">Education at a Glance 2020 (en)</cell>
@@ -13660,7 +15180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86b347c0</cell>
   </row>
-  <row index="683">
+  <row index="759">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ab4d8d52-en</cell>
     <cell name="title">Linking Indigenous Communities with Regional Development in Australia (en)</cell>
@@ -13680,7 +15200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5b037208</cell>
   </row>
-  <row index="684">
+  <row index="760">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/cec20289-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Greece 2020 (en)</cell>
@@ -13700,7 +15220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53246b72</cell>
   </row>
-  <row index="685">
+  <row index="761">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/cec20289-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Greece 2020 (en)</cell>

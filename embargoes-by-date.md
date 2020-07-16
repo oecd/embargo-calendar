@@ -2,11 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 15 July 2020 at 20:51* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 16 July 2020 at 20:49* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [15 July 2020](#15-july-2020)
 * [16 July 2020](#16-july-2020)
-* [19 July 2020](#19-july-2020)
 * [20 July 2020](#20-july-2020)
 * [22 July 2020](#22-july-2020)
 * [23 July 2020](#23-july-2020)
@@ -35,7 +34,7 @@ Wednesday 15 July 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 July 2020 at 20:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 July 2020 at 20:00
+- [x] Exported to OECD.org Thursday 16 July 2020 at 8:58
 
 ### Additional Information
 
@@ -58,7 +57,7 @@ Wednesday 15 July 2020 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 15 July 2020 at 20:22
 - [x] Exported to Keepeek Wednesday 15 July 2020 at 20:05
-- [x] Exported to OECD.org Wednesday 8 July 2020 at 20:03
+- [x] Exported to OECD.org Thursday 16 July 2020 at 19:58
 
 ### Additional Information
 
@@ -81,7 +80,7 @@ Wednesday 15 July 2020 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 15 July 2020 at 20:22
 - [x] Exported to Keepeek Wednesday 15 July 2020 at 20:05
-- [x] Exported to OECD.org Wednesday 8 July 2020 at 20:03
+- [x] Exported to OECD.org Thursday 16 July 2020 at 19:58
 
 ### Additional Information
 
@@ -108,7 +107,7 @@ Thursday 16 July 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 8 July 2020 at 20:32
 - [x] Exported to Keepeek Thursday 9 July 2020 at 20:13
-- [x] Exported to OECD.org Wednesday 8 July 2020 at 20:03
+- [x] Exported to OECD.org Thursday 16 July 2020 at 19:58
 
 ### Additional Information
 
@@ -129,42 +128,15 @@ Thursday 16 July 2020 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 8 July 2020 at 20:32
+- [x] Exported to iLibrary Thursday 16 July 2020 at 20:23
 - [x] Exported to Keepeek Wednesday 8 July 2020 at 20:15
-- [x] Exported to OECD.org Wednesday 8 July 2020 at 20:03
+- [x] Exported to OECD.org Thursday 16 July 2020 at 19:58
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-------
-
-# 19 July 2020
-
-## [SIGI 2020 Regional Report for Latin America and the Caribbean](https://doi.org/10.1787/cb7d45d1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 19 July 2020 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 15 July 2020 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 June 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -182,18 +154,41 @@ Monday 20 July 2020 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 15 July 2020 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 11 June 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 July 2020 at 20:23
+- [x] Exported to Keepeek Thursday 16 July 2020 at 20:10
+- [x] Exported to OECD.org Thursday 16 July 2020 at 19:58
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
+
+------
+
+## [SIGI 2020 Regional Report for Latin America and the Caribbean](https://doi.org/10.1787/cb7d45d1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 July 2020 at 13:59 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 July 2020 at 20:23
+- [x] Exported to Keepeek Thursday 16 July 2020 at 20:10
+- [x] Exported to OECD.org Thursday 16 July 2020 at 19:58
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -1049,7 +1044,7 @@ Friday 4 September 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 15 July 2020 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 July 2020 at 19:56
+- [x] Exported to OECD.org Thursday 16 July 2020 at 8:58
 
 ### Additional Information
 
