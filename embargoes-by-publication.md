@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 16 July 2020 at 20:49* | [See embargoes by date](embargoes-by-date.md) |
-
-## [How far are OECD countries from achieving SDG targets for women and girls?  - Applying a gender lens to measuring distance to SDG targets](https://doi.org/10.1787/17a25070-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 July 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 July 2020 at 20:32
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 July 2020 at 8:58
-
-### Additional Information
-
-* Directorate: *Statistics and Data Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Estudios Económicos de la OCDE: Costa Rica 2020](https://doi.org/10.1787/84cbb575-es)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 July 2020 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 July 2020 at 20:22
-- [x] Exported to Keepeek Wednesday 15 July 2020 at 20:05
-- [x] Exported to OECD.org Thursday 16 July 2020 at 19:58
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Costa Rica 2020](https://doi.org/10.1787/2e0fea6c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 July 2020 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 July 2020 at 20:22
-- [x] Exported to Keepeek Wednesday 15 July 2020 at 20:05
-- [x] Exported to OECD.org Thursday 16 July 2020 at 19:58
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
+| *Friday 17 July 2020 at 20:44* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Perspectives agricoles de l'OCDE et de la FAO 2020-2029](https://doi.org/10.1787/ccc6f09c-fr)
 
@@ -84,7 +15,7 @@ Thursday 16 July 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 8 July 2020 at 20:32
 - [x] Exported to Keepeek Thursday 9 July 2020 at 20:13
-- [x] Exported to OECD.org Thursday 16 July 2020 at 19:58
+- [x] Exported to OECD.org Friday 17 July 2020 at 19:57
 
 ### Additional Information
 
@@ -107,7 +38,7 @@ Thursday 16 July 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 July 2020 at 20:23
 - [x] Exported to Keepeek Wednesday 8 July 2020 at 20:15
-- [x] Exported to OECD.org Thursday 16 July 2020 at 19:58
+- [x] Exported to OECD.org Friday 17 July 2020 at 19:57
 
 ### Additional Information
 
@@ -130,7 +61,7 @@ Monday 20 July 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 July 2020 at 20:23
 - [x] Exported to Keepeek Thursday 16 July 2020 at 20:10
-- [x] Exported to OECD.org Thursday 16 July 2020 at 19:58
+- [x] Exported to OECD.org Friday 17 July 2020 at 19:57
 
 ### Additional Information
 
@@ -153,7 +84,7 @@ Monday 20 July 2020 at 13:59 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 July 2020 at 20:23
 - [x] Exported to Keepeek Thursday 16 July 2020 at 20:10
-- [x] Exported to OECD.org Thursday 16 July 2020 at 19:58
+- [x] Exported to OECD.org Friday 17 July 2020 at 19:57
 
 ### Additional Information
 
@@ -230,7 +161,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -253,7 +184,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -299,7 +230,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -322,7 +253,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -368,7 +299,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -391,7 +322,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -414,7 +345,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -437,7 +368,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -460,7 +391,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -473,9 +404,9 @@ Wednesday 29 July 2020 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 26 June 2020 at 2:19
+- [x] Exported to iLibrary Friday 17 July 2020 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 25 June 2020 at 20:00
+- [x] Exported to OECD.org Friday 17 July 2020 at 19:57
 
 ### Additional Information
 
@@ -506,6 +437,29 @@ Wednesday 29 July 2020 at 15:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [Études économiques de l'OCDE : Afrique du Sud 2020  (version abrégée)](https://doi.org/10.1787/9230b350-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 31 July 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 17 July 2020 at 20:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 17 July 2020 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
@@ -514,14 +468,14 @@ Wednesday 29 July 2020 at 15:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 30 July 2020 at 22:00 | no launch event
+Friday 31 July 2020 at 8:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 16 June 2020 at 20:31
+- [x] Exported to iLibrary Friday 17 July 2020 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 June 2020 at 19:58
+- [x] Exported to OECD.org Friday 17 July 2020 at 19:57
 
 ### Additional Information
 
@@ -805,7 +759,7 @@ Tuesday 1 September 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -828,7 +782,7 @@ Tuesday 1 September 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -851,7 +805,7 @@ Tuesday 1 September 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -874,7 +828,7 @@ Tuesday 1 September 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -920,7 +874,7 @@ Tuesday 1 September 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -943,7 +897,7 @@ Tuesday 1 September 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -966,7 +920,7 @@ Tuesday 1 September 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
