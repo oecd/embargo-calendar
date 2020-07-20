@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 17 July 2020 at 20:44* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 20 July 2020 at 21:04* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [16 July 2020](#16-july-2020)
 * [20 July 2020](#20-july-2020)
 * [22 July 2020](#22-july-2020)
 * [23 July 2020](#23-july-2020)
@@ -17,56 +16,6 @@ Data generated on | |
 * [4 September 2020](#4-september-2020)
 * [8 September 2020](#8-september-2020)
 * [5 October 2020](#5-october-2020)
-
-------
-
-# 16 July 2020
-
-## [Perspectives agricoles de l'OCDE et de la FAO 2020-2029](https://doi.org/10.1787/ccc6f09c-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 July 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 8 July 2020 at 20:32
-- [x] Exported to Keepeek Thursday 9 July 2020 at 20:13
-- [x] Exported to OECD.org Friday 17 July 2020 at 19:57
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD-FAO Agricultural Outlook 2020-2029](https://doi.org/10.1787/1112c23b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 July 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 July 2020 at 20:23
-- [x] Exported to Keepeek Wednesday 8 July 2020 at 20:15
-- [x] Exported to OECD.org Friday 17 July 2020 at 19:57
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -157,16 +106,16 @@ Thursday 23 July 2020 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 9 July 2020 at 20:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 July 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 20 July 2020 at 20:27
+- [x] Exported to Keepeek Monday 20 July 2020 at 20:10
+- [x] Exported to OECD.org Monday 20 July 2020 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -184,16 +133,16 @@ Monday 27 July 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 July 2020 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 July 2020 at 20:01
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 20 July 2020 at 20:27
+- [x] Exported to Keepeek Monday 20 July 2020 at 20:10
+- [x] Exported to OECD.org Monday 20 July 2020 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -253,16 +202,16 @@ Monday 27 July 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 July 2020 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 July 2020 at 20:01
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 20 July 2020 at 20:27
+- [x] Exported to Keepeek Monday 20 July 2020 at 20:10
+- [x] Exported to OECD.org Monday 20 July 2020 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -276,16 +225,16 @@ Monday 27 July 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 July 2020 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 July 2020 at 20:01
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 20 July 2020 at 20:27
+- [x] Exported to Keepeek Monday 20 July 2020 at 20:10
+- [x] Exported to OECD.org Monday 20 July 2020 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -299,16 +248,16 @@ Monday 27 July 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 July 2020 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 July 2020 at 20:01
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 20 July 2020 at 20:27
+- [x] Exported to Keepeek Monday 20 July 2020 at 20:10
+- [x] Exported to OECD.org Monday 20 July 2020 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -414,16 +363,16 @@ Monday 27 July 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 July 2020 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 July 2020 at 20:01
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 20 July 2020 at 20:27
+- [x] Exported to Keepeek Monday 20 July 2020 at 20:10
+- [x] Exported to OECD.org Monday 20 July 2020 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
