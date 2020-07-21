@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 20 July 2020 at 21:04* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 21 July 2020 at 20:55* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [20 July 2020](#20-july-2020)
 * [22 July 2020](#22-july-2020)
@@ -10,7 +10,6 @@ Data generated on | |
 * [27 July 2020](#27-july-2020)
 * [29 July 2020](#29-july-2020)
 * [31 July 2020](#31-july-2020)
-* [12 August 2020](#12-august-2020)
 * [31 August 2020](#31-august-2020)
 * [1 September 2020](#1-september-2020)
 * [4 September 2020](#4-september-2020)
@@ -32,7 +31,7 @@ Monday 20 July 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 July 2020 at 20:23
 - [x] Exported to Keepeek Thursday 16 July 2020 at 20:10
-- [x] Exported to OECD.org Friday 17 July 2020 at 19:57
+- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
 
 ### Additional Information
 
@@ -55,7 +54,7 @@ Monday 20 July 2020 at 13:59 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 July 2020 at 20:23
 - [x] Exported to Keepeek Thursday 16 July 2020 at 20:10
-- [x] Exported to OECD.org Friday 17 July 2020 at 19:57
+- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
 
 ### Additional Information
 
@@ -79,16 +78,16 @@ Wednesday 22 July 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 3 July 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 July 2020 at 19:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
+- [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
+- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -109,7 +108,7 @@ Thursday 23 July 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 July 2020 at 20:27
 - [x] Exported to Keepeek Monday 20 July 2020 at 20:10
-- [x] Exported to OECD.org Monday 20 July 2020 at 19:57
+- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
 
 ### Additional Information
 
@@ -134,7 +133,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 July 2020 at 20:27
+- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
 - [x] Exported to Keepeek Monday 20 July 2020 at 20:10
 - [x] Exported to OECD.org Monday 20 July 2020 at 19:57
 
@@ -156,16 +155,16 @@ Monday 27 July 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 July 2020 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 July 2020 at 20:01
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
+- [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
+- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -179,16 +178,16 @@ Monday 27 July 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 July 2020 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 July 2020 at 20:01
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
+- [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
+- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -249,7 +248,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 July 2020 at 20:27
+- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
 - [x] Exported to Keepeek Monday 20 July 2020 at 20:10
 - [x] Exported to OECD.org Monday 20 July 2020 at 19:57
 
@@ -271,16 +270,16 @@ Monday 27 July 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 July 2020 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 July 2020 at 20:01
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
+- [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
+- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -294,16 +293,16 @@ Monday 27 July 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 July 2020 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 July 2020 at 20:01
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
+- [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
+- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -317,16 +316,16 @@ Monday 27 July 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 July 2020 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 July 2020 at 20:01
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
+- [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
+- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -340,16 +339,16 @@ Monday 27 July 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 July 2020 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 July 2020 at 20:01
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
+- [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
+- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -390,18 +389,18 @@ Wednesday 29 July 2020 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 17 July 2020 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 July 2020 at 19:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
+- [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
+- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -413,16 +412,16 @@ Wednesday 29 July 2020 at 15:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 July 2020 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 July 2020 at 20:01
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
+- [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
+- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
 
@@ -475,217 +474,6 @@ Friday 31 July 2020 at 8:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Format: *PDF*
-
-------
-
-------
-
-# 12 August 2020
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Anguilla 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/ac228609-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 12 August 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Greece 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/8279749f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 12 August 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Korea 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/97daef15-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 12 August 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Papua New Guinea 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/72fe35f0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 12 August 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Gibraltar 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/8b4242db-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 12 August 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Uruguay 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/22fe7fbc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 12 August 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Chile 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/ec2b5c7b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 12 August 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Malta 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/d92a4f90-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 12 August 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: People's Republic of China 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/1069fca1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 12 August 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
 
 ------
 
@@ -924,6 +712,213 @@ Tuesday 1 September 2020 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Anguilla 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/ac228609-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 1 September 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Greece 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/8279749f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 1 September 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Korea 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/97daef15-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 1 September 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Papua New Guinea 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/72fe35f0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 1 September 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Gibraltar 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/8b4242db-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 1 September 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Uruguay 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/22fe7fbc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 1 September 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Chile 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/ec2b5c7b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 1 September 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Malta 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/d92a4f90-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 1 September 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: People's Republic of China 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/1069fca1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 1 September 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
