@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 22 July 2020 at 20:48* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 23 July 2020 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Greece 2020](https://doi.org/10.1787/b04b25de-en)
 
@@ -13,9 +13,9 @@ Wednesday 22 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
+- [x] Exported to iLibrary Thursday 23 July 2020 at 20:20
 - [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
-- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+- [x] Exported to OECD.org Thursday 23 July 2020 at 19:58
 
 ### Additional Information
 
@@ -36,7 +36,7 @@ Thursday 23 July 2020 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 July 2020 at 20:27
+- [x] Exported to iLibrary Thursday 23 July 2020 at 20:20
 - [x] Exported to Keepeek Monday 20 July 2020 at 20:10
 - [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
 
