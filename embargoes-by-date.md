@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 23 July 2020 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 24 July 2020 at 20:48* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [22 July 2020](#22-july-2020)
 * [23 July 2020](#23-july-2020)
 * [27 July 2020](#27-july-2020)
 * [29 July 2020](#29-july-2020)
@@ -15,33 +14,6 @@ Data generated on | |
 * [8 September 2020](#8-september-2020)
 * [5 October 2020](#5-october-2020)
 * [8 October 2020](#8-october-2020)
-
-------
-
-# 22 July 2020
-
-## [OECD Economic Surveys: Greece 2020](https://doi.org/10.1787/b04b25de-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 22 July 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 July 2020 at 20:20
-- [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
-- [x] Exported to OECD.org Thursday 23 July 2020 at 19:58
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -58,7 +30,7 @@ Thursday 23 July 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 July 2020 at 20:20
 - [x] Exported to Keepeek Monday 20 July 2020 at 20:10
-- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
 ### Additional Information
 
@@ -66,7 +38,7 @@ Thursday 23 July 2020 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -85,7 +57,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
 - [x] Exported to Keepeek Monday 20 July 2020 at 20:10
-- [x] Exported to OECD.org Monday 20 July 2020 at 19:57
+- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
 ### Additional Information
 
@@ -108,7 +80,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
 - [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
-- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
 ### Additional Information
 
@@ -131,7 +103,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
 - [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
-- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
 ### Additional Information
 
@@ -154,7 +126,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
 - [x] Exported to Keepeek Monday 20 July 2020 at 20:10
-- [x] Exported to OECD.org Monday 20 July 2020 at 19:57
+- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
 ### Additional Information
 
@@ -177,7 +149,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
 - [x] Exported to Keepeek Monday 20 July 2020 at 20:10
-- [x] Exported to OECD.org Monday 20 July 2020 at 19:57
+- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
 ### Additional Information
 
@@ -200,7 +172,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
 - [x] Exported to Keepeek Monday 20 July 2020 at 20:10
-- [x] Exported to OECD.org Monday 20 July 2020 at 19:57
+- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
 ### Additional Information
 
@@ -223,7 +195,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
 - [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
-- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
 ### Additional Information
 
@@ -246,7 +218,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
 - [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
-- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
 ### Additional Information
 
@@ -269,7 +241,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
 - [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
-- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
 ### Additional Information
 
@@ -292,7 +264,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
 - [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
-- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
 ### Additional Information
 
@@ -315,7 +287,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
 - [x] Exported to Keepeek Monday 20 July 2020 at 20:10
-- [x] Exported to OECD.org Monday 20 July 2020 at 19:57
+- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
 ### Additional Information
 
@@ -513,9 +485,9 @@ Tuesday 1 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
+- [x] Exported to iLibrary Friday 24 July 2020 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 July 2020 at 19:58
+- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
 ### Additional Information
 
@@ -628,9 +600,9 @@ Tuesday 1 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
+- [x] Exported to iLibrary Friday 24 July 2020 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 July 2020 at 19:58
+- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
 ### Additional Information
 
