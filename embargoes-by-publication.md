@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 24 July 2020 at 20:48* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Revenue Statistics in Asian and Pacific Economies 2020](https://doi.org/10.1787/d47d0ae3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 July 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 July 2020 at 20:20
-- [x] Exported to Keepeek Monday 20 July 2020 at 20:10
-- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Monday 27 July 2020 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Making Dispute Resolution More Effective - MAP Peer Review Report, the Faroe Islands (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/3b65b08d-en)
 
@@ -36,7 +13,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
+- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Monday 20 July 2020 at 20:10
 - [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
@@ -46,7 +23,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -59,7 +36,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
+- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
 - [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
@@ -69,7 +46,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -82,7 +59,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
+- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
 - [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
@@ -92,7 +69,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -105,7 +82,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
+- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Monday 20 July 2020 at 20:10
 - [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
@@ -115,7 +92,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -128,7 +105,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
+- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Monday 20 July 2020 at 20:10
 - [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
@@ -138,7 +115,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -151,7 +128,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
+- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Monday 20 July 2020 at 20:10
 - [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
@@ -161,7 +138,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -174,7 +151,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
+- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
 - [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
@@ -184,7 +161,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -197,7 +174,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
+- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
 - [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
@@ -207,7 +184,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -220,7 +197,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
+- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
 - [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
@@ -230,7 +207,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -243,7 +220,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
+- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
 - [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
@@ -253,7 +230,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -266,7 +243,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
+- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Monday 20 July 2020 at 20:10
 - [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
@@ -276,7 +253,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -289,7 +266,7 @@ Wednesday 29 July 2020 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
+- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
 - [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
 
@@ -299,7 +276,7 @@ Wednesday 29 July 2020 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -312,7 +289,7 @@ Wednesday 29 July 2020 at 15:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
+- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
 - [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
 
@@ -322,7 +299,7 @@ Wednesday 29 July 2020 at 15:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -335,9 +312,9 @@ Friday 31 July 2020 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 17 July 2020 at 20:22
+- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 July 2020 at 19:57
+- [x] Exported to OECD.org Monday 27 July 2020 at 19:56
 
 ### Additional Information
 
@@ -358,9 +335,9 @@ Friday 31 July 2020 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 July 2020 at 20:22
+- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 July 2020 at 19:57
+- [x] Exported to OECD.org Monday 27 July 2020 at 19:56
 
 ### Additional Information
 
@@ -369,6 +346,29 @@ Friday 31 July 2020 at 8:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Korea 2020](https://doi.org/10.1787/2dde9480-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 August 2020 at 6:40 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -427,9 +427,9 @@ Tuesday 1 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
+- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 July 2020 at 19:58
+- [x] Exported to OECD.org Monday 27 July 2020 at 19:56
 
 ### Additional Information
 
@@ -519,9 +519,9 @@ Tuesday 1 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
+- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 July 2020 at 19:58
+- [x] Exported to OECD.org Monday 27 July 2020 at 19:56
 
 ### Additional Information
 
@@ -542,9 +542,9 @@ Tuesday 1 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
+- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 July 2020 at 19:58
+- [x] Exported to OECD.org Monday 27 July 2020 at 19:56
 
 ### Additional Information
 
@@ -804,6 +804,29 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Tax Policy Reforms 2020 - OECD and Selected Partner Economies](https://doi.org/10.1787/7af51916-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 3 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
