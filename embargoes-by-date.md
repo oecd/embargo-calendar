@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 27 July 2020 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 28 July 2020 at 20:46* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [27 July 2020](#27-july-2020)
 * [29 July 2020](#29-july-2020)
@@ -13,6 +13,7 @@ Data generated on | |
 * [3 September 2020](#3-september-2020)
 * [4 September 2020](#4-september-2020)
 * [8 September 2020](#8-september-2020)
+* [29 September 2020](#29-september-2020)
 * [5 October 2020](#5-october-2020)
 * [8 October 2020](#8-october-2020)
 
@@ -31,7 +32,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Monday 20 July 2020 at 20:10
-- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 28 July 2020 at 19:59
 
 ### Additional Information
 
@@ -54,7 +55,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
-- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 28 July 2020 at 19:59
 
 ### Additional Information
 
@@ -77,7 +78,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
-- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 28 July 2020 at 19:59
 
 ### Additional Information
 
@@ -100,7 +101,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Monday 20 July 2020 at 20:10
-- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 28 July 2020 at 19:59
 
 ### Additional Information
 
@@ -123,7 +124,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Monday 20 July 2020 at 20:10
-- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 28 July 2020 at 19:59
 
 ### Additional Information
 
@@ -146,7 +147,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Monday 20 July 2020 at 20:10
-- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 28 July 2020 at 19:59
 
 ### Additional Information
 
@@ -169,7 +170,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
-- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 28 July 2020 at 19:59
 
 ### Additional Information
 
@@ -192,7 +193,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
-- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 28 July 2020 at 19:59
 
 ### Additional Information
 
@@ -215,7 +216,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
-- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 28 July 2020 at 19:59
 
 ### Additional Information
 
@@ -238,7 +239,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
-- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 28 July 2020 at 19:59
 
 ### Additional Information
 
@@ -261,7 +262,7 @@ Monday 27 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Monday 20 July 2020 at 20:10
-- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 28 July 2020 at 19:59
 
 ### Additional Information
 
@@ -288,7 +289,7 @@ Wednesday 29 July 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
-- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+- [x] Exported to OECD.org Tuesday 28 July 2020 at 19:59
 
 ### Additional Information
 
@@ -296,7 +297,7 @@ Wednesday 29 July 2020 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -311,7 +312,7 @@ Wednesday 29 July 2020 at 15:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
-- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+- [x] Exported to OECD.org Tuesday 28 July 2020 at 19:59
 
 ### Additional Information
 
@@ -327,29 +328,6 @@ Wednesday 29 July 2020 at 15:00 | no launch event
 
 # 31 July 2020
 
-## [Études économiques de l'OCDE : Afrique du Sud 2020  (version abrégée)](https://doi.org/10.1787/9230b350-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 31 July 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 July 2020 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
 ## [OECD Economic Surveys: South Africa 2020](https://doi.org/10.1787/530e7ce0-en)
 
 Embargo date | Launch date
@@ -359,15 +337,15 @@ Friday 31 July 2020 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 July 2020 at 19:56
+- [x] Exported to iLibrary Tuesday 28 July 2020 at 20:23
+- [x] Exported to Keepeek Tuesday 28 July 2020 at 20:11
+- [x] Exported to OECD.org Tuesday 28 July 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -928,6 +906,33 @@ Tuesday 8 September 2020 at 9:00 | no launch event
 
 ------
 
+# 29 September 2020
+
+## [PISA 2018 Results (Volume V) - Effective Policies, Successful Schools](https://doi.org/10.1787/ca768d40-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 29 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 28 July 2020 at 20:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 28 July 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
 # 5 October 2020
 
 ## [OECD Environmental Performance Reviews: Greece 2020](https://doi.org/10.1787/cec20289-en)
@@ -956,6 +961,29 @@ Monday 5 October 2020 at 7:00 | no launch event
 ------
 
 # 8 October 2020
+
+## [OECD Environmental Performance Reviews: Luxembourg 2020](https://doi.org/10.1787/fd9f43e6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 October 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [Examens environnementaux de l'OCDE : Luxembourg 2020](https://doi.org/10.1787/91951f4d-fr)
 
