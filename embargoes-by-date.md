@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 29 July 2020 at 20:41* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 30 July 2020 at 21:08* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [29 July 2020](#29-july-2020)
 * [31 July 2020](#31-july-2020)
@@ -12,6 +12,7 @@ Data generated on | |
 * [3 September 2020](#3-september-2020)
 * [4 September 2020](#4-september-2020)
 * [8 September 2020](#8-september-2020)
+* [15 September 2020](#15-september-2020)
 * [29 September 2020](#29-september-2020)
 * [5 October 2020](#5-october-2020)
 * [8 October 2020](#8-october-2020)
@@ -31,7 +32,7 @@ Wednesday 29 July 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
-- [x] Exported to OECD.org Tuesday 28 July 2020 at 19:59
+- [x] Exported to OECD.org Thursday 30 July 2020 at 19:58
 
 ### Additional Information
 
@@ -54,7 +55,7 @@ Wednesday 29 July 2020 at 15:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 July 2020 at 20:20
 - [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
-- [x] Exported to OECD.org Tuesday 28 July 2020 at 19:59
+- [x] Exported to OECD.org Thursday 30 July 2020 at 19:58
 
 ### Additional Information
 
@@ -81,7 +82,7 @@ Friday 31 July 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 29 July 2020 at 20:18
 - [x] Exported to Keepeek Wednesday 29 July 2020 at 20:07
-- [x] Exported to OECD.org Wednesday 29 July 2020 at 19:56
+- [x] Exported to OECD.org Thursday 30 July 2020 at 19:58
 
 ### Additional Information
 
@@ -183,7 +184,7 @@ Tuesday 1 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
+- [x] Exported to iLibrary Thursday 30 July 2020 at 20:27
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 27 July 2020 at 19:56
 
@@ -206,7 +207,7 @@ Tuesday 1 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 24 July 2020 at 20:23
+- [x] Exported to iLibrary Thursday 30 July 2020 at 20:27
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
@@ -229,7 +230,7 @@ Tuesday 1 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
+- [x] Exported to iLibrary Thursday 30 July 2020 at 20:27
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 22 July 2020 at 19:58
 
@@ -252,7 +253,7 @@ Tuesday 1 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
+- [x] Exported to iLibrary Thursday 30 July 2020 at 20:27
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 22 July 2020 at 19:58
 
@@ -275,7 +276,7 @@ Tuesday 1 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
+- [x] Exported to iLibrary Thursday 30 July 2020 at 20:27
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 27 July 2020 at 19:56
 
@@ -298,7 +299,7 @@ Tuesday 1 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
+- [x] Exported to iLibrary Thursday 30 July 2020 at 20:27
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 27 July 2020 at 19:56
 
@@ -321,7 +322,7 @@ Tuesday 1 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 24 July 2020 at 20:23
+- [x] Exported to iLibrary Thursday 30 July 2020 at 20:27
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 24 July 2020 at 19:58
 
@@ -344,7 +345,7 @@ Tuesday 1 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 22 July 2020 at 20:21
+- [x] Exported to iLibrary Thursday 30 July 2020 at 20:27
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 22 July 2020 at 19:58
 
@@ -639,6 +640,33 @@ Tuesday 8 September 2020 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 15 September 2020
+
+## [Country-by-Country Reporting – Compilation of Peer Review Reports (Phase 3)  - Inclusive Framework on BEPS: Action 13 ](https://doi.org/10.1787/fa6d31d7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
