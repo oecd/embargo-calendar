@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 30 July 2020 at 21:08* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 31 July 2020 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [29 July 2020](#29-july-2020)
 * [31 July 2020](#31-july-2020)
 * [11 August 2020](#11-august-2020)
 * [31 August 2020](#31-august-2020)
@@ -16,56 +15,6 @@ Data generated on | |
 * [29 September 2020](#29-september-2020)
 * [5 October 2020](#5-october-2020)
 * [8 October 2020](#8-october-2020)
-
-------
-
-# 29 July 2020
-
-## [Accelerating Climate Action in Israel - Refocusing Mitigation Policies for the Electricity, Residential and Transport Sectors](https://doi.org/10.1787/fb32aabd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 July 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
-- [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
-- [x] Exported to OECD.org Thursday 30 July 2020 at 19:58
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Production Transformation Policy Review of the Dominican Republic - Preserving Growth, Achieving Resilience](https://doi.org/10.1787/1201cfea-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 July 2020 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
-- [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
-- [x] Exported to OECD.org Thursday 30 July 2020 at 19:58
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 

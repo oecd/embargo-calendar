@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 30 July 2020 at 21:08* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Accelerating Climate Action in Israel - Refocusing Mitigation Policies for the Electricity, Residential and Transport Sectors](https://doi.org/10.1787/fb32aabd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 July 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
-- [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
-- [x] Exported to OECD.org Thursday 30 July 2020 at 19:58
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Production Transformation Policy Review of the Dominican Republic - Preserving Growth, Achieving Resilience](https://doi.org/10.1787/1201cfea-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 July 2020 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 July 2020 at 20:20
-- [x] Exported to Keepeek Tuesday 21 July 2020 at 20:11
-- [x] Exported to OECD.org Thursday 30 July 2020 at 19:58
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Friday 31 July 2020 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: South Africa 2020](https://doi.org/10.1787/530e7ce0-en)
 
