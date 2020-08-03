@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 31 July 2020 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 3 August 2020 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [31 July 2020](#31-july-2020)
 * [11 August 2020](#11-august-2020)
 * [31 August 2020](#31-august-2020)
 * [1 September 2020](#1-september-2020)
@@ -15,33 +14,6 @@ Data generated on | |
 * [29 September 2020](#29-september-2020)
 * [5 October 2020](#5-october-2020)
 * [8 October 2020](#8-october-2020)
-
-------
-
-# 31 July 2020
-
-## [OECD Economic Surveys: South Africa 2020](https://doi.org/10.1787/530e7ce0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 31 July 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 29 July 2020 at 20:18
-- [x] Exported to Keepeek Wednesday 29 July 2020 at 20:07
-- [x] Exported to OECD.org Thursday 30 July 2020 at 19:58
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -56,15 +28,15 @@ Tuesday 11 August 2020 at 6:40 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 3 August 2020 at 20:21
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 3 August 2020 at 19:55
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -93,7 +65,7 @@ Monday 31 August 2020 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
