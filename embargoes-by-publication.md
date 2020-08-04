@@ -2,20 +2,20 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 3 August 2020 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 4 August 2020 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Korea 2020](https://doi.org/10.1787/2dde9480-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 11 August 2020 at 6:40 | no launch event
+Tuesday 11 August 2020 at 6:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 3 August 2020 at 20:21
+- [x] Exported to iLibrary Tuesday 4 August 2020 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 August 2020 at 19:55
+- [x] Exported to OECD.org Tuesday 4 August 2020 at 19:57
 
 ### Additional Information
 

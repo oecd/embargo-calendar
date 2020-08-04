@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 3 August 2020 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 4 August 2020 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [11 August 2020](#11-august-2020)
 * [31 August 2020](#31-august-2020)
@@ -23,14 +23,14 @@ Data generated on | |
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 11 August 2020 at 6:40 | no launch event
+Tuesday 11 August 2020 at 6:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 3 August 2020 at 20:21
+- [x] Exported to iLibrary Tuesday 4 August 2020 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 August 2020 at 19:55
+- [x] Exported to OECD.org Tuesday 4 August 2020 at 19:57
 
 ### Additional Information
 
