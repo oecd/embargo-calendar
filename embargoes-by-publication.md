@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 4 August 2020 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 5 August 2020 at 20:48* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Korea 2020](https://doi.org/10.1787/2dde9480-en)
 
@@ -47,29 +47,6 @@ Monday 31 August 2020 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
-
-------
-
-## [Linking Indigenous Communities with Regional Development in Australia](https://doi.org/10.1787/ab4d8d52-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 September 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
 
 ------
 
@@ -642,6 +619,29 @@ Thursday 8 October 2020 at 7:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Linking Indigenous Communities with Regional Development in Australia](https://doi.org/10.1787/ab4d8d52-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 November 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*

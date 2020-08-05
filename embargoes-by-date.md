@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 4 August 2020 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 5 August 2020 at 20:48* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [11 August 2020](#11-august-2020)
 * [31 August 2020](#31-august-2020)
@@ -14,6 +14,7 @@ Data generated on | |
 * [29 September 2020](#29-september-2020)
 * [5 October 2020](#5-october-2020)
 * [8 October 2020](#8-october-2020)
+* [16 November 2020](#16-november-2020)
 
 ------
 
@@ -72,29 +73,6 @@ Monday 31 August 2020 at 10:00 | no launch event
 ------
 
 # 1 September 2020
-
-## [Linking Indigenous Communities with Regional Development in Australia](https://doi.org/10.1787/ab4d8d52-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 September 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
 
 ## [Making Dispute Resolution More Effective - MAP Peer Review Report, Singapore (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/3d152880-en)
 
@@ -693,6 +671,33 @@ Thursday 8 October 2020 at 7:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 16 November 2020
+
+## [Linking Indigenous Communities with Regional Development in Australia](https://doi.org/10.1787/ab4d8d52-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 November 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
