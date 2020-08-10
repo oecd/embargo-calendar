@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2020-08-07T20:52:47.1739534+02:00">
+<report name="official-embargoes" generated="2020-08-10T21:07:57.003904+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -73,7 +73,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-08-06T18:22:21Z</cell>
     <cell name="freepreview last export date">2020-08-06T18:09:43Z</cell>
-    <cell name="oecd.org last export date">2020-08-07T17:59:14Z</cell>
+    <cell name="oecd.org last export date">2020-08-10T18:01:56Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Economic survey</cell>
@@ -93,7 +93,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-08-07T18:26:46Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-08-07T17:59:14Z</cell>
+    <cell name="oecd.org last export date">2020-08-10T18:01:56Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -133,7 +133,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-08-07T18:26:46Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-08-07T17:59:14Z</cell>
+    <cell name="oecd.org last export date">2020-08-10T18:01:56Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -781,6 +781,46 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86b347c0</cell>
   </row>
   <row index="39">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/872d016c-en</cell>
+    <cell name="title">OECD Tax Policy Reviews: Kazakhstan 2020 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-09-14T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62dfb363</cell>
+  </row>
+  <row index="40">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/872d016c-en</cell>
+    <cell name="title">OECD Tax Policy Reviews: Kazakhstan 2020 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-09-14T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c88ad103</cell>
+  </row>
+  <row index="41">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ab4d8d52-en</cell>
     <cell name="title">Linking Indigenous Communities with Regional Development in Australia (en)</cell>
@@ -800,7 +840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5b037208</cell>
   </row>
-  <row index="40">
+  <row index="42">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fa6d31d7-en</cell>
     <cell name="title">Country-by-Country Reporting – Compilation of Peer Review Reports (Phase 3)  (en)</cell>
@@ -820,7 +860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d0950724</cell>
   </row>
-  <row index="41">
+  <row index="43">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fa6d31d7-en</cell>
     <cell name="title">Country-by-Country Reporting – Compilation of Peer Review Reports (Phase 3)  (en)</cell>
@@ -840,7 +880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/51760323</cell>
   </row>
-  <row index="42">
+  <row index="44">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ca768d40-en</cell>
     <cell name="title">PISA 2018 Results (Volume V) (en)</cell>
@@ -860,7 +900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5e7be0de</cell>
   </row>
-  <row index="43">
+  <row index="45">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/cec20289-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Greece 2020 (en)</cell>
@@ -880,7 +920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53246b72</cell>
   </row>
-  <row index="44">
+  <row index="46">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/cec20289-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Greece 2020 (en)</cell>
@@ -900,7 +940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8a7309ec</cell>
   </row>
-  <row index="45">
+  <row index="47">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/fd9f43e6-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Luxembourg 2020 (en)</cell>
@@ -920,7 +960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5943a7f</cell>
   </row>
-  <row index="46">
+  <row index="48">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/91951f4d-fr</cell>
     <cell name="title">Examens environnementaux de l'OCDE : Luxembourg 2020 (fr)</cell>
@@ -940,7 +980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41f25a64</cell>
   </row>
-  <row index="47">
+  <row index="49">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/fd9f43e6-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Luxembourg 2020 (en)</cell>
@@ -960,7 +1000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5c323666</cell>
   </row>
-  <row index="48">
+  <row index="50">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/91951f4d-fr</cell>
     <cell name="title">Examens environnementaux de l'OCDE : Luxembourg 2020 (fr)</cell>
@@ -980,7 +1020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/99b595a5</cell>
   </row>
-  <row index="49">
+  <row index="51">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ab4d8d52-en</cell>
     <cell name="title">Linking Indigenous Communities with Regional Development in Australia (en)</cell>

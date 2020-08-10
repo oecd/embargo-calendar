@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 7 August 2020 at 20:52* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 10 August 2020 at 21:07* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [10 August 2020](#10-august-2020)
 * [11 August 2020](#11-august-2020)
@@ -11,6 +11,7 @@ Data generated on | |
 * [3 September 2020](#3-september-2020)
 * [4 September 2020](#4-september-2020)
 * [8 September 2020](#8-september-2020)
+* [14 September 2020](#14-september-2020)
 * [15 September 2020](#15-september-2020)
 * [29 September 2020](#29-september-2020)
 * [5 October 2020](#5-october-2020)
@@ -82,7 +83,7 @@ Tuesday 11 August 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 6 August 2020 at 20:22
 - [x] Exported to Keepeek Thursday 6 August 2020 at 20:09
-- [x] Exported to OECD.org Friday 7 August 2020 at 19:59
+- [x] Exported to OECD.org Monday 10 August 2020 at 20:01
 
 ### Additional Information
 
@@ -105,7 +106,7 @@ Tuesday 11 August 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 7 August 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 7 August 2020 at 19:59
+- [x] Exported to OECD.org Monday 10 August 2020 at 20:01
 
 ### Additional Information
 
@@ -128,7 +129,7 @@ Tuesday 11 August 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 7 August 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 7 August 2020 at 19:59
+- [x] Exported to OECD.org Monday 10 August 2020 at 20:01
 
 ### Additional Information
 
@@ -636,6 +637,33 @@ Tuesday 8 September 2020 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 14 September 2020
+
+## [OECD Tax Policy Reviews: Kazakhstan 2020](https://doi.org/10.1787/872d016c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
