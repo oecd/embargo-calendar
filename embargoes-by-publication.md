@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 10 August 2020 at 21:07* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 11 August 2020 at 20:49* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Remote online exams in higher education during the COVID-19 crisis](https://doi.org/10.1787/f53e2177-en)
 
@@ -15,7 +15,7 @@ Monday 10 August 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 6 August 2020 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 7 August 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 11 August 2020 at 19:58
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 10 August 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 6 August 2020 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 7 August 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 11 August 2020 at 19:58
 
 ### Additional Information
 

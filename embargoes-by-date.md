@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 10 August 2020 at 21:07* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 11 August 2020 at 20:49* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [10 August 2020](#10-august-2020)
 * [11 August 2020](#11-august-2020)
@@ -33,7 +33,7 @@ Monday 10 August 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 6 August 2020 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 7 August 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 11 August 2020 at 19:58
 
 ### Additional Information
 
@@ -56,7 +56,7 @@ Monday 10 August 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 6 August 2020 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 7 August 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 11 August 2020 at 19:58
 
 ### Additional Information
 
