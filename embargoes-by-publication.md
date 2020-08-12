@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 11 August 2020 at 20:49* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Remote online exams in higher education during the COVID-19 crisis](https://doi.org/10.1787/f53e2177-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 August 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 August 2020 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 August 2020 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Reassessing the regressivity of the VAT](https://doi.org/10.1787/b76ced82-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 August 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 August 2020 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 August 2020 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Wednesday 12 August 2020 at 20:49* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Korea 2020](https://doi.org/10.1787/2dde9480-en)
 
@@ -61,7 +15,7 @@ Tuesday 11 August 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 6 August 2020 at 20:22
 - [x] Exported to Keepeek Thursday 6 August 2020 at 20:09
-- [x] Exported to OECD.org Monday 10 August 2020 at 20:01
+- [x] Exported to OECD.org Wednesday 12 August 2020 at 19:58
 
 ### Additional Information
 
@@ -84,7 +38,7 @@ Tuesday 11 August 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 7 August 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 August 2020 at 20:01
+- [x] Exported to OECD.org Wednesday 12 August 2020 at 19:58
 
 ### Additional Information
 
@@ -107,7 +61,7 @@ Tuesday 11 August 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 7 August 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 August 2020 at 20:01
+- [x] Exported to OECD.org Wednesday 12 August 2020 at 19:58
 
 ### Additional Information
 
