@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 12 August 2020 at 20:49* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 13 August 2020 at 20:50* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [11 August 2020](#11-august-2020)
 * [31 August 2020](#31-august-2020)
 * [1 September 2020](#1-september-2020)
 * [3 September 2020](#3-september-2020)
@@ -16,79 +15,6 @@ Data generated on | |
 * [5 October 2020](#5-october-2020)
 * [8 October 2020](#8-october-2020)
 * [16 November 2020](#16-november-2020)
-
-------
-
-# 11 August 2020
-
-## [OECD Economic Surveys: Korea 2020](https://doi.org/10.1787/2dde9480-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 August 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 August 2020 at 20:22
-- [x] Exported to Keepeek Thursday 6 August 2020 at 20:09
-- [x] Exported to OECD.org Wednesday 12 August 2020 at 19:58
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [The 2018-2021 working time reform in Korea: A preliminary assessment](https://doi.org/10.1787/0e828066-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 August 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 7 August 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 August 2020 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Identifying and addressing employment barriers in Belgium, Korea and Norway - Implementing the OECD Jobs Strategy](https://doi.org/10.1787/925b3c14-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 August 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 7 August 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 August 2020 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
