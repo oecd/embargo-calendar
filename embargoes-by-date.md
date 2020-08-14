@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 13 August 2020 at 20:50* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 14 August 2020 at 21:10* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [31 August 2020](#31-august-2020)
 * [1 September 2020](#1-september-2020)
@@ -250,7 +250,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -273,7 +273,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -296,7 +296,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -319,7 +319,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -342,7 +342,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -365,7 +365,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -388,7 +388,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -411,7 +411,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -434,7 +434,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 

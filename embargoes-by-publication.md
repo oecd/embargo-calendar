@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 13 August 2020 at 20:50* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 14 August 2020 at 21:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Improving School Quality in Norway 2020 - Progress with the Competence Development Model](https://doi.org/10.1787/16af18a0-en)
 
@@ -230,7 +230,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -253,7 +253,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -276,7 +276,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -299,7 +299,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -322,7 +322,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -345,7 +345,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -368,7 +368,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -391,7 +391,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -414,7 +414,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
