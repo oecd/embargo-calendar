@@ -2,10 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 14 August 2020 at 21:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 17 August 2020 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [31 August 2020](#31-august-2020)
 * [1 September 2020](#1-september-2020)
+* [2 September 2020](#2-september-2020)
 * [3 September 2020](#3-september-2020)
 * [4 September 2020](#4-september-2020)
 * [8 September 2020](#8-september-2020)
@@ -14,222 +14,12 @@ Data generated on | |
 * [29 September 2020](#29-september-2020)
 * [5 October 2020](#5-october-2020)
 * [8 October 2020](#8-october-2020)
+* [20 October 2020](#20-october-2020)
 * [16 November 2020](#16-november-2020)
 
 ------
 
-# 31 August 2020
-
-## [Improving School Quality in Norway 2020 - Progress with the Competence Development Model](https://doi.org/10.1787/16af18a0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 31 August 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-------
-
 # 1 September 2020
-
-## [Making Dispute Resolution More Effective - MAP Peer Review Report, Singapore (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/3d152880-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 30 July 2020 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 July 2020 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective - MAP Peer Review Report, Korea (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/a06e58db-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 30 July 2020 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective - MAP Peer Review Report, Spain (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/8f4792bc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 30 July 2020 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 July 2020 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective - MAP Peer Review Report, Czech Republic (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/b8ee5001-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 30 July 2020 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 July 2020 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective - MAP Peer Review Report, Poland (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/ea220bff-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 30 July 2020 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 July 2020 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective - MAP Peer Review Report, Denmark (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/bd0276f1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 30 July 2020 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 July 2020 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective - MAP Peer Review Report, Finland (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/64a87e14-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 30 July 2020 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 July 2020 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective - MAP Peer Review Report, Norway (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/48127451-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 30 July 2020 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 July 2020 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Anguilla 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/ac228609-en)
 
@@ -440,6 +230,33 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 
 ------
 
+# 2 September 2020
+
+## [All Hands In? Making Diversity Work for All](https://doi.org/10.1787/efb14583-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 2 September 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 17 August 2020 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 17 August 2020 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
 # 3 September 2020
 
 ## [Tax Policy Reforms 2020 - OECD and Selected Partner Economies](https://doi.org/10.1787/7af51916-en)
@@ -549,6 +366,190 @@ Monday 14 September 2020 at 9:00 | no launch event
 ------
 
 # 15 September 2020
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Singapore (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/3d152880-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 17 August 2020 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 17 August 2020 at 19:56
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Korea (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/a06e58db-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 17 August 2020 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 17 August 2020 at 19:56
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Spain (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/8f4792bc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 17 August 2020 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 17 August 2020 at 19:56
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Czech Republic (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/b8ee5001-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 17 August 2020 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 17 August 2020 at 19:56
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Poland (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/ea220bff-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 17 August 2020 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 17 August 2020 at 19:56
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Denmark (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/bd0276f1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 17 August 2020 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 17 August 2020 at 19:56
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Finland (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/64a87e14-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 17 August 2020 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 17 August 2020 at 19:56
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Norway (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/48127451-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 17 August 2020 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 17 August 2020 at 19:56
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
 
 ## [Country-by-Country Reporting – Compilation of Peer Review Reports (Phase 3)  - Inclusive Framework on BEPS: Action 13 ](https://doi.org/10.1787/fa6d31d7-en)
 
@@ -674,6 +675,33 @@ Thursday 8 October 2020 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 20 October 2020
+
+## [Improving School Quality in Norway 2020 - Progress with the Competence Development Model](https://doi.org/10.1787/16af18a0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 20 October 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
