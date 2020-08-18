@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 17 August 2020 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 18 August 2020 at 20:54* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [1 September 2020](#1-september-2020)
 * [2 September 2020](#2-september-2020)
@@ -376,9 +376,9 @@ Tuesday 15 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 17 August 2020 at 20:21
+- [x] Exported to iLibrary Tuesday 18 August 2020 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 August 2020 at 19:56
+- [x] Exported to OECD.org Tuesday 18 August 2020 at 20:00
 
 ### Additional Information
 
@@ -399,9 +399,9 @@ Tuesday 15 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 17 August 2020 at 20:21
+- [x] Exported to iLibrary Tuesday 18 August 2020 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 August 2020 at 19:56
+- [x] Exported to OECD.org Tuesday 18 August 2020 at 20:00
 
 ### Additional Information
 
@@ -422,9 +422,9 @@ Tuesday 15 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 17 August 2020 at 20:21
+- [x] Exported to iLibrary Tuesday 18 August 2020 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 August 2020 at 19:56
+- [x] Exported to OECD.org Tuesday 18 August 2020 at 20:00
 
 ### Additional Information
 
@@ -445,9 +445,9 @@ Tuesday 15 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 17 August 2020 at 20:21
+- [x] Exported to iLibrary Tuesday 18 August 2020 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 August 2020 at 19:56
+- [x] Exported to OECD.org Tuesday 18 August 2020 at 20:00
 
 ### Additional Information
 
@@ -468,9 +468,9 @@ Tuesday 15 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 17 August 2020 at 20:21
+- [x] Exported to iLibrary Tuesday 18 August 2020 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 August 2020 at 19:56
+- [x] Exported to OECD.org Tuesday 18 August 2020 at 20:00
 
 ### Additional Information
 
@@ -491,9 +491,9 @@ Tuesday 15 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 17 August 2020 at 20:21
+- [x] Exported to iLibrary Tuesday 18 August 2020 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 August 2020 at 19:56
+- [x] Exported to OECD.org Tuesday 18 August 2020 at 20:00
 
 ### Additional Information
 
@@ -514,9 +514,9 @@ Tuesday 15 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 17 August 2020 at 20:21
+- [x] Exported to iLibrary Tuesday 18 August 2020 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 August 2020 at 19:56
+- [x] Exported to OECD.org Tuesday 18 August 2020 at 20:00
 
 ### Additional Information
 
@@ -537,9 +537,9 @@ Tuesday 15 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 17 August 2020 at 20:21
+- [x] Exported to iLibrary Tuesday 18 August 2020 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 August 2020 at 19:56
+- [x] Exported to OECD.org Tuesday 18 August 2020 at 20:00
 
 ### Additional Information
 
