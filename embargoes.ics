@@ -2,7 +2,45 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/ac228609-end3e63
+UID:10.1787/f8c71341-end3e63
+SUMMARY:The Structure of Livestock Trade in West
+  Africa
+DESCRIPTION:*The Structure of Livestock Trade in Wes
+ t Africa*\n\nDirectorate: Sahel and West
+  Africa Club\nLanguage: English\nDOI: ht
+ tps://doi.org/10.1787/f8c71341-en\nPubli
+ cation type: Paper\nReleased as: PDF\n\n
+ Embargo date/time: Tuesday, 1 September 
+ 2020, 5:00 (GMT)\n\n\niLibrary export: n
+ ever\nFreepreview export: never\nOECD.or
+ g export: never\nFTI loaded: ✗\n\nFor mo
+ re information see: https://oecd.github.
+ io/embargo-calendar/embargoes-by-publica
+ tion.html.\n\nPlease note: This informat
+ ion was correct as of this afternoon at 
+ 20:48, it is updated each night; therefo
+ re any subsequent updates may not yet be
+  visible here. Also, please be aware tha
+ t the different released media (PDF, HTM
+ L, etc.) are not necessarily released at
+  the same time. For complete and up-to-d
+ ate information see here: http://kappa.o
+ ecd.org/v3/search?term=f8c71341-en.
+DTSTAMP:20200820T204838Z
+DTSTART:20200901T050000Z
+DTEND:20200901T051500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: The Structure of Livestock Tra
+ de in West Africa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ac228609-end3e115
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Angui
  lla 2020 (Second Round) - Peer Review Re
@@ -25,7 +63,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 20:43, it
+ orrect as of this afternoon at 20:48, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -34,7 +72,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=ac228609-en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20200901T120000Z
 DTEND:20200901T121500Z
 TRANSP:TRANSPARENT
@@ -51,7 +89,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8279749f-end3e118
+UID:10.1787/8279749f-end3e170
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Greec
  e 2020 (Second Round) - Peer Review Repo
@@ -74,7 +112,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 20:43, it i
+ rect as of this afternoon at 20:48, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -83,7 +121,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=8279749f-en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20200901T120000Z
 DTEND:20200901T121500Z
 TRANSP:TRANSPARENT
@@ -100,7 +138,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/97daef15-end3e173
+UID:10.1787/97daef15-end3e225
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Korea
   2020 (Second Round) - Peer Review Repor
@@ -123,7 +161,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 20:43, it is
+ ect as of this afternoon at 20:48, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -132,7 +170,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=97daef15-en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20200901T120000Z
 DTEND:20200901T121500Z
 TRANSP:TRANSPARENT
@@ -149,7 +187,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/72fe35f0-end3e228
+UID:10.1787/72fe35f0-end3e281
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Papua
   New Guinea 2020 (Second Round) - Peer R
@@ -173,7 +211,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 0:43, it is updated each night; therefor
+ 0:48, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -181,7 +219,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=72fe35f0-en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20200901T120000Z
 DTEND:20200901T121500Z
 TRANSP:TRANSPARENT
@@ -198,7 +236,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8b4242db-end3e284
+UID:10.1787/8b4242db-end3e336
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Gibra
  ltar 2020 (Second Round) - Peer Review R
@@ -221,7 +259,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 20:43, i
+ correct as of this afternoon at 20:48, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -230,7 +268,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=8b4242db-en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20200901T120000Z
 DTEND:20200901T121500Z
 TRANSP:TRANSPARENT
@@ -247,7 +285,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/22fe7fbc-end3e339
+UID:10.1787/22fe7fbc-end3e391
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Urugu
  ay 2020 (Second Round) - Peer Review Rep
@@ -270,7 +308,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 20:43, it 
+ rrect as of this afternoon at 20:48, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -279,7 +317,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=22fe7fbc-en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20200901T120000Z
 DTEND:20200901T121500Z
 TRANSP:TRANSPARENT
@@ -296,7 +334,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ec2b5c7b-end3e394
+UID:10.1787/ec2b5c7b-end3e446
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Chile
   2020 (Second Round) - Peer Review Repor
@@ -319,7 +357,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 20:43, it is
+ ect as of this afternoon at 20:48, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -328,7 +366,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=ec2b5c7b-en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20200901T120000Z
 DTEND:20200901T121500Z
 TRANSP:TRANSPARENT
@@ -345,7 +383,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d92a4f90-end3e449
+UID:10.1787/d92a4f90-end3e501
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Malta
   2020 (Second Round) - Peer Review Repor
@@ -368,7 +406,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 20:43, it is
+ ect as of this afternoon at 20:48, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -377,7 +415,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=d92a4f90-en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20200901T120000Z
 DTEND:20200901T121500Z
 TRANSP:TRANSPARENT
@@ -394,7 +432,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1069fca1-end3e504
+UID:10.1787/1069fca1-end3e556
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Peopl
  e's Republic of China 2020 (Second Round
@@ -418,7 +456,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 20:43, it is updated each night
+ rnoon at 20:48, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -427,7 +465,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=1069fca1
  -en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20200901T120000Z
 DTEND:20200901T121500Z
 TRANSP:TRANSPARENT
@@ -444,7 +482,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/efb14583-end3e559
+UID:10.1787/efb14583-end3e612
 SUMMARY:All Hands In? Making Diversity Work for 
  All
 DESCRIPTION:*All Hands In? Making Diversity Work for
@@ -462,7 +500,7 @@ DESCRIPTION:*All Hands In? Making Diversity Work for
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 20:43, it is update
+ of this afternoon at 20:48, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -471,7 +509,7 @@ DESCRIPTION:*All Hands In? Making Diversity Work for
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=efb14583-en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20200902T080000Z
 DTEND:20200902T081500Z
 TRANSP:TRANSPARENT
@@ -485,7 +523,7 @@ DESCRIPTION:Reminder: All Hands In? Making Diversity
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7af51916-end3e666
+UID:10.1787/7af51916-end3e719
 SUMMARY:Tax Policy Reforms 2020 - OECD and Selec
  ted Partner Economies
 DESCRIPTION:*Tax Policy Reforms 2020 - OECD and Sele
@@ -495,22 +533,24 @@ DESCRIPTION:*Tax Policy Reforms 2020 - OECD and Sele
  g/10.1787/7af51916-en\nPublication type:
   Book\nReleased as: Paperback, PDF\n\nEm
  bargo date/time: Thursday, 3 September 2
- 020, 9:00 (GMT)\n\n\niLibrary export: ne
- ver\nFreepreview export: never\nOECD.org
-  export: never\nFTI loaded: ✗\n\nFor mor
- e information see: https://oecd.github.i
- o/embargo-calendar/embargoes-by-publicat
- ion.html.\n\nPlease note: This informati
- on was correct as of this afternoon at 2
- 0:43, it is updated each night; therefor
- e any subsequent updates may not yet be 
- visible here. Also, please be aware that
-  the different released media (PDF, HTML
- , etc.) are not necessarily released at 
- the same time. For complete and up-to-da
- te information see here: http://kappa.oe
- cd.org/v3/search?term=7af51916-en.
-DTSTAMP:20200819T204316Z
+ 020, 9:00 (GMT)\n\n\niLibrary export: Th
+ ursday, 20 August 2020, 18:25 (GMT)\nFre
+ epreview export: never\nOECD.org export:
+  Thursday, 20 August 2020, 17:59 (GMT)\n
+ FTI loaded: ✗\n\nFor more information se
+ e: https://oecd.github.io/embargo-calend
+ ar/embargoes-by-publication.html.\n\nPle
+ ase note: This information was correct a
+ s of this afternoon at 20:48, it is upda
+ ted each night; therefore any subsequent
+  updates may not yet be visible here. Al
+ so, please be aware that the different r
+ eleased media (PDF, HTML, etc.) are not 
+ necessarily released at the same time. F
+ or complete and up-to-date information s
+ ee here: http://kappa.oecd.org/v3/search
+ ?term=7af51916-en.
+DTSTAMP:20200820T204838Z
 DTSTART:20200903T090000Z
 DTEND:20200903T091500Z
 TRANSP:TRANSPARENT
@@ -524,7 +564,7 @@ DESCRIPTION:Reminder: Tax Policy Reforms 2020 - OECD
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f241e9cc-end3e718
+UID:10.1787/f241e9cc-end3e774
 SUMMARY:Blockchain for SMEs and entrepreneurs in
   Italy
 DESCRIPTION:*Blockchain for SMEs and entrepreneurs i
@@ -542,7 +582,7 @@ DESCRIPTION:*Blockchain for SMEs and entrepreneurs i
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 20:43, it is updated each night; th
+ n at 20:48, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -550,7 +590,7 @@ DESCRIPTION:*Blockchain for SMEs and entrepreneurs i
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=f241e9cc-en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20200904T060000Z
 DTEND:20200904T061500Z
 TRANSP:TRANSPARENT
@@ -564,7 +604,7 @@ DESCRIPTION:Reminder: Blockchain for SMEs and entrep
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/69096873-end3e825
+UID:10.1787/69096873-end3e881
 SUMMARY:Education at a Glance 2020 - OECD Indica
  tors
 DESCRIPTION:*Education at a Glance 2020 - OECD Indic
@@ -580,7 +620,7 @@ DESCRIPTION:*Education at a Glance 2020 - OECD Indic
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 20:43, it is updated ea
+ his afternoon at 20:48, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -589,7 +629,7 @@ DESCRIPTION:*Education at a Glance 2020 - OECD Indic
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  69096873-en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20200908T090000Z
 DTEND:20200908T091500Z
 TRANSP:TRANSPARENT
@@ -603,45 +643,7 @@ DESCRIPTION:Reminder: Education at a Glance 2020 - O
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/872d016c-end3e929
-SUMMARY:OECD Tax Policy Reviews: Kazakhstan 2020
-DESCRIPTION:*OECD Tax Policy Reviews: Kazakhstan 202
- 0*\n\nDirectorate: Centre for Tax Policy
-  and Administration\nLanguage: English\n
- DOI: https://doi.org/10.1787/872d016c-en
- \nPublication type: Book\nReleased as: P
- aperback, PDF\n\nEmbargo date/time: Mond
- ay, 14 September 2020, 9:00 (GMT)\n\n\ni
- Library export: never\nFreepreview expor
- t: never\nOECD.org export: never\nFTI lo
- aded: ✗\n\nFor more information see: htt
- ps://oecd.github.io/embargo-calendar/emb
- argoes-by-publication.html.\n\nPlease no
- te: This information was correct as of t
- his afternoon at 20:43, it is updated ea
- ch night; therefore any subsequent updat
- es may not yet be visible here. Also, pl
- ease be aware that the different release
- d media (PDF, HTML, etc.) are not necess
- arily released at the same time. For com
- plete and up-to-date information see her
- e: http://kappa.oecd.org/v3/search?term=
- 872d016c-en.
-DTSTAMP:20200819T204316Z
-DTSTART:20200914T090000Z
-DTEND:20200914T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Tax Policy Reviews: Kazak
- hstan 2020
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/3d152880-end3e1084
+UID:10.1787/3d152880-end3e1089
 SUMMARY:Making Dispute Resolution More Effective
   - MAP Peer Review Report, Singapore (St
  age 2) - Inclusive Framework on BEPS: Ac
@@ -663,7 +665,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
  was correct as of this afternoon at 20:4
- 3, it is updated each night; therefore a
+ 8, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -671,7 +673,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=3d152880-en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20200915T090000Z
 DTEND:20200915T091500Z
 TRANSP:TRANSPARENT
@@ -687,7 +689,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a06e58db-end3e1139
+UID:10.1787/a06e58db-end3e1144
 SUMMARY:Making Dispute Resolution More Effective
   - MAP Peer Review Report, Korea (Stage 
  2) - Inclusive Framework on BEPS: Action
@@ -708,7 +710,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 20:43, i
+ correct as of this afternoon at 20:48, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -717,7 +719,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=a06e58db-en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20200915T090000Z
 DTEND:20200915T091500Z
 TRANSP:TRANSPARENT
@@ -733,7 +735,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8f4792bc-end3e1194
+UID:10.1787/8f4792bc-end3e1199
 SUMMARY:Making Dispute Resolution More Effective
   - MAP Peer Review Report, Spain (Stage 
  2) - Inclusive Framework on BEPS: Action
@@ -754,7 +756,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 20:43, i
+ correct as of this afternoon at 20:48, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -763,7 +765,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=8f4792bc-en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20200915T090000Z
 DTEND:20200915T091500Z
 TRANSP:TRANSPARENT
@@ -779,7 +781,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b8ee5001-end3e1250
+UID:10.1787/b8ee5001-end3e1255
 SUMMARY:Making Dispute Resolution More Effective
   - MAP Peer Review Report, Czech Republi
  c (Stage 2) - Inclusive Framework on BEP
@@ -801,7 +803,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  20:43, it is updated each night; theref
+  20:48, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -809,7 +811,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=b8ee5001-en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20200915T090000Z
 DTEND:20200915T091500Z
 TRANSP:TRANSPARENT
@@ -825,7 +827,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ea220bff-end3e1305
+UID:10.1787/ea220bff-end3e1310
 SUMMARY:Making Dispute Resolution More Effective
   - MAP Peer Review Report, Poland (Stage
   2) - Inclusive Framework on BEPS: Actio
@@ -846,7 +848,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 20:43, 
+  correct as of this afternoon at 20:48, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -855,7 +857,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=ea220bff-en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20200915T090000Z
 DTEND:20200915T091500Z
 TRANSP:TRANSPARENT
@@ -871,7 +873,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bd0276f1-end3e1360
+UID:10.1787/bd0276f1-end3e1365
 SUMMARY:Making Dispute Resolution More Effective
   - MAP Peer Review Report, Denmark (Stag
  e 2) - Inclusive Framework on BEPS: Acti
@@ -892,7 +894,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 20:43,
+ s correct as of this afternoon at 20:48,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -901,7 +903,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=bd0276f1-en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20200915T090000Z
 DTEND:20200915T091500Z
 TRANSP:TRANSPARENT
@@ -917,7 +919,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/64a87e14-end3e1415
+UID:10.1787/64a87e14-end3e1420
 SUMMARY:Making Dispute Resolution More Effective
   - MAP Peer Review Report, Finland (Stag
  e 2) - Inclusive Framework on BEPS: Acti
@@ -938,7 +940,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 20:43,
+ s correct as of this afternoon at 20:48,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -947,7 +949,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=64a87e14-en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20200915T090000Z
 DTEND:20200915T091500Z
 TRANSP:TRANSPARENT
@@ -963,7 +965,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/48127451-end3e1470
+UID:10.1787/48127451-end3e1475
 SUMMARY:Making Dispute Resolution More Effective
   - MAP Peer Review Report, Norway (Stage
   2) - Inclusive Framework on BEPS: Actio
@@ -984,7 +986,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 20:43, 
+  correct as of this afternoon at 20:48, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -993,7 +995,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=48127451-en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20200915T090000Z
 DTEND:20200915T091500Z
 TRANSP:TRANSPARENT
@@ -1009,7 +1011,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fa6d31d7-end3e1525
+UID:10.1787/fa6d31d7-end3e1530
 SUMMARY:Country-by-Country Reporting – Compilati
  on of Peer Review Reports (Phase 3)  - I
  nclusive Framework on BEPS: Action 13 
@@ -1028,7 +1030,7 @@ DESCRIPTION:*Country-by-Country Reporting – Compilat
  ://oecd.github.io/embargo-calendar/embar
  goes-by-publication.html.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 20:43, it is updated each
+ s afternoon at 20:48, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -1037,7 +1039,7 @@ DESCRIPTION:*Country-by-Country Reporting – Compilat
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=fa
  6d31d7-en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20200915T090000Z
 DTEND:20200915T091500Z
 TRANSP:TRANSPARENT
@@ -1053,7 +1055,86 @@ DESCRIPTION:Reminder: Country-by-Country Reporting –
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ca768d40-end3e1578
+UID:10.1787/872d016c-end3e1583
+SUMMARY:OECD Tax Policy Reviews: Kazakhstan 2020
+DESCRIPTION:*OECD Tax Policy Reviews: Kazakhstan 202
+ 0*\n\nDirectorate: Centre for Tax Policy
+  and Administration\nLanguage: English\n
+ DOI: https://doi.org/10.1787/872d016c-en
+ \nPublication type: Book\nReleased as: P
+ aperback, PDF\n\nEmbargo date/time: Thur
+ sday, 24 September 2020, 9:00 (GMT)\n\n\
+ niLibrary export: never\nFreepreview exp
+ ort: never\nOECD.org export: never\nFTI 
+ loaded: ✗\n\nFor more information see: h
+ ttps://oecd.github.io/embargo-calendar/e
+ mbargoes-by-publication.html.\n\nPlease 
+ note: This information was correct as of
+  this afternoon at 20:48, it is updated 
+ each night; therefore any subsequent upd
+ ates may not yet be visible here. Also, 
+ please be aware that the different relea
+ sed media (PDF, HTML, etc.) are not nece
+ ssarily released at the same time. For c
+ omplete and up-to-date information see h
+ ere: http://kappa.oecd.org/v3/search?ter
+ m=872d016c-en.
+DTSTAMP:20200820T204838Z
+DTSTART:20200924T090000Z
+DTEND:20200924T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Tax Policy Reviews: Kazak
+ hstan 2020
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/eb61fd29-end3e1686
+SUMMARY:OECD Business and Finance Outlook 2020 -
+  Sustainable and Resilient Finance
+DESCRIPTION:*OECD Business and Finance Outlook 2020 
+ - Sustainable and Resilient Finance*\n\n
+ Directorate: Directorate for Financial a
+ nd Enterprise Affairs\nLanguage: English
+ \nDOI: https://doi.org/10.1787/eb61fd29-
+ en\nPublication type: Book\nReleased as:
+  Paperback, PDF\n\nEmbargo date/time: Tu
+ esday, 29 September 2020, 8:00 (GMT)\n\n
+ \niLibrary export: never\nFreepreview ex
+ port: never\nOECD.org export: never\nFTI
+  loaded: ✗\n\nFor more information see: 
+ https://oecd.github.io/embargo-calendar/
+ embargoes-by-publication.html.\n\nPlease
+  note: This information was correct as o
+ f this afternoon at 20:48, it is updated
+  each night; therefore any subsequent up
+ dates may not yet be visible here. Also,
+  please be aware that the different rele
+ ased media (PDF, HTML, etc.) are not nec
+ essarily released at the same time. For 
+ complete and up-to-date information see 
+ here: http://kappa.oecd.org/v3/search?te
+ rm=eb61fd29-en.
+DTSTAMP:20200820T204838Z
+DTSTART:20200929T080000Z
+DTEND:20200929T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Business and Finance Outl
+ ook 2020 - Sustainable and Resilient Fin
+ ance
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ca768d40-end3e1738
 SUMMARY:PISA 2018 Results (Volume V) - Effective
   Policies, Successful Schools
 DESCRIPTION:*PISA 2018 Results (Volume V) - Effectiv
@@ -1071,7 +1152,7 @@ DESCRIPTION:*PISA 2018 Results (Volume V) - Effectiv
  cd.github.io/embargo-calendar/embargoes-
  by-publication.html.\n\nPlease note: Thi
  s information was correct as of this aft
- ernoon at 20:43, it is updated each nigh
+ ernoon at 20:48, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -1080,7 +1161,7 @@ DESCRIPTION:*PISA 2018 Results (Volume V) - Effectiv
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=ca768d4
  0-en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20200929T090000Z
 DTEND:20200929T091500Z
 TRANSP:TRANSPARENT
@@ -1094,7 +1175,7 @@ DESCRIPTION:Reminder: PISA 2018 Results (Volume V) -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cec20289-end3e1633
+UID:10.1787/cec20289-end3e1793
 SUMMARY:OECD Environmental Performance Reviews: 
  Greece 2020
 DESCRIPTION:*OECD Environmental Performance Reviews:
@@ -1110,7 +1191,7 @@ DESCRIPTION:*OECD Environmental Performance Reviews:
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 20:43, it is updated each night;
+ noon at 20:48, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -1119,7 +1200,7 @@ DESCRIPTION:*OECD Environmental Performance Reviews:
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=cec20289-
  en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20201005T070000Z
 DTEND:20201005T071500Z
 TRANSP:TRANSPARENT
@@ -1133,7 +1214,7 @@ DESCRIPTION:Reminder: OECD Environmental Performance
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fd9f43e6-end3e1735
+UID:10.1787/fd9f43e6-end3e1896
 SUMMARY:OECD Environmental Performance Reviews: 
  Luxembourg 2020
 DESCRIPTION:*OECD Environmental Performance Reviews:
@@ -1149,7 +1230,7 @@ DESCRIPTION:*OECD Environmental Performance Reviews:
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 20:43, it is updated each 
+  afternoon at 20:48, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -1158,7 +1239,7 @@ DESCRIPTION:*OECD Environmental Performance Reviews:
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=fd9
  f43e6-en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20201008T070000Z
 DTEND:20201008T071500Z
 TRANSP:TRANSPARENT
@@ -1172,7 +1253,7 @@ DESCRIPTION:Reminder: OECD Environmental Performance
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/91951f4d-frd3e1889
+UID:10.1787/91951f4d-frd3e2049
 SUMMARY:Examens environnementaux de l'OCDE : Lux
  embourg 2020
 DESCRIPTION:*Examens environnementaux de l'OCDE : Lu
@@ -1188,7 +1269,7 @@ DESCRIPTION:*Examens environnementaux de l'OCDE : Lu
  cd.github.io/embargo-calendar/embargoes-
  by-publication.html.\n\nPlease note: Thi
  s information was correct as of this aft
- ernoon at 20:43, it is updated each nigh
+ ernoon at 20:48, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -1197,7 +1278,7 @@ DESCRIPTION:*Examens environnementaux de l'OCDE : Lu
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=91951f4
  d-fr.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20201008T070000Z
 DTEND:20201008T071500Z
 TRANSP:TRANSPARENT
@@ -1211,7 +1292,7 @@ DESCRIPTION:Reminder: Examens environnementaux de l'
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/16af18a0-end3e1940
+UID:10.1787/16af18a0-end3e2100
 SUMMARY:Improving School Quality in Norway 2020 
  - Progress with the Competence Developme
  nt Model
@@ -1229,7 +1310,7 @@ DESCRIPTION:*Improving School Quality in Norway 2020
  cd.github.io/embargo-calendar/embargoes-
  by-publication.html.\n\nPlease note: Thi
  s information was correct as of this aft
- ernoon at 20:43, it is updated each nigh
+ ernoon at 20:48, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -1238,7 +1319,7 @@ DESCRIPTION:*Improving School Quality in Norway 2020
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=16af18a
  0-en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20201020T100000Z
 DTEND:20201020T101500Z
 TRANSP:TRANSPARENT
@@ -1253,7 +1334,7 @@ DESCRIPTION:Reminder: Improving School Quality in No
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ab4d8d52-end3e1992
+UID:10.1787/ab4d8d52-end3e2152
 SUMMARY:Linking Indigenous Communities with Regi
  onal Development in Australia
 DESCRIPTION:*Linking Indigenous Communities with Reg
@@ -1270,7 +1351,7 @@ DESCRIPTION:*Linking Indigenous Communities with Reg
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 20:43, it is updated e
+ this afternoon at 20:48, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -1279,7 +1360,7 @@ DESCRIPTION:*Linking Indigenous Communities with Reg
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =ab4d8d52-en.
-DTSTAMP:20200819T204316Z
+DTSTAMP:20200820T204838Z
 DTSTART:20201116T070000Z
 DTEND:20201116T071500Z
 TRANSP:TRANSPARENT

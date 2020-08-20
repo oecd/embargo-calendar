@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2020-08-19T20:43:13.1233367+02:00">
+<report name="official-embargoes" generated="2020-08-20T20:48:35.100538+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -21,6 +21,26 @@
     <cell name="kappa link">Kappa Link</cell>
   </row>
   <row index="1">
+    <cell name="directorate">Sahel and West Africa Club</cell>
+    <cell name="doi">10.1787/f8c71341-en</cell>
+    <cell name="title">The Structure of Livestock Trade in West Africa (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2020-09-01</cell>
+    <cell name="embargo date">2020-09-01T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3e8fd944</cell>
+  </row>
+  <row index="2">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ac228609-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Anguilla 2020 (Second Round) (en)</cell>
@@ -40,7 +60,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a579c969</cell>
   </row>
-  <row index="2">
+  <row index="3">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8279749f-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Greece 2020 (Second Round) (en)</cell>
@@ -60,7 +80,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e643514e</cell>
   </row>
-  <row index="3">
+  <row index="4">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/97daef15-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Korea 2020 (Second Round) (en)</cell>
@@ -80,7 +100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/72e02bfb</cell>
   </row>
-  <row index="4">
+  <row index="5">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/72fe35f0-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Papua New Guinea 2020 (Second Round) (en)</cell>
@@ -100,7 +120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f467cfbe</cell>
   </row>
-  <row index="5">
+  <row index="6">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8b4242db-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Gibraltar 2020 (Second Round) (en)</cell>
@@ -120,7 +140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/87865915</cell>
   </row>
-  <row index="6">
+  <row index="7">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/22fe7fbc-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Uruguay 2020 (Second Round) (en)</cell>
@@ -140,7 +160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b39c7494</cell>
   </row>
-  <row index="7">
+  <row index="8">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ec2b5c7b-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Chile 2020 (Second Round) (en)</cell>
@@ -160,7 +180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e5ba3d9c</cell>
   </row>
-  <row index="8">
+  <row index="9">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d92a4f90-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Malta 2020 (Second Round) (en)</cell>
@@ -180,7 +200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/442c1bbd</cell>
   </row>
-  <row index="9">
+  <row index="10">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/1069fca1-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: People's Republic of China 2020 (Second Round) (en)</cell>
@@ -200,7 +220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f8cff7f5</cell>
   </row>
-  <row index="10">
+  <row index="11">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/efb14583-en</cell>
     <cell name="title">All Hands In? Making Diversity Work for All (en)</cell>
@@ -220,7 +240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bdc592fb</cell>
   </row>
-  <row index="11">
+  <row index="12">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7af51916-en</cell>
     <cell name="title">Tax Policy Reforms 2020 (en)</cell>
@@ -228,7 +248,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2020-09-03</cell>
     <cell name="embargo date">2020-09-03T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -240,27 +260,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/15eb5327</cell>
   </row>
-  <row index="12">
+  <row index="13">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7af51916-en</cell>
     <cell name="title">Tax Policy Reforms 2020 (en)</cell>
     <cell name="subtitle">OECD and Selected Partner Economies (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2020-09-03</cell>
     <cell name="embargo date">2020-09-03T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2020-08-20T18:25:15Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2020-08-20T17:59:10Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3559c71b</cell>
   </row>
-  <row index="13">
+  <row index="14">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f241e9cc-en</cell>
     <cell name="title">Blockchain for SMEs and entrepreneurs in Italy (en)</cell>
@@ -280,7 +300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/96c99db8</cell>
   </row>
-  <row index="14">
+  <row index="15">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/69096873-en</cell>
     <cell name="title">Education at a Glance 2020 (en)</cell>
@@ -300,7 +320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/783a1e70</cell>
   </row>
-  <row index="15">
+  <row index="16">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/69096873-en</cell>
     <cell name="title">Education at a Glance 2020 (en)</cell>
@@ -320,7 +340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86b347c0</cell>
   </row>
-  <row index="16">
+  <row index="17">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/872d016c-en</cell>
     <cell name="title">OECD Tax Policy Reviews: Kazakhstan 2020 (en)</cell>
@@ -339,26 +359,6 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62dfb363</cell>
-  </row>
-  <row index="17">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/872d016c-en</cell>
-    <cell name="title">OECD Tax Policy Reviews: Kazakhstan 2020 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
-    <cell name="embargo date">2020-09-14T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c88ad103</cell>
   </row>
   <row index="18">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
@@ -581,6 +581,66 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/51760323</cell>
   </row>
   <row index="29">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/872d016c-en</cell>
+    <cell name="title">OECD Tax Policy Reviews: Kazakhstan 2020 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-09-24T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c88ad103</cell>
+  </row>
+  <row index="30">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/eb61fd29-en</cell>
+    <cell name="title">OECD Business and Finance Outlook 2020 (en)</cell>
+    <cell name="subtitle">Sustainable and Resilient Finance (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-09-29T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/80f6c8da</cell>
+  </row>
+  <row index="31">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/eb61fd29-en</cell>
+    <cell name="title">OECD Business and Finance Outlook 2020 (en)</cell>
+    <cell name="subtitle">Sustainable and Resilient Finance (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2020-09-29T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/19b25aee</cell>
+  </row>
+  <row index="32">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ca768d40-en</cell>
     <cell name="title">PISA 2018 Results (Volume V) (en)</cell>
@@ -600,7 +660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5e7be0de</cell>
   </row>
-  <row index="30">
+  <row index="33">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/cec20289-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Greece 2020 (en)</cell>
@@ -620,7 +680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53246b72</cell>
   </row>
-  <row index="31">
+  <row index="34">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/cec20289-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Greece 2020 (en)</cell>
@@ -640,7 +700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8a7309ec</cell>
   </row>
-  <row index="32">
+  <row index="35">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/fd9f43e6-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Luxembourg 2020 (en)</cell>
@@ -660,7 +720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5943a7f</cell>
   </row>
-  <row index="33">
+  <row index="36">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/91951f4d-fr</cell>
     <cell name="title">Examens environnementaux de l'OCDE : Luxembourg 2020 (fr)</cell>
@@ -680,7 +740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41f25a64</cell>
   </row>
-  <row index="34">
+  <row index="37">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/fd9f43e6-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Luxembourg 2020 (en)</cell>
@@ -700,7 +760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5c323666</cell>
   </row>
-  <row index="35">
+  <row index="38">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/91951f4d-fr</cell>
     <cell name="title">Examens environnementaux de l'OCDE : Luxembourg 2020 (fr)</cell>
@@ -720,7 +780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/99b595a5</cell>
   </row>
-  <row index="36">
+  <row index="39">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/16af18a0-en</cell>
     <cell name="title">Improving School Quality in Norway 2020 (en)</cell>
@@ -740,7 +800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/69c14337</cell>
   </row>
-  <row index="37">
+  <row index="40">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ab4d8d52-en</cell>
     <cell name="title">Linking Indigenous Communities with Regional Development in Australia (en)</cell>

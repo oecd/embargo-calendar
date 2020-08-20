@@ -2,7 +2,30 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 19 August 2020 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 20 August 2020 at 20:48* | [See embargoes by date](embargoes-by-date.md) |
+
+## [The Structure of Livestock Trade in West Africa](https://doi.org/10.1787/f8c71341-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 1 September 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Sahel and West Africa Club*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Anguilla 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/ac228609-en)
 
@@ -243,15 +266,15 @@ Thursday 3 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 20 August 2020 at 20:25
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 20 August 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -296,29 +319,6 @@ Tuesday 8 September 2020 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Tax Policy Reviews: Kazakhstan 2020](https://doi.org/10.1787/872d016c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
@@ -526,6 +526,52 @@ Tuesday 15 September 2020 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Tax Policy Reviews: Kazakhstan 2020](https://doi.org/10.1787/872d016c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Business and Finance Outlook 2020 - Sustainable and Resilient Finance](https://doi.org/10.1787/eb61fd29-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 29 September 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
