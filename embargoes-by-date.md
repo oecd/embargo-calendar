@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 20 August 2020 at 20:48* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 21 August 2020 at 20:50* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [1 September 2020](#1-september-2020)
 * [2 September 2020](#2-september-2020)
@@ -291,9 +291,9 @@ Thursday 3 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 20 August 2020 at 20:25
+- [x] Exported to iLibrary Friday 21 August 2020 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 August 2020 at 19:59
+- [x] Exported to OECD.org Friday 21 August 2020 at 19:58
 
 ### Additional Information
 
@@ -362,6 +362,29 @@ Tuesday 8 September 2020 at 9:00 | no launch event
 ------
 
 # 15 September 2020
+
+## [经合组织－粮农组织2020-2029年农业展望](https://doi.org/10.1787/f25193a0-zh)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 September 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 21 August 2020 at 20:24
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *Chinese*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
 
 ## [Making Dispute Resolution More Effective - MAP Peer Review Report, Singapore (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/3d152880-en)
 
@@ -583,15 +606,15 @@ Thursday 24 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 21 August 2020 at 20:24
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 21 August 2020 at 19:58
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -610,15 +633,15 @@ Tuesday 29 September 2020 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 21 August 2020 at 20:24
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 21 August 2020 at 19:58
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
