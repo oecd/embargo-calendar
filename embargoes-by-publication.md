@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 21 August 2020 at 20:50* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 24 August 2020 at 20:48* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The Structure of Livestock Trade in West Africa](https://doi.org/10.1787/f8c71341-en)
 
@@ -335,7 +335,7 @@ Tuesday 15 September 2020 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 21 August 2020 at 20:24
+- [x] Exported to iLibrary Monday 24 August 2020 at 20:21
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 

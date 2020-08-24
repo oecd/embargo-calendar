@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 21 August 2020 at 20:50* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 24 August 2020 at 20:48* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [1 September 2020](#1-september-2020)
 * [2 September 2020](#2-september-2020)
@@ -372,7 +372,7 @@ Tuesday 15 September 2020 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 21 August 2020 at 20:24
+- [x] Exported to iLibrary Monday 24 August 2020 at 20:21
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
