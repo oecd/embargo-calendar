@@ -2,8 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 24 August 2020 at 20:48* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 25 August 2020 at 20:56* | [See embargoes by publication](embargoes-by-publication.md) |
 
+* [27 August 2020](#27-august-2020)
+* [31 August 2020](#31-august-2020)
 * [1 September 2020](#1-september-2020)
 * [2 September 2020](#2-september-2020)
 * [3 September 2020](#3-september-2020)
@@ -13,9 +15,64 @@ Data generated on | |
 * [24 September 2020](#24-september-2020)
 * [29 September 2020](#29-september-2020)
 * [5 October 2020](#5-october-2020)
+* [6 October 2020](#6-october-2020)
 * [8 October 2020](#8-october-2020)
 * [20 October 2020](#20-october-2020)
 * [16 November 2020](#16-november-2020)
+
+------
+
+# 27 August 2020
+
+## [How are young graduates settling into the labour market?](https://doi.org/10.1787/0cae6ba1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 August 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 31 August 2020
+
+## [Innovation for Water Infrastructure Development in the Mekong Region](https://doi.org/10.1787/167498ea-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 31 August 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
+- [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
+- [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
 
 ------
 
@@ -52,18 +109,18 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
+- [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
+- [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -75,18 +132,18 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
+- [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
+- [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -98,18 +155,18 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
+- [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
+- [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -121,18 +178,18 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
+- [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
+- [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -144,18 +201,18 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
+- [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
+- [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -167,18 +224,18 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
+- [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
+- [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -190,18 +247,18 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
+- [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
+- [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -213,18 +270,18 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
+- [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
+- [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -236,18 +293,18 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 21 July 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 July 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
+- [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
+- [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -274,7 +331,7 @@ Wednesday 2 September 2020 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -693,6 +750,33 @@ Monday 5 October 2020 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 6 October 2020
+
+## [OECD Economic Surveys: Chile 2020](https://doi.org/10.1787/79b39420-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 6 October 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
