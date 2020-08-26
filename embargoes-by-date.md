@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 25 August 2020 at 20:56* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 26 August 2020 at 20:54* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [27 August 2020](#27-august-2020)
 * [31 August 2020](#31-august-2020)
@@ -60,7 +60,7 @@ Monday 31 August 2020 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
+- [x] Exported to iLibrary Wednesday 26 August 2020 at 20:27
 - [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
 - [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
 
@@ -179,7 +179,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
+- [x] Exported to iLibrary Wednesday 26 August 2020 at 20:27
 - [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
 - [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
 
@@ -202,7 +202,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
+- [x] Exported to iLibrary Wednesday 26 August 2020 at 20:27
 - [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
 - [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
 
@@ -225,7 +225,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
+- [x] Exported to iLibrary Wednesday 26 August 2020 at 20:27
 - [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
 - [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
 
@@ -347,18 +347,18 @@ Thursday 3 September 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 21 August 2020 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 August 2020 at 19:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 26 August 2020 at 20:27
+- [x] Exported to Keepeek Wednesday 26 August 2020 at 20:13
+- [x] Exported to OECD.org Wednesday 26 August 2020 at 20:01
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -411,6 +411,29 @@ Tuesday 8 September 2020 at 9:00 | no launch event
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Sustainable Ocean for All - Harnessing the Benefits for Developing Countries ](https://doi.org/10.1787/bede6513-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 September 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 26 August 2020 at 20:27
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 26 August 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
