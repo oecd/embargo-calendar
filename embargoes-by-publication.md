@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 26 August 2020 at 20:54* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 28 August 2020 at 3:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [How are young graduates settling into the labour market?](https://doi.org/10.1787/0cae6ba1-en)
 
@@ -280,6 +280,29 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 
 ------
 
+## [Capital flow deflection under the magnifying glass](https://doi.org/10.1787/398180d0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 2 September 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 28 August 2020 at 0:05
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 27 August 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [All Hands In? Making Diversity Work for All](https://doi.org/10.1787/efb14583-en)
 
 Embargo date | Launch date
@@ -288,16 +311,16 @@ Wednesday 2 September 2020 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 17 August 2020 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 August 2020 at 19:56
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 28 August 2020 at 0:05
+- [x] Exported to Keepeek Thursday 27 August 2020 at 21:26
+- [x] Exported to OECD.org Thursday 27 August 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -326,18 +349,64 @@ Thursday 3 September 2020 at 9:00 | no launch event
 
 ------
 
+## [Education at a Glance 2020 - OECD Indicators](https://doi.org/10.1787/69096873-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 28 August 2020 at 0:05
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 27 August 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Sustainable Ocean for All - Harnessing the Benefits of Sustainable Ocean Economies for Developing Countries](https://doi.org/10.1787/bede6513-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 September 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 28 August 2020 at 0:05
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 27 August 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Blockchain for SMEs and entrepreneurs in Italy](https://doi.org/10.1787/f241e9cc-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 4 September 2020 at 6:00 | no launch event
+Thursday 10 September 2020 at 8:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 July 2020 at 20:22
+- [x] Exported to iLibrary Friday 28 August 2020 at 0:05
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 July 2020 at 8:58
+- [x] Exported to OECD.org Thursday 27 August 2020 at 19:59
 
 ### Additional Information
 
@@ -349,49 +418,26 @@ Friday 4 September 2020 at 6:00 | no launch event
 
 ------
 
-## [Education at a Glance 2020 - OECD Indicators](https://doi.org/10.1787/69096873-en)
+## [Blockchain per le PMI e gli imprenditori in Italia](https://doi.org/10.1787/bdbbb4ea-it)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 8 September 2020 at 9:00 | no launch event
+Thursday 10 September 2020 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 28 August 2020 at 0:05
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 27 August 2020 at 19:59
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Sustainable Ocean for All - Harnessing the Benefits for Developing Countries ](https://doi.org/10.1787/bede6513-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 8 September 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 26 August 2020 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 August 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *Italian*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -657,7 +703,7 @@ Tuesday 29 September 2020 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 21 August 2020 at 20:24
+- [x] Exported to iLibrary Friday 28 August 2020 at 0:05
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 21 August 2020 at 19:58
 

@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Wed, 26 Aug 2020 20:54:51 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2020 03:18:52 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://oecd.github.io/embargo-calendar/embargoes.rss"
                  rel="self"
@@ -206,7 +206,23 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/efb14583-en-d3e2860</guid>
+         <guid isPermaLink="false">10.1787/398180d0-en-d3e2808</guid>
+         <pubDate>Wed, 02 Sep 2020 07:00:00 GMT</pubDate>
+         <title>Capital flow deflection under the magnifying glass</title>
+         <link>https://doi.org/10.1787/398180d0-en</link>
+         <description>Capital flow deflection under the magnifying glass by Economics Department has an embargo on Wednesday 2 September 2020 at 7:00.</description>
+         <oe:embargoTime>Wed, 02 Sep 2020 07:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Friday, 28 August 2020, 0:05 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport>Thursday, 27 August 2020, 19:59 (GMT)</oe:oecdOrgExport>
+         <oe:catalogueType>Paper</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/efb14583-en-d3e2916</guid>
          <pubDate>Wed, 02 Sep 2020 10:00:00 GMT</pubDate>
          <title>All Hands In? Making Diversity Work for All</title>
          <link>https://doi.org/10.1787/efb14583-en</link>
@@ -215,14 +231,14 @@
          <oe:launchTime/>
          <oe:languages>English</oe:languages>
          <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
-         <oe:ftiLoaded/>
-         <oe:iLibraryExport>Monday, 17 August 2020, 20:21 (GMT)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
-         <oe:oecdOrgExport>Monday, 17 August 2020, 19:56 (GMT)</oe:oecdOrgExport>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Friday, 28 August 2020, 0:05 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport>Thursday, 27 August 2020, 21:26 (GMT)</oe:freePreviewExport>
+         <oe:oecdOrgExport>Thursday, 27 August 2020, 19:59 (GMT)</oe:oecdOrgExport>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/7af51916-en-d3e7177</guid>
+         <guid isPermaLink="false">10.1787/7af51916-en-d3e7234</guid>
          <pubDate>Thu, 03 Sep 2020 11:00:00 GMT</pubDate>
          <title>Tax Policy Reforms 2020 - OECD and Selected Partner Economies</title>
          <link>https://doi.org/10.1787/7af51916-en</link>
@@ -238,23 +254,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/f241e9cc-en-d3e7289</guid>
-         <pubDate>Fri, 04 Sep 2020 08:00:00 GMT</pubDate>
-         <title>Blockchain for SMEs and entrepreneurs in Italy</title>
-         <link>https://doi.org/10.1787/f241e9cc-en</link>
-         <description>Blockchain for SMEs and entrepreneurs in Italy by Centre for Entrepreneurship, SMEs, Regions and Cities has an embargo on Friday 4 September 2020 at 8:00.</description>
-         <oe:embargoTime>Fri, 04 Sep 2020 08:00:00 GMT</oe:embargoTime>
-         <oe:launchTime/>
-         <oe:languages>English</oe:languages>
-         <oe:directorate>Centre for Entrepreneurship, SMEs, Regions and Cities</oe:directorate>
-         <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Wednesday, 15 July 2020, 20:22 (GMT)</oe:iLibraryExport>
-         <oe:freePreviewExport/>
-         <oe:oecdOrgExport>Thursday, 16 July 2020, 8:58 (GMT)</oe:oecdOrgExport>
-         <oe:catalogueType>Paper</oe:catalogueType>
-      </item>
-      <item>
-         <guid isPermaLink="false">10.1787/69096873-en-d3e7396</guid>
+         <guid isPermaLink="false">10.1787/69096873-en-d3e7399</guid>
          <pubDate>Tue, 08 Sep 2020 11:00:00 GMT</pubDate>
          <title>Education at a Glance 2020 - OECD Indicators</title>
          <link>https://doi.org/10.1787/69096873-en</link>
@@ -264,29 +264,61 @@
          <oe:languages>English</oe:languages>
          <oe:directorate>Directorate for Education and Skills</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport/>
+         <oe:iLibraryExport>Friday, 28 August 2020, 0:05 (GMT)</oe:iLibraryExport>
          <oe:freePreviewExport/>
-         <oe:oecdOrgExport/>
+         <oe:oecdOrgExport>Thursday, 27 August 2020, 19:59 (GMT)</oe:oecdOrgExport>
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/bede6513-en-d3e7502</guid>
+         <guid isPermaLink="false">10.1787/bede6513-en-d3e7508</guid>
          <pubDate>Tue, 08 Sep 2020 14:00:00 GMT</pubDate>
-         <title>Sustainable Ocean for All - Harnessing the Benefits for Developing Countries </title>
+         <title>Sustainable Ocean for All - Harnessing the Benefits of Sustainable Ocean Economies for Developing Countries</title>
          <link>https://doi.org/10.1787/bede6513-en</link>
-         <description>Sustainable Ocean for All - Harnessing the Benefits for Developing Countries  by Development Co-operation Directorate has an embargo on Tuesday 8 September 2020 at 14:00.</description>
+         <description>Sustainable Ocean for All - Harnessing the Benefits of Sustainable Ocean Economies for Developing Countries by Development Co-operation Directorate has an embargo on Tuesday 8 September 2020 at 14:00.</description>
          <oe:embargoTime>Tue, 08 Sep 2020 14:00:00 GMT</oe:embargoTime>
          <oe:launchTime/>
          <oe:languages>English</oe:languages>
          <oe:directorate>Development Co-operation Directorate</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Wednesday, 26 August 2020, 20:27 (GMT)</oe:iLibraryExport>
+         <oe:iLibraryExport>Friday, 28 August 2020, 0:05 (GMT)</oe:iLibraryExport>
          <oe:freePreviewExport/>
-         <oe:oecdOrgExport>Wednesday, 26 August 2020, 20:01 (GMT)</oe:oecdOrgExport>
+         <oe:oecdOrgExport>Thursday, 27 August 2020, 19:59 (GMT)</oe:oecdOrgExport>
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/f25193a0-zh-d3e7661</guid>
+         <guid isPermaLink="false">10.1787/f241e9cc-en-d3e7563</guid>
+         <pubDate>Thu, 10 Sep 2020 10:00:00 GMT</pubDate>
+         <title>Blockchain for SMEs and entrepreneurs in Italy</title>
+         <link>https://doi.org/10.1787/f241e9cc-en</link>
+         <description>Blockchain for SMEs and entrepreneurs in Italy by Centre for Entrepreneurship, SMEs, Regions and Cities has an embargo on Thursday 10 September 2020 at 10:00.</description>
+         <oe:embargoTime>Thu, 10 Sep 2020 10:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Centre for Entrepreneurship, SMEs, Regions and Cities</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Friday, 28 August 2020, 0:05 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport>Thursday, 27 August 2020, 19:59 (GMT)</oe:oecdOrgExport>
+         <oe:catalogueType>Paper</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/bdbbb4ea-it-d3e7618</guid>
+         <pubDate>Thu, 10 Sep 2020 10:00:00 GMT</pubDate>
+         <title>Blockchain per le PMI e gli imprenditori in Italia</title>
+         <link>https://doi.org/10.1787/bdbbb4ea-it</link>
+         <description>Blockchain per le PMI e gli imprenditori in Italia by Centre for Entrepreneurship, SMEs, Regions and Cities has an embargo on Thursday 10 September 2020 at 10:00.</description>
+         <oe:embargoTime>Thu, 10 Sep 2020 10:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>Italian</oe:languages>
+         <oe:directorate>Centre for Entrepreneurship, SMEs, Regions and Cities</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Friday, 28 August 2020, 0:05 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport>Thursday, 27 August 2020, 19:59 (GMT)</oe:oecdOrgExport>
+         <oe:catalogueType>Paper</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/f25193a0-zh-d3e7777</guid>
          <pubDate>Tue, 15 Sep 2020 10:00:00 GMT</pubDate>
          <title>经合组织－粮农组织2020-2029年农业展望</title>
          <link>https://doi.org/10.1787/f25193a0-zh</link>
@@ -302,7 +334,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/3d152880-en-d3e7766</guid>
+         <guid isPermaLink="false">10.1787/3d152880-en-d3e7883</guid>
          <pubDate>Tue, 15 Sep 2020 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective - MAP Peer Review Report, Singapore (Stage 2) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/3d152880-en</link>
@@ -318,7 +350,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/a06e58db-en-d3e7822</guid>
+         <guid isPermaLink="false">10.1787/a06e58db-en-d3e7938</guid>
          <pubDate>Tue, 15 Sep 2020 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective - MAP Peer Review Report, Korea (Stage 2) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/a06e58db-en</link>
@@ -334,7 +366,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/8f4792bc-en-d3e7877</guid>
+         <guid isPermaLink="false">10.1787/8f4792bc-en-d3e7993</guid>
          <pubDate>Tue, 15 Sep 2020 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective - MAP Peer Review Report, Spain (Stage 2) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/8f4792bc-en</link>
@@ -350,7 +382,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/b8ee5001-en-d3e7932</guid>
+         <guid isPermaLink="false">10.1787/b8ee5001-en-d3e8048</guid>
          <pubDate>Tue, 15 Sep 2020 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective - MAP Peer Review Report, Czech Republic (Stage 2) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/b8ee5001-en</link>
@@ -366,7 +398,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/ea220bff-en-d3e7987</guid>
+         <guid isPermaLink="false">10.1787/ea220bff-en-d3e8103</guid>
          <pubDate>Tue, 15 Sep 2020 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective - MAP Peer Review Report, Poland (Stage 2) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/ea220bff-en</link>
@@ -382,7 +414,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/bd0276f1-en-d3e8042</guid>
+         <guid isPermaLink="false">10.1787/bd0276f1-en-d3e8159</guid>
          <pubDate>Tue, 15 Sep 2020 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective - MAP Peer Review Report, Denmark (Stage 2) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/bd0276f1-en</link>
@@ -398,7 +430,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/64a87e14-en-d3e8097</guid>
+         <guid isPermaLink="false">10.1787/64a87e14-en-d3e8214</guid>
          <pubDate>Tue, 15 Sep 2020 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective - MAP Peer Review Report, Finland (Stage 2) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/64a87e14-en</link>
@@ -414,7 +446,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/48127451-en-d3e8153</guid>
+         <guid isPermaLink="false">10.1787/48127451-en-d3e8269</guid>
          <pubDate>Tue, 15 Sep 2020 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective - MAP Peer Review Report, Norway (Stage 2) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/48127451-en</link>
@@ -430,7 +462,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/fa6d31d7-en-d3e8208</guid>
+         <guid isPermaLink="false">10.1787/fa6d31d7-en-d3e8324</guid>
          <pubDate>Tue, 15 Sep 2020 11:00:00 GMT</pubDate>
          <title>Country-by-Country Reporting – Compilation of Peer Review Reports (Phase 3)  - Inclusive Framework on BEPS: Action 13 </title>
          <link>https://doi.org/10.1787/fa6d31d7-en</link>
@@ -446,7 +478,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/872d016c-en-d3e8260</guid>
+         <guid isPermaLink="false">10.1787/872d016c-en-d3e8376</guid>
          <pubDate>Thu, 24 Sep 2020 11:00:00 GMT</pubDate>
          <title>OECD Tax Policy Reviews: Kazakhstan 2020</title>
          <link>https://doi.org/10.1787/872d016c-en</link>
@@ -462,7 +494,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/eb61fd29-en-d3e8367</guid>
+         <guid isPermaLink="false">10.1787/eb61fd29-en-d3e8484</guid>
          <pubDate>Tue, 29 Sep 2020 10:00:00 GMT</pubDate>
          <title>OECD Business and Finance Outlook 2020 - Sustainable and Resilient Finance</title>
          <link>https://doi.org/10.1787/eb61fd29-en</link>
@@ -472,13 +504,13 @@
          <oe:languages>English</oe:languages>
          <oe:directorate>Directorate for Financial and Enterprise Affairs</oe:directorate>
          <oe:ftiLoaded/>
-         <oe:iLibraryExport>Friday, 21 August 2020, 20:24 (GMT)</oe:iLibraryExport>
+         <oe:iLibraryExport>Friday, 28 August 2020, 0:05 (GMT)</oe:iLibraryExport>
          <oe:freePreviewExport/>
          <oe:oecdOrgExport>Friday, 21 August 2020, 19:58 (GMT)</oe:oecdOrgExport>
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/ca768d40-en-d3e8422</guid>
+         <guid isPermaLink="false">10.1787/ca768d40-en-d3e8539</guid>
          <pubDate>Tue, 29 Sep 2020 11:00:00 GMT</pubDate>
          <title>PISA 2018 Results (Volume V) - Effective Policies, Successful Schools</title>
          <link>https://doi.org/10.1787/ca768d40-en</link>
@@ -494,7 +526,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/cec20289-en-d3e8478</guid>
+         <guid isPermaLink="false">10.1787/cec20289-en-d3e8594</guid>
          <pubDate>Mon, 05 Oct 2020 09:00:00 GMT</pubDate>
          <title>OECD Environmental Performance Reviews: Greece 2020</title>
          <link>https://doi.org/10.1787/cec20289-en</link>
@@ -510,7 +542,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/79b39420-en-d3e8631</guid>
+         <guid isPermaLink="false">10.1787/79b39420-en-d3e8747</guid>
          <pubDate>Tue, 06 Oct 2020 14:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: Chile 2020</title>
          <link>https://doi.org/10.1787/79b39420-en</link>
@@ -526,7 +558,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/fd9f43e6-en-d3e8682</guid>
+         <guid isPermaLink="false">10.1787/fd9f43e6-en-d3e8799</guid>
          <pubDate>Thu, 08 Oct 2020 09:00:00 GMT</pubDate>
          <title>OECD Environmental Performance Reviews: Luxembourg 2020</title>
          <link>https://doi.org/10.1787/fd9f43e6-en</link>
@@ -542,7 +574,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/91951f4d-fr-d3e8836</guid>
+         <guid isPermaLink="false">10.1787/91951f4d-fr-d3e8952</guid>
          <pubDate>Thu, 08 Oct 2020 09:00:00 GMT</pubDate>
          <title>Examens environnementaux de l'OCDE : Luxembourg 2020</title>
          <link>https://doi.org/10.1787/91951f4d-fr</link>
@@ -558,7 +590,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/16af18a0-en-d3e8887</guid>
+         <guid isPermaLink="false">10.1787/16af18a0-en-d3e9003</guid>
          <pubDate>Tue, 20 Oct 2020 12:00:00 GMT</pubDate>
          <title>Improving School Quality in Norway 2020 - Progress with the Competence Development Model</title>
          <link>https://doi.org/10.1787/16af18a0-en</link>
@@ -574,7 +606,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/ab4d8d52-en-d3e8939</guid>
+         <guid isPermaLink="false">10.1787/ab4d8d52-en-d3e9055</guid>
          <pubDate>Mon, 16 Nov 2020 08:00:00 GMT</pubDate>
          <title>Linking Indigenous Communities with Regional Development in Australia</title>
          <link>https://doi.org/10.1787/ab4d8d52-en</link>

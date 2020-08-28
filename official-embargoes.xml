@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2020-08-26T20:54:44.1293708+02:00">
+<report name="official-embargoes" generated="2020-08-28T03:18:46.3823292+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -1021,6 +1021,26 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f8cff7f5</cell>
   </row>
   <row index="51">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/398180d0-en</cell>
+    <cell name="title">Capital flow deflection under the magnifying glass (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-09-02</cell>
+    <cell name="embargo date">2020-09-02T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-08-27T22:05:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2020-08-27T17:59:25Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f1a7e4c0</cell>
+  </row>
+  <row index="52">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/efb14583-en</cell>
     <cell name="title">All Hands In? Making Diversity Work for All (en)</cell>
@@ -1040,27 +1060,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a94c7d85</cell>
   </row>
-  <row index="52">
+  <row index="53">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/efb14583-en</cell>
     <cell name="title">All Hands In? Making Diversity Work for All (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2020-09-02</cell>
     <cell name="embargo date">2020-09-02T08:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-08-17T18:21:43Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-08-17T17:56:12Z</cell>
+    <cell name="ilibrary last export date">2020-08-27T22:05:39Z</cell>
+    <cell name="freepreview last export date">2020-08-27T19:26:20Z</cell>
+    <cell name="oecd.org last export date">2020-08-27T17:59:25Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bdc592fb</cell>
   </row>
-  <row index="53">
+  <row index="54">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7af51916-en</cell>
     <cell name="title">Tax Policy Reforms 2020 (en)</cell>
@@ -1080,7 +1100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/31319dd2</cell>
   </row>
-  <row index="54">
+  <row index="55">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ab1ef6ab-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1100,7 +1120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aef28e88</cell>
   </row>
-  <row index="55">
+  <row index="56">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/436778f7-en</cell>
     <cell name="title">General government financial balances (en)</cell>
@@ -1120,7 +1140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e48a8b9e</cell>
   </row>
-  <row index="56">
+  <row index="57">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c5b25b77-en</cell>
     <cell name="title">Implied tax subsidy rates on R&amp;D expenditure: aggregate trends, 2000-19 (en)</cell>
@@ -1140,7 +1160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/20092124</cell>
   </row>
-  <row index="57">
+  <row index="58">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/379cb06d-en</cell>
     <cell name="title">Gross government interest payments in OECD countries and selected countries (en)</cell>
@@ -1160,7 +1180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dfeda0c0</cell>
   </row>
-  <row index="58">
+  <row index="59">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/938618bc-en</cell>
     <cell name="title">Selected corporate income tax rate reductions (en)</cell>
@@ -1180,7 +1200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f2de33d8</cell>
   </row>
-  <row index="59">
+  <row index="60">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/dc762a08-en</cell>
     <cell name="title">Macroeconomic background (en)</cell>
@@ -1200,7 +1220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2a5bc080</cell>
   </row>
-  <row index="60">
+  <row index="61">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e4372db0-en</cell>
     <cell name="title">PIT, SSCs and payroll tax revenue as a share of total tax revenues, OECD average, 1965 - 2018 (en)</cell>
@@ -1220,7 +1240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/96f791a7</cell>
   </row>
-  <row index="61">
+  <row index="62">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/82d3e373-en</cell>
     <cell name="title">Evolution of the average combined statutory CIT rate and average CIT revenues in OECD countries since 2000 (en)</cell>
@@ -1240,7 +1260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b99edc1e</cell>
   </row>
-  <row index="62">
+  <row index="63">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/63d0cf94-en</cell>
     <cell name="title">Market income, post-transfer and disposable income Gini coefficients (en)</cell>
@@ -1260,7 +1280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c41ab15</cell>
   </row>
-  <row index="63">
+  <row index="64">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/751ef9ce-en</cell>
     <cell name="title">Tax revenues as a share of GDP and GDP per capita in 2018 (en)</cell>
@@ -1280,7 +1300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dbfd2556</cell>
   </row>
-  <row index="64">
+  <row index="65">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7af51916-en</cell>
     <cell name="title">Tax Policy Reforms 2020 (en)</cell>
@@ -1300,7 +1320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4bd9f5ee</cell>
   </row>
-  <row index="65">
+  <row index="66">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b6ba7192-en</cell>
     <cell name="title">OECD average tax mix in 2000, 2009 and 2018 (en)</cell>
@@ -1320,7 +1340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d9d515c8</cell>
   </row>
-  <row index="66">
+  <row index="67">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c4a11771-en</cell>
     <cell name="title">Corporate income tax revenues as a share of GDP in 2000 and 2018 (en)</cell>
@@ -1340,7 +1360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/84860d68</cell>
   </row>
-  <row index="67">
+  <row index="68">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/26bf7d46-en</cell>
     <cell name="title">VAT/GST registration and collection thresholds in OECD countries in 2020 (en)</cell>
@@ -1360,7 +1380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e36883cf</cell>
   </row>
-  <row index="68">
+  <row index="69">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/67991fc3-en</cell>
     <cell name="title">Implied tax subsidy rates on R&amp;D expenditures, 2000, 2009 and 2019 (en)</cell>
@@ -1380,7 +1400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4609bbd3</cell>
   </row>
-  <row index="69">
+  <row index="70">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a5fd0c23-en</cell>
     <cell name="title">Editorial (en)</cell>
@@ -1400,7 +1420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fca30b55</cell>
   </row>
-  <row index="70">
+  <row index="71">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ab1ef6ab-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1412,7 +1432,7 @@
     <cell name="embargo date">2020-09-03T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-08-26T18:27:27Z</cell>
-    <cell name="freepreview last export date">2020-08-26T18:13:56Z</cell>
+    <cell name="freepreview last export date">2020-08-27T19:26:20Z</cell>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
@@ -1420,7 +1440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0d133ff2</cell>
   </row>
-  <row index="71">
+  <row index="72">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ba48206c-en</cell>
     <cell name="title">Estimated scale of fiscal packages in response to COVID-19 in selected countries (en)</cell>
@@ -1440,7 +1460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b159058f</cell>
   </row>
-  <row index="72">
+  <row index="73">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/250f1a2d-en</cell>
     <cell name="title">Dispersion box plots of tax-to-GDP ratios between 1990 and 2018 (en)</cell>
@@ -1460,7 +1480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/afdb2fc1</cell>
   </row>
-  <row index="73">
+  <row index="74">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/64946511-en</cell>
     <cell name="title">Evolution of tax-to-GDP ratios in low-, mid- and high-tax countries since 1990 (en)</cell>
@@ -1480,7 +1500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f0df10b7</cell>
   </row>
-  <row index="74">
+  <row index="75">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/da2badac-en</cell>
     <cell name="title">Special Feature: Tax and fiscal policy responses to the COVID-19 crisis (en)</cell>
@@ -1492,7 +1512,7 @@
     <cell name="embargo date">2020-09-03T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-08-26T18:27:27Z</cell>
-    <cell name="freepreview last export date">2020-08-26T18:13:56Z</cell>
+    <cell name="freepreview last export date">2020-08-27T19:26:20Z</cell>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
@@ -1500,7 +1520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fce12be5</cell>
   </row>
-  <row index="75">
+  <row index="76">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f89800e9-en</cell>
     <cell name="title">Market income, Gini Coefficients (en)</cell>
@@ -1520,7 +1540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dbd393f7</cell>
   </row>
-  <row index="76">
+  <row index="77">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/4dd952b9-en</cell>
     <cell name="title">VAT revenues as a share of GDP by country in 2000, 2008 and 2018 (en)</cell>
@@ -1540,7 +1560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db95b2c5</cell>
   </row>
-  <row index="77">
+  <row index="78">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9085703a-en</cell>
     <cell name="title">General consumption tax revenues (left panel) and specific consumption revenues (right panel) as % of total revenues, 1975-2017 (en)</cell>
@@ -1560,7 +1580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1dc23931</cell>
   </row>
-  <row index="78">
+  <row index="79">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f6d66923-en</cell>
     <cell name="title">Real GDP growth (en)</cell>
@@ -1580,7 +1600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/efd2e873</cell>
   </row>
-  <row index="79">
+  <row index="80">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b65613b7-en</cell>
     <cell name="title">Tax revenues, total government revenues and total government spending as a share of GDP in 2018 (en)</cell>
@@ -1600,7 +1620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f9e4093</cell>
   </row>
-  <row index="80">
+  <row index="81">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/da2badac-en</cell>
     <cell name="title">Special Feature: Tax and fiscal policy responses to the COVID-19 crisis (en)</cell>
@@ -1620,7 +1640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9d4e7edb</cell>
   </row>
-  <row index="81">
+  <row index="82">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5423c8ec-en</cell>
     <cell name="title">Changes in labour income tax wedges in OECD countries before and after the financial crisis by family type (en)</cell>
@@ -1640,7 +1660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6507a9c7</cell>
   </row>
-  <row index="82">
+  <row index="83">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/dc762a08-en</cell>
     <cell name="title">Macroeconomic background (en)</cell>
@@ -1652,7 +1672,7 @@
     <cell name="embargo date">2020-09-03T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-08-26T18:27:27Z</cell>
-    <cell name="freepreview last export date">2020-08-26T18:13:56Z</cell>
+    <cell name="freepreview last export date">2020-08-27T19:26:20Z</cell>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
@@ -1660,7 +1680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d80d4951</cell>
   </row>
-  <row index="83">
+  <row index="84">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/47ea8a39-en</cell>
     <cell name="title">Distribution of tax-to-GDP ratios in 2018 (en)</cell>
@@ -1680,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4bb6ccd8</cell>
   </row>
-  <row index="84">
+  <row index="85">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a83b0c3c-en</cell>
     <cell name="title">Average effective energy taxes per litre of diesel and gasoline in road transport in 2018, by country (en)</cell>
@@ -1700,7 +1720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d4dcc869</cell>
   </row>
-  <row index="85">
+  <row index="86">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/4c5d905b-en</cell>
     <cell name="title">Global activity declined abruptly in the first quarter of 2020 (en)</cell>
@@ -1720,7 +1740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d00ed5dd</cell>
   </row>
-  <row index="86">
+  <row index="87">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d7c59d63-en</cell>
     <cell name="title">Carbon emissions from energy use subject to different levels of effective tax rates in the road and non-road sectors, in 2018 (en)</cell>
@@ -1740,7 +1760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c8af56e6</cell>
   </row>
-  <row index="87">
+  <row index="88">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/517df8e3-en</cell>
     <cell name="title">Tax reforms before the COVID-19 crisis (en)</cell>
@@ -1760,7 +1780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ff6937c0</cell>
   </row>
-  <row index="88">
+  <row index="89">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c4a3b14d-en</cell>
     <cell name="title">VAT Revenue Ratios (VRRs) in 2016 (en)</cell>
@@ -1780,7 +1800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f9d9895c</cell>
   </row>
-  <row index="89">
+  <row index="90">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a0a068ee-en</cell>
     <cell name="title">Evolution of OECD real GDP growth (en)</cell>
@@ -1800,7 +1820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eb1b28cd</cell>
   </row>
-  <row index="90">
+  <row index="91">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7af51916-en</cell>
     <cell name="title">Tax Policy Reforms 2020 (en)</cell>
@@ -1820,7 +1840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/15eb5327</cell>
   </row>
-  <row index="91">
+  <row index="92">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a531e661-en</cell>
     <cell name="title">Real private consumption expenditure growth and inflation (en)</cell>
@@ -1840,7 +1860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/968b991e</cell>
   </row>
-  <row index="92">
+  <row index="93">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ff5dadd4-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1852,7 +1872,7 @@
     <cell name="embargo date">2020-09-03T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-08-26T18:27:27Z</cell>
-    <cell name="freepreview last export date">2020-08-26T18:13:56Z</cell>
+    <cell name="freepreview last export date">2020-08-27T19:26:20Z</cell>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
@@ -1860,7 +1880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cfb4ccdf</cell>
   </row>
-  <row index="93">
+  <row index="94">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/02472699-en</cell>
     <cell name="title">PIT, SSCs and payroll taxes as a share of total tax revenues by country in 2018 (en)</cell>
@@ -1880,7 +1900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae30869e</cell>
   </row>
-  <row index="94">
+  <row index="95">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/bdfe5607-en</cell>
     <cell name="title">Main tax measures to support business cash flow in OECD and partner economies (en)</cell>
@@ -1900,7 +1920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/682cec2d</cell>
   </row>
-  <row index="95">
+  <row index="96">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/517df8e3-en</cell>
     <cell name="title">Tax reforms before the COVID-19 crisis (en)</cell>
@@ -1912,7 +1932,7 @@
     <cell name="embargo date">2020-09-03T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-08-26T18:27:27Z</cell>
-    <cell name="freepreview last export date">2020-08-26T18:13:56Z</cell>
+    <cell name="freepreview last export date">2020-08-27T19:26:20Z</cell>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
@@ -1920,7 +1940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10d04554</cell>
   </row>
-  <row index="96">
+  <row index="97">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c9ee7031-en</cell>
     <cell name="title">Tax revenue trends (en)</cell>
@@ -1932,7 +1952,7 @@
     <cell name="embargo date">2020-09-03T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-08-26T18:27:27Z</cell>
-    <cell name="freepreview last export date">2020-08-26T18:13:56Z</cell>
+    <cell name="freepreview last export date">2020-08-27T19:26:20Z</cell>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
@@ -1940,7 +1960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6fd42334</cell>
   </row>
-  <row index="97">
+  <row index="98">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/325a81e0-en</cell>
     <cell name="title">Changes in nominal tax revenues and nominal GDP between 2017 and 2018 (en)</cell>
@@ -1960,7 +1980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/080f6edb</cell>
   </row>
-  <row index="98">
+  <row index="99">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/0c03fdcc-en</cell>
     <cell name="title">Average effective carbon tax rates by country (en)</cell>
@@ -1980,7 +2000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/422564fb</cell>
   </row>
-  <row index="99">
+  <row index="100">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e4e3cf5f-en</cell>
     <cell name="title">Corporate income tax revenues as a share of total tax revenues in 2000 and 2018 (en)</cell>
@@ -2000,7 +2020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9cb0d91c</cell>
   </row>
-  <row index="100">
+  <row index="101">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/cb88b256-en</cell>
     <cell name="title">Percentage point changes in tax-to-GDP ratios by country between 2008 and 2018 (en)</cell>
@@ -2020,7 +2040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c179dcf2</cell>
   </row>
-  <row index="101">
+  <row index="102">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/53dbc531-en</cell>
     <cell name="title">Labour productivity in OECD countries since the global financial crisis (en)</cell>
@@ -2040,7 +2060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/405927b7</cell>
   </row>
-  <row index="102">
+  <row index="103">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/be09e36d-en</cell>
     <cell name="title">Tax structures by country in 2017 (en)</cell>
@@ -2060,7 +2080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bb143805</cell>
   </row>
-  <row index="103">
+  <row index="104">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/05f5ee26-en</cell>
     <cell name="title">Combined statutory CIT rates by country in 2000, 2008 and 2020 (en)</cell>
@@ -2080,7 +2100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ac1ccc87</cell>
   </row>
-  <row index="104">
+  <row index="105">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/71cadeaa-en</cell>
     <cell name="title">Evolution of the average tax wedge on labour income in the OECD between 2000 and 2019 (en)</cell>
@@ -2100,7 +2120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3edd7833</cell>
   </row>
-  <row index="105">
+  <row index="106">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/08d9bbd2-en</cell>
     <cell name="title">Tax revenues as a share of GDP by country in 2018 (en)</cell>
@@ -2120,7 +2140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8da84a1b</cell>
   </row>
-  <row index="106">
+  <row index="107">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/29ca77ee-en</cell>
     <cell name="title">Composite marginal effective tax rates in 2019 (en)</cell>
@@ -2140,7 +2160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b68ccf69</cell>
   </row>
-  <row index="107">
+  <row index="108">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/cd6b63a1-en</cell>
     <cell name="title">Employment and real income growth (en)</cell>
@@ -2160,7 +2180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6e340507</cell>
   </row>
-  <row index="108">
+  <row index="109">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/84b81cb9-en</cell>
     <cell name="title">General government gross debt (en)</cell>
@@ -2180,7 +2200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3f0d25cf</cell>
   </row>
-  <row index="109">
+  <row index="110">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d5f855c2-en</cell>
     <cell name="title">Real GDP growth in OECD and selected countries (en)</cell>
@@ -2200,7 +2220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db360f6a</cell>
   </row>
-  <row index="110">
+  <row index="111">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ff5dadd4-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -2220,7 +2240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6ac48cd</cell>
   </row>
-  <row index="111">
+  <row index="112">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ba073281-en</cell>
     <cell name="title">Change in the distribution of tax-to-GDP ratios from 2000 to 2018 (en)</cell>
@@ -2240,7 +2260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8007df83</cell>
   </row>
-  <row index="112">
+  <row index="113">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/42f5794a-en</cell>
     <cell name="title">Evolution of the OECD average tax-to-GDP ratio since 1965 (en)</cell>
@@ -2260,7 +2280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f332be70</cell>
   </row>
-  <row index="113">
+  <row index="114">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b5978c2d-en</cell>
     <cell name="title">The distribution of combined statutory CIT rates in 2000 and 2020 (en)</cell>
@@ -2280,7 +2300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3a2fe9a5</cell>
   </row>
-  <row index="114">
+  <row index="115">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a5fd0c23-en</cell>
     <cell name="title">Editorial (en)</cell>
@@ -2292,7 +2312,7 @@
     <cell name="embargo date">2020-09-03T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-08-26T18:27:27Z</cell>
-    <cell name="freepreview last export date">2020-08-26T18:13:56Z</cell>
+    <cell name="freepreview last export date">2020-08-27T19:26:20Z</cell>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
@@ -2300,7 +2320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/11581c46</cell>
   </row>
-  <row index="115">
+  <row index="116">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c9ee7031-en</cell>
     <cell name="title">Tax revenue trends (en)</cell>
@@ -2320,7 +2340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6f07f58e</cell>
   </row>
-  <row index="116">
+  <row index="117">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/23f24a90-en</cell>
     <cell name="title">Consumption tax revenues as a share of total tax revenues in 2018 (en)</cell>
@@ -2340,7 +2360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b189121</cell>
   </row>
-  <row index="117">
+  <row index="118">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/94ec562c-en</cell>
     <cell name="title">Evolution of average combined statutory CIT rates in different groups of countries (en)</cell>
@@ -2360,7 +2380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d56ac81</cell>
   </row>
-  <row index="118">
+  <row index="119">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d2c4aca3-en</cell>
     <cell name="title">Effective carbon taxes in OECD and Selected Partner Economies differ substantially across sectors (en)</cell>
@@ -2380,7 +2400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62b9f288</cell>
   </row>
-  <row index="119">
+  <row index="120">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7f704580-en</cell>
     <cell name="title">Post taxes and transfers disposable income Gini coefficients (en)</cell>
@@ -2400,7 +2420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/49c86ffe</cell>
   </row>
-  <row index="120">
+  <row index="121">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/bdd4dd61-en</cell>
     <cell name="title">Reduced CIT rates under selected non-harmful intellectual property regimes in 2019 (en)</cell>
@@ -2420,7 +2440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/acba8a89</cell>
   </row>
-  <row index="121">
+  <row index="122">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/eeb8c6ed-en</cell>
     <cell name="title">Property tax revenues as a share of GDP in 2000 and 2018 (en)</cell>
@@ -2440,7 +2460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d360189d</cell>
   </row>
-  <row index="122">
+  <row index="123">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/2809ff41-en</cell>
     <cell name="title">Evolution of the OECD average combined statutory CIT rate and dispersion of OECD CIT rates between 2000 and 2020 (en)</cell>
@@ -2460,7 +2480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4fe58ece</cell>
   </row>
-  <row index="123">
+  <row index="124">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/51005889-en</cell>
     <cell name="title">General government gross debt and budget balance (en)</cell>
@@ -2480,7 +2500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/085f8cba</cell>
   </row>
-  <row index="124">
+  <row index="125">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ff496eb0-en</cell>
     <cell name="title">Percentage point changes in tax-to-GDP ratios by country between 2017 and 2018 (en)</cell>
@@ -2500,7 +2520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/89cc424f</cell>
   </row>
-  <row index="125">
+  <row index="126">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/56380ef4-en</cell>
     <cell name="title">Standard VAT rates by country in 2008, 2019 and 2020 (en)</cell>
@@ -2520,7 +2540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f785f315</cell>
   </row>
-  <row index="126">
+  <row index="127">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/190938c2-en</cell>
     <cell name="title">Evolution of the OECD average standard VAT rate from 1975 to 2020 (en)</cell>
@@ -2540,7 +2560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0a2a194</cell>
   </row>
-  <row index="127">
+  <row index="128">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/85ceaf76-en</cell>
     <cell name="title">Gross fixed capital formation growth in OECD countries and selected countries (en)</cell>
@@ -2560,7 +2580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/81085925</cell>
   </row>
-  <row index="128">
+  <row index="129">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/4ff64736-en</cell>
     <cell name="title">Cumulative percentage point changes in tax revenues since 2008 (en)</cell>
@@ -2580,7 +2600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ddd3b0f2</cell>
   </row>
-  <row index="129">
+  <row index="130">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c5c3b76b-en</cell>
     <cell name="title">Tax revenue as a share of total revenue, GDP per capita, and tax-to-GDP ratios in 2017 (en)</cell>
@@ -2600,7 +2620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e5f52c5e</cell>
   </row>
-  <row index="130">
+  <row index="131">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5be315f1-en</cell>
     <cell name="title">Revenues from environmentally related taxes as a share of GDP in 2017 by country (en)</cell>
@@ -2620,7 +2640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c10b26a8</cell>
   </row>
-  <row index="131">
+  <row index="132">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7af51916-en</cell>
     <cell name="title">Tax Policy Reforms 2020 (en)</cell>
@@ -2640,7 +2660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3559c71b</cell>
   </row>
-  <row index="132">
+  <row index="133">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9616b22d-en</cell>
     <cell name="title">Unemployment rates in OECD and selected countries (en)</cell>
@@ -2660,26 +2680,6 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2a7037ab</cell>
   </row>
-  <row index="133">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
-    <cell name="doi">10.1787/f241e9cc-en</cell>
-    <cell name="title">Blockchain for SMEs and entrepreneurs in Italy (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2020-09-04</cell>
-    <cell name="embargo date">2020-09-04T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-07-15T18:22:24Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-07-16T06:58:46Z</cell>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Paper</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/96c99db8</cell>
-  </row>
   <row index="134">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/69096873-en</cell>
@@ -2688,7 +2688,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2020-09-08</cell>
     <cell name="embargo date">2020-09-08T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -2707,13 +2707,13 @@
     <cell name="subtitle">OECD Indicators (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2020-09-08</cell>
     <cell name="embargo date">2020-09-08T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2020-08-27T22:05:39Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2020-08-27T17:59:25Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -2724,7 +2724,7 @@
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/bede6513-en</cell>
     <cell name="title">Sustainable Ocean for All (en)</cell>
-    <cell name="subtitle">Harnessing the Benefits for Developing Countries  (en)</cell>
+    <cell name="subtitle">Harnessing the Benefits of Sustainable Ocean Economies for Developing Countries (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
@@ -2744,16 +2744,16 @@
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/bede6513-en</cell>
     <cell name="title">Sustainable Ocean for All (en)</cell>
-    <cell name="subtitle">Harnessing the Benefits for Developing Countries  (en)</cell>
+    <cell name="subtitle">Harnessing the Benefits of Sustainable Ocean Economies for Developing Countries (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2020-09-08</cell>
     <cell name="embargo date">2020-09-08T12:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-08-26T18:27:27Z</cell>
+    <cell name="ilibrary last export date">2020-08-27T22:05:39Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-08-26T18:01:36Z</cell>
+    <cell name="oecd.org last export date">2020-08-27T17:59:25Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -2761,6 +2761,46 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8649871e</cell>
   </row>
   <row index="138">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/f241e9cc-en</cell>
+    <cell name="title">Blockchain for SMEs and entrepreneurs in Italy (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-09-10</cell>
+    <cell name="embargo date">2020-09-10T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-08-27T22:05:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2020-08-27T17:59:25Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/96c99db8</cell>
+  </row>
+  <row index="139">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/bdbbb4ea-it</cell>
+    <cell name="title">Blockchain per le PMI e gli imprenditori in Italia (it)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Italian</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-09-10</cell>
+    <cell name="embargo date">2020-09-10T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-08-27T22:05:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2020-08-27T17:59:25Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dd4f05b4</cell>
+  </row>
+  <row index="140">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/872d016c-en</cell>
     <cell name="title">OECD Tax Policy Reviews: Kazakhstan 2020 (en)</cell>
@@ -2780,7 +2820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62dfb363</cell>
   </row>
-  <row index="139">
+  <row index="141">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ab4d8d52-en</cell>
     <cell name="title">Linking Indigenous Communities with Regional Development in Australia (en)</cell>
@@ -2800,7 +2840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5b037208</cell>
   </row>
-  <row index="140">
+  <row index="142">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f25193a0-zh</cell>
     <cell name="title">经合组织－粮农组织2020-2029年农业展望 (zh)</cell>
@@ -2820,7 +2860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f27bf3be</cell>
   </row>
-  <row index="141">
+  <row index="143">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fa6d31d7-en</cell>
     <cell name="title">Country-by-Country Reporting – Compilation of Peer Review Reports (Phase 3)  (en)</cell>
@@ -2840,7 +2880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d0950724</cell>
   </row>
-  <row index="142">
+  <row index="144">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3d152880-en</cell>
     <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Singapore (Stage 2) (en)</cell>
@@ -2860,7 +2900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cab4761d</cell>
   </row>
-  <row index="143">
+  <row index="145">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a06e58db-en</cell>
     <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Korea (Stage 2) (en)</cell>
@@ -2880,7 +2920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1bcefe55</cell>
   </row>
-  <row index="144">
+  <row index="146">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8f4792bc-en</cell>
     <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Spain (Stage 2) (en)</cell>
@@ -2900,7 +2940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9d6f2e1e</cell>
   </row>
-  <row index="145">
+  <row index="147">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b8ee5001-en</cell>
     <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Czech Republic (Stage 2) (en)</cell>
@@ -2920,7 +2960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b671c75</cell>
   </row>
-  <row index="146">
+  <row index="148">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ea220bff-en</cell>
     <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Poland (Stage 2) (en)</cell>
@@ -2940,7 +2980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/66f1226b</cell>
   </row>
-  <row index="147">
+  <row index="149">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/bd0276f1-en</cell>
     <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Denmark (Stage 2) (en)</cell>
@@ -2960,7 +3000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e4bab233</cell>
   </row>
-  <row index="148">
+  <row index="150">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/64a87e14-en</cell>
     <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Finland (Stage 2) (en)</cell>
@@ -2980,7 +3020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d9fe010</cell>
   </row>
-  <row index="149">
+  <row index="151">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/48127451-en</cell>
     <cell name="title">Making Dispute Resolution More Effective - MAP Peer Review Report, Norway (Stage 2) (en)</cell>
@@ -3000,7 +3040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8ba4cf34</cell>
   </row>
-  <row index="150">
+  <row index="152">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fa6d31d7-en</cell>
     <cell name="title">Country-by-Country Reporting – Compilation of Peer Review Reports (Phase 3)  (en)</cell>
@@ -3020,7 +3060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/51760323</cell>
   </row>
-  <row index="151">
+  <row index="153">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/872d016c-en</cell>
     <cell name="title">OECD Tax Policy Reviews: Kazakhstan 2020 (en)</cell>
@@ -3040,7 +3080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c88ad103</cell>
   </row>
-  <row index="152">
+  <row index="154">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/eb61fd29-en</cell>
     <cell name="title">OECD Business and Finance Outlook 2020 (en)</cell>
@@ -3060,7 +3100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/80f6c8da</cell>
   </row>
-  <row index="153">
+  <row index="155">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/eb61fd29-en</cell>
     <cell name="title">OECD Business and Finance Outlook 2020 (en)</cell>
@@ -3071,7 +3111,7 @@
     <cell name="date of publication">2020-09-29</cell>
     <cell name="embargo date">2020-09-29T08:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-08-21T18:24:11Z</cell>
+    <cell name="ilibrary last export date">2020-08-27T22:05:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2020-08-21T17:58:38Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -3080,7 +3120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/19b25aee</cell>
   </row>
-  <row index="154">
+  <row index="156">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ca768d40-en</cell>
     <cell name="title">PISA 2018 Results (Volume V) (en)</cell>
@@ -3100,7 +3140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5e7be0de</cell>
   </row>
-  <row index="155">
+  <row index="157">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/cec20289-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Greece 2020 (en)</cell>
@@ -3120,7 +3160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53246b72</cell>
   </row>
-  <row index="156">
+  <row index="158">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/cec20289-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Greece 2020 (en)</cell>
@@ -3140,7 +3180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8a7309ec</cell>
   </row>
-  <row index="157">
+  <row index="159">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/79b39420-en</cell>
     <cell name="title">OECD Economic Surveys: Chile 2020 (en)</cell>
@@ -3160,7 +3200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/64ee2af2</cell>
   </row>
-  <row index="158">
+  <row index="160">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/79b39420-en</cell>
     <cell name="title">OECD Economic Surveys: Chile 2020 (en)</cell>
@@ -3180,7 +3220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/541a9693</cell>
   </row>
-  <row index="159">
+  <row index="161">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/fd9f43e6-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Luxembourg 2020 (en)</cell>
@@ -3200,7 +3240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5943a7f</cell>
   </row>
-  <row index="160">
+  <row index="162">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/91951f4d-fr</cell>
     <cell name="title">Examens environnementaux de l'OCDE : Luxembourg 2020 (fr)</cell>
@@ -3220,7 +3260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41f25a64</cell>
   </row>
-  <row index="161">
+  <row index="163">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/fd9f43e6-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Luxembourg 2020 (en)</cell>
@@ -3240,7 +3280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5c323666</cell>
   </row>
-  <row index="162">
+  <row index="164">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/91951f4d-fr</cell>
     <cell name="title">Examens environnementaux de l'OCDE : Luxembourg 2020 (fr)</cell>
@@ -3260,7 +3300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/99b595a5</cell>
   </row>
-  <row index="163">
+  <row index="165">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/16af18a0-en</cell>
     <cell name="title">Improving School Quality in Norway 2020 (en)</cell>
@@ -3280,7 +3320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/69c14337</cell>
   </row>
-  <row index="164">
+  <row index="166">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ab4d8d52-en</cell>
     <cell name="title">Linking Indigenous Communities with Regional Development in Australia (en)</cell>
