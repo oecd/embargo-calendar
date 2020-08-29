@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 28 August 2020 at 3:18* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Saturday 29 August 2020 at 3:21* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [27 August 2020](#27-august-2020)
 * [31 August 2020](#31-august-2020)
@@ -35,7 +35,7 @@ Thursday 27 August 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
+- [x] Exported to OECD.org Friday 28 August 2020 at 19:59
 
 ### Additional Information
 
@@ -62,7 +62,7 @@ Monday 31 August 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 26 August 2020 at 20:27
 - [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
+- [x] Exported to OECD.org Friday 28 August 2020 at 19:59
 
 ### Additional Information
 
@@ -78,7 +78,7 @@ Monday 31 August 2020 at 7:00 | no launch event
 
 # 1 September 2020
 
-## [The Structure of Livestock Trade in West Africa](https://doi.org/10.1787/f8c71341-en)
+## [The structure of livestock trade in West Africa](https://doi.org/10.1787/f8c71341-en)
 
 Embargo date | Launch date
 -------------|:------------:
