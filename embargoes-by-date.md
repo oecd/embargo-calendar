@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 29 August 2020 at 3:21* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 31 August 2020 at 20:56* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [27 August 2020](#27-august-2020)
 * [31 August 2020](#31-august-2020)
 * [1 September 2020](#1-september-2020)
 * [2 September 2020](#2-september-2020)
@@ -19,33 +18,6 @@ Data generated on | |
 * [8 October 2020](#8-october-2020)
 * [20 October 2020](#20-october-2020)
 * [16 November 2020](#16-november-2020)
-
-------
-
-# 27 August 2020
-
-## [How are young graduates settling into the labour market?](https://doi.org/10.1787/0cae6ba1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 27 August 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 August 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -86,16 +58,16 @@ Tuesday 1 September 2020 at 5:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 31 August 2020 at 20:29
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 31 August 2020 at 19:56
 
 ### Additional Information
 
 * Directorate: *Sahel and West Africa Club*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
 
@@ -112,7 +84,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
 - [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
+- [x] Exported to OECD.org Monday 31 August 2020 at 19:56
 
 ### Additional Information
 
@@ -135,7 +107,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
 - [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
+- [x] Exported to OECD.org Monday 31 August 2020 at 19:56
 
 ### Additional Information
 
@@ -158,7 +130,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
 - [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
+- [x] Exported to OECD.org Monday 31 August 2020 at 19:56
 
 ### Additional Information
 
@@ -181,7 +153,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 26 August 2020 at 20:27
 - [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
+- [x] Exported to OECD.org Monday 31 August 2020 at 19:56
 
 ### Additional Information
 
@@ -204,7 +176,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 26 August 2020 at 20:27
 - [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
+- [x] Exported to OECD.org Monday 31 August 2020 at 19:56
 
 ### Additional Information
 
@@ -227,7 +199,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 26 August 2020 at 20:27
 - [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
+- [x] Exported to OECD.org Monday 31 August 2020 at 19:56
 
 ### Additional Information
 
@@ -250,7 +222,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
 - [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
+- [x] Exported to OECD.org Monday 31 August 2020 at 19:56
 
 ### Additional Information
 
@@ -273,7 +245,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
 - [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
+- [x] Exported to OECD.org Monday 31 August 2020 at 19:56
 
 ### Additional Information
 
@@ -296,7 +268,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
 - [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Tuesday 25 August 2020 at 20:01
+- [x] Exported to OECD.org Monday 31 August 2020 at 19:56
 
 ### Additional Information
 
@@ -323,7 +295,7 @@ Wednesday 2 September 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 28 August 2020 at 0:05
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 August 2020 at 19:59
+- [x] Exported to OECD.org Monday 31 August 2020 at 19:56
 
 ### Additional Information
 
@@ -372,7 +344,7 @@ Thursday 3 September 2020 at 9:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 26 August 2020 at 20:27
-- [x] Exported to Keepeek Wednesday 26 August 2020 at 20:13
+- [x] Exported to Keepeek Monday 31 August 2020 at 20:14
 - [x] Exported to OECD.org Wednesday 26 August 2020 at 20:01
 
 ### Additional Information
@@ -388,6 +360,29 @@ Thursday 3 September 2020 at 9:00 | no launch event
 ------
 
 # 8 September 2020
+
+## [Regards sur l'éducation 2020 - Les indicateurs de l'OCDE](https://doi.org/10.1787/7adde83a-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [Education at a Glance 2020 - OECD Indicators](https://doi.org/10.1787/69096873-en)
 
