@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 31 August 2020 at 20:56* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 1 September 2020 at 21:17* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Innovation for Water Infrastructure Development in the Mekong Region](https://doi.org/10.1787/167498ea-en)
 
@@ -15,7 +15,7 @@ Monday 31 August 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 26 August 2020 at 20:27
 - [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Friday 28 August 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 1 September 2020 at 20:03
 
 ### Additional Information
 
@@ -59,9 +59,9 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
-- [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Monday 31 August 2020 at 19:56
+- [x] Exported to iLibrary Tuesday 1 September 2020 at 20:43
+- [x] Exported to Keepeek Tuesday 1 September 2020 at 20:22
+- [x] Exported to OECD.org Tuesday 1 September 2020 at 20:03
 
 ### Additional Information
 
@@ -106,7 +106,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
-- [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
+- [x] Exported to Keepeek Tuesday 1 September 2020 at 20:22
 - [x] Exported to OECD.org Monday 31 August 2020 at 19:56
 
 ### Additional Information
@@ -291,7 +291,7 @@ Wednesday 2 September 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 28 August 2020 at 0:05
 - [x] Exported to Keepeek Thursday 27 August 2020 at 21:26
-- [x] Exported to OECD.org Thursday 27 August 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 1 September 2020 at 20:03
 
 ### Additional Information
 
@@ -323,6 +323,75 @@ Thursday 3 September 2020 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [The economic impacts of learning losses](https://doi.org/10.1787/21908d74-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 4 September 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Building the evidence for OECD integrity and anti-corruption agenda: The current situation and avenues for future analysis](https://doi.org/10.1787/80ebe6e6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 4 September 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 1 September 2020 at 20:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 1 September 2020 at 20:03
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Enhancing business dynamism and consumer welfare in Costa Rica with regulatory reform](https://doi.org/10.1787/53250d35-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 4 September 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 1 September 2020 at 20:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 1 September 2020 at 20:03
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -358,9 +427,9 @@ Tuesday 8 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 28 August 2020 at 0:05
+- [x] Exported to iLibrary Tuesday 1 September 2020 at 20:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 August 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 1 September 2020 at 20:03
 
 ### Additional Information
 
@@ -368,7 +437,7 @@ Tuesday 8 September 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -680,9 +749,9 @@ Thursday 24 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 21 August 2020 at 20:24
+- [x] Exported to iLibrary Tuesday 1 September 2020 at 20:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 August 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 1 September 2020 at 20:03
 
 ### Additional Information
 
