@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 1 September 2020 at 21:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 2 September 2020 at 21:03* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [31 August 2020](#31-august-2020)
 * [1 September 2020](#1-september-2020)
 * [2 September 2020](#2-september-2020)
 * [3 September 2020](#3-september-2020)
@@ -18,34 +17,9 @@ Data generated on | |
 * [6 October 2020](#6-october-2020)
 * [8 October 2020](#8-october-2020)
 * [20 October 2020](#20-october-2020)
+* [22 October 2020](#22-october-2020)
+* [26 October 2020](#26-october-2020)
 * [16 November 2020](#16-november-2020)
-
-------
-
-# 31 August 2020
-
-## [Innovation for Water Infrastructure Development in the Mekong Region](https://doi.org/10.1787/167498ea-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 31 August 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 26 August 2020 at 20:27
-- [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Tuesday 1 September 2020 at 20:03
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -62,7 +36,7 @@ Tuesday 1 September 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 31 August 2020 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 31 August 2020 at 19:56
+- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
 
 ### Additional Information
 
@@ -85,7 +59,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 1 September 2020 at 20:43
 - [x] Exported to Keepeek Tuesday 1 September 2020 at 20:22
-- [x] Exported to OECD.org Tuesday 1 September 2020 at 20:03
+- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
 
 ### Additional Information
 
@@ -108,7 +82,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
 - [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Monday 31 August 2020 at 19:56
+- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
 
 ### Additional Information
 
@@ -131,7 +105,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
 - [x] Exported to Keepeek Tuesday 1 September 2020 at 20:22
-- [x] Exported to OECD.org Monday 31 August 2020 at 19:56
+- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
 
 ### Additional Information
 
@@ -154,7 +128,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 26 August 2020 at 20:27
 - [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Monday 31 August 2020 at 19:56
+- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
 
 ### Additional Information
 
@@ -177,7 +151,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 26 August 2020 at 20:27
 - [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Monday 31 August 2020 at 19:56
+- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
 
 ### Additional Information
 
@@ -200,7 +174,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 26 August 2020 at 20:27
 - [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Monday 31 August 2020 at 19:56
+- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
 
 ### Additional Information
 
@@ -223,7 +197,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
 - [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Monday 31 August 2020 at 19:56
+- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
 
 ### Additional Information
 
@@ -246,7 +220,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
 - [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Monday 31 August 2020 at 19:56
+- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
 
 ### Additional Information
 
@@ -269,7 +243,7 @@ Tuesday 1 September 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
 - [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Monday 31 August 2020 at 19:56
+- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
 
 ### Additional Information
 
@@ -346,7 +320,7 @@ Thursday 3 September 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 26 August 2020 at 20:27
 - [x] Exported to Keepeek Monday 31 August 2020 at 20:14
-- [x] Exported to OECD.org Wednesday 26 August 2020 at 20:01
+- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
 
 ### Additional Information
 
@@ -396,7 +370,7 @@ Friday 4 September 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 1 September 2020 at 20:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 September 2020 at 20:03
+- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
 
 ### Additional Information
 
@@ -419,7 +393,7 @@ Friday 4 September 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 1 September 2020 at 20:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 September 2020 at 20:03
+- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
 
 ### Additional Information
 
@@ -458,6 +432,29 @@ Tuesday 8 September 2020 at 9:00 | no launch event
 
 ------
 
+## [Bildung auf einen Blick 2020: OECD-Indikatoren](https://doi.org/10.3278/6001821nw)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 2 September 2020 at 20:35
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *German*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Education at a Glance 2020 - OECD Indicators](https://doi.org/10.1787/69096873-en)
 
 Embargo date | Launch date
@@ -467,9 +464,9 @@ Tuesday 8 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 1 September 2020 at 20:43
+- [x] Exported to iLibrary Wednesday 2 September 2020 at 20:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 September 2020 at 20:03
+- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
 
 ### Additional Information
 
@@ -489,18 +486,18 @@ Tuesday 8 September 2020 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 28 August 2020 at 0:05
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 August 2020 at 19:59
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 2 September 2020 at 20:35
+- [x] Exported to Keepeek Wednesday 2 September 2020 at 20:19
+- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -581,190 +578,6 @@ Tuesday 15 September 2020 at 8:00 | no launch event
 
 ------
 
-## [Making Dispute Resolution More Effective - MAP Peer Review Report, Singapore (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/3d152880-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 18 August 2020 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 August 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective - MAP Peer Review Report, Korea (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/a06e58db-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 18 August 2020 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 August 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective - MAP Peer Review Report, Spain (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/8f4792bc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 18 August 2020 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 August 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective - MAP Peer Review Report, Czech Republic (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/b8ee5001-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 18 August 2020 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 August 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective - MAP Peer Review Report, Poland (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/ea220bff-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 18 August 2020 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 August 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective - MAP Peer Review Report, Denmark (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/bd0276f1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 18 August 2020 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 August 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective - MAP Peer Review Report, Finland (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/64a87e14-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 18 August 2020 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 August 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective - MAP Peer Review Report, Norway (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/48127451-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 18 August 2020 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 August 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [Country-by-Country Reporting – Compilation of Peer Review Reports (Phase 3)  - Inclusive Framework on BEPS: Action 13 ](https://doi.org/10.1787/fa6d31d7-en)
 
 Embargo date | Launch date
@@ -792,6 +605,167 @@ Tuesday 15 September 2020 at 9:00 | no launch event
 
 # 24 September 2020
 
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Singapore (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/3d152880-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 2 September 2020 at 20:35
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Korea (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/a06e58db-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 2 September 2020 at 20:35
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Spain (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/8f4792bc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 2 September 2020 at 20:35
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Czech Republic (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/b8ee5001-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 2 September 2020 at 20:35
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Poland (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/ea220bff-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 2 September 2020 at 20:35
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Denmark (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/bd0276f1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 2 September 2020 at 20:35
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Finland (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/64a87e14-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 2 September 2020 at 20:35
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Tax Policy Reviews: Kazakhstan 2020](https://doi.org/10.1787/872d016c-en)
 
 Embargo date | Launch date
@@ -812,6 +786,29 @@ Thursday 24 September 2020 at 9:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective - MAP Peer Review Report, Norway (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/48127451-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 2 September 2020 at 20:35
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -993,6 +990,60 @@ Tuesday 20 October 2020 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+------
+
+# 22 October 2020
+
+## [PISA 2018 Results (Volume VI) - Are Students Ready to Thrive in an Interconnected World?](https://doi.org/10.1787/d5f68679-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 22 October 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 2 September 2020 at 20:35
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 26 October 2020
+
+## [OECD Telecommunication and Broadcasting Review of Brazil 2020](https://doi.org/10.1787/30ab8568-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 26 October 2020 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
