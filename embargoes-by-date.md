@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 2 September 2020 at 21:03* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 3 September 2020 at 21:42* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [1 September 2020](#1-september-2020)
 * [2 September 2020](#2-september-2020)
 * [3 September 2020](#3-september-2020)
 * [4 September 2020](#4-september-2020)
@@ -23,240 +22,6 @@ Data generated on | |
 
 ------
 
-# 1 September 2020
-
-## [The structure of livestock trade in West Africa](https://doi.org/10.1787/f8c71341-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 September 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 31 August 2020 at 20:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Sahel and West Africa Club*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Anguilla 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/ac228609-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 September 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 1 September 2020 at 20:43
-- [x] Exported to Keepeek Tuesday 1 September 2020 at 20:22
-- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Greece 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/8279749f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 September 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
-- [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Korea 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/97daef15-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 September 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
-- [x] Exported to Keepeek Tuesday 1 September 2020 at 20:22
-- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Papua New Guinea 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/72fe35f0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 September 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 26 August 2020 at 20:27
-- [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Gibraltar 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/8b4242db-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 September 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 26 August 2020 at 20:27
-- [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Uruguay 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/22fe7fbc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 September 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 26 August 2020 at 20:27
-- [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Chile 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/ec2b5c7b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 September 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
-- [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Malta 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/d92a4f90-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 September 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
-- [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: People's Republic of China 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/1069fca1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 September 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 August 2020 at 20:30
-- [x] Exported to Keepeek Tuesday 25 August 2020 at 20:15
-- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
 # 2 September 2020
 
 ## [Capital flow deflection under the magnifying glass](https://doi.org/10.1787/398180d0-en)
@@ -270,7 +35,7 @@ Wednesday 2 September 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 28 August 2020 at 0:05
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 31 August 2020 at 19:56
+- [x] Exported to OECD.org Thursday 3 September 2020 at 20:13
 
 ### Additional Information
 
@@ -293,7 +58,7 @@ Wednesday 2 September 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 28 August 2020 at 0:05
 - [x] Exported to Keepeek Thursday 27 August 2020 at 21:26
-- [x] Exported to OECD.org Tuesday 1 September 2020 at 20:03
+- [x] Exported to OECD.org Thursday 3 September 2020 at 20:13
 
 ### Additional Information
 
@@ -463,16 +228,16 @@ Tuesday 8 September 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 2 September 2020 at 20:35
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 3 September 2020 at 21:00
+- [x] Exported to Keepeek Thursday 3 September 2020 at 20:31
+- [x] Exported to OECD.org Thursday 3 September 2020 at 20:13
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -487,8 +252,8 @@ Tuesday 8 September 2020 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 2 September 2020 at 20:35
-- [x] Exported to Keepeek Wednesday 2 September 2020 at 20:19
+- [x] Exported to iLibrary Thursday 3 September 2020 at 21:00
+- [x] Exported to Keepeek Thursday 3 September 2020 at 20:31
 - [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
 
 ### Additional Information
@@ -598,6 +363,29 @@ Tuesday 15 September 2020 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Back to the Future of Education - Four OECD Scenarios for Schooling](https://doi.org/10.1787/178ef527-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 3 September 2020 at 21:00
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 3 September 2020 at 20:13
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -997,7 +785,7 @@ Tuesday 20 October 2020 at 10:00 | no launch event
 
 # 22 October 2020
 
-## [PISA 2018 Results (Volume VI) - Are Students Ready to Thrive in an Interconnected World?](https://doi.org/10.1787/d5f68679-en)
+## [PISA 2018 Results (Volume VI) - Are Students Ready to Thrive in an Interconnected World?](https://doi.org/10.1787/d5f68679-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -1006,9 +794,9 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 2 September 2020 at 20:35
+- [x] Exported to iLibrary Thursday 3 September 2020 at 21:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
+- [x] Exported to OECD.org Thursday 3 September 2020 at 20:13
 
 ### Additional Information
 
