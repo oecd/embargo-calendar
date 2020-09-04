@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 3 September 2020 at 21:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 4 September 2020 at 21:02* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [2 September 2020](#2-september-2020)
 * [3 September 2020](#3-september-2020)
 * [4 September 2020](#4-september-2020)
 * [8 September 2020](#8-september-2020)
@@ -22,56 +21,6 @@ Data generated on | |
 
 ------
 
-# 2 September 2020
-
-## [Capital flow deflection under the magnifying glass](https://doi.org/10.1787/398180d0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 2 September 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 28 August 2020 at 0:05
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 September 2020 at 20:13
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [All Hands In? Making Diversity Work for All](https://doi.org/10.1787/efb14583-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 2 September 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 28 August 2020 at 0:05
-- [x] Exported to Keepeek Thursday 27 August 2020 at 21:26
-- [x] Exported to OECD.org Thursday 3 September 2020 at 20:13
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
 # 3 September 2020
 
 ## [Tax Policy Reforms 2020 - OECD and Selected Partner Economies](https://doi.org/10.1787/7af51916-en)
@@ -85,7 +34,7 @@ Thursday 3 September 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 26 August 2020 at 20:27
 - [x] Exported to Keepeek Monday 31 August 2020 at 20:14
-- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
+- [x] Exported to OECD.org Friday 4 September 2020 at 20:06
 
 ### Additional Information
 
@@ -206,15 +155,15 @@ Tuesday 8 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 2 September 2020 at 20:35
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
+- [x] Exported to iLibrary Friday 4 September 2020 at 20:37
+- [x] Exported to Keepeek Friday 4 September 2020 at 20:23
+- [x] Exported to OECD.org Friday 4 September 2020 at 20:06
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *German*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -253,7 +202,7 @@ Tuesday 8 September 2020 at 12:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 3 September 2020 at 21:00
-- [x] Exported to Keepeek Thursday 3 September 2020 at 20:31
+- [x] Exported to Keepeek Friday 4 September 2020 at 20:23
 - [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
 
 ### Additional Information
@@ -375,7 +324,7 @@ Tuesday 15 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 3 September 2020 at 21:00
+- [x] Exported to iLibrary Friday 4 September 2020 at 20:37
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 3 September 2020 at 20:13
 
