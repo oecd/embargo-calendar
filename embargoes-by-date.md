@@ -2,14 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 4 September 2020 at 21:02* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 7 September 2020 at 21:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [3 September 2020](#3-september-2020)
-* [4 September 2020](#4-september-2020)
 * [8 September 2020](#8-september-2020)
 * [10 September 2020](#10-september-2020)
 * [15 September 2020](#15-september-2020)
 * [24 September 2020](#24-september-2020)
+* [28 September 2020](#28-september-2020)
 * [29 September 2020](#29-september-2020)
 * [5 October 2020](#5-october-2020)
 * [6 October 2020](#6-october-2020)
@@ -18,106 +17,6 @@ Data generated on | |
 * [22 October 2020](#22-october-2020)
 * [26 October 2020](#26-october-2020)
 * [16 November 2020](#16-november-2020)
-
-------
-
-# 3 September 2020
-
-## [Tax Policy Reforms 2020 - OECD and Selected Partner Economies](https://doi.org/10.1787/7af51916-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 3 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 26 August 2020 at 20:27
-- [x] Exported to Keepeek Monday 31 August 2020 at 20:14
-- [x] Exported to OECD.org Friday 4 September 2020 at 20:06
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-------
-
-# 4 September 2020
-
-## [The economic impacts of learning losses](https://doi.org/10.1787/21908d74-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 4 September 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Building the evidence for OECD integrity and anti-corruption agenda: The current situation and avenues for future analysis](https://doi.org/10.1787/80ebe6e6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 4 September 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 1 September 2020 at 20:43
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Enhancing business dynamism and consumer welfare in Costa Rica with regulatory reform](https://doi.org/10.1787/53250d35-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 4 September 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 1 September 2020 at 20:43
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -132,15 +31,15 @@ Tuesday 8 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 7 September 2020 at 20:35
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 7 September 2020 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -155,9 +54,9 @@ Tuesday 8 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 4 September 2020 at 20:37
+- [x] Exported to iLibrary Monday 7 September 2020 at 20:35
 - [x] Exported to Keepeek Friday 4 September 2020 at 20:23
-- [x] Exported to OECD.org Friday 4 September 2020 at 20:06
+- [x] Exported to OECD.org Monday 7 September 2020 at 19:56
 
 ### Additional Information
 
@@ -178,9 +77,9 @@ Tuesday 8 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 September 2020 at 21:00
+- [x] Exported to iLibrary Monday 7 September 2020 at 20:35
 - [x] Exported to Keepeek Thursday 3 September 2020 at 20:31
-- [x] Exported to OECD.org Thursday 3 September 2020 at 20:13
+- [x] Exported to OECD.org Monday 7 September 2020 at 19:56
 
 ### Additional Information
 
@@ -203,7 +102,7 @@ Tuesday 8 September 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 3 September 2020 at 21:00
 - [x] Exported to Keepeek Friday 4 September 2020 at 20:23
-- [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
+- [x] Exported to OECD.org Monday 7 September 2020 at 19:56
 
 ### Additional Information
 
@@ -292,29 +191,6 @@ Tuesday 15 September 2020 at 8:00 | no launch event
 
 ------
 
-## [Country-by-Country Reporting – Compilation of Peer Review Reports (Phase 3)  - Inclusive Framework on BEPS: Action 13 ](https://doi.org/10.1787/fa6d31d7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Back to the Future of Education - Four OECD Scenarios for Schooling](https://doi.org/10.1787/178ef527-en)
 
 Embargo date | Launch date
@@ -323,10 +199,10 @@ Tuesday 15 September 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 4 September 2020 at 20:37
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 7 September 2020 at 20:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 September 2020 at 20:13
+- [x] Exported to OECD.org Monday 7 September 2020 at 19:56
 
 ### Additional Information
 
@@ -351,7 +227,7 @@ Thursday 24 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 2 September 2020 at 20:35
+- [x] Exported to iLibrary Monday 7 September 2020 at 20:35
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
 
@@ -374,7 +250,7 @@ Thursday 24 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 2 September 2020 at 20:35
+- [x] Exported to iLibrary Monday 7 September 2020 at 20:35
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
 
@@ -397,7 +273,7 @@ Thursday 24 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 2 September 2020 at 20:35
+- [x] Exported to iLibrary Monday 7 September 2020 at 20:35
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
 
@@ -420,7 +296,7 @@ Thursday 24 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 2 September 2020 at 20:35
+- [x] Exported to iLibrary Monday 7 September 2020 at 20:35
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
 
@@ -443,7 +319,7 @@ Thursday 24 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 2 September 2020 at 20:35
+- [x] Exported to iLibrary Monday 7 September 2020 at 20:35
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
 
@@ -466,7 +342,7 @@ Thursday 24 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 2 September 2020 at 20:35
+- [x] Exported to iLibrary Monday 7 September 2020 at 20:35
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
 
@@ -489,7 +365,7 @@ Thursday 24 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 2 September 2020 at 20:35
+- [x] Exported to iLibrary Monday 7 September 2020 at 20:35
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
 
@@ -535,7 +411,7 @@ Thursday 24 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 2 September 2020 at 20:35
+- [x] Exported to iLibrary Monday 7 September 2020 at 20:35
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 2 September 2020 at 20:01
 
@@ -546,6 +422,33 @@ Thursday 24 September 2020 at 9:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+------
+
+# 28 September 2020
+
+## [Country-by-Country Reporting – Compilation of Peer Review Reports (Phase 3)  - Inclusive Framework on BEPS: Action 13 ](https://doi.org/10.1787/fa6d31d7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 28 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 7 September 2020 at 20:35
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 7 September 2020 at 19:56
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
