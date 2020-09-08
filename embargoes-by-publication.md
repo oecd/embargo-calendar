@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 7 September 2020 at 21:18* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 8 September 2020 at 21:11* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Regards sur l'éducation 2020 - Les indicateurs de l'OCDE](https://doi.org/10.1787/7adde83a-fr)
 
@@ -174,7 +174,7 @@ Tuesday 15 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 7 September 2020 at 20:35
+- [x] Exported to iLibrary Tuesday 8 September 2020 at 20:38
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 7 September 2020 at 19:56
 
@@ -184,7 +184,7 @@ Tuesday 15 September 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -597,6 +597,29 @@ Thursday 22 October 2020 at 9:00 | no launch event
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [A Caminho da Era Digital no Brasil](https://doi.org/10.1787/45a84b29-pt)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 26 October 2020 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *Portuguese*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 

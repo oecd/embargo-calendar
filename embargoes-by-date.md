@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 7 September 2020 at 21:18* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 8 September 2020 at 21:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [8 September 2020](#8-september-2020)
 * [10 September 2020](#10-september-2020)
@@ -200,7 +200,7 @@ Tuesday 15 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 7 September 2020 at 20:35
+- [x] Exported to iLibrary Tuesday 8 September 2020 at 20:38
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 7 September 2020 at 19:56
 
@@ -210,7 +210,7 @@ Tuesday 15 September 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -663,6 +663,29 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ------
 
 # 26 October 2020
+
+## [A Caminho da Era Digital no Brasil](https://doi.org/10.1787/45a84b29-pt)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 26 October 2020 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *Portuguese*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [OECD Telecommunication and Broadcasting Review of Brazil 2020](https://doi.org/10.1787/30ab8568-en)
 
