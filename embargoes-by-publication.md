@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 8 September 2020 at 21:11* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 9 September 2020 at 21:13* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Regards sur l'éducation 2020 - Les indicateurs de l'OCDE](https://doi.org/10.1787/7adde83a-fr)
 
@@ -37,8 +37,8 @@ Tuesday 8 September 2020 at 9:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 September 2020 at 20:35
-- [x] Exported to Keepeek Friday 4 September 2020 at 20:23
-- [x] Exported to OECD.org Monday 7 September 2020 at 19:56
+- [x] Exported to Keepeek Wednesday 9 September 2020 at 20:18
+- [x] Exported to OECD.org Wednesday 9 September 2020 at 20:02
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Tuesday 8 September 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 September 2020 at 20:35
 - [x] Exported to Keepeek Thursday 3 September 2020 at 20:31
-- [x] Exported to OECD.org Monday 7 September 2020 at 19:56
+- [x] Exported to OECD.org Wednesday 9 September 2020 at 20:02
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Tuesday 8 September 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 3 September 2020 at 21:00
 - [x] Exported to Keepeek Friday 4 September 2020 at 20:23
-- [x] Exported to OECD.org Monday 7 September 2020 at 19:56
+- [x] Exported to OECD.org Wednesday 9 September 2020 at 20:02
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Thursday 10 September 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 28 August 2020 at 0:05
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 August 2020 at 19:59
+- [x] Exported to OECD.org Wednesday 9 September 2020 at 20:02
 
 ### Additional Information
 
@@ -130,12 +130,81 @@ Thursday 10 September 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 28 August 2020 at 0:05
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 August 2020 at 19:59
+- [x] Exported to OECD.org Wednesday 9 September 2020 at 20:02
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *Italian*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Revisiting the effect of statutory pension ages on the participation rate](https://doi.org/10.1787/3f430e2b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 September 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 9 September 2020 at 20:37
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 9 September 2020 at 20:02
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Unpicking Portugal’s export performance: A microdata analysis](https://doi.org/10.1787/71df6aa3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 September 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 9 September 2020 at 20:37
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 9 September 2020 at 20:02
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Services trade costs in the United States: A simulation based on the OECD Services Trade Restrictiveness Index](https://doi.org/10.1787/706b87c1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 September 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 9 September 2020 at 20:37
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 9 September 2020 at 20:02
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
@@ -181,6 +250,29 @@ Tuesday 15 September 2020 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [States of Fragility 2020](https://doi.org/10.1787/ba7c22e7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 September 2020 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 9 September 2020 at 20:37
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 9 September 2020 at 20:02
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
@@ -395,6 +487,29 @@ Thursday 24 September 2020 at 9:00 | no launch event
 
 ------
 
+## [Latin American Economic Outlook 2020 - Digital Transformation for Building Back Better](https://doi.org/10.1787/e6e864fb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 September 2020 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 9 September 2020 at 20:37
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 9 September 2020 at 20:02
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Country-by-Country Reporting – Compilation of Peer Review Reports (Phase 3)  - Inclusive Framework on BEPS: Action 13 ](https://doi.org/10.1787/fa6d31d7-en)
 
 Embargo date | Launch date
@@ -473,15 +588,15 @@ Monday 5 October 2020 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 9 September 2020 at 20:37
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 9 September 2020 at 20:02
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
