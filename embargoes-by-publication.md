@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 9 September 2020 at 21:13* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Regards sur l'éducation 2020 - Les indicateurs de l'OCDE](https://doi.org/10.1787/7adde83a-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 8 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 7 September 2020 at 20:35
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 7 September 2020 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Bildung auf einen Blick 2020: OECD-Indikatoren](https://doi.org/10.3278/6001821nw)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 8 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 7 September 2020 at 20:35
-- [x] Exported to Keepeek Wednesday 9 September 2020 at 20:18
-- [x] Exported to OECD.org Wednesday 9 September 2020 at 20:02
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Education at a Glance 2020 - OECD Indicators](https://doi.org/10.1787/69096873-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 8 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 7 September 2020 at 20:35
-- [x] Exported to Keepeek Thursday 3 September 2020 at 20:31
-- [x] Exported to OECD.org Wednesday 9 September 2020 at 20:02
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Sustainable Ocean for All - Harnessing the Benefits of Sustainable Ocean Economies for Developing Countries](https://doi.org/10.1787/bede6513-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 8 September 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 September 2020 at 21:00
-- [x] Exported to Keepeek Friday 4 September 2020 at 20:23
-- [x] Exported to OECD.org Wednesday 9 September 2020 at 20:02
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Thursday 10 September 2020 at 21:09* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Blockchain for SMEs and entrepreneurs in Italy](https://doi.org/10.1787/f241e9cc-en)
 
@@ -280,6 +188,29 @@ Thursday 17 September 2020 at 13:00 | no launch event
 
 ------
 
+## [Education in Ireland - An OECD Assessment of the Senior Cycle Review](https://doi.org/10.1787/636bc6c1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 21 September 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 10 September 2020 at 20:38
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 10 September 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Making Dispute Resolution More Effective - MAP Peer Review Report, Singapore (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/3d152880-en)
 
 Embargo date | Launch date
@@ -450,9 +381,9 @@ Thursday 24 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 1 September 2020 at 20:43
+- [x] Exported to iLibrary Thursday 10 September 2020 at 20:38
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 September 2020 at 20:03
+- [x] Exported to OECD.org Thursday 10 September 2020 at 20:01
 
 ### Additional Information
 
@@ -595,6 +526,29 @@ Monday 5 October 2020 at 7:00 | no launch event
 ### Additional Information
 
 * Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Achieving the New Curriculum for Wales](https://doi.org/10.1787/4b483953-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 5 October 2020 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 10 September 2020 at 20:38
+- [x] Exported to Keepeek Tuesday 17 March 2020 at 20:55
+- [x] Exported to OECD.org Thursday 10 September 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
