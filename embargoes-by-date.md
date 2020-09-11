@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 10 September 2020 at 21:09* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 11 September 2020 at 20:58* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [10 September 2020](#10-september-2020)
 * [14 September 2020](#14-september-2020)
@@ -35,7 +35,7 @@ Thursday 10 September 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 28 August 2020 at 0:05
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 September 2020 at 20:02
+- [x] Exported to OECD.org Friday 11 September 2020 at 19:59
 
 ### Additional Information
 
@@ -58,7 +58,7 @@ Thursday 10 September 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 28 August 2020 at 0:05
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 September 2020 at 20:02
+- [x] Exported to OECD.org Friday 11 September 2020 at 19:59
 
 ### Additional Information
 
@@ -85,7 +85,7 @@ Monday 14 September 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 9 September 2020 at 20:37
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 September 2020 at 20:02
+- [x] Exported to OECD.org Friday 11 September 2020 at 19:59
 
 ### Additional Information
 
@@ -108,7 +108,7 @@ Monday 14 September 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 9 September 2020 at 20:37
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 September 2020 at 20:02
+- [x] Exported to OECD.org Friday 11 September 2020 at 19:59
 
 ### Additional Information
 
@@ -131,7 +131,7 @@ Monday 14 September 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 9 September 2020 at 20:37
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 September 2020 at 20:02
+- [x] Exported to OECD.org Friday 11 September 2020 at 19:59
 
 ### Additional Information
 
@@ -190,6 +190,29 @@ Tuesday 15 September 2020 at 9:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [OECD Economic Outlook, Interim Report September 2020 ](https://doi.org/10.1787/34ffc900-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 September 2020 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 11 September 2020 at 20:30
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 11 September 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Issue*
+* Format: *PDF*
 
 ------
 
@@ -467,9 +490,9 @@ Thursday 24 September 2020 at 14:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 9 September 2020 at 20:37
+- [x] Exported to iLibrary Friday 11 September 2020 at 20:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 September 2020 at 20:02
+- [x] Exported to OECD.org Friday 11 September 2020 at 19:59
 
 ### Additional Information
 
