@@ -2,11 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 11 September 2020 at 20:58* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 14 September 2020 at 20:53* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [10 September 2020](#10-september-2020)
 * [14 September 2020](#14-september-2020)
 * [15 September 2020](#15-september-2020)
+* [16 September 2020](#16-september-2020)
 * [17 September 2020](#17-september-2020)
 * [21 September 2020](#21-september-2020)
 * [24 September 2020](#24-september-2020)
@@ -19,56 +19,6 @@ Data generated on | |
 * [22 October 2020](#22-october-2020)
 * [26 October 2020](#26-october-2020)
 * [16 November 2020](#16-november-2020)
-
-------
-
-# 10 September 2020
-
-## [Blockchain for SMEs and entrepreneurs in Italy](https://doi.org/10.1787/f241e9cc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 10 September 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 28 August 2020 at 0:05
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 September 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Blockchain per le PMI e gli imprenditori in Italia](https://doi.org/10.1787/bdbbb4ea-it)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 10 September 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 28 August 2020 at 0:05
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 September 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *Italian*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -143,32 +93,32 @@ Monday 14 September 2020 at 5:00 | no launch event
 
 ------
 
-------
-
-# 15 September 2020
-
-## [经合组织－粮农组织2020-2029年农业展望](https://doi.org/10.1787/f25193a0-zh)
+## [Making the green recovery work for jobs, income and growth](https://doi.org/10.1787/a505f3e7-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 15 September 2020 at 8:00 | no launch event
+Monday 14 September 2020 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 24 August 2020 at 20:21
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *Chinese*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy response*
+* Formats: *HTML, PDF*
 
 ------
+
+------
+
+# 15 September 2020
 
 ## [Back to the Future of Education - Four OECD Scenarios for Schooling](https://doi.org/10.1787/178ef527-en)
 
@@ -179,32 +129,36 @@ Tuesday 15 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 8 September 2020 at 20:38
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 7 September 2020 at 19:56
+- [x] Exported to iLibrary Monday 14 September 2020 at 20:25
+- [x] Exported to Keepeek Monday 14 September 2020 at 20:13
+- [x] Exported to OECD.org Monday 14 September 2020 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
+------
+
+# 16 September 2020
+
 ## [OECD Economic Outlook, Interim Report September 2020 ](https://doi.org/10.1787/34ffc900-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 15 September 2020 at 22:00 | no launch event
+Wednesday 16 September 2020 at 9:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 11 September 2020 at 20:30
+- [x] Exported to iLibrary Monday 14 September 2020 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 September 2020 at 19:59
+- [x] Exported to OECD.org Monday 14 September 2020 at 19:57
 
 ### Additional Information
 
@@ -219,6 +173,52 @@ Tuesday 15 September 2020 at 22:00 | no launch event
 ------
 
 # 17 September 2020
+
+## [The economics of patient safety Part III: Long-term care - Valuing safety for the long haul](https://doi.org/10.1787/be07475c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 September 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 14 September 2020 at 20:25
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 14 September 2020 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [System governance towards improved patient safety - Key functions, approaches and pathways to implementation](https://doi.org/10.1787/2abdd834-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 September 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 14 September 2020 at 20:25
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 14 September 2020 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [States of Fragility 2020](https://doi.org/10.1787/ba7c22e7-en)
 
@@ -255,16 +255,16 @@ Monday 21 September 2020 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 10 September 2020 at 20:38
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 10 September 2020 at 20:01
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 14 September 2020 at 20:25
+- [x] Exported to Keepeek Monday 14 September 2020 at 20:13
+- [x] Exported to OECD.org Monday 14 September 2020 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
