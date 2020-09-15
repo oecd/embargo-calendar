@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 14 September 2020 at 20:53* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 15 September 2020 at 21:00* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Revisiting the effect of statutory pension ages on the participation rate](https://doi.org/10.1787/3f430e2b-en)
 
@@ -15,7 +15,7 @@ Monday 14 September 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 9 September 2020 at 20:37
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 September 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 15 September 2020 at 20:00
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 14 September 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 9 September 2020 at 20:37
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 September 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 15 September 2020 at 20:00
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Monday 14 September 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 9 September 2020 at 20:37
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 September 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 15 September 2020 at 20:00
 
 ### Additional Information
 
@@ -119,6 +119,29 @@ Tuesday 15 September 2020 at 9:00 | no launch event
 
 ------
 
+## [OECD‑Wirtschaftsausblick, Zwischenausgabe September 2020](https://doi.org/10.1787/32881226-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 16 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 15 September 2020 at 20:32
+- [x] Exported to Keepeek Tuesday 15 September 2020 at 20:17
+- [x] Exported to OECD.org Tuesday 15 September 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *German*
+* Availability: *Published*
+* Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Outlook, Interim Report September 2020 ](https://doi.org/10.1787/34ffc900-en)
 
 Embargo date | Launch date
@@ -127,16 +150,16 @@ Wednesday 16 September 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 14 September 2020 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 September 2020 at 19:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 15 September 2020 at 20:32
+- [x] Exported to Keepeek Tuesday 15 September 2020 at 20:17
+- [x] Exported to OECD.org Tuesday 15 September 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Issue*
 * Format: *PDF*
 
@@ -208,6 +231,75 @@ Thursday 17 September 2020 at 13:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Leveraging tourism development for sustainable and inclusive growth in South Africa](https://doi.org/10.1787/457c263d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 18 September 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 15 September 2020 at 20:32
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 15 September 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Trade liberalisation and product mix adjustments: Evidence from South African firms](https://doi.org/10.1787/f8499821-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 18 September 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 15 September 2020 at 20:32
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 15 September 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Building an inclusive social protection system in South Africa](https://doi.org/10.1787/e01d1e09-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 18 September 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 15 September 2020 at 20:32
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 15 September 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -694,7 +786,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 
 ------
 
-## [A Caminho da Era Digital no Brasil](https://doi.org/10.1787/45a84b29-pt)
+## [Avaliação da OCDE sobre Telecomunicações e Radiodifusão no Brasil 2020](https://doi.org/10.1787/0a4936dd-pt)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -703,17 +795,17 @@ Monday 26 October 2020 at 14:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 15 September 2020 at 20:32
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 15 September 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *Portuguese*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
@@ -726,15 +818,15 @@ Monday 26 October 2020 at 14:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 15 September 2020 at 20:32
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 15 September 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
