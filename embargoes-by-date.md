@@ -2,14 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 15 September 2020 at 21:00* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 16 September 2020 at 20:57* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [14 September 2020](#14-september-2020)
 * [15 September 2020](#15-september-2020)
 * [16 September 2020](#16-september-2020)
 * [17 September 2020](#17-september-2020)
 * [18 September 2020](#18-september-2020)
-* [21 September 2020](#21-september-2020)
+* [23 September 2020](#23-september-2020)
 * [24 September 2020](#24-september-2020)
 * [28 September 2020](#28-september-2020)
 * [29 September 2020](#29-september-2020)
@@ -17,105 +16,10 @@ Data generated on | |
 * [6 October 2020](#6-october-2020)
 * [8 October 2020](#8-october-2020)
 * [20 October 2020](#20-october-2020)
+* [21 October 2020](#21-october-2020)
 * [22 October 2020](#22-october-2020)
 * [26 October 2020](#26-october-2020)
 * [16 November 2020](#16-november-2020)
-
-------
-
-# 14 September 2020
-
-## [Revisiting the effect of statutory pension ages on the participation rate](https://doi.org/10.1787/3f430e2b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 September 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 9 September 2020 at 20:37
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 September 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Unpicking Portugal’s export performance: A microdata analysis](https://doi.org/10.1787/71df6aa3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 September 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 9 September 2020 at 20:37
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 September 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Services trade costs in the United States: A simulation based on the OECD Services Trade Restrictiveness Index](https://doi.org/10.1787/706b87c1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 September 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 9 September 2020 at 20:37
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 September 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Making the green recovery work for jobs, income and growth](https://doi.org/10.1787/a505f3e7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 September 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy response*
-* Formats: *HTML, PDF*
-
-------
 
 ------
 
@@ -130,9 +34,9 @@ Tuesday 15 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 14 September 2020 at 20:25
+- [x] Exported to iLibrary Wednesday 16 September 2020 at 20:28
 - [x] Exported to Keepeek Monday 14 September 2020 at 20:13
-- [x] Exported to OECD.org Monday 14 September 2020 at 19:57
+- [x] Exported to OECD.org Wednesday 16 September 2020 at 19:59
 
 ### Additional Information
 
@@ -157,9 +61,9 @@ Wednesday 16 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 September 2020 at 20:32
-- [x] Exported to Keepeek Tuesday 15 September 2020 at 20:17
-- [x] Exported to OECD.org Tuesday 15 September 2020 at 20:00
+- [x] Exported to iLibrary Wednesday 16 September 2020 at 20:28
+- [x] Exported to Keepeek Wednesday 16 September 2020 at 16:19
+- [x] Exported to OECD.org Wednesday 16 September 2020 at 19:59
 
 ### Additional Information
 
@@ -180,9 +84,9 @@ Wednesday 16 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 September 2020 at 20:32
-- [x] Exported to Keepeek Tuesday 15 September 2020 at 20:17
-- [x] Exported to OECD.org Tuesday 15 September 2020 at 20:00
+- [x] Exported to iLibrary Wednesday 16 September 2020 at 20:28
+- [x] Exported to Keepeek Wednesday 16 September 2020 at 16:19
+- [x] Exported to OECD.org Wednesday 16 September 2020 at 19:59
 
 ### Additional Information
 
@@ -209,7 +113,7 @@ Thursday 17 September 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 14 September 2020 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 September 2020 at 19:57
+- [x] Exported to OECD.org Wednesday 16 September 2020 at 19:59
 
 ### Additional Information
 
@@ -232,7 +136,7 @@ Thursday 17 September 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 14 September 2020 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 September 2020 at 19:57
+- [x] Exported to OECD.org Wednesday 16 September 2020 at 19:59
 
 ### Additional Information
 
@@ -252,16 +156,16 @@ Thursday 17 September 2020 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 9 September 2020 at 20:37
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 September 2020 at 20:02
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 16 September 2020 at 20:28
+- [x] Exported to Keepeek Wednesday 16 September 2020 at 20:15
+- [x] Exported to OECD.org Wednesday 16 September 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -282,7 +186,7 @@ Friday 18 September 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 15 September 2020 at 20:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 September 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 16 September 2020 at 19:59
 
 ### Additional Information
 
@@ -305,7 +209,7 @@ Friday 18 September 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 15 September 2020 at 20:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 September 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 16 September 2020 at 19:59
 
 ### Additional Information
 
@@ -342,28 +246,28 @@ Friday 18 September 2020 at 5:00 | no launch event
 
 ------
 
-# 21 September 2020
+# 23 September 2020
 
-## [Education in Ireland - An OECD Assessment of the Senior Cycle Review](https://doi.org/10.1787/636bc6c1-en)
+## [Leadership for a high performing civil service - Towards a senior civil service systems in OECD countries](https://doi.org/10.1787/ed8235c8-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 21 September 2020 at 10:00 | no launch event
+Wednesday 23 September 2020 at 5:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 14 September 2020 at 20:25
-- [x] Exported to Keepeek Monday 14 September 2020 at 20:13
-- [x] Exported to OECD.org Monday 14 September 2020 at 19:57
+- [x] Exported to iLibrary Wednesday 16 September 2020 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 16 September 2020 at 19:59
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills*
+* Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -551,7 +455,7 @@ Thursday 24 September 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -714,7 +618,7 @@ Monday 5 October 2020 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 10 September 2020 at 20:38
+- [x] Exported to iLibrary Wednesday 16 September 2020 at 20:28
 - [x] Exported to Keepeek Tuesday 17 March 2020 at 20:55
 - [x] Exported to OECD.org Thursday 10 September 2020 at 20:01
 
@@ -829,6 +733,33 @@ Tuesday 20 October 2020 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+------
+
+# 21 October 2020
+
+## [Promoting Education Decision Makers' Use of Evidence in Austria](https://doi.org/10.1787/0ac0181e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 21 October 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
