@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 16 September 2020 at 20:57* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 17 September 2020 at 21:09* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [15 September 2020](#15-september-2020)
 * [16 September 2020](#16-september-2020)
 * [17 September 2020](#17-september-2020)
 * [18 September 2020](#18-september-2020)
@@ -15,38 +14,11 @@ Data generated on | |
 * [5 October 2020](#5-october-2020)
 * [6 October 2020](#6-october-2020)
 * [8 October 2020](#8-october-2020)
-* [20 October 2020](#20-october-2020)
 * [21 October 2020](#21-october-2020)
 * [22 October 2020](#22-october-2020)
 * [26 October 2020](#26-october-2020)
 * [16 November 2020](#16-november-2020)
-
-------
-
-# 15 September 2020
-
-## [Back to the Future of Education - Four OECD Scenarios for Schooling](https://doi.org/10.1787/178ef527-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 16 September 2020 at 20:28
-- [x] Exported to Keepeek Monday 14 September 2020 at 20:13
-- [x] Exported to OECD.org Wednesday 16 September 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+* [28 January 2021](#28-january-2021)
 
 ------
 
@@ -63,7 +35,7 @@ Wednesday 16 September 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 16 September 2020 at 20:28
 - [x] Exported to Keepeek Wednesday 16 September 2020 at 16:19
-- [x] Exported to OECD.org Wednesday 16 September 2020 at 19:59
+- [x] Exported to OECD.org Thursday 17 September 2020 at 20:00
 
 ### Additional Information
 
@@ -86,7 +58,7 @@ Wednesday 16 September 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 16 September 2020 at 20:28
 - [x] Exported to Keepeek Wednesday 16 September 2020 at 16:19
-- [x] Exported to OECD.org Wednesday 16 September 2020 at 19:59
+- [x] Exported to OECD.org Thursday 17 September 2020 at 20:00
 
 ### Additional Information
 
@@ -148,6 +120,98 @@ Thursday 17 September 2020 at 7:00 | no launch event
 
 ------
 
+## [States of fragility and official development assistance](https://doi.org/10.1787/44bbde61-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 September 2020 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 17 September 2020 at 20:36
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 17 September 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Diplomacy and peace in fragile contexts](https://doi.org/10.1787/6a684a4b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 September 2020 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 17 September 2020 at 20:36
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 17 September 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Multidimensional fragility in 2020](https://doi.org/10.1787/b4fbdd27-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 September 2020 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 17 September 2020 at 20:36
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 17 September 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Considering human capital in a multidimensional analysis of fragility](https://doi.org/10.1787/430770d4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 September 2020 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 17 September 2020 at 20:36
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 17 September 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [States of Fragility 2020](https://doi.org/10.1787/ba7c22e7-en)
 
 Embargo date | Launch date
@@ -157,8 +221,8 @@ Thursday 17 September 2020 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 16 September 2020 at 20:28
-- [x] Exported to Keepeek Wednesday 16 September 2020 at 20:15
+- [x] Exported to iLibrary Thursday 17 September 2020 at 20:36
+- [x] Exported to Keepeek Thursday 17 September 2020 at 20:16
 - [x] Exported to OECD.org Wednesday 16 September 2020 at 19:59
 
 ### Additional Information
@@ -168,6 +232,98 @@ Thursday 17 September 2020 at 13:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Conflict prevention in fragile contexts](https://doi.org/10.1787/041cbaf0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 September 2020 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 17 September 2020 at 20:36
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 17 September 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Fragility and Agenda 2030 - Navigating shocks and pressures in fragile contexts](https://doi.org/10.1787/65d5cb9c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 September 2020 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 17 September 2020 at 20:36
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 17 September 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Fit for fragility - Practice to policy](https://doi.org/10.1787/543d314e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 September 2020 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 17 September 2020 at 20:36
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 17 September 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Security actors in fragile contexts](https://doi.org/10.1787/00ca1ad0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 September 2020 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 17 September 2020 at 20:36
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 17 September 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -528,7 +684,7 @@ Monday 28 September 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -618,7 +774,7 @@ Monday 5 October 2020 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 16 September 2020 at 20:28
+- [x] Exported to iLibrary Thursday 17 September 2020 at 20:36
 - [x] Exported to Keepeek Tuesday 17 March 2020 at 20:55
 - [x] Exported to OECD.org Thursday 10 September 2020 at 20:01
 
@@ -711,33 +867,6 @@ Thursday 8 October 2020 at 7:00 | no launch event
 
 ------
 
-# 20 October 2020
-
-## [Improving School Quality in Norway 2020 - Progress with the Competence Development Model](https://doi.org/10.1787/16af18a0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 20 October 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-------
-
 # 21 October 2020
 
 ## [Promoting Education Decision Makers' Use of Evidence in Austria](https://doi.org/10.1787/0ac0181e-en)
@@ -817,7 +946,7 @@ Monday 26 October 2020 at 14:00 | no launch event
 
 ------
 
-## [OECD Telecommunication and Broadcasting Review of Brazil 2020](https://doi.org/10.1787/30ab8568-en)
+## [OECD Telecommunication and Broadcasting Review of Brazil 2020](https://doi.org/10.1787/30ab8568-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -826,9 +955,9 @@ Monday 26 October 2020 at 14:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 15 September 2020 at 20:32
+- [x] Exported to iLibrary Thursday 17 September 2020 at 20:36
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 September 2020 at 20:00
+- [x] Exported to OECD.org Thursday 17 September 2020 at 20:00
 
 ### Additional Information
 
@@ -862,6 +991,33 @@ Monday 16 November 2020 at 7:00 | no launch event
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
 * Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 28 January 2021
+
+## [Going Digital in Latvia](https://doi.org/10.1787/8eec1828-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 January 2021 at 8:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 17 September 2020 at 20:36
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 17 September 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
