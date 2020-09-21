@@ -2,323 +2,24 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 18 September 2020 at 20:52* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 21 September 2020 at 20:51* | [See embargoes by date](embargoes-by-date.md) |
 
-## [The economics of patient safety Part III: Long-term care - Valuing safety for the long haul](https://doi.org/10.1787/be07475c-en)
+## [Mapping policy approaches and practices for the inclusion of students with special education needs](https://doi.org/10.1787/600fbad5-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 17 September 2020 at 7:00 | no launch event
+Wednesday 23 September 2020 at 5:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 14 September 2020 at 20:25
+- [x] Exported to iLibrary Monday 21 September 2020 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 September 2020 at 20:00
+- [x] Exported to OECD.org Monday 21 September 2020 at 19:58
 
 ### Additional Information
 
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [System governance towards improved patient safety - Key functions, approaches and pathways to implementation](https://doi.org/10.1787/2abdd834-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 September 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 14 September 2020 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 September 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [States of fragility and official development assistance](https://doi.org/10.1787/44bbde61-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 September 2020 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 September 2020 at 20:36
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 September 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Diplomacy and peace in fragile contexts](https://doi.org/10.1787/6a684a4b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 September 2020 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 September 2020 at 20:36
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 September 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Multidimensional fragility in 2020](https://doi.org/10.1787/b4fbdd27-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 September 2020 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 September 2020 at 20:36
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 September 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Considering human capital in a multidimensional analysis of fragility](https://doi.org/10.1787/430770d4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 September 2020 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 September 2020 at 20:36
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 September 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [States of Fragility 2020](https://doi.org/10.1787/ba7c22e7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 September 2020 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 September 2020 at 20:36
-- [x] Exported to Keepeek Thursday 17 September 2020 at 20:16
-- [x] Exported to OECD.org Friday 18 September 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Conflict prevention in fragile contexts](https://doi.org/10.1787/041cbaf0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 September 2020 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 September 2020 at 20:36
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 September 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Fragility and Agenda 2030 - Navigating shocks and pressures in fragile contexts](https://doi.org/10.1787/65d5cb9c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 September 2020 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 September 2020 at 20:36
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 September 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Fit for fragility - Practice to policy](https://doi.org/10.1787/543d314e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 September 2020 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 September 2020 at 20:36
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 September 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Security actors in fragile contexts](https://doi.org/10.1787/00ca1ad0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 September 2020 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 September 2020 at 20:36
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 September 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Leveraging tourism development for sustainable and inclusive growth in South Africa](https://doi.org/10.1787/457c263d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 18 September 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 September 2020 at 20:32
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 16 September 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Trade liberalisation and product mix adjustments: Evidence from South African firms](https://doi.org/10.1787/f8499821-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 18 September 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 September 2020 at 20:32
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 16 September 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Building an inclusive social protection system in South Africa](https://doi.org/10.1787/e01d1e09-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 18 September 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 15 September 2020 at 20:32
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 September 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -337,7 +38,7 @@ Wednesday 23 September 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 16 September 2020 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 16 September 2020 at 19:59
+- [x] Exported to OECD.org Monday 21 September 2020 at 19:58
 
 ### Additional Information
 
@@ -360,7 +61,7 @@ Wednesday 23 September 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 18 September 2020 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 September 2020 at 20:00
+- [x] Exported to OECD.org Monday 21 September 2020 at 19:58
 
 ### Additional Information
 
@@ -380,18 +81,18 @@ Thursday 24 September 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 10 September 2020 at 20:38
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 10 September 2020 at 20:01
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 21 September 2020 at 20:27
+- [x] Exported to Keepeek Monday 21 September 2020 at 20:13
+- [x] Exported to OECD.org Monday 21 September 2020 at 19:58
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -426,16 +127,16 @@ Thursday 24 September 2020 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 11 September 2020 at 20:30
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 September 2020 at 19:59
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 21 September 2020 at 20:27
+- [x] Exported to Keepeek Monday 21 September 2020 at 20:13
+- [x] Exported to OECD.org Monday 21 September 2020 at 19:58
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -491,14 +192,14 @@ Tuesday 29 September 2020 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 1 October 2020 at 9:30 | no launch event
+Thursday 1 October 2020 at 8:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 18 September 2020 at 20:28
+- [x] Exported to iLibrary Monday 21 September 2020 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 September 2020 at 20:00
+- [x] Exported to OECD.org Monday 21 September 2020 at 19:58
 
 ### Additional Information
 
@@ -519,9 +220,9 @@ Monday 5 October 2020 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 9 September 2020 at 20:37
+- [x] Exported to iLibrary Monday 21 September 2020 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 September 2020 at 20:02
+- [x] Exported to OECD.org Monday 21 September 2020 at 19:58
 
 ### Additional Information
 
@@ -575,6 +276,29 @@ Tuesday 6 October 2020 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Skills Strategy Implementation Guidance for Latvia - Developing Latvia’s Education Development Guidelines 2021-2027](https://doi.org/10.1787/ebc98a53-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 7 October 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 21 September 2020 at 20:27
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 21 September 2020 at 19:58
+
+### Additional Information
+
+* Directorate: *Centre for Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -887,9 +611,9 @@ Monday 26 October 2020 at 14:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 15 September 2020 at 20:32
+- [x] Exported to iLibrary Monday 21 September 2020 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 September 2020 at 20:00
+- [x] Exported to OECD.org Monday 21 September 2020 at 19:58
 
 ### Additional Information
 
@@ -910,9 +634,9 @@ Monday 26 October 2020 at 14:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 17 September 2020 at 20:36
+- [x] Exported to iLibrary Monday 21 September 2020 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 September 2020 at 20:00
+- [x] Exported to OECD.org Monday 21 September 2020 at 19:58
 
 ### Additional Information
 
@@ -944,6 +668,29 @@ Monday 16 November 2020 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Taxation and Philanthropy](https://doi.org/10.1787/df434a77-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 November 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
