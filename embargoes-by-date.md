@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 21 September 2020 at 20:51* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 22 September 2020 at 20:48* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [23 September 2020](#23-september-2020)
 * [24 September 2020](#24-september-2020)
@@ -92,6 +92,29 @@ Wednesday 23 September 2020 at 6:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Israel 2020](https://doi.org/10.1787/d6a7d907-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 23 September 2020 at 15:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 22 September 2020 at 20:24
+- [x] Exported to Keepeek Tuesday 22 September 2020 at 20:11
+- [x] Exported to OECD.org Tuesday 22 September 2020 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
 ------
 
 # 24 September 2020
@@ -127,16 +150,16 @@ Thursday 24 September 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 18 September 2020 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 September 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 22 September 2020 at 20:24
+- [x] Exported to Keepeek Tuesday 22 September 2020 at 20:11
+- [x] Exported to OECD.org Tuesday 22 September 2020 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -151,9 +174,9 @@ Thursday 24 September 2020 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 21 September 2020 at 20:27
-- [x] Exported to Keepeek Monday 21 September 2020 at 20:13
-- [x] Exported to OECD.org Monday 21 September 2020 at 19:58
+- [x] Exported to iLibrary Tuesday 22 September 2020 at 20:24
+- [x] Exported to Keepeek Tuesday 22 September 2020 at 20:11
+- [x] Exported to OECD.org Tuesday 22 September 2020 at 19:57
 
 ### Additional Information
 
@@ -201,7 +224,7 @@ Tuesday 29 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 28 July 2020 at 20:23
+- [x] Exported to iLibrary Tuesday 22 September 2020 at 20:24
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 28 July 2020 at 19:59
 
@@ -227,10 +250,10 @@ Thursday 1 October 2020 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 21 September 2020 at 20:27
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 22 September 2020 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 September 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 22 September 2020 at 19:57
 
 ### Additional Information
 
@@ -332,9 +355,9 @@ Wednesday 7 October 2020 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 21 September 2020 at 20:27
+- [x] Exported to iLibrary Tuesday 22 September 2020 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 September 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 22 September 2020 at 19:57
 
 ### Additional Information
 
@@ -436,7 +459,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 3 September 2020 at 21:00
+- [x] Exported to iLibrary Tuesday 22 September 2020 at 20:24
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 3 September 2020 at 20:13
 
