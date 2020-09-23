@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 22 September 2020 at 20:48* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 23 September 2020 at 20:55* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Mapping policy approaches and practices for the inclusion of students with special education needs](https://doi.org/10.1787/600fbad5-en)
 
@@ -36,7 +36,7 @@ Wednesday 23 September 2020 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 16 September 2020 at 20:28
+- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 21 September 2020 at 19:58
 
@@ -96,6 +96,29 @@ Wednesday 23 September 2020 at 15:30 | no launch event
 
 ------
 
+## [Professional collaboration as a key support for teachers working in challenging environments](https://doi.org/10.1787/c699389b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 23 September 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [OECD Tax Policy Reviews: Kazakhstan 2020](https://doi.org/10.1787/872d016c-en)
 
 Embargo date | Launch date
@@ -107,7 +130,7 @@ Thursday 24 September 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 21 September 2020 at 20:27
 - [x] Exported to Keepeek Monday 21 September 2020 at 20:13
-- [x] Exported to OECD.org Monday 21 September 2020 at 19:58
+- [x] Exported to OECD.org Wednesday 23 September 2020 at 19:59
 
 ### Additional Information
 
@@ -128,9 +151,9 @@ Thursday 24 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 22 September 2020 at 20:24
+- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
 - [x] Exported to Keepeek Tuesday 22 September 2020 at 20:11
-- [x] Exported to OECD.org Tuesday 22 September 2020 at 19:57
+- [x] Exported to OECD.org Wednesday 23 September 2020 at 19:59
 
 ### Additional Information
 
@@ -153,7 +176,7 @@ Thursday 24 September 2020 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 22 September 2020 at 20:24
 - [x] Exported to Keepeek Tuesday 22 September 2020 at 20:11
-- [x] Exported to OECD.org Tuesday 22 September 2020 at 19:57
+- [x] Exported to OECD.org Wednesday 23 September 2020 at 19:59
 
 ### Additional Information
 
@@ -197,9 +220,9 @@ Tuesday 29 September 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 22 September 2020 at 20:24
+- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 July 2020 at 19:59
+- [x] Exported to OECD.org Wednesday 23 September 2020 at 19:59
 
 ### Additional Information
 
@@ -207,6 +230,29 @@ Tuesday 29 September 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Were schools equipped to teach – and were students ready to learn – remotely?](https://doi.org/10.1787/4bcd7938-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 29 September 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 23 September 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -220,17 +266,17 @@ Thursday 1 October 2020 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 22 September 2020 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 September 2020 at 19:57
+- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
+- [x] Exported to Keepeek Wednesday 23 September 2020 at 20:14
+- [x] Exported to OECD.org Wednesday 23 September 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -261,14 +307,14 @@ Monday 5 October 2020 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 5 October 2020 at 13:00 | no launch event
+Monday 5 October 2020 at 12:30 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 September 2020 at 20:36
+- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
 - [x] Exported to Keepeek Tuesday 17 March 2020 at 20:55
-- [x] Exported to OECD.org Thursday 10 September 2020 at 20:01
+- [x] Exported to OECD.org Wednesday 23 September 2020 at 19:59
 
 ### Additional Information
 
@@ -372,6 +418,29 @@ Thursday 8 October 2020 at 7:00 | no launch event
 
 ------
 
+## [Tax Challenges Arising from Digitalisation – Economic Impact Assessment - Inclusive Framework on BEPS](https://doi.org/10.1787/0e3cc2d4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 12 October 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Promoting Education Decision Makers' Use of Evidence in Austria](https://doi.org/10.1787/0ac0181e-en)
 
 Embargo date | Launch date
@@ -427,7 +496,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 18 September 2020 at 20:28
+- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 18 September 2020 at 20:00
 
@@ -450,7 +519,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 18 September 2020 at 20:28
+- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 18 September 2020 at 20:00
 
@@ -473,7 +542,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 18 September 2020 at 20:28
+- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 18 September 2020 at 20:00
 
@@ -496,7 +565,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 18 September 2020 at 20:28
+- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 18 September 2020 at 20:00
 
@@ -519,7 +588,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 18 September 2020 at 20:28
+- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 18 September 2020 at 20:00
 
@@ -542,7 +611,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 18 September 2020 at 20:28
+- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 18 September 2020 at 20:00
 
@@ -565,7 +634,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 18 September 2020 at 20:28
+- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 18 September 2020 at 20:00
 
@@ -588,7 +657,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 18 September 2020 at 20:28
+- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 18 September 2020 at 20:00
 
