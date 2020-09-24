@@ -2,10 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 23 September 2020 at 20:55* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 24 September 2020 at 20:59* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [23 September 2020](#23-september-2020)
 * [24 September 2020](#24-september-2020)
+* [28 September 2020](#28-september-2020)
 * [29 September 2020](#29-september-2020)
 * [1 October 2020](#1-october-2020)
 * [5 October 2020](#5-october-2020)
@@ -35,7 +36,7 @@ Wednesday 23 September 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 21 September 2020 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 September 2020 at 19:58
+- [x] Exported to OECD.org Thursday 24 September 2020 at 20:00
 
 ### Additional Information
 
@@ -58,7 +59,7 @@ Wednesday 23 September 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 September 2020 at 19:58
+- [x] Exported to OECD.org Thursday 24 September 2020 at 20:00
 
 ### Additional Information
 
@@ -81,7 +82,7 @@ Wednesday 23 September 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 18 September 2020 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 September 2020 at 19:58
+- [x] Exported to OECD.org Thursday 24 September 2020 at 20:00
 
 ### Additional Information
 
@@ -104,7 +105,7 @@ Wednesday 23 September 2020 at 15:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 22 September 2020 at 20:24
 - [x] Exported to Keepeek Tuesday 22 September 2020 at 20:11
-- [x] Exported to OECD.org Tuesday 22 September 2020 at 19:57
+- [x] Exported to OECD.org Thursday 24 September 2020 at 20:00
 
 ### Additional Information
 
@@ -214,6 +215,33 @@ Thursday 24 September 2020 at 14:00 | no launch event
 
 ------
 
+# 28 September 2020
+
+## [Using Google data to understand governments’ approval in Latin America](https://doi.org/10.1787/89ed5e8f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 28 September 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 24 September 2020 at 20:32
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 24 September 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 29 September 2020
 
 ## [OECD Business and Finance Outlook 2020 - Sustainable and Resilient Finance](https://doi.org/10.1787/eb61fd29-en)
@@ -298,7 +326,7 @@ Thursday 1 October 2020 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
+- [x] Exported to iLibrary Thursday 24 September 2020 at 20:32
 - [x] Exported to Keepeek Wednesday 23 September 2020 at 20:14
 - [x] Exported to OECD.org Wednesday 23 September 2020 at 19:59
 
@@ -316,7 +344,7 @@ Thursday 1 October 2020 at 8:00 | no launch event
 
 # 5 October 2020
 
-## [OECD Environmental Performance Reviews: Greece 2020](https://doi.org/10.1787/cec20289-en)
+## [Rural Well-being - Geography of Opportunities](https://doi.org/10.1787/d25cef80-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -325,17 +353,40 @@ Monday 5 October 2020 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 21 September 2020 at 20:27
+- [x] Exported to iLibrary Thursday 24 September 2020 at 20:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 September 2020 at 19:58
+- [x] Exported to OECD.org Thursday 24 September 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [OECD Environmental Performance Reviews: Greece 2020](https://doi.org/10.1787/cec20289-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 5 October 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 24 September 2020 at 20:32
+- [x] Exported to Keepeek Thursday 24 September 2020 at 20:17
+- [x] Exported to OECD.org Thursday 24 September 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -401,16 +452,16 @@ Wednesday 7 October 2020 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 22 September 2020 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 September 2020 at 19:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 24 September 2020 at 20:32
+- [x] Exported to Keepeek Thursday 24 September 2020 at 20:17
+- [x] Exported to OECD.org Thursday 24 September 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Centre for Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -658,7 +709,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
