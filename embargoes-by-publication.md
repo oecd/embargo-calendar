@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 25 September 2020 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Professional collaboration as a key support for teachers working in challenging environments](https://doi.org/10.1787/c699389b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 24 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 September 2020 at 20:02
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Tax Policy Reviews: Kazakhstan 2020](https://doi.org/10.1787/872d016c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 24 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 21 September 2020 at 20:27
-- [x] Exported to Keepeek Monday 21 September 2020 at 20:13
-- [x] Exported to OECD.org Friday 25 September 2020 at 20:02
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Country-by-Country Reporting – Compilation of Peer Review Reports (Phase 3)  - Inclusive Framework on BEPS: Action 13 ](https://doi.org/10.1787/fa6d31d7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 24 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
-- [x] Exported to Keepeek Tuesday 22 September 2020 at 20:11
-- [x] Exported to OECD.org Friday 25 September 2020 at 20:02
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Latin American Economic Outlook 2020 - Digital Transformation for Building Back Better](https://doi.org/10.1787/e6e864fb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 24 September 2020 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 22 September 2020 at 20:24
-- [x] Exported to Keepeek Tuesday 22 September 2020 at 20:11
-- [x] Exported to OECD.org Friday 25 September 2020 at 20:02
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
+| *Tuesday 29 September 2020 at 0:44* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Using Google data to understand governments’ approval in Latin America](https://doi.org/10.1787/89ed5e8f-en)
 
@@ -128,9 +36,9 @@ Tuesday 29 September 2020 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 25 September 2020 at 20:19
+- [x] Exported to iLibrary Tuesday 29 September 2020 at 0:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 September 2020 at 20:02
+- [x] Exported to OECD.org Monday 28 September 2020 at 19:57
 
 ### Additional Information
 
@@ -150,16 +58,16 @@ Tuesday 29 September 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 29 September 2020 at 0:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 23 September 2020 at 19:59
+- [x] Exported to OECD.org Monday 28 September 2020 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -176,7 +84,7 @@ Tuesday 29 September 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 23 September 2020 at 19:59
+- [x] Exported to OECD.org Monday 28 September 2020 at 19:57
 
 ### Additional Information
 
@@ -220,9 +128,9 @@ Monday 5 October 2020 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 24 September 2020 at 20:32
+- [x] Exported to iLibrary Tuesday 29 September 2020 at 0:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 24 September 2020 at 20:00
+- [x] Exported to OECD.org Monday 28 September 2020 at 19:57
 
 ### Additional Information
 
@@ -230,7 +138,7 @@ Monday 5 October 2020 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -280,26 +188,26 @@ Monday 5 October 2020 at 12:30 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Chile 2020](https://doi.org/10.1787/79b39420-en)
+## [Developing Sustainable Finance Definitions and Taxonomies](https://doi.org/10.1787/134a2dbe-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 6 October 2020 at 12:00 | no launch event
+Tuesday 6 October 2020 at 7:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 29 September 2020 at 0:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 28 September 2020 at 19:57
 
 ### Additional Information
 
-* Directorate: *Economics Department*
+* Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
