@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 29 September 2020 at 0:44* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 29 September 2020 at 21:04* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [28 September 2020](#28-september-2020)
 * [29 September 2020](#29-september-2020)
@@ -34,7 +34,7 @@ Monday 28 September 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 24 September 2020 at 20:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 September 2020 at 20:02
+- [x] Exported to OECD.org Tuesday 29 September 2020 at 20:00
 
 ### Additional Information
 
@@ -60,7 +60,7 @@ Tuesday 29 September 2020 at 8:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 29 September 2020 at 0:19
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 29 September 2020 at 20:17
 - [x] Exported to OECD.org Monday 28 September 2020 at 19:57
 
 ### Additional Information
@@ -83,7 +83,7 @@ Tuesday 29 September 2020 at 9:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 29 September 2020 at 0:19
-- [ ] Exported to Keepeek
+- [x] Exported to Keepeek Tuesday 29 September 2020 at 20:17
 - [x] Exported to OECD.org Monday 28 September 2020 at 19:57
 
 ### Additional Information
@@ -158,18 +158,18 @@ Monday 5 October 2020 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 29 September 2020 at 0:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 28 September 2020 at 19:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 29 September 2020 at 20:34
+- [x] Exported to Keepeek Tuesday 29 September 2020 at 20:17
+- [x] Exported to OECD.org Tuesday 29 September 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -206,7 +206,7 @@ Monday 5 October 2020 at 12:30 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 25 September 2020 at 20:19
-- [x] Exported to Keepeek Tuesday 17 March 2020 at 20:55
+- [x] Exported to Keepeek Tuesday 29 September 2020 at 20:17
 - [x] Exported to OECD.org Friday 25 September 2020 at 20:02
 
 ### Additional Information
@@ -615,6 +615,29 @@ Monday 26 October 2020 at 7:00 | no launch event
 
 ------
 
+## [Going Digital in Brazil](https://doi.org/10.1787/e9bf7f8a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 26 October 2020 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 29 September 2020 at 20:34
+- [x] Exported to Keepeek Tuesday 29 September 2020 at 20:17
+- [x] Exported to OECD.org Tuesday 29 September 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
 ## [Avaliação da OCDE sobre Telecomunicações e Radiodifusão no Brasil 2020](https://doi.org/10.1787/0a4936dd-pt)
 
 Embargo date | Launch date
@@ -635,6 +658,29 @@ Monday 26 October 2020 at 14:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [A Caminho da Era Digital no Brasil](https://doi.org/10.1787/45a84b29-pt)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 26 October 2020 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 29 September 2020 at 20:34
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 29 September 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *Portuguese*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
