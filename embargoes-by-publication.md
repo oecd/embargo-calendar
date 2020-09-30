@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 29 September 2020 at 21:04* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Using Google data to understand governments’ approval in Latin America](https://doi.org/10.1787/89ed5e8f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 September 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 September 2020 at 20:32
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 29 September 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Wednesday 30 September 2020 at 21:06* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Business and Finance Outlook 2020 - Sustainable and Resilient Finance](https://doi.org/10.1787/eb61fd29-en)
 
@@ -36,9 +13,9 @@ Tuesday 29 September 2020 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 29 September 2020 at 0:19
+- [x] Exported to iLibrary Wednesday 30 September 2020 at 20:31
 - [x] Exported to Keepeek Tuesday 29 September 2020 at 20:17
-- [x] Exported to OECD.org Monday 28 September 2020 at 19:57
+- [x] Exported to OECD.org Wednesday 30 September 2020 at 19:59
 
 ### Additional Information
 
@@ -61,7 +38,7 @@ Tuesday 29 September 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 29 September 2020 at 0:19
 - [x] Exported to Keepeek Tuesday 29 September 2020 at 20:17
-- [x] Exported to OECD.org Monday 28 September 2020 at 19:57
+- [x] Exported to OECD.org Wednesday 30 September 2020 at 19:59
 
 ### Additional Information
 
@@ -84,7 +61,7 @@ Tuesday 29 September 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 28 September 2020 at 19:57
+- [x] Exported to OECD.org Wednesday 30 September 2020 at 19:59
 
 ### Additional Information
 
@@ -107,7 +84,7 @@ Thursday 1 October 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 24 September 2020 at 20:32
 - [x] Exported to Keepeek Wednesday 23 September 2020 at 20:14
-- [x] Exported to OECD.org Wednesday 23 September 2020 at 19:59
+- [x] Exported to OECD.org Wednesday 30 September 2020 at 19:59
 
 ### Additional Information
 
@@ -196,10 +173,33 @@ Tuesday 6 October 2020 at 7:00 | no launch event
 
 ### Status Information
 
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 30 September 2020 at 20:31
+- [x] Exported to Keepeek Wednesday 30 September 2020 at 20:16
+- [x] Exported to OECD.org Wednesday 30 September 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Green Infrastructure in the Decade for Delivery - Assessing Institutional Investment](https://doi.org/10.1787/f51f9256-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 6 October 2020 at 7:00 | no launch event
+
+### Status Information
+
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 29 September 2020 at 0:19
+- [x] Exported to iLibrary Wednesday 30 September 2020 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 28 September 2020 at 19:57
+- [x] Exported to OECD.org Wednesday 30 September 2020 at 19:59
 
 ### Additional Information
 
@@ -207,7 +207,7 @@ Tuesday 6 October 2020 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -229,52 +229,6 @@ Wednesday 7 October 2020 at 12:00 | no launch event
 * Directorate: *Centre for Skills*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Environmental Performance Reviews: Luxembourg 2020](https://doi.org/10.1787/fd9f43e6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 October 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Examens environnementaux de l'OCDE : Luxembourg 2020](https://doi.org/10.1787/91951f4d-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 October 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -644,6 +598,52 @@ Monday 26 October 2020 at 14:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Environmental Performance Reviews: Luxembourg 2020](https://doi.org/10.1787/fd9f43e6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 13 November 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Examens environnementaux de l'OCDE : Luxembourg 2020](https://doi.org/10.1787/91951f4d-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 13 November 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------

@@ -2,47 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/89ed5e8f-end3e63
-SUMMARY:Using Google data to understand governme
- nts’ approval in Latin America
-DESCRIPTION:*Using Google data to understand governm
- ents’ approval in Latin America*\n\nDire
- ctorate: Development Centre\nLanguage: E
- nglish\nDOI: https://doi.org/10.1787/89e
- d5e8f-en\nPublication type: Paper\nRelea
- sed as: PDF\n\nEmbargo date/time: Monday
- , 28 September 2020, 5:00 (GMT)\n\n\niLi
- brary export: Thursday, 24 September 202
- 0, 18:32 (GMT)\nFreepreview export: neve
- r\nOECD.org export: Tuesday, 29 Septembe
- r 2020, 18:00 (GMT)\nFTI loaded: ✓\n\nFo
- r more information see: https://oecd.git
- hub.io/embargo-calendar/embargoes-by-pub
- lication.html.\n\nPlease note: This info
- rmation was correct as of this afternoon
-  at 21:04, it is updated each night; the
- refore any subsequent updates may not ye
- t be visible here. Also, please be aware
-  that the different released media (PDF,
-  HTML, etc.) are not necessarily release
- d at the same time. For complete and up-
- to-date information see here: http://kap
- pa.oecd.org/v3/search?term=89ed5e8f-en.
-DTSTAMP:20200929T210430Z
-DTSTART:20200928T050000Z
-DTEND:20200928T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Using Google data to understan
- d governments’ approval in Latin America
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/eb61fd29-end3e1488
+UID:10.1787/eb61fd29-end3e1434
 SUMMARY:OECD Business and Finance Outlook 2020 -
   Sustainable and Resilient Finance
 DESCRIPTION:*OECD Business and Finance Outlook 2020 
@@ -53,25 +13,25 @@ DESCRIPTION:*OECD Business and Finance Outlook 2020
  en\nPublication type: Book\nReleased as:
   ePub, HTML, Paperback, PDF\n\nEmbargo d
  ate/time: Tuesday, 29 September 2020, 8:
- 00 (GMT)\n\n\niLibrary export: Monday, 2
- 8 September 2020, 22:19 (GMT)\nFreeprevi
- ew export: Tuesday, 29 September 2020, 1
- 8:17 (GMT)\nOECD.org export: Monday, 28 
- September 2020, 17:57 (GMT)\nFTI loaded:
-  ✓\n\nFor more information see: https://
- oecd.github.io/embargo-calendar/embargoe
- s-by-publication.html.\n\nPlease note: T
- his information was correct as of this a
- fternoon at 21:04, it is updated each ni
- ght; therefore any subsequent updates ma
- y not yet be visible here. Also, please 
- be aware that the different released med
- ia (PDF, HTML, etc.) are not necessarily
-  released at the same time. For complete
-  and up-to-date information see here: ht
- tp://kappa.oecd.org/v3/search?term=eb61f
- d29-en.
-DTSTAMP:20200929T210430Z
+ 00 (GMT)\n\n\niLibrary export: Wednesday
+ , 30 September 2020, 18:31 (GMT)\nFreepr
+ eview export: Tuesday, 29 September 2020
+ , 18:17 (GMT)\nOECD.org export: Wednesda
+ y, 30 September 2020, 17:59 (GMT)\nFTI l
+ oaded: ✓\n\nFor more information see: ht
+ tps://oecd.github.io/embargo-calendar/em
+ bargoes-by-publication.html.\n\nPlease n
+ ote: This information was correct as of 
+ this afternoon at 21:06, it is updated e
+ ach night; therefore any subsequent upda
+ tes may not yet be visible here. Also, p
+ lease be aware that the different releas
+ ed media (PDF, HTML, etc.) are not neces
+ sarily released at the same time. For co
+ mplete and up-to-date information see he
+ re: http://kappa.oecd.org/v3/search?term
+ =eb61fd29-en.
+DTSTAMP:20200930T210640Z
 DTSTART:20200929T080000Z
 DTEND:20200929T081500Z
 TRANSP:TRANSPARENT
@@ -86,7 +46,7 @@ DESCRIPTION:Reminder: OECD Business and Finance Outl
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ca768d40-end3e1545
+UID:10.1787/ca768d40-end3e1492
 SUMMARY:PISA 2018 Results (Volume V) - Effective
   Policies, Successful Schools
 DESCRIPTION:*PISA 2018 Results (Volume V) - Effectiv
@@ -99,22 +59,22 @@ DESCRIPTION:*PISA 2018 Results (Volume V) - Effectiv
  00 (GMT)\n\n\niLibrary export: Monday, 2
  8 September 2020, 22:19 (GMT)\nFreeprevi
  ew export: Tuesday, 29 September 2020, 1
- 8:17 (GMT)\nOECD.org export: Monday, 28 
- September 2020, 17:57 (GMT)\nFTI loaded:
-  ✓\n\nFor more information see: https://
- oecd.github.io/embargo-calendar/embargoe
- s-by-publication.html.\n\nPlease note: T
- his information was correct as of this a
- fternoon at 21:04, it is updated each ni
- ght; therefore any subsequent updates ma
- y not yet be visible here. Also, please 
- be aware that the different released med
- ia (PDF, HTML, etc.) are not necessarily
-  released at the same time. For complete
-  and up-to-date information see here: ht
- tp://kappa.oecd.org/v3/search?term=ca768
- d40-en.
-DTSTAMP:20200929T210430Z
+ 8:17 (GMT)\nOECD.org export: Wednesday, 
+ 30 September 2020, 17:59 (GMT)\nFTI load
+ ed: ✓\n\nFor more information see: https
+ ://oecd.github.io/embargo-calendar/embar
+ goes-by-publication.html.\n\nPlease note
+ : This information was correct as of thi
+ s afternoon at 21:06, it is updated each
+  night; therefore any subsequent updates
+  may not yet be visible here. Also, plea
+ se be aware that the different released 
+ media (PDF, HTML, etc.) are not necessar
+ ily released at the same time. For compl
+ ete and up-to-date information see here:
+  http://kappa.oecd.org/v3/search?term=ca
+ 768d40-en.
+DTSTAMP:20200930T210640Z
 DTSTART:20200929T090000Z
 DTEND:20200929T091500Z
 TRANSP:TRANSPARENT
@@ -128,7 +88,7 @@ DESCRIPTION:Reminder: PISA 2018 Results (Volume V) -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4bcd7938-end3e1603
+UID:10.1787/4bcd7938-end3e1550
 SUMMARY:Were schools equipped to teach – and wer
  e students ready to learn – remotely?
 DESCRIPTION:*Were schools equipped to teach – and we
@@ -141,21 +101,21 @@ DESCRIPTION:*Were schools equipped to teach – and we
   2020, 9:00 (GMT)\n\n\niLibrary export: 
  Wednesday, 23 September 2020, 18:27 (GMT
  )\nFreepreview export: never\nOECD.org e
- xport: Monday, 28 September 2020, 17:57 
- (GMT)\nFTI loaded: ✓\n\nFor more informa
- tion see: https://oecd.github.io/embargo
- -calendar/embargoes-by-publication.html.
- \n\nPlease note: This information was co
- rrect as of this afternoon at 21:04, it 
- is updated each night; therefore any sub
- sequent updates may not yet be visible h
- ere. Also, please be aware that the diff
- erent released media (PDF, HTML, etc.) a
- re not necessarily released at the same 
- time. For complete and up-to-date inform
- ation see here: http://kappa.oecd.org/v3
- /search?term=4bcd7938-en.
-DTSTAMP:20200929T210430Z
+ xport: Wednesday, 30 September 2020, 17:
+ 59 (GMT)\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 21:06, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=4bcd7938-en.
+DTSTAMP:20200930T210640Z
 DTSTART:20200929T090000Z
 DTEND:20200929T091500Z
 TRANSP:TRANSPARENT
@@ -170,7 +130,7 @@ DESCRIPTION:Reminder: Were schools equipped to teach
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cedf09a5-end3e2912
+UID:10.1787/cedf09a5-end3e2859
 SUMMARY:Regional Policy for Greece Post-2020
 DESCRIPTION:*Regional Policy for Greece Post-2020*\n
  \nDirectorate: Centre for Entrepreneursh
@@ -183,12 +143,12 @@ DESCRIPTION:*Regional Policy for Greece Post-2020*\n
  sday, 24 September 2020, 18:32 (GMT)\nFr
  eepreview export: Wednesday, 23 Septembe
  r 2020, 18:14 (GMT)\nOECD.org export: We
- dnesday, 23 September 2020, 17:59 (GMT)\
+ dnesday, 30 September 2020, 17:59 (GMT)\
  nFTI loaded: ✓\n\nFor more information s
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 21:04, it is upd
+ as of this afternoon at 21:06, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -197,7 +157,7 @@ DESCRIPTION:*Regional Policy for Greece Post-2020*\n
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=cedf09a5-en.
-DTSTAMP:20200929T210430Z
+DTSTAMP:20200930T210640Z
 DTSTART:20201001T080000Z
 DTEND:20201001T081500Z
 TRANSP:TRANSPARENT
@@ -211,7 +171,7 @@ DESCRIPTION:Reminder: Regional Policy for Greece Pos
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d25cef80-end3e7881
+UID:10.1787/d25cef80-end3e7829
 SUMMARY:Rural Well-being - Geography of Opportun
  ities
 DESCRIPTION:*Rural Well-being - Geography of Opportu
@@ -230,7 +190,7 @@ DESCRIPTION:*Rural Well-being - Geography of Opportu
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 21:04, it is u
+ t as of this afternoon at 21:06, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -239,7 +199,7 @@ DESCRIPTION:*Rural Well-being - Geography of Opportu
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=d25cef80-en.
-DTSTAMP:20200929T210430Z
+DTSTAMP:20200930T210640Z
 DTSTART:20201005T070000Z
 DTEND:20201005T071500Z
 TRANSP:TRANSPARENT
@@ -253,7 +213,7 @@ DESCRIPTION:Reminder: Rural Well-being - Geography o
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cec20289-end3e11698
+UID:10.1787/cec20289-end3e11646
 SUMMARY:OECD Environmental Performance Reviews: 
  Greece 2020
 DESCRIPTION:*OECD Environmental Performance Reviews:
@@ -272,7 +232,7 @@ DESCRIPTION:*OECD Environmental Performance Reviews:
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 21:04, it is updated each night; th
+ n at 21:06, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -280,7 +240,7 @@ DESCRIPTION:*OECD Environmental Performance Reviews:
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=cec20289-en.
-DTSTAMP:20200929T210430Z
+DTSTAMP:20200930T210640Z
 DTSTART:20201005T090000Z
 DTEND:20201005T091500Z
 TRANSP:TRANSPARENT
@@ -294,7 +254,7 @@ DESCRIPTION:Reminder: OECD Environmental Performance
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4b483953-end3e13275
+UID:10.1787/4b483953-end3e13223
 SUMMARY:Achieving the New Curriculum for Wales
 DESCRIPTION:*Achieving the New Curriculum for Wales*
  \n\nDirectorate: Directorate for Educati
@@ -312,7 +272,7 @@ DESCRIPTION:*Achieving the New Curriculum for Wales*
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  21:04, it is updated each night; theref
+  21:06, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -320,7 +280,7 @@ DESCRIPTION:*Achieving the New Curriculum for Wales*
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=4b483953-en.
-DTSTAMP:20200929T210430Z
+DTSTAMP:20200930T210640Z
 DTSTART:20201005T123000Z
 DTEND:20201005T124500Z
 TRANSP:TRANSPARENT
@@ -334,33 +294,35 @@ DESCRIPTION:Reminder: Achieving the New Curriculum f
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/134a2dbe-end3e14099
+UID:10.1787/134a2dbe-end3e14319
 SUMMARY:Developing Sustainable Finance Definitio
  ns and Taxonomies
 DESCRIPTION:*Developing Sustainable Finance Definiti
  ons and Taxonomies*\n\nDirectorate: Envi
  ronment Directorate\nLanguage: English\n
  DOI: https://doi.org/10.1787/134a2dbe-en
- \nPublication type: Book\nReleased as: P
- DF\n\nEmbargo date/time: Tuesday, 6 Octo
- ber 2020, 7:00 (GMT)\n\n\niLibrary expor
- t: Monday, 28 September 2020, 22:19 (GMT
- )\nFreepreview export: never\nOECD.org e
- xport: Monday, 28 September 2020, 17:57 
- (GMT)\nFTI loaded: ✗\n\nFor more informa
- tion see: https://oecd.github.io/embargo
- -calendar/embargoes-by-publication.html.
- \n\nPlease note: This information was co
- rrect as of this afternoon at 21:04, it 
- is updated each night; therefore any sub
- sequent updates may not yet be visible h
- ere. Also, please be aware that the diff
- erent released media (PDF, HTML, etc.) a
- re not necessarily released at the same 
- time. For complete and up-to-date inform
- ation see here: http://kappa.oecd.org/v3
- /search?term=134a2dbe-en.
-DTSTAMP:20200929T210430Z
+ \nPublication type: Book\nReleased as: e
+ Pub, HTML, Paperback, PDF\n\nEmbargo dat
+ e/time: Tuesday, 6 October 2020, 7:00 (G
+ MT)\n\n\niLibrary export: Wednesday, 30 
+ September 2020, 18:31 (GMT)\nFreepreview
+  export: Wednesday, 30 September 2020, 1
+ 8:16 (GMT)\nOECD.org export: Wednesday, 
+ 30 September 2020, 17:59 (GMT)\nFTI load
+ ed: ✓\n\nFor more information see: https
+ ://oecd.github.io/embargo-calendar/embar
+ goes-by-publication.html.\n\nPlease note
+ : This information was correct as of thi
+ s afternoon at 21:06, it is updated each
+  night; therefore any subsequent updates
+  may not yet be visible here. Also, plea
+ se be aware that the different released 
+ media (PDF, HTML, etc.) are not necessar
+ ily released at the same time. For compl
+ ete and up-to-date information see here:
+  http://kappa.oecd.org/v3/search?term=13
+ 4a2dbe-en.
+DTSTAMP:20200930T210640Z
 DTSTART:20201006T070000Z
 DTEND:20201006T071500Z
 TRANSP:TRANSPARENT
@@ -374,7 +336,50 @@ DESCRIPTION:Reminder: Developing Sustainable Finance
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ebc98a53-end3e14257
+UID:10.1787/f51f9256-end3e15632
+SUMMARY:Green Infrastructure in the Decade for D
+ elivery - Assessing Institutional Invest
+ ment
+DESCRIPTION:*Green Infrastructure in the Decade for 
+ Delivery - Assessing Institutional Inves
+ tment*\n\nDirectorate: Environment Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/f51f9256-en\nPublication
+  type: Book\nReleased as: Paperback, PDF
+ \n\nEmbargo date/time: Tuesday, 6 Octobe
+ r 2020, 7:00 (GMT)\n\n\niLibrary export:
+  Wednesday, 30 September 2020, 18:31 (GM
+ T)\nFreepreview export: never\nOECD.org 
+ export: Wednesday, 30 September 2020, 17
+ :59 (GMT)\nFTI loaded: ✗\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 21:06,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=f51f9256-en.
+DTSTAMP:20200930T210640Z
+DTSTART:20201006T070000Z
+DTEND:20201006T071500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Green Infrastructure in the De
+ cade for Delivery - Assessing Institutio
+ nal Investment
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ebc98a53-end3e16118
 SUMMARY:OECD Skills Strategy Implementation Guid
  ance for Latvia - Developing Latvia’s Ed
  ucation Development Guidelines 2021-2027
@@ -395,7 +400,7 @@ DESCRIPTION:*OECD Skills Strategy Implementation Gui
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 21:04, it is updated
+ f this afternoon at 21:06, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -404,7 +409,7 @@ DESCRIPTION:*OECD Skills Strategy Implementation Gui
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=ebc98a53-en.
-DTSTAMP:20200929T210430Z
+DTSTAMP:20200930T210640Z
 DTSTART:20201007T120000Z
 DTEND:20201007T121500Z
 TRANSP:TRANSPARENT
@@ -420,85 +425,7 @@ DESCRIPTION:Reminder: OECD Skills Strategy Implement
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fd9f43e6-end3e14314
-SUMMARY:OECD Environmental Performance Reviews: 
- Luxembourg 2020
-DESCRIPTION:*OECD Environmental Performance Reviews:
-  Luxembourg 2020*\n\nDirectorate: Enviro
- nment Directorate\nLanguage: English\nDO
- I: https://doi.org/10.1787/fd9f43e6-en\n
- Publication type: Book\nReleased as: Pap
- erback, PDF\n\nEmbargo date/time: Thursd
- ay, 8 October 2020, 7:00 (GMT)\n\n\niLib
- rary export: never\nFreepreview export: 
- never\nOECD.org export: never\nFTI loade
- d: ✗\n\nFor more information see: https:
- //oecd.github.io/embargo-calendar/embarg
- oes-by-publication.html.\n\nPlease note:
-  This information was correct as of this
-  afternoon at 21:04, it is updated each 
- night; therefore any subsequent updates 
- may not yet be visible here. Also, pleas
- e be aware that the different released m
- edia (PDF, HTML, etc.) are not necessari
- ly released at the same time. For comple
- te and up-to-date information see here: 
- http://kappa.oecd.org/v3/search?term=fd9
- f43e6-en.
-DTSTAMP:20200929T210430Z
-DTSTART:20201008T070000Z
-DTEND:20201008T071500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Environmental Performance
-  Reviews: Luxembourg 2020
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/91951f4d-frd3e14468
-SUMMARY:Examens environnementaux de l'OCDE : Lux
- embourg 2020
-DESCRIPTION:*Examens environnementaux de l'OCDE : Lu
- xembourg 2020*\n\nDirectorate: Environme
- nt Directorate\nLanguage: French\nDOI: h
- ttps://doi.org/10.1787/91951f4d-fr\nPubl
- ication type: Book\nReleased as: Paperba
- ck, PDF\n\nEmbargo date/time: Thursday, 
- 8 October 2020, 7:00 (GMT)\n\n\niLibrary
-  export: never\nFreepreview export: neve
- r\nOECD.org export: never\nFTI loaded: ✗
- \n\nFor more information see: https://oe
- cd.github.io/embargo-calendar/embargoes-
- by-publication.html.\n\nPlease note: Thi
- s information was correct as of this aft
- ernoon at 21:04, it is updated each nigh
- t; therefore any subsequent updates may 
- not yet be visible here. Also, please be
-  aware that the different released media
-  (PDF, HTML, etc.) are not necessarily r
- eleased at the same time. For complete a
- nd up-to-date information see here: http
- ://kappa.oecd.org/v3/search?term=91951f4
- d-fr.
-DTSTAMP:20200929T210430Z
-DTSTART:20201008T070000Z
-DTEND:20201008T071500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Examens environnementaux de l'
- OCDE : Luxembourg 2020
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/0e3cc2d4-end3e14571
+UID:10.1787/0e3cc2d4-end3e16330
 SUMMARY:Tax Challenges Arising from Digitalisati
  on – Economic Impact Assessment - Inclus
  ive Framework on BEPS
@@ -517,7 +444,7 @@ DESCRIPTION:*Tax Challenges Arising from Digitalisat
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
  was correct as of this afternoon at 21:0
- 4, it is updated each night; therefore a
+ 6, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -525,7 +452,7 @@ DESCRIPTION:*Tax Challenges Arising from Digitalisat
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=0e3cc2d4-en.
-DTSTAMP:20200929T210430Z
+DTSTAMP:20200930T210640Z
 DTSTART:20201012T090000Z
 DTEND:20201012T091500Z
 TRANSP:TRANSPARENT
@@ -540,7 +467,7 @@ DESCRIPTION:Reminder: Tax Challenges Arising from Di
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0ac0181e-end3e14623
+UID:10.1787/0ac0181e-end3e16382
 SUMMARY:Promoting Education Decision Makers' Use
   of Evidence in Austria
 DESCRIPTION:*Promoting Education Decision Makers' Us
@@ -557,7 +484,7 @@ DESCRIPTION:*Promoting Education Decision Makers' Us
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 21:
- 04, it is updated each night; therefore 
+ 06, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -565,7 +492,7 @@ DESCRIPTION:*Promoting Education Decision Makers' Us
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=0ac0181e-en.
-DTSTAMP:20200929T210430Z
+DTSTAMP:20200930T210640Z
 DTSTART:20201021T090000Z
 DTEND:20201021T091500Z
 TRANSP:TRANSPARENT
@@ -579,7 +506,7 @@ DESCRIPTION:Reminder: Promoting Education Decision M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d5f68679-end3e14779
+UID:10.1787/d5f68679-end3e16537
 SUMMARY:PISA 2018 Results (Volume VI) - Are Stud
  ents Ready to Thrive in an Interconnecte
  d World?
@@ -599,7 +526,7 @@ DESCRIPTION:*PISA 2018 Results (Volume VI) - Are Stu
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 21:04, it is updated each night
+ rnoon at 21:06, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -608,7 +535,7 @@ DESCRIPTION:*PISA 2018 Results (Volume VI) - Are Stu
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=d5f68679
  -en.
-DTSTAMP:20200929T210430Z
+DTSTAMP:20200930T210640Z
 DTSTART:20201022T090000Z
 DTEND:20201022T091500Z
 TRANSP:TRANSPARENT
@@ -623,7 +550,7 @@ DESCRIPTION:Reminder: PISA 2018 Results (Volume VI)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3d152880-end3e14940
+UID:10.1787/3d152880-end3e16699
 SUMMARY:Making Dispute Resolution More Effective
   - MAP Peer Review Report, Singapore (St
  age 2) - Inclusive Framework on BEPS: Ac
@@ -645,7 +572,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 21:04, it is updated each n
+ afternoon at 21:06, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -654,7 +581,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=3d15
  2880-en.
-DTSTAMP:20200929T210430Z
+DTSTAMP:20200930T210640Z
 DTSTART:20201022T090000Z
 DTEND:20201022T091500Z
 TRANSP:TRANSPARENT
@@ -670,7 +597,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a06e58db-end3e14996
+UID:10.1787/a06e58db-end3e16754
 SUMMARY:Making Dispute Resolution More Effective
   - MAP Peer Review Report, Korea (Stage 
  2) - Inclusive Framework on BEPS: Action
@@ -692,7 +619,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 21:04, it is updated each night
+ rnoon at 21:06, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -701,7 +628,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=a06e58db
  -en.
-DTSTAMP:20200929T210430Z
+DTSTAMP:20200930T210640Z
 DTSTART:20201022T090000Z
 DTEND:20201022T091500Z
 TRANSP:TRANSPARENT
@@ -717,7 +644,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8f4792bc-end3e15051
+UID:10.1787/8f4792bc-end3e16809
 SUMMARY:Making Dispute Resolution More Effective
   - MAP Peer Review Report, Spain (Stage 
  2) - Inclusive Framework on BEPS: Action
@@ -739,7 +666,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 21:04, it is updated each night
+ rnoon at 21:06, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -748,7 +675,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=8f4792bc
  -en.
-DTSTAMP:20200929T210430Z
+DTSTAMP:20200930T210640Z
 DTSTART:20201022T090000Z
 DTEND:20201022T091500Z
 TRANSP:TRANSPARENT
@@ -764,7 +691,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b8ee5001-end3e15106
+UID:10.1787/b8ee5001-end3e16864
 SUMMARY:Making Dispute Resolution More Effective
   - MAP Peer Review Report, Czech Republi
  c (Stage 2) - Inclusive Framework on BEP
@@ -786,7 +713,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 21:04, it is updated e
+ this afternoon at 21:06, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -795,7 +722,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =b8ee5001-en.
-DTSTAMP:20200929T210430Z
+DTSTAMP:20200930T210640Z
 DTSTART:20201022T090000Z
 DTEND:20201022T091500Z
 TRANSP:TRANSPARENT
@@ -811,7 +738,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ea220bff-end3e15161
+UID:10.1787/ea220bff-end3e16919
 SUMMARY:Making Dispute Resolution More Effective
   - MAP Peer Review Report, Poland (Stage
   2) - Inclusive Framework on BEPS: Actio
@@ -833,7 +760,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 1:04, it is updated each night; therefor
+ 1:06, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -841,7 +768,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=ea220bff-en.
-DTSTAMP:20200929T210430Z
+DTSTAMP:20200930T210640Z
 DTSTART:20201022T090000Z
 DTEND:20201022T091500Z
 TRANSP:TRANSPARENT
@@ -857,7 +784,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bd0276f1-end3e15216
+UID:10.1787/bd0276f1-end3e16975
 SUMMARY:Making Dispute Resolution More Effective
   - MAP Peer Review Report, Denmark (Stag
  e 2) - Inclusive Framework on BEPS: Acti
@@ -879,7 +806,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 21:04, it is updated each nig
+ ternoon at 21:06, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -888,7 +815,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=bd0276
  f1-en.
-DTSTAMP:20200929T210430Z
+DTSTAMP:20200930T210640Z
 DTSTART:20201022T090000Z
 DTEND:20201022T091500Z
 TRANSP:TRANSPARENT
@@ -904,7 +831,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/64a87e14-end3e15271
+UID:10.1787/64a87e14-end3e17030
 SUMMARY:Making Dispute Resolution More Effective
   - MAP Peer Review Report, Finland (Stag
  e 2) - Inclusive Framework on BEPS: Acti
@@ -926,7 +853,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 21:04, it is updated each nig
+ ternoon at 21:06, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -935,7 +862,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=64a87e
  14-en.
-DTSTAMP:20200929T210430Z
+DTSTAMP:20200930T210640Z
 DTSTART:20201022T090000Z
 DTEND:20201022T091500Z
 TRANSP:TRANSPARENT
@@ -951,7 +878,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/48127451-end3e15327
+UID:10.1787/48127451-end3e17085
 SUMMARY:Making Dispute Resolution More Effective
   - MAP Peer Review Report, Norway (Stage
   2) - Inclusive Framework on BEPS: Actio
@@ -973,7 +900,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  cd.github.io/embargo-calendar/embargoes-
  by-publication.html.\n\nPlease note: Thi
  s information was correct as of this aft
- ernoon at 21:04, it is updated each nigh
+ ernoon at 21:06, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -982,7 +909,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=4812745
  1-en.
-DTSTAMP:20200929T210430Z
+DTSTAMP:20200930T210640Z
 DTSTART:20201022T090000Z
 DTEND:20201022T091500Z
 TRANSP:TRANSPARENT
@@ -998,7 +925,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bbf7e6b1-end3e15594
+UID:10.1787/bbf7e6b1-end3e17353
 SUMMARY:A Territorial Approach to the Sustainabl
  e Development Goals in Bonn, Germany
 DESCRIPTION:*A Territorial Approach to the Sustainab
@@ -1017,7 +944,7 @@ DESCRIPTION:*A Territorial Approach to the Sustainab
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 21:04, it is updated each night; therefo
+ 21:06, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -1025,7 +952,7 @@ DESCRIPTION:*A Territorial Approach to the Sustainab
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=bbf7e6b1-en.
-DTSTAMP:20200929T210430Z
+DTSTAMP:20200930T210640Z
 DTSTART:20201026T070000Z
 DTEND:20201026T071500Z
 TRANSP:TRANSPARENT
@@ -1040,7 +967,7 @@ DESCRIPTION:Reminder: A Territorial Approach to the
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e9bf7f8a-end3e15866
+UID:10.1787/e9bf7f8a-end3e17625
 SUMMARY:Going Digital in Brazil
 DESCRIPTION:*Going Digital in Brazil*\n\nDirectorate
  : Directorate for Science, Technology an
@@ -1058,7 +985,7 @@ DESCRIPTION:*Going Digital in Brazil*\n\nDirectorate
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  21:04, it is updated each night; theref
+  21:06, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -1066,7 +993,7 @@ DESCRIPTION:*Going Digital in Brazil*\n\nDirectorate
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=e9bf7f8a-en.
-DTSTAMP:20200929T210430Z
+DTSTAMP:20200930T210640Z
 DTSTART:20201026T140000Z
 DTEND:20201026T141500Z
 TRANSP:TRANSPARENT
@@ -1079,7 +1006,7 @@ DESCRIPTION:Reminder: Going Digital in Brazil
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0a4936dd-ptd3e16193
+UID:10.1787/0a4936dd-ptd3e17952
 SUMMARY:Avaliação da OCDE sobre Telecomunicações
   e Radiodifusão no Brasil 2020
 DESCRIPTION:*Avaliação da OCDE sobre Telecomunicaçõe
@@ -1098,7 +1025,7 @@ DESCRIPTION:*Avaliação da OCDE sobre Telecomunicaçõe
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 21:04, it is updated each night
+ rnoon at 21:06, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -1107,7 +1034,7 @@ DESCRIPTION:*Avaliação da OCDE sobre Telecomunicaçõe
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=0a4936dd
  -pt.
-DTSTAMP:20200929T210430Z
+DTSTAMP:20200930T210640Z
 DTSTART:20201026T140000Z
 DTEND:20201026T141500Z
 TRANSP:TRANSPARENT
@@ -1121,7 +1048,7 @@ DESCRIPTION:Reminder: Avaliação da OCDE sobre Teleco
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/45a84b29-ptd3e16685
+UID:10.1787/45a84b29-ptd3e18443
 SUMMARY:A Caminho da Era Digital no Brasil
 DESCRIPTION:*A Caminho da Era Digital no Brasil*\n\n
  Directorate: Directorate for Science, Te
@@ -1138,7 +1065,7 @@ DESCRIPTION:*A Caminho da Era Digital no Brasil*\n\n
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 21:04, it is updated each night
+ rnoon at 21:06, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -1147,7 +1074,7 @@ DESCRIPTION:*A Caminho da Era Digital no Brasil*\n\n
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=45a84b29
  -pt.
-DTSTAMP:20200929T210430Z
+DTSTAMP:20200930T210640Z
 DTSTART:20201026T140000Z
 DTEND:20201026T141500Z
 TRANSP:TRANSPARENT
@@ -1161,7 +1088,7 @@ DESCRIPTION:Reminder: A Caminho da Era Digital no Br
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/30ab8568-end3e16794
+UID:10.1787/30ab8568-end3e18552
 SUMMARY:OECD Telecommunication and Broadcasting 
  Review of Brazil 2020
 DESCRIPTION:*OECD Telecommunication and Broadcasting
@@ -1180,7 +1107,7 @@ DESCRIPTION:*OECD Telecommunication and Broadcasting
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 21:04, it is updated each night;
+ noon at 21:06, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -1189,7 +1116,7 @@ DESCRIPTION:*OECD Telecommunication and Broadcasting
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=30ab8568-
  en.
-DTSTAMP:20200929T210430Z
+DTSTAMP:20200930T210640Z
 DTSTART:20201026T140000Z
 DTEND:20201026T141500Z
 TRANSP:TRANSPARENT
@@ -1203,7 +1130,85 @@ DESCRIPTION:Reminder: OECD Telecommunication and Bro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ab4d8d52-end3e17230
+UID:10.1787/fd9f43e6-end3e18989
+SUMMARY:OECD Environmental Performance Reviews: 
+ Luxembourg 2020
+DESCRIPTION:*OECD Environmental Performance Reviews:
+  Luxembourg 2020*\n\nDirectorate: Enviro
+ nment Directorate\nLanguage: English\nDO
+ I: https://doi.org/10.1787/fd9f43e6-en\n
+ Publication type: Book\nReleased as: Pap
+ erback, PDF\n\nEmbargo date/time: Friday
+ , 13 November 2020, 8:00 (GMT)\n\n\niLib
+ rary export: never\nFreepreview export: 
+ never\nOECD.org export: never\nFTI loade
+ d: ✗\n\nFor more information see: https:
+ //oecd.github.io/embargo-calendar/embarg
+ oes-by-publication.html.\n\nPlease note:
+  This information was correct as of this
+  afternoon at 21:06, it is updated each 
+ night; therefore any subsequent updates 
+ may not yet be visible here. Also, pleas
+ e be aware that the different released m
+ edia (PDF, HTML, etc.) are not necessari
+ ly released at the same time. For comple
+ te and up-to-date information see here: 
+ http://kappa.oecd.org/v3/search?term=fd9
+ f43e6-en.
+DTSTAMP:20200930T210640Z
+DTSTART:20201113T080000Z
+DTEND:20201113T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Environmental Performance
+  Reviews: Luxembourg 2020
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/91951f4d-frd3e19040
+SUMMARY:Examens environnementaux de l'OCDE : Lux
+ embourg 2020
+DESCRIPTION:*Examens environnementaux de l'OCDE : Lu
+ xembourg 2020*\n\nDirectorate: Environme
+ nt Directorate\nLanguage: French\nDOI: h
+ ttps://doi.org/10.1787/91951f4d-fr\nPubl
+ ication type: Book\nReleased as: Paperba
+ ck, PDF\n\nEmbargo date/time: Friday, 13
+  November 2020, 8:00 (GMT)\n\n\niLibrary
+  export: never\nFreepreview export: neve
+ r\nOECD.org export: never\nFTI loaded: ✗
+ \n\nFor more information see: https://oe
+ cd.github.io/embargo-calendar/embargoes-
+ by-publication.html.\n\nPlease note: Thi
+ s information was correct as of this aft
+ ernoon at 21:06, it is updated each nigh
+ t; therefore any subsequent updates may 
+ not yet be visible here. Also, please be
+  aware that the different released media
+  (PDF, HTML, etc.) are not necessarily r
+ eleased at the same time. For complete a
+ nd up-to-date information see here: http
+ ://kappa.oecd.org/v3/search?term=91951f4
+ d-fr.
+DTSTAMP:20200930T210640Z
+DTSTART:20201113T080000Z
+DTEND:20201113T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Examens environnementaux de l'
+ OCDE : Luxembourg 2020
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ab4d8d52-end3e19091
 SUMMARY:Linking Indigenous Communities with Regi
  onal Development in Australia
 DESCRIPTION:*Linking Indigenous Communities with Reg
@@ -1220,7 +1225,7 @@ DESCRIPTION:*Linking Indigenous Communities with Reg
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 21:04, it is updated each night; 
+ oon at 21:06, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -1229,7 +1234,7 @@ DESCRIPTION:*Linking Indigenous Communities with Reg
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=ab4d8d52-e
  n.
-DTSTAMP:20200929T210430Z
+DTSTAMP:20200930T210640Z
 DTSTART:20201116T070000Z
 DTEND:20201116T071500Z
 TRANSP:TRANSPARENT
@@ -1243,7 +1248,7 @@ DESCRIPTION:Reminder: Linking Indigenous Communities
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/df434a77-end3e17283
+UID:10.1787/df434a77-end3e19143
 SUMMARY:Taxation and Philanthropy
 DESCRIPTION:*Taxation and Philanthropy*\n\nDirectora
  te: Centre for Tax Policy and Administra
@@ -1258,7 +1263,7 @@ DESCRIPTION:*Taxation and Philanthropy*\n\nDirectora
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 21:04, it is updated each night; there
+ t 21:06, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -1266,7 +1271,7 @@ DESCRIPTION:*Taxation and Philanthropy*\n\nDirectora
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=df434a77-en.
-DTSTAMP:20200929T210430Z
+DTSTAMP:20200930T210640Z
 DTSTART:20201130T100000Z
 DTEND:20201130T101500Z
 TRANSP:TRANSPARENT
@@ -1279,7 +1284,7 @@ DESCRIPTION:Reminder: Taxation and Philanthropy
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8eec1828-end3e17437
+UID:10.1787/8eec1828-end3e19298
 SUMMARY:Going Digital in Latvia
 DESCRIPTION:*Going Digital in Latvia*\n\nDirectorate
  : Directorate for Science, Technology an
@@ -1296,7 +1301,7 @@ DESCRIPTION:*Going Digital in Latvia*\n\nDirectorate
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 21
- :04, it is updated each night; therefore
+ :06, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -1304,7 +1309,7 @@ DESCRIPTION:*Going Digital in Latvia*\n\nDirectorate
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=8eec1828-en.
-DTSTAMP:20200929T210430Z
+DTSTAMP:20200930T210640Z
 DTSTART:20210128T083000Z
 DTEND:20210128T084500Z
 TRANSP:TRANSPARENT
