@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 30 September 2020 at 21:06* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Business and Finance Outlook 2020 - Sustainable and Resilient Finance](https://doi.org/10.1787/eb61fd29-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 29 September 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 30 September 2020 at 20:31
-- [x] Exported to Keepeek Tuesday 29 September 2020 at 20:17
-- [x] Exported to OECD.org Wednesday 30 September 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [PISA 2018 Results (Volume V) - Effective Policies, Successful Schools](https://doi.org/10.1787/ca768d40-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 29 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 29 September 2020 at 0:19
-- [x] Exported to Keepeek Tuesday 29 September 2020 at 20:17
-- [x] Exported to OECD.org Wednesday 30 September 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Were schools equipped to teach – and were students ready to learn – remotely?](https://doi.org/10.1787/4bcd7938-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 29 September 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 30 September 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Thursday 1 October 2020 at 21:05* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Regional Policy for Greece Post-2020](https://doi.org/10.1787/cedf09a5-en)
 
@@ -93,6 +24,29 @@ Thursday 1 October 2020 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Thailand 2020 - Economic Assessment](https://doi.org/10.1787/ad2e50fa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 5 October 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 1 October 2020 at 20:33
+- [x] Exported to Keepeek Thursday 1 October 2020 at 20:17
+- [x] Exported to OECD.org Thursday 1 October 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -129,7 +83,7 @@ Monday 5 October 2020 at 9:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 24 September 2020 at 20:32
-- [x] Exported to Keepeek Thursday 24 September 2020 at 20:17
+- [x] Exported to Keepeek Thursday 1 October 2020 at 20:17
 - [x] Exported to OECD.org Thursday 24 September 2020 at 20:00
 
 ### Additional Information
@@ -139,6 +93,29 @@ Monday 5 October 2020 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Achieving the new curriculum for Wales](https://doi.org/10.1787/37ba25ee-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 5 October 2020 at 12:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -196,18 +173,18 @@ Tuesday 6 October 2020 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 30 September 2020 at 20:31
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 30 September 2020 at 19:59
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 1 October 2020 at 20:33
+- [x] Exported to Keepeek Thursday 1 October 2020 at 20:17
+- [x] Exported to OECD.org Thursday 1 October 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -231,6 +208,52 @@ Wednesday 7 October 2020 at 12:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Corporate Taxation and Investment of Multinational Firms: Evidence from Firm-Level Data](https://doi.org/10.1787/9c6f9f2e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 12 October 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [The impact of the pillar one and pillar two proposals on MNE’s investment costs  - An analysis using forward-looking effective tax rates](https://doi.org/10.1787/b0876dcf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 12 October 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -273,6 +296,29 @@ Wednesday 21 October 2020 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Governance for Youth, Trust and Intergenerational Justice - Fit for All Generations?](https://doi.org/10.1787/c3e5cb8a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 22 October 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
@@ -519,8 +565,8 @@ Monday 26 October 2020 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 29 September 2020 at 20:34
-- [x] Exported to Keepeek Tuesday 29 September 2020 at 20:17
+- [x] Exported to iLibrary Thursday 1 October 2020 at 20:33
+- [x] Exported to Keepeek Thursday 1 October 2020 at 20:17
 - [x] Exported to OECD.org Tuesday 29 September 2020 at 20:00
 
 ### Additional Information
@@ -694,6 +740,29 @@ Monday 30 November 2020 at 10:00 | no launch event
 
 ------
 
+## [Digitalizācija Latvijā](https://doi.org/10.1787/a58d1c1a-lv)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 January 2021 at 8:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *Latvian*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Going Digital in Latvia](https://doi.org/10.1787/8eec1828-en)
 
 Embargo date | Launch date
@@ -703,7 +772,7 @@ Thursday 28 January 2021 at 8:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 17 September 2020 at 20:36
+- [x] Exported to iLibrary Thursday 1 October 2020 at 20:33
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 17 September 2020 at 20:00
 
