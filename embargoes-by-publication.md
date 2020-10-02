@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 1 October 2020 at 21:05* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 2 October 2020 at 21:08* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Regional Policy for Greece Post-2020](https://doi.org/10.1787/cedf09a5-en)
 
@@ -15,7 +15,7 @@ Thursday 1 October 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 24 September 2020 at 20:32
 - [x] Exported to Keepeek Wednesday 23 September 2020 at 20:14
-- [x] Exported to OECD.org Wednesday 30 September 2020 at 19:59
+- [x] Exported to OECD.org Friday 2 October 2020 at 20:01
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 5 October 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 1 October 2020 at 20:33
 - [x] Exported to Keepeek Thursday 1 October 2020 at 20:17
-- [x] Exported to OECD.org Thursday 1 October 2020 at 19:59
+- [x] Exported to OECD.org Friday 2 October 2020 at 20:01
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Monday 5 October 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 29 September 2020 at 20:34
 - [x] Exported to Keepeek Tuesday 29 September 2020 at 20:17
-- [x] Exported to OECD.org Tuesday 29 September 2020 at 20:00
+- [x] Exported to OECD.org Friday 2 October 2020 at 20:01
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Monday 5 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 24 September 2020 at 20:32
 - [x] Exported to Keepeek Thursday 1 October 2020 at 20:17
-- [x] Exported to OECD.org Thursday 24 September 2020 at 20:00
+- [x] Exported to OECD.org Friday 2 October 2020 at 20:01
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Monday 5 October 2020 at 12:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 25 September 2020 at 20:19
 - [x] Exported to Keepeek Tuesday 29 September 2020 at 20:17
-- [x] Exported to OECD.org Friday 25 September 2020 at 20:02
+- [x] Exported to OECD.org Friday 2 October 2020 at 20:01
 
 ### Additional Information
 
@@ -175,13 +175,59 @@ Tuesday 6 October 2020 at 7:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 1 October 2020 at 20:33
-- [x] Exported to Keepeek Thursday 1 October 2020 at 20:17
+- [x] Exported to Keepeek Friday 2 October 2020 at 20:18
 - [x] Exported to OECD.org Thursday 1 October 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Corporate Governance in Costa Rica](https://doi.org/10.1787/b313ec37-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 7 October 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 2 October 2020 at 20:36
+- [x] Exported to Keepeek Friday 2 October 2020 at 20:18
+- [x] Exported to OECD.org Friday 2 October 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Gobierno Corporativo en Costa Rica](https://doi.org/10.1787/74f5db04-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 7 October 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 2 October 2020 at 20:36
+- [x] Exported to Keepeek Friday 2 October 2020 at 20:18
+- [x] Exported to OECD.org Friday 2 October 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *Spanish*
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
@@ -266,15 +312,15 @@ Monday 12 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 2 October 2020 at 20:36
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 2 October 2020 at 20:01
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -533,6 +579,29 @@ Thursday 22 October 2020 at 9:00 | no launch event
 
 ------
 
+## [Achieving our Common Humanity - Celebrating Global Cooperation Through the United Nations](https://doi.org/10.18356/6aa29937-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 23 October 2020 at 15:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 2 October 2020 at 20:36
+- [x] Exported to Keepeek Friday 2 October 2020 at 20:18
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Non applicable*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, PDF*
+
+------
+
 ## [A Territorial Approach to the Sustainable Development Goals in Bonn, Germany](https://doi.org/10.1787/bbf7e6b1-en)
 
 Embargo date | Launch date
@@ -611,9 +680,9 @@ Monday 26 October 2020 at 14:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 29 September 2020 at 20:34
+- [x] Exported to iLibrary Friday 2 October 2020 at 20:36
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 29 September 2020 at 20:00
+- [x] Exported to OECD.org Friday 2 October 2020 at 20:01
 
 ### Additional Information
 
