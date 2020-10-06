@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 5 October 2020 at 21:06* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 6 October 2020 at 21:05* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Thailand 2020 - Economic Assessment](https://doi.org/10.1787/ad2e50fa-en)
 
@@ -15,7 +15,7 @@ Monday 5 October 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 1 October 2020 at 20:33
 - [x] Exported to Keepeek Thursday 1 October 2020 at 20:17
-- [x] Exported to OECD.org Friday 2 October 2020 at 20:01
+- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 5 October 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 29 September 2020 at 20:34
 - [x] Exported to Keepeek Tuesday 29 September 2020 at 20:17
-- [x] Exported to OECD.org Friday 2 October 2020 at 20:01
+- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Monday 5 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 October 2020 at 20:25
 - [x] Exported to Keepeek Monday 5 October 2020 at 20:10
-- [x] Exported to OECD.org Friday 2 October 2020 at 20:01
+- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
 
 ### Additional Information
 
@@ -81,16 +81,16 @@ Monday 5 October 2020 at 12:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 6 October 2020 at 20:33
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
 
@@ -107,7 +107,7 @@ Monday 5 October 2020 at 12:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 25 September 2020 at 20:19
 - [x] Exported to Keepeek Monday 5 October 2020 at 20:10
-- [x] Exported to OECD.org Friday 2 October 2020 at 20:01
+- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Tuesday 6 October 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 September 2020 at 20:31
 - [x] Exported to Keepeek Monday 5 October 2020 at 20:10
-- [x] Exported to OECD.org Wednesday 30 September 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Tuesday 6 October 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 1 October 2020 at 20:33
 - [x] Exported to Keepeek Friday 2 October 2020 at 20:18
-- [x] Exported to OECD.org Thursday 1 October 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
 
 ### Additional Information
 
@@ -176,7 +176,7 @@ Wednesday 7 October 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 October 2020 at 20:36
 - [x] Exported to Keepeek Friday 2 October 2020 at 20:18
-- [x] Exported to OECD.org Friday 2 October 2020 at 20:01
+- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
 
 ### Additional Information
 
@@ -199,7 +199,7 @@ Wednesday 7 October 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 October 2020 at 20:36
 - [x] Exported to Keepeek Friday 2 October 2020 at 20:18
-- [x] Exported to OECD.org Friday 2 October 2020 at 20:01
+- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
 
 ### Additional Information
 
@@ -222,7 +222,7 @@ Wednesday 7 October 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 24 September 2020 at 20:32
 - [x] Exported to Keepeek Thursday 24 September 2020 at 20:17
-- [x] Exported to OECD.org Thursday 24 September 2020 at 20:00
+- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
 
 ### Additional Information
 
@@ -231,6 +231,75 @@ Wednesday 7 October 2020 at 12:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [The effect of energy prices and environmental policy stringency on manufacturing employment in OECD countries: Sector- and firm-level evidence](https://doi.org/10.1787/899eb13f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 October 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 6 October 2020 at 20:33
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [The Future of Housing: Policy Scenarios](https://doi.org/10.1787/0adf02cb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 October 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 6 October 2020 at 20:33
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Rejuvenating Greece’s labour market to generate more and higher-quality jobs](https://doi.org/10.1787/8ea5033a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 October 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 6 October 2020 at 20:33
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -291,7 +360,7 @@ Monday 12 October 2020 at 9:00 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Monday 5 October 2020 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 2 October 2020 at 20:01
+- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
 
 ### Additional Information
 
@@ -314,7 +383,7 @@ Thursday 15 October 2020 at 12:00 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Monday 5 October 2020 at 20:25
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
 
 ### Additional Information
 
@@ -682,7 +751,7 @@ Monday 26 October 2020 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 October 2020 at 20:25
 - [x] Exported to Keepeek Monday 5 October 2020 at 20:10
-- [x] Exported to OECD.org Friday 2 October 2020 at 20:01
+- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
 
 ### Additional Information
 
@@ -783,6 +852,29 @@ Monday 16 November 2020 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Lithuania 2020](https://doi.org/10.1787/62663b1d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 November 2020 at 16:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
