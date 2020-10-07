@@ -2,14 +2,16 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 6 October 2020 at 21:05* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 7 October 2020 at 21:19* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [5 October 2020](#5-october-2020)
 * [6 October 2020](#6-october-2020)
 * [7 October 2020](#7-october-2020)
 * [8 October 2020](#8-october-2020)
+* [9 October 2020](#9-october-2020)
 * [12 October 2020](#12-october-2020)
+* [14 October 2020](#14-october-2020)
 * [15 October 2020](#15-october-2020)
+* [19 October 2020](#19-october-2020)
 * [21 October 2020](#21-october-2020)
 * [22 October 2020](#22-october-2020)
 * [23 October 2020](#23-october-2020)
@@ -18,125 +20,6 @@ Data generated on | |
 * [16 November 2020](#16-november-2020)
 * [30 November 2020](#30-november-2020)
 * [28 January 2021](#28-january-2021)
-
-------
-
-# 5 October 2020
-
-## [OECD Economic Surveys: Thailand 2020 - Economic Assessment](https://doi.org/10.1787/ad2e50fa-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 October 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 1 October 2020 at 20:33
-- [x] Exported to Keepeek Thursday 1 October 2020 at 20:17
-- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Rural Well-being - Geography of Opportunities](https://doi.org/10.1787/d25cef80-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 October 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 29 September 2020 at 20:34
-- [x] Exported to Keepeek Tuesday 29 September 2020 at 20:17
-- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD Environmental Performance Reviews: Greece 2020](https://doi.org/10.1787/cec20289-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 October 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 October 2020 at 20:25
-- [x] Exported to Keepeek Monday 5 October 2020 at 20:10
-- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Achieving the new curriculum for Wales](https://doi.org/10.1787/37ba25ee-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 October 2020 at 12:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 6 October 2020 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Achieving the New Curriculum for Wales](https://doi.org/10.1787/4b483953-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 October 2020 at 12:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 25 September 2020 at 20:19
-- [x] Exported to Keepeek Monday 5 October 2020 at 20:10
-- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -153,7 +36,7 @@ Tuesday 6 October 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 September 2020 at 20:31
 - [x] Exported to Keepeek Monday 5 October 2020 at 20:10
-- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
 
 ### Additional Information
 
@@ -176,7 +59,7 @@ Tuesday 6 October 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 1 October 2020 at 20:33
 - [x] Exported to Keepeek Friday 2 October 2020 at 20:18
-- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
 
 ### Additional Information
 
@@ -274,9 +157,9 @@ Thursday 8 October 2020 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 6 October 2020 at 20:33
+- [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
 
 ### Additional Information
 
@@ -297,9 +180,9 @@ Thursday 8 October 2020 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 6 October 2020 at 20:33
+- [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
 
 ### Additional Information
 
@@ -322,11 +205,38 @@ Thursday 8 October 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 6 October 2020 at 20:33
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
 
 ### Additional Information
 
 * Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 9 October 2020
+
+## [Labour demand weakening during the COVID-19 pandemic in US cities - Stylised facts and factors related to regional resilience](https://doi.org/10.1787/700d91ba-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 9 October 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -392,16 +302,16 @@ Monday 12 October 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 5 October 2020 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
+- [x] Exported to Keepeek Wednesday 7 October 2020 at 20:22
+- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -409,7 +319,80 @@ Monday 12 October 2020 at 9:00 | no launch event
 
 ------
 
+# 14 October 2020
+
+## [OECD digital government index (DGI) - Methodology and 2019 results](https://doi.org/10.1787/b00142a4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 October 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: United Kingdom 2020](https://doi.org/10.1787/2f684241-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 October 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 15 October 2020
+
+## [Education in the Digital Age - Healthy and Happy Children](https://doi.org/10.1787/1209166a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 October 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [Sustainable Reintegration of Returning Migrants - A Better Homecoming](https://doi.org/10.1787/5fee55b3-en)
 
@@ -420,9 +403,9 @@ Thursday 15 October 2020 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 5 October 2020 at 20:25
+- [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
 
 ### Additional Information
 
@@ -430,6 +413,33 @@ Thursday 15 October 2020 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 19 October 2020
+
+## [International Migration Outlook 2020](https://doi.org/10.1787/ec98f531-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 19 October 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
+- [x] Exported to Keepeek Wednesday 7 October 2020 at 20:22
+- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -806,7 +816,7 @@ Monday 26 October 2020 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 October 2020 at 20:25
 - [x] Exported to Keepeek Monday 5 October 2020 at 20:10
-- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
 
 ### Additional Information
 
