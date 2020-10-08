@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 7 October 2020 at 21:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 8 October 2020 at 21:38* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [6 October 2020](#6-october-2020)
 * [7 October 2020](#7-october-2020)
 * [8 October 2020](#8-october-2020)
 * [9 October 2020](#9-october-2020)
@@ -23,56 +22,6 @@ Data generated on | |
 
 ------
 
-# 6 October 2020
-
-## [Developing Sustainable Finance Definitions and Taxonomies](https://doi.org/10.1787/134a2dbe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 6 October 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 30 September 2020 at 20:31
-- [x] Exported to Keepeek Monday 5 October 2020 at 20:10
-- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Green Infrastructure in the Decade for Delivery - Assessing Institutional Investment](https://doi.org/10.1787/f51f9256-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 6 October 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 1 October 2020 at 20:33
-- [x] Exported to Keepeek Friday 2 October 2020 at 20:18
-- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-------
-
 # 7 October 2020
 
 ## [Corporate Governance in Costa Rica](https://doi.org/10.1787/b313ec37-en)
@@ -86,7 +35,7 @@ Wednesday 7 October 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 October 2020 at 20:36
 - [x] Exported to Keepeek Friday 2 October 2020 at 20:18
-- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
+- [x] Exported to OECD.org Thursday 8 October 2020 at 20:04
 
 ### Additional Information
 
@@ -109,7 +58,7 @@ Wednesday 7 October 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 October 2020 at 20:36
 - [x] Exported to Keepeek Friday 2 October 2020 at 20:18
-- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
+- [x] Exported to OECD.org Thursday 8 October 2020 at 20:04
 
 ### Additional Information
 
@@ -132,7 +81,7 @@ Wednesday 7 October 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 24 September 2020 at 20:32
 - [x] Exported to Keepeek Thursday 24 September 2020 at 20:17
-- [x] Exported to OECD.org Tuesday 6 October 2020 at 20:00
+- [x] Exported to OECD.org Thursday 8 October 2020 at 20:04
 
 ### Additional Information
 
@@ -232,7 +181,7 @@ Friday 9 October 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
+- [x] Exported to OECD.org Thursday 8 October 2020 at 20:04
 
 ### Additional Information
 
@@ -248,30 +197,53 @@ Friday 9 October 2020 at 7:00 | no launch event
 
 # 12 October 2020
 
-## [Corporate Taxation and Investment of Multinational Firms: Evidence from Firm-Level Data](https://doi.org/10.1787/9c6f9f2e-en)
+## [Assessing adults’ skills on a global scale -  A joint analysis of results from PIAAC and STEP](https://doi.org/10.1787/ae2f95d5-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 12 October 2020 at 9:00 | no launch event
+Monday 12 October 2020 at 5:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 8 October 2020 at 20:51
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 8 October 2020 at 20:04
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
 
 ------
 
-## [The impact of the pillar one and pillar two proposals on MNE’s investment costs  - An analysis using forward-looking effective tax rates](https://doi.org/10.1787/b0876dcf-en)
+## [Corporate taxation and investment of multinational firms - Evidence from firm-level data](https://doi.org/10.1787/9c6f9f2e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 12 October 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 8 October 2020 at 20:51
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 8 October 2020 at 20:04
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [The impact of the Pillar One and Pillar Two proposals on MNE’s investment costs - An analysis using forward-looking effective tax rates](https://doi.org/10.1787/b0876dcf-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -280,15 +252,15 @@ Monday 12 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 8 October 2020 at 20:51
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 8 October 2020 at 20:04
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
 
@@ -304,7 +276,7 @@ Monday 12 October 2020 at 9:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
-- [x] Exported to Keepeek Wednesday 7 October 2020 at 20:22
+- [x] Exported to Keepeek Thursday 8 October 2020 at 20:24
 - [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
 
 ### Additional Information
@@ -390,7 +362,7 @@ Thursday 15 October 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -403,9 +375,9 @@ Thursday 15 October 2020 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
+- [x] Exported to iLibrary Thursday 8 October 2020 at 20:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
+- [x] Exported to OECD.org Thursday 8 October 2020 at 20:04
 
 ### Additional Information
 
@@ -514,6 +486,52 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Tax Challenges Arising from Digitalisation – Report on Pillar One Blueprint - Inclusive Framework on BEPS](https://doi.org/10.1787/beba0634-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 22 October 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 8 October 2020 at 20:51
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 8 October 2020 at 20:04
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Tax Challenges Arising from Digitalisation – Report on Pillar Two Blueprint - Inclusive Framework on BEPS](https://doi.org/10.1787/abb4c3d1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 22 October 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 8 October 2020 at 20:51
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 8 October 2020 at 20:04
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
