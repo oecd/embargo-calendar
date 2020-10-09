@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 8 October 2020 at 21:38* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 9 October 2020 at 21:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [7 October 2020](#7-october-2020)
 * [8 October 2020](#8-october-2020)
 * [9 October 2020](#9-october-2020)
 * [12 October 2020](#12-october-2020)
@@ -22,79 +21,6 @@ Data generated on | |
 
 ------
 
-# 7 October 2020
-
-## [Corporate Governance in Costa Rica](https://doi.org/10.1787/b313ec37-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 7 October 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 2 October 2020 at 20:36
-- [x] Exported to Keepeek Friday 2 October 2020 at 20:18
-- [x] Exported to OECD.org Thursday 8 October 2020 at 20:04
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Gobierno Corporativo en Costa Rica](https://doi.org/10.1787/74f5db04-es)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 7 October 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 2 October 2020 at 20:36
-- [x] Exported to Keepeek Friday 2 October 2020 at 20:18
-- [x] Exported to OECD.org Thursday 8 October 2020 at 20:04
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD Skills Strategy Implementation Guidance for Latvia - Developing Latvia’s Education Development Guidelines 2021-2027](https://doi.org/10.1787/ebc98a53-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 7 October 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 September 2020 at 20:32
-- [x] Exported to Keepeek Thursday 24 September 2020 at 20:17
-- [x] Exported to OECD.org Thursday 8 October 2020 at 20:04
-
-### Additional Information
-
-* Directorate: *Centre for Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
 # 8 October 2020
 
 ## [The effect of energy prices and environmental policy stringency on manufacturing employment in OECD countries: Sector- and firm-level evidence](https://doi.org/10.1787/899eb13f-en)
@@ -108,7 +34,7 @@ Thursday 8 October 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
+- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
 
 ### Additional Information
 
@@ -131,7 +57,7 @@ Thursday 8 October 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
+- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
 
 ### Additional Information
 
@@ -154,7 +80,7 @@ Thursday 8 October 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 6 October 2020 at 20:33
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
+- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
 
 ### Additional Information
 
@@ -197,6 +123,52 @@ Friday 9 October 2020 at 7:00 | no launch event
 
 # 12 October 2020
 
+## [Déchiffrer le code - L’élaboration de règles exécutables par les humains et par les machines](https://doi.org/10.1787/027bac0e-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 12 October 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 9 October 2020 at 20:35
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Cracking the code - Rulemaking for humans and machines](https://doi.org/10.1787/3afe6ba5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 12 October 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 9 October 2020 at 20:35
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Assessing adults’ skills on a global scale -  A joint analysis of results from PIAAC and STEP](https://doi.org/10.1787/ae2f95d5-en)
 
 Embargo date | Launch date
@@ -208,7 +180,7 @@ Monday 12 October 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 October 2020 at 20:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 October 2020 at 20:04
+- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
 
 ### Additional Information
 
@@ -231,7 +203,7 @@ Monday 12 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 October 2020 at 20:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 October 2020 at 20:04
+- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
 
 ### Additional Information
 
@@ -251,10 +223,10 @@ Monday 12 October 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 8 October 2020 at 20:51
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 9 October 2020 at 20:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 October 2020 at 20:04
+- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
 
 ### Additional Information
 
@@ -277,7 +249,7 @@ Monday 12 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
 - [x] Exported to Keepeek Thursday 8 October 2020 at 20:24
-- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
+- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
 
 ### Additional Information
 
@@ -302,9 +274,32 @@ Wednesday 14 October 2020 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
+- [x] Exported to iLibrary Friday 9 October 2020 at 20:35
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Digital Government Index - 2019 results](https://doi.org/10.1787/4de9f5bb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 October 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 9 October 2020 at 20:35
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
 
 ### Additional Information
 
@@ -351,16 +346,16 @@ Thursday 15 October 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 9 October 2020 at 20:35
+- [x] Exported to Keepeek Friday 9 October 2020 at 20:16
+- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -502,9 +497,9 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 8 October 2020 at 20:51
+- [x] Exported to iLibrary Friday 9 October 2020 at 20:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 October 2020 at 20:04
+- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
 
 ### Additional Information
 
@@ -525,9 +520,9 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 8 October 2020 at 20:51
+- [x] Exported to iLibrary Friday 9 October 2020 at 20:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 October 2020 at 20:04
+- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
 
 ### Additional Information
 
@@ -1031,17 +1026,17 @@ Thursday 28 January 2021 at 8:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 1 October 2020 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 September 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 9 October 2020 at 20:35
+- [x] Exported to Keepeek Friday 9 October 2020 at 20:16
+- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
