@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 9 October 2020 at 21:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 12 October 2020 at 22:01* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [8 October 2020](#8-october-2020)
-* [9 October 2020](#9-october-2020)
 * [12 October 2020](#12-october-2020)
 * [14 October 2020](#14-october-2020)
 * [15 October 2020](#15-october-2020)
@@ -14,110 +12,11 @@ Data generated on | |
 * [22 October 2020](#22-october-2020)
 * [23 October 2020](#23-october-2020)
 * [26 October 2020](#26-october-2020)
+* [12 November 2020](#12-november-2020)
 * [13 November 2020](#13-november-2020)
 * [16 November 2020](#16-november-2020)
 * [30 November 2020](#30-november-2020)
 * [28 January 2021](#28-january-2021)
-
-------
-
-# 8 October 2020
-
-## [The effect of energy prices and environmental policy stringency on manufacturing employment in OECD countries: Sector- and firm-level evidence](https://doi.org/10.1787/899eb13f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 October 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [The Future of Housing: Policy Scenarios](https://doi.org/10.1787/0adf02cb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 October 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Rejuvenating Greece’s labour market to generate more and higher-quality jobs](https://doi.org/10.1787/8ea5033a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 October 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 6 October 2020 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 9 October 2020
-
-## [Labour demand weakening during the COVID-19 pandemic in US cities - Stylised facts and factors related to regional resilience](https://doi.org/10.1787/700d91ba-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 9 October 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 October 2020 at 20:04
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -369,7 +268,7 @@ Thursday 15 October 2020 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 October 2020 at 20:51
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 8 October 2020 at 20:04
@@ -378,7 +277,7 @@ Thursday 15 October 2020 at 12:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -432,7 +331,7 @@ Wednesday 21 October 2020 at 9:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -481,52 +380,6 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Tax Challenges Arising from Digitalisation – Report on Pillar One Blueprint - Inclusive Framework on BEPS](https://doi.org/10.1787/beba0634-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 22 October 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 9 October 2020 at 20:35
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Tax Challenges Arising from Digitalisation – Report on Pillar Two Blueprint - Inclusive Framework on BEPS](https://doi.org/10.1787/abb4c3d1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 22 October 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 9 October 2020 at 20:35
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
@@ -866,6 +719,33 @@ Monday 26 October 2020 at 14:00 | no launch event
 
 ------
 
+# 12 November 2020
+
+## [Climate Finance Provided and Mobilised by Developed Countries in 2013-18](https://doi.org/10.1787/f0773d55-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 November 2020 at 8:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
 # 13 November 2020
 
 ## [OECD Environmental Performance Reviews: Luxembourg 2020](https://doi.org/10.1787/fd9f43e6-en)
@@ -887,7 +767,7 @@ Friday 13 November 2020 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -910,7 +790,7 @@ Friday 13 November 2020 at 8:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -938,6 +818,29 @@ Monday 16 November 2020 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Shaping the Future of Regulators - The Impact of Emerging Technologies on Economic Regulators](https://doi.org/10.1787/db481aa3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 November 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
