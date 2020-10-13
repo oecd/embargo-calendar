@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 12 October 2020 at 22:01* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 13 October 2020 at 21:15* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 October 2020](#12-october-2020)
 * [14 October 2020](#14-october-2020)
@@ -33,7 +33,7 @@ Monday 12 October 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 9 October 2020 at 20:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 13 October 2020 at 20:00
 
 ### Additional Information
 
@@ -56,7 +56,7 @@ Monday 12 October 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 9 October 2020 at 20:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 13 October 2020 at 20:00
 
 ### Additional Information
 
@@ -79,7 +79,7 @@ Monday 12 October 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 October 2020 at 20:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 13 October 2020 at 20:00
 
 ### Additional Information
 
@@ -102,7 +102,7 @@ Monday 12 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 October 2020 at 20:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 13 October 2020 at 20:00
 
 ### Additional Information
 
@@ -125,7 +125,7 @@ Monday 12 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 9 October 2020 at 20:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 13 October 2020 at 20:00
 
 ### Additional Information
 
@@ -148,7 +148,7 @@ Monday 12 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
 - [x] Exported to Keepeek Thursday 8 October 2020 at 20:24
-- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 13 October 2020 at 20:00
 
 ### Additional Information
 
@@ -175,7 +175,7 @@ Wednesday 14 October 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 9 October 2020 at 20:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
+- [x] Exported to OECD.org Monday 12 October 2020 at 20:49
 
 ### Additional Information
 
@@ -198,7 +198,7 @@ Wednesday 14 October 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 9 October 2020 at 20:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
+- [x] Exported to OECD.org Monday 12 October 2020 at 20:49
 
 ### Additional Information
 
@@ -214,20 +214,20 @@ Wednesday 14 October 2020 at 5:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 14 October 2020 at 9:00 | no launch event
+Wednesday 14 October 2020 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 13 October 2020 at 20:38
+- [x] Exported to Keepeek Tuesday 13 October 2020 at 20:17
+- [x] Exported to OECD.org Tuesday 13 October 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -246,7 +246,7 @@ Thursday 15 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 9 October 2020 at 20:35
+- [x] Exported to iLibrary Monday 12 October 2020 at 21:34
 - [x] Exported to Keepeek Friday 9 October 2020 at 20:16
 - [x] Exported to OECD.org Friday 9 October 2020 at 19:59
 
@@ -269,9 +269,9 @@ Thursday 15 October 2020 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 October 2020 at 20:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 October 2020 at 20:04
+- [x] Exported to iLibrary Monday 12 October 2020 at 21:34
+- [x] Exported to Keepeek Monday 12 October 2020 at 21:18
+- [x] Exported to OECD.org Monday 12 October 2020 at 20:49
 
 ### Additional Information
 
@@ -323,9 +323,9 @@ Wednesday 21 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 12 October 2020 at 21:34
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 12 October 2020 at 20:49
 
 ### Additional Information
 
@@ -350,15 +350,15 @@ Thursday 22 October 2020 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 13 October 2020 at 20:38
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 13 October 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -396,7 +396,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
+- [x] Exported to iLibrary Monday 12 October 2020 at 21:34
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 18 September 2020 at 20:00
 
@@ -419,7 +419,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
+- [x] Exported to iLibrary Monday 12 October 2020 at 21:34
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 18 September 2020 at 20:00
 
@@ -442,7 +442,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
+- [x] Exported to iLibrary Monday 12 October 2020 at 21:34
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 18 September 2020 at 20:00
 
@@ -465,7 +465,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
+- [x] Exported to iLibrary Monday 12 October 2020 at 21:34
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 18 September 2020 at 20:00
 
@@ -488,7 +488,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
+- [x] Exported to iLibrary Monday 12 October 2020 at 21:34
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 18 September 2020 at 20:00
 
@@ -511,7 +511,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
+- [x] Exported to iLibrary Monday 12 October 2020 at 21:34
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 18 September 2020 at 20:00
 
@@ -534,7 +534,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
+- [x] Exported to iLibrary Monday 12 October 2020 at 21:34
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 18 September 2020 at 20:00
 
@@ -557,7 +557,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 23 September 2020 at 20:27
+- [x] Exported to iLibrary Monday 12 October 2020 at 21:34
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 18 September 2020 at 20:00
 
