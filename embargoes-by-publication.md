@@ -2,145 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 13 October 2020 at 21:15* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Déchiffrer le code - L’élaboration de règles exécutables par les humains et par les machines](https://doi.org/10.1787/027bac0e-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 12 October 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 9 October 2020 at 20:35
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 October 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Cracking the code - Rulemaking for humans and machines](https://doi.org/10.1787/3afe6ba5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 12 October 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 9 October 2020 at 20:35
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 October 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Assessing adults’ skills on a global scale -  A joint analysis of results from PIAAC and STEP](https://doi.org/10.1787/ae2f95d5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 12 October 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 October 2020 at 20:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 October 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Corporate taxation and investment of multinational firms - Evidence from firm-level data](https://doi.org/10.1787/9c6f9f2e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 12 October 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 October 2020 at 20:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 October 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [The impact of the Pillar One and Pillar Two proposals on MNE’s investment costs - An analysis using forward-looking effective tax rates](https://doi.org/10.1787/b0876dcf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 12 October 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 9 October 2020 at 20:35
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 October 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Tax Challenges Arising from Digitalisation – Economic Impact Assessment - Inclusive Framework on BEPS](https://doi.org/10.1787/0e3cc2d4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 12 October 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
-- [x] Exported to Keepeek Thursday 8 October 2020 at 20:24
-- [x] Exported to OECD.org Tuesday 13 October 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
+| *Wednesday 14 October 2020 at 21:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD digital government index (DGI) - Methodology and 2019 results](https://doi.org/10.1787/b00142a4-en)
 
@@ -211,6 +73,29 @@ Wednesday 14 October 2020 at 10:00 | no launch event
 
 ------
 
+## [Non-cognitive characteristics and academic achievement in Southeast Asian countries based on PISA 2009, 2012, and 2015](https://doi.org/10.1787/c3626e2f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 October 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 October 2020 at 20:33
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 14 October 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Education in the Digital Age - Healthy and Happy Children](https://doi.org/10.1787/1209166a-en)
 
 Embargo date | Launch date
@@ -221,8 +106,8 @@ Thursday 15 October 2020 at 9:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 October 2020 at 21:34
-- [x] Exported to Keepeek Friday 9 October 2020 at 20:16
-- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
+- [x] Exported to Keepeek Wednesday 14 October 2020 at 20:17
+- [x] Exported to OECD.org Wednesday 14 October 2020 at 20:00
 
 ### Additional Information
 
@@ -245,7 +130,7 @@ Thursday 15 October 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 October 2020 at 21:34
 - [x] Exported to Keepeek Monday 12 October 2020 at 21:18
-- [x] Exported to OECD.org Monday 12 October 2020 at 20:49
+- [x] Exported to OECD.org Wednesday 14 October 2020 at 20:00
 
 ### Additional Information
 
@@ -288,37 +173,14 @@ Wednesday 21 October 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 October 2020 at 21:34
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 October 2020 at 20:33
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 October 2020 at 20:49
+- [x] Exported to OECD.org Wednesday 14 October 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Governance for Youth, Trust and Intergenerational Justice - Fit for All Generations?](https://doi.org/10.1787/c3e5cb8a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 22 October 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 13 October 2020 at 20:38
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 October 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
@@ -335,7 +197,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 22 September 2020 at 20:24
+- [x] Exported to iLibrary Wednesday 14 October 2020 at 20:33
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 3 September 2020 at 20:13
 
@@ -388,6 +250,29 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Governance for Youth, Trust and Intergenerational Justice - Fit for All Generations?](https://doi.org/10.1787/c3e5cb8a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 22 October 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 14 October 2020 at 20:33
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 14 October 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
@@ -533,6 +418,29 @@ Thursday 22 October 2020 at 9:00 | no launch event
 
 ------
 
+## [Benchmarking the Performance of China's Education System](https://doi.org/10.1787/4ab33702-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 23 October 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 14 October 2020 at 20:33
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 14 October 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Achieving our Common Humanity - Celebrating Global Cooperation Through the United Nations](https://doi.org/10.18356/6aa29937-en)
 
 Embargo date | Launch date
@@ -657,9 +565,9 @@ Monday 26 October 2020 at 14:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 21 September 2020 at 20:27
+- [x] Exported to iLibrary Wednesday 14 October 2020 at 20:33
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 September 2020 at 19:58
+- [x] Exported to OECD.org Wednesday 14 October 2020 at 20:00
 
 ### Additional Information
 
@@ -667,7 +575,7 @@ Monday 26 October 2020 at 14:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -805,6 +713,52 @@ Monday 16 November 2020 at 16:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Consumption Tax Trends 2020 - VAT/GST and Excise Rates, Trends and Policy Issues](https://doi.org/10.1787/152def2d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 November 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Revenue Statistics 2020](https://doi.org/10.1787/8625f8e5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 November 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 14 October 2020 at 20:33
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 14 October 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
