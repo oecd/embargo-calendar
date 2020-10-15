@@ -2,9 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 14 October 2020 at 21:10* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 15 October 2020 at 21:08* | [See embargoes by date](embargoes-by-date.md) |
 
-## [OECD digital government index (DGI) - Methodology and 2019 results](https://doi.org/10.1787/b00142a4-en)
+## [OECD Digital Government Index (DGI) - Methodology and 2019 results](https://doi.org/10.1787/b00142a4-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -13,9 +13,9 @@ Wednesday 14 October 2020 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 9 October 2020 at 20:35
+- [x] Exported to iLibrary Thursday 15 October 2020 at 20:34
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 October 2020 at 20:49
+- [x] Exported to OECD.org Thursday 15 October 2020 at 20:00
 
 ### Additional Information
 
@@ -36,9 +36,9 @@ Wednesday 14 October 2020 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 9 October 2020 at 20:35
+- [x] Exported to iLibrary Thursday 15 October 2020 at 20:34
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 October 2020 at 20:49
+- [x] Exported to OECD.org Thursday 15 October 2020 at 20:00
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Wednesday 14 October 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 13 October 2020 at 20:38
 - [x] Exported to Keepeek Tuesday 13 October 2020 at 20:17
-- [x] Exported to OECD.org Tuesday 13 October 2020 at 20:00
+- [x] Exported to OECD.org Thursday 15 October 2020 at 20:00
 
 ### Additional Information
 
@@ -139,6 +139,29 @@ Thursday 15 October 2020 at 12:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Perspectives des migrations internationales 2020](https://doi.org/10.1787/6b4c9dfc-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 19 October 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 15 October 2020 at 20:34
+- [x] Exported to Keepeek Thursday 15 October 2020 at 20:17
+- [x] Exported to OECD.org Thursday 15 October 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -242,16 +265,16 @@ Thursday 22 October 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 October 2020 at 21:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 September 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 15 October 2020 at 20:34
+- [x] Exported to Keepeek Thursday 15 October 2020 at 20:17
+- [x] Exported to OECD.org Thursday 15 October 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -311,16 +334,16 @@ Thursday 22 October 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 October 2020 at 21:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 September 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 15 October 2020 at 20:34
+- [x] Exported to Keepeek Thursday 15 October 2020 at 20:17
+- [x] Exported to OECD.org Thursday 15 October 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -334,16 +357,16 @@ Thursday 22 October 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 October 2020 at 21:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 September 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 15 October 2020 at 20:34
+- [x] Exported to Keepeek Thursday 15 October 2020 at 20:17
+- [x] Exported to OECD.org Thursday 15 October 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -403,16 +426,16 @@ Thursday 22 October 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 October 2020 at 21:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 September 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 15 October 2020 at 20:34
+- [x] Exported to Keepeek Thursday 15 October 2020 at 20:17
+- [x] Exported to OECD.org Thursday 15 October 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -564,16 +587,16 @@ Monday 26 October 2020 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 14 October 2020 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 October 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 15 October 2020 at 20:34
+- [x] Exported to Keepeek Thursday 15 October 2020 at 20:17
+- [x] Exported to OECD.org Thursday 15 October 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -759,6 +782,29 @@ Tuesday 24 November 2020 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Digital Economy Outlook 2020](https://doi.org/10.1787/bb167041-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 27 November 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
