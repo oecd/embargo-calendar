@@ -2,15 +2,15 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 15 October 2020 at 21:08* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 16 October 2020 at 21:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [14 October 2020](#14-october-2020)
 * [15 October 2020](#15-october-2020)
 * [19 October 2020](#19-october-2020)
 * [21 October 2020](#21-october-2020)
 * [22 October 2020](#22-october-2020)
 * [23 October 2020](#23-october-2020)
 * [26 October 2020](#26-october-2020)
+* [27 October 2020](#27-october-2020)
 * [12 November 2020](#12-november-2020)
 * [13 November 2020](#13-november-2020)
 * [16 November 2020](#16-november-2020)
@@ -18,79 +18,6 @@ Data generated on | |
 * [27 November 2020](#27-november-2020)
 * [30 November 2020](#30-november-2020)
 * [28 January 2021](#28-january-2021)
-
-------
-
-# 14 October 2020
-
-## [OECD Digital Government Index (DGI) - Methodology and 2019 results](https://doi.org/10.1787/b00142a4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 October 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 15 October 2020 at 20:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 15 October 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Digital Government Index - 2019 results](https://doi.org/10.1787/4de9f5bb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 October 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 15 October 2020 at 20:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 15 October 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: United Kingdom 2020](https://doi.org/10.1787/2f684241-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 October 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 13 October 2020 at 20:38
-- [x] Exported to Keepeek Tuesday 13 October 2020 at 20:17
-- [x] Exported to OECD.org Thursday 15 October 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -107,7 +34,7 @@ Thursday 15 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 14 October 2020 at 20:33
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 October 2020 at 20:00
+- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
 
 ### Additional Information
 
@@ -130,7 +57,7 @@ Thursday 15 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 October 2020 at 21:34
 - [x] Exported to Keepeek Wednesday 14 October 2020 at 20:17
-- [x] Exported to OECD.org Wednesday 14 October 2020 at 20:00
+- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
 
 ### Additional Information
 
@@ -153,7 +80,7 @@ Thursday 15 October 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 October 2020 at 21:34
 - [x] Exported to Keepeek Monday 12 October 2020 at 21:18
-- [x] Exported to OECD.org Wednesday 14 October 2020 at 20:00
+- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
 
 ### Additional Information
 
@@ -180,7 +107,7 @@ Monday 19 October 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 15 October 2020 at 20:34
 - [x] Exported to Keepeek Thursday 15 October 2020 at 20:17
-- [x] Exported to OECD.org Thursday 15 October 2020 at 20:00
+- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
 
 ### Additional Information
 
@@ -203,7 +130,7 @@ Monday 19 October 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
 - [x] Exported to Keepeek Wednesday 7 October 2020 at 20:22
-- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
+- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
 
 ### Additional Information
 
@@ -228,17 +155,17 @@ Wednesday 21 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 14 October 2020 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 October 2020 at 20:00
+- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
+- [x] Exported to Keepeek Friday 16 October 2020 at 20:21
+- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -277,16 +204,16 @@ Thursday 22 October 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 October 2020 at 21:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 September 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
+- [x] Exported to Keepeek Friday 16 October 2020 at 20:21
+- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -301,7 +228,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 15 October 2020 at 20:34
+- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
 - [x] Exported to Keepeek Thursday 15 October 2020 at 20:17
 - [x] Exported to OECD.org Thursday 15 October 2020 at 20:00
 
@@ -312,6 +239,29 @@ Thursday 22 October 2020 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Do all students have equal opportunities to learn global and intercultural skills at school?](https://doi.org/10.1787/2fdce668-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 22 October 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -346,16 +296,16 @@ Thursday 22 October 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 October 2020 at 21:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 September 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
+- [x] Exported to Keepeek Friday 16 October 2020 at 20:21
+- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -370,7 +320,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 15 October 2020 at 20:34
+- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
 - [x] Exported to Keepeek Thursday 15 October 2020 at 20:17
 - [x] Exported to OECD.org Thursday 15 October 2020 at 20:00
 
@@ -393,7 +343,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 15 October 2020 at 20:34
+- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
 - [x] Exported to Keepeek Thursday 15 October 2020 at 20:17
 - [x] Exported to OECD.org Thursday 15 October 2020 at 20:00
 
@@ -403,7 +353,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -415,16 +365,16 @@ Thursday 22 October 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 October 2020 at 21:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 September 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
+- [x] Exported to Keepeek Friday 16 October 2020 at 20:21
+- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -438,16 +388,16 @@ Thursday 22 October 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 October 2020 at 21:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 September 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
+- [x] Exported to Keepeek Friday 16 October 2020 at 20:21
+- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -462,7 +412,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 15 October 2020 at 20:34
+- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
 - [x] Exported to Keepeek Thursday 15 October 2020 at 20:17
 - [x] Exported to OECD.org Thursday 15 October 2020 at 20:00
 
@@ -530,7 +480,7 @@ Friday 23 October 2020 at 15:00 | no launch event
 
 # 26 October 2020
 
-## [A Territorial Approach to the Sustainable Development Goals in Bonn, Germany](https://doi.org/10.1787/bbf7e6b1-en)
+## [A territorial approach to the Sustainable Development Goals in Bonn, Germany ](https://doi.org/10.1787/bbf7e6b1-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -539,9 +489,9 @@ Monday 26 October 2020 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 18 September 2020 at 20:28
+- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 September 2020 at 20:00
+- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
 
 ### Additional Information
 
@@ -562,7 +512,7 @@ Monday 26 October 2020 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 1 October 2020 at 20:33
+- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
 - [x] Exported to Keepeek Thursday 1 October 2020 at 20:17
 - [x] Exported to OECD.org Tuesday 29 September 2020 at 20:00
 
@@ -633,7 +583,7 @@ Monday 26 October 2020 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 15 October 2020 at 20:34
 - [x] Exported to Keepeek Thursday 15 October 2020 at 20:17
-- [x] Exported to OECD.org Thursday 15 October 2020 at 20:00
+- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
 
 ### Additional Information
 
@@ -642,6 +592,33 @@ Monday 26 October 2020 at 14:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 27 October 2020
+
+## [Improving school quality in Norway 2020  - Progress with the Competence Development Model](https://doi.org/10.1787/98600316-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 27 October 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -912,15 +889,15 @@ Thursday 28 January 2021 at 8:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *Latvian*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -935,9 +912,9 @@ Thursday 28 January 2021 at 8:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 9 October 2020 at 20:35
+- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
 - [x] Exported to Keepeek Friday 9 October 2020 at 20:16
-- [x] Exported to OECD.org Friday 9 October 2020 at 19:59
+- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
 
 ### Additional Information
 
