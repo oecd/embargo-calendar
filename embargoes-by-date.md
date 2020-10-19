@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 16 October 2020 at 21:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 19 October 2020 at 20:54* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [15 October 2020](#15-october-2020)
 * [19 October 2020](#19-october-2020)
 * [21 October 2020](#21-october-2020)
 * [22 October 2020](#22-october-2020)
@@ -14,83 +13,11 @@ Data generated on | |
 * [12 November 2020](#12-november-2020)
 * [13 November 2020](#13-november-2020)
 * [16 November 2020](#16-november-2020)
+* [23 November 2020](#23-november-2020)
 * [24 November 2020](#24-november-2020)
 * [27 November 2020](#27-november-2020)
 * [30 November 2020](#30-november-2020)
 * [28 January 2021](#28-january-2021)
-
-------
-
-# 15 October 2020
-
-## [Non-cognitive characteristics and academic achievement in Southeast Asian countries based on PISA 2009, 2012, and 2015](https://doi.org/10.1787/c3626e2f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 15 October 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 14 October 2020 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Education in the Digital Age - Healthy and Happy Children](https://doi.org/10.1787/1209166a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 15 October 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 12 October 2020 at 21:34
-- [x] Exported to Keepeek Wednesday 14 October 2020 at 20:17
-- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Sustainable Reintegration of Returning Migrants - A Better Homecoming](https://doi.org/10.1787/5fee55b3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 15 October 2020 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 12 October 2020 at 21:34
-- [x] Exported to Keepeek Monday 12 October 2020 at 21:18
-- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -146,6 +73,52 @@ Monday 19 October 2020 at 7:00 | no launch event
 
 # 21 October 2020
 
+## [Anti-competitive and regulatory barriers in the United States labour market](https://doi.org/10.1787/38649656-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 21 October 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 19 October 2020 at 20:27
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 19 October 2020 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Should I stay or should I go? Housing and residential mobility across OECD countries?](https://doi.org/10.1787/d91329c2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 21 October 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 19 October 2020 at 20:27
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 19 October 2020 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Promoting Education Decision Makers' Use of Evidence in Austria](https://doi.org/10.1787/0ac0181e-en)
 
 Embargo date | Launch date
@@ -155,7 +128,7 @@ Wednesday 21 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
+- [x] Exported to iLibrary Monday 19 October 2020 at 20:27
 - [x] Exported to Keepeek Friday 16 October 2020 at 20:21
 - [x] Exported to OECD.org Friday 16 October 2020 at 20:02
 
@@ -774,7 +747,57 @@ Monday 16 November 2020 at 16:00 | no launch event
 
 ------
 
+# 23 November 2020
+
+## [Les défis fiscaux soulevés par la numérisation de l’économie – Rapport sur l’évaluation d’impact économique - Cadre inclusif sur le BEPS](https://doi.org/10.1787/044011c1-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 November 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 19 October 2020 at 20:27
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 19 October 2020 at 19:57
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 24 November 2020
+
+## [Statistiques des recettes publiques 2020](https://doi.org/10.1787/c6381ca6-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 November 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 19 October 2020 at 20:27
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 19 October 2020 at 19:57
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [Consumption Tax Trends 2020 - VAT/GST and Excise Rates, Trends and Policy Issues](https://doi.org/10.1787/152def2d-en)
 
@@ -808,9 +831,9 @@ Tuesday 24 November 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 14 October 2020 at 20:33
+- [x] Exported to iLibrary Monday 19 October 2020 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 October 2020 at 20:00
+- [x] Exported to OECD.org Monday 19 October 2020 at 19:57
 
 ### Additional Information
 
