@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 19 October 2020 at 20:54* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 20 October 2020 at 20:58* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Perspectives des migrations internationales 2020](https://doi.org/10.1787/6b4c9dfc-fr)
 
@@ -15,7 +15,7 @@ Monday 19 October 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 15 October 2020 at 20:34
 - [x] Exported to Keepeek Thursday 15 October 2020 at 20:17
-- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
+- [x] Exported to OECD.org Tuesday 20 October 2020 at 19:59
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 19 October 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
 - [x] Exported to Keepeek Wednesday 7 October 2020 at 20:22
-- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
+- [x] Exported to OECD.org Tuesday 20 October 2020 at 19:59
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Wednesday 21 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 19 October 2020 at 20:27
 - [x] Exported to Keepeek Friday 16 October 2020 at 20:21
-- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
+- [x] Exported to OECD.org Tuesday 20 October 2020 at 19:59
 
 ### Additional Information
 
@@ -127,16 +127,16 @@ Thursday 22 October 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 14 October 2020 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 September 2020 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 20 October 2020 at 20:30
+- [x] Exported to Keepeek Tuesday 20 October 2020 at 20:15
+- [x] Exported to OECD.org Tuesday 20 October 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -220,9 +220,9 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 14 October 2020 at 20:33
+- [x] Exported to iLibrary Tuesday 20 October 2020 at 20:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 October 2020 at 20:00
+- [x] Exported to OECD.org Tuesday 20 October 2020 at 19:59
 
 ### Additional Information
 
@@ -230,7 +230,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -369,6 +369,29 @@ Thursday 22 October 2020 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Services imports and labour in Viet Nam](https://doi.org/10.1787/78401207-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 23 October 2020 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 20 October 2020 at 20:30
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 20 October 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -826,6 +849,29 @@ Monday 30 November 2020 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Tendances des impôts sur la consommation 2020 - TVA/TPS et droits d'accises – taux, tendances et questions stratégiques](https://doi.org/10.1787/3f06ea4d-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 December 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
