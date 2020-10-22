@@ -2,13 +2,15 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 22 October 2020 at 8:44* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 22 October 2020 at 20:55* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [21 October 2020](#21-october-2020)
 * [22 October 2020](#22-october-2020)
 * [23 October 2020](#23-october-2020)
 * [26 October 2020](#26-october-2020)
 * [27 October 2020](#27-october-2020)
+* [28 October 2020](#28-october-2020)
+* [6 November 2020](#6-november-2020)
 * [12 November 2020](#12-november-2020)
 * [13 November 2020](#13-november-2020)
 * [16 November 2020](#16-november-2020)
@@ -35,7 +37,7 @@ Wednesday 21 October 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 19 October 2020 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 October 2020 at 19:57
+- [x] Exported to OECD.org Thursday 22 October 2020 at 20:00
 
 ### Additional Information
 
@@ -56,9 +58,9 @@ Wednesday 21 October 2020 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 October 2020 at 20:27
+- [x] Exported to iLibrary Thursday 22 October 2020 at 9:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 October 2020 at 19:57
+- [x] Exported to OECD.org Thursday 22 October 2020 at 20:00
 
 ### Additional Information
 
@@ -80,8 +82,8 @@ Wednesday 21 October 2020 at 9:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 19 October 2020 at 20:27
-- [x] Exported to Keepeek Friday 16 October 2020 at 20:21
-- [x] Exported to OECD.org Tuesday 20 October 2020 at 19:59
+- [x] Exported to Keepeek Thursday 22 October 2020 at 10:35
+- [x] Exported to OECD.org Thursday 22 October 2020 at 20:00
 
 ### Additional Information
 
@@ -106,8 +108,8 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 20 October 2020 at 20:30
-- [x] Exported to Keepeek Tuesday 20 October 2020 at 20:15
+- [x] Exported to iLibrary Thursday 22 October 2020 at 9:55
+- [x] Exported to Keepeek Thursday 22 October 2020 at 10:35
 - [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
 
 ### Additional Information
@@ -129,8 +131,8 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
-- [x] Exported to Keepeek Friday 16 October 2020 at 20:21
+- [x] Exported to iLibrary Thursday 22 October 2020 at 9:55
+- [x] Exported to Keepeek Thursday 22 October 2020 at 9:56
 - [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
 
 ### Additional Information
@@ -152,8 +154,8 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
-- [x] Exported to Keepeek Thursday 15 October 2020 at 20:17
+- [x] Exported to iLibrary Thursday 22 October 2020 at 9:55
+- [x] Exported to Keepeek Thursday 22 October 2020 at 9:56
 - [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
 
 ### Additional Information
@@ -198,8 +200,8 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 20 October 2020 at 20:30
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 22 October 2020 at 9:58
+- [x] Exported to Keepeek Thursday 22 October 2020 at 10:35
 - [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
 
 ### Additional Information
@@ -221,8 +223,8 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
-- [x] Exported to Keepeek Friday 16 October 2020 at 20:21
+- [x] Exported to iLibrary Thursday 22 October 2020 at 9:55
+- [x] Exported to Keepeek Thursday 22 October 2020 at 9:56
 - [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
 
 ### Additional Information
@@ -244,8 +246,8 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
-- [x] Exported to Keepeek Thursday 15 October 2020 at 20:17
+- [x] Exported to iLibrary Thursday 22 October 2020 at 9:55
+- [x] Exported to Keepeek Thursday 22 October 2020 at 9:56
 - [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
 
 ### Additional Information
@@ -267,8 +269,8 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
-- [x] Exported to Keepeek Thursday 15 October 2020 at 20:17
+- [x] Exported to iLibrary Thursday 22 October 2020 at 9:55
+- [x] Exported to Keepeek Thursday 22 October 2020 at 9:56
 - [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
 
 ### Additional Information
@@ -290,8 +292,8 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
-- [x] Exported to Keepeek Friday 16 October 2020 at 20:21
+- [x] Exported to iLibrary Thursday 22 October 2020 at 9:58
+- [x] Exported to Keepeek Thursday 22 October 2020 at 9:56
 - [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
 
 ### Additional Information
@@ -313,8 +315,8 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
-- [x] Exported to Keepeek Friday 16 October 2020 at 20:21
+- [x] Exported to iLibrary Thursday 22 October 2020 at 9:55
+- [x] Exported to Keepeek Thursday 22 October 2020 at 9:56
 - [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
 
 ### Additional Information
@@ -336,8 +338,8 @@ Thursday 22 October 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
-- [x] Exported to Keepeek Thursday 15 October 2020 at 20:17
+- [x] Exported to iLibrary Thursday 22 October 2020 at 9:55
+- [x] Exported to Keepeek Thursday 22 October 2020 at 9:56
 - [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
 
 ### Additional Information
@@ -385,16 +387,16 @@ Friday 23 October 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 14 October 2020 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 October 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 22 October 2020 at 20:25
+- [x] Exported to Keepeek Thursday 22 October 2020 at 20:17
+- [x] Exported to OECD.org Thursday 22 October 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -482,8 +484,8 @@ Monday 26 October 2020 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 21 September 2020 at 20:27
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Thursday 22 October 2020 at 9:58
+- [x] Exported to Keepeek Thursday 22 October 2020 at 10:35
 - [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
 
 ### Additional Information
@@ -529,7 +531,7 @@ Monday 26 October 2020 at 14:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 15 October 2020 at 20:34
-- [x] Exported to Keepeek Thursday 15 October 2020 at 20:17
+- [x] Exported to Keepeek Thursday 22 October 2020 at 10:35
 - [x] Exported to OECD.org Friday 16 October 2020 at 20:02
 
 ### Additional Information
@@ -571,30 +573,61 @@ Tuesday 27 October 2020 at 8:00 | no launch event
 
 ------
 
-# 12 November 2020
+# 28 October 2020
+
+## [Teachers’ training and use of information and communications technology in the face of the COVID-19 crisis](https://doi.org/10.1787/696e0661-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 28 October 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 22 October 2020 at 20:25
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 22 October 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 6 November 2020
 
 ## [Climate Finance Provided and Mobilised by Developed Countries in 2013-18](https://doi.org/10.1787/f0773d55-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 12 November 2020 at 8:30 | no launch event
+Friday 6 November 2020 at 8:30 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 22 October 2020 at 20:25
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 22 October 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
+
+------
+
+# 12 November 2020
 
 ## [Revenue Statistics in Africa 2020 (en) | Statistiques des recettes publiques en Afrique 2020 - 1990-2018 (en) | 1990-2018](https://doi.org/10.1787/14e1edb1-en-fr)
 
@@ -605,7 +638,7 @@ Thursday 12 November 2020 at 13:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 22 October 2020 at 9:58
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
 
@@ -909,15 +942,15 @@ Monday 30 November 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 22 October 2020 at 20:25
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 22 October 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
