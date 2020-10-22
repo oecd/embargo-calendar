@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 20 October 2020 at 20:58* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 22 October 2020 at 8:44* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [19 October 2020](#19-october-2020)
 * [21 October 2020](#21-october-2020)
 * [22 October 2020](#22-october-2020)
 * [23 October 2020](#23-october-2020)
@@ -13,62 +12,13 @@ Data generated on | |
 * [12 November 2020](#12-november-2020)
 * [13 November 2020](#13-november-2020)
 * [16 November 2020](#16-november-2020)
+* [19 November 2020](#19-november-2020)
 * [23 November 2020](#23-november-2020)
 * [24 November 2020](#24-november-2020)
 * [27 November 2020](#27-november-2020)
 * [30 November 2020](#30-november-2020)
 * [17 December 2020](#17-december-2020)
 * [28 January 2021](#28-january-2021)
-
-------
-
-# 19 October 2020
-
-## [Perspectives des migrations internationales 2020](https://doi.org/10.1787/6b4c9dfc-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 October 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 15 October 2020 at 20:34
-- [x] Exported to Keepeek Thursday 15 October 2020 at 20:17
-- [x] Exported to OECD.org Tuesday 20 October 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [International Migration Outlook 2020](https://doi.org/10.1787/ec98f531-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 October 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 October 2020 at 20:41
-- [x] Exported to Keepeek Wednesday 7 October 2020 at 20:22
-- [x] Exported to OECD.org Tuesday 20 October 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -158,7 +108,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 20 October 2020 at 20:30
 - [x] Exported to Keepeek Tuesday 20 October 2020 at 20:15
-- [x] Exported to OECD.org Tuesday 20 October 2020 at 19:59
+- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
 
 ### Additional Information
 
@@ -181,7 +131,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 October 2020 at 20:43
 - [x] Exported to Keepeek Friday 16 October 2020 at 20:21
-- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
+- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
 
 ### Additional Information
 
@@ -204,7 +154,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 October 2020 at 20:43
 - [x] Exported to Keepeek Thursday 15 October 2020 at 20:17
-- [x] Exported to OECD.org Thursday 15 October 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
 
 ### Additional Information
 
@@ -227,7 +177,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 October 2020 at 20:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
+- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
 
 ### Additional Information
 
@@ -247,16 +197,16 @@ Thursday 22 October 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 20 October 2020 at 20:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 20 October 2020 at 19:59
+- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -273,7 +223,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 October 2020 at 20:43
 - [x] Exported to Keepeek Friday 16 October 2020 at 20:21
-- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
+- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
 
 ### Additional Information
 
@@ -296,7 +246,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 October 2020 at 20:43
 - [x] Exported to Keepeek Thursday 15 October 2020 at 20:17
-- [x] Exported to OECD.org Thursday 15 October 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
 
 ### Additional Information
 
@@ -319,7 +269,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 October 2020 at 20:43
 - [x] Exported to Keepeek Thursday 15 October 2020 at 20:17
-- [x] Exported to OECD.org Thursday 15 October 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
 
 ### Additional Information
 
@@ -342,7 +292,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 October 2020 at 20:43
 - [x] Exported to Keepeek Friday 16 October 2020 at 20:21
-- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
+- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
 
 ### Additional Information
 
@@ -365,7 +315,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 October 2020 at 20:43
 - [x] Exported to Keepeek Friday 16 October 2020 at 20:21
-- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
+- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
 
 ### Additional Information
 
@@ -388,7 +338,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 October 2020 at 20:43
 - [x] Exported to Keepeek Thursday 15 October 2020 at 20:17
-- [x] Exported to OECD.org Thursday 15 October 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
 
 ### Additional Information
 
@@ -415,7 +365,7 @@ Friday 23 October 2020 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 20 October 2020 at 20:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 20 October 2020 at 19:59
+- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
 
 ### Additional Information
 
@@ -531,18 +481,18 @@ Monday 26 October 2020 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 21 September 2020 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 September 2020 at 19:58
+- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *Portuguese*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -643,6 +593,29 @@ Thursday 12 November 2020 at 8:30 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [Revenue Statistics in Africa 2020 (en) | Statistiques des recettes publiques en Afrique 2020 - 1990-2018 (en) | 1990-2018](https://doi.org/10.1787/14e1edb1-en-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 November 2020 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English | French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -765,6 +738,33 @@ Monday 16 November 2020 at 16:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 19 November 2020
+
+## [Health at a Glance: Europe 2020 - State of Health in the EU Cycle](https://doi.org/10.1787/82129230-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 November 2020 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
