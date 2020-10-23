@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 22 October 2020 at 20:55* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 23 October 2020 at 20:58* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [21 October 2020](#21-october-2020)
 * [22 October 2020](#22-october-2020)
 * [23 October 2020](#23-october-2020)
 * [26 October 2020](#26-october-2020)
@@ -24,79 +23,6 @@ Data generated on | |
 
 ------
 
-# 21 October 2020
-
-## [Anti-competitive and regulatory barriers in the United States labour market](https://doi.org/10.1787/38649656-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 21 October 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 October 2020 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 22 October 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Should I stay or should I go? Housing and residential mobility across OECD countries?](https://doi.org/10.1787/d91329c2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 21 October 2020 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 22 October 2020 at 9:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 22 October 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Promoting Education Decision Makers' Use of Evidence in Austria](https://doi.org/10.1787/0ac0181e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 21 October 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 October 2020 at 20:27
-- [x] Exported to Keepeek Thursday 22 October 2020 at 10:35
-- [x] Exported to OECD.org Thursday 22 October 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-------
-
 # 22 October 2020
 
 ## [PISA 2018 Results (Volume VI) - Are Students Ready to Thrive in an Interconnected World?](https://doi.org/10.1787/d5f68679-en)
@@ -109,8 +35,8 @@ Thursday 22 October 2020 at 9:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 22 October 2020 at 9:55
-- [x] Exported to Keepeek Thursday 22 October 2020 at 10:35
-- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
+- [x] Exported to Keepeek Friday 23 October 2020 at 20:15
+- [x] Exported to OECD.org Friday 23 October 2020 at 19:58
 
 ### Additional Information
 
@@ -133,7 +59,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 22 October 2020 at 9:55
 - [x] Exported to Keepeek Thursday 22 October 2020 at 9:56
-- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
+- [x] Exported to OECD.org Friday 23 October 2020 at 19:58
 
 ### Additional Information
 
@@ -156,7 +82,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 22 October 2020 at 9:55
 - [x] Exported to Keepeek Thursday 22 October 2020 at 9:56
-- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
+- [x] Exported to OECD.org Friday 23 October 2020 at 19:58
 
 ### Additional Information
 
@@ -179,7 +105,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 October 2020 at 20:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
+- [x] Exported to OECD.org Friday 23 October 2020 at 19:58
 
 ### Additional Information
 
@@ -202,7 +128,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 22 October 2020 at 9:58
 - [x] Exported to Keepeek Thursday 22 October 2020 at 10:35
-- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
+- [x] Exported to OECD.org Friday 23 October 2020 at 19:58
 
 ### Additional Information
 
@@ -225,7 +151,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 22 October 2020 at 9:55
 - [x] Exported to Keepeek Thursday 22 October 2020 at 9:56
-- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
+- [x] Exported to OECD.org Friday 23 October 2020 at 19:58
 
 ### Additional Information
 
@@ -248,7 +174,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 22 October 2020 at 9:55
 - [x] Exported to Keepeek Thursday 22 October 2020 at 9:56
-- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
+- [x] Exported to OECD.org Friday 23 October 2020 at 19:58
 
 ### Additional Information
 
@@ -271,7 +197,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 22 October 2020 at 9:55
 - [x] Exported to Keepeek Thursday 22 October 2020 at 9:56
-- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
+- [x] Exported to OECD.org Friday 23 October 2020 at 19:58
 
 ### Additional Information
 
@@ -294,7 +220,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 22 October 2020 at 9:58
 - [x] Exported to Keepeek Thursday 22 October 2020 at 9:56
-- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
+- [x] Exported to OECD.org Friday 23 October 2020 at 19:58
 
 ### Additional Information
 
@@ -317,7 +243,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 22 October 2020 at 9:55
 - [x] Exported to Keepeek Thursday 22 October 2020 at 9:56
-- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
+- [x] Exported to OECD.org Friday 23 October 2020 at 19:58
 
 ### Additional Information
 
@@ -340,7 +266,7 @@ Thursday 22 October 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 22 October 2020 at 9:55
 - [x] Exported to Keepeek Thursday 22 October 2020 at 9:56
-- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
+- [x] Exported to OECD.org Friday 23 October 2020 at 19:58
 
 ### Additional Information
 
@@ -440,7 +366,7 @@ Monday 26 October 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 October 2020 at 20:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
+- [x] Exported to OECD.org Friday 23 October 2020 at 19:58
 
 ### Additional Information
 
@@ -463,7 +389,7 @@ Monday 26 October 2020 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 October 2020 at 20:43
 - [x] Exported to Keepeek Thursday 1 October 2020 at 20:17
-- [x] Exported to OECD.org Tuesday 29 September 2020 at 20:00
+- [x] Exported to OECD.org Friday 23 October 2020 at 19:58
 
 ### Additional Information
 
@@ -486,7 +412,7 @@ Monday 26 October 2020 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 22 October 2020 at 9:58
 - [x] Exported to Keepeek Thursday 22 October 2020 at 10:35
-- [x] Exported to OECD.org Wednesday 21 October 2020 at 20:04
+- [x] Exported to OECD.org Friday 23 October 2020 at 19:58
 
 ### Additional Information
 
@@ -509,7 +435,7 @@ Monday 26 October 2020 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 October 2020 at 20:25
 - [x] Exported to Keepeek Monday 5 October 2020 at 20:10
-- [x] Exported to OECD.org Wednesday 7 October 2020 at 20:02
+- [x] Exported to OECD.org Friday 23 October 2020 at 19:58
 
 ### Additional Information
 
@@ -532,7 +458,7 @@ Monday 26 October 2020 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 15 October 2020 at 20:34
 - [x] Exported to Keepeek Thursday 22 October 2020 at 10:35
-- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
+- [x] Exported to OECD.org Friday 23 October 2020 at 19:58
 
 ### Additional Information
 
