@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 26 October 2020 at 21:00* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 27 October 2020 at 20:57* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [A territorial approach to the Sustainable Development Goals in Bonn, Germany ](https://doi.org/10.1787/bbf7e6b1-en)
 
@@ -15,7 +15,7 @@ Monday 26 October 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 October 2020 at 20:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 October 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 27 October 2020 at 20:00
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 26 October 2020 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 October 2020 at 20:43
 - [x] Exported to Keepeek Monday 26 October 2020 at 20:16
-- [x] Exported to OECD.org Monday 26 October 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 27 October 2020 at 20:00
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Monday 26 October 2020 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 22 October 2020 at 9:58
 - [x] Exported to Keepeek Thursday 22 October 2020 at 10:35
-- [x] Exported to OECD.org Friday 23 October 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 27 October 2020 at 20:00
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Monday 26 October 2020 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 26 October 2020 at 20:32
 - [x] Exported to Keepeek Monday 26 October 2020 at 20:16
-- [x] Exported to OECD.org Friday 23 October 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 27 October 2020 at 20:00
 
 ### Additional Information
 
@@ -106,8 +106,8 @@ Monday 26 October 2020 at 14:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 15 October 2020 at 20:34
-- [x] Exported to Keepeek Monday 26 October 2020 at 20:16
-- [x] Exported to OECD.org Friday 23 October 2020 at 19:58
+- [x] Exported to Keepeek Tuesday 27 October 2020 at 20:16
+- [x] Exported to OECD.org Tuesday 27 October 2020 at 20:00
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Wednesday 28 October 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 22 October 2020 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 22 October 2020 at 20:00
+- [x] Exported to OECD.org Tuesday 27 October 2020 at 20:00
 
 ### Additional Information
 
@@ -399,26 +399,26 @@ Tuesday 17 November 2020 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 19 November 2020 at 12:00 | no launch event
+Thursday 19 November 2020 at 10:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 27 October 2020 at 20:30
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 27 October 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
 
-## [Les défis fiscaux soulevés par la numérisation de l’économie – Rapport sur l’évaluation d’impact économique - Cadre inclusif sur le BEPS](https://doi.org/10.1787/044011c1-fr)
+## [Les défis fiscaux soulevés par la numérisation de l’économie – Évaluation d’impact économique - Cadre inclusif sur le BEPS](https://doi.org/10.1787/044011c1-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -427,9 +427,9 @@ Monday 23 November 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 26 October 2020 at 20:32
+- [x] Exported to iLibrary Tuesday 27 October 2020 at 20:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 26 October 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 27 October 2020 at 20:00
 
 ### Additional Information
 
@@ -519,9 +519,9 @@ Thursday 26 November 2020 at 17:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 26 October 2020 at 20:32
+- [x] Exported to iLibrary Tuesday 27 October 2020 at 20:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 26 October 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 27 October 2020 at 20:00
 
 ### Additional Information
 
@@ -552,6 +552,52 @@ Friday 27 November 2020 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Regions and Cities at a Glance 2020](https://doi.org/10.1787/959d5ba0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 November 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Harmful Tax Practices – 2019 Peer Review Reports on the Exchange of Information on Tax Rulings - Inclusive Framework on BEPS: Action 5 ](https://doi.org/10.1787/afd1bf8c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 3 December 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
