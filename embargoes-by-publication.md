@@ -2,122 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 27 October 2020 at 20:57* | [See embargoes by date](embargoes-by-date.md) |
-
-## [A territorial approach to the Sustainable Development Goals in Bonn, Germany ](https://doi.org/10.1787/bbf7e6b1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 26 October 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 27 October 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Going Digital in Brazil](https://doi.org/10.1787/e9bf7f8a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 26 October 2020 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
-- [x] Exported to Keepeek Monday 26 October 2020 at 20:16
-- [x] Exported to OECD.org Tuesday 27 October 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Avaliação da OCDE sobre Telecomunicações e Radiodifusão no Brasil 2020](https://doi.org/10.1787/0a4936dd-pt)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 26 October 2020 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 22 October 2020 at 9:58
-- [x] Exported to Keepeek Thursday 22 October 2020 at 10:35
-- [x] Exported to OECD.org Tuesday 27 October 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Portuguese*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [A Caminho da Era Digital no Brasil](https://doi.org/10.1787/45a84b29-pt)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 26 October 2020 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 26 October 2020 at 20:32
-- [x] Exported to Keepeek Monday 26 October 2020 at 20:16
-- [x] Exported to OECD.org Tuesday 27 October 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Portuguese*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD Telecommunication and Broadcasting Review of Brazil 2020](https://doi.org/10.1787/30ab8568-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 26 October 2020 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 15 October 2020 at 20:34
-- [x] Exported to Keepeek Tuesday 27 October 2020 at 20:16
-- [x] Exported to OECD.org Tuesday 27 October 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Wednesday 28 October 2020 at 20:54* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Improving school quality in Norway 2020  - Progress with the Competence Development Model](https://doi.org/10.1787/98600316-en)
 
@@ -130,7 +15,7 @@ Tuesday 27 October 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 October 2020 at 20:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 26 October 2020 at 19:59
+- [x] Exported to OECD.org Wednesday 28 October 2020 at 19:59
 
 ### Additional Information
 
@@ -169,14 +54,14 @@ Wednesday 28 October 2020 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 6 November 2020 at 8:30 | no launch event
+Friday 6 November 2020 at 8:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 22 October 2020 at 20:25
+- [x] Exported to iLibrary Wednesday 28 October 2020 at 20:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 22 October 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 28 October 2020 at 19:59
 
 ### Additional Information
 
@@ -220,9 +105,9 @@ Thursday 12 November 2020 at 13:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 26 October 2020 at 20:32
+- [x] Exported to iLibrary Wednesday 28 October 2020 at 20:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 26 October 2020 at 19:59
+- [x] Exported to OECD.org Wednesday 28 October 2020 at 19:59
 
 ### Additional Information
 
@@ -576,6 +461,29 @@ Monday 30 November 2020 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Education in Ireland - An OECD Assessment of the Senior Cycle Review](https://doi.org/10.1787/636bc6c1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 1 December 2020 at 11:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 28 October 2020 at 20:30
+- [x] Exported to Keepeek Monday 14 September 2020 at 20:13
+- [x] Exported to OECD.org Wednesday 28 October 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
