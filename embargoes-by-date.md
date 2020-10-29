@@ -2,12 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 28 October 2020 at 20:54* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 29 October 2020 at 20:46* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [27 October 2020](#27-october-2020)
 * [28 October 2020](#28-october-2020)
 * [6 November 2020](#6-november-2020)
 * [9 November 2020](#9-november-2020)
+* [10 November 2020](#10-november-2020)
 * [12 November 2020](#12-november-2020)
 * [13 November 2020](#13-november-2020)
 * [16 November 2020](#16-november-2020)
@@ -20,35 +20,9 @@ Data generated on | |
 * [30 November 2020](#30-november-2020)
 * [1 December 2020](#1-december-2020)
 * [3 December 2020](#3-december-2020)
+* [14 December 2020](#14-december-2020)
 * [17 December 2020](#17-december-2020)
 * [28 January 2021](#28-january-2021)
-
-------
-
-# 27 October 2020
-
-## [Improving school quality in Norway 2020  - Progress with the Competence Development Model](https://doi.org/10.1787/98600316-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 27 October 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 28 October 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -65,7 +39,7 @@ Wednesday 28 October 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 22 October 2020 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 27 October 2020 at 20:00
+- [x] Exported to OECD.org Thursday 29 October 2020 at 19:59
 
 ### Additional Information
 
@@ -90,9 +64,9 @@ Friday 6 November 2020 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 28 October 2020 at 20:30
+- [x] Exported to iLibrary Thursday 29 October 2020 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 28 October 2020 at 19:59
+- [x] Exported to OECD.org Thursday 29 October 2020 at 19:59
 
 ### Additional Information
 
@@ -127,6 +101,33 @@ Monday 9 November 2020 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 10 November 2020
+
+## [An implementation framework for effective change in schools](https://doi.org/10.1787/4fd4113f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 November 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 29 October 2020 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 29 October 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -212,29 +213,6 @@ Friday 13 November 2020 at 8:00 | no launch event
 
 # 16 November 2020
 
-## [Linking Indigenous Communities with Regional Development in Australia](https://doi.org/10.1787/ab4d8d52-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 November 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [Shaping the Future of Regulators - The Impact of Emerging Technologies on Economic Regulators](https://doi.org/10.1787/db481aa3-en)
 
 Embargo date | Launch date
@@ -254,6 +232,29 @@ Monday 16 November 2020 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Teaching InSights - A Video Study of Teaching](https://doi.org/10.1787/20d6f36b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 November 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
@@ -525,15 +526,15 @@ Monday 30 November 2020 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 29 October 2020 at 20:17
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 29 October 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -590,6 +591,33 @@ Thursday 3 December 2020 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 14 December 2020
+
+## [Linking Indigenous Communities with Regional Development in Australia](https://doi.org/10.1787/ab4d8d52-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 December 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 29 October 2020 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 29 October 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
