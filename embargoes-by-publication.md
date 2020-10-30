@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 29 October 2020 at 20:46* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Teachers’ training and use of information and communications technology in the face of the COVID-19 crisis](https://doi.org/10.1787/696e0661-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 28 October 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 22 October 2020 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 29 October 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Friday 30 October 2020 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Climate Finance Provided and Mobilised by Developed Countries in 2013-18](https://doi.org/10.1787/f0773d55-en)
 

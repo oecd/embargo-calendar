@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 29 October 2020 at 20:46* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 30 October 2020 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [28 October 2020](#28-october-2020)
 * [6 November 2020](#6-november-2020)
 * [9 November 2020](#9-november-2020)
 * [10 November 2020](#10-november-2020)
@@ -23,33 +22,6 @@ Data generated on | |
 * [14 December 2020](#14-december-2020)
 * [17 December 2020](#17-december-2020)
 * [28 January 2021](#28-january-2021)
-
-------
-
-# 28 October 2020
-
-## [Teachers’ training and use of information and communications technology in the face of the COVID-19 crisis](https://doi.org/10.1787/696e0661-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 28 October 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 22 October 2020 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 29 October 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
