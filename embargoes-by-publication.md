@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 30 October 2020 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 2 November 2020 at 21:04* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Climate Finance Provided and Mobilised by Developed Countries in 2013-18](https://doi.org/10.1787/f0773d55-en)
 
@@ -36,9 +36,9 @@ Monday 9 November 2020 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 26 October 2020 at 20:32
+- [x] Exported to iLibrary Monday 2 November 2020 at 20:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 26 October 2020 at 19:59
+- [x] Exported to OECD.org Monday 2 November 2020 at 19:58
 
 ### Additional Information
 
@@ -427,9 +427,9 @@ Monday 30 November 2020 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 29 October 2020 at 20:17
+- [x] Exported to iLibrary Monday 2 November 2020 at 20:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 29 October 2020 at 19:59
+- [x] Exported to OECD.org Monday 2 November 2020 at 19:58
 
 ### Additional Information
 
