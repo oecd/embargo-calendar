@@ -2,12 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 2 November 2020 at 21:04* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 3 November 2020 at 20:58* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [6 November 2020](#6-november-2020)
 * [9 November 2020](#9-november-2020)
 * [10 November 2020](#10-november-2020)
-* [12 November 2020](#12-november-2020)
 * [13 November 2020](#13-november-2020)
 * [16 November 2020](#16-november-2020)
 * [17 November 2020](#17-november-2020)
@@ -19,6 +18,7 @@ Data generated on | |
 * [30 November 2020](#30-november-2020)
 * [1 December 2020](#1-december-2020)
 * [3 December 2020](#3-december-2020)
+* [7 December 2020](#7-december-2020)
 * [14 December 2020](#14-december-2020)
 * [17 December 2020](#17-december-2020)
 * [28 January 2021](#28-january-2021)
@@ -36,7 +36,7 @@ Friday 6 November 2020 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 29 October 2020 at 20:17
+- [x] Exported to iLibrary Tuesday 3 November 2020 at 20:29
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 29 October 2020 at 19:59
 
@@ -101,33 +101,6 @@ Tuesday 10 November 2020 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
-
-------
-
-------
-
-# 12 November 2020
-
-## [Revenue Statistics in Africa 2020 (en) | Statistiques des recettes publiques en Afrique 2020 - 1990-2018 (en) | 1990-2018](https://doi.org/10.1787/14e1edb1-en-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 November 2020 at 13:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 28 October 2020 at 20:30
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 28 October 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English | French*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
 
 ------
 
@@ -563,6 +536,33 @@ Thursday 3 December 2020 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 7 December 2020
+
+## [Revenue Statistics in Africa 2020 (en) | Statistiques des recettes publiques en Afrique 2020 - 1990-2018 (en) | 1990-2018](https://doi.org/10.1787/14e1edb1-en-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 December 2020 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 3 November 2020 at 20:29
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 3 November 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English | French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
