@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 3 November 2020 at 20:58* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 4 November 2020 at 20:54* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Climate Finance Provided and Mobilised by Developed Countries in 2013-18](https://doi.org/10.1787/f0773d55-en)
 
@@ -13,9 +13,9 @@ Friday 6 November 2020 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 3 November 2020 at 20:29
+- [x] Exported to iLibrary Wednesday 4 November 2020 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 29 October 2020 at 19:59
+- [x] Exported to OECD.org Wednesday 4 November 2020 at 20:01
 
 ### Additional Information
 
@@ -69,6 +69,29 @@ Tuesday 10 November 2020 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Revenue Statistics in Africa 2020 (en) | Statistiques des recettes publiques en Afrique 2020 - 1990-2018 (en) | 1990-2018](https://doi.org/10.1787/14e1edb1-en-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 November 2020 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 4 November 2020 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 4 November 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English | French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -461,29 +484,6 @@ Thursday 3 December 2020 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
-
-------
-
-## [Revenue Statistics in Africa 2020 (en) | Statistiques des recettes publiques en Afrique 2020 - 1990-2018 (en) | 1990-2018](https://doi.org/10.1787/14e1edb1-en-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 December 2020 at 13:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 3 November 2020 at 20:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 3 November 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English | French*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
 
 ------
 
