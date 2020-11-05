@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 4 November 2020 at 20:54* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 5 November 2020 at 20:57* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Climate Finance Provided and Mobilised by Developed Countries in 2013-18](https://doi.org/10.1787/f0773d55-en)
 
@@ -12,18 +12,18 @@ Friday 6 November 2020 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 4 November 2020 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 4 November 2020 at 20:01
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 5 November 2020 at 20:28
+- [x] Exported to Keepeek Thursday 5 November 2020 at 20:14
+- [x] Exported to OECD.org Thursday 5 November 2020 at 20:01
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -35,16 +35,16 @@ Monday 9 November 2020 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 2 November 2020 at 20:32
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 2 November 2020 at 19:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 5 November 2020 at 20:28
+- [x] Exported to Keepeek Thursday 5 November 2020 at 20:14
+- [x] Exported to OECD.org Thursday 5 November 2020 at 20:01
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -100,22 +100,22 @@ Thursday 12 November 2020 at 13:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 13 November 2020 at 8:00 | no launch event
+Friday 13 November 2020 at 13:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 5 November 2020 at 20:28
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 5 November 2020 at 20:01
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -123,22 +123,22 @@ Friday 13 November 2020 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 13 November 2020 at 8:00 | no launch event
+Friday 13 November 2020 at 13:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 5 November 2020 at 20:28
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 5 November 2020 at 20:01
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -220,15 +220,15 @@ Tuesday 17 November 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 5 November 2020 at 20:28
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 5 November 2020 at 20:01
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -243,15 +243,15 @@ Tuesday 17 November 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 5 November 2020 at 20:28
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 5 November 2020 at 20:01
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
