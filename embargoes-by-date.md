@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 5 November 2020 at 20:57* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 6 November 2020 at 20:59* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [6 November 2020](#6-november-2020)
 * [9 November 2020](#9-november-2020)
@@ -64,8 +64,8 @@ Monday 9 November 2020 at 11:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 5 November 2020 at 20:28
-- [x] Exported to Keepeek Thursday 5 November 2020 at 20:14
-- [x] Exported to OECD.org Thursday 5 November 2020 at 20:01
+- [x] Exported to Keepeek Friday 6 November 2020 at 20:13
+- [x] Exported to OECD.org Friday 6 November 2020 at 19:57
 
 ### Additional Information
 
@@ -135,6 +135,29 @@ Thursday 12 November 2020 at 13:00 | no launch event
 
 # 13 November 2020
 
+## [Economic Outlook for Southeast Asia, China and India 2020 – November Update - Ongoing Challenges of COVID-19](https://doi.org/10.1787/5bdef80e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 13 November 2020 at 2:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 6 November 2020 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 6 November 2020 at 19:57
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
 ## [OECD Environmental Performance Reviews: Luxembourg 2020](https://doi.org/10.1787/fd9f43e6-en)
 
 Embargo date | Launch date
@@ -143,10 +166,10 @@ Friday 13 November 2020 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 5 November 2020 at 20:28
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 6 November 2020 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 5 November 2020 at 20:01
+- [x] Exported to OECD.org Friday 6 November 2020 at 19:57
 
 ### Additional Information
 
@@ -166,16 +189,16 @@ Friday 13 November 2020 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 5 November 2020 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 5 November 2020 at 20:01
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 6 November 2020 at 20:28
+- [x] Exported to Keepeek Friday 6 November 2020 at 20:13
+- [x] Exported to OECD.org Friday 6 November 2020 at 19:57
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -240,15 +263,15 @@ Monday 16 November 2020 at 16:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 6 November 2020 at 20:28
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 6 November 2020 at 19:57
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -290,9 +313,9 @@ Tuesday 17 November 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 5 November 2020 at 20:28
+- [x] Exported to iLibrary Friday 6 November 2020 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 5 November 2020 at 20:01
+- [x] Exported to OECD.org Friday 6 November 2020 at 19:57
 
 ### Additional Information
 
@@ -334,6 +357,29 @@ Thursday 19 November 2020 at 10:00 | no launch event
 ------
 
 # 23 November 2020
+
+## [OECD Science, Technology and Innovation Outlook 2020 - Science and Innovation in Times of Crisis](https://doi.org/10.1787/75f79015-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 November 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 6 November 2020 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 6 November 2020 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [Les défis fiscaux soulevés par la numérisation de l’économie – Évaluation d’impact économique - Cadre inclusif sur le BEPS](https://doi.org/10.1787/044011c1-fr)
 
@@ -552,15 +598,15 @@ Thursday 3 December 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 6 November 2020 at 20:28
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 6 November 2020 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -579,7 +625,7 @@ Monday 14 December 2020 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 29 October 2020 at 20:17
+- [x] Exported to iLibrary Friday 6 November 2020 at 20:28
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 29 October 2020 at 19:59
 
