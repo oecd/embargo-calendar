@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 6 November 2020 at 20:59* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Climate Finance Provided and Mobilised by Developed Countries in 2013-18](https://doi.org/10.1787/f0773d55-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 6 November 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 5 November 2020 at 20:28
-- [x] Exported to Keepeek Thursday 5 November 2020 at 20:14
-- [x] Exported to OECD.org Thursday 5 November 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
+| *Monday 9 November 2020 at 21:01* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Global Outlook on Financing for Sustainable Development 2021 - A New Way to Invest for People and Planet](https://doi.org/10.1787/e3c30a9a-en)
 
@@ -73,6 +50,29 @@ Tuesday 10 November 2020 at 8:00 | no launch event
 
 ------
 
+## [OECD Development Co-operation Peer Reviews: United Kingdom 2020](https://doi.org/10.1787/43b42243-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 November 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 9 November 2020 at 20:26
+- [x] Exported to Keepeek Monday 9 November 2020 at 20:05
+- [x] Exported to OECD.org Friday 6 November 2020 at 19:57
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
 ## [Revenue Statistics in Africa 2020 (en) | Statistiques des recettes publiques en Afrique 2020 - 1990-2018 (en) | 1990-2018](https://doi.org/10.1787/14e1edb1-en-fr)
 
 Embargo date | Launch date
@@ -81,18 +81,18 @@ Thursday 12 November 2020 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 4 November 2020 at 20:28
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 9 November 2020 at 20:26
+- [x] Exported to Keepeek Monday 9 November 2020 at 20:05
 - [x] Exported to OECD.org Wednesday 4 November 2020 at 20:01
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English | French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -105,7 +105,7 @@ Friday 13 November 2020 at 2:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 6 November 2020 at 20:28
+- [x] Exported to iLibrary Monday 9 November 2020 at 20:26
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 6 November 2020 at 19:57
 
@@ -115,6 +115,29 @@ Friday 13 November 2020 at 2:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
+## [Challenges in access to oncology medicines - Policies and practices across the OECD and the EU](https://doi.org/10.1787/4b2e9cb9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 13 November 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 9 November 2020 at 20:26
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -165,6 +188,29 @@ Friday 13 November 2020 at 13:00 | no launch event
 
 ------
 
+## [The uncertain promise of blockchain for government](https://doi.org/10.1787/d031cd67-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 November 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 9 November 2020 at 20:26
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Shaping the Future of Regulators - The Impact of Emerging Technologies on Economic Regulators](https://doi.org/10.1787/db481aa3-en)
 
 Embargo date | Launch date
@@ -197,7 +243,7 @@ Monday 16 November 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 9 November 2020 at 20:26
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -205,7 +251,7 @@ Monday 16 November 2020 at 10:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -220,7 +266,7 @@ Monday 16 November 2020 at 16:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 6 November 2020 at 20:28
+- [x] Exported to iLibrary Monday 9 November 2020 at 20:26
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 6 November 2020 at 19:57
 
@@ -289,7 +335,7 @@ Thursday 19 November 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 27 October 2020 at 20:30
+- [x] Exported to iLibrary Monday 9 November 2020 at 20:26
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 27 October 2020 at 20:00
 
@@ -349,6 +395,52 @@ Monday 23 November 2020 at 10:00 | no launch event
 
 ------
 
+## [OECD Investment Policy Reviews: Myanmar 2020](https://doi.org/10.1787/d7984f44-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 November 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 9 November 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 4 November 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [What Students Learn Matters - Towards a 21st Century Curriculum](https://doi.org/10.1787/d86d4d9a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 November 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Statistiques des recettes publiques 2020](https://doi.org/10.1787/c6381ca6-fr)
 
 Embargo date | Launch date
@@ -368,6 +460,29 @@ Tuesday 24 November 2020 at 10:00 | no launch event
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Curriculum Overload - A Way Forward](https://doi.org/10.1787/3081ceca-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 November 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
@@ -528,6 +643,98 @@ Thursday 3 December 2020 at 10:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Peer Review of the Automatic Exchange of Financial Account Information 2020](https://doi.org/10.1787/175eeff4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 December 2020 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 9 November 2020 at 20:26
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Slovak Republic 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/960316d9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 11 December 2020 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Dominica 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/b6dd4a18-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 11 December 2020 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Cyprus 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/5a08658c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 11 December 2020 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
