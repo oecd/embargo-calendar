@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2020-11-09T21:01:31.7015298+01:00">
+<report name="official-embargoes" generated="2020-11-10T20:54:48.1277934+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -53,9 +53,9 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-11-05T19:28:55Z</cell>
     <cell name="freepreview last export date">2020-11-06T19:13:54Z</cell>
-    <cell name="oecd.org last export date">2020-11-06T18:57:54Z</cell>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="oecd.org last export date">2020-11-10T18:59:50Z</cell>
+    <cell name="discoveryservice last export date">2020-11-09T20:26:02Z</cell>
+    <cell name="google last export date">2020-11-09T20:18:22Z</cell>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8082a0de</cell>
@@ -73,7 +73,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-10-29T19:17:12Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-10-29T18:59:55Z</cell>
+    <cell name="oecd.org last export date">2020-11-10T09:46:07Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -193,7 +193,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-11-09T19:26:00Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-11-06T18:57:54Z</cell>
+    <cell name="oecd.org last export date">2020-11-10T09:46:07Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -492,7 +492,7 @@
     <cell name="embargo date">2020-11-12T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-11-09T19:26:00Z</cell>
-    <cell name="freepreview last export date">2020-11-09T19:05:56Z</cell>
+    <cell name="freepreview last export date">2020-11-10T19:12:25Z</cell>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
@@ -912,8 +912,8 @@
     <cell name="embargo date">2020-11-12T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-11-09T19:26:00Z</cell>
-    <cell name="freepreview last export date">2020-11-09T19:05:56Z</cell>
-    <cell name="oecd.org last export date">2020-11-06T18:57:54Z</cell>
+    <cell name="freepreview last export date">2020-11-10T19:12:25Z</cell>
+    <cell name="oecd.org last export date">2020-11-10T09:46:07Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -1293,7 +1293,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-11-09T19:26:00Z</cell>
     <cell name="freepreview last export date">2020-11-09T19:05:56Z</cell>
-    <cell name="oecd.org last export date">2020-11-04T19:01:33Z</cell>
+    <cell name="oecd.org last export date">2020-11-10T09:46:07Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -1333,7 +1333,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-11-09T19:26:00Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-11-06T18:57:54Z</cell>
+    <cell name="oecd.org last export date">2020-11-10T09:46:07Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Issue</cell>
@@ -1353,7 +1353,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-11-09T19:26:00Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2020-11-10T09:46:07Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -1361,26 +1361,6 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/77e9a2b2</cell>
   </row>
   <row index="68">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/fd9f43e6-en</cell>
-    <cell name="title">OECD Environmental Performance Reviews: Luxembourg 2020 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2020-11-13</cell>
-    <cell name="embargo date">2020-11-13T13:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-11-06T19:28:58Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-11-06T18:57:54Z</cell>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5943a7f</cell>
-  </row>
-  <row index="69">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/91951f4d-fr</cell>
     <cell name="title">Examens environnementaux de l'OCDE : Luxembourg 2020 (fr)</cell>
@@ -1400,7 +1380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41f25a64</cell>
   </row>
-  <row index="70">
+  <row index="69">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/fd9f43e6-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Luxembourg 2020 (en)</cell>
@@ -1420,6 +1400,26 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5c323666</cell>
   </row>
+  <row index="70">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/fd9f43e6-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: Luxembourg 2020 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2020-11-13</cell>
+    <cell name="embargo date">2020-11-13T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2020-11-10T19:27:15Z</cell>
+    <cell name="freepreview last export date">2020-11-10T19:12:25Z</cell>
+    <cell name="oecd.org last export date">2020-11-10T18:59:50Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5943a7f</cell>
+  </row>
   <row index="71">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/91951f4d-fr</cell>
@@ -1429,11 +1429,11 @@
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2020-11-13</cell>
-    <cell name="embargo date">2020-11-13T13:00:00Z</cell>
+    <cell name="embargo date">2020-11-13T14:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2020-11-06T19:28:58Z</cell>
-    <cell name="freepreview last export date">2020-11-06T19:13:54Z</cell>
-    <cell name="oecd.org last export date">2020-11-06T18:57:54Z</cell>
+    <cell name="ilibrary last export date">2020-11-10T19:27:15Z</cell>
+    <cell name="freepreview last export date">2020-11-10T19:12:25Z</cell>
+    <cell name="oecd.org last export date">2020-11-10T18:59:50Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -1453,7 +1453,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-11-09T19:26:00Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2020-11-10T09:46:07Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -1468,7 +1468,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2020-11-16</cell>
     <cell name="embargo date">2020-11-16T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1487,13 +1487,13 @@
     <cell name="subtitle">The Impact of Emerging Technologies on Economic Regulators (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2020-11-16</cell>
     <cell name="embargo date">2020-11-16T08:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2020-11-10T19:27:15Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2020-11-10T18:59:50Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -1513,7 +1513,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-11-09T19:26:00Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2020-11-10T09:46:07Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -1553,7 +1553,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-11-09T19:26:00Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-11-06T18:57:54Z</cell>
+    <cell name="oecd.org last export date">2020-11-10T09:46:07Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Economic survey</cell>
@@ -1673,7 +1673,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-11-09T19:26:00Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-10-27T19:00:16Z</cell>
+    <cell name="oecd.org last export date">2020-11-10T09:46:07Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -1713,7 +1713,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-11-06T19:28:58Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-11-06T18:57:54Z</cell>
+    <cell name="oecd.org last export date">2020-11-10T18:59:50Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -1793,7 +1793,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-11-09T19:26:00Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2020-11-04T19:01:33Z</cell>
+    <cell name="oecd.org last export date">2020-11-10T09:46:07Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -2213,7 +2213,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2020-11-09T19:26:00Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2020-11-10T09:46:07Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>

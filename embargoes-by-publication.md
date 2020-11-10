@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 9 November 2020 at 21:01* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 10 November 2020 at 20:54* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Global Outlook on Financing for Sustainable Development 2021 - A New Way to Invest for People and Planet](https://doi.org/10.1787/e3c30a9a-en)
 
@@ -15,7 +15,7 @@ Monday 9 November 2020 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 5 November 2020 at 20:28
 - [x] Exported to Keepeek Friday 6 November 2020 at 20:13
-- [x] Exported to OECD.org Friday 6 November 2020 at 19:57
+- [x] Exported to OECD.org Tuesday 10 November 2020 at 19:59
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Tuesday 10 November 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 29 October 2020 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 29 October 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 10 November 2020 at 10:46
 
 ### Additional Information
 
@@ -60,8 +60,8 @@ Thursday 12 November 2020 at 8:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 9 November 2020 at 20:26
-- [x] Exported to Keepeek Monday 9 November 2020 at 20:05
-- [x] Exported to OECD.org Friday 6 November 2020 at 19:57
+- [x] Exported to Keepeek Tuesday 10 November 2020 at 20:12
+- [x] Exported to OECD.org Tuesday 10 November 2020 at 10:46
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Thursday 12 November 2020 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 9 November 2020 at 20:26
 - [x] Exported to Keepeek Monday 9 November 2020 at 20:05
-- [x] Exported to OECD.org Wednesday 4 November 2020 at 20:01
+- [x] Exported to OECD.org Tuesday 10 November 2020 at 10:46
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Friday 13 November 2020 at 2:00 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Monday 9 November 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 6 November 2020 at 19:57
+- [x] Exported to OECD.org Tuesday 10 November 2020 at 10:46
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Friday 13 November 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 9 November 2020 at 20:26
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 10 November 2020 at 10:46
 
 ### Additional Information
 
@@ -146,20 +146,20 @@ Friday 13 November 2020 at 6:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 13 November 2020 at 13:00 | no launch event
+Friday 13 November 2020 at 14:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 6 November 2020 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 6 November 2020 at 19:57
+- [x] Exported to iLibrary Tuesday 10 November 2020 at 20:27
+- [x] Exported to Keepeek Tuesday 10 November 2020 at 20:12
+- [x] Exported to OECD.org Tuesday 10 November 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -169,14 +169,14 @@ Friday 13 November 2020 at 13:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 13 November 2020 at 13:00 | no launch event
+Friday 13 November 2020 at 14:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 6 November 2020 at 20:28
-- [x] Exported to Keepeek Friday 6 November 2020 at 20:13
-- [x] Exported to OECD.org Friday 6 November 2020 at 19:57
+- [x] Exported to iLibrary Tuesday 10 November 2020 at 20:27
+- [x] Exported to Keepeek Tuesday 10 November 2020 at 20:12
+- [x] Exported to OECD.org Tuesday 10 November 2020 at 19:59
 
 ### Additional Information
 
@@ -199,7 +199,7 @@ Monday 16 November 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 9 November 2020 at 20:26
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 10 November 2020 at 10:46
 
 ### Additional Information
 
@@ -220,15 +220,15 @@ Monday 16 November 2020 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 10 November 2020 at 20:27
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 10 November 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -245,7 +245,7 @@ Monday 16 November 2020 at 10:00 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Monday 9 November 2020 at 20:26
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 10 November 2020 at 10:46
 
 ### Additional Information
 
@@ -268,7 +268,7 @@ Monday 16 November 2020 at 16:00 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Monday 9 November 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 6 November 2020 at 19:57
+- [x] Exported to OECD.org Tuesday 10 November 2020 at 10:46
 
 ### Additional Information
 
@@ -337,7 +337,7 @@ Thursday 19 November 2020 at 10:00 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Monday 9 November 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 27 October 2020 at 20:00
+- [x] Exported to OECD.org Tuesday 10 November 2020 at 10:46
 
 ### Additional Information
 
@@ -360,7 +360,7 @@ Monday 23 November 2020 at 8:00 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Friday 6 November 2020 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 6 November 2020 at 19:57
+- [x] Exported to OECD.org Tuesday 10 November 2020 at 19:59
 
 ### Additional Information
 
@@ -406,7 +406,7 @@ Tuesday 24 November 2020 at 9:00 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Monday 9 November 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 4 November 2020 at 20:01
+- [x] Exported to OECD.org Tuesday 10 November 2020 at 10:46
 
 ### Additional Information
 
@@ -659,7 +659,7 @@ Wednesday 9 December 2020 at 11:00 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Monday 9 November 2020 at 20:26
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 10 November 2020 at 10:46
 
 ### Additional Information
 
