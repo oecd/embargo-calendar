@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 10 November 2020 at 20:54* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 11 November 2020 at 20:51* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [9 November 2020](#9-november-2020)
 * [10 November 2020](#10-november-2020)
 * [12 November 2020](#12-november-2020)
 * [13 November 2020](#13-november-2020)
@@ -26,33 +25,6 @@ Data generated on | |
 
 ------
 
-# 9 November 2020
-
-## [Global Outlook on Financing for Sustainable Development 2021 - A New Way to Invest for People and Planet](https://doi.org/10.1787/e3c30a9a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 November 2020 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 5 November 2020 at 20:28
-- [x] Exported to Keepeek Friday 6 November 2020 at 20:13
-- [x] Exported to OECD.org Tuesday 10 November 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-------
-
 # 10 November 2020
 
 ## [An implementation framework for effective change in schools](https://doi.org/10.1787/4fd4113f-en)
@@ -66,7 +38,7 @@ Tuesday 10 November 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 29 October 2020 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 10 November 2020 at 10:46
+- [x] Exported to OECD.org Wednesday 11 November 2020 at 19:57
 
 ### Additional Information
 
@@ -93,7 +65,7 @@ Thursday 12 November 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 9 November 2020 at 20:26
 - [x] Exported to Keepeek Tuesday 10 November 2020 at 20:12
-- [x] Exported to OECD.org Tuesday 10 November 2020 at 10:46
+- [x] Exported to OECD.org Wednesday 11 November 2020 at 19:57
 
 ### Additional Information
 
@@ -101,7 +73,7 @@ Thursday 12 November 2020 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -116,7 +88,7 @@ Thursday 12 November 2020 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 9 November 2020 at 20:26
 - [x] Exported to Keepeek Monday 9 November 2020 at 20:05
-- [x] Exported to OECD.org Tuesday 10 November 2020 at 10:46
+- [x] Exported to OECD.org Wednesday 11 November 2020 at 19:57
 
 ### Additional Information
 
@@ -166,7 +138,7 @@ Friday 13 November 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 9 November 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 10 November 2020 at 10:46
+- [x] Exported to OECD.org Wednesday 11 November 2020 at 19:57
 
 ### Additional Information
 
