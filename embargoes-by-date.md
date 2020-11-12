@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 11 November 2020 at 20:51* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 12 November 2020 at 20:55* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [10 November 2020](#10-november-2020)
 * [12 November 2020](#12-november-2020)
 * [13 November 2020](#13-november-2020)
 * [16 November 2020](#16-november-2020)
@@ -17,38 +16,13 @@ Data generated on | |
 * [30 November 2020](#30-november-2020)
 * [1 December 2020](#1-december-2020)
 * [3 December 2020](#3-december-2020)
+* [4 December 2020](#4-december-2020)
 * [9 December 2020](#9-december-2020)
 * [11 December 2020](#11-december-2020)
 * [14 December 2020](#14-december-2020)
+* [15 December 2020](#15-december-2020)
 * [17 December 2020](#17-december-2020)
 * [28 January 2021](#28-january-2021)
-
-------
-
-# 10 November 2020
-
-## [An implementation framework for effective change in schools](https://doi.org/10.1787/4fd4113f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 10 November 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 29 October 2020 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 11 November 2020 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -112,16 +86,16 @@ Friday 13 November 2020 at 2:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 9 November 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 10 November 2020 at 10:46
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 12 November 2020 at 20:26
+- [x] Exported to Keepeek Thursday 12 November 2020 at 20:12
+- [x] Exported to OECD.org Thursday 12 November 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Issue*
 * Format: *PDF*
 
@@ -161,7 +135,7 @@ Friday 13 November 2020 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 10 November 2020 at 20:27
 - [x] Exported to Keepeek Tuesday 10 November 2020 at 20:12
-- [x] Exported to OECD.org Tuesday 10 November 2020 at 19:59
+- [x] Exported to OECD.org Thursday 12 November 2020 at 19:59
 
 ### Additional Information
 
@@ -184,7 +158,7 @@ Friday 13 November 2020 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 10 November 2020 at 20:27
 - [x] Exported to Keepeek Tuesday 10 November 2020 at 20:12
-- [x] Exported to OECD.org Tuesday 10 November 2020 at 19:59
+- [x] Exported to OECD.org Thursday 12 November 2020 at 19:59
 
 ### Additional Information
 
@@ -223,6 +197,29 @@ Monday 16 November 2020 at 6:00 | no launch event
 
 ------
 
+## [A territorial approach to the Sustainable Development Goals in Flanders, Belgium](https://doi.org/10.1787/cb4fb76b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 November 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 12 November 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 12 November 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Shaping the Future of Regulators - The Impact of Emerging Technologies on Economic Regulators](https://doi.org/10.1787/db481aa3-en)
 
 Embargo date | Launch date
@@ -231,18 +228,18 @@ Monday 16 November 2020 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 10 November 2020 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 10 November 2020 at 19:59
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 12 November 2020 at 20:26
+- [x] Exported to Keepeek Thursday 12 November 2020 at 20:12
+- [x] Exported to OECD.org Thursday 12 November 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -255,9 +252,9 @@ Monday 16 November 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 9 November 2020 at 20:26
+- [x] Exported to iLibrary Thursday 12 November 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 10 November 2020 at 10:46
+- [x] Exported to OECD.org Thursday 12 November 2020 at 19:59
 
 ### Additional Information
 
@@ -265,30 +262,7 @@ Monday 16 November 2020 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Lithuania 2020](https://doi.org/10.1787/62663b1d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 November 2020 at 16:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 9 November 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 10 November 2020 at 10:46
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -305,7 +279,7 @@ Tuesday 17 November 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 5 November 2020 at 20:28
+- [x] Exported to iLibrary Thursday 12 November 2020 at 20:26
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 5 November 2020 at 20:01
 
@@ -328,7 +302,7 @@ Tuesday 17 November 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 6 November 2020 at 20:28
+- [x] Exported to iLibrary Thursday 12 November 2020 at 20:26
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 6 November 2020 at 19:57
 
@@ -373,7 +347,7 @@ Thursday 19 November 2020 at 10:00 | no launch event
 
 # 23 November 2020
 
-## [OECD Science, Technology and Innovation Outlook 2020 - Science and Innovation in Times of Crisis](https://doi.org/10.1787/75f79015-en)
+## [OECD Science, Technology and Innovation Outlook 2020 - Times of Crisis and Opportunity](https://doi.org/10.1787/75f79015-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -382,9 +356,9 @@ Monday 23 November 2020 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 6 November 2020 at 20:28
+- [x] Exported to iLibrary Thursday 12 November 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 10 November 2020 at 19:59
+- [x] Exported to OECD.org Thursday 12 November 2020 at 19:59
 
 ### Additional Information
 
@@ -405,7 +379,7 @@ Monday 23 November 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 27 October 2020 at 20:30
+- [x] Exported to iLibrary Thursday 12 November 2020 at 20:26
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 27 October 2020 at 20:00
 
@@ -415,6 +389,29 @@ Monday 23 November 2020 at 10:00 | no launch event
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Lithuania 2020](https://doi.org/10.1787/62663b1d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 November 2020 at 16:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 12 November 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 12 November 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
@@ -431,18 +428,18 @@ Tuesday 24 November 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 9 November 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 10 November 2020 at 10:46
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 12 November 2020 at 20:26
+- [x] Exported to Keepeek Thursday 12 November 2020 at 20:12
+- [x] Exported to OECD.org Thursday 12 November 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -511,52 +508,6 @@ Tuesday 24 November 2020 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Consumption Tax Trends 2020 - VAT/GST and Excise Rates, Trends and Policy Issues](https://doi.org/10.1787/152def2d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 24 November 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Revenue Statistics 2020](https://doi.org/10.1787/8625f8e5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 24 November 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 19 October 2020 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 October 2020 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -673,6 +624,52 @@ Tuesday 1 December 2020 at 11:00 | no launch event
 
 # 3 December 2020
 
+## [Consumption Tax Trends 2020 - VAT/GST and Excise Rates, Trends and Policy Issues](https://doi.org/10.1787/152def2d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 3 December 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Revenue Statistics 2020](https://doi.org/10.1787/8625f8e5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 3 December 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 12 November 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 12 November 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Harmful Tax Practices – 2019 Peer Review Reports on the Exchange of Information on Tax Rulings - Inclusive Framework on BEPS: Action 5 ](https://doi.org/10.1787/afd1bf8c-en)
 
 Embargo date | Launch date
@@ -682,7 +679,7 @@ Thursday 3 December 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 6 November 2020 at 20:28
+- [x] Exported to iLibrary Thursday 12 November 2020 at 20:26
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 6 November 2020 at 19:57
 
@@ -692,6 +689,33 @@ Thursday 3 December 2020 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 4 December 2020
+
+## [OECD Economic Surveys: Brazil 2020](https://doi.org/10.1787/250240ad-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 4 December 2020 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
@@ -820,6 +844,33 @@ Monday 14 December 2020 at 7:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+------
+
+# 15 December 2020
+
+## [Lessons for Education from COVID-19 - A Policymaker’s Handbook for More Resilient Systems](https://doi.org/10.1787/0a530888-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 December 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
