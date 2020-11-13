@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 12 November 2020 at 20:55* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 13 November 2020 at 20:55* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Development Co-operation Peer Reviews: United Kingdom 2020](https://doi.org/10.1787/43b42243-en)
 
@@ -13,9 +13,9 @@ Thursday 12 November 2020 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 November 2020 at 20:26
+- [x] Exported to iLibrary Friday 13 November 2020 at 20:26
 - [x] Exported to Keepeek Tuesday 10 November 2020 at 20:12
-- [x] Exported to OECD.org Wednesday 11 November 2020 at 19:57
+- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Thursday 12 November 2020 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 9 November 2020 at 20:26
 - [x] Exported to Keepeek Monday 9 November 2020 at 20:05
-- [x] Exported to OECD.org Wednesday 11 November 2020 at 19:57
+- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Monday 16 November 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 9 November 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 10 November 2020 at 10:46
+- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
 
 ### Additional Information
 
@@ -176,7 +176,53 @@ Monday 16 November 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 12 November 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 12 November 2020 at 19:59
+- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [A territorial approach to the Sustainable Development Goals in Viken, Norway](https://doi.org/10.1787/dc1b182d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 November 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 13 November 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [A territorial approach to the Sustainable Development Goals in Southern Denmark, Denmark](https://doi.org/10.1787/8d672234-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 November 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 13 November 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
 
 ### Additional Information
 
@@ -197,9 +243,9 @@ Monday 16 November 2020 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 November 2020 at 20:26
+- [x] Exported to iLibrary Friday 13 November 2020 at 20:26
 - [x] Exported to Keepeek Thursday 12 November 2020 at 20:12
-- [x] Exported to OECD.org Thursday 12 November 2020 at 19:59
+- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
 
 ### Additional Information
 
@@ -219,64 +265,41 @@ Monday 16 November 2020 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 12 November 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 12 November 2020 at 19:59
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 13 November 2020 at 20:26
+- [x] Exported to Keepeek Friday 13 November 2020 at 20:12
+- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
-## [Les défis fiscaux soulevés par la numérisation – Rapport sur le blueprint du Pilier Deux - Cadre inclusif sur le BEPS](https://doi.org/10.1787/6c4f8dde-fr)
+## [Modernising state-level regulation and policies to boost mobility in the United States](https://doi.org/10.1787/a06a959b-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 17 November 2020 at 10:00 | no launch event
+Tuesday 17 November 2020 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 12 November 2020 at 20:26
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 13 November 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 5 November 2020 at 20:01
+- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Les défis fiscaux soulevés par la numérisation – Rapport sur le blueprint du Pilier Un - Cadre inclusif sur le BEPS](https://doi.org/10.1787/3585df0b-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 November 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 12 November 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 6 November 2020 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -326,29 +349,6 @@ Monday 23 November 2020 at 8:00 | no launch event
 
 ------
 
-## [Les défis fiscaux soulevés par la numérisation de l’économie – Évaluation d’impact économique - Cadre inclusif sur le BEPS](https://doi.org/10.1787/044011c1-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 November 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 12 November 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 27 October 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [OECD Economic Surveys: Lithuania 2020](https://doi.org/10.1787/62663b1d-en)
 
 Embargo date | Launch date
@@ -381,9 +381,9 @@ Tuesday 24 November 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 November 2020 at 20:26
+- [x] Exported to iLibrary Friday 13 November 2020 at 20:26
 - [x] Exported to Keepeek Thursday 12 November 2020 at 20:12
-- [x] Exported to OECD.org Thursday 12 November 2020 at 19:59
+- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
 
 ### Additional Information
 
@@ -392,6 +392,29 @@ Tuesday 24 November 2020 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [OECD ရင်းနှီးမြှုပ်နှံမှုမူဝါဒလေ့လာသုံးသပ်ချက် - မြန်မာနိုင်ငံ ၂၀၂၀](https://doi.org/10.1787/1352ee2b-my)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 November 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 13 November 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *Burmese*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -760,6 +783,75 @@ Monday 14 December 2020 at 7:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Les défis fiscaux soulevés par la numérisation – Rapport sur le blueprint du Pilier Deux - Cadre inclusif sur le BEPS](https://doi.org/10.1787/6c4f8dde-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 December 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 13 November 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Les défis fiscaux soulevés par la numérisation – Rapport sur le blueprint du Pilier Un - Cadre inclusif sur le BEPS](https://doi.org/10.1787/3585df0b-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 December 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 13 November 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Les défis fiscaux soulevés par la numérisation de l’économie – Évaluation d’impact économique - Cadre inclusif sur le BEPS](https://doi.org/10.1787/044011c1-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 December 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 13 November 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
