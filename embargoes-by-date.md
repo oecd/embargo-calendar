@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 13 November 2020 at 20:55* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 16 November 2020 at 21:02* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 November 2020](#12-november-2020)
-* [13 November 2020](#13-november-2020)
 * [16 November 2020](#16-november-2020)
 * [17 November 2020](#17-november-2020)
 * [19 November 2020](#19-november-2020)
@@ -15,6 +13,7 @@ Data generated on | |
 * [27 November 2020](#27-november-2020)
 * [30 November 2020](#30-november-2020)
 * [1 December 2020](#1-december-2020)
+* [2 December 2020](#2-december-2020)
 * [3 December 2020](#3-december-2020)
 * [4 December 2020](#4-december-2020)
 * [9 December 2020](#9-december-2020)
@@ -22,153 +21,8 @@ Data generated on | |
 * [14 December 2020](#14-december-2020)
 * [15 December 2020](#15-december-2020)
 * [17 December 2020](#17-december-2020)
+* [12 January 2021](#12-january-2021)
 * [28 January 2021](#28-january-2021)
-
-------
-
-# 12 November 2020
-
-## [OECD Development Co-operation Peer Reviews: United Kingdom 2020](https://doi.org/10.1787/43b42243-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 November 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 13 November 2020 at 20:26
-- [x] Exported to Keepeek Tuesday 10 November 2020 at 20:12
-- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Revenue Statistics in Africa 2020 (en) | Statistiques des recettes publiques en Afrique 2020 - 1990-2018 (en) | 1990-2018](https://doi.org/10.1787/14e1edb1-en-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 November 2020 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 November 2020 at 20:26
-- [x] Exported to Keepeek Monday 9 November 2020 at 20:05
-- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English | French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 13 November 2020
-
-## [Economic Outlook for Southeast Asia, China and India 2020 – November Update - Ongoing Challenges of COVID-19](https://doi.org/10.1787/5bdef80e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 13 November 2020 at 2:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 November 2020 at 20:26
-- [x] Exported to Keepeek Thursday 12 November 2020 at 20:12
-- [x] Exported to OECD.org Thursday 12 November 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Format: *PDF*
-
-------
-
-## [Challenges in access to oncology medicines - Policies and practices across the OECD and the EU](https://doi.org/10.1787/4b2e9cb9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 13 November 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 November 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 11 November 2020 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Environmental Performance Reviews: Luxembourg 2020](https://doi.org/10.1787/fd9f43e6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 13 November 2020 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 November 2020 at 20:27
-- [x] Exported to Keepeek Tuesday 10 November 2020 at 20:12
-- [x] Exported to OECD.org Thursday 12 November 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Examens environnementaux de l'OCDE : Luxembourg 2020](https://doi.org/10.1787/91951f4d-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 13 November 2020 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 November 2020 at 20:27
-- [x] Exported to Keepeek Tuesday 10 November 2020 at 20:12
-- [x] Exported to OECD.org Thursday 12 November 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -327,11 +181,34 @@ Tuesday 17 November 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 13 November 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
+- [x] Exported to OECD.org Monday 16 November 2020 at 19:58
 
 ### Additional Information
 
 * Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Financing SMEs and Entrepreneurship: An OECD Scoreboard - Special edition: The impact of COVID-19](https://doi.org/10.1787/ecd81a65-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 17 November 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 16 November 2020 at 20:30
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 16 November 2020 at 19:58
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -351,47 +228,47 @@ Thursday 19 November 2020 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 9 November 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 10 November 2020 at 10:46
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 16 November 2020 at 20:30
+- [x] Exported to Keepeek Monday 16 November 2020 at 20:14
+- [x] Exported to OECD.org Monday 16 November 2020 at 19:58
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Give teachers a say - Facing the challenge of teachers’ work-related stress in the COVID-19 crisis](https://doi.org/10.1787/05da3183-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 November 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 16 November 2020 at 20:30
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 16 November 2020 at 19:58
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
 ------
 
 # 23 November 2020
-
-## [OECD Science, Technology and Innovation Outlook 2020 - Times of Crisis and Opportunity](https://doi.org/10.1787/75f79015-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 November 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 12 November 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 12 November 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
 
 ## [OECD Economic Surveys: Lithuania 2020](https://doi.org/10.1787/62663b1d-en)
 
@@ -452,9 +329,9 @@ Tuesday 24 November 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 13 November 2020 at 20:26
+- [x] Exported to iLibrary Monday 16 November 2020 at 20:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
+- [x] Exported to OECD.org Monday 16 November 2020 at 19:58
 
 ### Additional Information
 
@@ -485,29 +362,6 @@ Tuesday 24 November 2020 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Statistiques des recettes publiques 2020](https://doi.org/10.1787/c6381ca6-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 24 November 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 19 October 2020 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 October 2020 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -616,6 +470,29 @@ Monday 30 November 2020 at 8:00 | no launch event
 
 ------
 
+## [Building a High-Quality Early Childhood Education and Care Workforce - Further Results from the Starting Strong Survey 2018](https://doi.org/10.1787/b90bba3d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 November 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ------
 
 # 1 December 2020
@@ -645,7 +522,57 @@ Tuesday 1 December 2020 at 11:00 | no launch event
 
 ------
 
+# 2 December 2020
+
+## [Education in the Western Balkans - Insights from PISA](https://doi.org/10.1787/764847ff-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 2 December 2020 at 13:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 3 December 2020
+
+## [Statistiques des recettes publiques 2020](https://doi.org/10.1787/c6381ca6-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 3 December 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 16 November 2020 at 20:30
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 16 November 2020 at 19:58
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [Consumption Tax Trends 2020 - VAT/GST and Excise Rates, Trends and Policy Issues](https://doi.org/10.1787/152def2d-en)
 
@@ -988,6 +915,33 @@ Thursday 17 December 2020 at 10:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
 * Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 12 January 2021
+
+## [OECD Science, Technology and Innovation Outlook 2020 - Times of Crisis and Opportunity](https://doi.org/10.1787/75f79015-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 January 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 16 November 2020 at 20:30
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 16 November 2020 at 19:58
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
