@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 16 November 2020 at 21:02* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 17 November 2020 at 20:58* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The uncertain promise of blockchain for government](https://doi.org/10.1787/d031cd67-en)
 
@@ -15,7 +15,7 @@ Monday 16 November 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 9 November 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 17 November 2020 at 20:01
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 16 November 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 12 November 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 17 November 2020 at 20:01
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Monday 16 November 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 13 November 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 17 November 2020 at 20:01
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Monday 16 November 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 13 November 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 17 November 2020 at 20:01
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Monday 16 November 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 13 November 2020 at 20:26
 - [x] Exported to Keepeek Thursday 12 November 2020 at 20:12
-- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 17 November 2020 at 20:01
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Monday 16 November 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 13 November 2020 at 20:26
 - [x] Exported to Keepeek Friday 13 November 2020 at 20:12
-- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 17 November 2020 at 20:01
 
 ### Additional Information
 
@@ -165,7 +165,7 @@ Tuesday 17 November 2020 at 6:00 | no launch event
 
 ------
 
-## [Financing SMEs and Entrepreneurship: An OECD Scoreboard - Special edition: The impact of COVID-19](https://doi.org/10.1787/ecd81a65-en)
+## [The impact of COVID-19 on SME financing - A special edition of the OECD Financing SMEs and Entrepreneurs Scoreboard](https://doi.org/10.1787/ecd81a65-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -174,9 +174,9 @@ Tuesday 17 November 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 November 2020 at 20:30
+- [x] Exported to iLibrary Tuesday 17 November 2020 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 16 November 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 17 November 2020 at 20:01
 
 ### Additional Information
 
@@ -197,7 +197,7 @@ Thursday 19 November 2020 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 November 2020 at 20:30
+- [x] Exported to iLibrary Tuesday 17 November 2020 at 20:29
 - [x] Exported to Keepeek Monday 16 November 2020 at 20:14
 - [x] Exported to OECD.org Monday 16 November 2020 at 19:58
 
@@ -242,16 +242,16 @@ Monday 23 November 2020 at 16:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 12 November 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 12 November 2020 at 19:59
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 17 November 2020 at 20:29
+- [x] Exported to Keepeek Tuesday 17 November 2020 at 20:13
+- [x] Exported to OECD.org Tuesday 17 November 2020 at 20:01
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -437,6 +437,29 @@ Monday 30 November 2020 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Outlook, Volume 2020 Issue 2 - Preliminary version](https://doi.org/10.1787/39a88ab1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 1 December 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
 * Formats: *Paperback, PDF*
 
 ------
