@@ -2,13 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 17 November 2020 at 20:58* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 18 November 2020 at 21:06* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [16 November 2020](#16-november-2020)
 * [17 November 2020](#17-november-2020)
 * [19 November 2020](#19-november-2020)
 * [23 November 2020](#23-november-2020)
 * [24 November 2020](#24-november-2020)
+* [25 November 2020](#25-november-2020)
 * [26 November 2020](#26-november-2020)
 * [27 November 2020](#27-november-2020)
 * [30 November 2020](#30-november-2020)
@@ -26,148 +26,6 @@ Data generated on | |
 
 ------
 
-# 16 November 2020
-
-## [The uncertain promise of blockchain for government](https://doi.org/10.1787/d031cd67-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 November 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 November 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 17 November 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [A territorial approach to the Sustainable Development Goals in Flanders, Belgium](https://doi.org/10.1787/cb4fb76b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 November 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 November 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 17 November 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [A territorial approach to the Sustainable Development Goals in Viken, Norway](https://doi.org/10.1787/dc1b182d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 November 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 13 November 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 17 November 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [A territorial approach to the Sustainable Development Goals in Southern Denmark, Denmark](https://doi.org/10.1787/8d672234-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 November 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 13 November 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 17 November 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Shaping the Future of Regulators - The Impact of Emerging Technologies on Economic Regulators](https://doi.org/10.1787/db481aa3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 November 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 13 November 2020 at 20:26
-- [x] Exported to Keepeek Thursday 12 November 2020 at 20:12
-- [x] Exported to OECD.org Tuesday 17 November 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Global Teaching InSights - A Video Study of Teaching](https://doi.org/10.1787/20d6f36b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 November 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 13 November 2020 at 20:26
-- [x] Exported to Keepeek Friday 13 November 2020 at 20:12
-- [x] Exported to OECD.org Tuesday 17 November 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-------
-
 # 17 November 2020
 
 ## [Modernising state-level regulation and policies to boost mobility in the United States](https://doi.org/10.1787/a06a959b-en)
@@ -181,7 +39,7 @@ Tuesday 17 November 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 13 November 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 16 November 2020 at 19:58
+- [x] Exported to OECD.org Wednesday 18 November 2020 at 20:03
 
 ### Additional Information
 
@@ -204,7 +62,7 @@ Tuesday 17 November 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 17 November 2020 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 17 November 2020 at 20:01
+- [x] Exported to OECD.org Wednesday 18 November 2020 at 20:03
 
 ### Additional Information
 
@@ -231,7 +89,7 @@ Thursday 19 November 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 17 November 2020 at 20:29
 - [x] Exported to Keepeek Monday 16 November 2020 at 20:14
-- [x] Exported to OECD.org Monday 16 November 2020 at 19:58
+- [x] Exported to OECD.org Wednesday 18 November 2020 at 20:03
 
 ### Additional Information
 
@@ -254,7 +112,7 @@ Thursday 19 November 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 16 November 2020 at 20:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 16 November 2020 at 19:58
+- [x] Exported to OECD.org Wednesday 18 November 2020 at 20:03
 
 ### Additional Information
 
@@ -274,14 +132,14 @@ Thursday 19 November 2020 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 23 November 2020 at 16:00 | no launch event
+Monday 23 November 2020 at 12:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 17 November 2020 at 20:29
-- [x] Exported to Keepeek Tuesday 17 November 2020 at 20:13
-- [x] Exported to OECD.org Tuesday 17 November 2020 at 20:01
+- [x] Exported to iLibrary Wednesday 18 November 2020 at 20:35
+- [x] Exported to Keepeek Wednesday 18 November 2020 at 20:19
+- [x] Exported to OECD.org Wednesday 18 November 2020 at 20:03
 
 ### Additional Information
 
@@ -343,24 +201,28 @@ Tuesday 24 November 2020 at 9:00 | no launch event
 
 ------
 
+------
+
+# 25 November 2020
+
 ## [What Students Learn Matters - Towards a 21st Century Curriculum](https://doi.org/10.1787/d86d4d9a-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 24 November 2020 at 10:00 | no launch event
+Wednesday 25 November 2020 at 9:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 18 November 2020 at 20:35
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 18 November 2020 at 20:03
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -370,20 +232,20 @@ Tuesday 24 November 2020 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 24 November 2020 at 10:00 | no launch event
+Wednesday 25 November 2020 at 9:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 18 November 2020 at 20:35
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 18 November 2020 at 20:03
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -639,6 +501,29 @@ Thursday 3 December 2020 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Poland 2020](https://doi.org/10.1787/0e32d909-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 3 December 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
