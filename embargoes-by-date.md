@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 18 November 2020 at 21:06* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 19 November 2020 at 20:55* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [17 November 2020](#17-november-2020)
 * [19 November 2020](#19-november-2020)
 * [23 November 2020](#23-november-2020)
 * [24 November 2020](#24-november-2020)
@@ -23,56 +22,6 @@ Data generated on | |
 * [17 December 2020](#17-december-2020)
 * [12 January 2021](#12-january-2021)
 * [28 January 2021](#28-january-2021)
-
-------
-
-# 17 November 2020
-
-## [Modernising state-level regulation and policies to boost mobility in the United States](https://doi.org/10.1787/a06a959b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 November 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 13 November 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 18 November 2020 at 20:03
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [The impact of COVID-19 on SME financing - A special edition of the OECD Financing SMEs and Entrepreneurs Scoreboard](https://doi.org/10.1787/ecd81a65-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 November 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 17 November 2020 at 20:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 18 November 2020 at 20:03
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -137,8 +86,8 @@ Monday 23 November 2020 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 18 November 2020 at 20:35
-- [x] Exported to Keepeek Wednesday 18 November 2020 at 20:19
+- [x] Exported to iLibrary Thursday 19 November 2020 at 20:28
+- [x] Exported to Keepeek Thursday 19 November 2020 at 20:14
 - [x] Exported to OECD.org Wednesday 18 November 2020 at 20:03
 
 ### Additional Information
@@ -214,9 +163,9 @@ Wednesday 25 November 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 18 November 2020 at 20:35
+- [x] Exported to iLibrary Thursday 19 November 2020 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 18 November 2020 at 20:03
+- [x] Exported to OECD.org Thursday 19 November 2020 at 20:00
 
 ### Additional Information
 
@@ -291,9 +240,9 @@ Friday 27 November 2020 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 26 October 2020 at 20:32
+- [x] Exported to iLibrary Thursday 19 November 2020 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 26 October 2020 at 19:59
+- [x] Exported to OECD.org Thursday 19 November 2020 at 20:00
 
 ### Additional Information
 
@@ -537,9 +486,9 @@ Thursday 3 December 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 12 November 2020 at 20:26
+- [x] Exported to iLibrary Thursday 19 November 2020 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 6 November 2020 at 19:57
+- [x] Exported to OECD.org Thursday 19 November 2020 at 20:00
 
 ### Additional Information
 
@@ -591,9 +540,9 @@ Wednesday 9 December 2020 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 9 November 2020 at 20:26
+- [x] Exported to iLibrary Thursday 19 November 2020 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 10 November 2020 at 10:46
+- [x] Exported to OECD.org Thursday 19 November 2020 at 20:00
 
 ### Additional Information
 
