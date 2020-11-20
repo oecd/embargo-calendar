@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 19 November 2020 at 20:55* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 20 November 2020 at 20:56* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Health at a Glance: Europe 2020 - State of Health in the EU Cycle](https://doi.org/10.1787/82129230-en)
 
@@ -15,7 +15,7 @@ Thursday 19 November 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 17 November 2020 at 20:29
 - [x] Exported to Keepeek Monday 16 November 2020 at 20:14
-- [x] Exported to OECD.org Wednesday 18 November 2020 at 20:03
+- [x] Exported to OECD.org Friday 20 November 2020 at 20:00
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Thursday 19 November 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 16 November 2020 at 20:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 18 November 2020 at 20:03
+- [x] Exported to OECD.org Friday 20 November 2020 at 20:00
 
 ### Additional Information
 
@@ -50,18 +50,133 @@ Thursday 19 November 2020 at 10:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Lithuania 2020](https://doi.org/10.1787/62663b1d-en)
+## [What drives firm and sectoral productivity in the United Kingdom and in selected European countries?](https://doi.org/10.1787/36ceb723-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 23 November 2020 at 12:00 | no launch event
+Monday 23 November 2020 at 6:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 19 November 2020 at 20:28
-- [x] Exported to Keepeek Thursday 19 November 2020 at 20:14
-- [x] Exported to OECD.org Wednesday 18 November 2020 at 20:03
+- [x] Exported to iLibrary Friday 20 November 2020 at 20:29
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 20 November 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [The trade impact of the UK’s exit from the EU Single Market](https://doi.org/10.1787/682c2995-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 November 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 20 November 2020 at 20:29
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 20 November 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Firm investments in skills and capital in the UK services sector](https://doi.org/10.1787/c595cf3b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 November 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 20 November 2020 at 20:29
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 20 November 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Boosting productivity in the United Kingdom’s service sectors](https://doi.org/10.1787/78f4022e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 November 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 20 November 2020 at 20:29
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 20 November 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Job Creation and Local Economic Development 2020 - Rebuilding Better](https://doi.org/10.1787/b02b2f39-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 November 2020 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 20 November 2020 at 20:29
+- [x] Exported to Keepeek Friday 20 November 2020 at 20:14
+- [x] Exported to OECD.org Friday 20 November 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [OECD Economic Surveys: Lithuania 2020](https://doi.org/10.1787/62663b1d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 November 2020 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 20 November 2020 at 20:29
+- [x] Exported to Keepeek Friday 20 November 2020 at 20:14
+- [x] Exported to OECD.org Friday 20 November 2020 at 20:00
 
 ### Additional Information
 
@@ -104,16 +219,16 @@ Tuesday 24 November 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 16 November 2020 at 20:30
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 16 November 2020 at 19:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 20 November 2020 at 20:29
+- [x] Exported to Keepeek Friday 20 November 2020 at 20:14
+- [x] Exported to OECD.org Friday 20 November 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *Burmese*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -151,9 +266,9 @@ Wednesday 25 November 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 18 November 2020 at 20:35
+- [x] Exported to iLibrary Friday 20 November 2020 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 18 November 2020 at 20:03
+- [x] Exported to OECD.org Friday 20 November 2020 at 20:00
 
 ### Additional Information
 
@@ -196,18 +311,18 @@ Friday 27 November 2020 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 19 November 2020 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 19 November 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 20 November 2020 at 20:29
+- [x] Exported to Keepeek Friday 20 November 2020 at 20:14
+- [x] Exported to OECD.org Friday 20 November 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
