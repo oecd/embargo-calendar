@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 20 November 2020 at 20:56* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 23 November 2020 at 21:00* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [19 November 2020](#19-november-2020)
 * [23 November 2020](#23-november-2020)
 * [24 November 2020](#24-november-2020)
 * [25 November 2020](#25-november-2020)
@@ -14,64 +13,14 @@ Data generated on | |
 * [1 December 2020](#1-december-2020)
 * [2 December 2020](#2-december-2020)
 * [3 December 2020](#3-december-2020)
-* [4 December 2020](#4-december-2020)
 * [9 December 2020](#9-december-2020)
 * [11 December 2020](#11-december-2020)
 * [14 December 2020](#14-december-2020)
 * [15 December 2020](#15-december-2020)
+* [16 December 2020](#16-december-2020)
 * [17 December 2020](#17-december-2020)
 * [12 January 2021](#12-january-2021)
 * [28 January 2021](#28-january-2021)
-
-------
-
-# 19 November 2020
-
-## [Health at a Glance: Europe 2020 - State of Health in the EU Cycle](https://doi.org/10.1787/82129230-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 19 November 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 17 November 2020 at 20:29
-- [x] Exported to Keepeek Monday 16 November 2020 at 20:14
-- [x] Exported to OECD.org Friday 20 November 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Give teachers a say - Facing the challenge of teachers’ work-related stress in the COVID-19 crisis](https://doi.org/10.1787/05da3183-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 19 November 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 November 2020 at 20:30
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 20 November 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -229,8 +178,8 @@ Tuesday 24 November 2020 at 9:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 13 November 2020 at 20:26
-- [x] Exported to Keepeek Thursday 12 November 2020 at 20:12
-- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
+- [x] Exported to Keepeek Monday 23 November 2020 at 20:12
+- [x] Exported to OECD.org Monday 23 November 2020 at 19:58
 
 ### Additional Information
 
@@ -252,8 +201,8 @@ Tuesday 24 November 2020 at 9:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 November 2020 at 20:29
-- [x] Exported to Keepeek Friday 20 November 2020 at 20:14
-- [x] Exported to OECD.org Friday 20 November 2020 at 20:00
+- [x] Exported to Keepeek Monday 23 November 2020 at 20:12
+- [x] Exported to OECD.org Monday 23 November 2020 at 19:58
 
 ### Additional Information
 
@@ -300,16 +249,16 @@ Wednesday 25 November 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 20 November 2020 at 20:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 20 November 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 23 November 2020 at 20:27
+- [x] Exported to Keepeek Monday 23 November 2020 at 20:12
+- [x] Exported to OECD.org Monday 23 November 2020 at 19:58
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -323,22 +272,22 @@ Wednesday 25 November 2020 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 26 November 2020 at 17:00 | no launch event
+Thursday 26 November 2020 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 27 October 2020 at 20:30
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 27 October 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 23 November 2020 at 20:27
+- [x] Exported to Keepeek Monday 23 November 2020 at 20:12
+- [x] Exported to OECD.org Monday 23 November 2020 at 19:58
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -355,7 +304,7 @@ Friday 27 November 2020 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 November 2020 at 20:29
+- [x] Exported to iLibrary Monday 23 November 2020 at 20:27
 - [x] Exported to Keepeek Friday 20 November 2020 at 20:14
 - [x] Exported to OECD.org Friday 20 November 2020 at 20:00
 
@@ -382,9 +331,9 @@ Monday 30 November 2020 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 2 November 2020 at 20:32
+- [x] Exported to iLibrary Monday 23 November 2020 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 2 November 2020 at 19:58
+- [x] Exported to OECD.org Monday 23 November 2020 at 19:58
 
 ### Additional Information
 
@@ -432,15 +381,15 @@ Tuesday 1 December 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 23 November 2020 at 20:27
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 23 November 2020 at 19:58
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Issue*
 * Formats: *Paperback, PDF*
 
@@ -611,33 +560,6 @@ Thursday 3 December 2020 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 4 December 2020
-
-## [OECD Economic Surveys: Brazil 2020](https://doi.org/10.1787/250240ad-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 4 December 2020 at 13:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
@@ -861,6 +783,33 @@ Tuesday 15 December 2020 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 16 December 2020
+
+## [OECD Economic Surveys: Brazil 2020](https://doi.org/10.1787/250240ad-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 16 December 2020 at 17:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 23 November 2020 at 20:27
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 23 November 2020 at 19:58
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
