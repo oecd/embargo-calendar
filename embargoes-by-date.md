@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 24 November 2020 at 20:56* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 25 November 2020 at 20:56* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [23 November 2020](#23-november-2020)
 * [24 November 2020](#24-november-2020)
 * [25 November 2020](#25-november-2020)
 * [26 November 2020](#26-november-2020)
@@ -25,148 +24,6 @@ Data generated on | |
 
 ------
 
-# 23 November 2020
-
-## [What drives firm and sectoral productivity in the United Kingdom and in selected European countries?](https://doi.org/10.1787/36ceb723-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 November 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 November 2020 at 20:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 24 November 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [The trade impact of the UK’s exit from the EU Single Market](https://doi.org/10.1787/682c2995-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 November 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 November 2020 at 20:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 24 November 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Firm investments in skills and capital in the UK services sector](https://doi.org/10.1787/c595cf3b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 November 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 November 2020 at 20:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 24 November 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Boosting productivity in the United Kingdom’s service sectors](https://doi.org/10.1787/78f4022e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 November 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 November 2020 at 20:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 24 November 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Job Creation and Local Economic Development 2020 - Rebuilding Better](https://doi.org/10.1787/b02b2f39-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 November 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 24 November 2020 at 20:27
-- [x] Exported to Keepeek Friday 20 November 2020 at 20:14
-- [x] Exported to OECD.org Tuesday 24 November 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [OECD Economic Surveys: Lithuania 2020](https://doi.org/10.1787/62663b1d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 November 2020 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 November 2020 at 20:29
-- [x] Exported to Keepeek Friday 20 November 2020 at 20:14
-- [x] Exported to OECD.org Tuesday 24 November 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
 # 24 November 2020
 
 ## [OECD Investment Policy Reviews: Myanmar 2020](https://doi.org/10.1787/d7984f44-en)
@@ -180,7 +37,7 @@ Tuesday 24 November 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 24 November 2020 at 14:01
 - [x] Exported to Keepeek Tuesday 24 November 2020 at 14:02
-- [x] Exported to OECD.org Monday 23 November 2020 at 19:58
+- [x] Exported to OECD.org Wednesday 25 November 2020 at 19:59
 
 ### Additional Information
 
@@ -203,7 +60,7 @@ Tuesday 24 November 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 24 November 2020 at 14:01
 - [x] Exported to Keepeek Tuesday 24 November 2020 at 20:13
-- [x] Exported to OECD.org Monday 23 November 2020 at 19:58
+- [x] Exported to OECD.org Wednesday 25 November 2020 at 19:59
 
 ### Additional Information
 
@@ -280,7 +137,7 @@ Thursday 26 November 2020 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 23 November 2020 at 20:27
 - [x] Exported to Keepeek Monday 23 November 2020 at 20:12
-- [x] Exported to OECD.org Monday 23 November 2020 at 19:58
+- [x] Exported to OECD.org Wednesday 25 November 2020 at 19:59
 
 ### Additional Information
 
@@ -305,7 +162,7 @@ Friday 27 November 2020 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 24 November 2020 at 20:27
+- [x] Exported to iLibrary Wednesday 25 November 2020 at 20:26
 - [x] Exported to Keepeek Friday 20 November 2020 at 20:14
 - [x] Exported to OECD.org Friday 20 November 2020 at 20:00
 
@@ -332,7 +189,7 @@ Monday 30 November 2020 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 24 November 2020 at 20:27
+- [x] Exported to iLibrary Wednesday 25 November 2020 at 20:26
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 23 November 2020 at 19:58
 
@@ -355,9 +212,9 @@ Monday 30 November 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 24 November 2020 at 20:27
+- [x] Exported to iLibrary Wednesday 25 November 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 24 November 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 25 November 2020 at 19:59
 
 ### Additional Information
 
@@ -482,9 +339,9 @@ Thursday 3 December 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 24 November 2020 at 20:27
+- [x] Exported to iLibrary Wednesday 25 November 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 24 November 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 25 November 2020 at 19:59
 
 ### Additional Information
 
@@ -578,9 +435,9 @@ Monday 7 December 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 24 November 2020 at 20:27
+- [x] Exported to iLibrary Wednesday 25 November 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 24 November 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 25 November 2020 at 19:59
 
 ### Additional Information
 
@@ -588,6 +445,52 @@ Monday 7 December 2020 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Africa’s Development Dynamics 2020 - Digital Transformation for Quality Jobs](https://doi.org/10.1787/0a5c9314-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 December 2020 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 25 November 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 25 November 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Dynamiques du développement en Afrique 2020 - Transformation digitale et qualité de l'emploi](https://doi.org/10.1787/cd08eac8-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 December 2020 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 25 November 2020 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 25 November 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -751,15 +654,15 @@ Monday 14 December 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 13 November 2020 at 20:26
+- [x] Exported to iLibrary Wednesday 25 November 2020 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
+- [x] Exported to OECD.org Wednesday 25 November 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
