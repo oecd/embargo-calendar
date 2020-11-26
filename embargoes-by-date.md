@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 25 November 2020 at 20:56* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 26 November 2020 at 20:58* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [24 November 2020](#24-november-2020)
 * [25 November 2020](#25-november-2020)
 * [26 November 2020](#26-november-2020)
 * [27 November 2020](#27-november-2020)
@@ -24,56 +23,6 @@ Data generated on | |
 
 ------
 
-# 24 November 2020
-
-## [OECD Investment Policy Reviews: Myanmar 2020](https://doi.org/10.1787/d7984f44-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 24 November 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 24 November 2020 at 14:01
-- [x] Exported to Keepeek Tuesday 24 November 2020 at 14:02
-- [x] Exported to OECD.org Wednesday 25 November 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD ရင်းနှီးမြှုပ်နှံမှုမူဝါဒလေ့လာသုံးသပ်ချက် - မြန်မာနိုင်ငံ ၂၀၂၀](https://doi.org/10.1787/1352ee2b-my)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 24 November 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 24 November 2020 at 14:01
-- [x] Exported to Keepeek Tuesday 24 November 2020 at 20:13
-- [x] Exported to OECD.org Wednesday 25 November 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Burmese*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-------
-
 # 25 November 2020
 
 ## [What Students Learn Matters - Towards a 21st Century Curriculum](https://doi.org/10.1787/d86d4d9a-en)
@@ -87,7 +36,7 @@ Wednesday 25 November 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 24 November 2020 at 20:27
 - [x] Exported to Keepeek Tuesday 24 November 2020 at 20:13
-- [x] Exported to OECD.org Tuesday 24 November 2020 at 20:00
+- [x] Exported to OECD.org Thursday 26 November 2020 at 20:00
 
 ### Additional Information
 
@@ -110,7 +59,7 @@ Wednesday 25 November 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 23 November 2020 at 20:27
 - [x] Exported to Keepeek Tuesday 24 November 2020 at 20:13
-- [x] Exported to OECD.org Tuesday 24 November 2020 at 20:00
+- [x] Exported to OECD.org Thursday 26 November 2020 at 20:00
 
 ### Additional Information
 
@@ -135,9 +84,9 @@ Thursday 26 November 2020 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 23 November 2020 at 20:27
-- [x] Exported to Keepeek Monday 23 November 2020 at 20:12
-- [x] Exported to OECD.org Wednesday 25 November 2020 at 19:59
+- [x] Exported to iLibrary Thursday 26 November 2020 at 20:30
+- [x] Exported to Keepeek Thursday 26 November 2020 at 15:41
+- [x] Exported to OECD.org Thursday 26 November 2020 at 20:00
 
 ### Additional Information
 
@@ -164,7 +113,7 @@ Friday 27 November 2020 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 25 November 2020 at 20:26
 - [x] Exported to Keepeek Friday 20 November 2020 at 20:14
-- [x] Exported to OECD.org Friday 20 November 2020 at 20:00
+- [x] Exported to OECD.org Thursday 26 November 2020 at 20:00
 
 ### Additional Information
 
@@ -188,18 +137,18 @@ Monday 30 November 2020 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 25 November 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 23 November 2020 at 19:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 26 November 2020 at 20:30
+- [x] Exported to Keepeek Thursday 26 November 2020 at 20:15
+- [x] Exported to OECD.org Thursday 26 November 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -211,16 +160,16 @@ Monday 30 November 2020 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 25 November 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 25 November 2020 at 19:59
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 26 November 2020 at 20:30
+- [x] Exported to Keepeek Thursday 26 November 2020 at 20:15
+- [x] Exported to OECD.org Thursday 26 November 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -257,14 +206,14 @@ Tuesday 1 December 2020 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 1 December 2020 at 11:00 | no launch event
+Tuesday 1 December 2020 at 15:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 28 October 2020 at 20:30
+- [x] Exported to iLibrary Thursday 26 November 2020 at 20:30
 - [x] Exported to Keepeek Monday 14 September 2020 at 20:13
-- [x] Exported to OECD.org Wednesday 28 October 2020 at 19:59
+- [x] Exported to OECD.org Thursday 26 November 2020 at 20:00
 
 ### Additional Information
 
@@ -289,15 +238,15 @@ Wednesday 2 December 2020 at 13:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 26 November 2020 at 20:30
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 26 November 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -326,7 +275,7 @@ Thursday 3 December 2020 at 10:00 | no launch event
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -385,9 +334,9 @@ Thursday 3 December 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 24 November 2020 at 20:27
+- [x] Exported to iLibrary Thursday 26 November 2020 at 20:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 24 November 2020 at 20:00
+- [x] Exported to OECD.org Thursday 26 November 2020 at 20:00
 
 ### Additional Information
 
@@ -426,6 +375,29 @@ Thursday 3 December 2020 at 10:00 | no launch event
 
 # 7 December 2020
 
+## [Non-exhaust Particulate Emissions from Road Transport - An Ignored Environmental Policy Challenge](https://doi.org/10.1787/4a4dc6ca-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 December 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 26 November 2020 at 20:30
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 26 November 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [OECD Pensions Outlook 2020](https://doi.org/10.1787/67ede41b-en)
 
 Embargo date | Launch date
@@ -434,18 +406,18 @@ Monday 7 December 2020 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 25 November 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 25 November 2020 at 19:59
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 26 November 2020 at 20:30
+- [x] Exported to Keepeek Thursday 26 November 2020 at 20:15
+- [x] Exported to OECD.org Thursday 26 November 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -721,6 +693,29 @@ Tuesday 15 December 2020 at 10:00 | no launch event
 ------
 
 # 16 December 2020
+
+## [OECD Investment Policy Reviews: Indonesia 2020](https://doi.org/10.1787/b56512da-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 16 December 2020 at 8:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 26 November 2020 at 20:30
+- [x] Exported to Keepeek Thursday 26 November 2020 at 20:15
+- [x] Exported to OECD.org Thursday 26 November 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
 
 ## [OECD Economic Surveys: Brazil 2020](https://doi.org/10.1787/250240ad-en)
 
