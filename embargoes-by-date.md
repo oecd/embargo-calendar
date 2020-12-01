@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 30 November 2020 at 20:50* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 1 December 2020 at 20:55* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [30 November 2020](#30-november-2020)
 * [1 December 2020](#1-december-2020)
@@ -36,7 +36,7 @@ Monday 30 November 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Saturday 28 November 2020 at 13:52
 - [x] Exported to Keepeek Thursday 26 November 2020 at 20:15
-- [x] Exported to OECD.org Saturday 28 November 2020 at 13:09
+- [x] Exported to OECD.org Tuesday 1 December 2020 at 20:00
 
 ### Additional Information
 
@@ -59,7 +59,7 @@ Monday 30 November 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 26 November 2020 at 20:30
 - [x] Exported to Keepeek Thursday 26 November 2020 at 20:15
-- [x] Exported to OECD.org Saturday 28 November 2020 at 13:09
+- [x] Exported to OECD.org Tuesday 1 December 2020 at 20:00
 
 ### Additional Information
 
@@ -107,8 +107,8 @@ Tuesday 1 December 2020 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 30 November 2020 at 20:21
-- [x] Exported to Keepeek Monday 30 November 2020 at 20:12
+- [x] Exported to iLibrary Tuesday 1 December 2020 at 20:28
+- [x] Exported to Keepeek Tuesday 1 December 2020 at 9:55
 - [x] Exported to OECD.org Monday 30 November 2020 at 20:00
 
 ### Additional Information
@@ -129,18 +129,18 @@ Tuesday 1 December 2020 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 30 November 2020 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 30 November 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 1 December 2020 at 20:28
+- [x] Exported to Keepeek Tuesday 1 December 2020 at 20:13
+- [x] Exported to OECD.org Tuesday 1 December 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -179,16 +179,16 @@ Wednesday 2 December 2020 at 13:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 30 November 2020 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 30 November 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 1 December 2020 at 20:28
+- [x] Exported to Keepeek Tuesday 1 December 2020 at 20:13
+- [x] Exported to OECD.org Tuesday 1 December 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -206,16 +206,16 @@ Thursday 3 December 2020 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 30 November 2020 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 30 November 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 1 December 2020 at 20:28
+- [x] Exported to Keepeek Tuesday 1 December 2020 at 20:13
+- [x] Exported to OECD.org Tuesday 1 December 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -231,7 +231,7 @@ Thursday 3 December 2020 at 10:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 30 November 2020 at 20:21
-- [x] Exported to Keepeek Monday 30 November 2020 at 20:12
+- [x] Exported to Keepeek Tuesday 1 December 2020 at 20:13
 - [x] Exported to OECD.org Monday 30 November 2020 at 20:00
 
 ### Additional Information
@@ -254,7 +254,7 @@ Thursday 3 December 2020 at 10:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 30 November 2020 at 20:21
-- [x] Exported to Keepeek Monday 30 November 2020 at 20:12
+- [x] Exported to Keepeek Tuesday 1 December 2020 at 20:13
 - [x] Exported to OECD.org Monday 30 November 2020 at 20:00
 
 ### Additional Information
@@ -280,9 +280,9 @@ Friday 4 December 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Saturday 28 November 2020 at 13:52
+- [x] Exported to iLibrary Tuesday 1 December 2020 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Saturday 28 November 2020 at 13:09
+- [x] Exported to OECD.org Tuesday 1 December 2020 at 20:00
 
 ### Additional Information
 
@@ -499,9 +499,9 @@ Wednesday 9 December 2020 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 19 November 2020 at 20:28
+- [x] Exported to iLibrary Tuesday 1 December 2020 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 19 November 2020 at 20:00
+- [x] Exported to OECD.org Tuesday 1 December 2020 at 20:00
 
 ### Additional Information
 
@@ -549,15 +549,15 @@ Thursday 10 December 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 1 December 2020 at 20:28
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 1 December 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -722,15 +722,15 @@ Tuesday 15 December 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 1 December 2020 at 20:28
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 1 December 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -813,7 +813,7 @@ Wednesday 16 December 2020 at 17:00 | no launch event
 
 # 12 January 2021
 
-## [OECD Science, Technology and Innovation Outlook 2020 - Times of Crisis and Opportunity](https://doi.org/10.1787/75f79015-en)
+## [OECD Science, Technology and Innovation Outlook 2021 - Times of Crisis and Opportunity](https://doi.org/10.1787/75f79015-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -822,9 +822,9 @@ Tuesday 12 January 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 16 November 2020 at 20:30
+- [x] Exported to iLibrary Tuesday 1 December 2020 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 16 November 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 1 December 2020 at 20:00
 
 ### Additional Information
 
