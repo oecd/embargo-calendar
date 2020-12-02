@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 1 December 2020 at 20:55* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 2 December 2020 at 21:28* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [30 November 2020](#30-november-2020)
 * [1 December 2020](#1-december-2020)
 * [2 December 2020](#2-december-2020)
 * [3 December 2020](#3-december-2020)
@@ -23,56 +22,6 @@ Data generated on | |
 
 ------
 
-# 30 November 2020
-
-## [OECD Regions and Cities at a Glance 2020](https://doi.org/10.1787/959d5ba0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 30 November 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 28 November 2020 at 13:52
-- [x] Exported to Keepeek Thursday 26 November 2020 at 20:15
-- [x] Exported to OECD.org Tuesday 1 December 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Building a High-Quality Early Childhood Education and Care Workforce - Further Results from the Starting Strong Survey 2018](https://doi.org/10.1787/b90bba3d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 30 November 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 26 November 2020 at 20:30
-- [x] Exported to Keepeek Thursday 26 November 2020 at 20:15
-- [x] Exported to OECD.org Tuesday 1 December 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
 # 1 December 2020
 
 ## [PISA for Development: Out-of-school assessment - Results in Focus](https://doi.org/10.1787/491fb74a-en)
@@ -86,7 +35,7 @@ Tuesday 1 December 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 30 November 2020 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 30 November 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 2 December 2020 at 19:58
 
 ### Additional Information
 
@@ -107,9 +56,9 @@ Tuesday 1 December 2020 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 1 December 2020 at 20:28
+- [x] Exported to iLibrary Wednesday 2 December 2020 at 21:00
 - [x] Exported to Keepeek Tuesday 1 December 2020 at 9:55
-- [x] Exported to OECD.org Monday 30 November 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 2 December 2020 at 19:58
 
 ### Additional Information
 
@@ -130,9 +79,9 @@ Tuesday 1 December 2020 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 1 December 2020 at 20:28
+- [x] Exported to iLibrary Wednesday 2 December 2020 at 21:00
 - [x] Exported to Keepeek Tuesday 1 December 2020 at 20:13
-- [x] Exported to OECD.org Tuesday 1 December 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 2 December 2020 at 19:58
 
 ### Additional Information
 
@@ -155,7 +104,7 @@ Tuesday 1 December 2020 at 17:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 30 November 2020 at 20:21
 - [x] Exported to Keepeek Monday 30 November 2020 at 20:12
-- [x] Exported to OECD.org Monday 30 November 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 2 December 2020 at 19:58
 
 ### Additional Information
 
@@ -209,7 +158,7 @@ Thursday 3 December 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 1 December 2020 at 20:28
 - [x] Exported to Keepeek Tuesday 1 December 2020 at 20:13
-- [x] Exported to OECD.org Tuesday 1 December 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 2 December 2020 at 19:58
 
 ### Additional Information
 
@@ -230,9 +179,9 @@ Thursday 3 December 2020 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 30 November 2020 at 20:21
+- [x] Exported to iLibrary Wednesday 2 December 2020 at 21:00
 - [x] Exported to Keepeek Tuesday 1 December 2020 at 20:13
-- [x] Exported to OECD.org Monday 30 November 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 2 December 2020 at 19:58
 
 ### Additional Information
 
@@ -255,7 +204,7 @@ Thursday 3 December 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 30 November 2020 at 20:21
 - [x] Exported to Keepeek Tuesday 1 December 2020 at 20:13
-- [x] Exported to OECD.org Monday 30 November 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 2 December 2020 at 19:58
 
 ### Additional Information
 
@@ -270,6 +219,29 @@ Thursday 3 December 2020 at 10:00 | no launch event
 ------
 
 # 4 December 2020
+
+## [Professional growth in times of change - Supporting teachers’ continuing professional learning and collaboration](https://doi.org/10.1787/753eaa89-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 4 December 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 2 December 2020 at 21:00
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 2 December 2020 at 19:58
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Études économiques de l’OCDE : Pologne 2020 (version abrégée)](https://doi.org/10.1787/180d9090-fr)
 
@@ -353,9 +325,9 @@ Monday 7 December 2020 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 26 November 2020 at 20:30
+- [x] Exported to iLibrary Wednesday 2 December 2020 at 21:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 26 November 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 2 December 2020 at 19:58
 
 ### Additional Information
 
@@ -363,7 +335,7 @@ Monday 7 December 2020 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -448,16 +420,16 @@ Tuesday 8 December 2020 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Saturday 28 November 2020 at 13:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Saturday 28 November 2020 at 13:09
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 2 December 2020 at 21:00
+- [x] Exported to Keepeek Wednesday 2 December 2020 at 20:14
+- [x] Exported to OECD.org Wednesday 2 December 2020 at 19:58
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -498,18 +470,18 @@ Wednesday 9 December 2020 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 1 December 2020 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 December 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 2 December 2020 at 21:00
+- [x] Exported to Keepeek Wednesday 2 December 2020 at 20:14
+- [x] Exported to OECD.org Wednesday 2 December 2020 at 19:58
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -525,18 +497,18 @@ Thursday 10 December 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Saturday 28 November 2020 at 13:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Saturday 28 November 2020 at 13:09
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 2 December 2020 at 21:00
+- [x] Exported to Keepeek Wednesday 2 December 2020 at 20:14
+- [x] Exported to OECD.org Wednesday 2 December 2020 at 19:58
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -549,9 +521,9 @@ Thursday 10 December 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 1 December 2020 at 20:28
+- [x] Exported to iLibrary Wednesday 2 December 2020 at 21:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 December 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 2 December 2020 at 19:58
 
 ### Additional Information
 
@@ -713,7 +685,7 @@ Monday 14 December 2020 at 10:00 | no launch event
 
 # 15 December 2020
 
-## [Lessons for Education from COVID-19 - A Policymaker’s Handbook for More Resilient Systems](https://doi.org/10.1787/0a530888-en)
+## [Lessons for Education from COVID-19 - A Policy Maker’s Handbook for More Resilient Systems](https://doi.org/10.1787/0a530888-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -722,9 +694,9 @@ Tuesday 15 December 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 1 December 2020 at 20:28
+- [x] Exported to iLibrary Wednesday 2 December 2020 at 21:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 December 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 2 December 2020 at 19:58
 
 ### Additional Information
 
