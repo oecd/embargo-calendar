@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 3 December 2020 at 20:56* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 4 December 2020 at 20:52* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [2 December 2020](#2-december-2020)
 * [3 December 2020](#3-december-2020)
 * [4 December 2020](#4-december-2020)
 * [7 December 2020](#7-december-2020)
@@ -21,33 +20,6 @@ Data generated on | |
 
 ------
 
-# 2 December 2020
-
-## [Education in the Western Balkans - Findings from PISA](https://doi.org/10.1787/764847ff-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 2 December 2020 at 13:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 1 December 2020 at 20:28
-- [x] Exported to Keepeek Tuesday 1 December 2020 at 20:13
-- [x] Exported to OECD.org Thursday 3 December 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
 # 3 December 2020
 
 ## [Statistiques des recettes publiques 2020](https://doi.org/10.1787/c6381ca6-fr)
@@ -61,7 +33,7 @@ Thursday 3 December 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 1 December 2020 at 20:28
 - [x] Exported to Keepeek Tuesday 1 December 2020 at 20:13
-- [x] Exported to OECD.org Wednesday 2 December 2020 at 19:58
+- [x] Exported to OECD.org Friday 4 December 2020 at 20:00
 
 ### Additional Information
 
@@ -84,7 +56,7 @@ Thursday 3 December 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 2 December 2020 at 21:00
 - [x] Exported to Keepeek Tuesday 1 December 2020 at 20:13
-- [x] Exported to OECD.org Wednesday 2 December 2020 at 19:58
+- [x] Exported to OECD.org Friday 4 December 2020 at 20:00
 
 ### Additional Information
 
@@ -107,7 +79,7 @@ Thursday 3 December 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 30 November 2020 at 20:21
 - [x] Exported to Keepeek Tuesday 1 December 2020 at 20:13
-- [x] Exported to OECD.org Wednesday 2 December 2020 at 19:58
+- [x] Exported to OECD.org Friday 4 December 2020 at 20:00
 
 ### Additional Information
 
@@ -204,16 +176,16 @@ Monday 7 December 2020 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 2 December 2020 at 21:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 2 December 2020 at 19:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 4 December 2020 at 20:27
+- [x] Exported to Keepeek Friday 4 December 2020 at 20:13
+- [x] Exported to OECD.org Friday 4 December 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -230,7 +202,7 @@ Monday 7 December 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Saturday 28 November 2020 at 13:52
 - [x] Exported to Keepeek Thursday 26 November 2020 at 20:15
-- [x] Exported to OECD.org Thursday 26 November 2020 at 20:00
+- [x] Exported to OECD.org Friday 4 December 2020 at 20:00
 
 ### Additional Information
 
@@ -242,55 +214,32 @@ Monday 7 December 2020 at 10:00 | no launch event
 
 ------
 
-## [Africa’s Development Dynamics 2020 - Digital Transformation for Quality Jobs](https://doi.org/10.1787/0a5c9314-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 December 2020 at 14:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 25 November 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 25 November 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Dynamiques du développement en Afrique 2020 - Transformation digitale et qualité de l'emploi](https://doi.org/10.1787/cd08eac8-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 December 2020 at 14:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 25 November 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 25 November 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
 ------
 
 # 8 December 2020
+
+## [A set of matrices to map the location of profit and economic activity of multinational enterprises](https://doi.org/10.1787/4ec98acc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 December 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 4 December 2020 at 20:27
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 4 December 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [OECD Economic Surveys: Germany 2020](https://doi.org/10.1787/91973c69-en)
 
@@ -342,6 +291,29 @@ Tuesday 8 December 2020 at 11:00 | no launch event
 
 # 9 December 2020
 
+## [Guiding Principles for Durable Extractive Contracts](https://doi.org/10.1787/55c19888-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 December 2020 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 4 December 2020 at 20:27
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 4 December 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Peer Review of the Automatic Exchange of Financial Account Information 2020](https://doi.org/10.1787/175eeff4-en)
 
 Embargo date | Launch date
@@ -353,7 +325,7 @@ Wednesday 9 December 2020 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 3 December 2020 at 20:28
 - [x] Exported to Keepeek Wednesday 2 December 2020 at 20:14
-- [x] Exported to OECD.org Wednesday 2 December 2020 at 19:58
+- [x] Exported to OECD.org Friday 4 December 2020 at 20:00
 
 ### Additional Information
 
@@ -512,52 +484,6 @@ Monday 14 December 2020 at 7:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
-
-------
-
-## [Les défis fiscaux soulevés par la numérisation – Rapport sur le blueprint du Pilier Deux - Cadre inclusif sur le BEPS](https://doi.org/10.1787/6c4f8dde-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 December 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 13 November 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Les défis fiscaux soulevés par la numérisation de l’économie – Évaluation d’impact économique - Cadre inclusif sur le BEPS](https://doi.org/10.1787/044011c1-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 December 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 13 November 2020 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 13 November 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
 
 ------
 
