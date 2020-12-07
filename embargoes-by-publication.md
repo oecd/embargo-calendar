@@ -2,145 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 4 December 2020 at 20:52* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Statistiques des recettes publiques 2020](https://doi.org/10.1787/c6381ca6-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 3 December 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 1 December 2020 at 20:28
-- [x] Exported to Keepeek Tuesday 1 December 2020 at 20:13
-- [x] Exported to OECD.org Friday 4 December 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Consumption Tax Trends 2020 - VAT/GST and Excise Rates, Trends and Policy Issues](https://doi.org/10.1787/152def2d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 3 December 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 2 December 2020 at 21:00
-- [x] Exported to Keepeek Tuesday 1 December 2020 at 20:13
-- [x] Exported to OECD.org Friday 4 December 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Revenue Statistics 2020](https://doi.org/10.1787/8625f8e5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 3 December 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 30 November 2020 at 20:21
-- [x] Exported to Keepeek Tuesday 1 December 2020 at 20:13
-- [x] Exported to OECD.org Friday 4 December 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Professional growth in times of change - Supporting teachers’ continuing professional learning and collaboration](https://doi.org/10.1787/753eaa89-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 4 December 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 2 December 2020 at 21:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 2 December 2020 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Poland 2020](https://doi.org/10.1787/0e32d909-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 4 December 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 December 2020 at 20:28
-- [x] Exported to Keepeek Thursday 3 December 2020 at 20:12
-- [x] Exported to OECD.org Thursday 3 December 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Czech Republic 2020](https://doi.org/10.1787/1b180a5a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 4 December 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 December 2020 at 20:28
-- [x] Exported to Keepeek Thursday 3 December 2020 at 20:12
-- [x] Exported to OECD.org Thursday 3 December 2020 at 19:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
+| *Monday 7 December 2020 at 20:50* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Non-exhaust Particulate Emissions from Road Transport - An Ignored Environmental Policy Challenge](https://doi.org/10.1787/4a4dc6ca-en)
 
@@ -175,7 +37,7 @@ Monday 7 December 2020 at 10:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Saturday 28 November 2020 at 13:52
-- [x] Exported to Keepeek Thursday 26 November 2020 at 20:15
+- [x] Exported to Keepeek Monday 7 December 2020 at 20:11
 - [x] Exported to OECD.org Friday 4 December 2020 at 20:00
 
 ### Additional Information
@@ -199,7 +61,7 @@ Tuesday 8 December 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 December 2020 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 December 2020 at 20:00
+- [x] Exported to OECD.org Monday 7 December 2020 at 19:59
 
 ### Additional Information
 
@@ -222,7 +84,7 @@ Tuesday 8 December 2020 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 2 December 2020 at 21:00
 - [x] Exported to Keepeek Wednesday 2 December 2020 at 20:14
-- [x] Exported to OECD.org Wednesday 2 December 2020 at 19:58
+- [x] Exported to OECD.org Monday 7 December 2020 at 19:59
 
 ### Additional Information
 
@@ -242,16 +104,16 @@ Tuesday 8 December 2020 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Saturday 28 November 2020 at 13:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Saturday 28 November 2020 at 13:09
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 7 December 2020 at 20:25
+- [x] Exported to Keepeek Monday 7 December 2020 at 20:11
+- [x] Exported to OECD.org Monday 7 December 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *German*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -265,18 +127,18 @@ Wednesday 9 December 2020 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 4 December 2020 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 December 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 7 December 2020 at 20:25
+- [x] Exported to Keepeek Monday 7 December 2020 at 20:11
+- [x] Exported to OECD.org Monday 7 December 2020 at 19:59
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, PDF*
 
 ------
 
@@ -441,6 +303,29 @@ Monday 14 December 2020 at 7:00 | no launch event
 
 ------
 
+## [OECD Investment Policy Reviews: Georgia 2020](https://doi.org/10.1787/0d33d7b7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 December 2020 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 7 December 2020 at 20:25
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 7 December 2020 at 19:59
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Lessons for Education from COVID-19 - A Policy Maker’s Handbook for More Resilient Systems](https://doi.org/10.1787/0a530888-en)
 
 Embargo date | Launch date
@@ -529,6 +414,52 @@ Wednesday 16 December 2020 at 17:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Turkey 2020](https://doi.org/10.1787/2cd09ab1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 December 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Better Policies for Food Systems](https://doi.org/10.1787/ddfba4de-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 11 January 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
