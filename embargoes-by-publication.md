@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 7 December 2020 at 20:50* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 8 December 2020 at 20:56* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Non-exhaust Particulate Emissions from Road Transport - An Ignored Environmental Policy Challenge](https://doi.org/10.1787/4a4dc6ca-en)
 
@@ -15,7 +15,7 @@ Monday 7 December 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 December 2020 at 20:27
 - [x] Exported to Keepeek Friday 4 December 2020 at 20:13
-- [x] Exported to OECD.org Friday 4 December 2020 at 20:00
+- [x] Exported to OECD.org Tuesday 8 December 2020 at 20:00
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 7 December 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Saturday 28 November 2020 at 13:52
 - [x] Exported to Keepeek Monday 7 December 2020 at 20:11
-- [x] Exported to OECD.org Friday 4 December 2020 at 20:00
+- [x] Exported to OECD.org Tuesday 8 December 2020 at 20:00
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Wednesday 9 December 2020 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 December 2020 at 20:25
 - [x] Exported to Keepeek Monday 7 December 2020 at 20:11
-- [x] Exported to OECD.org Monday 7 December 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 8 December 2020 at 20:00
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Wednesday 9 December 2020 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 3 December 2020 at 20:28
 - [x] Exported to Keepeek Wednesday 2 December 2020 at 20:14
-- [x] Exported to OECD.org Friday 4 December 2020 at 20:00
+- [x] Exported to OECD.org Tuesday 8 December 2020 at 20:00
 
 ### Additional Information
 
@@ -174,9 +174,9 @@ Thursday 10 December 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 2 December 2020 at 21:00
+- [x] Exported to iLibrary Tuesday 8 December 2020 at 20:28
 - [x] Exported to Keepeek Wednesday 2 December 2020 at 20:14
-- [x] Exported to OECD.org Wednesday 2 December 2020 at 19:58
+- [x] Exported to OECD.org Tuesday 8 December 2020 at 20:00
 
 ### Additional Information
 
@@ -196,16 +196,16 @@ Thursday 10 December 2020 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 3 December 2020 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 December 2020 at 19:59
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 8 December 2020 at 20:28
+- [x] Exported to Keepeek Tuesday 8 December 2020 at 20:11
+- [x] Exported to OECD.org Tuesday 8 December 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -289,9 +289,9 @@ Monday 14 December 2020 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 6 November 2020 at 20:28
+- [x] Exported to iLibrary Tuesday 8 December 2020 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 29 October 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 8 December 2020 at 20:00
 
 ### Additional Information
 
@@ -299,11 +299,11 @@ Monday 14 December 2020 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
-## [OECD Investment Policy Reviews: Georgia 2020](https://doi.org/10.1787/0d33d7b7-en)
+## [OECD Investment Policy Reviews: Georgia](https://doi.org/10.1787/0d33d7b7-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -312,9 +312,9 @@ Tuesday 15 December 2020 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 7 December 2020 at 20:25
+- [x] Exported to iLibrary Tuesday 8 December 2020 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 7 December 2020 at 19:59
+- [x] Exported to OECD.org Tuesday 8 December 2020 at 20:00
 
 ### Additional Information
 
