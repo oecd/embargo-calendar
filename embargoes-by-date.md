@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 8 December 2020 at 20:56* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 9 December 2020 at 20:54* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [7 December 2020](#7-december-2020)
 * [8 December 2020](#8-december-2020)
 * [9 December 2020](#9-december-2020)
 * [10 December 2020](#10-december-2020)
@@ -17,56 +16,6 @@ Data generated on | |
 * [12 January 2021](#12-january-2021)
 * [28 January 2021](#28-january-2021)
 * [2 February 2021](#2-february-2021)
-
-------
-
-# 7 December 2020
-
-## [Non-exhaust Particulate Emissions from Road Transport - An Ignored Environmental Policy Challenge](https://doi.org/10.1787/4a4dc6ca-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 December 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 4 December 2020 at 20:27
-- [x] Exported to Keepeek Friday 4 December 2020 at 20:13
-- [x] Exported to OECD.org Tuesday 8 December 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD Pensions Outlook 2020](https://doi.org/10.1787/67ede41b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 December 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 28 November 2020 at 13:52
-- [x] Exported to Keepeek Monday 7 December 2020 at 20:11
-- [x] Exported to OECD.org Tuesday 8 December 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
 
 ------
 
@@ -83,7 +32,7 @@ Tuesday 8 December 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 December 2020 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 7 December 2020 at 19:59
+- [x] Exported to OECD.org Wednesday 9 December 2020 at 20:00
 
 ### Additional Information
 
@@ -106,7 +55,7 @@ Tuesday 8 December 2020 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 2 December 2020 at 21:00
 - [x] Exported to Keepeek Wednesday 2 December 2020 at 20:14
-- [x] Exported to OECD.org Monday 7 December 2020 at 19:59
+- [x] Exported to OECD.org Wednesday 9 December 2020 at 20:00
 
 ### Additional Information
 
@@ -129,7 +78,7 @@ Tuesday 8 December 2020 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 December 2020 at 20:25
 - [x] Exported to Keepeek Monday 7 December 2020 at 20:11
-- [x] Exported to OECD.org Monday 7 December 2020 at 19:59
+- [x] Exported to OECD.org Wednesday 9 December 2020 at 20:00
 
 ### Additional Information
 
@@ -154,7 +103,7 @@ Wednesday 9 December 2020 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 7 December 2020 at 20:25
+- [x] Exported to iLibrary Wednesday 9 December 2020 at 20:28
 - [x] Exported to Keepeek Monday 7 December 2020 at 20:11
 - [x] Exported to OECD.org Tuesday 8 December 2020 at 20:00
 
@@ -164,7 +113,7 @@ Wednesday 9 December 2020 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *HTML, PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -206,7 +155,7 @@ Thursday 10 December 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 8 December 2020 at 20:28
 - [x] Exported to Keepeek Wednesday 2 December 2020 at 20:14
-- [x] Exported to OECD.org Tuesday 8 December 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 9 December 2020 at 20:00
 
 ### Additional Information
 
@@ -229,7 +178,7 @@ Thursday 10 December 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 8 December 2020 at 20:28
 - [x] Exported to Keepeek Tuesday 8 December 2020 at 20:11
-- [x] Exported to OECD.org Tuesday 8 December 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 9 December 2020 at 20:00
 
 ### Additional Information
 
@@ -244,6 +193,29 @@ Thursday 10 December 2020 at 10:00 | no launch event
 ------
 
 # 11 December 2020
+
+## [New data collection on accrued-to-date social insurance pension entitlements in a national accounts context  - Main findings](https://doi.org/10.1787/93abd66a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 11 December 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 9 December 2020 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 9 December 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Statistics and Data Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Slovak Republic 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/960316d9-en)
 
@@ -326,16 +298,16 @@ Monday 14 December 2020 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 8 December 2020 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 December 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 9 December 2020 at 20:28
+- [x] Exported to Keepeek Wednesday 9 December 2020 at 20:13
+- [x] Exported to OECD.org Wednesday 9 December 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
 
