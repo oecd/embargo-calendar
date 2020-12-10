@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 9 December 2020 at 20:54* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 10 December 2020 at 20:56* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [8 December 2020](#8-december-2020)
 * [9 December 2020](#9-december-2020)
 * [10 December 2020](#10-december-2020)
 * [11 December 2020](#11-december-2020)
@@ -19,79 +18,6 @@ Data generated on | |
 
 ------
 
-# 8 December 2020
-
-## [A set of matrices to map the location of profit and economic activity of multinational enterprises](https://doi.org/10.1787/4ec98acc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 8 December 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 4 December 2020 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 December 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Germany 2020](https://doi.org/10.1787/91973c69-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 8 December 2020 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 2 December 2020 at 21:00
-- [x] Exported to Keepeek Wednesday 2 December 2020 at 20:14
-- [x] Exported to OECD.org Wednesday 9 December 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD-Wirtschaftsberichte: Deutschland 2020](https://doi.org/10.1787/93cb9ab8-de)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 8 December 2020 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 7 December 2020 at 20:25
-- [x] Exported to Keepeek Monday 7 December 2020 at 20:11
-- [x] Exported to OECD.org Wednesday 9 December 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-------
-
 # 9 December 2020
 
 ## [Guiding Principles for Durable Extractive Contracts](https://doi.org/10.1787/55c19888-en)
@@ -103,9 +29,9 @@ Wednesday 9 December 2020 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 9 December 2020 at 20:28
+- [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
 - [x] Exported to Keepeek Monday 7 December 2020 at 20:11
-- [x] Exported to OECD.org Tuesday 8 December 2020 at 20:00
+- [x] Exported to OECD.org Thursday 10 December 2020 at 20:01
 
 ### Additional Information
 
@@ -128,7 +54,7 @@ Wednesday 9 December 2020 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 3 December 2020 at 20:28
 - [x] Exported to Keepeek Wednesday 2 December 2020 at 20:14
-- [x] Exported to OECD.org Tuesday 8 December 2020 at 20:00
+- [x] Exported to OECD.org Thursday 10 December 2020 at 20:01
 
 ### Additional Information
 
@@ -221,14 +147,14 @@ Friday 11 December 2020 at 6:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 11 December 2020 at 11:00 | no launch event
+Friday 11 December 2020 at 15:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 December 2020 at 20:28
-- [x] Exported to Keepeek Thursday 3 December 2020 at 20:12
-- [x] Exported to OECD.org Thursday 3 December 2020 at 19:59
+- [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
+- [x] Exported to Keepeek Thursday 10 December 2020 at 20:14
+- [x] Exported to OECD.org Thursday 10 December 2020 at 20:01
 
 ### Additional Information
 
@@ -244,14 +170,14 @@ Friday 11 December 2020 at 11:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 11 December 2020 at 11:00 | no launch event
+Friday 11 December 2020 at 15:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 December 2020 at 20:28
-- [x] Exported to Keepeek Thursday 3 December 2020 at 20:12
-- [x] Exported to OECD.org Thursday 3 December 2020 at 19:59
+- [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
+- [x] Exported to Keepeek Thursday 10 December 2020 at 20:14
+- [x] Exported to OECD.org Thursday 10 December 2020 at 20:01
 
 ### Additional Information
 
@@ -267,14 +193,14 @@ Friday 11 December 2020 at 11:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 11 December 2020 at 11:00 | no launch event
+Friday 11 December 2020 at 15:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 December 2020 at 20:28
-- [x] Exported to Keepeek Thursday 3 December 2020 at 20:12
-- [x] Exported to OECD.org Thursday 3 December 2020 at 19:59
+- [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
+- [x] Exported to Keepeek Thursday 10 December 2020 at 20:14
+- [x] Exported to OECD.org Thursday 10 December 2020 at 20:01
 
 ### Additional Information
 
@@ -289,6 +215,98 @@ Friday 11 December 2020 at 11:00 | no launch event
 ------
 
 # 14 December 2020
+
+## [Developing a national assessment that supports Kazakhstan’s education goals](https://doi.org/10.1787/1c4ed074-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 December 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 10 December 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Raising the quality of initial teacher education and support for early career teachers in Kazakhstan](https://doi.org/10.1787/68c45a81-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 December 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 10 December 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Strengthening national examinations in Kazakhstan to achieve national goals](https://doi.org/10.1787/0bf8662b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 December 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 10 December 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Developing a school evaluation framework to drive school improvement](https://doi.org/10.1787/60b471de-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 December 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 10 December 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Linking Indigenous Communities with Regional Development in Australia](https://doi.org/10.1787/ab4d8d52-en)
 
@@ -372,9 +390,9 @@ Tuesday 15 December 2020 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Saturday 28 November 2020 at 13:52
+- [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Saturday 28 November 2020 at 13:09
+- [x] Exported to OECD.org Thursday 10 December 2020 at 20:01
 
 ### Additional Information
 
@@ -382,7 +400,7 @@ Tuesday 15 December 2020 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -410,6 +428,29 @@ Wednesday 16 December 2020 at 8:30 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+## [Promoting an Age-Inclusive Workforce - Living, Learning and Earning Longer](https://doi.org/10.1787/59752153-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 16 December 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 10 December 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
