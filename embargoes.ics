@@ -2,92 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/55c19888-end3e63
-SUMMARY:Guiding Principles for Durable Extractiv
- e Contracts
-DESCRIPTION:*Guiding Principles for Durable Extracti
- ve Contracts*\n\nDirectorate: Developmen
- t Centre\nLanguage: English\nDOI: https:
- //doi.org/10.1787/55c19888-en\nPublicati
- on type: Book\nReleased as: ePub, HTML, 
- PDF\n\nEmbargo date/time: Wednesday, 9 D
- ecember 2020, 8:00 (GMT)\n\n\niLibrary e
- xport: Thursday, 10 December 2020, 19:28
-  (GMT)\nFreepreview export: Monday, 7 De
- cember 2020, 19:11 (GMT)\nOECD.org expor
- t: Thursday, 10 December 2020, 19:01 (GM
- T)\nFTI loaded: ✓\n\nFor more informatio
- n see: https://oecd.github.io/embargo-ca
- lendar/embargoes-by-publication.html.\n\
- nPlease note: This information was corre
- ct as of this afternoon at 20:56, it is 
- updated each night; therefore any subseq
- uent updates may not yet be visible here
- . Also, please be aware that the differe
- nt released media (PDF, HTML, etc.) are 
- not necessarily released at the same tim
- e. For complete and up-to-date informati
- on see here: http://kappa.oecd.org/v3/se
- arch?term=55c19888-en.
-DTSTAMP:20201210T205630Z
-DTSTART:20201209T080000Z
-DTEND:20201209T081500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Guiding Principles for Durable
-  Extractive Contracts
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/175eeff4-end3e10374
-SUMMARY:Peer Review of the Automatic Exchange of
-  Financial Account Information 2020
-DESCRIPTION:*Peer Review of the Automatic Exchange o
- f Financial Account Information 2020*\n\
- nDirectorate: Centre for Tax Policy and 
- Administration\nLanguage: English\nDOI: 
- https://doi.org/10.1787/175eeff4-en\nPub
- lication type: Stand-alone monograph\nRe
- leased as: ePub, HTML, Paperback, PDF\n\
- nEmbargo date/time: Wednesday, 9 Decembe
- r 2020, 11:00 (GMT)\n\n\niLibrary export
- : Thursday, 3 December 2020, 19:28 (GMT)
- \nFreepreview export: Wednesday, 2 Decem
- ber 2020, 19:14 (GMT)\nOECD.org export: 
- Thursday, 10 December 2020, 19:01 (GMT)\
- nFTI loaded: ✓\n\nFor more information s
- ee: https://oecd.github.io/embargo-calen
- dar/embargoes-by-publication.html.\n\nPl
- ease note: This information was correct 
- as of this afternoon at 20:56, it is upd
- ated each night; therefore any subsequen
- t updates may not yet be visible here. A
- lso, please be aware that the different 
- released media (PDF, HTML, etc.) are not
-  necessarily released at the same time. 
- For complete and up-to-date information 
- see here: http://kappa.oecd.org/v3/searc
- h?term=175eeff4-en.
-DTSTAMP:20201210T205630Z
-DTSTART:20201209T110000Z
-DTEND:20201209T111500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Peer Review of the Automatic E
- xchange of Financial Account Information
-  2020
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/7946bc8a-end3e12585
+UID:10.1787/7946bc8a-end3e280
 SUMMARY:OECD Review of Fisheries 2020
 DESCRIPTION:*OECD Review of Fisheries 2020*\n\nDirec
  torate: Trade and Agriculture Directorat
@@ -99,21 +14,21 @@ DESCRIPTION:*OECD Review of Fisheries 2020*\n\nDirec
  ry export: Tuesday, 8 December 2020, 19:
  28 (GMT)\nFreepreview export: Wednesday,
   2 December 2020, 19:14 (GMT)\nOECD.org 
- export: Wednesday, 9 December 2020, 19:0
- 0 (GMT)\nFTI loaded: ✓\n\nFor more infor
- mation see: https://oecd.github.io/embar
- go-calendar/embargoes-by-publication.htm
- l.\n\nPlease note: This information was 
- correct as of this afternoon at 20:56, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=7946bc8a-en.
-DTSTAMP:20201210T205630Z
+ export: Friday, 11 December 2020, 19:00 
+ (GMT)\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 20:59, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=7946bc8a-en.
+DTSTAMP:20201211T205946Z
 DTSTART:20201210T090000Z
 DTEND:20201210T091500Z
 TRANSP:TRANSPARENT
@@ -126,7 +41,7 @@ DESCRIPTION:Reminder: OECD Review of Fisheries 2020
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/673aeb7f-end3e13515
+UID:10.1787/673aeb7f-end3e1221
 SUMMARY:OECD Economic Surveys: Finland 2020
 DESCRIPTION:*OECD Economic Surveys: Finland 2020*\n\
  nDirectorate: Economics Department\nLang
@@ -137,22 +52,22 @@ DESCRIPTION:*OECD Economic Surveys: Finland 2020*\n\
  ber 2020, 10:00 (GMT)\n\n\niLibrary expo
  rt: Tuesday, 8 December 2020, 19:28 (GMT
  )\nFreepreview export: Tuesday, 8 Decemb
- er 2020, 19:11 (GMT)\nOECD.org export: W
- ednesday, 9 December 2020, 19:00 (GMT)\n
- FTI loaded: ✓\n\nFor more information se
- e: https://oecd.github.io/embargo-calend
- ar/embargoes-by-publication.html.\n\nPle
- ase note: This information was correct a
- s of this afternoon at 20:56, it is upda
- ted each night; therefore any subsequent
-  updates may not yet be visible here. Al
- so, please be aware that the different r
- eleased media (PDF, HTML, etc.) are not 
- necessarily released at the same time. F
- or complete and up-to-date information s
- ee here: http://kappa.oecd.org/v3/search
- ?term=673aeb7f-en.
-DTSTAMP:20201210T205630Z
+ er 2020, 19:11 (GMT)\nOECD.org export: F
+ riday, 11 December 2020, 19:00 (GMT)\nFT
+ I loaded: ✓\n\nFor more information see:
+  https://oecd.github.io/embargo-calendar
+ /embargoes-by-publication.html.\n\nPleas
+ e note: This information was correct as 
+ of this afternoon at 20:59, it is update
+ d each night; therefore any subsequent u
+ pdates may not yet be visible here. Also
+ , please be aware that the different rel
+ eased media (PDF, HTML, etc.) are not ne
+ cessarily released at the same time. For
+  complete and up-to-date information see
+  here: http://kappa.oecd.org/v3/search?t
+ erm=673aeb7f-en.
+DTSTAMP:20201211T205946Z
 DTSTART:20201210T100000Z
 DTEND:20201210T101500Z
 TRANSP:TRANSPARENT
@@ -166,7 +81,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Finland
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/93abd66a-end3e13571
+UID:10.1787/93abd66a-end3e1280
 SUMMARY:New data collection on accrued-to-date s
  ocial insurance pension entitlements in 
  a national accounts context  - Main find
@@ -187,7 +102,7 @@ DESCRIPTION:*New data collection on accrued-to-date
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 20:56, it is
+ ect as of this afternoon at 20:59, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -196,7 +111,7 @@ DESCRIPTION:*New data collection on accrued-to-date
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=93abd66a-en.
-DTSTAMP:20201210T205630Z
+DTSTAMP:20201211T205946Z
 DTSTART:20201211T060000Z
 DTEND:20201211T061500Z
 TRANSP:TRANSPARENT
@@ -212,7 +127,7 @@ DESCRIPTION:Reminder: New data collection on accrued
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/960316d9-end3e13735
+UID:10.1787/960316d9-end3e1444
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Slova
  k Republic 2020 (Second Round) - Peer Re
@@ -237,7 +152,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  oecd.github.io/embargo-calendar/embargoe
  s-by-publication.html.\n\nPlease note: T
  his information was correct as of this a
- fternoon at 20:56, it is updated each ni
+ fternoon at 20:59, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -246,7 +161,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=96031
  6d9-en.
-DTSTAMP:20201210T205630Z
+DTSTAMP:20201211T205946Z
 DTSTART:20201211T150000Z
 DTEND:20201211T151500Z
 TRANSP:TRANSPARENT
@@ -263,7 +178,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b6dd4a18-end3e13792
+UID:10.1787/b6dd4a18-end3e1501
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Domin
  ica 2020 (Second Round) - Peer Review Re
@@ -288,7 +203,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 20:56, it is updated each night; th
+ n at 20:59, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -296,7 +211,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=b6dd4a18-en.
-DTSTAMP:20201210T205630Z
+DTSTAMP:20201211T205946Z
 DTSTART:20201211T150000Z
 DTEND:20201211T151500Z
 TRANSP:TRANSPARENT
@@ -313,7 +228,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5a08658c-end3e13904
+UID:10.1787/5a08658c-end3e1613
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Cypru
  s 2020 (Second Round) - Peer Review Repo
@@ -338,7 +253,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  ub.io/embargo-calendar/embargoes-by-publ
  ication.html.\n\nPlease note: This infor
  mation was correct as of this afternoon 
- at 20:56, it is updated each night; ther
+ at 20:59, it is updated each night; ther
  efore any subsequent updates may not yet
   be visible here. Also, please be aware 
  that the different released media (PDF, 
@@ -346,7 +261,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=5a08658c-en.
-DTSTAMP:20201210T205630Z
+DTSTAMP:20201211T205946Z
 DTSTART:20201211T150000Z
 DTEND:20201211T151500Z
 TRANSP:TRANSPARENT
@@ -363,7 +278,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1c4ed074-end3e13961
+UID:10.1787/1c4ed074-end3e1670
 SUMMARY:Developing a national assessment that su
  pports Kazakhstan’s education goals
 DESCRIPTION:*Developing a national assessment that s
@@ -376,21 +291,21 @@ DESCRIPTION:*Developing a national assessment that s
  0, 6:00 (GMT)\n\n\niLibrary export: Thur
  sday, 10 December 2020, 19:28 (GMT)\nFre
  epreview export: never\nOECD.org export:
-  Thursday, 10 December 2020, 19:01 (GMT)
- \nFTI loaded: ✓\n\nFor more information 
- see: https://oecd.github.io/embargo-cale
- ndar/embargoes-by-publication.html.\n\nP
- lease note: This information was correct
-  as of this afternoon at 20:56, it is up
- dated each night; therefore any subseque
- nt updates may not yet be visible here. 
- Also, please be aware that the different
-  released media (PDF, HTML, etc.) are no
- t necessarily released at the same time.
-  For complete and up-to-date information
-  see here: http://kappa.oecd.org/v3/sear
- ch?term=1c4ed074-en.
-DTSTAMP:20201210T205630Z
+  Friday, 11 December 2020, 19:00 (GMT)\n
+ FTI loaded: ✓\n\nFor more information se
+ e: https://oecd.github.io/embargo-calend
+ ar/embargoes-by-publication.html.\n\nPle
+ ase note: This information was correct a
+ s of this afternoon at 20:59, it is upda
+ ted each night; therefore any subsequent
+  updates may not yet be visible here. Al
+ so, please be aware that the different r
+ eleased media (PDF, HTML, etc.) are not 
+ necessarily released at the same time. F
+ or complete and up-to-date information s
+ ee here: http://kappa.oecd.org/v3/search
+ ?term=1c4ed074-en.
+DTSTAMP:20201211T205946Z
 DTSTART:20201214T060000Z
 DTEND:20201214T061500Z
 TRANSP:TRANSPARENT
@@ -405,7 +320,7 @@ DESCRIPTION:Reminder: Developing a national assessme
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/68c45a81-end3e14016
+UID:10.1787/68c45a81-end3e1725
 SUMMARY:Raising the quality of initial teacher e
  ducation and support for early career te
  achers in Kazakhstan
@@ -419,22 +334,22 @@ DESCRIPTION:*Raising the quality of initial teacher
  : Monday, 14 December 2020, 6:00 (GMT)\n
  \n\niLibrary export: Thursday, 10 Decemb
  er 2020, 19:28 (GMT)\nFreepreview export
- : never\nOECD.org export: Thursday, 10 D
- ecember 2020, 19:01 (GMT)\nFTI loaded: ✓
- \n\nFor more information see: https://oe
- cd.github.io/embargo-calendar/embargoes-
- by-publication.html.\n\nPlease note: Thi
- s information was correct as of this aft
- ernoon at 20:56, it is updated each nigh
- t; therefore any subsequent updates may 
- not yet be visible here. Also, please be
-  aware that the different released media
-  (PDF, HTML, etc.) are not necessarily r
- eleased at the same time. For complete a
- nd up-to-date information see here: http
- ://kappa.oecd.org/v3/search?term=68c45a8
- 1-en.
-DTSTAMP:20201210T205630Z
+ : never\nOECD.org export: Friday, 11 Dec
+ ember 2020, 19:00 (GMT)\nFTI loaded: ✓\n
+ \nFor more information see: https://oecd
+ .github.io/embargo-calendar/embargoes-by
+ -publication.html.\n\nPlease note: This 
+ information was correct as of this after
+ noon at 20:59, it is updated each night;
+  therefore any subsequent updates may no
+ t yet be visible here. Also, please be a
+ ware that the different released media (
+ PDF, HTML, etc.) are not necessarily rel
+ eased at the same time. For complete and
+  up-to-date information see here: http:/
+ /kappa.oecd.org/v3/search?term=68c45a81-
+ en.
+DTSTAMP:20201211T205946Z
 DTSTART:20201214T060000Z
 DTEND:20201214T061500Z
 TRANSP:TRANSPARENT
@@ -449,7 +364,7 @@ DESCRIPTION:Reminder: Raising the quality of initial
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0bf8662b-end3e14071
+UID:10.1787/0bf8662b-end3e1780
 SUMMARY:Strengthening national examinations in K
  azakhstan to achieve national goals
 DESCRIPTION:*Strengthening national examinations in 
@@ -462,21 +377,21 @@ DESCRIPTION:*Strengthening national examinations in
  0, 6:00 (GMT)\n\n\niLibrary export: Thur
  sday, 10 December 2020, 19:28 (GMT)\nFre
  epreview export: never\nOECD.org export:
-  Thursday, 10 December 2020, 19:01 (GMT)
- \nFTI loaded: ✓\n\nFor more information 
- see: https://oecd.github.io/embargo-cale
- ndar/embargoes-by-publication.html.\n\nP
- lease note: This information was correct
-  as of this afternoon at 20:56, it is up
- dated each night; therefore any subseque
- nt updates may not yet be visible here. 
- Also, please be aware that the different
-  released media (PDF, HTML, etc.) are no
- t necessarily released at the same time.
-  For complete and up-to-date information
-  see here: http://kappa.oecd.org/v3/sear
- ch?term=0bf8662b-en.
-DTSTAMP:20201210T205630Z
+  Friday, 11 December 2020, 19:00 (GMT)\n
+ FTI loaded: ✓\n\nFor more information se
+ e: https://oecd.github.io/embargo-calend
+ ar/embargoes-by-publication.html.\n\nPle
+ ase note: This information was correct a
+ s of this afternoon at 20:59, it is upda
+ ted each night; therefore any subsequent
+  updates may not yet be visible here. Al
+ so, please be aware that the different r
+ eleased media (PDF, HTML, etc.) are not 
+ necessarily released at the same time. F
+ or complete and up-to-date information s
+ ee here: http://kappa.oecd.org/v3/search
+ ?term=0bf8662b-en.
+DTSTAMP:20201211T205946Z
 DTSTART:20201214T060000Z
 DTEND:20201214T061500Z
 TRANSP:TRANSPARENT
@@ -491,7 +406,7 @@ DESCRIPTION:Reminder: Strengthening national examina
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/60b471de-end3e14126
+UID:10.1787/60b471de-end3e1835
 SUMMARY:Developing a school evaluation framework
   to drive school improvement
 DESCRIPTION:*Developing a school evaluation framewor
@@ -503,22 +418,22 @@ DESCRIPTION:*Developing a school evaluation framewor
  ate/time: Monday, 14 December 2020, 6:00
   (GMT)\n\n\niLibrary export: Thursday, 1
  0 December 2020, 19:28 (GMT)\nFreeprevie
- w export: never\nOECD.org export: Thursd
- ay, 10 December 2020, 19:01 (GMT)\nFTI l
- oaded: ✓\n\nFor more information see: ht
- tps://oecd.github.io/embargo-calendar/em
- bargoes-by-publication.html.\n\nPlease n
- ote: This information was correct as of 
- this afternoon at 20:56, it is updated e
- ach night; therefore any subsequent upda
- tes may not yet be visible here. Also, p
- lease be aware that the different releas
- ed media (PDF, HTML, etc.) are not neces
- sarily released at the same time. For co
- mplete and up-to-date information see he
- re: http://kappa.oecd.org/v3/search?term
- =60b471de-en.
-DTSTAMP:20201210T205630Z
+ w export: never\nOECD.org export: Friday
+ , 11 December 2020, 19:00 (GMT)\nFTI loa
+ ded: ✓\n\nFor more information see: http
+ s://oecd.github.io/embargo-calendar/emba
+ rgoes-by-publication.html.\n\nPlease not
+ e: This information was correct as of th
+ is afternoon at 20:59, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=6
+ 0b471de-en.
+DTSTAMP:20201211T205946Z
 DTSTART:20201214T060000Z
 DTEND:20201214T061500Z
 TRANSP:TRANSPARENT
@@ -532,7 +447,7 @@ DESCRIPTION:Reminder: Developing a school evaluation
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ab4d8d52-end3e14182
+UID:10.1787/ab4d8d52-end3e1890
 SUMMARY:Linking Indigenous Communities with Regi
  onal Development in Australia
 DESCRIPTION:*Linking Indigenous Communities with Reg
@@ -546,21 +461,21 @@ DESCRIPTION:*Linking Indigenous Communities with Reg
  niLibrary export: Wednesday, 9 December 
  2020, 19:28 (GMT)\nFreepreview export: W
  ednesday, 9 December 2020, 19:13 (GMT)\n
- OECD.org export: Wednesday, 9 December 2
- 020, 19:00 (GMT)\nFTI loaded: ✓\n\nFor m
- ore information see: https://oecd.github
- .io/embargo-calendar/embargoes-by-public
- ation.html.\n\nPlease note: This informa
- tion was correct as of this afternoon at
-  20:56, it is updated each night; theref
- ore any subsequent updates may not yet b
- e visible here. Also, please be aware th
- at the different released media (PDF, HT
- ML, etc.) are not necessarily released a
- t the same time. For complete and up-to-
- date information see here: http://kappa.
- oecd.org/v3/search?term=ab4d8d52-en.
-DTSTAMP:20201210T205630Z
+ OECD.org export: Friday, 11 December 202
+ 0, 19:00 (GMT)\nFTI loaded: ✓\n\nFor mor
+ e information see: https://oecd.github.i
+ o/embargo-calendar/embargoes-by-publicat
+ ion.html.\n\nPlease note: This informati
+ on was correct as of this afternoon at 2
+ 0:59, it is updated each night; therefor
+ e any subsequent updates may not yet be 
+ visible here. Also, please be aware that
+  the different released media (PDF, HTML
+ , etc.) are not necessarily released at 
+ the same time. For complete and up-to-da
+ te information see here: http://kappa.oe
+ cd.org/v3/search?term=ab4d8d52-en.
+DTSTAMP:20201211T205946Z
 DTSTART:20201214T070000Z
 DTEND:20201214T071500Z
 TRANSP:TRANSPARENT
@@ -574,32 +489,153 @@ DESCRIPTION:Reminder: Linking Indigenous Communities
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0d33d7b7-end3e16872
+UID:10.1787/f1fb9d6a-end3e4581
+SUMMARY:How effective are automatic fiscal stabi
+ lisers in the OECD countries?
+DESCRIPTION:*How effective are automatic fiscal stab
+ ilisers in the OECD countries?*\n\nDirec
+ torate: Economics Department\nLanguage: 
+ English\nDOI: https://doi.org/10.1787/f1
+ fb9d6a-en\nPublication type: Paper\nRele
+ ased as: PDF\n\nEmbargo date/time: Tuesd
+ ay, 15 December 2020, 6:00 (GMT)\n\n\niL
+ ibrary export: Friday, 11 December 2020,
+  19:31 (GMT)\nFreepreview export: never\
+ nOECD.org export: Friday, 11 December 20
+ 20, 19:00 (GMT)\nFTI loaded: ✓\n\nFor mo
+ re information see: https://oecd.github.
+ io/embargo-calendar/embargoes-by-publica
+ tion.html.\n\nPlease note: This informat
+ ion was correct as of this afternoon at 
+ 20:59, it is updated each night; therefo
+ re any subsequent updates may not yet be
+  visible here. Also, please be aware tha
+ t the different released media (PDF, HTM
+ L, etc.) are not necessarily released at
+  the same time. For complete and up-to-d
+ ate information see here: http://kappa.o
+ ecd.org/v3/search?term=f1fb9d6a-en.
+DTSTAMP:20201211T205946Z
+DTSTART:20201215T060000Z
+DTEND:20201215T061500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: How effective are automatic fi
+ scal stabilisers in the OECD countries?
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/89ebdce7-end3e4636
+SUMMARY:Banks, debts and workers
+DESCRIPTION:*Banks, debts and workers*\n\nDirectorat
+ e: Economics Department\nLanguage: Engli
+ sh\nDOI: https://doi.org/10.1787/89ebdce
+ 7-en\nPublication type: Paper\nReleased 
+ as: PDF\n\nEmbargo date/time: Tuesday, 1
+ 5 December 2020, 6:00 (GMT)\n\n\niLibrar
+ y export: Friday, 11 December 2020, 19:3
+ 1 (GMT)\nFreepreview export: never\nOECD
+ .org export: Friday, 11 December 2020, 1
+ 9:00 (GMT)\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 20:59
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=89ebdce7-en.
+DTSTAMP:20201211T205946Z
+DTSTART:20201215T060000Z
+DTEND:20201215T061500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Banks, debts and workers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/816b1b06-end3e4691
+SUMMARY: Automatic fiscal stabilisers: Recent ev
+ olution and policy options to boost thei
+ r effectiveness
+DESCRIPTION:* Automatic fiscal stabilisers: Recent e
+ volution and policy options to boost the
+ ir effectiveness*\n\nDirectorate: Econom
+ ics Department\nLanguage: English\nDOI: 
+ https://doi.org/10.1787/816b1b06-en\nPub
+ lication type: Paper\nReleased as: PDF\n
+ \nEmbargo date/time: Tuesday, 15 Decembe
+ r 2020, 6:00 (GMT)\n\n\niLibrary export:
+  Friday, 11 December 2020, 19:31 (GMT)\n
+ Freepreview export: never\nOECD.org expo
+ rt: Friday, 11 December 2020, 19:00 (GMT
+ )\nFTI loaded: ✓\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 20:59, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=816b1b06-en.
+DTSTAMP:20201211T205946Z
+DTSTART:20201215T060000Z
+DTEND:20201215T061500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder:  Automatic fiscal stabilisers:
+  Recent evolution and policy options to 
+ boost their effectiveness
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/0d33d7b7-end3e5236
 SUMMARY:OECD Investment Policy Reviews: Georgia
 DESCRIPTION:*OECD Investment Policy Reviews: Georgia
  *\n\nDirectorate: Directorate for Financ
  ial and Enterprise Affairs\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/0d33
  d7b7-en\nPublication type: Book\nRelease
- d as: PDF\n\nEmbargo date/time: Tuesday,
-  15 December 2020, 9:00 (GMT)\n\n\niLibr
- ary export: Tuesday, 8 December 2020, 19
- :28 (GMT)\nFreepreview export: never\nOE
- CD.org export: Tuesday, 8 December 2020,
-  19:00 (GMT)\nFTI loaded: ✗\n\nFor more 
- information see: https://oecd.github.io/
- embargo-calendar/embargoes-by-publicatio
- n.html.\n\nPlease note: This information
-  was correct as of this afternoon at 20:
- 56, it is updated each night; therefore 
- any subsequent updates may not yet be vi
- sible here. Also, please be aware that t
- he different released media (PDF, HTML, 
- etc.) are not necessarily released at th
- e same time. For complete and up-to-date
-  information see here: http://kappa.oecd
- .org/v3/search?term=0d33d7b7-en.
-DTSTAMP:20201210T205630Z
+ d as: ePub, HTML, PDF\n\nEmbargo date/ti
+ me: Tuesday, 15 December 2020, 9:00 (GMT
+ )\n\n\niLibrary export: Friday, 11 Decem
+ ber 2020, 19:31 (GMT)\nFreepreview expor
+ t: Friday, 11 December 2020, 19:15 (GMT)
+ \nOECD.org export: Friday, 11 December 2
+ 020, 19:00 (GMT)\nFTI loaded: ✓\n\nFor m
+ ore information see: https://oecd.github
+ .io/embargo-calendar/embargoes-by-public
+ ation.html.\n\nPlease note: This informa
+ tion was correct as of this afternoon at
+  20:59, it is updated each night; theref
+ ore any subsequent updates may not yet b
+ e visible here. Also, please be aware th
+ at the different released media (PDF, HT
+ ML, etc.) are not necessarily released a
+ t the same time. For complete and up-to-
+ date information see here: http://kappa.
+ oecd.org/v3/search?term=0d33d7b7-en.
+DTSTAMP:20201211T205946Z
 DTSTART:20201215T090000Z
 DTEND:20201215T091500Z
 TRANSP:TRANSPARENT
@@ -613,7 +649,7 @@ DESCRIPTION:Reminder: OECD Investment Policy Reviews
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0a530888-end3e21871
+UID:10.1787/0a530888-end3e16060
 SUMMARY:Lessons for Education from COVID-19 - A 
  Policy Maker’s Handbook for More Resilie
  nt Systems
@@ -626,23 +662,24 @@ DESCRIPTION:*Lessons for Education from COVID-19 - A
  nograph\nReleased as: Paperback, PDF\n\n
  Embargo date/time: Tuesday, 15 December 
  2020, 10:00 (GMT)\n\n\niLibrary export: 
- Wednesday, 2 December 2020, 20:00 (GMT)\
- nFreepreview export: never\nOECD.org exp
- ort: Wednesday, 2 December 2020, 18:58 (
- GMT)\nFTI loaded: ✗\n\nFor more informat
- ion see: https://oecd.github.io/embargo-
- calendar/embargoes-by-publication.html.\
- n\nPlease note: This information was cor
- rect as of this afternoon at 20:56, it i
- s updated each night; therefore any subs
- equent updates may not yet be visible he
- re. Also, please be aware that the diffe
- rent released media (PDF, HTML, etc.) ar
- e not necessarily released at the same t
- ime. For complete and up-to-date informa
- tion see here: http://kappa.oecd.org/v3/
- search?term=0a530888-en.
-DTSTAMP:20201210T205630Z
+ Friday, 11 December 2020, 19:31 (GMT)\nF
+ reepreview export: Friday, 11 December 2
+ 020, 19:15 (GMT)\nOECD.org export: Frida
+ y, 11 December 2020, 19:00 (GMT)\nFTI lo
+ aded: ✓\n\nFor more information see: htt
+ ps://oecd.github.io/embargo-calendar/emb
+ argoes-by-publication.html.\n\nPlease no
+ te: This information was correct as of t
+ his afternoon at 20:59, it is updated ea
+ ch night; therefore any subsequent updat
+ es may not yet be visible here. Also, pl
+ ease be aware that the different release
+ d media (PDF, HTML, etc.) are not necess
+ arily released at the same time. For com
+ plete and up-to-date information see her
+ e: http://kappa.oecd.org/v3/search?term=
+ 0a530888-en.
+DTSTAMP:20201211T205946Z
 DTSTART:20201215T100000Z
 DTEND:20201215T101500Z
 TRANSP:TRANSPARENT
@@ -657,7 +694,7 @@ DESCRIPTION:Reminder: Lessons for Education from COV
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/afd1bf8c-end3e22139
+UID:10.1787/afd1bf8c-end3e16554
 SUMMARY:Harmful Tax Practices – 2019 Peer Review
   Reports on the Exchange of Information 
  on Tax Rulings - Inclusive Framework on 
@@ -672,23 +709,24 @@ DESCRIPTION:*Harmful Tax Practices – 2019 Peer Revie
  nReleased as: ePub, HTML, Paperback, PDF
  \n\nEmbargo date/time: Tuesday, 15 Decem
  ber 2020, 10:00 (GMT)\n\n\niLibrary expo
- rt: Thursday, 10 December 2020, 19:28 (G
- MT)\nFreepreview export: never\nOECD.org
-  export: Thursday, 10 December 2020, 19:
- 01 (GMT)\nFTI loaded: ✗\n\nFor more info
- rmation see: https://oecd.github.io/emba
- rgo-calendar/embargoes-by-publication.ht
- ml.\n\nPlease note: This information was
-  correct as of this afternoon at 20:56, 
- it is updated each night; therefore any 
- subsequent updates may not yet be visibl
- e here. Also, please be aware that the d
- ifferent released media (PDF, HTML, etc.
- ) are not necessarily released at the sa
- me time. For complete and up-to-date inf
- ormation see here: http://kappa.oecd.org
- /v3/search?term=afd1bf8c-en.
-DTSTAMP:20201210T205630Z
+ rt: Friday, 11 December 2020, 19:31 (GMT
+ )\nFreepreview export: Friday, 11 Decemb
+ er 2020, 19:15 (GMT)\nOECD.org export: F
+ riday, 11 December 2020, 19:00 (GMT)\nFT
+ I loaded: ✓\n\nFor more information see:
+  https://oecd.github.io/embargo-calendar
+ /embargoes-by-publication.html.\n\nPleas
+ e note: This information was correct as 
+ of this afternoon at 20:59, it is update
+ d each night; therefore any subsequent u
+ pdates may not yet be visible here. Also
+ , please be aware that the different rel
+ eased media (PDF, HTML, etc.) are not ne
+ cessarily released at the same time. For
+  complete and up-to-date information see
+  here: http://kappa.oecd.org/v3/search?t
+ erm=afd1bf8c-en.
+DTSTAMP:20201211T205946Z
 DTSTART:20201215T100000Z
 DTEND:20201215T101500Z
 TRANSP:TRANSPARENT
@@ -704,7 +742,7 @@ DESCRIPTION:Reminder: Harmful Tax Practices – 2019 P
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b56512da-end3e22627
+UID:10.1787/b56512da-end3e17107
 SUMMARY:OECD Investment Policy Reviews: Indonesi
  a 2020
 DESCRIPTION:*OECD Investment Policy Reviews: Indones
@@ -723,7 +761,7 @@ DESCRIPTION:*OECD Investment Policy Reviews: Indones
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 20:56, it is updated eac
+ is afternoon at 20:59, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -732,7 +770,7 @@ DESCRIPTION:*OECD Investment Policy Reviews: Indones
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=b
  56512da-en.
-DTSTAMP:20201210T205630Z
+DTSTAMP:20201211T205946Z
 DTSTART:20201216T083000Z
 DTEND:20201216T084500Z
 TRANSP:TRANSPARENT
@@ -746,7 +784,7 @@ DESCRIPTION:Reminder: OECD Investment Policy Reviews
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/59752153-end3e23721
+UID:10.1787/59752153-end3e18201
 SUMMARY:Promoting an Age-Inclusive Workforce - L
  iving, Learning and Earning Longer
 DESCRIPTION:*Promoting an Age-Inclusive Workforce - 
@@ -757,24 +795,25 @@ DESCRIPTION:*Promoting an Age-Inclusive Workforce -
  2153-en\nPublication type: Stand-alone m
  onograph\nReleased as: PDF\n\nEmbargo da
  te/time: Wednesday, 16 December 2020, 10
- :00 (GMT)\n\n\niLibrary export: Thursday
- , 10 December 2020, 19:28 (GMT)\nFreepre
- view export: never\nOECD.org export: Thu
- rsday, 10 December 2020, 19:01 (GMT)\nFT
- I loaded: ✗\n\nFor more information see:
-  https://oecd.github.io/embargo-calendar
- /embargoes-by-publication.html.\n\nPleas
- e note: This information was correct as 
- of this afternoon at 20:56, it is update
- d each night; therefore any subsequent u
- pdates may not yet be visible here. Also
- , please be aware that the different rel
- eased media (PDF, HTML, etc.) are not ne
- cessarily released at the same time. For
-  complete and up-to-date information see
-  here: http://kappa.oecd.org/v3/search?t
- erm=59752153-en.
-DTSTAMP:20201210T205630Z
+ :00 (GMT)\n\n\niLibrary export: Friday, 
+ 11 December 2020, 19:31 (GMT)\nFreeprevi
+ ew export: Friday, 11 December 2020, 19:
+ 15 (GMT)\nOECD.org export: Friday, 11 De
+ cember 2020, 19:00 (GMT)\nFTI loaded: ✓\
+ n\nFor more information see: https://oec
+ d.github.io/embargo-calendar/embargoes-b
+ y-publication.html.\n\nPlease note: This
+  information was correct as of this afte
+ rnoon at 20:59, it is updated each night
+ ; therefore any subsequent updates may n
+ ot yet be visible here. Also, please be 
+ aware that the different released media 
+ (PDF, HTML, etc.) are not necessarily re
+ leased at the same time. For complete an
+ d up-to-date information see here: http:
+ //kappa.oecd.org/v3/search?term=59752153
+ -en.
+DTSTAMP:20201211T205946Z
 DTSTART:20201216T100000Z
 DTEND:20201216T101500Z
 TRANSP:TRANSPARENT
@@ -789,32 +828,33 @@ DESCRIPTION:Reminder: Promoting an Age-Inclusive Wor
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/250240ad-end3e23776
+UID:10.1787/250240ad-end3e18313
 SUMMARY:OECD Economic Surveys: Brazil 2020
 DESCRIPTION:*OECD Economic Surveys: Brazil 2020*\n\n
  Directorate: Economics Department\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/250240ad-en\nPublication type: Econom
- ic survey\nReleased as: PDF\n\nEmbargo d
- ate/time: Wednesday, 16 December 2020, 1
- 7:00 (GMT)\n\n\niLibrary export: Monday,
-  30 November 2020, 19:21 (GMT)\nFreeprev
- iew export: never\nOECD.org export: Mond
- ay, 30 November 2020, 19:00 (GMT)\nFTI l
- oaded: ✗\n\nFor more information see: ht
- tps://oecd.github.io/embargo-calendar/em
- bargoes-by-publication.html.\n\nPlease n
- ote: This information was correct as of 
- this afternoon at 20:56, it is updated e
- ach night; therefore any subsequent upda
- tes may not yet be visible here. Also, p
- lease be aware that the different releas
- ed media (PDF, HTML, etc.) are not neces
- sarily released at the same time. For co
- mplete and up-to-date information see he
- re: http://kappa.oecd.org/v3/search?term
- =250240ad-en.
-DTSTAMP:20201210T205630Z
+ ic survey\nReleased as: HTML, PDF\n\nEmb
+ argo date/time: Wednesday, 16 December 2
+ 020, 17:00 (GMT)\n\n\niLibrary export: F
+ riday, 11 December 2020, 19:31 (GMT)\nFr
+ eepreview export: Friday, 11 December 20
+ 20, 19:15 (GMT)\nOECD.org export: Friday
+ , 11 December 2020, 19:00 (GMT)\nFTI loa
+ ded: ✓\n\nFor more information see: http
+ s://oecd.github.io/embargo-calendar/emba
+ rgoes-by-publication.html.\n\nPlease not
+ e: This information was correct as of th
+ is afternoon at 20:59, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=2
+ 50240ad-en.
+DTSTAMP:20201211T205946Z
 DTSTART:20201216T170000Z
 DTEND:20201216T171500Z
 TRANSP:TRANSPARENT
@@ -828,7 +868,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Brazil
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2cd09ab1-end3e23935
+UID:10.1787/2cd09ab1-end3e18474
 SUMMARY:OECD Economic Surveys: Turkey 2020
 DESCRIPTION:*OECD Economic Surveys: Turkey 2020*\n\n
  Directorate: Economics Department\nLangu
@@ -843,7 +883,7 @@ DESCRIPTION:*OECD Economic Surveys: Turkey 2020*\n\n
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 20:56, it is updated each night; the
+  at 20:59, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -851,7 +891,7 @@ DESCRIPTION:*OECD Economic Surveys: Turkey 2020*\n\n
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=2cd09ab1-en.
-DTSTAMP:20201210T205630Z
+DTSTAMP:20201211T205946Z
 DTSTART:20201217T100000Z
 DTEND:20201217T101500Z
 TRANSP:TRANSPARENT
@@ -865,7 +905,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Turkey
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ddfba4de-end3e24037
+UID:10.1787/ddfba4de-end3e18576
 SUMMARY:Making Better Policies for Food Systems
 DESCRIPTION:*Making Better Policies for Food Systems
  *\n\nDirectorate: Trade and Agriculture 
@@ -880,7 +920,7 @@ DESCRIPTION:*Making Better Policies for Food Systems
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 20:56, it is upd
+ as of this afternoon at 20:59, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -889,7 +929,7 @@ DESCRIPTION:*Making Better Policies for Food Systems
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=ddfba4de-en.
-DTSTAMP:20201210T205630Z
+DTSTAMP:20201211T205946Z
 DTSTART:20210111T090000Z
 DTEND:20210111T091500Z
 TRANSP:TRANSPARENT
@@ -903,7 +943,7 @@ DESCRIPTION:Reminder: Making Better Policies for Foo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/75f79015-end3e24088
+UID:10.1787/75f79015-end3e18627
 SUMMARY:OECD Science, Technology and Innovation 
  Outlook 2021 - Times of Crisis and Oppor
  tunity
@@ -923,7 +963,7 @@ DESCRIPTION:*OECD Science, Technology and Innovation
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 20:56, it is updated each 
+  afternoon at 20:59, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -932,7 +972,7 @@ DESCRIPTION:*OECD Science, Technology and Innovation
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=75f
  79015-en.
-DTSTAMP:20201210T205630Z
+DTSTAMP:20201211T205946Z
 DTSTART:20210112T080000Z
 DTEND:20210112T081500Z
 TRANSP:TRANSPARENT
@@ -947,7 +987,7 @@ DESCRIPTION:Reminder: OECD Science, Technology and I
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a58d1c1a-lvd3e24632
+UID:10.1787/a58d1c1a-lvd3e19171
 SUMMARY:Digitalizācija Latvijā
 DESCRIPTION:*Digitalizācija Latvijā*\n\nDirectorate:
   Directorate for Science, Technology and
@@ -963,7 +1003,7 @@ DESCRIPTION:*Digitalizācija Latvijā*\n\nDirectorate:
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 20:56, it i
+ rect as of this afternoon at 20:59, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -972,7 +1012,7 @@ DESCRIPTION:*Digitalizācija Latvijā*\n\nDirectorate:
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=a58d1c1a-lv.
-DTSTAMP:20201210T205630Z
+DTSTAMP:20201211T205946Z
 DTSTART:20210128T083000Z
 DTEND:20210128T084500Z
 TRANSP:TRANSPARENT
@@ -985,7 +1025,7 @@ DESCRIPTION:Reminder: Digitalizācija Latvijā
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8eec1828-end3e24958
+UID:10.1787/8eec1828-end3e19497
 SUMMARY:Going Digital in Latvia
 DESCRIPTION:*Going Digital in Latvia*\n\nDirectorate
  : Directorate for Science, Technology an
@@ -1002,7 +1042,7 @@ DESCRIPTION:*Going Digital in Latvia*\n\nDirectorate
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 20:56, i
+ correct as of this afternoon at 20:59, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -1011,7 +1051,7 @@ DESCRIPTION:*Going Digital in Latvia*\n\nDirectorate
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=8eec1828-en.
-DTSTAMP:20201210T205630Z
+DTSTAMP:20201211T205946Z
 DTSTART:20210128T083000Z
 DTEND:20210128T084500Z
 TRANSP:TRANSPARENT
@@ -1024,7 +1064,7 @@ DESCRIPTION:Reminder: Going Digital in Latvia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3b9551db-end3e25615
+UID:10.1787/3b9551db-end3e20154
 SUMMARY:Exploring the Factors that Influence Stu
  dent Outcomes - Insights from TALIS and 
  PISA
@@ -1042,7 +1082,7 @@ DESCRIPTION:*Exploring the Factors that Influence St
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 20:56, it is updated ea
+ his afternoon at 20:59, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -1051,7 +1091,7 @@ DESCRIPTION:*Exploring the Factors that Influence St
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  3b9551db-en.
-DTSTAMP:20201210T205630Z
+DTSTAMP:20201211T205946Z
 DTSTART:20210202T100000Z
 DTEND:20210202T101500Z
 TRANSP:TRANSPARENT

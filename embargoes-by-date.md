@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 10 December 2020 at 20:56* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 11 December 2020 at 20:59* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [9 December 2020](#9-december-2020)
 * [10 December 2020](#10-december-2020)
 * [11 December 2020](#11-december-2020)
 * [14 December 2020](#14-december-2020)
@@ -15,56 +14,6 @@ Data generated on | |
 * [12 January 2021](#12-january-2021)
 * [28 January 2021](#28-january-2021)
 * [2 February 2021](#2-february-2021)
-
-------
-
-# 9 December 2020
-
-## [Guiding Principles for Durable Extractive Contracts](https://doi.org/10.1787/55c19888-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 9 December 2020 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
-- [x] Exported to Keepeek Monday 7 December 2020 at 20:11
-- [x] Exported to OECD.org Thursday 10 December 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Peer Review of the Automatic Exchange of Financial Account Information 2020](https://doi.org/10.1787/175eeff4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 9 December 2020 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 December 2020 at 20:28
-- [x] Exported to Keepeek Wednesday 2 December 2020 at 20:14
-- [x] Exported to OECD.org Thursday 10 December 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -81,7 +30,7 @@ Thursday 10 December 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 8 December 2020 at 20:28
 - [x] Exported to Keepeek Wednesday 2 December 2020 at 20:14
-- [x] Exported to OECD.org Wednesday 9 December 2020 at 20:00
+- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
 
 ### Additional Information
 
@@ -104,7 +53,7 @@ Thursday 10 December 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 8 December 2020 at 20:28
 - [x] Exported to Keepeek Tuesday 8 December 2020 at 20:11
-- [x] Exported to OECD.org Wednesday 9 December 2020 at 20:00
+- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
 
 ### Additional Information
 
@@ -227,7 +176,7 @@ Monday 14 December 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 10 December 2020 at 20:01
+- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
 
 ### Additional Information
 
@@ -250,7 +199,7 @@ Monday 14 December 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 10 December 2020 at 20:01
+- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
 
 ### Additional Information
 
@@ -273,7 +222,7 @@ Monday 14 December 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 10 December 2020 at 20:01
+- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
 
 ### Additional Information
 
@@ -296,7 +245,7 @@ Monday 14 December 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 10 December 2020 at 20:01
+- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
 
 ### Additional Information
 
@@ -319,7 +268,7 @@ Monday 14 December 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 9 December 2020 at 20:28
 - [x] Exported to Keepeek Wednesday 9 December 2020 at 20:13
-- [x] Exported to OECD.org Wednesday 9 December 2020 at 20:00
+- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
 
 ### Additional Information
 
@@ -335,6 +284,75 @@ Monday 14 December 2020 at 7:00 | no launch event
 
 # 15 December 2020
 
+## [How effective are automatic fiscal stabilisers in the OECD countries?](https://doi.org/10.1787/f1fb9d6a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 December 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 December 2020 at 20:31
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Banks, debts and workers](https://doi.org/10.1787/89ebdce7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 December 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 December 2020 at 20:31
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [ Automatic fiscal stabilisers: Recent evolution and policy options to boost their effectiveness](https://doi.org/10.1787/816b1b06-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 December 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 December 2020 at 20:31
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [OECD Investment Policy Reviews: Georgia](https://doi.org/10.1787/0d33d7b7-en)
 
 Embargo date | Launch date
@@ -343,18 +361,18 @@ Tuesday 15 December 2020 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 8 December 2020 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 December 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 December 2020 at 20:31
+- [x] Exported to Keepeek Friday 11 December 2020 at 20:15
+- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -366,16 +384,16 @@ Tuesday 15 December 2020 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 2 December 2020 at 21:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 2 December 2020 at 19:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 December 2020 at 20:31
+- [x] Exported to Keepeek Friday 11 December 2020 at 20:15
+- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -389,16 +407,16 @@ Tuesday 15 December 2020 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 10 December 2020 at 20:01
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 December 2020 at 20:31
+- [x] Exported to Keepeek Friday 11 December 2020 at 20:15
+- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -439,16 +457,16 @@ Wednesday 16 December 2020 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 10 December 2020 at 20:01
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 December 2020 at 20:31
+- [x] Exported to Keepeek Friday 11 December 2020 at 20:15
+- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -462,18 +480,18 @@ Wednesday 16 December 2020 at 17:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 30 November 2020 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 30 November 2020 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 December 2020 at 20:31
+- [x] Exported to Keepeek Friday 11 December 2020 at 20:15
+- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *HTML, PDF*
 
 ------
 
