@@ -2,145 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 11 December 2020 at 20:59* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Review of Fisheries 2020](https://doi.org/10.1787/7946bc8a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 10 December 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 8 December 2020 at 20:28
-- [x] Exported to Keepeek Wednesday 2 December 2020 at 20:14
-- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Finland 2020](https://doi.org/10.1787/673aeb7f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 10 December 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 8 December 2020 at 20:28
-- [x] Exported to Keepeek Tuesday 8 December 2020 at 20:11
-- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [New data collection on accrued-to-date social insurance pension entitlements in a national accounts context  - Main findings](https://doi.org/10.1787/93abd66a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 11 December 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 9 December 2020 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 December 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Statistics and Data Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Slovak Republic 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/960316d9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 11 December 2020 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
-- [x] Exported to Keepeek Thursday 10 December 2020 at 20:14
-- [x] Exported to OECD.org Thursday 10 December 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Dominica 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/b6dd4a18-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 11 December 2020 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
-- [x] Exported to Keepeek Thursday 10 December 2020 at 20:14
-- [x] Exported to OECD.org Thursday 10 December 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Cyprus 2020 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/5a08658c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 11 December 2020 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
-- [x] Exported to Keepeek Thursday 10 December 2020 at 20:14
-- [x] Exported to OECD.org Thursday 10 December 2020 at 20:01
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
+| *Monday 14 December 2020 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Developing a national assessment that supports Kazakhstan’s education goals](https://doi.org/10.1787/1c4ed074-en)
 
@@ -335,9 +197,9 @@ Tuesday 15 December 2020 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 December 2020 at 20:31
+- [x] Exported to iLibrary Monday 14 December 2020 at 20:24
 - [x] Exported to Keepeek Friday 11 December 2020 at 20:15
-- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
+- [x] Exported to OECD.org Monday 14 December 2020 at 20:01
 
 ### Additional Information
 
@@ -360,7 +222,7 @@ Tuesday 15 December 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 December 2020 at 20:31
 - [x] Exported to Keepeek Friday 11 December 2020 at 20:15
-- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
+- [x] Exported to OECD.org Monday 14 December 2020 at 20:01
 
 ### Additional Information
 
@@ -383,7 +245,7 @@ Tuesday 15 December 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 December 2020 at 20:31
 - [x] Exported to Keepeek Friday 11 December 2020 at 20:15
-- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
+- [x] Exported to OECD.org Monday 14 December 2020 at 20:01
 
 ### Additional Information
 
@@ -392,6 +254,29 @@ Tuesday 15 December 2020 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Improving the collection of information on literacy proficiency in household surveys](https://doi.org/10.1787/d02155e2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 16 December 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 14 December 2020 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 14 December 2020 at 20:01
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -483,6 +368,29 @@ Thursday 17 December 2020 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Public Procurement in the State of Mexico - Enhancing Efficiency and Competition](https://doi.org/10.1787/cc1da607-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 January 2021 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
