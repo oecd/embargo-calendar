@@ -2,15 +2,17 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 14 December 2020 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 15 December 2020 at 21:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [14 December 2020](#14-december-2020)
 * [15 December 2020](#15-december-2020)
 * [16 December 2020](#16-december-2020)
 * [17 December 2020](#17-december-2020)
+* [18 December 2020](#18-december-2020)
 * [5 January 2021](#5-january-2021)
 * [11 January 2021](#11-january-2021)
 * [12 January 2021](#12-january-2021)
+* [25 January 2021](#25-january-2021)
 * [28 January 2021](#28-january-2021)
 * [2 February 2021](#2-february-2021)
 
@@ -29,7 +31,7 @@ Monday 14 December 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
+- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
 
 ### Additional Information
 
@@ -52,7 +54,7 @@ Monday 14 December 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
+- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
 
 ### Additional Information
 
@@ -75,7 +77,7 @@ Monday 14 December 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
+- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
 
 ### Additional Information
 
@@ -98,7 +100,7 @@ Monday 14 December 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
+- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
 
 ### Additional Information
 
@@ -121,7 +123,7 @@ Monday 14 December 2020 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 9 December 2020 at 20:28
 - [x] Exported to Keepeek Wednesday 9 December 2020 at 20:13
-- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
+- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
 
 ### Additional Information
 
@@ -146,7 +148,7 @@ Tuesday 15 December 2020 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 December 2020 at 20:31
+- [x] Exported to iLibrary Tuesday 15 December 2020 at 20:48
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 11 December 2020 at 20:00
 
@@ -169,7 +171,7 @@ Tuesday 15 December 2020 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 December 2020 at 20:31
+- [x] Exported to iLibrary Tuesday 15 December 2020 at 20:48
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 11 December 2020 at 20:00
 
@@ -192,7 +194,7 @@ Tuesday 15 December 2020 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 December 2020 at 20:31
+- [x] Exported to iLibrary Tuesday 15 December 2020 at 20:48
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 11 December 2020 at 20:00
 
@@ -313,7 +315,7 @@ Wednesday 16 December 2020 at 8:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 26 November 2020 at 20:30
 - [x] Exported to Keepeek Thursday 26 November 2020 at 20:15
-- [x] Exported to OECD.org Thursday 26 November 2020 at 20:00
+- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
 
 ### Additional Information
 
@@ -336,7 +338,7 @@ Wednesday 16 December 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 December 2020 at 20:31
 - [x] Exported to Keepeek Friday 11 December 2020 at 20:15
-- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
+- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
 
 ### Additional Information
 
@@ -359,7 +361,7 @@ Wednesday 16 December 2020 at 17:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 December 2020 at 20:31
 - [x] Exported to Keepeek Friday 11 December 2020 at 20:15
-- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
+- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
 
 ### Additional Information
 
@@ -400,6 +402,102 @@ Thursday 17 December 2020 at 10:00 | no launch event
 
 ------
 
+# 18 December 2020
+
+## [Making Thailand’s services sector more competitive through international trade](https://doi.org/10.1787/f36f505d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 18 December 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 15 December 2020 at 20:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Why are some U.S. cities successful, while others are not? Empirical evidence from machine learning](https://doi.org/10.1787/7f77c2e7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 18 December 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 15 December 2020 at 20:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Thailand’s education system and skills imbalances: Assessment and policy recommendations](https://doi.org/10.1787/b79addb6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 18 December 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 15 December 2020 at 20:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [The decline in labour mobility in the United States: Insights from new administrative data](https://doi.org/10.1787/9af7f956-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 18 December 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 15 December 2020 at 20:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 5 January 2021
 
 ## [Public Procurement in the State of Mexico - Enhancing Efficiency and Competition](https://doi.org/10.1787/cc1da607-en)
@@ -411,15 +509,15 @@ Tuesday 5 January 2021 at 14:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 15 December 2020 at 20:48
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -473,6 +571,33 @@ Tuesday 12 January 2021 at 8:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 25 January 2021
+
+## [Tendances des impôts sur la consommation 2020 - TVA/TPS et droits d'accises – taux, tendances et questions stratégiques](https://doi.org/10.1787/3f06ea4d-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 25 January 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 15 December 2020 at 20:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
