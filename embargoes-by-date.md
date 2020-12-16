@@ -2,138 +2,19 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 15 December 2020 at 21:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 16 December 2020 at 20:53* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [14 December 2020](#14-december-2020)
 * [15 December 2020](#15-december-2020)
 * [16 December 2020](#16-december-2020)
 * [17 December 2020](#17-december-2020)
 * [18 December 2020](#18-december-2020)
+* [24 December 2020](#24-december-2020)
 * [5 January 2021](#5-january-2021)
 * [11 January 2021](#11-january-2021)
 * [12 January 2021](#12-january-2021)
 * [25 January 2021](#25-january-2021)
 * [28 January 2021](#28-january-2021)
 * [2 February 2021](#2-february-2021)
-
-------
-
-# 14 December 2020
-
-## [Developing a national assessment that supports Kazakhstan’s education goals](https://doi.org/10.1787/1c4ed074-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 December 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Raising the quality of initial teacher education and support for early career teachers in Kazakhstan](https://doi.org/10.1787/68c45a81-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 December 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Strengthening national examinations in Kazakhstan to achieve national goals](https://doi.org/10.1787/0bf8662b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 December 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Developing a school evaluation framework to drive school improvement](https://doi.org/10.1787/60b471de-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 December 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 10 December 2020 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Linking Indigenous Communities with Regional Development in Australia](https://doi.org/10.1787/ab4d8d52-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 December 2020 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 9 December 2020 at 20:28
-- [x] Exported to Keepeek Wednesday 9 December 2020 at 20:13
-- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
 
 ------
 
@@ -150,7 +31,7 @@ Tuesday 15 December 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 15 December 2020 at 20:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 16 December 2020 at 20:07
 
 ### Additional Information
 
@@ -173,7 +54,7 @@ Tuesday 15 December 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 15 December 2020 at 20:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 16 December 2020 at 20:07
 
 ### Additional Information
 
@@ -196,7 +77,7 @@ Tuesday 15 December 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 15 December 2020 at 20:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 December 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 16 December 2020 at 20:07
 
 ### Additional Information
 
@@ -219,7 +100,7 @@ Tuesday 15 December 2020 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 14 December 2020 at 20:24
 - [x] Exported to Keepeek Friday 11 December 2020 at 20:15
-- [x] Exported to OECD.org Monday 14 December 2020 at 20:01
+- [x] Exported to OECD.org Wednesday 16 December 2020 at 20:07
 
 ### Additional Information
 
@@ -242,7 +123,7 @@ Tuesday 15 December 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 December 2020 at 20:31
 - [x] Exported to Keepeek Friday 11 December 2020 at 20:15
-- [x] Exported to OECD.org Monday 14 December 2020 at 20:01
+- [x] Exported to OECD.org Wednesday 16 December 2020 at 20:07
 
 ### Additional Information
 
@@ -265,7 +146,7 @@ Tuesday 15 December 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 December 2020 at 20:31
 - [x] Exported to Keepeek Friday 11 December 2020 at 20:15
-- [x] Exported to OECD.org Monday 14 December 2020 at 20:01
+- [x] Exported to OECD.org Wednesday 16 December 2020 at 20:07
 
 ### Additional Information
 
@@ -314,7 +195,7 @@ Wednesday 16 December 2020 at 8:30 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 26 November 2020 at 20:30
-- [x] Exported to Keepeek Thursday 26 November 2020 at 20:15
+- [x] Exported to Keepeek Wednesday 16 December 2020 at 20:19
 - [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
 
 ### Additional Information
@@ -415,7 +296,7 @@ Friday 18 December 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 15 December 2020 at 20:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
+- [x] Exported to OECD.org Wednesday 16 December 2020 at 20:07
 
 ### Additional Information
 
@@ -438,7 +319,7 @@ Friday 18 December 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 15 December 2020 at 20:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
+- [x] Exported to OECD.org Wednesday 16 December 2020 at 20:07
 
 ### Additional Information
 
@@ -461,7 +342,7 @@ Friday 18 December 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 15 December 2020 at 20:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
+- [x] Exported to OECD.org Wednesday 16 December 2020 at 20:07
 
 ### Additional Information
 
@@ -484,11 +365,61 @@ Friday 18 December 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 15 December 2020 at 20:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
+- [x] Exported to OECD.org Wednesday 16 December 2020 at 20:07
 
 ### Additional Information
 
 * Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Improving education outcomes for students who have experienced trauma and/or adversity](https://doi.org/10.1787/54d45980-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 18 December 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 16 December 2020 at 20:30
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 16 December 2020 at 20:07
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 24 December 2020
+
+## [Anticipatory innovation governance - Shaping the future through proactive policy making](https://doi.org/10.1787/cce14d80-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 December 2020 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 16 December 2020 at 20:30
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 16 December 2020 at 20:07
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
