@@ -2,145 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 16 December 2020 at 20:53* | [See embargoes by date](embargoes-by-date.md) |
-
-## [How effective are automatic fiscal stabilisers in the OECD countries?](https://doi.org/10.1787/f1fb9d6a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 December 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 December 2020 at 20:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 16 December 2020 at 20:07
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Banks, debts and workers](https://doi.org/10.1787/89ebdce7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 December 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 December 2020 at 20:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 16 December 2020 at 20:07
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [ Automatic fiscal stabilisers: Recent evolution and policy options to boost their effectiveness](https://doi.org/10.1787/816b1b06-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 December 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 December 2020 at 20:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 16 December 2020 at 20:07
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Investment Policy Reviews: Georgia](https://doi.org/10.1787/0d33d7b7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 December 2020 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 14 December 2020 at 20:24
-- [x] Exported to Keepeek Friday 11 December 2020 at 20:15
-- [x] Exported to OECD.org Wednesday 16 December 2020 at 20:07
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Lessons for Education from COVID-19 - A Policy Maker’s Handbook for More Resilient Systems](https://doi.org/10.1787/0a530888-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 December 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 December 2020 at 20:31
-- [x] Exported to Keepeek Friday 11 December 2020 at 20:15
-- [x] Exported to OECD.org Wednesday 16 December 2020 at 20:07
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Harmful Tax Practices – 2019 Peer Review Reports on the Exchange of Information on Tax Rulings - Inclusive Framework on BEPS: Action 5 ](https://doi.org/10.1787/afd1bf8c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 December 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 December 2020 at 20:31
-- [x] Exported to Keepeek Friday 11 December 2020 at 20:15
-- [x] Exported to OECD.org Wednesday 16 December 2020 at 20:07
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Thursday 17 December 2020 at 20:55* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Improving the collection of information on literacy proficiency in household surveys](https://doi.org/10.1787/d02155e2-en)
 
@@ -153,7 +15,7 @@ Wednesday 16 December 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 14 December 2020 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 December 2020 at 20:01
+- [x] Exported to OECD.org Thursday 17 December 2020 at 20:18
 
 ### Additional Information
 
@@ -176,7 +38,7 @@ Wednesday 16 December 2020 at 8:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 26 November 2020 at 20:30
 - [x] Exported to Keepeek Wednesday 16 December 2020 at 20:19
-- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
+- [x] Exported to OECD.org Thursday 17 December 2020 at 20:18
 
 ### Additional Information
 
@@ -199,7 +61,7 @@ Wednesday 16 December 2020 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 December 2020 at 20:31
 - [x] Exported to Keepeek Friday 11 December 2020 at 20:15
-- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
+- [x] Exported to OECD.org Thursday 17 December 2020 at 20:18
 
 ### Additional Information
 
@@ -222,7 +84,7 @@ Wednesday 16 December 2020 at 17:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 December 2020 at 20:31
 - [x] Exported to Keepeek Friday 11 December 2020 at 20:15
-- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
+- [x] Exported to OECD.org Thursday 17 December 2020 at 20:18
 
 ### Additional Information
 
@@ -368,6 +230,29 @@ Friday 18 December 2020 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Guidance on the transfer pricing implications of the COVID-19 pandemic](https://doi.org/10.1787/731a59b0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 18 December 2020 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy response*
 * Format: *PDF*
 
 ------
