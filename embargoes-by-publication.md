@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 17 December 2020 at 20:55* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Improving the collection of information on literacy proficiency in household surveys](https://doi.org/10.1787/d02155e2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 16 December 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 14 December 2020 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 December 2020 at 20:18
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Investment Policy Reviews: Indonesia 2020](https://doi.org/10.1787/b56512da-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 16 December 2020 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 26 November 2020 at 20:30
-- [x] Exported to Keepeek Wednesday 16 December 2020 at 20:19
-- [x] Exported to OECD.org Thursday 17 December 2020 at 20:18
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Promoting an Age-Inclusive Workforce - Living, Learning and Earning Longer](https://doi.org/10.1787/59752153-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 16 December 2020 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 December 2020 at 20:31
-- [x] Exported to Keepeek Friday 11 December 2020 at 20:15
-- [x] Exported to OECD.org Thursday 17 December 2020 at 20:18
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Brazil 2020](https://doi.org/10.1787/250240ad-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 16 December 2020 at 17:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 December 2020 at 20:31
-- [x] Exported to Keepeek Friday 11 December 2020 at 20:15
-- [x] Exported to OECD.org Thursday 17 December 2020 at 20:18
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *HTML, PDF*
-
-------
+| *Friday 18 December 2020 at 21:14* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Turkey 2020](https://doi.org/10.1787/2cd09ab1-en)
 
@@ -243,7 +151,7 @@ Friday 18 December 2020 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 18 December 2020 at 20:44
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -253,7 +161,7 @@ Friday 18 December 2020 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Policy response*
-* Format: *PDF*
+* Formats: *HTML, PDF*
 
 ------
 
@@ -300,6 +208,29 @@ Tuesday 5 January 2021 at 14:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Contratación Pública en el Estado de México - Mejorando la Eficiencia y la Competencia](https://doi.org/10.1787/fb81b622-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 January 2021 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
