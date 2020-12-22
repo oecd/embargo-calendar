@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 21 December 2020 at 21:01* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 22 December 2020 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Anticipatory innovation governance - Shaping the future through proactive policy making](https://doi.org/10.1787/cce14d80-en)
 
@@ -15,7 +15,7 @@ Thursday 24 December 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 16 December 2020 at 20:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 16 December 2020 at 20:07
+- [x] Exported to OECD.org Tuesday 22 December 2020 at 20:00
 
 ### Additional Information
 
@@ -35,16 +35,16 @@ Tuesday 5 January 2021 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 15 December 2020 at 20:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 22 December 2020 at 20:24
+- [x] Exported to Keepeek Tuesday 22 December 2020 at 20:14
+- [x] Exported to OECD.org Tuesday 22 December 2020 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -174,9 +174,9 @@ Thursday 28 January 2021 at 8:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
+- [x] Exported to iLibrary Tuesday 22 December 2020 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
+- [x] Exported to OECD.org Tuesday 22 December 2020 at 20:00
 
 ### Additional Information
 
