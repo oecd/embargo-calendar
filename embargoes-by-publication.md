@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 22 December 2020 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 23 December 2020 at 20:33* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Anticipatory innovation governance - Shaping the future through proactive policy making](https://doi.org/10.1787/cce14d80-en)
 
