@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 24 December 2020 at 20:33* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 25 December 2020 at 20:33* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [24 December 2020](#24-december-2020)
 * [5 January 2021](#5-january-2021)
@@ -27,7 +27,7 @@ Thursday 24 December 2020 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 16 December 2020 at 20:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 December 2020 at 20:00
+- [x] Exported to OECD.org Friday 25 December 2020 at 19:53
 
 ### Additional Information
 
