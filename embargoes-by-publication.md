@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 25 December 2020 at 20:33* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Anticipatory innovation governance - Shaping the future through proactive policy making](https://doi.org/10.1787/cce14d80-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 24 December 2020 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 16 December 2020 at 20:30
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 December 2020 at 19:53
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Monday 28 December 2020 at 20:35* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Public Procurement in the State of Mexico - Enhancing Efficiency and Competition](https://doi.org/10.1787/cc1da607-en)
 
