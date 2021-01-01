@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 31 December 2020 at 20:33* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 1 January 2021 at 20:35* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Public Procurement in the State of Mexico - Enhancing Efficiency and Competition](https://doi.org/10.1787/cc1da607-en)
 
