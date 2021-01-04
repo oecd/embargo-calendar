@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 1 January 2021 at 20:35* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Public Procurement in the State of Mexico - Enhancing Efficiency and Competition](https://doi.org/10.1787/cc1da607-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 January 2021 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 22 December 2020 at 20:24
-- [x] Exported to Keepeek Tuesday 22 December 2020 at 20:14
-- [x] Exported to OECD.org Tuesday 22 December 2020 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Contratación Pública en el Estado de México - Mejorando la Eficiencia y la Competencia](https://doi.org/10.1787/fb81b622-es)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 January 2021 at 14:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Monday 4 January 2021 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Making Better Policies for Food Systems](https://doi.org/10.1787/ddfba4de-en)
 
@@ -59,15 +13,15 @@ Monday 11 January 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 4 January 2021 at 20:22
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 4 January 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -105,15 +59,15 @@ Monday 25 January 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 4 January 2021 at 20:22
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 4 January 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Issue*
 * Formats: *Paperback, PDF*
 
@@ -188,7 +142,53 @@ Thursday 28 January 2021 at 8:30 | no launch event
 
 ------
 
-## [Exploring the Factors that Influence Student Outcomes - Insights from TALIS and PISA](https://doi.org/10.1787/3b9551db-en)
+## [Public Procurement in the State of Mexico - Enhancing Efficiency and Competition](https://doi.org/10.1787/cc1da607-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 1 February 2021 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 4 January 2021 at 20:22
+- [x] Exported to Keepeek Monday 4 January 2021 at 20:11
+- [x] Exported to OECD.org Monday 4 January 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Contratación Pública en el Estado de México - Mejorando la Eficiencia y la Competencia](https://doi.org/10.1787/fb81b622-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 1 February 2021 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Positive, High-achieving Students? - What Schools and Teachers Can Do](https://doi.org/10.1787/3b9551db-en)
 
 Embargo date | Launch date
 -------------|:------------:
