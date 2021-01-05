@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 4 January 2021 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 5 January 2021 at 20:46* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [11 January 2021](#11-january-2021)
 * [12 January 2021](#12-january-2021)
@@ -23,18 +23,18 @@ Monday 11 January 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 4 January 2021 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 January 2021 at 19:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 5 January 2021 at 20:23
+- [x] Exported to Keepeek Tuesday 5 January 2021 at 20:12
+- [x] Exported to OECD.org Tuesday 5 January 2021 at 19:58
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 

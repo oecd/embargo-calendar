@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2021-01-04T20:45:04.6824053+01:00">
+<report name="official-embargoes" generated="2021-01-05T20:46:36.0336146+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -42,16 +42,116 @@
   </row>
   <row index="2">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/ddcf9356-en</cell>
+    <cell name="title">Principles for policy coherence (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-01-11</cell>
+    <cell name="embargo date">2021-01-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-05T19:23:41Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c41e7b80</cell>
+  </row>
+  <row index="3">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/964b23c9-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-01-11</cell>
+    <cell name="embargo date">2021-01-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-05T19:23:41Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1a05e21c</cell>
+  </row>
+  <row index="4">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/4d4643d6-en</cell>
+    <cell name="title">Achieving better policies (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-01-11</cell>
+    <cell name="embargo date">2021-01-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-05T19:23:41Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f5af1789</cell>
+  </row>
+  <row index="5">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/7958534c-en</cell>
+    <cell name="title">The contribution of the seed sector to the triple challenge (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-01-11</cell>
+    <cell name="embargo date">2021-01-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-05T19:23:41Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d99f9023</cell>
+  </row>
+  <row index="6">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/4d4643d6-en</cell>
+    <cell name="title">Achieving better policies (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-01-11</cell>
+    <cell name="embargo date">2021-01-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-05T19:23:41Z</cell>
+    <cell name="freepreview last export date">2021-01-05T19:12:39Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/892e9ad7</cell>
+  </row>
+  <row index="7">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/ddfba4de-en</cell>
     <cell name="title">Making Better Policies for Food Systems (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2021-01-11</cell>
     <cell name="embargo date">2021-01-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2021-01-05T19:23:41Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -60,27 +160,327 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e0d859b7</cell>
   </row>
-  <row index="3">
+  <row index="8">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/ddfba4de-en</cell>
+    <cell name="title">Making Better Policies for Food Systems (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-01-11</cell>
+    <cell name="embargo date">2021-01-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-05T19:23:41Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0a181bb</cell>
+  </row>
+  <row index="9">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/964b23c9-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-01-11</cell>
+    <cell name="embargo date">2021-01-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-05T19:23:41Z</cell>
+    <cell name="freepreview last export date">2021-01-05T19:12:39Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/96a74fe4</cell>
+  </row>
+  <row index="10">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/ddfba4de-en</cell>
     <cell name="title">Making Better Policies for Food Systems (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2021-01-11</cell>
     <cell name="embargo date">2021-01-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-01-04T19:22:16Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-01-04T18:57:28Z</cell>
+    <cell name="ilibrary last export date">2021-01-05T19:23:41Z</cell>
+    <cell name="freepreview last export date">2021-01-05T19:12:39Z</cell>
+    <cell name="oecd.org last export date">2021-01-05T18:58:52Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/93056881</cell>
   </row>
-  <row index="4">
+  <row index="11">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/ed93d80a-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-01-11</cell>
+    <cell name="embargo date">2021-01-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-05T19:23:41Z</cell>
+    <cell name="freepreview last export date">2021-01-05T19:12:39Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/af9e2213</cell>
+  </row>
+  <row index="12">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/edf73cce-en</cell>
+    <cell name="title">The triple challenge (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-01-11</cell>
+    <cell name="embargo date">2021-01-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-05T19:23:41Z</cell>
+    <cell name="freepreview last export date">2021-01-05T19:12:39Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/584bf4f3</cell>
+  </row>
+  <row index="13">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/1249685c-en</cell>
+    <cell name="title">Conclusion (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-01-11</cell>
+    <cell name="embargo date">2021-01-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-05T19:23:41Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41882071</cell>
+  </row>
+  <row index="14">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/ed93d80a-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-01-11</cell>
+    <cell name="embargo date">2021-01-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-05T19:23:41Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a9c46d41</cell>
+  </row>
+  <row index="15">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/5957da5a-en</cell>
+    <cell name="title">The contribution of the ruminant livestock sector to the triple challenge (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-01-11</cell>
+    <cell name="embargo date">2021-01-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-05T19:23:41Z</cell>
+    <cell name="freepreview last export date">2021-01-05T19:12:39Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bb651d8e</cell>
+  </row>
+  <row index="16">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/edf73cce-en</cell>
+    <cell name="title">The triple challenge (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-01-11</cell>
+    <cell name="embargo date">2021-01-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-05T19:23:41Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e97e6318</cell>
+  </row>
+  <row index="17">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/ddcf9356-en</cell>
+    <cell name="title">Principles for policy coherence (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-01-11</cell>
+    <cell name="embargo date">2021-01-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-05T19:23:41Z</cell>
+    <cell name="freepreview last export date">2021-01-05T19:12:39Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/be7a525c</cell>
+  </row>
+  <row index="18">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/ddfba4de-en</cell>
+    <cell name="title">Making Better Policies for Food Systems (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-01-11</cell>
+    <cell name="embargo date">2021-01-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-05T19:23:41Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2021-01-05T18:58:52Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d2333761</cell>
+  </row>
+  <row index="19">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/15ae7a3c-en</cell>
+    <cell name="title">The contribution of the processed food sector to the triple challenge (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-01-11</cell>
+    <cell name="embargo date">2021-01-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-05T19:23:41Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fce57ef1</cell>
+  </row>
+  <row index="20">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/5957da5a-en</cell>
+    <cell name="title">The contribution of the ruminant livestock sector to the triple challenge (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-01-11</cell>
+    <cell name="embargo date">2021-01-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-05T19:23:41Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4da9ed79</cell>
+  </row>
+  <row index="21">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/1249685c-en</cell>
+    <cell name="title">Conclusion (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-01-11</cell>
+    <cell name="embargo date">2021-01-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-05T19:23:41Z</cell>
+    <cell name="freepreview last export date">2021-01-05T19:12:39Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5bb82f6d</cell>
+  </row>
+  <row index="22">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/7958534c-en</cell>
+    <cell name="title">The contribution of the seed sector to the triple challenge (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-01-11</cell>
+    <cell name="embargo date">2021-01-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-05T19:23:41Z</cell>
+    <cell name="freepreview last export date">2021-01-05T19:12:39Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c71c36be</cell>
+  </row>
+  <row index="23">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/15ae7a3c-en</cell>
+    <cell name="title">The contribution of the processed food sector to the triple challenge (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-01-11</cell>
+    <cell name="embargo date">2021-01-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-05T19:23:41Z</cell>
+    <cell name="freepreview last export date">2021-01-05T19:12:39Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cf597b33</cell>
+  </row>
+  <row index="24">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/75f79015-en</cell>
     <cell name="title">OECD Science, Technology and Innovation Outlook 2021 (en)</cell>
@@ -100,7 +500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6ab362f4</cell>
   </row>
-  <row index="5">
+  <row index="25">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/75f79015-en</cell>
     <cell name="title">OECD Science, Technology and Innovation Outlook 2021 (en)</cell>
@@ -120,7 +520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6a60b02c</cell>
   </row>
-  <row index="6">
+  <row index="26">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/711629f8-en</cell>
     <cell name="title">Economic Outlook for Southeast Asia, China and India 2021 (en)</cell>
@@ -140,7 +540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/01733799</cell>
   </row>
-  <row index="7">
+  <row index="27">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/711629f8-en</cell>
     <cell name="title">Economic Outlook for Southeast Asia, China and India 2021 (en)</cell>
@@ -160,7 +560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/228ee2d3</cell>
   </row>
-  <row index="8">
+  <row index="28">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3f06ea4d-fr</cell>
     <cell name="title">Tendances des impôts sur la consommation 2020 (fr)</cell>
@@ -180,7 +580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fcf3184e</cell>
   </row>
-  <row index="9">
+  <row index="29">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3f06ea4d-fr</cell>
     <cell name="title">Tendances des impôts sur la consommation 2020 (fr)</cell>
@@ -200,7 +600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8a8dcc1f</cell>
   </row>
-  <row index="10">
+  <row index="30">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/e341ffed-en</cell>
     <cell name="title">Latvia in the digital transformation: Opportunities and challenges (en)</cell>
@@ -220,7 +620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/306832fc</cell>
   </row>
-  <row index="11">
+  <row index="31">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/cf006e1b-en</cell>
     <cell name="title">Policies for digital transformation: Recommendations for a whole-of-government approach (en)</cell>
@@ -240,7 +640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0eb714c8</cell>
   </row>
-  <row index="12">
+  <row index="32">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/e341ffed-en</cell>
     <cell name="title">Latvia in the digital transformation: Opportunities and challenges (en)</cell>
@@ -260,7 +660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b47bf220</cell>
   </row>
-  <row index="13">
+  <row index="33">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/bd08771e-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -280,7 +680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/85d9a4fd</cell>
   </row>
-  <row index="14">
+  <row index="34">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/fa7178b3-en</cell>
     <cell name="title">Key future uncertainties in digital transformation and potential implications for Latvia (en)</cell>
@@ -300,7 +700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/29ff4650</cell>
   </row>
-  <row index="15">
+  <row index="35">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/8eec1828-en</cell>
     <cell name="title">Going Digital in Latvia (en)</cell>
@@ -320,7 +720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc7e1dcc</cell>
   </row>
-  <row index="16">
+  <row index="36">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/50dbec04-en</cell>
     <cell name="title">Enhancing trust in the digital economy (en)</cell>
@@ -340,7 +740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/711732dd</cell>
   </row>
-  <row index="17">
+  <row index="37">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/55062b2d-en</cell>
     <cell name="title">Acronyms, abbreviations and units of measure (en)</cell>
@@ -360,7 +760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/74ba3741</cell>
   </row>
-  <row index="18">
+  <row index="38">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/a58d1c1a-lv</cell>
     <cell name="title">Digitalizācija Latvijā (lv)</cell>
@@ -380,7 +780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41933cb1</cell>
   </row>
-  <row index="19">
+  <row index="39">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/fa7178b3-en</cell>
     <cell name="title">Key future uncertainties in digital transformation and potential implications for Latvia (en)</cell>
@@ -400,7 +800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5771a17a</cell>
   </row>
-  <row index="20">
+  <row index="40">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/e862aee0-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -420,7 +820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2e5e7483</cell>
   </row>
-  <row index="21">
+  <row index="41">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/bd08771e-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -440,7 +840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ddb4cf0b</cell>
   </row>
-  <row index="22">
+  <row index="42">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/8eec1828-en</cell>
     <cell name="title">Going Digital in Latvia (en)</cell>
@@ -460,7 +860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1cd00cc0</cell>
   </row>
-  <row index="23">
+  <row index="43">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/8eec1828-en</cell>
     <cell name="title">Going Digital in Latvia (en)</cell>
@@ -480,7 +880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b78bdec3</cell>
   </row>
-  <row index="24">
+  <row index="44">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/8eec1828-en</cell>
     <cell name="title">Going Digital in Latvia (en)</cell>
@@ -500,7 +900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a8389569</cell>
   </row>
-  <row index="25">
+  <row index="45">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/cbfc1ed9-en</cell>
     <cell name="title">Fostering the digital transformation among people, firms and government (en)</cell>
@@ -520,7 +920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dbd533a6</cell>
   </row>
-  <row index="26">
+  <row index="46">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/5b350350-en</cell>
     <cell name="title">Seizing the potential of the digital transformation of the economy and society (en)</cell>
@@ -540,7 +940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d4e593cc</cell>
   </row>
-  <row index="27">
+  <row index="47">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/50dbec04-en</cell>
     <cell name="title">Enhancing trust in the digital economy (en)</cell>
@@ -560,7 +960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e0bc6db5</cell>
   </row>
-  <row index="28">
+  <row index="48">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/8f093c7b-en</cell>
     <cell name="title">Infrastructures for Latvia’s digital economy (en)</cell>
@@ -580,7 +980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dc846fbc</cell>
   </row>
-  <row index="29">
+  <row index="49">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/a58d1c1a-lv</cell>
     <cell name="title">Digitalizācija Latvijā (lv)</cell>
@@ -600,7 +1000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c7777c5</cell>
   </row>
-  <row index="30">
+  <row index="50">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/8f093c7b-en</cell>
     <cell name="title">Infrastructures for Latvia’s digital economy (en)</cell>
@@ -620,7 +1020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4dfa4cdf</cell>
   </row>
-  <row index="31">
+  <row index="51">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/cf006e1b-en</cell>
     <cell name="title">Policies for digital transformation: Recommendations for a whole-of-government approach (en)</cell>
@@ -640,7 +1040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ccc2e829</cell>
   </row>
-  <row index="32">
+  <row index="52">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/e862aee0-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -660,7 +1060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/89c83fd2</cell>
   </row>
-  <row index="33">
+  <row index="53">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/cbfc1ed9-en</cell>
     <cell name="title">Fostering the digital transformation among people, firms and government (en)</cell>
@@ -680,7 +1080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/678cf705</cell>
   </row>
-  <row index="34">
+  <row index="54">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/5b350350-en</cell>
     <cell name="title">Seizing the potential of the digital transformation of the economy and society (en)</cell>
@@ -700,7 +1100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/68cc0798</cell>
   </row>
-  <row index="35">
+  <row index="55">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/55062b2d-en</cell>
     <cell name="title">Acronyms, abbreviations and units of measure (en)</cell>
@@ -720,7 +1120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/629e5b9d</cell>
   </row>
-  <row index="36">
+  <row index="56">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/cc1da607-en</cell>
     <cell name="title">Public Procurement in the State of Mexico (en)</cell>
@@ -740,7 +1140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/33cd5571</cell>
   </row>
-  <row index="37">
+  <row index="57">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/fb81b622-es</cell>
     <cell name="title">Contratación Pública en el Estado de México (es)</cell>
@@ -760,7 +1160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5f24485a</cell>
   </row>
-  <row index="38">
+  <row index="58">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/3b9551db-en</cell>
     <cell name="title">Positive, High-achieving Students? (en)</cell>
@@ -780,7 +1180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/73c2f082</cell>
   </row>
-  <row index="39">
+  <row index="59">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/3b9551db-en</cell>
     <cell name="title">Positive, High-achieving Students? (en)</cell>
