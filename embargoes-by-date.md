@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 5 January 2021 at 20:46* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 6 January 2021 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [11 January 2021](#11-january-2021)
 * [12 January 2021](#12-january-2021)
@@ -128,9 +128,9 @@ Thursday 28 January 2021 at 8:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 22 December 2020 at 20:24
+- [x] Exported to iLibrary Wednesday 6 January 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 December 2020 at 20:00
+- [x] Exported to OECD.org Wednesday 6 January 2021 at 19:58
 
 ### Additional Information
 
@@ -138,7 +138,7 @@ Thursday 28 January 2021 at 8:30 | no launch event
 * Language: *Latvian*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
