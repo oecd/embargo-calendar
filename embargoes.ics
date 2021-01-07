@@ -2,7 +2,99 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/ddfba4de-end3e550
+UID:10.1787/d28257b7-frd3e63
+SUMMARY:Formation des enseignants et utilisation
+  des technologies de l’information et de
+  la communication face à la crise de la 
+ COVID-19
+DESCRIPTION:*Formation des enseignants et utilisatio
+ n des technologies de l’information et d
+ e la communication face à la crise de la
+  COVID-19*\n\nDirectorate: Directorate f
+ or Education and Skills\nLanguage: Frenc
+ h\nDOI: https://doi.org/10.1787/d28257b7
+ -fr\nPublication type: Paper\nReleased a
+ s: PDF\n\nEmbargo date/time: Monday, 11 
+ January 2021, 6:00 (GMT)\n\n\niLibrary e
+ xport: Thursday, 7 January 2021, 19:23 (
+ GMT)\nFreepreview export: never\nOECD.or
+ g export: Thursday, 7 January 2021, 18:5
+ 8 (GMT)\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 20:46, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=d28257b7-fr.
+DTSTAMP:20210107T204609Z
+DTSTART:20210111T060000Z
+DTEND:20210111T061500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Formation des enseignants et u
+ tilisation des technologies de l’informa
+ tion et de la communication face à la cr
+ ise de la COVID-19
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/fcbfcb3c-frd3e118
+SUMMARY:Parole aux enseignants - Faire face au s
+ tress professionnel du corps enseignant 
+ dans le contexte de la crise de la COVID
+ -19
+DESCRIPTION:*Parole aux enseignants - Faire face au 
+ stress professionnel du corps enseignant
+  dans le contexte de la crise de la COVI
+ D-19*\n\nDirectorate: Directorate for Ed
+ ucation and Skills\nLanguage: French\nDO
+ I: https://doi.org/10.1787/fcbfcb3c-fr\n
+ Publication type: Paper\nReleased as: PD
+ F\n\nEmbargo date/time: Monday, 11 Janua
+ ry 2021, 6:00 (GMT)\n\n\niLibrary export
+ : Thursday, 7 January 2021, 19:23 (GMT)\
+ nFreepreview export: never\nOECD.org exp
+ ort: Thursday, 7 January 2021, 18:58 (GM
+ T)\nFTI loaded: ✓\n\nFor more informatio
+ n see: https://oecd.github.io/embargo-ca
+ lendar/embargoes-by-publication.html.\n\
+ nPlease note: This information was corre
+ ct as of this afternoon at 20:46, it is 
+ updated each night; therefore any subseq
+ uent updates may not yet be visible here
+ . Also, please be aware that the differe
+ nt released media (PDF, HTML, etc.) are 
+ not necessarily released at the same tim
+ e. For complete and up-to-date informati
+ on see here: http://kappa.oecd.org/v3/se
+ arch?term=fcbfcb3c-fr.
+DTSTAMP:20210107T204609Z
+DTSTART:20210111T060000Z
+DTEND:20210111T061500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Parole aux enseignants - Faire
+  face au stress professionnel du corps e
+ nseignant dans le contexte de la crise d
+ e la COVID-19
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ddfba4de-end3e609
 SUMMARY:Making Better Policies for Food Systems
 DESCRIPTION:*Making Better Policies for Food Systems
  *\n\nDirectorate: Trade and Agriculture 
@@ -20,7 +112,7 @@ DESCRIPTION:*Making Better Policies for Food Systems
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 20:47, it is updated each night
+ rnoon at 20:46, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -29,7 +121,7 @@ DESCRIPTION:*Making Better Policies for Food Systems
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=ddfba4de
  -en.
-DTSTAMP:20210106T204703Z
+DTSTAMP:20210107T204609Z
 DTSTART:20210111T090000Z
 DTEND:20210111T091500Z
 TRANSP:TRANSPARENT
@@ -43,7 +135,7 @@ DESCRIPTION:Reminder: Making Better Policies for Foo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/75f79015-end3e1319
+UID:10.1787/75f79015-end3e1432
 SUMMARY:OECD Science, Technology and Innovation 
  Outlook 2021 - Times of Crisis and Oppor
  tunity
@@ -53,26 +145,26 @@ DESCRIPTION:*OECD Science, Technology and Innovation
   Science, Technology and Industry\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/75f79015-en\nPublication type: Book\n
- Released as: Paperback, PDF\n\nEmbargo d
- ate/time: Tuesday, 12 January 2021, 8:00
-  (GMT)\n\n\niLibrary export: Tuesday, 1 
- December 2020, 19:28 (GMT)\nFreepreview 
- export: never\nOECD.org export: Tuesday,
-  1 December 2020, 19:00 (GMT)\nFTI loade
- d: ✗\n\nFor more information see: https:
- //oecd.github.io/embargo-calendar/embarg
- oes-by-publication.html.\n\nPlease note:
-  This information was correct as of this
-  afternoon at 20:47, it is updated each 
- night; therefore any subsequent updates 
- may not yet be visible here. Also, pleas
- e be aware that the different released m
- edia (PDF, HTML, etc.) are not necessari
- ly released at the same time. For comple
- te and up-to-date information see here: 
- http://kappa.oecd.org/v3/search?term=75f
- 79015-en.
-DTSTAMP:20210106T204703Z
+ Released as: ePub, HTML, Paperback, PDF\
+ n\nEmbargo date/time: Tuesday, 12 Januar
+ y 2021, 8:00 (GMT)\n\n\niLibrary export:
+  Thursday, 7 January 2021, 19:23 (GMT)\n
+ Freepreview export: never\nOECD.org expo
+ rt: Thursday, 7 January 2021, 18:58 (GMT
+ )\nFTI loaded: ✗\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 20:46, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=75f79015-en.
+DTSTAMP:20210107T204609Z
 DTSTART:20210112T080000Z
 DTEND:20210112T081500Z
 TRANSP:TRANSPARENT
@@ -87,7 +179,44 @@ DESCRIPTION:Reminder: OECD Science, Technology and I
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/711629f8-end3e1480
+UID:10.1787/2cd09ab1-end3e1596
+SUMMARY:OECD Economic Surveys: Turkey 2021
+DESCRIPTION:*OECD Economic Surveys: Turkey 2021*\n\n
+ Directorate: Economics Department\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/2cd09ab1-en\nPublication type: Econom
+ ic survey\nReleased as: PDF\n\nEmbargo d
+ ate/time: Thursday, 14 January 2021, 10:
+ 00 (GMT)\n\n\niLibrary export: never\nFr
+ eepreview export: never\nOECD.org export
+ : never\nFTI loaded: ✗\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 20:46, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=2cd09ab1-en.
+DTSTAMP:20210107T204609Z
+DTSTART:20210114T100000Z
+DTEND:20210114T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Economic Surveys: Turkey 
+ 2021
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/711629f8-end3e1700
 SUMMARY:Economic Outlook for Southeast Asia, Chi
  na and India 2021 - Reallocating Resourc
  es for Digitalisation
@@ -106,7 +235,7 @@ DESCRIPTION:*Economic Outlook for Southeast Asia, Ch
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 20:47
+ as correct as of this afternoon at 20:46
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -115,7 +244,7 @@ DESCRIPTION:*Economic Outlook for Southeast Asia, Ch
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=711629f8-en.
-DTSTAMP:20210106T204703Z
+DTSTAMP:20210107T204609Z
 DTSTART:20210125T080000Z
 DTEND:20210125T081500Z
 TRANSP:TRANSPARENT
@@ -130,7 +259,7 @@ DESCRIPTION:Reminder: Economic Outlook for Southeast
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3f06ea4d-frd3e1589
+UID:10.1787/3f06ea4d-frd3e1808
 SUMMARY:Tendances des impôts sur la consommation
   2020 - TVA/TPS et droits d'accises – ta
  ux, tendances et questions stratégiques
@@ -151,7 +280,7 @@ DESCRIPTION:*Tendances des impôts sur la consommatio
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 20:47, it is updated each night; therefo
+ 20:46, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -159,7 +288,7 @@ DESCRIPTION:*Tendances des impôts sur la consommatio
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=3f06ea4d-fr.
-DTSTAMP:20210106T204703Z
+DTSTAMP:20210107T204609Z
 DTSTART:20210125T100000Z
 DTEND:20210125T101500Z
 TRANSP:TRANSPARENT
@@ -175,7 +304,7 @@ DESCRIPTION:Reminder: Tendances des impôts sur la co
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a58d1c1a-lvd3e2183
+UID:10.1787/a58d1c1a-lvd3e2403
 SUMMARY:Digitalizācija Latvijā
 DESCRIPTION:*Digitalizācija Latvijā*\n\nDirectorate:
   Directorate for Science, Technology and
@@ -192,7 +321,7 @@ DESCRIPTION:*Digitalizācija Latvijā*\n\nDirectorate:
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 20:47, it is updated each night; th
+ n at 20:46, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -200,7 +329,7 @@ DESCRIPTION:*Digitalizācija Latvijā*\n\nDirectorate:
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=a58d1c1a-lv.
-DTSTAMP:20210106T204703Z
+DTSTAMP:20210107T204609Z
 DTSTART:20210128T083000Z
 DTEND:20210128T084500Z
 TRANSP:TRANSPARENT
@@ -213,7 +342,7 @@ DESCRIPTION:Reminder: Digitalizācija Latvijā
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8eec1828-end3e2509
+UID:10.1787/8eec1828-end3e2729
 SUMMARY:Going Digital in Latvia
 DESCRIPTION:*Going Digital in Latvia*\n\nDirectorate
  : Directorate for Science, Technology an
@@ -230,7 +359,7 @@ DESCRIPTION:*Going Digital in Latvia*\n\nDirectorate
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 20:47, i
+ correct as of this afternoon at 20:46, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -239,7 +368,7 @@ DESCRIPTION:*Going Digital in Latvia*\n\nDirectorate
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=8eec1828-en.
-DTSTAMP:20210106T204703Z
+DTSTAMP:20210107T204609Z
 DTSTART:20210128T083000Z
 DTEND:20210128T084500Z
 TRANSP:TRANSPARENT
@@ -252,7 +381,7 @@ DESCRIPTION:Reminder: Going Digital in Latvia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cc1da607-end3e3166
+UID:10.1787/cc1da607-end3e3386
 SUMMARY:Public Procurement in the State of Mexic
  o - Enhancing Efficiency and Competition
 DESCRIPTION:*Public Procurement in the State of Mexi
@@ -260,27 +389,27 @@ DESCRIPTION:*Public Procurement in the State of Mexi
  n*\n\nDirectorate: Directorate for Publi
  c Governance\nLanguage: English\nDOI: ht
  tps://doi.org/10.1787/cc1da607-en\nPubli
- cation type: Book\nReleased as: Paperbac
- k, PDF\n\nEmbargo date/time: Monday, 1 F
- ebruary 2021, 14:00 (GMT)\n\n\niLibrary 
- export: Monday, 4 January 2021, 19:22 (G
- MT)\nFreepreview export: Monday, 4 Janua
- ry 2021, 19:11 (GMT)\nOECD.org export: M
- onday, 4 January 2021, 18:57 (GMT)\nFTI 
- loaded: ✓\n\nFor more information see: h
- ttps://oecd.github.io/embargo-calendar/e
- mbargoes-by-publication.html.\n\nPlease 
- note: This information was correct as of
-  this afternoon at 20:47, it is updated 
- each night; therefore any subsequent upd
- ates may not yet be visible here. Also, 
- please be aware that the different relea
- sed media (PDF, HTML, etc.) are not nece
- ssarily released at the same time. For c
- omplete and up-to-date information see h
- ere: http://kappa.oecd.org/v3/search?ter
- m=cc1da607-en.
-DTSTAMP:20210106T204703Z
+ cation type: Book\nReleased as: PDF\n\nE
+ mbargo date/time: Monday, 1 February 202
+ 1, 14:00 (GMT)\n\n\niLibrary export: Mon
+ day, 4 January 2021, 19:22 (GMT)\nFreepr
+ eview export: Monday, 4 January 2021, 19
+ :11 (GMT)\nOECD.org export: Monday, 4 Ja
+ nuary 2021, 18:57 (GMT)\nFTI loaded: ✓\n
+ \nFor more information see: https://oecd
+ .github.io/embargo-calendar/embargoes-by
+ -publication.html.\n\nPlease note: This 
+ information was correct as of this after
+ noon at 20:46, it is updated each night;
+  therefore any subsequent updates may no
+ t yet be visible here. Also, please be a
+ ware that the different released media (
+ PDF, HTML, etc.) are not necessarily rel
+ eased at the same time. For complete and
+  up-to-date information see here: http:/
+ /kappa.oecd.org/v3/search?term=cc1da607-
+ en.
+DTSTAMP:20210107T204609Z
 DTSTART:20210201T140000Z
 DTEND:20210201T141500Z
 TRANSP:TRANSPARENT
@@ -295,7 +424,7 @@ DESCRIPTION:Reminder: Public Procurement in the Stat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fb81b622-esd3e3224
+UID:10.1787/fb81b622-esd3e3443
 SUMMARY:Contratación Pública en el Estado de Méx
  ico - Mejorando la Eficiencia y la Compe
  tencia
@@ -313,7 +442,7 @@ DESCRIPTION:*Contratación Pública en el Estado de Mé
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 20:47, it is updated each night; the
+  at 20:46, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -321,7 +450,7 @@ DESCRIPTION:*Contratación Pública en el Estado de Mé
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=fb81b622-es.
-DTSTAMP:20210106T204703Z
+DTSTAMP:20210107T204609Z
 DTSTART:20210201T140000Z
 DTEND:20210201T141500Z
 TRANSP:TRANSPARENT
@@ -336,7 +465,7 @@ DESCRIPTION:Reminder: Contratación Pública en el Est
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3b9551db-end3e3277
+UID:10.1787/3b9551db-end3e3496
 SUMMARY:Positive, High-achieving Students? - Wha
  t Schools and Teachers Can Do
 DESCRIPTION:*Positive, High-achieving Students? - Wh
@@ -353,7 +482,7 @@ DESCRIPTION:*Positive, High-achieving Students? - Wh
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 20:47, it is updated each night; there
+ t 20:46, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -361,7 +490,7 @@ DESCRIPTION:*Positive, High-achieving Students? - Wh
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=3b9551db-en.
-DTSTAMP:20210106T204703Z
+DTSTAMP:20210107T204609Z
 DTSTART:20210202T100000Z
 DTEND:20210202T101500Z
 TRANSP:TRANSPARENT

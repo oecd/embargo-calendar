@@ -2,10 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 6 January 2021 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 7 January 2021 at 20:46* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [11 January 2021](#11-january-2021)
 * [12 January 2021](#12-january-2021)
+* [14 January 2021](#14-january-2021)
 * [25 January 2021](#25-january-2021)
 * [28 January 2021](#28-january-2021)
 * [1 February 2021](#1-february-2021)
@@ -14,6 +15,52 @@ Data generated on | |
 ------
 
 # 11 January 2021
+
+## [Formation des enseignants et utilisation des technologies de l’information et de la communication face à la crise de la COVID-19](https://doi.org/10.1787/d28257b7-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 11 January 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 January 2021 at 20:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 7 January 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Parole aux enseignants - Faire face au stress professionnel du corps enseignant dans le contexte de la crise de la COVID-19](https://doi.org/10.1787/fcbfcb3c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 11 January 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 January 2021 at 20:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 7 January 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Making Better Policies for Food Systems](https://doi.org/10.1787/ddfba4de-en)
 
@@ -51,9 +98,9 @@ Tuesday 12 January 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 1 December 2020 at 20:28
+- [x] Exported to iLibrary Thursday 7 January 2021 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 December 2020 at 20:00
+- [x] Exported to OECD.org Thursday 7 January 2021 at 19:58
 
 ### Additional Information
 
@@ -61,7 +108,34 @@ Tuesday 12 January 2021 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 14 January 2021
+
+## [OECD Economic Surveys: Turkey 2021](https://doi.org/10.1787/2cd09ab1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 January 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
@@ -188,7 +262,7 @@ Monday 1 February 2021 at 14:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
