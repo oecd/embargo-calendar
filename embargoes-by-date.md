@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 7 January 2021 at 20:46* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 8 January 2021 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [11 January 2021](#11-january-2021)
 * [12 January 2021](#12-january-2021)
@@ -27,7 +27,7 @@ Monday 11 January 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 January 2021 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 January 2021 at 19:58
+- [x] Exported to OECD.org Friday 8 January 2021 at 19:57
 
 ### Additional Information
 
@@ -50,7 +50,7 @@ Monday 11 January 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 January 2021 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 January 2021 at 19:58
+- [x] Exported to OECD.org Friday 8 January 2021 at 19:57
 
 ### Additional Information
 
@@ -73,7 +73,7 @@ Monday 11 January 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 5 January 2021 at 20:23
 - [x] Exported to Keepeek Tuesday 5 January 2021 at 20:12
-- [x] Exported to OECD.org Tuesday 5 January 2021 at 19:58
+- [x] Exported to OECD.org Friday 8 January 2021 at 19:57
 
 ### Additional Information
 
@@ -97,16 +97,16 @@ Tuesday 12 January 2021 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 7 January 2021 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 January 2021 at 19:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 8 January 2021 at 20:23
+- [x] Exported to Keepeek Friday 8 January 2021 at 20:11
+- [x] Exported to OECD.org Friday 8 January 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -125,15 +125,15 @@ Thursday 14 January 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 8 January 2021 at 20:23
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 8 January 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
