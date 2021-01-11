@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 8 January 2021 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 11 January 2021 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Formation des enseignants et utilisation des technologies de l’information et de la communication face à la crise de la COVID-19](https://doi.org/10.1787/d28257b7-fr)
 
@@ -84,7 +84,7 @@ Tuesday 12 January 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 8 January 2021 at 20:23
 - [x] Exported to Keepeek Friday 8 January 2021 at 20:11
-- [x] Exported to OECD.org Friday 8 January 2021 at 19:57
+- [x] Exported to OECD.org Monday 11 January 2021 at 19:59
 
 ### Additional Information
 
@@ -105,9 +105,9 @@ Thursday 14 January 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 8 January 2021 at 20:23
+- [x] Exported to iLibrary Monday 11 January 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 January 2021 at 19:57
+- [x] Exported to OECD.org Monday 11 January 2021 at 19:59
 
 ### Additional Information
 
@@ -115,6 +115,52 @@ Thursday 14 January 2021 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Africa’s Development Dynamics 2021 - Digital Transformation for Quality Jobs](https://doi.org/10.1787/0a5c9314-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 19 January 2021 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 11 January 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 11 January 2021 at 19:59
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Dynamiques du développement en Afrique 2021 - Transformation digitale et qualité de l'emploi](https://doi.org/10.1787/cd08eac8-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 19 January 2021 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 11 January 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 11 January 2021 at 19:59
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -276,6 +322,75 @@ Tuesday 2 February 2021 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [The Digital Transformation of SMEs](https://doi.org/10.1787/bdb9256a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 3 February 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Perspectives on Decentralisation and Rural-Urban Linkages in Korea](https://doi.org/10.1787/a3c685a7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 8 February 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 11 January 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 11 January 2021 at 19:59
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Inclusive Growth Review of Korea - Creating Opportunities for All](https://doi.org/10.1787/4f713390-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 8 February 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
