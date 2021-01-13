@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 12 January 2021 at 20:46* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Formation des enseignants et utilisation des technologies de l’information et de la communication face à la crise de la COVID-19](https://doi.org/10.1787/d28257b7-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 11 January 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 January 2021 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 January 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Parole aux enseignants - Faire face au stress professionnel du corps enseignant dans le contexte de la crise de la COVID-19](https://doi.org/10.1787/fcbfcb3c-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 11 January 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 January 2021 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 January 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Making Better Policies for Food Systems](https://doi.org/10.1787/ddfba4de-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 11 January 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 January 2021 at 20:23
-- [x] Exported to Keepeek Tuesday 5 January 2021 at 20:12
-- [x] Exported to OECD.org Tuesday 12 January 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Wednesday 13 January 2021 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Science, Technology and Innovation Outlook 2021 - Times of Crisis and Opportunity](https://doi.org/10.1787/75f79015-en)
 
@@ -84,7 +15,7 @@ Tuesday 12 January 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 January 2021 at 20:23
 - [x] Exported to Keepeek Friday 8 January 2021 at 20:11
-- [x] Exported to OECD.org Monday 11 January 2021 at 19:59
+- [x] Exported to OECD.org Wednesday 13 January 2021 at 19:55
 
 ### Additional Information
 
@@ -100,14 +31,14 @@ Tuesday 12 January 2021 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 14 January 2021 at 10:00 | no launch event
+Thursday 14 January 2021 at 11:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 January 2021 at 20:23
-- [x] Exported to Keepeek Tuesday 12 January 2021 at 20:11
-- [x] Exported to OECD.org Tuesday 12 January 2021 at 19:57
+- [x] Exported to iLibrary Wednesday 13 January 2021 at 20:20
+- [x] Exported to Keepeek Wednesday 13 January 2021 at 20:08
+- [x] Exported to OECD.org Wednesday 13 January 2021 at 19:55
 
 ### Additional Information
 
@@ -208,52 +139,6 @@ Monday 25 January 2021 at 10:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
-
-------
-
-## [Digitalizācija Latvijā](https://doi.org/10.1787/a58d1c1a-lv)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 January 2021 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 January 2021 at 20:23
-- [x] Exported to Keepeek Tuesday 12 January 2021 at 20:11
-- [x] Exported to OECD.org Tuesday 12 January 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Latvian*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Going Digital in Latvia](https://doi.org/10.1787/8eec1828-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 January 2021 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 October 2020 at 20:43
-- [x] Exported to Keepeek Friday 9 October 2020 at 20:16
-- [x] Exported to OECD.org Friday 16 October 2020 at 20:02
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -392,5 +277,51 @@ Monday 8 February 2021 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Digitalizācija Latvijā](https://doi.org/10.1787/a58d1c1a-lv)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 February 2021 at 10:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 13 January 2021 at 20:20
+- [x] Exported to Keepeek Wednesday 13 January 2021 at 20:08
+- [x] Exported to OECD.org Wednesday 13 January 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *Latvian*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Going Digital in Latvia](https://doi.org/10.1787/8eec1828-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 February 2021 at 10:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 13 January 2021 at 20:20
+- [x] Exported to Keepeek Wednesday 13 January 2021 at 20:08
+- [x] Exported to OECD.org Wednesday 13 January 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
