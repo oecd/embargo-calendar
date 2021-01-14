@@ -2,44 +2,17 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 13 January 2021 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 14 January 2021 at 21:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 January 2021](#12-january-2021)
 * [14 January 2021](#14-january-2021)
 * [19 January 2021](#19-january-2021)
 * [25 January 2021](#25-january-2021)
+* [28 January 2021](#28-january-2021)
 * [1 February 2021](#1-february-2021)
 * [2 February 2021](#2-february-2021)
 * [3 February 2021](#3-february-2021)
 * [8 February 2021](#8-february-2021)
 * [10 February 2021](#10-february-2021)
-
-------
-
-# 12 January 2021
-
-## [OECD Science, Technology and Innovation Outlook 2021 - Times of Crisis and Opportunity](https://doi.org/10.1787/75f79015-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 January 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 January 2021 at 20:23
-- [x] Exported to Keepeek Friday 8 January 2021 at 20:11
-- [x] Exported to OECD.org Wednesday 13 January 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -80,18 +53,18 @@ Tuesday 19 January 2021 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 11 January 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 January 2021 at 19:59
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 January 2021 at 20:30
+- [x] Exported to Keepeek Thursday 14 January 2021 at 20:23
+- [x] Exported to OECD.org Thursday 14 January 2021 at 20:03
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -103,18 +76,18 @@ Tuesday 19 January 2021 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 12 January 2021 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 January 2021 at 19:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 January 2021 at 20:30
+- [x] Exported to Keepeek Thursday 14 January 2021 at 20:23
+- [x] Exported to OECD.org Thursday 14 January 2021 at 20:03
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -145,18 +118,22 @@ Monday 25 January 2021 at 8:00 | no launch event
 
 ------
 
+------
+
+# 28 January 2021
+
 ## [Tendances des impôts sur la consommation 2020 - TVA/TPS et droits d'accises – taux, tendances et questions stratégiques](https://doi.org/10.1787/3f06ea4d-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 25 January 2021 at 10:00 | no launch event
+Thursday 28 January 2021 at 10:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 15 December 2020 at 20:48
+- [x] Exported to iLibrary Thursday 14 January 2021 at 20:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 December 2020 at 20:14
+- [x] Exported to OECD.org Thursday 14 January 2021 at 20:03
 
 ### Additional Information
 
@@ -191,7 +168,7 @@ Monday 1 February 2021 at 14:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 

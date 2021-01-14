@@ -2,52 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/75f79015-end3e1217
-SUMMARY:OECD Science, Technology and Innovation 
- Outlook 2021 - Times of Crisis and Oppor
- tunity
-DESCRIPTION:*OECD Science, Technology and Innovation
-  Outlook 2021 - Times of Crisis and Oppo
- rtunity*\n\nDirectorate: Directorate for
-  Science, Technology and Industry\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/75f79015-en\nPublication type: Book\n
- Released as: ePub, HTML, Paperback, PDF\
- n\nEmbargo date/time: Tuesday, 12 Januar
- y 2021, 8:00 (GMT)\n\n\niLibrary export:
-  Tuesday, 12 January 2021, 19:23 (GMT)\n
- Freepreview export: Friday, 8 January 20
- 21, 19:11 (GMT)\nOECD.org export: Wednes
- day, 13 January 2021, 18:55 (GMT)\nFTI l
- oaded: ✓\n\nFor more information see: ht
- tps://oecd.github.io/embargo-calendar/em
- bargoes-by-publication.html.\n\nPlease n
- ote: This information was correct as of 
- this afternoon at 20:42, it is updated e
- ach night; therefore any subsequent upda
- tes may not yet be visible here. Also, p
- lease be aware that the different releas
- ed media (PDF, HTML, etc.) are not neces
- sarily released at the same time. For co
- mplete and up-to-date information see he
- re: http://kappa.oecd.org/v3/search?term
- =75f79015-en.
-DTSTAMP:20210113T204300Z
-DTSTART:20210112T080000Z
-DTEND:20210112T081500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Science, Technology and I
- nnovation Outlook 2021 - Times of Crisis
-  and Opportunity
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/2cd09ab1-end3e2821
+UID:10.1787/2cd09ab1-end3e63
 SUMMARY:OECD Economic Surveys: Turkey 2021
 DESCRIPTION:*OECD Economic Surveys: Turkey 2021*\n\n
  Directorate: Economics Department\nLangu
@@ -64,7 +19,7 @@ DESCRIPTION:*OECD Economic Surveys: Turkey 2021*\n\n
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 20:42, it is updated each 
+  afternoon at 21:17, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -73,7 +28,7 @@ DESCRIPTION:*OECD Economic Surveys: Turkey 2021*\n\n
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=2cd
  09ab1-en.
-DTSTAMP:20210113T204300Z
+DTSTAMP:20210114T211731Z
 DTSTART:20210114T110000Z
 DTEND:20210114T111500Z
 TRANSP:TRANSPARENT
@@ -87,7 +42,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Turkey
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0a5c9314-end3e2877
+UID:10.1787/0a5c9314-end3e7617
 SUMMARY:Africa’s Development Dynamics 2021 - Dig
  ital Transformation for Quality Jobs
 DESCRIPTION:*Africa’s Development Dynamics 2021 - Di
@@ -95,26 +50,27 @@ DESCRIPTION:*Africa’s Development Dynamics 2021 - Di
  \nDirectorate: Development Centre\nLangu
  age: English\nDOI: https://doi.org/10.17
  87/0a5c9314-en\nPublication type: Stand-
- alone monograph\nReleased as: PDF\n\nEmb
- argo date/time: Tuesday, 19 January 2021
- , 14:00 (GMT)\n\n\niLibrary export: Mond
- ay, 11 January 2021, 19:24 (GMT)\nFreepr
- eview export: never\nOECD.org export: Mo
- nday, 11 January 2021, 18:59 (GMT)\nFTI 
- loaded: ✗\n\nFor more information see: h
- ttps://oecd.github.io/embargo-calendar/e
- mbargoes-by-publication.html.\n\nPlease 
- note: This information was correct as of
-  this afternoon at 20:42, it is updated 
- each night; therefore any subsequent upd
- ates may not yet be visible here. Also, 
- please be aware that the different relea
- sed media (PDF, HTML, etc.) are not nece
- ssarily released at the same time. For c
- omplete and up-to-date information see h
- ere: http://kappa.oecd.org/v3/search?ter
- m=0a5c9314-en.
-DTSTAMP:20210113T204300Z
+ alone monograph\nReleased as: ePub, HTML
+ , PDF\n\nEmbargo date/time: Tuesday, 19 
+ January 2021, 14:00 (GMT)\n\n\niLibrary 
+ export: Thursday, 14 January 2021, 19:30
+  (GMT)\nFreepreview export: Thursday, 14
+  January 2021, 19:23 (GMT)\nOECD.org exp
+ ort: Thursday, 14 January 2021, 19:03 (G
+ MT)\nFTI loaded: ✓\n\nFor more informati
+ on see: https://oecd.github.io/embargo-c
+ alendar/embargoes-by-publication.html.\n
+ \nPlease note: This information was corr
+ ect as of this afternoon at 21:17, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=0a5c9314-en.
+DTSTAMP:20210114T211731Z
 DTSTART:20210119T140000Z
 DTEND:20210119T141500Z
 TRANSP:TRANSPARENT
@@ -129,7 +85,7 @@ DESCRIPTION:Reminder: Africa’s Development Dynamics
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cd08eac8-frd3e2933
+UID:10.1787/cd08eac8-frd3e11257
 SUMMARY:Dynamiques du développement en Afrique 2
  021 - Transformation digitale et qualité
   de l'emploi
@@ -139,25 +95,26 @@ DESCRIPTION:*Dynamiques du développement en Afrique
  nt Centre\nLanguage: French\nDOI: https:
  //doi.org/10.1787/cd08eac8-fr\nPublicati
  on type: Stand-alone monograph\nReleased
-  as: PDF\n\nEmbargo date/time: Tuesday, 
- 19 January 2021, 14:00 (GMT)\n\n\niLibra
- ry export: Tuesday, 12 January 2021, 19:
- 23 (GMT)\nFreepreview export: never\nOEC
- D.org export: Tuesday, 12 January 2021, 
- 18:57 (GMT)\nFTI loaded: ✗\n\nFor more i
- nformation see: https://oecd.github.io/e
- mbargo-calendar/embargoes-by-publication
- .html.\n\nPlease note: This information 
- was correct as of this afternoon at 20:4
- 2, it is updated each night; therefore a
- ny subsequent updates may not yet be vis
- ible here. Also, please be aware that th
- e different released media (PDF, HTML, e
- tc.) are not necessarily released at the
-  same time. For complete and up-to-date 
- information see here: http://kappa.oecd.
- org/v3/search?term=cd08eac8-fr.
-DTSTAMP:20210113T204300Z
+  as: ePub, HTML, PDF\n\nEmbargo date/tim
+ e: Tuesday, 19 January 2021, 14:00 (GMT)
+ \n\n\niLibrary export: Thursday, 14 Janu
+ ary 2021, 19:30 (GMT)\nFreepreview expor
+ t: Thursday, 14 January 2021, 19:23 (GMT
+ )\nOECD.org export: Thursday, 14 January
+  2021, 19:03 (GMT)\nFTI loaded: ✓\n\nFor
+  more information see: https://oecd.gith
+ ub.io/embargo-calendar/embargoes-by-publ
+ ication.html.\n\nPlease note: This infor
+ mation was correct as of this afternoon 
+ at 21:17, it is updated each night; ther
+ efore any subsequent updates may not yet
+  be visible here. Also, please be aware 
+ that the different released media (PDF, 
+ HTML, etc.) are not necessarily released
+  at the same time. For complete and up-t
+ o-date information see here: http://kapp
+ a.oecd.org/v3/search?term=cd08eac8-fr.
+DTSTAMP:20210114T211731Z
 DTSTART:20210119T140000Z
 DTEND:20210119T141500Z
 TRANSP:TRANSPARENT
@@ -172,7 +129,7 @@ DESCRIPTION:Reminder: Dynamiques du développement en
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/711629f8-end3e3041
+UID:10.1787/711629f8-end3e12779
 SUMMARY:Economic Outlook for Southeast Asia, Chi
  na and India 2021 - Reallocating Resourc
  es for Digitalisation
@@ -191,7 +148,7 @@ DESCRIPTION:*Economic Outlook for Southeast Asia, Ch
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 20:42
+ as correct as of this afternoon at 21:17
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -200,7 +157,7 @@ DESCRIPTION:*Economic Outlook for Southeast Asia, Ch
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=711629f8-en.
-DTSTAMP:20210113T204300Z
+DTSTAMP:20210114T211731Z
 DTSTART:20210125T080000Z
 DTEND:20210125T081500Z
 TRANSP:TRANSPARENT
@@ -215,7 +172,7 @@ DESCRIPTION:Reminder: Economic Outlook for Southeast
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3f06ea4d-frd3e3149
+UID:10.1787/3f06ea4d-frd3e12887
 SUMMARY:Tendances des impôts sur la consommation
   2020 - TVA/TPS et droits d'accises – ta
  ux, tendances et questions stratégiques
@@ -226,30 +183,30 @@ DESCRIPTION:*Tendances des impôts sur la consommatio
  and Administration\nLanguage: French\nDO
  I: https://doi.org/10.1787/3f06ea4d-fr\n
  Publication type: Book\nReleased as: Pap
- erback, PDF\n\nEmbargo date/time: Monday
- , 25 January 2021, 10:00 (GMT)\n\n\niLib
- rary export: Tuesday, 15 December 2020, 
- 19:48 (GMT)\nFreepreview export: never\n
- OECD.org export: Tuesday, 15 December 20
- 20, 19:14 (GMT)\nFTI loaded: ✗\n\nFor mo
- re information see: https://oecd.github.
- io/embargo-calendar/embargoes-by-publica
- tion.html.\n\nPlease note: This informat
- ion was correct as of this afternoon at 
- 20:42, it is updated each night; therefo
- re any subsequent updates may not yet be
-  visible here. Also, please be aware tha
- t the different released media (PDF, HTM
- L, etc.) are not necessarily released at
-  the same time. For complete and up-to-d
- ate information see here: http://kappa.o
- ecd.org/v3/search?term=3f06ea4d-fr.
-DTSTAMP:20210113T204300Z
-DTSTART:20210125T100000Z
-DTEND:20210125T101500Z
+ erback, PDF\n\nEmbargo date/time: Thursd
+ ay, 28 January 2021, 10:00 (GMT)\n\n\niL
+ ibrary export: Thursday, 14 January 2021
+ , 19:30 (GMT)\nFreepreview export: never
+ \nOECD.org export: Thursday, 14 January 
+ 2021, 19:03 (GMT)\nFTI loaded: ✗\n\nFor 
+ more information see: https://oecd.githu
+ b.io/embargo-calendar/embargoes-by-publi
+ cation.html.\n\nPlease note: This inform
+ ation was correct as of this afternoon a
+ t 21:17, it is updated each night; there
+ fore any subsequent updates may not yet 
+ be visible here. Also, please be aware t
+ hat the different released media (PDF, H
+ TML, etc.) are not necessarily released 
+ at the same time. For complete and up-to
+ -date information see here: http://kappa
+ .oecd.org/v3/search?term=3f06ea4d-fr.
+DTSTAMP:20210114T211731Z
+DTSTART:20210128T100000Z
+DTEND:20210128T101500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT72H
+TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
@@ -260,7 +217,7 @@ DESCRIPTION:Reminder: Tendances des impôts sur la co
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cc1da607-end3e3204
+UID:10.1787/cc1da607-end3e12942
 SUMMARY:Public Procurement in the State of Mexic
  o - Enhancing Efficiency and Competition
 DESCRIPTION:*Public Procurement in the State of Mexi
@@ -268,27 +225,27 @@ DESCRIPTION:*Public Procurement in the State of Mexi
  n*\n\nDirectorate: Directorate for Publi
  c Governance\nLanguage: English\nDOI: ht
  tps://doi.org/10.1787/cc1da607-en\nPubli
- cation type: Book\nReleased as: PDF\n\nE
- mbargo date/time: Monday, 1 February 202
- 1, 14:00 (GMT)\n\n\niLibrary export: Mon
- day, 4 January 2021, 19:22 (GMT)\nFreepr
- eview export: Monday, 4 January 2021, 19
- :11 (GMT)\nOECD.org export: Monday, 4 Ja
- nuary 2021, 18:57 (GMT)\nFTI loaded: ✓\n
- \nFor more information see: https://oecd
- .github.io/embargo-calendar/embargoes-by
- -publication.html.\n\nPlease note: This 
- information was correct as of this after
- noon at 20:42, it is updated each night;
-  therefore any subsequent updates may no
- t yet be visible here. Also, please be a
- ware that the different released media (
- PDF, HTML, etc.) are not necessarily rel
- eased at the same time. For complete and
-  up-to-date information see here: http:/
- /kappa.oecd.org/v3/search?term=cc1da607-
- en.
-DTSTAMP:20210113T204300Z
+ cation type: Book\nReleased as: Paperbac
+ k, PDF\n\nEmbargo date/time: Monday, 1 F
+ ebruary 2021, 14:00 (GMT)\n\n\niLibrary 
+ export: Monday, 4 January 2021, 19:22 (G
+ MT)\nFreepreview export: Monday, 4 Janua
+ ry 2021, 19:11 (GMT)\nOECD.org export: M
+ onday, 4 January 2021, 18:57 (GMT)\nFTI 
+ loaded: ✓\n\nFor more information see: h
+ ttps://oecd.github.io/embargo-calendar/e
+ mbargoes-by-publication.html.\n\nPlease 
+ note: This information was correct as of
+  this afternoon at 21:17, it is updated 
+ each night; therefore any subsequent upd
+ ates may not yet be visible here. Also, 
+ please be aware that the different relea
+ sed media (PDF, HTML, etc.) are not nece
+ ssarily released at the same time. For c
+ omplete and up-to-date information see h
+ ere: http://kappa.oecd.org/v3/search?ter
+ m=cc1da607-en.
+DTSTAMP:20210114T211731Z
 DTSTART:20210201T140000Z
 DTEND:20210201T141500Z
 TRANSP:TRANSPARENT
@@ -303,7 +260,7 @@ DESCRIPTION:Reminder: Public Procurement in the Stat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fb81b622-esd3e3262
+UID:10.1787/fb81b622-esd3e13000
 SUMMARY:Contratación Pública en el Estado de Méx
  ico - Mejorando la Eficiencia y la Compe
  tencia
@@ -321,7 +278,7 @@ DESCRIPTION:*Contratación Pública en el Estado de Mé
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 20:42, it is updated each night; the
+  at 21:17, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -329,7 +286,7 @@ DESCRIPTION:*Contratación Pública en el Estado de Mé
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=fb81b622-es.
-DTSTAMP:20210113T204300Z
+DTSTAMP:20210114T211731Z
 DTSTART:20210201T140000Z
 DTEND:20210201T141500Z
 TRANSP:TRANSPARENT
@@ -344,7 +301,7 @@ DESCRIPTION:Reminder: Contratación Pública en el Est
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3b9551db-end3e3315
+UID:10.1787/3b9551db-end3e13106
 SUMMARY:Positive, High-achieving Students? - Wha
  t Schools and Teachers Can Do
 DESCRIPTION:*Positive, High-achieving Students? - Wh
@@ -361,7 +318,7 @@ DESCRIPTION:*Positive, High-achieving Students? - Wh
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 20:42, it is updated each night; there
+ t 21:17, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -369,7 +326,7 @@ DESCRIPTION:*Positive, High-achieving Students? - Wh
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=3b9551db-en.
-DTSTAMP:20210113T204300Z
+DTSTAMP:20210114T211731Z
 DTSTART:20210202T100000Z
 DTEND:20210202T101500Z
 TRANSP:TRANSPARENT
@@ -383,7 +340,7 @@ DESCRIPTION:Reminder: Positive, High-achieving Stude
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bdb9256a-end3e3470
+UID:10.1787/bdb9256a-end3e13261
 SUMMARY:The Digital Transformation of SMEs
 DESCRIPTION:*The Digital Transformation of SMEs*\n\n
  Directorate: Centre for Entrepreneurship
@@ -398,7 +355,7 @@ DESCRIPTION:*The Digital Transformation of SMEs*\n\n
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 20:42, it is up
+  as of this afternoon at 21:17, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -407,7 +364,7 @@ DESCRIPTION:*The Digital Transformation of SMEs*\n\n
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=bdb9256a-en.
-DTSTAMP:20210113T204300Z
+DTSTAMP:20210114T211731Z
 DTSTART:20210203T070000Z
 DTEND:20210203T071500Z
 TRANSP:TRANSPARENT
@@ -421,7 +378,7 @@ DESCRIPTION:Reminder: The Digital Transformation of
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a3c685a7-end3e4933
+UID:10.1787/a3c685a7-end3e14724
 SUMMARY:Perspectives on Decentralisation and Rur
  al-Urban Linkages in Korea
 DESCRIPTION:*Perspectives on Decentralisation and Ru
@@ -440,7 +397,7 @@ DESCRIPTION:*Perspectives on Decentralisation and Ru
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 20:42, it is updated each night;
+ noon at 21:17, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -449,7 +406,7 @@ DESCRIPTION:*Perspectives on Decentralisation and Ru
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=a3c685a7-
  en.
-DTSTAMP:20210113T204300Z
+DTSTAMP:20210114T211731Z
 DTSTART:20210208T070000Z
 DTEND:20210208T071500Z
 TRANSP:TRANSPARENT
@@ -463,7 +420,7 @@ DESCRIPTION:Reminder: Perspectives on Decentralisati
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4f713390-end3e6345
+UID:10.1787/4f713390-end3e16136
 SUMMARY:Inclusive Growth Review of Korea - Creat
  ing Opportunities for All
 DESCRIPTION:*Inclusive Growth Review of Korea - Crea
@@ -481,7 +438,7 @@ DESCRIPTION:*Inclusive Growth Review of Korea - Crea
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 20:42, it is updated each night; 
+ oon at 21:17, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -490,7 +447,7 @@ DESCRIPTION:*Inclusive Growth Review of Korea - Crea
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=4f713390-e
  n.
-DTSTAMP:20210113T204300Z
+DTSTAMP:20210114T211731Z
 DTSTART:20210208T090000Z
 DTEND:20210208T091500Z
 TRANSP:TRANSPARENT
@@ -504,7 +461,7 @@ DESCRIPTION:Reminder: Inclusive Growth Review of Kor
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a58d1c1a-lvd3e7540
+UID:10.1787/a58d1c1a-lvd3e17331
 SUMMARY:Digitalizācija Latvijā
 DESCRIPTION:*Digitalizācija Latvijā*\n\nDirectorate:
   Directorate for Science, Technology and
@@ -522,7 +479,7 @@ DESCRIPTION:*Digitalizācija Latvijā*\n\nDirectorate:
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 20:42, it is updated each night; the
+  at 21:17, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -530,7 +487,7 @@ DESCRIPTION:*Digitalizācija Latvijā*\n\nDirectorate:
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=a58d1c1a-lv.
-DTSTAMP:20210113T204300Z
+DTSTAMP:20210114T211731Z
 DTSTART:20210210T103000Z
 DTEND:20210210T104500Z
 TRANSP:TRANSPARENT
@@ -543,7 +500,7 @@ DESCRIPTION:Reminder: Digitalizācija Latvijā
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8eec1828-end3e8031
+UID:10.1787/8eec1828-end3e17822
 SUMMARY:Going Digital in Latvia
 DESCRIPTION:*Going Digital in Latvia*\n\nDirectorate
  : Directorate for Science, Technology an
@@ -561,7 +518,7 @@ DESCRIPTION:*Going Digital in Latvia*\n\nDirectorate
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 20:42, it is updated each night; th
+ n at 21:17, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -569,7 +526,7 @@ DESCRIPTION:*Going Digital in Latvia*\n\nDirectorate
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=8eec1828-en.
-DTSTAMP:20210113T204300Z
+DTSTAMP:20210114T211731Z
 DTSTART:20210210T103000Z
 DTEND:20210210T104500Z
 TRANSP:TRANSPARENT
