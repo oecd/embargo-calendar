@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 14 January 2021 at 21:17* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 15 January 2021 at 21:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Turkey 2021](https://doi.org/10.1787/2cd09ab1-en)
 
@@ -15,7 +15,7 @@ Thursday 14 January 2021 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 January 2021 at 20:20
 - [x] Exported to Keepeek Wednesday 13 January 2021 at 20:08
-- [x] Exported to OECD.org Wednesday 13 January 2021 at 19:55
+- [x] Exported to OECD.org Friday 15 January 2021 at 19:49
 
 ### Additional Information
 
@@ -23,6 +23,98 @@ Thursday 14 January 2021 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [The effects of online disclosure about personalised pricing on consumers - Results from a lab experiment in Ireland and Chile](https://doi.org/10.1787/1ce1de63-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 January 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 15 January 2021 at 20:36
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 15 January 2021 at 19:49
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Not enough hours in the day - Policies that shape teachers’ use of time](https://doi.org/10.1787/15990b42-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 January 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 15 January 2021 at 20:36
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 15 January 2021 at 19:49
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [How does earnings advantage from tertiary education vary by field of study?](https://doi.org/10.1787/8a4b8f7a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 January 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 15 January 2021 at 20:36
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 15 January 2021 at 19:49
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Scale, market power and competition in a digital world - Is bigger better?](https://doi.org/10.1787/c1cff861-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 January 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 15 January 2021 at 20:36
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 15 January 2021 at 19:49
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -36,7 +128,7 @@ Tuesday 19 January 2021 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 January 2021 at 20:30
+- [x] Exported to iLibrary Friday 15 January 2021 at 20:36
 - [x] Exported to Keepeek Thursday 14 January 2021 at 20:23
 - [x] Exported to OECD.org Thursday 14 January 2021 at 20:03
 
@@ -59,7 +151,7 @@ Tuesday 19 January 2021 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 January 2021 at 20:30
+- [x] Exported to iLibrary Friday 15 January 2021 at 20:36
 - [x] Exported to Keepeek Thursday 14 January 2021 at 20:23
 - [x] Exported to OECD.org Thursday 14 January 2021 at 20:03
 
