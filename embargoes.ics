@@ -2,47 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/2cd09ab1-end3e63
-SUMMARY:OECD Economic Surveys: Turkey 2021
-DESCRIPTION:*OECD Economic Surveys: Turkey 2021*\n\n
- Directorate: Economics Department\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/2cd09ab1-en\nPublication type: Econom
- ic survey\nReleased as: PDF\n\nEmbargo d
- ate/time: Thursday, 14 January 2021, 11:
- 00 (GMT)\n\n\niLibrary export: Wednesday
- , 13 January 2021, 19:20 (GMT)\nFreeprev
- iew export: Wednesday, 13 January 2021, 
- 19:08 (GMT)\nOECD.org export: Friday, 15
-  January 2021, 18:49 (GMT)\nFTI loaded: 
- ✓\n\nFor more information see: https://o
- ecd.github.io/embargo-calendar/embargoes
- -by-publication.html.\n\nPlease note: Th
- is information was correct as of this af
- ternoon at 21:18, it is updated each nig
- ht; therefore any subsequent updates may
-  not yet be visible here. Also, please b
- e aware that the different released medi
- a (PDF, HTML, etc.) are not necessarily 
- released at the same time. For complete 
- and up-to-date information see here: htt
- p://kappa.oecd.org/v3/search?term=2cd09a
- b1-en.
-DTSTAMP:20210115T211835Z
-DTSTART:20210114T110000Z
-DTEND:20210114T111500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Economic Surveys: Turkey 
- 2021
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/1ce1de63-end3e121
+UID:10.1787/1ce1de63-end3e63
 SUMMARY:The effects of online disclosure about p
  ersonalised pricing on consumers - Resul
  ts from a lab experiment in Ireland and 
@@ -64,7 +24,7 @@ DESCRIPTION:*The effects of online disclosure about
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 21:18, it is updated each night; therefo
+ 21:07, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -72,7 +32,7 @@ DESCRIPTION:*The effects of online disclosure about
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=1ce1de63-en.
-DTSTAMP:20210115T211835Z
+DTSTAMP:20210118T210805Z
 DTSTART:20210118T060000Z
 DTEND:20210118T061500Z
 TRANSP:TRANSPARENT
@@ -88,7 +48,7 @@ DESCRIPTION:Reminder: The effects of online disclosu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/15990b42-end3e177
+UID:10.1787/15990b42-end3e119
 SUMMARY:Not enough hours in the day - Policies t
  hat shape teachers’ use of time
 DESCRIPTION:*Not enough hours in the day - Policies 
@@ -106,7 +66,7 @@ DESCRIPTION:*Not enough hours in the day - Policies
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 21:18, it is updated each 
+  afternoon at 21:07, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -115,7 +75,7 @@ DESCRIPTION:*Not enough hours in the day - Policies
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=159
  90b42-en.
-DTSTAMP:20210115T211835Z
+DTSTAMP:20210118T210805Z
 DTSTART:20210118T060000Z
 DTEND:20210118T061500Z
 TRANSP:TRANSPARENT
@@ -130,7 +90,7 @@ DESCRIPTION:Reminder: Not enough hours in the day -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8a4b8f7a-end3e233
+UID:10.1787/8a4b8f7a-end3e175
 SUMMARY:How does earnings advantage from tertiar
  y education vary by field of study?
 DESCRIPTION:*How does earnings advantage from tertia
@@ -148,7 +108,7 @@ DESCRIPTION:*How does earnings advantage from tertia
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 21:18, it is updated e
+ this afternoon at 21:07, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -157,7 +117,7 @@ DESCRIPTION:*How does earnings advantage from tertia
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =8a4b8f7a-en.
-DTSTAMP:20210115T211835Z
+DTSTAMP:20210118T210805Z
 DTSTART:20210118T060000Z
 DTEND:20210118T061500Z
 TRANSP:TRANSPARENT
@@ -172,7 +132,7 @@ DESCRIPTION:Reminder: How does earnings advantage fr
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c1cff861-end3e289
+UID:10.1787/c1cff861-end3e230
 SUMMARY:Scale, market power and competition in a
   digital world - Is bigger better?
 DESCRIPTION:*Scale, market power and competition in 
@@ -190,7 +150,7 @@ DESCRIPTION:*Scale, market power and competition in
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 21:18, it i
+ rect as of this afternoon at 21:07, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -199,7 +159,7 @@ DESCRIPTION:*Scale, market power and competition in
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=c1cff861-en.
-DTSTAMP:20210115T211835Z
+DTSTAMP:20210118T210805Z
 DTSTART:20210118T060000Z
 DTEND:20210118T061500Z
 TRANSP:TRANSPARENT
@@ -214,7 +174,7 @@ DESCRIPTION:Reminder: Scale, market power and compet
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0a5c9314-end3e7843
+UID:10.1787/0a5c9314-end3e7785
 SUMMARY:Africa’s Development Dynamics 2021 - Dig
  ital Transformation for Quality Jobs
 DESCRIPTION:*Africa’s Development Dynamics 2021 - Di
@@ -228,21 +188,21 @@ DESCRIPTION:*Africa’s Development Dynamics 2021 - Di
  export: Friday, 15 January 2021, 19:36 (
  GMT)\nFreepreview export: Thursday, 14 J
  anuary 2021, 19:23 (GMT)\nOECD.org expor
- t: Thursday, 14 January 2021, 19:03 (GMT
- )\nFTI loaded: ✓\n\nFor more information
-  see: https://oecd.github.io/embargo-cal
- endar/embargoes-by-publication.html.\n\n
- Please note: This information was correc
- t as of this afternoon at 21:18, it is u
- pdated each night; therefore any subsequ
- ent updates may not yet be visible here.
-  Also, please be aware that the differen
- t released media (PDF, HTML, etc.) are n
- ot necessarily released at the same time
- . For complete and up-to-date informatio
- n see here: http://kappa.oecd.org/v3/sea
- rch?term=0a5c9314-en.
-DTSTAMP:20210115T211835Z
+ t: Monday, 18 January 2021, 18:50 (GMT)\
+ nFTI loaded: ✓\n\nFor more information s
+ ee: https://oecd.github.io/embargo-calen
+ dar/embargoes-by-publication.html.\n\nPl
+ ease note: This information was correct 
+ as of this afternoon at 21:07, it is upd
+ ated each night; therefore any subsequen
+ t updates may not yet be visible here. A
+ lso, please be aware that the different 
+ released media (PDF, HTML, etc.) are not
+  necessarily released at the same time. 
+ For complete and up-to-date information 
+ see here: http://kappa.oecd.org/v3/searc
+ h?term=0a5c9314-en.
+DTSTAMP:20210118T210805Z
 DTSTART:20210119T140000Z
 DTEND:20210119T141500Z
 TRANSP:TRANSPARENT
@@ -257,7 +217,7 @@ DESCRIPTION:Reminder: Africa’s Development Dynamics
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cd08eac8-frd3e11483
+UID:10.1787/cd08eac8-frd3e11425
 SUMMARY:Dynamiques du développement en Afrique 2
  021 - Transformation digitale et qualité
   de l'emploi
@@ -272,21 +232,21 @@ DESCRIPTION:*Dynamiques du développement en Afrique
  \n\n\niLibrary export: Friday, 15 Januar
  y 2021, 19:36 (GMT)\nFreepreview export:
   Thursday, 14 January 2021, 19:23 (GMT)\
- nOECD.org export: Thursday, 14 January 2
- 021, 19:03 (GMT)\nFTI loaded: ✓\n\nFor m
- ore information see: https://oecd.github
- .io/embargo-calendar/embargoes-by-public
- ation.html.\n\nPlease note: This informa
- tion was correct as of this afternoon at
-  21:18, it is updated each night; theref
- ore any subsequent updates may not yet b
- e visible here. Also, please be aware th
- at the different released media (PDF, HT
- ML, etc.) are not necessarily released a
- t the same time. For complete and up-to-
- date information see here: http://kappa.
- oecd.org/v3/search?term=cd08eac8-fr.
-DTSTAMP:20210115T211835Z
+ nOECD.org export: Monday, 18 January 202
+ 1, 18:50 (GMT)\nFTI loaded: ✓\n\nFor mor
+ e information see: https://oecd.github.i
+ o/embargo-calendar/embargoes-by-publicat
+ ion.html.\n\nPlease note: This informati
+ on was correct as of this afternoon at 2
+ 1:07, it is updated each night; therefor
+ e any subsequent updates may not yet be 
+ visible here. Also, please be aware that
+  the different released media (PDF, HTML
+ , etc.) are not necessarily released at 
+ the same time. For complete and up-to-da
+ te information see here: http://kappa.oe
+ cd.org/v3/search?term=cd08eac8-fr.
+DTSTAMP:20210118T210805Z
 DTSTART:20210119T140000Z
 DTEND:20210119T141500Z
 TRANSP:TRANSPARENT
@@ -301,7 +261,49 @@ DESCRIPTION:Reminder: Dynamiques du développement en
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/711629f8-end3e13005
+UID:10.1787/30c79519-end3e15558
+SUMMARY:SME and Entrepreneurship Policy in Viet 
+ Nam
+DESCRIPTION:*SME and Entrepreneurship Policy in Viet
+  Nam*\n\nDirectorate: Centre for Entrepr
+ eneurship, SMEs, Regions and Cities\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/30c79519-en\nPublication type: Book
+ \nReleased as: ePub, HTML, Paperback, PD
+ F\n\nEmbargo date/time: Friday, 22 Janua
+ ry 2021, 8:00 (GMT)\n\n\niLibrary export
+ : Monday, 18 January 2021, 19:31 (GMT)\n
+ Freepreview export: Monday, 18 January 2
+ 021, 19:07 (GMT)\nOECD.org export: Monda
+ y, 18 January 2021, 18:50 (GMT)\nFTI loa
+ ded: ✓\n\nFor more information see: http
+ s://oecd.github.io/embargo-calendar/emba
+ rgoes-by-publication.html.\n\nPlease not
+ e: This information was correct as of th
+ is afternoon at 21:07, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=3
+ 0c79519-en.
+DTSTAMP:20210118T210805Z
+DTSTART:20210122T080000Z
+DTEND:20210122T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: SME and Entrepreneurship Polic
+ y in Viet Nam
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/711629f8-end3e15722
 SUMMARY:Economic Outlook for Southeast Asia, Chi
  na and India 2021 - Reallocating Resourc
  es for Digitalisation
@@ -320,7 +322,7 @@ DESCRIPTION:*Economic Outlook for Southeast Asia, Ch
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 21:18
+ as correct as of this afternoon at 21:07
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -329,7 +331,7 @@ DESCRIPTION:*Economic Outlook for Southeast Asia, Ch
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=711629f8-en.
-DTSTAMP:20210115T211835Z
+DTSTAMP:20210118T210805Z
 DTSTART:20210125T080000Z
 DTEND:20210125T081500Z
 TRANSP:TRANSPARENT
@@ -344,7 +346,7 @@ DESCRIPTION:Reminder: Economic Outlook for Southeast
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3f06ea4d-frd3e13113
+UID:10.1787/3f06ea4d-frd3e15830
 SUMMARY:Tendances des impôts sur la consommation
   2020 - TVA/TPS et droits d'accises – ta
  ux, tendances et questions stratégiques
@@ -365,7 +367,7 @@ DESCRIPTION:*Tendances des impôts sur la consommatio
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 21:18, it is updated each night; there
+ t 21:07, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -373,7 +375,7 @@ DESCRIPTION:*Tendances des impôts sur la consommatio
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=3f06ea4d-fr.
-DTSTAMP:20210115T211835Z
+DTSTAMP:20210118T210805Z
 DTSTART:20210128T100000Z
 DTEND:20210128T101500Z
 TRANSP:TRANSPARENT
@@ -389,7 +391,7 @@ DESCRIPTION:Reminder: Tendances des impôts sur la co
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cc1da607-end3e13168
+UID:10.1787/cc1da607-end3e15885
 SUMMARY:Public Procurement in the State of Mexic
  o - Enhancing Efficiency and Competition
 DESCRIPTION:*Public Procurement in the State of Mexi
@@ -408,7 +410,7 @@ DESCRIPTION:*Public Procurement in the State of Mexi
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 21:18, it is updated 
+  this afternoon at 21:07, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -417,7 +419,7 @@ DESCRIPTION:*Public Procurement in the State of Mexi
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=cc1da607-en.
-DTSTAMP:20210115T211835Z
+DTSTAMP:20210118T210805Z
 DTSTART:20210201T140000Z
 DTEND:20210201T141500Z
 TRANSP:TRANSPARENT
@@ -432,7 +434,7 @@ DESCRIPTION:Reminder: Public Procurement in the Stat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fb81b622-esd3e13225
+UID:10.1787/fb81b622-esd3e15943
 SUMMARY:Contratación Pública en el Estado de Méx
  ico - Mejorando la Eficiencia y la Compe
  tencia
@@ -450,7 +452,7 @@ DESCRIPTION:*Contratación Pública en el Estado de Mé
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 21:18, it is updated each night; the
+  at 21:07, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -458,7 +460,7 @@ DESCRIPTION:*Contratación Pública en el Estado de Mé
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=fb81b622-es.
-DTSTAMP:20210115T211835Z
+DTSTAMP:20210118T210805Z
 DTSTART:20210201T140000Z
 DTEND:20210201T141500Z
 TRANSP:TRANSPARENT
@@ -473,7 +475,7 @@ DESCRIPTION:Reminder: Contratación Pública en el Est
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3b9551db-end3e13332
+UID:10.1787/3b9551db-end3e16049
 SUMMARY:Positive, High-achieving Students? - Wha
  t Schools and Teachers Can Do
 DESCRIPTION:*Positive, High-achieving Students? - Wh
@@ -490,7 +492,7 @@ DESCRIPTION:*Positive, High-achieving Students? - Wh
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 21:18, it is updated each night; there
+ t 21:07, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -498,7 +500,7 @@ DESCRIPTION:*Positive, High-achieving Students? - Wh
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=3b9551db-en.
-DTSTAMP:20210115T211835Z
+DTSTAMP:20210118T210805Z
 DTSTART:20210202T100000Z
 DTEND:20210202T101500Z
 TRANSP:TRANSPARENT
@@ -512,7 +514,7 @@ DESCRIPTION:Reminder: Positive, High-achieving Stude
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bdb9256a-end3e13487
+UID:10.1787/bdb9256a-end3e16204
 SUMMARY:The Digital Transformation of SMEs
 DESCRIPTION:*The Digital Transformation of SMEs*\n\n
  Directorate: Centre for Entrepreneurship
@@ -527,7 +529,7 @@ DESCRIPTION:*The Digital Transformation of SMEs*\n\n
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 21:18, it is up
+  as of this afternoon at 21:07, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -536,7 +538,7 @@ DESCRIPTION:*The Digital Transformation of SMEs*\n\n
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=bdb9256a-en.
-DTSTAMP:20210115T211835Z
+DTSTAMP:20210118T210805Z
 DTSTART:20210203T070000Z
 DTEND:20210203T071500Z
 TRANSP:TRANSPARENT
@@ -550,7 +552,7 @@ DESCRIPTION:Reminder: The Digital Transformation of
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a3c685a7-end3e14950
+UID:10.1787/a3c685a7-end3e17667
 SUMMARY:Perspectives on Decentralisation and Rur
  al-Urban Linkages in Korea
 DESCRIPTION:*Perspectives on Decentralisation and Ru
@@ -561,15 +563,15 @@ DESCRIPTION:*Perspectives on Decentralisation and Ru
  nPublication type: Book\nReleased as: eP
  ub, HTML, Paperback, PDF\n\nEmbargo date
  /time: Monday, 8 February 2021, 7:00 (GM
- T)\n\n\niLibrary export: Monday, 11 Janu
- ary 2021, 19:24 (GMT)\nFreepreview expor
+ T)\n\n\niLibrary export: Monday, 18 Janu
+ ary 2021, 19:31 (GMT)\nFreepreview expor
  t: never\nOECD.org export: Monday, 11 Ja
  nuary 2021, 18:59 (GMT)\nFTI loaded: ✓\n
  \nFor more information see: https://oecd
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 21:18, it is updated each night;
+ noon at 21:07, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -578,7 +580,7 @@ DESCRIPTION:*Perspectives on Decentralisation and Ru
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=a3c685a7-
  en.
-DTSTAMP:20210115T211835Z
+DTSTAMP:20210118T210805Z
 DTSTART:20210208T070000Z
 DTEND:20210208T071500Z
 TRANSP:TRANSPARENT
@@ -592,7 +594,7 @@ DESCRIPTION:Reminder: Perspectives on Decentralisati
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4f713390-end3e16362
+UID:10.1787/4f713390-end3e19079
 SUMMARY:Inclusive Growth Review of Korea - Creat
  ing Opportunities for All
 DESCRIPTION:*Inclusive Growth Review of Korea - Crea
@@ -610,7 +612,7 @@ DESCRIPTION:*Inclusive Growth Review of Korea - Crea
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 21:18, it is updated each night; 
+ oon at 21:07, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -619,7 +621,7 @@ DESCRIPTION:*Inclusive Growth Review of Korea - Crea
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=4f713390-e
  n.
-DTSTAMP:20210115T211835Z
+DTSTAMP:20210118T210805Z
 DTSTART:20210208T090000Z
 DTEND:20210208T091500Z
 TRANSP:TRANSPARENT
@@ -633,7 +635,7 @@ DESCRIPTION:Reminder: Inclusive Growth Review of Kor
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a58d1c1a-lvd3e17557
+UID:10.1787/a58d1c1a-lvd3e20274
 SUMMARY:Digitalizācija Latvijā
 DESCRIPTION:*Digitalizācija Latvijā*\n\nDirectorate:
   Directorate for Science, Technology and
@@ -651,7 +653,7 @@ DESCRIPTION:*Digitalizācija Latvijā*\n\nDirectorate:
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 21:18, it is updated each night; the
+  at 21:07, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -659,7 +661,7 @@ DESCRIPTION:*Digitalizācija Latvijā*\n\nDirectorate:
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=a58d1c1a-lv.
-DTSTAMP:20210115T211835Z
+DTSTAMP:20210118T210805Z
 DTSTART:20210210T103000Z
 DTEND:20210210T104500Z
 TRANSP:TRANSPARENT
@@ -672,7 +674,7 @@ DESCRIPTION:Reminder: Digitalizācija Latvijā
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8eec1828-end3e18048
+UID:10.1787/8eec1828-end3e20765
 SUMMARY:Going Digital in Latvia
 DESCRIPTION:*Going Digital in Latvia*\n\nDirectorate
  : Directorate for Science, Technology an
@@ -690,7 +692,7 @@ DESCRIPTION:*Going Digital in Latvia*\n\nDirectorate
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 21:18, it is updated each night; th
+ n at 21:07, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -698,7 +700,7 @@ DESCRIPTION:*Going Digital in Latvia*\n\nDirectorate
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=8eec1828-en.
-DTSTAMP:20210115T211835Z
+DTSTAMP:20210118T210805Z
 DTSTART:20210210T103000Z
 DTEND:20210210T104500Z
 TRANSP:TRANSPARENT
@@ -708,6 +710,546 @@ REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Going Digital in Latvia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/b20477e3-end3e21912
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Thailand (Sta
+ ge 1) - Inclusive Framework on BEPS: Act
+ ion 14
+DESCRIPTION:*Making Dispute Resolution More Effectiv
+ e – MAP Peer Review Report, Thailand (St
+ age 1) - Inclusive Framework on BEPS: Ac
+ tion 14*\n\nDirectorate: Centre for Tax 
+ Policy and Administration\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/b2047
+ 7e3-en\nPublication type: Book\nReleased
+  as: Paperback, PDF\n\nEmbargo date/time
+ : Tuesday, 16 February 2021, 10:00 (GMT)
+ \n\n\niLibrary export: never\nFreeprevie
+ w export: never\nOECD.org export: never\
+ nFTI loaded: ✗\n\nFor more information s
+ ee: https://oecd.github.io/embargo-calen
+ dar/embargoes-by-publication.html.\n\nPl
+ ease note: This information was correct 
+ as of this afternoon at 21:07, it is upd
+ ated each night; therefore any subsequen
+ t updates may not yet be visible here. A
+ lso, please be aware that the different 
+ released media (PDF, HTML, etc.) are not
+  necessarily released at the same time. 
+ For complete and up-to-date information 
+ see here: http://kappa.oecd.org/v3/searc
+ h?term=b20477e3-en.
+DTSTAMP:20210118T210805Z
+DTSTART:20210216T100000Z
+DTEND:20210216T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Tha
+ iland (Stage 1) - Inclusive Framework on
+  BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/19b019f8-end3e21964
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Oman (Stage 1
+ ) - Inclusive Framework on BEPS: Action 
+ 14
+DESCRIPTION:*Making Dispute Resolution More Effectiv
+ e – MAP Peer Review Report, Oman (Stage 
+ 1) - Inclusive Framework on BEPS: Action
+  14*\n\nDirectorate: Centre for Tax Poli
+ cy and Administration\nLanguage: English
+ \nDOI: https://doi.org/10.1787/19b019f8-
+ en\nPublication type: Book\nReleased as:
+  Paperback, PDF\n\nEmbargo date/time: Tu
+ esday, 16 February 2021, 10:00 (GMT)\n\n
+ \niLibrary export: never\nFreepreview ex
+ port: never\nOECD.org export: never\nFTI
+  loaded: ✗\n\nFor more information see: 
+ https://oecd.github.io/embargo-calendar/
+ embargoes-by-publication.html.\n\nPlease
+  note: This information was correct as o
+ f this afternoon at 21:07, it is updated
+  each night; therefore any subsequent up
+ dates may not yet be visible here. Also,
+  please be aware that the different rele
+ ased media (PDF, HTML, etc.) are not nec
+ essarily released at the same time. For 
+ complete and up-to-date information see 
+ here: http://kappa.oecd.org/v3/search?te
+ rm=19b019f8-en.
+DTSTAMP:20210118T210805Z
+DTSTART:20210216T100000Z
+DTEND:20210216T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Oma
+ n (Stage 1) - Inclusive Framework on BEP
+ S: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9dcb28be-end3e22016
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Qatar (Stage 
+ 1) - Inclusive Framework on BEPS: Action
+  14
+DESCRIPTION:*Making Dispute Resolution More Effectiv
+ e – MAP Peer Review Report, Qatar (Stage
+  1) - Inclusive Framework on BEPS: Actio
+ n 14*\n\nDirectorate: Centre for Tax Pol
+ icy and Administration\nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/9dcb28be
+ -en\nPublication type: Book\nReleased as
+ : Paperback, PDF\n\nEmbargo date/time: T
+ uesday, 16 February 2021, 10:00 (GMT)\n\
+ n\niLibrary export: never\nFreepreview e
+ xport: never\nOECD.org export: never\nFT
+ I loaded: ✗\n\nFor more information see:
+  https://oecd.github.io/embargo-calendar
+ /embargoes-by-publication.html.\n\nPleas
+ e note: This information was correct as 
+ of this afternoon at 21:07, it is update
+ d each night; therefore any subsequent u
+ pdates may not yet be visible here. Also
+ , please be aware that the different rel
+ eased media (PDF, HTML, etc.) are not ne
+ cessarily released at the same time. For
+  complete and up-to-date information see
+  here: http://kappa.oecd.org/v3/search?t
+ erm=9dcb28be-en.
+DTSTAMP:20210118T210805Z
+DTSTART:20210216T100000Z
+DTEND:20210216T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Qat
+ ar (Stage 1) - Inclusive Framework on BE
+ PS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/6b75f20f-end3e22068
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Aruba (Stage 
+ 1) - Inclusive Framework on BEPS: Action
+  14
+DESCRIPTION:*Making Dispute Resolution More Effectiv
+ e – MAP Peer Review Report, Aruba (Stage
+  1) - Inclusive Framework on BEPS: Actio
+ n 14*\n\nDirectorate: Centre for Tax Pol
+ icy and Administration\nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/6b75f20f
+ -en\nPublication type: Book\nReleased as
+ : Paperback, PDF\n\nEmbargo date/time: T
+ uesday, 16 February 2021, 10:00 (GMT)\n\
+ n\niLibrary export: never\nFreepreview e
+ xport: never\nOECD.org export: never\nFT
+ I loaded: ✗\n\nFor more information see:
+  https://oecd.github.io/embargo-calendar
+ /embargoes-by-publication.html.\n\nPleas
+ e note: This information was correct as 
+ of this afternoon at 21:07, it is update
+ d each night; therefore any subsequent u
+ pdates may not yet be visible here. Also
+ , please be aware that the different rel
+ eased media (PDF, HTML, etc.) are not ne
+ cessarily released at the same time. For
+  complete and up-to-date information see
+  here: http://kappa.oecd.org/v3/search?t
+ erm=6b75f20f-en.
+DTSTAMP:20210118T210805Z
+DTSTART:20210216T100000Z
+DTEND:20210216T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Aru
+ ba (Stage 1) - Inclusive Framework on BE
+ PS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/417776da-end3e22173
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Viet Nam (Sta
+ ge 1) - Inclusive Framework on BEPS: Act
+ ion 14
+DESCRIPTION:*Making Dispute Resolution More Effectiv
+ e – MAP Peer Review Report, Viet Nam (St
+ age 1) - Inclusive Framework on BEPS: Ac
+ tion 14*\n\nDirectorate: Centre for Tax 
+ Policy and Administration\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/41777
+ 6da-en\nPublication type: Book\nReleased
+  as: Paperback, PDF\n\nEmbargo date/time
+ : Tuesday, 16 February 2021, 10:00 (GMT)
+ \n\n\niLibrary export: never\nFreeprevie
+ w export: never\nOECD.org export: never\
+ nFTI loaded: ✗\n\nFor more information s
+ ee: https://oecd.github.io/embargo-calen
+ dar/embargoes-by-publication.html.\n\nPl
+ ease note: This information was correct 
+ as of this afternoon at 21:07, it is upd
+ ated each night; therefore any subsequen
+ t updates may not yet be visible here. A
+ lso, please be aware that the different 
+ released media (PDF, HTML, etc.) are not
+  necessarily released at the same time. 
+ For complete and up-to-date information 
+ see here: http://kappa.oecd.org/v3/searc
+ h?term=417776da-en.
+DTSTAMP:20210118T210805Z
+DTSTART:20210216T100000Z
+DTEND:20210216T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Vie
+ t Nam (Stage 1) - Inclusive Framework on
+  BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/edf96ece-end3e22277
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Barbados (Sta
+ ge 1) - Inclusive Framework on BEPS: Act
+ ion 14
+DESCRIPTION:*Making Dispute Resolution More Effectiv
+ e – MAP Peer Review Report, Barbados (St
+ age 1) - Inclusive Framework on BEPS: Ac
+ tion 14*\n\nDirectorate: Centre for Tax 
+ Policy and Administration\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/edf96
+ ece-en\nPublication type: Book\nReleased
+  as: Paperback, PDF\n\nEmbargo date/time
+ : Tuesday, 16 February 2021, 10:00 (GMT)
+ \n\n\niLibrary export: never\nFreeprevie
+ w export: never\nOECD.org export: never\
+ nFTI loaded: ✗\n\nFor more information s
+ ee: https://oecd.github.io/embargo-calen
+ dar/embargoes-by-publication.html.\n\nPl
+ ease note: This information was correct 
+ as of this afternoon at 21:07, it is upd
+ ated each night; therefore any subsequen
+ t updates may not yet be visible here. A
+ lso, please be aware that the different 
+ released media (PDF, HTML, etc.) are not
+  necessarily released at the same time. 
+ For complete and up-to-date information 
+ see here: http://kappa.oecd.org/v3/searc
+ h?term=edf96ece-en.
+DTSTAMP:20210118T210805Z
+DTSTART:20210216T100000Z
+DTEND:20210216T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Bar
+ bados (Stage 1) - Inclusive Framework on
+  BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/5bb425a9-end3e22381
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Kazakhstan (S
+ tage 1) - Inclusive Framework on BEPS: A
+ ction 14
+DESCRIPTION:*Making Dispute Resolution More Effectiv
+ e – MAP Peer Review Report, Kazakhstan (
+ Stage 1) - Inclusive Framework on BEPS: 
+ Action 14*\n\nDirectorate: Centre for Ta
+ x Policy and Administration\nLanguage: E
+ nglish\nDOI: https://doi.org/10.1787/5bb
+ 425a9-en\nPublication type: Book\nReleas
+ ed as: Paperback, PDF\n\nEmbargo date/ti
+ me: Tuesday, 16 February 2021, 10:00 (GM
+ T)\n\n\niLibrary export: never\nFreeprev
+ iew export: never\nOECD.org export: neve
+ r\nFTI loaded: ✗\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 21:07, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=5bb425a9-en.
+DTSTAMP:20210118T210805Z
+DTSTART:20210216T100000Z
+DTEND:20210216T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Kaz
+ akhstan (Stage 1) - Inclusive Framework 
+ on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/010c39fa-end3e22538
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Saint Kitts a
+ nd Nevis (Stage 1) - Inclusive Framework
+  on BEPS: Action 14
+DESCRIPTION:*Making Dispute Resolution More Effectiv
+ e – MAP Peer Review Report, Saint Kitts 
+ and Nevis (Stage 1) - Inclusive Framewor
+ k on BEPS: Action 14*\n\nDirectorate: Ce
+ ntre for Tax Policy and Administration\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/010c39fa-en\nPublication type: B
+ ook\nReleased as: Paperback, PDF\n\nEmba
+ rgo date/time: Tuesday, 16 February 2021
+ , 10:00 (GMT)\n\n\niLibrary export: neve
+ r\nFreepreview export: never\nOECD.org e
+ xport: never\nFTI loaded: ✗\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 21:
+ 07, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=010c39fa-en.
+DTSTAMP:20210118T210805Z
+DTSTART:20210216T100000Z
+DTEND:20210216T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Sai
+ nt Kitts and Nevis (Stage 1) - Inclusive
+  Framework on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/def5f134-end3e22590
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Trinidad and 
+ Tobago (Stage 1) - Inclusive Framework o
+ n BEPS: Action 14
+DESCRIPTION:*Making Dispute Resolution More Effectiv
+ e – MAP Peer Review Report, Trinidad and
+  Tobago (Stage 1) - Inclusive Framework 
+ on BEPS: Action 14*\n\nDirectorate: Cent
+ re for Tax Policy and Administration\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/def5f134-en\nPublication type: Boo
+ k\nReleased as: Paperback, PDF\n\nEmbarg
+ o date/time: Tuesday, 16 February 2021, 
+ 10:00 (GMT)\n\n\niLibrary export: never\
+ nFreepreview export: never\nOECD.org exp
+ ort: never\nFTI loaded: ✗\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 21:07
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=def5f134-en.
+DTSTAMP:20210118T210805Z
+DTSTART:20210216T100000Z
+DTEND:20210216T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Tri
+ nidad and Tobago (Stage 1) - Inclusive F
+ ramework on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/a615e55d-end3e22642
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Gibraltar (St
+ age 1) - Inclusive Framework on BEPS: Ac
+ tion 14
+DESCRIPTION:*Making Dispute Resolution More Effectiv
+ e – MAP Peer Review Report, Gibraltar (S
+ tage 1) - Inclusive Framework on BEPS: A
+ ction 14*\n\nDirectorate: Centre for Tax
+  Policy and Administration\nLanguage: En
+ glish\nDOI: https://doi.org/10.1787/a615
+ e55d-en\nPublication type: Book\nRelease
+ d as: Paperback, PDF\n\nEmbargo date/tim
+ e: Tuesday, 16 February 2021, 10:00 (GMT
+ )\n\n\niLibrary export: never\nFreeprevi
+ ew export: never\nOECD.org export: never
+ \nFTI loaded: ✗\n\nFor more information 
+ see: https://oecd.github.io/embargo-cale
+ ndar/embargoes-by-publication.html.\n\nP
+ lease note: This information was correct
+  as of this afternoon at 21:07, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=a615e55d-en.
+DTSTAMP:20210118T210805Z
+DTSTART:20210216T100000Z
+DTEND:20210216T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Gib
+ raltar (Stage 1) - Inclusive Framework o
+ n BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ea6c9295-end3e22799
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, United Arab E
+ mirates (Stage 1) - Inclusive Framework 
+ on BEPS: Action 14
+DESCRIPTION:*Making Dispute Resolution More Effectiv
+ e – MAP Peer Review Report, United Arab 
+ Emirates (Stage 1) - Inclusive Framework
+  on BEPS: Action 14*\n\nDirectorate: Cen
+ tre for Tax Policy and Administration\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/ea6c9295-en\nPublication type: Bo
+ ok\nReleased as: Paperback, PDF\n\nEmbar
+ go date/time: Tuesday, 16 February 2021,
+  10:00 (GMT)\n\n\niLibrary export: never
+ \nFreepreview export: never\nOECD.org ex
+ port: never\nFTI loaded: ✗\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 21:0
+ 7, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=ea6c9295-en.
+DTSTAMP:20210118T210805Z
+DTSTART:20210216T100000Z
+DTEND:20210216T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Uni
+ ted Arab Emirates (Stage 1) - Inclusive 
+ Framework on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/b178f2ef-end3e22851
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Bahrain (Stag
+ e 1) - Inclusive Framework on BEPS: Acti
+ on 14
+DESCRIPTION:*Making Dispute Resolution More Effectiv
+ e – MAP Peer Review Report, Bahrain (Sta
+ ge 1) - Inclusive Framework on BEPS: Act
+ ion 14*\n\nDirectorate: Centre for Tax P
+ olicy and Administration\nLanguage: Engl
+ ish\nDOI: https://doi.org/10.1787/b178f2
+ ef-en\nPublication type: Book\nReleased 
+ as: Paperback, PDF\n\nEmbargo date/time:
+  Tuesday, 16 February 2021, 10:00 (GMT)\
+ n\n\niLibrary export: never\nFreepreview
+  export: never\nOECD.org export: never\n
+ FTI loaded: ✗\n\nFor more information se
+ e: https://oecd.github.io/embargo-calend
+ ar/embargoes-by-publication.html.\n\nPle
+ ase note: This information was correct a
+ s of this afternoon at 21:07, it is upda
+ ted each night; therefore any subsequent
+  updates may not yet be visible here. Al
+ so, please be aware that the different r
+ eleased media (PDF, HTML, etc.) are not 
+ necessarily released at the same time. F
+ or complete and up-to-date information s
+ ee here: http://kappa.oecd.org/v3/search
+ ?term=b178f2ef-en.
+DTSTAMP:20210118T210805Z
+DTSTART:20210216T100000Z
+DTEND:20210216T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Bah
+ rain (Stage 1) - Inclusive Framework on 
+ BEPS: Action 14
 END:VALARM
 END:VEVENT
 END:VCALENDAR
