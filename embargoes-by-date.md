@@ -2,10 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 18 January 2021 at 21:07* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 19 January 2021 at 20:48* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [18 January 2021](#18-january-2021)
 * [19 January 2021](#19-january-2021)
+* [21 January 2021](#21-january-2021)
 * [22 January 2021](#22-january-2021)
 * [25 January 2021](#25-january-2021)
 * [28 January 2021](#28-january-2021)
@@ -31,7 +32,7 @@ Monday 18 January 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 15 January 2021 at 20:36
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 January 2021 at 19:49
+- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
 
 ### Additional Information
 
@@ -54,7 +55,7 @@ Monday 18 January 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 15 January 2021 at 20:36
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 January 2021 at 19:49
+- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
 
 ### Additional Information
 
@@ -77,7 +78,7 @@ Monday 18 January 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 15 January 2021 at 20:36
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 January 2021 at 19:49
+- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
 
 ### Additional Information
 
@@ -100,7 +101,7 @@ Monday 18 January 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 15 January 2021 at 20:36
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 January 2021 at 19:49
+- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
 
 ### Additional Information
 
@@ -164,6 +165,79 @@ Tuesday 19 January 2021 at 14:00 | no launch event
 
 ------
 
+# 21 January 2021
+
+## [Enhancing administrative and fiscal decentralisation in the Czech Republic](https://doi.org/10.1787/c1d0c9bb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 January 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Promoting the diffusion of technology to boost productivity and well-being in Korea](https://doi.org/10.1787/51ea75a5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 January 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Making the most of teachers’ time](https://doi.org/10.1787/d005c027-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 January 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 22 January 2021
 
 ## [SME and Entrepreneurship Policy in Viet Nam](https://doi.org/10.1787/30c79519-en)
@@ -192,6 +266,29 @@ Friday 22 January 2021 at 8:00 | no launch event
 ------
 
 # 25 January 2021
+
+## [What happened to jobs at high risk of automation?](https://doi.org/10.1787/10bc97f4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 25 January 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Economic Outlook for Southeast Asia, China and India 2021 - Reallocating Resources for Digitalisation](https://doi.org/10.1787/711629f8-en)
 
@@ -460,15 +557,15 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -483,15 +580,15 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -506,15 +603,15 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -529,15 +626,15 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -552,15 +649,15 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -575,15 +672,15 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -598,15 +695,15 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -621,15 +718,15 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -644,15 +741,38 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Greenland (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/c1f5577f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 February 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -667,15 +787,15 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -690,15 +810,15 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -713,15 +833,15 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
