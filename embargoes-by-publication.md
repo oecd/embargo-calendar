@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 19 January 2021 at 20:48* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The effects of online disclosure about personalised pricing on consumers - Results from a lab experiment in Ireland and Chile](https://doi.org/10.1787/1ce1de63-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 January 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 January 2021 at 20:36
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Not enough hours in the day - Policies that shape teachers’ use of time](https://doi.org/10.1787/15990b42-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 January 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 January 2021 at 20:36
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [How does earnings advantage from tertiary education vary by field of study?](https://doi.org/10.1787/8a4b8f7a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 January 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 January 2021 at 20:36
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Scale, market power and competition in a digital world - Is bigger better?](https://doi.org/10.1787/c1cff861-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 January 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 January 2021 at 20:36
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Wednesday 20 January 2021 at 20:50* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Africa’s Development Dynamics 2021 - Digital Transformation for Quality Jobs](https://doi.org/10.1787/0a5c9314-en)
 
@@ -107,7 +15,7 @@ Tuesday 19 January 2021 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 15 January 2021 at 20:36
 - [x] Exported to Keepeek Thursday 14 January 2021 at 20:23
-- [x] Exported to OECD.org Monday 18 January 2021 at 19:50
+- [x] Exported to OECD.org Wednesday 20 January 2021 at 20:00
 
 ### Additional Information
 
@@ -130,7 +38,7 @@ Tuesday 19 January 2021 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 15 January 2021 at 20:36
 - [x] Exported to Keepeek Thursday 14 January 2021 at 20:23
-- [x] Exported to OECD.org Monday 18 January 2021 at 19:50
+- [x] Exported to OECD.org Wednesday 20 January 2021 at 20:00
 
 ### Additional Information
 
@@ -257,52 +165,6 @@ Monday 25 January 2021 at 6:00 | no launch event
 
 ------
 
-## [Economic Outlook for Southeast Asia, China and India 2021 - Reallocating Resources for Digitalisation](https://doi.org/10.1787/711629f8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 25 January 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 4 January 2021 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 January 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Issue*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Tendances des impôts sur la consommation 2020 - TVA/TPS et droits d'accises – taux, tendances et questions stratégiques](https://doi.org/10.1787/3f06ea4d-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 January 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 14 January 2021 at 20:30
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 January 2021 at 20:03
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Public Procurement in the State of Mexico - Enhancing Efficiency and Competition](https://doi.org/10.1787/cc1da607-en)
 
 Embargo date | Launch date
@@ -390,6 +252,52 @@ Wednesday 3 February 2021 at 7:00 | no launch event
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
 * Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Economic Outlook for Southeast Asia, China and India 2021 - Reallocating Resources for Digitalisation](https://doi.org/10.1787/711629f8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 4 February 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 20 January 2021 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 20 January 2021 at 20:00
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Issue*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Tendances des impôts sur la consommation 2020 - TVA/TPS et droits d'accises – taux, tendances et questions stratégiques](https://doi.org/10.1787/3f06ea4d-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 5 February 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 20 January 2021 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 20 January 2021 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -496,9 +404,9 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
+- [x] Exported to iLibrary Wednesday 20 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
+- [x] Exported to OECD.org Wednesday 20 January 2021 at 20:00
 
 ### Additional Information
 
@@ -588,9 +496,9 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
+- [x] Exported to iLibrary Wednesday 20 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
+- [x] Exported to OECD.org Wednesday 20 January 2021 at 20:00
 
 ### Additional Information
 
@@ -680,9 +588,9 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
+- [x] Exported to iLibrary Wednesday 20 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
+- [x] Exported to OECD.org Wednesday 20 January 2021 at 20:00
 
 ### Additional Information
 
@@ -749,9 +657,9 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
+- [x] Exported to iLibrary Wednesday 20 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
+- [x] Exported to OECD.org Wednesday 20 January 2021 at 20:00
 
 ### Additional Information
 
