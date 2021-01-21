@@ -2,12 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 20 January 2021 at 20:50* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 21 January 2021 at 21:36* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [19 January 2021](#19-january-2021)
 * [21 January 2021](#21-january-2021)
 * [22 January 2021](#22-january-2021)
 * [25 January 2021](#25-january-2021)
+* [26 January 2021](#26-january-2021)
 * [1 February 2021](#1-february-2021)
 * [2 February 2021](#2-february-2021)
 * [3 February 2021](#3-february-2021)
@@ -16,56 +16,6 @@ Data generated on | |
 * [8 February 2021](#8-february-2021)
 * [10 February 2021](#10-february-2021)
 * [16 February 2021](#16-february-2021)
-
-------
-
-# 19 January 2021
-
-## [Africa’s Development Dynamics 2021 - Digital Transformation for Quality Jobs](https://doi.org/10.1787/0a5c9314-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 19 January 2021 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 January 2021 at 20:36
-- [x] Exported to Keepeek Thursday 14 January 2021 at 20:23
-- [x] Exported to OECD.org Wednesday 20 January 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Dynamiques du développement en Afrique 2021 - Transformation digitale et qualité de l'emploi](https://doi.org/10.1787/cd08eac8-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 19 January 2021 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 January 2021 at 20:36
-- [x] Exported to Keepeek Thursday 14 January 2021 at 20:23
-- [x] Exported to OECD.org Wednesday 20 January 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
 
 ------
 
@@ -80,7 +30,7 @@ Thursday 21 January 2021 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
+- [x] Exported to iLibrary Thursday 21 January 2021 at 21:06
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
 
@@ -103,7 +53,7 @@ Thursday 21 January 2021 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
+- [x] Exported to iLibrary Thursday 21 January 2021 at 21:06
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
 
@@ -155,7 +105,7 @@ Friday 22 January 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 18 January 2021 at 20:31
 - [x] Exported to Keepeek Monday 18 January 2021 at 20:07
-- [x] Exported to OECD.org Monday 18 January 2021 at 19:50
+- [x] Exported to OECD.org Thursday 21 January 2021 at 20:07
 
 ### Additional Information
 
@@ -164,6 +114,29 @@ Friday 22 January 2021 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [A deep look into teaching - Findings from the Global Teaching InSights video study](https://doi.org/10.1787/67dd4ed7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 22 January 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 21 January 2021 at 21:06
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 21 January 2021 at 20:07
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -191,6 +164,33 @@ Monday 25 January 2021 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
+
+------
+
+------
+
+# 26 January 2021
+
+## [OECD Economic Surveys: Bulgaria 2021 - Economic Assessment](https://doi.org/10.1787/1fe2940d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 26 January 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 21 January 2021 at 21:06
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 21 January 2021 at 20:07
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -257,15 +257,15 @@ Tuesday 2 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 21 January 2021 at 21:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 21 January 2021 at 20:07
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -322,6 +322,29 @@ Thursday 4 February 2021 at 8:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Issue*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Chile 2021](https://doi.org/10.1787/79b39420-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 4 February 2021 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 21 January 2021 at 21:06
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 21 January 2021 at 20:07
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
@@ -534,9 +557,9 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
+- [x] Exported to iLibrary Thursday 21 January 2021 at 21:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
+- [x] Exported to OECD.org Thursday 21 January 2021 at 20:07
 
 ### Additional Information
 
@@ -580,9 +603,9 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
+- [x] Exported to iLibrary Thursday 21 January 2021 at 21:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
+- [x] Exported to OECD.org Thursday 21 January 2021 at 20:07
 
 ### Additional Information
 
@@ -626,9 +649,9 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
+- [x] Exported to iLibrary Thursday 21 January 2021 at 21:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
+- [x] Exported to OECD.org Thursday 21 January 2021 at 20:07
 
 ### Additional Information
 
@@ -672,9 +695,9 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
+- [x] Exported to iLibrary Thursday 21 January 2021 at 21:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
+- [x] Exported to OECD.org Thursday 21 January 2021 at 20:07
 
 ### Additional Information
 
@@ -741,9 +764,9 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
+- [x] Exported to iLibrary Thursday 21 January 2021 at 21:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
+- [x] Exported to OECD.org Thursday 21 January 2021 at 20:07
 
 ### Additional Information
 
