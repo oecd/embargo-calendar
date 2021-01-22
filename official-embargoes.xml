@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2021-01-21T21:36:17.2111947+01:00">
+<report name="official-embargoes" generated="2021-01-22T20:50:40.9710244+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -33,8 +33,8 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2021-01-21T20:06:57Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-01-19T19:02:53Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="oecd.org last export date">2021-01-22T19:04:44Z</cell>
+    <cell name="discoveryservice last export date">2021-01-21T20:59:57Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -53,8 +53,8 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2021-01-21T20:06:57Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-01-19T19:02:53Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="oecd.org last export date">2021-01-22T19:04:44Z</cell>
+    <cell name="discoveryservice last export date">2021-01-21T20:59:57Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -73,8 +73,8 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2021-01-19T19:26:50Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-01-19T19:02:53Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="oecd.org last export date">2021-01-22T19:04:44Z</cell>
+    <cell name="discoveryservice last export date">2021-01-21T20:59:57Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1133,7 +1133,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2021-01-19T19:26:50Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-01-19T19:02:53Z</cell>
+    <cell name="oecd.org last export date">2021-01-22T19:04:44Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -1161,6 +1161,26 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/01733799</cell>
   </row>
   <row index="58">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/7c895724-en</cell>
+    <cell name="title">The impact of Artificial Intelligence on the labour market (en)</cell>
+    <cell name="subtitle">What do we know so far? (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-01-25</cell>
+    <cell name="embargo date">2021-01-25T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-22T19:28:46Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2021-01-22T19:04:44Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/96aebdd3</cell>
+  </row>
+  <row index="59">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/1fe2940d-en</cell>
     <cell name="title">OECD Economic Surveys: Bulgaria 2021 (en)</cell>
@@ -1171,16 +1191,16 @@
     <cell name="date of publication">2021-01-26</cell>
     <cell name="embargo date">2021-01-26T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-01-21T20:06:57Z</cell>
+    <cell name="ilibrary last export date">2021-01-22T19:28:46Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-01-21T19:07:29Z</cell>
+    <cell name="oecd.org last export date">2021-01-22T19:04:44Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c2f02877</cell>
   </row>
-  <row index="59">
+  <row index="60">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/1fe2940d-en</cell>
     <cell name="title">OECD Economic Surveys: Bulgaria 2021 (en)</cell>
@@ -1200,7 +1220,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/36b8d2ee</cell>
   </row>
-  <row index="60">
+  <row index="61">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/2e3b6edd-en</cell>
+    <cell name="title">Boosting SMEs’ internationalisation in Poland (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-01-27</cell>
+    <cell name="embargo date">2021-01-27T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-22T19:28:46Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2021-01-22T19:04:44Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dbe65465</cell>
+  </row>
+  <row index="62">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3f06ea4d-fr</cell>
     <cell name="title">Tendances des impôts sur la consommation 2020 (fr)</cell>
@@ -1220,7 +1260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fcf3184e</cell>
   </row>
-  <row index="61">
+  <row index="63">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/cc1da607-en</cell>
     <cell name="title">Public Procurement in the State of Mexico (en)</cell>
@@ -1240,7 +1280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/33cd5571</cell>
   </row>
-  <row index="62">
+  <row index="64">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/fb81b622-es</cell>
     <cell name="title">Contratación Pública en el Estado de México (es)</cell>
@@ -1260,7 +1300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5f24485a</cell>
   </row>
-  <row index="63">
+  <row index="65">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/cc1da607-en</cell>
     <cell name="title">Public Procurement in the State of Mexico (en)</cell>
@@ -1280,27 +1320,127 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aedb9305</cell>
   </row>
-  <row index="64">
+  <row index="66">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/b850ce98-en</cell>
+    <cell name="title">Technical notes on analyses in this report (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-02-02</cell>
+    <cell name="embargo date">2021-02-02T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-22T19:28:46Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ee632ae6</cell>
+  </row>
+  <row index="67">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/3b9551db-en</cell>
+    <cell name="title">Positive, High-achieving Students? (en)</cell>
+    <cell name="subtitle">What Schools and Teachers Can Do (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-02-02</cell>
+    <cell name="embargo date">2021-02-02T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-22T19:28:46Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2021-01-22T19:04:44Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5fdc1f83</cell>
+  </row>
+  <row index="68">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/9bc425ba-en</cell>
+    <cell name="title">Overview: What the TALIS‑PISA link insights imply for policy and future research (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-02-02</cell>
+    <cell name="embargo date">2021-02-02T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-22T19:28:46Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53ceab03</cell>
+  </row>
+  <row index="69">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/d44d0f58-en</cell>
+    <cell name="title">What do teachers and schools do that matters most for students' social and emotional development? (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-02-02</cell>
+    <cell name="embargo date">2021-02-02T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-22T19:28:46Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ac7116c1</cell>
+  </row>
+  <row index="70">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/9f1628c1-en</cell>
+    <cell name="title">List of tables available on line (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-02-02</cell>
+    <cell name="embargo date">2021-02-02T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-22T19:28:46Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e44cbee4</cell>
+  </row>
+  <row index="71">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/3b9551db-en</cell>
     <cell name="title">Positive, High-achieving Students? (en)</cell>
     <cell name="subtitle">What Schools and Teachers Can Do (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2021-02-02</cell>
     <cell name="embargo date">2021-02-02T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-01-21T20:06:57Z</cell>
+    <cell name="ilibrary last export date">2021-01-22T19:28:46Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-01-21T19:07:29Z</cell>
+    <cell name="oecd.org last export date">2021-01-22T19:04:44Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/73c2f082</cell>
   </row>
-  <row index="65">
+  <row index="72">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/3b9551db-en</cell>
     <cell name="title">Positive, High-achieving Students? (en)</cell>
@@ -1320,7 +1460,147 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/387b3bd1</cell>
   </row>
-  <row index="66">
+  <row index="73">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/6445d8c6-en</cell>
+    <cell name="title">What do teachers and schools do that matters most for student achievement? (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-02-02</cell>
+    <cell name="embargo date">2021-02-02T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-22T19:28:46Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ad64c46a</cell>
+  </row>
+  <row index="74">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/818558b2-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-02-02</cell>
+    <cell name="embargo date">2021-02-02T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-22T19:28:46Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3990116d</cell>
+  </row>
+  <row index="75">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/47ed6f1e-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-02-02</cell>
+    <cell name="embargo date">2021-02-02T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-22T19:28:46Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ddc7278c</cell>
+  </row>
+  <row index="76">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/3b9551db-en</cell>
+    <cell name="title">Positive, High-achieving Students? (en)</cell>
+    <cell name="subtitle">What Schools and Teachers Can Do (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-02-02</cell>
+    <cell name="embargo date">2021-02-02T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-22T19:28:46Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/954a326b</cell>
+  </row>
+  <row index="77">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/ae1f4795-en</cell>
+    <cell name="title">Technical notes on TALIS‑PISA link data (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-02-02</cell>
+    <cell name="embargo date">2021-02-02T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-22T19:28:46Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d046c84</cell>
+  </row>
+  <row index="78">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/8133e694-en</cell>
+    <cell name="title">Reader’s guide (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-02-02</cell>
+    <cell name="embargo date">2021-02-02T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-22T19:28:46Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e5f2fd75</cell>
+  </row>
+  <row index="79">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/4c7b6f5a-en</cell>
+    <cell name="title">Does what teachers and schools do matter differently depending on student achievement and gender? (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-02-02</cell>
+    <cell name="embargo date">2021-02-02T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-22T19:28:46Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cd820f91</cell>
+  </row>
+  <row index="80">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/bdb9256a-en</cell>
     <cell name="title">The Digital Transformation of SMEs (en)</cell>
@@ -1340,7 +1620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/91163a0c</cell>
   </row>
-  <row index="67">
+  <row index="81">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/bdb9256a-en</cell>
     <cell name="title">The Digital Transformation of SMEs (en)</cell>
@@ -1360,7 +1640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1a5e9b4c</cell>
   </row>
-  <row index="68">
+  <row index="82">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/711629f8-en</cell>
     <cell name="title">Economic Outlook for Southeast Asia, China and India 2021 (en)</cell>
@@ -1380,7 +1660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/228ee2d3</cell>
   </row>
-  <row index="69">
+  <row index="83">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/79b39420-en</cell>
     <cell name="title">OECD Economic Surveys: Chile 2021 (en)</cell>
@@ -1400,7 +1680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/541a9693</cell>
   </row>
-  <row index="70">
+  <row index="84">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3f06ea4d-fr</cell>
     <cell name="title">Tendances des impôts sur la consommation 2020 (fr)</cell>
@@ -1420,7 +1700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8a8dcc1f</cell>
   </row>
-  <row index="71">
+  <row index="85">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4927a380-en</cell>
     <cell name="title">Elderly dependency (en)</cell>
@@ -1440,7 +1720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27a74db8</cell>
   </row>
-  <row index="72">
+  <row index="86">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/deb66dc3-en</cell>
     <cell name="title">Change in the share of population by type of region (TL3), 2000-17 (en)</cell>
@@ -1460,7 +1740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1e67ce88</cell>
   </row>
-  <row index="73">
+  <row index="87">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/99009794-en</cell>
     <cell name="title">Geographic concentration index of GDP (TL3 regions), 2017 (en)</cell>
@@ -1480,7 +1760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ccfc7fd8</cell>
   </row>
-  <row index="74">
+  <row index="88">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/a7d58d8c-en</cell>
     <cell name="title">Population share living in functional urban areas over total population, 2015 (en)</cell>
@@ -1500,7 +1780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d3ac8f5</cell>
   </row>
-  <row index="75">
+  <row index="89">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/6e04bbed-en</cell>
     <cell name="title">Change in sector share of GVA, 2000-17 (en)</cell>
@@ -1520,7 +1800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4fe1a220</cell>
   </row>
-  <row index="76">
+  <row index="90">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/6fb7aee9-en</cell>
     <cell name="title">Evolution of rural policies in Korea and current policy measures (en)</cell>
@@ -1540,7 +1820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d837322d</cell>
   </row>
-  <row index="77">
+  <row index="91">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4971716e-en</cell>
     <cell name="title">Elderly dependency ratio gap between rural and metropolitan regions, 2018 (en)</cell>
@@ -1560,7 +1840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ef62718f</cell>
   </row>
-  <row index="78">
+  <row index="92">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/62d64e92-en</cell>
     <cell name="title">Growth in population share by four non-metropolitan (rural) TL3 regions in Korea, 2001‑18 (en)</cell>
@@ -1580,7 +1860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10421c40</cell>
   </row>
-  <row index="79">
+  <row index="93">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/a3c685a7-en</cell>
     <cell name="title">Perspectives on Decentralisation and Rural-Urban Linkages in Korea (en)</cell>
@@ -1600,7 +1880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cd8e8f37</cell>
   </row>
-  <row index="80">
+  <row index="94">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/8c877f4c-en</cell>
     <cell name="title">Case study of Chungcheongbuk-do and Jeollanam-do (en)</cell>
@@ -1620,7 +1900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/089efac7</cell>
   </row>
-  <row index="81">
+  <row index="95">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9242d63a-en</cell>
     <cell name="title">Inter-regional net migration (en)</cell>
@@ -1640,7 +1920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6f43e245</cell>
   </row>
-  <row index="82">
+  <row index="96">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/8c877f4c-en</cell>
     <cell name="title">Case study of Chungcheongbuk-do and Jeollanam-do (en)</cell>
@@ -1660,7 +1940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0a88463e</cell>
   </row>
-  <row index="83">
+  <row index="97">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/d3aa8741-en</cell>
     <cell name="title">Rural-urban linkages and innovation cities (en)</cell>
@@ -1680,7 +1960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0565d3a4</cell>
   </row>
-  <row index="84">
+  <row index="98">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/a4a76f08-en</cell>
     <cell name="title">Population shares Korean TL3 regions based on OECD access to cities definition (en)</cell>
@@ -1700,7 +1980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/342d29c5</cell>
   </row>
-  <row index="85">
+  <row index="99">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/cc855648-en</cell>
     <cell name="title">The share of the population in metropolitan regions increased in the last two decades, 2001-19 (en)</cell>
@@ -1720,7 +2000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23e3a121</cell>
   </row>
-  <row index="86">
+  <row index="100">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/92c7d5c0-en</cell>
     <cell name="title">Median travel time to the closest city (en)</cell>
@@ -1740,7 +2020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c82e888d</cell>
   </row>
-  <row index="87">
+  <row index="101">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/393807c2-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1760,7 +2040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9ca554a1</cell>
   </row>
-  <row index="88">
+  <row index="102">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/393807c2-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1780,7 +2060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c3eff19a</cell>
   </row>
-  <row index="89">
+  <row index="103">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/d3aa8741-en</cell>
     <cell name="title">Rural-urban linkages and innovation cities (en)</cell>
@@ -1800,7 +2080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0e9fce96</cell>
   </row>
-  <row index="90">
+  <row index="104">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/60837c36-en</cell>
     <cell name="title">Per capita GDP and GVA - Performance in GDP per capita (2001-18) (en)</cell>
@@ -1820,7 +2100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f504f6ae</cell>
   </row>
-  <row index="91">
+  <row index="105">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/adac6d1f-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -1840,7 +2120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/66992fc0</cell>
   </row>
-  <row index="92">
+  <row index="106">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/92b5020c-en</cell>
     <cell name="title">Population pyramid by age, gender and place of residency, Korea, 2017 (en)</cell>
@@ -1860,7 +2140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da422068</cell>
   </row>
-  <row index="93">
+  <row index="107">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/90bb602d-en</cell>
     <cell name="title">Population share by TL3 regions, access to cities OECD definition, 2018 (en)</cell>
@@ -1880,7 +2160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dc9ae776</cell>
   </row>
-  <row index="94">
+  <row index="108">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/b9989e89-en</cell>
     <cell name="title">Labour productivity gab between urban and rural regions, 2016 (en)</cell>
@@ -1900,7 +2180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/204bc2b5</cell>
   </row>
-  <row index="95">
+  <row index="109">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/de553ba1-en</cell>
     <cell name="title">Trends, opportunities and challenges in rural Korea (en)</cell>
@@ -1920,7 +2200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/76280530</cell>
   </row>
-  <row index="96">
+  <row index="110">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/8dfe6bcb-en</cell>
     <cell name="title">GDP per capita as a share of the national average by type of region, Korea, 2000 vs. 2017 (en)</cell>
@@ -1940,7 +2220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f57fc0bc</cell>
   </row>
-  <row index="97">
+  <row index="111">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/a3c685a7-en</cell>
     <cell name="title">Perspectives on Decentralisation and Rural-Urban Linkages in Korea (en)</cell>
@@ -1960,7 +2240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/06357f6d</cell>
   </row>
-  <row index="98">
+  <row index="112">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/adac6d1f-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -1980,7 +2260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c43013e7</cell>
   </row>
-  <row index="99">
+  <row index="113">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f259139c-en</cell>
     <cell name="title">GDP contribution by type of TL3 Korean region using OECD access to cities typology, 2018 (en)</cell>
@@ -2000,7 +2280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e73596d5</cell>
   </row>
-  <row index="100">
+  <row index="114">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/78adfe05-en</cell>
     <cell name="title">Geographic concentration index among Korean TL3 regions, 2001-18 (en)</cell>
@@ -2020,7 +2300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f905fc00</cell>
   </row>
-  <row index="101">
+  <row index="115">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/5f67cb8c-en</cell>
     <cell name="title">Population density growth index (2001=100) (en)</cell>
@@ -2040,7 +2320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e81eb409</cell>
   </row>
-  <row index="102">
+  <row index="116">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/a3c685a7-en</cell>
     <cell name="title">Perspectives on Decentralisation and Rural-Urban Linkages in Korea (en)</cell>
@@ -2060,7 +2340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cbbf1e31</cell>
   </row>
-  <row index="103">
+  <row index="117">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/3ed41e5d-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -2080,7 +2360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aed86ff8</cell>
   </row>
-  <row index="104">
+  <row index="118">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/6fb7aee9-en</cell>
     <cell name="title">Evolution of rural policies in Korea and current policy measures (en)</cell>
@@ -2100,7 +2380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/84246937</cell>
   </row>
-  <row index="105">
+  <row index="119">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/3ed41e5d-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -2120,7 +2400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f42a78d5</cell>
   </row>
-  <row index="106">
+  <row index="120">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/0fc63ea8-en</cell>
     <cell name="title">GDP contribution by type of TL3 Korean region, 2018 (en)</cell>
@@ -2140,7 +2420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1a37ba7c</cell>
   </row>
-  <row index="107">
+  <row index="121">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/de553ba1-en</cell>
     <cell name="title">Trends, opportunities and challenges in rural Korea (en)</cell>
@@ -2160,7 +2440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23cd6dd2</cell>
   </row>
-  <row index="108">
+  <row index="122">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/8272a64f-en</cell>
     <cell name="title">Population shares in Seoul and Gyeonggi-do, 2001-18 (en)</cell>
@@ -2180,7 +2460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f77dadd7</cell>
   </row>
-  <row index="109">
+  <row index="123">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/d0bec3d4-en</cell>
     <cell name="title">Per capita GDP and GVA - GVA per worker (2008-18) (en)</cell>
@@ -2200,7 +2480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/49f4a56b</cell>
   </row>
-  <row index="110">
+  <row index="124">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/51a2ec2b-en</cell>
     <cell name="title">Considerations for upcoming decentralisation and devolution (en)</cell>
@@ -2220,7 +2500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6cd5c627</cell>
   </row>
-  <row index="111">
+  <row index="125">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4848dfd6-en</cell>
     <cell name="title">Index of geographic concentration of population, TL3, 2001 and 2019 (en)</cell>
@@ -2240,7 +2520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/994117ca</cell>
   </row>
-  <row index="112">
+  <row index="126">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/af6d1f46-en</cell>
     <cell name="title">Performance of TL3 rural regions in Korea and other OECD TL3 rural regions, 2000-17 (en)</cell>
@@ -2260,7 +2540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4fc9307e</cell>
   </row>
-  <row index="113">
+  <row index="127">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/3f9ebfe8-en</cell>
     <cell name="title">Subnational government expenditure by economic classification (en)</cell>
@@ -2280,7 +2560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c8c42ab8</cell>
   </row>
-  <row index="114">
+  <row index="128">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/35e4aaa9-en</cell>
     <cell name="title">Distribution of population by metro and non-metro TL3 regions, 2018 (en)</cell>
@@ -2300,7 +2580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/45656048</cell>
   </row>
-  <row index="115">
+  <row index="129">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4ea8539a-en</cell>
     <cell name="title">Subnational government expenditure in Korea by functional classification (en)</cell>
@@ -2320,7 +2600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/befe7f3c</cell>
   </row>
-  <row index="116">
+  <row index="130">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/28243349-en</cell>
     <cell name="title">Concentration index by age group (en)</cell>
@@ -2340,7 +2620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/43ff5da0</cell>
   </row>
-  <row index="117">
+  <row index="131">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/18ed7fca-en</cell>
     <cell name="title">GDP per capita gap between PU and rural regions, 2017 (en)</cell>
@@ -2360,7 +2640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4d19e7df</cell>
   </row>
-  <row index="118">
+  <row index="132">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/a3c685a7-en</cell>
     <cell name="title">Perspectives on Decentralisation and Rural-Urban Linkages in Korea (en)</cell>
@@ -2380,7 +2660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8a5b3260</cell>
   </row>
-  <row index="119">
+  <row index="133">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/95acf16f-en</cell>
     <cell name="title">Population growth in TL3 non-metropolitan regions, 2000-18 (en)</cell>
@@ -2400,7 +2680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/76c2d5da</cell>
   </row>
-  <row index="120">
+  <row index="134">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/51a2ec2b-en</cell>
     <cell name="title">Considerations for upcoming decentralisation and devolution (en)</cell>
@@ -2420,7 +2700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fe9c5177</cell>
   </row>
-  <row index="121">
+  <row index="135">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/8d22ec05-en</cell>
     <cell name="title">Subnational government revenue by category (en)</cell>
@@ -2440,7 +2720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3165d038</cell>
   </row>
-  <row index="122">
+  <row index="136">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/6602e7de-en</cell>
     <cell name="title">Elderly dependency ratio by country and type of non-metropolitan region, 2018 (en)</cell>
@@ -2460,7 +2740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bab55937</cell>
   </row>
-  <row index="123">
+  <row index="137">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/4f713390-en</cell>
     <cell name="title">Inclusive Growth Review of Korea (en)</cell>
@@ -2480,7 +2760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2143c94c</cell>
   </row>
-  <row index="124">
+  <row index="138">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/4f713390-en</cell>
     <cell name="title">Inclusive Growth Review of Korea (en)</cell>
@@ -2500,7 +2780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/799fbffb</cell>
   </row>
-  <row index="125">
+  <row index="139">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/e341ffed-en</cell>
     <cell name="title">Latvia in the digital transformation: Opportunities and challenges (en)</cell>
@@ -2520,7 +2800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/306832fc</cell>
   </row>
-  <row index="126">
+  <row index="140">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/0bb3cd76-lv</cell>
     <cell name="title">Apzīmējumi, saīsinājumi un mērvienības (lv)</cell>
@@ -2540,7 +2820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cfa4d0a0</cell>
   </row>
-  <row index="127">
+  <row index="141">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/637275d7-lv</cell>
     <cell name="title">Kopsavilkums (lv)</cell>
@@ -2560,7 +2840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2454a306</cell>
   </row>
-  <row index="128">
+  <row index="142">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/cf006e1b-en</cell>
     <cell name="title">Policies for digital transformation: Recommendations for a whole-of-government approach (en)</cell>
@@ -2580,7 +2860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0eb714c8</cell>
   </row>
-  <row index="129">
+  <row index="143">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/2c5af26f-lv</cell>
     <cell name="title">Ekonomikas un sabiedrības digitālās pārveides iespēju izmantošana (lv)</cell>
@@ -2600,7 +2880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/68f1501d</cell>
   </row>
-  <row index="130">
+  <row index="144">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/e341ffed-en</cell>
     <cell name="title">Latvia in the digital transformation: Opportunities and challenges (en)</cell>
@@ -2620,7 +2900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b47bf220</cell>
   </row>
-  <row index="131">
+  <row index="145">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/4778eb41-lv</cell>
     <cell name="title">Digitālās transformācijas atbalstīšana starp cilvēkiem, uzņēmumiem un valdību (lv)</cell>
@@ -2640,7 +2920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/99579cac</cell>
   </row>
-  <row index="132">
+  <row index="146">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/a58d1c1a-lv</cell>
     <cell name="title">Digitalizācija Latvijā (lv)</cell>
@@ -2660,7 +2940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ea9d644f</cell>
   </row>
-  <row index="133">
+  <row index="147">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/e3e228d8-lv</cell>
     <cell name="title">Infrastruktūras latvijas digitālajai ekonomikai (lv)</cell>
@@ -2680,7 +2960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fb5c2ff0</cell>
   </row>
-  <row index="134">
+  <row index="148">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/bd08771e-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -2700,7 +2980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/85d9a4fd</cell>
   </row>
-  <row index="135">
+  <row index="149">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/a58d1c1a-lv</cell>
     <cell name="title">Digitalizācija Latvijā (lv)</cell>
@@ -2720,7 +3000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8f86e670</cell>
   </row>
-  <row index="136">
+  <row index="150">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/e3e228d8-lv</cell>
     <cell name="title">Infrastruktūras latvijas digitālajai ekonomikai (lv)</cell>
@@ -2740,7 +3020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ea1060b7</cell>
   </row>
-  <row index="137">
+  <row index="151">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/5470c607-lv</cell>
     <cell name="title">Digitālās transformācijas politikas: Rekomendācijas valdības kopējai pieejai (lv)</cell>
@@ -2760,7 +3040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c21454e3</cell>
   </row>
-  <row index="138">
+  <row index="152">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/fa7178b3-en</cell>
     <cell name="title">Key future uncertainties in digital transformation and potential implications for Latvia (en)</cell>
@@ -2780,7 +3060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/29ff4650</cell>
   </row>
-  <row index="139">
+  <row index="153">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/eb3fe8ce-lv</cell>
     <cell name="title">Priekšvārds (lv)</cell>
@@ -2800,7 +3080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9724e280</cell>
   </row>
-  <row index="140">
+  <row index="154">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/8eec1828-en</cell>
     <cell name="title">Going Digital in Latvia (en)</cell>
@@ -2820,7 +3100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc7e1dcc</cell>
   </row>
-  <row index="141">
+  <row index="155">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/0bb3cd76-lv</cell>
     <cell name="title">Apzīmējumi, saīsinājumi un mērvienības (lv)</cell>
@@ -2840,7 +3120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/48ae2853</cell>
   </row>
-  <row index="142">
+  <row index="156">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/b38af25d-lv</cell>
     <cell name="title">Latvija digitālajā transformācijā: Iespējas un izaicinājumi (lv)</cell>
@@ -2860,7 +3140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a18493aa</cell>
   </row>
-  <row index="143">
+  <row index="157">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/50dbec04-en</cell>
     <cell name="title">Enhancing trust in the digital economy (en)</cell>
@@ -2880,7 +3160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/711732dd</cell>
   </row>
-  <row index="144">
+  <row index="158">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/55062b2d-en</cell>
     <cell name="title">Acronyms, abbreviations and units of measure (en)</cell>
@@ -2900,7 +3180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/74ba3741</cell>
   </row>
-  <row index="145">
+  <row index="159">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/a58d1c1a-lv</cell>
     <cell name="title">Digitalizācija Latvijā (lv)</cell>
@@ -2920,7 +3200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41933cb1</cell>
   </row>
-  <row index="146">
+  <row index="160">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/fa7178b3-en</cell>
     <cell name="title">Key future uncertainties in digital transformation and potential implications for Latvia (en)</cell>
@@ -2940,7 +3220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5771a17a</cell>
   </row>
-  <row index="147">
+  <row index="161">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/b9ffaee6-lv</cell>
     <cell name="title">Uzticamības veicināšana digitālajai ekonomikai (lv)</cell>
@@ -2960,7 +3240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f4668711</cell>
   </row>
-  <row index="148">
+  <row index="162">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/637275d7-lv</cell>
     <cell name="title">Kopsavilkums (lv)</cell>
@@ -2980,7 +3260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e2963a3d</cell>
   </row>
-  <row index="149">
+  <row index="163">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/e862aee0-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -3000,7 +3280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2e5e7483</cell>
   </row>
-  <row index="150">
+  <row index="164">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/bd08771e-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -3020,7 +3300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ddb4cf0b</cell>
   </row>
-  <row index="151">
+  <row index="165">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/8eec1828-en</cell>
     <cell name="title">Going Digital in Latvia (en)</cell>
@@ -3040,7 +3320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1cd00cc0</cell>
   </row>
-  <row index="152">
+  <row index="166">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/5470c607-lv</cell>
     <cell name="title">Digitālās transformācijas politikas: Rekomendācijas valdības kopējai pieejai (lv)</cell>
@@ -3060,7 +3340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d1e67123</cell>
   </row>
-  <row index="153">
+  <row index="167">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/8eec1828-en</cell>
     <cell name="title">Going Digital in Latvia (en)</cell>
@@ -3080,7 +3360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b78bdec3</cell>
   </row>
-  <row index="154">
+  <row index="168">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/8eec1828-en</cell>
     <cell name="title">Going Digital in Latvia (en)</cell>
@@ -3100,7 +3380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a8389569</cell>
   </row>
-  <row index="155">
+  <row index="169">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/cbfc1ed9-en</cell>
     <cell name="title">Fostering the digital transformation among people, firms and government (en)</cell>
@@ -3120,7 +3400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dbd533a6</cell>
   </row>
-  <row index="156">
+  <row index="170">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/4778eb41-lv</cell>
     <cell name="title">Digitālās transformācijas atbalstīšana starp cilvēkiem, uzņēmumiem un valdību (lv)</cell>
@@ -3140,7 +3420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/08db1460</cell>
   </row>
-  <row index="157">
+  <row index="171">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/eb3fe8ce-lv</cell>
     <cell name="title">Priekšvārds (lv)</cell>
@@ -3160,7 +3440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1a61efe6</cell>
   </row>
-  <row index="158">
+  <row index="172">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/5b350350-en</cell>
     <cell name="title">Seizing the potential of the digital transformation of the economy and society (en)</cell>
@@ -3180,7 +3460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d4e593cc</cell>
   </row>
-  <row index="159">
+  <row index="173">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/50dbec04-en</cell>
     <cell name="title">Enhancing trust in the digital economy (en)</cell>
@@ -3200,7 +3480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e0bc6db5</cell>
   </row>
-  <row index="160">
+  <row index="174">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/8f093c7b-en</cell>
     <cell name="title">Infrastructures for Latvia’s digital economy (en)</cell>
@@ -3220,7 +3500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dc846fbc</cell>
   </row>
-  <row index="161">
+  <row index="175">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/a58d1c1a-lv</cell>
     <cell name="title">Digitalizācija Latvijā (lv)</cell>
@@ -3240,7 +3520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c7777c5</cell>
   </row>
-  <row index="162">
+  <row index="176">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/4d84bd8d-lv</cell>
     <cell name="title">Galvenās nākotnes nenoteiktības digitālajā transformācijā un potenciālās sekas latvijai (lv)</cell>
@@ -3260,7 +3540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/03823582</cell>
   </row>
-  <row index="163">
+  <row index="177">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/8f093c7b-en</cell>
     <cell name="title">Infrastructures for Latvia’s digital economy (en)</cell>
@@ -3280,7 +3560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4dfa4cdf</cell>
   </row>
-  <row index="164">
+  <row index="178">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/cf006e1b-en</cell>
     <cell name="title">Policies for digital transformation: Recommendations for a whole-of-government approach (en)</cell>
@@ -3300,7 +3580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ccc2e829</cell>
   </row>
-  <row index="165">
+  <row index="179">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/e862aee0-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -3320,7 +3600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/89c83fd2</cell>
   </row>
-  <row index="166">
+  <row index="180">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/2c5af26f-lv</cell>
     <cell name="title">Ekonomikas un sabiedrības digitālās pārveides iespēju izmantošana (lv)</cell>
@@ -3340,7 +3620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/452d3559</cell>
   </row>
-  <row index="167">
+  <row index="181">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/b9ffaee6-lv</cell>
     <cell name="title">Uzticamības veicināšana digitālajai ekonomikai (lv)</cell>
@@ -3360,7 +3640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ed68280a</cell>
   </row>
-  <row index="168">
+  <row index="182">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/cbfc1ed9-en</cell>
     <cell name="title">Fostering the digital transformation among people, firms and government (en)</cell>
@@ -3380,7 +3660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/678cf705</cell>
   </row>
-  <row index="169">
+  <row index="183">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/5b350350-en</cell>
     <cell name="title">Seizing the potential of the digital transformation of the economy and society (en)</cell>
@@ -3400,7 +3680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/68cc0798</cell>
   </row>
-  <row index="170">
+  <row index="184">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/4d84bd8d-lv</cell>
     <cell name="title">Galvenās nākotnes nenoteiktības digitālajā transformācijā un potenciālās sekas latvijai (lv)</cell>
@@ -3420,7 +3700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b9cb80b2</cell>
   </row>
-  <row index="171">
+  <row index="185">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/b38af25d-lv</cell>
     <cell name="title">Latvija digitālajā transformācijā: Iespējas un izaicinājumi (lv)</cell>
@@ -3440,7 +3720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6a10a98</cell>
   </row>
-  <row index="172">
+  <row index="186">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/55062b2d-en</cell>
     <cell name="title">Acronyms, abbreviations and units of measure (en)</cell>
@@ -3460,7 +3740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/629e5b9d</cell>
   </row>
-  <row index="173">
+  <row index="187">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6b75f20f-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Aruba (Stage 1) (en)</cell>
@@ -3480,7 +3760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b189064f</cell>
   </row>
-  <row index="174">
+  <row index="188">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a615e55d-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Gibraltar (Stage 1) (en)</cell>
@@ -3500,7 +3780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4005ff24</cell>
   </row>
-  <row index="175">
+  <row index="189">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b20477e3-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Thailand (Stage 1) (en)</cell>
@@ -3520,7 +3800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6e4188c7</cell>
   </row>
-  <row index="176">
+  <row index="190">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c1f5577f-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Greenland (Stage 1) (en)</cell>
@@ -3540,7 +3820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a167d1c9</cell>
   </row>
-  <row index="177">
+  <row index="191">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/19b019f8-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Oman (Stage 1) (en)</cell>
@@ -3560,7 +3840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c77e01d</cell>
   </row>
-  <row index="178">
+  <row index="192">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9dcb28be-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Qatar (Stage 1) (en)</cell>
@@ -3580,7 +3860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fb1cacec</cell>
   </row>
-  <row index="179">
+  <row index="193">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6b75f20f-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Aruba (Stage 1) (en)</cell>
@@ -3600,7 +3880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a29e29b0</cell>
   </row>
-  <row index="180">
+  <row index="194">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/010c39fa-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Saint Kitts and Nevis (Stage 1) (en)</cell>
@@ -3620,7 +3900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7487db5e</cell>
   </row>
-  <row index="181">
+  <row index="195">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/417776da-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Viet Nam (Stage 1) (en)</cell>
@@ -3640,7 +3920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0f17915b</cell>
   </row>
-  <row index="182">
+  <row index="196">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b20477e3-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Thailand (Stage 1) (en)</cell>
@@ -3660,7 +3940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2b09578d</cell>
   </row>
-  <row index="183">
+  <row index="197">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/edf96ece-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Barbados (Stage 1) (en)</cell>
@@ -3680,7 +3960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae7dce85</cell>
   </row>
-  <row index="184">
+  <row index="198">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/417776da-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Viet Nam (Stage 1) (en)</cell>
@@ -3700,7 +3980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5c8eaffd</cell>
   </row>
-  <row index="185">
+  <row index="199">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5bb425a9-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Kazakhstan (Stage 1) (en)</cell>
@@ -3720,7 +4000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10cc0697</cell>
   </row>
-  <row index="186">
+  <row index="200">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b178f2ef-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Bahrain (Stage 1) (en)</cell>
@@ -3740,7 +4020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7154f44b</cell>
   </row>
-  <row index="187">
+  <row index="201">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/edf96ece-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Barbados (Stage 1) (en)</cell>
@@ -3760,7 +4040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/81cdba12</cell>
   </row>
-  <row index="188">
+  <row index="202">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/010c39fa-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Saint Kitts and Nevis (Stage 1) (en)</cell>
@@ -3780,7 +4060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/70fc7af5</cell>
   </row>
-  <row index="189">
+  <row index="203">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/def5f134-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Trinidad and Tobago (Stage 1) (en)</cell>
@@ -3800,7 +4080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/89f0c386</cell>
   </row>
-  <row index="190">
+  <row index="204">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c1f5577f-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Greenland (Stage 1) (en)</cell>
@@ -3820,7 +4100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bd4c6f57</cell>
   </row>
-  <row index="191">
+  <row index="205">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a615e55d-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Gibraltar (Stage 1) (en)</cell>
@@ -3840,7 +4120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/00931bcf</cell>
   </row>
-  <row index="192">
+  <row index="206">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9dcb28be-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Qatar (Stage 1) (en)</cell>
@@ -3860,7 +4140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/634cce8f</cell>
   </row>
-  <row index="193">
+  <row index="207">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ea6c9295-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, United Arab Emirates (Stage 1) (en)</cell>
@@ -3880,7 +4160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/42187e5d</cell>
   </row>
-  <row index="194">
+  <row index="208">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ea6c9295-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, United Arab Emirates (Stage 1) (en)</cell>
@@ -3900,7 +4180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fbf99ba6</cell>
   </row>
-  <row index="195">
+  <row index="209">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b178f2ef-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Bahrain (Stage 1) (en)</cell>
@@ -3920,7 +4200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec164bc4</cell>
   </row>
-  <row index="196">
+  <row index="210">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/19b019f8-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Oman (Stage 1) (en)</cell>
@@ -3940,7 +4220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae228a4b</cell>
   </row>
-  <row index="197">
+  <row index="211">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5bb425a9-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Kazakhstan (Stage 1) (en)</cell>
@@ -3960,7 +4240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8ed2bfbe</cell>
   </row>
-  <row index="198">
+  <row index="212">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/def5f134-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Trinidad and Tobago (Stage 1) (en)</cell>

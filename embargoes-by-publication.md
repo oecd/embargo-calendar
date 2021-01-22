@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 21 January 2021 at 21:36* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 22 January 2021 at 20:50* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Enhancing administrative and fiscal decentralisation in the Czech Republic](https://doi.org/10.1787/c1d0c9bb-en)
 
@@ -15,7 +15,7 @@ Thursday 21 January 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 January 2021 at 21:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
+- [x] Exported to OECD.org Friday 22 January 2021 at 20:04
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Thursday 21 January 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 January 2021 at 21:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
+- [x] Exported to OECD.org Friday 22 January 2021 at 20:04
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Thursday 21 January 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
+- [x] Exported to OECD.org Friday 22 January 2021 at 20:04
 
 ### Additional Information
 
@@ -130,7 +130,30 @@ Monday 25 January 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
+- [x] Exported to OECD.org Friday 22 January 2021 at 20:04
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [The impact of Artificial Intelligence on the labour market - What do we know so far?](https://doi.org/10.1787/7c895724-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 25 January 2021 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 22 January 2021 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 22 January 2021 at 20:04
 
 ### Additional Information
 
@@ -151,9 +174,9 @@ Tuesday 26 January 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 21 January 2021 at 21:06
+- [x] Exported to iLibrary Friday 22 January 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 January 2021 at 20:07
+- [x] Exported to OECD.org Friday 22 January 2021 at 20:04
 
 ### Additional Information
 
@@ -162,6 +185,29 @@ Tuesday 26 January 2021 at 9:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Boosting SMEs’ internationalisation in Poland](https://doi.org/10.1787/2e3b6edd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 January 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 22 January 2021 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 22 January 2021 at 20:04
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -220,17 +266,17 @@ Tuesday 2 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 21 January 2021 at 21:06
+- [x] Exported to iLibrary Friday 22 January 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 January 2021 at 20:07
+- [x] Exported to OECD.org Friday 22 January 2021 at 20:04
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
