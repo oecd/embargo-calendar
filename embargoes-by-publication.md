@@ -2,122 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 22 January 2021 at 20:50* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Enhancing administrative and fiscal decentralisation in the Czech Republic](https://doi.org/10.1787/c1d0c9bb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 January 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 January 2021 at 21:06
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 January 2021 at 20:04
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Promoting the diffusion of technology to boost productivity and well-being in Korea](https://doi.org/10.1787/51ea75a5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 January 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 January 2021 at 21:06
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 January 2021 at 20:04
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Making the most of teachers’ time](https://doi.org/10.1787/d005c027-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 January 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 January 2021 at 20:04
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [SME and Entrepreneurship Policy in Viet Nam](https://doi.org/10.1787/30c79519-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 22 January 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 18 January 2021 at 20:31
-- [x] Exported to Keepeek Monday 18 January 2021 at 20:07
-- [x] Exported to OECD.org Thursday 21 January 2021 at 20:07
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [A deep look into teaching - Findings from the Global Teaching InSights video study](https://doi.org/10.1787/67dd4ed7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 22 January 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 January 2021 at 21:06
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 January 2021 at 20:07
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Monday 25 January 2021 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [What happened to jobs at high risk of automation?](https://doi.org/10.1787/10bc97f4-en)
 
@@ -151,9 +36,9 @@ Monday 25 January 2021 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 January 2021 at 20:28
+- [x] Exported to iLibrary Monday 25 January 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 January 2021 at 20:04
+- [x] Exported to OECD.org Monday 25 January 2021 at 19:57
 
 ### Additional Information
 
@@ -162,29 +47,6 @@ Monday 25 January 2021 at 13:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Bulgaria 2021 - Economic Assessment](https://doi.org/10.1787/1fe2940d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 26 January 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 22 January 2021 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 January 2021 at 20:04
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
 
 ------
 
@@ -199,7 +61,7 @@ Wednesday 27 January 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 22 January 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 January 2021 at 20:04
+- [x] Exported to OECD.org Monday 25 January 2021 at 19:57
 
 ### Additional Information
 
@@ -208,6 +70,29 @@ Wednesday 27 January 2021 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Bulgaria 2021 - Economic Assessment](https://doi.org/10.1787/1fe2940d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 January 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 25 January 2021 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 25 January 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -265,9 +150,9 @@ Tuesday 2 February 2021 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 22 January 2021 at 20:28
-- [ ] Exported to Keepeek
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 25 January 2021 at 20:21
+- [x] Exported to Keepeek Monday 25 January 2021 at 20:11
 - [x] Exported to OECD.org Friday 22 January 2021 at 20:04
 
 ### Additional Information
@@ -289,15 +174,15 @@ Wednesday 3 February 2021 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 25 January 2021 at 20:21
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 25 January 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -404,15 +289,15 @@ Monday 8 February 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 25 January 2021 at 20:21
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 25 January 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
