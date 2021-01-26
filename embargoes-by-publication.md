@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 25 January 2021 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 26 January 2021 at 20:46* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [What happened to jobs at high risk of automation?](https://doi.org/10.1787/10bc97f4-en)
 
@@ -15,7 +15,7 @@ Monday 25 January 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 January 2021 at 20:04
+- [x] Exported to OECD.org Tuesday 26 January 2021 at 19:57
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 25 January 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 25 January 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 January 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 26 January 2021 at 19:57
 
 ### Additional Information
 
@@ -77,14 +77,14 @@ Wednesday 27 January 2021 at 6:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 27 January 2021 at 9:00 | no launch event
+Friday 29 January 2021 at 9:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 25 January 2021 at 20:21
+- [x] Exported to iLibrary Tuesday 26 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 January 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 26 January 2021 at 19:57
 
 ### Additional Information
 
@@ -174,9 +174,9 @@ Wednesday 3 February 2021 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 25 January 2021 at 20:21
+- [x] Exported to iLibrary Tuesday 26 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 January 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 26 January 2021 at 19:57
 
 ### Additional Information
 
@@ -284,14 +284,14 @@ Monday 8 February 2021 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 8 February 2021 at 9:00 | no launch event
+Monday 8 February 2021 at 8:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 25 January 2021 at 20:21
+- [x] Exported to iLibrary Tuesday 26 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 January 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 26 January 2021 at 19:57
 
 ### Additional Information
 
@@ -381,9 +381,9 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
+- [x] Exported to iLibrary Tuesday 26 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
+- [x] Exported to OECD.org Tuesday 26 January 2021 at 19:57
 
 ### Additional Information
 
@@ -404,9 +404,9 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
+- [x] Exported to iLibrary Tuesday 26 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
+- [x] Exported to OECD.org Tuesday 26 January 2021 at 19:57
 
 ### Additional Information
 
@@ -496,9 +496,9 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
+- [x] Exported to iLibrary Tuesday 26 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
+- [x] Exported to OECD.org Tuesday 26 January 2021 at 19:57
 
 ### Additional Information
 
@@ -565,9 +565,9 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 21 January 2021 at 21:06
+- [x] Exported to iLibrary Tuesday 26 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 January 2021 at 20:07
+- [x] Exported to OECD.org Tuesday 26 January 2021 at 19:57
 
 ### Additional Information
 
@@ -588,9 +588,9 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
+- [x] Exported to iLibrary Tuesday 26 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 January 2021 at 20:02
+- [x] Exported to OECD.org Tuesday 26 January 2021 at 19:57
 
 ### Additional Information
 

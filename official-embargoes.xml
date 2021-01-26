@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2021-01-25T20:43:23.1633257+01:00">
+<report name="official-embargoes" generated="2021-01-26T20:46:43.413216+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -33,8 +33,8 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2021-01-19T19:26:50Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-01-22T19:04:44Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="oecd.org last export date">2021-01-26T18:57:10Z</cell>
+    <cell name="discoveryservice last export date">2021-01-25T20:06:12Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -73,8 +73,8 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2021-01-25T19:21:34Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-01-25T18:57:59Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="oecd.org last export date">2021-01-26T18:57:10Z</cell>
+    <cell name="discoveryservice last export date">2021-01-25T20:06:12Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -101,46 +101,6 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dbe65465</cell>
   </row>
   <row index="5">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/1fe2940d-en</cell>
-    <cell name="title">OECD Economic Surveys: Bulgaria 2021 (en)</cell>
-    <cell name="subtitle">Economic Assessment (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2021-01-27</cell>
-    <cell name="embargo date">2021-01-27T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-01-25T19:21:34Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-01-25T18:57:59Z</cell>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c2f02877</cell>
-  </row>
-  <row index="6">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/1fe2940d-en</cell>
-    <cell name="title">OECD Economic Surveys: Bulgaria 2021 (en)</cell>
-    <cell name="subtitle">Economic Assessment (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2021-01-27</cell>
-    <cell name="embargo date">2021-01-27T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/36b8d2ee</cell>
-  </row>
-  <row index="7">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3f06ea4d-fr</cell>
     <cell name="title">Tendances des impôts sur la consommation 2020 (fr)</cell>
@@ -159,6 +119,46 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fcf3184e</cell>
+  </row>
+  <row index="6">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/1fe2940d-en</cell>
+    <cell name="title">OECD Economic Surveys: Bulgaria 2021 (en)</cell>
+    <cell name="subtitle">Economic Assessment (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2021-01-29</cell>
+    <cell name="embargo date">2021-01-29T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-01-26T19:26:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2021-01-26T18:57:10Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c2f02877</cell>
+  </row>
+  <row index="7">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/1fe2940d-en</cell>
+    <cell name="title">OECD Economic Surveys: Bulgaria 2021 (en)</cell>
+    <cell name="subtitle">Economic Assessment (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2021-01-29</cell>
+    <cell name="embargo date">2021-01-29T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/36b8d2ee</cell>
   </row>
   <row index="8">
     <cell name="directorate">Directorate for Public Governance</cell>
@@ -1311,9 +1311,9 @@
     <cell name="date of publication">2021-02-03</cell>
     <cell name="embargo date">2021-02-03T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-01-25T19:21:34Z</cell>
+    <cell name="ilibrary last export date">2021-01-26T19:26:14Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-01-25T18:57:59Z</cell>
+    <cell name="oecd.org last export date">2021-01-26T18:57:10Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -2429,11 +2429,11 @@
     <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2021-02-08</cell>
-    <cell name="embargo date">2021-02-08T09:00:00Z</cell>
+    <cell name="embargo date">2021-02-08T08:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-01-25T19:21:34Z</cell>
+    <cell name="ilibrary last export date">2021-01-26T19:26:14Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-01-25T18:57:59Z</cell>
+    <cell name="oecd.org last export date">2021-01-26T18:57:10Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -2449,7 +2449,7 @@
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2021-02-08</cell>
-    <cell name="embargo date">2021-02-08T09:00:00Z</cell>
+    <cell name="embargo date">2021-02-08T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
@@ -3511,9 +3511,9 @@
     <cell name="date of publication">2021-02-16</cell>
     <cell name="embargo date">2021-02-16T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-01-19T19:26:50Z</cell>
+    <cell name="ilibrary last export date">2021-01-26T19:26:14Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-01-19T19:02:53Z</cell>
+    <cell name="oecd.org last export date">2021-01-26T18:57:10Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -3531,9 +3531,9 @@
     <cell name="date of publication">2021-02-16</cell>
     <cell name="embargo date">2021-02-16T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-01-19T19:26:50Z</cell>
+    <cell name="ilibrary last export date">2021-01-26T19:26:14Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-01-19T19:02:53Z</cell>
+    <cell name="oecd.org last export date">2021-01-26T18:57:10Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -3671,9 +3671,9 @@
     <cell name="date of publication">2021-02-16</cell>
     <cell name="embargo date">2021-02-16T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-01-19T19:26:50Z</cell>
+    <cell name="ilibrary last export date">2021-01-26T19:26:14Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-01-19T19:02:53Z</cell>
+    <cell name="oecd.org last export date">2021-01-26T18:57:10Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -3771,9 +3771,9 @@
     <cell name="date of publication">2021-02-16</cell>
     <cell name="embargo date">2021-02-16T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-01-21T20:06:57Z</cell>
+    <cell name="ilibrary last export date">2021-01-26T19:26:14Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-01-21T19:07:29Z</cell>
+    <cell name="oecd.org last export date">2021-01-26T18:57:10Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -3791,9 +3791,9 @@
     <cell name="date of publication">2021-02-16</cell>
     <cell name="embargo date">2021-02-16T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-01-19T19:26:50Z</cell>
+    <cell name="ilibrary last export date">2021-01-26T19:26:14Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-01-19T19:02:53Z</cell>
+    <cell name="oecd.org last export date">2021-01-26T18:57:10Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
