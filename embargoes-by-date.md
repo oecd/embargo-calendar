@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 26 January 2021 at 20:46* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 27 January 2021 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [25 January 2021](#25-january-2021)
 * [27 January 2021](#27-january-2021)
 * [29 January 2021](#29-january-2021)
 * [1 February 2021](#1-february-2021)
@@ -15,56 +14,6 @@ Data generated on | |
 * [8 February 2021](#8-february-2021)
 * [10 February 2021](#10-february-2021)
 * [16 February 2021](#16-february-2021)
-
-------
-
-# 25 January 2021
-
-## [What happened to jobs at high risk of automation?](https://doi.org/10.1787/10bc97f4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 25 January 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 19 January 2021 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 January 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [The impact of Artificial Intelligence on the labour market - What do we know so far?](https://doi.org/10.1787/7c895724-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 25 January 2021 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 25 January 2021 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 January 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -133,9 +82,9 @@ Monday 1 February 2021 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 January 2021 at 20:22
+- [x] Exported to iLibrary Wednesday 27 January 2021 at 20:21
 - [x] Exported to Keepeek Monday 4 January 2021 at 20:11
-- [x] Exported to OECD.org Monday 4 January 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 27 January 2021 at 19:58
 
 ### Additional Information
 
@@ -156,15 +105,15 @@ Monday 1 February 2021 at 14:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 27 January 2021 at 20:21
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 27 January 2021 at 19:58
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -205,14 +154,14 @@ Tuesday 2 February 2021 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 3 February 2021 at 7:00 | no launch event
+Wednesday 3 February 2021 at 10:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 26 January 2021 at 20:26
+- [x] Exported to iLibrary Wednesday 27 January 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 January 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 27 January 2021 at 19:58
 
 ### Additional Information
 
@@ -247,7 +196,7 @@ Thursday 4 February 2021 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Issue*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -259,18 +208,18 @@ Thursday 4 February 2021 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 21 January 2021 at 21:06
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 January 2021 at 20:07
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 January 2021 at 20:21
+- [x] Exported to Keepeek Wednesday 27 January 2021 at 20:11
+- [x] Exported to OECD.org Wednesday 27 January 2021 at 19:58
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
