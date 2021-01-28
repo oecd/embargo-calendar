@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 27 January 2021 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 28 January 2021 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [27 January 2021](#27-january-2021)
 * [29 January 2021](#29-january-2021)
@@ -30,7 +30,7 @@ Wednesday 27 January 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 22 January 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 January 2021 at 19:57
+- [x] Exported to OECD.org Thursday 28 January 2021 at 20:00
 
 ### Additional Information
 
@@ -54,16 +54,16 @@ Friday 29 January 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 26 January 2021 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 January 2021 at 19:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 28 January 2021 at 20:19
+- [x] Exported to Keepeek Thursday 28 January 2021 at 20:13
+- [x] Exported to OECD.org Thursday 28 January 2021 at 20:00
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -133,7 +133,7 @@ Tuesday 2 February 2021 at 10:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 25 January 2021 at 20:21
-- [x] Exported to Keepeek Monday 25 January 2021 at 20:11
+- [x] Exported to Keepeek Thursday 28 January 2021 at 20:13
 - [x] Exported to OECD.org Friday 22 January 2021 at 20:04
 
 ### Additional Information
