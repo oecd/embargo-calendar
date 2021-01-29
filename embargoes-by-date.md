@@ -2,45 +2,15 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 28 January 2021 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 29 January 2021 at 20:43* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [27 January 2021](#27-january-2021)
 * [29 January 2021](#29-january-2021)
-* [1 February 2021](#1-february-2021)
 * [2 February 2021](#2-february-2021)
 * [3 February 2021](#3-february-2021)
 * [4 February 2021](#4-february-2021)
-* [5 February 2021](#5-february-2021)
 * [8 February 2021](#8-february-2021)
 * [10 February 2021](#10-february-2021)
 * [16 February 2021](#16-february-2021)
-
-------
-
-# 27 January 2021
-
-## [Boosting SMEs’ internationalisation in Poland](https://doi.org/10.1787/2e3b6edd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 January 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 January 2021 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 28 January 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -66,56 +36,6 @@ Friday 29 January 2021 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 1 February 2021
-
-## [Public Procurement in the State of Mexico - Enhancing Efficiency and Competition](https://doi.org/10.1787/cc1da607-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 1 February 2021 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 January 2021 at 20:21
-- [x] Exported to Keepeek Monday 4 January 2021 at 20:11
-- [x] Exported to OECD.org Wednesday 27 January 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Contratación Pública en el Estado de México - Mejorando la Eficiencia y la Competencia](https://doi.org/10.1787/fb81b622-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 1 February 2021 at 14:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 27 January 2021 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 27 January 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
 
 ------
 
@@ -158,18 +78,18 @@ Wednesday 3 February 2021 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 27 January 2021 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 27 January 2021 at 19:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 29 January 2021 at 20:20
+- [x] Exported to Keepeek Friday 29 January 2021 at 20:10
+- [x] Exported to OECD.org Friday 29 January 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -225,33 +145,6 @@ Thursday 4 February 2021 at 13:00 | no launch event
 
 ------
 
-# 5 February 2021
-
-## [Tendances des impôts sur la consommation 2020 - TVA/TPS et droits d'accises – taux, tendances et questions stratégiques](https://doi.org/10.1787/3f06ea4d-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 5 February 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 20 January 2021 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 January 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
 # 8 February 2021
 
 ## [Perspectives on Decentralisation and Rural-Urban Linkages in Korea](https://doi.org/10.1787/a3c685a7-en)
@@ -296,7 +189,7 @@ Monday 8 February 2021 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
