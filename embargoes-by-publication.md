@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 1 February 2021 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 2 February 2021 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Positive, High-achieving Students? - What Schools and Teachers Can Do](https://doi.org/10.1787/3b9551db-en)
 
@@ -14,7 +14,7 @@ Tuesday 2 February 2021 at 10:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 25 January 2021 at 20:21
-- [x] Exported to Keepeek Thursday 28 January 2021 at 20:13
+- [x] Exported to Keepeek Tuesday 2 February 2021 at 20:11
 - [x] Exported to OECD.org Monday 1 February 2021 at 19:57
 
 ### Additional Information
@@ -38,7 +38,7 @@ Wednesday 3 February 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 29 January 2021 at 20:20
 - [x] Exported to Keepeek Friday 29 January 2021 at 20:10
-- [x] Exported to OECD.org Friday 29 January 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 2 February 2021 at 19:58
 
 ### Additional Information
 
@@ -54,22 +54,22 @@ Wednesday 3 February 2021 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 4 February 2021 at 8:00 | no launch event
+Thursday 4 February 2021 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 20 January 2021 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 January 2021 at 20:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 2 February 2021 at 20:21
+- [x] Exported to Keepeek Tuesday 2 February 2021 at 20:11
+- [x] Exported to OECD.org Tuesday 2 February 2021 at 19:58
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -93,6 +93,29 @@ Thursday 4 February 2021 at 13:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Central Bank Digital Currencies and payments: A review of domestic and international implications](https://doi.org/10.1787/f06c0d89-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 5 February 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 2 February 2021 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 2 February 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -406,7 +429,7 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Tuesday 26 January 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 January 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 2 February 2021 at 19:58
 
 ### Additional Information
 
