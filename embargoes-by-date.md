@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 2 February 2021 at 20:43* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 3 February 2021 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [2 February 2021](#2-february-2021)
 * [3 February 2021](#3-february-2021)
@@ -27,7 +27,7 @@ Tuesday 2 February 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 25 January 2021 at 20:21
 - [x] Exported to Keepeek Tuesday 2 February 2021 at 20:11
-- [x] Exported to OECD.org Monday 1 February 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 3 February 2021 at 19:57
 
 ### Additional Information
 
@@ -81,7 +81,7 @@ Thursday 4 February 2021 at 7:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 2 February 2021 at 20:21
 - [x] Exported to Keepeek Tuesday 2 February 2021 at 20:11
-- [x] Exported to OECD.org Tuesday 2 February 2021 at 19:58
+- [x] Exported to OECD.org Wednesday 3 February 2021 at 19:57
 
 ### Additional Information
 
@@ -104,7 +104,7 @@ Thursday 4 February 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 January 2021 at 20:21
 - [x] Exported to Keepeek Wednesday 27 January 2021 at 20:11
-- [x] Exported to OECD.org Wednesday 27 January 2021 at 19:58
+- [x] Exported to OECD.org Wednesday 3 February 2021 at 19:57
 
 ### Additional Information
 
@@ -131,7 +131,7 @@ Friday 5 February 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 2 February 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 2 February 2021 at 19:58
+- [x] Exported to OECD.org Wednesday 3 February 2021 at 19:57
 
 ### Additional Information
 
