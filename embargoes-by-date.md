@@ -2,42 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 3 February 2021 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 4 February 2021 at 20:37* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [2 February 2021](#2-february-2021)
 * [3 February 2021](#3-february-2021)
 * [4 February 2021](#4-february-2021)
 * [5 February 2021](#5-february-2021)
 * [8 February 2021](#8-february-2021)
 * [10 February 2021](#10-february-2021)
 * [16 February 2021](#16-february-2021)
-
-------
-
-# 2 February 2021
-
-## [Positive, High-achieving Students? - What Schools and Teachers Can Do](https://doi.org/10.1787/3b9551db-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 2 February 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 25 January 2021 at 20:21
-- [x] Exported to Keepeek Tuesday 2 February 2021 at 20:11
-- [x] Exported to OECD.org Wednesday 3 February 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -54,7 +26,7 @@ Wednesday 3 February 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 29 January 2021 at 20:20
 - [x] Exported to Keepeek Friday 29 January 2021 at 20:10
-- [x] Exported to OECD.org Tuesday 2 February 2021 at 19:58
+- [x] Exported to OECD.org Thursday 4 February 2021 at 19:56
 
 ### Additional Information
 
