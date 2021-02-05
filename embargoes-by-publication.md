@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 4 February 2021 at 20:37* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The Digital Transformation of SMEs](https://doi.org/10.1787/bdb9256a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 February 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 January 2021 at 20:20
-- [x] Exported to Keepeek Friday 29 January 2021 at 20:10
-- [x] Exported to OECD.org Thursday 4 February 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Friday 5 February 2021 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Economic Outlook for Southeast Asia, China and India 2021 - Reallocating Resources for Digitalisation](https://doi.org/10.1787/711629f8-en)
 
@@ -38,7 +15,7 @@ Thursday 4 February 2021 at 7:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 2 February 2021 at 20:21
 - [x] Exported to Keepeek Tuesday 2 February 2021 at 20:11
-- [x] Exported to OECD.org Wednesday 3 February 2021 at 19:57
+- [x] Exported to OECD.org Friday 5 February 2021 at 19:56
 
 ### Additional Information
 
@@ -61,7 +38,7 @@ Thursday 4 February 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 January 2021 at 20:21
 - [x] Exported to Keepeek Wednesday 27 January 2021 at 20:11
-- [x] Exported to OECD.org Wednesday 3 February 2021 at 19:57
+- [x] Exported to OECD.org Friday 5 February 2021 at 19:56
 
 ### Additional Information
 
@@ -96,29 +73,6 @@ Friday 5 February 2021 at 6:00 | no launch event
 
 ------
 
-## [Perspectives on Decentralisation and Rural-Urban Linkages in Korea](https://doi.org/10.1787/a3c685a7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 8 February 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 18 January 2021 at 20:31
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 January 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
 ## [Inclusive Growth Review of Korea - Creating Opportunities for All](https://doi.org/10.1787/4f713390-en)
 
 Embargo date | Launch date
@@ -130,7 +84,7 @@ Monday 8 February 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 1 February 2021 at 20:20
 - [x] Exported to Keepeek Monday 1 February 2021 at 20:10
-- [x] Exported to OECD.org Monday 1 February 2021 at 19:57
+- [x] Exported to OECD.org Friday 5 February 2021 at 19:56
 
 ### Additional Information
 
@@ -139,6 +93,75 @@ Monday 8 February 2021 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Understanding the digital security of products - An in-depth analysis](https://doi.org/10.1787/abea0b69-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 February 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 5 February 2021 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 5 February 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Enhancing the digital security of products - A policy discussion](https://doi.org/10.1787/cd9f9ebc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 February 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 5 February 2021 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 5 February 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [What can schools and teachers do to boost students academically?](https://doi.org/10.1787/6a8a364d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 February 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 5 February 2021 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 5 February 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -185,6 +208,29 @@ Wednesday 10 February 2021 at 10:30 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Encouraging vulnerability treatment - Overview for policy makers](https://doi.org/10.1787/0e2615ba-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 February 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 5 February 2021 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 5 February 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -484,5 +530,28 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Perspectives on Decentralisation and Rural-Urban Linkages in Korea](https://doi.org/10.1787/a3c685a7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 4 March 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 5 February 2021 at 20:20
+- [x] Exported to Keepeek Friday 5 February 2021 at 20:09
+- [x] Exported to OECD.org Friday 5 February 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
