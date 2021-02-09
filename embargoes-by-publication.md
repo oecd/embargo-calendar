@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 8 February 2021 at 20:37* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 9 February 2021 at 20:40* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Inclusive Growth Review of Korea - Creating Opportunities for All](https://doi.org/10.1787/4f713390-en)
 
@@ -15,7 +15,7 @@ Monday 8 February 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 1 February 2021 at 20:20
 - [x] Exported to Keepeek Monday 1 February 2021 at 20:10
-- [x] Exported to OECD.org Friday 5 February 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 9 February 2021 at 19:58
 
 ### Additional Information
 
@@ -73,6 +73,29 @@ Tuesday 9 February 2021 at 6:00 | no launch event
 
 ------
 
+## [Strengthening the frontline: How primary health care helps health systems adapt during the COVID 19 pandemic](https://doi.org/10.1787/9a5ae6da-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 February 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 9 February 2021 at 20:20
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy response*
+* Formats: *HTML, PDF*
+
+------
+
 ## [What can schools and teachers do to boost students academically?](https://doi.org/10.1787/6a8a364d-en)
 
 Embargo date | Launch date
@@ -84,7 +107,7 @@ Wednesday 10 February 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 February 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 February 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 9 February 2021 at 19:58
 
 ### Additional Information
 
@@ -107,7 +130,7 @@ Wednesday 10 February 2021 at 10:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 January 2021 at 20:20
 - [x] Exported to Keepeek Wednesday 13 January 2021 at 20:08
-- [x] Exported to OECD.org Wednesday 13 January 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 9 February 2021 at 19:58
 
 ### Additional Information
 
@@ -130,7 +153,7 @@ Wednesday 10 February 2021 at 10:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 January 2021 at 20:20
 - [x] Exported to Keepeek Wednesday 13 January 2021 at 20:08
-- [x] Exported to OECD.org Wednesday 13 January 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 9 February 2021 at 19:58
 
 ### Additional Information
 
@@ -153,7 +176,7 @@ Thursday 11 February 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 February 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 February 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 9 February 2021 at 19:58
 
 ### Additional Information
 
@@ -461,6 +484,29 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Policies for the Future of Farming and Food in Norway](https://doi.org/10.1787/20b14991-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 March 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
