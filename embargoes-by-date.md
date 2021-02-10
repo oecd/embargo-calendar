@@ -2,42 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 9 February 2021 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 10 February 2021 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [8 February 2021](#8-february-2021)
 * [9 February 2021](#9-february-2021)
 * [10 February 2021](#10-february-2021)
 * [11 February 2021](#11-february-2021)
 * [16 February 2021](#16-february-2021)
 * [2 March 2021](#2-march-2021)
 * [4 March 2021](#4-march-2021)
-
-------
-
-# 8 February 2021
-
-## [Inclusive Growth Review of Korea - Creating Opportunities for All](https://doi.org/10.1787/4f713390-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 8 February 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 1 February 2021 at 20:20
-- [x] Exported to Keepeek Monday 1 February 2021 at 20:10
-- [x] Exported to OECD.org Tuesday 9 February 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -54,7 +26,7 @@ Tuesday 9 February 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 February 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 February 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 10 February 2021 at 19:57
 
 ### Additional Information
 
@@ -77,7 +49,7 @@ Tuesday 9 February 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 February 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 February 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 10 February 2021 at 19:57
 
 ### Additional Information
 
@@ -149,7 +121,7 @@ Wednesday 10 February 2021 at 10:30 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 January 2021 at 20:20
-- [x] Exported to Keepeek Wednesday 13 January 2021 at 20:08
+- [x] Exported to Keepeek Wednesday 10 February 2021 at 20:08
 - [x] Exported to OECD.org Tuesday 9 February 2021 at 19:58
 
 ### Additional Information
@@ -172,7 +144,7 @@ Wednesday 10 February 2021 at 10:30 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 January 2021 at 20:20
-- [x] Exported to Keepeek Wednesday 13 January 2021 at 20:08
+- [x] Exported to Keepeek Wednesday 10 February 2021 at 20:08
 - [x] Exported to OECD.org Tuesday 9 February 2021 at 19:58
 
 ### Additional Information
@@ -208,6 +180,29 @@ Thursday 11 February 2021 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Teaching and learning in VET: Providing effective practical training in school-based settings](https://doi.org/10.1787/64f5f843-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 February 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy response*
 * Format: *PDF*
 
 ------
