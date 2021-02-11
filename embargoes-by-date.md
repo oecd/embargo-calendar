@@ -2,64 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 10 February 2021 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 11 February 2021 at 20:41* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [9 February 2021](#9-february-2021)
 * [10 February 2021](#10-february-2021)
 * [11 February 2021](#11-february-2021)
 * [16 February 2021](#16-february-2021)
 * [2 March 2021](#2-march-2021)
 * [4 March 2021](#4-march-2021)
-
-------
-
-# 9 February 2021
-
-## [Understanding the digital security of products - An in-depth analysis](https://doi.org/10.1787/abea0b69-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 February 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 5 February 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 February 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Enhancing the digital security of products - A policy discussion](https://doi.org/10.1787/cd9f9ebc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 February 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 5 February 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 February 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+* [8 April 2021](#8-april-2021)
 
 ------
 
@@ -99,7 +49,7 @@ Wednesday 10 February 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 February 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 February 2021 at 19:58
+- [x] Exported to OECD.org Thursday 11 February 2021 at 19:57
 
 ### Additional Information
 
@@ -122,7 +72,7 @@ Wednesday 10 February 2021 at 10:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 January 2021 at 20:20
 - [x] Exported to Keepeek Wednesday 10 February 2021 at 20:08
-- [x] Exported to OECD.org Tuesday 9 February 2021 at 19:58
+- [x] Exported to OECD.org Thursday 11 February 2021 at 19:57
 
 ### Additional Information
 
@@ -145,7 +95,7 @@ Wednesday 10 February 2021 at 10:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 January 2021 at 20:20
 - [x] Exported to Keepeek Wednesday 10 February 2021 at 20:08
-- [x] Exported to OECD.org Tuesday 9 February 2021 at 19:58
+- [x] Exported to OECD.org Thursday 11 February 2021 at 19:57
 
 ### Additional Information
 
@@ -192,8 +142,8 @@ Thursday 11 February 2021 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 11 February 2021 at 20:19
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -201,7 +151,7 @@ Thursday 11 February 2021 at 8:00 | no launch event
 
 * Directorate: *Centre for Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Policy response*
 * Format: *PDF*
 
@@ -584,5 +534,32 @@ Thursday 4 March 2021 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 8 April 2021
+
+## [OECD Companion to the Inventory of Support Measures for Fossil Fuels 2021](https://doi.org/10.1787/e670c620-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 April 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
