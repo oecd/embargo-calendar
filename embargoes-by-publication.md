@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 11 February 2021 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Strengthening the frontline: How primary health care helps health systems adapt during the COVID 19 pandemic](https://doi.org/10.1787/9a5ae6da-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 10 February 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 February 2021 at 20:20
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy response*
-* Formats: *HTML, PDF*
-
-------
-
-## [What can schools and teachers do to boost students academically?](https://doi.org/10.1787/6a8a364d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 10 February 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 5 February 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 11 February 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Digitalizācija Latvijā](https://doi.org/10.1787/a58d1c1a-lv)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 10 February 2021 at 10:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 January 2021 at 20:20
-- [x] Exported to Keepeek Wednesday 10 February 2021 at 20:08
-- [x] Exported to OECD.org Thursday 11 February 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *Latvian*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Going Digital in Latvia](https://doi.org/10.1787/8eec1828-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 10 February 2021 at 10:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 January 2021 at 20:20
-- [x] Exported to Keepeek Wednesday 10 February 2021 at 20:08
-- [x] Exported to OECD.org Thursday 11 February 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Friday 12 February 2021 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Encouraging vulnerability treatment - Overview for policy makers](https://doi.org/10.1787/0e2615ba-en)
 
@@ -107,7 +15,7 @@ Thursday 11 February 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 February 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 February 2021 at 19:58
+- [x] Exported to OECD.org Friday 12 February 2021 at 19:59
 
 ### Additional Information
 
