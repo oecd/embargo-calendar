@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 15 February 2021 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 16 February 2021 at 22:06* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Making Dispute Resolution More Effective – MAP Peer Review Report, Thailand (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/b20477e3-en)
 
@@ -307,14 +307,14 @@ Tuesday 16 February 2021 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 22 February 2021 at 8:00 | no launch event
+Monday 22 February 2021 at 10:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 15 February 2021 at 20:25
+- [x] Exported to iLibrary Tuesday 16 February 2021 at 21:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 February 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 16 February 2021 at 20:20
 
 ### Additional Information
 
@@ -335,15 +335,15 @@ Tuesday 2 March 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 16 February 2021 at 21:25
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 16 February 2021 at 20:20
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -392,6 +392,29 @@ Thursday 4 March 2021 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [OECD Environmental Performance Reviews: Ireland 2021](https://doi.org/10.1787/9ef10b4f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 March 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 

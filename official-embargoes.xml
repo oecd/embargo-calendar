@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2021-02-15T20:47:26.136532+01:00">
+<report name="official-embargoes" generated="2021-02-16T22:06:06.7329817+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -309,11 +309,11 @@
     <cell name="medium">PDF</cell>
     <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2021-02-22</cell>
-    <cell name="embargo date">2021-02-22T08:00:00Z</cell>
+    <cell name="embargo date">2021-02-22T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-02-15T19:25:02Z</cell>
+    <cell name="ilibrary last export date">2021-02-16T20:25:39Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-02-15T19:00:34Z</cell>
+    <cell name="oecd.org last export date">2021-02-16T19:20:42Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -327,13 +327,13 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2021-03-02</cell>
     <cell name="embargo date">2021-03-02T08:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2021-02-16T20:25:39Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2021-02-16T19:20:42Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -348,7 +348,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2021-03-02</cell>
     <cell name="embargo date">2021-03-02T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1442,6 +1442,46 @@
   </row>
   <row index="72">
     <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9ef10b4f-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: Ireland 2021 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2021-03-25T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3f6806dc</cell>
+  </row>
+  <row index="73">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9ef10b4f-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: Ireland 2021 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2021-03-25T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9dffe25c</cell>
+  </row>
+  <row index="74">
+    <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/738553c5-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Belgium 2021 (en)</cell>
     <cell name="subtitle"/>
@@ -1460,7 +1500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5776b43d</cell>
   </row>
-  <row index="73">
+  <row index="75">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/738553c5-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Belgium 2021 (en)</cell>
@@ -1480,7 +1520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0f79a189</cell>
   </row>
-  <row index="74">
+  <row index="76">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/e670c620-en</cell>
     <cell name="title">OECD Companion to the Inventory of Support Measures for Fossil Fuels 2021 (en)</cell>
@@ -1500,7 +1540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/72b01cd7</cell>
   </row>
-  <row index="75">
+  <row index="77">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/e670c620-en</cell>
     <cell name="title">OECD Companion to the Inventory of Support Measures for Fossil Fuels 2021 (en)</cell>
