@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 18 February 2021 at 20:51* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 19 February 2021 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [18 February 2021](#18-february-2021)
 * [22 February 2021](#22-february-2021)
@@ -44,6 +44,29 @@ Thursday 18 February 2021 at 8:30 | no launch event
 
 # 22 February 2021
 
+## [The firm-level link between productivity dispersion and wage inequality: A symptom of low job mobility?](https://doi.org/10.1787/4c6131e3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 February 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 19 February 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 19 February 2021 at 19:59
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Misuse of Containerized Maritime Shipping in the Global Trade of Counterfeits](https://doi.org/10.1787/e39d8939-en)
 
 Embargo date | Launch date
@@ -55,7 +78,7 @@ Monday 22 February 2021 at 8:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 17 February 2021 at 20:51
 - [x] Exported to Keepeek Thursday 18 February 2021 at 20:20
-- [x] Exported to OECD.org Thursday 18 February 2021 at 20:05
+- [x] Exported to OECD.org Friday 19 February 2021 at 19:59
 
 ### Additional Information
 
@@ -102,18 +125,18 @@ Tuesday 2 March 2021 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 18 February 2021 at 20:30
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 18 February 2021 at 20:05
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 19 February 2021 at 20:24
+- [x] Exported to Keepeek Friday 19 February 2021 at 20:13
+- [x] Exported to OECD.org Friday 19 February 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -322,15 +345,15 @@ Tuesday 30 March 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 19 February 2021 at 20:24
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 19 February 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
