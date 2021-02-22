@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 19 February 2021 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Business dynamism during the COVID-19 pandemic: Which policies for an inclusive recovery?](https://doi.org/10.1787/f08af011-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 February 2021 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 February 2021 at 20:51
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy response*
-* Formats: *HTML, PDF*
-
-------
+| *Monday 22 February 2021 at 20:40* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The firm-level link between productivity dispersion and wage inequality: A symptom of low job mobility?](https://doi.org/10.1787/4c6131e3-en)
 
@@ -81,16 +58,16 @@ Tuesday 2 March 2021 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 18 February 2021 at 20:30
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 18 February 2021 at 20:05
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 22 February 2021 at 20:20
+- [x] Exported to Keepeek Monday 22 February 2021 at 20:15
+- [x] Exported to OECD.org Monday 22 February 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -162,6 +139,52 @@ Thursday 4 March 2021 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Man Enough? Measuring Masculine Norms to Promote Women’s Empowerment](https://doi.org/10.1787/6ffd1936-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 12 March 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Counterfeiting, Piracy and the Swiss Economy](https://doi.org/10.1787/1f010fc9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 March 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -392,6 +415,29 @@ Wednesday 31 March 2021 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Prevention of Tax Treaty Abuse – Third Peer Review Report on Treaty Shopping  - Inclusive Framework on BEPS: Action 6](https://doi.org/10.1787/d6cecbb8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 1 April 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
